@@ -1,0 +1,21 @@
+DH-TRACE: STATISTICAL RESULTS FOR CONFERENCE PAPER
+============================================================
+
+FOR ABSTRACT:
+----------------------------------------
+Hapax legomena contribution: 79.2%
+SVM features contribution: 10.8%
+Sequence alignment contribution: 10.1%
+ROC AUC: 0.78
+N observations: 5,956,426
+
+COEFFICIENTS (all p < 0.001):
+----------------------------------------
+hap_jac_dis: β = -1.2324 (SE = 0.0029, p < 0.001, 95% CI [-1.2382, -1.2267])
+al_jac_dis: β = -0.1567 (SE = 0.0013, p < 0.001, 95% CI [-0.1593, -0.1541])
+svm_score: β = 0.1676 (SE = 0.0024, p < 0.001, 95% CI [0.1630, 0.1722])
+
+MODEL FIT:
+----------------------------------------
+Pseudo R² (McFadden): 0.1505
+Likelihood Ratio χ²(3) = 232,915.56, p < 0.001
