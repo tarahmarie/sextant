@@ -1,0 +1,30 @@
+DH-Trace Export Summary
+==================================================
+
+Project: eltec-100
+Export date: 2025-12-13 20:52:44
+
+Database Statistics:
+------------------------------
+Total texts: 3,452
+Total authors: 76
+Total pairs: 5,956,426
+Same-author pairs: 170,473
+Cross-author pairs: 5,785,953
+Pairs with alignments (>0): 5,956,426
+
+Logistic Regression Weights Used:
+------------------------------
+Hapax:     79.2%
+SVM:       10.8%
+Alignment: 10.1%
+
+Exported Files:
+------------------------------
+high_alignment_pairs.csv - Cross-author pairs with highest alignment
+high_hapax_pairs.csv - Cross-author pairs with highest hapax
+double_signal_pairs.csv - Pairs strong on hapax AND alignment
+triple_signal_pairs.csv - Pairs strong on ALL THREE variables
+top_influence_candidates.csv - Top pairs by weighted influence score
+eliot_lawrence_pairs.csv - Anchor case context
+author_pair_summary.csv - Summary by author pair

@@ -43,7 +43,7 @@ import numpy as np
 import pandas as pd
 from scipy import stats
 import statsmodels.api as sm
-from sklearn.metrics import roc_auc_score
+from sklearn.metrics import roc_auc_score, confusion_matrix
 
 from util import get_project_name
 
@@ -499,13 +499,13 @@ def run_logistic_regression(df):
     
     X = df[predictors].copy()
     y = df['same_author'].copy()
-    X = sm.add_constant(X)
+    X_with_const = sm.add_constant(X)
     
     print(f"\nFitting model on {len(y):,} observations")
     print(f"Same author pairs: {y.sum():,} ({y.mean()*100:.2f}%)")
     print(f"Different author pairs: {len(y) - y.sum():,} ({(1-y.mean())*100:.2f}%)")
     
-    model = sm.Logit(y, X)
+    model = sm.Logit(y, X_with_const)
     result = model.fit(disp=0)
     
     print("\n" + "-" * 50)
@@ -528,10 +528,39 @@ def run_logistic_regression(df):
     print(f"AIC: {result.aic:.2f}")
     print(f"BIC: {result.bic:.2f}")
     
-    # Calculate AUC
-    y_pred_prob = result.predict(X)
+    # Calculate predicted probabilities
+    y_pred_prob = result.predict(X_with_const)
+    
+    # ROC AUC
     auc = roc_auc_score(y, y_pred_prob)
     print(f"ROC AUC: {auc:.4f}")
+    
+    # Confusion matrix
+    y_pred = (y_pred_prob >= 0.5).astype(int)
+    cm = confusion_matrix(y, y_pred)
+    tn, fp, fn, tp = cm.ravel()
+    
+    print("\n" + "-" * 50)
+    print("CONFUSION MATRIX (threshold = 0.5)")
+    print("-" * 50)
+    print(f"                        Predicted")
+    print(f"                   Cross-Author    Same-Author")
+    print(f"Actual Cross-Author {tn:>12,}    {fp:>12,}")
+    print(f"Actual Same-Author  {fn:>12,}    {tp:>12,}")
+    print()
+    print(f"True Negatives  (correct cross-author):  {tn:,}")
+    print(f"True Positives  (correct same-author):   {tp:,}")
+    print(f"False Positives (cross called same):     {fp:,}")
+    print(f"False Negatives (same called cross):     {fn:,}")
+    print()
+    accuracy = (tp + tn) / (tp + tn + fp + fn)
+    precision = tp / (tp + fp) if (tp + fp) > 0 else 0
+    recall = tp / (tp + fn) if (tp + fn) > 0 else 0
+    f1 = 2 * (precision * recall) / (precision + recall) if (precision + recall) > 0 else 0
+    print(f"Accuracy:    {accuracy:.4f}")
+    print(f"Precision:   {precision:.4f}")
+    print(f"Recall:      {recall:.4f}")
+    print(f"F1 Score:    {f1:.4f}")
     
     return result, predictors
 
