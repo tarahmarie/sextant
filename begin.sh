@@ -22,7 +22,7 @@ set_up_database() {
 
 main_menu() {
     tput clear;
-    printf "\n\tdh-trace\n\n"
+    printf "\n\tsextant\n\n"
     printf "Choose an option\n\n"
 
     COLUMNS=20

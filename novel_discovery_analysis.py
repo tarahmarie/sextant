@@ -14,7 +14,7 @@ Analyzes TWO pairings:
 1. Eliot (Middlemarch) → Lawrence (Women in Love) - POSITIVE influence
 2. Thackeray (Vanity Fair) → Disraeli (Endymion) - RIVALRY/contrast case
 
-Run from your dh-trace root directory:
+Run from your sextant root directory:
     python anchor_case_analysis.py
 
 Outputs:

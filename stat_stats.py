@@ -4,7 +4,7 @@ generate_paper_statistics.py
 Regenerates all statistical results for the DH-Trace conference paper.
 Outputs exact values needed for the abstract and methods section.
 
-Run this script from your dh-trace project directory:
+Run this script from your sextant project directory:
     python generate_paper_statistics.py
 
 Requirements:
@@ -30,7 +30,7 @@ import os
 import sys
 
 # Add your project to path if needed
-# sys.path.insert(0, '/path/to/dh-trace')
+# sys.path.insert(0, '/path/to/sextant')
 try:
     from util import get_project_name
 except ImportError:
