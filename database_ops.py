@@ -7,9 +7,7 @@
 import ast
 import sqlite3
 
-import pandas as pd
-
-from util import fix_the_author_name_from_aligns, get_project_name
+from util import get_project_name
 
 #Create the disk database (for backups) and a cursor to handle transactions.
 project_name = get_project_name()
@@ -60,27 +58,6 @@ def create_db_and_tables():
     disk_cur.execute("CREATE INDEX IF NOT EXISTS all_text_source ON all_texts(author_id, source_filename)")
     disk_cur.execute("CREATE INDEX IF NOT EXISTS at_lens ON all_texts(text_id, length);")
 
-#Empty the Database (for updating all the things)
-def reset_the_db():
-    disk_cur.execute("DROP TABLE IF EXISTS alignments")
-    disk_cur.execute("DROP TABLE IF EXISTS dirs")
-    disk_cur.execute("DROP TABLE IF EXISTS all_texts")
-    disk_cur.execute("DROP TABLE IF EXISTS authors")
-    disk_cur.execute("DROP TABLE IF EXISTS text_pairs")
-    disk_cur.execute("DROP TABLE IF EXISTS hapaxes")
-    disk_cur.execute("DROP TABLE IF EXISTS hapax_overlaps")
-    disk_cur.execute("DROP TABLE IF EXISTS last_run")
-    disk_cur.execute("DROP TABLE IF EXISTS results")
-    disk_cur.execute("DROP TABLE IF EXISTS stats_all")
-    disk_cur.execute("DROP TABLE IF EXISTS stats_alignments")
-    disk_cur.execute("DROP TABLE IF EXISTS stats_hapaxes")
-    disk_cur.execute("DROP INDEX IF EXISTS hap_filepairs")
-    disk_cur.execute("DROP INDEX IF EXISTS hap_sourcefiles")
-    disk_cur.execute("DROP INDEX IF EXISTS all_text_source")
-    disk_cur.execute("DROP INDEX IF EXISTS at_lens;")
-
-    disk_con.commit()
-
 #Helper Function for Shrinking DB (esp. after Jaccard stuff)
 def vacuum_the_db():
     #Some Helper Tables Can Be Removed:
@@ -90,21 +67,6 @@ def vacuum_the_db():
     #Now, some tidying.
     disk_cur.execute("VACUUM;")
     disk_con.commit()
-
-#Backup function to save the in-memory database (currently disused)
-def backup_the_database_to_disk():
-    disk_con.backup(disk_con)
-    disk_con.close() #We're done with the in-memory db, so why not free RAM?
-
-    disk_cur.execute("CREATE TABLE IF NOT EXISTS hapaxes(`source_filename`, `hapaxes`)")
-    disk_cur.execute("CREATE TABLE IF NOT EXISTS hapax_overlaps(`file_pair`, `hapaxes`)")
-    disk_cur.execute("CREATE TABLE IF NOT EXISTS last_run(`number_alignments` INT, `number_files` INT, `total_comparisons` INT, `total_alignments_over_comps` INT, `total_rel_hapaxes` INT, `total_words` INT, `total_aligns_over_comps` REAL, `total_rel_hapaxes_over_comps` REAL, `total_rel_hapaxes_over_words` REAL)")
-    disk_con.commit()
-
-#Export previous run to csv for visualization
-def export_results_to_csv():
-    df = pd.read_sql('SELECT * FROM results', disk_con)
-    df.to_csv(f"./projects/{project_name}/results/results.csv", index = False, header = False)
 
 #Def Insert Data (Table, data...)
 def insert_alignments_to_db(transactions):
@@ -169,16 +131,6 @@ def read_author_from_db(filename):
     the_author = disk_cur.fetchone()
     return the_author[0]
 
-def read_all_author_names_from_db():
-    temp_dict = {}
-    disk_cur.execute("SELECT id, author_name FROM authors")
-    the_authors = disk_cur.fetchall()
-    i = 1
-    for author in the_authors:
-        temp_dict[author['id']] = author[fix_the_author_name_from_aligns('author_name')]
-        i += 1
-    return temp_dict
-
 def read_all_author_names_and_ids_from_db():
     temp_dict = {}
     disk_cur.execute("SELECT DISTINCT author_name, id FROM authors INNER JOIN all_texts ON all_texts.author_id = authors.id")
@@ -193,14 +145,6 @@ def read_author_names_by_id_from_db():
     the_authors = disk_cur.fetchall()
     for author in the_authors:
         temp_dict[author['id']] = author['author_name']
-    return temp_dict
-
-def read_novel_names_by_id_from_db():
-    temp_dict = {}
-    disk_cur.execute("SELECT DISTINCT id, dir FROM dirs")
-    the_novels = disk_cur.fetchall()
-    for novel in the_novels:
-        temp_dict[novel['id']] = novel['dir'].split('-')[1]
     return temp_dict
 
 def make_reusable_dicts():
@@ -225,21 +169,6 @@ def make_reusable_dicts():
                                             short_name_for_svm = result['short_name_for_svm'],
                                             extracted_novel_name = extracted_novel_name)
     return list(temp_dict.values())
-
-def read_all_text_ids_and_chapter_nums_from_db():
-    temp_dict = {}
-    disk_cur.execute("SELECT text_id, chapter_num, source_filename FROM all_texts;")
-    the_results = disk_cur.fetchall()
-    for result in the_results:
-        text_name = result['source_filename']
-        # Deal with things that begin like YYYY-
-        text_name = text_name.split('-chapter')[0]
-        text_name = text_name.split('-')[1]
-        #text_name = text_name.split('-')[0] (this may not be doing anything, because dashes are already removed in the first split)
-        extracted_novel_name = text_name
-
-        temp_dict[result['text_id']] = [result['chapter_num'], extracted_novel_name]
-    return temp_dict
 
 def read_all_alignments_from_db():
     temp_dict = {}
@@ -270,25 +199,6 @@ def read_all_text_names_by_id_from_db():
         temp_dict[text['text_id']] = text['source_filename']
     return temp_dict
 
-def read_all_text_names_and_create_author_work_dict():
-    temp_dict = {}
-    author_and_works_dict = {}
-    disk_cur.execute("SELECT DISTINCT dir, id FROM dirs")
-    the_dirs = disk_cur.fetchall()
-    for dir in the_dirs:
-        temp_dict[dir['id']] = dir['dir']
-    for value in temp_dict.values():
-        if author_and_works_dict.get(value.split('—')[1]):
-            author_and_works_dict[value.split('—')[1]].append(value.split('-')[1])
-        else:
-            author_and_works_dict[value.split('—')[1]] = [value.split('-')[1]]
-    return author_and_works_dict
-
-def read_all_text_lengths_by_id_from_db():
-    disk_cur.execute("SELECT text_id, length FROM all_texts;")
-    the_lengths = disk_cur.fetchall()
-    return {x['text_id']: x['length'] for x in the_lengths}
-
 def read_all_text_pair_names_and_ids_from_db():
     temp_dict = {}
     inverted_dict = {}
@@ -298,11 +208,6 @@ def read_all_text_pair_names_and_ids_from_db():
         inverted_dict[(item['text_a'], item['text_b'])] = item['id']
     return temp_dict, inverted_dict
 
-def read_text_names_with_dirs_from_db():
-    disk_cur.execute("SELECT source_filename, dir FROM all_texts")
-    the_dirs = disk_cur.fetchall()
-    return {x['source_filename']: x['dir'] for x in the_dirs}
-
 def read_all_dir_names_by_id_from_db():
     temp_dict = {}
     disk_cur.execute("SELECT DISTINCT dir, id FROM dirs")
@@ -310,29 +215,6 @@ def read_all_dir_names_by_id_from_db():
     for dir in the_dirs:
         temp_dict[dir['id']] = dir['dir']
     return temp_dict
-
-def read_all_authors_and_their_novels_from_db():
-    temp_dict = {}
-    novel_statement = """
-        SELECT DISTINCT 
-            authors.author_name,
-            authors.id,
-            all_texts.dir,
-            dirs.dir AS novel 
-        FROM all_texts 
-        JOIN dirs ON all_texts.dir = dirs.id
-        JOIN authors ON authors.id = all_texts.author_id;
-    """
-    disk_cur.execute(novel_statement)
-    the_novels = disk_cur.fetchall()
-    for novel in the_novels:
-        temp_dict[novel['novel']] = [novel['author_name'], novel['id']]
-    return temp_dict
-
-def read_hapaxes_from_db(filename):
-    disk_cur.execute("SELECT hapaxes FROM hapaxes WHERE source_filename = ?", [filename])
-    the_hapaxes = disk_cur.fetchone()
-    return ast.literal_eval(the_hapaxes[0])
 
 def read_all_hapaxes_from_db():
     disk_cur.execute("SELECT source_filename, hapaxes FROM hapaxes")
@@ -342,69 +224,18 @@ def read_all_hapaxes_from_db():
         temp_dict[pair ['source_filename']] = ast.literal_eval(pair['hapaxes'])
     return temp_dict
 
-def read_all_hapax_intersects_filepairs_from_db():
-    disk_cur.execute("SELECT file_pair FROM hapax_overlaps")
-    the_intersects = disk_cur.fetchall()
-    temp_dict = {}
-    for thing in the_intersects:
-        #This will make things slower, but it's the only thing that works (so far)
-        temp_dict[thing['file_pair']] = None
-    return temp_dict
-
-def read_hapax_intersect_length_from_db(filename):
-    disk_cur.execute("SELECT intersect_length FROM hapax_overlaps WHERE file_pair = ?", [filename])
-    the_intersect = disk_cur.fetchone()
-    return the_intersect[0]
-
 def read_all_hapax_intersects_lengths_from_db():
     disk_cur.execute("SELECT file_pair, intersect_length FROM hapax_overlaps")
     the_intersects = disk_cur.fetchall()
     temp_dict = {}
     for thing in the_intersects:
-        #This will make things slower, but it's the only thing that works (so far)
         temp_dict[thing['file_pair']] = thing['intersect_length']
     return temp_dict
-
-def read_chapter_length_from_db(filename):
-    disk_cur.execute("SELECT length FROM all_texts WHERE source_filename = ?", [filename])
-    the_length = disk_cur.fetchone()
-    return the_length[0]
-
-def read_all_chapter_length_from_db():
-    disk_cur.execute("SELECT source_filename, length FROM all_texts")
-    the_lengths = disk_cur.fetchall()
-    temp_dict = {}
-    for thing in the_lengths:
-        temp_dict[thing['source_filename']] = thing['length']
-    return temp_dict
-    
-def read_last_run_file_count_from_db():
-    #Ensure last_run exists and has some values to keep program from crashing!
-    disk_cur.execute("CREATE TABLE IF NOT EXISTS last_run(`number_alignments` INT, `number_files` INT, `total_comparisons` INT, `total_alignments_over_comps` INT, `total_rel_hapaxes` INT, `total_words` INT, `total_aligns_over_comps` REAL, `total_rel_hapaxes_over_comps` REAL, `total_rel_hapaxes_over_words` REAL)")
-    disk_cur.execute("INSERT INTO last_run VALUES (0, 0, 0, 0, 0, 0, 0, 0, 0)")
-    disk_con.commit()
-    #Now, find out how many files were there on the last run.
-    disk_cur.execute("SELECT MAX(number_files) FROM last_run")
-    file_count = disk_cur.fetchone()
-    return file_count[0]
 
 def read_averages_from_db():
     disk_cur.execute("SELECT total_comparisons, total_alignments_over_comps, total_rel_hapaxes, total_words, total_aligns_over_comps, total_rel_hapaxes_over_comps, total_rel_hapaxes_over_words FROM last_run")
     the_averages = disk_cur.fetchone()
     return the_averages
-
-#do visualization stuff
-def read_all_combined_jaccard_from_db():
-    disk_cur.execute("SELECT * FROM combined_jaccard;")
-    the_combined_jacc = disk_cur.fetchall()
-    return the_combined_jacc
-
-# Once we get this working, the full four cases of Y/N/YN/NY can be calculated and viewed.
-def get_length_of_multiauthor_prediction_table(author_a, author_b, author_c):
-    #This logic is broken.
-    disk_cur.execute("SELECT COUNT(*) FROM author_prediction WHERE source_auth LIKE ? AND target_auth LIKE ? OR target_auth LIKE ?", [author_a, author_b, author_c])
-    the_length = disk_cur.fetchone()
-    return the_length[0]
 
 #Do Jaccard Stuff
 def create_hapax_jaccard():
