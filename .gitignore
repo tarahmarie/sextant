@@ -45,4 +45,4 @@ notebooks/logs/py4cytoscape.log
 
 # Lock files
 *.lock
-
+.ipynb_checkpoints/

@@ -1,3 +1,4 @@
+
 # This script is basically the row or record generator for the purposes
 # of the rest of the application. Goes through and for each relationship 
 # (the relationships are what we're interested in, not individual texts)
@@ -13,14 +14,10 @@ from database_ops import (insert_averages_to_db,
                           insert_results_to_db, insert_stats_to_db, make_reusable_dicts,
                           read_all_alignments_from_db,
                           read_all_author_names_and_ids_from_db,
-                          read_all_chapter_length_from_db,
                           read_all_dir_names_by_id_from_db,
                           read_all_hapax_intersects_lengths_from_db,
-                          read_all_text_names_and_ids_from_db,
-                          read_all_text_names_by_id_from_db,
                           read_all_text_pair_names_and_ids_from_db,
-                          read_author_from_db, read_author_names_by_id_from_db,
-                          read_text_names_with_dirs_from_db)
+                          read_author_from_db, read_author_names_by_id_from_db)
 from util import (get_dir_lengths_for_processing, get_project_name,
                   getCountOfFiles, getListOfFiles)
 
