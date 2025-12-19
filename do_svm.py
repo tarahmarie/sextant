@@ -2,7 +2,6 @@ import itertools
 import nltk
 import os
 import re
-import sklearn
 import sqlite3
 import unicodedata
 from multiprocessing import Pool, cpu_count

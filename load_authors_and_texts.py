@@ -3,7 +3,6 @@
 # them to a fresh db in the paired format for later calculation.
 
 import itertools
-import xml.etree.ElementTree as ET
 from dataclasses import dataclass, field
 
 from tqdm import tqdm
