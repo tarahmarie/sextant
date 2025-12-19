@@ -2,7 +2,7 @@
 export_for_analysis.py
 
 Export targeted subsets of the DH-Trace database for external analysis.
-Run from the dh-trace root directory.
+Run from the sextant root directory.
 
 Usage:
     python export_for_analysis.py [project_name]
@@ -32,7 +32,7 @@ def get_project_name():
     
     projects_dir = './projects'
     if not os.path.exists(projects_dir):
-        print("Error: No projects directory found. Run from dh-trace root.")
+        print("Error: No projects directory found. Run from sextant root.")
         sys.exit(1)
     
     projects = [d for d in os.listdir(projects_dir) 

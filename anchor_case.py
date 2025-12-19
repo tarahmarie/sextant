@@ -10,7 +10,7 @@ Uses the SAME methodology as logistic_regression.py:
 - Applies grid search optimal weights OR logistic regression coefficients
 - Computes percentiles among cross-author pairs
 
-Run from your dh-trace root directory:
+Run from your sextant root directory:
     python anchor_case_analysis.py
 
 Outputs:
