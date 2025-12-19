@@ -1,5 +1,4 @@
 from rich.console import Console
-from rich.status import Status
 
 from database_ops import (calculate_alignments_jaccard_similarity,
                           calculate_hapax_jaccard_similarity,
