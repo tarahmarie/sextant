@@ -1,0 +1,193 @@
+================================================================================
+SEXTANT ANCHOR CASE: SHOWING THE RECEIPTS
+================================================================================
+
+Source: Eliot, Middlemarch, Chapter 79 (1872)
+Target: Lawrence, Women in Love, Chapter 29 (1920)
+
+--------------------------------------------------------------------------------
+1. BASIC STATISTICS
+--------------------------------------------------------------------------------
+Source word count: 877
+Target word count: 21,323
+Source unique words (excl. stopwords): 236
+Target unique words (excl. stopwords): 3,215
+
+--------------------------------------------------------------------------------
+2. SHARED HAPAX LEGOMENA
+--------------------------------------------------------------------------------
+
+These are words appearing exactly ONCE in each chapter—rare vocabulary
+choices that both authors made, suggesting potential vocabulary absorption.
+
+Hapaxes in source chapter: 199
+Hapaxes in target chapter: 1911
+SHARED HAPAXES: 31
+
+Shared hapax legomena (sorted by length, longer = more distinctive):
+
+  • overwrought
+  • revelation
+  • agitation
+  • accepted
+  • inwardly
+  • occurred
+  • outburst
+  • account
+  • assured
+  • chapter
+  • drawing
+  • earlier
+  • figures
+  • hearing
+  • history
+  • insipid
+  • meaning
+  • present
+  • several
+  • signify
+  • sliding
+  • spoiled
+  • change
+  • hidden
+  • dream
+  • later
+  • money
+  • plain
+  • worse
+  • ill
+  • led
+
+Contexts for most distinctive shared hapaxes:
+
+  'overwrought':
+    [Eliot]: "...nervous shock—the effect of some agitation. She has been overwrought lately. The truth is, Ladislaw, I am an unlucky devil. We..."
+    [Lawrence]: "...now, her face white, her dark eyes blazing with uncanny, overwrought excitement. She saw him stooping to the bag, undoing the..."
+
+  'revelation':
+    [Eliot]: "...better than most men how Ladislaw might be stung by the revelation. "You will be sure to hear it as soon as you turn out..."
+    [Lawrence]: "...to Ursula, unwilling, a slow, grudging, scanty self-revelation. She went and sat by her sister. He looked at her, then..."
+
+  'agitation':
+    [Eliot]: "...Will. "No—only a slight nervous shock—the effect of some agitation. She has been overwrought lately. The truth is, Ladislaw,..."
+    [Lawrence]: "...a railway platform! Voices were still calling in inhuman agitation through the dark-grey air, spectres were running along..."
+
+  'accepted':
+    [Eliot]: "...he was learning that it was Lydgate's misfortune to have accepted it. Lydgate too was reticent in the midst of his..."
+    [Lawrence]: "...fashion, a humility that covered a certain fear. She accepted him as a partner. The zithers sounded out again, the..."
+
+  'inwardly':
+    [Eliot]: "...insipid misdoing and shabby achievement. Poor Lydgate was inwardly groaning on that margin, and Will was arriving at it. It..."
+    [Lawrence]: "...deal, outwardly—and outwardly was all that mattered, for inwardly was a bad joke. Everything was intrinsically a piece of..."
+
+  'occurred':
+    [Eliot]: "...might have some hidden painful bearing on it. And it occurred to him that Dorothea was the real cause of the present..."
+    [Lawrence]: "...felt dazed and numb. Suddenly she wanted to go away. It occurred to her, like a miracle, that she might go away into..."
+
+  'outburst':
+    [Eliot]: "...It seemed to him this evening as if the cruelty of his outburst to Rosamond had made an obligation for him, and he..."
+    [Lawrence]: "...“Ja—so ist es, so ist es.” Ursula was silent after this outburst. She was furious. She wanted to poke a hole into them..."
+
+  'account':
+    [Eliot]: "...alternative to this evasion. And then he heard Lydgate's account of the troubles which Rosamond had already depicted to..."
+    [Lawrence]: "...be big and powerful—whether he is old or young is of no account, so he has the size, something of massiveness and—and..."
+
+  'assured':
+    [Eliot]: "...Mrs. Casaubon had called, but the reading of this letter assured him of the fact, for Dorothea mentioned that it was to be..."
+    [Lawrence]: "...impossible really to let go, in England, of that I am assured.” And she turned again to the food she was eating. She..."
+
+  'chapter':
+    [Eliot]: "CHAPTER LXXIX. "Now, I saw in my dream, that just as they had..."
+    [Lawrence]: "CHAPTER XXIX. CONTINENTAL Ursula went on in an unreal suspense,..."
+
+  'drawing':
+    [Eliot]: "...sleep under the effect of an anodyne, he went into the drawing-room to fetch a book which he had left there, meaning to..."
+    [Lawrence]: "...the mountains, that were deep in snow. At last she was drawing near. This was the other world now. Innsbruck was..."
+
+  'earlier':
+    [Eliot]: "...which made it clear that he had not been told of the earlier visit, and Will could not say, "Did not Mrs. Lydgate tell..."
+    [Lawrence]: "...was curious too, how his poverty, the degradation of his earlier life, attracted her. There was something insipid and..."
+
+  'figures':
+    [Eliot]: "...to look passively at our future selves, and see our own figures led with dull consent into insipid misdoing and shabby..."
+    [Lawrence]: "...clock had two pink roses in a basket painted above the figures on the face—and now when she was travelling into the..."
+
+  'hearing':
+    [Eliot]: "...a new ring in the sound of my name to recommend it in her hearing; however—what does it signify now?" But he said nothing..."
+    [Lawrence]: "...singleness. The Germans were doubled up with laughter, hearing his strange droll words, his droll phrases of dialect...."
+
+  'history':
+    [Eliot]: "...small solicitations of circumstance, which is a commoner history of perdition than any single momentous bargain. We are on..."
+    [Lawrence]: "...playing in Cossethay churchyard, was a little creature of history, not really herself. They were at Brussels—half an hour..."
+
+--------------------------------------------------------------------------------
+3. SHARED PHRASES (N-GRAM ANALYSIS)
+--------------------------------------------------------------------------------
+
+Shared multi-word sequences suggest phrasal echo or structural similarity.
+
+Shared trigrams (3-word sequences): 27
+Shared bigrams (2-word sequences, filtered): 192
+
+Notable shared trigrams:
+  • "and he saw"
+  • "at it it"
+  • "for him and"
+  • "he made no"
+  • "he saw on"
+  • "him and he"
+  • "him with a"
+  • "i thought it"
+  • "if he were"
+  • "in a little"
+  • "it occurred to"
+  • "it seemed to"
+  • "on to a"
+  • "said with a"
+  • "seemed to him"
+  • "that she might"
+  • "the first time"
+  • "the midst of"
+  • "the sound of"
+  • "the two men"
+  • "to hear it"
+  • "to him as"
+  • "to him he"
+  • "to tell you"
+  • "was to be"
+  ... and 2 more
+
+--------------------------------------------------------------------------------
+4. SEQUENCE ALIGNMENTS (TextPAIR)
+--------------------------------------------------------------------------------
+
+No TextPAIR alignments found for this specific chapter pair.
+(This is expected—sequence alignments are rare in fiction.)
+
+--------------------------------------------------------------------------------
+5. THEMATIC VOCABULARY
+--------------------------------------------------------------------------------
+
+Shared vocabulary in semantically meaningful categories:
+
+Psychological/emotional: being, fear, feeling, hope, life, meaning, revelation, thought, truth, will
+Relationship/marriage: (none)
+Moral/ethical: good
+
+================================================================================
+SUMMARY: THE RECEIPTS
+================================================================================
+
+When Sextant flags Middlemarch ch. 79 → Women in Love ch. 29
+as a high-scoring pair (99.97th percentile), here is what it sees:
+
+  • 31 shared hapax legomena (rare vocabulary)
+  • 27 shared trigrams (phrasal patterns)
+  • 10 shared psychological terms
+  • 0 shared relationship terms
+  • 0 sequence alignments
+
+These are the interpretable features that a scholar can examine to
+determine whether the detected similarity reflects genuine literary influence.
+
+================================================================================

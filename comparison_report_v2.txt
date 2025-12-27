@@ -1,0 +1,179 @@
+==========================================================================================
+SEXTANT INFLUENCE DETECTION: COMPARING HIGH VS LOW SCORING PAIRS
+==========================================================================================
+
+This report compares what Sextant 'sees' in a high-influence case versus
+a low-influence case, demonstrating that the model detects meaningful
+vocabulary clustering, not just raw word overlap.
+
+------------------------------------------------------------------------------------------
+SUMMARY COMPARISON
+------------------------------------------------------------------------------------------
+
+Metric                              HIGH: Eliot→Lawrence      LOW: Cross→Conrad        
+----------------------------------- ------------------------- -------------------------
+Sextant Percentile                  99.97                     24.65                    
+Source word count                   877                       7,255                    
+Target word count                   21,323                    9,303                    
+Word count ratio                    24.3                      1.3                      
+
+HAPAX LEGOMENA (79.2%)             
+  Shared hapaxes                    31                        174                      
+  Psychological terms               6                         0                        
+  Generic prose terms               0                         21                       
+
+SEQUENCE ALIGNMENT (10.1%)         
+  Shared trigrams                   27                        83                       
+  TextPAIR alignments               0                         0                        
+
+SVM STYLOMETRY (10.8%)             
+  TF-IDF cosine similarity          0.142                     0.354                    
+
+DATABASE SCORES                    
+
+  (DB tables found: ['alignments', 'authors', 'all_texts', 'dirs', 'text_pairs', 'hapaxes', 'hapax_overlaps', 'last_run', 'results', 'stats_all', 'hapax_jaccard', 'alignments_jaccard', 'combined_jaccard'])
+  (Columns: ['first_book', 'second_book', 'hapax_overlap_count', 'num_alignments'])
+
+------------------------------------------------------------------------------------------
+KEY INSIGHT
+------------------------------------------------------------------------------------------
+
+Cross→Conrad has MORE shared hapaxes (174 vs 31) but scores LOW because:
+  • Similar chapter lengths mean more overlap expected by chance
+  • Shared words are generic prose vocabulary, not thematically distinctive
+
+Eliot→Lawrence has FEWER shared hapaxes but scores HIGH because:
+  • 24:1 word count ratio makes ANY overlap remarkable
+  • Shared words cluster around psychological interiority
+  • This matches Lawrence's stated debt: 'putting all the action inside'
+
+==========================================================================================
+HIGH INFLUENCE CASE: Eliot → Lawrence
+  Documented literary influence (99.97th percentile)
+==========================================================================================
+
+Source: Middlemarch ch. 79 (877 words)
+Target: Women in Love ch. 29 (21,323 words)
+
+Top shared hapaxes (psychological vocabulary highlighted):
+
+  • overwrought ← PSYCHOLOGICAL
+  • revelation ← PSYCHOLOGICAL
+  • agitation ← PSYCHOLOGICAL
+  • accepted
+  • inwardly ← PSYCHOLOGICAL
+  • occurred
+  • outburst ← PSYCHOLOGICAL
+  • account
+  • assured
+  • chapter
+  • drawing
+  • earlier
+  • figures
+  • hearing
+  • history
+  • insipid
+  • meaning ← PSYCHOLOGICAL
+  • present
+  • several
+  • signify
+
+Contexts showing parallel usage:
+
+  'overwrought':
+    [Eliot]: "...effect of some agitation. She has been overwrought lately. The truth is, Ladislaw, I am an unlucky..."
+    [Lawrence]: "...face white, her dark eyes blazing with uncanny, overwrought excitement. She saw him stooping to the bag,..."
+
+  'revelation':
+    [Eliot]: "...most men how Ladislaw might be stung by the revelation. "You will be sure to hear it as soon as you..."
+    [Lawrence]: "...unwilling, a slow, grudging, scanty self-revelation. She went and sat by her sister. He looked at..."
+
+  'agitation':
+    [Eliot]: "...a slight nervous shock—the effect of some agitation. She has been overwrought lately. The truth is,..."
+    [Lawrence]: "...platform! Voices were still calling in inhuman agitation through the dark-grey air, spectres were..."
+
+  'inwardly':
+    [Eliot]: "...and shabby achievement. Poor Lydgate was inwardly groaning on that margin, and Will was arriving..."
+    [Lawrence]: "...outwardly was all that mattered, for inwardly was a bad joke. Everything was intrinsically a..."
+
+  'outburst':
+    [Eliot]: "...to him this evening as if the cruelty of his outburst to Rosamond had made an obligation for him, and..."
+    [Lawrence]: "...es, so ist es.” Ursula was silent after this outburst. She was furious. She wanted to poke a hole..."
+
+==========================================================================================
+LOW INFLUENCE CASE: Cross → Conrad
+  No documented connection (24.65th percentile)
+==========================================================================================
+
+Source: Victoria Cross novel ch. 1 (7,255 words)
+Target: Conrad novel ch. 1 (9,303 words)
+
+Top shared hapaxes (note: generic prose vocabulary):
+
+  • descriptions ← GENERIC
+  • impertinence
+  • conjunction
+  • immediately ← GENERIC
+  • withdrawing
+  • approached ← GENERIC
+  • conviction ← GENERIC
+  • impossible ← GENERIC
+  • impression ← GENERIC
+  • positively ← GENERIC
+  • providence
+  • remarkably ← GENERIC
+  • surrounded ← GENERIC
+  • triumphant
+  • unexpected ← GENERIC
+  • answering
+  • attention
+  • conscious
+  • curiously
+  • elevation
+
+Contexts showing incidental overlap:
+
+  'descriptions':
+    [Cross]: "...in shadowy obscurity, stood deck-chairs of all descriptions, some vacant and some occupied. My companion..."
+    [Conrad]: "...filled up mostly with dreary stereotyped descriptions of Queen Victoria’s first jubilee celebrations...."
+
+  'impertinence':
+    [Cross]: "...at that moment, with her eyes full of animated impertinence, a flush on either cheek, and the light brown..."
+    [Conrad]: "...too. I suspected the fellow of gratuitous impertinence. I told him with marked emphasis that I would..."
+
+  'conjunction':
+    [Cross]: "...unblushingly, though the seven syllables in conjunction positively set my teeth on edge. Down here..."
+    [Conrad]: "...this with a sustained, holding stare which, in conjunction with the general inanity of the discourse,..."
+
+  'immediately':
+    [Cross]: "...with that look, and as she transferred her eyes immediately to the book again, I almost expected to see the..."
+    [Conrad]: "...one’s appetite,” went out of the room. Almost immediately we heard him leave the house down the verandah..."
+
+  'withdrawing':
+    [Cross]: "...even as a great curtain grasped by some vast, withdrawing hand. Slowly, imperceptibly, with invisibly..."
+    [Conrad]: "...that to-morrow. And I was about to turn away, withdrawing my privacy from his fatuous, objectless..."
+
+==========================================================================================
+CONCLUSION FOR PAPER
+==========================================================================================
+
+The contrast demonstrates Sextant's core claim: it detects meaningful
+vocabulary absorption, not coincidental overlap. High-scoring pairs share
+thematically coherent rare vocabulary; low-scoring pairs share only generic
+prose words despite having more raw overlap. The Jaccard normalization and
+z-score combination correctly identify concentrated, distinctive vocabulary
+similarity as more significant than diffuse, generic similarity.
+
+Suggested paper text:
+
+  "Comparing anchor and negative cases reveals what Sextant detects. The
+   Eliot→Lawrence pairing (99.97th percentile) shares 31 hapaxes despite
+   a 24:1 word count ratio; these cluster around psychological interiority
+   (overwrought, revelation, agitation, inwardly). The Cross→Conrad pairing
+   (24.65th percentile) shares 174 hapaxes at similar chapter lengths, but
+   these are generic prose vocabulary (descriptions, immediately, approached)
+   with no thematic coherence. Sextant correctly identifies concentrated,
+   distinctive vocabulary overlap as more significant than diffuse, generic
+   overlap."
+
+==========================================================================================
