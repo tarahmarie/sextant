@@ -1,0 +1,336 @@
+================================================================================
+SEXTANT ANCHOR CASE: SHOWING THE RECEIPTS
+================================================================================
+
+Source: Cross, Unknown, Chapter 1 (1895)
+Target: Conrad, Unknown, Chapter 1 (1917)
+
+--------------------------------------------------------------------------------
+1. BASIC STATISTICS
+--------------------------------------------------------------------------------
+Source word count: 7,255
+Target word count: 9,303
+Source unique words (excl. stopwords): 1,562
+Target unique words (excl. stopwords): 1,928
+
+--------------------------------------------------------------------------------
+2. SHARED HAPAX LEGOMENA
+--------------------------------------------------------------------------------
+
+These are words appearing exactly ONCE in each chapter—rare vocabulary
+choices that both authors made, suggesting potential vocabulary absorption.
+
+Hapaxes in source chapter: 1060
+Hapaxes in target chapter: 1362
+SHARED HAPAXES: 174
+
+Shared hapax legomena (sorted by length, longer = more distinctive):
+
+  • descriptions
+  • impertinence
+  • conjunction
+  • immediately
+  • withdrawing
+  • approached
+  • conviction
+  • impossible
+  • impression
+  • positively
+  • providence
+  • remarkably
+  • surrounded
+  • triumphant
+  • unexpected
+  • answering
+  • attention
+  • conscious
+  • curiously
+  • elevation
+  • enlighten
+  • exchanged
+  • exclaimed
+  • irritated
+  • necessary
+  • nervously
+  • perpetual
+  • possessed
+  • requested
+  • sensation
+  • sorrowful
+  • statement
+  • wonderful
+  • wondering
+  • alacrity
+  • argument
+  • balanced
+  • buoyancy
+  • complete
+  • conveyed
+  • feelings
+  • greatest
+  • greeting
+  • horribly
+  • intimate
+  • listened
+  • nonsense
+  • occasion
+  • overcome
+  • patience
+  • prepared
+  • produced
+  • resented
+  • savagely
+  • sickness
+  • slightly
+  • throwing
+  • vanished
+  • wondered
+  • annoyed
+  • brought
+  • changed
+  • conduct
+  • covered
+  • created
+  • cutting
+  • distant
+  • dressed
+  • eagerly
+  • emerged
+  • engaged
+  • evident
+  • excited
+  • extreme
+  • flashed
+  • gleamed
+  • impulse
+  • mortals
+  • mystery
+  • officer
+  • oneself
+  • pointed
+  • promise
+  • recover
+  • steamer
+  • subject
+  • tropics
+  • turning
+  • unknown
+  • wearing
+  • absent
+  • amused
+  • assist
+  • beings
+  • bolted
+  • caused
+  • chance
+  • curtly
+  • divine
+  • easily
+  • engine
+  • facing
+  • filled
+  • flight
+  • formed
+  • gazing
+  • handle
+  • hardly
+  • louder
+  • marked
+  • nature
+  • orders
+  • others
+  • silver
+  • soothe
+  • strike
+  • twenty
+  • vacant
+  • wooden
+  • ahead
+  • aside
+  • catch
+  • cheek
+  • cloth
+  • crowd
+  • earth
+  • fresh
+  • gives
+  • glare
+  • hades
+  • liked
+  • parts
+  • pence
+  • piles
+  • quick
+  • rapid
+  • reach
+  • rough
+  • seven
+  • shirt
+  • shore
+  • signs
+  • start
+  • times
+  • vexed
+  • wants
+  • waves
+  • years
+  • bare
+  • bent
+  • book
+  • dead
+  • died
+  • else
+  • gear
+  • hold
+  • joke
+  • lazy
+  • live
+  • lose
+  • lost
+  • meet
+  • mist
+  • page
+  • rapt
+  • read
+  • step
+  • tall
+  • age
+  • due
+  • fee
+  • ran
+  • ten
+  • de
+
+Contexts for most distinctive shared hapaxes:
+
+  'descriptions':
+    [Cross]: "...awning, in shadowy obscurity, stood deck-chairs of all descriptions, some vacant and some occupied. My companion laughed. It..."
+    [Conrad]: "...uninteresting, filled up mostly with dreary stereotyped descriptions of Queen Victoria’s first jubilee celebrations. Probably..."
+
+  'impertinence':
+    [Cross]: "...looked so at that moment, with her eyes full of animated impertinence, a flush on either cheek, and the light brown curls of..."
+    [Conrad]: "...Incredulous, too. I suspected the fellow of gratuitous impertinence. I told him with marked emphasis that I would see him and..."
+
+  'conjunction':
+    [Cross]: "...I maintained unblushingly, though the seven syllables in conjunction positively set my teeth on edge. Down here there was a..."
+    [Conrad]: "...lazy. All this with a sustained, holding stare which, in conjunction with the general inanity of the discourse, conveyed the..."
+
+  'immediately':
+    [Cross]: "...in it with that look, and as she transferred her eyes immediately to the book again, I almost expected to see the page..."
+    [Conrad]: "...cutting one’s appetite,” went out of the room. Almost immediately we heard him leave the house down the verandah steps. On..."
+
+  'withdrawing':
+    [Cross]: "...to quiver even as a great curtain grasped by some vast, withdrawing hand. Slowly, imperceptibly, with invisibly vanishing..."
+    [Conrad]: "...time to do that to-morrow. And I was about to turn away, withdrawing my privacy from his fatuous, objectless attempts to test..."
+
+  'approached':
+    [Cross]: "...looked eagerly round the hood into the face as the figure approached me. ‘Can I assist you?’ and I held out my hand. The boat..."
+    [Conrad]: "...our perspiring heads. The official behind the desk we approached grinned amiably and kept it up till, in answer to his..."
+
+  'conviction':
+    [Cross]: "...England and all I would do there, and with a comfortable conviction I was the luckiest fellow going. The next morning I was..."
+    [Conrad]: "...on occasion, not from a desire to dazzle, but from honest conviction. Though very well known and appreciated in the shipping..."
+
+  'impossible':
+    [Cross]: "...a cigar and joined him. ‘Do you know, I always thought it impossible I should marry,’ I said as we walked along the silent,..."
+    [Conrad]: "...worse yet.” Judging by the man’s appearance it seemed impossible. I wondered what sort of complicated debauch had reduced..."
+
+  'impression':
+    [Cross]: "...those drinks before the stewards go.’ Dickinson got the impression I was a little screwed, and I let him keep it. I took a..."
+    [Conrad]: "...with the general inanity of the discourse, conveyed the impression of mild, dreary lunacy. And when he hitched his chair a..."
+
+  'positively':
+    [Cross]: "...unblushingly, though the seven syllables in conjunction positively set my teeth on edge. Down here there was a good deal of..."
+    [Conrad]: "...I tried to preserve the semblance of unconcern he became positively cruel. I heard what the man had said? Yes? What did I..."
+
+  'providence':
+    [Cross]: "...of thing one would like to be specially exempted from by Providence, but I'm not, unfortunately.’ ‘I don't agree with your..."
+    [Conrad]: "...seen any one so full of dignity for the station in life Providence had been pleased to place him in. I had been told that he..."
+
+  'remarkably':
+    [Cross]: "...the banjo followed her, and the two women disappeared. ‘Remarkably fine voice, so flexible.’ ‘Yes, she's a thorough artist..."
+    [Conrad]: "...insult. As it was, I felt only sorry for him. Something remarkably earnest in his gaze prevented me from laughing in his..."
+
+  'surrounded':
+    [Cross]: "...at the end of the first verse, I saw our little group was surrounded by a ring of eager hearers. As the last note of the voice..."
+    [Conrad]: "...palatial, displaying its white, pillared pavilions surrounded by trim grass plots. I would have felt a passenger indeed..."
+
+  'triumphant':
+    [Cross]: "...ebony. I paused a second or two to get rid of the look of triumphant pleasure I felt must be on my face, and then, summoning..."
+    [Conrad]: "...me. Then he took three rapid puffs at it. His aspect of triumphant acuteness was indescribable. Yet the man remained a..."
+
+  'unexpected':
+    [Cross]: "...created beings at times, even the most wretched, like an unexpected gust of wind. The realisation comes suddenly that they..."
+    [Conrad]: "...I remained speechless for a time. Here was something unexpected and original enough to be altogether incomprehensible. I..."
+
+--------------------------------------------------------------------------------
+3. SHARED PHRASES (N-GRAM ANALYSIS)
+--------------------------------------------------------------------------------
+
+Shared multi-word sequences suggest phrasal echo or structural similarity.
+
+Shared trigrams (3-word sequences): 83
+Shared bigrams (2-word sequences, filtered): 671
+
+Notable shared trigrams:
+  • "a couple of"
+  • "a gesture of"
+  • "a little and"
+  • "a long chair"
+  • "a lot of"
+  • "a low voice"
+  • "a man who"
+  • "a sort of"
+  • "about it and"
+  • "am going to"
+  • "and began to"
+  • "and sat down"
+  • "and with a"
+  • "as i had"
+  • "at last the"
+  • "bad as that"
+  • "but do you"
+  • "don t know"
+  • "don t you"
+  • "ever met i"
+  • "for having been"
+  • "got up and"
+  • "have you been"
+  • "his feet with"
+  • "i can t"
+  ... and 58 more
+
+--------------------------------------------------------------------------------
+4. SEQUENCE ALIGNMENTS (TextPAIR)
+--------------------------------------------------------------------------------
+
+No TextPAIR alignments found for this specific chapter pair.
+(This is expected—sequence alignments are rare in fiction.)
+
+--------------------------------------------------------------------------------
+5. THEMATIC VOCABULARY
+--------------------------------------------------------------------------------
+
+Shared vocabulary in semantically meaningful categories:
+
+Psychological/emotional: being, death, existence, feeling, life, self, spirit, thought, truth, will
+Relationship/marriage: love, marriage
+Moral/ethical: good, right
+
+================================================================================
+SUMMARY: THE RECEIPTS
+================================================================================
+
+When Sextant flags Unknown ch. 1 → Unknown ch. 1
+as a high-scoring pair (99.97th percentile), here is what it sees:
+
+  • 174 shared hapax legomena (rare vocabulary)
+  • 83 shared trigrams (phrasal patterns)
+  • 10 shared psychological terms
+  • 2 shared relationship terms
+  • 0 sequence alignments
+
+These are the interpretable features that a scholar can examine to
+determine whether the detected similarity reflects genuine literary influence.
+
+================================================================================

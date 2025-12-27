@@ -1,0 +1,23 @@
+INFLUENCE DETECTION MODEL SUMMARY (WITH SHAP DECOMPOSITION)
+============================================================
+
+FEATURE CONTRIBUTIONS (SHAP Value Decomposition)
+------------------------------------------------------------
+Method: Mean |SHAP value| normalized to percentages
+
+Hapax Legomena: 83.0%
+SVM Stylometry: 13.0%
+Sequence Alignment: 4.0%
+
+MODEL COEFFICIENTS
+------------------------------------------------------------
+Hapax Legomena: β = -1.2324 (SE = 0.0029, p = 0.00e+00)
+Sequence Alignment: β = -0.1567 (SE = 0.0013, p = 0.00e+00)
+SVM Stylometry: β = 0.1704 (SE = 0.0024, p = 0.00e+00)
+
+MODEL FIT
+------------------------------------------------------------
+N = 5,956,426
+Pseudo R² = 0.1506
+ROC AUC = 0.7824
+Accuracy = 0.9721
