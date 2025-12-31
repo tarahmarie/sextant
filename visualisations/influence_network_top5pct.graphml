@@ -1,0 +1,1657 @@
+<?xml version="1.0" ?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+  <key id="label" for="node" attr.name="label" attr.type="string">
+    <desc>Author name</desc>
+  </key>
+  <key id="year" for="node" attr.name="year" attr.type="int">
+    <desc>Approximate first publication year</desc>
+  </key>
+  <key id="era" for="node" attr.name="era" attr.type="string">
+    <desc>Literary era category</desc>
+  </key>
+  <key id="out_degree" for="node" attr.name="out_degree" attr.type="int">
+    <desc>Number of authors influenced</desc>
+  </key>
+  <key id="in_degree" for="node" attr.name="in_degree" attr.type="int">
+    <desc>Number of influencing authors</desc>
+  </key>
+  <key id="total_connections" for="node" attr.name="total_connections" attr.type="int">
+    <desc>Total connections</desc>
+  </key>
+  <key id="max_influence_given" for="node" attr.name="max_influence_given" attr.type="double">
+    <desc>Highest influence percentile (as source)</desc>
+  </key>
+  <key id="max_influence_received" for="node" attr.name="max_influence_received" attr.type="double">
+    <desc>Highest influence percentile (as target)</desc>
+  </key>
+  <key id="is_validated_author" for="node" attr.name="is_validated_author" attr.type="boolean">
+    <desc>Appears in a validated influence case</desc>
+  </key>
+  <key id="percentile" for="edge" attr.name="percentile" attr.type="double">
+    <desc>Influence percentile (0-100)</desc>
+  </key>
+  <key id="n_chapter_pairs" for="edge" attr.name="n_chapter_pairs" attr.type="int">
+    <desc>Number of chapter pairs analyzed</desc>
+  </key>
+  <key id="is_validated" for="edge" attr.name="is_validated" attr.type="boolean">
+    <desc>Documented literary influence</desc>
+  </key>
+  <key id="weight" for="edge" attr.name="weight" attr.type="double">
+    <desc>Edge weight for layout algorithms</desc>
+  </key>
+  <key id="label" for="edge" attr.name="label" attr.type="string">
+    <desc>Edge label</desc>
+  </key>
+  <graph id="influence_network" edgedefault="directed">
+    <node id="Anstey">
+      <data key="label">Anstey</data>
+      <data key="year">1870</data>
+      <data key="era">mid_victorian</data>
+      <data key="out_degree">1</data>
+      <data key="in_degree">1</data>
+      <data key="total_connections">2</data>
+      <data key="max_influence_given">99.9969</data>
+      <data key="max_influence_received">99.9936</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Barry">
+      <data key="label">Barry</data>
+      <data key="year">1870</data>
+      <data key="era">mid_victorian</data>
+      <data key="out_degree">1</data>
+      <data key="in_degree">2</data>
+      <data key="total_connections">3</data>
+      <data key="max_influence_given">99.9954</data>
+      <data key="max_influence_received">99.9923</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Benson">
+      <data key="label">Benson</data>
+      <data key="year">1870</data>
+      <data key="era">mid_victorian</data>
+      <data key="out_degree">1</data>
+      <data key="in_degree">0</data>
+      <data key="total_connections">1</data>
+      <data key="max_influence_given">99.9912</data>
+      <data key="max_influence_received">0.0000</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Blackmore">
+      <data key="label">Blackmore</data>
+      <data key="year">1870</data>
+      <data key="era">mid_victorian</data>
+      <data key="out_degree">6</data>
+      <data key="in_degree">3</data>
+      <data key="total_connections">9</data>
+      <data key="max_influence_given">99.9993</data>
+      <data key="max_influence_received">99.9976</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Braddon">
+      <data key="label">Braddon</data>
+      <data key="year">1862</data>
+      <data key="era">mid_early_victorian</data>
+      <data key="out_degree">1</data>
+      <data key="in_degree">1</data>
+      <data key="total_connections">2</data>
+      <data key="max_influence_given">99.9943</data>
+      <data key="max_influence_received">99.9891</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Brontë">
+      <data key="label">Brontë</data>
+      <data key="year">1847</data>
+      <data key="era">early_victorian</data>
+      <data key="out_degree">1</data>
+      <data key="in_degree">1</data>
+      <data key="total_connections">2</data>
+      <data key="max_influence_given">99.9959</data>
+      <data key="max_influence_received">99.9933</data>
+      <data key="is_validated_author">true</data>
+    </node>
+    <node id="Broughton">
+      <data key="label">Broughton</data>
+      <data key="year">1870</data>
+      <data key="era">mid_victorian</data>
+      <data key="out_degree">1</data>
+      <data key="in_degree">3</data>
+      <data key="total_connections">4</data>
+      <data key="max_influence_given">99.9937</data>
+      <data key="max_influence_received">99.9988</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Buchan">
+      <data key="label">Buchan</data>
+      <data key="year">1870</data>
+      <data key="era">mid_victorian</data>
+      <data key="out_degree">0</data>
+      <data key="in_degree">1</data>
+      <data key="total_connections">1</data>
+      <data key="max_influence_given">0.0000</data>
+      <data key="max_influence_received">99.9952</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Clive">
+      <data key="label">Clive</data>
+      <data key="year">1870</data>
+      <data key="era">mid_victorian</data>
+      <data key="out_degree">1</data>
+      <data key="in_degree">0</data>
+      <data key="total_connections">1</data>
+      <data key="max_influence_given">99.9897</data>
+      <data key="max_influence_received">0.0000</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Collins">
+      <data key="label">Collins</data>
+      <data key="year">1860</data>
+      <data key="era">mid_early_victorian</data>
+      <data key="out_degree">1</data>
+      <data key="in_degree">1</data>
+      <data key="total_connections">2</data>
+      <data key="max_influence_given">99.9954</data>
+      <data key="max_influence_received">99.9940</data>
+      <data key="is_validated_author">true</data>
+    </node>
+    <node id="Conrad">
+      <data key="label">Conrad</data>
+      <data key="year">1895</data>
+      <data key="era">edwardian</data>
+      <data key="out_degree">0</data>
+      <data key="in_degree">4</data>
+      <data key="total_connections">4</data>
+      <data key="max_influence_given">0.0000</data>
+      <data key="max_influence_received">99.9991</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Dickens">
+      <data key="label">Dickens</data>
+      <data key="year">1836</data>
+      <data key="era">early_victorian</data>
+      <data key="out_degree">3</data>
+      <data key="in_degree">0</data>
+      <data key="total_connections">3</data>
+      <data key="max_influence_given">99.9971</data>
+      <data key="max_influence_received">0.0000</data>
+      <data key="is_validated_author">true</data>
+    </node>
+    <node id="Disraeli">
+      <data key="label">Disraeli</data>
+      <data key="year">1826</data>
+      <data key="era">early_victorian</data>
+      <data key="out_degree">16</data>
+      <data key="in_degree">7</data>
+      <data key="total_connections">23</data>
+      <data key="max_influence_given">99.9999</data>
+      <data key="max_influence_received">99.9991</data>
+      <data key="is_validated_author">true</data>
+    </node>
+    <node id="Eliot">
+      <data key="label">Eliot</data>
+      <data key="year">1859</data>
+      <data key="era">mid_early_victorian</data>
+      <data key="out_degree">4</data>
+      <data key="in_degree">3</data>
+      <data key="total_connections">7</data>
+      <data key="max_influence_given">99.9998</data>
+      <data key="max_influence_received">99.9976</data>
+      <data key="is_validated_author">true</data>
+    </node>
+    <node id="Forster">
+      <data key="label">Forster</data>
+      <data key="year">1870</data>
+      <data key="era">mid_victorian</data>
+      <data key="out_degree">1</data>
+      <data key="in_degree">0</data>
+      <data key="total_connections">1</data>
+      <data key="max_influence_given">99.9962</data>
+      <data key="max_influence_received">0.0000</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Fowler">
+      <data key="label">Fowler</data>
+      <data key="year">1870</data>
+      <data key="era">mid_victorian</data>
+      <data key="out_degree">0</data>
+      <data key="in_degree">1</data>
+      <data key="total_connections">1</data>
+      <data key="max_influence_given">0.0000</data>
+      <data key="max_influence_received">99.9978</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Gaskell">
+      <data key="label">Gaskell</data>
+      <data key="year">1848</data>
+      <data key="era">early_victorian</data>
+      <data key="out_degree">1</data>
+      <data key="in_degree">0</data>
+      <data key="total_connections">1</data>
+      <data key="max_influence_given">99.9950</data>
+      <data key="max_influence_received">0.0000</data>
+      <data key="is_validated_author">true</data>
+    </node>
+    <node id="Glyn">
+      <data key="label">Glyn</data>
+      <data key="year">1870</data>
+      <data key="era">mid_victorian</data>
+      <data key="out_degree">0</data>
+      <data key="in_degree">6</data>
+      <data key="total_connections">6</data>
+      <data key="max_influence_given">0.0000</data>
+      <data key="max_influence_received">99.9994</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Grossmith">
+      <data key="label">Grossmith</data>
+      <data key="year">1870</data>
+      <data key="era">mid_victorian</data>
+      <data key="out_degree">1</data>
+      <data key="in_degree">0</data>
+      <data key="total_connections">1</data>
+      <data key="max_influence_given">99.9947</data>
+      <data key="max_influence_received">0.0000</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Hamilton">
+      <data key="label">Hamilton</data>
+      <data key="year">1870</data>
+      <data key="era">mid_victorian</data>
+      <data key="out_degree">0</data>
+      <data key="in_degree">1</data>
+      <data key="total_connections">1</data>
+      <data key="max_influence_given">0.0000</data>
+      <data key="max_influence_received">99.9926</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Harraden">
+      <data key="label">Harraden</data>
+      <data key="year">1893</data>
+      <data key="era">late_victorian</data>
+      <data key="out_degree">7</data>
+      <data key="in_degree">9</data>
+      <data key="total_connections">16</data>
+      <data key="max_influence_given">99.9994</data>
+      <data key="max_influence_received">99.9987</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Hornung">
+      <data key="label">Hornung</data>
+      <data key="year">1870</data>
+      <data key="era">mid_victorian</data>
+      <data key="out_degree">0</data>
+      <data key="in_degree">2</data>
+      <data key="total_connections">2</data>
+      <data key="max_influence_given">0.0000</data>
+      <data key="max_influence_received">99.9980</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Jenkins">
+      <data key="label">Jenkins</data>
+      <data key="year">1870</data>
+      <data key="era">mid_victorian</data>
+      <data key="out_degree">18</data>
+      <data key="in_degree">12</data>
+      <data key="total_connections">30</data>
+      <data key="max_influence_given">100.0000</data>
+      <data key="max_influence_received">99.9998</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Kingsley">
+      <data key="label">Kingsley</data>
+      <data key="year">1850</data>
+      <data key="era">mid_early_victorian</data>
+      <data key="out_degree">3</data>
+      <data key="in_degree">1</data>
+      <data key="total_connections">4</data>
+      <data key="max_influence_given">99.9991</data>
+      <data key="max_influence_received">99.9963</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Lawrence">
+      <data key="label">Lawrence</data>
+      <data key="year">1911</data>
+      <data key="era">edwardian</data>
+      <data key="out_degree">0</data>
+      <data key="in_degree">11</data>
+      <data key="total_connections">11</data>
+      <data key="max_influence_given">0.0000</data>
+      <data key="max_influence_received">99.9998</data>
+      <data key="is_validated_author">true</data>
+    </node>
+    <node id="Lewis">
+      <data key="label">Lewis</data>
+      <data key="year">1918</data>
+      <data key="era">edwardian</data>
+      <data key="out_degree">0</data>
+      <data key="in_degree">5</data>
+      <data key="total_connections">5</data>
+      <data key="max_influence_given">0.0000</data>
+      <data key="max_influence_received">99.9992</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Lytton">
+      <data key="label">Lytton</data>
+      <data key="year">1828</data>
+      <data key="era">early_victorian</data>
+      <data key="out_degree">4</data>
+      <data key="in_degree">3</data>
+      <data key="total_connections">7</data>
+      <data key="max_influence_given">99.9993</data>
+      <data key="max_influence_received">99.9986</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="MacDonald">
+      <data key="label">MacDonald</data>
+      <data key="year">1870</data>
+      <data key="era">mid_victorian</data>
+      <data key="out_degree">4</data>
+      <data key="in_degree">5</data>
+      <data key="total_connections">9</data>
+      <data key="max_influence_given">99.9997</data>
+      <data key="max_influence_received">99.9988</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Machen">
+      <data key="label">Machen</data>
+      <data key="year">1870</data>
+      <data key="era">mid_victorian</data>
+      <data key="out_degree">0</data>
+      <data key="in_degree">8</data>
+      <data key="total_connections">8</data>
+      <data key="max_influence_given">0.0000</data>
+      <data key="max_influence_received">99.9994</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Mallock">
+      <data key="label">Mallock</data>
+      <data key="year">1877</data>
+      <data key="era">mid_victorian</data>
+      <data key="out_degree">1</data>
+      <data key="in_degree">0</data>
+      <data key="total_connections">1</data>
+      <data key="max_influence_given">99.9998</data>
+      <data key="max_influence_received">0.0000</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Morris">
+      <data key="label">Morris</data>
+      <data key="year">1890</data>
+      <data key="era">late_victorian</data>
+      <data key="out_degree">10</data>
+      <data key="in_degree">18</data>
+      <data key="total_connections">28</data>
+      <data key="max_influence_given">100.0000</data>
+      <data key="max_influence_received">99.9999</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Nesbit">
+      <data key="label">Nesbit</data>
+      <data key="year">1870</data>
+      <data key="era">mid_victorian</data>
+      <data key="out_degree">0</data>
+      <data key="in_degree">3</data>
+      <data key="total_connections">3</data>
+      <data key="max_influence_given">0.0000</data>
+      <data key="max_influence_received">99.9979</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Oliphant">
+      <data key="label">Oliphant</data>
+      <data key="year">1849</data>
+      <data key="era">early_victorian</data>
+      <data key="out_degree">7</data>
+      <data key="in_degree">1</data>
+      <data key="total_connections">8</data>
+      <data key="max_influence_given">99.9995</data>
+      <data key="max_influence_received">99.9990</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Ouida">
+      <data key="label">Ouida</data>
+      <data key="year">1863</data>
+      <data key="era">mid_early_victorian</data>
+      <data key="out_degree">9</data>
+      <data key="in_degree">7</data>
+      <data key="total_connections">16</data>
+      <data key="max_influence_given">99.9998</data>
+      <data key="max_influence_received">99.9995</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Phillpotts">
+      <data key="label">Phillpotts</data>
+      <data key="year">1870</data>
+      <data key="era">mid_victorian</data>
+      <data key="out_degree">0</data>
+      <data key="in_degree">1</data>
+      <data key="total_connections">1</data>
+      <data key="max_influence_given">0.0000</data>
+      <data key="max_influence_received">99.9941</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Reade">
+      <data key="label">Reade</data>
+      <data key="year">1852</data>
+      <data key="era">mid_early_victorian</data>
+      <data key="out_degree">8</data>
+      <data key="in_degree">1</data>
+      <data key="total_connections">9</data>
+      <data key="max_influence_given">99.9996</data>
+      <data key="max_influence_received">99.9993</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Reynolds">
+      <data key="label">Reynolds</data>
+      <data key="year">1844</data>
+      <data key="era">early_victorian</data>
+      <data key="out_degree">23</data>
+      <data key="in_degree">1</data>
+      <data key="total_connections">24</data>
+      <data key="max_influence_given">99.9999</data>
+      <data key="max_influence_received">99.9997</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Silberrad">
+      <data key="label">Silberrad</data>
+      <data key="year">1899</data>
+      <data key="era">edwardian</data>
+      <data key="out_degree">0</data>
+      <data key="in_degree">3</data>
+      <data key="total_connections">3</data>
+      <data key="max_influence_given">0.0000</data>
+      <data key="max_influence_received">100.0000</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Sinclair">
+      <data key="label">Sinclair</data>
+      <data key="year">1904</data>
+      <data key="era">edwardian</data>
+      <data key="out_degree">3</data>
+      <data key="in_degree">0</data>
+      <data key="total_connections">3</data>
+      <data key="max_influence_given">99.9976</data>
+      <data key="max_influence_received">0.0000</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Skene">
+      <data key="label">Skene</data>
+      <data key="year">1846</data>
+      <data key="era">early_victorian</data>
+      <data key="out_degree">1</data>
+      <data key="in_degree">0</data>
+      <data key="total_connections">1</data>
+      <data key="max_influence_given">99.9912</data>
+      <data key="max_influence_received">0.0000</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Thackeray">
+      <data key="label">Thackeray</data>
+      <data key="year">1844</data>
+      <data key="era">early_victorian</data>
+      <data key="out_degree">5</data>
+      <data key="in_degree">1</data>
+      <data key="total_connections">6</data>
+      <data key="max_influence_given">99.9988</data>
+      <data key="max_influence_received">99.9942</data>
+      <data key="is_validated_author">true</data>
+    </node>
+    <node id="Trollope">
+      <data key="label">Trollope</data>
+      <data key="year">1847</data>
+      <data key="era">early_victorian</data>
+      <data key="out_degree">2</data>
+      <data key="in_degree">0</data>
+      <data key="total_connections">2</data>
+      <data key="max_influence_given">99.9984</data>
+      <data key="max_influence_received">0.0000</data>
+      <data key="is_validated_author">true</data>
+    </node>
+    <node id="Tupper">
+      <data key="label">Tupper</data>
+      <data key="year">1844</data>
+      <data key="era">early_victorian</data>
+      <data key="out_degree">2</data>
+      <data key="in_degree">0</data>
+      <data key="total_connections">2</data>
+      <data key="max_influence_given">99.9964</data>
+      <data key="max_influence_received">0.0000</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Ward">
+      <data key="label">Ward</data>
+      <data key="year">1881</data>
+      <data key="era">late_victorian</data>
+      <data key="out_degree">1</data>
+      <data key="in_degree">4</data>
+      <data key="total_connections">5</data>
+      <data key="max_influence_given">99.9999</data>
+      <data key="max_influence_received">99.9989</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Wells">
+      <data key="label">Wells</data>
+      <data key="year">1895</data>
+      <data key="era">edwardian</data>
+      <data key="out_degree">1</data>
+      <data key="in_degree">16</data>
+      <data key="total_connections">17</data>
+      <data key="max_influence_given">99.9939</data>
+      <data key="max_influence_received">100.0000</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="White">
+      <data key="label">White</data>
+      <data key="year">1870</data>
+      <data key="era">mid_victorian</data>
+      <data key="out_degree">0</data>
+      <data key="in_degree">1</data>
+      <data key="total_connections">1</data>
+      <data key="max_influence_given">0.0000</data>
+      <data key="max_influence_received">99.9914</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Woolf">
+      <data key="label">Woolf</data>
+      <data key="year">1870</data>
+      <data key="era">mid_victorian</data>
+      <data key="out_degree">0</data>
+      <data key="in_degree">2</data>
+      <data key="total_connections">2</data>
+      <data key="max_influence_given">0.0000</data>
+      <data key="max_influence_received">99.9955</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Yeats">
+      <data key="label">Yeats</data>
+      <data key="year">1891</data>
+      <data key="era">late_victorian</data>
+      <data key="out_degree">2</data>
+      <data key="in_degree">3</data>
+      <data key="total_connections">5</data>
+      <data key="max_influence_given">99.9973</data>
+      <data key="max_influence_received">99.9990</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <node id="Yonge">
+      <data key="label">Yonge</data>
+      <data key="year">1853</data>
+      <data key="era">mid_early_victorian</data>
+      <data key="out_degree">2</data>
+      <data key="in_degree">0</data>
+      <data key="total_connections">2</data>
+      <data key="max_influence_given">99.9997</data>
+      <data key="max_influence_received">0.0000</data>
+      <data key="is_validated_author">false</data>
+    </node>
+    <edge id="e0" source="Jenkins" target="Silberrad">
+      <data key="percentile">100.0000</data>
+      <data key="n_chapter_pairs">529</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e1" source="Morris" target="Wells">
+      <data key="percentile">100.0000</data>
+      <data key="n_chapter_pairs">2727</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e2" source="Reynolds" target="Wells">
+      <data key="percentile">99.9999</data>
+      <data key="n_chapter_pairs">10962</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e3" source="Reynolds" target="Morris">
+      <data key="percentile">99.9999</data>
+      <data key="n_chapter_pairs">26361</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e4" source="Ward" target="Morris">
+      <data key="percentile">99.9999</data>
+      <data key="n_chapter_pairs">5656</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e5" source="Disraeli" target="Wells">
+      <data key="percentile">99.9999</data>
+      <data key="n_chapter_pairs">10248</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e6" source="Ouida" target="Jenkins">
+      <data key="percentile">99.9998</data>
+      <data key="n_chapter_pairs">874</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e7" source="Mallock" target="Morris">
+      <data key="percentile">99.9998</data>
+      <data key="n_chapter_pairs">1515</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e8" source="Reynolds" target="Lawrence">
+      <data key="percentile">99.9998</data>
+      <data key="n_chapter_pairs">8091</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e9" source="Eliot" target="Jenkins">
+      <data key="percentile">99.9998</data>
+      <data key="n_chapter_pairs">1702</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e10" source="Disraeli" target="Reynolds">
+      <data key="percentile">99.9997</data>
+      <data key="n_chapter_pairs">37845</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e11" source="Yonge" target="Morris">
+      <data key="percentile">99.9997</data>
+      <data key="n_chapter_pairs">13231</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e12" source="Jenkins" target="Wells">
+      <data key="percentile">99.9997</data>
+      <data key="n_chapter_pairs">966</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e13" source="MacDonald" target="Wells">
+      <data key="percentile">99.9997</data>
+      <data key="n_chapter_pairs">1269</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e14" source="Jenkins" target="Morris">
+      <data key="percentile">99.9996</data>
+      <data key="n_chapter_pairs">2323</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e15" source="Reade" target="Morris">
+      <data key="percentile">99.9996</data>
+      <data key="n_chapter_pairs">5656</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e16" source="Ouida" target="Morris">
+      <data key="percentile">99.9995</data>
+      <data key="n_chapter_pairs">10706</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e17" source="Oliphant" target="Jenkins">
+      <data key="percentile">99.9995</data>
+      <data key="n_chapter_pairs">1357</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e18" source="Disraeli" target="Ouida">
+      <data key="percentile">99.9995</data>
+      <data key="n_chapter_pairs">19429</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e19" source="Morris" target="Machen">
+      <data key="percentile">99.9994</data>
+      <data key="n_chapter_pairs">707</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e20" source="Morris" target="Glyn">
+      <data key="percentile">99.9994</data>
+      <data key="n_chapter_pairs">1515</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e21" source="Morris" target="Lawrence">
+      <data key="percentile">99.9994</data>
+      <data key="n_chapter_pairs">3131</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e22" source="Harraden" target="Wells">
+      <data key="percentile">99.9994</data>
+      <data key="n_chapter_pairs">924</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e23" source="Reade" target="Wells">
+      <data key="percentile">99.9993</data>
+      <data key="n_chapter_pairs">2352</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e24" source="Lytton" target="Wells">
+      <data key="percentile">99.9993</data>
+      <data key="n_chapter_pairs">4746</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e25" source="Blackmore" target="Wells">
+      <data key="percentile">99.9993</data>
+      <data key="n_chapter_pairs">3528</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e26" source="Reynolds" target="Reade">
+      <data key="percentile">99.9993</data>
+      <data key="n_chapter_pairs">14616</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e27" source="Morris" target="Lewis">
+      <data key="percentile">99.9992</data>
+      <data key="n_chapter_pairs">4646</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e28" source="Jenkins" target="Glyn">
+      <data key="percentile">99.9992</data>
+      <data key="n_chapter_pairs">345</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e29" source="Oliphant" target="Morris">
+      <data key="percentile">99.9992</data>
+      <data key="n_chapter_pairs">5959</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e30" source="Kingsley" target="Disraeli">
+      <data key="percentile">99.9991</data>
+      <data key="n_chapter_pairs">1683</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e31" source="Disraeli" target="Lawrence">
+      <data key="percentile">99.9991</data>
+      <data key="n_chapter_pairs">7564</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e32" source="Jenkins" target="Conrad">
+      <data key="percentile">99.9991</data>
+      <data key="n_chapter_pairs">138</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e33" source="Disraeli" target="Oliphant">
+      <data key="percentile">99.9990</data>
+      <data key="n_chapter_pairs">8555</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e34" source="Jenkins" target="Ouida">
+      <data key="percentile">99.9990</data>
+      <data key="n_chapter_pairs">1564</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e35" source="Reynolds" target="Yeats">
+      <data key="percentile">99.9990</data>
+      <data key="n_chapter_pairs">4959</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e36" source="Disraeli" target="Machen">
+      <data key="percentile">99.9989</data>
+      <data key="n_chapter_pairs">1708</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e37" source="Reynolds" target="Jenkins">
+      <data key="percentile">99.9989</data>
+      <data key="n_chapter_pairs">6003</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e38" source="Ouida" target="Disraeli">
+      <data key="percentile">99.9989</data>
+      <data key="n_chapter_pairs">6435</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e39" source="Disraeli" target="Ward">
+      <data key="percentile">99.9989</data>
+      <data key="n_chapter_pairs">16592</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e40" source="Jenkins" target="Broughton">
+      <data key="percentile">99.9988</data>
+      <data key="n_chapter_pairs">2898</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e41" source="Disraeli" target="Morris">
+      <data key="percentile">99.9988</data>
+      <data key="n_chapter_pairs">24644</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e42" source="Thackeray" target="Jenkins">
+      <data key="percentile">99.9988</data>
+      <data key="n_chapter_pairs">1541</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e43" source="Reade" target="MacDonald">
+      <data key="percentile">99.9988</data>
+      <data key="n_chapter_pairs">2632</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e44" source="Reade" target="Jenkins">
+      <data key="percentile">99.9988</data>
+      <data key="n_chapter_pairs">1288</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e45" source="Reynolds" target="Harraden">
+      <data key="percentile">99.9987</data>
+      <data key="n_chapter_pairs">5742</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e46" source="Lytton" target="Lawrence">
+      <data key="percentile">99.9987</data>
+      <data key="n_chapter_pairs">3503</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e47" source="Reynolds" target="Lytton">
+      <data key="percentile">99.9986</data>
+      <data key="n_chapter_pairs">29493</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e48" source="Reynolds" target="Broughton">
+      <data key="percentile">99.9985</data>
+      <data key="n_chapter_pairs">32886</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e49" source="Reynolds" target="Ouida">
+      <data key="percentile">99.9985</data>
+      <data key="n_chapter_pairs">27666</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e50" source="Trollope" target="Morris">
+      <data key="percentile">99.9984</data>
+      <data key="n_chapter_pairs">14746</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e51" source="Oliphant" target="Harraden">
+      <data key="percentile">99.9984</data>
+      <data key="n_chapter_pairs">1298</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e52" source="Ouida" target="Yeats">
+      <data key="percentile">99.9982</data>
+      <data key="n_chapter_pairs">2014</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e53" source="Reynolds" target="Disraeli">
+      <data key="percentile">99.9982</data>
+      <data key="n_chapter_pairs">25839</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e54" source="Reade" target="Disraeli">
+      <data key="percentile">99.9981</data>
+      <data key="n_chapter_pairs">5544</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e55" source="Reade" target="Lewis">
+      <data key="percentile">99.9981</data>
+      <data key="n_chapter_pairs">2576</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e56" source="Harraden" target="Hornung">
+      <data key="percentile">99.9980</data>
+      <data key="n_chapter_pairs">484</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e57" source="Ouida" target="Harraden">
+      <data key="percentile">99.9980</data>
+      <data key="n_chapter_pairs">2332</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e58" source="Jenkins" target="Nesbit">
+      <data key="percentile">99.9979</data>
+      <data key="n_chapter_pairs">1334</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e59" source="Morris" target="Silberrad">
+      <data key="percentile">99.9978</data>
+      <data key="n_chapter_pairs">2323</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e60" source="Jenkins" target="Lawrence">
+      <data key="percentile">99.9978</data>
+      <data key="n_chapter_pairs">713</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e61" source="Jenkins" target="Fowler">
+      <data key="percentile">99.9978</data>
+      <data key="n_chapter_pairs">414</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e62" source="Sinclair" target="Blackmore">
+      <data key="percentile">99.9976</data>
+      <data key="n_chapter_pairs">3948</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e63" source="Reynolds" target="Eliot">
+      <data key="percentile">99.9976</data>
+      <data key="n_chapter_pairs">42021</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e64" source="Blackmore" target="Lawrence">
+      <data key="percentile">99.9974</data>
+      <data key="n_chapter_pairs">2604</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e65" source="Yeats" target="Wells">
+      <data key="percentile">99.9973</data>
+      <data key="n_chapter_pairs">798</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e66" source="Sinclair" target="Morris">
+      <data key="percentile">99.9972</data>
+      <data key="n_chapter_pairs">4747</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e67" source="Dickens" target="Morris">
+      <data key="percentile">99.9971</data>
+      <data key="n_chapter_pairs">16665</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e68" source="Anstey" target="Morris">
+      <data key="percentile">99.9969</data>
+      <data key="n_chapter_pairs">1919</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e69" source="Ouida" target="Wells">
+      <data key="percentile">99.9967</data>
+      <data key="n_chapter_pairs">4452</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e70" source="Disraeli" target="Blackmore">
+      <data key="percentile">99.9965</data>
+      <data key="n_chapter_pairs">12180</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e71" source="Ouida" target="Lawrence">
+      <data key="percentile">99.9965</data>
+      <data key="n_chapter_pairs">3286</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e72" source="Tupper" target="Wells">
+      <data key="percentile">99.9964</data>
+      <data key="n_chapter_pairs">1260</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e73" source="Reynolds" target="Kingsley">
+      <data key="percentile">99.9963</data>
+      <data key="n_chapter_pairs">4437</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e74" source="Reade" target="Harraden">
+      <data key="percentile">99.9962</data>
+      <data key="n_chapter_pairs">1232</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e75" source="Forster" target="Wells">
+      <data key="percentile">99.9962</data>
+      <data key="n_chapter_pairs">559</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e76" source="Reynolds" target="Machen">
+      <data key="percentile">99.9962</data>
+      <data key="n_chapter_pairs">1827</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e77" source="Morris" target="Ward">
+      <data key="percentile">99.9961</data>
+      <data key="n_chapter_pairs">1212</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e78" source="MacDonald" target="Machen">
+      <data key="percentile">99.9961</data>
+      <data key="n_chapter_pairs">329</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e79" source="Disraeli" target="Glyn">
+      <data key="percentile">99.9960</data>
+      <data key="n_chapter_pairs">3660</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e80" source="Brontë" target="Jenkins">
+      <data key="percentile">99.9959</data>
+      <data key="n_chapter_pairs">1035</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e81" source="Lytton" target="Glyn">
+      <data key="percentile">99.9958</data>
+      <data key="n_chapter_pairs">1695</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e82" source="Jenkins" target="Ward">
+      <data key="percentile">99.9957</data>
+      <data key="n_chapter_pairs">1564</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e83" source="Morris" target="Woolf">
+      <data key="percentile">99.9955</data>
+      <data key="n_chapter_pairs">3434</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e84" source="Collins" target="Wells">
+      <data key="percentile">99.9954</data>
+      <data key="n_chapter_pairs">1470</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e85" source="Yonge" target="Harraden">
+      <data key="percentile">99.9954</data>
+      <data key="n_chapter_pairs">2882</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e86" source="Barry" target="Harraden">
+      <data key="percentile">99.9954</data>
+      <data key="n_chapter_pairs">814</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e87" source="Disraeli" target="Silberrad">
+      <data key="percentile">99.9954</data>
+      <data key="n_chapter_pairs">5612</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e88" source="Reynolds" target="Buchan">
+      <data key="percentile">99.9952</data>
+      <data key="n_chapter_pairs">2610</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e89" source="Jenkins" target="Lewis">
+      <data key="percentile">99.9951</data>
+      <data key="n_chapter_pairs">1058</data>
+      <data key="is_validated">false</data>
+      <data key="weight">1.0000</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e90" source="Gaskell" target="Jenkins">
+      <data key="percentile">99.9950</data>
+      <data key="n_chapter_pairs">874</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e91" source="MacDonald" target="Lawrence">
+      <data key="percentile">99.9949</data>
+      <data key="n_chapter_pairs">1457</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e92" source="Dickens" target="Jenkins">
+      <data key="percentile">99.9949</data>
+      <data key="n_chapter_pairs">3795</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e93" source="Grossmith" target="Wells">
+      <data key="percentile">99.9947</data>
+      <data key="n_chapter_pairs">966</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e94" source="Reynolds" target="Glyn">
+      <data key="percentile">99.9945</data>
+      <data key="n_chapter_pairs">3915</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e95" source="Yeats" target="Lawrence">
+      <data key="percentile">99.9945</data>
+      <data key="n_chapter_pairs">589</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e96" source="Tupper" target="Lawrence">
+      <data key="percentile">99.9943</data>
+      <data key="n_chapter_pairs">930</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e97" source="Braddon" target="Jenkins">
+      <data key="percentile">99.9943</data>
+      <data key="n_chapter_pairs">966</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e98" source="Reynolds" target="Thackeray">
+      <data key="percentile">99.9942</data>
+      <data key="n_chapter_pairs">17487</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e99" source="Harraden" target="Machen">
+      <data key="percentile">99.9942</data>
+      <data key="n_chapter_pairs">154</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e100" source="Reynolds" target="Phillpotts">
+      <data key="percentile">99.9941</data>
+      <data key="n_chapter_pairs">11223</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e101" source="Kingsley" target="Harraden">
+      <data key="percentile">99.9941</data>
+      <data key="n_chapter_pairs">374</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e102" source="Reynolds" target="Collins">
+      <data key="percentile">99.9940</data>
+      <data key="n_chapter_pairs">9135</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e103" source="Wells" target="Lewis">
+      <data key="percentile">99.9939</data>
+      <data key="n_chapter_pairs">1932</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e104" source="Reynolds" target="Ward">
+      <data key="percentile">99.9939</data>
+      <data key="n_chapter_pairs">17748</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e105" source="Eliot" target="Wells">
+      <data key="percentile">99.9938</data>
+      <data key="n_chapter_pairs">6762</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e106" source="Disraeli" target="Eliot">
+      <data key="percentile">99.9937</data>
+      <data key="n_chapter_pairs">23345</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e107" source="Broughton" target="Morris">
+      <data key="percentile">99.9937</data>
+      <data key="n_chapter_pairs">12726</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e108" source="Jenkins" target="Anstey">
+      <data key="percentile">99.9936</data>
+      <data key="n_chapter_pairs">437</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e109" source="Eliot" target="Morris">
+      <data key="percentile">99.9935</data>
+      <data key="n_chapter_pairs">16261</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e110" source="Disraeli" target="Brontë">
+      <data key="percentile">99.9933</data>
+      <data key="n_chapter_pairs">6525</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e111" source="Blackmore" target="Machen">
+      <data key="percentile">99.9931</data>
+      <data key="n_chapter_pairs">588</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e112" source="Thackeray" target="Morris">
+      <data key="percentile">99.9928</data>
+      <data key="n_chapter_pairs">6767</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e113" source="Harraden" target="Conrad">
+      <data key="percentile">99.9928</data>
+      <data key="n_chapter_pairs">132</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e114" source="Jenkins" target="Hamilton">
+      <data key="percentile">99.9926</data>
+      <data key="n_chapter_pairs">414</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e115" source="Reynolds" target="Nesbit">
+      <data key="percentile">99.9924</data>
+      <data key="n_chapter_pairs">15138</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e116" source="Jenkins" target="Barry">
+      <data key="percentile">99.9923</data>
+      <data key="n_chapter_pairs">851</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e117" source="Jenkins" target="Machen">
+      <data key="percentile">99.9922</data>
+      <data key="n_chapter_pairs">161</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e118" source="Reade" target="Ouida">
+      <data key="percentile">99.9920</data>
+      <data key="n_chapter_pairs">5936</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e119" source="Oliphant" target="Yeats">
+      <data key="percentile">99.9918</data>
+      <data key="n_chapter_pairs">1121</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e120" source="Disraeli" target="MacDonald">
+      <data key="percentile">99.9917</data>
+      <data key="n_chapter_pairs">11468</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e121" source="Blackmore" target="Barry">
+      <data key="percentile">99.9917</data>
+      <data key="n_chapter_pairs">3108</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e122" source="Lytton" target="Machen">
+      <data key="percentile">99.9916</data>
+      <data key="n_chapter_pairs">791</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e123" source="Thackeray" target="Harraden">
+      <data key="percentile">99.9915</data>
+      <data key="n_chapter_pairs">1474</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e124" source="MacDonald" target="Conrad">
+      <data key="percentile">99.9915</data>
+      <data key="n_chapter_pairs">282</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e125" source="Jenkins" target="White">
+      <data key="percentile">99.9914</data>
+      <data key="n_chapter_pairs">207</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e126" source="Skene" target="Jenkins">
+      <data key="percentile">99.9912</data>
+      <data key="n_chapter_pairs">322</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e127" source="Morris" target="Conrad">
+      <data key="percentile">99.9912</data>
+      <data key="n_chapter_pairs">606</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e128" source="Benson" target="Morris">
+      <data key="percentile">99.9912</data>
+      <data key="n_chapter_pairs">2121</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e129" source="Jenkins" target="Eliot">
+      <data key="percentile">99.9911</data>
+      <data key="n_chapter_pairs">2001</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e130" source="Oliphant" target="Disraeli">
+      <data key="percentile">99.9911</data>
+      <data key="n_chapter_pairs">5841</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e131" source="Dickens" target="Lytton">
+      <data key="percentile">99.9909</data>
+      <data key="n_chapter_pairs">18645</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e132" source="Disraeli" target="Broughton">
+      <data key="percentile">99.9908</data>
+      <data key="n_chapter_pairs">30744</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e133" source="Kingsley" target="Morris">
+      <data key="percentile">99.9908</data>
+      <data key="n_chapter_pairs">1717</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e134" source="Reynolds" target="MacDonald">
+      <data key="percentile">99.9906</data>
+      <data key="n_chapter_pairs">12267</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e135" source="Ouida" target="MacDonald">
+      <data key="percentile">99.9905</data>
+      <data key="n_chapter_pairs">4982</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e136" source="Ouida" target="Lytton">
+      <data key="percentile">99.9905</data>
+      <data key="n_chapter_pairs">7345</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e137" source="Trollope" target="Blackmore">
+      <data key="percentile">99.9902</data>
+      <data key="n_chapter_pairs">4536</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e138" source="Blackmore" target="Glyn">
+      <data key="percentile">99.9900</data>
+      <data key="n_chapter_pairs">1260</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e139" source="Harraden" target="Woolf">
+      <data key="percentile">99.9900</data>
+      <data key="n_chapter_pairs">748</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e140" source="Harraden" target="Lawrence">
+      <data key="percentile">99.9899</data>
+      <data key="n_chapter_pairs">682</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e141" source="Morris" target="Hornung">
+      <data key="percentile">99.9898</data>
+      <data key="n_chapter_pairs">2222</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e142" source="Sinclair" target="Harraden">
+      <data key="percentile">99.9898</data>
+      <data key="n_chapter_pairs">1034</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e143" source="Blackmore" target="Ouida">
+      <data key="percentile">99.9897</data>
+      <data key="n_chapter_pairs">8904</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e144" source="Oliphant" target="MacDonald">
+      <data key="percentile">99.9897</data>
+      <data key="n_chapter_pairs">2773</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e145" source="Clive" target="Jenkins">
+      <data key="percentile">99.9897</data>
+      <data key="n_chapter_pairs">276</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e146" source="Harraden" target="Lewis">
+      <data key="percentile">99.9896</data>
+      <data key="n_chapter_pairs">1012</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e147" source="Thackeray" target="Disraeli">
+      <data key="percentile">99.9895</data>
+      <data key="n_chapter_pairs">6633</data>
+      <data key="is_validated">true</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e148" source="Thackeray" target="Ouida">
+      <data key="percentile">99.9893</data>
+      <data key="n_chapter_pairs">7102</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e149" source="Eliot" target="Disraeli">
+      <data key="percentile">99.9892</data>
+      <data key="n_chapter_pairs">15939</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e150" source="Disraeli" target="Nesbit">
+      <data key="percentile">99.9892</data>
+      <data key="n_chapter_pairs">14152</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e151" source="Reynolds" target="Braddon">
+      <data key="percentile">99.9891</data>
+      <data key="n_chapter_pairs">10962</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+    <edge id="e152" source="Oliphant" target="Ouida">
+      <data key="percentile">99.9890</data>
+      <data key="n_chapter_pairs">5988</data>
+      <data key="is_validated">false</data>
+      <data key="weight">0.9999</data>
+      <data key="label">100.0%</data>
+    </edge>
+  </graph>
+</graphml>
