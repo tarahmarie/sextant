@@ -715,6 +715,8 @@ def save_results(df, results, validation_results=None):
     sm_result = results['sm_result']
     feature_names = results['feature_names']
     pretty_names = results['pretty_names']
+    scaler = results['scaler']
+    sk_model = results['sk_model']
     
     # Save coefficients with SHAP contributions
     coef_data = []
@@ -734,6 +736,35 @@ def save_results(df, results, validation_results=None):
     coef_path = f"./projects/{project_name}/results/influence_coefficients_shap_cv.csv"
     coef_df.to_csv(coef_path, index=False)
     print(f"Coefficients saved to: {coef_path}")
+    
+    # =========================================================================
+    # Save scaler parameters and model intercept for audit/reproducibility
+    # =========================================================================
+    scaler_data = []
+    for i, name in enumerate(feature_names):
+        scaler_data.append({
+            'variable': name,
+            'pretty_name': pretty_names[name],
+            'mean': scaler.mean_[i],
+            'std': scaler.scale_[i],
+            'var': scaler.var_[i]
+        })
+    
+    scaler_df = pd.DataFrame(scaler_data)
+    scaler_path = f"./projects/{project_name}/results/scaler_parameters.csv"
+    scaler_df.to_csv(scaler_path, index=False)
+    print(f"Scaler parameters saved to: {scaler_path}")
+    
+    # Save model intercept
+    intercept_path = f"./projects/{project_name}/results/model_intercept.txt"
+    with open(intercept_path, 'w') as f:
+        f.write("# Logistic Regression Model Intercept\n")
+        f.write("# This is the intercept (bias) term from sklearn LogisticRegression\n")
+        f.write(f"intercept = {sk_model.intercept_[0]}\n")
+        f.write("\n# Also saving statsmodels intercept (const) for comparison:\n")
+        if 'const' in sm_result.params:
+            f.write(f"statsmodels_const = {sm_result.params['const']}\n")
+    print(f"Model intercept saved to: {intercept_path}")
     
     # Save validation results if available
     if validation_results:
