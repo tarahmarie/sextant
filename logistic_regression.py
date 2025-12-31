@@ -3,7 +3,7 @@ Logistic Regression Analysis for Literary Influence Detection
 with SHAP Value Decomposition for Feature Contributions
 and Proper Train/Test Split with Cross-Validation
 
-UPDATES (addressing Scott Hale's feedback):
+UPDATES (addressing reviewer feedback):
 - Implements proper train/test split (80/20)
 - Reports 10-fold cross-validation on training set
 - Evaluates on held-out test set (model has never seen this data)
@@ -15,7 +15,7 @@ This script identifies literary influence by:
    (addresses collinearity and provides theoretically grounded importance measures)
 3. Validating against the known Eliot->Lawrence influence relationship
 
-METHODOLOGICAL NOTE (addressing Lisa's comment):
+METHODOLOGICAL NOTE (addressing reviewer's comment):
 Standard beta coefficients in logistic regression cannot be directly interpreted
 as "percentage contributions" because:
 - The logistic link function complicates interpretation
@@ -28,7 +28,7 @@ SHAP (SHapley Additive exPlanations) values solve this by:
 - Having axiomatic guarantees (efficiency, symmetry, dummy, additivity)
 
 Author: Tarah Wheeler
-For: DH-Trace Dissertation Project / Sextant Paper
+For: Dissertation Project / Sextant Paper
 """
 
 import sqlite3
@@ -195,7 +195,7 @@ def run_logistic_regression_with_cv(df):
     """
     STEP 3: Fit logistic regression with proper train/test split and cross-validation.
     
-    This addresses Scott Hale's methodological concern:
+    This addresses reviewer methodological concern:
     (a) Define gold standard (same-author classification)
     (b) Train on subset with cross-validation to report evaluation metrics
     (c) Test on held-out data the model has never seen
@@ -380,7 +380,7 @@ def run_logistic_regression_with_cv(df):
     naive_contributions = (abs_coefs / abs_coefs.sum()) * 100
     
     # =========================================================================
-    # PART F: L1 REGULARIZATION CHECK (addressing Scott's comment)
+    # PART F: L1 REGULARIZATION CHECK 
     # =========================================================================
     print("\n" + "-" * 50)
     print("PART F: L1 REGULARIZATION CHECK")
