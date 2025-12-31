@@ -1,0 +1,69 @@
+INFLUENCE DETECTION MODEL SUMMARY
+(With Train/Test Split and Cross-Validation)
+============================================================
+
+DATA SPLIT
+------------------------------------------------------------
+Training set: 4,765,140 pairs (80%)
+Test set: 1,191,286 pairs (20%, held out)
+Stratified split: Yes (preserves class proportions)
+
+CROSS-VALIDATION (10-Fold, Training Set)
+------------------------------------------------------------
+ROC AUC: 0.7826 (±0.0019)
+Accuracy: 0.9721 (±0.0000)
+
+HELD-OUT TEST SET RESULTS
+------------------------------------------------------------
+ROC AUC: 0.7813
+Accuracy: 0.9721
+Precision: 0.8348
+Recall: 0.0328
+F1 Score: 0.0630
+
+FEATURE CONTRIBUTIONS (SHAP Value Decomposition)
+------------------------------------------------------------
+Hapax Legomena: 85.4%
+SVM Stylometry: 13.1%
+Sequence Alignment: 1.6%
+
+MODEL COEFFICIENTS
+------------------------------------------------------------
+Hapax Legomena: β = -1.2332 (SE = 0.0033, p = 0.00e+00)
+Sequence Alignment: β = -0.1581 (SE = 0.0015, p = 0.00e+00)
+SVM Stylometry: β = 0.1707 (SE = 0.0026, p = 0.00e+00)
+
+Pseudo R² (McFadden): 0.1510
+
+============================================================
+VALIDATION AGAINST DOCUMENTED INFLUENCE CASES
+============================================================
+
+Influence Pair               N pairs    Best Rank   Percentile
+------------------------------------------------------------
+Eliot → Lawrence               4,991          226      100.00%
+Thackeray → Disraeli           6,633          768       99.99%
+Dickens → Collins              5,775          642       99.99%
+Thackeray → Trollope           7,571          950       99.98%
+Dickens → Hardy                7,425           61      100.00%
+Eliot → Hardy                  7,245           29      100.00%
+Gaskell → Dickens              3,914          736       99.99%
+Brontë → Gaskell                 760          575       99.99%
+
+Average percentile: 99.99%
+Cases above 99th percentile: 8
+Cases above 95th percentile: 8
+Cases above 90th percentile: 8
+
+============================================================
+L1 REGULARIZATION CHECK
+============================================================
+
+All three variables retained under L1 regularization.
+(None reduced to zero coefficient)
+→ Each variable contributes independent signal.
+
+L1 Coefficients:
+  Hapax Legomena: -1.2332
+  Sequence Alignment: -0.1581
+  SVM Stylometry: 0.1707
