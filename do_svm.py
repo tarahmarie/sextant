@@ -412,6 +412,7 @@ def main():
         analyzer.prepare_features()
 
         analyzer.build_the_thing()
+        print(f"Vocabulary size: {analyzer.X.shape[1]}")
 
     finally:
         analyzer.close_db_connection()
