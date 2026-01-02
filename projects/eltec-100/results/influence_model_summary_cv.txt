@@ -10,30 +10,30 @@ Stratified split: Yes (preserves class proportions)
 
 CROSS-VALIDATION (10-Fold, Training Set)
 ------------------------------------------------------------
-ROC AUC: 0.7826 (±0.0019)
+ROC AUC: 0.7826 (±0.0018)
 Accuracy: 0.9721 (±0.0000)
 
 HELD-OUT TEST SET RESULTS
 ------------------------------------------------------------
 ROC AUC: 0.7813
 Accuracy: 0.9721
-Precision: 0.8348
-Recall: 0.0328
+Precision: 0.8347
+Recall: 0.0327
 F1 Score: 0.0630
 
 FEATURE CONTRIBUTIONS (SHAP Value Decomposition)
 ------------------------------------------------------------
-Hapax Legomena: 85.4%
-SVM Stylometry: 13.1%
+Hapax Legomena: 85.5%
+SVM Stylometry: 13.0%
 Sequence Alignment: 1.6%
 
 MODEL COEFFICIENTS
 ------------------------------------------------------------
-Hapax Legomena: β = -1.2332 (SE = 0.0033, p = 0.00e+00)
-Sequence Alignment: β = -0.1581 (SE = 0.0015, p = 0.00e+00)
-SVM Stylometry: β = 0.1707 (SE = 0.0026, p = 0.00e+00)
+Hapax Legomena: β = -1.2335 (SE = 0.0033, p = 0.00e+00)
+Sequence Alignment: β = -0.1580 (SE = 0.0015, p = 0.00e+00)
+SVM Stylometry: β = 0.1690 (SE = 0.0026, p = 0.00e+00)
 
-Pseudo R² (McFadden): 0.1510
+Pseudo R² (McFadden): 0.1509
 
 ============================================================
 VALIDATION AGAINST DOCUMENTED INFLUENCE CASES
@@ -41,14 +41,14 @@ VALIDATION AGAINST DOCUMENTED INFLUENCE CASES
 
 Influence Pair               N pairs    Best Rank   Percentile
 ------------------------------------------------------------
-Eliot → Lawrence               4,991          226      100.00%
-Thackeray → Disraeli           6,633          768       99.99%
-Dickens → Collins              5,775          642       99.99%
-Thackeray → Trollope           7,571          950       99.98%
-Dickens → Hardy                7,425           61      100.00%
+Eliot → Lawrence               4,991          227      100.00%
+Thackeray → Disraeli           6,633          770       99.99%
+Dickens → Collins              5,775          637       99.99%
+Thackeray → Trollope           7,571          985       99.98%
+Dickens → Hardy                7,425           60      100.00%
 Eliot → Hardy                  7,245           29      100.00%
-Gaskell → Dickens              3,914          736       99.99%
-Brontë → Gaskell                 760          575       99.99%
+Gaskell → Dickens              3,914          735       99.99%
+Brontë → Gaskell                 760          576       99.99%
 
 Average percentile: 99.99%
 Cases above 99th percentile: 8
@@ -64,6 +64,6 @@ All three variables retained under L1 regularization.
 → Each variable contributes independent signal.
 
 L1 Coefficients:
-  Hapax Legomena: -1.2332
-  Sequence Alignment: -0.1581
-  SVM Stylometry: 0.1707
+  Hapax Legomena: -1.2334
+  Sequence Alignment: -0.1580
+  SVM Stylometry: 0.1690
