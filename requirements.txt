@@ -727,9 +727,9 @@ nest-asyncio==1.6.0 ; python_version >= "3.11" and python_version < "4.0" \
 networkx==3.3 ; python_version >= "3.11" and python_version < "4.0" \
     --hash=sha256:0c127d8b2f4865f59ae9cb8aafcd60b5c70f3241ebd66f7defad7c4ab90126c9 \
     --hash=sha256:28575580c6ebdaf4505b22c6256a2b9de86b316dc63ba9e93abde3d78dfdbcf2
-nltk==3.9 ; python_version >= "3.11" and python_version < "4.0" \
-    --hash=sha256:d17863e861bb33ac617893329d71d06a3dfb7e3eb9ee0b8105281c53944a45a1 \
-    --hash=sha256:e98acac454407fa38b76cccb29208d377731cf7fab68f323754a3681f104531f
+nltk==3.9.2 ; python_version >= "3.11" and python_version < "4.0" \
+    --hash=sha256:0f409e9b069ca4177c1903c3e843eef90c7e92992fa4931ae607da6de49e1419 \
+    --hash=sha256:1e209d2b3009110635ed9709a67a1a3e33a10f799490fa71cf4bec218c11c88a
 notebook-shim==0.2.4 ; python_version >= "3.11" and python_version < "4.0" \
     --hash=sha256:411a5be4e9dc882a074ccbcae671eda64cceb068767e9a3419096986560e1cef \
     --hash=sha256:b4b2cfa1b65d98307ca24361f5b30fe785b53c3fd07b7a47e89acb5e6ac638cb
@@ -1502,9 +1502,9 @@ webencodings==0.5.1 ; python_version >= "3.11" and python_version < "4.0" \
 websocket-client==1.8.0 ; python_version >= "3.11" and python_version < "4.0" \
     --hash=sha256:17b44cc997f5c498e809b22cdf2d9c7a9e71c02c8cc2b6c56e7c2d1239bfa526 \
     --hash=sha256:3239df9f44da632f96012472805d40a23281a991027ce11d2f45a6f24ac4c3da
-werkzeug==3.1.4 ; python_version >= "3.11" and python_version < "4.0" \
-    --hash=sha256:2ad50fb9ed09cc3af22c54698351027ace879a0b60a3b5edf5730b2f7d876905 \
-    --hash=sha256:cd3cd98b1b92dc3b7b3995038826c68097dcb16f9baa63abe35f20eafeb9fe5e
+werkzeug==3.1.5 ; python_version >= "3.11" and python_version < "4.0" \
+    --hash=sha256:5111e36e91086ece91f93268bb39b4a35c1e6f1feac762c9c822ded0a4e322dc \
+    --hash=sha256:6a548b0e88955dd07ccb25539d7d0cc97417ee9e179677d22c7041c8f078ce67
 widgetsnbextension==4.0.11 ; python_version >= "3.11" and python_version < "4.0" \
     --hash=sha256:55d4d6949d100e0d08b94948a42efc3ed6dfdc0e9468b2c4b128c9a2ce3a7a36 \
     --hash=sha256:8b22a8f1910bfd188e596fe7fc05dcbd87e810c8a4ba010bdb3da86637398474
