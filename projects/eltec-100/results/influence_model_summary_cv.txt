@@ -17,9 +17,9 @@ HELD-OUT TEST SET RESULTS
 ------------------------------------------------------------
 ROC AUC: 0.7813
 Accuracy: 0.9721
-Precision: 0.8347
-Recall: 0.0327
-F1 Score: 0.0630
+Precision: 0.8325
+Recall: 0.0326
+F1 Score: 0.0628
 
 FEATURE CONTRIBUTIONS (SHAP Value Decomposition)
 ------------------------------------------------------------
@@ -29,9 +29,9 @@ Sequence Alignment: 1.6%
 
 MODEL COEFFICIENTS
 ------------------------------------------------------------
-Hapax Legomena: β = -1.2335 (SE = 0.0033, p = 0.00e+00)
+Hapax Legomena: β = -1.2333 (SE = 0.0033, p = 0.00e+00)
 Sequence Alignment: β = -0.1580 (SE = 0.0015, p = 0.00e+00)
-SVM Stylometry: β = 0.1690 (SE = 0.0026, p = 0.00e+00)
+SVM Stylometry: β = 0.1689 (SE = 0.0026, p = 0.00e+00)
 
 Pseudo R² (McFadden): 0.1509
 
@@ -41,14 +41,14 @@ VALIDATION AGAINST DOCUMENTED INFLUENCE CASES
 
 Influence Pair               N pairs    Best Rank   Percentile
 ------------------------------------------------------------
-Eliot → Lawrence               4,991          227      100.00%
-Thackeray → Disraeli           6,633          770       99.99%
-Dickens → Collins              5,775          637       99.99%
-Thackeray → Trollope           7,571          985       99.98%
+Eliot → Lawrence               4,991          225      100.00%
+Thackeray → Disraeli           6,633          774       99.99%
+Dickens → Collins              5,775          639       99.99%
+Thackeray → Trollope           7,571          957       99.98%
 Dickens → Hardy                7,425           60      100.00%
 Eliot → Hardy                  7,245           29      100.00%
 Gaskell → Dickens              3,914          735       99.99%
-Brontë → Gaskell                 760          576       99.99%
+Brontë → Gaskell                 760          571       99.99%
 
 Average percentile: 99.99%
 Cases above 99th percentile: 8
@@ -64,6 +64,6 @@ All three variables retained under L1 regularization.
 → Each variable contributes independent signal.
 
 L1 Coefficients:
-  Hapax Legomena: -1.2334
+  Hapax Legomena: -1.2333
   Sequence Alignment: -0.1580
-  SVM Stylometry: 0.1690
+  SVM Stylometry: 0.1689
