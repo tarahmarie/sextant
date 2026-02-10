@@ -715,9 +715,9 @@ mistune==3.0.2 ; python_version >= "3.11" and python_version < "4.0" \
 nbclient==0.10.0 ; python_version >= "3.11" and python_version < "4.0" \
     --hash=sha256:4b3f1b7dba531e498449c4db4f53da339c91d449dc11e9af3a43b4eb5c5abb09 \
     --hash=sha256:f13e3529332a1f1f81d82a53210322476a168bb7090a0289c795fe9cc11c9d3f
-nbconvert==7.16.6 ; python_version >= "3.11" and python_version < "4.0" \
-    --hash=sha256:1375a7b67e0c2883678c48e506dc320febb57685e5ee67faa51b18a90f3a712b \
-    --hash=sha256:576a7e37c6480da7b8465eefa66c17844243816ce1ccc372633c6b71c3c0f582
+nbconvert==7.17.0 ; python_version >= "3.11" and python_version < "4.0" \
+    --hash=sha256:1b2696f1b5be12309f6c7d707c24af604b87dfaf6d950794c7b07acab96dda78 \
+    --hash=sha256:4f99a63b337b9a23504347afdab24a11faa7d86b405e5c8f9881cd313336d518
 nbformat==5.10.4 ; python_version >= "3.11" and python_version < "4.0" \
     --hash=sha256:322168b14f937a5d11362988ecac2a4952d3d8e3a2cbeb2319584631226d5b3a \
     --hash=sha256:3b48d6c8fbca4b299bf3982ea7db1af21580e4fec269ad087b9e81588891200b
@@ -1395,9 +1395,9 @@ seaborn==0.12.2 ; python_version >= "3.11" and python_version < "4.0" \
 send2trash==1.8.3 ; python_version >= "3.11" and python_version < "4.0" \
     --hash=sha256:0c31227e0bd08961c7665474a3d1ef7193929fedda4233843689baa056be46c9 \
     --hash=sha256:b18e7a3966d99871aefeb00cfbcfdced55ce4871194810fc71f4aa484b953abf
-setuptools==80.9.0 ; python_version >= "3.11" and python_version < "4.0" \
-    --hash=sha256:062d34222ad13e0cc312a4c02d73f059e86a4acbfbdea8f8f76b28c99f306922 \
-    --hash=sha256:f36b47402ecde768dbfafc46e8e4207b4360c654f1f3bb84475f0a28628fb19c
+setuptools==82.0.0 ; python_version >= "3.11" and python_version < "4.0" \
+    --hash=sha256:22e0a2d69474c6ae4feb01951cb69d515ed23728cf96d05513d36e42b62b37cb \
+    --hash=sha256:70b18734b607bd1da571d097d236cfcfacaf01de45717d59e6e04b96877532e0
 six==1.16.0 ; python_version >= "3.11" and python_version < "4.0" \
     --hash=sha256:1e61c37477a1626458e36f7b1d82aa5c9b094fa4802892072e49de9c60c4c926 \
     --hash=sha256:8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254
