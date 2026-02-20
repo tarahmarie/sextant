@@ -4,12 +4,12 @@ from collections import Counter
 
 from nltk.tokenize import word_tokenize
 
+# Characters that string.punctuation misses
+BAD_TOKENS = frozenset({
+    '', '\u2014', '\u2013', '\u2018', '\u2019',
+    '\u201c', '\u201d', '\u2026', '\u00ab', '\u00bb'
+})
 
-def remove_tei_lines_from_text(text):
-    import re
-    text = text.split("</teiHeader>", 1)[-1] if "</teiHeader>" in text else text
-    text = re.sub(r"<[^>]+>", " ", text)
-    return text.strip()
 
 def compute_hapaxes(rawtext):
     words = word_tokenize(rawtext)
@@ -20,15 +20,7 @@ def compute_hapaxes(rawtext):
     # Count the frequency of each word using a dictionary-based counter
     freq = Counter(words)
 
-    # Find the hapaxes (words that occur only once)
-    hapaxes = [word.lower() for word in freq if freq[word] == 1]
+    # Find the hapaxes (words that occur only once), filtering bad tokens at construction
+    hapaxes = [word.lower() for word in freq if freq[word] == 1 and word not in BAD_TOKENS]
 
-    # Characters that aren't in string.punctuation but need to go:
-    bad_chars = ['—']
-    try:
-        for char in bad_chars:
-            hapaxes.remove(char)
-    except ValueError:
-        pass
-    
     return hapaxes

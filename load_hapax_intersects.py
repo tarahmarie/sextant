@@ -25,11 +25,9 @@ def make_hapax_overlaps_dict(one_id, two_id, pair_id):
 #Fetch the hapaxes and store them in a working dict.
 hapaxes_dict = read_all_hapaxes_from_db()
 
-i = 1
 pbar = tqdm(desc='Computing hapax overlaps', total=number_of_combinations, colour="#ffaf87", bar_format='{l_bar}{bar} {n_fmt}/{total_fmt} | Elapsed: [{elapsed}]')
 for id, item in text_pairs.items():
     make_hapax_overlaps_dict(item[0], item[1], id)
-    i+=1
     pbar.update(1)
 pbar.close()
 
