@@ -13,6 +13,24 @@ from nltk.tokenize import word_tokenize
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics import classification_report
 from sklearn.model_selection import train_test_split
+from collections import Counter
+
+def stratified_split_safe(X, y, test_size=0.2, random_state=42):
+    """Filter singleton classes before stratified split."""
+    class_counts = Counter(y)
+    mask = [class_counts[label] >= 2 for label in y]
+    import numpy as np
+    if hasattr(X, 'toarray'):  # sparse matrix
+        X_f = X[mask]
+    elif isinstance(X, np.ndarray):
+        X_f = X[mask]
+    else:
+        X_f = [x for x, m in zip(X, mask) if m]
+    y_f = [label for label, m in zip(y, mask) if m]
+    skipped = sum(1 for m in mask if not m)
+    if skipped:
+        print(f"  (Filtered {skipped} texts from {len(set(label for label, m in zip(y, mask) if not m))} singleton classes for stratified split)")
+    return train_test_split(X_f, y_f, test_size=test_size, random_state=random_state, stratify=y_f)
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.svm import SVC
 from tqdm import tqdm
@@ -228,9 +246,7 @@ class AuthorshipAnalyzer:
 
     def assess_authorship_likelihood(self):
         """Compute authorship likelihood for all chapters."""
-        X_train, X_test, y_train, y_test = train_test_split(
-            self.X, self.novels, test_size=0.2, random_state=42, stratify=self.novels
-        )
+        X_train, X_test, y_train, y_test = stratified_split_safe(self.X, self.novels)
         self.svm.fit(X_train, y_train)
 
         # Vectorize all chapters at once (much faster than one at a time)
@@ -310,9 +326,7 @@ class AuthorshipAnalyzer:
             pbar.close()
 
         # Train on split data
-        X_train, X_test, y_train, y_test = train_test_split(
-            self.X, self.chapter_labels, test_size=0.2, random_state=42, stratify=self.chapter_labels
-        )
+        X_train, X_test, y_train, y_test = stratified_split_safe(self.X, self.chapter_labels)
         self.svm.fit(X_train, y_train)
 
         # Batch transform and predict (much faster)

@@ -1,3 +1,4 @@
+import re
 # This script is finding, matching, cleaning, and counting all the authors
 # and texts inside splits to get ready to do some math on them all. Adds
 # them to a fresh db in the paired format for later calculation.
@@ -104,7 +105,7 @@ while i <= file_count:
             #If I don't, I can't use the all_texts data with the alignments data.
             
             stripped_name_of_text = fix_alignment_file_names(name_of_text.split('.')[0].strip())
-            temp_text.chapter_num = stripped_name_of_text.split('chapter_')[1]
+            _m = re.search(r'(?:chapter|book|Note|section|part|letter)_(.+)$', stripped_name_of_text); temp_text.chapter_num = _m.group(1) if _m else '0'
 
             if text not in seen_texts:
                 unique_text_id += 1

@@ -1,0 +1,577 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Economy of Machinery and Manufactures</title><author>Babbage, Charles (1791-1871)</author></titleStmt><publicationStmt><publisher>Charles Knight</publisher><pubPlace>London</pubPlace><date>1832</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="19">Chapter 19
+On the Division of Labour
+217. Perhaps the most important principle on which the
+economy of a manufacture depends, is the division of labour
+amongst the persons who perform the work. The first application
+of this principle must have been made in a very early stage of
+society, for it must soon have been apparent, that a larger
+number of comforts and conveniences could be acquired by each
+individual, if one man restricted his occupation to the art of
+making bows, another to that of building houses, a third boats,
+and so on. This division of labour into trades was not, however,
+the result of an opinion that the general riches of the community
+would be increased by such an arrangement; but it must have
+arisen from the circumstance of each individual so employed
+discovering that he himself could thus make a greater profit of
+his labour than by pursuing more varied occupations. Society must
+have made considerable advances before this principle could have
+been carried into the workshop; for it is only in countries which
+have attained a high degree of civilization, and in articles in
+which there is a great competition amongst the producers, that
+the most perfect system of the division of labour is to be
+observed. The various principles on which the advantages of this
+system depend, have been much the subject of discussion amongst
+writers on political economy; but the relative importance of
+their influence does not appear, in all cases, to have been
+estimated with sufficient precision. It is my intention, in the
+first instance, to state shortly those principles, and then to
+point out what appears to me to have been omitted by those who
+have previously treated the subject.
+218. 1. Of the time required for learning. It will readily be
+admitted, that the portion of time occupied in the acquisition of
+any art will depend on the difficulty of its execution; and that
+the greater the number of distinct processes, the longer will be
+the time which the apprentice must employ in acquiring it. Five
+or seven years have been adopted, in a great many trades, as the
+time considered requisite for a lad to acquire a sufficient
+knowledge of his art, and to enable him to repay by his labour,
+during the latter portion of his time, the expense incurred by
+his master at its commencement. If, however, instead of learning
+all the different processes for making a needle, for instance,
+his attention be confined to one operation, the portion of time
+consumed unprofitably at the commencement of his apprenticeship
+will be small, and all the rest of it will be beneficial to his
+master: and, consequently, if there be any competition amongst
+the masters, the apprentice will be able to make better terms,
+and diminish the period of his servitude. Again, the facility of
+acquiring skill in a single process, and the early period of life
+at which it can be made a source of profit, will induce a greater
+number of parents to bring up their children to it; and from this
+circumstance also, the number of workmen being increased, the
+wages will soon fall.
+219. 2. Of waste of materials in learning. A certain quantity
+of material will, in all cases, be consumed unprofitably, or
+spoiled by every person who learns an art; and as he applies
+himself to each new process, he will waste some of the raw
+material, or of the partly manufactured commodity. But if each
+man commit this waste in acquiring successively every process,
+the quantity of waste will be much greater than if each person
+confine his attention to one process; in this view of the
+subject, therefore, the division of labour will diminish the
+price of production.
+220. 3. Another advantage resulting from the division of
+labour is, the saving of that portion of time which is always
+lost in changing from one occupation to another. When the human
+hand, or the human head, has been for some time occupied in any
+kind of work, it cannot instantly change its employment with full
+effect. The muscles of the limbs employed have acquired a
+flexibility during their exertion, and those not in action a
+stiffness during rest, which renders every change slow and
+unequal in the commencement. Long habit also produces in the
+muscles exercised a capacity for enduring fatigue to a much
+greater degree than they could support under other circumstances.
+A similar result seems to take place in any change of mental
+exertion; the attention bestowed on the new subject not being so
+perfect at first as it becomes after some exercise.
+221. 4. Change of tools. The employment of different tools in
+the successive processes is another cause of the loss of time in
+changing from one operation to another. If these tools are
+simple, and the change is not frequent, the loss of time is not
+considerable; but in many processes of the arts the tools are of
+great delicacy, requiring accurate adjustment every time they are
+used; and in many cases the time employed in adjusting bears a
+large proportion to that employed in using the tool. The
+sliding-rest, the dividing and the drilling-engine, are of this
+kind; and hence, in manufactories of sufficient extent, it is
+found to be good economy to keep one machine constantly employed
+in one kind of work: one lathe, for example, having a screw
+motion to its sliding-rest along the whole length of its bed, is
+kept constantly making cylinders; another, having a motion for
+equalizing the velocity of the work at the point at which it
+passes the tool, is kept for facing surfaces; whilst a third is
+constantly employed in cutting wheels.
+222. 5. Skill acquired by frequent repetition of the same
+processes. The constant repetition of the same process
+necessarily produces in the workman a degree of excellence and
+rapidity in his particular department, which is never possessed
+by a person who is obliged to execute many different processes.
+This rapidity is still further increased from the circumstance
+that most of the operations in factories, where the division of
+labour is carried to a considerable extent, are paid for as
+piece-work. It is difficult to estimate in numbers the effect of
+this cause upon production. In nail-making, Adam Smith has
+stated, that it is almost three to one; for, he observes, that a
+smith accustomed to make nails, but whose whole business has not
+been that of a nailer, can make only from eight hundred to a
+thousand per day; whilst a lad who had never exercised any other
+trade, can make upwards of two thousand three hundred a day.
+223. In different trades, the economy of production arising
+from the last-mentioned cause will necessarily be different. The
+case of nail-making is, perhaps, rather an extreme one. It must,
+however, be observed, that, in one sense, this is not a permanent
+source of advantage; for, though it acts at the commencement of
+an establishment, yet every month adds to the skill of the
+workmen; and at the end of three or four years they will not be
+very far behind those who have never practised any other branch
+of their art. Upon an occasion when a large issue of bank-notes
+was required, a clerk at the Bank of England signed his name,
+consisting of seven letters, including the initial of his
+Christian name, five thousand three hundred times during eleven
+working hours, besides arranging the notes he had signed in
+parcels of fifty each.
+224. 6. The division of labour suggests the contrivance of
+tools and machinery to execute its processes. When each
+processes, by which any article is produced, is the sole
+occupation of one individual, his whole attention being devoted
+to a very limited and simple operation, improvements in the form
+of his tools, or in the mode of using them, are much more likely
+to occur to his mind, than if it were distracted by a greater
+variety of circumstances. Such an improvement in the tool is
+generally the first step towards a machine. If a piece of metal
+is to be cut in a lathe, for example, there is one particular
+angle at which the cutting-tool must be held to insure the
+cleanest cut; and it is quite natural that the idea of fixing the
+tool at that angle should present itself to an intelligent
+workman. The necessity of moving the tool slowly, and in a
+direction parallel to itself, would suggest the use of a screw,
+and thus arises the sliding-rest. It was probably the idea of
+mounting a chisel in a frame, to prevent its cutting too deeply,
+which gave rise to the common carpenter's plane. In cases where a
+blow from a hammer is employed, experience teaches the proper
+force required. The transition from the hammer held in the hand
+to one mounted upon an axis, and lifted regularly to a certain
+height by some mechanical contrivance, requires perhaps a greater
+degree of invention than those just instanced; yet it is not
+difficult to perceive, that, if the hammer always falls from the
+same height, its effect must be always the same.
+225. When each process has been reduced to the use of some
+simple tool, the union of all these tools, actuated by one moving
+power, constitutes a machine. In contriving tools and simplifying
+processes, the operative workmen are, perhaps, most successful;
+but it requires far other habits to combine into one machine
+these scattered arts. A previous education as a workman in the
+peculiar trade, is undoubtedly a valuable preliminary; but in
+order to make such combinations with any reasonable expectation
+of success, an extensive knowledge of machinery, and the power of
+making mechanical drawings, are essentially requisite. These
+accomplishments are now much more common than they were
+formerly, and their absence was, perhaps, one of the causes of
+the multitude of failures in the early history of many of our
+manufactures.
+226. Such are the principles usually assigned as the causes
+of the advantage resulting from the division of labour. As in the
+view I have taken of the question, the most important and
+influential cause has been altogether unnoticed, I shall restate
+those principles in the words of Adam Smith:
+"The great increase in the quantity of work, which, in consequence
+of the division of labour, the same number of people are capable
+of performing, is owing to three different circumstances: first,
+to the increase of dexterity in every particular workman;
+secondly, to the saving of time, which is commonly lost in
+passing from one species of work to another; and, lastly, to the
+invention of a great number of machines which facilitate and
+abridge labour, and enable one man to do the work of many."
+Now, although all these are important causes, and each has
+its influence on the result; yet it appears to me, that any
+explanation of the cheapness of manufactured articles, as
+consequent upon the division of labour, would be incomplete if
+the following principle were omitted to be stated.
+That the master manufacturer, by dividing the work to be
+executed into different processes, each requiring different
+degrees of skill or of force, can purchase exactly that precise
+quantity of both which is necessary for each process; whereas, if
+the whole work were executed by one workman, that person must
+possess sufficient skill to perform the most difficult, and
+sufficient strength to execute the most laborious, of the
+operations into which the art is divided.(1*)
+227. As the clear apprehension of this principle, upon which
+a great part of the economy arising from the division of labour
+depends, is of considerable importance, it may be desirable to
+point out its precise and numerical application in some specific
+manufacture. The art of making needles is, perhaps, that which I
+should have selected for this illustration, as comprehending a
+very large number of processes remarkably different in their
+nature; but the less difficult art of pinmaking, has some claim
+to attention, from its having been used by Adam Smith; and I am
+confirmed in the choice of it, by the circumstance of our
+possessing a very accurate and minute description of that art, as
+practised in France above half a century ago.
+228. Pin-making. In the manufacture of pins in England the
+following processes are employed:
+1. Wire-drawing. (a) The brass wire used for making pins is
+purchased by the manufacturer in coils of about twenty-two inches
+in diameter, each weighing about thirty-six pounds. (b) The coils
+are wound off into smaller ones of about six inches in diameter,
+and between one and two pounds' weight. (c) The diameter of this
+wire is now reduced, by drawing it repeatedly through holes in
+steel plates, until it becomes of the size required for the sort
+of pins intended to be made. During this process the wire is
+hardened, and to prevent its breaking, it must be annealed two or
+three times, according to the diminution of diameter required.
+(d) The coils are then soaked in sulphuric acid, largely diluted
+with water, in order to clean them, and are then beaten on stone,
+for the purpose of removing any oxidated coating which may adhere
+to them. These operations are usually performed by men, who draw
+and clean from thirty to thirty-six pounds of wire a day. They
+are paid at the rate of five farthings per pound, and generally
+earn about 3s. 6d. per day.
+M. Perronnet made some experiments on the extension the wire
+undergoes in passing through each hole: he took a piece of thick
+Swedish brass wire, and found
+ Feet Inches
+
+ Its length to be before drawing 3 8
+
+ After passing the first hole 5 5
+
+ second hole 7 2
+
+ third hole 7 8
+
+ It was now annealed, and the length became
+ After passing the fourth hole 10 8
+ fifth hole 13 1
+ sixth hole 16 8
+ And finally, after passing through six other holes 144 0
+The holes through which the wire was drawn were not, in this
+experiment, of regularly decreasing diameter: it is extremely
+difficult to make such holes, and still more to preserve them in
+their original dimensions.
+229. 2. Straightening the wire. The coil of wire now passes
+into the hands of a woman, assisted by a boy or girl. A few
+nails, or iron pins, not quite in a line, are fixed into one end
+of a wooden table about twenty feet in length; the end of the
+wire is passed alternately between these nails, and is then
+pulled to the other end of the table. The object of this process
+is to straighten the wire, which had acquired a considerable
+curvature in the small coils in which it had been wound. The
+length thus straightened is cut off, and the remainder of the
+coil is drawn into similar lengths. About seven nails or pins are
+employed in straightening the wire, and their adjustment is a
+matter of some nicety. It seems, that by passing the wire between
+the first three nails or pins, a bend is produced in an opposite
+direction to that which the wire had in the coil; this bend, by
+passing the next two nails, is reduced to another less curved in
+the first direction, and so on till the curve of the wire may at
+last be confounded with a straight line.
+230. 3. Pointing. (a) A man next takes about three hundred of
+these straightened pieces in a parcel, and putting them into a
+gauge, cuts off from one end, by means of a pair of shears, moved
+by his foot, a portion equal in length to rather more than six
+pins. He continues this operation until the entire parcel is
+reduced into similar pieces. (b) The next step is to sharpen the
+ends: for this purpose the operator sits before a steel mill,
+which is kept rapidly revolving: it consists of a cylinder about
+six inches in diameter, and two and a half inches broad, faced
+with steel, which is cut in the manner of a file. Another
+cylinder is fixed on the same axis at a few inches distant; the
+file on the edge of which is of a finer kind, and is used for
+finishing off the points. The workman now takes up a parcel of
+the wires between the finger and thumb of each hand, and presses
+the ends obliquely on the mill, taking care with his fingers and
+thumbs to make each wire slowly revolve upon its axis. Having
+thus pointed all the pieces at one end, he reverses them, and
+performs the same operation on the other. This process requires
+considerable skill, but it is not unhealthy; whilst the similar
+process in needlemaking is remarkably destructive of health. (c)
+The pieces now pointed at both ends, are next placed in gauges,
+and the pointed ends are cut off, by means of shears, to the
+proper length of which the pins are to be made. The remaining
+portions of the wire are now equal to about four pins in length,
+and are again pointed at each end, and their lengths again cut
+off. This process is repeated a third time, and the small portion
+of wire left in the middle is thrown amongst the waste, to be
+melted along with the dust arising from the sharpening. It is
+usual for a man, his wife, and a child, to join in performing
+these processes; and they are paid at the rate of five farthings
+per pound. They can point from thirty-four to thirty-six and a
+half pounds per day, and gain from 6s. 6d. to 7s., which may be
+apportioned thus; 5s. 6d. the man. 1s. the woman, 6d. to the boy
+or girl.
+231. 4. Twisting and cutting the heads. The next process is
+making the heads. For this purpose (a) a boy takes a piece of
+wire, of the same diameter as the pin to be headed, which he
+fixes on an axis that can be made to revolve rapidly by means of
+a wheel and strap connected with it. This wire is called the
+mould. He then takes a smaller wire, which having passed through
+an eye in a small tool held in his left hand, he fixes close to
+the bottom of the mould. The mould is now made to revolve rapidly
+by means of the right hand, and the smaller wire coils round it
+until it has covered the whole length of the mould. The boy now
+cuts the end of the spiral connected with the foot of the mould,
+and draws it off. (b) When a sufficient quantity of heading is
+thus made, a man takes from thirteen to twenty of these spirals
+in his left hand, between his thumb and three outer fingers:
+these he places in such a manner that two turns of the spiral
+shall be beyond the upper edge of a pair of shears, and with the
+forefinger of the same hand he feels that only two turns do so
+project. With his right hand he closes the shears; and the two
+turns of the spiral being cut off, drop into a basin; the
+position of the forefinger preventing the heads from flying about
+when cut off. The workmen who cut the heads are usually paid at
+the rate of 2 1/2d. to 3d. per pound for large heads, but a
+higher price is given for the smaller heading. Out of this they
+pay the boy who spins the spiral; he receives from 4d. to 6d. a
+day. A good workman can cut from six to about thirty pounds of
+heading per day, according to its size.
+232. 5. Heading. The process of fixing the head on the body
+of the pin is usually executed by women and children. Each
+operator sits before a small steel stake, having a cavity, into
+which one half of the intended head will fit; immediately above
+is a steel die, having a corresponding cavity for the other half
+of the head: this latter die can be raised by a pedal moved by
+the foot. The weight of the hammer is from seven to ten pounds,
+and it falls through a very small space, perhaps from one to two
+inches. The cavities in the centre of these dies are connected
+with the edge of a small groove, to admit of the body of the pin,
+which is thus prevented from being flattened by the blow of the
+die. (a) The operator with his left hand dips the pointed end of
+the body of a pin into a tray of heads; having passed the point
+through one of them, he carries it along to the other end with
+the forefinger. He now takes the pin in the right hand, and
+places the head in the cavity of the stake, and, lifting the die
+with his foot, allows it to fall on the head. This blow tightens
+the head on the shank, which is then turned round, and the head
+receives three or four blows on different parts of its
+circumference. The women and children who fix the heads are paid
+at the rate of 1s. 6d. for every twenty thousand. A skilful
+operator can with great exertion do twenty thousand per day, but
+from ten to fifteen thousand is the usual quantity: children head
+a much smaller number: varying, of course, with the degree of
+their skill. About one per cent of the pins are spoiled in the
+process; these are picked out afterwards by women, and are
+reserved, along with the waste from other processes, for the
+melting-pot. The die in which the heads are struck is varied in
+form according to the fashion of the time; but the repeated blows
+to which it is subject render it necessary that it should be
+repaired after it has been used for about thirty pounds of pins.
+233. 6. Tinning. The pins are now fit to be tinned, a process
+which is usually executed by a man, assisted by his wife, or by a
+lad. The quantity of pins operated upon at this stage is usually
+fifty-six pounds. (a) They are first placed in a pickle, in order
+to remove any grease or dirt from their surface, and also to
+render them rough, which facilitates the adherence of the tin
+with which they are to be covered. (b) They are then placed in a
+boiler full of a solution of tartar in water, in which they are
+mixed with a quantity of tin in small grains. In this they are
+generally kept boiling for about two hours and a half, and are
+then removed into a tub of water into which some bran has been
+thrown, for the purpose of washing off the acid liquor. (c) They
+are then taken out, and, being placed in wooden trays, are well
+shaken in dry bran: this removes any water adhering to them; and
+by giving the wooden tray a peculiar kind of motion, the pins are
+thrown up, and the bran gradually flies off, and leaves them
+behind in the tray. The man who pickles and tins the pins usually
+gets one penny per pound for the work, and employs himself,
+during the boiling of one batch of pins, in drying those
+previously tinned. He can earn about 9s. per day; but out of this
+he pays about 3s. for his assistant.
+234. 7. Papering. The pins come from the tinner in wooden
+bowls, with the points projecting in all directions: the
+arranging of them side by side in paper is generally performed by
+women. (a) A woman takes up some, and places them on a comb, and
+shaking them, some of the pins fall back into the bowl, and the
+rest, being caught by their heads, are detained between the teeth
+of the comb. (b) Having thus arranged them in a parallel
+direction, she fixes the requisite number between two pieces of
+iron, having twenty-five small grooves, at equal distances; (c)
+and having previously doubled the paper, she presses it against
+the points of the pins until they have passed through the two
+folds which are to retain them. The pins are then relieved from
+the grasp of the tool, and the process is repeated. A woman gains
+about 1s. 6d. per day by papering; but children are sometimes
+employed, who earn from 6d. per day, and upwards.
+235. Having thus generally described the various processes of
+pin-making, and having stated the usual cost of each, it will be
+convenient to present a tabular view of the time occupied by each
+process, and its cost, as well as the sums which can be earned by
+the persons who confine themselves solely to each process. As the
+rate of wages is itself fluctuating, and as the prices paid and
+quantities executed have been given only between certain limits,
+it is not to be expected that this table can represent the cost
+of each part of the work with the minutest accuracy, nor even
+that it shall accord perfectly with the prices above given: but
+it has been drawn up with some care, and will be quite sufficient
+to serve as the basis of those reasonings which it is meant to
+illustrate. A table nearly similar will be subjoined, which has
+been deduced from a statement of M. Perronet, respecting the art
+of pin-making in France, above seventy years ago.
+English manufacture
+236. Pins, Elevens, 5546 weigh one pound; one dozen = 6932
+pins weigh twenty ounces, and require six ounces of paper.
+ Name of the process
+
+ Workman
+
+ Time for making 1 lb of pins Hours
+
+ Cost of making 1 lb of pins Pence
+
+ Workmen earns per day s. d.
+
+ Price of making each part of a single pin in millionths of a
+
+penny
+
+ 1. Drawing wire (224)         Man    .3636  1.2500   3 3     225
+
+ 2. Straightening wire ( 225)  Woman  .3000   .2840   1 0      51
+
+                               Girl   .3000   .1420   0 6      26
+
+ 3. Pointing (226)             Man    .3000  1.7750   5 3     319
+
+ 4. Twisting and cutting heads Boy    .0400   .0147   0 4 1/2   3
+
+   (227)                       Man    .0400   .2103   5 4 1/2  38
+
+ 5. Heading (228)              Woman 4.0000  5.0000   1 3     901
+
+ 6 Tinning or whitening        Man    .1071   .6666   6 0     121
+
+   (229)                       Woman  .1071   .3333   3 0      60
+
+ 7. Papering (230)             Woman 2.1314  3.1973   1 6     576
+
+                                     7.6892 12.8732   - -    2320
+
+Number of persons employed: Men. 4; Women. 4; Children, 2.
+
+Total, 10.
+
+French manufacture
+237. Cost of 12,000 pins, No. 6, each being eight-tenths of an
+English inch in length,—as they were manufactured in France about
+1760; with the cost of each operation: deduced from the
+observations and statement of M. Perronet.
+ Name of the process
+
+ Time for making twelve thousand pins Hours
+
+ Cost of  making twelve thousand  pins Pence
+
+ Workman usually earns per day Pence
+
+ Expense of tools and materials Pence
+
+ 1. Wire                      —   —      —  24.75
+
+ 2. Straightening and cutting 1.2 .5     4.5      —
+
+ 3. Coarse pointing           1.2 .625  10.0      —
+
+    Turning wheel(2*)         1.2 .875   7.0      —
+
+    Fine Pointing              .8 .5     9.375    —
+
+    Turning wheel             1.2 .5     4.75     —
+
+    Cutting off pointed ends   .6 .375   7.5      —
+
+ 4. Turning spiral             .5 .125   3.0      —
+
+    Cutting off heads          .8 .375   5.625    —
+
+    Fuel to anneal ditto      —   —      —    .125
+
+ 5. Heading                  12.0 .333   4.25     —
+
+ 6. Tartar for cleaning       —   —      —    .5
+
+    Tartar for whitening      —   —      —    .5
+
+ 7. Papering                  4.8 .5     2.0      —
+
+    Paper                     —   —      —   1.0
+
+    Wear of tools             —   —      —   2.0
+
+                             24.3 4.708
+
+ The great expense of turning the wheel appears to have arisen
+from the person so occupied being unemployed during half his
+time, whilst the pointer went to another manufactory
+338. It appears from the analysis we have given of the art of
+pinmaking, that it occupies rather more than seven hours and a
+half of time, for ten different individuals working in succession
+on the same material, to convert it into a pound of pins; and
+that the total expense of their labour, each being paid in the
+joint ratio of his skill and of the time he is employed, amounts
+very nearly to 1s. 1d. But from an examination of the first of
+these tables, it appears that the wages earned by the persons
+employed vary from 4 1/2d. per day up to 6s., and consequently
+the skill which is required for their respective employments may
+be measured by those sums. Now it is evident, that if one person
+were required to make the whole pound of pins, he must have skill
+enough to earn about 5s. 3d. per day, whilst he is pointing the
+wires or cutting off the heads from the spiral coils—and 6s.
+when he is whitening the pins; which three operations together
+would occupy little more than the seventeenth part of his time.
+It is also apparent, that during more than one half of his time
+he must be earning only 1s. 3d, per day, in putting on the heads;
+although his skill, if properly employed, would, in the same
+time, produce nearly five times as much. If, therefore, we were
+to employ, for all the processes, the man who whitens the pins,
+and who earns 6s. per day, even supposing that he could make the
+pound of pins in an equally short time, yet we must pay him for
+his time 46. 14 pence, or about 3s. 10d. The pins would therefore
+cost, in making, three times and three quarters as much as they
+now do by the application of the division of labour.
+The higher the skill required of the workman in any one
+process of a manufacture, and the smaller the time during which
+it is employed, so much the greater will be the advantage of
+separating that process from the rest, and devoting one person's
+attention entirely to it. Had we selected the art of
+needle-making as our illustration, the economy arising from the
+division of labour would have been still more striking; for the
+process of tempering the needles requires great skill, attention,
+and experience, and although from three to four thousand are
+tempered at once, the workman is paid a very high rate of wages.
+In another process of the same manufacture, dry-pointing, which
+also is executed with great rapidity, the wages earned by the
+workman reach from 7s. to 12s., 15s., and even, in some
+instances, to 20s. per day; whilst other processes are carried on
+by children paid at the rate of 6d. per day.
+239. Some further reflections suggested by the preceding
+analysis, will be reserved until we have placed before the reader
+a brief description of a machine for making pins, invented by an
+American. It is highly ingenious in point of contrivance, and, in
+respect to its economical principles, will furnish a strong and
+interesting contrast with the manufacture of pins by the human
+hand. In this machine a coil of brass wire is placed on an axis;
+one end of this wire is drawn by a pair of rollers through a
+small hole in a plate of steel, and is held there by a forceps.
+As soon as the machine is put in action, -
+1. The forceps draws the wire on to a distance equal in
+length to one pin: a cutting edge of steel then descends close to
+the hole through which the wire entered, and severs the piece
+drawn out.
+2. The forceps holding the piece thus separated moves on,
+till it brings the wire to the centre of the chuck of a small
+lathe, which opens to receive it. Whilst the forceps is returning
+to fetch another piece of wire, the lathe revolves rapidly, and
+grinds the projecting end of the wire upon a steel mill, which
+advances towards it.
+3. After this first or coarse pointing, the lathe stops, and
+another forceps takes hold of the half-pointed pin, (which is
+instantly released by the opening of the chuck), and conveys it
+to a similar chuck of an adjacent lathe, which receives it, and
+finishes the pointing on a finer steel mill.
+4. This mill again stops, and another forceps removes the
+pointed pin into a pair of strong steel clams, having a small
+groove in them by which they hold the pin very firmly. A part of
+this groove, which terminates at that edge of the steel clams
+which is intended to form the head of the pin, is made conical. A
+small round steel punch is now driven forcibly against the end of
+the wire thus clamped, and the head of the pin is partially
+formed by compressing the wire into the conical cavity.
+NOTES:
+1. I have already stated that this principle presented itself to
+me after a personal examination of a number of manufactories and
+workshops devoted to different purposes; but I have since found
+that it had been distinctly pointed out in the work of Gioja.
+Nuovo Prospetto delle Scienze Economiche. 6 tom. 4to. Milano,
+1815, tom. i. capo iv.
+2. The great expense of turning the wheel appears to have arisen
+from the person so occupied being unemployed during half his
+time, whilst the pointer went to another manufactory.</div></body></text></TEI>

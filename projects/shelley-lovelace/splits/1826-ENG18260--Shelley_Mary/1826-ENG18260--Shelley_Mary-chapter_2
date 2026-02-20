@@ -1,0 +1,363 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Last Man</title><author>Shelley, Mary Wollstonecraft (1797-1851)</author></titleStmt><publicationStmt><publisher>Henry Colburn</publisher><pubPlace>London</pubPlace><date>1826</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="2">
+CHAPTER I.
+
+I am the native of a sea-surrounded nook, a cloud-enshadowed land, which, when
+the surface of the globe, with its shoreless ocean and trackless continents,
+presents itself to my mind, appears only as an inconsiderable speck in the
+immense whole; and yet, when balanced in the scale of mental power, far
+outweighed countries of larger extent and more numerous population. So true it
+is, that man’s mind alone was the creator of all that was good or great
+to man, and that Nature herself was only his first minister. England, seated
+far north in the turbid sea, now visits my dreams in the semblance of a vast
+and well-manned ship, which mastered the winds and rode proudly over the waves.
+In my boyish days she was the universe to me. When I stood on my native hills,
+and saw plain and mountain stretch out to the utmost limits of my vision,
+speckled by the dwellings of my countrymen, and subdued to fertility by their
+labours, the earth’s very centre was fixed for me in that spot, and the
+rest of her orb was as a fable, to have forgotten which would have cost neither
+my imagination nor understanding an effort.
+
+
+My fortunes have been, from the beginning, an exemplification of the power that
+mutability may possess over the varied tenor of man’s life. With regard
+to myself, this came almost by inheritance. My father was one of those men on
+whom nature had bestowed to prodigality the envied gifts of wit and
+imagination, and then left his bark of life to be impelled by these winds,
+without adding reason as the rudder, or judgment as the pilot for the voyage.
+His extraction was obscure; but circumstances brought him early into public
+notice, and his small paternal property was soon dissipated in the splendid
+scene of fashion and luxury in which he was an actor. During the short years of
+thoughtless youth, he was adored by the high-bred triflers of the day, nor
+least by the youthful sovereign, who escaped from the intrigues of party, and
+the arduous duties of kingly business, to find never-failing amusement and
+exhilaration of spirit in his society. My father’s impulses, never under
+his own controul, perpetually led him into difficulties from which his
+ingenuity alone could extricate him; and the accumulating pile of debts of
+honour and of trade, which would have bent to earth any other, was supported by
+him with a light spirit and tameless hilarity; while his company was so
+necessary at the tables and assemblies of the rich, that his derelictions were
+considered venial, and he himself received with intoxicating flattery.
+
+
+This kind of popularity, like every other, is evanescent: and the difficulties
+of every kind with which he had to contend, increased in a frightful ratio
+compared with his small means of extricating himself. At such times the king,
+in his enthusiasm for him, would come to his relief, and then kindly take his
+friend to task; my father gave the best promises for amendment, but his social
+disposition, his craving for the usual diet of admiration, and more than all,
+the fiend of gambling, which fully possessed him, made his good resolutions
+transient, his promises vain. With the quick sensibility peculiar to his
+temperament, he perceived his power in the brilliant circle to be on the wane.
+The king married; and the haughty princess of Austria, who became, as queen of
+England, the head of fashion, looked with harsh eyes on his defects, and with
+contempt on the affection her royal husband entertained for him. My father felt
+that his fall was near; but so far from profiting by this last calm before the
+storm to save himself, he sought to forget anticipated evil by making still
+greater sacrifices to the deity of pleasure, deceitful and cruel arbiter of his
+destiny.
+
+
+The king, who was a man of excellent dispositions, but easily led, had now
+become a willing disciple of his imperious consort. He was induced to look with
+extreme disapprobation, and at last with distaste, on my father’s
+imprudence and follies. It is true that his presence dissipated these clouds;
+his warm-hearted frankness, brilliant sallies, and confiding demeanour were
+irresistible: it was only when at a distance, while still renewed tales of his
+errors were poured into his royal friend’s ear, that he lost his
+influence. The queen’s dextrous management was employed to prolong these
+absences, and gather together accusations. At length the king was brought to
+see in him a source of perpetual disquiet, knowing that he should pay for the
+short-lived pleasure of his society by tedious homilies, and more painful
+narrations of excesses, the truth of which he could not disprove. The result
+was, that he would make one more attempt to reclaim him, and in case of ill
+success, cast him off for ever.
+
+
+Such a scene must have been one of deepest interest and high-wrought passion. A
+powerful king, conspicuous for a goodness which had heretofore made him meek,
+and now lofty in his admonitions, with alternate entreaty and reproof, besought
+his friend to attend to his real interests, resolutely to avoid those
+fascinations which in fact were fast deserting him, and to spend his great
+powers on a worthy field, in which he, his sovereign, would be his prop, his
+stay, and his pioneer. My father felt this kindness; for a moment ambitious
+dreams floated before him; and he thought that it would be well to exchange his
+present pursuits for nobler duties. With sincerity and fervour he gave the
+required promise: as a pledge of continued favour, he received from his royal
+master a sum of money to defray pressing debts, and enable him to enter under
+good auspices his new career. That very night, while yet full of gratitude and
+good resolves, this whole sum, and its amount doubled, was lost at the
+gaming-table. In his desire to repair his first losses, my father risked double
+stakes, and thus incurred a debt of honour he was wholly unable to pay. Ashamed
+to apply again to the king, he turned his back upon London, its false delights
+and clinging miseries; and, with poverty for his sole companion, buried himself
+in solitude among the hills and lakes of Cumberland. His wit, his bon mots, the
+record of his personal attractions, fascinating manners, and social talents,
+were long remembered and repeated from mouth to mouth. Ask where now was this
+favourite of fashion, this companion of the noble, this excelling beam, which
+gilt with alien splendour the assemblies of the courtly and the gay—you
+heard that he was under a cloud, a lost man; not one thought it belonged to him
+to repay pleasure by real services, or that his long reign of brilliant wit
+deserved a pension on retiring. The king lamented his absence; he loved to
+repeat his sayings, relate the adventures they had had together, and exalt his
+talents—but here ended his reminiscence.
+
+
+Meanwhile my father, forgotten, could not forget. He repined for the loss of
+what was more necessary to him than air or food—the excitements of
+pleasure, the admiration of the noble, the luxurious and polished living of the
+great. A nervous fever was the consequence; during which he was nursed by the
+daughter of a poor cottager, under whose roof he lodged. She was lovely,
+gentle, and, above all, kind to him; nor can it afford astonishment, that the
+late idol of high-bred beauty should, even in a fallen state, appear a being of
+an elevated and wondrous nature to the lowly cottage-girl. The attachment
+between them led to the ill-fated marriage, of which I was the offspring.
+Notwithstanding the tenderness and sweetness of my mother, her husband still
+deplored his degraded state. Unaccustomed to industry, he knew not in what way
+to contribute to the support of his increasing family. Sometimes he thought of
+applying to the king; pride and shame for a while withheld him; and, before his
+necessities became so imperious as to compel him to some kind of exertion, he
+died. For one brief interval before this catastrophe, he looked forward to the
+future, and contemplated with anguish the desolate situation in which his wife
+and children would be left. His last effort was a letter to the king, full of
+touching eloquence, and of occasional flashes of that brilliant spirit which
+was an integral part of him. He bequeathed his widow and orphans to the
+friendship of his royal master, and felt satisfied that, by this means, their
+prosperity was better assured in his death than in his life. This letter was
+enclosed to the care of a nobleman, who, he did not doubt, would perform the
+last and inexpensive office of placing it in the king’s own hand.
+
+
+He died in debt, and his little property was seized immediately by his
+creditors. My mother, pennyless and burthened with two children, waited week
+after week, and month after month, in sickening expectation of a reply, which
+never came. She had no experience beyond her father’s cottage; and the
+mansion of the lord of the manor was the chiefest type of grandeur she could
+conceive. During my father’s life, she had been made familiar with the
+name of royalty and the courtly circle; but such things, ill according with her
+personal experience, appeared, after the loss of him who gave substance and
+reality to them, vague and fantastical. If, under any circumstances, she could
+have acquired sufficient courage to address the noble persons mentioned by her
+husband, the ill success of his own application caused her to banish the idea.
+She saw therefore no escape from dire penury: perpetual care, joined to sorrow
+for the loss of the wondrous being, whom she continued to contemplate with
+ardent admiration, hard labour, and naturally delicate health, at length
+released her from the sad continuity of want and misery.
+
+
+The condition of her orphan children was peculiarly desolate. Her own father
+had been an emigrant from another part of the country, and had died long since:
+they had no one relation to take them by the hand; they were outcasts, paupers,
+unfriended beings, to whom the most scanty pittance was a matter of favour, and
+who were treated merely as children of peasants, yet poorer than the poorest,
+who, dying, had left them, a thankless bequest, to the close-handed charity of
+the land.
+
+
+I, the elder of the two, was five years old when my mother died. A remembrance
+of the discourses of my parents, and the communications which my mother
+endeavoured to impress upon me concerning my father’s friends, in slight
+hope that I might one day derive benefit from the knowledge, floated like an
+indistinct dream through my brain. I conceived that I was different and
+superior to my protectors and companions, but I knew not how or wherefore. The
+sense of injury, associated with the name of king and noble, clung to me; but I
+could draw no conclusions from such feelings, to serve as a guide to action. My
+first real knowledge of myself was as an unprotected orphan among the valleys
+and fells of Cumberland. I was in the service of a farmer; and with crook in
+hand, my dog at my side, I shepherded a numerous flock on the near uplands. I
+cannot say much in praise of such a life; and its pains far exceeded its
+pleasures. There was freedom in it, a companionship with nature, and a reckless
+loneliness; but these, romantic as they were, did not accord with the love of
+action and desire of human sympathy, characteristic of youth. Neither the care
+of my flock, nor the change of seasons, were sufficient to tame my eager
+spirit; my out-door life and unemployed time were the temptations that led me
+early into lawless habits. I associated with others friendless like myself; I
+formed them into a band, I was their chief and captain. All shepherd-boys
+alike, while our flocks were spread over the pastures, we schemed and executed
+many a mischievous prank, which drew on us the anger and revenge of the
+rustics. I was the leader and protector of my comrades, and as I became
+distinguished among them, their misdeeds were usually visited upon me. But
+while I endured punishment and pain in their defence with the spirit of an
+hero, I claimed as my reward their praise and obedience.
+
+
+In such a school my disposition became rugged, but firm. The appetite for
+admiration and small capacity for self-controul which I inherited from my
+father, nursed by adversity, made me daring and reckless. I was rough as the
+elements, and unlearned as the animals I tended. I often compared myself to
+them, and finding that my chief superiority consisted in power, I soon
+persuaded myself that it was in power only that I was inferior to the chiefest
+potentates of the earth. Thus untaught in refined philosophy, and pursued by a
+restless feeling of degradation from my true station in society, I wandered
+among the hills of civilized England as uncouth a savage as the wolf-bred
+founder of old Rome. I owned but one law, it was that of the strongest, and my
+greatest deed of virtue was never to submit.
+
+
+Yet let me a little retract from this sentence I have passed on myself. My
+mother, when dying, had, in addition to her other half-forgotten and misapplied
+lessons, committed, with solemn exhortation, her other child to my fraternal
+guardianship; and this one duty I performed to the best of my ability, with all
+the zeal and affection of which my nature was capable. My sister was three
+years younger than myself; I had nursed her as an infant, and when the
+difference of our sexes, by giving us various occupations, in a great measure
+divided us, yet she continued to be the object of my careful love. Orphans, in
+the fullest sense of the term, we were poorest among the poor, and despised
+among the unhonoured. If my daring and courage obtained for me a kind of
+respectful aversion, her youth and sex, since they did not excite tenderness,
+by proving her to be weak, were the causes of numberless mortifications to her;
+and her own disposition was not so constituted as to diminish the evil effects
+of her lowly station.
+
+
+She was a singular being, and, like me, inherited much of the peculiar
+disposition of our father. Her countenance was all expression; her eyes were
+not dark, but impenetrably deep; you seemed to discover space after space in
+their intellectual glance, and to feel that the soul which was their soul,
+comprehended an universe of thought in its ken. She was pale and fair, and her
+golden hair clustered on her temples, contrasting its rich hue with the living
+marble beneath. Her coarse peasant-dress, little consonant apparently with the
+refinement of feeling which her face expressed, yet in a strange manner
+accorded with it. She was like one of Guido’s saints, with heaven in her
+heart and in her look, so that when you saw her you only thought of that
+within, and costume and even feature were secondary to the mind that beamed in
+her countenance.
+
+
+Yet though lovely and full of noble feeling, my poor Perdita (for this was the
+fanciful name my sister had received from her dying parent), was not altogether
+saintly in her disposition. Her manners were cold and repulsive. If she had
+been nurtured by those who had regarded her with affection, she might have been
+different; but unloved and neglected, she repaid want of kindness with distrust
+and silence. She was submissive to those who held authority over her, but a
+perpetual cloud dwelt on her brow; she looked as if she expected enmity from
+every one who approached her, and her actions were instigated by the same
+feeling. All the time she could command she spent in solitude. She would ramble
+to the most unfrequented places, and scale dangerous heights, that in those
+unvisited spots she might wrap herself in loneliness. Often she passed whole
+hours walking up and down the paths of the woods; she wove garlands of flowers
+and ivy, or watched the flickering of the shadows and glancing of the leaves;
+sometimes she sat beside a stream, and as her thoughts paused, threw flowers or
+pebbles into the waters, watching how those swam and these sank; or she would
+set afloat boats formed of bark of trees or leaves, with a feather for a sail,
+and intensely watch the navigation of her craft among the rapids and shallows
+of the brook. Meanwhile her active fancy wove a thousand combinations; she
+dreamt “of moving accidents by flood and field”—she lost
+herself delightedly in these self-created wanderings, and returned with
+unwilling spirit to the dull detail of common life. Poverty was the cloud that
+veiled her excellencies, and all that was good in her seemed about to perish
+from want of the genial dew of affection. She had not even the same advantage
+as I in the recollection of her parents; she clung to me, her brother, as her
+only friend, but her alliance with me completed the distaste that her
+protectors felt for her; and every error was magnified by them into crimes. If
+she had been bred in that sphere of life to which by inheritance the delicate
+framework of her mind and person was adapted, she would have been the object
+almost of adoration, for her virtues were as eminent as her defects. All the
+genius that ennobled the blood of her father illustrated hers; a generous tide
+flowed in her veins; artifice, envy, or meanness, were at the antipodes of her
+nature; her countenance, when enlightened by amiable feeling, might have
+belonged to a queen of nations; her eyes were bright; her look fearless.
+
+
+Although by our situation and dispositions we were almost equally cut off from
+the usual forms of social intercourse, we formed a strong contrast to each
+other. I always required the stimulants of companionship and applause. Perdita
+was all-sufficient to herself. Notwithstanding my lawless habits, my
+disposition was sociable, hers recluse. My life was spent among tangible
+realities, hers was a dream. I might be said even to love my enemies, since by
+exciting me they in a sort bestowed happiness upon me; Perdita almost disliked
+her friends, for they interfered with her visionary moods. All my feelings,
+even of exultation and triumph, were changed to bitterness, if unparticipated;
+Perdita, even in joy, fled to loneliness, and could go on from day to day,
+neither expressing her emotions, nor seeking a fellow-feeling in another mind.
+Nay, she could love and dwell with tenderness on the look and voice of her
+friend, while her demeanour expressed the coldest reserve. A sensation with her
+became a sentiment, and she never spoke until she had mingled her perceptions
+of outward objects with others which were the native growth of her own mind.
+She was like a fruitful soil that imbibed the airs and dews of heaven, and gave
+them forth again to light in loveliest forms of fruits and flowers; but then
+she was often dark and rugged as that soil, raked up, and new sown with unseen
+seed.
+
+
+She dwelt in a cottage whose trim grass-plat sloped down to the waters of the
+lake of Ulswater; a beech wood stretched up the hill behind, and a purling
+brook gently falling from the acclivity ran through poplar-shaded banks into
+the lake. I lived with a farmer whose house was built higher up among the
+hills: a dark crag rose behind it, and, exposed to the north, the snow lay in
+its crevices the summer through. Before dawn I led my flock to the sheep-walks,
+and guarded them through the day. It was a life of toil; for rain and cold were
+more frequent than sunshine; but it was my pride to contemn the elements. My
+trusty dog watched the sheep as I slipped away to the rendezvous of my
+comrades, and thence to the accomplishment of our schemes. At noon we met
+again, and we threw away in contempt our peasant fare, as we built our
+fire-place and kindled the cheering blaze destined to cook the game stolen from
+the neighbouring preserves. Then came the tale of hair-breadth escapes, combats
+with dogs, ambush and flight, as gipsey-like we encompassed our pot. The search
+after a stray lamb, or the devices by which we elude or endeavoured to elude
+punishment, filled up the hours of afternoon; in the evening my flock went to
+its fold, and I to my sister.
+
+
+It was seldom indeed that we escaped, to use an old-fashioned phrase, scot
+free. Our dainty fare was often exchanged for blows and imprisonment. Once,
+when thirteen years of age, I was sent for a month to the county jail. I came
+out, my morals unimproved, my hatred to my oppressors encreased tenfold. Bread
+and water did not tame my blood, nor solitary confinement inspire me with
+gentle thoughts. I was angry, impatient, miserable; my only happy hours were
+those during which I devised schemes of revenge; these were perfected in my
+forced solitude, so that during the whole of the following season, and I was
+freed early in September, I never failed to provide excellent and plenteous
+fare for myself and my comrades. This was a glorious winter. The sharp frost
+and heavy snows tamed the animals, and kept the country gentlemen by their
+firesides; we got more game than we could eat, and my faithful dog grew sleek
+upon our refuse.
+
+
+Thus years passed on; and years only added fresh love of freedom, and contempt
+for all that was not as wild and rude as myself. At the age of sixteen I had
+shot up in appearance to man’s estate; I was tall and athletic; I was
+practised to feats of strength, and inured to the inclemency of the elements.
+My skin was embrowned by the sun; my step was firm with conscious power. I
+feared no man, and loved none. In after life I looked back with wonder to what
+I then was; how utterly worthless I should have become if I had pursued my
+lawless career. My life was like that of an animal, and my mind was in danger
+of degenerating into that which informs brute nature. Until now, my savage
+habits had done me no radical mischief; my physical powers had grown up and
+flourished under their influence, and my mind, undergoing the same discipline,
+was imbued with all the hardy virtues. But now my boasted independence was
+daily instigating me to acts of tyranny, and freedom was becoming
+licentiousness. I stood on the brink of manhood; passions, strong as the trees
+of a forest, had already taken root within me, and were about to shadow with
+their noxious overgrowth, my path of life.
+
+
+I panted for enterprises beyond my childish exploits, and formed distempered
+dreams of future action. I avoided my ancient comrades, and I soon lost them.
+They arrived at the age when they were sent to fulfil their destined situations
+in life; while I, an outcast, with none to lead or drive me forward, paused.
+The old began to point at me as an example, the young to wonder at me as a
+being distinct from themselves; I hated them, and began, last and worst
+degradation, to hate myself. I clung to my ferocious habits, yet half despised
+them; I continued my war against civilization, and yet entertained a wish to
+belong to it.
+
+
+I revolved again and again all that I remembered my mother to have told me of
+my father’s former life; I contemplated the few relics I possessed
+belonging to him, which spoke of greater refinement than could be found among
+the mountain cottages; but nothing in all this served as a guide to lead me to
+another and pleasanter way of life. My father had been connected with nobles,
+but all I knew of such connection was subsequent neglect. The name of the
+king,—he to whom my dying father had addressed his latest prayers, and
+who had barbarously slighted them, was associated only with the ideas of
+unkindness, injustice, and consequent resentment. I was born for something
+greater than I was—and greater I would become; but greatness, at least to
+my distorted perceptions, was no necessary associate of goodness, and my wild
+thoughts were unchecked by moral considerations when they rioted in dreams of
+distinction. Thus I stood upon a pinnacle, a sea of evil rolled at my feet; I
+was about to precipitate myself into it, and rush like a torrent over all
+obstructions to the object of my wishes— when a stranger influence came
+over the current of my fortunes, and changed their boisterous course to what
+was in comparison like the gentle meanderings of a meadow-encircling streamlet.
+
+</div></body></text></TEI>

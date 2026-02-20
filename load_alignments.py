@@ -70,7 +70,7 @@ with open(f'./projects/{project_name}/alignments/{alignments_file}', 'r') as the
             source_author = author_and_id_dict.get(temp_source_author, '')
             source_text_name = text_and_id_dict[source_filename]
             temp_target_author = fix_the_author_name_from_aligns(result['target_author'])
-            target_author = author_and_id_dict[temp_target_author]
+            target_author = author_and_id_dict.get(temp_target_author, '')
             target_text_name = text_and_id_dict[target_filename]
             try:
                 pair_id = inverted_pairs[(source_text_name, target_text_name)]

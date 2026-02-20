@@ -89,6 +89,10 @@ def get_author_from_tei_header(line):
     return reconstituted_line
 
 def get_date_from_tei_header(line):
+    import re
+    when_match = re.search(r'when="([0-9]{4})', line)
+    if when_match:
+        return when_match.group(1)
     line = line.split('<date>')[1]
     line = line.split('</date>')[0]
     ###NOTE: This fix would remove the garbarge from the Eltec headers that come from sequence aligns,
