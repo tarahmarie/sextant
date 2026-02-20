@@ -4,65 +4,14 @@ Report: Every author in the corpus compared to Lovelace.
 Run from the sextant directory.
 """
 import sqlite3, numpy as np, pandas as pd
+from model import load_and_score, load_eltec_model, parse_source, get_work_id
 
 project = 'shelley-lovelace'
-main_conn = sqlite3.connect(f'./projects/{project}/db/{project}.db')
-svm_conn = sqlite3.connect(f'./projects/{project}/db/svm.db')
-
-# ELTeC scaler parameters
-means = {'hap': 0.9498, 'al': 0.9999707, 'svm': 0.3243}
-stds = {'hap': 0.009913, 'al': 0.0002607, 'svm': 0.2574}
-intercept = -4.200229
-coefs = {'hap': -1.2332, 'al': -0.1580, 'svm': 0.1673}
-
-df = pd.read_sql_query("""
-    SELECT cj.*, t1.source_filename as source_name, t2.source_filename as target_name,
-           t1.short_name_for_svm as source_svm_name, t2.short_name_for_svm as target_svm_name,
-           t1.chapter_num as source_chapter, t2.chapter_num as target_chapter
-    FROM combined_jaccard cj
-    JOIN all_texts t1 ON cj.source_text = t1.text_id
-    JOIN all_texts t2 ON cj.target_text = t2.text_id
-""", main_conn)
-
-chapter_df = pd.read_sql_query("SELECT * FROM chapter_assessments", svm_conn)
-svm_conn.close()
-
-svm_scores = []
-for _, row in df.iterrows():
-    source_novel = row['source_svm_name']
-    target_novel = row['target_svm_name']
-    target_chapter = str(row['target_chapter'])
-    match = chapter_df[(chapter_df['novel'] == target_novel) & 
-                       (chapter_df['number'] == target_chapter)]
-    if len(match) > 0 and source_novel in match.columns:
-        svm_scores.append(match[source_novel].iloc[0])
-    else:
-        svm_scores.append(np.nan)
-
-df['svm_score'] = svm_scores
-df = df.dropna(subset=['svm_score'])
-
-df['hap_z'] = (df['hap_jac_dis'] - means['hap']) / stds['hap']
-df['al_z'] = (df['al_jac_dis'] - means['al']) / stds['al']
-df['svm_z'] = (df['svm_score'] - means['svm']) / stds['svm']
-df['logit'] = intercept + coefs['hap'] * df['hap_z'] + coefs['al'] * df['al_z'] + coefs['svm'] * df['svm_z']
-df['prob'] = 1 / (1 + np.exp(-df['logit']))
-df = df.sort_values('prob', ascending=False).reset_index(drop=True)
-df['rank'] = range(1, len(df) + 1)
-N = len(df)
-
-# ---- Extract author and work from source_name ----
-def parse_source(name):
-    # e.g. 1840-ENG18400--Shelley_Percy-section_7
-    parts = name.split('--')
-    if len(parts) < 2:
-        return name, name, name
-    year = name[:4]
-    rest = parts[1]  # Shelley_Percy-section_7
-    # split on first hyphen after author
-    author_work = rest.split('-', 1)
-    author = author_work[0].replace('_', ' ')
-    return author, year, name
+df, N = load_and_score(project)
+model = df.attrs['model']
+means = model['means']
+stds = model['stds']
+coefs = model['coefs']
 
 # ---- Filter to -> Lovelace only, exclude Lovelace self ----
 to_lace = df[df['target_name'].str.contains('Lovelace')].copy()
@@ -70,20 +19,6 @@ to_lace_ext = to_lace[~to_lace['source_name'].str.contains('Lovelace')].copy()
 
 to_lace_ext['author'] = to_lace_ext['source_name'].apply(lambda x: parse_source(x)[0])
 to_lace_ext['year'] = to_lace_ext['source_name'].apply(lambda x: parse_source(x)[1])
-
-# Identify distinct works (by year+author combo)
-to_lace_ext['work_key'] = to_lace_ext['source_name'].apply(
-    lambda x: '-'.join(x.split('--')[0:2]).rsplit('-', 1)[0] if '--' in x else x
-)
-# Simpler: use everything before the chapter/section/note/letter identifier
-import re
-def get_work_id(name):
-    # strip chapter_X, section_X, Note_X, letter_X from end
-    m = re.match(r'(.+?)[-_](?:chapter|section|Note|letter|part|book)_.*$', name)
-    if m:
-        return m.group(1)
-    return name
-
 to_lace_ext['work_id'] = to_lace_ext['source_name'].apply(get_work_id)
 
 # Also get Lovelace target note
@@ -201,6 +136,7 @@ print('\n')
 print('=' * 100)
 print('SECTION 5: LOVELACE LETTERS AS TARGETS')
 print('=' * 100)
+main_conn = sqlite3.connect(f'./projects/{project}/db/{project}.db')
 letter_tgts = to_lace_ext[to_lace_ext['target_name'].str.contains('letter')]
 if len(letter_tgts) == 0:
     # Check in full to_lace (including self)
@@ -213,7 +149,6 @@ if len(letter_tgts) == 0:
             print(f'    rank {row["rank"]:>6}/{N}  p={row["prob"]:.4f}  {src} -> {tgt}')
     else:
         print('  No Lovelace letters appear as targets in any scored pairs.')
-        # Check if letters are in the texts table at all
         letter_texts = pd.read_sql_query(
             "SELECT text_id, source_filename, short_name_for_svm FROM all_texts WHERE source_filename LIKE '%letter%'",
             main_conn)

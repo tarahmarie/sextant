@@ -8,7 +8,8 @@ from tqdm import tqdm
 from database_ops import (insert_hapaxes_to_db,
                           read_all_text_names_and_ids_from_db,
                           read_text_from_db)
-from hapaxes_1tM import compute_hapaxes, remove_tei_lines_from_text
+from hapaxes_1tM import compute_hapaxes
+from tei import strip_tei
 
 
 # Global variable for worker processes
@@ -24,7 +25,8 @@ def init_worker(text_and_id_dict):
 def process_file(name_of_text):
     """Worker function to compute hapaxes for a single file."""
     temp_text = read_text_from_db(name_of_text)
-    the_clean_data = remove_tei_lines_from_text(temp_text)
+    # DB text is already clean, but strip_tei is a safe no-op on clean text
+    the_clean_data = strip_tei(temp_text)
     
     hapaxes_from_file = compute_hapaxes(the_clean_data)
     hapax_count = len(hapaxes_from_file)

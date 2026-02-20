@@ -38,49 +38,44 @@ skipped_alignments = 0
 skipped_texts = set()
 
 #Alignments
-i = 1
 with open(f'./projects/{project_name}/alignments/{alignments_file}', 'r') as the_json:
     raw_json_list = list(the_json)
-    length_json_list = len(raw_json_list)
-    total_entries_in_alignments_file = length_json_list
-    while i <= length_json_list:
-        pbar = tqdm(desc='Loading Alignments', total=length_json_list, colour="magenta", bar_format='{l_bar}{bar} {n_fmt}/{total_fmt} | Elapsed: [{elapsed}]')
-        for json_str in raw_json_list:
-            result = json.loads(json_str)
-            
-            # Handle double .xml extension from TextPAIR output
-            source_filename = result['source_filename'].split('TEXT/')[1].replace('.xml', '').replace('.xml', '')
-            target_filename = result['target_filename'].split('TEXT/')[1].replace('.xml', '').replace('.xml', '')
-            
-            # Skip alignments for texts that were filtered out (e.g., below word count minimum)
-            if source_filename not in text_and_id_dict:
-                skipped_alignments += 1
-                skipped_texts.add(source_filename)
-                i += 1
-                pbar.update(1)
-                continue
-            if target_filename not in text_and_id_dict:
-                skipped_alignments += 1
-                skipped_texts.add(target_filename)
-                i += 1
-                pbar.update(1)
-                continue
-            
-            temp_source_author = fix_the_author_name_from_aligns(result['source_author'])
-            source_author = author_and_id_dict.get(temp_source_author, '')
-            source_text_name = text_and_id_dict[source_filename]
-            temp_target_author = fix_the_author_name_from_aligns(result['target_author'])
-            target_author = author_and_id_dict.get(temp_target_author, '')
-            target_text_name = text_and_id_dict[target_filename]
-            try:
-                pair_id = inverted_pairs[(source_text_name, target_text_name)]
-            except KeyError:
-                pair_id = inverted_pairs[(target_text_name, source_text_name)]
-            #The split below is part of the text-pair output path.
-            transactions.append((source_text_name, target_text_name, result['source_passage'], result['target_passage'], source_author, target_author, len(result['source_passage'].split(' ')), len(result['target_passage'].split(' ')), pair_id))
-            i+=1
-            pbar.update(1)
-        pbar.close()
+    total_entries_in_alignments_file = len(raw_json_list)
+
+pbar = tqdm(desc='Loading Alignments', total=total_entries_in_alignments_file, colour="magenta", bar_format='{l_bar}{bar} {n_fmt}/{total_fmt} | Elapsed: [{elapsed}]')
+for json_str in raw_json_list:
+    result = json.loads(json_str)
+    
+    # Handle double .xml extension from TextPAIR output
+    source_filename = result['source_filename'].split('TEXT/')[1].replace('.xml', '').replace('.xml', '')
+    target_filename = result['target_filename'].split('TEXT/')[1].replace('.xml', '').replace('.xml', '')
+    
+    # Skip alignments for texts that were filtered out (e.g., below word count minimum)
+    if source_filename not in text_and_id_dict:
+        skipped_alignments += 1
+        skipped_texts.add(source_filename)
+        pbar.update(1)
+        continue
+    if target_filename not in text_and_id_dict:
+        skipped_alignments += 1
+        skipped_texts.add(target_filename)
+        pbar.update(1)
+        continue
+    
+    temp_source_author = fix_the_author_name_from_aligns(result['source_author'])
+    source_author = author_and_id_dict.get(temp_source_author, '')
+    source_text_name = text_and_id_dict[source_filename]
+    temp_target_author = fix_the_author_name_from_aligns(result['target_author'])
+    target_author = author_and_id_dict.get(temp_target_author, '')
+    target_text_name = text_and_id_dict[target_filename]
+    try:
+        pair_id = inverted_pairs[(source_text_name, target_text_name)]
+    except KeyError:
+        pair_id = inverted_pairs[(target_text_name, source_text_name)]
+    #The split below is part of the text-pair output path.
+    transactions.append((source_text_name, target_text_name, result['source_passage'], result['target_passage'], source_author, target_author, len(result['source_passage'].split(' ')), len(result['target_passage'].split(' ')), pair_id))
+    pbar.update(1)
+pbar.close()
 
 # Report skipped alignments
 if skipped_alignments > 0:

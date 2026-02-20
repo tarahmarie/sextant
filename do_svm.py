@@ -35,7 +35,7 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.svm import SVC
 from tqdm import tqdm
 
-from hapaxes_1tM import remove_tei_lines_from_text
+from tei import strip_tei, extract_author
 from util import get_project_name, getListOfFiles
 
 def ensure_nltk_data():
@@ -58,23 +58,9 @@ def remove_combining_characters(text):
     return ''.join(c for c in unicodedata.normalize('NFKD', text) if not unicodedata.combining(c))
 
 
-def extract_author_name(xml_body):
-    author_pattern = re.compile(r'<author>([^,]+)', re.IGNORECASE | re.DOTALL)
-    match_author = author_pattern.search(xml_body)
-    
-    if match_author:
-        author = match_author.group(1).strip()
-        author = re.sub(r'\s*\([\s\d-]*\)', '', author)
-    else:
-        author = "Unknown Author"
-    
-    author = author.replace('-', '_')
-    return author
-
-
 def preprocess_text(text):
     """Preprocess a single text document."""
-    text = remove_tei_lines_from_text(text)
+    text = strip_tei(text)
     text = text.lower()
     text = re.sub(r"[^a-zA-Z0-9\s\u00C0-\u00FF]", "", text)
     tokens = word_tokenize(text)
@@ -88,7 +74,7 @@ def process_single_file(file_path):
     with open(file_path, 'r') as f:
         body = f.read()
 
-    author = remove_combining_characters(extract_author_name(body))
+    author = remove_combining_characters(extract_author(body))
     title = file_path.split('/')[4].split('-')[1]
     text = preprocess_text(body)
     chapter_num = file_path.split('_')[-1]

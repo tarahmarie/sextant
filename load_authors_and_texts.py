@@ -11,9 +11,9 @@ from tqdm import tqdm
 from database_ops import (insert_authors_to_db, insert_dirs_to_db,
                           insert_text_pairs_to_db, insert_texts_to_db,
                           read_all_text_names_and_ids_from_db)
-from hapaxes_1tM import remove_tei_lines_from_text
-from util import (extract_author_name, fix_alignment_file_names,
-                  get_date_from_tei_header, get_project_name,
+from tei import strip_tei, extract_author, extract_date
+from util import (fix_alignment_file_names,
+                  get_project_name,
                   get_word_count_for_text, getCountOfFiles, getListOfFiles)
 
 # Minimum word count for texts to be included in the corpus.
@@ -21,6 +21,11 @@ from util import (extract_author_name, fix_alignment_file_names,
 # Eder (2015) recommends 2,500-5,000 words for robust attribution, but
 # 500 words is acceptable for constrained attribution tasks.
 MIN_WORD_COUNT = 500
+
+# Precompiled regex for extracting chapter/section/note numbers from filenames
+CHAPTER_PATTERN = re.compile(
+    r'(?:chapter|book|Note|section|part|letter|canto|act|preface|Dedication)_(.+)$'
+)
 
 project_name = get_project_name()
 list_of_files = getListOfFiles(f'./projects/{project_name}/splits')
@@ -45,8 +50,7 @@ authors = {}
 seen_authors = []
 unique_author_id = 0
 
-texts = {}
-seen_texts = []
+seen_text_hashes = set()
 unique_text_id = 0
 
 dates = {}
@@ -56,67 +60,61 @@ unique_date_id = 0
 # Track skipped files for reporting
 skipped_files = []
 
-i = 1
-while i <= file_count:
+pbar = tqdm(desc='Loading All Texts', total=file_count, colour="yellow", bar_format='{l_bar}{bar} {n_fmt}/{total_fmt} | Elapsed: [{elapsed}]')
+for file in list_of_files:
     temp_text = Text()
-    pbar = tqdm(desc='Loading All Texts', total=file_count, colour="yellow", bar_format='{l_bar}{bar} {n_fmt}/{total_fmt} | Elapsed: [{elapsed}]')
-    for file in list_of_files:
-        the_dir = file.split('/')[4]
-        name_of_text = file.split('/')[5]
+    the_dir = file.split('/')[4]
+    name_of_text = file.split('/')[5]
 
-        # We need just the middle bit of our name_of_text to match the SVM db
-        # NOTE: Someone should standardize this, yeah?
-        short_name_part_one = name_of_text.split('-')[1]
-        short_name_for_svm = short_name_part_one.split('-')[0]
+    # We need just the middle bit of our name_of_text to match the SVM db
+    # NOTE: Someone should standardize this, yeah?
+    short_name_part_one = name_of_text.split('-')[1]
+    short_name_for_svm = short_name_part_one.split('-')[0]
 
-        #Python doesn't seem to want to have a read() and a readline() call to the same file handle.
-        #So, we'll open it twice.
-        with open(file, 'r') as temp_file:
-            content = temp_file.read()
-            author = extract_author_name(content)
-            temp_text.date = get_date_from_tei_header(content)
+    with open(file, 'r') as f:
+        raw = f.read()
 
-            if author not in seen_authors:
-                unique_author_id += 1
-                authors[author] = unique_author_id
-                seen_authors.append(author)
-            if the_dir not in seen_dirs:
-                unique_dir_id += 1
-                dirs[the_dir] = unique_dir_id
-                seen_dirs.append(the_dir)
+    author = extract_author(raw)
+    temp_text.date = extract_date(raw)
 
-        with open(file, 'r') as f:
-            text = f.read()
-            text = remove_tei_lines_from_text(text)
-            temp_text.content = text
-            temp_text.length = get_word_count_for_text(text)
-            
-            # MINIMUM WORD COUNT FILTER
-            # Skip texts below the stylometric threshold
-            if temp_text.length < MIN_WORD_COUNT:
-                stripped_name = fix_alignment_file_names(name_of_text.split('.')[0].strip())
-                skipped_files.append((temp_text.length, stripped_name))
-                i += 1
-                pbar.update(1)
-                continue
-            
-            #Because the alignments file has funny ideas about filenames where Lovelace is concerned
-            #I have to replace the final '-' with an '_' to match the filesystem
-            #If I don't, I can't use the all_texts data with the alignments data.
-            
-            stripped_name_of_text = fix_alignment_file_names(name_of_text.split('.')[0].strip())
-            _m = re.search(r'(?:chapter|book|Note|section|part|letter)_(.+)$', stripped_name_of_text); temp_text.chapter_num = _m.group(1) if _m else '0'
+    if author not in seen_authors:
+        unique_author_id += 1
+        authors[author] = unique_author_id
+        seen_authors.append(author)
+    if the_dir not in seen_dirs:
+        unique_dir_id += 1
+        dirs[the_dir] = unique_dir_id
+        seen_dirs.append(the_dir)
 
-            if text not in seen_texts:
-                unique_text_id += 1
-                texts[text] = unique_text_id
-                temp_text.id = unique_text_id
-                seen_texts.append(text)
-
-            insert_texts_to_db(authors[author], temp_text.id, stripped_name_of_text, temp_text.content, temp_text.chapter_num, temp_text.length, dirs[the_dir], temp_text.date, short_name_for_svm) 
-        i+=1
+    text = strip_tei(raw)
+    temp_text.content = text
+    temp_text.length = get_word_count_for_text(text)
+    
+    # MINIMUM WORD COUNT FILTER
+    # Skip texts below the stylometric threshold
+    if temp_text.length < MIN_WORD_COUNT:
+        stripped_name = fix_alignment_file_names(name_of_text.split('.')[0].strip())
+        skipped_files.append((temp_text.length, stripped_name))
         pbar.update(1)
-    pbar.close()
+        continue
+    
+    #Because the alignments file has funny ideas about filenames where Lovelace is concerned
+    #I have to replace the final '-' with an '_' to match the filesystem
+    #If I don't, I can't use the all_texts data with the alignments data.
+    
+    stripped_name_of_text = fix_alignment_file_names(name_of_text.split('.')[0].strip())
+    _m = CHAPTER_PATTERN.search(stripped_name_of_text)
+    temp_text.chapter_num = _m.group(1) if _m else '0'
+
+    text_hash = hash(text)
+    if text_hash not in seen_text_hashes:
+        unique_text_id += 1
+        seen_text_hashes.add(text_hash)
+        temp_text.id = unique_text_id
+
+    insert_texts_to_db(authors[author], temp_text.id, stripped_name_of_text, temp_text.content, temp_text.chapter_num, temp_text.length, dirs[the_dir], temp_text.date, short_name_for_svm) 
+    pbar.update(1)
+pbar.close()
 
 # Report skipped files
 if skipped_files:
