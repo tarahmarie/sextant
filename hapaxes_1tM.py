@@ -6,10 +6,10 @@ from nltk.tokenize import word_tokenize
 
 
 def remove_tei_lines_from_text(text):
-    text = text.split('">')[-1]
-    text = text.split('</')[0]
-
-    return(text)
+    import re
+    text = text.split("</teiHeader>", 1)[-1] if "</teiHeader>" in text else text
+    text = re.sub(r"<[^>]+>", " ", text)
+    return text.strip()
 
 def compute_hapaxes(rawtext):
     words = word_tokenize(rawtext)

@@ -105,7 +105,7 @@ while i <= file_count:
             #If I don't, I can't use the all_texts data with the alignments data.
             
             stripped_name_of_text = fix_alignment_file_names(name_of_text.split('.')[0].strip())
-            _m = re.search(r'(?:chapter|book|Note|section|part)_(.+)$', stripped_name_of_text); temp_text.chapter_num = _m.group(1) if _m else '0'
+            _m = re.search(r'(?:chapter|book|Note|section|part|letter)_(.+)$', stripped_name_of_text); temp_text.chapter_num = _m.group(1) if _m else '0'
 
             if text not in seen_texts:
                 unique_text_id += 1

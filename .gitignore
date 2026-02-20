@@ -46,3 +46,10 @@ notebooks/logs/py4cytoscape.log
 # Lock files
 *.lock
 .ipynb_checkpoints/
+
+# Shelley-Lovelace corpus splits
+#   Contains unpublished Bodleian Library transcriptions (Lisa Gold)
+#   of Ada Lovelace's private correspondence. NOT for public distribution.
+#   Public domain texts (Gutenberg, Wikisource) can be regenerated;
+#   see CORPUS_RECONSTRUCTION.md
+projects/shelley-lovelace/splits/
