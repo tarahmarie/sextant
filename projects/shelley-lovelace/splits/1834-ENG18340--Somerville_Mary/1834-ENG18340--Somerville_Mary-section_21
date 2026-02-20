@@ -1,0 +1,480 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Connexion of the Physical Sciences</title><author>Mary Somerville</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1834</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="21">
+167
+SECTION XX.
+
+Interference of Light—Undulatory Theory of Light—Propagation of
+Light—Newton’s Rings—Measurement of the Length of the Waves of
+Light, and of the Frequency of the Vibrations of Ether for each Colour—Newton’s
+Scale of Colours—Diffraction of Light—Sir John Herschel’s
+Theory of the Absorption of Light—Refraction and Reflection of
+Light.
+Newton and most of his immediate successors imagined light
+to be a material substance, emitted by all self-luminous bodies
+in extremely minute particles, moving in straight lines with prodigious
+velocity, which, by impinging upon the optic nerves,
+produce the sensation of light. Many of the observed phenomena
+have been explained by this theory; it is, however, totally
+inadequate to account for the following circumstances.
+When two equal rays of red light, proceeding from two luminous
+points, fall upon a sheet of white paper in a dark room,
+they produce a red spot on it which will be twice as bright as
+either ray would produce singly, provided the difference in the
+lengths of the two beams, from the luminous points to the red
+spot on the paper, be exactly the 0·0000258th part of an inch.
+The same effect will take place if the difference in the lengths
+be twice, three times, four times, &c., that quantity. But
+if the difference in the lengths of the two rays be equal
+to one-half of the 0·0000258th part of an inch, or to its
+11⁄2,
+21⁄2,
+31⁄2,
+&c., part, the one light will entirely extinguish
+the other, and will produce absolute darkness on the paper
+where the united beams fall. If the difference in the
+lengths of their paths be equal to the
+11⁄4,
+21⁄4,
+31⁄4,
+&c., of the
+0·0000258th part of an inch, the red spot arising from the combined
+beams will be of the same intensity which one alone would
+produce. If violet light be employed, the difference in the
+lengths of the two beams must be equal to the 0·0000157th
+part of an inch, in order to produce the same phenomena; and
+for the other colours, the difference must be intermediate between
+the 0·0000258th and the 0·0000157th part of an inch.
+168Similar phenomena may be seen by viewing the flame of a
+candle through two very fine slits in a card extremely near to
+one another (N. 198); or by admitting the sun’s light into a
+dark room through a pin-hole about the fortieth of an inch in
+diameter, receiving the image on a sheet of white paper, and
+holding a slender wire in the light. Its shadow will be found
+to consist of a bright white bar or stripe in the middle, with a
+series of alternate black and brightly-coloured stripes on each
+side. The rays which bend round the wire in two streams are
+of equal lengths in the middle stripe; it is consequently doubly
+bright from their combined effect; but the rays which fall on
+the paper on each side of the bright stripe, being of such unequal
+lengths as to destroy one another, form black lines. On each
+side of these black lines the rays are again of such lengths as to
+combine to form bright stripes, and so on alternately till the
+light is too faint to be visible. When any homogeneous light is
+used, such as red, the alternations are only black and red; but
+on account of the heterogeneous nature of white light, the black
+lines alternate with vivid stripes or fringes of prismatic colours,
+arising from the superposition of systems of alternate black lines
+and lines of each homogeneous colour. That the alternation of
+black lines and coloured fringes actually does arise from the
+mixture of the two streams of light which flow round the wire,
+is proved by their vanishing the instant one of the streams is
+interrupted. It may therefore be concluded, as often as these
+stripes of light and darkness occur, that they are owing to the
+rays combining at certain intervals to produce a joint effect, and
+at others to extinguish one another. Now it is contrary to all
+our ideas of matter to suppose that two particles of it should
+annihilate one another under any circumstances whatever; while,
+on the contrary, two opposing motions may; and it is impossible
+not to be struck with the perfect similarity between the
+interferences of small undulations of air or of water and the preceding
+phenomena. The analogy is indeed so perfect, that
+philosophers of the highest authority concur in the belief that
+the celestial regions are filled with an extremely rare and highly
+elastic medium or ether, whose particles are capable of receiving
+the vibrations communicated to them by self-luminous bodies,
+and of transmitting them to the optic nerves, so as to produce
+the sensation of light. The acceleration in the mean motion of
+169Encke’s comet, as well as of the comet discovered by M. Biela,
+renders the existence of such a medium certain. It is clear
+that, in this hypothesis, the alternate stripes of light and darkness
+are entirely the effect of the interference of the undulations;
+for, by actual measurement, the length of a wave of the mean
+red rays of the solar spectrum is equal to the 0·0000258th part
+of an inch; consequently, when the elevations of the waves
+combine, they produce double the intensity of light that each
+would do singly; and when half a wave combines with a whole—that
+is, when the hollow of one wave is filled up by the elevation
+of another—darkness is the result. At intermediate
+points between these extremes, the intensity of the light corresponds
+to intermediate differences in the lengths of the rays.
+The theory of interferences is a particular case of the general
+mechanical law of the superposition of small motions; whence it
+appears that the disturbance of a particle of an elastic medium,
+produced by two co-existent undulations, is the sum of the disturbances
+which each undulation would produce separately;
+consequently, the particle will move in the diagonal of a parallelogram,
+whose sides are the two undulations. If, therefore,
+the two undulations agree in direction, or nearly so, the resulting
+motion will be very nearly equal to their sum, and in the same
+direction; if they nearly oppose one another, the resulting motion
+will be nearly equal to their difference; and, if the undulations
+be equal and opposite, the resultant will be zero, and the particle
+will remain at rest.
+The preceding experiments, and the inferences deduced from
+them, which have led to the establishment of the doctrine of the
+undulations of light, are the most splendid memorials of our
+illustrious countryman Dr. Thomas Young, though Huygens
+was the first to originate the idea.
+It is supposed that the particles of luminous bodies are in a
+state of perpetual agitation, and that they possess the property
+of exciting regular vibrations in the molecules of the ethereal
+medium, corresponding to the vibrations of their own molecules;
+and that, on account of its elastic nature, one particle of the
+ether when set in motion communicates its vibrations to those
+adjacent, which in succession transmit them to those farther off;
+so that the primitive impulse is transferred from particle to particle,
+and the undulating motion darts through ether like a wave
+170in water; so that light is motion, and therefore subject to the
+laws of dynamics and mathematical analysis. Although the
+progressive motion of light is known by experience to be uniform
+and in a straight line, the vibrations of the particles are always
+at right angles to the direction of the ray. The propagation of
+light is like the spreading of waves in water; but, if one ray
+alone be considered, its motion may be conceived by supposing a
+rope of indefinite length stretched horizontally, one end of which
+is held in the hand. If it be agitated to and fro at regular
+intervals, with a motion perpendicular to its length, a series of
+similar and equal tremors or waves will be propagated along it;
+and if the regular impulses be given in a variety of planes, as up
+and down, from right to left, and also in oblique directions, the
+successive undulations will take place in every possible plane.
+An analogous motion in the ether, when communicated to the
+optic nerves, would produce the sensation of common light. It
+is evident that the waves which flow from end to end of the cord
+in a serpentine form are altogether different from the perpendicular
+vibratory motion of each particle of the rope, which never
+deviates far from a state of rest. So, in ether, each particle
+vibrates perpendicularly to the direction of the ray; but these
+vibrations are totally different from and independent of the undulations
+which are transmitted through it, in the same manner
+as the vibrations of each particular ear of corn are independent of
+the waves that rush from end to end of a harvest-field when
+agitated by the wind.
+The intensity of light depends upon the amplitude or extent
+of the vibrations of the particles of ether, while its colour depends
+upon their frequency. The time of the vibration of a particle of
+ether is, by theory, as the length of a wave directly, and inversely
+as its velocity. Now, as the velocity of light is known
+to be 190,000 miles in a second, if the lengths of the waves of
+the different coloured rays could be measured, the number of
+vibrations in a second corresponding to each could be computed.
+That has been accomplished as follows:—All transparent substances
+of a certain thickness, with parallel surfaces, reflect and
+transmit white light; but, if they be extremely thin, both the
+reflected and transmitted light is coloured. The vivid hues on
+soap-bubbles, the iridescent colours produced by heat on polished
+steel and copper, the fringes of colour between the laminæ of
+171Iceland spar and sulphate of lime, all consist of a succession of
+hues disposed in the same order, totally independent of the
+colour of the substance, and determined solely by its greater or
+less thickness—a circumstance which affords the means of ascertaining
+the length of the waves of each coloured ray, and the
+frequency of the vibrations of the particles producing them. If
+a plate of glass be laid upon a lens of almost imperceptible
+curvature, before an open window, when they are pressed together
+a black spot will be seen in the point of contact, surrounded
+by seven rings of vivid colours, all differing from one another
+(N. 199). In the first ring, estimated from the black spot, the
+colours succeed each other in the following order:—black, very
+faint blue, brilliant white, yellow, orange, and red. They are
+quite different in the other rings, and in the seventh the only
+colours are pale bluish green and very pale pink. That these
+rings are formed between the two surfaces in apparent contact
+may be proved by laying a prism on the lens instead of the
+plate of glass, and viewing the rings through the inclined side of
+it that is next to the eye, which arrangement prevents the light
+reflected from the upper surface mixing with that from the surfaces
+in contact, so that the intervals between the rings appear
+perfectly black—one of the strongest circumstances in favour of
+the undulatory theory; for, although the phenomena of the
+rings can be explained by either hypothesis, there is this material
+difference, that, according to the undulatory theory, the intervals
+between the rings ought to be absolutely black, which is confirmed
+by experiment; whereas, by the doctrine of emanation,
+they ought to be half illuminated, which is not found to be the
+case. M. Fresnel, whose opinion is of the first authority, thought
+this test conclusive. It may therefore be concluded that the
+rings arise entirely from the interference of the rays: the light
+reflected from each of the surfaces in apparent contact reaches
+the eye by paths of different lengths, and produces coloured and
+dark rings alternately, according as the reflected waves coincide
+or destroy one another. The breadths of the rings are unequal;
+they decrease in width, and the colours become more crowded,
+as they recede from the centre. Coloured rings are also produced
+by transmitting light through the same apparatus; but the
+colours are less vivid, and are complementary to those reflected,
+consequently the central spot is white.
+172The size of the rings increases with the obliquity of the incident
+light, the same colour requiring a greater thickness or space
+between the glasses to produce it than when the light falls perpendicularly
+upon them. Now, if the apparatus be placed in
+homogeneous instead of white light, the rings will all be of the
+same colour with that of the light employed, that is to say, if
+the light be red, the rings will be red, divided by black intervals.
+The size of the rings varies with the colour of the light. They
+are largest in red, and decrease in magnitude with the succeeding
+prismatic colours, being smallest in violet light.
+Since one of the glasses is plane and the other spherical, it is
+evident that from the point of contact the space between them
+gradually increases in thickness all round, so that a certain
+thickness of air corresponds to each colour, which in the undulatory
+system measures the length of the wave producing it
+(N. 200). By actual measurement Sir Isaac Newton found that
+the squares of the diameters of the brightest part of each ring
+are as the odd numbers, 1, 3, 5, 7, &c.; and that the squares of
+the diameters of the darkest parts are as the even numbers,
+0, 2, 4, 6, &c. Consequently, the intervals between the glasses
+at these points are in the same proportion. If, then, the thickness
+of the air corresponding to any one colour could be found,
+its thickness for all the others would be known. Now, as Sir
+Isaac Newton knew the radius of curvature of the lens, and the
+actual breadth of the rings in parts of an inch, it was easy to
+compute that the thickness of air at the darkest part of the first
+ring is the
+1⁄89000
+part of an inch, whence all the others have been
+deduced. As these intervals determine the length of the waves
+on the undulatory hypothesis, it appears that the length of a
+wave of the extreme red of the solar spectrum is equal to the
+0·0000266th part of an inch; that the length of a wave of the
+extreme violet is equal to the 0·0000167th part of an inch; and,
+as the time of a vibration of a particle of ether producing any
+particular colour is directly as the length of a wave of that
+colour, and inversely as the velocity of light, it follows that the
+molecules of ether producing the extreme red of the solar spectrum
+perform 458 millions of millions of vibrations in a second;
+and that those producing the extreme violet accomplish 727
+millions of millions of vibrations in the same time. The lengths
+of the waves of the intermediate colours, and the number of their
+vibrations, being intermediate between these two, white light,
+173which consists of all the colours, is consequently a mixture of
+waves of all lengths between the limits of the extreme red and
+violet. The determination of these minute portions of time and
+space, both of which have a real existence, being the actual
+results of measurement, do as much honour to the genius of
+Newton as that of the law of gravitation.
+The number of advancing waves of light in an inch is known
+to be from 37,600 to 59,880, and the number of lateral vibrations
+is from 458 to 727 billions in a second, but the extent of these
+lateral vibrations of the particles of the ethereal medium is not
+known, though both their extent and velocity are probably very
+small compared with the length of the advancing waves and the
+velocity of propagation. Colour is identified with the number of
+vibrations; but whether reflection, refraction, absorption, &c.,
+have any relations to the lateral vibrations, or whether they are
+dependent in part upon some physical action of the ethereal
+medium unknown and unsuspected, are points as yet undetermined.
+To ascertain these circumstances, Dr. Faraday instituted
+a series of the most refined experiments upon the relation of the
+minute particles of metals to the vibrations of light.
+Gold acts powerfully on light, and possesses a real transparency,
+transmitting green rays when very thin; and being capable of
+extreme division by solvents without losing its metallic character,
+its particles transmit rays of various colours according to
+their size; those that transmit the rose-colour in Bohemian glass
+are of inconceivable minuteness. The progressive waves of the
+ether are so long compared with the dimensions of the molecules
+to which gold can be reduced, that it seemed probable to Dr.
+Faraday when the latter were placed in a sunbeam that some
+effective relation might be discovered between them and the
+smaller vibrations of the ethereal medium; in which case, if
+reflection, refraction, &c., depended upon such relations, there
+was reason to expect that these functions would change sensibly
+by the substitution of different sized particles of the gold for one
+another. At one time Dr. Faraday hoped he had changed one
+colour into another by means of gold, which would have been
+equivalent to a change in the number of vibrations; but although
+he has not yet confirmed that result, his researches are of the
+greatest interest.[9]
+174The phenomenon of the coloured rings takes place in vacuo as
+well as in air, which proves that it is the distance between the
+lenses alone, and not the air, which produces the colours. However,
+if water or oil be put between them, the rings contract, but
+no other change ensues; and Newton found that the thickness
+of different media at which a given tint is seen is in the inverse
+ratio of their refractive indices, so that the thickness of laminæ
+which could not otherwise be measured may be known by their
+colour; and, as the position of the colours in the rings is invariable,
+they form a fixed standard of comparison, well known as
+Newton’s scale of colours; each tint being estimated according
+to the ring to which it belongs from the central spot inclusively.
+Not only the periodical colours which have been described, but
+the colours seen in thick plates of transparent substances, the
+variable hues of feathers, of insects’ wings, mother-of-pearl, and
+of striated substances, all depend upon the same principle. To
+these may be added the coloured fringes surrounding the shadows
+of all bodies held in an extremely small beam of light, and the
+coloured rings surrounding the small beam itself when received
+on a screen.
+When a very slender sunbeam, passing through a small pin-hole
+into a dark room, is received on a white screen, or plate of
+ground-glass, at the distance of a little more than six feet, the
+spot of light on the screen is larger than the pin-hole: and,
+instead of being bounded by shadow, it is surrounded by a series
+of coloured rings separated by obscure intervals. The rings are
+more distinct in proportion to the smallness of the beam (N. 201).
+When the light is white there are seven rings, which dilate or
+contract with the distance of the screen from the hole. As the
+distance of the screen diminishes, the white central spot contracts
+to a point and vanishes; and, on approaching still nearer, the
+rings gradually close in upon it, so that the centre assumes successively
+the most intense and vivid hues. When the light is
+homogeneous—red, for example—the rings are alternately red
+and black, and more numerous; and their breadth varies with
+the colour, being broadest in red light and narrowest in violet.
+The tints of the coloured fringes from white light, and their obliteration
+after the seventh ring, arise from the superposition of
+the different sets of fringes of all the coloured rays. The shadows
+of objects are also bordered by coloured fringes when held in this
+175slender beam of light. If the edge of a knife or hair, for example,
+be held in it, the rays, instead of proceeding in straight lines
+past its edge, are bent when quite close to it, and proceed from
+thence to the screen in curved lines called hyperbolas; so that
+the shadow of the object is enlarged, and, instead of being at
+once bounded by light, is surrounded or edged with coloured
+fringes alternating with black bands, which are more distinct
+the smaller the pin-hole (N. 202). The fringes are altogether
+independent of the form or density of the object, being the same
+when it is round or pointed, when of glass or platinum. When
+the rays which form the fringes arrive at the screen, they are of
+different lengths, in consequence of the curved path they follow
+after passing the edge of the object. The waves are therefore in
+different phases or states of vibration, and either conspire to
+form coloured fringes or destroy one another in the obscure intervals.
+The coloured fringes bordering the shadows of objects
+were first described by Grimaldi in 1665; but, besides these, he
+noticed that there are others within the shadows of slender
+bodies exposed to a small sunbeam, a phenomenon which has
+already been mentioned to have afforded Dr. Young the means
+of proving, beyond all controversy, that coloured rings are produced
+by the interference of light.
+It may be concluded that material substances derive their
+colours from two different causes: some from the law of interference,
+such as iridescent metals, peacocks’ feathers, &c.; others
+from the unequal absorption of the rays of white light, such as
+vermilion, ultramarine, blue, or green cloth, flowers, and the
+greater number of coloured bodies. The latter phenomena have
+been considered extremely difficult to reconcile with the undulatory
+theory of light, and much discussion has arisen as to what
+becomes of the absorbed rays. But that embarrassing question
+has been ably answered by Sir John Herschel in a most profound
+paper on the Absorption of Light by coloured Media, and cannot
+be better given than in his own words. It must, however,
+be premised, that, as all transparent bodies are traversed by
+light, they are presumed to be permeable to the ether. He
+says,—“Now, as regards only the general fact of the obstruction
+and ultimate extinction of light in its passage through gross
+media, if we compare the corpuscular and undulatory theories,
+we shall find that the former appeals to our ignorance, the latter
+176to our knowledge, for its explanation of the absorptive phenomena.
+In attempting to explain the extinction of light on the
+corpuscular doctrine, we have to account for the light so extinguished
+as a material body, which we must not suppose annihilated.
+It may, however, be transformed; and among the imponderable
+agents, heat, electricity, &c., it may be that we are to
+search for the light which has become thus comparatively stagnant.
+The heating power of the solar rays gives a primâ facie
+plausibility to the idea of the transformation of light into heat
+by absorption. But, when we come to examine the matter more
+nearly, we find it encumbered on all sides with difficulties. How
+is it, for instance, that the most luminous rays are not the most
+calorific, but that, on the contrary, the calorific energy accompanies,
+in its greatest intensity, rays which possess comparatively
+feeble illuminating powers? These and other questions of a
+similar nature may perhaps admit of answer in a more advanced
+state of our knowledge; but at present there is none obvious.
+It is not without reason, therefore, that the question, ‘What
+becomes of light?’ which appears to have been agitated among
+the photologists of the last century, has been regarded as one of
+considerable importance as well as obscurity by the corpuscular
+philosophers. On the other hand, the answer to this question,
+afforded by the undulatory theory of light, is simple and distinct.
+The question, ‘What becomes of light?’ merges in the
+more general one, ‘What becomes of motion?’ And the
+answer, on dynamical principles, is, that it continues for ever.
+No motion is, strictly speaking, annihilated; but it may be
+divided, and the divided parts made to oppose and in effect
+destroy one another. A body struck, however perfectly elastic,
+vibrates for a time, and then appears to sink into its original
+repose. But this apparent rest (even abstracting from the inquiry
+that part of the motion which may be conveyed away by the
+ambient air) is nothing else than a state of subdivided and
+mutually destroying motion, in which every molecule continues
+to be agitated by an indefinite multitude of internally reflected
+waves, propagated through it in every possible direction, from
+every point in its surface on which they successively impinge.
+The superposition of such waves will, it is easily seen, at length
+operate their mutual destruction, which will be the more complete
+the more irregular the figure of the body, and the greater
+177the number of internal reflections.” Thus Sir John Herschel,
+by referring the absorption of light to the subdivision and mutual
+destruction of the vibrations of ether in the interior of bodies,
+brings another class of phenomena under the laws of the undulatory
+theory.
+According to Mr. Rankin’s hypothesis of Molecular Vortices[10]
+the absorption of light and radiant heat consists in the transference
+of motion from the molecules to their atmospheres, and
+conversely the emission of light and radiant heat is the transmission
+of motion from the atmospheres to the molecules. The
+great velocity of light and heat is a natural consequence of this
+hypothesis, according to which the vibratory masses must be extremely
+small compared with the forces exerted by them.
+The ethereal medium pervading space is supposed to penetrate
+all material substances, occupying the interstices between their
+molecules; but in the interior of refracting media it exists in a
+state of less elasticity compared with its density in vacuo; and,
+the more refractive the medium, the less the elasticity of the
+ether within it. Hence the waves of light are transmitted with
+less velocity in such media as glass and water than in the external
+ether. As soon as a ray of light reaches the surface of a
+diaphanous reflecting substance, for example a plate of glass, it
+communicates its undulations to the ether next in contact with
+the surface, which thus becomes a new centre of motion, and two
+hemispherical waves are propagated from each point of this
+surface; one of which proceeds forward into the interior of the
+glass, with a less velocity than the incident waves; and the
+other is transmitted back into the air, with a velocity equal to
+that with which it came (N. 203). Thus, when refracted, the
+light moves with a different velocity without and within the
+glass; when reflected, the ray comes and goes with the same
+velocity. The particles of ether without the glass, which communicate
+their motions to the particles of the dense and less
+elastic ether within it, are analogous to small elastic balls striking
+large ones; for some of the motion will be communicated to the
+large balls, and the small ones will be reflected. The first would
+cause the refracted wave, and the last the reflected. Conversely,
+when the light passes from glass to air, the action is
+similar to large balls striking small ones. The small balls
+178receive a motion which would cause the refracted ray, and the
+part of the motion retained by the large ones would occasion the
+reflected wave; so that, when light passes through a plate of
+glass or of any other medium differing in density from the air,
+there is a reflection at both surfaces; but this difference exists
+between the two reflections, that one is caused by a vibration in
+the same direction with that of the incident ray, and the other by
+a vibration in the opposite direction.
+A single wave of air or ether would not produce the sensation
+of sound or light. In order to excite vision, the vibrations of
+the molecules of ether must be regular, periodical, and very often
+repeated: and, as the ear continues to be agitated for a short
+time after the impulse by which alone a sound becomes continuous,
+so also the fibres of the retina, according to M. d’Arcet,
+continue to vibrate for about the eighth part of a second after
+the exciting cause has ceased. The interval of time during which
+the impression lasts is longer for the blue than for red or white
+light: it must not be less than 0ʺ·34. Every one must have
+observed, when a strong impression is made by a bright light,
+that an object remains visible for a short time after shutting the
+eyes, which is supposed to be in consequence of the continued
+vibrations of the fibres of the retina. Occasionally the retina
+becomes insensible to feebly illuminated objects when continuously
+presented. If the eye be turned aside for a moment, the
+object becomes again visible. It is probably on this account that
+the owl makes so peculiar a motion with its head when looking
+at objects in the twilight. It is quite possible that many vibrations
+may be excited in the ethereal medium incapable of producing
+undulations in the fibres of the human retina, which yet
+have a powerful effect on those of other animals or of insects.
+Such may receive luminous impressions of which we are totally
+unconscious, and at the same time they may be insensible to the
+light and colours which affect our eyes, their perceptions beginning
+where ours end.</div></body></text></TEI>
