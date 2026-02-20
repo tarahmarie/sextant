@@ -111,9 +111,11 @@ for file in list_of_files:
         unique_text_id += 1
         seen_text_hashes.add(text_hash)
         temp_text.id = unique_text_id
-
-    insert_texts_to_db(authors[author], temp_text.id, stripped_name_of_text, temp_text.content, temp_text.chapter_num, temp_text.length, dirs[the_dir], temp_text.date, short_name_for_svm) 
-    pbar.update(1)
+        insert_texts_to_db(authors[author], temp_text.id, stripped_name_of_text, temp_text.content, temp_text.chapter_num, temp_text.length, dirs[the_dir], temp_text.date, short_name_for_svm)
+        pbar.update(1)
+    else:
+        pbar.update(1)
+        continue
 pbar.close()
 
 # Report skipped files

@@ -261,19 +261,18 @@ def populate_hapax_jaccard():
 
 def calculate_hapax_jaccard_similarity():
     #Reference: https://www.statology.org/jaccard-similarity/
-    disk_cur.execute("SELECT source_text, target_text, HapaxOverlaps, source_hapaxes, target_hapaxes FROM hapax_jaccard;")
-    the_result = disk_cur.fetchall()
-
-    for thing in the_result:
-        if thing['HapaxOverlaps'] < 1:
-            # No overlap = 0 similarity, 1.0 distance
-            jac_sim = 0.0
-            jac_dis = 1.0
-            disk_cur.execute("UPDATE hapax_jaccard SET jac_sim = ?, jac_dis = ? WHERE source_text = ? AND target_text = ?;", [jac_sim, jac_dis, thing['source_text'], thing['target_text']])
-        else:
-            jac_sim = thing['HapaxOverlaps'] / (sum([thing['source_hapaxes'],thing['target_hapaxes']]))
-            jac_dis = 1 - jac_sim
-            disk_cur.execute("UPDATE hapax_jaccard SET jac_sim = ?, jac_dis = ? WHERE source_text = ? AND target_text = ?;", [jac_sim, jac_dis, thing['source_text'], thing['target_text']])
+    # Single SQL statement instead of row-by-row Python loop
+    disk_cur.execute("""
+        UPDATE hapax_jaccard SET
+            jac_sim = CASE
+                WHEN HapaxOverlaps < 1 THEN 0.0
+                ELSE CAST(HapaxOverlaps AS REAL) / (source_hapaxes + target_hapaxes)
+            END,
+            jac_dis = CASE
+                WHEN HapaxOverlaps < 1 THEN 1.0
+                ELSE 1.0 - (CAST(HapaxOverlaps AS REAL) / (source_hapaxes + target_hapaxes))
+            END;
+    """)
     disk_con.commit()
 
 def create_alignments_jaccard():
