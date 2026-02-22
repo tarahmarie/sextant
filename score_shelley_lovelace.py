@@ -66,19 +66,25 @@ def load_and_score():
     chapter_df = pd.read_sql_query("SELECT * FROM chapter_assessments", svm_conn)
     svm_conn.close()
 
-    svm_scores = []
-    for _, row in df.iterrows():
-        source_novel = row['source_svm_name']
-        target_novel = row['target_svm_name']
-        target_chapter = str(row['target_chapter'])
-        match = chapter_df[(chapter_df['novel'] == target_novel) &
-                           (chapter_df['number'] == target_chapter)]
-        if len(match) > 0 and source_novel in match.columns:
-            svm_scores.append(match[source_novel].iloc[0])
-        else:
-            svm_scores.append(np.nan)
+    # Vectorized SVM join: melt wide table to long, then merge
+    id_cols = ['novel', 'number']
+    score_cols = [c for c in chapter_df.columns if c not in id_cols]
+    chapter_long = chapter_df.melt(
+        id_vars=id_cols,
+        value_vars=score_cols,
+        var_name='source_svm_name',
+        value_name='svm_score'
+    )
+    chapter_long['number'] = chapter_long['number'].astype(str)
+    df['target_chapter'] = df['target_chapter'].astype(str)
 
-    df['svm_score'] = svm_scores
+    df = df.merge(
+        chapter_long,
+        left_on=['target_svm_name', 'target_chapter', 'source_svm_name'],
+        right_on=['novel', 'number', 'source_svm_name'],
+        how='left'
+    ).drop(columns=['novel', 'number'])
+
     n_with = df['svm_score'].notna().sum()
     n_without = df['svm_score'].isna().sum()
     print(f"Pairs with SVM scores: {n_with:,}")
