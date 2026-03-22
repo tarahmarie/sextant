@@ -1,0 +1,593 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Connexion of the Physical Sciences</title><author>Mary Somerville</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1834</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="29">
+282
+SECTION XXVIII.
+
+Common or Static Electricity, or Electricity of Tension—A Dual Power—Methods
+of exciting it—Attraction and Repulsion—Conduction—Electrics
+and Non-electrics—Induction—Dielectrics—Tension—Law
+of the Electric Force—Distribution—Laws of Distribution—Heat of
+Electricity—Electrical Light and its Spectrum—Velocity—Atmospheric
+Electricity—Its cause—Electric Clouds—Violent effects of
+Lightning—Back Stroke—Electric Glow—Phosphorescence.
+Electricity is a dual power which gives no visible sign of its
+existence when in equilibrio, but when elicited forces are developed
+capable of producing the most sudden, violent, and destructive
+effects in some cases, while in others their action, though
+generally less energetic, is of indefinite and uninterrupted continuance.
+These modifications of the electric forces, incidentally
+depending upon the manner in which they are excited, present
+phenomena of great diversity, but yet so connected as to justify
+the conclusion that they originate in a common principle. The
+hypothesis of electricity being a fluid is untenable in the present
+advanced state of the science; we only know that it is a force
+whose action is twofold; that bodies in one electric state attract,
+and in another repel each other; in the former the electricity is
+said to be positive, in the latter negative; and thus regarding it
+as a force, its modes of action come under the laws of mechanics
+and mathematical analysis.
+Electricity may be called into activity by the friction of heterogeneous
+substances, as in the common electrifying machine, by
+mechanical power, heat, chemical action, and the influence of
+magnetism. We are totally ignorant why it is roused from its
+neutral state by these means, or of the manner of its existence
+in bodies; but when excited it seems to produce a molecular
+polarity or chemical change in the ultimate particles of matter.
+The science is divided into various branches, of which static
+or common electricity comes first under consideration, including
+that of the atmosphere. Substances in a neutral state neither
+attract nor repel. There is a numerous class called electrics in
+283which the electric equilibrium is destroyed by friction; then the
+positive and negative electricities are called into action or separated;
+the positive is impelled in one direction, and the negative
+in another. Electricities of the same kind repel, whereas those
+of different kinds attract each other. The attractive power is
+exactly equal to the repulsive power at equal distances, and when
+not opposed they coalesce with great rapidity and violence, producing
+the electric flash, explosion, and shock; then the equilibrium
+is restored. One kind of electricity cannot be evolved
+without the evolution of an equal quantity of the opposite kind.
+Thus when a glass rod is rubbed with a piece of silk, as much
+positive electricity is elicited in the glass as there is negative in
+the silk. The kind of electricity depends more upon the mechanical
+condition than on the nature of the surface; for when
+two plates of glass, one polished and the other rough, are rubbed
+against each other, the polished surface acquires positive and the
+rough negative electricity. The manner in which friction is
+performed also alters the kind of electricity. Equal lengths of
+black and white ribbon applied longitudinally to one another,
+and drawn between the finger and thumb so as to rub their
+surfaces together, become electric. When separated the white
+ribbon is found to have acquired positive electricity, and the
+black negative; but if the whole length of the black ribbon be
+drawn across the breadth of the white, the black will be positively
+and the white negatively electric when separated. The
+friction of the rubber on the glass plate of the electrifying
+machine produces abundance of static electricity. The friction
+of the steam on the valve of an insulated locomotive steam-engine
+produces seven times the quantity of electricity that an
+electrifying machine would do with a plate three feet in diameter,
+worked at the rate of 70 revolutions in a minute. Pressure
+is a source of electricity which M. Becquerel has found to be
+common to all bodies; but it is necessary to separate them to
+prevent the reunion of the electricities. When two substances
+of any kind whatever are insulated and pressed together they
+assume different electric states, but they only show contrary
+electricities when one of them is a good conductor. When both
+are good conductors they must be separated with extreme
+rapidity to prevent a return to equilibrium. When the separation
+is very sudden the tension of the two electricities may be
+284great enough to produce light. M. Becquerel attributes the light
+produced by the collision of icebergs to this cause. Iceland
+spar is made electric by the smallest pressure between the finger
+and the thumb, and retains it for a long time. All these circumstances
+are modified by the temperature of the substances,
+the state of their surfaces and that of the atmosphere. Several
+crystalline bodies become electric when heated, especially tourmaline,
+one end of which acquires positive, and the other negative
+electricity, while the intermediate part is neutral. If the
+tourmaline be broken through the middle, each fragment is found
+to possess positive electricity at one end and negative at the
+other. Electricity is evolved by substances passing from a liquid
+to a solid state, and by chemical action during the production and
+condensation of vapour, which is a great source of atmospheric
+electricity. In short, it may be generally stated, that when any
+cause whatever tends to destroy molecular attraction there is a
+development of electricity; if, however, the substances be not
+immediately separated, there will be an instantaneous restoration
+of equilibrium.
+Electricity may be transferred from one body to another in the
+same manner as heat is communicated, and like it too the body
+loses by the transmission.
+Although no substance is altogether impervious to electricity,
+nor is there any that does not offer some resistance to its passage,
+yet it moves with more facility through a certain class of substances
+called conductors, such as metals, water, the human
+body, &c., than through atmospheric air, glass, silk, &c., which
+are therefore called non-conductors. The conducting power is
+affected both by temperature and moisture. The terrestrial
+globe is a conductor on account of its moisture, though dry
+earth is not. Though metals are the best conductors of electricity,
+it affects their molecular structure, for the heat which accompanies
+its passage acts as a transverse expansive force, which
+increases their breadth by diminishing their length, as may be
+seen by passing electricity through a platinum wire sufficiently
+thick to resist fusion. Through air the force is disruptive on
+account of its non-conducting quality, and it seems to act chemically
+on the oxygen, producing the substance known as ozone
+during its passage through the atmosphere. If a conductor be
+good and of sufficient size the electricity passes imperceptibly
+285but it is shivered to pieces in an instant if it be a bad conductor
+or too small to carry off the charge. In that case the physical
+change is generally a separation of the particles, or expansion
+from the heat, as in trees, where it turns the moisture into
+steam, but all these effects are in proportion to the obstacles
+opposed to the freedom of its course.
+Bodies surrounded by non-conductors are said to be insulated,
+because when charged the electricity cannot escape. When that
+is not the case, the electricity is conveyed to the earth: consequently
+it is impossible to accumulate electricity in a conducting
+substance that is not insulated. There are a great many substances
+called non-electrics in which electricity is not sensibly
+developed by friction unless they be insulated, because it is
+carried off by their conducting power as soon as elicited. Metals,
+for example, which are said to be non-electrics can be excited,
+but being conductors they cannot retain this state if in communication
+with the earth. It is probable that no bodies exist which
+are either perfect non-electrics or perfect non-conductors. But
+it is evident that electrics must be non-conductors to a certain
+degree, otherwise they could not retain their electric state.
+A body charged with electricity, although perfectly insulated,
+so that all escape of electricity is prevented, tends to produce an
+electric state of the opposite kind in all bodies in its vicinity.
+Positive electricity tends to produce negative electricity in a body
+near to it, and vice versâ, the effect being greater as the distance
+diminishes. This power which electricity possesses of causing an
+opposite electrical state in its vicinity is called induction. A
+Leyden jar, for example, or glass jar coated half way up both
+outside and in with tin foil, when charged with positive electricity,
+immediately induces negative electricity on the tin foil
+outside. Notwithstanding their strong mutual attraction they
+are prevented from coalescing by the glass, which is a non-conductor;
+but if the tin inside and out be connected by a conducting
+wire they instantly unite. When a body in either electric
+state is presented to a neutral one, its tendency in consequence
+of the law of induction is to disturb the condition of the neutral
+body by inducing electricity contrary to its own in the adjacent
+side, and therefore an electrical state similar to its own in the
+remote part. Hence the neutrality of the second body is destroyed
+by the action of the first, and the adjacent parts of the
+286two, having now opposite electricities, will attract each other.
+The attraction between electrified and unelectrified substances is
+a consequence of the altered state of their molecules. Induction
+depends upon the facility with which the equilibrium of the
+neutral body can be overcome, a facility which is proportional to
+its conducting power. Consequently the attraction exerted by
+an electrified substance upon another substance previously
+neutral will be much more energetic if the latter be a conductor
+than if it be a non-conductor.
+It is clear that one body cannot act upon another at a
+distance without some means of communication. Dr. Faraday
+has proved that the intervening non-conducting substance or
+dielectric has a great influence upon induction. Thus the
+inductive force is greater when sulphur is interposed between
+the two bodies than when shellac is the dielectric, and greater
+when shellac is the dielectric than glass, &c. Professor Matteucci
+has proved by the following experiment that the intervening substance
+is itself polarized by induction. A number of plates of
+mica in contact were placed between two plates of metal, one
+of which was electrified, so that the whole was charged like a
+Leyden jar. On separating the plates with insulating handles,
+each plate of mica was electrified; one side of it was positive and
+the other negative, showing decidedly a polarization by induction
+throughout the whole intervening non-conducting substance; and
+thus, although the interposed substance or dielectric is incapable
+of conducting the electrical force from one body to the other,
+it becomes by induction capable of transmitting it. In the
+atmosphere induction is transmitted by that of the intervening
+strata of air. It is true that induction takes place through
+the most perfect vacuum we can make, but there always remains
+some highly elastic air; and even if air could be altogether
+excluded, the ethereal medium cannot, and it must be capable of
+induction, since, however attenuated, it must consist of material
+atoms, otherwise it would be a nonentity.
+The law of electrical attraction and repulsion has been
+determined by suspending a needle of gum-lac horizontally by a
+silk fibre, the needle carrying at one end a piece of electrified
+gold leaf. A globe in the same or opposite electrical state when
+presented to the gold leaf will repel or attract it, and will therefore
+cause the needle to vibrate more or less rapidly according
+287to the distance of the globe. A comparison of the number of
+oscillations performed in a given time at different distances will
+determine the law of the variation of the electrical intensity, in
+the same manner that the force of gravitation is measured by
+the oscillations of the pendulum. Coulomb invented an instrument
+which balances the forces in question by the force of the
+torsion of a thread, which consequently measures the intensity;
+and Sir William Snow Harris has constructed an instrument
+with which he has measured the intensity of the electrical
+force in terms of the weight requisite to balance it. By
+these methods it has been found that the intensity of electrical
+attraction and repulsion varies inversely as the square of the
+distance. However, the law of repulsive force is liable to great
+disturbances from inductive action, which Sir William Snow
+Harris has found to exist not only between a charged and
+neutral body, but also between bodies similarly charged; and
+that, in the latter case, the inductive process may be indefinitely
+modified by the various circumstances of the quantity and
+intensity of the electricity and the distance between the charged
+bodies.
+The quantity of electricity bodies are capable of receiving
+does not follow the proportion of their bulk, but depends
+principally upon the form and extent of their surface. It
+appears from the experiments of Sir W. S. Harris that a
+given quantity of electricity, divided between two perfectly
+equal and similar bodies, exerts upon external bodies only one
+fourth of the attractive force apparent when disposed upon one
+of them; and if it be distributed among three equal and similar
+bodies, the force is one ninth of that apparent when it is
+disposed on one of them. Hence, if the quantity of electricity
+be the same, the force varies inversely as the square of the
+surface on which it is disposed; and if the surface be the same,
+the force varies directly as the square of the quantity of
+electricity. These laws however do not hold when the form of
+the surface is changed. A given quantity of electricity disposed
+on a given surface has the greatest intensity when the surface
+has a circular form, and the least intensity when the surface is
+expanded into an indefinite straight line. The decrease of
+intensity seems to arise from some peculiar arrangement of the
+electricity depending on the extension of the surface. It is
+288quite independent of the extent of the edge, the area being the
+same; for Sir W. S. Harris found that the electrical intensity
+of a charged sphere is the same with that of a plane circular
+area of the same superficial extent, and that of a charged
+cylinder the same as if it were cut open and expanded into a
+plane surface.
+The same able electrician has shown that the attractive force
+between an electrified and a neutral uninsulated body is the
+same whatever be the forms of their unopposed parts. Thus
+two hemispheres attract each other with precisely the same
+force as if they were spheres; and as the force is as the number
+of attracting points in operation directly, and as the squares of
+the respective distances inversely, it follows that the attraction
+between a mere ring and a circular area is no greater than that
+between two similar rings, and the force between a sphere and
+an opposed spherical segment of the same curvature is no greater
+than that of two similar segments, each equal to the given
+segment.
+Electricity may be accumulated to a great extent in insulated
+bodies, and so long as it is quiescent it occasions no sensible
+change in their properties. When restrained by the non-conducting
+power of the atmosphere, its tension or the pressure it
+exerts is proportional to the coercive force of the air. If the
+pressure be less than the coercive force, the electricity is
+retained; but the instant it exceeds that force in any one point
+it escapes, and that more readily when the air is attenuated or
+saturated with moisture, for the resistance of the air is proportional
+to the square of its density, but the inductive action
+of electricity on distant bodies is independent of atmospheric
+pressure. The power of retaining electricity depends also on
+the shape of the charged body. It is most easily retained by a
+sphere, next to that by a spheroid, but it readily escapes from a
+point, and a pointed object receives it with most facility.
+The heat produced by the electric shock is proportional to
+the square of the quantity of electricity discharged, and is so
+intense that it fuses metals and volatilizes substances, but its
+intensity is not felt to its full extent on account of the shortness
+of its duration. It is only accompanied by light when the
+electricity is obstructed in its passage through substance.
+Electrical light when analysed by a prism differs very much
+289from solar light. Fraunhofer found that, instead of the fixed dark
+lines, the spectrum of an electric spark is crossed by numerous
+bright lines; and Professor Wheatstone has observed that the
+number and position of the lines differ with the metal from
+which the spark is taken, and believes the spark itself results
+from the ignition and volatilization of the matter of the conductor.
+According to the experiments of Sir Humphry Davy, the
+density of the air has an influence on the colour. He passed the
+electric spark through a vacuum over mercury, which from green
+became successively sea-green, blue, and purple, on admitting
+different quantities of air. When the vacuum was made over
+a fusible alloy of tin and bismuth, the spark was yellowish and
+extremely pale. Sir Humphry thence concluded that electrical
+light principally depends upon some properties belonging to the
+ponderable matter through which it passes, and that space is
+capable of exhibiting luminous appearances, though it does not
+contain an appreciable quantity of matter. He thought that the
+superficial particles of bodies which form vapour, when detached
+by the repulsive power of heat, might be equally separated by
+the electric forces, and produce luminous appearances in vacuo
+by the destruction of their opposite electric states.
+The velocity of electricity is so great that the most rapid
+motion which can be produced by art appears to be actual rest
+when compared with it. A wheel revolving with celerity sufficient
+to render its spokes invisible, when illuminated by a flash
+of lightning, is seen for an instant with all its spokes distinct, as
+if it were in a state of absolute repose; because, however rapid
+the rotation may be, the light has come and already ceased before
+the wheel has had time to turn through a sensible space. This
+beautiful experiment is due to Professor Wheatstone, as well as
+the following variation of it, which is not less striking: If a
+circular piece of pasteboard be divided into three sectors, one of
+which is painted blue, another yellow, and a third red, it will
+appear to be white when revolving quickly, because of the
+rapidity with which the impressions of the colours succeed each
+other on the retina. But, the instant it is illuminated by an
+electric spark, it seems to stand still, and each colour is as distinct
+as if it were at rest. This transcendent speed of electricity has
+290been ingeniously measured, as follows, by Professor Wheatstone,
+who has ascertained that it much surpasses the velocity of
+light.
+In the horizontal diameter of a small disc, fixed on the wall
+of a darkened room, are disposed six small brass balls, well insulated
+from each other. An insulated copper wire, half a mile
+long, is disjointed in its middle, and also near its two extremities;
+the six ends thus obtained are connected with the six-balls on the
+disc. When an electric discharge is sent through the wire by
+connecting its two extremities, one with the positive, and the
+other with the negative coating of a Leyden jar, three sparks are
+seen on the disc, apparently at the same instant. At the distance
+of about ten feet a small revolving mirror is placed so as
+to reflect these three sparks during its revolution. From the
+extreme velocity of the electricity, it is clear that, if the three
+sparks be simultaneous, they will be reflected, and will vanish
+before the mirror has sensibly changed its position, however rapid
+its rotation may be, and they will be seen in a straight line.
+But if the three sparks be not simultaneously transmitted to the
+disc—if one, for example, be later than the other two—the mirror
+will have time to revolve through an indefinitely small arc in
+the interval between the reflection of the two sparks and that of
+the single one. However, the only indication of this small
+motion of the mirror will be, that the single spark will not be
+reflected in the same straight line with the other two, but a little
+above or below it, for the reflection of all three will still be
+apparently simultaneous, the time intervening being much too
+short to be appreciated.
+Since the number of revolutions which the revolving mirror
+makes in a second is known, and the angular deviation of the
+reflection of the single spark from the reflection of the other two
+can be measured, the time elapsed between their consecutive reflections
+can be ascertained. And, as the length of that part of
+the wire through which the electricity has passed is given, its
+velocity may be found.
+The number of pulses in a second, requisite to produce a musical
+note of any pitch, are known; hence the number of revolutions
+accomplished by the mirror in a given time may be determined
+from the musical note produced by a tooth or peg, in its axis of
+291rotation, striking against a card, or from the notes of a siren
+attached to the axis. It was thus that Professor Wheatstone
+found the mirror which he employed in his experiments made
+800 revolutions in a second; and, as the angular velocity of the
+reflected image in a revolving mirror is double that of the mirror
+itself, an angular deviation of one degree in the appearance of
+the two sparks would indicate an interval of the 576,000th of a
+second; the deviation of half a degree would, therefore, indicate
+more than the millionth of a second. The use of sound as a
+measure of velocity is a happy illustration of the connexion of
+the physical sciences.
+The earth possesses a powerful electrical tension, and the atmosphere
+when clear is almost always positively electric. Its electricity
+is stronger in winter than in summer, during the day
+than in the night. The intensity increases for two or three
+hours from the time of sunrise, comes to a maximum between
+seven and eight, then decreases towards the middle of the day,
+arrives at its minimum between one and two, and again augments
+as the sun declines till about the time of sunset, after which it
+diminishes and continues feeble during the night. The mere
+condensation of vapour is a source of atmospheric electricity; but
+although it is also produced by the vapour that rises from the
+surface of the earth, it is not under all circumstances. M. Pouillet
+found that electricity is only developed when accompanied by
+chemical action: for example, when the water whence the vapour
+proceeds contains lime, chalk, or any solid alkali, negative electricity
+is produced; and when it holds in solution either gas, acid,
+or some of the salts, the vapour is positively electric. Besides, the
+contact of earth with salt and fresh water generates positive electricity,
+and the contact of fresh and salt currents of water
+negative, so that the ocean must afford a great supply to the
+atmosphere; hence thunderstorms are most frequent near the
+coasts: but as electricity of one kind or another is developed
+whenever the molecules of matter are deranged from their natural
+state of equilibrium, there must be many partial variations in the
+electric state of the air. When the invisible vapour rises charged
+with electricity into the cold regions of the atmosphere, it is
+condensed into cloud, in which the tension is increased because
+the electricity is confined to a smaller space; and if the condensation
+292be sufficient to produce drops of rain, they carry the
+electricity to the ground, so that in general a shower is a conductor
+between the clouds and the earth. When two clouds
+charged with opposite kinds, but of equal tension, approach within
+a certain distance, the intensity increases on the sides of the clouds
+that are nearest to one another; and when the tension is great
+enough to overcome the coercive pressure of the atmosphere, a
+discharge takes place which causes a flash of lightning, the stroke
+being given either by the cloud or the rain. The actual quantity
+of electricity in any part of a cloud is extremely small. The
+intensity of the flash arises from the great extent of surface
+over which it is spread, so that clouds may be compared to
+enormous Leyden jars thinly coated with electricity, which only
+acquires its intensity by its instantaneous condensation. The
+rapid and irregular motions of thunder clouds are probably more
+owing to strong electrical attractions and repulsions among themselves
+than to currents of air, though both are no doubt concerned
+in these hostile movements. The atmosphere becomes
+intensely electric on the approach of rain, hail, snow, sleet, and
+wind; but it varies afterwards, and the transitions are very rapid
+on the approach of a thunderstorm.
+Since air is a non-conductor, it does not convey the electricity
+from the clouds to the earth, but it acquires from them an opposite
+kind, and when the tension is very great the force of the
+electricity becomes irresistible, and an interchange takes place
+between the clouds and the earth; but so rapid is the motion of
+lightning, that it is difficult to ascertain whether it goes from the
+clouds to the earth or shoots upwards from the earth to the
+clouds, though there can be no doubt that it does both. In a
+storm that occurred at Manchester in June 1835, the lightning
+was observed to issue from various points of a road, attended by
+explosions as if pistols had been fired out of the ground, and a
+man seems to have been killed by one of these explosions taking
+place under his foot. M. Gay Lussac ascertained that a flash of
+lightning sometimes darts more than three miles in a straight
+line. A person may be killed by lightning, although the explosion
+takes place at a distance of twenty miles, by what is called
+the back stroke. Suppose that the two extremities of a highly
+charged cloud hang down towards the earth, they will repel the
+293electricity from the earth’s surface if it be of the same kind with
+their own, and will attract the other kind; and if a discharge
+should suddenly take place at one end of the cloud, the equilibrium
+will be instantly restored by a flash at that point of the
+earth which is under the other. Though the back stroke is often
+sufficiently powerful to destroy life, it is never so terrible in its
+effects as the direct stroke, which is often of inconceivable intensity.
+Instances have occurred when large masses of iron and stone,
+and even many feet of a stone wall, have been carried to a considerable
+distance by a stroke of lightning. Rocks and the tops
+of mountains often bear the marks of fusion from its intense
+heat; and occasionally vitreous tubes descending many feet into
+banks of sand mark its path. Dr. Fiedler exhibited several of
+these fulgorites in London of considerable length, which had been
+dug out of the sandy plains of Silesia and Eastern Prussia. One
+found at Paderborn was forty feet long. Their ramifications
+generally terminate in pools or springs of water below the sand,
+which are supposed to determine the course of the lightning.
+No doubt the soil and substrata must influence its direction, since
+it is found by experience that places which have been once struck
+by lightning are often struck again. An insulated conductor on
+the approach of a storm gives out such quantities of sparks that
+it is dangerous to approach it, as was fatally experienced by
+Professor Richman at Petersburg, who was struck dead by a
+globe of fire from the extremity of a conductor, while making
+experiments on atmospheric electricity. Copper conductors afford
+the best protection, especially if they expose a broad surface,
+since electricity is conveyed along the surface of bodies. There
+is no instance of an electric cloud of high tension being dispelled
+by a conductor, yet those invented by Sir William Snow Harris,
+and universally employed in the navy, afford a complete protection
+in the most imminent danger. The Shannon, a 50-gun
+frigate, commanded by the brave and lamented Sir William Peel,
+was enveloped in a thunder-storm when about 90 miles to the
+north-west of Java. It began at fifty minutes past four in the
+afternoon; the ship was driven before the storm, in a high sea,
+amid streams of vivid lightning, deafening thunder, hail, and
+rain. At five o’clock an immense ball of fire covered the maintopgallant
+mast, ran up the royal pole, and exploded in the air
+with a terrific concussion, covering all the surrounding space
+294with sparks of electric light, which were driven rapidly to leeward
+by the wind. Fifteen minutes later an immense mass of
+lightning struck the mainmast, attended by a violent gust of
+wind; and another heavy discharge fell on it a quarter of an
+hour afterwards. From that time till six o’clock the ship was
+continually encompassed by sharp forked lightning, accompanied
+by incessant peals of thunder. Though actually enveloped in
+electricity, and struck three times, neither the hull nor the
+rigging sustained the slightest injury.
+When the air is rarefied by heat, its coercive power is diminished,
+so that the electricity escapes from the clouds in those
+lambent diffuse flashes without thunder so frequent in warm
+summer evenings; and when the atmosphere is highly charged with
+electricity, it not unfrequently happens that electric light, in
+the form of a star, is seen on the topmasts and yard-arms of ships.
+In 1831 the French officers at Algiers were surprised to see
+brushes of light on the heads of their comrades, and at the points
+of their fingers when they held up their hands. This phenomenon
+was well known to the ancients, who reckoned it a lucky omen.
+Many substances, in decaying, emit light, which is attributed
+to electricity, such as fish and rotten wood. Oyster-shells, and
+a variety of minerals, become phosphorescent at certain temperatures
+when exposed to electric shocks or friction: indeed, most
+of the causes which disturb molecular equilibrium give rise to
+phosphoric phenomena. The minerals possessing this property
+are generally coloured or imperfectly transparent; and, though
+the colour of this light varies in different substances, it has no
+fixed relation to the colour of the mineral. An intense heat
+entirely destroys this property, and the phosphorescent light developed
+by heat has no connexion with light produced by friction;
+for Sir David Brewster observed that bodies deprived of
+the faculty of emitting the one are still capable of giving out the
+other. Among the bodies which generally become phosphorescent
+when exposed to heat, there are some specimens which do
+not possess this property; wherefore phosphorescence cannot be
+regarded as an essential character of the minerals possessing it.
+Sulphuret of calcium, known as Canton’s phosphorus, and the
+sulphuret of barium, or Bologna stone, possess the phosphorescent
+property in an eminent degree.
+Multitudes of fish are endowed with the power of emitting
+295light at pleasure, no doubt to enable them to pursue their prey
+at depths where the sunbeams cannot penetrate. Flashes of light
+are frequently seen to dart along a shoal of herrings or pilchards;
+and the Medusa tribes are noted for their phosphorescent brilliancy,
+many of which are extremely small, and so numerous as
+to make the wake of a vessel look like a stream of silver.
+Nevertheless, the luminous appearance which is frequently observed
+in the sea during the summer months cannot always be
+attributed to marine animalculæ, as the following narrative will
+show:—
+Captain Bonnycastle, coming up the Gulf of St. Lawrence
+on the 7th of September, 1826, was roused by the mate of the
+vessel in great alarm from an unusual appearance. It was
+a starlight night, when suddenly the sky became overcast in
+the direction of the high land, and an instantaneous and intensely
+vivid light, resembling the aurora, shot out of the
+hitherto gloomy and dark sea on the lee bow, which was so brilliant
+that it lighted everything distinctly even to the mast-head.
+The light spread over the whole sea between the two shores, and
+the waves, which before had been tranquil, now began to be agitated.
+Captain Bonnycastle describes the scene as that of a
+blazing sheet of awful and most brilliant light. A long and
+vivid line of light, superior in brightness to the parts of the sea
+not immediately near the vessel, showed the base of the high,
+frowning, and dark land abreast; the sky became lowering and
+more intensely obscure. Long tortuous lines of light showed
+immense numbers of very large fish darting about as if in consternation.
+The sprit-sail yard and mizen-boom were lighted
+by the glare, as if gaslights had been burning directly below
+them; and until just before daybreak, at four o’clock, the most
+minute objects were distinctly visible. Day broke very slowly,
+and the sun rose of a fiery and threatening aspect. Rain followed.
+Captain Bonnycastle caused a bucket of this fiery water
+to be drawn up; it was one mass of light when stirred by the
+hand, and not in sparks as usual, but in actual coruscations. A
+portion of the water preserved its luminosity for seven nights.
+On the third night, the scintillations of the sea reappeared; the
+sun went down very singularly, exhibiting in its descent a
+double sun; and, when only a few degrees high, its spherical
+figure changed into that of a long cylinder, which reached the
+296horizon. In the night the sea became nearly as luminous as
+before, but on the fifth night the appearance entirely ceased.
+Captain Bonnycastle did not think it proceeded from animalculæ,
+but imagined it might be some compound of phosphorus, suddenly
+evolved and disposed over the surface of the sea. It
+had probably been that peculiar form of electricity known as the
+glow discharge, of which the author once saw a very remarkable
+instance.
+M. E. Becquerel assures us that almost all substances are
+phosphorescent after being exposed to the sun if instantly withdrawn
+into darkness, and that it depends upon the arrangement
+of the particles and not upon chemical action. The salts of
+uranium give the same kind of phosphorescent light as that produced
+by the violet rays of the solar spectrum. A solution of the
+bisulphate of quinine emits a yellow phosphorescent light, whereas
+the fluorescent light of that liquid is blue. The colours of these
+two kinds of light are generally complementary to one another.
+Phosphorescence is probably more or less concerned in some, at
+least, of a series of very curious experiments made by M. Niepcé
+de Saint-Victor, on what he calls the saturation of substances with
+light. It has long been known that, if a person in an intensely
+dark room should expose his arm to the sun through a hole in a
+window-shutter, it will shine on being drawn into the darkness.
+Now, M. de Saint-Victor found that if an engraving be exposed
+for a certain time to the sun, and instantly brought into darkness,
+it will make a photographic impression on a collodion or argentine
+surface, and that anything written or drawn with tartaric
+acid, or a solution of the salts of uranium, in large characters, is
+reproduced even at a small distance from a sensitive surface. It
+may be presumed that the light communicates its vibrations to
+the surfaces exposed to it with sufficient force to enable them to
+disturb the unstable equilibrium of such sensitive substances as
+collodion or the argentine salts. M. de Saint-Victor has shown
+that tartaric acid, which is readily impressed by sunlight, is
+neither fluorescent nor phosphorescent, whence he concludes that
+his experiments are independent of both of these modes of action.
+Uranium appears to have very peculiar properties: its salts are
+strongly luminous when exposed to the sun; they are very fluorescent;
+and the crystallized azitote of uranium becomes phosphorescent
+by percussion.</div></body></text></TEI>

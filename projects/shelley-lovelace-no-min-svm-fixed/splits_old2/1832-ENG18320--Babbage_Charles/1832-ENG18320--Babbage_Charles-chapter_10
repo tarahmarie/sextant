@@ -1,0 +1,62 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Economy of Machinery and Manufactures</title><author>Babbage, Charles (1791-1871)</author></titleStmt><publicationStmt><publisher>Charles Knight</publisher><pubPlace>London</pubPlace><date>1832</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="10">Chapter 10
+Of the Identity of the Work When It is of the Same Kind, and its
+
+Accuracy when of Different Kinds
+
+79. Nothing is more remarkable, and yet less unexpected, than
+the perfect identity of things manufactured by the same tool. If
+the top of a circular box is to be made to fit over the lower
+part, it may be done in the lathe by gradually advancing the tool
+of the sliding-rest; the proper degree of tightness between the
+box and its lid being found by trial. After this adjustment, if a
+thousand boxes are made, no additional care is required; the tool
+is always carried up to the stop, and each box will be equally
+adapted to every lid. The same identity pervades all the arts of
+printing; the impressions from the same block, or the same
+copperplate, have a similarity which no labour could produce by
+hand. The minutest traces are transferred to all the impressions,
+and no omission can arise from the inattention or unskilfulness
+of the operator. The steel punch, with which the cardwadding for
+a fowling-piece is cut, if it once perform its office with
+accuracy, constantly reproduces the same exact circle.
+80. The accuracy with which machinery executes its work is,
+perhaps, one of its most important advantages: it may, however,
+be contended, that a considerable portion of this advantage may
+be resolved into saving of time; for it generally happens, that
+any improvement in tools increases the quantity of work done in a
+given time. Without tools, that is, by the mere efforts of the
+human hand, there are, undoubtedly, multitudes of things which it
+would be impossible to make. Add to the human hand the rudest
+cutting instrument, and its powers are enlarged: the fabrication
+of many things then becomes easy, and that of others possible
+with great labour. Add the saw to the knife or the hatchet, and
+other works become possible, and a new course of difficult
+operations is brought into view, whilst many of the former are
+rendered easy. This observation is applicable even to the most
+perfect tools or machines. It would be possible for a very
+skilful workman, with files and polishing substances, to form a
+cylinder out of a piece of steel; but the time which this would
+require would be so considerable, and the number of failures
+would probably be so great, that for all practical purposes such
+a mode of producing a steel cylinder might be said to be
+impossible. The same process by the aid of the lathe and the
+sliding-rest is the everyday employment of hundreds of workmen.
+81. Of all the operations of mechanical art, that of turning
+is the most perfect. If two surfaces are worked against each
+other, whatever may have been their figure at the commencement,
+there exists a tendency in them both to become portions of
+spheres. Either of them may become convex, and the other concave,
+with various degrees of curvature. A plane surface is the line of
+separation between convexity and concavity, and is most difficult
+to hit; it is more easy to make a good circle than to produce a
+straight line. A similar difficulty takes place in figuring
+specula for telescopes; the parabola is the surface which
+separates the hyperbolic from the elliptic figure, and is the
+most difficult to form. If a spindle, not cylindrical at its end,
+be pressed into a hole not circular, and kept constantly turning,
+there is a tendency in these two bodies so situated to become
+conical, or to have circular sections. If a triangular-pointed
+piece of iron be worked round in a circular hole the edges will
+gradually wear, and it will become conical. These facts, if
+they do not explain, at least illustrate the principles on
+which the excellence of work formed in the lathe depends.</div></body></text></TEI>

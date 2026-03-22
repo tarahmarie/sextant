@@ -1,0 +1,152 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title></title><author>Babbage Charles</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="21">ON HUME'S ARGUMENT AGAINST MIRACLES.
+Few arguments have excited greater attention, and produced more attempts at
+ refutation, than the celebrated one of David Hume, respecting miracles; and
+ it might be added, that more sophistry has been advanced against it, than its
+ author employed in the whole of his writings. It must be admitted that in the
+ argument, as originally developed by its author, there exists some confusion
+ between personal experience and that which is derived from testimony; and that
+ there are several other points open to criticism and objection; but the main
+ argu-
+[page] 121
+ment, divested of its less important adjuncts, never has, and never will be
+ refuted. Dr. Johnson seems to have been of this opinion, as the following extract
+ from his life by Boswell proves:—
+ " Talking of Dr. Johnson's unwillingness to believe extraordinary things,
+ I ventured to say— " ' Sir, you come near to Hume's argument against miracles—That
+ it is more probable witnesses should lie, or be ' mistaken, than that they should
+ happen.' " Johnson.—' Why, Sir, Hume, taking the proposition ' simply, is right.
+ But the Christian revelation is not proved ' by miracles alone, but as connected
+ with prophecies, and ' with the doctrines in confirmation of which miracles
+ were ' wrought.' "*
+Hume contends that a miracle is a violation of the laws of nature; and as a
+ firm and unalterable experience has established these laws', the proof against
+ a miracle from the very nature of the fact, is as entire as any argument from
+ experience can possibly be imagined.
+ * Boswell's Life of Johnson. Oxford, 1826. vol. iii. p. 169.
+[page] 122
+ " The plain consequence is (and it is a general maxim " worthy of our attention),
+ that no testimony is sufficient " to establish a miracle, unless the testimony
+ be of such a " kind, that its falsehood would be more miraculous than the "
+ fact which it endeavours to establish: and even in that case " there is a mutual
+ destruction of arguments, and the superior " only gives us an assurance suitable
+ to that degree of force " which remains after deducting the inferior."-*
+The word miraculous employed in this passage is evidently equivalent
+ to improbable, although the improbability is of a very high degree. The
+ condition, therefore, which, it is asserted by the argument of Hume, must be
+ fulfilled with regard to the testimony, is that the improbability of
+ its falsehood must be greater than the improbability of the occurrence
+ of the fact. This is a condition which, when the terms in which it is expressed
+ are understood, immediately commands our assent. It is in the .
+* Hume's Essays, Edinburgh, 1817, vol. ii. p. 117. .
+[page] 123
+subsequent stage of the reasoning that the fallacy is introduced. Hume asserts,
+ that this condition cannot be fulfilled by the evidence of any number of
+ witnesses, because our experience of the truth of human testimony is not uniform
+ and without any exceptions; whereas, our experience of the course of nature,
+ or our experience against miracles, is uniform and uninterrupted. The only sound
+ way of trying the validity of this assertion is to measure the numerical
+ value of the two improbabilities, one of which it is admitted must be greater
+ than the other; and to ascertain whether, by making any hypothesis respecting
+ the veracity of each witness, it is possible to fulfil that condition by any
+ finite number of such witnesses. Hume appears to have been but very slightly
+ acquainted with the doctrine of probabilities, and, indeed, at the period when
+ he wrote, the details by which the conclusions .
+[page] 124
+he had arrived at could be proved or refuted were yet to be examined and arranged.
+ It is, however, remarkable that the opinion he maintained respecting our knowledge
+ of causation is one which eminently brings the whole question within the province
+ of the calculus of probabilities. In fact, its solution can only be completely understood by those who are acquainted with that most difficult branch of
+ science. By those who are not so prepared, certain calculations, which will
+ be found more fully developed in the Note (E), must be taken for granted; and
+ all that can be attempted will be, to convey to them a general outline of the
+ nature of the principles on which these enquiries depend. A miracle is, according
+ to Hume, an event which has never happened within the experience of the whole
+ human race. Now, the improbability of the future happening of such an occurrence
+ may be calculated according to two different views. .
+[page] 125
+ We may conceive an urn, containing only black and white balls, from
+ which m black balls have been successively drawn and replaced, one by
+ one; and we may calculate the probability of the appearance of a white ball
+ at the next drawing. This would be analogous to the case of one human being
+ raised from the dead after m instances to the contrary. Looking, in another
+ point of view, at a miracle, we may imagine an urn to contain a very large number
+ of tickets, on each of which is written one of the series of natural numbers.
+ These being thoroughly mixed together, a single ticket is drawn: the prediction
+ of the particular number inscribed on the ticket about to be drawn may be assimilated
+ to the occurrence of a miracle. According to either of these views, the probability
+ of the occurrence of such an event by mere accident may be calculated. Now,
+ the reply to Hume's argument is this: Admit-
+[page] 126
+ting at once the essential point, viz. that the improbability of the concurrence
+ of the witnesses in falsehood must be greater than the improbability
+ of the miracle, it may be denied that this does not take place. Hume has asserted
+ that, in order to prove a miracle, a certain improbability must be greater than another; and he has also asserted that this never can take
+ place. Now, as each improbability can be truly measured by number, the only way to refute Hume's argument is by examining the magnitude of these
+ numbers. This examination depends on known and admitted principles, for which
+ the reader, who is prepared by previous study, may refer to the work of Laplace, Théorie Analytique des Probabilités; Poisson, Recherches
+ sur la Probabilité des Jugements, 1837; or he may consult the article Probabilities, by Mr. De Morgan, in the Encyclopaedia Metropolitana,
+ in which he will find this subject examined. .
+[page] 127
+One of the most important principles on which the question rests, is the concurrence
+ of the testimony of independent witnesses. This principle has been stated by
+ Campbell, and has been employed by the Archbishop of Dublin,* and also by Dr.
+ Chalmers.† It requires however to be combined with another principle,
+ in order to obtain the numerical values of the quantities spoken of in the argument.
+ The following example may be sufficient for a popular illustration. Let us suppose
+ that there are witnesses who will speak the truth, and who are not themselves
+ deceived in ninety-nine cases out of a hundred. Now, let us examine what is
+ the probability of the falsehood of a statement about to be made by two such
+ persons absolutely unknown to and unconnected with each other. Since the order
+ in which independent wit- .
+* Elements of Rhetoric, by R. Whately, D.D. p. 57,1832.
+† Evidence of Christian Revelation, vol. i. p. 129.
+[page] 128
+nesses give their testimony does not affect their credit, we may suppose that,
+ in a given number of statements, both witnesses tell the truth in the ninety-nine
+ first cases, and the falsehood in the hundredth. Then the first time the second
+ witness B testifies, he will agree with the testimony of the first witness A,
+ in the ninety-nine first cases, and differ from him in the hundredth. Similarly,
+ in the second testimony of B, he will again agree with A in ninety-nine cases,
+ and differ in the hundredth, and so on for ninety-nine times; so that, after
+ A has testified a hundred, and B ninety-nine times, we shall have .
+ 99 X 99 cases in which both agree, 99 cases in which they differ, A being
+ wrong. .
+ Now, in the hundredth case in which B testifies, he is wrong; and, if we
+ combine this with the testimony of A, we have ninety-nine cases in which A will
+ be right and B wrong; and one case only in which both A and B will .
+[page] 129
+ agree in error. The whole number of cases, which amounts to ten thousand,
+ may be thus divided:—
+.
+As there is only one case in ten thousand in which two such independent witnesses
+ can agree in error, the probability of their future testimony being false is
+ .
+..
+ The reader will already perceive how great a reliance is due to the future concurring testimony of two independent witnesses of tolerably good character
+ and understanding. It appears that, previously to the testimony, the chance
+ of one such witness being in error is that of two concurring in the same error  isand
+ if the same reasoning be applied to three independent witnesses, it will be
+[page] 130
+found that the probability of their agreeing in error is; or that the odds are 999,999 to 1 against  the agreement. Pursuing the same reasoning, the probability of the falsehood
+ of a fact which six such independent witnesses attest is, previously to the
+ testimony, or it is, in round numbers,
+ .
+1,000,000,000,000 to 1 against the falsehood of their testimony. .
+ The improbability of the miracle of a dead man being restored, is, on the
+ principles stated by Hume,  or it is—
+ 200,000,000.000 to 1 against its occurrence.
+It follows, then, that the chances of accidental or other independent concurrence
+ of only six such independent witnesses, is already five times as
+ great as the improbability against
+[page] 131
+ the miracle of a dead man's being restored to life, deduced from Hume's method
+ of estimating its probability solely from experience. This illustration shows
+ the great accumulation of probability arising from the concurrence of independent
+ witnesses: we must however combine this principle with another, before we can
+ arrive at the real numerical value of the improbabilities referred to in the
+ argument. The calculation of the numerical values of these improbabilities I
+ have given in Note (E.) From this it results that, provided we assume that independent
+ witnesses can be found of whose testimony it can be stated that it is more probable
+ that it is true than that it is false, we can always assign a number of witnesses
+ which will, according to Hume's argument, prove the truth of a miracle.
+[page] 132</div></body></text></TEI>

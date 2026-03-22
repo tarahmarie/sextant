@@ -1,0 +1,92 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title></title><author>Whewell William</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1858</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="18"> 
+
+CHAPTER VIII.
+Methods of Induction depending on Resemblance.
+
+
+Aphorism XLIX.
+The Law of Continuity is this:—that a quantity cannot
+pass from one amount to another by any change of conditions,
+without passing through all intermediate magnitudes
+according to the intermediate conditions. This Law may
+often be employed to disprove distinctions which have no real
+foundation.
+Aphorism L.
+The Method of Gradation consists in taking a number of
+stages of a property in question, intermediate between two
+extreme cases which appear to be different. This Method is
+employed to determine whether the extreme cases are really
+distinct or not.
+Aphorism LI.
+The Method of Gradation, applied to decide the question,
+whether the existing geological phenomena arise from existing
+causes, leads to this result:—That the phenomena do appear
+to arise from Existing Causes, but that the action of existing
+causes may, in past times, have transgressed, to any extent,
+their recorded limits of intensity.
+Aphorism LII.
+The Method of Natural Classification consists in classing
+cases, not according to any assumed Definition, but according
+to the connexion of the facts themselves, so as to make them
+the means of asserting general truths. 221
+Sect. I.—The Law of Continuity.
+
+1. THE
+Law of Continuity is applicable to quantity
+primarily, and therefore might be associated
+with the methods treated of in the last chapter: but
+inasmuch as its inferences are made by a transition from
+one degree to another among contiguous cases, it will
+be found to belong more properly to the Methods of
+Induction of which we have now to speak.
+The Law of Continuity consists in this proposition,—That
+a quantity cannot pass from one amount to
+another by any change of conditions, without passing
+through all intermediate degrees of magnitude according
+to the intermediate conditions. And this law may
+often be employed to correct inaccurate inductions,
+and to reject distinctions which have no real foundation
+in nature. For example, the Aristotelians made
+a distinction between motions according to nature, (as
+that of a body falling vertically downwards,) and motions
+contrary to nature, (as that of a body moving
+along a horizontal plane:) the former, they held, became
+naturally quicker and quicker, the latter naturally
+slower and slower. But to this it might be replied,
+that a horizontal line may pass, by gradual motion,
+through various inclined positions, to a vertical
+position: and thus the retarded motion may pass into the
+accelerated; and hence there must be some inclined
+plane on which the motion downwards is naturally
+uniform: which is false, and therefore the distinction
+of such kinds of motion is unfounded. Again, the
+proof of the First Law of Motion depends upon the
+Law of Continuity: for since, by diminishing the
+resistance to a body moving on a horizontal plane, we
+diminish the retardation, and this without limit, the
+law of continuity will bring us at the same time to
+the case of no resistance and to the case of no retardation.
+2. The Law of Continuity is asserted by Galileo
+in a particular application; and the assertion which it 222
+suggests is by him referred to
+Plato;—namely36 that a
+moveable body cannot pass from rest to a determinate
+degree of velocity without passing through all smaller
+degrees of velocity. This law, however, was first asserted
+in a more general and abstract form by
+Leibnitz37:
+and was employed by him to show that the laws
+of motion propounded by Descartes must be false. The
+Third Cartesian Law of Motion was
+this38: that when
+one moving body meets another, if the first body have
+a less momentum than the second, it will be reflected
+with its whole motion: but if the first have a greater
+momentum than the second, it will lose a part of its
+motion, which it will transfer to the second. Now
+each of these cases leads, by the Law of Continuity, to
+the case in which the two bodies have equal momentums:
+but in this case, by the first part of the law the
+body would retain all its motion; and by the second
+part of the law it would lose a portion of it: hence the
+Cartesian Law is false.</div></body></text></TEI>

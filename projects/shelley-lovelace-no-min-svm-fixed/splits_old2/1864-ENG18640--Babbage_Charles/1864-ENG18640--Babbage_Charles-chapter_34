@@ -1,0 +1,214 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Passages from the Life of a Philosopher</title><author>Babbage, Charles (1791-1871)</author></titleStmt><publicationStmt><publisher>Longman, Green, Longman, Roberts, and Green</publisher><pubPlace>London</pubPlace><date>1864</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="34">CHAPTER XXXIV.
+
+THE AUTHOR’S FURTHER CONTRIBUTIONS TO HUMAN
+KNOWLEDGE.
+
+Glaciers — Uniform Postage — Weight
+of the Bristol Bags — Parcel
+Post — Plan for trans­mit­ting Letters along
+Aërial Wires — Cost of Verification is part of
+Price — Sir Rowland Hill — Submarine
+Navigation — Difference Engine — Analytical
+Engine — Cause of Magnetic and Electric
+Rotations — Mechanical Notation — Occulting
+Lights — Semi-oc­cul­ta­tion may determine
+Distances — Distinction of Lighthouses
+numerically — Application from the United
+States — Proposed Voyage — Loss
+of the Ship and Mr. Reid — Congress of
+Naval Officers at Brussels in 1853 — My
+Portable Occulting Light exhibited — Night
+Signals — Sun Signals — Solar
+Occulting Lights — Afterwards used
+at Sebastopol — Numerical Signals
+applicable to all Dictionaries — Zenith
+Light Signals — Telegraph for Ships on
+Shore — Greenwich Time Signals — Theory
+of Isothermal Surfaces to account for the Geological Facts
+of the successive Uprising and Depression of various
+parts of the Earth’s Surface — Games of
+Skill — Tit-tat-to — Exhibitions — Problem
+of the Three Magnetic Bodies.
+Of Glaciers.
+MUCH
+has been written upon the subject of glaciers. The
+view which I took of the question on my first acquaintance
+with them still seems to me to afford a sufficient explanation
+of the phenomena. It is probable that I may have been
+anticipated in it by Saussure and others; but, having no time
+to inquire into its history, I shall give a very brief statement
+of those views.
+The greater part of the material which ultimately constitutes
+a glacier arises from the rain falling and the snow
+deposited in the higher portions of
+mountain ranges, which {442}
+naturally first fill up the ravines and valleys, and rests on
+the tops of the mountains, covering them to various depths.
+The chief facts to be explained are—first, the causes of
+the descent of these glaciers into the plains; second, the
+causes of the transformation of the opaque consolidated snow
+at the sources of the glacier into pure transparent ice at its
+termination.
+The glaciers usually lying in valleys having a steep descent,
+gravity must obviously have a powerful influence; but its
+action is considerably increased by another cause.
+The heat of the earth and that derived from the friction
+of the glacier and its broken fragments against the rock on
+which it rests, as well as from the friction of its own fragments,
+slowly melts the ice, and thus diminishing the amount
+of its support, the ice above cracks and falls down upon the
+earth, again to be melted and again to be broken.
+But as the ice is upon an inclined plane, the pressure from
+above, on the upper side of the fragment, will be greater than
+that on the lower; consequently, at every fall the fallen mass
+will descend by a very small quantity further into the valley.
+Another consequence of the melting of the lower part of the
+centre of the glacier will be that the centre will advance
+faster than the sides, and its termination will form a curve
+convex towards the valley.
+The above was, I believe, the common explanation of the
+formation of glaciers. The following part explains my own
+views:—
+
+Of the Causes of the Transformation of Condensed Snow into
+Transparent Ice.
+It is a well-known fact that water rapidly frozen retains all
+the air it held in solution, and is opaque. {443}
+It is also known that water freezing very slowly is transparent.
+Whenever, by the melting of the lower portion of any part
+of a glacier, a piece of it cracks and falls to a lower level, the
+friction of the broken sides will produce heat, and melt a
+small portion of water. This water, trickling down very
+slowly, will form a thin layer on the broken surface, and a
+portion will be retained in the narrowest part of the crack.
+But, since the temperature of a glacier is very near the freezing
+point, that water will freeze very slowly. It will, therefore,
+become transparent ice, and will, as it were, solder together
+the two adjacent surfaces by a thin layer of transparent ice.
+But the transparent ice is much stronger and more difficult
+to break than opaque ice; consequently, the next time the
+soldered fragments are again broken, they will not break in
+the strongest part, which is the transparent ice: but the next
+fracture will occur in the opaque ice, as it was at first.
+Thus, by the continued breaking and falling downward of
+the fragments of the glacier, as it proceeds down the valley,
+a series of vertical, rudely-parallel veins of transparent ice
+will be formed. As these masses descend the valley, fresh
+vertical layers of transparent ice will be interposed between
+those already existing until the whole takes that beautiful
+transparent cerulean tint which we so frequently see at the
+lower termination of a glacier. Another effect of this vertical
+fracture at the surfaces of least resistance will be alternate
+vertical layers of opaque and transparent ice shading into each
+other. This would, in some of its stages, give a kind of ribboned
+appearance to the ice. Probably traces of it would
+still be exhibited even in the most transparent ice. Speaking
+roughly, this ribboned structure ought to be closer together
+the nearer the piece examined is to the end of
+the glacier. It {444}
+ought also to be more apparent towards the centre of the glacier
+than towards the sides. The effect of this progress downward
+is to produce a very powerful friction between the masses
+of ice and the earth over which they are pushed, and, consequently,
+a continual accession to that stream of water which
+is found issuing from all glaciers.
+The result of this continual breaking up is to cause all the
+water melted by the friction of the blocks of ice which is not
+retained in the interstices to fall towards the lowest part of the
+descending valley, and thus increase the stream, and so take
+away more and more of the support of the central part of the
+glacier. Hence the advance of the surface of the glacier
+will be much quicker towards its middle than near the
+sides.
+〈CRACKS IN GLACIERS PERPENDICULAR.〉
+The consequence of these actions is, that cracks in the ice
+will occur generally in planes perpendicular to its surface.
+The rain which falls upon the glacier, the water produced
+from its surface by the sun’s rays and by the effect of the
+temperature of the atmosphere, as well as the water produced
+by the friction of its descending fragments, will penetrate
+through these cracks, and be retained by capillary action on
+the surfaces, and still more where the distance of the adjacent
+surfaces is very small. The rest of this unfrozen water will
+reach the rocky bottom of the glacier, and give up some of its
+heat to the bed over which it passes, to be again employed in
+melting away the lowest support of the glacier ice. Although
+the temperature of the glacier should differ but by a very
+small quantity from that of the freezing point of water, yet
+these films will only freeze the more slowly, and therefore become
+more solid and transparent ice. Their very thinness will
+enable all the air to be more readily extricated by freezing.
+The question of the regelation of pounded ice,
+if by that {445}
+term is meant anything more than welding ice by heat, or of
+joining its parts by a process analogous to that which is called
+burning together two separate portions of a bronze statue, has
+always appeared to me unsat­is­fac­tory.
+〈BURNING TOGETHER BRONZE.〉
+The process of “burning together” is as follows:—Two
+portions of a large statue, which have been cast separately,
+are placed in a trough of sand, with their corresponding ends
+near to each other. A channel is made in the sand, leading
+through the junction of the parts to be united.
+A stream of melted bronze is now allowed to run out from
+the furnace through the channel between the contiguous ends
+which it is proposed to unite. The first effect of this is to
+heat the ends of the two fragments. After the stream of
+melted metal has continued some time, the ends of those fragments
+themselves begin to melt. When a small quantity of
+each end is completely melted, the further flow of the melted
+metal is stopped, and as soon as the pool of melted metal
+connects, the two ends of the pieces to be united begins to
+consolidate: the whole is covered up with sand and allowed
+to cool gradually. When cold, the unnecessary metal is cut
+away, and the fragments are as perfectly united as if they
+had been originally cast in one piece.
+The sudden consolidation, by physical force, of pounded ice
+or snow appears to me to arise from the first effect of the
+pressure producing heat, which melts a small portion into
+water, and brings the particles of ice or snow nearer to each
+other. The portion of water thus produced then, having its
+heat abstracted by the ice, connects the particles of the latter
+more firmly together by freezing.
+If two flat surfaces of clear ice had a heated plate of metal
+put between them, two very thin layers of water would be
+formed between the ice and the heated plate.
+If the hot {446}
+plate were suddenly withdrawn, and the two plates of ice
+pressed together, they would then be frozen together. This
+would be equivalent to welding. In all these cases the temperature
+of the ice must be a very little lower than the freezing-point.
+The more nearly it approached that point the
+slower the process of freezing would be, and therefore the
+more transparent the ice thus formed.
+〈ICE FROZEN IN THE EXHIBITION, 1862.〉
+In the Exhibition of 1862 there were two different processes
+by which ice was produced in abundance, even in the
+heat of the Machinery Annex, in which they were placed.
+In both the water was quickly converted into ice, and in
+both cases the ice was opaque.
+In one of them the ice was produced in the shape of long
+hollow cylinders. These were quite opaque, and were piled
+up in stacks. The temperature of the place caused the ice to
+melt slowly; consequently, the interstices where the cylinders
+rested upon each other, received and retained a small
+portion of the water, which, trickling down, was detained by
+capillary attraction. Here it was very slowly frozen, and
+formed at the junction of the cylinders a thin film of transparent
+ice. This gradually increased as the upper cylinders
+of the ice melted away, and, after several hours’ exposure, I
+have seen clear transparent ice a quarter of an inch thick,
+where, at the commencement, there had not been even a
+trace of translucency.
+On inquiring of the operator why the original cylinders
+were opaque, he told me, because they were frozen quickly.
+I then pointed out to him the small portions of transparent
+ice, which I have described, and asked him the cause. He
+immediately said, because they had been frozen slowly.
+It appeared to be an axiom, derived from his own experience,
+that water quickly frozen is always
+opaque, and water {447}
+slowly frozen always transparent. I pointed out this practical
+illustration to many of the friends I accompanied in their
+examination of the machinery of the Annex.
+</div></body></text></TEI>

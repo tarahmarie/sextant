@@ -1,0 +1,19 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Frankenstein; Or, The Modern Prometheus</title><author>Shelley, Mary Wollstonecraft (1797-1851)</author></titleStmt><publicationStmt><publisher>Lackington, Hughes, Harding, Mavor and Jones</publisher><pubPlace>London</pubPlace><date>1818</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="23">FRANKENSTEIN;
+OR,
+
+THE MODERN PROMETHEUS.
+IN THREE VOLUMES.
+VOL. III.
+
+Did I request thee, Maker, from my clay
+To mould me man? Did I solicit thee
+From darkness to promote me?——
+Paradise Lost.
+
+London:
+PRINTED FOR
+LACKINGTON, HUGHES, HARDING, MAVOR, & JONES,
+FINSBURY SQUARE.
+1818.
+
+</div></body></text></TEI>

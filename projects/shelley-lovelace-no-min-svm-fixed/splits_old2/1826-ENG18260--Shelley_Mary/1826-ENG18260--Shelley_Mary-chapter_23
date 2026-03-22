@@ -1,0 +1,3 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Last Man</title><author>Shelley, Mary Wollstonecraft (1797-1851)</author></titleStmt><publicationStmt><publisher>Henry Colburn</publisher><pubPlace>London</pubPlace><date>1826</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="23">
+VOL. III.
+</div></body></text></TEI>

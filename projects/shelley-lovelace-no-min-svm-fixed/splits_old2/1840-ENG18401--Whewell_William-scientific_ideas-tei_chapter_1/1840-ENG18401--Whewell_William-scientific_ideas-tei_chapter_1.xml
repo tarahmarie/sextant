@@ -1,0 +1,12 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title></title><author>Whewell William</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="1">
+BOOK I.
+
+OF IDEAS IN GENERAL.
+Quæ adhuc inventa sunt in Scientiis, ea hujusmodi sunt ut
+Notionibus Vulgaribus fere subjaceant: ut vero ad interiora
+et remotiora Naturæ penetretur, necesse est ut tam Notiones
+quam Axiomata magis certâ et munitâ viâ a particularibus
+abstrahantur; atque omnino melior et certior intellectûs
+adoperatio in usum veniat.
+Bacon, Nov. Org., Lib. 1. Aphor. xviii.
+</div></body></text></TEI>

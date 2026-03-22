@@ -1,0 +1,355 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title></title><author>Babbage Charles</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1830</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="4">
+      SECTION 2. OF NATIONAL ENCOURAGEMENT.
+    
+
+      The little encouragement which at all previous periods has been afforded
+      by the English Government to the authors of useful discoveries, or of new
+      and valuable inventions, is justified on the following grounds:
+    
+
+      1. The public, who consume the new commodity or profit by the new
+      invention, are much better judges of its merit than the government can be.
+    
+
+      2. The reward which arises from the sale of the commodity is usually much
+      larger than that which government would be justified in bestowing; and it
+      is exactly proportioned to the consumption, that is, to the want which the
+      public feel for the new article.
+    
+
+      It must be admitted that, as general principles, these are correct: there
+      are, however, exceptions which flow necessarily from the very reasoning
+      from which they were deduced. Without entering minutely into these
+      exceptions, it will be sufficient to show that all abstract truth is
+      entirely excluded from reward under this system. It is only the
+      application of principles to common life which can be thus rewarded. A few
+      instances may perhaps render this position more evident. The principle of
+      the hydrostatic paradox was known as a speculative truth in the time of
+      Stevinus; [About the year 1600] and its application to raising heavy
+      weights has long been stated in elementary treatises on natural
+      philosophy, as well as constantly exhibited in lectures. Yet, it may
+      fairly be regarded as a mere abstract principle, until the late Mr.
+      Bramah, by substituting a pump instead of the smaller column, converted it
+      into a most valuable and powerful engine.—The principle of the
+      convertibility of the centres of oscillation and suspension in the
+      pendulum, discovered by Huygens more than a century and a half ago,
+      remained, until within these few years, a sterile, though most elegant
+      proposition; when, after being hinted at by Prony, and distinctly pointed
+      out by Bonenberger, it was employed by Captain Kater as the foundation of
+      a most convenient practical method of determining the length of the
+      pendulum.—The interval which separated the discovery, by Dr. Black,
+      of latent heat, from the beautiful and successful application of it to the
+      steam engine, was comparatively short; but it required the efforts of two
+      minds; and both were of the highest order.—The influence of
+      electricity in producing decompositions, although of inestimable value as
+      an instrument of discovery in chemical inquiries, can hardly be said to
+      have been applied to the practical purposes of life, until the same
+      powerful genius which detected the principle, applied it, by a singular
+      felicity of reasoning, to arrest the corrosion of the copper-sheathing of
+      vessels. That admirably connected chain of reasoning, the truth of which
+      is confirmed by its very failure as a remedy, will probably at some future
+      day supply, by its successful application, a new proof of the position we
+      are endeavouring to establish.
+    
+
+      [I am authorised in stating, that this was regarded by Laplace as the
+      greatest of Sir Humphry Davy's discoveries. It did not fail in producing
+      the effect foreseen by Sir H. Davy,—the preventing the corrosion of
+      the copper; but it failed as a cure of the evil, by producing one of an
+      OPPOSITE character; either by preserving too perfectly from decay the
+      surface of the copper, or by rendering it negative, it allowed marine
+      animals and vegetables to accumulate on its surface, and thus impede the
+      progress of the vessel.]
+    
+
+      Other instances might, if necessary, be adduced, to show that long
+      intervals frequently elapse between the discovery of new principles in
+      science and their practical application: nor ought this at all to surprise
+      us. Those intellectual qualifications, which give birth to new principles
+      or to new methods, are of quite a different order from those which are
+      necessary for their practical application.
+    
+
+      At the time of the discovery of the beautiful theorem of Huygens, it
+      required in its author not merely a complete knowledge of the mathematical
+      science of his age, but a genius to enlarge its boundaries by new
+      creations of his own. Such talents are not always united with a quick
+      perception of the details, and of the practical applications of the
+      principles they have developed, nor is it for the interest of mankind that
+      minds of this high order should lavish their powers on subjects unsuited
+      to their grasp.
+    
+
+      In mathematical science, more than in all others, it happens that truths
+      which are at one period the most abstract, and apparently the most remote
+      from all useful application, become in the next age the bases of profound
+      physical inquiries, and in the succeeding one, perhaps, by proper
+      simplification and reduction to tables, furnish their ready and daily aid
+      to the artist and the sailor.
+    
+
+      It may also happen that at the time of the discovery of such principles,
+      the mechanical arts may be too imperfect to render their application
+      likely to be attended with success. Such was the case with the principle
+      of the hydrostatic paradox; and it was not, I believe, until the
+      expiration of Mr. Bramah's patent, that the press which bears his name
+      received that mechanical perfection in its execution, which has deservedly
+      brought it into such general use.
+    
+
+      On the other hand, for one person who is blessed with the power of
+      invention, many will always be found who have the capacity of applying
+      principles; and much of the merit ascribed to these applications will
+      always depend on the care and labour bestowed in the practical detail.
+    
+
+      If, therefore, it is important to the country that abstract principles
+      should be applied to practical use, it is clear that it is also important
+      that encouragement should be held out to the few who are capable of adding
+      to the number of those truths on which such applications are founded.
+      Unless there exist peculiar institutions for the support of such
+      inquirers, or unless the Government directly interfere, the contriver of a
+      thaumatrope may derive profit from his ingenuity, whilst he who unravels
+      the laws of light and vision, on which multitudes of phenomena depend,
+      shall descend unrewarded to the tomb.
+    
+
+      Perhaps it may be urged, that sufficient encouragement is already afforded
+      to abstract science in our different universities, by the professorships
+      established at them. It is not however in the power of such institutions
+      to create; they may foster and aid the development of genius; and, when
+      rightly applied, such stations ought to be its fair and honourable
+      rewards. In many instances their emolument is small; and when otherwise,
+      the lectures which are required from the professor are not perhaps in all
+      cases the best mode of employing the energies of those who are capable of
+      inventing.
+    
+
+      I cannot resist the opportunity of supporting these opinions by the
+      authority of one of the greatest philosophers of a past age, and of
+      expressing my acknowledgments to the author of a most interesting piece of
+      scientific biography. In the correspondence which terminated in the return
+      of Galileo to a professorship in his native country, he remarks, "But,
+      because my private lectures and domestic pupils are a great hinderance and
+      interruption of my studies, I wish to live entirely exempt from the
+      former, and in great measure from the latter."—LIFE OF GALILEO,
+      p.18. And, in another letter to Kepler, he speaks with gratitude of Cosmo,
+      the Grand Duke of Tuscany, who "has now invited me to attach myself to him
+      with the annual salary of 1000 florins, and with the title of Philosopher
+      and principal Mathematician to his Highness, without the duties of any
+      office to perform, but with most complete leisure; so that I can complete
+      my treatise on Mechanics, &c."—p.31. [Life of Galileo, published
+      by the Society for the Diffusion of Useful Knowledge.]
+    
+
+      Surely, if knowledge is valuable, it can never be good policy in a country
+      far wealthier than Tuscany, to allow a genius like Mr. Dalton's, to be
+      employed in the drudgery of elementary instruction. [I utter these
+      sentiments from no feelings of private friendship to that estimable
+      philosopher, to whom it is my regret to be almost unknown, and whose
+      modest and retiring merit, I may, perhaps, have the misfortune to offend
+      by these remarks. But Mr. Dalton was of no party; had he ever moved in
+      that vortex which has brought discredit, and almost ruin, on the Royal
+      Society of England;—had he taken part with those who vote to each
+      other medals, and, affecting to be tired of the fatigues of office, make
+      to each other requisitions to retain places they would be most reluctant
+      to quit; his great and splendid discovery would long since have been
+      represented to government. Expectant mediocrity would have urged on his
+      claims to remuneration, and those who covered their selfish purposes with
+      the cloak of science, would have hastened to shelter themselves in the
+      mantle of his glory.—But the philosopher may find consolation for
+      the tardy approbation of that Society, in the applause of Europe. If he
+      was insulted by their medal, he escaped the pain of seeing his name
+      connected with their proceedings.] Where would have been the military
+      renown of England, if, with an equally improvident waste of mental power,
+      its institutions had forced the Duke of Wellington to employ his life in
+      drilling recruits, instead of planning campaigns?
+    
+
+      If we look at the fact, we shall find that the great inventions of the age
+      are not, with us at least, always produced in universities. The doctrines
+      of "definite proportions," and of the "chemical agency of electricity,"—principles
+      of a high order, which have immortalized the names of their discoverers,—were
+      not produced by the meditations of the cloister: nor is it in the least a
+      reproach to those valuable institutions to mention truths like these.
+      Fortunate circumstances must concur, even to the greatest, to render them
+      eminently successful. It is not permitted to all to be born, like
+      Archimedes, when a science was to be created; nor, like Newton, to find
+      the system of the world "without form and void;" and, by disclosing
+      gravitation, to shed throughout that system the same irresistible radiance
+      as that with which the Almighty Creator had illumined its material
+      substance. It can happen to but few philosophers, and but at distant
+      intervals, to snatch a science, like Dalton, from the chaos of indefinite
+      combination, and binding it in the chains of number, to exalt it to rank
+      amongst the exact. Triumphs like these are necessarily "few and far
+      between;" nor can it be expected that that portion of encouragement, which
+      a country may think fit to bestow on science, should be adapted to meet
+      such instances. Too extraordinary to be frequent, they must be left, if
+      they are to be encouraged at all, to some direct interference of the
+      government.
+    
+
+      The dangers to be apprehended from such a specific interference, would
+      arise from one, or several, of the following circumstances:—That
+      class of society, from whom the government is selected, might not possess
+      sufficient knowledge either to judge themselves, or know upon whose
+      judgment to rely. Or the number of persons devoting themselves to science,
+      might not be sufficiently large to have due weight in the expression of
+      public opinion. Or, supposing this class to be large, it might not enjoy,
+      in the estimation of the world, a sufficiently high character for
+      independence. Should these causes concur in any country, it might become
+      highly injurious to commit the encouragement of science to any department
+      of the government. This reasoning does not appear to have escaped the
+      penetration of those who advised the abolition of the late Board of
+      Longitude.
+    
+
+      The question whether it is good policy in the government of a country to
+      encourage science, is one of which those who cultivate it are not perhaps
+      the most unbiased judges. In England, those who have hitherto pursued
+      science, have in general no very reasonable grounds of complaint; they
+      knew, or should have known, that there was no demand for it, that it led
+      to little honour, and to less profit.
+    
+
+      That blame has been attributed to the government for not fostering the
+      science of the country is certain; and, as far as regards past
+      administrations, is, to a great extent, just; with respect to the present
+      ministers, whose strength essentially depends on public opinion, it is not
+      necessary that they should precede, and they cannot remain long insensible
+      to any expression of the general feeling. But supposing science were
+      thought of some importance by any administration, it would be difficult in
+      the present state of things to do much in its favour; because, on the one
+      hand, the higher classes in general have not a profound knowledge of
+      science, and, on the other, those persons whom they have usually
+      consulted, seem not to have given such advice as to deserve the confidence
+      of government. It seems to be forgotten, that the money allotted by
+      government to purposes of science ought to be expended with the same
+      regard to prudence and economy as in the disposal of money in the affairs
+      of private life.
+    
+
+      [Who, for instance, could have advised the government to incur the expense
+      of printing SEVEN HUNDRED AND FIFTY copies of the Astronomical
+      Observations made at Paramatta, to form a third part of the Philosophical
+      Transactions for 1829, whilst of the Observations made at the Royal
+      Observatory at Greenwich, two hundred and fifty copies only are printed?
+    
+
+      Of these seven hundred and fifty copies, seven hundred and ten will be
+      distributed to members of the Royal Society, to six hundred of whom they
+      will probably be wholly uninteresting or useless; and thus the country
+      incurs a constantly recurring annual expense. Nor is it easy to see on
+      what principle a similar destination could be refused for the observations
+      made at the Cape of Good Hope.]
+    
+
+      To those who measure the question of the national encouragement of science
+      by its value in pounds, shillings, and pence, I will here state a fact,
+      which, although pretty generally known, still, I think, deserves
+      attention. A short time since it was discovered by government that the
+      terms on which annuities had been granted by them were erroneous, and new
+      tables were introduced by act of Parliament. It was stated at the time
+      that the erroneous tables had caused a loss to the country of between two
+      and three millions sterling. The fact of the sale of those annuities being
+      a losing concern was long known to many; and the government appear to have
+      been the last to be informed on the subject. Half the interest of half
+      that loss, judiciously applied to the encouragement of mathematical
+      science, would, in a few years, have rendered utterly impossible such
+      expensive errors.
+    
+
+      To those who bow to the authority of great names, one remark may have its
+      weight. The MECANIQUE COELESTE, [The first volume of the first translation
+      of this celebrated work into our own language, has just arrived in England
+      from—America.] and the THEORIE ANALYTIQUE DES PROBABILITES, were
+      both dedicated, by Laplace, to Napoleon. During the reign of that
+      extraordinary man, the triumphs of France were as eminent in Science as
+      they were splendid in arms. May the institutions which trained and
+      rewarded her philosophers be permanent as the benefits they have conferred
+      upon mankind!
+    
+
+      In other countries it has been found, and is admitted, that a knowledge of
+      science is a recommendation to public appointments, and that a man does
+      not make a worse ambassador because he has directed an observatory, or has
+      added by his discoveries to the extent of our knowledge of animated
+      nature. Instances even are not wanting of ministers who have begun their
+      career in the inquiries of pure analysis. As such examples are perhaps
+      more frequent than is generally imagined, it may be useful to mention a
+      few of those men of science who have formerly held, or who now hold, high
+      official stations in the governments of their respective countries.
+    
+
+ Country.      Name.         Department of       Public Office.
+                                Science.
+
+ France.. Marquis Laplace(1)  Mathematics       President of the
+                                                 Conservative
+                                                 Senate.
+
+ France.. M.Carnot            Mathematics       Minister of War.
+
+ France.. Count Chaptal(2)    Chemistry         Minister of the
+                                                 Interior.
+
+ France.. Baron Cuvier(3)     Comparative       Minister of
+                                Anatomy,           Public
+                                History          Instruction
+
+ Prussia.. Baron Humboldt      Oriental          Ambassador
+                               Languages         to England
+
+ Prussia.. Baron Alexander     The celebrated    Chamberlain to
+               Humboldt        Traveller         the King of
+                                                 Prussia
+
+ Modena.  Marquis Rangoni(4)  Mathematics       Minister of
+                                                 Finance and
+                                                 of Public
+                                                 Instruction,
+                                                 President of
+                                                 Italian Academy
+                                                 of Forty.
+
+ Tuscany. Count Fossombroni   Mathematics       Prime Minister
+               (5)                               of the Grand Duke
+                                                 of Tuscany.
+
+ Saxony..  M. Lindenau(6)     Astronomy         Ambassador.
+
+ (1) Author of the MECANIQUE COELESTE.
+ (2) Author of TRAITE DE CHIMIE APPLIQUE AUX ARTS.
+ (3) Author of LECONS D'ANATOMIE COMPAREE—RECHERCHES SUR OSSEMENS
+ FOSSILES &c. &c.
+ (4) Author of MEMORIA SULLE FUNZIONI GENERATRICI, Modena, 1824,
+ and of various other memoirs on mathematical subjects.
+ (5) Author of several memoirs on mechanics and hydraulics, in the
+ Transactions of the Academy of Forty.
+ (6) Author of TABLES BAROMETRIQUES, Gotha, 1809—TABULAE VENERIS,
+ NOVAE ET CORRECTAE, Gothae, 1810—INVESTIGATIO NOVA ORBITAE A
+ MERCURIO CIRCA SOLEM DESCRIPTAE, Gothae, 1813, and of other
+ works.
+
+
+      M. Lindenau, the Minister from the King of Saxony to the King of the
+      Netherlands, commenced his career as astronomer at the observatory of the
+      Grand Duke of Gotha, by whom he was sent as his representative at the
+      German Diet. On the death of the late reigning Duke, M. Lindenau was
+      invited to Dresden, and filled the same situation under the King of
+      Saxony; after which he was appointed his minister at the court of the King
+      of the Netherlands. Such occurrences are not to be paralleled in our own
+      country, at least not in modern times. Newton was, it is true, more than a
+      century since, appointed Master of the Mint; but let any person suggest an
+      appointment of a similar kind in the present day, and he will gather from
+      the smiles of those to whom he proposes it that the highest knowledge
+      conduces nothing to success, and that political power is almost the only
+      recommendation.
+    
+
+
+ 
+
+
+
+</div></body></text></TEI>

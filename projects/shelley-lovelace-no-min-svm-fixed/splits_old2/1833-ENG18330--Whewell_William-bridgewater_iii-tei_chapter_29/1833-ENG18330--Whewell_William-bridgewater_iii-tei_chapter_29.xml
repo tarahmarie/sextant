@@ -1,0 +1,457 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title></title><author>Whewell William</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1833</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="29">
+CHAPTER X.
+
+The Law of Gravitation.
+
+We shall proceed to make a few observations on
+the Law of Gravity, in virtue of which the motions
+of planets about the sun, and of satellites about their
+planets take place; and by which also are produced[167]
+the fall downwards of all bodies within our reach,
+and the pressure which they exert upon their supports
+when at rest. The identification of the latter
+forces with the former, and the discovery of the single
+law by which these forces are every where regulated,
+was the great discovery of Newton: and we
+wish to make it appear that this law is established by
+an intelligent and comprehensive selection.
+The law of the sun’s attraction upon the planets
+is, that this attraction varies inversely as the square
+of the distance; that is, it decreases as that square
+increases. If we take three points or planets of the
+solar system, the distances of which from the sun are
+in proper proportion one, two, three; the attractive
+force which the sun at these distances exercises, is
+as one, one-fourth, and one-ninth respectively. In
+the smaller variations of distance which occur in the
+elliptical motion of one planet, the variations of the
+force follow the same law. Moreover, not only does
+the sun attract the planets, but they attract each
+other according to the same law; the tendency to
+the earth which makes bodies heavy, is one of the
+effects of this law: and all these effects of the attractions
+of large masses may be traced to the attractions
+of the particles of which they are composed; so that
+the final generalization, including all the derivative
+laws, is, that every particle of matter in the universe
+attracts every other, according to the law of the inverse
+square of the distance.
+Such is the law of universal gravitation. Now,
+the question is, why do either the attractions of
+masses, or those of their component particles, follow
+this law of the inverse square of the distance rather
+than any other? When the distance becomes one,
+two, and three, why should not the force also become
+one, two, and three?—or if it must be weaker at
+points more remote from the attracting body, why
+should it not be one, a half, a third? or one, an eighth,
+a twenty-seventh? Such law’s could easily be expressed
+mathematically, and their consequences calculated.[168]
+Can any reason be assigned why the law
+which we find in operation must obtain? Can any
+be assigned why it should obtain?
+The answer to this is, that no reason, at all satisfactory,
+can be given why such a law must, of necessity,
+be what it is; but that very strong reasons
+can be pointed out why, for the beauty and advantage
+of the system, the present one is better than
+others. We will point out some of these reasons.
+1. In the first place, the system could not have
+subsisted, if the force had followed a direct instead
+of an inverse law, with respect to the distance; that
+is, if it had increased when the distance increased.
+It has been sometimes said, that “all direct laws of
+force are excluded on account of the danger from
+perturbing forces;”[23] that if the planets had pulled at
+this earth, the harder the further off they were, they
+would have dragged it entirely out of its course.
+This is not an exact statement of what would happen:
+if the force were to be simply in the direct
+ratio of the distance, any number of planets might
+revolve in the most regular and orderly manner.
+Their mutual effects, which we may call perturbations
+if we please, would be considerable; but these
+perturbations would be so combined with the unperturbed
+motion, as to produce a new motion not less
+regular than the other. This curious result would
+follow, that every body in the system would describe,
+or seem to describe, about every other, an exact
+elliptical orbit; and that the times of the revolution
+of every body in its orbit would be all equal. This
+is proved by Newton, in the sixty-fourth proposition
+of the Principia. There would be nothing to prevent
+all the planets, on this supposition, from moving
+round the sun in orbits exactly circular, or nearly
+circular, according to the mode in which they were
+set in motion.
+But though the perturbations of the system would[169]
+not make this law inadmissible, there are other circumstances
+which would do so. Under this law, the
+gravity of bodies at the earth’s surface would cease
+to exist. Nothing would fall or weigh downwards.
+The greater action of the distant sun and planets
+would exactly neutralize the gravity of the earth: a
+ball thrown from the hand, however gently, would
+immediately become a satellite of the earth, and
+would for the future accompany it in its course, revolving
+about it in the space of one year. All terrestrial
+things would float about with no principle of
+coherence or stability: they would obey the general
+law of the system, but would acknowledge no particular
+relation to the earth. We can hardly pretend
+to judge of the abstract possibility of such a system
+of things; but it is clear that it could not exist without
+an utter subversion of all that we can conceive
+of the economy and structure of the world which we
+inhabit.
+With any other direct law of force, we should in
+like manner lose gravity, without gaining the theoretical
+regularity of the planetary motions which we
+have described in the case just considered.
+2. Among inverse laws of the distance, (that is,
+those according to which the force diminishes as the
+distance from the origin of force increases,) all which
+diminish the central force faster than the cube of the
+distance increases are inadmissible, because they are
+incompatible with the permanent revolution of a
+planet. Under such laws it would follow, that a
+planet would describe a spiral line about the sun,
+and would either approach nearer and nearer to
+him perpetually, or perpetually go further and further
+off: nearly as a stone at the end of a string,
+when the string is whirled round, and is allowed to
+wrap round the hand, or to unwrap from it, approaches
+to or recedes from the hand.
+If we endeavour to compare the law of the inverse
+square of the distance, which really regulates the
+central force, with other laws, not obviously inadmissible,[170]
+as for instance, the inverse simple ratio of
+the distance, a considerable quantity of calculation
+is found to be necessary in order to trace the results,
+and especially the perturbations in the two cases.
+The perturbations in the supposed case have not
+been calculated; such a calculation being a process
+so long and laborious that it is never gone through,
+except for the purpose of comparing the results of
+theory with those of observation, as we can do with
+regard to the law of inverse square. We can only
+say, therefore, that the stability of the system, and
+the moderate limits of the perturbations, which we
+know to be secured by the existing law, would not,
+so far as we know, be obtained by any different law.
+Without going into further examination of the
+subject, we may observe that there are some circumstances
+in which the present system has a manifest
+superiority in its simplicity over the condition which
+would have belonged to it if the force had followed
+any other law. Thus, with the present law of gravitation
+the planets revolve, returning perpetually on
+the same track, very nearly. The earth describes
+an oval, in consequence of which motion she is
+nearer to the sun in our winter than in our summer
+by about one-thirtieth part of the whole distance.
+And, as the matter now is, the nearest approach to
+the sun, and the farthest recess from him, occur always
+at the same points of the orbit. There is indeed
+a slight alteration in these points arising from
+disturbing forces, but this is hardly sensible in the
+course of several ages. Now if the force had followed
+any other law, we should have had the earth running
+perpetually on a new track. The greatest and
+least distances would have occurred at different
+parts in every successive revolution. The orbit
+would have perpetually intersected and been interlaced
+with the path described in former revolutions;
+and the simplicity and regularity which characterizes
+the present motion would have been quite
+wanting.
+[171]
+3. Another peculiar point of simplicity in the present
+law of mutual attraction is this: that it makes
+the law of attraction for spherical masses the same
+as for single particles. If particles attract with
+forces which are inversely as the square of the distance,
+spheres composed of such particles, will exert
+a force which follows the same law. In this character
+the present law is singular, among all possible
+laws, excepting that of the direct distance which we
+have already discussed. If the law of the gravitation
+of particles had been that of the inverse simple
+distance, the attraction of a sphere would have been
+expressed by a complex series of mathematical expressions,
+each representing a simple law. It is truly
+remarkable that the law of the inverse square of the
+distance, which appears to be selected as that of the
+masses of the system, and of which the mechanism
+is, that it arises from the action of the particles of
+the system, should lead us to the same law for the
+action of these particles: there is a striking prerogative
+of simplicity in the law thus adopted.
+The law of gravitation actually prevailing in the
+solar system has thus great and clear advantages
+over any law widely different from it; and has moreover,
+in many of its consequences, a simplicity which
+belongs to this precise law alone. It is in many such
+respects a unique law; and when we consider that it
+possesses several properties which are peculiar to it,
+and several advantages which may be peculiar to it,
+and which are certainly nearly so; we have some
+ground, it would appear, to look upon its peculiarities
+and its advantages as connected. For the reasons
+mentioned in the last chapter, we can hardly
+expect to see fully the way in which the system is
+benefited by the simplicity of this law, and by the
+mathematical elegance of its consequences: but when
+we see that it has some such beauties, and some manifest
+benefits, we may easily suppose that our ignorance
+and limited capacity alone prevent our seeing
+that there are, for the selection of this law of force,[172]
+reasons of a far more refined and comprehensive
+kind than we can distinctly apprehend.
+4. But before quitting this subject we may offer a
+few further observations on the question, whether
+gravitation and the law of gravitation be necessary
+attributes of matter. We have spoken of the selection
+of this law, but is it selected? Could it have
+been otherwise? Is not the force of attraction a
+necessary consequence of the fundamental properties
+of matter?
+This is a question which has been much agitated
+among the followers of Newton. Some have maintained,
+as Cotes, that gravity is an inherent property
+of all matter; others, with Newton himself, have
+considered it as an appendage to the essential qualities
+of matter, and have proposed hypotheses to
+account for the mode in which its effects are produced.
+The result of all that can be said on the subject
+appears to be this: that no one can demonstrate the
+possibility of deducing gravity from the acknowledged
+fundamental properties of matter: and that
+no philosopher asserts, that matter has been found
+to exist, which was destitute of gravity. It is a property
+which we have no right to call necessary to
+matter, but every reason to suppose universal.
+If we could show gravity to be a necessary consequence
+of those properties which we adopt as essential
+to our notion of matter, (extension, solidity,
+mobility, inertia) we might then call it also one of the
+essential properties. But no one probably will assert
+that this is the case. Its universality is a fact of
+observation merely. How then can a property,—in
+its existence so needful for the support of the universe,
+in its laws so well adapted to the purposes of
+creation,—how came it to be thus universal? Its
+being found every where is necessary for its uses;
+but this is so far from being a sufficient explanation
+of its existence, that it is an additional fact to be
+explained. We have here, then, an agency most[173]
+simple in its rule, most comprehensive in its influence,
+most effectual and admirable in its operation.
+What evidence could be afforded of design,
+by laws of mechanical action, which this law thus
+existing and thus operating does not afford us?
+5. It is not necessary for our purpose to consider
+the theories which have been proposed to account
+for the action of gravity. They have proceeded on
+the plan of reducing this action to the result of pressure
+or impulse. Even if such theories could be
+established, they could not much, or at all, affect
+our argument; for the arrangements by which pressure
+or impact could produce the effects which gravity
+produces, must be at least as clearly results of
+contrivance, as gravity itself can be.
+In fact, however, none of these attempts can be
+considered as at all successful. That of Newton is
+very remarkable: it is found among the Queries in
+the second edition of his Optics. “To show,” he
+says, “that I do not take gravity for an essential
+property of bodies, I have added one question concerning
+its cause, choosing to propose it by way of
+question, because I am not yet satisfied about it for
+want of experiments.” The hypothesis which he
+thus suggests is, that there is an elastic medium pervading
+all space, and increasing in elasticity as we
+proceed from dense bodies outwards: that this
+“causes the gravity of such dense bodies to each
+other: every body endeavouring to go from the
+denser parts of the medium towards the rarer.” Of
+this hypothesis we may venture to say, that it is in
+the first place quite gratuitous; we cannot trace in
+any other phenomena a medium possessing these
+properties: and in the next place, that the hypothesis
+contains several suppositions which are more
+complex than the fact to be explained, and none
+which are less so. Can we, on Newton’s principles,
+conceive an elastic medium otherwise than as a collection
+of particles, repelling each other? and is the
+repulsion of such particles a simpler fact than the[174]
+attraction of those which gravitate? And when we
+suppose that the medium becomes more elastic as we
+proceed from each attracting body, what cause can
+we conceive capable of keeping it in such a condition,
+except a repulsive force emanating from the
+body itself: a supposition at least as much requiring
+to be accounted for, as the attraction of the body.
+It does not appear, then, that this hypothesis will
+bear examination; although, for our purpose, the argument
+would be rather strengthened than weakened,
+if it could be established.
+6. Another theory of the cause of gravity, which
+at one time excited considerable notice, was that originally
+proposed by M. Le Sage, in 
+a memoir entitled “Lucrece Newtonien,” and further illustrated by
+M. Prevost; according to which all space is occupied
+by currents of matter, moving perpetually in
+straight lines, in all directions, with a vast velocity,
+and penetrating all bodies. When two bodies are
+near each other, they intercept the current which
+would flow in the intermediate space if they were
+not there, and thus receive a tendency towards each
+other from the pressure of the currents on their
+farther sides. Without examining further this curious
+and ingenious hypothesis, we may make upon
+it the same kind of observations as before;—that it
+is perfectly gratuitous, except as a means of explaining
+the phenomena; and that, if it were proved, it
+would still remain to be shown what necessity has
+caused the existence of these two kinds of matter;
+the first kind being that which is commonly called
+matter, and which alone affects our senses, while it
+is inert as to any tendency to motion; the second
+kind being something imperceptible to our senses,
+except by the effects it produces on matter of the
+former kind; yet exerting an impulse on every material
+body, permeating every portion of common
+matter, flowing with inconceivable 
+velocity, in inexhaustible abundance, from every part of the abyss of
+infinity on one side, to the opposite part of the same[175]
+abyss; and so constituted that through all eternity it
+can never bend its path, or return, or tarry in its
+course.
+If we were to accept this theory, it would little or
+nothing diminish our wonder at the structure of the
+universe. We might well continue to admire the evidence
+of contrivance, if such a machinery should be
+found to produce all the effects which flow from the
+law of gravitation.
+7. The arguments for and against the necessity of
+the law of the inverse square of the distance in the
+force of gravity, were discussed with great animation
+about the middle of the last century. Clairault,
+an eminent mathematician, who did more than almost
+any other person for the establishment and development
+of the Newtonian doctrines, maintained,
+at one period of his researches, not only that the inverse
+square was not the necessary law, but also that
+it was not the true law. The occasion of this controversy
+was somewhat curious.
+Newton and other astronomers had found that the
+line of the moon’s apsides (that is of her greatest and
+least distances from the earth) moves round to different
+parts of the heavens with a velocity twice as
+great as that which the calculation from the law of
+gravitation seems at first to give. According to the
+theory, it appeared that this line ought to move round
+once in eighteen years; according to observation, it
+moves round once in nine years. This difference,
+the only obvious failure of the theory of gravitation,
+embarrassed mathematicians exceedingly. It is true,
+it was afterwards discovered that the apparent discrepancy
+arose from a mistake; the calculation,
+which is long and laborious, was supposed to have
+been carried far enough to get close to the truth;
+but it appeared afterwards that the residue which
+had been left out as insignificant, produced, by an
+unexpected turn in the reckoning, an effect as large
+as that which had been taken for the whole. But
+this discovery was not made till afterwards; and in[176]
+the mean time the law of the inverse square appeared
+to be at fault. Clairault tried to remedy the defect
+by supposing that the force of the earth’s gravity consisted
+of a large force varying as the square of the
+distance, and a very small force varying as the fourth
+power (the square of the square.) By such a supposition,
+observation and theory could be reconciled;
+but on the suggestion of it, Buffon came forward
+with the assertion that the force could not vary according
+to any other law than the inverse square.
+His arguments are rather metaphysical than physical
+or mathematical. Gravity, he urges, is a quality,
+an emanation; and all emanations are inversely as
+the square of the distance, as light, odours. To this
+Clairault replies by asking, how we know that light
+and odours have their intensity inversely as the
+square of the distance from their origin: not, he observes,
+by measuring the intensity, but by supposing
+these effects to be material emanations. But who,
+he asks, supposes gravity to be a material emanation
+from the attracting body.
+Buffon again pleads that so many facts prove the
+law of the inverse square, that a single one, which
+occurs to interfere with this agreement, must be in
+some manner capable of being explained away.
+Clairault replies, that the facts do not prove this law
+to obtain exactly; that small effects, of the same order
+as the one under discussion, have been neglected;
+and that therefore the law is only known to be true,
+as far as such an approximation goes, and no farther.
+Buffon then argues, that there can be no such additional
+fraction of the force, following a different
+law, as Clairault supposes: for what, he asks, is there
+to determine the magnitude of the fraction to one
+amount rather than another? why should nature select
+for it any particular magnitude? To this it is replied,
+that, whether we can explain the fact or not,
+nature does select certain magnitudes in preference
+to others: that where we ascertain she does this, we
+are not to deny the fact because we cannot assign the[177]
+grounds of her preference. What is there, it is asked,
+to determine the magnitude of the whole force at
+any fixed distance? We cannot tell; yet the force is
+of a certain definite intensity and no other.
+Finally, Clairault observes, that we have, in cohesion,
+capillary attraction, and various other cases,
+examples of forces varying according to other laws
+than the inverse square; and that therefore this cannot
+be the only possible law.
+The discrepancy between observation and theory
+which gave rise to this controversy was removed, as
+has been already stated, by a more exact calculation:
+and thus, as Laplace observes, in this case the
+metaphysician turned out to be right and the mathematician
+to be wrong. But most persons, probably,
+who are familiar with such trains of speculation, will
+allow, that Clairault had the best of the argument,
+and that the attempts to show the law of gravitation
+to be necessarily what it is, are fallacious and unsound.
+8. We may observe, however, that the law of gravitation
+according to the inverse square of the distance,
+which thus regulates the motions of the solar
+system, is not confined to that province of the universe,
+as has been shown by recent researches. It
+appears by the observations and calculations of Sir
+John Herschel, that several of the stars, called double
+stars, consist of a pair of luminous bodies which revolve
+above each other in ellipses, in such a manner
+as to show that the force, by which they are attracted
+to each other, varies according to the law of the
+inverse square. We thus learn a remarkable fact
+concerning bodies which seemed so far removed that
+no effort of our science could reach them; and we
+find that the same law of mutual attraction which we
+have before traced to the farthest bounds of the solar
+system, prevails also in spaces at a distance compared
+with which the orbit of Saturn shrinks into a point.
+The establishment of such a truth certainly suggests,
+as highly probable, the prevalence of this law among[178]
+all the bodies of the universe. And we may therefore
+suppose, that the same ordinance which gave to
+the parts of our system that rule by which they fulfil
+the purposes of their creation, impressed the same
+rule on the other portions of matter which are scattered
+in the most remote parts of the universe; and
+thus gave to their movements the same grounds of
+simplicity and harmony which we find reason to admire,
+as far as we can acquire any knowledge of our
+own more immediate neighbourhood.
+</div></body></text></TEI>

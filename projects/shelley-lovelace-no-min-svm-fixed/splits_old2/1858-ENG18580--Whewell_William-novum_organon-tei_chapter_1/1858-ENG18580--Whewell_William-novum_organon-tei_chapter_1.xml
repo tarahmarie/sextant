@@ -1,0 +1,606 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title></title><author>Whewell William</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1858</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="1"> 
+
+CHAPTER II.
+Of the Explication of Conceptions.
+
+
+Aphorism II.
+The Explication of Conceptions, as requisite for the progress
+of science, has been effected by means of discussions and
+controversies among scientists; often by debates concerning
+definitions; these controversies have frequently led to the
+establishment of a Definition; but along with the Definition,
+a corresponding Proposition has always been expressed or
+implied. The essential requisite for the advance of science
+is the clearness of the Conception, not the establishment of a
+Definition. The construction of an exact Definition is often
+very difficult. The requisite conditions of clear Conceptions
+may often be expressed by Axioms as well as by Definitions.
+Aphorism III.
+Conceptions, for purposes of science, must be appropriate
+as well as clear: that is, they must be modifications of that
+Fundamental Idea, by which the phenomena can really be interpreted.
+This maxim may warn us from errour, though
+it may not lead to discovery. Discovery depends upon the
+previous cultivation or natural clearness of the appropriate
+Idea, and therefore no discovery is the work of accident.
+Sect. I.—Historical Progress of the Explication of Conceptions.
+
+1. WE have given the appellation of Ideas to certain
+comprehensive forms of thought,—as
+space, number, cause, composition, resemblance,—which
+we apply to the phenomena which we contemplate.
+But the special modifications of these ideas which are 31
+exemplified in particular facts, we have termed Conceptions;
+as a circle, a square number, an accelerating
+force, a neutral combination of elements, a genus.
+Such Conceptions involve in themselves certain necessary and
+universal relations derived from the Ideas
+just enumerated; and these relations are an indispensable
+portion of the texture of our knowledge. But to
+determine the contents and limits of this portion of
+our knowledge, requires an examination of the Ideas
+and Conceptions from which it proceeds. The Conceptions must
+be, as it were, carefully unfolded, so as
+to bring into clear view the elements of truth with
+which they are marked from their ideal origin. This
+is one of the processes by which our knowledge is extended
+and made more exact; and this I shall describe
+as the Explication of Conceptions.
+In the several Books of the History of Ideas we
+have discussed a great many of the Fundamental Ideas
+of the most important existing sciences. We have, in
+those Books, abundant exemplifications of the process
+now under our consideration. We shall here add a
+few general remarks, suggested by the survey which
+we have thus made.
+2. Such discussions as those in which we have been
+engaged concerning our fundamental Ideas, have been
+the course by which, historically speaking, those Conceptions
+which the existing sciences involve have been
+rendered so clear as to be fit elements of exact knowledge.
+Thus, the disputes concerning the various kinds
+and measures of Force were an important part of the
+progress of the science of Mechanics. The struggles by
+which philosophers attained a right general conception
+of plane, of circular, of elliptical Polarization, were
+some of the most difficult steps in the modern discoveries
+of Optics. A Conception of the Atomic Constitution
+of bodies, such as shall include what we know,
+and assume nothing more, is even now a matter of
+conflict among Chemists. The debates by which, in
+recent times, the Conceptions of Species and Genera
+have been rendered more exact, have improved the
+science of Botany: the imperfection of the science of 32
+Mineralogy arises in a great measure from the circumstance,
+that in that subject, the Conception of a Species
+is not yet fixed. In Physiology, what a vast advance
+would that philosopher make, who should establish a
+precise, tenable, and consistent Conception of Life!
+Thus discussions and speculations concerning the
+import of very abstract and general terms and notions,
+may be, and in reality have been, far from useless and
+barren. Such discussions arose from the desire of men
+to impress their opinions on others, but they had the
+effect of making the opinions much more clear and distinct.
+In trying to make others understand them, they
+learnt to understand themselves. Their speculations
+were begun in twilight, and ended in the full brilliance
+of day. It was not easily and at once, without expenditure
+of labour or time, that men arrived at those
+notions which now form the elements of our knowledge;
+on the contrary, we have, in the history of
+science, seen how hard, discoverers, and the forerunners
+of discoverers, have had to struggle with the indistinctness
+and obscurity of the intellect, before they could
+advance to the critical point at which truth became
+clearly visible. And so long as, in this advance, some
+speculators were more forward than others, there was
+a natural and inevitable ground of difference of opinion,
+of argumentation, of wrangling. But the tendency of all
+such controversy is to diffuse truth and to
+dispel errour. Truth is consistent, and can bear the
+tug of war; Errour is incoherent, and falls to pieces
+in the struggle. True Conceptions can endure the
+sun, and become clearer as a fuller light is obtained;
+confused and inconsistent notions vanish like visionary
+spectres at the break of a brighter day. And thus
+all the controversies concerning such Conceptions as
+science involves, have ever ended in the establishment
+of the side on which the truth was found.
+3. Indeed, so complete has been the victory of
+truth in most of these instances, that at present we
+can hardly imagine the struggle to have been necessary.
+The very essence of these triumphs is that they
+lead us to regard the views we reject as not only false, 33
+but inconceivable. And hence we are led rather to
+look back upon the vanquished with contempt than
+upon the victors with gratitude. We now despise those
+who, in the Copernican controversy, could not conceive
+the apparent motion of the sun on the heliocentric
+hypothesis;—or those who, in opposition to Galileo,
+thought that a uniform force might be that which
+generated a velocity proportional to the space;—or
+those who held there was something absurd in Newton’s
+doctrine of the different refrangibility of differently
+coloured rays;—or those who imagined that
+when elements combine, their sensible qualities must
+be manifest in the compound;—or those who were
+reluctant to give up the distinction of vegetables into
+herbs, shrubs, and trees. We cannot help thinking that
+men must have been singularly dull of comprehension,
+to find a difficulty in admitting what is to us so plain
+and simple. We have a latent persuasion that we in
+their place should have been wiser and more clear-sighted;—that
+we should have taken the right side,
+and given our assent at once to the truth.
+4. Yet in reality, such a persuasion is a mere delusion.
+The persons who, in such instances as the above,
+were on the losing side, were very far, in most cases,
+from being persons more prejudiced, or stupid, or narrow-minded,
+than the greater part of mankind now
+are; and the cause for which they fought was far
+from being a manifestly bad one, till it had been so
+decided by the result of the war. It is the peculiar
+character of scientific contests, that what is only an
+epigram with regard to other warfare is a truth in
+this;—They who are defeated are really in the wrong.
+But they may, nevertheless, be men of great subtilty,
+sagacity, and genius; and we nourish a very foolish
+self-complacency when we suppose that we are their
+superiors. That this is so, is proved by recollecting
+that many of those who have made very great discoveries
+have laboured under the imperfection of thought
+which was the obstacle to the next step in knowledge.
+Though Kepler detected with great acuteness the
+Numerical Laws of the solar system, he laboured in 34
+vain to conceive the very simplest of the Laws of
+Motion by which the paths of the planets are governed.
+Though Priestley made some important steps in chemistry,
+he could not bring his mind to admit the doctrine
+of a general Principle of Oxidation. How many ingenious
+men in the last century rejected the Newtonian Attraction
+as an impossible chimera! How
+many more, equally intelligent, have, in the same manner,
+in our own time, rejected, I do not now mean as
+false, but as inconceivable, the doctrine of Luminiferous
+Undulations! To err in this way is the lot, not
+only of men in general, but of men of great endowments,
+and very sincere love of truth.
+5. And those who liberate themselves from such
+perplexities, and who thus go on in advance of their
+age in such matters, owe their superiority in no small
+degree to such discussions and controversies as those
+to which we now refer. In such controversies, the
+Conceptions in question are turned in all directions,
+examined on all sides; the strength and the weakness
+of the maxims which men apply to them are fully tested;
+the light of the brightest minds is diffused to other
+minds. Inconsistency is unfolded into self-contradiction;
+axioms are built up into a system of necessary
+truths; and ready exemplifications are accumulated of
+that which is to be proved or disproved, concerning
+the ideas which are the basis of the controversy.
+The History of Mechanics from the time of Kepler
+to that of Lagrange, is perhaps the best exemplification
+of the mode in which the progress of a science
+depends upon such disputes and speculations as give
+clearness and generality to its elementary conceptions.
+This, it is to be recollected, is the kind of progress of
+which we are now speaking; and this is the principal
+feature in the portion of scientific history which we
+have mentioned. For almost all that was to be done
+by reference to observation, was executed by Galileo
+and his disciples. What remained was the task of
+generalization and simplification. And this was promoted
+in no small degree by the various controversies
+which took place within that period concerning 35 mechanical
+conceptions:—as, for example, the question
+concerning the measure of the Force of Percussion;—the
+war of the Vis Viva;—the controversy of the
+Center of Oscillation;—of the independence of Statics and
+Dynamics;—of the principle of Least Action;—of the
+evidence of the Laws of Motion;—and of the number
+of Laws really distinct. None of these discussions was
+without its influence in giving generality and clearness
+to the mechanical ideas of mathematicians: and therefore,
+though remote from general apprehension, and
+dealing with very abstract notions, they were of eminent
+use in the perfecting the science of Mechanics.
+Similar controversies concerning fundamental notions,
+those, for example, which Galileo himself had to maintain,
+were no less useful in the formation of the science
+of Hydrostatics. And the like struggles and conflicts,
+whether they take the form of controversies between
+several persons, or only operate in the efforts and
+fluctuations of the discoverer’s mind, are always requisite,
+before the conceptions acquire that clearness which
+makes them flt to appear in the enunciation of scientific
+truth. This, then, was one object of the History
+of Ideas;—to bring under the reader’s notice the main
+elements of the controversies which have thus had so
+important a share in the formation of the existing
+body of science, and the decisions on the controverted
+points to which the mature examination of the subject
+has led; and thus to give an abundant exhibition of
+that step which we term the Explication of Conceptions.
+Sect. II.—Use of Definitions.
+6. The result of such controversies as we have
+been speaking of, often appears to be summed up in a
+Definition; and the controversy itself has often assumed
+the form of a battle of definitions. For example, the
+inquiry concerning the Laws of Falling
+Bodies led to the question whether the proper Definition
+of a uniform force is, that it generates a velocity
+proportional to the space from rest, or to the time.
+The controversy of the Vis Viva was, what was the 36
+proper Definition of the measure of force. A principal
+question in the classification of minerals is, what is
+the Definition of a mineral species. Physiologists have
+endeavoured to throw light on their subject, by
+Defining organization, or some similar term.
+7. It is very important for us to observe, that
+these controversies have never been questions of insulated
+and arbitrary Definitions, as men seem often
+tempted to suppose them to have been. In all cases
+there is a tacit assumption of some Proposition which
+is to be expressed by means of the Definition, and
+which gives it its importance. The dispute concerning
+the Definition thus acquires a real value, and becomes
+a question concerning true and false. Thus in the discussion
+of the question, What is a Uniform Force? it
+was taken for granted that ‘gravity is a uniform
+force:’—in the debate of the Vis Viva, it was assumed
+that ‘in the mutual action of bodies the whole effect
+of the force is unchanged:’—in the zoological definition
+of Species, (that it consists of individuals which have,
+or may have, sprung from the same parents,) it is presumed
+that ‘individuals so related resemble each other
+more than those which are excluded by such a definition;’ or
+perhaps, that ‘species so defined have permanent and definite
+differences.’ A definition of Organization, or of any other
+term, which was not employed to express some principle,
+would be of no value.
+The establishment, therefore, of a right Definition
+of a Term may be a useful step in the Explication of
+our Conceptions; but this will be the case then only
+when we have under our consideration some Proposition
+in which the Term is employed. For then the
+question really is, how the Conception shall be understood
+and defined in order that the Proposition may be
+true.
+8. The establishment of a Proposition requires an
+attention to observed Facts, and can never be rightly
+derived from our Conceptions alone. We must hereafter
+consider the necessity which exists that the Facts
+should be rightly bound together, as well as that our
+Conceptions should be clearly employed, in order to 37
+lead us to real knowledge. But we may observe here
+that, in such cases at least as we are now considering,
+the two processes are co-ordinate. To unfold our Conceptions
+by the means of Definitions, has never been
+serviceable to science, except when it has been associated
+with an immediate use of the Definitions. The
+endeavour to define a uniform Force was combined
+with the assertion that ‘gravity is a uniform force:’
+the attempt to define Accelerating Force was immediately
+followed by the doctrine that ‘accelerating
+forces may be compounded:’ the process of defining
+Momentum was connected with the principle that
+‘momenta gained and lost are equal:’ naturalists would
+have given in vain the Definition of Species which we
+have quoted, if they had not also given the ‘characters’
+of species so separated. Definition and Proposition
+are the two handles of the instrument by which we
+apprehend truth; the former is of no use without the
+latter. Definition may be the best mode of explaining
+our Conception, but that which alone makes it worth
+while to explain it in any mode, is the opportunity of
+using it in the expression of Truth. When a Definition
+is propounded to us as a useful step in knowledge,
+we are always entitled to ask what Principle it
+serves to enunciate. If there be no answer to this inquiry,
+we define and give clearness to our conceptions
+in vain. While we labour at such a task, we do but
+light up a vacant room;—we sharpen a knife with
+which we have nothing to cut;—we take exact aim,
+while we load our artillery with blank cartridge;—we
+apply strict rules of grammar to sentences which
+have no meaning.
+If, on the other hand, we have under our consideration
+a proposition probably established, every step
+which we can make in giving distinctness and exactness
+to the Terms which this proposition involves, is
+an important step towards scientific truth. In such
+cases, any improvement in our Definition is a real
+advance in the explication of our Conception. The
+clearness of our impressions casts a light upon the
+Ideas which we contemplate and convey to others. 38
+9. But though Definition may be subservient to a
+right explication of our conceptions, it is not essential
+to that process. It is absolutely necessary to every
+advance in our knowledge, that those by whom such
+advances are made should possess clearly the conceptions
+which they employ: but it is by no means necessary that
+they should unfold these conceptions in the
+words of a formal Definition. It is easily seen, by
+examining the course of Galileo’s discoveries, that he
+had a distinct conception of the Moving Force which
+urges bodies downwards upon an inclined plane, while
+he still hesitated whether to call it Momentum, Energy,
+Impetus, or Force, and did not venture to offer
+a Definition of the thing which was the subject of his
+thoughts. The Conception of Polarization was clear
+in the minds of many optical speculators, from the
+time of Huyghens and Newton to that of Young and
+Fresnel. This Conception we have defined to be
+‘Opposite properties depending upon opposite positions;’
+but this notion was, by the discoverers, though constantly
+assumed and expressed by means of superfluous
+hypotheses, never clothed in definite language. And
+in the mean time, it was the custom, among subordinate
+writers on the same subjects, to say, that the
+term Polarization had no definite meaning, and was
+merely an expression of our ignorance. The Definition
+which was offered by Haüy and others of a Mineralogical
+Species;—‘The same elements combined in the
+same proportions, with the same fundamental form;’—was
+false, inasmuch as it was incapable of being rigorously
+applied to any one case; but this defect did not
+prevent the philosophers who propounded such a Definition
+from making many valuable additions to mineralogical
+knowledge, in the way of identifying some
+species and distinguishing others. The right Conception
+which they possessed in their minds prevented
+their being misled by their own very erroneous Definition.
+The want of any precise Definitions of Strata,
+and Formations, and Epochs, among geologists, has
+not prevented the discussions which they have carried
+on upon such subjects from being highly serviceable 39
+in the promotion of geological knowledge. For however
+much the apparent vagueness of these terms
+might leave their arguments open to cavil, there was a
+general understanding prevalent among the most intelligent
+cultivators of the science, as to what was
+meant in such expressions; and this common understanding
+sufficed to determine what evidence should
+be considered conclusive and what inconclusive, in
+these inquiries. And thus the distinctness of Conception,
+which is a real requisite of scientific progress,
+existed in the minds of the inquirers, although Definitions,
+which are a partial and accidental evidence
+of this distinctness, had not yet been hit upon. The
+Idea had been developed in men’s minds, although a
+clothing of words had not been contrived for it, nor,
+perhaps, the necessity of such a vehicle felt: and thus
+that essential condition of the progress of knowledge,
+of which we are here speaking, existed; while it was
+left to the succeeding speculators to put this unwritten
+Rule in the form of a verbal Statute.
+10. Men are often prone to consider it as a thoughtless
+omission of an essential circumstance, and as a
+neglect which involves some blame, when knowledge
+thus assumes a form in which Definitions, or rather
+Conceptions, are implied but are not expressed. But in
+such a judgment, they assume that to be a matter of
+choice requiring attention only, which is in fact as
+difficult and precarious as any other portion of the task
+of discovery. To define, so that our Definition shall
+have any scientific value, requires no small portion of
+that sagacity by which truth is detected. As we have
+already said, Definitions and Propositions are co-ordinate
+in their use and in their origin. In many cases,
+perhaps in most, the Proposition which contains a
+scientific truth, is apprehended with confidence, but
+with some vagueness and vacillation, before it is put in
+a positive, distinct, and definite form.—It is thus known
+to be true, before it can be enunciated in terms each of
+which is rigorously defined. The business of Definition is
+part of the business of discovery. When it has
+been clearly seen what ought to be our Definition, it 40
+must be pretty well known what truth we have to
+state. The Definition, as well as the discovery, supposes
+a decided step in our knowledge to have been
+made. The writers on Logic in the middle ages, made
+Definition the last stage in the progress of knowledge;
+and in this arrangement at least, the history of science,
+and the philosophy derived from the history, confirm
+their speculative views. If the Explication of our
+Conceptions ever assume the form of a Definition, this
+will come to pass, not as an arbitrary process, or as a
+matter of course, but as the mark of one of those happy
+efforts of sagacity to which all the successive advances
+of our knowledge are owing.
+Sect. III.—Use of Axioms.
+11. Our Conceptions, then, even when they become
+so clear as the progress of knowledge requires, are not
+adequately expressed, or necessarily expressed at all, by
+means of Definitions. We may ask, then, whether there
+is any other mode of expression in which we may look
+for the evidence and exposition of that peculiar exactness
+of thought which the formation of Science demands.
+And in answer to this inquiry, we may refer to the
+discussions respecting many of the Fundamental Ideas
+of the sciences contained in our History of such Ideas.
+It has there been seen that these Ideas involve many
+elementary truths which enter into the texture of our
+knowledge, introducing into it connexions and relations
+of the most important kind, although these elementary
+truths cannot be deduced from any verbal definition of
+the idea. It has been seen that these elementary truths
+may often be enunciated by means of Axioms, stated in
+addition to, or in preference to, Definitions. For example,
+the Idea of Cause, which forms the basis of the
+science of Mechanics, makes its appearance in our elementary
+mechanical reasonings, not as a Definition, but by
+means of the Axioms that ‘Causes are measured by
+their effects,’ and that ‘Reaction is equal and opposite
+to action.’ Such axioms, tacitly assumed or 41 occasionally
+stated, as maxims of acknowledged validity,
+belong to all the Ideas which form the foundations of
+the sciences, and are constantly employed in the reasoning
+and speculations of those who think clearly on
+such subjects. It may often be a task of some difficulty
+to detect and enunciate in words the Principles
+which are thus, perhaps silently and unconsciously,
+taken for granted by those who have a share in the
+establishment of scientific truth: but inasmuch as
+these Principles are an essential element in our knowledge,
+it is very important to our present purpose
+to separate them from the associated materials, and
+to trace them to their origin. This accordingly I
+attempted to do, with regard to a considerable number
+of the most prominent of such Ideas, in the History.
+The reader will there find many of these Ideas
+resolved into Axioms and Principles by means of
+which their effect upon the elementary reasonings of
+the various sciences may be expressed. That Work
+is intended to form, in some measure, a representation
+of the Ideal Side of our physical knowledge;—a Table
+of those contents of our Conceptions which are not
+received directly from facts;—an exhibition of Rules
+to which we know that truth must conform.
+Sect. IV.—Clear and appropriate Ideas.
+12. In order, however, that we may see the necessary
+cogency of these rules, we must possess, clearly and
+steadily, the Ideas from which the rules flow. In order
+to perceive the necessary relations of the Circles of the
+Sphere, we must possess clearly the Idea of Solid
+Space:—in order that we may see the demonstration of
+the composition of forces, we must have the Idea of
+Cause moulded into a distinct Conception of Statical
+Force. This is that Clearness of Ideas which we
+stipulate for in any one’s mind, as the first essential
+condition of his making any new step in the discovery of
+truth. And we now see what answer we are able to
+give, if we are asked for a Criterion of this Clearness of 42
+Idea. The Criterion is, that the person shall see the
+necessity of the Axioms belonging to each Idea;—shall
+accept them in such a manner as to perceive the cogency
+of the reasonings founded upon them. Thus, a person
+has a clear Idea of Space who follows the reasonings of
+geometry and fully apprehends their conclusiveness.
+The Explication of Conceptions, which we are speaking
+of as an essential part of real knowledge, is the process
+by which we bring the Clearness of our Ideas to bear
+upon the Formation of our knowledge. And this is
+done, as we have now seen, not always, nor generally,
+nor principally, by laying down a Definition of the
+Conception; but by acquiring such a possession of it
+in our minds as enables, indeed compels us, to admit,
+along with the Conception, all the Axioms and Principles
+which it necessarily implies, and by which it
+produces its effect upon our reasonings.
+13. But in order that we may make any real advance
+in the discovery of truth, our Ideas must not only be
+clear, they must also be appropriate. Each science has
+for its basis a different class of Ideas; and the steps
+which constitute the progress of one science can never
+be made by employing the Ideas of another kind of
+science. No genuine advance could ever be obtained
+in Mechanics by applying to the subject the Ideas of
+Space and Time merely:—no advance in Chemistry, by
+the use of mere Mechanical Conceptions:—no discovery
+in Physiology, by referring facts to mere Chemical and
+Mechanical Principles. Mechanics must involve the
+Conception of Force;—Chemistry, the Conception of
+Elementary Composition;—Physiology, the Conception
+of Vital Powers. Each science must advance by means
+of its appropriate Conceptions. Each has its own field,
+which extends as far as its principles can be applied. I
+have already noted the separation of several of these
+fields by the divisions of the Books of the History of Ideas.
+The Mechanical, the Secondary Mechanical, the Chemical, the
+Classificatory, the Biological Sciences form so
+many great Provinces in the Kingdom of knowledge,
+each in a great measure possessing its own peculiar
+fundamental principles. Every attempt to build up a 43
+new science by the application of principles which
+belong to an old one, will lead to frivolous and barren
+speculations.
+This truth has been exemplified in all the instances
+in which subtle speculative men have failed in their
+attempts to frame new sciences, and especially in the
+essays of the ancient schools of philosophy in Greece,
+as has already been stated in the History of Science.
+Aristotle and his followers endeavoured in vain to
+account for the mechanical relation of forces in the
+lever by applying the inappropriate geometrical conceptions
+of the properties of the circle:—they speculated to no
+purpose about the elementary composition
+of bodies, because they assumed the inappropriate
+conception of likeness between the elements and the
+compound, instead of the genuine notion of elements
+merely determining the qualities of the compound. And
+in like manner, in modern times, we have seen, in the
+history of the fundamental ideas of the physiological
+sciences, how all the inappropriate mechanical and
+chemical and other ideas which were applied in succession
+to the subject failed in bringing into view any
+genuine physiological truth.
+14. That the real cause of the failure in the instances
+above mentioned lay in the Conceptions, is
+plain. It was not ignorance of the facts which in
+these cases prevented the discovery of the truth. Aristotle
+was as well acquainted with the fact of the proportion
+of the weights which balance on a Lever as Archimedes
+was, although Archimedes alone gave the true mechanical
+reason for the proportion.
+With regard to the doctrine of the Four Elements
+indeed, the inapplicability of the conception of
+composition of qualities, required, perhaps, to be proved by
+some reference to facts. But this conception was
+devised at first, and accepted by succeeding times, in a
+blind and gratuitous manner, which could hardly have
+happened if men had been awake to the necessary
+condition of our knowledge;—that the conceptions
+which we introduce into our doctrines are not arbitrary
+or accidental notions, but certain peculiar modes of 44
+apprehension strictly determined by the subject of our
+speculations.
+15. It may, however, be said that this injunction
+that we are to employ appropriate Conceptions only in
+the formation of our knowledge, cannot be of practical
+use, because we can only determine what Ideas are
+appropriate, by finding that they truly combine the
+facts. And this is to a certain extent true. Scientific
+discovery must ever depend upon some happy thought,
+of which we cannot trace the origin;—some fortunate
+cast of intellect, rising above all rules. No maxims
+can be given which inevitably lead to discovery. No
+precepts will elevate a man of ordinary endowments
+to the level of a man of genius: nor will an inquirer
+of truly inventive mind need to come to the teacher
+of inductive philosophy to learn how to exercise the
+faculties which nature has given him. Such persons
+as Kepler or Fresnel, or Brewster, will have their
+powers of discovering truth little augmented by any
+injunctions respecting Distinct and Appropriate Ideas;
+and such men may very naturally question the utility
+of rules altogether.
+16. But yet the opinions which such persons may
+entertain, will not lead us to doubt concerning the
+value of the attempts to analyse and methodize the
+process of discovery. Who would attend to Kepler if
+he had maintained that the speculations of Francis
+Bacon were worthless? Notwithstanding what has
+been said, we may venture to assert that the Maxim
+which points out the necessity of Ideas appropriate
+as well as clear, for the purpose of discovering truth, is
+not without its use. It may, at least, have a value as
+a caution or prohibition, and may thus turn us away
+from labours certain to be fruitless. We have already
+seen, in the History of Ideas, that this maxim, if duly
+attended to, would have at once condemned, as wrongly
+directed, the speculations of physiologists of the
+mathematical, mechanical, chemical, and vital-fluid schools;
+since the Ideas which the teachers of these schools
+introduce, cannot suffice for the purposes of physiology,
+which seeks truths respecting the vital powers. Again, 45
+it is clear from similar considerations that no definition
+of a mineralogical species by chemical characters alone
+can answer the end of science, since we seek to make
+mineralogy, not an analytical but a classificatory science1.
+Even before the appropriate conception is matured in
+men’s minds so that they see clearly what it is, they
+may still have light enough to see what it is not.</div></body></text></TEI>

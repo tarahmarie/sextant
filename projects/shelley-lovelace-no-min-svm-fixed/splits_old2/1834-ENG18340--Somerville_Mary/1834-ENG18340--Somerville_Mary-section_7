@@ -1,0 +1,343 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Connexion of the Physical Sciences</title><author>Mary Somerville</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1834</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="7">
+44
+SECTION VI.
+
+Form of the Earth and Planets—Figure of a Homogeneous Spheroid in
+Rotation—Figure of a Spheroid of variable Density—Figure of the
+Earth, supposing it to be an Ellipsoid of Revolution—Mensuration of a
+Degree of the Meridian—Compression and Size of the Earth from
+Degrees of Meridian—Figure of Earth from the Pendulum.
+The theoretical investigation of the figure of the earth and planets
+is so complicated, that neither the geometry of Newton, nor the
+refined analysis of La Place, has attained more than an approximation.
+The solution of that difficult problem has been accomplished
+by our distinguished countryman Mr. Ivory. The investigation
+has been conducted by successive steps, beginning with a simple
+case, and then proceeding to the more difficult. But, in all, the
+forces which occasion the revolutions of the earth and planets are
+omitted, because, by acting equally upon all the particles, they
+do not disturb their mutual relations. A fluid mass of uniform
+density, whose particles mutually gravitate to each other, will
+assume the form of a sphere when at rest. But, if the sphere
+begins to revolve, every particle will describe a circle (N. 117),
+having its centre in the axis of revolution. The planes of all
+these circles will be parallel to one another and perpendicular to
+the axis, and the particles will have a tendency to fly from that
+axis in consequence of the centrifugal force arising from the
+velocity of rotation. The force of gravity is everywhere perpendicular
+to the surface (N. 118), and tends to the interior of the
+fluid mass; whereas the centrifugal force acts perpendicularly to
+the axis of rotation, and is directed to the exterior. And, as its
+intensity diminishes with the distance from the axis of rotation,
+it decreases from the equator to the poles, where it ceases. Now
+it is clear that these two forces are in direct opposition to each
+other in the equator alone, and that gravity is there diminished
+by the whole effect of the centrifugal force, whereas, in every
+other part of the fluid, the centrifugal force is resolved into two
+parts, one of which, being perpendicular to the surface, diminishes
+45the force of gravity; but the other, being at a tangent to the surface,
+urges the particles towards the equator, where they accumulate
+till their numbers compensate the diminution of gravity,
+which makes the mass bulge at the equator, and become flattened
+at the poles. It appears, then, that the influence of the centrifugal
+force is most powerful at the equator, not only because it is
+actually greater there than elsewhere, but because its whole effect
+is employed in diminishing gravity, whereas, in every other point
+of the fluid mass, it is only a part that is so employed. For both
+these reasons, it gradually decreases towards the poles, where it
+ceases. On the contrary, gravity is least at the equator, because
+the particles are farther from the centre of the mass, and increases
+towards the poles, where it is greatest. It is evident, therefore,
+that, as the centrifugal force is much less than the force of
+gravity—gravitation, which is the difference between the two, is
+least at the equator, and continually increases towards the poles,
+where it is a maximum. On these principles Sir Isaac Newton
+proved that a homogeneous fluid (N. 119) mass in rotation
+assumes the form of an ellipsoid of revolution (N. 120), whose
+compression is
+1⁄230.
+Such, however, cannot be the form of the
+earth, because the strata increase in density towards the centre.
+The lunar inequalities also prove the earth to be so constructed;
+it was requisite, therefore, to consider the fluid mass to be of
+variable density. Including this condition, it has been found
+that the mass, when in rotation, would still assume the form of
+an ellipsoid of revolution (N. 120); that the particles of equal
+density would arrange themselves in concentric elliptical strata
+(N. 121), the most dense being in the centre; but that the compression
+or flattening would be less than in the case of the
+homogeneous fluid. The compression is still less when the mass
+is considered to be, as it actually is, a solid nucleus, decreasing
+regularly in density from the centre to the surface, and partially
+covered by the ocean, because the solid parts, by their cohesion,
+nearly destroy that part of the centrifugal force which gives the
+particles a tendency to accumulate at the equator, though not
+altogether; otherwise the sea, by the superior mobility of its
+particles, would flow towards the equator and leave the poles
+dry. Besides, it is well known that the continents at the
+equator are more elevated than they are in higher latitudes. It
+is also necessary for the equilibrium of the ocean that its density
+46should be less than the mean density of the earth, otherwise the
+continents would be perpetually liable to inundations from storms
+and other causes. On the whole, it appears from theory, that a
+horizontal line passing round the earth through both poles must
+be nearly an ellipse, having its major axis in the plane of the
+equator, and its minor axis coincident with the axis of the earth’s
+rotation (N. 122). It is easy to show, in a spheroid whose strata
+are elliptical, that the increase in the length of the radii (N. 123),
+the decrease of gravitation, and the increase in the length of the
+arcs of the meridian, corresponding to angles of one degree, from
+the poles to the equator, are all proportional to the square of the
+cosine of the latitude (N. 124). These quantities are so connected
+with the ellipticity of the spheroid, that the total increase
+in the length of the radii is equal to the compression or flattening,
+and the total diminution in the length of the arcs is equal to the
+compression, multiplied by three times the length of an arc of
+one degree at the equator. Hence, by measuring the meridian
+curvature of the earth, the compression, and consequently its
+figure, become known. This, indeed, is assuming the earth to
+be an ellipsoid of revolution; but the actual measurement of the
+globe will show how far it corresponds with that solid in figure
+and constitution.
+The courses of the great rivers, which are in general navigable
+to a considerable extent, prove that the curvature of the land
+differs but little from that of the ocean; and, as the heights of
+the mountains and continents are inconsiderable when compared
+with the magnitude of the earth, its figure is understood to be
+determined by a surface at every point perpendicular to the
+direction of gravitation, or of the plumb-line, and is the same
+which the sea would have if it were continued all round the
+earth beneath the continents. Such is the figure that has been
+measured in the following manner:—
+A terrestrial meridian is a line passing through both poles, all
+the points of which have their noon contemporaneously. Were
+the lengths and curvatures of different meridians known, the
+figure of the earth might be determined. But the length of one
+degree is sufficient to give the figure of the earth, if it be measured
+on different meridians, and in a variety of latitudes. For,
+if the earth were a sphere, all degrees would be of the same
+length; but, if not, the lengths of the degrees would be greater,
+47exactly in proportion as the curvature is less. A comparison of
+the length of a degree in different parts of the earth’s surface will
+therefore determine its size and form.
+An arc of the meridian may be measured by determining
+the latitude of its extreme points by astronomical observations
+(N. 125), and then measuring the distance between them in
+feet or fathoms. The distance thus determined on the surface
+of the earth, divided by the degrees and parts of a degree
+contained in the difference of the latitudes, will give the exact
+length of one degree, the difference of the latitudes being
+the angle contained between the verticals at the extremities
+of the arc. This would be easily accomplished were the distance
+unobstructed and on a level with the sea. But, on account
+of the innumerable obstacles on the surface of the earth, it is
+necessary to connect the extreme points of the arc by a series
+of triangles (N. 126), the sides and angles of which are either
+measured or computed, so that the length of the arc is ascertained
+with much laborious calculation. In consequence of the irregularities
+of the surface each triangle is in a different plane.
+They must therefore be reduced by computation to what they
+would have been had they been measured on the surface of the
+sea. And, as the earth may in this case be esteemed spherical,
+they require a correction to reduce them to spherical triangles.
+The officers who conducted the trigonometrical survey, in measuring
+500 feet of a base in Ireland twice over, found that the
+difference in the two measurements did not amount to the 800th
+part of an inch; and in the General Survey of Great Britain, five
+bases were measured from 5 to 7 miles long, and some of them
+400 miles apart, yet, when connected by series of triangles, the
+measured and computed lengths did not differ by more than
+3 inches, an unparalleled degree of accuracy; but such is the
+accuracy with which these operations are conducted.
+Arcs of the meridian have been measured in a variety of latitudes
+in both hemispheres, as well as arcs perpendicular to the
+meridian. From these measurements it appears that the length
+of the degrees increases from the equator to the poles, nearly in
+proportion to the square of the sine of the latitude (N. 127).
+Consequently, the convexity of the earth diminishes from the
+equator to the poles.
+Were the earth an ellipsoid of revolution, the meridians would
+be ellipses whose lesser axes would coincide with the axis of
+48rotation, and all the degrees measured between the pole and the
+equator would give the same compression when combined two
+and two. That, however, is far from being the case. Scarcely
+any of the measurements give exactly the same results, chiefly
+on account of local attractions, which cause the plumb-line to
+deviate from the vertical. The vicinity of mountains produces
+that effect. One of the most remarkable anomalies of this kind
+has been observed in certain localities of northern Italy, where
+the action of some dense subterraneous matter causes the plumb-line
+to deviate seven or eight times more than it did from
+the attraction of Chimborazo, in the observations of Bouguer,
+while measuring a degree of the meridian at the equator. In
+consequence of this local attraction, the degrees of the meridian
+in that part of Italy seem to increase towards the equator through
+a small space, instead of decreasing, as if the earth was drawn
+out at the poles, instead of being flattened.
+Many other discrepancies occur, but from the mean of the five
+principal measurements of arcs in Peru, India, France, England,
+and Lapland, Mr. Ivory has deduced that the figure which most
+nearly follows this law is an ellipsoid of revolution whose equatorial
+radius is 3962·824 miles, and the polar radius 3949·585
+miles. The difference, or 13·239 miles, divided by the equatorial
+radius, is
+1⁄299
+nearly[3] (N. 128). This fraction is called the compression
+of the earth, and does not differ much from that given
+by the lunar inequalities. Since the preceding quantities were
+determined, arcs of the meridian have been measured in various
+parts of the globe, of which the most extensive are the Russian
+arc of 25° 20ʹ between the Glacial Sea and the Danube, conducted
+under the superintendence of M. Struve, and the Indian arc extended
+to 21° 21ʹ, by Colonel Everest. The compression deduced
+by Bessel from the sum of ten arcs is
+2983⁄4,
+the equatorial radius
+3962·802, and the polar 3949·554 miles, whilst Mr. Airy arrives
+at an almost identical result (3962·824, 3949·585, and
+29883⁄100)
+from a consideration of all the arcs, measured up to 1831, including
+the great Indian and Russian ones. If we assume the
+earth to be a sphere, the length of a degree of the meridian is
+6914⁄100
+English miles. Therefore 360 degrees, or the whole equatorial
+49circumference of the globe, is 24,899 English miles.
+Eratosthenes, who died 194 years before the Christian era, was
+the first to give an approximate value of the earth’s circumference,
+by the measurement of an arc between Alexandria and
+Syene.
+There is another method of finding the figure of the earth,
+totally different from the preceding, solely depending upon the
+increase of gravitation from the equator to the poles. The force
+of gravitation at any place is measured by the descent of a heavy
+body during the first second of its fall. And the intensity of the
+centrifugal force is measured by the deflection of any point from
+the tangent in a second. For, since the centrifugal force balances
+the attraction of the earth, it is an exact measure of the gravitating
+force. Were the attraction to cease, a body on the surface
+of the earth would fly off in the tangent by the centrifugal force,
+instead of bending round in the circle of rotation. Therefore,
+the deflection of the circle from the tangent in a second measures
+the intensity of the earth’s attraction, and is equal to the versed
+sine of the arc described during that time, a quantity easily
+determined from the known velocity of the earth’s rotation.
+Whence it has been found that at the equator the centrifugal
+force is equal to the 289th part of gravity. Now, it is proved
+by analysis that, whatever the constitution of the earth and
+planets may be, if the intensity of gravitation at the equator be
+taken equal to unity, the sum of the compression of the ellipsoid,
+and the whole increase of gravitation from the equator to the
+pole, is equal to five halves of the ratio of the centrifugal force to
+gravitation at the equator. This quantity with regard to the
+earth is
+5⁄2
+of
+1⁄289
+or
+1⁄115·2.
+Consequently, the compression of the
+earth is equal to
+1⁄115·2
+diminished by the whole increase of gravitation.
+So that its form will be known, if the whole increase of
+gravitation from the equator to the pole can be determined by
+experiment. This has been accomplished by a method founded
+upon the following considerations:—If the earth were a homogeneous
+sphere without rotation, its attraction on bodies at its surface
+would be everywhere the same. If it be elliptical and of variable
+density, the force of gravity, theoretically, ought to increase
+from the equator to the pole, as unity plus a constant quantity
+multiplied into the square of the sine of the latitude (N. 127).
+But for a spheroid in rotation the centrifugal force varies, by the
+laws of mechanics, as the square of the sine of the latitude, from
+50the equator, where it is greatest, to the pole, where it vanishes.
+And, as it tends to make bodies fly off the surface, it diminishes
+the force of gravity by a small quantity. Hence, by gravitation,
+which is the difference of these two forces, the fall of bodies
+ought to be accelerated from the equator to the poles proportionably
+to the square of the sine of the latitude; and the weight of
+the same body ought to increase in that ratio. This is directly
+proved by the oscillations of the pendulum (N. 129), which, in
+fact, is a falling body; for, if the fall of bodies be accelerated,
+the oscillations will be more rapid: in order, therefore, that they
+may always be performed in the same time, the length of the
+pendulum must be altered. By numerous and careful experiments
+it is proved that a pendulum, which oscillates 86,400
+times in a mean day at the equator, will do the same at every
+point of the earth’s surface, if its length be increased progressively
+to the pole, as the square of the sine of the latitude.
+From the mean of these it appears that the whole decrease of
+gravitation from the poles to the equator is 0·0051449, which,
+subtracted from
+1⁄115·2,
+shows that the compression of the terrestrial
+spheroid is about
+1⁄285·26.
+This value has been deduced by
+the late Mr. Baily, president of the Astronomical Society, who
+devoted much attention to this subject; at the same time, it may
+be observed that no two sets of pendulum experiments give the
+same result, probably from local attractions. The compression
+obtained by this method does not differ much from that given by
+the lunar inequalities, nor from the arcs in the direction of the
+meridian, and those perpendicular to it. The near coincidence
+of these three values, deduced by methods so entirely independent
+of each other, shows that the mutual tendencies of the centres of
+the celestial bodies to one another, and the attraction of the earth
+for bodies at its surface, result from the reciprocal attraction of
+all their particles. Another proof may be added. The nutation
+of the earth’s axis and the precession of the equinoxes (N. 146) are
+occasioned by the action of the sun and moon on the protuberant
+matter at the earth’s equator. And, although these inequalities
+do not give the absolute value of the terrestrial compression, they
+show that the fraction expressing it is comprised between the
+limits
+1⁄279
+and
+1⁄573.
+It might be expected that the same compression should result
+from each, if the different methods of observation could be made
+without error. This, however, is not the case; for after allowance
+51has been made for every cause of error, such discrepancies
+are found, both in the degrees of the meridian and in the length
+of the pendulum, as show that the figure of the earth is very
+complicated. But they are so small, when compared with the
+general results, that they may be disregarded. The compression
+deduced from the mean of the whole appears not to differ much
+from
+1⁄300;
+that given by the lunar theory has the advantage of
+being independent of the irregularities of the earth’s surface and
+of local attractions. The regularity with which the observed
+variation in the length of the pendulum follows the law of the
+square of the sine of the latitude proves the strata to be elliptical,
+and symmetrically disposed round the centre of gravity of the
+earth, which affords a strong presumption in favour of its
+original fluidity. It is remarkable how little influence the sea
+has on the variation of the lengths of the arcs of the meridian,
+or on gravitation; neither does it much affect the lunar inequalities,
+from its density being only about a fifth of the mean
+density of the earth. For, if the earth were to become fluid,
+after being stripped of the ocean, it would assume the form of an
+ellipsoid of revolution whose compression is
+1⁄304·8,
+which differs
+very little from that determined by observation, and proves, not
+only that the density of the ocean is inconsiderable, but that its
+mean depth is very small. There are profound cavities in the
+bottom of the sea, but its mean depth probably does not much
+exceed the mean height of the continents and islands above its
+level. On this account, immense tracts of land may be deserted
+or overwhelmed by the ocean, as appears really to have been the
+case, without any great change in the form of the terrestrial
+spheroid. The variation in the length of the pendulum was first
+remarked by Richter in 1672, while observing transits of the
+fixed stars across the meridian at Cayenne, about five degrees
+north of the equator. He found that his clock lost at the rate of
+2m 28s daily, which induced him to determine the length of a
+pendulum beating seconds in that latitude; and, repeating the
+experiments on his return to Europe, he found the seconds’ pendulum
+at Paris to be more than the twelfth of an inch longer than
+that at Cayenne. The form and size of the earth being determined,
+a standard of measure is furnished with which the dimensions
+of the solar system may be compared.</div></body></text></TEI>

@@ -1,0 +1,21 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title></title><author>Whewell William</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="53">
+
+BOOK VII.
+
+THE
+PHILOSOPHY
+OF
+MORPHOLOGY,
+INCLUDING
+CRYSTALLOGRAPHY.
+Crystallization exhibits to us the effects of the natural
+arrangement of the ultimate particles of various compound
+bodies; but we are scarcely yet sufficiently acquainted with
+chemical synthesis and analysis to understand the rationale of
+this process. The rhomboidal form may arise from the proper position of 4, 6, 8 or 9 globular particles, the cubic form
+from 8 particles, the triangular form from 3, 6 or 10 particles,
+the hexahedral prism from 7 particles, &c. Perhaps, in due time
+we may be enabled to ascertain the number and order of elementary particles, constituting any given compound element, and
+from that determine the figure which it will prefer on crystallization, and vice versâ.
+John Dalton, Chemical Philosophy (1808), p. 210.
+</div></body></text></TEI>

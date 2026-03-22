@@ -1,0 +1,419 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title></title><author>Babbage Charles</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1830</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="33">
+      APPENDIX, No. 1.
+    
+
+      In presenting to my readers the account of the meeting of men of science
+      at Berlin, in the autumn of 1828, I am happy to be able to state, that its
+      influence has been most beneficial, and that the annual meeting to be held
+      in 1831, will take place at Vienna, the Emperor of Austria having
+      expressed a wish that every facility which his capital affords should be
+      given to promote its objects.
+    
+
+      It is gratifying to find that a country, which has hitherto been
+      considered adverse to the progress of knowledge, should become convinced
+      of its value; and it is sincerely to be hoped, that every one of the
+      numerous members of the Society will show, by his conduct, that the paths
+      of science are less likely than any others to interfere with those of
+      politics.
+    
+
+      ACCOUNT OF THE GREAT CONGRESS OF PHILOSOPHERS AT BERLIN, ON THE 18TH OF
+      SEPTEMBER 1828. FROM THE EDINBURGH JOURNAL OF SCIENCE, APRIL, 1829.
+    
+
+      The existence of a large society of cultivators of the natural sciences
+      meeting annually at some great capital, or some central town of Europe, is
+      a circumstance almost unknown to us, and deserving of our attention, from
+      the important advantages which may arise from it.
+    
+
+      About eight years ago, Dr. Okens, of Munich, suggested a plan for an
+      annual meeting of all Germans who cultivated the sciences of medicine and
+      botany. The first meeting, of about forty members, took place at Leipsic,
+      in 1822, and it was successively held at Halle, Wurtzburg, Frankfort on
+      the Maine, Dresden, Munich, and Berlin. All those who had printed a
+      certain number of sheets of their inquiries on these subjects were
+      considered members of this academy.
+    
+
+      The great advantages which resulted to these sciences from the
+      communication of observations from all quarters of Germany, soon induced
+      an extension of the plan, and other departments of natural knowledge were
+      admitted, until, at the last meeting, the cultivators even of pure
+      mathematics were found amongst the ranks of this academy.
+    
+
+      Several circumstances, independent of the form and constitution of the
+      academy, contributed to give unwonted splendour to the last meeting, which
+      took place at Berlin in the middle of September of the last year.
+    
+
+      The capital selected for its temporary residence is scarcely surpassed by
+      any in Europe in the number and celebrity of its savans.
+    
+
+      The taste for knowledge possessed by the reigning family, has made
+      knowledge itself fashionable; and the severe sufferings of the Prussians
+      previous to the war, by which themselves and Europe were freed, have
+      impressed on them so strongly the lesson that "knowledge is power," that
+      its effects are visible in every department of the government; and there
+      is no country in Europe in which talents and genius so surely open for
+      their possessors the road to wealth and distinction.
+    
+
+      Another circumstance also contributed its portion to increase the numbers
+      of the meeting of the past year. The office of president, which is
+      annually changed, was assigned to M. Alexander de Humboldt. The
+      universality of his acquirements, which have left no branch within the
+      wide range of science indifferent or unexplored, has connected him by
+      friendship with almost all the most celebrated philosophers of the age;
+      whilst the polished amenity of his manners, and that intense desire of
+      acquiring and of spreading knowledge, which so peculiarly characterizes
+      his mind, renders him accessible to all strangers, and insures for them
+      the assistance of his counsel in their scientific pursuits, and the
+      advantage of being made known to all those who are interested or occupied
+      in similar inquiries.
+    
+
+      Professor Lichtenstein, (Director of the Museum of Zoology,) as secretary
+      of the academy, was indefatigable in his attentions, and most ably
+      seconded the wishes of its distinguished president.
+    
+
+      These two gentlemen, assisted by several of the residents at Berlin,
+      undertook the numerous preliminary arrangements necessary for the
+      accommodation of the meeting.
+    
+
+      On the 18th of September, 1828, there were assembled at Berlin 377 members
+      of the academy, whose names and residences (in Berlin) were printed in a
+      small pamphlet, and to each name was attached a number, to indicate his
+      seat in the great concert room, in which the morning meetings took place.
+      Each member was also provided with an engraved card of the hall of
+      meeting, on which the numbers of the seats were printed in black ink, and
+      his own peculiar seat marked in red ink, so that every person immediately
+      found his own place, and knew where to look for any friend whom he might
+      wish to find.
+    
+
+      At the hour appointed for the opening of the meeting, the members being
+      assembled, and the galleries and orchestra being filled by an assemblage
+      of a large part of the rank and beauty of the capital, and the side-boxes
+      being occupied by several branches of the royal family, and by the foreign
+      ambassadors, the session of the academy was opened by the eloquent address
+      of the president.
+    
+
+      SPEECH made at the Opening of the Society of German Naturalists and
+      Natural Philosophers at Berlin, the 18th of September, 1828.—By
+      ALEXANDER VON HUMBOLDT.
+    
+
+      Since through your choice, which does me so much honour, I am permitted to
+      open this meeting, the first duty which I have to discharge is one of
+      gratitude. The distinction which has been conferred on him who has never
+      yet been able to attend your excellent society, is not the reward of
+      scientific efforts, or of feeble and persevering attempts to discover new
+      phenomena, or to draw the light of knowledge from the unexplored depths of
+      nature. A finer feeling, however, directed your attention to me. You have
+      assured me, that while, during an absence of many years, and in a distant
+      quarter of the globe, I was labouring in the same cause with yourselves, I
+      was not a stranger in your thoughts. You have likewise greeted my return
+      home, that, by the sacred tie of gratitude, you might bind me still longer
+      and closer to our common country.
+    
+
+      What, however, can the picture of this, our native land, present more
+      agreeable to the mind, than the assembly which we receive to-day for the
+      first time within our walls; from the banks of the Neckar, the birth-place
+      of Kepler and of Schiller, to the remotest border of the Baltic plains;
+      from hence to the mouths of the Rhine, where, under the beneficent
+      influence of commerce, the treasuries of exotic nature have for centuries
+      been collected and investigated, the friends of nature, inspired with the
+      same zeal, and, urged by the same passion, flock together to this
+      assembly. Everywhere, where the German language is used, and its peculiar
+      structure affects the spirit and disposition of the people. From the Great
+      European Alps, to the other side of the Weichsel, where, in the country of
+      Copernicus, astronomy rose to renewed splendour; everywhere in the
+      extensive dominions of the German nation we attempt to discover the secret
+      operations of nature, whether in the heavens, or in the deepest problems
+      of mechanics, or in the interior of the earth, or in the finely woven
+      tissues of organic structure.
+    
+
+      Protected by noble princes, this assembly has annually increased in
+      interest and extent. Every distinction which difference of religion or
+      form of government can occasion is here annulled. Germany manifests itself
+      as it were in its intellectual unity; and since knowledge of truth and
+      performance of duty are the highest object of morality, that feeling of
+      unity weakens none of the bonds which the religion, constitution, and laws
+      of our country, have rendered dear to each of us. Even this emulation in
+      mental struggles has called forth (as the glorious history of our country
+      tells us,) the fairest blossoms of humanity, science, and art.
+    
+
+      The assembly of German naturalists and natural philosophers since its last
+      meeting, when it was so hospitably received at Munich, has, through the
+      flattering interest of neighbouring states and academies, shone with
+      peculiar lustre. Allied nations have renewed the ancient alliance between
+      Germany and the ancient Scandinavian North.
+    
+
+      Such an interest deserves acknowledgment the more, because it unexpectedly
+      increases the mass of facts and opinions which are here brought into one
+      common and useful union. It also recalls lofty recollections into the mind
+      of the naturalist. Scarcely half a century has elapsed since Linne
+      appears, in the boldness of the undertakings which he has attempted and
+      accomplished, as one of the greatest men of the last century. His glory,
+      however bright, has not rendered Europe blind to the merits of Scheele and
+      Bergman. The catalogue of these great names is not completed; but lest I
+      shall offend noble modesty, I dare not speak of the light which is still
+      flowing in richest profusion from the North, nor mention the discoveries
+      in the chemical nature of substances, in the numerical relation of their
+      elements, or the eddying streams of electro-magnetic powers. [The
+      philosophers here referred to are Berzelius and Oersted.] May those
+      excellent persons, who, deterred neither by perils of sea or land, have
+      hastened to our meeting from Sweden, Norway, Denmark, Holland, England,
+      and Poland, point our the way to other strangers in succeeding years, so
+      that by turns every part of Germany may enjoy the effects of scientific
+      communication with the different nations of Europe.
+    
+
+      But although I must restrain the expression of my personal feelings in
+      presence of this assembly, I must be permitted at least to name the
+      patriarchs of our national glory, who are detained from us by a regard for
+      those lives so dear to their country;—Goethe, whom the great
+      creations of poetical fancy have not prevented from penetrating the ARCANA
+      of nature, and who now in rural solitude mourns for his princely friend,
+      as Germany for one of her greatest ornaments;—Olbers, who has
+      discovered two bodies where he had already predicted they were to be
+      found;—the greatest anatomists of our age—Soemmering, who,
+      with equal zeal, has investigated the wonders of organic structure, and
+      the spots and FACULAE of the sun, (condensations and openings of the
+      photosphere;) Blumenbach, whose pupil I have the honour to be, who, by his
+      works and his immortal eloquence, has inspired everywhere a love of
+      comparative anatomy, physiology, and the general history of nature, and
+      who has laboured diligently for half a century. How could I resist the
+      temptation to adorn my discourse with names which posterity will repeat,
+      as we are not favoured with their presence?
+    
+
+      These observations on the literary wealth of our native country, and the
+      progressive developement of our institution, lead us naturally to the
+      obstructions which will arise from the increasing number of our
+      fellow-labourers, The chief object of this assembly does not consist, as
+      in other societies whose sphere is more limited, in the mutual interchange
+      of treatises, or in innumerable memoirs, destined to be printed in some
+      general collection. The principal object of this Society is, to bring
+      those personally together who are engaged in the same field of science. It
+      is the immediate, and therefore more obvious interchange of ideas, whether
+      they present themselves as facts, opinions, or doubts. It is the
+      foundation of friendly connexion which throws light on science, adds
+      cheerfulness to life, and gives patience and amenity to the manners.
+    
+
+      In the most flourishing period of ancient Greece, the distinction between
+      words and writing first manifested itself most strongly amongst a race,
+      which had raised itself to the most splendid intellectual superiority, and
+      to whose latest descendants, as preserved from the shipwreck of nations,
+      we still consecrate our most anxious wishes. It was not the difficulty of
+      interchange of ideas alone, nor the want of German science, which has
+      spread thought as on wings through the world, and insured it a long
+      continuance, that then induced the friends of philosophy and natural
+      history in Magna Graecia and Asia Minor to wander on long journeys. That
+      ancient race knew the inspiring influence of conversation as it
+      extemporaneously, freely, and prudently penetrates the tissue of
+      scientific opinions and doubts. The discovery of the truth without
+      difference of opinion is unattainable, because the truth, in its greatest
+      extent, can never be recognized by all, and at the same time. Each step,
+      which seems to bring the explorer of nature nearer to his object, only
+      carries him to the threshold of new labyrinths. The mass of doubt does not
+      diminish, but spreads like a moving cloud over other and new fields; and
+      whoever has called that a golden period, when difference of opinions, or,
+      as some are accustomed to express it, the disputes of the learned, will be
+      finished, has as imperfect a conception of the wants of science, and of
+      its continued advancement, as a person who expects that the same opinions
+      in geognosy, chemistry, or physiology, will be maintained for several
+      centuries.
+    
+
+      The founders of this society, with a deep sense of the unity of nature,
+      have combined in the completest manner, all the branches of physical
+      knowledge, and the historical, geometrical, and experimental philosophy.
+      The names of natural historian and natural philosopher are here,
+      therefore, nearly synonymous, chained by a terrestrial link to the type of
+      the lower animals. Man completes the scale of higher organization. In his
+      physiological and pathological qualities, he scarcely presents to us a
+      distinct class of beings. As to what has brought him to this exalted
+      object of physical study, and has raised him to general scientific
+      investigation, belongs principally to this society. Important as it is not
+      to break that link which embraces equally the investigation of organic and
+      inorganic nature, still the increasing ties and daily developement of this
+      institution renders it necessary, besides the general meeting which is
+      destined for these halls, to have specific meetings for single branches of
+      science. For it is only in such contracted circles,—it is only among
+      men whom reciprocity of studies has brought together, that verbal
+      discussions can take place. Without this sort of communication, would the
+      voluntary association of men in search of truth be deprived of an
+      inspiring principle.
+    
+
+      Among the preparations which are made in this city for the advancement of
+      the society, attention has been principally paid to the possibility of
+      such a subdivision into sections. The hope that these preparations will
+      meet with your approbation, imposes upon me the duty of reminding you,
+      that, although you had entrusted to two travellers, equally, the duty of
+      making these arrangements, yet it is to one alone, my noble friend, M.
+      Lichtenstein, that the merit of careful precaution and indefatigable
+      activity is due. Out of respect to the scientific spirit which animates
+      the Society of German Naturalists and Natural Philosophy, and in
+      acknowledgment of the utility of their efforts, government have seconded
+      all our wishes with the greatest cheerfulness.
+    
+
+      In the vicinity of the place of meeting, which has in this manner been
+      prepared for our general and special labours, are situated the museums
+      dedicated to anatomy, zoology, oryctognosy, and geology. They exhibit to
+      the naturalist a rich mine for observation and critical discussion. The
+      greater number of these well-arranged collections have existed, like the
+      University of Berlin, scarcely twenty years. The oldest of them, to which
+      the Botanical Garden, (one of the richest in Europe) belongs, have during
+      this period not only been increased, but entirely remodelled. The
+      amusement and instruction derived from such institutions, call to our
+      minds, with deep feelings of gratitude, that they are the work of that
+      great monarch, who modestly and in simple grandeur, adorns every year this
+      royal city with new treasures of nature and art; and what is of still
+      greater value than the treasures themselves,—what inspires every
+      Prussian with youthful strength, and with an enthusiastic love for the
+      ancient reigning family,—that he graciously attaches to himself
+      every species of talent, and extends with confidence his royal protection
+      to the free cultivation of the understanding.
+    
+
+      This was followed by a paper on magnetism, by Professor Oersted; and
+      several other memoirs were then read.
+    
+
+      The arrival of so many persons of similar pursuit, (for 464 members were
+      present,) rendered it convenient to have some ordinary, at which those who
+      chose might dine, and introduce their friends or families. This had been
+      foreseen, and his Majesty had condescended to allow the immense building
+      used for the exercise of his troops, to be employed for this purpose.
+      One-third of it was floored on the occasion, and tables were arranged, at
+      which, on one occasion, 850 persons sat down to dinner. On the evening of
+      the first day, M. de Humboldt gave a large SOIREE in the concert rooms
+      attached to the theatre. About 1200 persons assembled on this occasion,
+      and his Majesty the King of Prussia honoured with his presence the fete of
+      his illustrious chamberlain. The nobility of the country, foreign princes,
+      and foreign ambassadors, were present. It was gratifying to observe the
+      princes of the blood mingling with the cultivators of science, and to see
+      the heir-apparent to the throne, during the course of the evening, engaged
+      in conversation with those most celebrated for their talents, of his own,
+      or of other countries.
+    
+
+      Nor were the minor arrangements of the evening beneath the consideration
+      of the President. The words of the music selected for the concert, were
+      printed and distributed to the visitors. The names of the most illustrious
+      philosophers which Germany had produced, were inscribed in letters of gold
+      at the end of the great concert room.
+    
+
+      In the first rank amongst these stood a name which, England, too, enrolls
+      amongst the brightest in her scientific annals; and proud, as well she may
+      be, of having fostered and brought to maturity the genius of the first
+      Herschel, she has reaped an ample reward in being able to claim as
+      entirely her own, the inheritor of his talents and his name.
+    
+
+      The six succeeding days were occupied, in the morning, by a meeting of the
+      academy, at which papers of general interest were read. In the afternoon,
+      through the arrangement of M. de Humboldt and M. Lichtenstein, various
+      rooms were appropriated for different sections of the academy. In one, the
+      chemical philosophers attended to some chemical memoir, whilst the
+      botanists assembled in another room, the physiologists in a third, and the
+      natural philosophers in a fourth. Each attended to the reading of papers
+      connected with their several sciences. Thus every member was at liberty to
+      choose that section in which he felt most interest at the moment, and he
+      had at all times power of access to the others. The evenings were
+      generally spent at some of the SOIREES of the savans, resident at Berlin,
+      whose hospitality and attentions to their learned brethren of other
+      countries were unbounded. During the unoccupied hours of the morning, the
+      collections of natural history, which are rapidly rising into importance,
+      were open to examination; and the various professors and directors who
+      assisted the stranger in his inquiries, left him equally gratified by the
+      knowledge and urbanity of those who so kindly aided him.
+    
+
+      A map of Europe was printed, on which those towns only appeared which had
+      sent representatives to this scientific congress; and the numbers sent by
+      different kingdoms appeared by the following table, which was attached to
+      it;—
+    
+
+     Russia.........  1
+     Austria........  0
+     England........  1
+     Holland........  2
+     Denmark........  7
+     France ........  1
+     Sardinia .......  0
+     Prussia........ 95
+     Bavaria........ 12
+     Hanover........  5
+     Saxony ........ 21
+     Wirtemburg ......  2
+     Sweden ........ 13
+     Naples ........  1
+     Poland ........  3
+     German States..... 43
+                            —-                       206
+     Berlin .......  172
+                            —-                       378
+
+
+      The proportion in which the cultivators of different sciences appeared,
+      was not easy to ascertain, because there were few amongst the more eminent
+      who had not added to more than one branch of human knowledge. The
+      following table, though not professing to be very accurate, will afford,
+      perhaps, a tolerably fair view:—
+    
+
+     Geometers.............  11
+     Astronomers...........   5
+     Natural Philosophers .  23
+                             — 39
+
+     Mines............   5
+     Mineralogy ......  16
+     Geology..........   9
+                         — 30
+
+     Chemistry........... 18
+     Geography...........  8
+     Anatomy............. 12
+
+     Zoology............  14
+     Natural History....   8
+     Botany.............. 35
+                          — 57
+
+     Physicians.......   175
+     Amateurs  .......     9
+     Various .........    35
+                         —-381
+
+
+      A medal was struck in commemoration of this meeting, and it was proposed
+      that it should form the first of a series, which should comprise all those
+      persons most celebrated for their scientific discoveries in the past and
+      present age.
+    
+
+
+ 
+
+
+
+</div></body></text></TEI>

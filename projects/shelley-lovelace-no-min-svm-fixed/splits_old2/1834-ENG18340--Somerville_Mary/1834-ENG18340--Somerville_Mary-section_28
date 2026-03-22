@@ -1,0 +1,983 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Connexion of the Physical Sciences</title><author>Mary Somerville</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1834</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="28">
+257
+SECTION XXVII.
+
+Terrestrial Heat—Radiation—Transmission—Melloni’s experiments—Heat
+in Solar Spectrum—Polarization of Heat—Nature of Heat—Absorptions—Dew—Rain—Combustion—Expansion—Compensation Pendulum—Transmission
+through Crystals—Propagation—Dynamic
+Theory of Heat—Mechanical equivalent of Heat—Latent Heat is the
+Force of Expansion—Steam—Work performed by Heat—Conservation
+of Force—Mechanical Power in the Tides—Dynamical Power of
+Light—Analogy between Light, Heat, and Sound.
+That heat producing rays exist independently of those of light
+is a matter of constant experience in the abundant emission of
+them from boiling water. They dart in divergent straight lines
+from flame and from each point in the surfaces of hot bodies, in
+the same manner as diverging rays of light proceed from every
+point of those that are luminous. According to the experiments
+of Sir John Leslie, radiation proceeds not only from the surface
+of substances, but also from the particles at a minute depth
+below it. He found that the emission is most abundant in a
+direction perpendicular to the radiating surface, and that it is
+more rapid from a rough than from a polished surface: radiation,
+however, can only take place in air and in vacuo; it is altogether
+imperceptible when the hot body is enclosed in a solid or liquid.
+Heated substances, when exposed to the open air, continue to
+radiate heat till they become nearly of the temperature of the
+surrounding medium. The radiation is very rapid at first, but
+diminishes according to a known law with the temperature of the
+heated body. It appears, also, that the radiating power of a surface
+is inversely as its reflecting power; and bodies that are most
+impermeable to heat radiate least. Substances, however, have
+an elective power, only reflecting heat of a certain refrangibility.
+Mr. Grove gives paper, snow, and lime as instances, which,
+although all white, radiate heat of different refrangibilities, while
+metals, whatever their colour may be, radiate all kinds alike.
+Rays of heat, whether they proceed from the sun, from flame,
+or other terrestrial sources, luminous or non-luminous, are instantaneously
+258transmitted through solid and liquid substances,
+there being no appreciable difference in the time they take to
+pass through layers of any nature or thickness whatever. They
+pass also with the same facility whether the media be agitated or
+at rest; and in these respects the analogy between light and heat
+is perfect. Radiant heat passes through the gases with the same
+facility as light; but a remarkable difference obtains in the
+transmission of light and heat through most solid and liquid substances,
+the same body being often perfectly permeable to the
+luminous, and altogether impermeable to the calorific rays.
+For example, thin and perfectly transparent plates of alum and
+citric acid sensibly transmit all the rays of light from an argand
+lamp, but stop eight or nine tenths of the concomitant heat;
+whilst a large piece of brown rock-crystal gives a free passage to
+the radiant heat, but intercepts almost all the light. Alum
+united to green glass is also capable of transmitting the brightest
+light, but it gives not the slightest indication of heat; while rock-salt
+covered thickly over with soot, so as to be perfectly opaque
+to light, transmits a considerable quantity of heat. M. Melloni
+has established the general law in uncrystallized substances such
+as glass and liquids, that the property of instantaneously transmitting
+heat is in proportion to their refractive powers. The
+law, however, is entirely at fault in bodies of a crystalline texture.
+Carbonate of lead, for instance, which is colourless, and
+possesses a very high refractive power with regard to light,
+transmits less radiant heat than Iceland spar or rock-crystal,
+which are very inferior to it in the order of refrangibility;
+whilst rock-salt, which has the same transparency and refractive
+power with alum and citric acid, transmits six or eight times as
+much heat. This remarkable difference in the transmissive power
+of substances having the same appearance is attributed by M.
+Melloni to their crystalline form, and not to the chemical composition
+of their molecules, as the following experiments prove.
+A block of common salt cut into plates entirely excludes calorific
+radiation; yet, when dissolved in water, it increases the transmissive
+power of that liquid: moreover, the transmissive power of
+water is increased in nearly the same degree, whether salt or
+alum be dissolved in it; yet these two substances transmit very
+different quantities of heat in their solid state. Notwithstanding
+the influence of crystallization on the transmissive power of
+259bodies, no relation has been traced between that power and the
+crystalline form.
+The transmission of radiant heat is analogous to that of light
+through coloured media. When common white light passes
+through a red liquid, almost all the more refrangible rays, and a
+few of the red, are intercepted by the first layer of the fluid; fewer
+are intercepted by the second, still less by the third, and so on:
+till at last the losses become very small and invariable, and those
+rays alone are transmitted which give the red colour to the liquid.
+In a similar manner, when plates of the same thickness of any
+substance, such as glass, are exposed to an argand lamp, a considerable
+portion of the radiant heat is arrested by the first plate,
+a less portion by the second, still less by the third, and so on, the
+quantity of lost heat decreasing till at last the loss becomes a
+constant quantity. The transmission of radiant heat through a
+solid mass follows the same law. The losses are very considerable
+on first entering it, but they rapidly diminish in proportion
+as the heat penetrates deeper, and become constant at a certain
+depth. Indeed, the only difference between the transmission of
+radiant heat through a solid mass, or through the same mass
+when cut into plates of equal thickness, arises from the small
+quantity of heat that is reflected at the surface of the plates.
+It is evident, therefore, that the heat gradually lost is not intercepted
+at the surface, but absorbed in the interior of the substance,
+and that heat which has passed through one stratum of
+air experiences a less absorption in each of the succeeding strata,
+and may therefore be propagated to a greater distance before it
+is extinguished. The experiments of M. de Laroche show that
+glass, however thin, totally intercepts the obscure rays of heat
+when they flow from a body whose temperature is lower than
+that of boiling water; that, as the temperature increases, the
+calorific rays are transmitted more and more abundantly; and,
+when the body becomes highly luminous, that they penetrate the
+glass with perfect ease. The extreme brilliancy of the sun is
+probably the reason why his heat, when brought to a focus by a
+lens, is more intense than any that has been produced artificially.
+It is owing to the same cause that glass screens, which
+entirely exclude the heat of a common fire, are permeable by the
+solar heat.
+The results obtained by M. de Laroche have been confirmed
+260by the experiments of M. Melloni on heat radiated from sources
+of different temperatures, whence it appears that the calorific
+rays pass less abundantly not only through glass, but through
+rock-crystal, Iceland spar, and other diaphanous bodies, both
+solid and liquid, according as the temperature of their origin
+is diminished, and that they are altogether intercepted when the
+temperature is about that of boiling water.
+In fact, he has proved that the heat emanating from the sun
+or from a bright flame consists of rays which differ from each
+other as much as the coloured rays do which constitute white
+light. This explains the reason of the loss of heat as it penetrates
+deeper and deeper into a solid mass, or in passing through
+a series of plates; for, of the different kinds of rays which
+dart from a vivid flame, all are successively extinguished by
+the absorbing nature of the substance through which they pass,
+till those homogeneous rays alone remain which have the greatest
+facility in passing through that particular substance; exactly
+as in a red liquid the violet, blue, green, orange, and yellow
+rays are extinguished, and the red are transmitted.
+M. Melloni employed four sources of heat, two of which were
+luminous and two obscure; namely, an oil-lamp without a glass,
+incandescent platina, copper heated to 696°, and a copper vessel
+filled with water at the temperature of
+1781⁄2°
+of Fahrenheit.
+Rock-salt transmitted heat in the proportion of 92 rays out of
+100 from each of these sources; but all other substances pervious
+to radiant heat, whether solid or liquid, transmitted more heat
+from sources of high temperature than from such as are low.
+For instance, limpid and colourless fluate of lime transmitted in
+the proportion of 78 rays out of 100 from the lamp, 69 from the
+platina, 42 from the copper, and 33 from the hot water; while
+transparent rock-crystal transmitted 38 rays in 100 from the
+lamp, 28 from the platina, 6 from the copper, and 9 from the
+hot water. Pure ice transmitted only in the proportion of 6 rays
+in the 100 from the lamp, and entirely excluded those from the
+other three sources. Out of 39 different substances, 34 were
+pervious to the calorific rays from hot water, 14 excluded those
+from the hot copper, and 4 did not transmit those from the
+platinum.
+Thus it appears that heat proceeding from these four sources
+is of different kinds: this difference in the nature of the calorific
+261rays is also proved by another experiment, which will be more
+easily understood from the analogy of light. Red light, emanating
+from red glass, will pass in abundance through another piece
+of red glass, but it will be absorbed by green glass; green rays will
+more readily pass through a green medium than through one of
+any other colour. This holds with regard to all colours; so in
+heat. Rays of heat of the same intensity, which have passed
+through different substances, are transmitted in different quantities
+by the same piece of alum, and are sometimes stopped
+altogether; showing that rays which emanate from different substances
+possess different qualities. It appears that a bright flame
+furnishes rays of heat of all kinds, in the same manner as it
+gives light of all colours; and, as coloured media transmit some
+coloured rays and absorb the rest, so bodies transmit some rays of
+heat and exclude the others. Rock-salt alone resembles colourless
+transparent media in transmitting all kinds of heat, even
+that of the hand, just as they transmit white light, consisting of
+rays of all colours. Radiant heat is unequally refracted by a
+prism of rock-salt like light, and the rays of heat thus dispersed
+are found to possess properties analogous to the rays of the
+coloured spectrum.
+The property of transmitting the calorific rays diminishes to a
+certain degree with the thickness of the body they have to
+traverse, but not so much as might be expected. A piece of
+very transparent alum transmitted three or four times less
+radiant heat from the flame of a lamp than a piece of nearly
+opaque quartz about a hundred times as thick. However, the
+influence of thickness upon the phenomena of transmission increases
+with the decrease of temperature in the origin of the rays,
+and becomes very great when that temperature is low. This is
+a circumstance intimately connected with the law established by
+M. de Laroche; for M. Melloni observed that the difference
+between the quantities of heat transmitted by the same plate of
+glass, exposed successively to several sources of heat, diminished
+with the thinness of the plate, and vanished altogether at a
+certain limit; and that a film of mica transmitted the same
+quantity of heat, whether it was exposed to incandescent platinum
+or to a mass of iron heated to 360°.
+Coloured glasses transmit rays of light of certain degrees of
+refrangibility, and absorb those of other degrees. For example,
+262red glass absorbs the more refrangible rays, and transmits the
+red, which are the least refrangible. On the contrary, violet
+glass absorbs the least refrangible, and transmits the violet,
+which are the most refrangible. Now M. Melloni has found,
+that, although the colouring matter of glass diminishes its power
+of transmitting heat, yet red, orange, yellow, blue, violet, and
+white glass transmit calorific rays of all degrees of refrangibility;
+whereas green glass possesses the peculiar property of transmitting
+the least refrangible calorific rays, and stopping those that
+are most refrangible. It has therefore the same elective action
+for heat that coloured glass has for light, and its action on heat
+is analogous to that of red glass on light. Alum and sulphate of
+lime are exactly opposed to green glass in their action on heat,
+by transmitting the most refrangible rays with the greatest
+facility.
+The heat which has already passed through green or opaque
+black glass will not pass through alum, whilst that which has
+been transmitted through glasses of other colours traverses it
+readily.
+By reversing the experiment, and exposing different substances
+to heat that had already passed through alum, M. Melloni found
+that the heat emerging from alum is almost totally intercepted
+by opaque substances, and is abundantly transmitted by all such
+as are transparent and colourless, and that it suffers no appreciable
+loss when the thickness of the plate is varied within certain
+limits. The properties of the heat therefore which issues from
+alum nearly approach to those of light and solar heat.
+Radiant heat in traversing various media is not only rendered
+more or less capable of being transmitted a second time, but,
+according to the experiments of Professor Powell, it becomes
+more or less susceptible of being absorbed in different quantities
+by black or white surfaces.
+M. Melloni has proved that solar heat contains rays which are
+affected by different substances in the same way as if the heat
+proceeded from a terrestrial source; whence he concludes that
+the difference observed between the transmission of terrestrial
+and solar heat arises from the circumstance of solar heat containing
+all kinds of heat, whilst in other sources some of the
+kinds are wanting.
+Radiant heat, from sources of any temperature whatever, is
+263subject to the same laws of reflection and refraction as rays of
+light. The index of refraction from a prism of rock-salt, determined
+experimentally, is nearly the same for light and heat.
+Liquids, the various kinds of glass, and probably all substances,
+whether solid or liquid, that do not crystallize regularly,
+are more pervious to the calorific rays according as they possess
+a greater refractive power. For example, the chloride of sulphur,
+which has a high refractive power, transmits more of the calorific
+rays than the oils, which have a less refractive power: oils
+transmit more radiant heat than the acids; the acids more than
+aqueous solutions; and the latter more than pure water, which
+of all the series has the least refractive power, and is the least
+pervious to heat. M. Melloni observed also that each ray of the
+solar spectrum follows the same law of action with that of terrestrial
+rays having their origin in sources of different temperatures;
+so that the very refrangible rays may be compared to the
+heat emanating from a focus of high temperature, and the least
+refrangible to the heat which comes from a source of low temperature.
+Thus, if the calorific rays emerging from a prism be
+made to pass through a layer of water contained between two
+plates of glass, it will be found that these rays suffer a loss in
+passing through the liquid as much greater as their refrangibility
+is less. The rays of heat that are mixed with the blue or violet
+light pass in great abundance, while those in the obscure part
+which follows the red light are almost totally intercepted. The
+first, therefore, act like the heat of a lamp, and the last like that
+of boiling water.
+These circumstances explain the phenomena observed by
+several philosophers with regard to the point of greatest heat in
+the solar spectrum, which varies with the substance of the prism.
+Sir William Herschel, who employed a prism of flint glass, found
+that point to be a little beyond the red extremity of the spectrum;
+but, according to M. Seebeck, it is found to be upon the
+yellow, upon the orange, on the red, or at the dark limit of
+the red, according as the prism consists of water, sulphuric acid,
+crown or flint glass. If it be recollected that, in the spectrum
+from crown glass, the maximum heat is in the red part, and that
+the solar rays, in traversing a mass of water, suffer losses
+inversely as their refrangibility, it will be easy to understand the
+reason of the phenomenon in question. The solar heat which
+264comes to the anterior face of the prism of water consists of rays
+of all degrees of refrangibility. Now, the rays possessing the
+same index of refraction with the red light suffer a greater loss
+in passing through the prism than the rays possessing the
+refrangibility of the orange light, and the latter lose less in their
+passage than the heat of the yellow. Thus the losses, being
+inversely proportional to the degree of refrangibility of each ray,
+cause the point of maximum heat to tend from the red towards
+the violet, and therefore it rests upon the yellow part. The
+prism of sulphuric acid, acting similarly, but with less energy
+than that of water, throws the point of greatest heat on the
+orange; for the same reason, the crown and flint glass prisms
+transfer that point respectively to the red and to its limit. M.
+Melloni, observing that the maximum point of heat is transferred
+farther and farther towards the red end of the spectrum, according
+as the substance of the prism is more and more permeable to
+heat, inferred that a prism of rock-salt, which possesses a greater
+power of transmitting the calorific rays than any known body,
+ought to throw the point of greatest heat to a considerable distance
+beyond the visible part of the spectrum,—an anticipation
+which experiment fully confirmed, by placing it as much beyond
+the dark limits of the red rays as the red part is distant from the
+blueish green band of the spectrum.
+In all these experiments M. Melloni employed a thermomultiplier,—an
+instrument that measures the intensity of the transmitted
+heat with an accuracy far beyond what any thermometer
+ever attained. It is a very elegant application of M. Seebeck’s
+discovery of thermo-electricity; but the description of this
+instrument is reserved for a future occasion, because the principle
+on which it is constructed has not yet been explained.
+In the beginning of the present century, not long after M.
+Malus had discovered the polarization of light, he and M. Berard
+proved that the heat which accompanies the sun’s light is capable
+of being polarized; but their attempts totally failed with heat
+derived from terrestrial, and especially from non-luminous
+sources. M. Berard, indeed, imagined that he had succeeded;
+but, when his experiments were repeated by Mr. Lloyd and
+Professor Powell, no satisfactory result could be obtained. M.
+Melloni resumed the subject, and endeavoured to effect the
+polarization of heat by tourmaline, as in the case of light. It was
+265already shown that two slices of tourmaline, cut parallel to the
+axis of the crystal, transmit a great portion of the incident light
+when looked through with their axes parallel, and almost
+entirely exclude it when they are perpendicular to one another.
+Should radiant heat be capable of polarization, the quantity
+transmitted by the slices of tourmaline in their former position
+ought greatly to exceed that which passes through them in the
+latter, yet M. Melloni found that the quantity of heat was the
+same in both cases: whence he inferred that heat from a terrestrial
+source is incapable of being polarized. Professor Forbes of
+Edinburgh, who prosecuted this subject with great acuteness
+and success, came to the same conclusion in the first instance;
+but it occurred to him, that, as the pieces of tourmaline became
+heated by being very near the lamp, the secondary radiation
+from them rendered the very small difference in the heat that
+was transmitted in the two positions of the pieces of tourmaline
+imperceptible. Nevertheless he succeeded in proving, by numerous
+observations, that heat from various sources is polarized by
+the tourmaline; but that the effect with non-luminous heat is
+very minute and difficult to perceive, on account of the secondary
+radiation. Though light is almost entirely excluded in one position
+of the pieces of tourmaline, and transmitted in the other,
+a vast quantity of radiant heat passes through them in all positions.
+Eighty-four per cent. of the heat from an argand lamp
+passed through them in the case where light was altogether
+stopped. It is only the difference in the quantity of transmitted
+heat that gives evidence of its polarization. The second slice of
+tourmaline, when perpendicular to the first, stops all the light,
+but transmits a great proportion of heat; alum, on the contrary,
+stops almost all the heat, and transmits the light; whence it
+may be concluded that heat, though intimately partaking the
+nature of light, and accompanying it under certain circumstances,
+as in reflection and refraction, is capable of almost complete
+separation from it under others. The separation has since been
+perfectly effected by M. Melloni, by passing a beam of light
+through a combination of water and green glass, coloured by the
+oxide of copper. Even when the transmitted light was concentrated
+by lenses, so as to render it almost as brilliant as the
+direct light of the sun, it showed no sensible heat.
+Professor Forbes next employed two bundles of laminæ of
+266mica, placed at the polarizing angle, and so cut that the plane
+of incidence of the heat corresponded with one of the optic axes
+of this mineral. The heat transmitted through this apparatus
+was polarized from a source whose temperature was even as low
+as 200°; heat was also polarized by reflection; but the experiments,
+though perfectly successful, are more difficult to
+conduct.
+It appears, from the various experiments of M. Melloni and
+Professor Forbes, that all the calorific rays emanating from the
+sun and terrestrial sources are equally capable of being polarized
+by reflection and by refraction, whether double or single, and
+that they are also capable of circular polarization by all the
+methods employed in the circular polarization of light. Plates
+of quartz cut at right angles to the axis of the prism possess the
+property of turning the calorific rays in one direction, while other
+plates of the same substance from a differently modified prism
+cause the rays to rotate in the contrary direction; and two plates
+combined, when of different affection, and of equal thickness,
+counteract each other’s effects as in the case of light. Tourmaline
+separates the heat into two parts, one of which it absorbs,
+while it transmits the other; in short, the transmission of radiant
+heat is precisely similar to that of light.
+Since heat is polarized in the same manner as light, it may be
+expected that polarized heat transmitted through doubly refracting
+substances should be separated into two pencils, polarized in
+planes at right angles to each other; and that when received on
+an analyzing plate they should interfere and produce invisible
+phenomena, perfectly analogous to those described in
+Section XXII. with regard to light (N. 221).
+It was shown, in the same section, that if light polarized by
+reflection from a pane of glass be viewed through a plate of tourmaline,
+with its longitudinal section vertical, an obscure cloud,
+with its centre wholly dark, is seen on the glass. When, however,
+a plate of mica uniformly about the thirteenth of an inch
+in thickness is interposed between the tourmaline and the glass,
+the dark spot vanishes, and a succession of very splendid colours
+are seen; and, as the mica is turned round in a plane perpendicular
+to the polarized ray, the light is stopped when the plane
+containing the optic axis of the mica is parallel or perpendicular
+to the plane of polarization. Now, instead of light, if heat from
+267a non-luminous source be polarized in the manner described, it
+ought to be transmitted and stopped by the interposed mica
+under the same circumstances under which polarized light would
+be transmitted or stopped. Professor Forbes found that this is
+really the case, whether he employed heat from luminous or non-luminous
+sources: and he had evidence, also, of circular and
+elliptical polarization of heat. It therefore follows, that if heat
+were visible, under similar circumstances we should see figures
+perfectly similar to those given in Note 213, and those following;
+and, as these figures are formed by the interference of undulations
+of light, it may be inferred that heat, like light, is propagated
+by undulations of the ethereal medium, which interfere under
+certain conditions, and produce figures analogous to those of
+light. It appears also, from Mr. Forbes’s experiments, that the
+undulations of heat are longer than the undulations of light; and
+it has already been mentioned that Professor Draper considers
+them to be normal, like those of sound.
+That light and heat are both vibrations of the ethereal medium
+is not the less true on account of the rays of heat being unseen,
+for the condition of visibility or invisibility may only depend
+upon the construction of our eyes, and not upon the nature of
+the motion which produces these sensations in us. The sense of
+seeing may be confined within certain limits. The chemical
+rays beyond the violet end of the spectrum may be too rapid, or
+not sufficiently excursive, in their vibrations, to be visible to the
+human eye; and the calorific rays beyond the other end of the
+spectrum may not be sufficiently rapid, or too extensive, in their
+undulations, to affect our optic nerves, though both may be
+visible to certain animals or insects. We are altogether ignorant
+of the perceptions which direct the carrier-pigeon to his home,
+or of those in the antennæ of insects which warn them of the
+approach of danger; nor can we understand the telescopic vision
+which directs the vulture to his prey before he himself is visible
+even as a speck in the heavens. So, likewise, beings may
+exist on earth, in the air, or in the waters, which hear sounds
+our ears are incapable of hearing, and which see rays of light
+and heat of which we are unconscious. Our perceptions and
+faculties are limited to a very small portion of that immense
+chain of existence which extends from the Creator to evanescence.
+The identity of action under similar circumstances is one of
+268the strongest arguments in favour of the common nature of the
+chemical, visible, and calorific rays. They are all capable of
+reflection from polished surfaces, of refraction through diaphanous
+substances, of polarization by reflection and by doubly refracting
+crystals; their velocity is prodigious; they may be concentrated
+and dispersed by convex and concave mirrors; they pass with
+equal facility through rock-salt and are capable of radiation; and
+they are subject to the same law of interference with those of
+light: hence there can be no doubt that the whole assemblage of
+rays visible and invisible which constitute a solar beam are propagated
+by the undulations of the ethereal medium, and consequently
+as motions they come under the same laws of analysis.
+When radiant heat falls upon a surface, part of it is reflected
+and part of it is absorbed; consequently, the best reflectors
+possess the least absorbing powers. The temperature of very
+transparent fluids is not raised by the passage of the sun’s rays,
+because they do not absorb any of them; and, as his heat is very
+intense, transparent solids arrest a very small portion of it. The
+absorption of the sun’s rays is the cause both of the colour and
+temperature of solid bodies. A black substance absorbs all the
+rays of light, and reflects none; and since it absorbs, at the same
+time, all the calorific rays, it becomes sooner warm, and rises to
+a higher temperature, than bodies of any other colour. Blue
+bodies come next to black in their power of absorption. And,
+since substances of a blue tint absorb all the other colours of the
+spectrum, they absorb by far the greatest part of the calorific
+rays, and reflect the blue where they are least abundant. Next
+in order come the green, yellow, red, and, last of all, white bodies,
+which reflect nearly all the rays both of light and heat. However,
+there are certain limpid and colourless media, which in
+some cases intercept calorific radiations and become heated, while
+in other cases they transmit them and undergo no change of
+temperature.
+All substances may be considered to radiate heat, whatever
+their temperature may be, though with different intensities,
+according to their nature, the state of their surfaces, and the
+temperature of the medium into which they are brought. But
+every surface absorbs as well as radiates heat; and the power of
+absorption is always equal to that of radiation; for, under the
+same circumstances, matter which becomes soon warm also cools
+269rapidly. There is a constant tendency to an equal diffusion of
+heat, since every body in nature is giving and receiving it at the
+same instant; each will be of uniform temperature when the
+quantities of heat given and received during the same time are
+equal—that is, when a perfect compensation takes place between
+each and all the rest. Our sensations only measure comparative
+degrees of heat: when a body, such as ice, appears to be cold, it
+imparts fewer calorific rays than it receives; and when a substance
+seems to be warm—for example, a fire—it gives more
+heat than it takes. The phenomena of dew and hoar-frost are
+owing to this inequality of exchange; the heat radiated during
+the night by substances on the surface of the earth, into a clear
+expanse of sky, is lost to us, and no return is made from the blue
+vault, so that their temperature sinks below that of the air,
+whence they abstract a part of that heat which holds the atmospheric
+humidity in solution, and a deposition of dew takes place.
+If the radiation be great, the dew is frozen and becomes hoar-frost,
+which is the ice of dew. Cloudy weather is unfavourable
+to the formation of dew, by preventing the free radiation of heat;
+and actual contact is requisite for its deposition, since it is never
+suspended in the air like fog. Plants derive a great part of their
+nourishment from this source; and, as each possesses a power of
+radiation peculiar to itself, they are capable of procuring a sufficient
+supply for their wants. The action of the chemical rays
+imparts to all substances more or less the power of condensing
+vapour on those parts on which they fall, and must therefore
+have a considerable influence on the deposition of dew. There
+may be a low degree of humidity in the air which may yet
+contain a great quantity of aqueous vapour, for vapour while it
+exists as gas is dry. The temperature at which the atmosphere
+can contain no more vapour without precipitation is called the
+dew point, and is measured by the hygrometer. In foretelling
+the changes of weather it is scarcely inferior to the barometer.
+Steam is formed throughout the whole mass of a boiling
+liquid, whereas evaporation takes place only at the free surface
+of liquids, and that under the ordinary temperature and pressure
+of the atmosphere. There is a constant evaporation from the
+land and water all over the earth. The rapidity of the formation
+does not depend altogether on the dryness of the air; according
+to Dr. Dalton’s experiments, it depends also on the difference
+270between the tension of the vapour which is forming, and that
+which is already in the atmosphere. In calm weather vapour
+accumulates in the stratum of air immediately above the evaporating
+surface, and retards the formation of more; whereas a
+strong wind accelerates the process by carrying off the vapour as
+soon as it rises, and making way for a succeeding portion of dry
+air.
+Rain is formed by the mixing of two masses of air of different
+temperatures; the colder part, by abstracting from the other
+the heat which holds it in solution, occasions the particles to
+approach each other and form drops of water, which, becoming
+too heavy to be sustained by the atmosphere, sink to the earth
+by gravitation in the form of rain. The contact of two strata
+of air of different temperatures, moving rapidly in opposite
+directions, occasions an abundant precipitation of rain. When
+the masses of air differ very much in temperature, and meet
+suddenly, hail is formed. This happens frequently in hot plains
+near a ridge of mountains, as in the south of France, from the
+sudden descent of an intensely cold current of wind into a mass
+of air nearly saturated with vapour. Such also is the cause of
+the severe hail-storms which occasionally take place on extensive
+plains within the tropics.
+An accumulation of heat invariably produces light: with the
+exception of the gases, all bodies which can endure the requisite
+degree of heat without decomposition begin to emit light at the
+same temperature; but, when the quantity of heat is so great
+as to render the affinity of their component particles less than
+their affinity for the oxygen of the atmosphere, a chemical combination
+takes place with the oxygen, light and heat are evolved,
+and fire is produced. Combustion—so essential for our comfort,
+and even existence—takes place very easily from the small
+affinity between the component parts of atmospheric air, the
+oxygen being nearly in a free state; but, as the cohesive force
+of the particles of different substances is very variable, different
+degrees of heat are requisite to produce their combustion. The
+tendency of heat to a state of equal diffusion or equilibrium,
+either by radiation or contact, makes it necessary that the
+chemical combination which occasions combustion should take
+place instantaneously; for, if the heat were developed progressively,
+it would be dissipated by degrees, and would never
+271accumulate sufficiently to produce a temperature high enough
+for the evolution of flame.
+It is a general law that all bodies expand by heat and contract
+by cold. The expansive force of heat has a constant
+tendency to overcome the attraction of cohesion, and to separate
+the constituent particles of solids and fluids; by this separation
+the attraction of aggregation is more and more weakened, till at
+last it is entirely overcome, or even changed into repulsion. By
+the continual addition of heat, solids may be made to pass into
+liquids, and from liquids to the aëriform state, the dilatation
+increasing with the temperature; and every substance expands
+according to a law of its own. Gases expand more than liquids,
+and liquids more than solids. The expansion of air is more
+than eight times that of water, and the increase in the bulk of
+water is at least forty-five times greater than that of iron.
+Metals dilate uniformly from the freezing to the boiling points
+of the thermometer; the uniform expansion of the gases extends
+between still wider limits; but, as liquidity is a state of transition
+from the solid to the aëriform condition, the equable dilatation
+of liquids has not so extensive a range. This change of
+bulk, corresponding to the variation of heat, is one of the most
+important of its effects, since it furnishes the means of measuring
+relative temperature by the thermometer and pyrometer. The
+rate of expansion of solids varies at their transition to liquidity,
+and that of liquidity is no longer equable near their change to
+an aëriform state. There are exceptions, however, to the general
+laws of expansion; some liquids have a maximum density corresponding
+to a certain temperature, and dilate whether that
+temperature be increased or diminished. For example—water
+expands whether it be heated above or cooled below 40°. The
+solidification of some liquids, and especially their crystallization,
+is always accompanied by an increase of bulk. Water dilates
+rapidly when converted into ice, and with a force sufficient to
+split the hardest substances. The formation of ice is therefore
+a powerful agent in the disintegration and decomposition of
+rocks, operating as one of the most efficient causes of local
+changes in the structure of the crust of the earth; of which we
+have experience in the tremendous éboulemens of mountains in
+Switzerland. But Professor W. Thomson has proved experimentally
+that it requires a lower temperature to freeze water
+under pressure than when free.
+272The dilatation of substances by heat, and their contraction
+by cold, occasion such irregularities in the rate of clocks and
+watches as would render them unfit for astronomical or nautical
+purposes, were it not for a very beautiful application of the
+laws of unequal expansion. The oscillations of a pendulum are
+the same as if its whole mass were united in one dense particle,
+in a certain point of its length, called the centre of oscillation.
+If the distance of this point from the point by which the
+pendulum is suspended were invariable, the rate of the clock
+would be invariable also. The difficulty is to neutralize the
+effects of temperature, which is perpetually increasing or diminishing
+its length. Among many contrivances, Graham’s compensation
+pendulum is the most simple. He employed a glass
+tube containing mercury. When the tube expands from the
+effects of heat, the mercury expands much more; so that its
+surface rises a little more than the end of the pendulum is
+depressed, and the centre of oscillation remains stationary.
+Harrison invented a pendulum which consists of seven bars of
+steel and of brass, joined in the shape of a gridiron, in such a
+manner that, if by change of temperature the bars of brass raise
+the weight at the end of the pendulum, the bars of steel depress
+it as much. In general, only five bars are used; three being of
+steel, and two a mixture of silver and zinc. The effects of
+temperature are neutralized in chronometers upon the same
+principle; and to such perfection are they brought, that the
+loss or gain of one second in twenty-four hours for two days
+running would render one unfit for use. Accuracy in surveying
+depends upon the compensation rods employed in measuring
+bases. Thus, the laws of the unequal expansion of matter judiciously
+applied have an immediate influence upon our estimation
+of time; of the motions of bodies in the heavens, and of
+their fall upon the earth; on our determination of the figure of
+the globe, and on our system of weights and measures; on our
+commerce abroad, and the mensuration of our lands at home.
+The expansion of the crystalline substances takes place under
+very different circumstances from the dilatation of such as are
+not crystallized. The latter become both longer and thicker by
+an accession of heat, whereas M. Mitscherlich has found that the
+former expand differently in different directions; and, in a particular
+instance, extension in one direction is accompanied by
+contraction in another: for example, Iceland spar is dilated
+273in the direction of its axis of double refraction (N. 205), but
+at right angles to that axis it is contracted, which brings
+the crystal nearer to the form of the cube and diminishes its
+double refractive power. When heat is applied to crystals of
+sulphate of lime, the two optical axes (N. 207) gradually approach,
+and at last coincide; when the heat is increased, the axes open
+again, but in a direction at right angles to their former position.
+By experiment M. Senarmont has concluded, that in media constituted
+like crystals of the rhomboidal (N. 169) system the
+conducting power varies in such a manner, that, supposing a
+centre of heat to exist within them, and the medium to be indefinitely
+extended in all directions, the isothermal surfaces are
+concentric ellipsoids of revolution round the axes of symmetry,
+or at least surfaces differing but little from them. The internal
+structure of crystallized matter must be very peculiar thus to
+modify the expansive power of heat.
+Heat applied to the surface of a fluid is propagated downwards
+very slowly, the warmer, and consequently lighter strata, always
+remaining at the top. This is the reason why the water at the
+bottom of lakes fed from Alpine chains is so cold; for the heat
+of the sun is transfused but a little way below the surface.
+When the heat is applied below a liquid, the particles continually
+rise as they become specifically lighter, and diffuse the
+heat through the mass, their place being perpetually supplied by
+those that are more dense. The power of conducting heat varies
+materially in different liquids. Mercury conducts twice as fast
+as an equal bulk of water, and therefore it appears to be very
+cold. A hot body diffuses its heat in the air by a double
+process: the air in contact with it becoming lighter ascends and
+scatters its heat by transmission, while at the same time
+another portion is discharged in straight lines by the radiating
+power of the surface. Hence a substance cools more rapidly
+in air than in vacuo, because in the latter case the process is
+carried on by radiation alone. It is probable that the earth
+having been originally of very high temperature has become
+cooler by radiation alone, the ethereal medium being too rare to
+carry off much heat by contact.
+Heat is propagated with more or less rapidity through all
+bodies; air is the worst conductor, and consequently mitigates
+the severity of cold climates by preserving the heat imparted
+274to the earth by the sun. On the contrary, dense bodies,
+especially metals, possess the power of conduction in the
+greatest degree, but the transmission requires time. If a bar of
+iron twenty inches long be heated at one extremity, the heat
+takes four minutes in passing to the other. The particle of
+the metal that is first heated communicates the heat to the
+second, and the second to the third: so that the temperature of
+the intermediate molecule at any instant is increased by the
+excess of the temperature of the first above its own, and
+diminished by the excess of its own temperature above that of
+the third. That however will not be the temperature indicated
+by the thermometer, because as soon as the particle is more
+heated than the surrounding atmosphere it loses its heat by
+radiation, in proportion to the excess of its actual temperature
+above that of the air. The velocity of the discharge is directly
+proportional to the temperature, and inversely as the length of
+the bar. As there are perpetual variations in the temperature
+of all terrestrial substances, and of the atmosphere, from the
+rotation of the earth, and its revolution round the sun, from
+combustion, friction, fermentation, electricity, and an infinity
+of other causes, the tendency to restore the equability of
+temperature by the transmission of heat must maintain all the
+particles of matter in a state of perpetual oscillation, which
+will be more or less rapid according to the conducting powers of
+the substances. From the motion of the heavenly bodies about
+their axes, and also round the sun, exposing them to perpetual
+changes of temperature, it may be inferred that similar causes
+will produce like effects in them too. The revolutions of the
+double stars show that they are not at rest; and although we
+are totally ignorant of the changes that may be going on in the
+nebulæ and millions of other remote bodies, it is hardly possible
+that they should be in absolute repose; so that, as far as our
+knowledge extends, motion is a law of the universe and the
+immediate cause of heat, as in the sunbeam so also in all
+terrestrial phenomena.
+This is by no means hypothetical, but founded upon fact and
+experiment. Heat is produced by motion and is equivalent to it,
+for we measure heat by motion in the thermometer. The heat
+evolved by percussion is proportional to the force of the blow;
+by repeated blows iron becomes red hot; and the quantity of
+275heat produced by friction, whether the matter be solid or fluid,
+is always in proportion to the force employed: in cold weather
+we rub our hands to make them warm, and the harder we rub
+the warmer they become. The warmth of the sea after a storm
+is in proportion to the force of the wind; and in Sir Humphry
+Davy’s experiment of melting ice by friction in the receiver of
+an air-pump kept at the freezing point, the heat which melted
+the ice was exactly proportional to the force of friction. This
+experiment proves the immateriality of heat, since the capacity
+of ice for heat is less than that of water. Thus mechanical
+action and heat are equivalent to one another. Mr. Joule of
+Manchester[13] has proved that the quantity of heat requisite to
+raise the temperature of a pound of water one degree of Fahrenheit’s
+thermometer, is equivalent to the mechanical force developed
+by the fall of a body weighing 772·69 pounds through
+the perpendicular height of one foot. This quantity is the
+mechanical equivalent of heat. Thus heat is motion, and it is
+measured by force. In fact, for every unit of force expended in
+friction or percussion, a definite quantity of heat is generated;
+and conversely, when work is performed by the consumption of
+heat, for each unit of force gained, a unit of heat disappears. For
+since heat is a dynamical force of mechanical effect, there must
+be an equivalent between mechanical work and heat as between
+cause and effect. (N. 222.)
+Besides the temperature indicated by the thermometer, bodies
+absorb heat, and their capacity for heat is so various that
+very different quantities of heat are required to raise different
+substances to the same sensible temperature. It is evident,
+therefore, that much of the heat is absorbed and becomes
+insensible to the thermometer. That portion of heat requisite
+to raise a body to a given temperature is its specific heat,
+but the latent or absorbed heat is an expansive force or
+energy, which, acting upon the ether surrounding the ultimate
+particles of bodies, changes them from solid to liquid, and from
+liquid to vapour or gas. According to the law of absorption,
+the transfer of heat from a warm body to one that is cold is a
+276mere transfer of force, in which the force of compression is
+exactly proportional to the force of expansion. Ice remains at
+the temperature of 32° Fahrenheit till it has absorbed 140° of
+heat, and then it melts, but without raising the temperature of
+the water above 32°. On the contrary, when a liquid is converted
+into a solid, a quantity of heat leaves it without any
+diminution of temperature. Thus water at 32° must part with
+140° of heat before it freezes. The slowness with which water
+freezes or ice thaws, is a consequence of the time required for
+the ethereal atmospheres round the particles of the water to
+contract or expand with a force equivalent to 140° of heat. A
+considerable degree of cold is felt during a thaw, because the
+ice in its transition from a solid to a liquid state absorbs
+sensible heat from the atmosphere and surrounding objects. The
+heat absorbed and evolved by the rarefaction and condensation
+of air is exactly proportional to the force evolved and absorbed
+in these operations. In fact, the changes of temperature produced
+by these rarefactions and condensations of air show that
+the heat of elastic fluids is the mechanical force possessed by
+them; and since the temperature of a gas determines its elastic
+force, it follows that the elastic force or pressure must be the
+effect of the motion of the constituent particles in any gas.
+Sir Humphry Davy, who first demonstrated the immateriality of
+heat, assumed the hypothesis that the motion we call heat is a
+rotation or vibration among the particles of the fluid, which, according
+to Mr. Joule, agrees perfectly with the observed phenomena,
+but he prefers the more simple view of Mr. Herapath, that
+the elastic force or pressure is due to the impact of the particles
+against any surface presented to them. Absorbed or latent heat
+may be regarded as a quiescent energy ready to be restored to the
+form of sensible heat when called forth: its vibrations as heat
+are extinguished for the time by being transferred to the internal
+expansive force, and are restored by compression. The absorbed
+heat of air and all elastic fluids may be forced out by sudden
+compression like squeezing water out of a sponge. The quantity
+of heat brought into action in this way is well illustrated by the
+experiment of igniting tinder by the sudden compression of air
+by a piston thrust into a cylinder closed at one end. The
+development of heat on a stupendous scale is exhibited in
+lightning: it is proportional to the square of the quantity
+277of electricity discharged, and is due to its excessive velocity
+and the violent compression of the air in its transit through
+the atmosphere. Prodigious quantities of heat are constantly
+absorbed or disengaged by the changes to which substances are
+liable in passing from the solid to the liquid and from the
+liquid to the gaseous form and the contrary, causing endless
+vicissitudes of temperature over the globe, and endless expansions
+and contractions, which are correlative terms for heat
+and cold, while radiation of heat is merely a transfer of motion
+from the particles on the surface of bodies to the adjacent
+particles of the atmosphere.
+By the continual application of heat, that is of the expansive
+force, liquids are converted into steam or vapour, which is
+invisible and highly elastic. Under the mean pressure of the
+atmosphere, that is when the barometer stands at 30 inches,
+water in a boiler absorbs heat continually till it attains the
+temperature of the boiling point, which is 212° Fahrenheit.
+After that it ceases to show any increase of sensible heat; but
+when it has absorbed an additional 1000° of heat or expansive
+energy, that energy converts it into steam, and a condensing
+force equivalent to 1000° of heat reduces it again to water.
+Water boils at different temperatures under different degrees of
+pressure. It boils at a lower temperature on the top of a
+mountain than on the plain below, because the weight of the
+atmosphere is less at the higher station. There is no limit to
+the temperature to which water might be raised: it might even
+be made red hot, could a vessel be found strong enough to resist
+the pressure, for the intensity of the expansive force prevented
+from having effect by the extreme pressure of the boiler would
+be converted into sensible heat which might eventually render
+the water red hot. Thus, since the force of steam is in proportion
+to the temperature at which the water boils, or to the
+pressure, it is under control, and, perhaps with the exception of
+electricity, it is the greatest power that has been made subservient
+to the wants of man.
+It is found that the absolute quantity of heat consumed in
+the process of converting water into steam is the same at
+whatever temperature water may boil, but that the absolute heat
+of the steam is greater exactly in proportion as its sensible heat
+is less. Thus, steam raised at 212° Fahrenheit under the mean
+278pressure of the atmosphere, and steam raised at 180° under half
+the pressure, contain the same quantity of heat, with this
+difference, that the one has more absorbed heat and less sensible
+heat than the other. It is evident that, as the same quantity of
+heat is requisite for converting a given weight of water into
+steam, at whatever temperature or under whatever pressure the
+water may be boiled, therefore, in the steam engine, equal
+weights of steam at a high pressure and a low pressure are produced
+by the same quantity of fuel; and whatever the pressure
+of the steam may be, the consumption of fuel is proportional to
+the quantity of water converted into vapour. Steam of whatever
+tension expands on being set free, but the expansion of high
+pressure steam at the expense of its sensible heat is so great,
+that the hand may be plunged into it without injury the instant
+it issues from the orifice of a boiler. The steam becomes hotter
+by friction in issuing through the orifice which maintains it in its
+dry form, for there is no doubt that high-pressure steam is dry.
+The elasticity or tension of steam, like that of common air,
+varies inversely as its volume—that is, when the space it occupies
+is doubled, its elastic force is reduced to one half. The
+expansion of steam is indefinite; the smallest quantity of water
+expanded into vapour will occupy many millions of cubic feet;
+a wonderful illustration of the minuteness of the ultimate particles
+of matter.
+The force of steam, tremendous as the lightning itself when
+uncontrolled, is merely the result of chemical affinity: it is the
+chemical attraction between the particles of carbon, of coal or
+wood, and the oxygen of the atmosphere. Mr. Joule has ascertained
+that a pound of the best coal when burnt gives sufficient
+heat to raise the temperature of 8086 pounds of water one degree
+of the Centigrade thermometer, whence it has been computed by
+M. Helmholtz that the chemical force arising from the combustion
+of that pound of coal is capable of lifting a body of one
+hundred pounds weight to the height of twenty miles. That is
+the work performed by the heat arising from the combustion of
+a pound of coal. In all cases where work is produced by heat, a
+quantity of heat proportional to the work done is expended; and
+conversely, by the expenditure of a like quantity of work, the
+same amount of heat may be produced. The equivalence of heat
+and work is a law of nature. The mechanical force exerted by
+279the steam engine for example is exactly proportional to the consumption
+of heat, nor more nor less; if we could produce a greater
+quantity than its equivalent we should have perpetual motion,
+which is impossible. Mechanical engines generate no force. We
+cannot create force; we can only avail ourselves of the inexhaustible
+stores of nature, the lightning, fire, water, wind, chemical
+action, &c. The quantity of mechanical power in nature is ever
+the same; it is never increased, it is never diminished, throughout
+the whole circuit of natural powers. The conservation of force
+is as permanent and unchangeable as matter. It may be dormant
+for a time, but it ever exists. We are unconscious of the enormous
+dynamic power that is either active or latent throughout
+the globe, because we do not attend to it. By the ebb and flow
+of the tide alone a power is exerted by which 25,000 cubic miles
+of water is moved over a quarter of the globe every twelve hours;
+and Professor W. Thomson has computed, by means of Pouillet’s
+data of solar radiation and Mr. Joule’s mechanical equivalent of
+heat, that the mechanical value of the whole energy active and
+potential of the disturbances kept up in the ethereal medium by
+the vibrations of the solar light within a cubic mile of our atmosphere
+is equal to 12,050 times the unit of mechanical force, that
+is to say, 12,050 times the force that would raise a pound of
+matter to the height of one foot, whence some idea may be formed
+of the vast amount of force exerted by the sun’s light within the
+limits of the whole terrestrial atmosphere. (N. 223.)
+The dynamic energy of the undulations of the solar light gives
+the leaves of plants the power of decomposing carbonic acid, and
+of separating the particles of carbon and hydrogen from the
+oxygen for which they have so strong an affinity. In this operation
+the undulations of the sunbeam are extinguished as light and heat,
+and Professor W. Thomson has proved that the quantity of these
+undulations thus extinguished is precisely equal to the potential
+or quiescent energy thus created, and that precisely that very
+quantity of light and heat is restored when the plants are burned,
+whatever state they may be in; and that thus, as Mr. George
+Stephenson[14] has truly and beautifully observed, our coal fires
+280and gas lamps restore to our use the light and heat of the sun of
+the early geological epochs which have rested as dormant powers
+under the seas and mountains for unnumbered ages. The sun
+is therefore the source of the mechanical energy of all the heat
+and motion of inanimate things, of all the motions of the heat
+and light of fires and artificial flames, and of the heat of all
+living creatures. For animal heat, and weights raised or resistance
+overcome, are mechanical effects of the chemical combination
+of food with oxygen; and food is either directly or
+indirectly vegetable, consequently dependent upon the sun.
+Professor Helmholtz of Bonn has put in a strong point of view
+the enormous store of force possessed by our system by comparing
+it with its equivalent of heat. The force with which the
+earth moves in its orbit is such, that if brought to rest by a
+sudden shock, a quantity of heat would be generated by the blow
+equal to that produced by the combustion of fourteen such earths
+of solid coal; and supposing the capacity of the earth for heat as
+low as that of water, the globe would be heated to 11,200° Cent.
+It would be quite fused and for the most part reduced to vapour.
+If it should fall to the sun, which it would certainly do, the
+quantity of heat developed by the shock would be four hundred
+times as great.
+The application of heat to the various branches of the mechanical
+and chemical arts has within the present century effected a
+greater change in the condition of man than had been accomplished
+in any equal period of his existence. Armed by the expansion
+and condensation of fluids with a power equal to that of the
+lightning itself, conquering time and space, he flies over plains,
+and travels on paths cut by human industry even through mountains
+with a velocity and smoothness more like planetary than
+terrestrial motion; he crosses the deep in opposition to wind
+and tide; by releasing the strain on the cable, he rides at
+anchor fearless of the storm; he makes the lightning his messenger;
+and like a magician he raises from the gloomy abyss of
+the mine the sunbeam of former ages to dispel the midnight
+darkness.
+The principal phenomena of heat may be illustrated by a
+comparison with those of sound. Their excitation is not only
+similar but identical, as in friction and percussion; they are both
+communicated by contact and radiation; and Dr. Young observes
+that the effect of radiant heat in raising the temperature of a
+281body upon which it falls, resembles the sympathetic agitation of
+a string when the sound of another string which is in unison with
+it is transmitted through the air. Light, heat, sound, and the
+waves of fluids are all subject to the same laws; their undulatory
+theories are perfectly similar: hence the interference of two
+hot rays must produce cold, that is, they must extinguish one
+another: darkness results from the interference of two undulations
+of light, silence ensues from the interference of two undulations
+of sound, and still water or no tide is the consequence
+of the interference of two tides. The propagation of sound,
+however, requires a much denser medium than that of light and
+heat; its intensity diminishes as the rarity of the air increases:
+so that, at a very small height above the surface of the earth,
+the noise of the tempest ceases, and the thunder is heard no
+more in those boundless regions where the heavenly bodies
+accomplish their periods in eternal and sublime silence.
+A consciousness of the fallacy of our senses is one of the most
+important consequences of the study of nature. This study
+teaches us that no object is seen by us in its true place, owing to
+aberration; that the colours of substances are solely the effects of
+the action of matter upon light; and that light itself as well as
+heat and sound are not real beings, but mere motions communicated
+to our perceptions by the nerves. The human frame may
+therefore be regarded as an elastic system, the different parts of
+which are capable of receiving the tremors of elastic media, and
+of vibrating in unison with any number of superimposed undulations,
+all of which have their perfect and independent effect.
+Here our knowledge ends: the mysterious influence of matter on
+mind will in all probability be for ever hid from man.</div></body></text></TEI>

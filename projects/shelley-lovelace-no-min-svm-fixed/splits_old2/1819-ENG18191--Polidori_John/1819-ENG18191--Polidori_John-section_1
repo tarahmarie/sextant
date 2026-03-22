@@ -1,0 +1,101 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Vampyre</title><author>John William Polidori</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1819</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="1">
+                               A Tale.
+
+
+                       By John William Polidori
+
+
+
+                               LONDON
+                 PRINTED FOR SHERWOOD, NEELY, AND JONES
+                           PATERNOSTER ROW
+
+                                1819
+
+
+              [Entered at Stationers' Hall, March 27, 1819]
+           Gillet, Printer, Crown Court, Fleet Street, London.
+
+
+
+                         EXTRACT OF A LETTER
+
+                             FROM GENEVA.
+
+
+
+
+"I breathe freely in the neighbourhood of this lake; the ground upon
+which I tread has been subdued from the earliest ages; the principal
+objects which immediately strike my eye, bring to my recollection
+scenes, in which man acted the hero and was the chief object of
+interest. Not to look back to earlier times of battles and sieges,
+here is the bust of Rousseau—here is a house with an inscription
+denoting that the Genevan philosopher first drew breath under its
+roof. A little out of the town is Ferney, the residence of Voltaire;
+where that wonderful, though certainly in many respects contemptible,
+character, received, like the hermits of old, the visits of pilgrims,
+not only from his own nation, but from the farthest boundaries of
+Europe. Here too is Bonnet's abode, and, a few steps beyond, the house
+of that astonishing woman Madame de Stael: perhaps the first of her
+sex, who has really proved its often claimed equality with, the nobler
+man. We have before had women who have written interesting novels and
+poems, in which their tact at observing drawing-room characters has
+availed them; but never since the days of Heloise have those faculties
+which are peculiar to man, been developed as the possible inheritance
+of woman. Though even here, as in the case of Heloise, our sex have
+not been backward in alledging the existence of an Abeilard in the
+person of M. Schlegel as the inspirer of her works. But to proceed:
+upon the same side of the lake, Gibbon, Bonnivard, Bradshaw, and
+others mark, as it were, the stages for our progress; whilst upon the
+other side there is one house, built by Diodati, the friend of Milton,
+which has contained within its walls, for several months, that poet
+whom we have so often read together, and who—if human passions remain
+the same, and human feelings, like chords, on being swept by nature's
+impulses shall vibrate as before—will be placed by posterity in the
+first rank of our English Poets. You must have heard, or the Third
+Canto of Childe Harold will have informed you, that Lord Byron resided
+many months in this neighbourhood. I went with some friends a few days
+ago, after having seen Ferney, to view this mansion. I trod the floors
+with the same feelings of awe and respect as we did, together, those
+of Shakespeare's dwelling at Stratford. I sat down in a chair of the
+saloon, and satisfied myself that I was resting on what he had made
+his constant seat. I found a servant there who had lived with him;
+she, however, gave me but little information. She pointed out his
+bed-chamber upon the same level as the saloon and dining-room, and
+informed me that he retired to rest at three, got up at two, and
+employed himself a long time over his toilette; that he never went to
+sleep without a pair of pistols and a dagger by his side, and that he
+never ate animal food. He apparently spent some part of every day upon
+the lake in an English boat. There is a balcony from the saloon which
+looks upon the lake and the mountain Jura; and I imagine, that it must
+have been hence, he contemplated the storm so magnificently described
+in the Third Canto; for you have from here a most extensive view of
+all the points he has therein depicted. I can fancy him like the
+scathed pine, whilst all around was sunk to repose, still waking to
+observe, what gave but a weak image of the storms which had desolated
+his own breast.
+
+
+  The sky is changed!—and such a change; Oh, night!
+  And storm and darkness, ye are wond'rous strong,
+  Yet lovely in your strength, as is the light
+  Of a dark eye in woman! Far along
+  From peak to peak, the rattling crags among,
+  Leaps the lire thunder! Not from one lone cloud,
+  But every mountain now hath found a tongue,
+  And Jura answers thro' her misty shroud,
+  Back to the joyous Alps who call to her aloud!
+
+
+  And this is in the night:—Most glorious night!
+  Thou wer't not sent for slumber! let me be
+  A sharer in thy far and fierce delight,—
+  A portion of the tempest and of me!
+  How the lit lake shines a phosphoric sea,
+  And the big rain comet dancing to the earth!
+  And now again 'tis black,—and now the glee
+  Of the loud hills shakes with its mountain mirth,
+  As if they did rejoice o'er a young; earthquake's birth,
+
+</div></body></text></TEI>

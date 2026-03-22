@@ -1,0 +1,909 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Connexion of the Physical Sciences</title><author>Mary Somerville</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1834</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="35">
+335
+SECTION XXXIV.
+
+Magnetism a Dual Power—Antithetic Character of Paramagnetism and
+Diamagnetism—The Earth Paramagnetic—Properties of Paramagnetic
+Bodies—Polarity—Induction—Lines of Magnetic Force—Currents
+of Electricity induced by them—Proved to be Closed Curves—Analogy
+and Identity of Electricity and Magnetism—Terrestrial Magnetism—Mean
+Values of the Three Magnetic Elements—Their Variations in
+Double Progression proved to consist of Two Superposed Variations—Discovery
+of the Periodicity of the Magnetic Storms—The Decennial
+Period of the Magnetic Elements the same with that of the Solar Spots—Magnetism
+of the Atmosphere—Diamagnetism—Action of Electro-Magnetism
+on Paramagnetic, Diamagnetic Bodies, and on Copper, very
+different—Proof of Diamagnetic Polarity and Induction—Magnecrystallic
+Action—Effects of Compression, Heat, and Cleavage on Magnetic
+Bodies—Mutual Dependence of Light, Heat, Electricity, &c. &c.—The
+Conservation of Force and the Permanency of Matter Primary
+Laws of Nature—Definition of Gravity not according to that Law—Gravity
+only the Residual Force of a Universal Power—Magnetism of
+the Ethereal Medium.
+Magnetism may be regarded as a new science in consequence
+of the profound researches and admirable discoveries of Dr. Faraday.
+Since the magnetism of matter is only known by the
+action of a magnet or of electricity upon it, by using an extremely
+energetic magnet or electro-magnet he has proved that
+all known substances, whether solid, liquid, or aëriform, are more
+or less magnetic, but that the magnetism is very different in
+different substances. For example, if a bar of iron be freely suspended
+between the poles of a very powerful magnet or electro-magnet,
+it will be attracted by both poles, and will set or rest
+in the direction of a straight line joining them; but if a similar
+bar of bismuth be freely suspended in the same manner, it will
+rest in a direction at right angles to that which the iron bar
+assumed. Thus the direction in which the iron sets is axial or
+in the line of force, while that which the bismuth assumes is
+equatorial or perpendicular to the line of force. Substances that
+are magnetic after the manner of iron are said to be paramagnetic,
+those that are magnetic after the manner of bismuth are
+diamagnetic. As far as we know, all matter comes under one or
+336other of these laws. Many bodies are paramagnetic besides iron,
+as the loadstone, which consists of the peroxide and protoxide of
+iron mixed with small portions of silica and alumina; also some
+of the gems and metals, as cobalt, nickel, &c. A substance is
+often paramagnetic if it contains only the 130,000th part of its
+weight of iron; but by far the greater number are diamagnetic, as
+all animal and vegetable matter, acids, oils, sugar, starch, bread,
+&c., and all the gases except oxygen, which is highly paramagnetic;
+and its force increases with its density: but notwithstanding
+the predominance of diamagnetic matter at the surface, the
+terrestrial globe is paramagnetic—in fact it is a powerful magnet.
+Besides the substances which are paramagnetic naturally, that
+property may be imparted by a variety of methods, as by friction
+with magnets or even juxtaposition with them; and a bar of hard
+steel held at the angle of the dip will become a magnet on receiving
+a few strokes with a hammer on its upper end.
+Polarity is one of the most distinguishing characters of magnetism:
+it is the property which a magnet possesses when freely
+suspended of resting spontaneously in the magnetic meridian, or
+nearly north and south, and always returning to that position
+when disturbed in consequence of the mean magnetic attraction
+of the earth; yet the magnet has no tendency to move to the
+north or south even when floating on water, because the same
+pole that attracts one end repels the other. Both poles of a
+magnet attract iron, which in return attracts either pole of the
+magnet with an equal and contrary force. The action of a magnet
+on unmagnetised iron is confined to attraction, whereas the reciprocal
+agency of magnets is characterised by a repulsive as well as
+by an attractive force; for a north pole repels a north pole, and a
+south pole repels a south pole; but a north and south pole mutually
+attract one another—which proves that paramagnetism is a
+dual power in which the conservation of force is perfectly maintained,
+for the force of attraction is exactly equal to the force of
+repulsion. One kind of polarity cannot exist without the other:
+they are absolutely simultaneous, dependent, and of equal intensity.
+Induction is the power which a magnet possesses of exciting
+temporary or permanent paramagnetism in such bodies in its
+vicinity as are capable of receiving it. By this property the
+mere approach of a magnet renders iron and steel paramagnetic,
+337the more powerfully the less the distance, but the induced force
+is always exactly equal to the force which produces it. When
+the north end of a magnet is brought near to, and in the line
+with, an unmagnetised iron bar, the bar acquires all the properties
+of a perfect magnet; the end next the north pole of the
+magnet becomes a south pole, while the remote end becomes a
+north pole. Exactly the reverse takes place when the south end
+is presented to the bar, so that each pole of a magnet induces the
+opposite polarity in the adjacent end of the bar, and the same
+polarity in the remote extremity; consequently the nearest extremity
+of the bar is attracted, and the farther repelled; but as
+the action is greater on the adjacent than on the distant part, the
+resulting force is that of attraction. By induction the iron bar
+not only acquires polarity, but the power of inducing paramagnetism
+in a third body; and although all these properties vanish
+from the iron as soon as the magnet is removed, a lasting increase
+of intensity is generally imparted to the magnet itself by the reaction
+of the temporary paramagnetism of the iron. Iron acquires
+the inductive force more rapidly than steel, yet it loses it as
+quickly on the removal of the magnet, whereas the steel is impressed
+with a lasting polarity.
+A certain time is requisite for induction, and it may be accelerated
+by anything that excites a vibratory motion in the particles
+of the steel; such as the smart stroke of a hammer, or heat succeeded
+by sudden cold. A steel bar may be converted into a
+magnet by the transmission of an electric discharge through it;
+and as its efficacy is the same in whatever direction the electricity
+passes, the effect arises from its mechanical operation exciting
+a vibration among the particles of the steel. It has been
+observed that the particles of iron easily resume their neutral
+state after induction, while those of steel resist the restoration of
+equilibrium, or a return to the neutral state: it is therefore evident
+that any cause which removes or diminishes the resistance
+of the particles will tend to destroy the paramagnetism of the
+steel; consequently the same mechanical means which develop
+the power will also destroy it. On that account a steel bar may
+lose its paramagnetism by any mechanical concussion, such as by
+falling on a hard substance, a blow with a hammer, and heating
+to redness, which makes the steel soft. The circumstances which
+determine whether it shall gain or lose are its position with
+338respect to the magnetic equator, and the higher or lower intensity
+of its previous magnetic state.
+A comparison of the number of vibrations accomplished by the
+same magnetised needle during the same time at different distances
+from a magnet gives the law of paramagnetic intensity,
+which follows the inverse ratio of the square of the distance—a
+law that is not affected by the intervention of any substance
+whatever between the magnet and the needle, provided the substance
+be not itself susceptible of magnetism. Induction and the
+reciprocal action of magnets are therefore subject to the laws of
+mechanics; but the composition and resolution of the forces are
+complicated in consequence of four forces being constantly in activity,
+two in each magnet. Mr. Were Fox discovered that the
+law of the paramagnetic force changes from the inverse square of
+the distance to the simple inverse ratio when the distance between
+two magnets is as small as from the fourth to the eighth of an
+inch, or even as much as half an inch when the magnets are
+large; and in the case of repulsion, that the change takes place
+at a still greater distance, especially when the two magnets differ
+materially in intensity.
+Without assuming any hypothesis of what magnetism is, or how
+that force is originated or sustained, Dr. Faraday regards a
+magnet as a source of power surrounded by curved lines of force
+which are not only representants of the magnetic power in
+quality and direction, but also in quantity—an hypothesis which
+accords perfectly with experiment, and with the action both of
+electricity and magnetism. The nature and form of these lines
+may be seen by placing a bar magnet upon a table, spreading a
+sheet of stiff paper over it so as to be perfectly level and free
+from creases, and then sifting very clean iron filings through
+a fine sieve equably over it. The filings will instantly assume
+the form of the curved lines represented by fig. 1, plate 7, in
+consequence of the action of the magnet. These lines are the
+true representatives of the magnetic forces, and being related to
+a polar power, they have opposite qualities in opposite directions.
+When a magnet is broken across the middle, each part is at once
+converted into a perfect magnet; the part that originally had a
+south pole acquires a north pole at the fractured end; the part
+that had originally a north pole gets a south pole; and as far as
+mechanical division can be carried, it is found that each fragment
+339is a perfect magnet. Fig. 2, plate 7, shows the lines of force in
+a fractured magnet when the ends are not yet separated; fig. 3
+shows them when they are.
+Currents of electricity are produced in conducting bodies moved
+across these lines of magnetic force. If a copper wire at a little
+distance above the north pole of a bar magnet be moved from
+left to right, at any angle across the lines of magnetic force, they
+will induce a current of electricity in the wire flowing from
+right to left; if the wire be moved with the same velocity in the
+contrary direction, the induced current will be of equal intensity,
+but it will flow from left to right. Similar results are obtained
+from the south pole, and the phenomena are the same when the
+magnet is moved and the wire is at rest; in both cases the
+intensity is greater the swifter the motion. It appears that the
+quantity of electricity induced is directly as the amount of the
+magnetic curves intersected, and when a wire is moving uniformly
+in a field of equal magnetic force, the current of electricity
+generated is proportional to the time, and also to the velocity of
+motion; for when a metallic disc is made to revolve through the
+lines of force, the current induced is strongest near the edge where
+the velocity is greatest; and in different substances moving across
+the lines of force the intensity of the induced current is directly
+as the conducting power of the substance. Thus bodies moved
+near a magnet have an electrical current developed in them, and
+conversely bodies affected by an electric current are definitely
+moved by a magnet near them.
+By the preceding experiments it appears that magnetic polarity
+is manifested in two ways; in the magnetised needle, by attraction
+and repulsion, and in a wire moving across lines of magnetic
+force it is shown by the opposite directions in which the induced
+current flows according as the body is moved from the right to
+the left, or left to right. Hence polarity consists in the opposite
+and antithetical actions manifested at the opposite ends or opposite
+sides of a limited or unlimited line of force. Antithesis is
+the true and most general character of magnetism, whatever may
+be its mode of action.
+It was by the induction of electric currents in copper wires
+moving across the lines of magnetic force that Dr. Faraday
+proved that the lines of force issuing from a magnet are closed
+curves which return again and pass through the interior of the
+340magnet. He placed two bar magnets of the same length, size,
+and intensity with their similar poles together, so that they might
+act as one magnet. A copper wire was then passed between
+their axes, which after extending through half their length was
+bent up equatorially and turned back along the outside, so that
+the whole wire formed a loop, the two ends being connected with
+a galvanometer. When the whole wire was made to revolve, no
+effect was produced, although it crossed the lines of magnetic
+force; but when it was cut in two, so as to separate the external
+from the internal part, electrical currents of equal intensity, but
+in contrary directions, were induced in each portion of the wire as
+they were made separately to cross the lines of force, for the
+apparatus was so constructed that that could be done. The exterior
+wire crossed the lines of force which issued from the
+magnets at right angles to their axes, while the equatorial part
+of the interior wire traversed the returning lines of force. It is
+evident that these forces neutralized each other when the whole
+wire revolved: consequently the internal and external lines of
+force must have been of equal intensity and opposite in direction,
+so as to balance one another. By this and a very great number
+of other experiments Dr. Faraday has proved that the magnetic
+lines of force are continuous closed curves alike in shape, size,
+and power. They extend indefinitely beyond the magnet, and
+undergo no change by distance.
+Thus the magnetic force pervades the interior of the mass; if
+electricity does the same, a compensation must either take place,
+or it also must move in lines of force, sensible only at the surface.
+Electricity has a perpetual tendency to escape, and does
+escape, when not prevented by the coercive power of the air, and
+other non-conducting substances. Such a tendency does not
+exist in magnetism, which never leaves the substance containing
+it under any circumstances whatever. There must be some
+coercive force, analogous to friction, which arrests the magnetic
+forces, so as first to oppose their separation, and then to prevent
+their reunion. In soft iron the coercive force is either wanting
+or extremely feeble, since iron is easily rendered paramagnetic by
+induction, and as easily loses that quality; whereas in steel the
+coercive force is extremely energetic, because it prevents the steel
+from acquiring the paramagnetic properties rapidly, and entirely
+hinders it from losing them when acquired. The feebleness of
+341the coercive force in iron, and its energy in steel, with regard to
+the paramagnetic force, is perfectly analogous to the facility of
+transmission afforded to electricity by non-electrics, and the
+resistance it experiences in electrics. At every step the analogy
+between electricity and magnetism becomes more striking. The
+agency of attraction and repulsion is common to both; the positive
+and negative electricities are similar to the northern and
+southern polarities, and are governed by the same laws—namely,
+that between like powers there is repulsion, and between unlike
+powers there is attraction. Each of these four forces is capable
+of acting most energetically when alone; but as the electric
+equilibrium is restored by the union of the two electric states,
+and magnetic neutrality by the combination of the two polarities,
+they respectively neutralise each other when joined. All these
+forces vary inversely as the square of the distance, and consequently
+come under the same mechanical laws.
+A like analogy extends to magnetic and electric induction.
+Iron and steel are in a state of equilibrium when neutral; but
+this equilibrium is immediately disturbed on the approach of the
+pole of a magnet, which by induction transfers one kind of
+polarity to one end of an iron or steel bar, and the opposite kind
+to the other—effects exactly similar to electrical induction.
+There is even a correspondence between the fracture of a magnet
+and that of an electric conductor; for if an oblong conductor be
+electrified by induction, its two extremities will have opposite
+electricities; and if in that state it be divided across the middle,
+the two portions, when removed to a distance from one another,
+will each retain the electricity that has been induced upon it.
+The analogy, however, does not extend to transference. A body
+may transfer a redundant quantity of positive electricity to
+another, or deprive another of its electricity—the one gaining at
+the expense of the other; but a body cannot possess only one
+kind of polarity. With that exception, there is such perfect correspondence
+between the theories of magnetic attractions and
+repulsions, and electric forces in conducting bodies, that they not
+only are the same in principle, but are determined by the same
+formulæ. Experiment concurs with theory in proving the
+identity of these two influences. Hence, if the electrical phenomena
+be due to a modification of the ethereal medium, the magnetic
+phenomena must be owing to an analogous cause.
+Curved lines of magnetic force issue from every point of the
+342earth’s surface where there is sensible dip, and bending round
+enter the earth again at the magnetic equator. They induce
+electric currents in conducting-wires, moving across them exactly
+the same as in artificial magnets; and when a hollow helix, or
+coil of copper wire, whose extremities are connected with a galvanometer,
+is placed in the magnetic dip, and suddenly moved
+across the lines of force, the needle of the galvanometer will
+vibrate through an arc of 80° or 90°, in consequence of the
+electric current induced by these lines of magnetic force in the
+wire, and the action is greater when a core of soft iron is placed
+in the helix, which becomes a temporary magnet by induction.
+Again, if a copper plate be connected with a galvanometer by two
+copper wires, one from the centre, and another from the circumference,
+in order to collect and convey the electricity, it is
+found that, when the plate is made to revolve in a plane passing
+through the line of the dip, the galvanometer is not affected.
+But as soon as the plate is inclined to that plane, electricity
+begins to be developed by its motion across the lines of magnetic
+force; it becomes more powerful as the inclination increases, and
+arrives at a maximum when the plate revolves at right angles to
+the line of dip. When the revolution is in the same direction
+with that of the hands of a watch, the current of electricity flows
+from its centre to the circumference; and when the rotation is
+in a contrary direction, the current sets the opposite way. Thus
+a copper plate, revolving at right angles to the line of the dip,
+becomes a new electrical machine, differing from the common
+plate-glass machine by the copper being the most perfect conductor,
+whereas glass is the most perfect non-conductor; besides
+insulation, which is essential to the glass machine, is fatal to the
+copper one. The quantity of electricity evolved by the metal
+does not appear to be inferior to that devolved by the glass,
+though very different in intensity. Even a ship crossing the
+lines of force must have electric currents running through her.
+Dr. Faraday observes that such is the facility with which electricity
+is generated by the magnetic lines of force, that scarcely
+any piece of metal can be moved without a development of it;
+consequently, among the arrangements of steam-engines and
+metallic machinery, curious electro-magnetic combinations probably
+exist which have never yet been noticed. Thus magnetic
+lines of force certainly issue from the surface of the globe.
+No doubt the earth is a magnet on a vast scale, but it differs
+343from all others in having four poles of maximum magnetic force
+of different intensities, the two in the northern hemisphere
+having a secular motion in a contrary direction from the two in
+the southern. They are not even symmetrically placed; hence
+the magnetic intensity varies so much in the different points on
+the earth’s surface, that the dynamic equator, or line passing
+through all the points of least intensity, is a very irregular curve
+surrounding the globe, but by no means coinciding with the terrestrial
+equator. In consequence of the mean action of these
+four forces, the north end of a magnetised needle, arranged so as
+to revolve in a vertical plane, dips or inclines beneath the
+horizon in the northern hemisphere, and the south end in the
+southern. The two hemispheres are separated by a line encircling
+the earth, called the magnetic equator, or line of no dip,
+in which the dipping or inclination needle is horizontal. On
+each side of this line the inclination increases till at last the
+needle becomes perpendicular to the horizon in two points, or
+rather small spaces, in each hemisphere, known as the magnetic
+poles, which are quite different from the poles of the earth’s
+rotation. The mean action of the four poles of magnetic intensity
+causes the mariner’s compass, or a magnetic needle suspended
+so as to revolve in a horizontal plane, to remain at rest when
+pointing to the two magnetic poles. It is then in the magnetic
+meridian of the place of observation, which is thus determined
+by the mean action of all the four magnetic forces.
+These mean values of the three magnetic elements, namely,
+the declination, inclination or dip, and magnetic intensity, are
+well known to be subject to secular, annual, and diurnal variations.
+The secular only become sensible after some years, but
+the annual and diurnal variations have a double progression—that
+is to say, two maximum and two minimum values in
+their respective periods of a year and twenty-four hours; for
+example, the declination needle makes two deviations to the west
+and two to the east in the course of twenty-four hours, and that
+with great regularity. Now General Sabine discovered that the
+double progression arises from two combined or superposed variations
+having different hours of maxima and minima, and that
+they are due to two distinctly different causes—the one being
+the difference in the sun’s position relatively to the place of
+observation at the different seasons of the year, and hours of the
+344day and night; the other being a mean annual and diurnal
+variation proved by General Sabine to exist in those great magnetic
+storms or casual disturbances which affect the magnetic
+elements simultaneously over enormously extensive tracts of the
+globe.
+Moreover the General discovered that, besides these annual
+and diurnal variations, the magnetic storms have a variation
+which accomplishes its vicissitudes in ten or more nearly eleven
+years, the increase from year to year being gradual, till its
+maximum becomes twice as great as its minimum value. In
+consequence of this inequality in the storms or casual disturbances,
+each of the magnetic elements has a variation of similar
+period and similar maxima and minima. Now the number and
+magnitude of the spots on the sun had been observed by M.
+Schwabe, of Dessau, to increase to a maximum, and decrease
+again to a minimum, regularly in the very same period of between
+ten and eleven years; and General Sabine found that this
+variation in the solar spots, and that in the magnetic elements,
+not only have the same periods of maxima and minima, but
+that they correspond in all their minutest vicissitudes. Thus a
+very remarkable and unexpected connexion exists between terrestrial
+and solar magnetism. The dual and antagonist principle
+is perfectly maintained in the earth’s magnetism, all the phenomena
+and their variations being in opposite directions in the
+two hemispheres. (N. 226.)
+No doubt the magnetic lines of force in the earth are closed
+curves, as in artificial magnets; but in their circuitous courses
+they may extend to any distance in space, or rather in the
+ethereal medium, even to thousands or tens of thousands of
+miles; for the ethereal medium is permeable to lines of magnetic
+force, or rather transmits them, otherwise the solar spots could
+not affect the variations of terrestrial magnetism; besides, they
+pass through the Torricellian vacuum, which is nearly a void
+with respect to air, but not to the ethereal medium.
+The atmosphere which surrounds the earth to the height of
+about fifty miles with sensible density, consists of three and a
+half parts by weight of nitrogen gas and one part of oxygen,
+uniformly mixed. The nitrogen is neutral whether dense or
+rare, hot or cold, while the oxygen is highly paramagnetic; but
+it loses a great part of its force when rarefied by heat; consequently
+345the magnetic force of the atmosphere must increase from
+the equator to the poles of maximum cold; it must vary summer
+and winter, night and day. Its effect upon terrestrial magnetism
+is unknown; but it can hardly be without some influence. M.
+E. Becquerel observes—“If we reflect that the earth is encompassed
+by a mass of air equivalent in weight to a layer of mercury
+of 30 inches, we may inquire whether such a mass of
+magnetic gas, continually agitated, and submitted to the regular
+and irregular variations of pressure and temperature, does not
+intervene in some of the phenomena dependent upon terrestrial
+magnetism. If we calculate, in fact, what is the magnetic force
+of this fluid mass, we find that it is equivalent to an immense
+plate of iron, of a thickness little more than
+1⁄250
+of an inch,
+which covers the whole surface of the globe.” Both the
+conducting power of the air and its density are increased
+by cold; and as the sum of the magnetic forces which issue
+from the earth on one side of the line of no dip is equal to their
+sum on the other side, the intensity and concentration in our
+winter are coincident with a diffusion and feebleness in the opposite
+hemisphere, so that the line of no dip will move annually
+from north to south and back again. The same holds with
+regard to day and night. Thus the law of the conservation of
+force is rigorously maintained; and it is equally so in the effect
+of the atmosphere on the magnetic lines of force, which refracts
+them as they pass through it, in one direction in summer, and in
+the opposite direction in winter—in one direction in the enlightened
+hemisphere, in the other in that which is dark. The whole
+of the magnetic lines about the earth are held by their mutual
+tension in one connected, sensitive system, which feels in every
+part, even to the antipodes, a change in any particular place.
+It may be mentioned as a well-known fact, that apparent
+anomalies have been found in the diurnal variation of the declination
+in the high magnetic latitudes of the northern hemisphere
+when compared with their great regularity in other parts of the
+same hemisphere, and that the magnetic storms are of much
+greater magnitude there than in lower latitudes. Moreover,
+although Captain Maguire’s observations at Cape Barrow, in
+the North Polar Ocean, show that the annual and diurnal variations
+of the casual disturbances or magnetic storms, as well as
+those of the decennial period, are maintained, yet it appears that
+346at certain hours of the day the disturbance in the declination
+may be easterly at Point Barrow, and westerly at the Magnetic
+Observatory at Toronto, in Upper Canada, and vice versâ: in fact,
+the magnetic storms are simultaneous at these two stations, but
+in opposite directions—a circumstance not yet accounted for, and
+may possibly be due to the increased magnetism of the air in
+these cold regions. The heat of the sun has no effect upon
+terrestrial magnetism unless possibly by its indirect action on the
+oxygen of the atmosphere; but hitherto it has been imperceptible.
+It is hardly possible that the aurora can be independent
+of the magnetic character of the air, since it occurs in the high
+latitudes, where the atmospheric magnetism is most powerful.
+Captain Maguire remarked that it frequently appeared at Point
+Barrow when the magnetic storms were at a maximum.
+We are totally ignorant of the cause of terrestrial magnetism,
+though the powerful influence of the solar spots renders it highly
+probable that it will ultimately be found to originate in the sun
+himself. Mr. Barlow’s theory of electric currents revolving round
+the globe is borne out by Mr. Fox’s observations in the Cornish
+mines, which show that electro-magnetism is extremely active in
+metallic veins; that not only the nature of the metalliferous
+deposits must have been determined by their relative electrical
+conditions, but that the direction of the metallic veins must have
+been influenced by the direction of the magnetic meridians, and
+in fact almost all the metallic deposits in the world tend from
+east to west, or from north-east to south-west. However, these
+currents of electricity may be regarded as magnetic lines of force,
+and are more likely to be the effect than the cause of terrestrial
+magnetism. They are found to have a powerful inductive effect
+on the Atlantic telegraph, disturbing the needles and galvanometers
+at each end of the line to a considerable degree, and on
+the night of the 6th of September, 1858, a magnetic storm passed
+over the cable, which violently agitated the reflecting galvanometer
+in connection with the telegraphic wires.
+We are equally ignorant of the cause of the secular magnetic
+variations, but we have no reason to believe that the earth is
+alone magnetic; on the contrary, the planets are probably
+magnets, and we know that the sun and moon are magnetic;
+hence, as the magnetic, like the gravitating force, is transmitted
+through the ethereal medium, the induction of the sun, moon,
+347and planets, in all their secular and periodic changes, may cause
+perpetual variations in terrestrial magnetism, and it may not be
+beyond the delicacy of modern observation to ascertain whether
+a planet, when nearest to the earth, has any sensible magnetism.
+Diamagnetism is also a dual power, but in complete antithesis
+to paramagnetism under the same circumstances. Dr. Faraday
+first discovered this property in heavy glass, or silico-borate of
+lead, a piece of which was repelled by the pole of a powerful
+electro-magnet, and an elongated prism of the same heavy glass,
+when freely suspended between the poles, set equatorially. He
+then found that so great a number of substances followed the
+same law, that it established the very remarkable fact of a
+hitherto unknown force having acted upon the substances submitted
+to its influence, a discovery which he subsequently confirmed
+by many experiments, all of which proved the antithesis
+between the two modes of magnetic action. He also discovered
+that magnetic bodies differ exceedingly in their magnetic power:
+of paramagnetic bodies iron is the most powerful; then follow
+nickel, cobalt, and a long gradation down to osmium and a
+vacuum. The body that seems to have the lowest diamagnetic
+power is arsenic, and the series ascends to heavy glass, antimony,
+phosphorus, and bismuth; so iron and bismuth are the most
+powerful in their respective classes, and both have a small conducting
+power for electricity. It may be presumed that many
+remarkable instances of diamagnetism are to be met with in
+nature; among others, Dr. Faraday has suggested the idea that
+Saturn’s ring, from its position, may be diamagnetic with regard
+to the planet.
+With very powerful magnets or electro-magnets, which are
+absolutely necessary for all these experiments, it is found that no
+simple substance is neutral, but that such may be compounded
+by mixing in due proportion a diamagnetic and paramagnetic
+liquid, as water and protosulphate of iron.
+Professor Tyndall proved diamagnetic polarity by placing two
+bismuth bars within two vertical coils or spirals of insulated
+copper wire, through which electric currents were transmitted
+from a galvanic battery, and caused to act upon a steel magnet
+freely suspended without the spirals. Now, when the excited
+magnetism is merely by induction, the electric current, being
+momentary, only causes a shock or momentary deviation in the
+348magnet, which returns to its original position when the current
+ceases. When, on the contrary, the magnetism is permanent,
+the suspended magnet does not return to its original position
+when the current ceases. In Professor Tyndall’s experiment the
+deviation was permanent, and it was equally so when a bismuth
+bar was freely suspended and the cores within the spirals were
+steel magnets. Had the effect been from currents induced in the
+mass of the bar of bismuth, division of the bar would have stopped
+them, but the result was the same with powdered bismuth as
+with the solid mass. Moreover, since the strength of induced
+currents depends upon the conducting power of the substance,
+and as the conducting power of copper is forty times as great as
+that of bismuth, had the polarity been induced and not real, the
+effect ought to have been forty times greater when copper instead
+of bismuth cores were put in the spirals, whereas it was scarcely
+sensible. Besides these proofs, Dr. Tyndall made experiments
+with eleven different diamagnetic substances, of which water was
+one, with similar results. He then determined the polarity of
+twelve paramagnetic bodies by the same method, whence it
+appeared that the same action which produced a north pole in
+the paramagnetic bodies produced a south pole in those that
+were diamagnetic, and vice versâ, whence he concludes that diamagnetic
+polarity is one of the most firmly established truths of
+science. It follows from this that, when a man is standing, his
+head is a north pole and his feet a south, and the top of an iron
+railing on which he may be leaning is a south pole and the lower
+end a north. Diamagnetic bodies thus possess a polarity, the
+same in kind but opposite in direction to that possessed by paramagnetic
+ones.[18] They are both dual powers, and the two diamagnetic
+forces like the two paramagnetic being coexistent,
+simultaneous, and mutually dependent, there can be no doubt
+that the diamagnetic forces also are represented, or rather consist
+of curved and closed lines of force passing through the interior
+of the substance. Dr. Tyndall has proved that the attraction
+of iron, and the repulsion of bismuth, are as the square of the
+electro-magnetic current producing them, and that diamagnetic
+substances are capable of induction.
+349The molecular structure of substances freely suspended between
+the poles of a magnet has a decided effect upon the position they
+assume.
+It has already been mentioned that the optic axis is a symmetrical
+line in a doubly refracting crystal in which there is no
+double refraction, and that in some crystals there are two such
+symmetrical lines. Now, Professor Plücker of Bonn discovered,
+when such crystals are submitted to powerful magnetic influence,
+that the single optic axis in the one, and the resultant or mean
+line between the double optic axes in the other, set diametrically
+or at right angles to the line of magnetic force; and so powerful
+did the Professor find the action of magnetism on crystalline
+form, that the mineral cyanite, when suspended, arranges itself
+so definitely with regard to terrestrial magnetism, that it might
+be used as a compass needle.
+Dr. Faraday afterwards observed that amorphous substances,
+cut in the form of a sphere, have no tendency to set or be
+attracted or repelled in one direction in preference to any other;
+but if the sphere be formed of a crystallized substance, it is a
+general fact that, whether it be paramagnetic or diamagnetic, it
+is more powerfully attracted or repelled in one direction than in
+any other—a property named by Dr. Faraday magnecrystallic
+action. For example, a sphere of calcareous spar, which is a
+diamagnetic crystal, is most strongly repelled in the direction of
+its principal optic axis, and least strongly in the direction of its
+least axis. In a sphere of carbonate of iron, which has exactly
+the same crystalline form and is highly paramagnetic, the line
+which in carbonate of lime sets equatorially, in this case sets
+axially, and more strongly in that direction than in any other.
+The law according to which the attraction of the carbonate of iron
+increases from the least to its greatest or principal optic axis, is
+precisely the same as that according to which the repulsion of the
+calcareous spar increases from the least to the principal optic axis.
+These relations are not altered by the immersion of the spheres
+in liquids of either magnetism. Dr. Faraday observed that a
+line at right angles to the planes of principal cleavage in crystals
+takes the axial position, and on that account he called it the
+magnecrystallic axis. Its position was proved by MM. Tyndall
+and Knoblauch to depend upon the general fact, that the mass is
+most strongly repelled in the direction of the planes of principal
+350cleavage, and that the elective position of crystals depends more
+upon the direction of these planes with respect to the electric
+force, than upon the optic axis. The planes of principal cleavage
+set themselves equatorially in diamagnetic, and axially in paramagnetic
+substances: it was thence inferred that the phenomena
+offered by crystals in the magnetic field is a particular case of the
+general law, that the superior action of magnets upon matter in
+a particular direction is due to the particles of the body being
+closer together in that direction than in any other: in short,
+the line of maximum density; the force exerted being attractive
+or repulsive according as the particles are paramagnetic or diamagnetic.
+It appears, however, that the set of crystals with regard to the
+line of magnetic force does not depend solely upon their density
+in particular directions. Professor Matteucci, of Pisa, has proved
+that the diamagnetic force is inversely as the conducting power
+of substances for electricity, that the conducting power is a
+maximum in the planes of principal cleavage, and that a needle
+of crystallized bismuth, in which the planes of cleavage are
+parallel to its length, places itself equatorially with more force
+when these planes are vertical, or at right angles to the force,
+than when they are horizontal or parallel to it. Experiments had
+hitherto been made only with diamagnetic or slightly paramagnetic
+bodies, which induced M. le Roux to try the effect of magnetism
+on pulverized iron compressed by the hydraulic press,
+which reduced the grains of iron to lamellæ equivalent to planes
+of cleavage. Cubes of this substance, suspended by a thread over
+a horseshoe magnet, oscillated for a longer time when the lamellæ
+were perpendicular than when they were horizontal; that is, the
+force was stronger when the lamellæ were equatorial than when
+they were axial, exactly the same result as in Professor Matteucci’s
+experiment with the needle of bismuth. Thus the vertical
+position of the cleavages, which increases the diamagnetism
+of the bismuth, increases also the paramagnetism of the iron.
+M. le Roux observes that these results are independent of the
+influence of the currents of electricity induced in the oscillating
+body, for the fundamental character of the phenomena of Arago’s
+discovery of rotation by induction is, that the oscillations diminish
+rapidly in extent without any sensible diminution in their duration,
+while in his experiments the time of the oscillations varied.
+351He concludes that the arrangement of the molecules must be intimately
+connected with paramagnetism or diamagnetism itself,
+since the effect of that arrangement is equally sensible in bismuth
+and iron, although the diamagnetism of the former is 25,000
+times weaker than the paramagnetism of the latter.
+The diamagnetism of conducting substances and metals, such as
+gold, silver, and copper, is augmented by division. Compression
+has also a great effect on magnetic action. For example, a bar
+of soft iron sets with its longest dimensions from pole to pole of
+a magnet, but a bar of compressed carbonate of iron-dust, whose
+shortest dimensions coincide with the line of pressure, sets
+equatorially. A bar of bismuth whose plane of principal cleavage
+is parallel to its length sets equatorially, but a bar of compressed
+bismuth dust, whose shortest dimensions coincide with the line
+of pressure, or a bar of bismuth whose principal planes of cleavage
+are transverse to its length, sets with its length axially. The
+antithesis is perfect whether the bars are under the influence of
+a magnet or electro-magnet. For since the diamagnetic force is
+inversely as the conducting power of a body for electricity, and
+that the latter is a maximum in the direction of the planes of
+principal cleavage, therefore when these planes are parallel to
+the axis of the bismuth bar it sets equatorially; but as the conducting
+power is augmented when the bismuth dust is compressed
+in the direction of the force, the diamagnetic power is
+diminished, and the bar sets axially. Again, since the paramagnetic
+force augments with the conducting power, the action
+of the magnet on the iron is antithetic to that on the bismuth.
+The action of an electro-magnet on copper is strongly contrasted
+with that which it exerts on iron or bismuth. For when
+a copper bar suspended by a thread revolves before its pole, it is
+brought to a dead halt as soon as the electric current acts upon it,
+and maintains its position with considerable tenacity, for it does
+not return when pushed out of it, but keeps its new place with
+stiffness; however, as soon as the electric current ceases, there is
+a strong revulsion, the bar revolving the contrary way. Even
+when swinging with considerable force it may be caught and
+retained in any position at pleasure, but there is no revulsion
+when it is arrested either in the axial or equatorial position; at
+any angle between these two, but especially midway, the electricity
+will make it move towards the axis, but it is arrested
+352before it comes to it. The action depends much on the form
+and dimensions of the bar and the magnetic pole, which ought
+to be flat. The phenomena are due to the high electro-conducting
+power of the copper, and are met with in some of the
+other pure metals, though in a far inferior degree.
+Great magnetic power is requisite for all these experiments.
+Dr. Faraday employed a magnet that could sustain a weight of
+450 lbs. at each pole, and the poles were either pointed or flat
+surfaces at pleasure, as the kind of experiment required.
+Heat strongly affects the magnetic properties of bodies. Dr.
+Faraday found that, when the temperature of nickel is increased,
+its magnetic force diminishes; when that of iron is increased its
+magnetic force remains the same, while that of cobalt increases;
+which seems to indicate that there is a temperature at which the
+magnetic force is a maximum, above and below which it diminishes.
+Nickel loses its magnetism at the temperature of
+boiling oil, iron at a red heat, and cobalt near the temperature at
+which copper melts. Calcareous spar retains its magnetic character
+at a very high temperature; but the same substance when
+it contains iron, and also oxide of iron, loses it entirely at a dull
+red heat. A crystal of the ferrocarbonate of lime was absolutely
+reversed by change of temperature, for at a low heat the optic
+axis pointed axially, and at a high temperature equatorially.
+With the exception of these substances, magnecrystals, whether
+paramagnetic or diamagnetic, are generally all affected alike by
+heat. The difference between the forces in any two different
+directions, as for instance the greatest and least principal axes,
+diminishes as the temperature is raised, increases as the temperature
+is lowered, and is constant for a given temperature. No
+unmixed or pure substance has as yet passed by heat from the
+paramagnetic to the diamagnetic state. No simple magnecrystal
+has shown any inversion of this kind, nor have any of the chief
+axes of power changed their characters or relations to one
+another.
+It appears that, as the molecules of crystals and compressed
+bodies affect magnetism, so magnetism acts upon the molecules of
+matter, for torsion diminishes the magnetic force, and the elasticity
+of iron and steel is altered by magnetism. M. Matteucci has
+found that the mechanical compression of glass alters the rotatory
+power of a polarized ray of light transmitted through it, and that
+353a change takes place in the temper of glass under the influence of
+powerful magnetism.
+Even from the limited view of the powers of nature which precedes,
+it is evident that the progress of science based upon experiment
+tends to show that the various forces of light, heat, motion,
+chemical affinity, electricity, and magnetism will ultimately be
+traced to one common origin; that they are so directly related, and
+mutually dependent, that they are convertible, motion producing
+heat, and heat motion; chemical affinity producing electricity,
+and electricity chemical action, &c., each mediately or immediately
+producing the other. These forces are transmitted through
+substances; they act upon matter, causing changes in the molecular
+structure of bodies either momentary or permanent, and
+reciprocally the changes indicate the action of these forces. Matter
+and force are only known to us as manifestations of Almighty
+power: we are assured that we can neither create nor destroy
+them—that their amount is the same now as in the beginning.
+In chemical attraction the powers with which a molecule of
+matter is endowed, and which give rise to various qualities,
+never change; even when passing through a thousand combinations,
+the molecule and its power are ever the same.
+Machinery does not create force; it only enables us to turn the
+forces of nature to the best advantage; it is by the force of wind
+or falling water that our corn is ground, and the steam engine
+owes its power to the force of heat and chemical action. As
+force cannot be created, neither can it be annihilated. It may
+be dispersed in various directions, and subdivided so as to become
+evanescent to our perceptions; it may be balanced so as
+to be in abeyance, or become potential as in static electricity; but
+the instant the impediment is removed the force is manifested by
+motion; it may also be turned into heat by friction, but it is
+never lost. Every motion we make, every breath, every word we
+utter, is a force that produces pulsations which are communicated
+to continually increasing particles of air, and conveyed through
+countless channels so as to become indeed imperceptible to our
+senses, yet they are demonstrated to exist as witnesses of the
+words we have spoken or the actions we have performed, by
+analysis, that all-powerful instrument of human reason.[19]
+354A body acquires heat in the exact proportion that the adjacent
+substances become cold, and when heat is absorbed by a body it
+becomes an expansive force at the expense of those around that
+contract, but it is not lost. In chemical action at a distance the
+principle of the conservation of force is maintained, for a chemical
+action may be produced miles away from an electro-magnet, perfectly
+equivalent to the dominant chemical action in the battery.
+The two electricities are developed in equal proportions, which
+may be combined so as to produce many changes in their respective
+relations, yet the sum of the force of one kind can never be
+made in the smallest degree either to exceed or to come short of
+the sum of the other. Experimental research proves that the conservation
+of force is an unalterable law of nature—“a principle
+in physics as large and sure as that of the indestructibility of
+matter or the invariability of gravity. No hypothesis should be
+admitted, nor any assertion of a fact credited, that denies this
+principle. No view should be inconsistent or incompatible with
+it. Many of our hypotheses in the present state of science may
+not comprehend it, and may be unable to suggest its consequences,
+but none should oppose or contradict it.”
+Having thus expressed his conviction of the truth of this great
+principle, Dr. Faraday considers the case of gravity, and concludes
+that “the definition of gravity as an attractive force between
+the particles of matter varying inversely as the square of
+the distance, while it stands as a full definition of the power, is
+inconsistent with the principle of the conservation of force.”
+For while in this definition the principle is maintained of the
+constancy of the force at the same distance, it implies a creation
+of force to an enormous amount when the distance is diminished,
+and an equal amount annihilated when the distance is increased,—“an
+effect,” he says, “which is equal in its infinity and its
+consequences with creation, and only within the power of Him
+who creates.” He continues, “It will not be imagined for a
+moment that I am opposed to what may be called the law of
+gravitating action, that is, the law by which all the known
+effects of gravity are governed; what I am considering is the
+definition of the force of gravitation. That the result of one
+exercise of a power may be inversely as the square of the distance,
+I believe and admit; and I know that it is so in the case
+of gravity, and has been verified to an extent that could hardly
+355have been within the conception of Newton himself when he
+gave utterance to the law; but that the totality of a force can
+be employed according to that law I do not believe either in
+relation to gravitation, or electricity, or magnetism, or any other
+supposed form of power. That there should be a power of
+gravitation existing by itself, having no relation to the other
+natural powers, and no respect to the law of the conservation of
+force, is as little likely as that there should be a principle of
+levity as well as gravity. Gravity may be only the residual part
+of the other forces of nature, as Mossotti has tried to show; but
+that it should fall out from the law of all other forces, and should
+be outside the reach either of farther experiment or philosophical
+conclusions, is not probable. So we must strive to learn more of
+this outstanding power, and endeavour to avoid any definition
+of it which is incompatible with the principles of force generally,
+for all the phenomena of nature lead us to believe that the great
+and governing law is one. Thus gravitation can only be considered
+as part of a more general force whose law has yet to be
+discovered.”
+The definition of the gravitating force immediately suggests
+the question of how it is transmitted; the full force of that
+question was felt by Newton himself when, in his third letter to
+Bentley, he wrote, “That gravity should be innate, inherent,
+and essential to matter, so that one body may act upon another
+at a distance, through a vacuum, without the mediation of anything
+else by and through which their action and force may be
+conveyed from one to another, is to me so great an absurdity
+that I believe no man who has in philosophic matters a competent
+faculty of thinking can ever fall into it. Gravity must be caused
+by an agent, acting constantly according to certain laws; but
+whether this agent be material or immaterial I have left to the
+consideration of my readers.”
+Since Newton’s time the continual decrease in the periodic
+times of the comets belonging to our system, and the undulatory
+theory of light and heat, have proved the existence of an extremely
+rare elastic medium filling space even to the most distant regions
+of which we are cognizant. But, rare as it may be, it has inertia
+enough to resist the motion of comets, and therefore must be
+material, whether considered to be ether or, according to Mr.
+Grove, the highly attenuated atmospheres of the celestial bodies.
+356Professor William Thomson of Glasgow has computed that in the
+space traversed by the earth in its annual revolution, a cube
+whose side is 1000 miles would contain not less than a pound
+weight of the ethereal medium, and that the earth, in moving
+through it, would not displace the ·250th part of that pound of
+matter. Yet that is enormously more dense than the continuation
+of the earth’s atmosphere would be in interplanetary
+space, if rarefied according to Bayle’s law. But whatever be
+the density or nature of the ether, there is every reason to believe
+that it is the medium which transmits the gravitating force
+from one celestial object to another, or possibly it may possess
+a higher attribute with regard to gravity than its mere transmission.
+Dr. Faraday, who discovered the magnetism of the atmosphere,
+is led to believe that the ethereal medium too is magnetic by the
+following experiment. Three solutions of the protosulphate of
+iron, l, m, n, the first of which contained 4 grains of the salt
+dissolved in a cubic inch of water, the second 8 grains, and the
+third 16 grains—these were respectively enclosed in three glass
+globules, all of which were attracted by the pole of a magnet.
+A quantity of the mean solution m was then put into a vessel,
+and the globule containing the strongest solution n was immersed
+in it, which was attracted as before, but the globule l, containing
+the weakest solution, was repelled when plunged into the same
+liquid. Here there was a diamagnetic phenomenon, although
+the glass globules and the liquid in which they were immersed
+contained iron. The effect was evidently differential, for when
+the liquid was less attracted than the globule, the globule approached
+the pole, and when the liquid was more attracted than
+the globule, the latter appeared to recede from the pole. In
+fact, the effect is the same as that of gravity on a body immersed
+in water; if it be more forcibly attracted than the water, it
+sinks; if less forcibly attracted, it rises, the effect being the same
+as if it were repelled by the earth. Hence the question, are all
+magnetic phenomena the result of a differential action of this
+kind, and is the ethereal medium less strongly attracted than
+soft iron, and more strongly attracted than bismuth, thus permitting
+the approach of the iron, but causing the bismuth to
+recede from the pole of a magnet? If such a medium exist, that
+is, if the ethereal medium be magnetic, then diamagnetism is
+357the same with paramagnetism, and the polarity of the magnetic
+force in iron and bismuth is one and the same.
+The ethereal medium may be presumed to transmit the gravitating
+force; it transmits the magnetism of the solar spots, its
+undulations constitute light, heat, and all the influences bound
+up in the solar beam; and the most perfect vacuum we can make
+is capable of transmitting mechanical energy in enormous quantities,
+some of which differ but little from that of air or oxygen
+at an ordinary barometric pressure; and why not thus admit, says
+Mr. Thomson, the magnetic property, of which we know so little
+that we have no right to pronounce a negative?
+Mr. Waterstone is also of opinion that it would be taking too
+narrow a view if we limited the function of the luminiferous
+ether to the conveying of physical pulses only. The atmosphere
+also conveys physical pulses, but that is the least important of
+its functions in the economy of nature. There is nothing that
+should hinder us attributing to the media concerned in the
+radiation of light and heat the higher functions of electrical
+polarity and gravitation. The special dynamic arrangements
+by which this is effected may ever elude our research; but as
+there is no limit to the vis viva (N. 222) which such media
+may conserve in their minutest parts, so there is no physical
+impossibility in that vis viva being suddenly transferred to the
+molecules of ordinary matter in the proportion and sequence
+required to carry out the order and system of nature.
+The fundamental principle of action in such media must be
+in accordance with elastic impact, for upon that the dynamic
+theory of heat and conservation of force rests as a foundation.
+The statical and dynamical characteristics of gravitation and
+transfusion of force conform to it, so that all the forces that
+hold the molecules of bodies together must also be in subjection
+to it.[20]</div></body></text></TEI>

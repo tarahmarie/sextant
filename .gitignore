@@ -53,3 +53,17 @@ notebooks/logs/py4cytoscape.log
 #   Public domain texts (Gutenberg, Wikisource) can be regenerated;
 #   see CORPUS_RECONSTRUCTION.md
 projects/shelley-lovelace/splits/
+.claude/
+projects/shelley-lovelace/splits/
+projects/shelley-lovelace/splits_old/
+projects/shelley-lovelace/splits_old2/
+projects/shelley-lovelace/staging/
+source-data-files/
+__pycache__/
+*.pyc
+.DS_Store
+projects/shelley-lovelace-final-500w/splits/
+projects/shelley-lovelace-final-500w/splits_old/
+projects/shelley-lovelace-final-500w/splits_old2/
+projects/shelley-lovelace-no-min-svm-fixed/splits/
+projects/shelley-lovelace-no-min-svm-fixed/splits_old/

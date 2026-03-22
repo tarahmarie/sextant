@@ -1,0 +1,260 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Economy of Machinery and Manufactures</title><author>Babbage, Charles (1791-1871)</author></titleStmt><publicationStmt><publisher>Charles Knight</publisher><pubPlace>London</pubPlace><date>1832</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="26">Chapter 26
+On a New System of Manufacturing
+305. A most erroneous and unfortunate opinion prevails
+amongst workmen in many manufacturing countries, that their own
+interest and that of their employers are at variance. The
+consequences are that valuable machinery is sometimes neglected,
+and even privately injured—that new improvements, introduced by
+the masters, do not receive a fair trial—and that the talents
+and observations of the workmen are not directed to the
+improvement of the processes in which they are employed. This
+error is, perhaps, most prevalent where the establishment of
+manufactories has been of recent origin, and where the number of
+persons employed in them is not very large: thus, in some of the
+Prussian provinces on the Rhine it prevails to a much greater
+extent than in Lancashire. Perhaps its diminished prevalence in
+our own manufacturing districts, arises partly from the superior
+information spread amongst the workmen; and partly from the
+frequent example of persons, who by good conduct and an attention
+to the interests of their employers for a series of years, have
+become foremen, or who have ultimately been admitted into
+advantageous partnerships. Convinced as I am, from my own
+observation, that the prosperity and success of the master
+manufacturer is essential to the welfare of the workman, I am yet
+compelled to admit that this connection is, in many cases, too
+remote to be always understood by the latter, and whilst it is
+perfectly true that workmen, as a class, derive advantage from
+the prosperity of their employers, I do not think that each
+individual partakes of that advantage exactly in proportion to
+the extent to which he contributes towards it; nor do I perceive
+that the resulting advantage is as immediate as it might become
+under a different system.
+306. It would be of great importance, if, in every large
+establishment the mode of payment could be so arranged, that
+every person employed should derive advantage from the success of
+the whole; and that the profits of each individual should
+advance, as the factory itself produced profit, without the
+necessity of making any change in the wages. This is by no means
+easy to effect, particularly amongst that class whose daily
+labour procures for them their daily food. The system which has
+long been pursued in working the Cornish mines, although not
+exactly fulfilling these conditions, yet possesses advantages
+which make it worthy of attention, as having nearly approached
+towards them, and as tending to render fully effective the
+faculties of all who are engaged in it. I am the more strongly
+induced to place before the reader a short sketch of this system,
+because its similarity to that which I shall afterwards recommend
+for trial, will perhaps remove some objections to the latter, and
+may also furnish some valuable hints for conducting any
+experiment which might be undertaken.
+307. In the mines of Cornwall, almost the whole of the
+operations, both above and below ground, are contracted for. The
+manner of making the contract is nearly as follows. At the end of
+every two months, the work which it is proposed to carry on
+during the next period is marked out. It is of three kinds. 1.
+Tutwork, which consists in sinking shafts, driving levels, and
+making excavations: this is paid for by the fathom in depth, or
+in length, or by the cubic fathom. 2. Tribute, which is payment
+for raising and dressing the ore, by means of a certain part of
+its value when rendered merchantable. It is this mode of payment
+which produces such admirable effects. The miners, who are to be
+paid in proportion to the richness of the vein, and the quantity
+of metal extracted from it, naturally become quicksighted in the
+discovery of ore, and in estimating its value; and it is their
+interest to avail themselves of every improvement that can bring
+it more cheaply to market. 3. Dressing. The 'Tributors', who dig
+and dress the ore, can seldom afford to dress the coarser parts
+of what they raise, at their contract price; this portion,
+therefore, is again let out to other persons, who agree to dress
+it at an advanced price.
+The lots of ore to be dressed, and the works to be carried
+on, having been marked out some days before, and having been
+examined by the men, a kind of auction is held by the captains of
+the mine, in which each lot is put up, and bid for by different
+gangs of men. The work is then offered, at a price usually below
+that bid at the auction, to the lowest bidder, who rarely
+declines it at the rate proposed. The tribute is a certain sum
+out of every twenty shillings' worth of ore raised, and may vary
+from threepence to fourteen or fifteen shillings. The rate of
+earnings in tribute is very uncertain: if a vein, which was poor
+when taken, becomes rich, the men earn money rapidly; and
+instances have occurred in which each miner of a gang has gained
+a hundred pounds in the two months. These extraordinary cases,
+are, perhaps, of more advantage to the owners of the mine than
+even to the men; for whilst the skill and industry of the workmen
+are greatly stimulated, the owner himself always derives still
+greater advantage from the improvement of the vein.(1*) This
+system has been introduced, by Mr Taylor, into the lead mines of
+Flintshire, into those at Skipton in Yorkshire, and into some of
+the copper mines of Cumberland; and it is desirable that it
+should become general, because no other mode of payment affords
+to the workmen a measure of success so directly proportioned to
+the industry, the integrity, and the talent, which they exert.
+308. I shall now present the outline of a system which
+appears to me to be pregnant with the most important results,
+both to the class of workmen and to the country at large; and
+which, if acted upon, would, in my opinion, permanently raise the
+working classes, and greatly extend the manufacturing system.
+The general principles on which the proposed system is
+founded, are
+1. That a considerable part of the wages received by each
+person employed should depend on the profits made by the
+establishment; and,
+2. That every person connected with it should derive more
+advantage from applying any improvement he might discover, to the
+factory in which he is employed, than he could by any other
+course.
+309. It would be difficult to prevail on the large capitalist
+to enter upon any system, which would change the division of the
+profits arising from the employment of his capital in setting
+skill and labour in action; any alteration, therefore, must be
+expected rather from the small capitalist, or from the higher
+class of workmen, who combine the two characters; and to these
+latter classes, whose welfare will be first affected, the change
+is most important. I shall therefore first point out the course
+to be pursued in making the experiment; and then, taking a
+particular branch of trade as an illustration, I shall examine
+the merits and defects of the proposed system as applied to it.
+310. Let us suppose, in some large manufacturing town, ten or
+twelve of the most intelligent and skilful workmen to unite,
+whose characters for sobriety and steadiness are good, and are
+well known among their own class. Such persons will each possess
+some small portion of capital; and let them join with one or two
+others who have raised themselves into the class of small master
+manufacturers, and, therefore possess rather a larger portion of
+capital. Let these persons, after well considering the subject,
+agree to establish a manufactory of fire-irons and fenders; and
+let us suppose that each of the ten workmen can command forty
+pounds, and each of the small capitalists possesses two hundred
+pounds: thus they have a capital of L800 with which to commence
+business; and, for the sake of simplifying, let us further
+suppose the labour of each of these twelve persons to be worth
+two pounds a week. One portion of their capital will be expended
+in procuring the tools necessary for their trade, which we shall
+take at L400, and this must be considered as their fixed capital.
+The remaining L400 must be employed as circulating capital, in
+purchasing the iron with which their articles are made, in paying
+the rent of their workshops, and in supporting themselves and
+their families until some portion of it is replaced by the sale
+of the goods produced.
+311. Now the first question to be settled is, what proportion
+of the profit should be allowed for the use of capital, and what
+for skill and labour? It does not seem possible to decide this
+question by any abstract reasoning: if the capital supplied by
+each partner is equal, all difficulty will be removed; if
+otherwise, the proportion must be left to find its level, and
+will be discovered by experience; and it is probable that it will
+not fluctuate much. Let us suppose it to be agreed that the
+capital of L800 shall receive the wages of one workman. At the
+end of each week every workman is to receive one pound as wages,
+and one pound is to be divided amongst the owners of the capital.
+After a few weeks the returns will begin to come in; and they
+will soon become nearly uniform. Accurate accounts should be kept
+of every expense and of all the sales; and at the end of each
+week the profit should be divided. A certain portion should be
+laid aside as a reserved fund, another portion for repair of the
+tools, and the remainder being divided into thirteen parts, one
+of these parts would be divided amongst the capitalists and one
+belong to each workman. Thus each man would, in ordinary
+circumstances, make up his usual wages of two pounds weekly. If
+the factory went on prosperously, the wages of the men would
+increase; if the sales fell off they would be diminished. It is
+important that every person employed in the establishment,
+whatever might be the amount paid for his services, whether he
+act as labourer or porter, as the clerk who keeps the accounts,
+or as bookkeeper employed for a few hours once a week to
+superintend them, should receive one half of what his service is
+worth in fixed salary, the other part varying with the success of
+the undertaking.
+312. In such a factory, of course, division of labour would
+be introduced: some of the workmen would be constantly employed
+in forging the fire-irons, others in polishing them, others in
+piercing and forming the fenders. It would be essential that the
+time occupied in each process, and also its expense, should be
+well ascertained; information which would soon be obtained very
+precisely. Now, if a workman should find a mode of shortening any
+of the processes, he would confer a benefit on the whole party,
+even if they received but a small part of the resulting profit.
+For the promotion of such discoveries, it would be desirable that
+those who make them should either receive some reward, to be
+determined after a sufficient trial by a committee assembling
+periodically; or if they be of high importance, that the
+discoverer should receive one-half, or twothirds, of the profit
+resulting from them during the next year, or some other
+determinate period, as might be found expedient. As the
+advantages of such improvements would be clear gain to the
+factory, it is obvious that such a share might be allowed to the
+inventor, that it would be for his interest rather to give the
+benefit of them to his partners, than to dispose of them in any
+other way.
+313. The result of such arrangements in a factory would be,
+1. That every person engaged in it would have a direct
+interest in its prosperity; since the effect of any success, or
+falling off, would almost immediately produce a corresponding
+change in his own weekly receipts.
+2. Every person concerned in the factory would have an
+immediate interest in preventing any waste or mismanagement in
+all the departments.
+3. The talents of all connected with it would be strongly
+directed to its improvement in every department.
+4. None but workmen of high character and qualifications
+could obtain admission into such establishments; because when any
+additional hands were required, it would be the common interest
+of all to admit only the most respectable and skilful; and it
+would be far less easy to impose upon a dozen workmen than upon
+the single proprietor of a factory.
+5. When any circumstance produced a glut in the market, more
+skill would be directed to diminishing the cost of production;
+and a portion of the time of the men might then be occupied in
+repairing and improving their tools, for which a reserved fund
+would pay, thus checking present, and at the same time
+facilitating future production.
+6. Another advantage, of no small importance, would be the
+total removal of all real or imaginary causes for combinations.
+The workmen and the capitalist would so shade into each other—
+would so evidently have a common interest, and their difficulties
+and distresses would be mutually so well understood that, instead
+of combining to oppress one another, the only combination which
+could exist would be a most powerful union between both parties
+to overcome their common difficulties.
+314. One of the difficulties attending such a system is, that
+capitalists would at first fear to embark in it, imagining that
+the workmen would receive too large a share of the profits: and
+it is quite true that the workmen would have a larger share than
+at present: but, at the same time, it is presumed the effect of
+the whole system would be, that the total profits of the
+establishment being much increased, the smaller proportion
+allowed to capital under this system would yet be greater in
+actual amount, than that which results to it from the larger
+share in the system now existing.
+315. It is possible that the present laws relating to
+partnerships might interfere with factories so conducted. If this
+interference could not be obviated by confining their purchases
+under the proposed system to ready money, it would be desirable
+to consider what changes in the law would be necessary to its
+existence: and this furnishes another reason for entering into
+the question of limited partnerships.
+316. A difficulty would occur also in discharging workmen who
+behaved ill, or who were not competent to their work; this would
+arise from their having a certain interest in the reserved fund,
+and, perhaps, from their possessing a certain portion of the
+capital employed; but without entering into detail, it may be
+observed, that such cases might be determined on by meetings of
+the whole establishment; and that if the policy of the laws
+favoured such establishments, it would scarcely be more difficult
+to enforce just regulations, than it now is to enforce some which
+are unjust, by means of combinations either amongst the masters
+or the men.
+317. Some approach to this system is already practised in
+several trades: the mode of conducting the Cornish mines has
+already been alluded to; the payment to the crew of whaling ships
+is governed by this principle; the profits arising from fishing
+with nets on the south coast of England are thus divided:
+one-half the produce belongs to the owner of the boat and net;
+the other half is divided in equal portions between the persons
+using it, who are also bound to assist in repairing the net when
+injured.
+NOTES:
+1. For a detailed account of the method of working the Cornish
+mines, see a paper of Mr John Taylor's Transactions of the
+Geological Society, vol. ii, p. 309.</div></body></text></TEI>

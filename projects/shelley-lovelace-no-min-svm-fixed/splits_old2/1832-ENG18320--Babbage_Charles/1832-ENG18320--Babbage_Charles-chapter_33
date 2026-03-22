@@ -1,0 +1,691 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Economy of Machinery and Manufactures</title><author>Babbage, Charles (1791-1871)</author></titleStmt><publicationStmt><publisher>Charles Knight</publisher><pubPlace>London</pubPlace><date>1832</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="33">Chapter 33
+On the Effect of Taxes and of Legal Restrictions upon
+
+Manufactures
+
+414. As soon as a tax is put upon any article, the ingenuity
+of those who make, and of those who use it, is directed to the
+means of evading as large a part of the tax as they can; and this
+may often be accomplished in ways which are perfectly fair and
+legal. An excise duty exists at present of 3d.(1*) per pound upon
+all writing paper. The effect of this impost is, that much of the
+paper which is employed, is made extremely thin, in order that
+the weight of a given number of sheets may be as small as
+possible. Soon after the first imposition of the tax upon
+windows, which depended upon their number, and not upon their
+size, new-built houses began to have fewer windows and those of
+larger dimensions than before. Staircases were lighted by
+extremely long windows, illuminating three or four flights of
+stairs. When the tax was increased, and the size of windows
+charged as single was limited, then still greater care was taken
+to have as few windows as possible, and internal lights became
+frequent. These internal lights in their turn became the subject
+of taxation; but it was easy to evade the discovery of them, and
+in the last Act of Parliament reducing the assessed taxes, they
+ceased to be chargeable. From the changes thus successively
+introduced in the number the forms, and the positions of the
+windows, a tolerable conjecture might, in some instances, be
+formed of the age of a house.
+415. A tax on windows is exposed to objection on the double
+ground of its excluding air and light, and it is on both accounts
+injurious to health. The importance of light to the enjoyment of
+health is not perhaps sufficiently appreciated: in the cold and
+more variable climates, it is of still greater importance than in
+warmer countries.
+416. The effects of regulations of excise upon our home
+manufactures are often productive of great inconvenience; and
+check, materially, the natural progress of improvement. It is
+frequently necessary, for the purposes of revenue, to oblige
+manufacturers to take out a license, and to compel them to work
+according to certain rules, and to make certain stated quantities
+at each operation. When these quantities are large, as in general
+they are, they deter manufacturers from making experiments, and
+thus impede improvements both in the mode of conducting the
+processes and in the introduction of new materials. Difficulties
+of this nature have occurred in experimenting upon glass for
+optical purposes; but in this case, permission has been obtained
+by fit persons to make experiments, without the interference of
+the excise. It ought, however, to be remembered, that such
+permission, if frequently or indiscriminately granted, might be
+abused: the greatest protection against such an abuse will be
+found, in bringing the force of public opinion to bear upon
+scientific men and thus enabling the proper authorities, although
+themselves but moderately conversant with science, to judge of
+the propriety of the permission, from the public character of the
+applicant.
+417. From the evidence given, in 1808, before the Committee
+of the House of Commons, On Distillation from Sugar and Molasses,
+it appeared that, by a different mode of working from that
+prescribed by the Excise, the spirits from a given weight of
+corn, which then produced eighteen gallons, might easily have
+been increased to twenty gallons. Nothing more is required for
+this purpose, than to make what is called the wash weaker, the
+consequence of which is, that fermentation goes on to a greater
+extent. It was stated, however, that such a deviation would
+render the collection of the duty liable to great difficulties;
+and that it would not benefit the distiller much, since his price
+was enhanced to the customer by any increase of expense in the
+fabrication. Here then is a case in which a quantity, amounting
+to one-ninth of the total produce, is actually lost to the
+country. A similar effect arises in the coal trade, from the
+effect of a duty, for, according to the evidence before the
+House of Commons, it appears that a considerable quantity of the
+very best coal is actually wasted. The extent of this waste is
+very various in different mines; but in some cases it amounts to
+one-third.
+418. The effects of duties upon the import of foreign
+manufactures are equally curious. A singular instance occurred in
+the United States, where bar-iron was, on its introduction.
+liable to a duty of 140 per cent ad valorem, whilst hardware was
+charged at 25 per cent only. In consequence of this tax, large
+quantities of malleable iron rails for railroads were imported
+into America under the denomination of hardware; the difference
+of 115 per cent in duty more than counter balancing the expense
+of fashioning the iron into rails prior to its importation.
+419. Duties, drawbacks, and bounties, when considerable in
+amount, are all liable to objections of a very serious nature,
+from the frauds to which they give rise. It has been stated
+before Committees of the House of Commons, that calicoes made up
+in the form, and with the appearance of linen, have frequently
+been exported for the purpose of obtaining the bounty, for
+calico made up in this way sells only at 1s. 4d. per yard,
+whereas linen of equal fineness is worth from 2s. 8d. to 2s. 10d.
+per yard. It appeared from the evidence, that one house in six
+months sold five hundred such pieces of calico.
+In almost all cases heavy duties, or prohibitions, are
+ineffective as well as injurious; for unless the articles
+excluded are of very large dimensions, there constantly arises a
+price at which they will be clandestinely imported by the
+smuggler. The extent, therefore, to which smuggling can be
+carried, should always be considered in the imposition of new
+duties, or in the alteration of old ones. Unfortunately it has
+been pushed so far, and is so systematically conducted between
+this country and France, that the price per cent at which most
+contraband articles can be procured is perfectly well known. From
+the evidence of Mr Galloway, it appears that, from 30 to 40 per
+cent was the rate of insurance on exporting prohibited machinery
+from England, and that the larger the quantity the less was the
+percentage demanded. From evidence given in the Report of the
+Watch and Clock-makers' Committee, in 1817, it appears that
+persons were constantly in the habit of receiving in France
+watches, lace, silks, and other articles of value easily
+portable, and delivering them in England at ten per cent on their
+estimated worth, in which sum the cost of transport and the risk
+of smuggling were included.
+420. The process employed in manufacturing often depends upon
+the mode in which a tax is levied on the materials, or on the
+article produced. W atch glasses are made in England by workmen
+who purchase from the glass house globes of five or six inches in
+diameter, out of which, by means of a piece of red-hot tobacco
+pipe, guided round a pattern watch glass placed on the globe,
+they crack five others: these are afterwards ground and smoothed
+on the edges. In the Tyrol the rough watch glasses are supplied
+at once from the glass house; the workman, applying a thick ring
+of cold glass to each globe as soon as it is blown, causes a
+piece, of the size of a watch glass, to be cracked out. The
+remaining portion of the globe is immediately broken, and returns
+to the melting pot. This process could not be adopted in England
+with the same economy, because the whole of the glass taken out
+of the pot is subject to the excise duty.
+421. The objections thus stated as incidental to particular
+modes of taxation are not raised with a view to the removal of
+those particular taxes; their fitness or unfitness must be
+decided by a much wider enquiry, into which it is not the object
+of this volume to enter. Taxes are essential for the security
+both of liberty and property, and the evils which have been
+mentioned may be the least amongst those which might have been
+chosen. It is, however, important that the various effects of
+every tax should be studied, and that those should be adopted
+which, upon the whole, are found to give the least check to the
+productive industry of the country.
+422. In enquiring into the effect produced, or to be
+apprehended from any particular mode of taxation, it is necessary
+to examine a little into the interests of the parties who approve
+of the plan in question, as well as of those who object to it.
+Instances have occurred where the persons paying a tax into the
+hands of government have themselves been adverse to any
+reduction. This happened in the case of one class of
+calico-printers, whose interest really was injured by a removal
+of the tax on the printing: they received from the manufacturers,
+payment for the duty, about two months before they were
+themselves called on to pay it to government; and the consequence
+was, that a considerable capital always remained in their hands.
+The evidence which states this circumstance is well calculated to
+promote a reasonable circumspection in such enquiries.
+Question. Do you happen to know anything of an opposition
+from calico printers to the repeal of the tax on printed calicoes?
+Answer. I have certainly heard of such an opposition, and am
+not surprised at it. There are very few individuals who are, in
+fact, interested in the nonrepeal of the tax; there are two
+classes of calico-printers; one, who print their own cloth, send
+their goods into the market, and sell them on their own account;
+they frequently advance the duty to government, and pay it in
+cash before their goods are sold, but generally before the goods
+are paid for, being most commonly sold on a credit of six months:
+they are of course interested on that account, as well as on
+others that have been stated, in the repeal of the tax. The other
+class of calico-printers print the cloth of other people; they
+print for hire, and on re-delivery of the cloth when printed,
+they receive the amount of the duty, which they are not called
+upon to pay to government sooner, on an average, than nine weeks
+from the stamping of the goods. Where the business is carried on
+upon a large scale, the arrears of duty due to government often
+amount to eight, or even ten thousand pounds, and furnish a
+capital with which these gentlemen carry on their business; it is
+not, therefore, to be wondered at that they should be opposed to
+the prayer of our petition.
+423. The policy of giving bounties upon home productions, and
+of enforcing restrictions against those which can be produced
+more cheaply in other countries, is of a very questionable
+nature: and, except for the purpose of introducing a new
+manufacture, in a country where there is not much commercial or
+manufacturing spirit, is scarcely to be defended. All incidental
+modes of taxing one class of the community, the consumers, to an
+unknown extent, for the sake of supporting another class, the
+manufacturers, who would otherwise abandon that mode of employing
+their capital, are highly objectionable. One part of the price of
+any article produced under such circumstances, consists of the
+expenditure, together with the ordinary profits of capital: the
+other part of its price may be looked upon as charity, given to
+induce the manufacturer to continue an unprofitable use of his
+capital, in order to give employment to his workmen. If the sum
+of what the consumers are thus forced to pay, merely on account
+of these artificial restrictions, where generally known, its
+amount would astonish even those who advocate them; and it would
+be evident to both parties, that the employment of capital in
+those branches of trade ought to be abandoned.
+424. The restriction of articles produced in a manufactory to
+certain sizes, is attended with some good effect in an economical
+view, arising chiefly from the smaller number of different tools
+required in making them, as well as from less frequent change in
+the adjustment of those tools. A similar source of economy is
+employed in the Navy: by having ships divided into a certain
+number of classes, each of which comprises vessels of the same
+dimensions, the rigging made for one vessel will fit any other of
+its class; a circumstance which renders the supply of distant
+stations more easy.
+425. The effects of the removal of a monopoly are often very
+important, and they were perhaps never more remarkable than in
+the bobbin net trade, in the years 1824 and 1825. These effects
+were, however, considerably enhanced by the general rage for
+speculation which was so prevalent during that singular period.
+One of the patents of Mr Heathcote for a bobbin net machine had
+just then expired, whilst another, for an improvement in a
+particular part of such machines, called a turn again, had yet a
+few years to run. Many licenses had been granted to use the
+former patent, which were charged at the rate of about five
+pounds per annum for each quarter of a yard in width, so that
+what is termed a six-quarter frame (which makes bobbin net a yard
+and a half wide) paid thirty pounds a year. The second patent was
+ultimately abandoned in August, 1823, infringements of it having
+taken place.
+It was not surprising that, on the removal of the monopoly
+arising from this patent, a multitude of persons became desirous
+of embarking in a trade which had hitherto yielded a very large
+profit. The bobbin net machine occupies little space; and is,
+from that circumstance, well adapted for a domestic manufacture.
+The machines which already existed, were principally in the hands
+of the manufacturers; but, a kind of mania for obtaining them
+seized on persons of all descriptions, who could raise a small
+capital; and, under its influence, butchers, bakers, small
+farmers, publicans, gentlemen's servants, and, in some cases,
+even clergymen, became anxious to possess bobbin net machines.
+Some few machines were rented; but, in most of these cases,
+the workman purchased the machine he employed, by instalments of
+from L3 to L6 weekly, for a six quarter machine; and many
+individuals, unacquainted with the mode of using the machines so
+purchased, paid others of more experience for instructing them in
+their use; L50 or L60 being sometimes given for this instruction.
+The success of the first speculators induced others to follow the
+example; and the machine-makers were almost overwhelmed with
+orders for lace frames. Such was the desire to procure them, that
+many persons deposited a large part, or the whole, of the price,
+in the hands of the frame-makers, in order to insure their having
+the earliest supply. This, as might naturally be expected, raised
+the price of wages amongst the workmen employed in
+machine-making; and the effect was felt at a considerable
+distance from Nottingham, which was the centre of this mania.
+Smiths not used to flat filing, coming from distant parts, earned
+from 30s. to 42s. per week. Finishing smiths, accustomed to the
+work, gained from L3 to L4 per week..The forging smith, if
+accustomed to his work, gained from L5 to L6 per week, and some
+few earned L10 per week. In making what are technically called
+insides, those who were best paid, were generally clock- and
+watchmakers, from all the districts round, who received from L3
+to L4 per week. The setters-up—persons who put the parts of the
+machine together—charged L20 for their assistance; and, a six
+quarter machine, could be put together in a fortnight or three
+weeks.
+426. Good workmen, being thus induced to desert less
+profitable branches of their business, in order to supply this
+extraordinary demand, the masters, in other trades, soon found
+their men leaving them, without being aware of the immediate
+reason: some of the more intelligent, however, ascertained the
+cause. They went from Birmingham to Nottingham, in order to
+examine into the circumstances which had seduced almost all the
+journeymen clockmakers from their own workshops; and it was soon
+apparent, that the men who had been working as clockmakers in
+Birmingham, at the rate of 25s. a week, could earn L2 by working
+at lace frame-making in Nottingham.
+On examining the nature of this profitable work, the master
+clockmakers perceived that one part of the bobbin net machines,
+that which held the bobbins, could easily be made in their own
+workshops. They therefore contracted with the machine-makers, who
+had already more work ordered than they could execute, to supply
+the bobbin carriers, at a price which enabled them, on their
+return home, to give such increased wages as were sufficient to
+retain their own workmen, as well as yield themselves a good
+profit. Thus an additional facility was afforded for the
+construction of these bobbin net machines: and the conclusion was
+not difficult to be foreseen. The immense supply of bobbin net
+thus poured into the market, speedily reduced its price; this
+reduction in price, rendered the machines by which the net was
+made, less valuable; some few of the earliest producers, for a
+short time, carried on a profitable trade; but multitudes were
+disappointed, and many ruined. The low price at which the fabric
+sold, together with its lightness and beauty, combined to extend
+the sale; and ultimately, new improvements in the machines,
+rendered the older ones still less valuable.
+427. The bobbin net trade is, at present, both extensive and
+increasing; and, as it may, probably, claim a larger portion of
+public attention at some future time, it will be interesting to
+describe briefly its actual state.
+A lace frame on the most improved principle, at the present
+day, manufacturing a piece of net two yards wide, when worked
+night and day, will produce six hundred and twenty racks per
+week. A rack is two hundred and forty holes; and as in the
+machine to which we refer, three racks are equal in length to one
+yard, it will produce 21,493 square yards of bobbin net annually.
+Three men keep this machine constantly working; and, they were
+paid (by piece-work) about 25s. each per week, in 1830. Two boys,
+working only in the day-time, can prepare the bobbins for this
+machine, and are paid from 2s. to 4s. per week, according to
+their skill. Forty-six square yards of this net weigh two pounds
+three ounces; so that each square yard weighs a little more than
+three-quarters of an ounce.
+428. For a condensed and general view of the present state of
+this trade, we shall avail ourselves of a statement by Mr William
+Felkin, of Nottingham, dated September, 1831, and entitled Facts
+and Calculations illustrative of the Present State of the Bobbin
+Net Trade. It appears to have been collected with care, and
+contains, in a single sheet of paper, a body of facts of the
+greatest importance. *
+429. The total capital employed in the factories, for
+preparing the cotton, in those for weaving the bobbin net, and in
+various processes to which it is subject, is estimated at above
+L2,000,000, and the number of persons who receive wages, at above
+two hundred thousand.
+ Comparison of the value of the raw material imported, with the
+value of the goods manufactured therefrom
+Amount of Sea Island cotton annually used 1,600,000 lbs., value
+L120,000; this is manufactured into yarn, weighing 1,000,000
+lbs., value L500,000.
+There is also used 25,000 lbs. of raw silk, which costs
+
+L30,000, and is doubled into 10,000 lbs. thrown, worth L40,000.
+
+Raw Material; Manufacture; Square yards produced; Value per sq.
+yd.(s. d.); Total value (L)
+Cotton 1,600,000; lbs; Power Net;  6,750,000; 1 3; 421,875
+
+                       Hand ditto; 15,750,000; 1 9; 1,378,125
+
+                       Fancy ditto; 150,000; 3 6; 26,250
+
+Silk, 25,000 lbs;     Silk Goods; 750,000; 1 9; 65,625
+
+                                 23,400,000; 1,891,875
+* I cannot omit the opportunity of expressing my hope that this
+example will be followed in other trades. We should thus obtain a
+body of information equally important to the workman, the
+capitalist, the philosopher, and the statesman.
+The brown nets which are sold in the Nottingham market are
+in part disposed of by the agents of twelve or fifteen of the
+larger makers, i.e. to the amount of about L250,000 a year. The
+principal part of the remainder, i.e. about L1,050,000 a year, is
+sold by about two hundred agents, who take the goods from one
+warehouse to another for sale.
+Of this production, about half is exported in the
+unembroidered state. The exports of bobbin net are in great part
+to Hamburgh, for sale at home and at Leipzic and Frankfort fairs.
+Antwerp, and the rest of Belgium; to France, by contraband; to
+Italy, and North and South America. Though a very suitable
+article, yet the quantity sent eastward of the Cape of Good Hope,
+has hitherto been too trifling for notice. Three-eighths of the
+whole production are sold unembroidered at home. The remaining
+one-eighth is embroidered in this country, and increases the
+ultimate value as under, viz.
+ Embroidery     Increases value     Ultimate worth
+
+                    L                      L
+
+ On power net     131,840               553,715
+
+ On hand net    1,205,860             2,583.985
+
+ On fancy net      78,750               105,000
+
+ On silk net      109,375               175,000
+
+ Total embroidery, wages and profits 1,525,825
+
+ Ultimate total value 3,417,700
+
+From this it appears, that in the operations of this trade,
+which had no existence twenty years ago, L120,000 original cost
+of cotton becomes, when manufactured, of the ultimate value of
+L3,242,700 sterling.
+As to weekly wages paid, I hazard the following as the
+judgement of those conversant with the respective branches, viz.
+In fine spinning and doubling, adults 25s.; children 7s.:
+work twelve hours per day.
+In bobbin net making; men working machines, 18s.;
+apprentices, youths of fifteen or more, 10s.; by power, fifteen
+hours; by hand, eight to twelve hours, according to width.
+In mending; children 4s.; women 8s.; work nine to fourteen
+hours ad libitum.
+In winding, threading, etc., children and young women, 5s.:
+irregular work, according to the progress of machines.
+In embroidery; children seven years old and upwards, 1s. to
+3s.; work ten to twelve hours; women, if regularly at work, 5s.
+to 7s. 6d.; twelve to fourteen hours.
+As an example of the effect of the wages of lace embroidery,
+etc., it may be observed, it is often the case that a stocking
+weaver in a country village will earn only 7s. a week, and his
+wife and children 7s. to 14s. more at the embroidery frame.
+430. The principal part of the hand-machines employed in the
+bobbin net manufacture are worked in shops, forming part of, or
+attached to, private houses. The subjoined list will show the
+kinds of machinery employed, and classes of persons to whom it
+belongs.
+ Bobbin net machinery now at work in the Kingdom
+ Hand levers 6 quarter 500      Hand circulars 6 quarter 100
+
+             7 quarter 200                     7 quarter 300
+
+             8 quarter 300                     8 quarter 400
+
+            10 quarter 300                     9 quarter 100
+
+            12 quarter  30                    10 quarter 300
+
+            16 quarter  20                    12 quarter 100
+
+            20 quarter   1   Hand transverse, pusher,
+
+ Hand rotary 10 quarter 50  straight bolt, etc. averaging 5
+
+quarters 750
+
+             12 quarter 50
+
+                      2050                               1451
+
+ Total hand machines 3501
+ Power     6 quarter 100
+
+           7 quarter  40
+
+           8 quarter 350
+
+          10 quarter 270
+
+          12 quarter 220
+
+          16 quarter  20
+
+Total power machines 1000
+
+Total number of machines 4501
+ 700 persons own 1 machine, 700 machines.
+
+ 226             2          452
+
+ 181             3          543
+
+  96             4          384
+
+  40             5          200
+
+  21             6          126
+
+  17             7          119
+
+  19             8          152
+
+  17             9          153
+
+  12            10          120
+
+   8            11           88
+
+   6            12           72
+
+   5            13           65
+
+   5            14           70
+
+   4            16           64
+
+  25 own respectively 18,
+
+            19,  20,  21,
+
+            23,  24,  25,
+
+            26,  27,  28,
+
+            29,  30,  32,
+
+            33,  35,  36,
+
+            37,  50,  60,
+
+            68,  70,  75,
+
+            95, 105, 206
+
+                            1192
+
+Number of owners of machines—1382 Holding together 4500
+machines.
+The hand workmen consist of the above-named owners 1000
+And of journeymen and apprentices        4000
+                                         5000
+ These machines are distributed as follows
+
+ Nottingham 1240
+
+ New Radford 140
+
+ Old Radford and Bloomsgrove 240
+
+ Ison Green 160
+
+ Beeston and Chilwell 130
+
+ New and Old Snenton 180
+
+ Derby and its vicinity 185
+
+ Loughborough and its vicinity 385
+
+ Leicester 95
+
+ Mansfield 85
+
+ Tiverton 220
+
+ Barnstable l80
+
+ Chard 190
+
+ Isle of Wight 80
+
+ In sundry other places 990
+
+                     4500
+Of the above owners, one thousand work in their own machines,
+and enter into the class of journeymen as well as that of masters
+in operating on the rate of wages. If they reduce the price of
+their goods in the market, they reduce their own wages first;
+and, of course, eventually the rate of wages throughout the
+trade. It is a very lamentable fact, that one-half, or more, of
+the one thousand one hundred persons specified in the list as
+owning one, two, and three machines, have been compelled to
+mortgage their machines for more than their worth in the market,
+and are in many cases totally insolvent. Their machines are
+principally narrow and making short pieces, while the absurd
+system of bleaching at so much a piece goods of all lengths and
+widths, and dressing at so much all widths, has caused the new
+machines to be all wide, and capable of producing long pieces; of
+course to the serious disadvantage, if not utter ruin, of the
+small owner of narrow machines.
+It has been observed above, that wages have been reduced, say
+25 per cent in the last two years, or from 24s. to 18s. a week.
+Machines have increased in the same time one-eighth in number, or
+from four thousand to four thousand five hundred, and one-sixth
+in capacity of production. It is deserving the serious notice of
+all proprietors of existing machines, that machines are now
+introducing into the trade of such power of production as must
+still more than ever depreciate (in the absence of an immensely
+increased demand) the value of their property.
+431. From this abstract, we may form some judgement of the
+importance of the bobbin net trade. But the extent to which it
+bids fair to be carried in future, when the eastern markets shall
+be more open to our industry, may be conjectured from the fact
+which Mr Felkin subsequently states that 'We can export a durable
+and elegant article in cotton bobbin net, at 4d. per square yard,
+proper for certain useful and ornamental purposes, as curtains,
+etc.; and another article used for many purposes in female dress
+at 6d. the square yard.'
+432. Of patents. In order to encourage the invention, the
+improvement, or the importation of machines, and of discoveries
+relating to manufactures, it has been the practice in many
+countries, to grant to the inventors or first introducers, an
+exclusive privilege for a term of years. Such monopolies are
+termed patents; and they are granted, on the payment of certain
+fees, for different periods, from five to twenty years.
+The following table, compiled from the Report of the
+Committee of the House of Commons on Patents, 1829, shows the
+expense and duration of patents in various countries:
+Countries; Expense (L s. d.); Term of years; Number granted in
+six years, ending in 1826.(Rep. p. 243.)
+England; 120 0 0; 14; 914
+
+Ireland; 125 0 0; 14;
+
+Scotland; 100 0 0; 14;
+
+America; 6 15 0; 14;
+
+France; 12 0 0; 5;
+
+        32 0 0; 10;
+
+        60 0 0; 15; 1091
+
+Netherlands; L6 to L30; 5, 10. 15
+
+Austria; 42 10 0; 15; 1099
+
+Spain(3*) Inventor; 20 9 4; 15;
+
+          Improver; 12 5 7; 10;
+
+          Importer; 10 4 8;  6;
+
+433. It is clearly of importance to preserve to each inventor
+the sole use of his invention, until he shall have been amply
+repaid for the risk and expense to which he has been exposed, as
+well as for the talent he has exerted in completing it. But, the
+degrees of merit are so various, and the difficulties of
+legislating upon the subject so great, that it has been found
+almost impossible to frame a law which shall not, practically, be
+open to the most serious objections.
+The difficulty of defending an English patent in any judicial
+trial, is very great; and the number of instances on record in
+which the defence has succeeded, are comparatively few. This
+circumstance has induced some manufacturers, no longer to regard
+a patent as a privilege by which a monopoly price may be secured:
+but they sell the patent article at such a price, as will merely
+produce the ordinary profits of capital; and thus secure to
+themselves the fabrication of it, because no competitors can
+derive a profit from invading a patent so exercised.
+434. The law of copyright, is, in some measure, allied to
+that of patents; and it is curious to observe, that those species
+of property which require the highest talent, and the greatest
+cultivation—which are, more than any other, the pure creations
+of mind—should have been the latest to be recognized by the
+State. Fortunately, the means of deciding on an infringement of
+property in regard to a literary production, are not verv
+difficult; but the present laws are, in some cases, productive of
+considerable hardship, as well as of impediment to the
+advancement of knowledge.
+435. Whilst discussing the general expediency of limitations
+and restrictions, it may be desirable to point out one which
+seems to promise advantage, though by no means free from grave
+objections. The question of permitting by law, the existence of
+partnerships in which the responsibility of one or more of the
+partners is limited in amount, is peculiarly important in a
+manufacturing, as well as a commercial point of view. In the
+former light, it appears calculated to aid that division of
+labour, which we have already proved to be as advantageous in
+mental as it is in bodily operations; and it might possibly give
+rise to a more advantageous distribution of talent, and its
+combinations, than at present exists. There are in this country,
+many persons possessed of moderate capital, who do not
+themselves enjoy the power of invention in the mechanical and
+chemical arts, but who are tolerable judges of such inventions,
+and excellent judges of human character. Such persons might, with
+great success, employ themselves in finding out inventive
+workmen, whose want of capital prevents them from realizing their
+projects. If they could enter into a limited partnership with
+persons so circumstanced, they might restrain within proper
+bounds the imagination of the inventor, and by supplying capital
+to judicious schemes, render a service to the country, and secure
+a profit for themselves.
+436. Amongst the restrictions intended for the general
+benefit of our manufacturers, there existed a few years ago one
+by which workmen were forbidden to go out of the country. A law
+so completely at variance with everv principle of liberty, ought
+never to have been enacted. It was not, however, until experience
+had convinced the legislature of its inefficiency, that it was
+repealed. * When, after the last war, the renewed intercourse
+between England and the Continent became extensive, it was soon
+found that it was impossible to discover the various disguises
+which the workmen could assume; and the effect of the law was
+rather, by the fear of punishment, to deter those who had left
+the country from returning, than to check their disposition to
+migrate.
+436. (4*) The principle, that government Ought to interfere
+as little as possible between workmen and their employers, is so
+well established, that it is important to guard against its
+misapplication. It is not inconsistent with this principle to
+insist on the workmen being paid in money—for this is merely to
+protect them from being deceived; and still less is it a
+deviation from it to limit the number of hours during which
+children shall work in factories, or the age at which they shall
+commence that species of labour—for they are not free agents,
+nor are they capable of judging, if they were; and both policy
+and humanity concur in demanding for them some legislative
+protection. In both cases it is as right and politic to protect
+the weaker party from fraud or force, as it would be impolitic
+and unjust to interfere with the amount of the wages of either.
+NOTES:
+1. Twenty eight shillings per cwt for the finer, twenty one
+shillings per cwt for the coarser papers.
+2. I cannot omit the opportunity of expressing my hope that this
+example will be followed in other trades. We should thus obtain a
+body of information equally important to the workman, the
+capitalist, the philosopher, and the stateman.
+3. The expense of a patent in Spain is stated in the report to be
+respectively 2000, 1200 and 1000 reals. If these are reals of
+vellon, in which accounts are usually kept at Madrid, the above
+sums are correct; but if they are reals of plate, the above sums
+ought to be nearly doubled.
+4. In the year 1824 the law against workmen going abroad, as well
+as the laws preventing them from combining, were repealed, after
+the fullest enquiry by a Committee of the House of Commons. In
+1825 an attempt to re-enact some of the most objectionable was
+made, but it failed.</div></body></text></TEI>

@@ -1,0 +1,156 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Connexion of the Physical Sciences</title><author>Mary Somerville</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1834</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="2">
+4
+SECTION I.
+
+Attraction of a Sphere—Form of Celestial Bodies—Terrestrial Gravitation
+retains the Moon in her Orbit—The Heavenly Bodies move in
+Conic Sections—Gravitation Proportional to Mass—Gravitation of
+the Particles of Matter—Figure of the Planets—How it affects the
+Motions of their Satellites—Rotation and Translation impressed by the
+same Impulse—Motion of the Sun and Solar System.
+It has been proved by Newton, that a particle of matter (N. 6)
+placed without the surface of a hollow sphere (N. 7) is attracted
+by it in the same manner as if the mass of the hollow sphere, or
+the whole matter it contains, were collected into one dense particle
+in its centre. The same is therefore true of a solid sphere, which
+may be supposed to consist of an infinite number of concentric
+hollow spheres (N. 8). This, however, is not the case with a
+spheroid (N. 9); but the celestial bodies are so nearly spherical,
+and at such remote distances from one another, that they attract
+and are attracted as if each were condensed into a single particle
+situate in its centre of gravity (N. 10)—a circumstance which
+greatly facilitates the investigation of their motions.
+Newton has shown that the force which retains the moon in
+her orbit is the same with that which causes heavy substances
+to fall at the surface of the earth. If the earth were a sphere, and
+at rest, a body would be equally attracted, that is, it would have
+the same weight at every point of its surface, because the surface
+of a sphere is everywhere equally distant from its centre. But,
+as our planet is flattened at the poles (N. 11), and bulges at the
+equator, the weight of the same body gradually decreases from
+the poles, where it is greatest, to the equator, where it is least.
+There is, however, a certain mean (N. 12) latitude (N. 13), or
+part of the earth intermediate between the pole and the equator,
+where the attraction of the earth on bodies at its surface is the
+same as if it were a sphere; and experience shows that bodies
+there fall through 16·0697 feet in a second. The mean distance
+(N. 14) of the moon from the earth is about sixty times the mean
+radius (N. 15) of the earth. When the number 16·0697 is diminished
+5in the ratio (N. 16) of 1 to 3600, which is the square
+of the moon’s distance (N. 17) from the earth’s centre, estimated
+in terrestrial radii, it is found to be exactly the space the moon
+would fall through in the first second of her descent to the earth,
+were she not prevented by the centrifugal force (N. 18) arising
+from the velocity with which she moves in her orbit. The moon
+is thus retained in her orbit by a force having the same origin,
+and regulated by the same law, with that which causes a stone
+to fall at the earth’s surface. The earth may, therefore, be regarded
+as the centre of a force which extends to the moon; and, as experience
+shows that the action and reaction of matter are equal and
+contrary (N. 19), the moon must attract the earth with an equal
+and contrary force.
+Newton also ascertained that a body projected (N. 20) in space
+(N. 21) will move in a conic section (N. 22), if attracted by a
+force proceeding from a fixed point, with an intensity inversely
+as the square of the distance (N. 23); but that any deviation
+from that law will cause it to move in a curve of a different
+nature. Kepler found, by direct observation, that the planets
+describe ellipses (N. 24), or oval paths, round the sun. Later
+observations show that comets also move in conic sections. It
+consequently follows that the sun attracts all the planets and
+comets inversely as the square of their distances from its centre;
+the sun, therefore, is the centre of a force extending indefinitely
+in space, and including all the bodies of the system in its action.
+Kepler also deduced from observation that the squares of the
+periodic times (N. 25) of the planets, or the times of their revolutions
+round the sun, are proportional to the cubes of their mean
+distances from its centre (N. 26). Hence the intensity of gravitation
+of all the bodies towards the sun is the same at equal
+distances. Consequently, gravitation is proportional to the masses
+(N. 27); for, if the planets and comets were at equal distances
+from the sun, and left to the effects of gravity, they would arrive
+at his surface at the same time (N. 28). The satellites also gravitate
+to their primaries (N. 29) according to the same law that
+their primaries do to the sun. Thus, by the law of action and
+reaction, each body is itself the centre of an attractive force extending
+indefinitely in space, causing all the mutual disturbances
+which render the celestial motions so complicated, and their investigation
+so difficult.
+6The gravitation of matter directed to a centre, and attracting
+directly as the mass and inversely as the square of the distance,
+does not belong to it when considered in mass only; particle acts
+on particle according to the same law when at sensible distances
+from each other. If the sun acted on the centre of the earth,
+without attracting each of its particles, the tides would be very
+much greater than they now are, and would also, in other respects,
+be very different. The gravitation of the earth to the sun results
+from the gravitation of all its particles, which, in their turn,
+attract the sun in the ratio of their respective masses. There is
+a reciprocal action likewise between the earth and every particle
+at its surface. The earth and a feather mutually attract each
+other in the proportion of the mass of the earth to the mass of the
+feather. Were this not the case, and were any portion of the
+earth, however small, to attract another portion, and not be itself
+attracted, the centre of gravity of the earth would be moved in
+space by this action, which is impossible.
+The forms of the planets result from the reciprocal attraction
+of their component particles. A detached fluid mass, if at rest,
+would assume the form of a sphere, from the reciprocal attraction
+of its particles. But if the mass revolve about an axis, it becomes
+flattened at the poles and bulges at the equator (N. 11), in consequence
+of the centrifugal force arising from the velocity of rotation
+(N. 30); for the centrifugal force diminishes the gravity of
+the particles at the equator, and equilibrium can only exist where
+these two forces are balanced by an increase of gravity. Therefore,
+as the attractive force is the same on all particles at equal
+distances from the centre of a sphere, the equatorial particles
+would recede from the centre, till their increase in number
+balance the centrifugal force by their attraction. Consequently,
+the sphere would become an oblate or flattened spheroid, and a
+fluid, partially or entirely covering a solid, as the ocean and
+atmosphere cover the earth, must assume that form in order to
+remain in equilibrio. The surface of the sea is, therefore, spheroidal,
+and the surface of the earth only deviates from that figure
+where it rises above or sinks below the level of the sea. But the
+deviation is so small, that it is unimportant when compared with
+the magnitude of the earth; for the mighty chain of the Andes,
+and the yet more lofty Himalaya, bear about the same proportion
+to the earth that a grain of sand does to a globe three feet in
+7diameter. Such is the form of the earth and planets. The compression
+(N. 31) or flattening at their poles is, however, so small,
+that even Jupiter, whose rotation is the most rapid, and therefore
+the most elliptical of the planets, may, from his great
+distance, be regarded as spherical. Although the planets attract
+each other as if they were spheres, on account of their distances,
+yet the satellites (N. 32) are near enough to be sensibly affected
+in their motions by the forms of their primaries. The moon, for
+example, is so near the earth, that the reciprocal attraction between
+each of her particles, and each of the particles in the prominent
+mass at the terrestrial equator, occasions considerable disturbances
+in the motions of both bodies; for the action of the moon on the
+matter at the earth’s equator produces a nutation (N. 33) in the
+axis (N. 34) of rotation, and the reaction of that matter on the
+moon is the cause of a corresponding nutation in the lunar orbit
+(N. 35).
+If a sphere at rest in space receive an impulse passing through
+its centre of gravity, all its parts will move with an equal velocity
+in a straight line; but, if the impulse does not pass through the
+centre of gravity, its particles, having unequal velocities, will have
+a rotatory or revolving motion, at the same time that it is translated
+(N. 36) in space. These motions are independent of one
+another; so that a contrary impulse, passing through its centre of
+gravity, will impede its progress, without interfering with its
+rotation. The sun rotates about an axis, and modern observations
+show that an impulse in a contrary direction has not been
+given to his centre of gravity, for he moves in space, accompanied
+by all those bodies which compose the solar system—a circumstance
+which in no way interferes with their relative motions;
+for, in consequence of the principle that force is proportional to
+velocity (N. 37), the reciprocal attractions of a system remain the
+same whether its centre of gravity be at rest, or moving uniformly
+in space. It is computed that, had the earth received
+its motion from a single impulse, that impulse must have passed
+through a point about twenty-five miles from its centre.
+Since the motions of rotation and translation of the planets are
+independent of each other, though probably communicated by
+the same impulse, they form separate subjects of investigation.</div></body></text></TEI>

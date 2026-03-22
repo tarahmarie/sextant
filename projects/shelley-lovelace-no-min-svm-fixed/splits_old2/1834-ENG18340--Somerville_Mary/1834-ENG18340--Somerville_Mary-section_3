@@ -1,0 +1,162 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Connexion of the Physical Sciences</title><author>Mary Somerville</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1834</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="3">
+8
+SECTION II.
+
+Elliptical Motion—Mean and True Motion—Equinoctial—Ecliptic—Equinoxes—Mean
+and True Longitude—Equation of Centre—Inclination
+of the Orbits of Planets—Celestial Latitude—Nodes—Elements
+of an Orbit—Undisturbed or Elliptical Orbits—Great Inclination
+of the Orbits of the New Planets—Universal Gravitation the
+Cause of Perturbations in the Motions of the Heavenly Bodies—Problem
+of the Three Bodies—Stability of Solar System depends upon the Primitive
+Momentum of the Bodies.
+A planet moves in its elliptical orbit with a velocity varying
+every instant, in consequence of two forces, one tending to the
+centre of the sun, and the other in the direction of a tangent
+(N. 38) to its orbit, arising from the primitive impulse given at
+the time when it was launched into space. Should the force in the
+tangent cease, the planet would fall to the sun by its gravity.
+Were the sun not to attract it, the planet would fly off in the
+tangent. Thus, when the planet is at the point of its orbit
+farthest from the sun, his action overcomes the planet’s velocity,
+and brings it towards him with such an accelerated motion, that
+at last it overcomes the sun’s attraction, and, shooting past him,
+gradually decreases in velocity until it arrives at the most distant
+point, where the sun’s attraction again prevails (N. 39). In this
+motion the radii vectores (N. 40), or imaginary lines joining the
+centres of the sun and the planets, pass over equal areas or spaces
+in equal times (N. 41).
+The mean distance of a planet from the sun is equal to half
+the major axis (N. 42) of its orbit: if, therefore, the planet described
+a circle (N. 43) round the sun at its mean distance, the
+motion would be uniform, and the periodic time unaltered, because
+the planet would arrive at the extremities of the major
+axis at the same instant, and would have the same velocity,
+whether it moved in the circular or elliptical orbit, since the
+curves coincide in these points. But in every other part the
+elliptical, or true motion (N. 44), would either be faster or
+9slower than the circular or mean motion (N. 45). As it is necessary
+to have some fixed point in the heavens from whence to
+estimate these motions, the vernal equinox (N. 46) at a given
+epoch has been chosen. The equinoctial, which is a great circle
+traced in the starry heavens by the imaginary extension of the
+plane of the terrestrial equator, is intersected by the ecliptic, or
+apparent path of the sun, in two points diametrically opposite to
+one another, called the vernal and autumnal equinoxes. The
+vernal equinox is the point through which the sun passes in
+going from the southern to the northern hemisphere; and the
+autumnal, that in which he crosses from the northern to the
+southern. The mean or circular motion of a body, estimated
+from the vernal equinox, is its mean longitude; and its elliptical,
+or true motion, reckoned from that point, is its true longitude
+(N. 47): both being estimated from west to east, the direction
+in which the bodies move. The difference between the two is
+called the equation of the centre (N. 48); which consequently
+vanishes at the apsides (N. 49), or extremities of the major axis,
+and is at its maximum ninety degrees (N. 50) distant from these
+points, or in quadratures (N. 51), where it measures the excentricity
+(N. 52) of the orbit; so that the place of the planet in
+its elliptical orbit is obtained by adding or subtracting the equation
+of the centre to or from its mean longitude.
+The orbits of the principal planets have a very small obliquity
+or inclination (N. 53) to the plane of the ecliptic in which the
+earth moves; and, on that account, astronomers refer their motions
+to this plane at a given epoch as a known and fixed position.
+The angular distance of a planet from the plane of the ecliptic is
+its latitude (N. 54), which is south or north according as the
+planet is south or north of that plane. When the planet is in
+the plane of the ecliptic, its latitude is zero; it is then said to be
+in its nodes (N. 55). The ascending node is that point in the
+ecliptic through which the planet passes in going from the
+southern to the northern hemisphere. The descending node is
+a corresponding point in the plane of the ecliptic diametrically
+opposite to the other, through which the planet descends in going
+from the northern to the southern hemisphere. The longitude
+and latitude of a planet cannot be obtained by direct observation,
+but are deduced from observations made at the surface of the
+10earth by a very simple computation. These two quantities,
+however, will not give the place of a planet in space. Its distance
+from the sun (N. 56) must also be known; and, for the
+complete determination of its elliptical motion, the nature and
+position of its orbit must be ascertained by observation. This
+depends upon seven quantities, called the elements of the orbit
+(N. 57). These are, the length of the major axis, and the excentricity,
+which determine the form of the orbit; the longitude
+of the planet when at its least distance from the sun, called the
+longitude of the perihelion; the inclination of the orbit to the
+plane of the ecliptic, and the longitude of its ascending node:
+these give the position of the orbit in space; but the periodic
+time, and the longitude of the planet at a given instant, called
+the longitude of the epoch, are necessary for finding the place of
+the body in its orbit at all times. A perfect knowledge of these
+seven elements is requisite for ascertaining all the circumstances
+of undisturbed elliptical motion. By such means it is found
+that the paths of the planets, when their mutual disturbances are
+omitted, are ellipses nearly approaching to circles, whose planes,
+slightly inclined to the ecliptic, cut it in straight lines, passing
+through the centre of the sun (N. 58). The orbits of the
+recently-discovered planets deviate more from the ecliptic than
+those of the ancient planets: that of Pallas, for instance, has an
+inclination of 34° 42ʹ 29·8ʺ to it; on which account it is more
+difficult to determine their motions.
+Were the planets attracted by the sun only, they would always
+move in ellipses, invariable in form and position; and because
+his action is proportional to his mass, which is much larger than
+that of all the planets put together, the elliptical is the nearest
+approximation to their true motions. The true motions of the
+planets are extremely complicated, in consequence of their mutual
+attraction, so that they do not move in any known or symmetrical
+curve, but in paths now approaching to, now receding from,
+the elliptical form; and their radii vectores do not describe areas
+or spaces exactly proportional to the time, so that the areas become
+a test of disturbing forces.
+To determine the motion of each body, when disturbed by all
+the rest, is beyond the power of analysis. It is therefore necessary
+to estimate the disturbing action of one planet at a time,
+11whence the celebrated problem of the three bodies, originally
+applied to the moon, the earth, and the sun—namely, the masses
+being given of three bodies projected from three given points,
+with velocities given both in quantity and direction; and supposing
+the bodies to gravitate to one another with forces that are
+directly as their masses, and inversely as the squares of the distances,
+to find the lines described by these bodies, and their
+positions at any given instant; or, in other words, to determine
+the path of a celestial body when attracted by a second body,
+and disturbed in its motion round the second body by a third—a
+problem equally applicable to planets, satellites, and comets.
+By this problem the motions of translation of the celestial
+bodies are determined. It is an extremely difficult one, and
+would be infinitely more so if the disturbing action were not very
+small when compared with the central force; that is, if the
+action of the planets on one another were not very small when
+compared with that of the sun. As the disturbing influence of
+each body may be found separately, it is assumed that the action
+of the whole system, in disturbing any one planet, is equal to
+the sum of all the particular disturbances it experiences, on the
+general mechanical principle, that the sum of any number of
+small oscillations is nearly equal to their simultaneous and joint
+effect.
+On account of the reciprocal action of matter, the stability of
+the system depends upon the intensity of the primitive momentum
+(N. 59) of the planets, and the ratio of their masses to
+that of the sun; for the nature of the conic sections in which the
+celestial bodies move depends upon the velocity with which they
+were first propelled in space. Had that velocity been such as to
+make the planets move in orbits of unstable equilibrium (N. 60),
+their mutual attractions might have changed them into parabolas,
+or even hyperbolas (N. 22); so that the earth and planets might,
+ages ago, have been sweeping far from our sun through the
+abyss of space. But as the orbits differ very little from circles,
+the momentum of the planets, when projected, must have been
+exactly sufficient to ensure the permanency and stability of the
+system. Besides, the mass of the sun is vastly greater than that of
+any planet; and as their inequalities bear the same ratio to their
+elliptical motions that their masses do to that of the sun, their
+12mutual disturbances only increase or diminish the excentricities
+of their orbits by very minute quantities; consequently the
+magnitude of the sun’s mass is the principal cause of the stability
+of the system. There is not in the physical world a more
+splendid example of the adaptation of means to the accomplishment
+of an end than is exhibited in the nice adjustment of these
+forces, at once the cause of the variety and of the order of
+Nature.</div></body></text></TEI>

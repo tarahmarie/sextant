@@ -1,0 +1,158 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Connexion of the Physical Sciences</title><author>Mary Somerville</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1834</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="24">
+199
+SECTION XXIII.
+
+Objections to the Undulatory Theory, from a difference in the Action of
+Sound and Light under the same circumstances, removed—The Dispersion
+of Light according to the Undulatory Theory—Arago’s final proof
+that the Undulatory Theory is the Law of Nature.
+The numerous phenomena of periodical colours arising from the
+interference of light, which do not admit of satisfactory explanation
+on any other principle than the undulatory theory, are the
+strongest arguments in favour of that hypothesis; and even
+cases which at one time seemed unfavourable to that doctrine
+have proved upon investigation to proceed from it alone. Such
+is the erroneous objection which has been made, in consequence
+of a difference in the mode of action of light and sound, under
+the same circumstances, in one particular instance. When a
+ray of light from a luminous point, and a diverging sound, are
+both transmitted through a very small hole into a dark room,
+the light goes straight forward and illuminates a small spot on
+the opposite wall, leaving the rest in darkness; whereas the
+sound on entering diverges in all directions, and is heard in
+every part of the room. These phenomena, however, instead of
+being at variance with the undulatory theory, are direct consequences
+of it, arising from the very great difference between the
+magnitude of the undulations of sound and those of light. The
+undulations of light are incomparably less than the minute
+aperture, while those of sound are much greater. Therefore
+when light, diverging from a luminous point, enters the hole,
+the rays round its edges are oblique, and consequently of different
+lengths, while those in the centre are direct, and nearly
+or altogether of the same lengths. So that the small undulations
+between the centre and the edges are in different phases,
+that is, in different states of undulation. Therefore the greater
+number of them interfere, and by destroying one another produce
+darkness all around the edges of the aperture; whereas the
+central rays, having the same phases, combine, and produce a
+spot of bright light on a wall or screen directly opposite the hole.
+200The waves of air producing sound, on the contrary, being very
+large compared with the hole, do not sensibly diverge in passing
+through it, and are therefore all so nearly of the same length,
+and consequently in the same phase or state of undulation, that
+none of them interfere sufficiently to destroy one another.
+Hence all the particles of air in the room are set into a state of
+vibration, so that the intensity of the sound is very nearly
+everywhere the same. Strong as the preceding cases may be,
+the following experiment, made by M. Arago, seems to be decisive
+in favour of the undulatory doctrine. Suppose a plano-convex
+lens of very great radius to be placed upon a plate of
+very highly polished metal. When a ray of polarized light
+falls upon this apparatus at a very great angle of incidence,
+Newton’s rings are seen at the point of contact. But as the
+polarizing angle of glass differs from that of metal, when the
+light falls on the lens at the polarizing angle of glass, the black
+spot and the system of rings vanish. For although light in
+abundance continues to be reflected from the surface of the
+metal, not a ray is reflected from the surface of the glass that
+is in contact with it, consequently no interference can take
+place; which proves beyond a doubt that Newton’s rings result
+from the interference of the light reflected from both the surfaces
+apparently in contact (N. 199).
+Notwithstanding the successful adaptation of the undulatory
+system to phenomena, the dispersion of light for a long time
+offered a formidable objection to that theory, which has been
+removed by Professor Powell of Oxford.
+A sunbeam falling on a prism, instead of being refracted to a
+single point of white light, is separated into its component
+colours, which are dispersed or scattered unequally over a considerable
+space, of which the portion occupied by the red rays is
+the least, and that over which the violet rays are dispersed is the
+greatest. Thus the rays of the coloured spectrum, whose waves
+are of different lengths, have different degrees of refrangibility,
+and consequently move with different velocities, either in the
+medium which conveys the light from the sun, or in the refracting
+medium, or in both; whereas rays of all colours come from
+the sun to the earth with the same velocity. If, indeed,
+the velocities of the various rays were different in space, the
+aberration of the fixed stars, which is inversely as the velocity,
+201would be different for different colours, and every star would
+appear as a spectrum whose length would be parallel to the
+direction of the earth’s motion, which is not found to agree
+with observation. Besides, there is no such difference in the
+velocities of the long and short waves of air in the analogous
+case of sound, since notes of the lowest and highest pitch are
+heard in the order in which they are struck. In fact, when the
+sunbeam passes from air into the prism, its velocity is diminished;
+and, as its refraction, and consequently its dispersion,
+depend solely upon the diminished velocity of the transmission
+of its waves, they ought to be the same for waves of all lengths,
+unless a connexion exists between the length of a wave and the
+velocity with which it is propagated. Now, this connexion
+between the length of a wave of any colour, and its velocity or
+refrangibility in a given medium, has been deduced by Professor
+Powell from M. Cauchy’s investigations of the properties of light
+on a peculiar modification of the undulatory hypothesis. Hence
+the refrangibility of the various coloured rays, computed from
+this relation for any given medium, when compared with their
+refrangibility in the same medium determined by actual observation,
+will show whether the dispersion of light comes under
+the laws of that theory. But, in order to accomplish this, it is
+clear that the length of the waves should be found independently
+of refraction, and a very beautiful discovery of M. Fraunhofer
+furnishes the means of doing so.
+That philosopher obtained a perfectly pure and complete
+coloured spectrum, with all its dark and bright lines, by the
+interference of light alone, from a sunbeam passing through a
+series of fine parallel wires covering the object glass of a telescope.
+In this spectrum, formed independently of prismatic refraction,
+the positions of the coloured rays depend only on the lengths of
+their waves, and M. Fraunhofer found that the intervals between
+them are precisely proportional to the differences of these lengths.
+He measured the lengths of the waves of the different colours at
+seven fixed points, determined by seven of the principal dark
+and bright lines. Professor Powell, availing himself of these
+measures, has made the requisite computations, and has found
+that the coincidence of theory with observation is perfect for ten
+substances whose refrangibility had been previously determined
+by the direct measurements of M. Fraunhofer, and for ten others
+202whose refrangibility has more recently been ascertained by M.
+Rudberg. Thus, in the case of seven rays in each of twenty
+different substances, solid and fluid, the dispersion of light takes
+place according to the laws of the undulatory theory: and there
+can hardly be a doubt that dispersion in all other bodies will be
+found to follow the same law. It is, however, an express condition
+of the connexion between the velocity of light and the
+length of its undulations, that the intervals between the vibrating
+molecules of the ethereal fluid should bear a sensible relation to
+the length of an undulation. The coincidence of the computed
+with the observed refractions shows that this condition is fulfilled
+within the refracting media; but the aberration of the fixed stars
+leads to the inference that it does not hold in the ethereal regions,
+where the velocities of the rays of all colours are the same.
+Strong as all that precedes is in favour of the undulatory theory,
+the relative velocity of light in air and water is the final and
+decisive proof. By the Newtonian theory the velocity is greater
+in water than in air, by the undulatory theory it is less; hence if
+a comparison could be made it would decide which is the law of
+nature. The difficulty consisted in comparing the velocity of
+light passing through a small extent of water with the velocity
+of light in air, which is 10,000 times greater than the velocity of
+the earth in its orbit. This delicate and difficult experiment
+was made by means of an instrument invented by Professor
+Wheatstone for measuring the velocity of electricity. It consists
+of a small mirror which revolves in its own plane like a coin
+spinning on its edge. When it revolves very rapidly the reflected
+image of an object changes its place perceptibly in an
+inconceivably small fraction of a second. The mirrors used in
+the experiment were made to revolve more than 1000 times in
+a second, by which means the places of the two images—one
+from light passing through air, and the other from light passing
+through an equal length of water—were found to be such as to
+prove that the velocity of light in air and in water is as 4 to 3,
+while by the Newtonian theory it is as 3 to 4. By this final
+and decisive proof the undulatory theory may from henceforth
+be regarded as the law of nature. This experiment was accomplished
+by M. Fizeau and M. Léon-Faucault, at the suggestion
+of M. Arago, whose eyesight did not permit him to undertake it
+himself.</div></body></text></TEI>
