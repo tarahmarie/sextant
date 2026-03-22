@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 99-100</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 99-100.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1844">undated [9 August 1844]</date>
+          <note type="place">38 Bedford Square, Brighton</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 99-100</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_99-100.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>38. Bedford Sqre Brighton Friday Morning 9 o'clock</p>
+      <p>Dearest W. I little thought when I wrote you my note on Weddy by Dr Carpenter, what I should have to go thro' with my teeth. I was seized with paroxysms of pain in the jaw that had been operated upon, that afternoon; &amp; had to pass some hours at the Dentist's. He only succeeded in relieving it just in time for me to come down here by the last Train. It is however completely easy, &amp; no prospect of a return of pain; but I am knocked to pieces for a few days, which cannot be wondered at.</p>
+      <p>I never shall forget the agonies I endured for some hours. I hope to write you a better account tomorrow morning. My head &amp; stomach are all wrong still.</p>
+      <p>Mr Landzelle said it was one of the most extreme &amp; obstinate cases of pain he had ever seen. Had it not been mastered, I believe he would have staid that night in St James' Sqre.</p>
+      <p>There is some disease that takes place first in the nerves of my teeth, &amp; goes on silently for many years, without any appearance in the tooth; then suddenly the whole tooth breaks away, &amp; pain ensues, &amp; extensive ravage is discovered internally.</p>
+      <p>I write in pencil</p>
+      <p>because I am in bed at this moment.--</p>
+      <p>I hope to get a bathe today, which would do me good I think.</p>
+      <p>I have no head to write or think about any topic that is interesting or important. I am in comfortable lodgings; not the same however.</p>
+      <p>You cannot imagine how shattered &amp; senseless I feel. But I may recover from this rapidly enough, when once I take a good turn again.</p>
+      <p>So, my Dear, don't be vexed.</p>
+      <p>I think much about ou. I hope you take out your young to ride with you sometimes; (not interfering with Dr C--'s hours however).</p>
+      <p>I hope that you don't wholly neglect Jack either &amp; also that you give Tag Rag plenty of work. Your careful riding does both his health &amp; temper a world of good. And I am sure you won't jerk up his mouth in the way I dislike.</p>
+      <p>I pick up all the household &amp; domestic knowledge I can, in every way.</p>
+      <p>I feel more &amp; more sure that I can not only reduce greatly our expenses, but actually increase our pleasures &amp; comforts nothwithstanding.</p>
+    </div></body>
+  </text>
+</TEI>

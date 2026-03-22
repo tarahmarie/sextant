@@ -1,0 +1,28 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title></title><author>Whewell William</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="38">
+
+BOOK X.
+
+THERMOTICS.—ATMOLOGY.
+
+CHAPTER III.
+The Relation of Vapour and Air.
+
+Sect. 4.—Force of Steam.
+THE experiments on the elastic
+force of steam made by the French Academy are fitted in an especial
+manner to decide the question between rival formulæ, in consequence of
+the great amount of force to which they extend; namely, 60 feet of
+mercury, or 24 atmospheres: for formulæ which give results almost
+indistinguishable in the lower part of the scale diverge widely at
+those elevated points. Mr. Waterston10 has reduced both
+these and other experiments to a rule in the following
+manner:—He takes the zero of gaseous tension, determined by
+other experimenters (Rudberg, Magnus, and Regnault,) to be 461° below
+the zero of Fahrenheit, or 274° below the zero of the centigrade
+scale: and temperatures reckoned from this zero he calls “G
+temperatures.” The square root of the G temperatures is the element to
+which the elastic force is referred (for certain theoretical reasons),
+and it is found that the density of steam is as the sixth power
+of this element. The agreement of this rule with the special results
+is strikingly close. A like rule was found by him to apply generally
+to many other gases in contact with their liquids.</div></body></text></TEI>

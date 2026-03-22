@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 6-10</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 6-10.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1835">5 July [1835]</date>
+          <note type="place">Fordhook</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 6-10</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_6-10.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Fordhook Sunday Afternoon 5th July.</p>
+      <p>My Dearest.-- What a wet drive you must have had this morning; &amp; what is more, I am afraid it is going to rain all this week, which would be rather tiresome.-- And now I will tell you something which will amuse you. Mama came into my room this morning, a great deal earlier</p>
+      <p>than she ought to have done either on her own account or mine, &amp; thought she would amuse herself with seeing if she could wake me by the magic of your name; I being a particularly difficult person to wake at any time, &amp; more especially in the morning. However I was perfectly insensible to her words, &amp; so she has been reproaching me with my want of romance; &amp; I have only got still more</p>
+      <p>into the scrape by very innocently saying in excuse, "But Mama, I was not in bed till half past one this morning!"-- I am sure you will now be convinced that she really is a very illnatured person.--</p>
+      <p>Mr. Gamlen drove me to Brentford Church this morning in our phaeton. I suppose next Sunday I shall go to Ockham Church with you, in a character very interesting to your neighbours at all events-- that of your Bride.</p>
+      <p>May she be deemed worthy of her Lord, &amp; what is more to the purpose, may she prove herself so in reality!-- This Sunday is the first day of a week, probably the most important in my life, &amp; in yours too perhaps.-- I will try to write a little of what I am at this moment thinking &amp; feeling on the subject. I have one anxiety &amp; one only; that I may not be really on more intimate acquaintance what I see</p>
+      <p>you believe me to be. I speak this in the sincerity of my heart I assure you, &amp; it is a feeling &amp; a fear which you will sympathise in; because, though with infinitely less cause for it, I know it is one which you have in some degree yourself.-- However I am not without hope at the same time, because I have an absolute conviction that it rests with myself alone to fulfil your hopes, &amp; that with the powers kindly bestowed on me by</p>
+      <p>a most merciful Creator, I have the capability of doing so-- but, have I the requisite perserverance &amp; self-denial?-- For, properly to fulfil the duties of a wife, it requires both these qualities. I am quite sure in a very great degree; and the more perfect &amp; the less exacting the husband, perhaps the more are they required.-- But under these impressions, I cannot but feel a great degree of awe with respect to the</p>
+      <p>future, &amp; I hope the feeling is as strong as it should be.--</p>
+      <p>Monday Afternoon.-- What a nice letter, my dear, you have sent me, &amp; how prettily &amp; distinctly it is written too. I scarcely dare hope to see you this evening, for fear I should be disappointed. But if I do, it will probably be to stay the night. At least we reckon on it. If not, I shall expect you to meet me tomorrow afternoon at 3 o'clock, at Lady George Murray's, [W.. 4?] Green St.</p>
+      <p>Grosvenor Square, &amp; shall bring you back here. My friend Mrs. Guinness will probably be with me. Should I not have arrived there when you call, ask to be shown in all the same, &amp; wait for me. Lady George expects us.-- But, for all I am saying, I am hoping to see you this evening, &amp; I can't help it.--</p>
+      <p>I knew your drive would be wretched yesterday morning. How well I understand your state of spirits-- sometimes too high-- sometimes too low. Happily I think we shall be ballust to one another!--</p>
+      <p>I have kept "our secret", my dear-- even from Mama. I quite agree with you that it must be between ourselves alone besides which I am quite sure nobody else could understand it, so that it would be useless to let it out.-- What a quantity of stuff I have written you, &amp; could write for the next hour!--</p>
+      <p>Mr. Gamlen leaves this letter for me, as he is going into Town this afternoon. He has ascertained all about the Register &amp; everything else.--</p>
+      <p>Mr. Curzon objects to Mama's applying for the Barony.-- And now believe me, Most Affecy &amp; Devotedly Yours, Ada</p>
+    </div></body>
+  </text>
+</TEI>

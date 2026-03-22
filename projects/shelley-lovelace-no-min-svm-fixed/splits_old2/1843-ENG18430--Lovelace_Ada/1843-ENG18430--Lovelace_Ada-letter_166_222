@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 222</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 222.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1843">undated (estimated from box 166 date range)</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 222</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_222.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Please send me the Check.</p>
+      <p>Dearest W. I hope you are not vexed; but I rather feared the high wind on the Downs; &amp; the hour too being an especially inconvenient one to me.</p>
+      <p>Pray let me have a line from you. Bird is dispirited altogether. It is not one of her bright days.--</p>
+      <p>Tomorrow I will certainly come, in good time.--</p>
+      <p>Pray-- a line.--</p>
+    </div></body>
+  </text>
+</TEI>

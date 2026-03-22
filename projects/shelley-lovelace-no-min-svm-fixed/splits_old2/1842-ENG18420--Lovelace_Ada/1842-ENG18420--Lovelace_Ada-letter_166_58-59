@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 58-59</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 58-59.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1842">undated [3 August 1842]</date>
+          <note type="place">St. James's Square</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 58-59</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_58-59.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>St James' Square Weddy 6 o'clock</p>
+      <p>Dearest W--. All is going on well, &amp; Locock pays the very greatest attention &amp; is kindness itself. The Hen is much better indeed for yesterday's bleeding &amp; measures. She thinks she shall remain in Town until Locock goes abroad, which will be</p>
+      <p>in a fortnight. I think she will do wisely.</p>
+      <p>I believe I can probably leave her without fear on Saturday next. You &amp; I might return together perhaps.</p>
+      <p>I wish, on some other accounts, to come to Town about the end of next week; but had only intended it to be for a morning. If however the Hen remains on in Town, I shall perhaps make it a day or two,</p>
+      <p>should I find reason to think I am wanted.</p>
+      <p>But unless she goes on very well now, I cannot leave her at present. She begins to fidget about my not being able to ride here.</p>
+      <p>As I am growing very very thin indeed; tho' I am well, in high spirits, &amp; very happy. And Locock particularly prescribes riding for me. The Hen has wanted me to have my horses up; but I would</p>
+      <p>not of course. I am becoming such a little bag-of-bones, you cannot think. Mrs Grieg, whom I have had occasion to see, about some things of my mother's, was really quite shocked, altho' she said I look very brilliant in the face; but that my chest &amp; figure seemed to be disappearing. But you know I like to be thin. So no matter; only people begin to look grave about it.-- I have</p>
+    </div></body>
+  </text>
+</TEI>

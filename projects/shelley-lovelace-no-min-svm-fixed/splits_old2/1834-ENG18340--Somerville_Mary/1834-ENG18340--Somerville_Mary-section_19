@@ -1,0 +1,221 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Connexion of the Physical Sciences</title><author>Mary Somerville</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1834</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="19">
+153
+SECTION XVIII.
+
+Refraction—Astronomical Refraction and its Laws—Formation of Tables
+of Refraction—Terrestrial Refraction—Its Quantity—Instances of
+extraordinary Refraction—Reflection—Instances of extraordinary Reflection—Loss
+of Light by the Absorbing Power of the Atmosphere—Apparent
+Magnitude of Sun and Moon in the Horizon.
+Not only everything we hear but all we see is through the
+medium of the atmosphere. Without some knowledge of its
+action upon light, it would be impossible to ascertain the position
+of the heavenly bodies, or even to determine the exact place
+of very distant objects upon the surface of the earth; for, in
+consequence of the refractive power of the air, no distant object
+is seen in its true position.
+All the celestial bodies appear to be more elevated than they
+really are; because the rays of light, instead of moving through
+the atmosphere in straight lines, are continually inflected towards
+the earth. Light passing obliquely out of a rare into a denser
+medium, as from vacuum into air, or from air into water, is bent
+or refracted from its course towards a perpendicular to that point
+of the denser surface where the light enters it (N. 189). In the
+same medium, the sine of the angle contained between the incident
+ray and the perpendicular is in a constant ratio to
+the sine of the angle contained by the refracted ray and the
+same perpendicular; but this ratio varies with the refracting
+medium. The denser the medium, the more the ray is bent.
+The barometer shows that the density of the atmosphere decreases
+as the height above the earth increases. Direct experiments
+prove that the refractive power of the air increases with
+its density. It follows therefore that, if the temperature be
+uniform, the refractive power of the air is greatest at the earth’s
+surface, and diminishes upwards.
+A ray of light from a celestial object falling obliquely on this
+variable atmosphere, instead of being refracted at once from its
+course, is gradually more and more bent during its passage
+through it so as to move in a vertical curved line, in the same
+154manner as if the atmosphere consisted of an infinite number of
+strata of different densities. The object is seen in the direction
+of a tangent to that part of the curve which meets the eye; consequently
+the apparent altitude (N. 190) of the heavenly bodies
+is always greater than their true altitude. Owing to this circumstance,
+the stars are seen above the horizon after they are
+set, and the day is lengthened from a part of the sun being
+visible, though he really is behind the rotundity of the earth.
+It would be easy to determine the direction of a ray of light
+through the atmosphere if the law of the density were known;
+but, as this law is perpetually varying with the temperature,
+the case is very complicated. When rays pass perpendicularly
+from one medium into another, they are not bent; and experience
+shows, that in the same surface, though the sines of
+the angles of incidence and refraction retain the same ratio,
+the refraction increases with the obliquity of incidence
+(N. 189). Hence it appears that the refraction is greatest at the
+horizon, and at the zenith there is none. But it is proved
+that, at all heights above ten degrees, refraction varies nearly
+as the tangent of the angular distance of the object from the
+zenith, and wholly depends upon the heights of the barometer
+and thermometer. For the quantity of refraction at the same
+distance from the zenith varies nearly as the height of the barometer,
+the temperature being constant; and the effect of the
+variation of temperature is to diminish the quantity of refraction
+by about its 480th part for every degree in the rise of Fahrenheit’s
+thermometer. Not much reliance can be placed on celestial
+observations, within less than ten or twelve degrees of the horizon,
+on account of irregular variations in the density of the air near
+the surface of the earth, which are sometimes the cause of very
+singular phenomena. The humidity of the air produces no sensible
+effect on its refractive power; and it has been proved that
+the amount of refraction is the same whatever be the velocity of
+the incident light, that is whether the light comes from a star in
+that part of the heavens towards which the earth is going, or
+from one in that part of the sky whence it is receding.
+Bodies, whether luminous or not, are only visible by the rays
+which proceed from them. As the rays must pass through strata
+of different densities in coming to us, it follows that, with the
+exception of stars in the zenith, no object either in or beyond our
+155atmosphere is seen in its true place. But the deviation is so
+small in ordinary cases that it causes no inconvenience, though
+in astronomical and trigonometrical observations due allowance
+must be made for the effects of refraction. Dr. Bradley’s tables
+of refraction were formed by observing the zenith distances of
+the sun at his greatest declinations, and the zenith distances of
+the pole-star above and below the pole. The sum of these four
+quantities is equal to 180°, diminished by the sum of the four
+refractions, whence the sum of the four refractions was obtained;
+and, from the law of the variation of refraction determined by
+theory, he assigned the quantity due to each altitude (N. 191).
+The mean horizontal refraction is about 35ʹ 6ʺ, and at the height
+of forty-five degrees it is 58ʺ·36. The effect of refraction upon
+the same star above and below the pole was noticed by Alhazen,
+a Saracen astronomer of Spain, in the ninth century; but its
+existence was known to Ptolemy in the second, though he was
+ignorant of its quantity.
+The refraction of a terrestrial object is estimated differently
+from that of a celestial body. It is measured by the angle contained
+between the tangent to the curvilineal path of the ray
+where it meets the eye, and the straight line joining the eye and
+the object (N. 192). Near the earth’s surface the path of the
+ray may be supposed to be circular; and the angle at the centre
+of the earth corresponding to this path is called the horizontal
+angle. The quantity of terrestrial refraction is obtained by
+measuring contemporaneously the elevation of the top of a mountain
+above a point in the plain at its base, and the depression of
+that point below the top of the mountain. The distance between
+these two stations is the chord of the horizontal angle; and it is
+easy to prove that double the refraction is equal to the horizontal
+angle, increased by the difference between the apparent elevation
+and the apparent depression. Whence it appears that, in the
+mean state of the atmosphere, the refraction is about the fourteenth
+part of the horizontal angle.
+Some very singular appearances occur from the accidental
+expansion or condensation of the strata of the atmosphere contiguous
+to the surface of the earth, by which distant objects,
+instead of being elevated, are depressed. Sometimes, being at
+once both elevated and depressed, they appear double, one of the
+images being direct, and the other inverted. In consequence of
+156the upper edges of the sun and moon being less refracted than
+the lower, they often appear to be oval when near the horizon.
+The looming also or elevation of coasts, mountains, and ships,
+when viewed across the sea, arises from unusual refraction. A
+friend of the author’s, while standing on the plains of Hindostan,
+saw the whole upper chain of the Himalaya Mountains start into
+view, from a sudden change in the density of the air, occasioned
+by a heavy shower after a very long course of dry and hot
+weather. Single and double images of objects at sea, arising
+from sudden changes of temperature which are not so soon communicated
+to the water on account of its density as to the air,
+occur more rarely and are of shorter duration than similar
+appearances on land. In 1818 Captain Scoresby, whose observations
+on the phenomena of the polar seas are so valuable, recognised
+his father’s ship by its inverted image in the air, although
+the vessel itself was below the horizon. He afterwards found
+that she was seventeen miles beyond the horizon, and thirty
+miles distant. Two images are sometimes seen suspended in the
+air over a ship, one direct and the other inverted, with their topmasts
+or their hulls meeting, according as the inverted image is
+above or below the direct image (N. 193). Dr. Wollaston has
+proved that these appearances are owing to the refraction of the
+rays through media of different densities, by the very simple
+experiment of looking along a red-hot poker at a distant object.
+Two images are seen, one direct and another inverted, in consequence
+of the change induced by the heat in the density of
+the adjacent air. He produced the same effect by a saline or
+saccharine solution with water and spirit of wine floating upon
+it (N. 194).
+Many of the phenomena that have been ascribed to extraordinary
+refraction seem to be occasioned by a partial or total
+reflection of the rays of light at the surfaces of strata of different
+densities (N. 189). It is well known that, when light falls
+obliquely upon the external surface of a transparent medium, as
+on a plate of glass or a stratum of air, one portion is reflected
+and the other transmitted. But, when light falls very obliquely
+upon the internal surface, the whole is reflected, and not a ray is
+transmitted. In all cases the angles made by the incident and
+reflected rays with a perpendicular to the surface being equal,
+as the brightness of the reflected image depends on the quantity
+157of light, those arising from total reflection must be by far the
+most vivid. The delusive appearance of water, so well known
+to African travellers and to the Arab of the desert as the Lake
+of the Gazelles, is ascribed to the reflection which takes place
+between strata of air of different densities, owing to radiation of
+heat from the arid sandy plains. The mirage described by Captain
+Mundy in his Journal of a Tour in India probably arises
+from this cause. “A deep precipitous valley below us, at the
+bottom of which I had seen one or two miserable villages in the
+morning, bore in the evening a complete resemblance to a
+beautiful lake; the vapour which played the part of water ascending
+nearly half way up the sides of the vale, and on its
+bright surface trees and rocks being distinctly reflected. I had
+not been long contemplating this phenomenon, before a sudden
+storm came on and dropped a curtain of clouds over the scene.”
+An occurrence which happened on the 18th of November,
+1804, was probably produced by reflection. Dr. Buchan, while
+watching the rising sun from the cliff about a mile to the east of
+Brighton, at the instant the solar disc emerged from the surface
+of the ocean, saw the cliff on which he was standing, a windmill,
+his own figure and that of a friend, depicted immediately opposite
+to him on the sea. This appearance lasted about ten
+minutes, till the sun had risen nearly his own diameter above
+the surface of the waves. The whole then seemed to be elevated
+into the air, and successively vanished. The rays of the sun
+fell upon the cliff at an incidence of 73° from the perpendicular,
+and the sea was covered with a dense fog many yards in height,
+which gradually receded before the rising sun. When extraordinary
+refraction takes place laterally, the strata of variable
+density are perpendicular to the horizon, and, if combined with
+vertical refraction, the objects are magnified as when seen through
+a telescope. From this cause, on the 26th of July, 1798, the
+cliffs of France, fifty miles off, were seen as distinctly from Hastings
+as if they had been close at hand; and even Dieppe was
+said to have been visible in the afternoon.
+The stratum of air in the horizon is so much thicker and more
+dense than the stratum in the vertical, that the sun’s light is
+diminished 1300 times in passing through it, which enables us
+to look at him when setting without being dazzled. The loss of
+light, and consequently of heat, by the absorbing power of the
+158atmosphere, increases with the obliquity of incidence. Of ten
+thousand rays falling on its surface, 8123 arrive at a given point
+of the earth if they fall perpendicularly; 7024 arrive if the angle
+of direction be fifty degrees; 2831, if it be seven degrees; and
+only five rays will arrive through a horizontal stratum. Since
+so great a quantity of light is lost in passing through the atmosphere,
+many celestial objects are altogether invisible from
+the plain, which may be seen from elevated situations. Diminished
+splendour, and the false estimate we make of distance from
+the number of intervening objects, lead us to suppose the sun
+and moon to be much larger when in the horizon than at any
+other altitude, though their apparent diameters are then somewhat
+less. Instead of the sudden transitions of light and darkness,
+the reflective power of the air adorns nature with the rosy
+and golden hues of the Aurora and twilight. Even when the
+sun is eighteen degrees below the horizon, a sufficient portion of
+light remains to show that at the height of thirty miles it is
+still dense enough to reflect light. The atmosphere scatters the
+sun’s rays, and gives all the beautiful tints and cheerfulness of
+day. It transmits the blue light in greatest abundance; the
+higher we ascend, the sky assumes a deeper hue; but, in the
+expanse of space, the sun and stars must appear like brilliant
+specks in profound blackness.</div></body></text></TEI>

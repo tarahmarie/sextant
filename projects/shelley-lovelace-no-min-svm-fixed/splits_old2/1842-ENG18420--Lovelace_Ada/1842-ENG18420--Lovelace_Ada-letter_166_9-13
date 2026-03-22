@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 9-13</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 9-13.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1842">undated [June 1842]</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 9-13</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_9-13.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Tuesday</p>
+      <p>Dearest W. All is still uncertain; &amp; I only fear it may be a vexation to you. It is certainly quite necessary for the Hen to be now in Town, for advice; &amp; it is also better for her to have me with her I think, instead of</p>
+      <p>being alone, or having E--. She seems to find in me both comfort &amp; amusement.</p>
+      <p>There has just been a consultation between Locock &amp; a Dr Williams about her. The latter is a celebrated stethoscopist; &amp; it appears that he has arrived at some important conclusions respecting her. But as yet their opinion is not</p>
+      <p>fully disclosed to us.</p>
+      <p>I expect Locock will be here this evening again, &amp; that something more definite will be then settled, than has been hitherto. She is decidely better for his measures already.</p>
+      <p>I am much distressed to see how she suffers from her affliction, &amp; anxiety, &amp; I fear I must say in some degree disappointment about</p>
+      <p>E--, whom she certainly loves as her own child.</p>
+      <p>Poor Hen! Everyone to whom she is generous, seems to take advantage of it.--</p>
+      <p>Miss Jane is already improving a little. The more I see, the more I like her. But I think you will be disappointed at first perhaps; because she is in such very shabby &amp; miserable condition, &amp;</p>
+      <p>shows all that is least prepossessing &amp; attractive about her.</p>
+      <p>She is in my opinion beautiful in her prints &amp; make; &amp; so gentle, poor thing. Altho' I hear she has begun her kicking when mounted. But it seems to be all play &amp; spirits. The saddle- -horses are of great use to me. I only hope you do not want</p>
+      <p>them. I am vexed to think you have only that common little half-bred hack; so unfit for you to appear upon. Perhaps however you do not ride much, now I am away.--</p>
+      <p>Now for what I wanted to say about your teaching Byron French or Latin. You, dear William, have no experience in</p>
+      <p>teaching children; &amp; I am persuaded it could only disgust both you &amp; poor B--. You do not know what a child can do; &amp; would take for idleness or inattention what is only inherent to his years. Neither have you any idea how to make so dull a thing as the acquisition of language, engaging to 6 years old.</p>
+      <p>I also think it very unadvisable that a parent should ever be a direct teacher.</p>
+      <p>You can do far more for B--, believe me, in taking him out of doors, &amp; conversing with him on the objects around him; or in assisting his drawings.</p>
+      <p>Forgive my writing you this dissertation.--</p>
+      <p>Do ask Stephen where he took my Perzian ink-stand. Instead of</p>
+      <p>mending it, they have sent me back a smaller one, which don't do, &amp; acts very badly. I am quite vexed about it. It is a great shame.</p>
+    </div></body>
+  </text>
+</TEI>

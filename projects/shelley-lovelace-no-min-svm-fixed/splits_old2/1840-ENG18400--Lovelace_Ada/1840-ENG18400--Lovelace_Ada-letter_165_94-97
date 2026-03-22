@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 94-97</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 94-97.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1840">undated (estimated from box 165 date range)</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 94-97</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_94-97.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Thursday. 6 o'clock</p>
+      <p>Sweetest of all Mates. I have very little time, so will begin at once with Locock which will most interest you. I think he was upwards of an hour with me. He says that very great care is still absolutely necessary, though in the muscular &amp; nervous systems, &amp; in my appearance, there is</p>
+      <p>very decided &amp; satisfactory improvement. He considers however that little, very little progress has been made in the stamina of circulation proved by the state of my pulse, which to use his own words, "indicates very great" "deficiency of power in "the circulation". He was much annoyed with its extreme feebleness, &amp; said it suggested the idea of the artery-cases being little bits of thread, rather than muscle.--</p>
+      <p>Were I anybody but myself, he said he should instantly put one under a course of , but to me this would be absolute poison, which is rather unfortunate.-- A course of zinc is the next best thing, &amp; has been commenced today. Some other suggestions of value he has I think made.</p>
+      <p>Tomorrow morning before I leave Town he wished to call again, to which I agreed.--</p>
+      <p>I am to add to my glass of ale at night, a</p>
+      <p>sleepy infusion of hops.</p>
+      <p>All these particulars of Dr Locock's present opinion of my state, you might as well communicate to your grandmother as she will probably ask much about me; and you should dwell particularly on the great feebleness of the heart &amp; circulation proved by my pulse as well as many other symptoms; since I believe she has had difficulty in comprehending that</p>
+      <p>there can be such a low exhausted state as mine has been, &amp; still in some measure is, when there are even head sensations. You must explain to her that my head sensations have been quite different from the ordinary ones.--</p>
+      <p>I have done much, &amp; I think judiciously, today about the furniture. I enclose a pattern for the common</p>
+      <p>drawing room covers, to depend on your approval for its adoption. There is a washed &amp; unwashed bit. The washed bit looks much worse than if it were unlaundered, which it would be as a matter of course.--</p>
+      <p>All is quite right again between Miss Doyle &amp; me,-- a great comfort.--</p>
+      <p>The sweet Hen comes</p>
+      <p>to us for May!!!!!</p>
+      <p>Ou most loving Birdie</p>
+    </div></body>
+  </text>
+</TEI>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 66-67</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 66-67.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1836">undated [1836]</date>
+          <note type="place">Fordhook</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 66-67</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_66-67.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Fordhook 1/2 pst 12 o'clock Tuesdy</p>
+      <p>Dearest Mate. The enclosed from the Hen will be perfectly satisfactory to you, as it is to me, and I hope ou will allow the avis to stay as long as possible with her affectionate Hen.--</p>
+      <p>Miss Murray is probably coming this evening, for one night only.-- I think I</p>
+      <p>shall not go into Town today, as there is a most horrible wind, &amp; I have a return of sore throat-- very slight however.</p>
+      <p>The ground was covered with this morning.-- The bright avis left her mateless nest at 1/2 pst 7 as usual, and thinks herself a particularly nice bird.--</p>
+      <p>The young has had a very bad night, &amp; is not quite right today, but these variations must be expected during teething.--</p>
+      <p>The report of Sophia (the thief) being very ill, is an entire mistake, as Potich ascertained yesterday. I am sorry to say it appears she has taken linen. At least some is missing unaccountably.</p>
+      <p>I was so beyond measure weary by nine o'clock last night, that I could not help thinking how unfit I should be for Lady Philips's dinner.--</p>
+      <p>Ou very nice nesting Avis A. A. K.</p>
+    </div></body>
+  </text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 132-134</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 132-134.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1844">5 December [1844]</date>
+          <note type="place">St. James's Square</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 132-134</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_132-134.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>St James' Sqre Thursdy Morg 5th Decr</p>
+      <p>Dearest Mate. How sensible are your letters always.--</p>
+      <p>I am sorry that owing to the Hen's blunder as to the time (of the Traitor's visit to Ockham), you have thus had the trouble of making out a useless list of visitors. It was in Jany last, as I wrote you yesterday, &amp; is believed to have been rather early in that month than otherwise.</p>
+      <p>A friend of my mother's &amp; of ours dined at Murray's &amp; heard there as public news the report of this base-minded visitor; but could not discover</p>
+      <p>the name of the person, nor even the sex. Only that every one had believed the report, because the informant stated that he (or she) had just come from Ockham &amp; knew it all for positive fact. It must have been a man I think without doubt. Our friend did not wish the precise words of the report to go to you, &amp; would be annoyed at the idea of it.</p>
+      <p>I am therefore obliged to with-hold this degree of exact information. I was told, but not at first, &amp; with reluctance. It is a most base &amp; scandalous insinuation, tho' of a general nature. The reporter gave no facts. Indeed he could not, unless he had absolutely invented them.</p>
+      <p>Now it is really of importance to detect who it could be; for one ought not to harbour a Serpent unconsciously in one's household; one who will fabricate; or at any rate maliciously pervert every real incident.</p>
+      <p>I am really very indignant; not as regards us; for he can do us but little harm in the end; but at such abstract baseness in itself considered.</p>
+      <p>If we can actually find out the who, my Mother &amp; I have a plan for something I can do respecting him; which will be a terrible lesson to the party. The opportunity for it may not occur perhaps for a long time; but if so, then so much the more striking to him the</p>
+      <p>retribution. It is a thing which no one but myself perhaps could do; requiring great temper, great dignity, great force of character too.</p>
+      <p>My mother you know is never by way of noticing every nonsense that silly people say of one. But she does think this a most malicious degree of baseness, &amp; she that should be fathomed &amp; if possible noticed.--</p>
+      <p>You will see from the enclosed from her that I had utterly mistaken the import of her "note of admiration!" about C. B's marriage. I am grievously disappointed &amp; anxious, about it.--</p>
+      <p>What a fool Miss Cooper is. I have had sad proofs of this now.</p>
+      <p>I got the Athenaem yesterday morning. I do not think Miss M's letters well-judged for the public, &amp; I cannot say that they carry absolute conviction to me.</p>
+      <p>I am well; decidedly making great progress. This is simply I believe from the persevering attention to rigid diet.</p>
+      <p>I truly believe that in time I shall have excellent health by this means. So does the Hen.</p>
+      <p>But never must I forget the past, in that case.</p>
+    </div></body>
+  </text>
+</TEI>

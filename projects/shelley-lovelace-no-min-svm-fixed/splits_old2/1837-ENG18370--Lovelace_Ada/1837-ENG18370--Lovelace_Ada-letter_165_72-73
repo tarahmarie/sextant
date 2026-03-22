@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 72-73</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 72-73.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1837">undated [September 1837]</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 72-73</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_72-73.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>[The last line and closing of the letter are written sideways to the left of the heading on page 1. For clarity, I've transcribed this text as page 5 even though it appears on the first page.]</p>
+      <p>Monday 12 o'clock</p>
+      <p>Dearest Mate. I cannot tell you how your hand-writing gladdened the Avis this morning. I am quite losing my cold &amp; discomfort today. I have a good deal of cough, but as it is only from an accumulation of phlegm, the natural result of a very bad cold, it is sure to go off in a day or two.-- I think this cold is principally the result of my getting my feet</p>
+      <p>wet the day after we came here on the stone staircase. You may remember my complaining of chilliness &amp; sore throat directly after.-- I have but just escaped a sty in one eye, since you went. It has been very threatening but I think it will now go off, &amp; certainly it would not have been a pleasant addition.--</p>
+      <p>I am sorry to say I have no letter yet from Dr Locock. I suppose tomorrow may bring one.</p>
+      <p>Meanwhile I send you a note I had last evening from Dr Somerville, who was not you will remember particularly in favour of Dr Cape, when we saw him.-- I am I believe likely to see Dr Somerville today</p>
+      <p>or tomorrow, &amp; may then hear further particulars.-- I shall immediately forward to you what I get from Dr Locock, and you will then be enabled to decide who you wish me to have, for you are the person who should make the choice.--</p>
+      <p>You know with respect to Dr Ferguson, that we have reason to think he stands deservedly high in professional reputation &amp; that he is a very gentlemanly man, between 40 &amp; 50.-- I have his address.-- About Dr Cape I cannot perceive that Mama's great objection to his years is quite valid, &amp; especially if you are (as we hope is to be the case) with me at the time, &amp; living in the house afterward.</p>
+      <p>It is not as if I were established here without my husband.--</p>
+      <p>There is no Twopenny to Epsom. 10 miles is the extent of the twopennies. I have made enquiries about it.--</p>
+      <p>The ammunition went on Satdy afternoon, by a carrier. I am not surprised that you have not received it, since I find they only put Epsom on the address, and probably it is remaining at the carrier's.-- It must have arrived on Satdy Evg.--</p>
+      <p>I send you a letter I had this morning from your mother. I have not yet ventured saying anything to Hester. She is a very great comfort, &amp; very cheerful.-- B is quite well.-- You will have</p>
+      <p>had a nice day.-- Our affectionate Birdie</p>
+    </div></body>
+  </text>
+</TEI>

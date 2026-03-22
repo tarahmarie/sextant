@@ -1,0 +1,149 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title></title><author>Whewell William</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="43">
+BOOK XV.
+
+MINERALOGY.
+
+BY the kindness of W. H.
+Miller, Esq., Professor of Mineralogy in the University of Cambridge,
+I am able to add to this part the following notices of books and
+memoirs.
+1. Crystallography.
+Elemente der Krystallographie, nebst einer tabellarischen
+Uebersicht der Mineralien nach der Krystallformen, von Gustav
+Rose. 2. Auflage. Berlin, 1838. The crystallographic method here
+adopted is, for the most part, that of Weiss. The method of this work
+has been followed in
+A System of Crystallography, with its Applications to
+Mineralogy. By John Joseph Griffin. Glasgow, 1841. Mr. Griffin
+has, however, modified the notation of Rose. He has constructed a
+series of models of crystalline forms.
+Frankenheim’s System der Krystalle. 1842. This work adopts
+nearly the Mohsian systems of crystallization. It contains Tables of
+the chemical constitution, inclinations of the axis, and magnitude of
+the axes of all the crystals of which a description was to be found,
+including those formed in the laboratory, as well as those usually
+called minerals; 713 in all.
+Fr. Aug. Quenstedt, Methode der Krystallographie, 1840,
+employs a fanciful method of representing a crystal by projecting upon
+one face of the crystal all the other faces. This invention appears to
+be more curious than useful.
+Dr. Karl Naumann, who is spoken of in Chap. ix. of this Book, as the
+author of the best of the Mixed Systems of Classification, published
+also Grundriss der Krystallographie, Leipzig, 1826. In this and
+other works he modifies the notation of Mohs in a very advantageous
+manner. 628
+Professor Dana, in his System of Mineralogy, New Haven
+(U.S.), 1837, follows Naumann for the most part, both in
+crystallography and in mineral classification. In the latter part of
+the subject, he has made the attempt, which in all cases is a source
+of confusion and of failure, to introduce a whole system of new names
+of the members of his classification.
+The geometry of crystallography has been investigated in a very
+original manner by M. Bravais, in papers published in the Journal of
+the Ecole Polytechnique, entitled Mémoires sur les Systèmes formés
+par des Points. 1850. Etudes Crystallographiques. 1851.
+Hermann Kopp (Einleitung in die Krystallographie,
+Braunschweig. 1849) has given the description and measurement of the
+angles of a large number of laboratory crystals.
+Rammelsberg (Krystallographische Chemie, Berlin, 1855) has
+collected an account of the systems, simple forms and angles of all
+the laboratory crystals of which he could obtain descriptions.
+Schabus of Vienna (Bestimmung der Krystallgestalten in Chemischen
+Laboratorien erzeugten Producte, Wien, 1855; a successful Prize
+Essay) has given a description, accompanied by measurements, of 90
+crystalline species from his own observations.
+To these attempts made in other countries to simplify and improve
+crystallography, I may add a remarkable Essay very recently made here
+by Mr. Brooke, and suggested to him by his exact and familiar
+knowledge of Mineralogy. It is to this effect. All the crystalline
+forms of any given mineral species are derived from the primitive
+form of that species; and the degree of symmetry, and the
+parameters, of this form determine the angles of all derivative
+forms. But how is this primitive form selected and its parameters
+determined? The selection of the kind of the primitive form depends
+upon the degree of symmetry which appears in all the derivative
+forms; according to which they belong to the rhombohedral,
+prismatic, square pyramidal, or some other
+system: and this determination is commonly clear. But the
+parameters, or the angles, of the primitive form, are commonly
+determined by the cleavage of the mineral. Is this a sufficient
+and necessary ground of such determination? May not a simplification
+be effected, in some cases, by taking some other parameters? by taking
+a primitive form which belongs to the proper system, but which has
+some other angles than those given by cleavage? Mr. Brooke has tried
+whether, for instance, crystals of the rhombohedral system may not be
+referred with advantage to primitive rhombohedrons which have, in all
+629 the species,
+nearly the same angles. The advantage to be obtained by such a change
+would be the simplification of the laws of derivation in the
+derivative forms: and therefore we have to ask, whether the indices of
+derivation are smaller numbers in this way or with the hitherto
+accepted fundamental angles. It appears to me, from the examples
+given, that the advantage of simplicity in the indices is on the side
+of the old system: but whether this be so or not, it was a great
+benefit to crystallography to have the two methods compared. Mr.
+Brooke’s Essay is a Memoir presented to the Royal Society in 1856.
+2. Optical Properties of Minerals.
+The Handbuch der Optik, von F. W. G. Radicke, Berlin, 1839,
+contains a chapter on the optical properties of crystals. The author’s
+chief authority is Sir D. Brewster, as might be expected.
+M. Haidinger has devoted much attention to experiments on the
+pleochroism of minerals. He has invented an instrument which
+makes the dichroism of minerals more evident by exhibiting the two
+colors side by side.
+The pleochroism of minerals, and especially the remarkable clouds
+that in the cases of Iolite, Andalusite, Augite, Epidote, and Axinite,
+border the positions of either optical axis, have been most
+successfully imitated by M. de Senarmont by means of artificial
+crystallizations. (Ann. de Chim. 3 Ser. xli. p.
+319.)
+M. Pasteur has found that Racemic Acid consists of two different
+acids, having the same density and composition. The salts of these
+acids, with bases of Ammonia and of Potassa, are hemihedral, the
+hemihedral faces which occur in the one being wanting in the other.
+The acids of these different crystals have circular polarization of
+opposite kinds. (Ann. de Chim. 3 Ser. xxviii. 56, 99.)
+This discovery was marked by the assignation of the Rumford Medal to
+M. Pasteur in 1856.
+M. Marbach has discovered that crystals of chlorate of soda, which
+apparently belongs to the cubic or tessular system, exhibit hemihedral
+faces of a peculiar character; and that the crystals have circular
+polarization of opposite kinds in accordance with the differences of
+the plagihedral faces. (Poggendorf’s Annalen, xci. 482.)
+M. Seybolt of Vienna has found a means of detecting plagihedral
+faces in quartz crystals which do not reveal them externally.
+(Akad. d. Wissenschaft zu Wien, B. xv. s. 59.) 630
+3. Classification of Minerals.
+In the Philosophy of the Inductive Sciences, B. viii. C. iii., I have treated of the Application of
+the Natural-history Method of Classification to Mineralogy, and have
+spoken of the Systems of this kind which have been proposed. I have
+there especially discussed the system proposed in the treatise of M.
+Necker, Le Règne Minéral ramené aux Méthodes d’Histoire
+Naturelle (Paris, 1835). More recently have been published M.
+Beudant’s Cours élémentaire d’Histoire Naturelle, Minéralogie
+(Paris, 1841); and M. A. Dufresnoy’s Traité de Minéralogie
+(Paris, 1845). Both these works are so far governed by mere chemical
+views that they lapse into the inconveniences and defects which are
+avoided in the best systems of German mineralogists.
+The last mineral system of Berzelius has been developed by M.
+Rammelsberg (Nürnberg, 1847). It is in principle such as we have
+described it in the history.
+M. Nordenskiöld’s system (3rd Ed. 1849,) has been
+criticised by G. Rose, who observes that it removes the defects of the
+system of Berzelius only in part. He himself proposes what he calls a
+“Krystallo-Chemisches System,” in which the crystalline form
+determines the genus and the chemical composition the species. His
+classes are—
+1. Simple Substances.
+2. Combinations of Sulphur, Selenium, Titanium, Arsenic,
+Antimony.
+3. Chlorides, Fluorides, Bromides, Iodides.
+4. Combinations with Oxygen.
+We have already said that for us, all chemical compounds are
+minerals, in so far that they are included in our
+classifications. The propriety of this mode of dealing with the
+subject is confirmed by our finding that there is really no tenable
+distinction between native minerals and the products of the
+laboratory. A great number of eminent chemists have been employed in
+producing, by artificial means, crystals which had before been known
+only as native products.</div></body></text></TEI>

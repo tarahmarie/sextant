@@ -1,6 +1,6 @@
 # Logistic Regression Model Intercept
 # This is the intercept (bias) term from sklearn LogisticRegression
-intercept = -3.085824258470253
+intercept = -3.174590362970053
 
 # Also saving statsmodels intercept (const) for comparison:
-statsmodels_const = -3.0861667309844414
+statsmodels_const = -3.172538216714158

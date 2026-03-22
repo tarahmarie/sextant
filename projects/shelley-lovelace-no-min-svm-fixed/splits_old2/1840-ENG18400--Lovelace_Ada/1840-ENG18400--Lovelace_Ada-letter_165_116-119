@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 116-119</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 116-119.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1840">undated (estimated from box 165 date range)</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 116-119</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_116-119.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Dearest W. After much consideration, I have quite made up my mind as to the course best to be pursued &amp; hope it may appear to you rational &amp; advisable also. I go to Town at 4 this afternoon, not to return, at any rate, but either to set out on</p>
+      <p>Friday, or Satdy for Ashley from St James' Sqre, in only to delay doing so for the purpose of my vaccination. You &amp; children, (&amp; I think Thyer who would be useful for making packing arrangements &amp;c), to join me in Town as soon as you can on Thursdy.</p>
+      <p>I think it appears on every account unadvisable for me to return home, as the house must be decidedly</p>
+      <p>pronounced infected. I have been talking much to Thyer, who I think is on the subject well-judging, &amp; you know has not been at all an alarmist, but very much the reverse.</p>
+      <p>She thinks it most probable that some others will shortly be taken ill, &amp; that I can be less securely kept from infection here, considering the great number</p>
+      <p>of persons in the house, &amp; the various indirect modes of communication which cannot be cut off;-- housemaids making my bed &amp;c, &amp;c. I am sure I am doing the wisest &amp; best, &amp; only fear I may appear to you to have judged precipitately.--</p>
+      <p>I have made very arrangement about clothes, books &amp;c.--</p>
+      <p>The Ashley box is to be sent off from Town, where everything I do not take with me today is to follow</p>
+      <p>with you, &amp; per carrier on Thursday, &amp; the division of things to go with us to Ashley, &amp; things to go per waggon, made in Town.--</p>
+      <p>Since many of the clothes are now dirty, &amp; everything done so much at an hour's notice, this is the best I can do. I find my maid very obliging &amp; clever about packing, &amp; she finds much more room than Hewett did.</p>
+      <p>I hope you will not feel I am ill-judged,</p>
+      <p>&amp; you will find I have neglected nothing I believe that was necessary to be thought about.--</p>
+      <p>I have desired all the soup to be taken off now, as I find that while we are away the leavings are really nothing. I have said that Kayes will name any particular case of illness which may occur, so as to require it. Will you notify the same to him.</p>
+      <p>I have said that Mary dairy will not go to Ashley. I think you decided the plan did not answer, &amp; for the cost of her journey we may have a Devonshire housemaid I should think, for the time. But of course you will alter my arrangements if you dislike them.-- The lists of plate, china &amp;c in Thyer's keeping, I think should be given up to Kayes, &amp; have said so, unless you desire otherwise.-- The medicine which is to go to</p>
+      <p>Ashley, as I find we must have a good stock with us there.--</p>
+      <p>I have directed about stores, coffee, rice for children's puddings, candles, &amp;c &amp;c. You must add tea please.</p>
+      <p>My harp is all arranged about also, &amp; in short I think I have left very little undone.--</p>
+      <p>Will you add stationery &amp; what books you want, to the books &amp; music I have put out.-- All the library books, except Wilberforce, I have got with me to be returned, as I have read them.</p>
+    </div></body>
+  </text>
+</TEI>

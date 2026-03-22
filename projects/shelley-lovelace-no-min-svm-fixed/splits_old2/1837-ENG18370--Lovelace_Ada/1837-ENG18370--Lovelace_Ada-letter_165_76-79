@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 76-79</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 76-79.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1837">undated [September 1837]</date>
+          <note type="place">St. James's Square</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 76-79</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_76-79.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>St. James' Sqre. Weddy. Morg.</p>
+      <p>Dearest William. I have been quite enchanted this morning, to have both a long letter, &amp; also a message from you by Mr Bray.-- What a sweet mate you are!-- The avis thinks a great deal about ou.--</p>
+      <p>I find that the beer allowance you make [makes with the s crossed out] is not thought sufficient by the household and have satisfied myself by</p>
+      <p>enquiry that their complaint is just, &amp; that your rate is too low, &amp; as regards the women absolutely shabby.-- Without telling the Hen anything about our family, I asked her what was a fair beer allowance to give. She replied immediately 3s..6d to the men, 3s..Od to the women, and that she had herself given particular attention to the subject &amp; made many enquiries.-- The Montgomerys who are remarkably economical, say the same. Some people they tell me give only 2s..6d to</p>
+      <p>the women, but this is thought rather shabby than otherwise.</p>
+      <p>I am much please with Hewett's conduct on the subject, which has been very unpresuming &amp; sensible, &amp; very different from Thyer's caloric manner the other day.-- As regards us, she is now so good a servant that I only hope her quarrels with other people will not oblige us to part with her.--</p>
+      <p>I am annoyed at the amount of our house-bills this week, especially the butter which comes to 17s..4d. This is owing to the carelessness of</p>
+      <p>the dairy-maid last week in only sending 3 lbs, often having had every notice &amp; direction about it.-- This week she has only sent 7 lbs. I desired 9 lbs to come always, &amp; think even this perhaps under the mark.-- The cash came yesterday quite safe.--</p>
+      <p>There has been another letter from Miss Murray, who is very happy &amp; says "that there is "so little of gossip or even news, "she could fancy it the Happy "Valley".-- The Queen's absence of selfishness &amp; thought for others is quite extraordinary, &amp; she seems to impart a delightful</p>
+      <p>tone to the whole circle.-- What a promise this is!--</p>
+      <p>I am amused with Ford's letter, but I hope you will have to announce a son to him. 11 days from this would secure me Dr Locock, but I am afraid I hardly shall manage as much.--</p>
+      <p>1/2 pst 5 o'clock. Since the above was written, Locke has been here. I had no opportunity of speaking to him alone. He brought excellent accounts. Some of</p>
+      <p>the conversation between him &amp; Hester annoyed me. It was about the butler at Woburn, who is going, &amp; a new one who is coming. I thought she shewed much repressed petulance, and it turned out Charlotte had been writing to her about it.--</p>
+      <p>There is some mystery about their proceedings respecting the Woburn servants, which strikes me as very odd.--</p>
+      <p>Ou Avis A.A.K.</p>
+    </div></body>
+  </text>
+</TEI>

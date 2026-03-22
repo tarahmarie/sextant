@@ -1,0 +1,51 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title></title><author>Whewell William</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="36">
+
+ADDITIONS TO THE THIRD EDITION.
+
+BOOK VIII.
+ACOUSTICS.
+
+CHAPTER III.
+Sound.
+The Velocity of Sound in
+Water.
+THE Science of which the
+history is narrated in this Book has for its objects, the minute
+Vibrations of the parts of bodies such as those by which Sounds are
+produced, and the properties of Sounds. The Vibrations of bodies are
+the result of a certain tension of their structure which we term
+Elasticity. The Elasticity determines the rate of Vibration:
+the rate of Vibration determines the audible note: the Elasticity
+determines also the velocity with which the vibration travels through
+the substance. These points of the subject, Elasticity, Rate of
+Vibration, Velocity of Propagation, Audible Note, are connected in
+each substance, and are different in different substances.
+In the history of this Science, considered as tending to a
+satisfactory general theory, the Problems which have obviously offered
+themselves were, to explain the properties of Sounds by the relations
+of their constituent vibrations; and to explain the existence of
+vibrations by the elasticity of the substances in which they occurred:
+as in Optics, philosophers have explained the phenomenon of light and
+colors by the Undulatory Theory, and are still engaged in explaining
+the requisite modulations by means of the elasticity of the Ether. But
+the Undulatory Theory of Sound was seen to be true at an early
+period of the Science: and the explanation, in a general way at least,
+of all kinds of such undulations by means of the elasticity of the
+vibrating substances has been performed by a series of mathematicians
+of whom I have given an account in this Book.
+Hence the points of the subject already mentioned (Elasticity,
+Vibrations and their Propagations, 600 and Note), have a known material
+dependence, and each may be employed in determining the other: for
+instance, the Note may be employed in determining the velocity of
+sound and the elasticity of the vibrating substance.
+Chladni,1 and the Webers,2 had made valuable
+experimental inquiries on such subjects. But more complete
+investigations of this kind have been conducted with care and skill by
+M. Wertheim.3 For instance, he has determined the
+velocity with which sound travels in water, by making an organ-pipe to
+sound by the passage of water through it. This is a matter of some
+difficulty; for the mouthpiece of an organ-pipe, if it be not properly
+and carefully constructed, produces sounds of its own, which are not
+the genuine musical note of the pipe. And though the note depends
+mainly upon the length of the pipe, it depends also, in a small
+degree, on the breadth of the pipe and the size of the mouthpiece.</div></body></text></TEI>

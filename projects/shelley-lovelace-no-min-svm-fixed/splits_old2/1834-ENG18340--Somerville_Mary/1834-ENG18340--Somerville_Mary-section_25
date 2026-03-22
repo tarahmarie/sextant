@@ -1,0 +1,835 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Connexion of the Physical Sciences</title><author>Mary Somerville</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1834</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="25">
+203
+SECTION XXIV.
+
+Chemical or Photographic Rays of Solar Spectrum—Scheele, Ritter, and
+Wollaston’s Discoveries—Wedgwood’s and Sir Humphry Davy’s Photographic
+Pictures—The Calotype—The Daguerreotype—The Chromatype—The
+Cyanotype—Collodion—Sir John Herschel’s Discoveries in
+the Chemical Spectrum—M. Becquerel’s Discoveries of Inactive Lines in
+ditto—Thermic Spectrum—Phosphoric Spectrum—Electrical Properties—Parathermic
+Rays—Moser and Hunt’s Experiments—General
+Structure and antagonist Properties of Solar Spectrum—Defracted
+Spectrum.
+The Solar Spectrum exercises an energetic action on matter,
+producing the most wonderful and mysterious changes on the
+organised and unorganised creation.
+All bodies are probably affected by light, but it acts with
+greatest energy on such as are of weak chemical affinity, imparting
+properties to them which they did not possess before. Collodion
+and metallic salts, especially those of silver, whose molecules
+are held together by an unstable equilibrium, are of all bodies the
+most susceptible of its influence; the effects, however, vary with
+the substances employed, and with the different rays of the
+solar spectrum, the chemical properties of which are by no
+means alike. As early as 1772 M. Scheele showed that the
+pure white colour of chloride of silver was rapidly darkened by
+the blue rays of the solar spectrum, while the red rays had no
+effect upon it: and in 1801 M. Ritter discovered that invisible
+rays beyond the violet extremity have the property of blackening
+argentine salts, that this property diminishes towards the
+less refrangible part of the spectrum, and that the red rays have
+an opposite quality, that of restoring the blackened salt of silver
+to its original purity; from which he inferred that the most
+refrangible extremity of the spectrum has an oxygenising power,
+and the other that of deoxygenating. Dr. Wollaston found that
+gum guaiacum acquires a green colour in the violet and blue
+rays, and resumes its original tint in the red. No attempt had
+been made to trace natural objects by means of light reflected
+from them, till Mr. Wedgwood, together with Sir Humphry
+204Davy, took up the subject: they produced profiles and tracings
+of objects on surfaces prepared with nitrate and chloride of silver,
+but they did not succeed in rendering their pictures permanent.
+This difficulty was overcome in 1814 by M. Niepcé, who produced
+a permanent picture of surrounding objects by placing
+in the focus of a camera-obscura a metallic plate covered with
+a film of asphalt dissolved in oil of lavender.
+Mr. Fox Talbot, without any knowledge of M. Niepcé’s experiments,
+had been engaged in the same pursuit, and must be
+regarded as an independent inventor of photography, one of the
+most beautiful arts of modern times: he was the first who succeeded
+in using paper chemically prepared for receiving impressions
+from natural objects; and he also discovered a method of
+fixing permanently the impressions—that is, of rendering the
+paper insensible to any further action of light. In the calotype,
+one of Mr. Talbot’s applications of the art, the photographic
+surface is prepared by washing smooth writing-paper, first with
+a solution of nitrate of silver, then with bromide of potassium,
+and again with nitrate of silver, drying it at a fire after each
+washing; the paper is thus rendered so sensitive to light that
+even the passage of a thin cloud is perceptible on it, consequently
+it must be prepared by candle-light. Portraits, buildings,
+insects, leaves of plants—in short, every object is accurately
+delineated in a few seconds; and in the focus of a camera-obscura
+the most minute objects are so exactly depicted that the microscope
+reveals new beauties.
+Since the effect of the chemical agency of light is to destroy
+the affinity between the salt and the silver, Mr. Talbot found
+that, in order to render these impressions permanent on paper,
+it was only necessary to wash it with salt and water, or with
+a solution of iodide of potassium. For these liquids the liquid
+hyposulphites have been advantageously substituted, which are
+the most efficacious in dissolving and removing the unchanged
+salt, leaving the reduced silver on the paper. The calotype
+picture is negative, that is, the lights and shadows are the reverse
+of what they are in nature, and the right-hand side in nature
+is the left in the picture; but if it be placed with its face pressed
+against photographic paper, between a board and a plate of glass,
+and exposed to the sun a short time, a positive and direct picture,
+as it is in nature, is formed: engravings may be exactly copied
+205by this simple process, and a direct picture may be produced at
+once by using photographic paper already made brown by exposure
+to light.
+While Mr. Fox Talbot was engaged in these very elegant
+discoveries in England, M. Daguerre had brought to perfection
+and made public that admirable process by which he has compelled
+Nature permanently to engrave her own works; and thus
+the talents of France and England have been combined in bringing
+to perfection this useful art. Copper, plated with silver,
+was successfully employed by M. Daguerre for copying nature
+by the agency of light. The surface of the plate is converted
+into an iodide of silver, by placing it horizontally with its face
+downwards in a covered box, in the bottom of which there is a
+small quantity of iodine which evaporates spontaneously. In
+three or four minutes the surface acquires a yellow tint, and
+then, screening it carefully from light, it must be placed in the
+focus of a camera obscura, where an invisible image of external
+objects will be impressed on it in a few minutes. When taken
+out, the plate must be exposed in another box to the action of
+mercurial vapour, which attaches itself to those parts of the
+plate which had been exposed to light, but does not adhere to
+such parts as had been in shadow; and as the quantity of
+mercury over the other parts is in exact proportion to the
+degree of illumination, the shading of the picture is perfect.
+The image is fixed, first by removing the iodine from the plate
+by plunging it into hyposulphite of soda, and then washing it
+in distilled water; by this process the yellow colour is destroyed,
+and in order to render the mercury permanent, the plate must
+be exposed a few minutes to nitric vapour, then placed in nitric
+acid containing copper or silver in solution at a temperature of
+611⁄4°
+of Fahrenheit for a short time, and lastly polished with
+chalk. This final part of the process is due to Dr. Berre, of
+Vienna.
+Nothing can be more beautiful than the shading of these chiaroscuro
+pictures when objects are at rest, but the least motion
+destroys the effect; the method therefore is more applicable to
+buildings than landscape. Colour is wanting; but the researches
+of Sir John Herschel give reason to believe that even this will
+ultimately be attained.
+The most perfect impressions of seaweeds, leaves of plants,
+206feathers, &c., may be formed by bringing the object into close
+contact with a sheet of photographic paper, between a board and
+plate of glass; then exposing the whole to the sun for a short time,
+and afterwards fixing it by the process described. The colours
+of the pictures vary with the preparation of the paper, by which
+almost any tint may be produced.
+In the chromatype, a peculiar photograph discovered by Mr.
+Hunt, chromate of copper is used, on which a dark brown negative
+image is first formed, but by the continued action of light it is
+changed to a positive yellow picture on a white ground; the
+farther effect of light is checked by washing the picture in pure
+water.
+In cyanotypes, a class of photographs discovered by Sir John
+Herschel, in which cyanogen in its combinations with iron forms
+the ground, the pictures are Prussian blue and white. In the
+chrysotype of the same eminent philosopher, the image is first
+received on paper prepared with the ammonia-citrate of iron, and
+afterwards washed with a neutral solution of gold. It is fixed
+by water acidulated with sulphuric acid, and lastly by hydriodate
+of potash, from which a white and purple photograph results.
+It is vain to attempt to describe the various beautiful effects
+which Sir John Herschel obtained from chemical compounds, and
+from the juices of plants; the juice of the red poppy gives a
+positive bluish purple image, that of the ten-week stock a fine
+rose colour on a pale straw-coloured ground.
+Pictures may be made by exposure to sunshine, on all compound
+substances having a weak chemical affinity; but the
+image is often invisible, as in the Daguerreotype, till brought out
+by washing in some chemical preparation. Water is frequently
+sufficient; indeed Sir John Herschel brought out dormant photographs
+by breathing on them, and some substances are insensible
+to the action of light till moistened, as for example, gum
+guaiacum. Argentine papers, however, are little subject to the
+influence of moisture. The power of the solar rays is augmented
+in certain cases by placing a plate of glass in close contact over
+the sensitive surface.
+All these various experiments, though highly interesting, have
+now been superseded. It was found that paper did not always
+answer for photography, on account of imperfections in its
+structure; silver plates were too expensive; and glass was
+207found to be unimpressable. Nevertheless, M. Niepcé de Victor
+obtained beautiful results upon glass coated with albumen mixed
+with sensitive substances, which suggested the medium by means
+of which the art has been brought to its present perfection, and
+that final step is due to Mr. Scott Archer. He coated a plate
+of glass thinly with collodion, that is, gun-cotton dissolved in
+ether and alcohol, which dries into a delicate transparent film
+of extreme adhesiveness, and of such intense sensibility that the
+action of light upon it is so instantaneous that it arrests a stormy
+sea or a fleeting cloud before they have time to change. Now
+landscapes in chiaroscuro are produced of great beauty, which
+by the slower methods were mere masses of deep shade and
+broad light. Architecture is even more perfectly obtained,
+but it fails to give a pleasing representation of the human
+countenance.
+Chemical action always accompanies the sun’s light, but the
+analysis of the solar spectrum has partly disclosed the wonderful
+nature of the emanation. In the research, properties most important
+and unexpected have been discovered by Sir John
+Herschel, who imprints the stamp of genius on all he touches—his
+eloquent papers can alone convey an adequate idea of their
+value in opening a field of inquiry vast and untrodden. The
+following brief and imperfect account of his experiments is all
+that can be attempted here:—
+A certain degree of chemical energy is distributed through
+every part of the solar spectrum, and also to a considerable
+extent through the dark spaces at each extremity. This distribution
+does not depend on the refrangibility of the rays
+alone, but also on the nature of the rays themselves, and on
+the physical properties of the analyzing medium on which the
+rays are received, whose changes indicate and measure their
+action. The length of the photographic image of the same solar
+spectrum varies with the physical qualities of the surface on
+which it is impressed. When the solar spectrum is received on
+paper prepared with bromide of silver, the chemical spectrum,
+as indicated merely by the length of the darkened part, includes
+within its limits the whole luminous spectrum, extending in
+one direction far beyond the extreme violet and lavender rays,
+and in the other down to the extremest red: with tartrate of
+silver the darkening occupies not only all the space under the
+208most refrangible rays, but reaches much beyond the extreme red.
+On paper prepared with formobenzoate of silver the chemical
+spectrum is cut off at the orange rays, with phosphate of silver
+in the yellow, and with chloride of gold it terminates with the
+green, with carbonate of mercury it ends in the blue, and on
+paper prepared with the percyanide of gold, ammonia, and
+nitrate of silver, the darkening lies entirely beyond the visible
+spectrum at its most refrangible extremity, and is only half its
+length, whereas in some cases chemical action occupies a space
+more than twice the length of the luminous image.
+The point of maximum energy of chemical action varies as
+much for different preparations as the scale of action. In the
+greater number of cases the point of deepest blackening lies
+about the lower edge of the indigo rays, though in no two cases
+is it exactly the same, and in many substances it is widely
+different. On paper prepared with the juice of the ten-week
+stock (Mathiola annua) there are two maxima, one in the mean
+yellow and a weaker in the violet; and on a preparation of
+tartrate of silver Sir John Herschel found three, one in the least
+refrangible blue, one in the indigo, and a third beyond the visible
+violet. The decrease in photographic energy is seldom perfectly
+alike on both sides of the maximum. Thus at the most refrangible
+end of the solar spectrum the greatest chemical power
+is exerted in most instances where there is least light and heat,
+and even in the space where both sensibly cease.
+Not only the intensity but the kind of action is different in
+the different points of the solar spectrum, as evidently appears
+from the various colours that are frequently impressed on the
+same analyzing surface, each ray having a tendency to impart
+its own colour. Sir John Herschel obtained a coloured image
+of the solar spectrum on paper prepared according to Mr. Talbot’s
+principle, from a sunbeam refracted by a glass prism and then
+highly condensed by a lens. The photographic image was
+rapidly formed and very intense, and, when withdrawn from
+the spectrum and viewed in common daylight, it was found to
+be coloured with sombre but unequivocal tints imitating the
+prismatic colours, which varied gradually from red through
+green and blue to a purplish black. After washing the surface
+in water, the tints became more decided by being kept a few
+days in the dark—a phenomenon, Sir John observes, of constant
+209occurrence, whatever be the preparation of the paper, provided
+colours are produced at all. He also obtained a coloured image
+on nitrate of silver, the part under the blue rays becoming a blue
+brown, while that under the violet had a pinkish shade, and
+sometimes green appeared at the point corresponding to the least
+refrangible blue. Mr. Hunt found on a paper prepared with
+fluoride of silver that a yellow line was impressed on the space
+occupied by the yellow rays, a green band on the space under
+the green rays, an intense blue throughout the space on which
+the blue and indigo rays fell, and under the violet rays a ruddy
+brown appeared; these colours remained clear and distinct after
+being kept two months.
+Notwithstanding the great variety in the scale of action of
+the solar spectrum, the darkening or deoxydizing principle that
+prevails in the more refrangible part rarely surpasses or even
+attains the mean yellow ray which is the point of maximum
+illumination; it is generally cut off abruptly at that point
+which seems to form a limit between the opposing powers which
+prevail at the two ends of the spectrum. The bleaching or
+oxydizing effect of the red rays on blackened muriate of silver
+discovered by M. Ritter of Jena, and the restoration by the
+same rays of discoloured gum guaiacum to its original tint by Dr.
+Wollaston, have already been mentioned as giving the first indications
+of that difference in the mode of action of the chemical rays at
+the two ends of the visible spectrum, now placed beyond a doubt.
+The action exerted by the less refrangible rays beyond and
+at the red extremity of the solar spectrum, in most instances,
+so far from blackening metallic salts, protects them from the
+action of the diffused daylight: but, if the prepared surface has
+already been blackened by exposure to the sun, they possess the
+remarkable property of bleaching it in some cases, and under
+other circumstances of changing the black surface into a fiery red.
+Sir John Herschel, to whom we owe most of our knowledge
+of the properties of the chemical spectrum, prepared a sheet of
+paper by washing it with muriate of ammonia, and then with
+two coats of nitrate of silver; on this surface he obtained an
+impression of the solar spectrum exhibiting a range of colours
+very nearly corresponding with its natural hues. But a very
+remarkable phenomenon occurred at the end of least refrangibility;
+the red rays exerted a protecting influence which preserved
+210the paper from the change which it would otherwise have
+undergone from the deoxydizing influence of the dispersed light
+which always surrounds the solar spectrum, and this maintained
+its whiteness. Sir John met with another instance on paper
+prepared with bromide of silver, on which the whole of the space
+occupied by the visible spectrum was darkened down to the very
+extremity of the red rays, but an oxydizing action commenced
+beyond the extreme red, which maintained the whiteness of the
+paper to a considerable distance beyond the last traceable limit
+of the visible rays, thus evincing decidedly the existence of
+some chemical power over a considerable space beyond the least
+refrangible end of the spectrum. Mr. Hunt also found that on
+the Daguerreotype plate a powerful protecting influence is exercised
+by the extreme red rays. In these cases the red and those
+dark rays beyond them exert an action of an opposite nature to
+that of the violet and lavender rays.
+The least refrangible part of the solar spectrum possesses also,
+under certain circumstances, a bleaching property, by which the
+metallic salts are restored to their original whiteness after being
+blackened by exposure to common daylight, or to the most
+refrangible rays of the solar spectrum.
+Paper prepared with iodide of silver, when washed over with
+ferrocyanite of potash, blackens rapidly when exposed to the
+solar spectrum. It begins in the violet rays and extends over
+all the space occupied by the dark chemical rays, and over the
+whole visible spectrum down to the extreme red rays. This
+image is coloured, the red rays giving a reddish tint and the
+blue a blueish. In a short time a bleaching process begins
+under the red rays, and extends upwards to the green, but the
+space occupied by the extreme red is maintained perfectly dark.
+Mr. Hunt found that a similar bleaching power is exerted by
+the red rays on paper prepared with protocyanide of potassium
+and gold with a wash of nitrate of silver.
+The application of a moderately strong hydriodate of potash
+to darkened photographic paper renders it peculiarly susceptible
+of being whitened by further exposure to light. If paper prepared
+with bromide of silver be washed with ferrocyanate of
+potash while under the influence of the solar spectrum, it is
+immediately darkened throughout the part exposed to the visible
+rays down to the end of the red, some slight interference being
+211perceptible about the region of the orange and yellow. After
+this a bleaching action begins over the part occupied by the red
+rays, which extends to the green. By longer exposure an oval
+spot begins again to darken about the centre of the bleached
+space; but, if the paper receive another wash of the hydriodate
+of potash, the bleaching action extends up from the green, over
+the region occupied by the most refrangible rays and considerably
+beyond them, thus inducing a negative action in the most
+refrangible part of the spectrum.
+In certain circumstances the red rays, instead of restoring
+darkened photographic paper to its original whiteness, produce
+a deep red colour. When Sir John Herschel received the spectrum
+on paper somewhat discoloured by exposure to direct
+sunshine, instead of whiteness, a red border was formed extending
+from the space occupied by the orange, and nearly covering
+that on which the red fell. When, instead of exposing the
+paper in the first instance to direct sunshine, it was blackened
+by the violet rays of a prismatic spectrum, or by a sunbeam that
+had undergone the absorptive action of a solution of ammonia-sulphate
+of copper, the red rays of the condensed spectrum produced
+on it, not whiteness, but a full and fiery red, which
+occupied the whole space on which any of the visible red rays
+had fallen; and this red remained unchanged, however long the
+paper remained exposed to the least refrangible rays.
+Sunlight transmitted through red glass produces the same
+effect as the red rays of the spectrum in the foregoing experiment.
+Sir John Herschel placed an engraving over a paper
+blackened by exposure to sunshine, covering the whole with a
+dark red-brown glass previously ascertained to absorb every ray
+beyond the orange: in this way a photographic copy was obtained
+in which the shades were black, as in the original
+engraving; but the lights, instead of being white, were of the
+red colour of venous blood, and no other colour could be obtained
+by exposure to light, however long. Sir John ascertained that
+every part of the spectrum impressed by the more refrangible
+rays is equally reddened, or nearly so, by the subsequent action
+of the less refrangible; thus the red rays have the very remarkable
+property of assimilating to their own colour the blackness
+already impressed on photographic paper.
+That there is a deoxydating property in the more refrangible
+212rays, and an oxydating action in the less refrangible part of the
+spectrum, is manifest from the blackening of one and the
+bleaching effect of the other; but the peculiar action of the red
+rays in the experiments mentioned shows that some other principle
+exists different from contrariety of action. These opposite
+qualities are balanced or neutralized in the region of the mean
+yellow ray. But, although this is the general character of the
+photographic spectrum, under certain circumstances even the red
+rays have a deoxydating power, while the blue and violet exert
+a contrary influence; but these are rare exceptions.
+The photographic action of the two portions of the solar spectrum
+being so different, Sir John Herschel tried the effect of
+their united action by superposing the less refrangible part of
+the spectrum over the more refrangible portion by means of two
+prisms; and he thus discovered that two rays of different refrangibility,
+and therefore of different lengths of undulation, acting
+simultaneously, produce an effect which neither, acting separately,
+can do.
+Some circumstances that occurred during the analysis of the
+chemical spectrum seem to indicate an absorptive action in the
+sun’s atmosphere. The spectral image impressed on paper prepared
+with nitrate of silver and Rochelle salt commenced at, or
+very little below, the mean yellow ray, of a delicate lead colour;
+and when the action was arrested, such was the character of the
+whole photographic spectrum. But, when the light of the solar
+spectrum was allowed to continue its action, there was observed
+to come on suddenly a new and much more intense impression of
+darkness, confined in length to the blue and violet rays; and,
+what is most remarkable, confined also in breadth to the middle
+of the sun’s image, so far at least as to leave a border of the
+lead-coloured spectrum traceable, not only round the clear and
+well-defined convexity of the dark interior spectrum at the less
+refrangible end, but also laterally along both its edges; and this
+border was the more easily traced, and less liable to be mistaken,
+from its striking contrast of colour with the interior spectrum,
+the former being lead gray, the latter an extremely rich deep
+velvety brown. The less refrangible end of this interior brown
+spectrum presented a sharply terminated and regularly elliptical
+contour, the more refrangible a less decided one. “It may
+seem too hazardous,” Sir John continues, “to look for the cause
+213of this very singular phenomenon in a real difference between the
+chemical agencies of those rays which issue from the central portion
+of the sun’s disc, and those which, emanating from its
+borders, have undergone the absorptive action of a much greater
+depth of its atmosphere; and yet I confess myself somewhat at
+a loss what other cause to assign for it. It must suffice, however,
+to have thrown out the hint, remarking only, that I have other,
+and I am disposed to think decisive, evidence of the existence of
+an absorptive solar atmosphere extending beyond the luminous
+one.” M. Arago observed that the rays from the centre of the
+sun have a greater photographic power than those from the edges,
+and the photographic images of the sun, taken on glass by M.
+Niepcé, were blood-red, much deeper in the centre, and on one
+occasion the image was surrounded by an auriol. Several circumstances
+concur in showing that there are influences also
+concerned in the transmission of the photographic action which
+have not yet been explained, as, for example, the influence which
+the time of the day exercises on the rapidity with which photographic
+impressions are made, the sun being much less effective
+two hours after passing the meridian than two hours before.
+There is also reason to suspect that the effect in some way depends
+on the latitude, since a much longer time is required to obtain an
+image under the bright skies of the tropics than in England; and
+it is even probable that there is a difference in the sun’s light
+in high and low latitudes, because an image of the solar spectrum,
+obtained on a Daguerreotype plate in Virginia, by Dr.
+Draper, differed from a spectral image obtained by Mr. Hunt on
+a similar plate in England. The inactive spaces discovered in
+the photographic spectrum by M. E. Becquerel, similar to those
+in the luminous spectrum, and coinciding with them, is also a
+phenomenon of which no explanation has yet been given; possibly
+the chemical rays may be absorbed by the atmosphere with
+those of light. Although chemical action extends over the whole
+luminous spectrum, and much beyond it, in gradations of more
+or less intensity, it is found by careful investigation to be by no
+means continuous; numerous inactive lines cross it, coinciding
+with those in the luminous image as far as it extends; besides, a
+very great number exist in the portions that are obscure, and
+which overlap the visible part. There are three extraspectral
+lines beyond the red, and some strongly marked groups on the
+214obscure part beyond the violet; but the whole number of those
+inactive lines, especially in the dark spaces, is so great that it is
+impossible to count them.
+Notwithstanding this coincidence in the inactive lines of the
+two spectra, photographic energy is independent of both light and
+heat, since it exerts the most powerful influence in those rays
+where they are least, and also in spaces where neither sensibly
+exist; but the transmission of the sun’s light through coloured
+media makes that independence quite evident. Heat and light
+pass abundantly through yellow glass, or a solution of chromate
+of potash; but the greater part of the chemical rays are excluded,
+and chlorine gas diluted with common air, though highly pervious
+to the luminous and calorific principles, has the same effect. Sir
+John Herschel found that a slight degree of yellow London fog
+had a similar effect with that of pale yellow media: he also remarked
+that a weak solution of azolitmine in potash, which
+admits a great quantity of green light, excludes chemical action;
+and some years ago the author, while making experiments on the
+transmission of chemical rays, observed that green glass, coloured
+by oxide of copper about the 20th of an inch thick, excludes the
+photographic rays; and, as M. Melloni has shown that substance
+to be impervious to the most refrangible calorific rays, it has the
+property of excluding the whole of the most refrangible part of
+the solar spectrum, visible and invisible. Green mica, if not too
+thin, has also the same effect, whereas amethyst, deep blue, and
+violet-coloured glasses, though they transmit a very little light,
+allow the chemical rays to pass freely. Thus light and photographic
+energy may be regarded as distinct parts of the solar
+beam, and both being propagated by vibrations of the etherial
+medium they are merely motion. Excellent images have been
+obtained of the moon in its different phases by Professor Secchi,
+at Rome; candlelight is nearly deficient of the chemical rays.
+How far they may influence crystallization and other molecular
+arrangements is unknown, but their power is universal wherever
+the solar beam falls, although their effect only becomes evident
+in cases of unstable molecular equilibrium.
+It is not by vision alone that a knowledge of the sun’s rays is
+acquired: touch proves that they have the power of raising the
+temperature of substances exposed to their action. Sir William
+Herschel discovered that rays which produce the sensation of heat
+215exist in the solar spectrum independent of those of light; when
+he used a prism of flint glass, he found that the warm rays are
+most abundant in the dark space a little beyond the red extremity
+of the spectrum, that from thence they decrease towards the
+violet, beyond which they are insensible. It may be concluded
+therefore, that the calorific rays vary in refrangibility, and that
+those beyond the extreme red are less refrangible than any rays
+of light. Since Sir William Herschel’s time it has been discovered
+that the calorific spectrum exceeds the luminous one in
+length in the ratio of 42 to 25, but the most singular phenomenon
+is its want of continuity. Sir John Herschel blackened the
+under side of a sheet of very thin white paper by the smoke of a
+lamp, and, having exposed the white side to the solar spectrum,
+he drew a brush dipped in spirit of wine over it, by which the
+paper assumed a black hue when sufficiently saturated. The
+heat in the spectrum evaporated the spirit first on those parts of
+the paper where it fell with greatest intensity, thereby restoring
+their white colour, and he thus discovered that the heat increases
+uniformly and gradually throughout the luminous spectrum, and
+that it comes to a maximum and forms a spot at a considerable
+distance beyond the extreme red. It then decreases, but again
+increasing it forms a second maximum spot, after which it ceases
+altogether through a short space, but is again renewed and forms
+two more insulated spots, and even a fifth may be traced at a
+little distance from the latter. These circumstances are probably
+owing to the absorbing action of the atmospheres of the sun and
+earth. “The effect of the former,” says Sir John, “is beyond our
+control, unless we could carry our experiments to such a point of
+delicacy as to operate separately on rays emanating from the
+centre and borders of the sun’s disc; that of the earth’s, though
+it cannot be eliminated any more than in the case of the sun’s,
+may yet be varied to a considerable extent by experiments made
+at great elevations, under a vertical sun, and compared with
+others where the sun is more oblique, the situation lower, and
+the atmospheric pressure of a temporarily high amount. Should
+it be found that this cause is in reality concerned in the production
+of the spots, we should see reason to believe that a large
+portion of solar heat never reaches the earth’s surface, and that
+what is incident on the summits of lofty mountains differs not
+only in quantity but also in quality from what the plains receive.”
+216A remarkable phosphorescent property was discovered by M. E.
+Becquerel in the solar spectrum. Two luminous bands separated
+by a dark one are excited by the solar spectrum on paper covered
+with a solution of gum arabic, and strewed with powdered sulphuret
+of calcium or Canton’s phosphorus. One of the luminous
+bands occupies the space under the least refrangible violet rays,
+and the other that beyond the lavender rays, so that the dark
+band lies under the extreme violet and lavender rays. When the
+action of the light is continued, the whole surface beyond the
+least refrangible violet shines, the luminous bands already mentioned
+brightest; but all the space from the least refrangible
+violet to the extreme red remains dark. If the surface, prepared
+either with the sulphuret of calcium or Bologna stone, be exposed
+to the sun’s light for a little time, it becomes luminous all over;
+but when, in this state, a solar spectrum is thrown upon it, the
+whole remains luminous except the part from the least refrangible
+violet to the extreme red, on which space the light is extinguished;
+and when the temperature of the surface is raised by a lamp, the
+bright parts become more luminous and the dark parts remain
+dark. Glass stained by the protoxide of copper, which transmits only
+the red and orange rays, has the same effect with the less refrangible
+part of the spectrum; hence there can be no doubt that the most refrangible
+and obscure rays of the spectrum excite phosphorescence,
+while all the less refrangible rays of light and heat extinguish it.
+Paper prepared with the sulphuret of barium, when under the
+solar spectrum, shows only one space of maximum luminous intensity,
+and the destroying rays are the same as in the sulphuret
+of calcium. Thus the obscure rays beyond the extreme violet
+produce light, while the luminous rays extinguish it.
+The phosphoric spectrum has inactive lines which coincide with
+those in the luminous and chemical spectra, at least as far as it
+extends; but in order to be seen the spectrum must be received
+for a few seconds upon the prepared surface through an aperture
+in a dark room, then the aperture must be closed, and the temperature
+of the surface raised two or three hundred degrees; the
+phosphorescent parts then shine brilliantly and the dark lines
+appear black. Since the parts of similar refrangibility in different
+spectra are traversed by the same dark lines, rays of the same
+refrangibility are probably absorbed at the same time by the different
+media through which they pass.
+217It appears from the experiments of MM. Becquerel and Biot,
+that electrical disturbances produce these phosphorescent effects.
+There is thus a mysterious connexion between the most refrangible
+rays and electricity which the experiments of M. E. Becquerel
+confirm, showing that electricity is developed during chemical
+action by the violet rays, that it is feebly developed by the
+blue and indigo, but that none is excited by the less refrangible
+part of the spectrum.
+A series of experiments by Sir John Herschel have disclosed
+a new set of obscure rays in the solar spectrum, which seem to
+bear the same relation to those of heat that the photographic or
+chemical rays bear to the luminous. They are situate in that
+part of the spectrum which is occupied by the less refrangible
+visible colours, and have been named by their discoverer Parathermic
+rays. It must be held in remembrance that the region
+of greatest heat in the solar spectrum lies in the dark space
+beyond the visible red. Now, Sir John Herschel found that in
+experiments with a solution of gum guaiacum in soda, which
+gives the paper a green colour, the green, yellow, orange, and
+red rays of the spectrum invariably discharged the colour, while
+no effect was produced by the extra-spectral rays of heat, which
+ought to have had the greatest effect had heat been the cause of
+the phenomenon. When an aqueous solution of chlorine was
+poured over a slip of paper prepared with gum guaiacum dissolved
+in soda, a colour varying from a deep somewhat greenish
+hue to a fine celestial blue was given to it; and, when the solar
+spectrum was thrown on the paper while moist, the colour was
+discharged from all the space under the less refrangible luminous
+rays, at the same time that the more distant thermic rays beyond
+the spectrum evaporated the moisture from the space on which
+they fell; so that the heat spots became apparent. But the
+spots disappeared as the paper dried, leaving the surface unchanged;
+while the photographic impression within the visible
+spectrum increased in intensity; the non-luminous thermic rays,
+though evidently active as to heat, were yet incapable of effecting
+that peculiar chemical change which other rays of much less
+heating power were all the time producing. Sir John having
+ascertained that an artificial heat from 180° to 280° of Fahrenheit
+changed the green tint of gum guaiacum to its original yellow
+hue when moist, but that it had no effect when dry, he therefore
+218tried whether heat from a hot iron applied to the back of
+the paper used in the last-mentioned experiment while under
+the influence of the solar spectrum might not assist the action
+of the calorific rays; but, instead of doing so, it greatly accelerated
+the discoloration over the spaces occupied by the less
+refrangible rays, but had no effect on the extra-spectral region
+of maximum heat. Obscure terrestrial heat, therefore, is capable
+of assisting and being assisted in effecting this peculiar change
+by those rays of the spectrum, whether luminous or thermic,
+which occupy its red, yellow, and green regions; while, on the
+other hand, it receives no such assistance from the purely
+thermic rays beyond the spectrum acting under similar circumstances
+and in an equal state of condensation.
+The conclusions drawn from these experiments are confirmed
+by that which follows: a photographic picture formed on paper
+prepared with a mixture of the solutions of ammonia-citrate of
+iron and ferro-sesquicyanite of potash in equal parts, then thrown
+into water and afterwards dried, will be blue and negative, that
+is to say, the lights and shadows will be the reverse of what
+they are in nature. If in this state the paper be washed with a
+solution of proto-nitrate of mercury, the picture will be discharged;
+but if it be well washed and dried, and a hot smoothing-iron
+passed over it, the picture instantly reappears, not blue, but
+brown; if kept some weeks in this state in perfect darkness
+between the leaves of a portfolio, it fades, and almost entirely
+vanishes, but a fresh application of heat restores it to its full
+original intensity. This curious change is not the effect of light, at
+least not of light alone. A certain temperature must be attained,
+and that suffices in total darkness; yet, on exposing to a very concentrated
+spectrum a slip of the paper used in the last experiment,
+after the uniform blue colour has been discharged and a white
+ground left, this whiteness is changed to brown over the whole region
+of the red and orange rays, but not beyond the luminous spectrum.
+Sir John thence concludes:—1st. That it is the heat of these
+rays, not their light, which operates the change; 2ndly. That
+this heat possesses a peculiar chemical quality which is not possessed
+by the purely calorific rays outside of the visible spectrum,
+though far more intense; and, 3rdly. That the heat radiated
+from obscurely hot iron abounds especially in rays analogous to
+those of the region of the spectrum above indicated.
+219Another instance of these singular transformations may be
+noticed. The pictures formed on cyanotype paper rendered more
+sensitive by the addition of corrosive sublimate are blue on a
+white ground and positive, that is, the lights and shadows are
+the same as in nature, but, by the application of heat, the colour
+is changed from blue to brown, from positive to negative; even
+by keeping in darkness the blue colour is restored, as well as the
+positive character. Sir John attributes this, as in the former
+instance, to certain rays, which, regarded as rays of heat or light,
+or of some influence sui generis accompanying the red and orange
+rays of the spectrum, are also copiously emitted by bodies heated
+short of redness. He thinks it probable that these invisible parathermic
+rays are the rays which radiate from molecule to molecule
+in the interior of bodies, that they determine the discharge
+of vegetable colours at the boiling temperature, and also the
+innumerable atomic transformations of organic bodies which take
+place at the temperature below redness, that they are distinct from
+those of pure heat, and that they are sufficiently identified by
+these characters to become legitimate objects of scientific discussion.
+The calorific and parathermic rays appear to be intimately
+connected with the discoveries of Messrs. Draper and Moser.
+Daguerre has shown that the action of light on the iodide of
+silver renders it capable of condensing the vapour of mercury
+which adheres to the parts affected by it. Professor Moser of
+Königsberg has proved that the same effect is produced by the
+simple contact of bodies, and even by their very near juxtaposition,
+and that in total darkness as well as in light. This
+discovery he announced in the following words:—“If a surface
+has been touched in any particular parts by any body, it acquires
+the property of precipitating all vapours, and these adhere to it
+or combine chemically with it on these spots differently from what
+they do on the untouched parts.” If we write on a plate of glass
+or any smooth surface whatever with blotting-paper, a brush, or
+anything else, and then clean it, the characters always reappear
+if the plate or surface be breathed upon, and the same effect may
+be produced even on the surface of mercury; nor is absolute contact
+necessary. If a screen cut in a pattern be held over a polished
+metallic surface at a small distance, and the whole breathed on,
+after the vapour has evaporated so that no trace is left on the
+surface, the pattern comes out when it is breathed on again.
+220Professor Moser proved that bodies exert a very decided influence
+upon each other, by placing coins, cut stones, pieces of horn,
+and other substances, for a short time on a warm metallic plate:
+when the substance was removed, no impression appeared on the
+plate till it was breathed upon or exposed to the vapour of mercury,
+and then these vapours adhered only to the parts where the
+substance had been placed, making distinct images, which in
+some cases were permanent after the vapour was removed.
+Similar impressions were obtained on glass and other substances
+even when the bodies were not in contact, and the results were
+the same whether the experiments were performed in light or in
+darkness.
+Mr. Grove found, when plates of zinc and copper were closely
+approximated, but not in contact, and suddenly separated, that
+one was positively and the other negatively electric; whence he
+inferred that the intervening medium was either polarised, or
+that a radiation analogous, if not identical, with that which produces
+Moser’s images takes place from plate to plate.
+Mr. Hunt has shown that many of these phenomena depend
+on difference of temperature, and that, in order to obtain good
+impressions, dissimilar metals must be used. For example, gold,
+silver, bronze, and copper coins were placed on a plate of copper
+too hot to be touched, and allowed to remain till the plate
+cooled: all the coins had made an impression, the distinctness
+and intensity of which were in the order of the metals named.
+When the plate was exposed to the vapour of mercury the result
+was the same, but, when the vapour was wiped off, the gold and
+silver coins only had left permanent images on the copper.
+These impressions are often minutely perfect, whether the coins
+are in actual contact with the plate or one-eighth of an inch
+above it. The mass of the metal has a material influence on the
+result; a large copper coin makes a better impression on a copper
+plate than a small silver coin. When coins of different metals
+are placed on the same plate they interfere with each other.
+When, instead of being heated, the copper plate was cooled by
+a freezing mixture, and bad conductors of heat laid upon it, as
+wood, paper, glass, &c., the result was similar.
+Mr. Hunt, observing that a black substance leaves a stronger
+impression on a metallic surface than a white, applied the property
+to the art of copying prints, woodcuts, writing, and
+221printing, on copper amalgamated on one surface and highly
+polished, merely by placing the object to be copied smoothly on
+the metal, and pressing it into close contact by a plate of glass:
+after some hours the plate is subjected to the vapour of mercury,
+and afterwards to that of iodine, when a black and accurate impression
+of the object comes out on a grey ground. Effects
+similar to those attributed to heat may also be produced by electricity.
+Mr. Karsten, by placing a glass plate upon one of
+metal, and on the glass plate a medal subjected to discharges of
+electricity, found a perfect image of the medal impressed on the
+glass, which could be brought into evidence by either mercury
+or iodine; and, when several plates of glass were interposed
+between the medal and the metallic plate, each plate of glass
+received an image on its upper surface after the passage of electrical
+discharges. These discharges have the remarkable power
+of restoring impressions that have been long obliterated from
+plates by polishing—a proof that the disturbances upon which
+these phenomena depend are not confined to the surface of the
+metals, but that a very decided molecular change has taken place
+to a considerable depth. Mr. Hunt’s experiments prove that the
+electro-negative metals make the most decided images upon
+electro-negative plates, and vice versâ. M. Matteucci has shown
+that a discharge of electricity does not visibly affect a polished
+silver plate, but that it produces an alteration which renders it
+capable of condensing vapour.
+The impression of an engraving was made by laying it face
+downwards on a silver plate iodized, and placing an amalgamated
+copper plate upon it; it was left in darkness fifteen hours, during
+which time an impression of the engraving had been made on the
+amalgamated plate through the paper.
+An iodized silver plate was placed in darkness with a coil of
+string laid on it, and with a polished silver plate suspended one-eighth
+of an inch above it: after four hours they were exposed
+to the vapours of mercury, which became uniformly deposited on
+the iodized plate, but on the silver one there was a sharp image
+of the string, so that this image was formed in the dark, and
+even without contact. Coins or other objects leave their impressions
+in the same manner with perfect sharpness and accuracy,
+when brought out by vapour without contact, in darkness, and
+on simple metals.
+222Red and orange coloured media, smoked glass, and all bodies
+that transmit or absorb the hot rays freely, leave strong impressions
+on a plate of copper, whether they be in contact or one-eighth
+of an inch above it. Heat must be concerned in this, for
+a solar spectrum concentrated by a lens was thrown on a polished
+plate of copper, and kept on the same spot by a heliostat for two
+or three hours: when exposed to mercurial vapour, a film of the
+vapour covered the plate where the diffused light which always
+accompanies the solar spectrum had fallen. On the obscure
+space occupied by the maximum heating power of Sir William
+Herschel, and also on the great heat spot in the thermic spectrum
+of Sir John Herschel, the condensation of the mercury was so
+thick that it stood out a distinct white spot on the plate, while
+over the whole space that had been under the visible spectrum
+the quantity of vapour was much less than that which covered
+the other parts, affording distinct evidence of a negative effect in
+the luminous spectrum and of the power of the hot rays, which
+is not always confined to the surface of the metal, since in many
+instances the impressions penetrated to a considerable depth
+below it, and consequently were permanent.
+Several of these singular effects appear to be owing to the
+mutual action of molecules in contact while in a different state,
+whether of electricity or temperature: others clearly point at
+some unknown influence exerted between surfaces at a distance,
+and affecting their molecular structure: possibly it may be the
+parathermic rays, which have a peculiar chemical action even in
+total darkness. In the last experiment the effect is certainly
+produced by the positive portion of one of those remarkable
+antagonist principles which characterise the solar spectrum.
+Thus it appears that the prism resolves the pure white sunbeam
+into three superposed spectra, each varying in refrangibility and
+intensity throughout its whole length; the visible part is overlapped
+at one end by the chemical or photographic rays, and at
+the other by the thermic, but the two latter so much exceed the
+visible part, that the linear dimensions of the three—the luminous,
+thermic, and photographic—are in proportion to the numbers
+25, 42·10, and 55·10, so that the whole solar spectrum is twice
+as long as its visible part. The two extremities exert a decided
+antagonist energy. The least refrangible luminous rays
+obliterate the action of the photographic rays, while the latter
+223produce phosphorescent light, which is extinguished by the
+least refrangible luminous rays. According to Mr. Hunt’s experiment,
+the hot rays condense mercurial vapour on a polished
+metallic plate, while the luminous rays prevent its formation.
+Electricity is excited by the chemical rays, while the parathermic
+are found in the less refrangible rays alone. Each of the spectra
+is crossed by coloured and rayless lines peculiar to itself, and
+these are traversed at right angles by innumerable dark lines of
+various breadths, the whole forming an inexpressibly wonderful
+and glorious creation.
+The arrangement varies a little according to the material of
+the prism and the manner of producing the spectrum, as in that
+obtained by Professor Draper from diffracted light. It was
+formed by a beam diffracted by passing through a netting of
+fine wire, or by reflection from a polished surface of steel, having
+fine parallel lines drawn on it. This diffracted spectrum is
+divided into two equal parts in the centre of the yellow; and
+as in the prismatic spectrum, one half is antagonist to the other
+half, the red or negative end undoing what the positive or
+violet end has done. The centre of the yellow is the hottest
+part, and the heat decreases to both extremities. A line of cold
+is supposed to exist on this spectrum answering to Fraunhofer’s
+dark line H.
+The undulations of the ethereal medium which constitute a
+sunbeam must be infinitely varied, each influence having a
+vibration peculiar to itself. Those of light are certainly transverse
+to the direction of the ray; while Professor Draper believes
+that those of heat are normal, that is, in the direction of the ray,
+like those of sound. A doubt exists whether the vibrations of
+polarised light are perpendicular to the plane of polarisation or
+in that plane. Professor Stokes of Cambridge has come to the
+conclusion, both from the diffracted spectrum and theory, that
+they are perpendicular to the plane of polarisation, but M. Holtzmann
+is of opinion that they are in that plane, so the subject
+is still open to discussion.</div></body></text></TEI>
