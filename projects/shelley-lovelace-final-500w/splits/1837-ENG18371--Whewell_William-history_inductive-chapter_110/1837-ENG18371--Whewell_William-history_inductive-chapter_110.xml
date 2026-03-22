@@ -1,0 +1,107 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="110">CHAPTER VI.
+Correction of the Law of the same Angle for the same
+Substance.
+DISCOVERY of Isomorphism.
+Mitscherlich.—The discovery of which we now have to speak
+may appear at first sight too large to be included in the history of
+crystallography, and may seem to belong rather to chemistry. But it is
+to be recollected that crystallography, from the time of its first
+assuming importance in the hands of Haüy, founded its claim to notice
+entirely upon its connexion with chemistry; crystalline forms were
+properties of something; but what that something
+was, and how it might be modified without becoming something else, no
+crystallographer could venture to decide, without the aid of chemical
+analysis. Haüy had assumed, as the general result of his researches,
+that the same chemical elements, combined in the same proportions,
+would always exhibit the same crystalline form; and reciprocally, that
+the same form and angles (except in the obvious case of the tessular
+system, in which the angles are determined by its being the
+tessular system,) implied the same chemical constitution. But this
+dogma could only be considered as an approximate conjecture; for there
+were many glaring and unexplained exceptions to it. The explanation of
+several of these was beautifully described by the discovery that there
+are various elements which are isomorphous to each other; that
+is, such that one may take the place of another without altering the
+crystalline form; and thus the chemical composition may be much
+changed, while the crystallographic character is undisturbed.
+This truth had been caught sight of, probably as a guess only, by
+Fuchs as early as 1815. In speaking of a mineral which had been called
+Gehlenite, he says, “I hold the oxide of iron, not for an essential
+component part of this genus, but only as a vicarious
+element, replacing so much lime. We shall find it necessary to
+consider the results of several analyses of mineral bodies in this
+point of view, if we wish, on the one hand, to bring them into
+agreement with the doctrine of chemical proportions, and on the other,
+to avoid unnecessarily splitting up genera.” In a lecture On the
+Mutual Influence of 335 Chemistry and Mineralogy,36 he again draws attention to his term
+vicarious (vicarirende), which undoubtedly expresses the
+nature of the general law afterwards established by Mitscherlich in
+1822.
+36 Munich, 1820.
+But Fuchs’s conjectural expression was only a prelude to
+Mitscherlich’s experimental discovery of isomorphism. Till many
+careful analyses had given substance and signification to this
+conception of vicarious elements, it was of small value. Perhaps no
+one was more capable than Berzelius of turning to the best advantage
+any ideas which were current in the chemical world; yet we find him,37 in 1820, dwelling upon a certain vague
+view of these cases,—that “oxides which contain equal doses of
+oxygen must have their general properties common;” without tracing it
+to any definite conclusions. But his scholar, Mitscherlich, gave this
+proposition a real crystallographical import. Thus he found that the
+carbonates of lime (calcspar,) of magnesia, of protoxide of iron, and
+of protoxide of manganese, agree in many respects of form, while the
+homologous angles vary through one or two degrees only; so again the
+carbonates of baryta, strontia, lead, and lime (arragonite), agree
+nearly; the different kinds of felspar vary only by the substitution
+of one alkali for another; the phosphates are almost identical with
+the arseniates of several bases. These, and similar results, were
+expressed by saying that, in such cases, the bases, lime, protoxide of
+iron, and the rest, are isomorphous; or in the latter instance,
+that the arsenic and phosphoric acids are isomorphous.
+37 Essay on the Theory of Chemical
+Proportions, p. 122.
+Since, in some of these cases, the substitution of one element of
+the isomorphous group for another does alter the angle, though
+slightly, it has since been proposed to call such groups
+plesiomorphous.
+This discovery of isomorphism was of great importance, and excited
+much attention among the chemists of Europe. The history of its
+reception, however, belongs, in part, to the classification of
+minerals; for its effect was immediately to metamorphose the existing
+chemical systems of arrangement. But even those crystallographers and
+chemists who cared little for general systems of classification,
+received a powerful impulse by the expectation, which was now excited,
+of discovering definite laws connecting chemical constitution with
+crystalline form. Such investigations were soon carried on with great
+activity. Thus, at a recent period, Abich analysed a number of
+tessular minerals, spinelle, pleonaste, gahnite, franklinite, and
+chromic iron oxide; and 336 seems to have had some success in giving a common
+type to their chemical formulæ, as there is a common type in their
+crystallization.
+[2nd Ed.] [It will be seen by the above account that Prof.
+Mitscherlich’s merit in the great discovery of Isomorphism is not at
+all narrowed by the previous conjectures of M. Fuchs. I am informed,
+moreover, that M. Fuchs afterwards (in Schweigger’s Journal)
+retracted the opinions he had put forward on this subject.]
+Dimorphism.—My business is, to point out the connected
+truths which have been obtained by philosophers, rather than insulated
+difficulties which still stand out to perplex them. I need not,
+therefore, dwell on the curious cases of dimorphism; cases in
+which the same definite chemical compound of the same elements appears
+to have two different forms; thus the carbonate of lime has two forms,
+calcspar and arragonite, which belong to different
+systems of crystallization. Such facts may puzzle us; but they hardly
+interfere with any received general truths, because we have as yet no
+truths of very high order respecting the connexion of chemical
+constitution and crystalline form. Dimorphism does not interfere with
+isomorphism; the two classes of facts stand at the same stage of
+inductive generalization, and we wait for some higher truth which
+shall include both, and rise above them.
+[2nd Ed.] [For additions to our knowledge of the Dimorphism of
+Bodies, see Professor Johnstone’s valuable Report on that
+subject in the Reports of the British Association for 1837.
+Substances have also been found which are trimorphous. We owe
+to Professor Mitscherlich the discovery of dimorphism, as well as of
+isomorphism: and to him also we owe the greater part of the knowledge
+to which these discoveries have led.]
+</div></body></text></TEI>

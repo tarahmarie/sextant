@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 74-75</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 74-75.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [Lady Byron?]</title>
+          <date when="1843">15 September [1843]</date>
+          <note type="place">Ashley</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 74-75</note>
+          <note type="recipient">[Lady Byron?]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_74-75.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Ashley Friday. 15th Sepr</p>
+      <p>I was so amazed when I read the beginning of your letter this morning, at the absolute identity of the principle expressed in it, to that which I had expressed (tho' in a different form) to you in my last, that I could not help exclaiming to Babbage "this is most extraordinary"! &amp; relating to him the circumstance.</p>
+      <p>There are however so many very remarkable circumstances that have occurred during the</p>
+      <p>latter weeks &amp; months, &amp; which I cannot pretend to unravel at present, but which something tells me I shall find the real clue to all in good time, that this merely adds one to their number. I am very much afraid as yet of exerting the powers I know I have over others, &amp; the evidence of which [three words crossed out] [two words crossed out] I have certainly been most unwilling to admit, &amp; in fact for a long time considered to be quite fanciful &amp; absurd. I am an utter novice at present, on the threshold of a new world; &amp; I feel my best plan is to wait modestly &amp; humbly for God to teach me, &amp; not to anticipate that teaching, but rather to keep behind even. I therefore carefully refrain from</p>
+      <p>all attempts intentionally to exercise unusual powers. Those powers are not ripe, &amp; my habits &amp; principles are still far too young, raw, &amp; green, for me to be wise [three words crossed out] in venturing beyond a certain pale as yet.</p>
+      <p>I had better continue to be simply the High-Priestess of Babbage's Engine, &amp; serve my apprenticeship faithfully therein, before I fancy myself worthy to approach a step higher towards being the High-Priestess of God Almighty Himself. And one has a fearful universe of habits to acquire. Many get habits first, &amp; great principles afterwards. But here am I (who always did everything topsy- -turvy, &amp; certainly ought to have come into the world feet downwards),</p>
+      <p>with principles highly &amp; largely developped, but habits alas that are either non-existent or positively bad, (&amp; hardly a single good one).</p>
+      <p>So one must drag one's habits (however unwillingly), after &amp; up to one's principles, before one thinks oneself worth anything whatever.--</p>
+      <p>By the way, I am particularly ill at present. In fact I have been getting ill now for 3 or 4 weeks, &amp; I suppose I shall continue queer for 3 or 4 more; &amp; then I shall be very well again for a time no doubt. And so on, for perhaps a year or two more. But the time will come, when all this will be different.</p>
+      <p>I suffer a great deal I believe, but I am well satisfied with things &amp; their aspect, except just at</p>
+      <p>[text written sideways on page 1 to the left of the heading] moments, when some actual sensation seems beyong all toleration. But then it is sure to go off.</p>
+      <p>[text written below heading on page 1 and circled by a curved line] P.S. I do much suspect V. Beaurepaire is insane. Did W-- mention to you the prostitution letter?</p>
+    </div></body>
+  </text>
+</TEI>

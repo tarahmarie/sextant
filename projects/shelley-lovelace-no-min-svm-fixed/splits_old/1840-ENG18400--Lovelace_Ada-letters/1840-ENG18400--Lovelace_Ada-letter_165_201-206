@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 201-206</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 201-206.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1840">undated (estimated from box 165 date range)</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 201-206</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_201-206.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>[Folio 201 is a small clipping (not transcribed) from a newspaper advertisement for locks mentioned on page 8 of the letter. The letter consists of folios 202-206.]</p>
+      <p>Friday</p>
+      <p>Dearest W--. As you say, nothing can be in some respects less satisfactory than my condition. At this moment I am in a very wretched &amp; uncomfortable state of mind, altho' my physical condition is again pretty well in an average state. I</p>
+      <p>cannot describe to you all the misery I am enduring mentally, &amp; this indeed dear W-- without a shadow of discontent or wrong feeling of any sort.</p>
+      <p>It is something quite malgre [accent mark over the e] moi. I am wholly uninterested in everything, &amp; no efforts enable me to continue any of my pursuits at the present time.--</p>
+      <p>I feel that my</p>
+      <p>aimless, objectless, useless life is most deplorable. The only horror I have is about ever again leaving Town. (Don't be angry with me for this pray, pray.)</p>
+      <p>Hester sees the whole extent of the evil that is going on, &amp; her society is I assure you a great blessing. She is giving the case her most correct consideration, &amp;</p>
+      <p>no one is more capable of taking just views, when she really considers deeply, &amp; not hastily.</p>
+      <p>There is in me the most painful &amp; ardent desire &amp; aspiring after perfection and achievement in something , (&amp; this quite unconnected with the desire of Fame, or applause); &amp; there is the want &amp; struggle to vent &amp; express much deep-hidden &amp;</p>
+      <p>undevelopped power &amp; feeling; &amp; yet I can as yet find nothing that fixes &amp; forces me, in any way that could lead to definite &amp; complete results.--</p>
+      <p>Without very powerful, &amp; continually-acting external stimulants, I shall be utterly wasted &amp; lost to myself &amp; my fellow-creatures. But how to provide them is the difficulty. Money</p>
+      <p>is the rub. If I had plenty of that, I think I could manage to turn &amp; educate my powers to some account.</p>
+      <p>Oh! Dear! Don't think me discontented; but indeed there is much cause for what I say. And unless some plan is hit upon, my health &amp; life, (&amp; at any rate my happiness, &amp; that of those around me), will fail</p>
+      <p>&amp; be utterly ruined.--</p>
+      <p>Dear William, don't pray misunderstand or blame me. I speak from a powerful &amp; pressing sense of the difficulties &amp; peculiarities of the case, &amp; of the grave &amp; heavy evils that are impending; not immediately, not this week, this month, or perhaps this year, or even next year; but a slow poison</p>
+      <p>working surely and imperceptibly.</p>
+      <p>I am not writing in any especial either excitement or despondency. But I feel the urgency &amp; cry-ing-ness of the evils in question; &amp; that it will be the very Devil's own work, if the wants of the case cannot be supplied.--</p>
+      <p>(By the bye I send you an Advertisement about Locks).--</p>
+      <p>I may mention that I have not written with any idea that any one particular thing can be instantaneously suggested, either by you or any one. There is matter for long &amp; much discussion &amp; consideration, I had rather not have anything said to the Hen. Because I should prefer discussing any of my plans &amp; wishes with her myself only at present.</p>
+      <p>They could not be properly &amp; truly expressed &amp; explained second-hand.</p>
+    </div></body>
+  </text>
+</TEI>

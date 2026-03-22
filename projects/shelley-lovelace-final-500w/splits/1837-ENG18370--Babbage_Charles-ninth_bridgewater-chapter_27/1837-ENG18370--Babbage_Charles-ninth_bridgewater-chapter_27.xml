@@ -1,0 +1,136 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Ninth Bridgewater Treatise</title><author>Babbage, Charles (1791-1871)</author></titleStmt><publicationStmt><publisher>John Murray</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="27">A PRIORI ARGUMENT IN FAVOUR OF THE OCCURRENCE OF MIRACLES.
+
+
+ IN the present chapter it is proposed to prove, that—
+ It is more probable that any
+ law, at the knowledge of which we have arrived by observation, shall be subject
+ to one of those violations which, according to Humes definition, constitutes
+ a miracle, than that it should not be so subjected. 
+ To show this, we may be allowed
+ again to revert to the Calculating Engine: and to assume that it is possible
+ to set the
+[page] 150
+ machine, so that it shall calculate any algebraic law whatsoever: and also possible so to arrange it, that
+ at any periods, however remote, the first law shall be interrupted for
+ one or more times, and be superseded by any other law; after which the
+ original law shall again be produced, and no other deviation shall ever take
+ place. Now, as all laws, which appear to us regular and uniform in their course,
+ and to be subject to no exception, can be calculated by the engine: and as
+ each of these laws may also be calculated by the same machine, subject to any
+ assigned interruption, at distinct and definite periods; each simple law may
+ be interrupted at any point by the temporary action of a portion of any one
+ of all the other simple laws: it follows, that the class of laws subject
+ to Interruption is far more extensive than that of laws which are uninterrupted. It is, in fact, infinitely more numerous. Therefore, the probability of
+ any law with which we have become acquainted
+[page] 151
+ by observation being part of a
+ much more extensive law, and of its having, to use mathematical language, singular
+ points or discontinuous functions contained within it, is very large. Perhaps
+ it may be objected, that the laws calculated by such an engine as I have referred
+ to are not laws of nature; and that any deviation from laws produced by human
+ mechanism does not come within Hume's definition of miracles. To this it may
+ be answered, that a law of nature has been defined by Hume to rest upon experience,
+ or repeated observation, just as the truth of testimony does. Now, the law produced
+ by the engine may be arrived at by precisely the same means—namely, repeated
+ observation. It may, however, be desirable to explain further the nature of
+ the evidence, on which the fact, that the engine possesses those powers, rests.
+[page] 152
+ When the Calculating Engine has
+ been set to compute the successive terms of any given law, which the observer
+ is told will have an apparent exception (at, for example, the ten million and
+ twenty-third term,) the observer is directed to note down the commencement of
+ its computations; and, by comparing these results with his own independent
+ calculations of the same law, he may verify the accuracy of the engine as far
+ as he chooses. It may then be demonstrated to him, by the very structure of
+ the machine, that if its motion were continued, it would, necessarily, at
+ the end of a very long time, arrive at the ten-millionth term of the law assigned
+ to it; and that, by an equal necessity, it would have passed through
+ all the intermediate terms.* The inquirer is now desired to turn on the wheels
+ with his own hand, until they are precisely in the same situation as they would
+ have been had the engine itself gone on continuously, to the ten-millionth term.
+ The machine is again put in motion,
+ * This can be done in a few minutes.
+[page] 153
+ and the observer again finds that each successive term it calculates fulfils
+ the original law. But, after passing twenty-two terms, he now observes one term which does not fulfil the original law, but which does coincide with
+ the predicted exception. The continued movement now again produces terms according
+ with the first law, and the observer may continue to verify them as long as
+ he wishes. It may then be demonstrated to him, by the very structure of the
+ machine, that, if its motion were continued, it would be impossible that
+ any other deviation from the apparent law could ever occur at any future time.
+ Such is the evidence to the observer; and, if the superintendent of the engine
+ were, at his request, to make it calculate a great variety of different laws,
+ each interrupted by special and remote exceptions, he would have ample ground
+ to believe in the assertion of its director, that he could so arrange the engine
+ that any
+[page] 154
+ law, however complicated, might
+ be calculated to any assigned extent, and then there should arise one apparent
+ exception; after which the original law should continue uninterrupted for ever.
+ Let us now consider the miracle alluded to by Hume—the restoration of a dead
+ man to life. According to the definition of that author, our belief that such
+ a fact is contrary to the laws of nature, arises from our uniform experience
+ against it. Our personal experience is small: we must therefore have recourse
+ to testimony; and from that we learn, that the dead are never restored
+ to life; and, consequently, we have the uniform experience of all mankind since
+ the creation, against one assigned instance of a dead man being so restored.
+ Let us now find the numerical amount of this evidence. Assuming the origin of
+ the human race to have been about six thousand years ago, and taking thirty
+ years as the duration of a generation, we have—
+[page] 155
+
+ And allowing that the average population
+ of the earth has been a thousand millions, we find that there have been born
+ and have died since the creation,
+
+ Such, then, according to Hume,
+ are the odds against the truth of the miracle: that is to say, it is found
+ from experience, that it is about two hundred thousand millions to one against
+ a dead man having been restored to life. Let us now compare this with a parallel
+ case in the calculations of the engine; let us suppose the number above stated
+ to be a hundred million times as great, or that the truth of the miracles is
+ opposed by a number of instances, expressed by twenty places of figures.
+[page] 156
+ The engine may be set to count the natural numbers—1,2, 3, 4, &c.; and
+ it shall continue to fulfil that law, not merely for the number of times just
+ mentioned, for that number is quite insignificant among the vast periods it
+ involves; but the natural numbers shall follow in continual succession, until
+ they have reached an amount which requires for its expression above a hundred
+ million places of figures. If every letter in the volume now before the reader's
+ eyes were changed into a figure, and if all the figures contained in a thousand
+ such volumes were arranged in order, the whole together would yet fall far short
+ of the vast induction the observer would then have had in favour of the truth
+ of the law of natural numbers. The widest range of all the cycles of astronomy
+ and geology combined, sink into insignificance before such a period. Yet, shall
+ the engine, true to the prediction of its director, after the lapse of myriads
+ of ages, fulfil its task, and give that one, the first and only exception
+ to that time-sanctioned law. What would have
+[page] 157
+ been the chances against the appearance
+ of the excepted case, immediately prior to its occurrence? It would have had,
+ according to Hume, the evidence of all experience against it, with a force myriads
+ of times more strong than that against any miracle. Now, let the reader, who
+ has fully entered into the nature of the argument, ask himself this question:—Does he believe that such an engine has really been contrived, and hat reasonable
+ grounds has he for that belief? The testimony of any single witness is small
+ against such odds; besides, the witness may deceive himself. Whether he speaks
+ truly, will be estimated by his moral character—whether he deceives himself,
+ will be estimated by his intellectual character. The probability that such an
+ engine has been contrived, will, however, receive great addition, when it is
+ remarked, that mathematical—and, especially, geometrical evidence is, of all
+ others, that in
+[page] 158
+ which the fewest mistakes arise,
+ and in which they are most readily discovered; and when it is added, that the
+ fact of the invention of such an engine rests on precisely the same species
+ of evidence as the propositions of Euclid, and may be deduced from the drawings
+ with all the force of demonstration. Whether such an engine could be actually
+ made in the present state of mechanical art, is a question of quite a different
+ order: it must rest upon the opinions of those who have had extensive experience
+ in that art. The author has not the slightest hesitation in stating his opinion
+ to be, that it is fully within those limits. This, however, is a question foreign
+ to the nature of the argument, which might have been stated in a more abstract
+ manner, without any reference to such an engine. As, however, the argument really
+ arose from that machine, and as visible forms make a much deeper impression
+ on the mind than any abstract reasonings, it has been stated in conjunction
+ with that subject.
+[page] 159</div></body></text></TEI>

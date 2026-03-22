@@ -1,0 +1,488 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Cosmos: A Sketch of the Physical Description of the Universe, Vol. 1</title><author>Humboldt, Alexander von (1769-1859)</author></titleStmt><publicationStmt><publisher>Henry G. Bohn</publisher><pubPlace>London</pubPlace><date>1845</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="1">
+[p 2 is blank]
+p 3
+TRANSLATOR'S PREFACE.
+———————————-
+I CAN not more appropriately introduce the Cosmos than by presenting a brief
+sketch of the life of its illustrious author.*  While the name of Alexander
+von Humboldt is familiar to every one, few, perhaps, are aware of the
+peculiar circumstances of his scientific career and of the extent of his
+labors in almost every department of physical knowledge.  He was born on the
+14th of September, 1769, and is, therefore, now in his 80th year.  After
+going through the ordinary course of education at Gottingen, and having made
+a rapid tour through Holland, England, and France, he became a pupil of
+Werner at the mining school of Freyburg, and in his 21st year published an
+"Essay on the Basalts of the Rhine."  Though he soon became officially
+connected with the mining corps, he was enabled to continue his excursions
+in foreign countries, for, during the six or seven years succeeding the
+publication of his first essay, he seems to have visited Austria,
+Switzerland, Italy, and France.  His attention to mining did not, however,
+prevent him from devoting his attention to other scientific pursuits, among
+which botany and the then recent discovery of galvanism may be especially
+noticed.  Botany, indeed, we know from his own authority, occupied him
+almost exclusively for some years; but even at this time he was practicing
+the use of those astronomical and physical instruments which he afterward
+turned to so singularly excellent an account.
+[footnote] *For the following remarks I am mainly indebted to the articles
+on the Cosmos in the two leading Quarterly Reviews.
+The political disturbances of the civilized world at the close
+p 4
+of the last century prevented our author from carrying out various plans of
+foreign travel which he had contemplated, and detained him an unwilling
+prisoner in Europe.  In the year 1799 he went to Spain, with the hope of
+entering Africa from Cadiz, but the unexpected patronage which he received
+at the court of Madrid led to a great alteration in his plans, and decided
+him to proceed directly to the Spanish possessions in America, "and there
+gratify the longings for foreign adventure, and the scenery of the tropics,
+which had haunted him from boyhood, but had all along been turned in the
+diametrically opposite direction of Asia."  After encountering various risks
+of capture, he succeeded in reaching America, and from 1799 to 1804
+prosecuted there extensive researches in the physical geography of the New
+World, which has indelibly stamped his name in the undying records of
+science.
+Excepting an excursion to Naples with Gay-Lussac and Von Buch in 1805 (the
+year after his return from America), the succeeding twenty years of his life
+were spent in Paris, and were almost exclusively employed in editing the
+results of his American journey.  In order to bring these results before the
+world in a manner worthy of their importance, he commenced a series of
+gigantic publications in almost every branch of science on which he had
+instituted observations.  In 1817, after twelve years of incessant toil,
+four fifths were completed, and an ordinary copy of the part then in print
+cost considerably more than one hundred pounds sterling.  Since that time
+the publication has gone on more slowly, and even now after the lapse of
+nearly half a century, it remains, and probably ever will remain, incomplete.
+In the year 1828, when the greatest portion of his literary labor had been
+accomplished, he undertook a scientific journey to Siberia, under the
+special protection of the Russian government.  In this journey — a journey
+for which he had prepared himself by a course of study unparalleled in the
+history of travel — he was accompanied by two companions hardly less
+distinguished than himself, Ehrenberg and Gustav Rose, and
+p 5
+the results obtained during their expedition are recorded by our author in
+his 'Fragments Asiatiques', and in his 'Asie Centrale', and by Rose in his
+'Reise nach dem Oural'.  If the 'Asie Centrale' had been his only work,
+constituting, as it does, an epitome of all the knowledge acquired by
+himself and by former travelers on the physical geography of Northern and
+Central Asia, that work alone would have sufficed to form a reputation of
+the highest order.
+I proceed to offer a few remarks on the work of which I now present a new
+translation to the English public, a work intended by its author "to embrace
+a summary of physical knowledge, as connected with a delineation of the
+material universe."
+The idea of such a physical description of the universe had, it appears,
+been present to his mind from a very early epoch.  It was a work which he
+felt he must accomplish, and he devoted almost a lifetime to the
+accumulation of materials for it.  For almost half a century it had occupied
+his thoughts; and at length, in the evening of life, he felt himself rich
+enough in the accumulation of thought, travel, reading, and experimental
+research, to reduce into form and reality the undefined vision that has so
+long floated before him.  The work, when completed, will form three volumes.
+ The 'first' volume comprises a sketch of all that is at present known of
+the physical phenomena of the universe; the 'second' comprehends two
+distinct parts, the first of which treats of the incitements to the study of
+nature, afforded in descriptive poetry, landscape painting, and the
+cultivation of exotic plants; while the second and larger part enters into
+the consideration of the different epochs in the progress of discovery and
+of the corresponding stages of advance in human civilization.  The 'third'
+volume, the publication of which, as M. Humboldt himself informs me in a
+letter addressed to my learned friend and publisher, Mr. H. G. Bohn, "has
+been somewhat delayed, owing to the present state of public affairs, will
+comprise the special and scientific development of the great Picture of
+Nature
+p 6
+Each of the three parts of the 'Cosmos' is therefore, to a certain extent,
+distinct in its object, and may be considered complete in itself.  We can
+not better terminate this brief notice than in the words of one of the most
+eminent philosophers of our own country, that, "should the conclusion
+correspond (as we doubt not) with these beginnings, a work will have been
+accomplished every way worthy of the author's fame, and a crowning laurel
+added to that wreath with which Europe will always delight to surround the
+name of Alexander von Humboldt."
+In venturing to appear before the English public as the interpreter of "the
+great work of our age,"* I have been encouraged by the assistance of many
+kind literary and scientific friends, and I gladly avail myself of this
+opportunity of expressing my deep obligations to Mr. Brooke, Dr. Day,
+Professor Edward Forbes, Mr. Hind, Mr. Glaisher, Dr. Percy, and Mr. Ronalds,
+for the valuable aid they  have afforded me.
+[footnote] *The expression applied to the Cosmos by the learned Bunsen, in
+his late Report on Ethnology, in the 'Report of the British Association for'
+1847, p. 265.
+It would be scarcely right to conclude these remarks without a reference to
+the translations that have preceded mine.  The translation executed by Mrs.
+Sabine is singularly accurate and elegant.  The other translation is
+remarkable for the opposite qualities, and may therefore be passed over in
+silence.  The present volumes differ from those of Mrs. Sabine in having all
+the foreign measures converted into corresponding English terms, in being
+published at considerably less than one third of the price, and in being a
+translation of the entire work, for I have not conceived myself justified in
+omitting passages, sometimes amounting to pages, simply because they might
+be deemed slightly obnoxious to our national prejudices.
+p 7
+AUTHOR'S PREFACE.
+—————————-
+In the late evening of an active life I offer to the German public a work,
+whose undefined image has floated before my mind for almost half a century.
+I have frequently looked upon its completion as impracticable, but as often
+as I have been disposed to relinquish the undertaking, I have again —
+although perhaps imprudently — resumed the task.  This work I now present
+to my contemporaries with a diffidence inspired by a just mistrust of my own
+powers, while I would willingly forget that writings long expected are
+usually received with less indulgence.
+Although the outward relations of life, and an irresistible impulse toward
+knowledge of various kinds, have led me to occupy myself for many years —
+and apparently exclusively — with separate branches of science, as, for
+instance, with descriptive botany, geognosy, chemistry, astronomical
+determinations of position, and terrestrial magnetism, in order that I might
+the better prepare myself for the extensive travels in which I was desirous
+of engaging, the actual object of my studies has nevertheless been of a
+higher character.  The principal impulse by which I was directed was the
+earnest endeavor to comprehend the phenomena of physical objects in their
+general connection, and to represent nature as one great whole, moved and
+animated by internal forces.  My intercourse with highly-gifted men early
+led me to discover that, without an earnest striving to attain to a
+knowledge of special branches of study, all attempts to give a grand and
+general view of the universe would be nothing more than a vain illusion.
+These special departments in the great domain of natural
+p 8
+science are, moreover, capable of being reciprocally fructified by means of
+the appropriative forces by which they are endowed.  Descriptive botany, no
+longer confined to the narrow circle of the determination of genera and
+species, leads the observer who traverses distant lands and lofty mountains
+to the study of the geographical distribution of plants of the earth's
+surface, according to distance from the equator and vertical elevation above
+the sea.  It is further necessary to investigate the laws which regulate the
+differences of temperature and climate, and the meteorological processes of
+the atmosphere, before we can hope to explain the involved causes of
+vegetable distribution; and it is thus that the observer who earnestly
+pursues the path of knowledge is led from one class of phenomena to another,
+by means of the mutual dependence and connection existing between them.
+I have enjoyed an advantage which few scientific travelers have shared to an
+equal extent, viz., that of having seen not only littoral districts, such as
+are alone visited by the majority of those who take part in voyages of
+circumnavigation, but also those portions of the interior of two vast
+continents which present the most striking contrasts manifested in the
+Alpine tropical landscapes of South America, and the dreary wastes of the
+steppes in Northern Asia.  Travels, undertaken in districts such as these,
+could not fail to encourage the natural tendency of my mind toward a
+generalization of views, and to encourage me to attempt, in a special work,
+to treat of the knowledge which we at present possess, regarding the
+sidereal and terrestrial phenomena of the Cosmos in their empirical
+relations.  The hitherto undefined idea of a physical geography has thus, by
+an extended and perhaps too boldly imagined a plan, been comprehended under
+the idea of a physical description of the universe, embracing all created
+things in the regions of space and in the earth.
+The very abundance of the materials which are presented to the mind for
+arrangement and definition, necessarily impart no inconsiderable
+difficulties in the choice of the form under
+p 9
+which such a work must be presented, if it would aspire to the honor of
+being regarded as a literary composition.  Descriptions of nature ought not
+to be deficient in a tone of life-like truthfulness, while the mere
+enumeration of a series of general results is productive of a no less
+wearying impression than the elaborate accumulation of the individual data
+of observation.  I scarcely venture to hope that I have succeeded in
+satisfying these various requirements of composition, or that I have myself
+avoided the shoals and breakers which I have known how to indicate to
+others.  My faint hope of success rests upon the special indulgence which
+the German public have bestowed upon a small work bearing the title of
+'Ansichten der Natur', which I published soon after my return from Mexico.
+This work treats, under general points of view, of separate branches of
+physical geography (such as the forms of vegetation, grassy plains, and
+deserts).  The effect produced by this small volume has doubtlessly been
+more powerfully manifested in the influence it has exercised on the
+sensitive minds of the young, whose imaginative faculties are so strongly
+manifested, than by means of any thing which it could itself impart.  In the
+work on the Cosmos on which I am now engaged, I have endeavored to show, as
+in that entitled 'Ansichten der Natur', that a certain degree of scientific
+completeness in the treatment of individual facts is not wholly incompatible
+with a picturesque animation of style.
+Since public lectures seemed to me to present an easy and efficient means of
+testing the more or less successful manner of connecting together the
+detached branches of any one science, I undertook, for many months
+consecutively, first in the French language, at Paris, and afterward in my
+own native German, at Berlin (almost simultaneously at two different places
+of assembly), to deliver a course of lectures on the physical description of
+the universe, according to my conception of the science.  My lectures were
+given extemporaneously, both in French and German, and without the aid of
+written notes, nor have I, in any way, made use, in the present work,
+p 10
+of those portions of my discourses which have been preserved by the industry
+of certain attentive auditors.  With the exception of the first forty pages,
+the whole of the present work was written, for the first time, in the years
+1843 and 1844.
+A character of unity, freshness, and animation must, I think, be derived
+from an association with some definite epoch, where the object of the writer
+is to delineate the present condition of knowledge and opinions.  Since the
+additions constantly made to the latter give rise to fundamental changes in
+pre-existing views, my lectures and the Cosmos have nothing in common beyond
+the succession in which the various facts are treated.  The first portion of
+my work contains introductory considerations regarding the diversity in the
+degrees of enjoyment to be derived from nature, and the knowledge of the
+laws by which the universe is governed; it also considers the limitation and
+scientific mode of treating a physical description of the universe, and
+gives a general picture of nature which contains a view of all the phenomena
+comprised in the Cosmos.
+This general picture of nature, which embraces within its wide scope the
+remotest nebulous spots, and the revolving double stars in the regions of
+space, no less than the telluric phenomena included under the department of
+the geography of organic forms (such as plants, animals, and races of men),
+comprises all that I deem most specially important with regard to the
+connection existing between generalities and specialities, while it moreover
+exemplifies, by the form and style of the composition, the mode of treatment
+pursued in the selection of the results obtained from experimental
+knowledge.  The two succeeding volumes will contain a consideration of the
+particular means of incitement toward the study of nature (consisting in
+animated delineations, landscape painting, and the arrangement and
+cultivation of exotic vegetable forms), of the history of the contemplation
+of the universe, or the gradual development of the reciprocal action of
+natural forces constituting one natural whole; and lastly, of the special
+p 11
+branches of the several departments of science, whose mutual connection is
+indicated in the beginning of the work.  Wherever it has been possible to do
+so, I have adduced the authorities from whence I derived my facts, with a
+view of affording testimony both to the accuracy of my statements and to the
+value of the observations to which reference was made.  In those instances
+where I have quoted from my own writings (the facts contained in which
+being, from their very nature, scattered through different portions of my
+works), I have always referred to the original editions, owing to the
+importance of accuracy with regard to numerical relations, and to my own
+distrust of the care and correctness of translators.  In the few cases where
+I have extracted short passages from the works of my friends, I have
+indicated them by marks of quotation; and, in imitation of the practice of
+the ancients, I have invariably preferred the repetition of the same words
+to any arbitrary substitution of my own paraphrases.  The much-contested
+question of priority of claim to a first discovery, which it is so dangerous
+to treat of in a work of this uncontroversial kind, has rarely been touched
+upon.  Where I have occasionally referred to classical antiquity, and to
+that happy period of transition which has rendered the sixteenth and
+seventeenth centuries so celebrated, owing to the great geographical
+discoveries by which the age was characterized, I have been simply led to
+adopt this mode of treatment, from the desire we experience from time to
+time, when considering the general views of nature, to escape from the
+circle of more strictly dogmatical modern opinions, and enter the free and
+fanciful domain of earlier presentiments.
+It has frequently been regarded as a subject of discouraging consideration,
+that while purely literary products of intellectual activity are rooted in
+the depths of feeling, and interwoven with the creative force of
+imagination, all works treating of empirical knowledge, and of the
+connection of natural phenomena and physical laws, are subject to the most
+marked modifications of form in the lapse of short periods of time, both
+p 12
+by the improvement in the instruments used, and by the consequent expansion
+of the field of view opened to rational observation, and that those
+scientific works which have, to use a common expression, become 'antiquated'
+by the acquisition of new funds of knowledge, are thus continually being
+consigned to oblivion as unreadable.  However discouraging such a prospect
+must be, no one who is animated by a genuine love of nature, and by a sense
+of the dignity attached to its study, can view with regret any thing which
+promises future additions and a greater degree of perfection to general
+knowledge.  Many important branches of knowledge have been based upon a
+solid foundation which will not easily be shaken, both as regards the
+phenomena in the regions of space and on the earth; while there are other
+portions of science in which general views will undoubtedly take the place
+of merely special; where new forces will be discovered and new substances
+will be made known, and where those which are now considered as simple will
+be decomposed.  I would, therefore, venture to hope that an attempt to
+delineate nature in all its vivid animation and exalted grandeur, and to
+trace the 'stable' amid the vacillating, ever-recurring alternation of
+physical metamorphoses, will not be wholly disregarded even at a future age.
+'Potsdam, Nov.', 1844.
+This material taken from pages 13-22
+
+NB - The page numbers will be properly aligned in Courier 12 font.
+COSMOS: A Sketch of the Physical Description of the Universe, Vol. 1
+by Alexander von Humboldt
+Translated by E C Otte
+from the 1858 Harper & Brothers edition of Cosmos, volume 1
+—————————————————————————
+p 13
+CONTENTS OF VOL. I.
+———————————
+Page
+
+The Translator's Preface . . . . . . . . . . . . . . . . . . . . . .3
+
+The Author's Preface . . . . . . . . . . . . . . . . . . . . . . . .7
+
+Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .15
+INTRODUCTION.
+
+The Results of the Study of Physical Phenomena . . . . . . . . . . 23
+
+The different Epochs of the Contemplation of the external World . .24
+
+The different Degrees of Enjoyment presented by the Contemplation
+
+     of Nature . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+
+Instances of this Species of Enjoyment . . . . . . . . . . . . . . 26
+
+Means by which it is induced . . . . . . . . . . . . . . . . . . . 26
+
+The Elevations and climatic Relations of many of the most
+
+     celebrated Mountains in the World, considered with
+
+     Reference to the Effect produced on the Mind of the
+
+     Observer . . . . . . . . . . . . . . . . . . . . . . . . . .27-33
+
+The Impressions awakened by the Aspect of tropical Regions . . . .  34
+
+The more accurate Knowledge of the Physical Forces of the
+
+     Universe, acquired by the Inhabitants of a small Section
+
+     of the temperate Zone . . . . . . . . . . . . . . . . . . . . .36
+
+The earliest Dawn of the Science of the Cosmos . . . . . . . . . .  36
+
+The Difficulties that opposed the Progress of Inquiry . . . . . . . 37
+
+Consideration of the Effect produced on the Mind by the
+
+     Observation of Nature, and the Fear entertained by some of
+
+     its injurious Influence . . . . . . . . . . . . . . . . . . .  40
+
+Illustrations of the Manner in which many recent Discoveries have
+
+     tended to Remove the groundless Fears entertained
+
+     regarding the Agency of certain Natural Phenomena . . . . . .  43
+
+The Amount of Scientific Knowledge required to enter on the
+
+     Consideration of Physical Phenomena . . . . . . . . . . . . .  47
+
+The Object held in View by the present Work . . . . . . . . . . . . 49
+
+The Nature of the Study of the Cosmos . . . . . . . . . . . . . . . 50
+
+The special Requirements of the present Age . . . . . . . . . . . . 53
+
+Limits and Method of Exposition of the Physical Description of the
+
+     Universe . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+
+Considerations on the terms Physiology and Physics . . . . . . . . .58
+
+Physical Geography . . . . . . . . . . . . . . . . . . . . . . . .  59
+
+Celestial Phenomena . . . . . . . . . . . . . . . . . . . . . . . . 63
+
+The Natural Philosophy of the Ancients directed more to Celestial
+
+     than to Terrestrial Phenomena . . . . . . . . . . . . . . . . .65
+
+The able Treatises of Varenius and Carl Ritter . . . . . . . . .66, 67
+
+Signification of the Word Cosmos . . . . . . . . . . . . . . . . 68-70
+
+The Domain embraced by Cosmography . . . . . . . . . . . . . . . .  71
+
+Empiricism and Experiments . . . . . . . . . . . . . . . . . . . .  74
+
+The Process of Reason and Induction  . . . . . . . . . . . . . . . .77
+
+p 14
+
+GENERAL REVIEW OF NATURAL PHENOMENA.
+
+Connection between the Material and the Ideal World . . . . . . . . 80
+
+Delineation of Nature . . . . . . . . . . . . . . . . . . . . . . . 82
+
+Celestial Phenomena . . . . . . . . . . . . . . . . . . . . . . . . 83
+
+Sidereal Systems  . . . . . . . . . . . . . . . . . . . . . . . . . 89
+
+Planetary Systems  . . . . . . . . . . . . . . . . . . . . . . . . .90
+
+Comets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  99
+
+Aerolites . . . . . . . . . . . . . . . . . . . . . . . . . . . . .111
+
+Zodiacal Light . . . . . . . . . . . . . . . . . . . . . . . . . . 137
+
+Translatory Motion of the Solar System . . . . . . . . . . . . . . 145
+
+The Milky Way . . . . . . . . . . . . . . . . . . . . . . . . . . .150
+
+Starless Openings . . . . . . . . . . . . . . . . . . . . . . .    152
+
+Terrestrial Phenomena . . . . . . . . . . . . . . . . . . . . . . .154
+
+Geographical Distribution . . . . . . . . . . . . . . . . . . . . .161
+
+Figure of the Earth . . . . . . . . . . . . . . . . . . . . . . . .163
+
+Density of the Earth . . . . . . . . . . . . . . . . . . . . . . . 169
+
+Internal Heat of the Earth . . . . . . . . . . . . . . . . . . . . 172
+
+Mean Temperature of the Earth . . . . . . . . . . . . . . . . . . .175
+
+Terrestrial Magnetism . . . . . . . . . . . . . . . . . . . . . .  177
+
+Magnetism . . . . . . . . . . . . . . . . . . . . . . . . . . . . .183
+
+Aurora Borealis . . . . . . . . .  . . . . . . . . . . .. . . . . .193
+
+Geognostic Phenomena . . . . . . . . . . . . . . . . . . . . . . . 202
+
+Earthquakes  . . . . . . . . . . . . . . . . . . . . . . . . . . . 204
+
+Gaseous Emanations . . . . . . . . . . . . . . . . . . . . . . . . 207
+
+Hot Springs . . . . . . . . . . . . . . . . . . . . . . . . . . . .221
+
+Salses . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  .224
+
+Volcanoes . . . . . . . . . . . . . . . . . . . . . . . . . . . . .227
+
+Rocks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .247
+
+Palaeontology . . . . . . . . . . . . . . . . . . . . . . . . . . .270
+
+Geognostic Periods . . . . . . . . . . . . . . . . . . . . . . . . 286
+
+Physical Geography . . . . . . . . . . . . . . . . . . . . . . . . 287
+
+Meteorology . . . . . . . . . . . . . . . . . . . . . . . . . . . .311
+
+Atmospheric Pressure . . . . . . . . . . . . . . . . . . . . . . . 315
+
+Climatology . . . . . . . . . . . . . . . . . . . . . . . . . . . .317
+
+The Snow-line . . . . . . . . . . . . . . . . . . . . . . . . . . .329
+
+Hygrometry . . . . . . . . . . . . . . . . . . . . . . . . . . . . 332
+
+Atmospheric Electricity . . . . . . . . . . . . . . . . . . . . . .335
+
+Organic Life . . . . . . . . . . . . . . . . . . . . . . . . . . . 339
+
+Motion in Plants . . . . . . . . . . . . . . . . . . . . . . . . . 341
+
+Universality of Animal Life . . . . . . . . . . . . . . . . . . . .342
+
+Geography of Plants and Animals . . . . . . . . . . . . . . . . . .346
+
+Floras of different Countries . . . . . . . . . . . . . . . . . . .350
+
+Man . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .352
+
+Races . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .353
+
+Language . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 357
+
+Conclusion of the Subject . . . . . . . . . . . . . . . . . . . . .359
+p 15
+SUMMARY.
+—————-
+Translator's Preface.
+
+Author's Preface.
+Vol I.
+</div></body></text></TEI>

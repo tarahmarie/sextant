@@ -1,0 +1,153 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="109">CHAPTER V.
+Reception and Confirmation of the Distinction of
+Systems of Crystallization.
+DIFFUSION of the Distinction of
+Systems.—The distinction of systems of crystallization
+was so far founded on obviously true views, that it was speedily
+adopted by most mineralogists. I need not dwell on the steps by which
+this took place. Mr. Haidinger’s translation of Mohs was a principal
+occasion of its introduction in England. As an indication of dates,
+bearing on this subject, perhaps I may be allowed to notice, that
+there appeared in the Philosophical Transactions for 1825, A
+General Method of Calculating the Angles of Crystals, which I had
+written, and in which I referred only to Haüy’s views; but that in
+1826,34 I published a Memoir On the
+Classification of Crystalline Combinations, founded on the methods
+of Weiss and Mohs, especially the latter; with which I had in the mean
+time become acquainted, and which appeared to me to contain their own
+evidence and recommendation. General methods, such as was attempted in
+the Memoir just quoted, are part of that process in the history of
+sciences, by which, when the principles are once established, the
+mathematical operation of deducing their consequences is made more and
+more general and symmetrical: which we have seen already exemplified
+in the history of celestial mechanics after the time of Newton. It
+does not enter into our plan, to dwell upon the various steps in this
+way 331 made by
+Levy, Naumann, Grassmann, Kupffer, Hessel, and by Professor Miller
+among ourselves. I may notice that one great improvement was, the
+method introduced by Monteiro and Levy, of determining the laws of
+derivation of forces by means of the parallelisms of edges;
+which was afterwards extended so that faces were considered as
+belonging to zones. Nor need I attempt to enumerate (what
+indeed it would be difficult to describe in words) the various methods
+of notation by which it has been proposed to represent the
+faces of crystals, and to facilitate the calculations which have
+reference to them.
+34 Camb. Trans. vol. ii. p.
+391.
+[2nd Ed.] [My Memoir of 1825 depended on the views of Haüy in so
+far as that I started from his “primitive forms;” but being a general
+method of expressing all forms by co-ordinates, it was very little
+governed by these views. The mode of representing crystalline forms
+which I proposed seemed to contain its own evidence of being more true
+to nature than Haüy’s theory of decrements, inasmuch as my method
+expressed the faces at much lower numbers. I determine a face by means
+of the dimensions of the primary form divided by certain
+numbers; Haüy had expressed the face virtually by the same dimensions
+multiplied by numbers. In cases where my notation gives such
+numbers as (3, 4, 1), (1, 3, 7), (5, 1, 19), his method involves the
+higher numbers (4, 3, 12), (21, 7, 3), (19, 95, 5). My method however
+has, I believe, little value as a method of “calculating the
+angles of crystals.”
+M. Neumann, of Königsberg, introduced a very convenient and elegant
+mode of representing the position of faces of crystals by
+corresponding points on the surface of a circumscribing sphere. He
+gave (in 1823) the laws of the derivation of crystalline faces,
+expressed geometrically by the intersection of zones, (Beiträge zur
+Krystallonomie.) The same method of indicating the position of
+faces of crystals was afterwards, together with the notation,
+re-invented by M. Grassmann, (Zur Krystallonomie und Geometrischen
+Combinationslehre, 1829.) Aiding himself by the suggestions of
+these writers, and partly adopting my method, Prof. Miller has
+produced a work on Crystallography remarkable for mathematical
+elegance and symmetry; and has given expressions really useful for
+calculating the angles of crystalline faces, (A Treatise on
+Crystallography. Cambridge, 1839.)]
+Confirmation of the Distinction of Systems by the Optical
+Properties of Minerals.—Brewster.—I must not omit to
+notice the striking confirmation which the distinction of systems of
+crystallization received from optical discoveries, especially those of
+Sir D. Brewster. Of the 332 history of this very rich and beautiful
+department of science, we have already given some account, in speaking
+of Optics. The first facts which were noticed, those relating to
+double refraction, belonged exclusively to crystals of the
+rhombohedral system. The splendid phenomena of the rings and
+lemniscates produced by dipolarizing crystals, were afterwards
+discovered; and these were, in 1817, classified by Sir David Brewster,
+according to the crystalline forms to which they belong. This
+classification, on comparison with the distinction of Systems of
+Crystallization, resolved itself into a necessary relation of
+mathematical symmetry: all crystals of the pyramidal and rhombohedral
+systems, which from their geometrical character have a single axis of
+symmetry, are also optically uniaxal, and produce by dipolarization
+circular rings; while the prismatic system, which has no such single
+axis, but three unequal axes of symmetry, is optically biaxal, gives
+lemniscates by dipolarized light, and according to Fresnel’s theory,
+has three rectangular axes of unequal elasticity.
+[2nd Ed.] [I have placed Sir David Brewster’s arrangement of
+crystalline forms in this chapter, as an event belonging to the
+confirmation of the distinctions of forms introduced by Weiss
+and Mohs; because that arrangement was established, not on
+crystallographical, but on optical grounds. But Sir David Brewster’s
+optical discovery was a much greater step in science than the systems
+of the two German crystallographers; and even in respect to the
+crystallographical principle, Sir D. Brewster had an independent share
+in the discovery. He divided crystalline forms into three classes,
+enumerating the Hauïan “primitive forms” which belonged to each; and
+as he found some exceptions to this classification, (such as idocrase,
+&c.,) he ventured to pronounce that in those substances the
+received primitive forms were probably erroneous; a judgment which was
+soon confirmed by a closer crystallographical scrutiny. He also showed
+his perception of the mineralogical importance of his discovery by
+publishing it, not only in the Phil. Trans. (1818), but also in
+the Transactions of the Wernerian Society of Natural History.
+In a second paper inserted in this later series, read in 1820, he
+further notices Mohs’s System of Crystallography, which had then
+recently appeared, and points out its agreement with his own.
+Another reason why I do not make his great optical discovery a
+cardinal point in the history of crystallography is, that as a
+crystallographical system it is incomplete. Although we are thus led
+to distinguish the tessular and the prismatic systems
+(using Mohs’s terms) 333 from the rhombohedral and the
+square prismatic, we are not led to distinguish the latter two
+from each other; inasmuch as they have no optical difference of
+character. But this distinction is quite essential in crystallography;
+for these two systems have faces formed by laws as different as those
+of the other two systems.
+Moreover, Weiss and Mohs not only divided crystalline forms into
+certain classes, but showed that by doing this, the derivation of all
+the existing forms from the fundamental ones assumed a new aspect of
+simplicity and generality; and this was the essential part of what
+they did.
+On the other hand, I do not think it is too much to say as I have
+elsewhere said35 that “Sir D. Brewster’s optical
+experiments must have led to a classification of crystals into the
+above systems, or something nearly equivalent, even if crystals had
+not been so arranged by attention to their forms.”]
+35 Philosophy of the Inductive
+Sciences, B. viii. C. iii. Art. 3.
+Many other most curious trains of research have confirmed the
+general truth, that the degree and kind of geometrical symmetry
+corresponds exactly with the symmetry of the optical properties. As an
+instance of this, eminently striking for its singularity, we may
+notice the discovery of Sir John Herschel, that the plagihedral
+crystallization of quartz, by which it exhibits faces twisted
+to the right or the left, is accompanied by right-handed or
+left-handed circular polarization respectively. No one acquainted with
+the subject can now doubt, that the correspondence of geometrical and
+optical symmetry is of the most complete and fundamental kind.
+[2nd Ed.] [Our knowledge with respect to the positions of the
+optical axes of the oblique prismatic crystals is still imperfect. It
+appears to be ascertained that, in singly oblique crystals, one of the
+axes of optical elasticity coincides with the rectangular
+crystallographic axis. In doubly oblique crystals, one of the axes of
+optical elasticity is, in many cases, coincident with the axis of a
+principal zone. I believe no more determinate laws have been
+discovered.]
+Thus the highest generalization at which mathematical
+crystallographers have yet arrived, may be considered as fully
+established; and the science of Crystallography, in the condition in
+which these place it, is fit to be employed as one of the members of
+Mineralogy, and thus to fill its appropriate place and office.
+~Additional material in the 3rd edition.~
+334</div></body></text></TEI>

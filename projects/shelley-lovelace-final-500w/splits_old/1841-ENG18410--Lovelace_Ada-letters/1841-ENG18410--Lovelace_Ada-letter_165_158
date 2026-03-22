@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 158</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 158.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1841">undated [July 1841]</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 158</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_158.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Weddy Night</p>
+      <p>Dearest W. I send the Cab, because was found too dangerous for even the Groom to ride; &amp; I therefore want to keep the phaeton tomorrow for the children to go out in, &amp; that I may accompany them on horseback; for today I have not rode.--</p>
+      <p>Avis Phoenix</p>
+    </div></body>
+  </text>
+</TEI>

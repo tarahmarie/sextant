@@ -1,0 +1,710 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="78">CHAPTER III.
+The Relation of Vapor and Air.
+
+Sect. 1.—The Boylean Law of the Air’s
+Elasticity.
+IN the Sixth Book (Chap. iv.
+Sect. 1.) we have already seen how the
+conception on the laws of fluid equilibrium was, by Pascal and others,
+extended to air, as well as water. But though air presses and is
+pressed as water presses and is pressed, pressure produces upon air an
+effect which it does not, in any obvious degree, produce upon water.
+Air which is pressed is also compressed, or made to occupy a
+smaller space; and is consequently also made more dense, or
+condensed; and on the other hand, when the pressure upon a
+portion of air is diminished, the air expands or is rarefied. These
+broad facts are evident. They are expressed in a general way by saying
+that air is an elastic fluid, yielding in a certain degree to
+pressure, and recovering its previous dimensions when the pressure is
+removed.
+But when men had reached this point, the questions obviously
+offered themselves, in what degree and according to what law air
+yields to pressure; when it is compressed, what relation does the
+density bear to the pressure? The use which had been made of tubes
+containing columns of mercury, by which the pressure of portions of
+air was varied and measured, suggested obvious modes of devising
+experiments by which this question might be answered. Such experiments
+accordingly were made by Boyle about 1650; and the result at which he
+arrived was, that when air is thus compressed, the density is as the
+pressure. Thus if the pressure of the atmosphere in its common state
+be equivalent to 30 inches of mercury, as shown by the barometer; if
+air included in a tube be pressed by 30 additional inches of 164 mercury, its density
+will be doubled, the air being compressed into one half the space. If
+the pressure be increased threefold, the density is also trebled; and
+so on. The same law was soon afterwards (in 1676) proved
+experimentally by Mariotte. And this law of the air’s elasticity, that
+the density is as the pressure, is sometimes called the Boylean
+Law, and sometimes the Law of Boyle and Mariotte.
+Air retains its aerial character permanently; but there are other
+aerial substances which appear as such, and then disappear or change
+into some other condition. Such are termed vapors. And the
+discovery of their true relation to air was the result of a long
+course of researches and speculations.
+[2nd Ed.] [It was found by M. Cagniard de la Tour (in 1823), that
+at a certain temperature, a liquid, under sufficient pressure, becomes
+clear transparent vapor or gas, having the same bulk as the liquid.
+This condition Dr. Faraday calls the Cagniard de la Tour state,
+(the Tourian state?) It was also discovered by Dr. Faraday that
+carbonic-acid gas, and many other gases, which were long conceived to
+be permanently elastic, are really reducible to a liquid state by
+pressure.39 And in 1835, M. Thilorier found the
+means of reducing liquid carbonic acid to a solid form, by means of
+the cold produced in evaporation. More recently Dr. Faraday has added
+several substances usually gaseous to the list of those which could
+previously be shown in the liquid state, and has reduced others,
+including ammonia, nitrous oxide, and sulphuretted hydrogen, to a
+solid consistency.40 After these discoveries, we may, I
+think, reasonably doubt whether all bodies are not capable of existing
+in the three consistencies of solid, liquid, and air.
+39 Phil. Trans. 1823.
+40 Ib. Pt. 1. 1845.
+We may note that the law of Boyle and Mariotte is not exactly true
+near the limit at which the air passes to the liquid state in such
+cases as that just spoken of. The diminution of bulk is then more
+rapid than the increase of pressure.
+The transition of fluids from a liquid to an airy consistence
+appears to be accompanied by other curious phenomena. See Prof.
+Forbes’s papers on the Color of Steam under certain
+circumstances, and on the Colors of the Atmosphere, in the
+Edin. Trans. vol. xiv.] 165
+Sect. 2.—Prelude to Dalton’s Doctrine of
+Evaporation.
+Visible clouds, smoke,
+distillation, gave the notion of Vapor; vapor was at first conceived
+to be identical with air, as by Bacon.41 It was easily
+collected, that by heat, water might be converted into vapor. It was
+thought that air was thus produced, in the instrument called the
+æolipile, in which a powerful blast is caused by a boiling
+fluid; but Wolfe showed that the fluid was not converted into air, by
+using camphorated spirit of wine, and condensing the vapor after it
+had been formed. We need not enumerate the doctrines (if very vague
+hypotheses may be so termed) of Descartes, Dechales, Borelli.42 The latter accounted for the rising of
+vapor by supposing it a mixture of fire and water; and thus, fire
+being much lighter than air, the mixture also was light. Boyle
+endeavored to show that vapors do not permanently float in
+vacuo. He compared the mixture of vapor with air to that of salt
+with water. He found that the pressure of the atmosphere affected the
+heat of boiling water; a very important fact. Boyle proved this by
+means of the air-pump; and he and his friends were much surprised to
+find that when air was removed, water only just warm boiled violently.
+Huyghens mentions an experiment of the same kind made by Papin about
+1673.
+41 Bacon’s Hist. Nat. Cent. i.
+p. 27.
+42 They may be seen in Fischer,
+Geschichte der Physik, vol. ii. p. 175.
+The ascent of vapor was explained in various ways in succession,
+according to the changes which physical science underwent. It was a
+problem distinctly treated of, at a period when hydrostatics had
+accounted for many phenomena; and attempts were naturally made to
+reduce this fact to hydrostatical principles. An obvious hypothesis,
+which brought it under the dominion of these principles, was, to
+suppose that the water, when converted into vapor, was divided into
+small hollow globules;—thin pellicles including air or heat.
+Halley gave such an explanation of evaporation; Leibnitz calculated
+the dimensions of these little bubbles; Derham managed (as he
+supposed) to examine them with a magnifying glass: Wolfe also examined
+and calculated on the same subject. It is curious to see so much
+confidence in so lame a theory; for if water became hollow globules in
+order to rise as vapor, we require, in order to explain the formation
+of these globules, new laws of nature, which are not even hinted at by
+166 the supporters
+of the doctrine, though they must be far more complex than the
+hydrostatical law by which a hollow sphere floats.
+Newton’s opinion was hardly more satisfactory; he43 explained evaporation by the repulsive
+power of heat; the parts of vapors, according to him, being small, are
+easily affected by this force, and thus become lighter than the
+atmosphere.
+43 Opticks, Qu. 31.
+Muschenbroek still adhered to the theory of globules, as the
+explanation of evaporation; but he was manifestly discontented with
+it; and reasonably apprehended that the pressure of the air would
+destroy the frail texture of these bubbles. He called to his aid a
+rotation of the globules (which Descartes also had assumed); and, not
+satisfied with this, threw himself on electrical action as a reserve.
+Electricity, indeed, was now in favor, as hydrostatics had been
+before; and was naturally called in, in all cases of difficulty.
+Desaguliers, also, uses this agent to account for the ascent of vapor,
+introducing it into a kind of sexual system of clouds; according to
+him, the male fire (heat) does a part, and the female fire
+(electricity) performs the rest. These are speculations of small merit
+and no value.
+In the mean time, Chemistry made great progress in the estimation
+of philosophers, and had its turn in the explanation of the important
+facts of evaporation. Bouillet, who, in 1742, placed the particles of
+water in the interstices of those of air, may be considered as
+approaching to the chemical theory. In 1748, the Academy of Sciences
+of Bourdeaux proposed the ascent of vapors as the subject of a prize;
+which was adjudged in a manner very impartial as to the choice of a
+theory; for it was divided between Kratzenstein, who advocated the
+bubbles, (the coat of which he determined to be 1⁄50,000th
+of an inch thick,) and Hamberger, who maintained the truth to be the
+adhesion of particles of water to those of air and fire. The latter
+doctrine had become much more distinct in the author’s mind when seven
+years afterwards (1750) he published his Elementa Physices. He
+then gave the explanation of evaporation in a phrase which has since
+been adopted,—the solution of water in air; which he
+conceived to be of the same kind as other chemical solutions.
+This theory of solution was further advocated and developed by Le
+Roi;44 and in his hands assumed a form which
+has been extensively adopted up to our times, and has, in many
+instances, tinged the language commonly used. He conceived that air,
+like other solvents, 167 might be saturated; and that when
+the water was beyond the amount required for saturation, it appeared
+in a visible form. The saturating quantity was held to depend mainly
+on warmth and wind.
+44 Ac. R. Sc. Paris,
+1750.
+This theory was by no means devoid of merit; for it brought
+together many of the phenomena, and explained a number of the
+experiments which Le Roi made. It explained the facts of the
+transparency of vapor, (for perfect solutions are transparent,) the
+precipitation of water by cooling, the disappearance of the visible
+moisture by warming it again, the increased evaporation by rain and
+wind; and other observed phenomena. So far, therefore, the
+introduction of the notion of the chemical solution of water in air
+was apparently very successful. But its defects are of a very fatal
+kind; for it does not at all apply to the facts which take place when
+air is excluded.
+In Sweden, in the mean time,45 the subject had
+been pursued in a different, and in a more correct manner. Wallerius
+Ericsen had, by various experiments, established the important fact,
+that water evaporates in a vacuum. His experiments are clear
+and satisfactory; and he inferred from them the falsity of the common
+explanation of evaporation by the solution of water in air.
+His conclusions are drawn in a very intelligent manner. He considers
+the question whether water can be changed into air, and whether the
+atmosphere is, in consequence, a mere collection of vapors; and on
+good reasons, decides in the negative, and concludes the existence of
+permanently-elastic air different from vapor. He judges, also, that
+there are two causes concerned, one acting to produce the first ascent
+of vapors, the other to support them afterwards. The first, which acts
+in a vacuum, he conceives to be the mutual repulsion of the particles;
+and since this force is independent of the presence of other
+substances, this seems to be a sound induction. When the vapors have
+once ascended into the air, it may readily be granted that they are
+carried higher, and driven from side to side by the currents of the
+atmosphere. Wallerius conceives that the vapor will rise till it gets
+into air of the same density as itself, and being then in equilibrium,
+will drift to and fro.
+45 Fischer, Gesch. Phys. vol.
+v. p. 63.
+The two rival theories of evaporation, that of chemical
+solution and that of independent vapor, were, in various
+forms, advocated by the next generation of philosophers. De Saussure
+may be considered as the leader on one side, and De Luc on the other.
+The former maintained the solution theory, with some modifications of
+his own. De 168 Luc
+denied all solution, and held vapor to be a combination of the
+particles of water with fire, by which they became lighter than air.
+According to him, there is always fire enough present to produce this
+combination, so that evaporation goes on at all temperatures.
+This mode of considering independent vapor as a combination of fire
+with water, led the attention of those who adopted that opinion to the
+thermometrical changes which take place when vapor is formed and
+condensed. These changes are important, and their laws curious. The
+laws belong to the induction of latent heat, of which we have just spoken; but a knowledge of them is not
+absolutely necessary in order to enable us to understand the manner in
+which steam exists in air.
+De Luc’s views led him46 also to the consideration of the effect
+of pressure on vapor. He explains the fact that pressure will condense
+vapor, by supposing that it brings the particles within the distance
+at which the repulsion arising from fire ceases. In this way, he also
+explains the fact, that though external pressure does thus condense
+steam, the mixture of a body of air, by which the pressure is equally
+increased, will not produce the same effect; and therefore, vapors can
+exist in the atmosphere. They make no fixed proportion of it; but at
+the same temperature we have the same pressure arising from
+them, whether they are in air or not. As the heat increases,
+vapor becomes capable of supporting a greater and greater pressure,
+and at the boiling heat, it can support the pressure of the
+atmosphere.
+46 Fischer, vol. vii. p. 453.
+Nouvelles Idées sur la Météorologie, 1787.
+De Luc also marked very precisely (as Wallerius had done) the
+difference between vapor and air; the former being capable of change
+of consistence by cold or pressure, the latter not so. Pictet,
+in 1786, made a hygrometrical experiment, which appeared to him to
+confirm De Luc’s views; and De Luc, in 1792, published a concluding
+essay on the subject in the Philosophical Transactions.
+Pictet’s Essay on Fire, in 1791, also demonstrated that “all
+the train of hygrometrical phenomena takes place just as well, indeed
+rather quicker, in a vacuum than in air, provided the same quantity of
+moisture is present.” This essay, and De Luc’s paper, gave the
+death-blow to the theory of the solution of water in air.
+Yet this theory did not fall without an obstinate struggle. It was
+taken up by the new school of French chemists, and connected with
+their views of heat. Indeed, it long appears as the prevalent opinion.
+169 Girtanner,47 in his Grounds of the Antiphlogistic
+Theory, may be considered as one of the principal expounders of
+this view of the matter. Hube, of Warsaw, was, however, the strongest
+of the defenders of the theory of solution, and published upon it
+repeatedly about 1790. Yet he appears to have been somewhat
+embarrassed with the increase of the air’s elasticity by vapor.
+Parrot, in 1801, proposed another theory, maintaining that De Luc had
+by no means successfully attacked that of solution, but only De
+Saussure’s superfluous additions to it.
+47 Fischer, vol. vii. 473.
+It is difficult to see what prevented the general reception of the
+doctrine of independent vapor; since it explained all the facts very
+simply, and the agency of air was shown over and over again to be
+unnecessary. Yet, even now, the solution of water in air is hardly
+exploded. M. Gay Lussac,48 in 1800, talks of the quantity of water
+“held in solution” by the air; which, he says, varies according to its
+temperature and density by a law which has not yet been discovered.
+And Professor Robison, in the article “Steam,” in the Encyclopædia
+Britannica (published about 1800), says,49 “Many
+philosophers imagine that spontaneous evaporation, at low
+temperatures, is produced in this way (by elasticity alone). But we
+cannot be of this opinion; and must still think that this kind of
+evaporation is produced by the dissolving power of the air.” He then
+gives some reasons for his opinion. “When moist air is suddenly
+rarefied, there is always a precipitation of water. But by this new
+doctrine the very contrary should happen, because the tendency of
+water to appear in the elastic form is promoted by removing the
+external pressure.” Another main difficulty in the way of the doctrine
+of the mere mixture of vapor and air was supposed to be this; that if
+they were so mixed, the heavier fluid would take the lower part, and
+the lighter the higher part, of the space which they occupied.
+48 Ann. Chim. tom.
+xliii.
+49 Robison’s Works, ii.
+37.
+The former of these arguments was repelled by the consideration
+that in the rarefaction of air, its specific heat is changed, and thus
+its temperature reduced below the constituent temperature of the vapor
+which it contains. The latter argument is answered by a reference to
+Dalton’s law of the mixture of gases. We must consider the
+establishment of this doctrine in a new section, as the most material
+step to the true notion of evaporation. 170
+Sect. 3.—Dalton’s Doctrine of
+Evaporation.
+A portion of that which
+appears to be the true notion of evaporation was known, with greater
+or less distinctness, to several of the physical philosophers of whom
+we have spoken. They were aware that the vapor which exists in air, in
+an invisible state, may be condensed into water by cold: and they had
+noticed that, in any state of the atmosphere, there is a certain
+temperature lower than that of the atmosphere, to which, if we depress
+bodies, water forms upon them in fine drops like dew; this temperature
+is thence called the dew-point. The vapor of water which exists
+anywhere may be reduced below the degree of heat which is necessary to
+constitute it vapor, and thus it ceases to be vapor. Hence this
+temperature is also called the constituent temperature. This
+was generally known to the meteorological speculators of the last
+century, although, in England, attention was principally called to it
+by Dr. Wells’s Essay on Dew, in 1814. This doctrine readily
+explains how the cold produced by rarefaction of air, descending below
+the constituent temperature of the contained vapor, may precipitate a
+dew; and thus, as we have said, refutes one obvious objection to the
+theory of independent vapor.
+The other difficulty was first fully removed by Mr. Dalton. When
+his attention was drawn to the subject of vapor, he saw insurmountable
+objections to the doctrine of a chemical union of water and air. In
+fact, this doctrine was a mere nominal explanation; for, on closer
+examination, no chemical analogies supported it. After some
+reflection, and in the sequel of other generalizations concerning
+gases, he was led to the persuasion, that when air and steam are mixed
+together, each follows its separate laws of equilibrium, the particles
+of each being elastic with regard to those of their own kind only: so
+that steam may be conceived as flowing among the particles of air50 “like a stream of water among pebbles;”
+and the resistance which air offers to evaporation arises, not from
+its weight, but from the inertia of its particles.
+50 Manchester Memoirs, vol. v.
+p. 581.
+It will be found that the theory of independent vapor, understood
+with these conditions, will include all the facts of the
+case;—gradual evaporation in air; sudden evaporation in a
+vacuum; the increase of 171 the air’s elasticity by vapor;
+condensation by its various causes; and other phenomena.
+But Mr. Dalton also made experiments to prove his fundamental
+principle, that if two different gases communicate, they will diffuse
+themselves through each other;51—slowly,
+if the opening of communication be small. He observes also, that all
+the gases had equal solvent powers for vapor, which could hardly have
+happened, had chemical affinity been concerned. Nor does the density
+of the air make any difference.
+51 New System of Chemical
+Philosophy, vol. i. p. 151.
+Taking all these circumstances into the account, Mr. Dalton
+abandoned the idea of solution. “In the autumn of 1801,” he says, “I
+hit upon an idea which seemed to be exactly calculated to explain the
+phenomena of vapor: it gave rise to a great variety of experiments,”
+which ended in fixing it in his mind as a true idea. “But,” he adds,
+“the theory was almost universally misunderstood, and consequently
+reprobated.”
+Mr. Dalton answers various objections. Berthollet had urged that we
+can hardly conceive the particles of an elastic substance added to
+those of another, without increasing its elasticity. To this Mr.
+Dalton replies by adducing the instance of magnets, which repel each
+other, but do not repel other bodies. One of the most curious and
+ingenious objections is that of M. Gough, who argues, that if each gas
+is elastic with regard to itself alone, we should hear, produced by
+one stroke, four sounds; namely, first, the sound through
+aqueous vapor; second, the sound through azotic gas;
+third, the sound through oxygen gas; fourth, the sound
+through carbonic acid. Mr. Dalton’s answer is, that the difference of
+time at which these sounds would come is very small; and that, in
+fact, we do hear, sounds double and treble.
+In his New System of Chemical Philosophy, Mr. Dalton
+considers the objections of his opponents with singular candor and
+impartiality. He there appears disposed to abandon that part of the
+theory which negatives the mutual repulsion of the particles of the
+two gases, and to attribute their diffusion through one another to the
+different size of the particles, which would, he thinks,52 produce the same effect.
+52 New System, vol. i. p.
+188.
+In selecting, as of permanent importance, the really valuable part
+of this theory, we must endeavor to leave out all that is doubtful or
+unproved. I believe it will be found that in all theories hitherto
+172 promulgated,
+all assertions respecting the properties of the particles of bodies,
+their sizes, distances, attractions, and the like, are insecure and
+superfluous. Passing over, then, such hypotheses, the inductions which
+remain are these;—that two gases which are in communication
+will, by the elasticity of each, diffuse themselves in one another,
+quickly or slowly; and—that the quantity of steam contained in a
+certain space of air is the same, whatever be the air, whatever be its
+density, and even if there be a vacuum. These propositions may be
+included together by saying, that one gas is mechanically mixed
+with another; and we cannot but assent to what Mr. Dalton says of the
+latter fact,—“this is certainly the touchstone of the mechanical
+and chemical theories.” This doctrine of the mechanical mixture of
+gases appears to supply answers to all the difficulties opposed to
+it by Berthollet and others, as Mr. Dalton has shown;53 and we may, therefore, accept it as
+well established.
+53 New System, vol. i. p. 160,
+&c.
+This doctrine, along with the principle of the constituent
+temperature of steam, is applicable to a large series of
+meteorological and other consequences. But before considering the
+applications of theory to natural phenomena, which have been made, it
+will be proper to speak of researches which were carried on, in a
+great measure, in consequence of the use of steam in the arts: I mean
+the laws which connect its elastic force with its constituent
+temperature.
+Sect. 4.—Determination of the Laws of the Elastic
+Force of Steam.
+The expansion of aqueous
+vapor at different temperatures is governed, like that of all other
+vapors, by the law of Dalton and Gay-Lussac, already mentioned; and
+from this, its elasticity, when its expansion is resisted, will be
+known by the law of Boyle and Mariotte; namely, by the rule that the
+pressure of airy fluids is as the condensation. But it is to be
+observed, that this process of calculation goes on the supposition
+that the steam is cut off from contact with water, so that no more
+steam can be generated; a case quite different from the common one, in
+which the steam is more abundant as the heat is greater. The
+examination of the force of vapor, when it is in contact with water,
+must be briefly noticed.
+During the period of which we have been speaking, the progress of
+the investigation of the laws of aqueous vapor was much accelerated
+173 by the growing
+importance of the steam-engine, in which those laws operated in a
+practical form. James Watts, the main improver of that machine, was
+thus a great contributor to speculative knowledge, as well as to
+practical power. Many of his improvements depended on the laws which
+regulate the quantity of heat which goes to the formation or
+condensation of steam; and the observations which led to these
+improvements enter into the induction of latent heat. Measurements of
+the force of steam, at all temperatures, were made with the same view.
+Watts’s attention had been drawn to the steam-engine in 1759, by
+Robison, the former being then an instrument-maker, and the latter a
+student at the University of Glasgow.54 In 1761 or
+1762, he tried some experiments on the force of steam in a Papin’s
+Digester;55 and formed a sort of working model of a
+steam-engine, feeling already his vocation to develope the powers of
+that invention. His knowledge was at that time principally derived
+from Desaguliers and Belidor, but his own experiments added to it
+rapidly. In 1764 and 1765, he made a more systematical course of
+experiments, directed to ascertain the force of steam. He tried this
+force, however, only at temperatures above the boiling-point; and
+inferred it at lower degrees from the supposed continuity of the law
+thus obtained. His friend Robison, also, was soon after led, by
+reading the account of some experiments of Lord Charles Cavendish, and
+some others of Mr. Nairne, to examine the same subject. He made out a
+table of the correspondence of the elasticity and the temperature of
+vapor, from thirty-two to two hundred and eighty degrees of
+Fahrenheit’s thermometer.56 The thing here to be remarked, is the
+establishment of a law of the pressure of steam, down to the
+freezing-point of water. Ziegler of Basle, in 1769, and Achard of
+Berlin, in 1782, made similar experiments. The latter examined also
+the elasticity of the vapor of alcohol. Betancourt, in 1792, published
+his Memoir on the expansive force of vapors; and his tables were for
+some time considered the most exact. 174 Prony, in his Architecture
+Hydraulique (1796), established a mathematical formula,57 on the experiments of Betancourt, who
+began his researches in the belief that he was first in the field,
+although he afterwards found that he had been anticipated by Ziegler.
+Gren compared the experiments of Betancourt and De Luc with his own.
+He ascertained an important fact, that when water boils, the
+elasticity of the steam is equal to that of the atmosphere. Schmidt at
+Giessen endeavored to improve the apparatus used by Betancourt; and
+Biker, of Rotterdam, in 1800, made new trials for the same
+purpose.
+54 Robison’s Works, vol. ii.
+p. 113.
+55 Denis Papin, who made many of
+Boyle’s experiments for him, had discovered that if the vapor be
+prevented from rising, the water becomes hotter than the usual
+boiling-point; and had hence invented the instrument called Papin’s
+Digester. It is described in his book, La manière d’amolir les
+os et de faire cuire toutes sorts de viandes en fort peu de temps et à
+peu de frais. Paris, 1682.
+56 These were afterwards published in
+the Encyclopædia Britannica; in the article “Steam,” written by
+Robison.
+57 Architecture Hydraulique,
+Seconde Partie, p. 163.
+In 1801, Mr. Dalton communicated to the Philosophical Society of
+Manchester his investigations on this subject; observing truly, that
+though the forces at high temperatures are most important when steam
+is considered as a mechanical agent, the progress of philosophy is
+more immediately interested in accurate observations on the force at
+low temperatures. He also found that his elasticities for equidistant
+temperatures resembled a geometrical progression, but with a
+ratio constantly diminishing. Dr. Ure, in 1818, published in the
+Philosophical Transactions of London, experiments of the same
+kind, valuable from the high temperatures at which they were made, and
+for the simplicity of his apparatus. The law which he thus obtained
+approached, like Dalton’s, to a geometrical progression. Dr.
+Ure says, that a formula proposed by M. Biot gives an error of near
+nine inches out of seventy-five, at a temperature of 266 degrees. This
+is very conceivable, for if the formula be wrong at all, the
+geometrical progress rapidly inflames the error in the higher portions
+of the scale. The elasticity of steam, at high temperatures, has also
+been experimentally examined by Mr. Southern, of Soho, and Mr. Sharpe,
+of Manchester. Mr. Dalton has attempted to deduce certain general laws
+from Mr. Sharpe’s experiments; and other persons have offered other
+rules, as those which govern the force of steam with reference to the
+temperature: but no rule appears yet to have assumed the character of
+an established scientific truth. Yet the law of the expansive force of
+steam is not only required in order that the steam-engine may be
+employed with safety and to the best advantage; but must also be an
+important point in every consistent thermotical theory.
+[2nd Ed.] [To the experiments on steam made by private physicists,
+are to be added the experiments made on a grand scale by order of the
+governments of France and of America, with a view to 175 legislation on the
+subject of steam-engines. The French experiments were made in 1823,
+under the direction of a commission consisting of some of the most
+distinguished members of the Academy of Sciences; namely, MM. de
+Prony, Arago, Girard, and Dulong. The American experiments were placed
+in the hands of a committee of the Franklin Institute of the State of
+Pennsylvania, consisting of Prof. Bache and others, in 1830. The
+French experiments went as high as 435° of Fahrenheit’s thermometer,
+corresponding to a pressure of 60 feet of mercury, or 24 atmospheres.
+The American experiments were made up to a temperature of 346°, which
+corresponded to 274 inches of mercury, more than 9 atmospheres. The
+extensive range of these experiments affords great advantages for
+determining the law of the expansive force. The French Academy found
+that their experiments indicated an increase of the elastic force
+according to the fifth power of a binominal 1 + mt, where t is
+the temperature. The American Institute were led to a sixth
+power of a like binominal. Other experimenters have expressed their
+results, not by powers of the temperature, but by geometrical ratios.
+Dr. Dalton had supposed that the expansion of mercury being as the
+square of the true temperature above its freezing-point, the expansive
+force of steam increases in geometrical ratio for equal increments of
+temperature. And the author of the article Steam in the Seventh
+Edition of the Encyclopædia Britannica (Mr. J. S. Russell), has
+found that the experiments are best satisfied by supposing mercury, as
+well as steam, to expand in a geometrical ratio for equal increments
+of the true temperature.
+It appears by such calculation, that while dry gas increases in the
+ratio of 8 to 11, by an increase of temperature from freezing to
+boiling water; steam in contact with water, by the same increase of
+temperature above boiling water, has its expansive force increased in
+the proportion of 1 to 12. By an equal increase of temperature,
+mercury expands in about the ratio of 8 to 9.
+Recently, MM. Magnus of Berlin, Holzmann and Regnault, have made
+series of observations on the relation between temperature and
+elasticity of steam.58
+58 See Taylor’s Scientific
+Memoirs, Aug. 1845, vol. iv. part xiv., and Ann. de Chimie.
+Prof. Magnus measured his temperatures by an air-thermometer; a
+process which, I stated in the first edition, seemed to afford the
+best promise of simplifying the law of expansion. His result is, that
+the 176 elasticity
+proceeds in a geometric series when the temperature proceeds in an
+arithmetical series nearly; the differences of temperature for equal
+augmentations of the ratio of elasticity being somewhat greater for
+the higher temperatures.
+The forces of the vapors of other liquids in contact with their
+liquids, determined by Dr. Faraday, as mentioned in Chap. ii. Sect. 1, are analogous to the elasticity of
+steam here spoken of.]
+~Additional material in the 3rd
+edition.~
+Sect. 5.—Consequences of the Doctrine of
+Evaporation.—Explanation of Rain, Dew, and Clouds.
+The discoveries concerning
+the relations of heat and moisture which were made during the last
+century, were principally suggested by meteorological inquiries, and
+were applied to meteorology as fast as they rose. Still there remains,
+on many points of this subject, so much doubt and obscurity, that we
+cannot suppose the doctrines to have assumed their final form; and
+therefore we are not here called upon to trace their progress and
+connexion. The principles of atmology are pretty well understood; but
+the difficulty of observing the conditions under which they produce
+their effects in the atmosphere is so great, that the precise theory
+of most meteorological phenomena is still to be determined.
+We have already considered the answers given to the question:
+According to what rules does transparent aqueous vapor resume its form
+of visible water? This question includes, not only the problems of
+Rain and Dew, but also of Clouds; for clouds are not vapor, but water,
+vapor being always invisible. An opinion which attracted much notice
+in its time, was that of Hutton, who, in 1784, endeavored to prove
+that if two masses of air saturated with transparent vapor at
+different temperatures are mixed together, the precipitation of water
+in the form either of cloud or of drops will take place. The reason he
+assigned for the opinion was this: that the temperature of the mixture
+is a mean between the two temperatures, but that the force of the
+vapor in the mixture, which is the mean of the forces of the two
+component vapors, will be greater than that which corresponds to the
+mean temperature, since the force increases faster than the
+temperature;59 and hence some part of the vapor will
+be precipitated. This doctrine, it will be seen, speaks of vapor as
+“saturating” air, and is 177 therefore, in this form, inconsistent
+with Dalton’s principle; but it is not difficult to modify the
+expression so as to retain the essential part of the explanation.
+59 Edin. Trans. vol. 1. p.
+42.
+Dew.—The principle of a “constituent temperature” of
+steam, and the explanation of the “dew-point,” were known, as we have
+said (chap. iii. sect. 3,) to the
+meteorologists of the last century; but we perceive how incomplete
+their knowledge was, by the very gradual manner in which the
+consequences of this principle were traced out. We have already
+noticed, as one of the books which most drew attention to the true
+doctrine, in this country at least, Dr. Wells’s Essay on Dew,
+published in 1814. In this work the author gives an account of the
+progress of his opinions;60 “I was led,” he says, “in the autumn of
+1784, by the event of a rude experiment, to think it probable that the
+formation of dew is attended with the production of cold.” This was
+confirmed by the experiments of others. But some years after, “upon
+considering the subject more closely, I began to suspect that Mr.
+Wilson, Mr. Six, and myself, had all committed an error in regarding
+the cold which accompanies the dew, as an effect of the
+formation of the dew.” He now considered it rather as the
+cause: and soon found that he was able to account for the
+circumstances of this formation, many of them curious and paradoxical,
+by supposing the bodies on which dew is deposited, to be cooled down,
+by radiation into the clear night-sky, to the proper temperature. The
+same principle will obviously explain the formation of mists over
+streams and lakes when the air is cooler than the water; which was put
+forward by Davy, even in 1810, as a new doctrine, or at least not
+familiar.
+60 Essay on Dew, p. 1.
+Hygrometers.—According as air has more or less of
+vapor in comparison with that which its temperature and pressure
+enable it to contain, it is more or less humid; and an instrument
+which measures the degrees of such a gradation is a hygrometer.
+The hygrometers which were at first invented, were those which
+measured the moisture by its effect in producing expansion or
+contraction in certain organic substances; thus De Saussure devised a
+hair-hygrometer, De Luc a whalebone-hygrometer, and Dalton used a
+piece of whipcord. All these contrivances were variable in the amount
+of their indications under the same circumstances; and, moreover, it
+was not easy to know the physical meaning of the degree indicated. The
+dew-point, or constituent temperature of the vapor which exists in the
+air, is, on 178 the
+other hand, both constant and definite. The determination of this
+point, as a datum for the moisture of the atmosphere, was employed by
+Le Roi, and by Dalton (1802), the condensation being obtained by cold
+water:61 and finally, Mr. Daniell (1812)
+constructed an instrument, where the condensing temperature was
+produced by evaporation of ether, in a very convenient manner. This
+invention (Daniell’s Hygrometer) enables us to determine the
+quantity of vapor which exists in a given mass of the atmosphere at
+any time of observation.
+61 Daniell, Met. Ess. p. 142.
+Manch. Mem. vol. v. p. 581.
+[2nd Ed.] [As a happy application of the Atmological Laws which
+have been discovered, I may mention the completion of the theory and
+use of the Wet-bulb Hygrometer; an instrument in which, from
+the depression of temperature produced by wetting the bulb of a
+thermometer, we infer the further depression which would produce dew.
+Of this instrument the history is thus summed up by Prof.
+Forbes:—“Hutton invented the method; Leslie revived and extended
+it, giving probably the earliest, though an imperfect theory;
+Gay-Lussac, by his excellent experiments and reasoning from them,
+completed the theory, so far as perfectly dry air is concerned; Ivory
+extended the theory; which was reduced to practice by Auguste and
+Bohnenberger, who determined the constant with accuracy. English
+observers have done little more than confirm the conclusions of our
+industrious Germanic neighbors; nevertheless the experiments of Apjohn
+and Prinsep must ever be considered as conclusively settling the value
+of the coefficient near the one extremity of the scale, as those of
+Kæmtz have done for the other.”62
+62 Second Report on
+Meteorology, p. 101.
+Prof. Forbes’s two Reports On the Recent Progress and Present
+State of Meteorology given among the Reports of the British
+Association for 1832 and 1840, contain a complete and luminous
+account of recent researches on this subject. It may perhaps be asked
+why I have not given Meteorology a place among the Inductive Sciences;
+but if the reader refers to these accounts, or any other adequate view
+of the subject, he will see that Meteorology is not a single Inductive
+Science, but the application of several sciences to the explanation of
+terrestrial and atmospheric phenomena. Of the sciences so applied,
+Thermotics and Atmology are the principal ones. But others also come
+into play; as Optics, in the explanation of Rainbows, Halos, 179 Parhelia, Coronæ,
+Glories, and the like; Electricity, in the explanation of Thunder and
+Lightning, Hail, Aurora Borealis; to which others might be added.]
+Clouds.—When vapor becomes visible by being cooled
+below its constituent temperature, it forms itself into a very fine
+watery powder, the diameter of the particles of which this powder
+consists being very small: they are estimated by various writers, from
+1⁄100,000th to 1⁄20,000th
+of an inch.63 Such particles, even if solid, would
+descend very slowly; and very slight causes would suffice for their
+suspension, without recurring to the hypothesis of vesicles, of which
+we have already spoken. Indeed that
+hypothesis will not explain the fact, except we suppose these vesicles
+filled with a rarer air than that of the atmosphere; and, accordingly,
+though this hypothesis is still maintained by some,64 it is asserted as a fact of
+observation, proved by optical or other phenomena, and not deduced
+from the suspension of clouds. Yet the latter result is still
+variously explained by different philosophers: thus, M. Gay-Lussac65 accounts for it by upward currents of
+air, and Fresnel explains it by the heat and rarefaction of air in the
+interior of the cloud.
+63 Kæmtz, Met. i. 393.
+64 Ib. i. 393. Robison, ii. 13.
+65 Ann. Chim. xxv. 1822.
+Classification of Clouds.—A classification of clouds
+can then only be consistent and intelligible when it rests upon their
+atmological conditions. Such a system was proposed by Mr. Luke Howard,
+in 1802–3. His primary modifications are, Cirrus,
+Cumulus, and Stratus, which the Germans have translated
+by terms equivalent in English to feather-cloud,
+heap-cloud, and layer-cloud. The cumulus increases by
+accumulations on its top, and floats in the air with a horizontal
+base; the stratus grows from below, and spreads along the earth; the
+cirrus consists of fibres in the higher regions of the atmosphere,
+which grow every way. Between the simple modifications are
+intermediate ones, cirro-cumulus and cirro-stratus; and,
+again, compound ones, the cumulo-stratus and the nimbus,
+or rain-cloud. These distinctions have been generally accepted
+all over Europe: and have rendered a description of all the processes
+which go on in the atmosphere far more definite and clear than it
+could be made before their use.
+I omit a mass of facts and opinions, supposed laws of phenomena and
+assigned causes, which abound in meteorology more than in any other
+science. The slightest consideration will show us what a great 180 amount of labor, of
+persevering and combined observation, the progress of this branch of
+knowledge requires. I do not even speak of the condition of the more
+elevated parts of the atmosphere. The diminution of temperature as we
+ascend, one of the most marked of atmospheric facts, has been
+variously explained by different writers. Thus Dalton66 (1808) refers it to a principle “that
+each atom of air, in the same perpendicular column, is possessed of
+the same degree of heat,” which principle he conceives to be entirely
+empirical in this case. Fourier says67 (1817), “This
+phenomenon results from several causes: one of the principal is the
+progressive extinction of the rays of heat in the successive strata of
+the atmosphere.”
+66 New Syst. of Chem. vol. i.
+p. 125.
+67 Ann. Chim. vi. 285.
+Leaving, therefore, the application of thermotical and atmological
+principles in particular cases, let us consider for a moment the
+general views to which they have led philosophers. ~Additional
+material in the 3rd edition.~
+</div></body></text></TEI>

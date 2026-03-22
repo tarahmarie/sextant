@@ -1,0 +1,307 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Connexion of the Physical Sciences</title><author>Somerville, Mary (1780-1872)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1834</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="11">
+71
+SECTION X.
+
+Rotation of the Earth invariable—Decrease in the Earth’s mean Temperature—Earth
+originally in a state of Fusion—Length of Day constant—Decrease
+of Temperature ascribed by Sir John Herschel to the variation
+in the Excentricity of the Terrestrial Orbit—Difference in the
+Temperature of the two Hemispheres erroneously ascribed to the Excess
+in the Length of Spring and Summer in the Southern Hemisphere; attributed
+by Sir Charles Lyell to the Operation of existing Causes—Three
+principal Axes of Rotation—Position of the Axis of Rotation on the
+Surface of the Earth invariable—Ocean not sufficient to restore the
+Equilibrium of the Earth if deranged—Its Density and mean Depth—Internal
+Structure of the Earth.
+The rotation of the earth, which determines the length of the
+day, may be regarded as one of the most important elements in
+the system of the world. It serves as a measure of time, and
+forms the standard of comparison for the revolutions of the
+celestial bodies, which, by their proportional increase or decrease,
+would soon disclose any changes it might sustain. Theory and
+observation concur in proving that, among the innumerable vicissitudes
+which prevail throughout creation, the period of the
+earth’s diurnal rotation is immutable. The water of rivers,
+falling from a higher to a lower level, carries with it the velocity
+due to its revolution with the earth at a greater distance from
+the centre; it will therefore accelerate, although to an almost
+infinitesimal extent, the earth’s daily rotation. The sum of all
+these increments of velocity, arising from the descent of all
+the rivers on the earth’s surface, would in time become perceptible,
+did not nature, by the process of evaporation, raise the
+waters back to their sources, and thus, by again removing matter
+to a greater distance from the centre, destroy the velocity generated
+by its previous approach; so that the descent of rivers
+does not affect the earth’s rotation. Enormous masses projected
+by volcanoes from the equator to the poles, and the contrary,
+would indeed affect it, but there is no evidence of such convulsions.
+The disturbing action of the moon and planets, which has
+so powerful an effect on the revolution of the earth, in no way
+72influences its rotation. The constant friction of the trade winds
+on the mountains and continents between the tropics does not
+impede its velocity, which theory even proves to be the same as
+if the sea, together with the earth, formed one solid mass. But,
+although these circumstances be insufficient, a variation in the
+mean temperature would certainly occasion a corresponding
+change in the velocity of rotation. In the science of dynamics
+it is a principle in a system of bodies or of particles revolving
+about a fixed centre, that the momentum or sum of the products
+of the mass of each into its angular velocity and distance from
+the centre is a constant quantity, if the system be not deranged
+by a foreign cause. Now, since the number of particles in the
+system is the same whatever its temperature may be, when their
+distances from the centre are diminished, their angular velocity
+must be increased, in order that the preceding quantity may still
+remain constant. It follows, then, that, as the primitive momentum
+of rotation with which the earth was projected into
+space must necessarily remain the same, the smallest decrease in
+heat, by contracting the terrestrial spheroid, would accelerate its
+rotation, and consequently diminish the length of the day. Notwithstanding
+the constant accession of heat from the sun’s rays,
+geologists have been induced to believe, from the fossil remains,
+that the mean temperature of the globe is decreasing.
+The high temperature of mines, hot springs, and above all the
+internal fires which have produced, and do still occasion, such
+devastation on our planet, indicate an augmentation of heat
+towards its centre. The increase of density corresponding to the
+depth and the form of the spheroid, being what theory assigns to
+a fluid mass in rotation, concurs to induce the idea that the temperature
+of the earth was originally so high as to reduce all the
+substances of which it is composed to a state of fusion or of
+vapour, and that in the course of ages it has cooled down to its
+present state; that it is still becoming colder; and that it will
+continue to do so till the whole mass arrives at the temperature
+of the medium in which it is placed, or rather at a state of equilibrium
+between this temperature, the cooling power of its own
+radiation, and the heating effect of the sun’s rays.
+Previous to the formation of ice at the poles, the ancient lands
+of northern latitudes might, no doubt, have been capable of producing
+those tropical plants preserved in the coal-measures, if
+73indeed such plants could flourish without the intense light of a
+tropical sun. But, even if the decreasing temperature of the
+earth be sufficient to produce the observed effects, it must be
+extremely slow in its operation; for, in consequence of the
+rotation of the earth being a measure of the periods of the celestial
+motions, it has been proved that, if the length of the day
+had decreased by the three-thousandth part of a second since the
+observations of Hipparchus two thousand years ago, it would
+have diminished the secular equation of the moon by 44ʺ·4. It
+is, therefore, beyond a doubt that the mean temperature of the
+earth cannot have sensibly varied during that time. If, then,
+the appearances exhibited by the strata are really owing to a
+decrease of internal temperature, it either shows the immense
+periods requisite to produce geological changes, to which two
+thousand years are as nothing, or that the mean temperature of
+the earth had arrived at a state of equilibrium before these
+observations.
+However strong the indications of the primitive fluidity of the
+earth, as there is no direct proof of it, the hypothesis can only
+be regarded as very probable. But one of the most profound
+philosophers and elegant writers of modern times has found in
+the secular variation of the excentricity of the terrestrial orbit
+an evident cause of decreasing temperature. That accomplished
+author, in pointing out the mutual dependencies of phenomena,
+says, “It is evident that the mean temperature of the whole
+surface of the globe, in so far as it is maintained by the action of
+the sun at a higher degree than it would have were the sun extinguished,
+must depend on the mean quantity of the sun’s rays
+which it receives, or—which comes to the same thing—on the
+total quantity received in a given invariable time; and, the
+length of the year being unchangeable in all the fluctuations of
+the planetary system, it follows that the total amount of solar
+radiation will determine, cæteris paribus, the general climate of
+the earth. Now, it is not difficult to show that this amount is
+inversely proportional to the minor axis of the ellipse described
+by the earth about the sun (N. 143), regarded as slowly variable;
+and that, therefore, the major axis remaining, as we know
+it to be, constant, and the orbit being actually in a state of
+approach to a circle, and consequently the minor axis being on
+the increase, the mean annual amount of solar radiation received
+74by the whole earth must be actually on the decrease. We have,
+therefore, an evident real cause to account for the phenomenon.”
+The limits of the variation in the excentricity of the earth’s orbit
+are unknown. But, if its ellipticity has ever been as great as
+that of the orbit of Mercury or Pallas, the mean temperature of
+the earth must have been sensibly higher than it is at present.
+Whether it was great enough to render our northern climates fit
+for the production of tropical plants, and for the residence of the
+elephant and other animals now inhabitants of the torrid zone, it
+is impossible to say.
+Of the decrease in temperature of the northern hemisphere
+there is abundant evidence in the fossil plants discovered in
+very high latitudes, which could only have existed in a tropical
+climate, and which must have grown near the spot where they
+are found, from the delicacy of their structure and the perfect
+state of their preservation. This change of temperature has been
+erroneously ascribed to an excess in the duration of spring and
+summer in the northern hemisphere, in consequence of the excentricity
+of the solar ellipse. The length of the seasons varies with
+the position of the perihelion (N. 64) of the earth’s orbit for two
+reasons. On account of the excentricity, small as it is, any line
+passing through the centre of the sun divides the terrestrial
+ellipse into two unequal parts, and by the laws of elliptical
+motion the earth moves through these two portions with unequal
+velocities. The perihelion always lies in the smaller portion,
+and there the earth’s motion is the most rapid. In the present
+position of the perihelion, spring and summer north of the equator
+exceed by about eight days the duration of the same seasons
+south of it. And 10,492 years ago the southern hemisphere
+enjoyed the advantage we now possess from the secular variation
+of the perihelion. Yet Sir John Herschel has shown that
+by this alternation neither hemisphere acquires any excess of
+light or heat above the other; for, although the earth is nearer
+to the sun while moving through that part of its orbit in which
+the perihelion lies than in the other part, and consequently
+receives a greater quantity of light and heat, yet as it moves
+faster it is exposed to the heat for a shorter time. In the other
+part of the orbit, on the contrary, the earth, being farther from
+the sun, receives fewer of his rays; but because its motion is
+slower, it is exposed to them for a longer time; and, as in both
+75cases the quantity of heat and the angular velocity vary exactly
+in the same proportion, a perfect compensation takes place
+(N. 144). So that the excentricity of the earth’s orbit has little
+or no effect on the temperature corresponding to the difference of
+the seasons.
+Sir Charles Lyell, in his excellent works on Geology, refers the
+increased cold of the northern hemisphere to the operation of
+existing causes with more probability than most theories that
+have been advanced in solution of this difficult subject. The
+loftiest mountains would be represented by a grain of sand on
+a globe six feet in diameter, and the depth of the ocean by a
+scratch on its surface. Consequently the gradual elevation of a
+continent or chain of mountains above the surface of the ocean, or
+their depression below it, is no very great event compared with
+the magnitude of the earth, and the energy of its subterranean
+fires, if the same periods of time be admitted in the progress of
+geological as in astronomical phenomena, which the successive
+and various races of extinct beings show to have been immense.
+Climate is always more intense in the interior of continents than
+in islands or sea-coasts. An increase of land within the tropics
+would therefore augment the general heat, and an increase in the
+temperate and frigid zones would render the cold more severe.
+Now it appears that most of the European, North Asiatic, and
+North American continents and islands were raised from the
+deep after the coal-measures were formed in which the fossil
+tropical plants are found; and a variety of geological facts indicate
+the existence of an ancient and extensive archipelago
+throughout the greater part of the northern hemisphere. Sir
+Charles Lyell is therefore of opinion that the climate of these
+islands must have been sufficiently mild, in consequence of the surrounding
+ocean, to clothe them with tropical plants, and render
+them a fit abode for the huge animals whose fossil remains are
+so often found; that the arborescent ferns and the palms of
+these regions, carried by streams to the bottom of the ocean, were
+imbedded in the strata which were by degrees heaved up by
+the subterranean fires during a long succession of ages, till the
+greater part of the northern hemisphere became dry land as it
+now is, and that the consequence has been a continual decrease
+of temperature.
+It is evident, from the marine shells found on the tops of the
+76highest mountains and in almost every part of the globe, that
+immense continents have been elevated above the ocean which
+must have engulfed others. Such a catastrophe would be occasioned
+by a variation in the position of the axis of rotation on
+the surface of the earth; for the seas tending to a new equator
+would leave some portions of the globe and overwhelm others.
+Now, it is found by the laws of mechanics that in every body,
+be its form or density what it may, there are at least three axes
+at right angles to each other, round any one of which, if the
+solid begins to rotate, it will continue to revolve for ever, provided
+it be not disturbed by a foreign cause, but that the rotation
+about any other axis will only be for an instant, and consequently
+the poles or extremities of the instantaneous axis of
+rotation would perpetually change their position on the surface
+of the body. In an ellipsoid of revolution the polar diameter and
+every diameter in the plane of the equator are the only permanent
+axes of rotation (N. 145). Hence, if the ellipsoid were to begin
+to revolve about any diameter between the pole and the equator,
+the motion would be so unstable that the axis of rotation and the
+position of the poles would change every instant. Therefore, as
+the earth does not differ much from this figure, if it did not turn
+round one of its principal axes, the position of the poles would
+change daily; the equator, which is 90° distant, would undergo
+corresponding variations; and the geographical latitudes of all
+places, being estimated from the equator, assumed to be fixed,
+would be perpetually changing. A displacement in the position
+of the poles of only two hundred miles would be sufficient to
+produce these effects, and would immediately be detected. But,
+as the latitudes are found to be invariable, it may be concluded
+that the terrestrial spheroid must have revolved about the same
+axis for ages. The earth and planets differ so little from ellipsoids
+of revolution, that in all probability any libration from one
+axis to another, produced by the primitive impulse which put
+them in motion, must have ceased soon after their creation from
+the friction of the fluids at their surface.
+Theory also proves that neither nutation, precession, nor any
+of the disturbing forces that affect the system, have the smallest
+influence on the axis of rotation, which maintains a permanent
+position on the surface, if the earth be not disturbed in its rotation
+by a foreign cause, as the collision of a comet, which might
+77have happened in the immensity of time. But, had that been
+the case, its effects would still have been perceptible in the variations
+of the geographical latitudes. If we suppose that such an
+event had taken place, and that the disturbance had been very
+great, equilibrium could then only have been restored with regard
+to a new axis of rotation by the rushing of the seas to the new
+equator, which they must have continued to do till the surface
+was everywhere perpendicular to the direction of gravity. But
+it is probable that such an accumulation of the waters would not
+be sufficient to restore equilibrium if the derangement had been
+great, for the mean density of the sea is only about a fifth part
+of the mean density of the earth, and the mean depth of the
+Pacific Ocean is supposed not to be more than four or five miles,
+whereas the equatorial diameter of the earth exceeds the polar
+diameter by about
+261⁄2
+miles. Consequently the influence of the
+sea on the direction of gravity is very small. And, as it thus
+appears that a great change in the position of the axis is incompatible
+with the law of equilibrium, the geological phenomena
+in question must be ascribed to an internal cause. Indeed it is
+now demonstrated that the strata containing marine diluvia,
+which are in lofty situations, must have been formed at the
+bottom of the ocean, and afterwards upheaved by the action of
+subterraneous fires. Besides, it is clear, from the mensuration
+of the arcs of the meridian and the length of the seconds’ pendulum,
+as well as from the lunar theory, that the internal strata
+and also the external outline of the globe are elliptical, their
+centres being coincident and their axes identical with that of the
+surface—a state of things which, according to the distinguished
+author lately quoted, is incompatible with a subsequent accommodation
+of the surface to a new and different state of rotation
+from that which determined the original distribution of the component
+matter. Thus, amidst the mighty revolutions which
+have swept innumerable races of organized beings from the earth,
+which have elevated plains and buried mountains in the ocean,
+the rotation of the earth and the position of the axes on its surface
+have undergone but slight variations.
+The strata of the terrestrial spheroid are not only concentric
+and elliptical, but the lunar inequalities show that they increase
+in density from the surface of the earth to its centre. This
+would certainly have happened if the earth had originally been
+78fluid, for the denser parts must have subsided towards the centre
+as it approached a state of equilibrium. But the enormous
+pressure of the superincumbent mass is a sufficient cause for the
+phenomenon. Professor Leslie observes that air compressed into
+the fiftieth part of its volume has its elasticity fifty times augmented.
+If it continues to contract at that rate, it would, from
+its own incumbent weight, acquire the density of water at the
+depth of thirty-four miles. But water itself would have its
+density doubled at the depth of ninety-three miles, and would
+even attain the density of quicksilver at a depth of 362 miles.
+Descending therefore towards the centre through nearly 4000
+miles, the condensation of ordinary substances would surpass
+the utmost powers of conception. Dr. Young says that steel
+would be compressed into one-fourth and stone into one-eighth
+of its bulk at the earth’s centre. However, we are yet ignorant
+of the laws of compression of solid bodies beyond a certain limit;
+from the experiments of Mr. Perkins they appear to be capable
+of a greater degree of compression than has generally been
+imagined.
+But a density so extreme is not borne out by astronomical
+observation. It might seem to follow therefore that our planet
+must have a widely cavernous structure, and that we tread on a
+crust or shell whose thickness bears a very small proportion to
+the diameter of its sphere. Possibly, too, this great condensation
+at the central regions may be counterbalanced by the increased
+elasticity due to a very elevated temperature.</div></body></text></TEI>

@@ -1,0 +1,1034 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Connexion of the Physical Sciences</title><author>Somerville, Mary (1780-1872)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1834</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="36">
+358
+SECTION XXXV.
+
+Ethereal Medium—Comets—Do not disturb the Solar System—Their
+Orbits and Disturbances—M. Faye’s Comet probably the same with
+Lexel’s—Periods of other three known—Acceleration in the mean
+Motions of Encke’s and Biela’s Comets—The Shock of a Comet—Disturbing
+Action of the Earth and Planets on Encke’s and Biela’s Comets—Velocity
+of Comets—The Comet of 1264—The great Comet of
+1343—Physical Constitution—Shine by borrowed Light—Estimation
+of their Number.
+In considering the constitution of the earth, and the fluids which
+surround it, various subjects have presented themselves to our
+notice, of which some, for aught we know, are confined to the
+planet we inhabit; some are common to it and to the other bodies
+of our system. But an all-pervading ether must fill the whole
+visible creation, since it conveys, in the form of light, tremors
+which may have been excited in the deepest recesses of the
+universe thousands of years before we were called into being.
+The existence of such a medium, though at first hypothetical, is
+proved by the undulatory theory of light, and rendered certain
+by the motion of comets, and by its action upon the vapours of
+which they are chiefly composed. It has often been imagined
+that the tails of comets have infused new substances into our
+atmosphere. Possibly the earth may attract some of that
+nebulous matter, since the vapours raised by the sun’s heat,
+when the comets are in perihelio, and which form their tails, are
+scattered through space in their passage to their aphelion; but it
+has hitherto produced no effect, nor have the seasons ever been
+influenced by these bodies. The light of the comet of the year
+1811, which was so brilliant, did not impart any heat even when
+condensed on the bulb of a thermometer of a structure so delicate
+that it would have made the hundredth part of a degree evident.
+In all probability, the tails of comets may have passed over the
+earth without its inhabitants being conscious of their presence;
+and there is reason to believe that the tail of the great comet of
+1843 did so. M. Valz observed that the light of a brilliant
+359comet was eclipsed as it passed over a star of the 7th magnitude,
+whence M. Babinet computed that the light of the comet must
+have been sixty times less than that of the star, and that
+matter so attenuated could not penetrate the earth’s atmosphere,
+but the constitution of these bodies is still a matter of conjecture.
+The passage of comets has never sensibly disturbed the stability
+of the solar system; their nucleus, being in general only a mass of
+vapour, is so rare, and their transit so rapid, even when they had
+a solid part, that the time has not been long enough to admit of a
+sufficient accumulation of impetus to produce a perceptible action.
+Indeed, M. Dusejour has shown that, under the most favourable
+circumstances, a comet cannot remain longer than two hours and
+a half at a less distance from the earth than 10,500 leagues. The
+comet of 1770 passed within about six times the distance of the
+moon from the earth, without even affecting our tides. According
+to La Place, the action of the earth on the comet of 1770 augmented
+the period of its revolution by more than two days; and,
+if comets had any perceptible disturbing energy, the reaction of
+the comet ought to have increased the length of our year. Had the
+mass of that comet been equal to the mass of the earth, its disturbing
+action would have increased the length of the sidereal year by
+2h 53m; but, as Delambre’s computations from the Greenwich
+observations of the sun show that the length of the year has not
+been increased by the fraction of a second, its mass could not
+have been equal to the
+1⁄5000th
+part of that of the earth. This
+accounts for the same comet having twice swept through the
+system of Jupiter’s satellites without deranging the motion of
+these moons. M. Dusejour has computed that a comet, equal in
+mass to the earth, passing at the distance of 12,150 leagues from
+our planet, would increase the length of the year to 367d 16h 5m,
+and the obliquity of the ecliptic as much as 2°. So the principal
+action of comets would be to alter the calendar, even if they were
+dense enough to affect the earth.
+Comets traverse all parts of the heavens; their paths have
+every possible inclination to the plane of the ecliptic, and, unlike
+the planets, the motion of more than half of those that have
+appeared has been retrograde, that is, from east to west. They
+are only visible when near their perihelia; then their velocity is
+such, that its square is twice as great as that of a body moving
+in a circle at the same distance: they consequently remain but a
+360very short time within the planetary orbits. And, as all the
+conic sections of the same focal distance sensibly coincide, through
+a small arc, on each side of the extremity of their axis, it is difficult
+to ascertain in which of these curves the comets move, from
+observations made, as they necessarily must be, near their perihelia
+(N. 227). Probably they all move in extremely excentric
+ellipses; although, in most cases, the parabolic curve coincides
+most nearly with their observed motions. Some few seem to
+describe hyperbolas; such, being once visible to us, would vanish
+for ever, to wander through boundless space, to the remote
+systems of the universe. If a planet be supposed to revolve in a
+circular orbit, whose radius is equal to the perihelion distance of
+a comet moving in a parabola, the areas described by these two
+bodies in the same time will be as unity to the square root of
+two, which forms such a connexion between the motion of comets
+and planets, that, by Kepler’s law, the ratio of the areas described
+during the same time by the comet and the earth may be found;
+so that the place of a comet may be computed at any time in its
+parabolic orbit, estimated from the instant of its passage at the
+perihelion. It is a problem of very great difficulty to determine
+all the other elements of parabolic motion—namely, the comet’s
+perihelion distance, or shortest distance from the sun, estimated
+in parts of the mean distance of the earth from the sun; the
+longitude of the perihelion; the inclination of the orbit on the
+plane of the ecliptic; and the longitude of the ascending node.
+Three observed longitudes and latitudes of a comet are sufficient
+for computing the approximate values of these quantities; but
+an accurate estimation of them can only be obtained by successive
+corrections, from a number of observations, distant from one
+another. When the motion of a comet is retrograde, the place of
+the ascending node is exactly opposite to what it is when the
+motion is direct. Hence the place of the ascending node, together
+with the direction of the comet’s motion, show whether the
+inclination of the orbit is on the north or south side of the plane
+of the ecliptic. If the motion be direct, the inclination is on the
+north side; if retrograde, it is on the south side.
+The identity of the elements is the only proof of the return of
+a comet to our system. Should the elements of a new comet be
+the same, or nearly the same, with those of any one previously
+known, the probability of the identity of the two bodies is very
+361great, since the similarity extends to no less than four elements,
+every one of which is capable of an infinity of variations. But,
+even if the orbit be determined with all the accuracy the case
+admits of, it may be difficult, or even impossible, to recognize a
+comet on its return, because its orbit would be very much
+changed if it passed near any of the large planets of this or of
+any other system, in consequence of their disturbing energy,
+which would be very great on bodies of so rare a nature.
+By far the most curious and interesting instance of the disturbing
+action of the great bodies of our system is found in the comet
+of 1770. The elements of its orbit, determined by Messier, did
+not agree with those of any comet that had hitherto been computed,
+yet Lexel ascertained that it described an ellipse about
+the sun, whose major axis was only equal to three times the
+length of the diameter of the terrestrial orbit, and consequently
+that it must return to the sun at intervals of five years and a half.
+This result was confirmed by numerous observations, as the comet
+was visible through an arc of 170°; yet this comet had never
+been observed before the year 1770, nor has it ever again been
+seen till 1843, though very brilliant. The disturbing action of
+the larger planets affords a solution of this anomaly, as Lexel
+ascertained that in 1767 the comet must have passed Jupiter at
+a distance less than the fifty-eighth part of its distance from the
+sun, and that in 1779 it would be 500 times nearer Jupiter than
+the sun; consequently the action of the sun on the comet would
+not be the fiftieth part of what it would experience from Jupiter,
+so that Jupiter became the primum mobile. Assuming the orbit
+to be such as Lexel had determined in 1770, La Place found that
+the action of Jupiter, previous to the year 1770, had so completely
+changed the form of it, that the comet which had been invisible
+to us before 1770 was then brought into view, and that the
+action of the same planet, producing a contrary effect, has subsequently
+to that year removed it from our sight, since it was
+computed to be revolving in an orbit whose perihelion was
+beyond the orbit of Ceres. However, the action of Jupiter during
+the summer of 1840 must have been so great, from his proximity
+to that singular body, that he seems to have brought it back to
+its former path as he had done in 1767, for the elements of the
+orbit of a comet which was discovered in November 1843, by M.
+Faye, agree so nearly with those of the orbit of Lexel’s comet
+362that the two bodies were supposed to be identical; by the subsequent
+computation of M. le Verrier, it appears, however, that
+they are not the same, that they were both brought to our system
+by Jupiter’s attraction, and that they have been in it more than a
+century, and have frequently come near the earth without having
+been seen. From the smallness of the excentricity of Lexel’s
+comet, the orbit resembles those of the planets, but this comet is
+liable to greater perturbations than any other body in the system,
+because it comes very near the orbit of Mars when in perihelion,
+and very near that of Jupiter when in aphelion; besides, it passes
+within a comparatively small distance of the orbits of the minor
+planets; and as it will continue to cross the orbit of Jupiter at each
+revolution till the two bodies meet, its periodic time, now about
+seven years, will again be changed, but in the mean time it ought
+to have returned to its perihelion in the year 1851. This comet
+might have been seen from the earth in 1776, had its light not
+been eclipsed by that of the sun. There is still so much doubt
+with regard to Lexel’s comet that during the present year, 1858,
+M. le Verrier has constructed a table of all the orbits in which
+the comet may have moved after leaving Jupiter in 1770, which
+will enable astronomers to recognise the comet even should the
+elements of its orbit be much altered. He thinks it possible
+that its path may have become hyperbolic, but that it is more
+likely an augmentation of its periodic time may have taken place.
+It is quite possible that comets frequenting our system may be
+turned away, or others brought to the sun, by the attraction of
+planets revolving beyond the orbit of Neptune, or by bodies still
+farther removed from the solar influence.
+Other comets, liable to less disturbance, return to the sun
+at stated intervals. Halley computed the elements of the orbit
+of a comet that appeared in the year 1682, which agreed so
+nearly with those of the comets of 1607 and 1531, that he concluded
+it to be the same body returning to the sun at intervals
+of about seventy-five years. He consequently predicted its
+reappearance in the year 1758, or in the beginning of 1759.
+Science was not sufficiently advanced in the time of Halley to
+enable him to determine the perturbations this comet might
+experience; but Clairaut computed that, in consequence of the
+attraction of Jupiter and Saturn, its periodic time would be so
+much shorter than during its revolution between 1607 and 1682,
+363that it would pass its perihelion on the 18th of April, 1759. The
+comet did arrive at that point of its orbit on the 12th of March,
+which was thirty-seven days before the time assigned. Clairaut
+subsequently reduced the error to twenty-three days; and La
+Place has since shown that it would only have been thirteen days
+if the mass of Saturn had been as well known as it is now. It
+appears, from this, that the path of the comet was not quite
+known at that period; and, although many observations were
+then made, they were far from attaining the accuracy of those of
+the present day. Besides, since the year 1759, the orbit of the
+comet has been altered by the attraction of Jupiter in one
+direction, and that of Saturn, Uranus, and Neptune in the other;
+yet, notwithstanding these sources of uncertainty, and our ignorance
+of all the possible causes of derangement from unknown
+bodies on the confines of our system, or in the regions beyond it,
+the comet appeared exactly at the time, and not far from the
+place assigned to it by astronomers; and its actual arrival at
+its perihelion a little before noon on the 16th of November, 1835,
+only differed from the computed time by a very few days, which
+was probably owing to the attraction of Neptune.
+The fulfilment of this astronomical prediction is truly wonderful,
+if it be considered that the comet is seen only for a few
+weeks during its passage through our system, and that it wanders
+from the sun for seventy-five years to twice the distance of
+Uranus. This enormous orbit is four times longer than it is
+broad; its length is about 3420 millions of miles, or about
+thirty-six times the mean distance of the earth from the sun.
+At its perihelion the comet comes within nearly fifty-seven
+millions of miles of the sun, and at its aphelion it is sixty times
+more distant. On account of this extensive range it must experience
+3600 times more light and heat when nearest to the sun
+than in the most remote point of its orbit. In the one position
+the sun will seem to be four times larger than he appears to us,
+and at the other he will not be apparently larger than a star
+(N. 228.)
+On the first appearance of Halley’s comet, early in August
+1835, it seemed to be merely a globular mass of dim vapour,
+without a tail. A concentration of light, a little on one side of
+the centre, increased as the comet approached the sun and earth,
+and latterly looked so like the disc of a small planet, that it
+364might have been mistaken for a solid nucleus. M. Struve, however,
+saw a central occultation of a star of the ninth magnitude
+by the comet, at Dorpat, on the 29th of September. The star
+remained constantly visible, without any considerable diminution
+of light; and, instead of being eclipsed, the nucleus of the comet
+disappeared at the moment of conjunction from the brilliancy of
+the star. The tail increased as the comet approached its perihelion,
+and shortly before it was lost in the sun’s rays it was
+between thirty and forty degrees in length.
+According to the observations of M. Valz, the nebulosity
+increased in magnitude as it approached the sun; but no
+other comet on record has exhibited such sudden and unaccountable
+changes of aspect. It was invisible for two months
+when near its perihelion passage, and when it reappeared on
+the 24th of January, 1836, its aspect was completely changed;
+it had no tail, and to the naked eye was like a hazy star; but
+with a powerful telescope it presented a small, round, planetary-looking
+nucleus 2ʺ in diameter, surrounded by an extensive
+coma, and in the centre it had a small, bright, solid part. The
+nucleus, clear and well defined, like the disc of a planet, was
+observed on one occasion to become obscure and enlarged in the
+course of a few hours. But by far the most remarkable circumstance
+was the sudden appearance of certain luminous brushes
+or sectors, diverging from the centre of the nucleus through the
+nebulosity. M. Struve describes the nucleus of the comet, in the
+beginning of October, as elliptical, and like a burning coal, out of
+which there issued, in a direction nearly opposite to the tail, a
+divergent flame, varying in intensity, form, and direction, appearing
+occasionally even double, and suggesting the idea of luminous
+gas bursting from the nucleus. On one occasion M. Arago saw
+three of these divergent flames on the side opposite the tail, rising
+through the nebulosity, which they greatly exceeded in brilliancy:
+after the comet had passed its perihelion, it acquired another of
+these luminous fans, which was observed by Sir John Herschel
+at the Cape of Good Hope. Hevelius describes an appearance
+precisely similar, which he had witnessed in this comet at its
+approach to the sun in the year 1682, and something of the kind
+seems to have been noticed in the comet of 1744. Possibly the
+second tail of the comet of 1724, which was directed towards the
+sun, may have been of this nature.
+365The influence of the ethereal medium on the motions of Halley’s
+comet will be known after another revolution, and future astronomers
+will learn, by the accuracy of its returns, whether it
+has met with any unknown cause of disturbance in its distant
+journey. Undiscovered planets, beyond the visible boundary of
+our system, may change its path and the period of its revolution,
+and thus may indirectly reveal to us their existence, and even
+their physical nature and orbit. The secrets of the yet more
+distant heavens may be disclosed to future generations by comets
+which penetrate still farther into space, such as that of 1763,
+which, if any faith may be placed in the computation, goes nearly
+forty-three times farther from the sun than Halley’s does, and
+shows that the sun’s attraction is powerful enough, at the enormous
+distance of 15,500 millions of miles, to recall the comet
+to its perihelion. The periods of some comets are said to be of
+many thousand years, and even the average time of the revolution
+of comets generally is about a thousand years; which proves
+that the sun’s gravitating force extends very far. La Place
+estimates that the solar attraction is felt throughout a sphere
+whose radius is a hundred millions of times greater than the distance
+of the earth from the sun.
+Authentic records of Halley’s comet do not extend beyond the
+year 1456, yet it may be traced, with some degree of probability,
+even to a period preceding the Christian era. But as the evidence
+only rests upon coincidences of its periodic time, which
+may vary as much as eighteen months from the disturbing action
+of the planets, its identity with comets of such remote times must
+be regarded as extremely doubtful.
+This is the first comet whose periodicity has been established.
+It is also the first whose elements have been determined from
+observations made in Europe; for, although the comets which
+appeared in the years 240, 539, 565, and 837, are the most ancient
+of those whose orbits have been traced, their elements were
+computed from Chinese observations.
+Besides Halley’s and Lexel’s comets, ten or twelve others are
+now known to form part of the solar system; that is to say, they
+return to the sun at stated periods. Six of them have periods of
+less than eight years. That generally called Encke’s comet, or
+the comet of the short period, was first seen by MM. Messier and
+Mechain in 1786, again by Miss Herschel in 1805, and its returns,
+366in the years 1805 and 1819, were observed by other astronomers,
+under the impression that all four were different bodies. However,
+Professor Encke not only proved their identity, but determined
+the circumstances of the comet’s motion. Its reappearance in the
+years 1825, 1828, and 1832, accorded with the orbit assigned by
+M. Encke, who thus established the length of its period to be
+1204 days, nearly. This comet is very small, of feeble light,
+and invisible to the naked eye, except under very favourable
+circumstances, and in particular positions. It has no tail, it
+revolves in an ellipse of great excentricity inclined at an angle of
+13° 22ʹ to the plane of the ecliptic, and is subject to considerable
+perturbations from the attraction of the planets, which occasion
+variations in its periodic time. Among the many perturbations
+to which the planets are liable, their mean motions, and therefore
+the major axes of their orbits, experience no change; while, on
+the contrary, the mean motion of the moon is accelerated from
+age to age—a circumstance at first attributed to the resistance of
+an ethereal medium pervading space, but subsequently proved to
+arise from the secular diminution of the excentricity of the terrestrial
+orbit. Although the resistance of such a medium has
+not hitherto been perceived in the motions of such dense bodies
+as the planets and satellites, its effects on the revolutions of the
+comets leave no doubt of its existence. From the numerous
+observations that have been made on each return of the comet of
+the short period, the elements have been computed with great
+accuracy on the hypothesis of its moving in vacuo. Its perturbations
+occasioned by the disturbing action of the planets
+have been determined; and, after everything that could influence
+its motion had been duly considered, M. Encke found that an
+acceleration of about two days in each revolution has taken place
+in its mean motion, precisely similar to that which would be
+occasioned by the resistance of an ethereal medium. And, as it
+cannot be attributed to a cause like that which produces the
+acceleration of the moon, it must be concluded that the celestial
+bodies do not perform their revolutions in an absolute void, and
+that, although the medium be too rare to have a sensible effect
+on the masses of the planets and satellites, it nevertheless has a
+considerable influence on so rare a body as a comet. Contradictory
+as it may seem that the motion of a body should be
+accelerated by the resistance of an ethereal medium, the truth
+367becomes evident if it be considered that both planets and comets
+are retained in their orbits by two forces which exactly balance
+one another; namely, the centrifugal force producing the velocity
+in the tangent, and the attraction of the gravitating force directed
+to the centre of the sun. If one of these forces be diminished by
+any cause, the other will be proportionally increased. Now, the
+necessary effect of a resisting medium is to diminish the tangential
+velocity, so that the balance is destroyed, gravity preponderates,
+the body descends towards the sun till equilibrium
+is again restored between the two forces; and, as it then describes
+a smaller orbit, it moves with increased velocity. Thus, the
+resistance of an ethereal medium actually accelerates the motion
+of a body; but, as the resisting force is confined to the plane of
+the orbit, it has no influence whatever on the inclination of the
+orbit, or on the place of the nodes. In computing its effect, M.
+Encke assumed the increase to be inversely as the square of the
+distance, and that its resistance acts as a tangential force proportional
+to the squares of the comet’s actual velocity in each
+point of its orbit. Another comet belonging to our system,
+which returns to its perihelion after a period of
+63⁄4
+years, has
+been accelerated in its motion by a whole day during one revolution,
+which puts the existence of ether beyond a doubt, and confirms
+the undulatory theory of light. Since this comet, which
+revolves nearly between the orbits of the earth and Jupiter, is
+only accelerated one day at each revolution, while Encke’s,
+revolving nearly between the orbits of Mercury and Pallas, is
+accelerated two, the ethereal medium must increase in density
+towards the sun. The comet in question was discovered by M.
+Biela at Josephstadt on the 27th of February, 1826, and ten
+days afterwards it was seen by M. Gambart at Marseilles, who
+computed its parabolic elements, and found that they agreed
+with those of the comets which had appeared in the years 1789
+and 1795, whence he concluded them to be the same body moving
+in an ellipse, and accomplishing its revolution in 2460 days.
+The perturbations of this comet were computed by M. Damoiseau,
+who predicted that it would cross the plane of the ecliptic on the
+29th of October, 1832, a little before midnight, at a point nearly
+18,484 miles within the earth’s orbit; and as M. Olbers of Bremen,
+in 1805, had determined the radius of the comet’s head to be
+about 21,136 miles, it was evident that its nebulosity would
+368envelop a portion of the earth’s orbit,—a circumstance which
+caused some alarm in France, from the notion that, if any disturbing
+cause had delayed the arrival of the comet for one month,
+the earth must have passed through its head. M. Arago dispelled
+these fears by his excellent treatise on comets, in the
+Annuaire of 1832, where he proves that, as the earth would
+never be nearer the comet than 18,000,000 British leagues, there
+could be no danger of collision. The earth is in more danger
+from these two small comets than from any other. Encke’s
+crosses the terrestrial orbit sixty times in a century, and may
+ultimately come into collision, but both are so extremely rare,
+that little injury is to be apprehended.
+The earth would fall to the sun in
+641⁄2
+days, if it were struck
+by a comet with sufficient impetus to destroy its centrifugal
+force. What the earth’s primitive velocity may have been it is
+impossible to say. Therefore a comet may have given it a shock
+without changing the axis of rotation, but only destroying part
+of its tangential velocity, so as to diminish the size of the orbit—a
+thing by no means impossible, though highly improbable. At
+all events, there is no proof of this having occurred; and it is
+manifest that the axis of the earth’s rotation has not been changed,
+because, as the ether offers no sensible resistance to so dense a
+body as the earth, the libration would to this day be evident in
+the variation it must have occasioned in the terrestrial latitudes.
+Supposing the nucleus of a comet to have a diameter only equal
+to the fourth part of that of the earth, and that its perihelion is
+nearer to the sun than we are ourselves, its orbit being otherwise
+unknown, M. Arago has computed that the probability of the
+earth receiving a shock from it is only one in 281 millions, and
+that the chance of our coming in contact with its nebulosity is
+about ten or twelve times greater. Only comets with retrograde
+motions can come into direct collision with the earth, and if the
+momentum were great the event might be fatal; but in general
+the substance of comets is so rare, that it is likely they would
+not do much harm if they were to impinge; and even then the
+mischief would probably be local, and the equilibrium soon restored,
+provided the nucleus were gaseous, or very small. It is,
+however, more probable that the earth would only be deflected a
+little from its course by the approach of a comet, without being
+touched by it. The comets that have come nearest to the earth
+369were that of the year 837, which remained four days within less
+than 1,240,000 leagues from our orbit: that of 1770, which
+approached within about six times the distance of the moon.
+The celebrated comet of 1680 also came very near to us; and
+the comet whose period is
+63⁄4
+years was ten times nearer the earth
+in 1805 than in 1832, when it caused so much alarm.
+Encke’s and Biela’s comets are at present far removed from
+the influence of Jupiter, but they will not always remain so,
+because, the aphelia and nodes of the orbits of these two
+comets being the points which approach nearest to the orbit
+of Jupiter at each meeting of the planet and comets, the
+major axis of Encke’s comet will be increased and that of
+Biela’s diminished, till in the course of time, when the proximity
+has increased sufficiently, the orbits will be completely
+changed, as that of Lexel’s was in 1770. Every twenty-third
+year, or after seven revolutions of Encke’s comet, its greatest
+proximity to Jupiter takes place, and at that time his attraction
+increases the period of its revolution by nine days—a circumstance
+which took place in the end of the years 1820 and 1843.
+But from the position of the bodies there is a diminution of three
+days in the six following revolutions, which reduces the increase
+to six days in seven revolutions. Thus, before the year 1819,
+the periodic time of Encke’s comet was 1204 days, and it was
+1219 days in accomplishing the revolution that ended in 1845.
+By this progressive increase the orbit of the comet will reach
+that of Jupiter in seven or eight centuries, and then by the
+very near approach of the two bodies it will be completely
+changed.
+At present the Earth and Mercury have the most powerful
+influence on the motions of Encke’s and Biela’s comets; and
+have had for so long a time that, according to the computation
+of Mr. Airy, the present orbit of the latter was formed by the
+attraction of the Earth, and that of Encke’s by the action of
+Mercury. With regard to the latter comet, that event must
+have taken place in February 1776. In 1786 Encke’s comet
+had both a tail and a nucleus, now it has neither; a singular
+instance of the possibility of their disappearance. It was in
+perihelio in 1855.
+In 1846 Biela’s comet was divided into two distinct bodies,
+by what strange accident is altogether a mystery. The nuclei
+370of the two comets were separated by about 150,000 miles, and
+they travelled together with their tails parallel, and an arch of
+light over their heads. Till that time Biela’s comet never had
+been seen with a tail. The new head was dull at first, but increased
+in size and brightness till it surpassed its companion in
+both; besides, it had a bright flashing diamond-like point in its
+centre—gradually it resumed its dull appearance, and its period
+was computed to be eight days longer than that of the original
+head. They had separated to a greater distance from one
+another in 1853, but were still travelling together, one having
+become smaller than the other.
+A comet discovered by M. Brorsen of Kiel, on the 26th of
+February, 1846, came, on the 20th of April following, nearly as
+close to Jupiter as his fourth satellite, when Jupiter’s attraction
+must have been ten times greater than that of the sun; so there
+is every reason to believe that the comet’s orbit will be as much
+altered as that of Lexel’s; and another discovered by Padre de
+Vico at Rome, on the 22nd of August, will, in all probability, be
+as much disturbed by the same cause. One of the comets found
+by that astronomer has a period which varies, according to
+different computations, from 55 to 99 years; it certainly has
+an elliptical orbit. That discovered at Naples by Mr. Peters
+revolves about the sun in 16 years; but Olbers’s comet of
+1815 must go nearly the same distance into space with Halley’s,
+since its period is 74 years. Two discovered by M. Brorsen have
+periods, one of 500 and the other of 28 years; but of the latter
+there is some uncertainty.
+The comet which appeared in 1596 and 1845 has a period of
+249 years; and should M. Argelander’s computation be accurate,
+the orbit which has hitherto been assigned to the great comet of
+1811 must be erroneous, since he has ascertained its period to
+be 3066 years.
+The great comet of 1264, which had a tail that extended over
+100° of the celestial vault, was observed and recorded by the
+Chinese, and was ascertained to be the same that had appeared
+in 1556, and of whose motions observations were taken at
+Vienna in the reign of the Emperor Charles V., but it was then
+less brilliant. In consequence of the discovery of the original
+observations of the comet of 1556, by Fabricius at Vienna, and
+by Heller at Nuremburg, Mr. Hind was induced to compute its
+371orbit for that year; but after much labour, aided by all the
+improved methods of calculation, he found Heller’s observations
+so confused, and even erroneous, that he could not determine the
+curve described by the comet at that time with any precision,
+and therefore could only predict that the epoch of its return
+would be some time between 1848 and 1861. Before comets
+reach the sun they are rarely conspicuous; but if after passing
+their perihelion they come near the earth, then they have tails,
+and become brilliant in consequence of the sun’s action upon the
+matter of which they are formed. Now if the comet in question
+should pass its perihelion between the months of March and
+October, it possibly may be as remarkable as ever; but should
+it come nearest to the sun in winter, such is the position of its
+orbit with regard to the earth, that it may pass unnoticed—which
+is very unlikely, as search is being made for it at almost
+all the observatories in Europe and in the United States. Nearly
+the whole of its orbit lies below the plane of the ecliptic, and
+far from the paths of the larger planets, but it extends into space
+more than twice the distance of Neptune, or nearly six thousand
+millions of miles from the sun.
+Comets in or near their perihelion move with prodigious velocity.
+That of 1680 appears to have gone half round the sun in
+ten hours and a half, moving at the rate of 880,000 miles an
+hour. If its enormous centrifugal force had ceased when passing
+its perihelion, it would have fallen to the sun in about three
+minutes, as it was then less than 147,000 miles from his surface.
+So near the sun, it would be exposed to a heat 27,500
+times greater than that received by the earth; and as the sun’s
+heat is supposed to be in proportion to the intensity of his light,
+it is probable that a degree of heat so intense would be sufficient
+to convert into vapour every terrestrial substance with which
+we are acquainted. At the perihelion distance the sun’s diameter
+would be seen from the comet under an angle of 73°, so that the
+sun, viewed from the comet, would nearly cover the whole extent
+of the heavens from the horizon to the zenith. As this comet is
+presumed to have a period of 575 years, the major axis of its orbit
+must be so great, that at the aphelion the sun’s diameter would only
+subtend an angle of about fourteen seconds, which is not so great
+by half as the diameter of Mars appears to us when in opposition.
+The sun would consequently impart no heat, so that the comet
+372would then be exposed to the temperature of the ethereal regions,
+which is 239° below the zero point of Fahrenheit. A body of
+such tenuity as the comet, moving with such velocity, must
+have met with great resistance from the dense atmosphere of the
+sun, while passing so near his surface at its perihelion. The
+centrifugal force must consequently have been diminished, and
+the sun’s attraction proportionally augmented, so that it must
+have come nearer to the sun in 1680 than in its preceding revolution,
+and would subsequently describe a smaller orbit. As
+this diminution of its orbit will be repeated at each revolution,
+the comet will infallibly end by falling on the surface of the sun,
+unless its course be changed by the disturbing influence of some
+large body in the unknown expanse of creation. Our ignorance
+of the actual density of the sun’s atmosphere, of the density of
+the comet, and of the period of its revolution, renders it impossible
+to form any idea of the number of centuries which must
+elapse before this event takes place.
+The same cause may affect the motions of the planets, and
+ultimately be the means of destroying the solar system. But, as
+Sir John Herschel observes, they could hardly all revolve in the
+same direction round the sun for so many ages without impressing
+a corresponding motion on the ethereal medium, which may
+preserve them from the accumulated effects of its resistance.
+Should this material medium revolve about the sun like a vortex,
+it will accelerate the revolutions of such comets as have direct
+motions, and retard those that have retrograde motions.
+The comet which appeared unexpectedly in the beginning of
+the year 1843 was one of the most splendid that ever visited the
+solar system. It was in the constellation of Antinous in the
+end of January, at a distance of 115 millions of miles from the
+earth, and it passed through its perihelion on the 27th of February,
+when it was lost in the sun’s rays; but it began to be
+visible about the 3rd of March, at which time it was near the
+star Iota Cetæ, and its tail extended towards the Hare. Before the
+passage at the perihelion it had no tail; but at that epoch the tail
+suddenly darted out, and extended to a distance of 1826 millions of
+miles in about an hour and a half—a most inexplicable speed of
+development, which indicates some powerful repulsive force at the
+moment of the greatest proximity to the sun, at which time the
+tails are formed. The brightness of the comet and the length
+373of its tail continued to increase till the latter stretched far beyond
+the constellation of the Hare towards a point above Sirius.
+Stars were distinctly seen through it, and when near perihelion
+the comet was so bright that it was seen in clear sunshine, in
+the United States, like a white cloud. The motion was retrograde,
+and on leaving the solar system it retreated so rapidly at
+once from the sun and earth that it was soon lost sight of for
+want of light. On the 1st of April it was between the sun and the
+earth, and only 40 millions of miles from the latter; and as its
+tail was at least 60 millions of miles long, and 20 millions of
+miles broad, we probably passed through it without being aware
+of it. There is some discrepancy in the different computations
+of the elements of the orbit, but in the greater number of cases
+the perihelion distance was found to be less than the semidiameter
+of the sun, so that the comet must have grazed his surface, if it
+did not actually impinge obliquely on him.
+The perihelion distance of this comet differs little from that
+of the great comet of 1668, which came so near the sun. The
+motion of both was retrograde, and a certain resemblance in the
+two orbits makes it probable that they are the same body performing
+a revolution in 175 years.
+Though already so well acquainted with the motions of comets,
+we know nothing of their physical constitution. A vast number,
+especially of telescopic comets, are only like clouds or masses of
+vapour, often without tails. The head commonly consists of
+a concentrated mass of light, like a planet, surrounded by a
+very transparent atmosphere, and the whole, viewed with a
+telescope, is so diaphanous, that the smallest star may be seen
+even through the densest part of the nucleus; in general their
+solid parts, when they have any, are so minute, that they have no
+sensible diameter, like that of the comet of 1811, which appeared
+to Sir William Herschel like a luminous point in the middle of
+the nebulous matter. The nuclei, which seem to be formed of
+the denser strata of that nebulous matter in successive coatings,
+are sometimes of great magnitude. Those comets which
+came to the sun in the years 1799 and 1807 had nuclei whose
+diameters measured 180 and 275 leagues respectively, and the
+second comet of 1811 had a nucleus 1350 leagues in diameter.
+It must, however, be stated that, as comets are generally at
+prodigious distances from the earth, the solid parts of the nuclei
+374appear like mere points of light, so minute that it is impossible
+to measure them with any kind of accuracy, so that the best
+astronomers often differ in the estimation of their size by one-half
+of the whole diameter. The transit of a comet across the
+sun would afford the best information with regard to the nature
+of the nuclei. It was computed that such an event was to take
+place in the year 1827; unfortunately the sun was hid by clouds
+from the British astronomers, but it was examined at Viviers and
+at Marseilles at the time the comet must have been projected on
+its disc, but no spot or cloud was to be seen, so that it must have
+had no solid part whatever. The nuclei of many comets which
+seemed solid and brilliant to the naked eye have been resolved
+into mere vapour by telescopes of high powers; in Halley’s comet
+there was no solid part at all.
+The nebulosity immediately round the nucleus is so diaphanous,
+that it gives little light; but at a small distance the nebulous
+matter becomes suddenly brilliant, so as to look like a bright
+ring round the body. Sometimes there are two or three of these
+luminous concentric rings separated by dark intervals, but they
+are generally incomplete on the part next the tail.
+These annular appearances are an optical effect, arising from a
+succession of envelopes of the nebulous matter with intervals
+between them, of which the first is sometimes in contact with
+the nucleus and sometimes not. The thickness of these bright
+diaphanous coatings in the comets of 1799 and 1807 was about
+7000 and 10,000 leagues respectively; and in the first comet of
+1811 the luminous ring was 8000 leagues thick, and the distance
+between its interior surface and the centre of the head was 10,000
+leagues. The latter comet was by much the most brilliant that
+has been seen in modern times; it was first discovered in this
+country by Mr. James Vietch of Inchbonny, and was observed in
+all its changes by Sir William Herschel and M. Olbers. To the
+naked eye, the head had the appearance of an ill-defined round
+mass of light, which was resolved into several distinct parts when
+viewed with a telescope. A very brilliant interior circular mass
+of nebulous matter was surrounded by a black space having a
+parabolic form, very distinct from the dark blue of the sky.
+This dark space was of a very appreciable breadth. Exterior to
+the black interval there was a luminous parabolic contour of
+considerable thickness, which was prolonged on each side in two
+375diverging branches, which formed the bifid tail of the comet. Sir
+William Herschel found that the brilliant interior circular mass
+lost the distinctness of its outline as he increased the magnifying
+power of the telescope, and presented the appearance of a more
+and more diffuse mass of greenish or blueish green light, whose
+intensity decreased gradually, not from the centre, but from an
+eccentric brilliant speck, supposed to be the truly solid part of the
+comet. The luminous envelope was of a decided yellow, which
+contrasted strongly with the greenish tint of the interior nebulous
+mass. Stars were nearly veiled by the luminous envelope,
+whilst, on the contrary, Sir William Herschel saw three extremely
+small stars shining clearly in the black space, which was
+singularly transparent. As the envelopes were formed in succession
+as the comet approached the sun, Sir William Herschel conceived
+them to be vapours raised by his heat at the surface of the
+nucleus, and suspended round it like a vault or dome by the
+elastic force of an extensive and highly transparent atmosphere.
+In coming to the sun, the coatings began to form when the comet
+was as distant as the orbit of Jupiter, and in its return they very
+soon entirely vanished; but a new one was formed after it had
+retreated as far as the orbit of Mars, which lasted for a few days.
+Indeed, comets in general are subject to sudden and violent convulsions
+in their interior, even when far from the sun, which
+produce changes that are visible at enormous distances, and baffle
+all attempts at explanation—probably arising from electricity, or
+even causes with which we are unacquainted. The envelopes
+surrounding the nucleus of the comet on the side next to the
+sun diverge on the opposite side, where they are prolonged into
+the form of a hollow cone, which is the tail. Two repulsive
+forces seem to be concerned in producing this effect; one from
+the comet and another from the sun, the latter being the most
+powerful. The envelopes are nearer the centre of the comet on
+the side next to the sun, where these forces are opposed to one
+another; but on the other side the forces conspire to form the
+tail, conveying the nebulous particles to enormous distances.
+The lateral edges of the tail reflect more light than the central
+part, because the line of vision passes through a greater depth of
+nebulous matter, which produces the effect of two streams somewhat
+like the aurora. Stars shine with undiminished lustre
+through the central part of the tail, because their rays traverse it
+376perpendicularly to its thickness; but, though distinctly seen
+through its edges, their light is weakened by its oblique transmission.
+The tail of the great comet of 1811 was of wonderful
+tenuity; stars which would have been entirely concealed by the
+slightest fog were seen through 64,000 leagues of nebulous matter
+without the smallest refraction. Possibly some part of the
+changes in the appearance of the tails arises from rotation.
+Several comets have been observed to rotate about an axis passing
+through the centre of the tail. That of 1825 performed its
+rotation in
+201⁄2
+hours, and the rapid changes in the luminous
+sectors which issued from the nucleus of Halley’s comet in all
+probability were owing to rotatory motion.
+The two streams of light which form the edges of the tail in
+most cases unite at a greater or less distance from the nucleus,
+and are generally situate in the plane of the orbit. The tails
+follow comets in their descent towards the sun, but precede them
+in their return, with a small degree of curvature; their apparent
+extent and form vary according to the positions of the orbits with
+regard to the ecliptic. In some cases the tail has been at right
+angles to the line joining the sun and comet. The curvature is
+in part owing to the resistance of the ether, and partly to the
+velocity of the comet being greater than that of the particles at
+the extremity of its tail, which lag behind. The tails are generally
+of enormous lengths; the comet of 1811 had one no less
+than a hundred millions of miles in length, and those which
+appeared in the years 1618, 1680, and 1769, had tails which extended
+respectively over 104, 90, and 97 degrees of space. Consequently,
+when the heads of these comets were set, a portion of
+the extremity of their tails was still in the zenith. Sometimes
+the tail is divided into several branches, like the comet of 1744,
+which had six, separated by dark intervals, each of them about
+4° broad, and from 30° to 44° long. They were probably formed
+by three hollow cones of the nebulous matter proceeding from the
+different envelopes, and enclosing one another, with intervals
+between; the lateral edges of these cones would give the appearance
+of six streams of light. The tails do not attain their full
+magnitude till the comet has left the sun. When comets first
+appear, they resemble round films of vapour, with little or no
+tail. As they approach the sun, they increase in brilliancy, and
+their tail in length, till they are lost in his rays; and it is not
+377till they emerge from the sun’s more vivid light that they assume
+their full splendour. They then gradually decrease, their tails
+diminish, and they disappear, nearly or altogether, before they
+are beyond the sphere of telescopic vision. Many comets have
+no tails, as, for example, Encke’s comet. Those which appeared
+in the years 1585, 1763, and 1682, were also without tails,
+though the latter is recorded to have been as bright as Jupiter.
+The matter of the tail must be extremely buoyant to precede
+a body moving with such velocity: indeed, the rapidity of
+its ascent cannot be accounted for. It has been attributed to
+that power in the sun which produces those vibrations of ether
+which constitute light; but as this theory will not account for
+the comet of 1824, which is said to have had two tails, one
+directed towards the sun, and a very short one diametrically
+opposite to it, our ignorance on this subject must be confessed.
+In this case the repelling power of the comet seems to
+have been greater than that of the sun. Whatever that unknown
+power may be, there are instances in which its effects are enormous;
+for, immediately after the great comet of 1680 had passed
+its perihelion, its tail was 100,000,000 miles in length, and was
+projected from the comet’s head in the short space of two days.
+A body of such extreme tenuity as a comet is most likely incapable
+of an attraction powerful enough to recall matter sent to
+such an enormous distance; it is therefore, in all probability,
+scattered in space or absorbed by the zodiacal light or nebula
+that surrounds the sun, which may account for the rapid decrease
+observed in the tails of comets every time they return to their
+perihelia. Should the great comet of 1843 prove to be the same
+with that of 1668, its tail must have diminished considerably.
+It is remarkable that, although the tails of comets increase in
+length as they approach their perihelia, there is reason to believe
+that the real diameter of the head contracts on coming near the
+sun, and expands rapidly on leaving him. Hevelius first observed
+this phenomenon, which Encke’s comet has exhibited in a
+very extraordinary degree. On the 28th of October, 1828, this
+comet was about three times as far from the sun as it was on the
+24th of December; yet at the first date its apparent diameter
+was twenty-five times greater than at the second, the decrease
+being progressive. M. Valz attributes the circumstance to a real
+condensation of volume from the pressure of the ethereal medium,
+378which increases most rapidly in density towards the surface of
+the sun, and forms an extensive atmosphere around him. It
+did not occur to M. Valz, however, that the ethereal fluid would
+penetrate the nebulous matter instead of compressing it. Sir
+John Herschel, on the contrary, conjectures that it may be owing
+to the alternate conversion of evaporable materials in the upper
+regions of the transparent atmosphere of comets into the states
+of visible cloud and invisible gas by the effects of heat and cold;
+or that some of the external nebulous envelopes may come into
+view when the comet arrives at a darker part of the sky, which
+were overpowered by the superior light of the sun while in his
+vicinity. The first of these hypotheses he considers to be perfectly
+confirmed by his observations on Halley’s comet, made at
+the Cape of Good Hope, after its return from the sun. He
+thinks that, in all probability, the whole comet, except the
+densest part of its head, vanished, and was reduced to a transparent
+and invisible state during its passage at its perihelion: for
+when it first came into view, after leaving the sun, it had no tail,
+and its aspect was completely changed. A parabolic envelope
+soon began to appear, and increased so much and so rapidly that
+its augmentation was visible to the eye. This increase continued
+till it became so large and so faint, that at last it vanished
+entirely, leaving only the nucleus and a tail, which it had again
+acquired, but which also vanished; so that at last the nucleus
+alone remained. Not only the tails, but the nebulous part of
+comets, diminishes every time they return to their perihelia; after
+frequent returns they ought to lose it altogether, and present the
+appearance of a fixed nucleus: this ought to happen sooner to
+comets of short periods. M. de la Place supposes that the comet
+of 1682 must be approaching rapidly to that state. Should the
+substances be altogether, or even to a great degree, evaporated,
+the comet would disappear for ever. Possibly comets may have
+vanished from our view sooner than they would otherwise have
+done from this cause.
+The comet discovered at Florence by Signore Donati, on the
+2nd of June, 1858, was one of the most beautiful that has
+been seen from our planet for many years, whether for the
+brightness of the nucleus, or the length and graceful form of the
+coma; when first discovered it was near the star λ in the constellation
+of the Lion, being then at a distance of 288,000,000
+379miles from the earth; during the month of August its nucleus
+assumed an almost planetary aspect from the concentration of its
+light; on the 27th of September the head appeared almost as
+bright as Mercury, but smaller; when near its perihelion passage,
+on September 30th, its diameter, as ascertained by Signore
+Donati, was 3ʺ; during the early part of October it continued
+to increase in brilliancy, the tail becoming more elongated, and
+describing a beautiful arc in the heavens, occupying a space of
+nearly 40°, or a length of 40,000,000 miles in the solar system.
+On the evening of the 5th of October it was seen from most parts
+of Britain, within 20ʹ of Arcturus, the brightest star in the
+northern heavens, across which the densest part nearly of
+the tail passed, and through which notwithstanding the star
+shone with undiminished brilliancy. On the 30th of October,
+when in perihelio, the comet was only 55,000,000 miles from
+the sun; on the 10th it approached nearest to the earth, from
+which it was then distant 51,000,000 miles; and on the 15th
+of the same month near to Venus, being at that time less than
+one-tenth the distance of the earth from the Sun; if the comet
+had reached its perihelion a few days earlier, Venus might have
+passed through its nucleus, the consequences of which to the
+planet it would be very difficult to imagine. The motion of
+Donati’s comet is what astronomer’s call retrograde, or from east
+to west. It ceased to be visible in our northern latitudes in
+the last week in October, having passed into the southern
+heavens, where it will traverse the constellations of Sagittarius,
+Telescopium, and Indus, approaching the large star of Toucan;
+after which it will disappear until it has nearly completed its
+revolution round the sun. The observed orbit of this remarkable
+comet coincides more nearly with an ellipse than a parabola;
+the longer diameter of the ellipse being 184 times that of
+the earth’s orbit, or the immense distance of 35,100,000,000
+miles—a space which, however great, is less than the thousandth
+of the distance of the nearest fixed star. According to the calculations
+of M. Loewy, and adopting an elliptic orbit, Donati’s
+comet will not return to the same places in the heavens for
+2495 years, being 500 less than the period of revolution of the
+great comet of 1811.
+Signore Donati observed that between the 25th and 30th September
+two concentric, luminous, semicircular envelopes, with a
+380dark space between them, were formed in the head. From the
+extremities of these the cone of the tail extended, and a non-luminous
+or dark space stretched for 20° from the nucleus into
+the tail. On the 1st October the two envelopes were combined
+into one. This comet, like Halley’s, has shown some singular
+irregularities, supposed to arise from the action of the sun when
+near its perihelion. At different periods of its apparition a
+violent agitation was observed in its nucleus, with luminous jets,
+spiral offshoots, &c., as in the great comets of 1680, 1744, 1811.
+A ray of light was thrown out from one side of the nucleus
+towards the sun, while a gas-like jet proceeded from the other
+side, which appeared to form the origin of a second tail within the
+great tail, and which was traced for half a degree by Mr. Hind
+on the 19th September. He observed decided spiral convolutions
+in the tail, which show that this comet has a rotatory
+motion about an axis passing through the tail.
+If comets shine by borrowed light, they ought, in certain positions,
+to exhibit phases like the moon; but no such appearance
+has been detected, except in one instance, when they are said to
+have been observed by Hevelius and La Hire, in the year 1682.
+In general, the light of comets is dull—that of the comet of 1811
+was only equal to the tenth part of the light of the full moon—yet
+some have been brilliant enough to be visible in full daylight,
+especially the comet of 1744, which was seen without a telescope
+at one o’clock in the afternoon, while the sun was shining.
+Hence it may be inferred that, although some comets may be
+altogether diaphanous, others seem to possess a solid mass resembling
+a planet. But whether they shine by their own or by
+reflected light has never been satisfactorily made out till now.
+Even if the light of a comet were polarized, it would not afford a
+decisive test, since a body is capable of reflecting light, though it
+shines by its own. M. Arago, however, has, with great ingenuity,
+discovered a method of ascertaining this point, independent
+both of phases and polarization.
+Since the rays of light diverge from a luminous point, they
+will be scattered over a greater space as the distance increases, so
+that the intensity of the light on a screen two feet from the
+object is four times less than at the distance of one foot; three
+feet from the object it is nine times less; and so on, decreasing
+in intensity as the square of the distance increases. As a self-luminous
+381surface consists of an infinite number of luminous
+points, it is clear that, the greater the extent of surface, the more
+intense will be the light; whence it may be concluded that the
+illuminating power of such a surface is proportional to its extent,
+and decreases inversely as the square of the distance. Notwithstanding
+this, a self-luminous surface, plane or curved, viewed
+through a hole in a plate of metal, is of the same brilliancy at all
+possible distances as long as it subtends a sensible angle, because,
+as the distance increases, a greater portion comes into view; and,
+as the augmentation of surface is as the square of the diameter of
+the part seen through the whole, it increases as the square of the
+distance. Hence, though the number of rays from any one point
+of the surface which pass through the hole decreases inversely as
+the square of the distance, yet, as the extent of surface which
+comes into view increases also in that ratio, the brightness of the
+object is the same to the eye as long as it has a sensible diameter.
+For example—Uranus is about nineteen times farther from the
+sun than we are, so that the sun, seen from that planet, must
+appear like a star with a diameter of a hundred seconds, and
+must have the same brilliancy to the inhabitants that he would
+have to us if viewed through a small circular hole having a
+diameter of a hundred seconds. For it is obvious that light
+comes from every point of the sun’s surface to Uranus, whereas a
+very small portion of his disc is visible through the hole; so
+that extent of surface exactly compensates distance. Since, then,
+the visibility of a self-luminous object does not depend upon the
+angle it subtends as long as it is of sensible magnitude, if a comet
+shines by its own light, it should retain its brilliancy as long as
+its diameter is of a sensible magnitude; and, even after it has
+lost an apparent diameter, it ought to be visible, like the fixed
+stars, and should only vanish in consequence of extreme remoteness.
+That, however, is far from being the case—comets gradually
+become dim as their distance increases, and vanish merely
+from loss of light, while they still retain a sensible diameter,
+which is proved by observations made the evening before they
+disappear. It may therefore be concluded that comets shine by
+reflecting the sun’s light. The most brilliant comets have
+hitherto ceased to be visible when about five times as far from
+the sun as we are. Most of the comets that have been visible
+from the earth have their perihelia within the orbit of Mars,
+382because they are invisible when as distant as the orbit of Saturn:
+on that account there is not one on record whose perihelion is
+situate beyond the orbit of Jupiter. Indeed, the comet of 1756,
+after its last appearance, remained five whole years within the
+ellipse described by Saturn without being once seen. More than
+a hundred and forty comets have appeared within the earth’s
+orbit during the last century that have not again been seen. If
+a thousand years be allowed as the average period of each, it may
+be computed, by the theory of probabilities, that the whole
+number which range within the earth’s orbit must be 1400; but,
+Uranus being about nineteen times more distant, there may be
+no less than 11,200,000 comets that come within the orbit of
+Uranus. M. Arago makes a different estimate; he considers that,
+as thirty comets are known to have their perihelion distance
+within the orbit of Mercury, if it be assumed that comets are
+uniformly distributed in space, the number having their perihelion
+within the orbit of Uranus must be to thirty as the cube of
+the radius of the orbit of Uranus to the cube of the radius of the
+orbit of Mercury, which makes the number of comets amount to
+3,529,470. But that number may be doubled, if it be considered
+that, in consequence of daylight, fogs, and great southern declination,
+one comet out of two must be hid from us. According
+to M. Arago, more than seven millions of comets come within
+the orbit of Uranus.
+The different degrees of velocity with which the planets and
+comets were originally propelled in space is the sole cause of the
+diversity in the form of their orbits, which depends only upon
+the mutual relation between the projectile force and the sun’s
+attraction.
+When the two forces are exactly equal to one another, circular
+motion is produced; when the ratio of the projectile to the
+central force is exactly that of 1 to the square root of 2, the
+motion is parabolic; any ratio between these two will cause a
+body to move in an ellipse, and any ratio greater than that of 1
+to the square root of 2 will produce hyperbolic motion (N. 229).
+The celestial bodies might move in any one of these four curves
+by the law of gravitation: but, as one particular velocity is
+necessary to produce either circular or parabolic motion, such
+motions can hardly be supposed to exist in the solar system,
+where the bodies are liable to such mutual disturbances as would
+383infallibly change the ratio of the forces, and cause them to move
+in ellipses in the first case, and hyperbolas in the other. On the
+contrary, since every ratio between equality and that of 1 to the
+square root of 2 will produce elliptical motion, it is found in the
+solar system in all its varieties, from that which is nearly circular
+to such as borders on the parabolic from excessive ellipticity. On
+this depends the stability of the system; the mutual disturbances
+only cause the orbits to become more or less excentric without
+changing their nature.
+For the same reason the bodies of the solar system might have
+moved in an infinite variety of hyperbolas, since any ratio of the
+forces, greater than that which causes parabolic motion, will
+make a body move in one of these curves. Hyperbolic motion is
+however very rare; only two comets appear to move in orbits of
+that nature, those of 1771 and 1824; probably all such comets
+have already come to their perihelia, and consequently will never
+return.
+The ratio of the forces which fixed the nature of the celestial
+orbits is thus easily explained; but the circumstances which
+determined these ratios, which caused some bodies to move nearly
+in circles and others to wander towards the limits of the solar
+attraction, and which made all the heavenly bodies to rotate and
+revolve in the same direction, must have had their origin in the
+primeval state of things; but as it pleases the Supreme Intelligence
+to employ gravitation alone in the maintenance of this fair
+system, it may be presumed to have presided at its creation.</div></body></text></TEI>

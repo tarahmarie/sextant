@@ -1,0 +1,100 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Economy of Machinery and Manufactures</title><author>Babbage, Charles (1791-1871)</author></titleStmt><publicationStmt><publisher>Charles Knight</publisher><pubPlace>London</pubPlace><date>1832</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="9">Chapter 9
+Economy of the Materials Employed
+77. The precision with which all operations by machinery are
+executed, and the exact similarity of the articles thus made,
+produce a degree of economy in the consumption of the raw
+material which is, in some cases, of great importance. The
+earliest mode of cutting the trunk of a tree into planks, was by
+the use of the hatchet or the adze. It might, perhaps, be first
+split into three or four portions, and then each portion was
+reduced to a uniform surface by those instruments. With such
+means the quantity of plank produced would probably not equal the
+quantity of the raw material wasted by the process: and, if the
+planks were thin, would certainly fall far short of it. An
+improved tool, completely reverses the case: in converting a tree
+into thick planks, the saw causes a waste of a very small
+fractional part; and even in reducing it to planks of only an
+inch in thickness, does not waste more than an eighth part of the
+raw material. When the thickness of the plank is still further
+reduced, as is the case in cutting wood for veneering, the
+quantity of material destroyed again begins to bear a
+considerable proportion to that which is used; and hence circular
+saws, having a very thin blade, have been employed for such
+purposes. In order to economize still further the more valuable
+woods, Mr Brunel contrived a machine which, by a system of
+blades, cut off the veneer in a continuous shaving, thus
+rendering the whole of the piece of timber available.
+78. The rapid improvements which have taken place in the
+printing press during the last twenty years, afford another
+instance of saving in the materials consumed, which has been well
+ascertained by measurement, and is interesting from its
+connection with literature. In the old method of inking type, by
+large hemispherical balls stuffed and covered with leather, the
+printer, after taking a small portion of ink from the ink-block,
+was continually rolling the balls in various directions against
+each other, in order that a thin layer of ink might be uniformly
+spread over their surface. This he again transferred to the type
+by a kind of rolling action. In such a process, even admitting
+considerable skill in the operator, it could not fail to happen
+that a large quantity of ink should get near the edges of the
+balls, which, not being transferred to the type, became hard and
+useless, and was taken off in the form of a thick black crust.
+Another inconvenience also arose—the quantity of ink spread on
+the block not being regulated by measure, and the number and
+direction of the transits of the inking-balls over each other
+depending on the will of the operator, and being consequently
+irregular, it was impossible to place on the type a uniform layer
+of ink, of the quantity exactly sufficient for the impression.
+The introduction of cylindrical rollers of an elastic substance,
+formed by the mixture of glue and treacle, superseded the
+inking-balls, and produced considerable saving in the consumption
+of ink: but the most perfect economy was only to be produced by
+mechanism. When printing-presses, moved by the power of steam,
+were introduced, the action of these rollers was found to be well
+adapted to their performance; and a reservoir of ink was formed,
+from which a roller regularly abstracted a small quantity at each
+impression. From three to five other rollers spread this portion
+uniformly over a slab (by most ingenious contrivances varied in
+almost each kind of press), and another travelling roller, having
+fed itself on the slab, passed and repassed over the type just
+before it gave the impression to the paper.
+In order to shew that this plan of inking puts the proper
+quantity of ink upon the type, we must prove, first—that the
+quantity is not too little: this would soon have been discovered
+from the complaints of the public and the booksellers; and,
+secondly that it is not too great. This latter point was
+satisfactorily established by an experiment. A few hours after
+one side of a sheet of paper has been printed upon, the ink is
+sufficiently dry to allow it to receive the impression upon the
+other; and, as considerable pressure is made use of, the tympan
+on which the side first printed is laid, is guarded from soiling
+it by a sheet of paper called the set-off sheet. This paper
+receives, in succession, every sheet of the work to be printed,
+acquiring from them more or less of the ink, according to their
+dryness, or the quantity upon them. It was necessary in the
+former process, after about one hundred impressions, to change
+this set-off sheet, which then became too much soiled for further
+use. In the new method of printing by machinery, no such sheet is
+used, but a blanket is employed as its substitute; this does not
+require changing above once in five thousand impressions, and
+instances have occurred of its remaining sufficiently clean for
+twenty thousand. Here, then, is a proof that the quantity of
+superfluous ink put upon the paper in machine-printing is so
+small, that, if multiplied by five thousand, and in some
+instances even by twenty thousand, it is only sufficient to
+render useless a single piece of clean cloth.(1*) The following
+were the results of an accurate experiment upon the effect of the
+process just described, made at one of the largest printing
+establishments in the metropolis.(2*) Two hundred reams of paper
+were printed off, the old method of inking with balls being
+employed; two hundred reams of the same paper, and for the same
+book, were then printed off in the presses which inked their own
+type. The consumption of ink by the machine was to that by the
+balls as four to nine, or rather less than one-half.
+NOTES:
+1. In the very best kind of printing, it is necessary, in the old
+method, to change the set-off sheet once in twelve times. In
+printing the same kind of work by machinery, the blanket is
+changed once in 2000.
+2. This experiment was made at the establishment of Mr Clowes, in
+Stamford Street.</div></body></text></TEI>

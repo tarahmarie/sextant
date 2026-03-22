@@ -1,0 +1,340 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="79">CHAPTER IV.
+Physical Theories of Heat.
+WHEN we look at the condition
+of that branch of knowledge which, according to the phraseology
+already employed, we must call Physical Thermotics, in
+opposition to Formal Thermotics, which gives us detached laws of
+phenomena, we find the prospect very different from that which was
+presented to us by physical astronomy, optics, and acoustics. In these
+sciences, the maintainers of a distinct and comprehensive theory have
+professed at least to show that it explains and includes the principal
+laws of phenomena of various kinds; in Thermotics, we have only
+attempts to explain a part of the facts. We have here no example of an
+hypothesis which, assumed in order to explain one class of phenomena,
+has been found also to account exactly for another; as when central
+forces led to the precession of the equinoxes, or when the explanation
+of polarization explained also double refraction; or when the pressure
+of the atmosphere, as measured by the barometer, gave the true
+velocity of sound. Such coincidences, or consiliences, as I
+have elsewhere called them, are the test of truth; and thermotical
+theories cannot yet exhibit credentials of this kind. 181
+On looking back at our view of this science, it will be seen that
+it may be distinguished into two parts; the Doctrines of Conduction
+and Radiation, which we call Thermotics proper; and the Doctrines
+respecting the relation of Heat, Airs, and Moisture, which we have
+termed Atmology. These two subjects differ in their bearing on our
+hypothetical views.
+Thermotical Theories.—The phenomena of radiant heat,
+like those of radiant light, obviously admit of general explanation in
+two different ways;—by the emission of material particles, or by
+the propagation of undulations. Both these opinions have found
+supporters. Probably most persons, in adopting Prevost’s theory of
+exchanges, conceive the radiation of heat to be the radiation of
+matter. The undulation hypothesis, on the other hand, appears to be
+suggested by the production of heat by friction, and was accordingly
+maintained by Rumford and others. Leslie68 appears, in a
+great part of his Inquiry, to be a supporter of some undulatory
+doctrine, but it is extremely difficult to make out what his
+undulating medium is; or rather, his opinions wavered during his
+progress. In page 31, he asks, “What is this calorific and frigorific
+fluid? and after keeping the reader in suspense for a moment, he
+replies,
+“Quod petis hic est.
+It is merely the ambient AIR.” But at page 150, he
+again asks the question, and, at page 188, he answers, “It is the same
+subtile matter that, according to its different modes of existence,
+constitutes either heat or light.” A person thus vacillating between
+two opinions, one of which is palpably false, and the other laden with
+exceeding difficulties which he does not even attempt to remove, had
+little right to protest against69 “the sportive
+freaks of some intangible aura;” to rank all other hypotheses
+than his own with the “occult qualities of the schools;” and to class
+the “prejudices” of his opponents with the tenets of those who
+maintained the fuga vacui in opposition to Torricelli. It is
+worth while noticing this kind of rhetoric, in order to observe, that
+it may be used just as easily on the wrong side as on the right.
+68 An Experimental Inquiry into
+the Nature and Propagation of Heat, 1804.
+69 Ib. p. 47.
+Till recently, the theory of material heat, and of its propagation
+by emission, was probably the one most in favor with those who had
+studied mathematical thermotics. As we have said, the laws of 182 conduction, in their ultimate analytical
+form, were almost identical with the laws of motion of fluids.
+Fourier’s principle also, that the radiation of heat takes place from
+points below the surface, and is intercepted by the superficial
+particles, appears to favor the notion of material emission.
+Accordingly, some of the most eminent modern French mathematicians
+have accepted and extended the hypothesis of a material caloric. In
+addition to Fourier’s doctrine of molecular extra-radiation, Laplace
+and Poisson have maintained the hypothesis of molecular
+intra-radiation, as the mode in which conduction takes place; that
+is, they say that the particles of bodies are to be considered as
+discrete, or as points separated from each other, and acting on
+each other at a distance; and the conduction of heat from one part to
+another, is performed by radiation between all neighboring particles.
+They hold that, without this hypothesis, the differential equations
+expressing the conditions of conduction cannot be made homogeneous:
+but this assertion rests, I conceive, on an error, as Fourier has
+shown, by dispensing with the hypothesis. The necessity of the
+hypothesis of discrete molecular action in bodies, is maintained in
+all cases by M. Poisson; and he has asserted Laplace’s theory of
+capillary attraction to be defective on this ground, as Laplace
+asserted Fourier’s reasoning respecting heat to be so. In reality,
+however, this hypothesis of discrete molecules cannot be maintained as
+a physical truth; for the law of molecular action, which is assumed in
+the reasoning, after answering its purpose in the progress of
+calculation, vanishes in the result; the conclusion is the same,
+whatever law of the intervals of the molecules be assumed. The
+definite integral, which expresses the whole action, no more proves
+that this action is actually made of the differential parts by means
+of which it was found, than the processes of finding the weight of a
+body by integration, prove it to be made up of differential weights.
+And therefore, even if we were to adopt the emission theory of heat,
+we are by no means bound to take along with it the hypothesis of
+discrete molecules.
+But the recent discovery of the refraction, polarization, and
+depolarization of heat, has quite altered the theoretical aspect of
+the subject, and, almost at a single blow, ruined the emission theory.
+Since heat is reflected and refracted like light, analogy would lead
+us to conclude that the mechanism of the processes is the same in the
+two cases. And when we add to these properties the property of
+polarization, it is scarcely possible to believe otherwise than that
+heat consists in 183 transverse vibrations; for no wise
+philosopher would attempt an explanation by ascribing poles to the
+emitted particles, after the experience which Optics affords, of the
+utter failure of such machinery.
+But here the question occurs, If heat consists in vibrations,
+whence arises the extraordinary identity of the laws of its
+propagation with the laws of the flow of matter? How is it that, in
+conducted heat, this vibration creeps slowly from one part of the body
+to another, the part first heated remaining hottest; instead of
+leaving its first place and travelling rapidly to another, as the
+vibrations of sound and light do? The answer to these questions has
+been put in a very distinct and plausible form by that distinguished
+philosopher, M. Ampère, who published a Note on Heat and Light
+considered as the results of Vibratory Motion,70 in 1834 and 1835; and though this
+answer is an hypothesis, it at least shows that there is no fatal
+force in the difficulty.
+70 Bibliothèque Universelle de
+Genève, vol. xlix. p. 225. Ann. Chim. tom. lvii. p.
+434.
+M. Ampère’s hypothesis is this; that bodies consist of solid
+molecules, which may be considered as arranged at intervals in a very
+rare ether; and that the vibrations of the molecules, causing
+vibrations of the ether and caused by them, constitute heat. On these
+suppositions, we should have the phenomena of conduction explained;
+for if the molecules at one end of a bar be hot, and therefore in a
+state of vibration, while the others are at rest, the vibrating
+molecules propagate vibrations in the ether, but these vibrations do
+not produce heat, except in proportion as they put the quiescent
+molecules of the bar in vibration; and the ether being very rare
+compared with the molecules, it is only by the repeated impulses of
+many successive vibrations that the nearest quiescent molecules are
+made to vibrate; after which they combine in communicating the
+vibration to the more remote molecules. “We then find necessarily,” M.
+Ampère adds, “the same equations as those found by Fourier for the
+distribution of heat, setting out from the same hypothesis, that the
+temperature or heat transmitted is proportional to the difference of
+the temperatures.”
+Since the undulatory hypothesis of heat can thus answer all obvious
+objections, we may consider it as upon its trial, to be confirmed or
+modified by future discoveries; and especially by an enlarged
+knowledge of the laws of the polarization of heat.
+[2nd Ed.] [Since the first edition was written, the analogies
+between light and heat have been further extended, as I have already
+stated. It 184 has
+been discovered by MM. Biot and Melloni that quartz impresses a
+circular polarization upon heat; and by Prof. Forbes that mica, of a
+certain thickness, produces phenomena such as would be produced by the
+impression of circular polarization of the supposed transversal
+vibrations of radiant heat; and further, a rhomb of rock-salt, of the
+shape of the glass rhomb which verified Fresnel’s extraordinary
+anticipation of the circular polarization of light, verified the
+expectation, founded upon other analogies, of the polarization of
+heat. By passing polarized heat through various thicknesses of mica,
+Prof. Forbes has attempted to calculate the length of an undulation
+for heat.
+These analogies cannot fail to produce a strong disposition to
+believe that light and heat, essences so closely connected that they
+can hardly be separated, and thus shown to have so many curious
+properties in common, are propagated by the same machinery; and thus
+we are led to an Undulatory Theory of Heat.
+Yet such a Theory has not yet by any means received full
+confirmation. It depends upon the analogy and the connexion of the
+Theory of Light, and would have little weight if those were removed.
+For the separation of the rays in double refraction, and the phenomena
+of periodical intensity, the two classes of facts out of which the
+Undulatory Theory of Optics principally grew, have neither of them
+been detected in thermotical experiments. Prof. Forbes has assumed
+alternations of heat for increasing thicknesses of mica, but in his
+experiments we find only one maximum. The occurrence of
+alternate maxima and minima under the like circumstances would exhibit
+visible waves of heat, as the fringes of shadows do of light, and
+would thus add much to the evidence of the theory.
+Even if I conceived the Undulatory Theory of Heat to be now
+established, I should not venture, as yet, to describe its
+establishment as an event in the history of the Inductive Sciences. It
+is only at an interval of time after such events have taken place that
+their history and character can be fully understood, so as to suggest
+lessons in the Philosophy of Science.]
+Atmological Theories.—Hypotheses of the relations of
+heat and air almost necessarily involve a reference to the forces by
+which the composition of bodies is produced, and thus cannot properly
+be treated of, till we have surveyed the condition of chemical
+knowledge. But we may say a few words on one such hypothesis; I mean
+the hypothesis on the subject of the atmological laws of heat,
+proposed by Laplace, in the twelfth Book of the Mécanique
+Céléste, and published in 1823. 185 It will be recollected that the main
+laws of phenomena for which we have to account, by means of such an
+hypothesis, are the following:—
+(1.) The law of Boyle and Mariotte, that the elasticity of an air
+varies as its density. See Chap. iii., Sect.
+1 of this Book.
+(2.) The Law of Gay-Lussac and Dalton, that all airs expand equally
+by heat. See Chap. ii. Sect. 1.
+(3.) The production of heat by sudden compression. See Chap. ii. Sect. 2.
+(4.) Dalton’s principle of the mechanical mixture of airs. See
+Chap. iii. Sect. 3.
+(5.) The Law of expansion of solids and fluids by heat. See Chap.
+ii. Sect. 1.
+(6.) Changes of consistence by heat, and the doctrine of latent
+heat. See Chap. ii. Sect. 3.
+(7.) The Law of the expansive force of steam. See Chap. iii. Sect. 4.
+Besides these, there are laws of which it is doubtful whether they
+are or are not included in the preceding, as the low temperature of
+the air in the higher parts of the atmosphere. (See Chap. iii. Sect. 5.)
+Laplace’s hypothesis71 is this:—that bodies consist of
+particles, each of which gathers round it, by its attraction, a
+quantity of caloric: that the particles of the bodies attract each
+other, besides attracting the caloric, and that the particles of the
+caloric repel each other.
+71 Méc. Cél. t. v. p.
+89.
+In gases, the particles of the bodies are so far removed, that
+their mutual attraction is insensible, and the matter tends to expand
+by the mutual repulsion of the caloric. He conceives this caloric to
+be constantly radiating among the particles; the density of this
+internal radiation is the temperature, and he proves that, on
+this supposition, the elasticity of the air will be as the density,
+and as this temperature. Hence follow the three first rules above
+stated. The same suppositions lead to Dalton’s principle of mixtures
+(4), though without involving his mode of conception; for Laplace says
+that whatever the mutual action of two gases be, the whole pressure
+will be equal to the sum of the separate pressures.72 Expansion (5), and the changes of
+consistence (6), are explained by supposing73 that in solids,
+the mutual attraction of the particles of the body is the greatest
+force; in liquids, the attraction of the particles for the caloric; in
+airs, the repulsion of 186 the caloric. But the doctrine of latent
+heat again modifies74 the hypothesis, and makes it necessary
+to include latent heat in the calculation; yet there is not, as we
+might suppose there would be if the theory were the true one, any
+confirmation of the hypothesis resulting from the new class of laws
+thus referred to. Nor does it appear that the hypothesis accounts for
+the relation between the elasticity and the temperature of steam.
+72 Ib. p. 110.
+73 Ib. p. 92.
+74 Méc. Cél. t. v. p.
+93.
+It will be observed that Laplace’s hypothesis goes entirely upon
+the materiality of heat, and is inconsistent with any vibratory
+theory; for, as Ampère remarks, “It is clear that if we admit heat to
+consist in vibrations, it is a contradiction to attribute to heat (or
+caloric) a repulsive force of the particles which would be a cause of
+vibration.”
+An unfavorable judgment of Laplace’s Theory of Gases is suggested
+by looking for that which, in speaking of Optics, was mentioned as the
+great characteristic of a true theory; namely, that the hypotheses,
+which were assumed in order to account for one class of facts, are
+found to explain another class of a different nature:—the
+consilience of inductions. Thus, in thermotics, the law of an
+intensity of radiation proportional to the sine of the angle of the
+ray with the surface, which is founded on direct experiments of
+radiation, is found to be necessary in order to explain the tendency
+of neighboring bodies to equality of temperature; and this leads to
+the higher generalization, that heat is radiant from points below the
+surface. But in the doctrine of the relation of heat to gases, as
+delivered by Laplace, there is none of this unexpected confirmation;
+and though he explains some of the leading laws, his assumptions bear
+a large proportion to the laws explained. Thus, from the assumption
+that the repulsion of gases arises from the mutual repulsion of the
+particles of caloric, he finds that the pressure in any gas is as the
+square of the density and of the quantity of caloric;75 and from the assumption that the
+temperature is the internal radiation, he finds that this temperature
+is as the density and the square of the caloric.76 Hence he
+obtains the law of Boyle and Mariotte, and that of Dalton and
+Gay-Lussac. But this view of the subject requires other assumptions
+when we come to latent heat; and accordingly, he introduces, to
+express the latent heat, a new quantity.77 Yet this
+quantity produces no effect on his calculations, nor does he apply his
+reasoning to any problem in which latent heat is concerned.
+75 P = 2 π h
+k ρ2c2 (1) p. 107.
+76 q′ Π (a) =
+ρc2 (2) p. 108.
+77 The quantity i, p.
+113.
+187 Without,
+then, deciding upon this theory, we may venture to say that it is
+wanting in all the prominent and striking characteristics which we
+have found in those great theories which we look upon as clearly and
+indisputably established.
+Conclusion.—We may observe, moreover, that heat has
+other bearings and effects, which, as soon as they have been analysed
+into numerical laws of phenomena, must be attended to in the formation
+of thermotical theories. Chemistry will probably supply many such;
+those which occur to us, we must examine hereafter. But we may mention
+as examples of such, MM. De la Rive and Marcet’s law, that the
+specific heat of all gases is the same;78 and MM. Dulong
+and Petit’s law, that single atoms of all simple bodies have the same
+capacity for heat.79 Though we have not yet said anything of
+the relation of different gases, or explained the meaning of
+atoms in the chemical sense, it will easily be conceived that
+these are very general and important propositions.
+78 Ann. Chim. xxxv.
+(1827.)
+79 Ib. x. 397.
+Thus the science of Thermotics, imperfect as it is, forms a
+highly-instructive part of our survey; and is one of the cardinal
+points on which the doors of those chambers of physical knowledge must
+turn which hitherto have remained closed. For, on the one hand, this
+science is related by strong analogies and dependencies to the most
+complete portions of our knowledge, our mechanical doctrines and
+optical theories; and on the other, it is connected with properties
+and laws of a nature altogether different,—those of chemistry;
+properties and laws depending upon a new system of notions and
+relations, among which clear and substantial general principles are
+far more difficult to lay hold of and with which the future progress
+of human knowledge appears to be far more concerned. To these notions
+and relations we must now proceed; but we shall find an intermediate
+stage, in certain subjects which I shall call the
+Mechanico-chemical Sciences; viz., those which have to do with
+Magnetism, Electricity, and Galvanism.
+~Additional material in the 3rd edition.~
+
+
+BOOK XI.
+
+THE MECHANICO-CHEMICAL
+SCIENCES.
+
+HISTORY OF ELECTRICITY.
+
+Parva metu primo: mox sese
+extollit in auras,
+Ingrediturque solo, et caput inter nubila
+condit.
+Æn. iv.
+176.    
+
+
+A timid breath at first, a transient touch,
+How soon it swells from little into much!
+Runs o’er the ground, and springs into the
+air,
+And fills the tempest’s gloom, the lightning’s
+glare;
+While denser darkness than the central
+storm
+Conceals the secrets of its inward form.
+
+</div></body></text></TEI>

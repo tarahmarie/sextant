@@ -1,0 +1,162 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="105">CHAPTER I.
+Prelude to the Epoch of De Lisle and
+Haüy.
+OF all the physical properties
+of bodies, there is none so fixed, and in every way so remarkable, as
+this;—that the same chemical compound always assumes, with the
+utmost precision, the same geometrical form. This identity, however,
+is not immediately obvious; it is often obscured by various mixtures
+and imperfections in the substance; and even when it is complete, it
+is not immediately recognized by a common eye, since it consists, not
+in the equality of the sides or faces of the figures, but in the
+equality of their angles. Hence it is not surprising that the
+constancy of form was not detected by the early observers. Pliny
+says,1 “Why crystal is generated in a hexagonal
+form, it is difficult to assign a reason; and the more so, since,
+while its faces are smoother than any art can make them, the pyramidal
+points are not all of the same kind.” The quartz crystals of
+the Alps, to which he refers, are, in some specimens, very regular,
+while in others, one side of the pyramid becomes much the largest; yet
+the angles remain constantly the same. But when the whole shape varied
+so much, the angles also seemed to vary. Thus Conrad Gessner, a very
+learned naturalist, who, in 1564, published at Zurich his work, De
+rerum Fossilium, Lapidum et Gemmarum maxime, Figuris, says,2
+“One crystal differs from another in its angles, and consequently in
+its figure.” And Cæsalpinus, who, as we shall find, did so much in establishing fixed characters
+in botany, was led by some of his general views to disbelieve the
+fixity of the form of crystals. In his work De Metallicis,
+published at Nuremberg in 1602, he says,3 “To ascribe to
+inanimate bodies a definite form, does not appear consentaneous to
+reason; for it is the office of organization to produce a definite
+form;” 317 an
+opinion very natural in one who had been immersed in the study of the
+general analogies of the forms of plants. But though this is excusable
+in Cæsalpinus, the rejection of this definiteness of form a hundred
+years later, when its existence had been proved, and its laws
+developed by numerous observers, cannot be ascribed to anything but
+strong prejudice; yet this was the course taken by no less a person
+than Buffon. “The form of crystallization,” says he,4
+“is not a constant character, but is more equivocal and more
+variable than any other of the characters by which minerals are to be
+distinguished.” And accordingly, he makes no use of this most
+important feature in his history of minerals. This strange
+perverseness may perhaps be ascribed to the dislike which Buffon is
+said to have entertained for Linnæus, who had made crystalline form a
+leading character of minerals.
+1 Nat. Hist. xxvii. 2.
+2 p. 25.
+3 p. 97.
+4 Hist. des Min. p. 343.
+It is not necessary to mark all the minute steps by which
+mineralogists were gradually led to see clearly the nature and laws of
+the fixity of crystalline forms. These forms were at first noticed in
+that substance which is peculiarly called rock-crystal or quartz; and
+afterwards in various stones and gems, in salts obtained from various
+solutions, and in snow. But those who observed the remarkable regular
+figures which these substances assume, were at first impelled onwards
+in their speculations by the natural tendency of the human mind to
+generalize and guess, rather than to examine and measure. They
+attempted to snatch at once the general laws of geometrical regularity
+of these occurrences, or to connect them with some doctrine concerning
+formative causes. Thus Kepler,5 in his
+Harmonics of the World, asserts a “formatrix facultas,
+which has its seat in the entrails of the earth, and, after the manner
+of a pregnant woman, expresses the five regular geometrical solids in
+the forms of gems.” But Philosophers, in the course of time, came to
+build more upon observation, and less upon abstract reasonings.
+Nicolas Steno, a Dane, published, in 1669, a dissertation De Solido
+intra Solidum Naturaliter contento, in which he says,6
+that though the sides of the hexagonal crystal may vary, the
+angles are not changed. And Dominic Gulielmini, in a
+Dissertation on Salts, published in 1707, says,7
+in a true inductive spirit, “Nature does not employ all figures, but
+only certain ones of those which are possible; and of these, the
+determination is not to be fetched from the brain, or proved à
+priori, but obtained by experiments and observations.” And 318 he speaks8
+with entire decision on this subject: “Nevertheless since there is
+here a principle of crystallization, the inclination of the planes and
+of the angles is always constant.” He even anticipates, very nearly,
+the views of later crystallographers as to the mode in which crystals
+are formed from elementary molecules. From this time, many persons
+labored and speculated on this subject; as Cappeller, whose
+Prodromus Crystallographiæ appeared at Lucern in 1723;
+Bourguet, who published Lettres Philosophiques sur la Formation de
+Sels et de Cristaux, at Amsterdam, in 1792; and Henckel, the
+“Physicus” of the Elector of Saxony, whose Pyritologia came
+forth in 1725. In this last work we have an example of the description
+of the various forms of special classes of minerals, (iron pyrites,
+copper pyrites, and arsenic pyrites;) and an example of the enthusiasm
+which this apparently dry and laborious study can excite: “Neither
+tongue nor stone,” he exclaims,9 “can express the
+satisfaction which I received on setting eyes upon this sinter covered
+with galena; and thus it constantly happens, that one must have more
+pleasure in what seems worthless rubbish, than in the purest and most
+precious ores, if we know aught of minerals.”
+5 Linz. 1619, p. 161.
+6 p. 69.
+7 p. 19.
+8 p. 83.
+9 p. 343.
+Still, however, Henckel10 disclaims the
+intention of arranging minerals according to their mathematical forms;
+and this, which may be considered as the first decided step in the
+formation of crystallographic mineralogy, appears to have been first
+attempted by Linnæus. In this attempt, however, he was by no means
+happy; nor does he himself appear to have been satisfied. He begins
+his preface by saying, “Lithology is not what I plume myself upon.”
+(Lithologia mihi cristas non eriget.) Though his sagacity, as a
+natural historian, led him to see that crystalline form was one of the
+most definite, and therefore most important, characters of minerals,
+he failed in profiting by this thought, because, in applying it, he
+did not employ the light of geometry, but was regulated by what
+appeared to him resemblances, arbitrarily selected, and often
+delusive.11 Thus he derived the form of pyrites
+from that of vitriol;12 and brought together alum and diamond
+on account of their common octohedral form. But he had the great merit
+of animating to this study one to whom, more perhaps than to any other
+person, it owes its subsequent progress; I mean Romé de Lisle.
+“Instructed,” this writer says, in his preface to his Essais de
+Crystallographie, “by the works of the celebrated Von Linnée, how
+319 greatly the
+study of the angular form of crystals might become interesting, and
+fitted to extend the sphere of our mineralogical knowledge, I have
+followed them in all their metamorphoses with the most scrupulous
+attention.” The views of Linnæus, as to the importance of this
+character, had indeed been adopted by several others; as John Hill,
+the King’s gardener at Kew, who, in 1777, published his
+Spathogenesia; and Grignon, who, in 1775, says, “These
+crystallizations may give the means of finding a new theory of the
+generation of crystalline gems.”
+10 p. 167.
+11 Marx. Gesch. p. 97.
+12 Syst. Nat. vi. p.
+220.
+The circumstance which threw so much difficulty in the way of those
+who tried to follow out his thought was, that in consequence of the
+apparent irregularity of crystals, arising from the extension or
+contraction of particular sides of the figure, each kind of substance
+may really appear under many different forms, connected with each
+other by certain geometrical relations. These may be conceived by
+considering a certain fundamental form to be cut into new forms in
+particular ways. Thus if we take a cube, and cut off all the eight
+corners, till the original faces disappear, we make it an octohedron;
+and if we stop short of this, we have a figure of fourteen faces,
+which has been called a cubo-octohedron. The first person who
+appears distinctly to have conceived this truncation of angles
+and edges, and to have introduced the word, is Démeste;13 although Wallerius14 had already
+said, in speaking of the various crystalline forms of calcspar, “I
+conceive it would be better not to attend to all differences, lest we
+be overwhelmed by the number.” And Werner, in his celebrated work
+On the External Characters of Minerals,15 had formally
+spoken of truncation, acuation, and acumination,
+or replacement by a plane, an edge, a point respectively,
+(abstumpfung, zuschärfung, zuspitzung,) as ways
+in which the forms of crystals are modified and often disguised. He
+applied this process in particular to show the connexion of the
+various forms which are related to the cube. But still the extension
+of the process to the whole range of minerals and other crystalline
+bodies, was due to Romé de Lisle.
+13 Lettres, 1779, i. 48.
+14 Systema Mineralogicum,
+1772–5, i. 143.
+15  Leipzig, 1774. 320</div></body></text></TEI>

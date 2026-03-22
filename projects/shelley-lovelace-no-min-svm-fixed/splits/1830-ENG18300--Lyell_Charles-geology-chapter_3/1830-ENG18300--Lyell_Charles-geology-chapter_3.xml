@@ -1,0 +1,1244 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Principles of Geology</title><author>Lyell, Charles (1797-1875)</author></titleStmt><publicationStmt><publisher>John Murray</publisher><pubPlace>London</pubPlace><date>1830</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="3">CHAPTER III.
+HISTORY OF THE PROGRESS OF GEOLOGY—continued.
+Arabian writers of the tenth century—Avicenna—Omar—Cosmogony of the
+Koran—Kazwini—Early Italian writers—Leonardo da Vinci—Fracastoro—Controversy
+as to the real nature of fossils—Attributed to the Mosaic deluge—
+Palissy—Steno—Scilla—Quirini—Boyle—Lister—Leibnitz—Hooke's Theory
+of Elevation by Earthquakes—Of lost species of animals—Ray—Physico-theological
+writers—Woodward's Diluvial Theory—Burnet—Whiston—Vallisneri—Lazzaro
+Moro—Generelli—Buffon—His theory condemned by the Sorbonne as
+unorthodox—His declaration—Targioni—Arduino—Michell—Catcott—Raspe
+Fuchsel—Fortis—Testa—Whitehurst—Pallas—Saussure.
+Arabian writers.—After the decline of the Roman empire, the cultivation
+of physical science was first revived with some success by the
+Saracens, about the middle of the eighth century of our era. The
+works of the most eminent classic writers were purchased at great expense
+from the Christians, and translated into Arabic; and Al Mamûn,
+son of the famous Harûn-al-Rashid, the contemporary of Charlemagne,
+received with marks of distinction, at his court at Bagdad, astronomers
+and men of learning from different countries. This caliph, and some of
+his successors, encountered much opposition and jealousy from the doctors
+of the Mahometan law, who wished the Moslems to confine their
+studies to the Koran, dreading the effects of the diffusion of a taste for
+the physical sciences.32
+Avicenna.—Almost all the works of the early Arabian writers are
+lost. Amongst those of the tenth century, of which fragments are now
+extant, is a short treatise, "On the Formation and Classification of
+Minerals," by Avicenna, a physician, in whose arrangement there is considerable
+merit. The second chapter, "On the Cause of Mountains," is
+remarkable; for mountains, he says, are formed, some by essential,
+others by accidental causes. In illustration of the essential, he instances
+"a violent earthquake, by which land is elevated, and becomes a
+mountain;" of the accidental, the principal, he says, is excavation by
+water, whereby cavities are produced, and adjoining lands made to stand
+out and form eminences.33
+Omar—Cosmogony of the Koran.—In the same century, also, Omar,
+surnamed "El Aalem," or "The Learned," wrote a work on "The Retreat
+of the Sea." It appears that on comparing the charts of his own
+time with those made by the Indian and Persian astronomers two thousand
+years before, he had satisfied himself that important changes had
+taken place since the times of history in the form of the coasts of Asia,
+18and that the extension of the sea had been greater at some former periods.
+He was confirmed in this opinion by the numerous salt springs
+and marshes in the interior of Asia,—a phenomenon from which Pallas,
+in more recent times, has drawn the same inference.
+Von Hoff has suggested, with great probability, that the changes in
+the level of the Caspian (some of which there is reason to believe have
+happened within the historical era), and the geological appearances in
+that district, indicating the desertion by that sea of its ancient bed, had
+probably led Omar to his theory of a general subsidence. But whatever
+may have been the proofs relied on, his system was declared contradictory
+to certain passages in the Koran, and he was called upon
+publicly to recant his errors; to avoid which persecution he went into
+voluntary banishment from Samarkand.34
+The cosmological opinions expressed in the Koran are few, and
+merely introduced incidentally: so that it is not easy to understand
+how they could have interfered so seriously with free discussion on the
+former changes of the globe. The Prophet declares that the earth was
+created in two days, and the mountains were then placed on it; and
+during these, and two additional days, the inhabitants of the earth were
+formed; and in two more the seven heavens.35 There is no more detail
+of circumstances; and the deluge, which is also mentioned, is discussed
+with equal brevity. The waters are represented to have poured
+out of an oven; a strange fable, said to be borrowed from the Persian
+Magi, who represented them as issuing from the oven of an old woman.36
+All men were drowned, save Noah and his family; and then God said,
+"O earth, swallow up thy waters; and thou, O heaven, withhold thy
+rain;" and immediately the waters abated.37
+We may suppose Omar to have represented the desertion of the land
+by the sea to have been gradual, and that his hypothesis required a
+greater lapse of ages than was consistent with Moslem orthodoxy; for
+it is to be inferred from the Koran, that man and this planet were created
+at the same time; and although Mahomet did not limit expressly
+the antiquity of the human race, yet he gave an implied sanction to the
+Mosaic chronology, by the veneration expressed by him for the Hebrew
+Patriarchs.38
+19A manuscript work, entitled the "Wonders of Nature," is preserved
+in the Royal Library at Paris, by an Arabian writer, Mohammed
+Kazwini, who flourished in the seventh century of the Hegira, or at
+the close of the thirteenth century of our era.39 Besides several curious
+remarks on aerolites, earthquakes, and the successive changes of position
+which the land and sea have undergone, we meet with the following
+beautiful passage which is given as the narrative of Kidhz, an allegorical
+personage:—"I passed one day by a very ancient and wonderfully
+populous city, and asked one of its inhabitants how long it had
+been founded. 'It is indeed a mighty city,' replied he; 'we know
+not how long it has existed, and our ancestors were on this subject
+as ignorant as ourselves.' Five centuries afterwards, as I passed by
+the same place, I could not perceive the slightest vestige of the city.
+I demanded of a peasant, who was gathering herbs upon its former
+site, how long it had been destroyed. 'In sooth a strange question!'
+replied he. 'The ground here has never been different from what you
+now behold it.'—'Was there not of old,' said I, 'a splendid city here?'—'Never,'
+answered he, 'so far as we have seen, and never did our
+fathers speak to us of any such.' On my return there 500 years afterwards,
+I found the sea in the same place, and on its shores were a party
+of fishermen, of whom I inquired how long the land had been covered
+by the waters? 'Is this a question,' said they, 'for a man like
+you? this spot has always been what it is now.' I again returned,
+500 years afterwards, and the sea had disappeared; I inquired of a
+man who stood alone upon the spot, how long ago this change had
+taken place, and he gave me the same answer as I had received before.
+Lastly, on coming back again after an equal lapse of time, I found
+there a flourishing city, more populous and more rich in beautiful buildings,
+than the city I had seen the first time, and when I would fain
+have informed myself concerning its origin, the inhabitants answered
+me, 'Its rise is lost in remote antiquity: we are ignorant how long it has
+existed, and our fathers were on this subject as ignorant as ourselves.'"
+Early Italian writers.—It was not till the earlier part of the sixteenth
+century that geological phenomena began to attract the attention
+of the Christian nations. At that period a very animated controversy
+sprang up in Italy, concerning the true nature and origin of marine
+shells, and other organized fossils, found abundantly in the strata of the
+peninsula. The celebrated painter Leonardo da Vinci, who in his youth
+had planned and executed some navigable canals in the north of Italy,
+was one of the first who applied sound reasoning to these subjects.
+The mud of rivers, he said, had covered and penetrated into the interior
+of fossil shells at a time when these were still at the bottom of the sea
+near the coast. "They tell us that these shells were formed in the
+20hills by the influence of the stars; but I ask where in the hills are the
+stars now forming shells of distinct ages and species? and how can the
+stars explain the origin of gravel, occurring at different heights and
+composed of pebbles rounded as if by the motion of running water; or
+in what manner can such a cause account for the petrifaction in the
+same places of various leaves, sea-weeds, and marine-crabs?"40
+The excavations made in 1517, for repairing the city of Verona,
+brought to light a multitude of curious petrifactions, and furnished
+matter for speculation to different authors, and among the rest to
+Fracastoro,41 who declared his opinion, that fossil shells had all belonged
+to living animals, which had formerly lived and multiplied where there
+exuviæ are now found. He exposed the absurdity of having recourse
+to a certain "plastic force," which it was said had power to fashion
+stones into organic forms; and with no less cogent arguments, demonstrated
+the futility of attributing the situation of the shells in question
+to the Mosaic deluge, a theory obstinately defended by some. That
+inundation, he observed, was too transient; it consisted principally of
+fluviatile waters; and if it had transported shells to great distances,
+must have strewed them over the surface, not buried them at vast
+depths in the interior of mountains. His clear exposition of the evidence
+would have terminated the discussion forever, if the passions of
+mankind had not been enlisted in the dispute; and even though doubts
+should for a time have remained in some minds, they would speedily
+have been removed by the fresh information obtained almost immediately
+afterwards, respecting the structure of fossil remains, and of
+their living analogues.
+But the clear and philosophical views of Fracastoro were disregarded,
+and the talent and argumentative powers of the learned were
+doomed for three centuries to be wasted in the discussion of these two
+simple and preliminary questions: first, whether fossil remains had
+ever belonged to living creatures; and, secondly, whether, if this be
+admitted, all the phenomena could not be explained by the deluge of
+Noah. It had been the general belief of the Christian world down to
+the period now under consideration, that the origin of this planet was
+not more remote than a few thousand years; and that since the creation
+the deluge was the only great catastrophe by which considerable
+change had been wrought on the earth's surface. On the other hand,
+the opinion was scarcely less general, that the final dissolution of our
+system was an event to be looked for at no distant period. The era, it
+is true, of the expected millennium had passed away; and for five
+hundred years after the fatal hour when the annihilation of the planet
+21had been looked for, the monks remained in undisturbed enjoyment of
+rich grants of land bequeathed to them by pious donors, who, in the
+preamble of deeds beginning "appropinquante mundi termino"——"appropinquante
+magno judicii die," left lasting monuments of the
+popular delusion.42
+But although in the sixteenth century it had become necessary to
+interpret certain prophecies respecting the millennium more liberally,
+and to assign a more distant date to the future conflagration of the
+world, we find, in the speculations of the early geologists, perpetual
+allusion to such an approaching catastrophe; while in all that regarded
+the antiquity of the earth, no modification whatever of the opinions of
+the dark ages had been effected. Considerable alarm was at first excited
+when the attempt was made to invalidate, by physical proofs, an
+article of faith so generally received; but there was sufficient spirit of
+toleration and candor amongst the Italian ecclesiastics, to allow the subject
+to be canvassed with much freedom. They even entered warmly
+into the controversy themselves, often favoring different sides of the
+question; and however much we may deplore the loss of time and labor
+devoted to the defence of untenable positions, it must be conceded that
+they displayed far less polemic bitterness than certain writers who followed
+them "beyond the Alps," two centuries and a half later.
+CONTROVERSY AS TO THE REAL NATURE OF FOSSIL ORGANIC REMAINS.
+Mattioli—Falloppio.—The system of scholastic disputations, encouraged
+in the universities of the middle ages, had unfortunately
+trained men to habits of indefinite argumentation; and they often preferred
+absurd and extravagant propositions, because greater skill was
+required to maintain them; the end and object of these intellectual
+combats being victory, and not truth. No theory could be so far-fetched
+or fantastical as not to attract some followers, provided it fell
+in with popular notions; and as cosmogonists were not at all restricted,
+in building their systems, to the agency of known causes, the opponents
+of Fracastoro met his arguments by feigning imaginary causes, which
+differed from each other rather in name than in substance. Andrea
+Mattioli, for instance, an eminent botanist, the illustrator of Dioscorides,
+embraced the notion of Agricola, a skilful German miner, that a certain
+"materia pinguis," or "fatty matter," set into fermentation by heat,
+gave birth to fossil organic shapes. Yet Mattioli had come to the conclusion,
+from his own observations, that porous bodies, such as bones
+and shells, might be converted into stone, as being permeable to what
+he termed the "lapidifying juice." In like manner, Falloppio of Padua
+conceived that petrified shells were generated by fermentation in the
+spots where they are found, or that they had in some cases acquired
+22their form from "the tumultuous movements of terrestrial exhalations."
+Although celebrated as a professor of anatomy, he taught that certain
+tusks of elephants, dug up in his time in Apulia, were mere earthy concretions;
+and, consistently with these principles, he even went so far as
+to consider it probable, that the vases of Monte Testaceo at Rome were
+natural impressions stamped in the soil.43 In the same spirit, Mercati,
+who published, in 1574, faithful figures of the fossil shells preserved by
+Pope Sixtus V. in the Museum of the Vatican, expressed an opinion that
+they were mere stones, which had assumed their peculiar configuration
+from the influence of the heavenly bodies; and Olivi of Cremona, who
+described the fossil remains of a rich museum at Verona, was satisfied
+with considering them as mere "sports of nature."
+Some of the fanciful notions of those times were deemed less unreasonable,
+as being somewhat in harmony with the Aristotelian theory
+of spontaneous generation, then taught in all the schools.44 For men
+who had been taught in early youth, that a large proportion of living
+animals and plants was formed from the fortuitous concourse of atoms,
+or had sprung from the corruption of organic matter, might easily persuade
+themselves that organic shapes, often imperfectly preserved in
+the interior of solid rocks, owed their existence to causes equally obscure
+and mysterious.
+Cardano, 1552.—But there were not wanting some who, during the
+progress of this century, expressed more sound and sober opinions. The
+title of a work of Cardano's, published in 1552, "De Subtilitate" (corresponding
+to what would now be called Transcendental Philosophy),
+would lead us to expect, in the chapter on minerals, many far-fetched
+theories characteristic of that age; but when treating of petrified shells,
+he decided that they clearly indicated the former sojourn of the sea
+upon the mountains.45
+Cesalpino—Majoli, 1597.—Cesalpino, a celebrated botanist, conceived
+that fossil shells had been left on the land by the retiring sea,
+and had concreted into stone during the consolidation of the soil;46 and
+in the following year (1597), Simeone Majoli47 went still farther; and,
+coinciding for the most part with the views of Cesalpino, suggested that
+the shells and submarine matter of the Veronese, and other districts,
+might have been cast up upon the land by volcanic explosions, like
+those which gave rise, in 1538, to Monte Nuovo, near Puzzuoli. This
+hint seems to have been the first imperfect attempt to connect the position
+of fossil shells with the agency of volcanoes, a system afterwards more
+fully developed by Hooke, Lazzaro Moro, Hutton, and other writers.
+Two years afterwards, Imperati advocated the animal origin of fossilized
+shells, yet admitted that stones could vegetate by force of "an
+internal principle;" and, as evidence of this, he referred to the teeth of
+fish and spines of echini found petrified.48
+23Palissy, 1580.—Palissy, a French writer on "The Origin of Springs
+from Rain-water," and of other scientific works, undertook, in 1580, to
+combat the notions of many of his contemporaries in Italy, that petrified
+shells had all been deposited by the universal deluge. "He was the
+first," said Fontenelle, when, in the French Academy, he pronounced
+his eulogy, nearly a century and a half later, "who dared assert," in
+Paris, that fossil remains of testacea and fish had once belonged to marine
+animals.
+Fabio Colonna.—To enumerate the multitude of Italian writers, who
+advanced various hypotheses, all equally fantastical, in the early part of
+the seventeenth century, would be unprofitably tedious; but Fabio Colonna
+deserves to be distinguished; for, although he gave way to the
+dogma, that all fossil remains were to be referred to the deluge of Noah,
+he resisted the absurd theory of Stelluti, who taught that fossil wood
+and ammonites were mere clay, altered into such forms by sulphureous
+waters and subterranean heat; and he pointed out the different states
+of shells buried in the strata, distinguishing between, first, the mere
+mould or impression; second, the cast or nucleus; and, thirdly, the
+remains of the shell itself. He had also the merit of being the first to
+point out that some of the fossils had belonged to marine and some to
+terrestrial testacea.49
+Steno, 1669.—But the most remarkable work of that period was
+published by Steno, a Dane, once professor of anatomy at Padua, and
+who afterwards resided many years at the court of the Grand Duke of
+Tuscany. His treatise bears the quaint title of "De Solido intra Solidum
+naturaltier contento (1669)," by which the author intended to
+express, "On Gems, Crystals, and organic Petrifactions inclosed within
+solid Rocks." This work attests the priority of the Italian school in
+geological research; exemplifying at the same time the powerful obstacles
+opposed, in that age, to the general reception of enlarged views in
+the science. It was still a favorite dogma, that the fossil remains of
+shells and marine creatures were not of animal origin; an opinion adhered
+to by many from their extreme reluctance to believe, that the
+earth could have been inhabited by living beings before a great part of
+the existing mountains were formed. In reference to this controversy,
+Steno had dissected a shark recently taken from the Mediterranean, and
+had demonstrated that its teeth and bones were identical with many
+fossils found in Tuscany. He had also compared the shells discovered
+in the Italian strata with living species, pointed out their resemblance,
+and traced the various gradations from shells merely calcined, or which
+had only lost their animal gluten, to those petrifactions in which there
+was a perfect substitution of stony matter. In his division of mineral
+masses, he insisted on the secondary origin of those deposits in which
+the spoils of animals or fragments of older rocks were inclosed. He
+distinguished between marine formations and those of a fluviatile character,
+24the last containing reeds, grasses, or the trunks and branches of
+trees. He argued in favor of the original horizontality of sedimentary
+deposits, attributing their present inclined and vertical position sometimes
+to the escape of subterranean vapors heaving the crust of the
+earth from below upwards, and sometimes to the falling in of masses
+overlying subterranean cavities.
+He declared that he had obtained proof that Tuscany must successively
+have acquired six distinct configurations, having been twice covered
+by water, twice laid dry with a level, and twice with an irregular
+and uneven surface.50 He displayed great anxiety to reconcile his new
+views with Scripture, for which purpose he pointed to certain rocks as
+having been formed before the existence of animals and plants: selecting
+unfortunately as examples certain formations of limestone and sandstone
+in his own country, now known to contain, though sparingly, the
+remains of animals and plants,—strata which do not even rank as the
+oldest part of our secondary series. Steno suggested that Moses, when
+speaking of the loftiest mountains as having been covered by the deluge,
+meant merely the loftiest of the hills then existing, which may not have
+been very high. The diluvian waters, he supposed, may have issued
+from the interior of the earth into which they had retired, when in the
+beginning the land was separated from the sea. These, and other
+hypotheses on the same subject, are not calculated to enhance the value
+of the treatise, and could scarcely fail to detract from the authority of
+those opinions which were sound and legitimate deductions from fact
+and observation. They have served, nevertheless, as the germs of many
+popular theories of later times, and in an expanded form have been put
+forth as original inventions by some of our contemporaries.
+Scilla, 1670.—Scilla, a Sicilian painter, published, in 1670, a treatise,
+in Latin, on the fossils of Calabria, illustrated by good engravings.
+This work proves the continued ascendancy of dogmas often refuted;
+for we find the wit and eloquence of the author chiefly directed against
+the obstinate incredulity of naturalists as to the organic nature of fossil
+shells.51 Like many eminent naturalists of his day, Scilla gave way to the
+popular persuasion, that all fossil shells were the effects and proofs of the
+Mosaic deluge. It may be doubted whether he was perfectly sincere,
+and some of his contemporaries who took the same course were certainly
+not so. But so eager were they to root out what they justly considered
+an absurd prejudice respecting the nature of organized fossils, that they
+seem to have been ready to make any concessions, in order to establish
+this preliminary point. Such a compromising policy was short-sighted,
+since it was to little purpose that the nature of the documents should at
+25length be correctly understood, if men were to be prevented from deducing
+fair conclusions from them.
+Diluvial Theory.—The theologians who now entered the field in
+Italy, Germany, France, and England, were innumerable; and henceforward,
+they who refused to subscribe to the position, that all marine
+organic remains were proofs of the Mosaic deluge, were exposed to the
+imputation of disbelieving the whole of the sacred writings. Scarcely
+any step had been made in approximating to sound theories since the
+time of Fracastoro, more than a hundred years having been lost, in
+writing down the dogma that organized fossils were mere sports of
+nature. An additional period of a century and a half was now destined
+to be consumed in exploding the hypothesis, that organized fossils had
+all been buried in the solid strata by Noah's flood. Never did a theoretical
+fallacy, in any branch of science, interfere more seriously with
+accurate observation and the systematic classification of facts. In recent
+times, we may attribute our rapid progress chiefly to the careful
+determination of the order of succession in mineral masses, by means of
+their different organic contents, and their regular superposition. But
+the old diluvialists were induced by their system to confound all the
+groups of strata together instead of discriminating,—to refer all appearances
+to one cause and to one brief period, not to a variety of causes
+acting throughout a long succession of epochs. They saw the phenomena
+only as they desired to see them, sometimes misrepresenting facts,
+and at other times deducing false conclusions from correct data. Under
+the influence of such prejudices, three centuries were of as little avail as
+a few years in our own times, when we are no longer required to propel
+the vessel against the force of an adverse current.
+It may be well, therefore, to forewarn the reader, that in tracing the
+history of geology from the close of the seventeenth to the end of the
+eighteenth century, he must expect to be occupied with accounts of the
+retardation, as well as of the advance, of the science. It will be necessary
+to point out the frequent revival of exploded errors, and the relapse
+from sound to the most absurd opinions; and to dwell on futile
+reasoning and visionary hypothesis, because some of the most extravagant
+systems were invented or controverted by men of acknowledged
+talent. In short, a sketch of the progress of geology is the history of
+a constant and violent struggle of new opinions against doctrines sanctioned
+by the implicit faith of many generations, and supposed to rest
+on scriptural authority. The inquiry, therefore, although highly interesting
+to one who studies the philosophy of the human mind, is too
+often barren of instruction to him who searches for truths in physical
+science.
+Quirini, 1676.—Quirini, in 1676,52 contended, in opposition to Scilla,
+that the diluvian waters could not have conveyed heavy bodies to the
+summit of mountains, since the agitation of the sea never (as Boyle had
+26demonstrated) extended to great depths;53 and still less could the testacea,
+as some pretended, have lived in these diluvian waters; for "the
+duration of the flood was brief, and the heavy rains must have destroyed
+the saltness of the sea!" He was the first writer who ventured to maintain
+that the universality of the Mosaic cataclysm ought not to be insisted
+upon. As to the nature of petrified shells, he conceived that as
+earthy particles united in the sea to form the shells of mollusca, the
+same crystallizing process might be effected on the land; and that, in
+the latter case, the germs of the animals might have been disseminated
+through the substance of the rocks, and afterwards developed by virtue
+of humidity. Visionary as was this doctrine, it gained many proselytes
+even amongst the more sober reasoners of Italy and Germany; for it
+conceded that the position of fossil bodies could not be accounted for by
+the diluvial theory.
+Plot—Lister, 1678.—In the mean time, the doctrine that fossil shells
+had never belonged to real animals maintained its ground in England,
+where the agitation of the question began at a much later period. Dr.
+Plot, in his "Natural History of Oxfordshire" (1677), attributed to a
+"plastic virtue latent in the earth" the origin of fossil shells and fishes;
+and Lister, to his accurate account of British shells, in 1678, added the
+fossil species, under the appellation of turbinated and bivalve stones.
+"Either," said he, "these were terriginous, or, if otherwise, the animals
+they so exactly represent have become extinct." This writer appears to
+have been the first who was aware of the continuity over large districts
+of the principal groups of strata in the British series, and who proposed
+the construction of regular geological maps.54
+Leibnitz, 1680.—The great mathematician Leibnitz published his
+"Protogœa" in 1680. He imagined this planet to have been originally
+a burning luminous mass, which ever since its creation has been undergoing
+refrigeration. When the outer crust had cooled down sufficiently
+to allow the vapors to be condensed, they fell, and formed a universal
+ocean, covering the loftiest mountains, and investing the whole globe.
+The crust, as it consolidated from a state of fusion, assumed a vesicular
+and cavernous structure; and being rent in some places, allowed the
+water to rush into the subterranean hollows, whereby the level of the
+primeval ocean was lowered. The breaking in of these vast caverns is
+supposed to have given rise to the dislocated and deranged position of
+the strata "which Steno had described," and the same disruptions communicated
+27
+violent movements to the incumbent waters, whence great
+inundations ensued. The waters, after they had been thus agitated,
+deposited their sedimentary matter during intervals of quiescence, and
+hence the various stony and earthy strata. "We may recognize, therefore,"
+says Leibnitz, "a double origin of primitive masses, the one by
+refrigeration from igneous fusion, the other by concretion from aqueous
+solution."55 By the repetition of similar causes (the disruption of the
+crust and consequent floods), alternations of new strata were produced,
+until at length these causes were reduced to a condition of quiescent
+equilibrium, and a more permanent state of things was established.56
+Hooke, 1688.—The "Posthumous Works of Robert Hooke, M. D.,"
+well known as a great mathematician and natural philosopher, appeared
+in 1705, containing "A Discourse of Earthquakes," which, we are informed
+by his editor, was written in 1668, but revised at subsequent
+periods.57 Hooke frequently refers to the best Italian and English
+authors who wrote before his time on geological subjects; but there
+are no passages in his works implying that he participated in the enlarged
+views of Steno and Lister, or of his contemporary, Woodward,
+in regard to the geographical extent of certain groups of strata. His
+treatise, however, is the most philosophical production of that age, in
+regard to the causes of former changes in the organic and inorganic
+kingdoms of nature.
+"However trivial a thing," he says, "a rotten shell may appear to
+some, yet these monuments of nature are more certain tokens of antiquity
+than coins or medals, since the best of those may be counterfeited
+or made by art and design, as may also books, manuscripts, and
+inscriptions, as all the learned are now sufficiently satisfied has often
+been actually practised," &c.; "and though it must be granted that it
+is very difficult to read them (the records of nature) and to raise a
+chronology out of them, and to state the intervals of the time wherein
+such or such catastrophes and mutations have happened, yet it is not
+impossible."58
+Respecting the extinction of species, Hooke was aware that the
+fossil ammonites, nautili, and many other shells and fossil skeletons
+found in England, were of different species from any then known; but
+he doubted whether the species had become extinct, observing that the
+knowledge of naturalists of all the marine species, especially those inhabiting
+the deep sea, was very deficient. In some parts of his writings,
+28
+however, he leans to the opinion that species had been lost; and in
+speculating on this subject, he even suggests that there might be some
+connection between the disappearance of certain kinds of animals and
+plants, and the changes wrought by earthquakes in former ages. Some
+species, he observes, with great sagacity, are "peculiar to certain places,
+and not to be found elsewhere. If, then, such a place had been swallowed
+up, it is not improbable but that those animate beings may have
+been destroyed with it; and this may be true both of aerial and aquatic
+animals; for those animated bodies, whether vegetables or animals,
+which were naturally nourished or refreshed by the air, would be destroyed
+by the water," &c.59 Turtles, he adds, and such large ammonites
+as are found in Portland, seem to have been the productions of
+hotter countries; and it is necessary to suppose that England once lay
+under the sea within the torrid zone! To explain this and similar phenomena,
+he indulges in a variety of speculations concerning changes in
+the position of the axis of the earth's rotation, "a shifting of the earth's
+centre of gravity, analogous to the revolutions of the magnetic pole,"
+&c. None of these conjectures, however, are proposed dogmatically,
+but rather in the hope of promoting fresh inquiries and experiments.
+In opposition to the prejudices of his age, we find him arguing
+against the idea that nature had formed fossil bodies "for no other end
+than to play the mimic in the mineral kingdom;"—maintaining that
+figured stones were "really the several bodies they represent, or the
+mouldings of them petrified," and not, as some have imagined, 'a lusus
+naturæ,' sporting herself in the needless formation of useless beings."60
+It was objected to Hooke, that his doctrine of the extinction of
+species derogated from the wisdom and power of the omnipotent Creator;
+but he answered, that, as individuals die, there may be some termination
+to the duration of a species; and his opinions, he declared,
+were not repugnant to Holy Writ: for the Scriptures taught that our
+system was degenerating, and tending to its final dissolution; "and as,
+when that shall happen, all the species will be lost, why not some at
+one time and some at another?"61
+But his principal object was to account for the manner in which shells
+29
+had been conveyed into the higher parts of "the Alps, Apennines, and
+Pyrenean hills, and the interior of continents in general." These and
+other appearances, he said, might have been brought about by earthquakes,
+"which have turned plains into mountains, and mountains into
+plains, seas into land, and land into seas, made rivers where there were
+none before, and swallowed up others that formerly were, &c., &c.; and
+which, since the creation of the world, have wrought many great changes
+on the superficial parts of the earth, and have been the instruments of
+placing shells, bones, plants, fishes, and the like, in those places where,
+with much astonishment, we find them."62 This doctrine, it is true, had
+been laid down in terms almost equally explicit by Strabo, to explain
+the occurrence of fossil shells in the interior of continents, and to that
+geographer, and other writers of antiquity, Hooke frequently refers; but
+the revival and development of the system was an important step in the
+progress of modern science.
+Hooke enumerated all the examples known to him of subterranean
+disturbance, from "the sad catastrophe of Sodom and Gomorrah," down
+to the Chilian earthquake of 1646. The elevating of the bottom of the
+sea, the sinking and submersion of the land, and most of the inequalities
+of the earth's surface, might, he said, be accounted for by the agency
+of these subterranean causes. He mentions that the coast near Naples
+was raised during the eruption of Monte Nuovo; and that, in 1591, land
+rose in the island of St. Michael, during an eruption: and although it
+would be more difficult, he says, to prove, he does not doubt but that
+there had been as many earthquakes in the parts of the earth under the
+ocean, as in the parts of the dry land; in confirmation of which, he
+mentions the immeasurable depth of the sea near some volcanoes. To
+attest the extent of simultaneous subterranean movements, he refers to
+an earthquake in the West Indies, in the year 1690, where the space of
+earth raised, or "struck upwards," by the shock, exceeded, he affirms,
+the length of the Alps and Pyrenees.
+Hooke's diluvial Theory.—As Hooke declared the favorite hypothesis
+of the day, "that marine fossil bodies were to be referred to Noah's
+flood," to be wholly untenable, he appears to have felt himself called
+upon to substitute a diluvial theory of his own, and thus he became involved
+in countless difficulties and contradictions. "During the great
+catastrophe," he said, "there might have been a changing of that part
+which was before dry land into sea by sinking, and of that which was
+sea into dry land by raising, and marine bodies might have been buried
+in sediment beneath the ocean, in the interval between the creation and
+the deluge."63 Then follows a disquisition on the separation of the land
+from the waters, mentioned in Genesis; during which operation some
+places of the shell of the earth were forced outwards, and others pressed
+downwards or inwards, &c. His diluvial hypothesis very much resembled
+that of Steno, and was entirely opposed to the fundamental
+30
+principles professed by him, that he would explain the former changes
+of the earth in a more natural manner than others had done. When,
+in despite of this declaration, he required a former "crisis of nature,"
+and taught that earthquakes had become debilitated, and that the Alps,
+Andes, and other chains, had been lifted up in a few months, he was
+compelled to assume so rapid a rate of change, that his machinery appeared
+scarcely less extravagant than that of his most fanciful predecessors.
+For this reason, perhaps, his whole theory of earthquakes met
+with undeserved neglect.
+Ray, 1692.—One of his contemporaries, the celebrated naturalist,
+Ray, participated in the same desire to explain geological phenomena
+by reference to causes less hypothetical than those usually resorted to.64
+In his essay on "Chaos and Creation," he proposed a system, agreeing
+in its outline, and in many of its details, with that of Hooke; but his
+knowledge of natural history enabled him to elucidate the subject with
+various original observations. Earthquakes, he suggested, might have
+been the second causes employed at the creation, in separating the land
+from the waters, and in gathering the waters together into one place.
+He mentions, like Hooke, the earthquake of 1646, which had violently
+shaken the Andes for some hundreds of leagues, and made many alterations
+therein. In assigning a cause for the general deluge, he preferred
+a change in the earth's centre of gravity to the introduction of earthquakes.
+Some unknown cause, he said, might have forced the subterranean
+waters outwards, as was, perhaps, indicated by "the breaking
+up of the fountains of the great deep."
+Ray was one of the first of our writers who enlarged upon the effects
+of running water upon the land, and of the encroachment of the sea
+upon the shores. So important did he consider the agency of these
+causes, that he saw in them an indication of the tendency of our system
+to its final dissolution; and he wondered why the earth did not proceed
+more rapidly towards a general submersion beneath the sea, when so
+much matter was carried down by rivers, or undermined in the sea-cliffs.
+We perceive clearly from his writings, that the gradual decline of our
+system, and its future consummation by fire, was held to be as necessary
+an article of faith by the orthodox, as was the recent origin of our planet.
+His discourses, like those of Hooke, are highly interesting, as attesting
+the familiar association in the minds of philosophers, in the age of Newton,
+of questions in physics and divinity. Ray gave an unequivocal proof
+of the sincerity of his mind, by sacrificing his preferment in the church,
+rather than take an oath against the Covenanters, which he could not
+reconcile with his conscience. His reputation, moreover, in the scientific
+world placed him high above the temptation of courting popularity, by
+pandering to the physico-theological taste of his age. It is, therefore,
+31
+curious to meet with so many citations from the Christian fathers and
+prophets in his essays on physical science—to find him in one page proceeding,
+by the strict rules of induction, to explain the former changes
+of the globe, and in the next gravely entertaining the question, whether
+the sun and stars, and the whole heavens, shall be annihilated, together
+with the earth, at the era of the grand conflagration.
+Woodward, 1695.—Among the contemporaries of Hooke and Ray,
+Woodward, a professor of medicine, had acquired the most extensive
+information respecting the geological structure of the crust of the earth.
+He had examined many parts of the British strata with minute attention;
+and his systematic collection of specimens, bequeathed to the
+University of Cambridge, and still preserved there as arranged by him,
+shows how far he had advanced in ascertaining the order of superposition.
+From the great number of facts collected by him, we might have
+expected his theoretical views to be more sound and enlarged than
+those of his contemporaries; but in his anxiety to accommodate all observed
+phenomena to the scriptural account of the Creation and Deluge,
+he arrived at most erroneous results. He conceived "the whole terrestrial
+globe to have been taken to pieces and dissolved at the flood, and
+the strata to have settled down from this promiscuous mass as any earthy
+sediment from a fluid."65 In corroboration of these views he insisted
+upon the fact, that "marine bodies are lodged in the strata according
+to the order of their gravity, the heavier shells in stone, the lighter in
+chalk, and so of the rest."66 Ray immediately exposed the unfounded
+nature of this assertion, remarking truly that fossil bodies "are often
+mingled, heavy with light, in the same stratum;" and he even went so
+far as to say, that Woodward "must have invented the phenomena for
+the sake of confirming his bold and strange hypothesis"67—a strong expression
+from the pen of a contemporary.
+Burnet, 1690.—At the same time Burnet published his "Theory of
+the Earth."68 The title is most characteristic of the age,—"The Sacred
+Theory of the Earth; containing an Account of the Original of the
+Earth, and of all the general Changes which it hath already undergone,
+or is to undergo, till the Consummation of all Things." Even Milton
+had scarcely ventured in his poem to indulge his imagination so freely
+in painting scenes of the Creation and Deluge, Paradise and Chaos.
+He explained why the primeval earth enjoyed a perpetual spring before
+the flood! showed how the crust of the globe was fissured by "the
+sun's rays," so that it burst, and thus the diluvial waters were let loose
+from a supposed central abyss. Not satisfied with these themes, he
+derived from the books of the inspired writers, and even from heathen
+authorities, prophetic views of the future revolutions of the globe, gave
+a most terrific description of the general conflagration, and proved that
+32
+a new heaven and a new earth will rise out of a second chaos—after
+which will follow the blessed millennium.
+The reader should be informed, that, according to the opinion of many
+respectable writers of that age, there was good scriptural ground for
+presuming that the garden bestowed upon our first parents was not on
+the earth itself, but above the clouds, in the middle region between our
+planet and the moon. Burnet approaches with becoming gravity the
+discussion of so important a topic. He was willing to concede that the
+geographical position of Paradise was not in Mesopotamia, yet he maintained
+that it was upon the earth, and in the southern hemisphere, near the
+equinoctial line. Butler selected this conceit as a fair mark for his satire,
+when, amongst the numerous accomplishments of Hudibras, he says,—
+
+"He knew the seat of Paradise,
+Could tell in what degree it lies;
+And, as he was disposed, could prove it
+Below the moon, or else above it."
+
+Yet the same monarch, who is said never to have slept without Butler's
+poem under his pillow, was so great an admirer and patron of Burnet's
+book, that he ordered it to be translated from the Latin into English.
+The style of the "Sacred Theory" was eloquent, and the book displayed
+powers of invention of no ordinary stamp. It was, in fact, a
+fine historical romance, as Buffon afterwards declared; but it was
+treated as a work of profound science in the time of its author, and was
+panegyrized by Addison in a Latin ode, while Steele praised it in the
+"Spectator."
+Whiston, 1696.—Another production of the same school, and equally
+characteristic of the time, was that of Whiston, entitled, "A New
+Theory of the Earth; wherein the Creation of the world in Six Days,
+the Universal Deluge, and the General Conflagration, as laid down in
+the Holy Scriptures, are shown to be perfectly agreeable to Reason and
+Philosophy." He was at first a follower of Burnet; but his faith in
+the infallibility of that writer was shaken by the declared opinion of
+Newton, that there was every presumption in astronomy against any
+former change in the inclination of the earth's axis. This was a leading
+dogma in Burnet's system, though not original, for it was borrowed
+from an Italian, Alessandro degli Alessandri, who had suggested it in
+the beginning of the fifteenth century, to account for the former occupation
+of the present continents by the sea. La Place has since strengthened
+the arguments of Newton, against the probability of any former
+revolution of this kind.
+The remarkable comet of 1680 was fresh in the memory of every
+one when Whiston first began his cosmological studies; and the principal
+novelty of his speculations consisted in attributing the deluge to the
+near approach to the earth of one of these erratic bodies. Having
+ascribed an increase of the waters to this source, he adopted Woodward's
+33
+theory, supposing all stratified deposits to have resulted from
+the "chaotic sediment of the flood." Whiston was one of the first who
+ventured to propose that the text of Genesis should be interpreted differently
+from its ordinary acceptation, so that the doctrine of the earth
+having existed long previous to the creation of man might no longer be
+regarded as unorthodox. He had the art to throw an air of plausibility
+over the most improbable parts of his theory, and seemed to be proceeding
+in the most sober manner, and, by the aid of mathematical demonstration,
+to the establishment of his various propositions. Locke
+pronounced a panegyric on his theory, commending him for having explained
+so many wonderful and before inexplicable things. His book,
+as well as Burnet's, was attacked and refuted by Keill.69 Like all who
+introduced purely hypothetical causes to account for natural phenomena,
+Whiston retarded the progress of truth, diverting men from the
+investigation of the laws of sublunary nature, and inducing them to
+waste time in speculations on the power of comets to drag the waters
+of the ocean over the land—on the condensation of the vapors of their
+tails into water, and other matters equally edifying.
+Hutchinson, 1724.—John Hutchinson, who had been employed by
+Woodward in making his collection of fossils, published afterwards, in
+1724, the first part of his "Moses's Principia," wherein he ridiculed
+Woodward's hypothesis. He and his numerous followers were accustomed
+to declaim loudly against human learning; and they maintained
+that the Hebrew Scriptures, when rightly translated, comprised a perfect
+system of natural philosophy, for which reason they objected to the
+Newtonian theory of gravitation.
+Celsius.—Andrea Celsius, the Swedish astronomer, published about
+this time his remarks on the gradual diminution and sinking of the
+waters in the Baltic, to which I shall have occasion to advert more particularly
+in the sequel (ch. 29).
+Scheuchzer, 1708.—In Germany, in the mean time, Scheuchzer published
+his "Complaint and Vindication of the Fishes" (1708), "Piscium
+Querelæ et Vindiciæ," a work of zoological merit, in which he gave
+some good plates and descriptions of fossil fish. Among other conclusions
+he labored to prove that the earth had been remodelled at the
+deluge. Pluche, also, in 1732, wrote to the same effect; while Holbach,
+in 1753, after considering the various attempts to refer all the ancient
+formations to the flood of Noah, exposed the inadequacy of this
+cause.
+Italian Geologists—Vallisneri.—I return with pleasure to the geologists
+of Italy, who preceded, as has been already shown, the naturalists
+of other countries in their investigations into the ancient history of
+the earth, and who still maintained a decided pre-eminence. They refuted
+and ridiculed the physico-theological systems of Burnet, Whiston,
+34
+and Woodward;70 while Vallisneri,71 in his comments on the Woodwardian
+theory, remarked how much the interests of religion, as well as those
+of sound philosophy, had suffered by perpetually mixing up the sacred
+writings with questions in physical science. The works of this author
+were rich in original observations. He attempted the first general
+sketch of the marine deposits of Italy, their geographical extent, and
+most characteristic organic remains. In his treatise "On the Origin of
+Springs," he explained their dependence on the order, and often on the
+dislocations, of the strata, and reasoned philosophically against the
+opinions of those who regarded the disordered state of the earth's crust
+as exhibiting signs of the wrath of God for the sins of man. He found
+himself under the necessity of contending, in his preliminary chapter,
+against St. Jerome, and four other principal interpreters of Scripture,
+besides several professors of divinity, "that springs did not flow by subterranean
+siphons and cavities from the sea upwards, losing their saltness
+in the passage," for this theory had been made to rest on the infallible
+testimony of Holy Writ.
+Although reluctant to generalize on the rich materials accumulated
+in his travels, Vallisneri had been so much struck with the remarkable
+continuity of the more recent marine strata, from one end of Italy to the
+other, that he came to the conclusion that the ocean formerly extended
+over the whole earth, and after abiding there for a long time, had gradually
+subsided. This opinion, however untenable, was a great step beyond
+Woodward's diluvian hypothesis, against which Vallisneri, and
+after him all the Tuscan geologists, uniformly contended, while it was
+warmly supported by the members of the Institute of Bologna.72
+Among others of that day, Spada, a priest of Grezzana, in 1737,
+wrote to prove that the petrified marine bodies near Verona were not
+diluvian.73 Mattani drew a similar inference from the shells of Volterra
+and other places; while Costantini, on the other hand, whose observations
+on the valley of the Brenta and other districts were not without
+value, undertook to vindicate the truth of the deluge, as also to prove
+that Italy had been peopled by the descendants of Japhet.74
+Moro, 1740.—Lazzaro Moro, in his work (published in 1740) "On the
+Marine Bodies which are found in the Mountains,"75 attempted to apply
+the theory of earthquakes, as expounded by Strabo, Pliny, and
+other ancient authors, with whom he was familiar, to the geological
+phenomena described by Vallisneri.76 His attention was awakened to
+35
+the elevating power of subterranean forces by a remarkable phenomenon
+which happened in his own time, and which had also been noticed by
+Vallisneri in his letters. A new island rose in 1707 from deep water in
+the Gulf of Santorin, in the Mediterranean, during continued shocks of
+an earthquake, and, increasing rapidly in size, grew in less than a month
+to be half a mile in circumference, and about twenty-five feet above
+high-water mark. It was soon afterwards covered by volcanic ejections,
+but, when first examined, it was found to be a white rock, bearing on
+its surface living oysters and crustacea. In order to ridicule the various
+theories then in vogue, Moro ingeniously supposes the arrival on
+this new island of a party of naturalists ignorant of its recent origin.
+One immediately points to the marine shells, as proofs of the universal
+deluge; another argues that they demonstrate the former residence of
+the sea upon the mountains; a third dismisses them as mere sports of
+nature; while a fourth affirms that they were born and nourished
+within the rock in ancient caverns, into which salt water had been raised
+in the shape of vapor by the action of subterranean heat.
+Moro pointed with great judgment to the faults and dislocations of
+the strata described by Vallisneri, in the Alps and other chains, in confirmation
+of his doctrine, that the continents had been heaved up by
+subterranean movements. He objected, on solid grounds, to the hypothesis
+of Burnet and of Woodward; yet he ventured so far to disregard
+the protest of Vallisneri, as to undertake the adaptation of every part of
+his own system to the Mosaic account of the creation. On the third
+day, he said, the globe was everywhere covered to the same depth by
+fresh water; and when it pleased the Supreme Being that the dry land
+should appear, volcanic explosions broke up the smooth and regular
+surface of the earth composed of primary rocks. These rose in mountain
+masses above the waves, and allowed melted metals and salts to
+ascend through fissures. The sea gradually acquired its saltness from
+volcanic exhalations, and, while it became more circumscribed in area,
+increased in depth. Sand and ashes ejected by volcanoes were regularly
+disposed along the bottom of the ocean, and formed the secondary
+strata, which in their turn were lifted up by earthquakes. We need
+not follow this author in tracing the progress of the creation of vegetables
+and animals on the other days of creation; but, upon the whole, it
+may be remarked, that few of the old cosmological theories had been
+conceived with so little violation of known analogies.
+Generelli's illustrations of Moro, 1749.—The style of Moro was extremely
+prolix, and, like Hutton, who, at a later period, advanced many
+of the same views, he stood in need of an illustrator. The Scotch geologist
+was hardly more fortunate in the advocacy of Playfair, than was
+Moro in numbering amongst his admirers Cirillo Generelli, who, nine
+36
+years afterwards, delivered at a sitting of Academicians at Cremona a
+spirited exposition of his theory. This learned Carmelitan friar does not
+pretend to have been an original observer, but he had studied sufficiently
+to enable him to confirm the opinions of Moro by arguments from other
+writers; and his selection of the doctrines then best established is so
+judicious, that a brief abstract of them cannot fail to be acceptable, as
+illustrating the state of geology in Europe, and in Italy in particular,
+before the middle of the last century.
+The bowels of the earth, says he, have carefully preserved the memorials
+of past events, and this truth the marine productions so frequent
+in the hills attest. From the reflections of Lazzaro Moro, we may assure
+ourselves that these are the effects of earthquakes in past times,
+which have changed vast spaces of sea into terra firma, and inhabited
+lands into seas. In this, more than in any other department of physics,
+are observations and experiments indispensable, and we must diligently
+consider facts. The land is known, wherever we make excavations, to
+be composed of different strata or soils placed one above the other, some
+of sand, some of rock, some of chalk, others of marl, coal, pummice,
+gypsum, lime, and the rest. These ingredients are sometimes pure, and
+sometimes confusedly intermixed. Within are often imprisoned different
+marine fishes, like dried mummies, and more frequently shells, crustacea,
+corals, plants, &c., not only in Italy, but in France, Germany,
+England, Africa, Asia, and America;—sometimes in the lowest, sometimes
+in the loftiest beds of the earth, some upon the mountains, some
+in deep mines, others near the sea, and others hundreds of miles distant
+from it. Woodward conjectured that these marine bodies might be
+found everywhere; but there are rocks in which none of them occur,
+as is sufficiently attested by Vallisneri and Marsilli. The remains of
+fossil animals consist chiefly of their more solid parts, and the most
+rocky strata must have been soft when such exuviæ were inclosed in
+them. Vegetable productions are found in different states of maturity,
+indicating that they were imbedded in different seasons. Elephants,
+elks, and other terrestrial quadrupeds, have been found in England and
+elsewhere, in superficial strata, never covered by the sea. Alternations
+are rare, yet not without example, of marine strata, with those which
+contain marshy and terrestrial productions. Marine animals are arranged
+in the subterraneous beds with admirable order, in distinct
+groups, oysters here, dentalia or corals there, &c., as now, according to
+Marsilli,77 on the shores of the Adriatic. We must abandon the doctrine,
+once so popular, which denies that organized fossils were derived
+from living beings, and we cannot account for their present position by
+the ancient theory of Strabo, nor by that of Leibnitz, nor by the universal
+deluge, as explained by Woodward and others; "nor is it reasonable
+to call the Deity capriciously upon the stage, and to make him
+work miracles for the sake of confirming our preconceived
+37
+hypothesis."—"I hold in utter abomination, most learned Academicians! those
+systems which are built with their foundations in the air, and cannot be
+propped up without a miracle; and I undertake, with the assistance of
+Moro, to explain to you how these marine animals were transported
+into the mountains by natural causes."78
+A brief abstract then follows of Moro's theory, by which, says Generelli,
+we may explain all the phenomena, as Vallisneri so ardently desired,
+"without violence, without fictions, without hypothesis, without
+miracles."79 The Carmelitan then proceeds to struggle against an obvious
+objection to Moro's system, considered as a method of explaining
+the revolutions of the earth, naturally. If earthquakes have been the
+agents of such mighty changes, how does it happen that their effects
+since the times of history have been so inconsiderable? This same difficulty
+had, as we have seen, presented itself to Hooke, half a century
+before, and forced him to resort to a former "crisis of nature:" but
+Generelli defended his position by showing how numerous were the
+accounts of eruptions and earthquakes, of new islands, and of elevations
+and subsidences of land, and yet how much greater a number of
+like events must have been unattested and unrecorded during the last
+six thousand years. He also appealed to Vallisneri as an authority to
+prove that the mineral masses containing shells, bore, upon the whole,
+but a small proportion to those rocks which were destitute of organic
+remains; and the latter, says the learned monk, might have been created
+as they now exist, in the beginning.
+Generelli then describes the continual waste of mountains and continents,
+by the action of rivers and torrents, and concludes with these
+eloquent and original observations:—"Is it possible that this waste
+should have continued for six thousand, and perhaps a greater number
+of years, and that the mountains should remain so great, unless their
+ruins have been repaired? Is it credible that the Author of Nature
+should have founded the world upon such laws, as that the dry land
+should forever be growing smaller, and at last become wholly submerged
+beneath the waters? Is it credible that, amid so many created
+things, the mountains alone should daily diminish in number and bulk,
+without there being any repair of their losses? This would be contrary
+to that order of Providence which is seen to reign in all other things in
+the universe. Wherefore I deem it just to conclude, that the same
+cause which, in the beginning of time, raised mountains from the abyss,
+has down to the present day continued to produce others, in order to
+restore from time to time the losses of all such as sink down in different
+places, or are rent asunder, or in other way suffer disintegration. If
+this be admitted, we can easily understand why there should now be
+38
+found upon many mountains so great a number of crustacea and other
+marine animals."
+In the above extract, I have not merely enumerated the opinions and
+facts which are confirmed by recent observation, suppressing all that
+has since proved to be erroneous, but have given a faithful abridgment
+of the entire treatise, with the omission only of Moro's hypothesis, which
+Generelli adopted, with all its faults and excellences. The reader will
+therefore remark, that although this admirable essay embraces so large
+a portion of the principal objects of geological research, it makes no
+allusion to the extinction of certain classes of animals; and it is evident
+that no opinions on this head had, at that time, gained a firm footing in
+Italy. That Lister and other English naturalists should long before
+have declared in favor of the loss of species, while Scilla and most of
+his countrymen hesitated, was perhaps natural, since the Italian museums
+were filled with fossil shells belonging to species of which a great
+portion did actually exist in the Mediterranean; whereas the English
+collectors could obtain no recent species from such of their own strata
+as were then explored.
+The weakest point in Moro's system consisted in deriving all the stratified
+rocks from volcanic ejections; an absurdity which his opponents
+took care to expose, especially Vito Amici.80 Moro seems to have been
+misled by his anxious desire to represent the formation of secondary
+rocks as having occupied an extremely short period, while at the same
+time he wished to employ known agents in nature. To imagine torrents,
+rivers, currents, partial floods, and all the operations of moving
+water, to have gone on exerting an energy many thousand times greater
+than at present, would have appeared preposterous and incredible, and
+would have required a hundred violent hypotheses; but we are so unacquainted
+with the true sources of subterranean disturbances, that their
+former violence may in theory be multiplied indefinitely, without its
+being possible to prove the same manifest contradiction or absurdity in
+the conjecture. For this reason, perhaps, Moro preferred to derive the
+materials of the strata from volcanic ejections, rather than from transportation
+by running water.
+Marsilli.—Marsilli, whose work is alluded to by Generelli, had been
+prompted to institute inquiries into the bed of the Adriatic, by discovering,
+in the territory of Parma (what Spada had observed near Verona,
+and Schiavo in Sicily), that fossil shells were not scattered through the
+rocks at random, but disposed in regular order, according to certain
+genera and species.
+Vitaliano Donati, 1750.—But with a view of throwing further light
+upon these questions, Donati, in 1750, undertook a more extensive investigation
+of the Adriatic, and discovered, by numerous soundings, that deposits
+of sand, marl, and tufaceous incrustations, most strictly analogous
+to those of the Subapennine hills, were in the act of accumulating there.
+39
+He ascertained that there were no shells in some of the submarine
+tracts, while in other places they lived together in families, particularly
+the genera Arca, Pecten, Venus, Murex, and some others. He also
+states that in divers localities he found a mass composed of corals,
+shells, and crustaceous bodies of different species, confusedly blended
+with earth, sand, and gravel. At the depth of a foot or more, the
+organic substances were entirely petrified and reduced to marble; at
+less than a foot from the surface, they approached nearer to their natural
+state; while at the surface they were alive, or, if dead, in a good
+state of preservation.
+Baldassari.—A contemporary naturalist, Baldassari, had shown that
+the organic remains in the tertiary marls of the Siennese territory were
+grouped in families, in a manner precisely similar to that above alluded
+to by Donati.
+Buffon, 1749.—Buffon first made known his theoretical views concerning
+the former changes of the earth, in his Natural History, published
+in 1749. He adopted the theory of an original volcanic nucleus,
+together with the universal ocean of Leibnitz. By this aqueous envelope
+the highest mountains were once covered. Marine currents then
+acted violently, and formed horizontal strata, by washing away solid
+matter in some parts, and depositing it in others; they also excavated
+deep submarine valleys. The level of the ocean was then depressed by
+the entrance of a part of its waters into subterranean caverns, and thus
+some land was left dry. Buffon seems not to have profited, like Leibnitz
+and Moro, by the observations of Steno, or he could not have imagined
+that the strata were generally horizontal, and that those which
+contain organic remains had never been disturbed since the era of their
+formation. He was conscious of the great power annually exerted by
+rivers and marine currents in transporting earthy materials to lower
+levels, and he even contemplated the period when they would destroy
+all the present continents. Although in geology he was not an original
+observer, his genius enabled him to render his hypothesis attractive;
+and by the eloquence of his style, and the boldness of his speculations,
+he awakened curiosity, and provoked a spirit of inquiry amongst his
+countrymen.
+Soon after the publication of his "Natural History," in which was
+included his "Theory of the Earth," he received an official letter (dated
+January, 1751) from the Sorbonne, or Faculty of Theology in Paris,
+informing him that fourteen propositions in his works "were reprehensible,
+and contrary to the creed of the church." The first of these obnoxious
+passages, and the only one relating to geology, was as follows:—"The
+waters of the sea have produced the mountains and valleys of the
+land—the waters of the heavens, reducing all to a level, will at last deliver
+the whole land over to the sea, and the sea successively prevailing
+over the land, will leave dry new continents like those which we inhabit."
+Buffon was invited by the College, in very courteous terms, to
+send in an explanation, or rather a recantation of his unorthodox opinions.
+40
+To this he submitted; and a general assembly of the Faculty
+having approved of his "Declaration," he was required to publish it in
+his next work. The document begins with these words:—"I declare
+that I had no intention to contradict the text of Scripture; that I believe
+most firmly all therein related about the creation, both as to order
+of time and matter of fact; and I abandon every thing in my book respecting
+the foundation of the earth, and, generally, all which may be
+contrary to the narration of Moses."81
+The grand principle which Buffon was called upon to renounce was
+simply this,—that the present mountains and valleys of the earth are
+due to secondary causes, and that the same causes will in time destroy
+all the continents, hills, and valleys, and reproduce others like them.
+Now, whatever may be the defects of many of his views, it is no longer
+controverted that the present continents are of secondary origin. The
+doctrine is as firmly established as the earth's rotation on its axis; and
+that the land now elevated above the level of the sea will not endure
+forever, is an opinion which gains ground daily, in proportion as we
+enlarge our experience of the changes now in progress.
+Targioni, 1751.—Targioni, in his voluminous "Travels in Tuscany,
+1751 and 1754," labored to fill up the sketch of the geology of that
+region left by Steno sixty years before. Notwithstanding a want of
+arrangement and condensation in his memoirs, they contained a rich
+store of faithful observations. He has not indulged in many general
+views, but in regard to the origin of valleys, he was opposed to the
+theory of Buffon, who attributed them principally to submarine currents.
+The Tuscan naturalist labored to show that both the larger and smaller
+valleys of the Apennines were excavated by rivers and floods, caused
+by the bursting of the barriers of lakes, after the retreat of the ocean.
+He also maintained that the elephants and other quadrupeds, so frequent
+in the lacustrine and alluvial deposits of Italy, had inhabited that
+peninsula; and had not been transported thither, as some had conceived,
+by Hannibal or the Romans, nor by what they were pleased to term
+"a catastrophe of nature."
+Lehman, 1756.—In the year 1756 the treatise of Lehman, a German
+mineralogist, and director of the Prussian mines, appeared, who also
+divided mountains into three classes: the first, those formed with the
+world, and prior to the creation of animals, and which contained no
+fragments of other rocks; the second class, those which resulted from
+the partial destruction of the primary rocks by a general revolution;
+and a third class, resulting from local revolutions, and in part from the
+deluge of Noah.
+A French translation of this work appeared in 1759, in the preface
+of which, the translator displays very enlightened views respecting the
+operations of earthquakes, as well as of the aqueous causes.82
+41Gesner, 1758.—In this year Gesner, the botanist, of Zurich, published
+an excellent treatise on petrifactions, and the changes of the
+earth which they testify.83 After a detailed enumeration of the various
+classes of fossils of the animal and vegetable kingdoms, and remarks on
+the different states in which they are found petrified, he considers the
+geological phenomena connected with them; observing, that some, like
+those of Œningen, resembled the testacea, fish, and plants indigenous
+in the neighboring region;84 while some, such as ammonites, gryphites,
+belemnites, and other shells, are either of unknown species, or found
+only in the Indian and other distant seas. In order to elucidate the
+structure of the earth, he gives sections, from Verenius, Buffon, and
+others, obtained in digging wells; distinguishes between horizontal and
+inclined strata; and, in speculating on the causes of these appearances,
+mentions Donati's examination of the bed of the Adriatic; the filling
+up of lakes and seas by sediment; the imbedding of shells now in progress;
+and many known effects of earthquakes, such as the sinking
+down of districts, or the heaving up of the bed of the sea, so as to form
+new islands, and lay dry strata containing petrifactions. The ocean, he
+says, deserts its shores in many countries, as on the borders of the
+Baltic; but the rate of recession has been so slow in the last 2000
+years, that to allow the Apennines, whose summits are filled with marine
+shells, to emerge to their present height, would have required about
+80,000 years,—a lapse of time ten times greater, or more, than the age
+of the universe. We must therefore refer the phenomenon to the command
+of the Deity, related by Moses, that "the waters should be
+gathered together in one place, and the dry land appear." Gesner
+adopted the views of Leibnitz, to account for the retreat of the primeval
+ocean: his essay displays much erudition; and the opinions of preceding
+writers of Italy, Germany, and England, are commented upon with
+fairness and discrimination.
+Arduino, 1759.—In the year following, Arduino,85 in his memoirs on
+the mountains of Padua, Vicenza, and Verona, deduced, from original
+observations, the distinction of rocks into primary, secondary, and tertiary,
+and showed that in those districts there had been a succession of
+submarine volcanic eruptions.
+Michell, 1760.—In the following year (1760) the Rev. John Michell,
+Woodwardian Professor of Mineralogy at Cambridge, published in the
+Philosophical Transactions, an Essay on the Cause and Phenomena of
+Earthquakes.86 His attention had been drawn to this subject by the
+42
+great earthquake of Lisbon in 1755. He advanced many original and
+philosophical views respecting the propagation of subterranean movements,
+and the caverns and fissures wherein steam might be generated.
+In order to point out the application of his theory to the structure of
+the globe, he was led to describe the arrangement and disturbance of
+the strata, their usual horizontality in low countries, and their contortions
+and fractured state in the neighborhood of mountain chains. He also explained,
+with surprising accuracy, the relations of the central ridges of
+older rocks to the "long narrow slips of similar earth, stones, and minerals,"
+which are parallel to these ridges. In his generalizations, derived
+in great part from his own observations on the geological structure of
+Yorkshire, he anticipated many of the views more fully developed by
+later naturalists.
+Catcott, 1761.—Michell's papers were entirely free from all physico-theological
+disquisitions, but some of his contemporaries were still earnestly
+engaged in defending or impugning the Woodwardian hypothesis.
+We find many of these writings referred to by Catcott, a Hutchinsonian,
+who published a "Treatise on the Deluge" in 1761. He labored particularly
+to refute an explanation offered by his contemporary, Bishop
+Clayton, of the Mosaic writings. That prelate had declared that the
+deluge "could not be literally true, save in respect to that part where
+Noah lived before the flood." Catcott insisted on the universality of
+the deluge, and referred to traditions of inundations mentioned by ancient
+writers, or by travellers, in the East Indies, China, South America,
+and other countries. This part of his book is valuable, although it is
+not easy to see what bearing the traditions have, if admitted to be authentic,
+on the Bishop's argument, since no evidence is adduced to prove
+that the catastrophes were contemporaneous events, while some of them
+are expressly represented by ancient authors to have occurred in succession.
+Fortis—Odoardi, 1761.—The doctrines of Arduino, above adverted
+to, were afterwards confirmed by Fortis and Desmarest, in their travels
+in the same country; and they, as well as Baldassari, labored to complete
+the history of the Subapennine strata. In the work of Odoardi,87
+there was also a clear argument in favor of the distinct ages of the older
+Apennine strata, and the Subapennine formations of more recent origin.
+He pointed out that the strata of these two groups were unconformable,
+and must have been the deposits of different seas at distant
+periods of time.
+Raspe, 1763.—A history of the new islands, by Raspe, a Hanoverian,
+43
+appeared in 1763, in Latin.88 In this work, all the authentic accounts
+of earthquakes which had produced permanent changes on the
+solid parts of the earth were collected together and examined with judicious
+criticism. The best systems which had been proposed concerning
+the ancient history of the globe, both by ancient and modern writers,
+are reviewed; and the merits and defects of the doctrines of Hooke,
+Ray, Moro, Buffon, and others, fairly estimated. Great admiration is
+expressed for the hypothesis of Hooke, and his explanation of the origin
+of the strata is shown to have been more correct than Moro's, while their
+theory of the effects of earthquakes was the same. Raspe had not seen
+Michell's memoirs, and his views concerning the geological structure of
+the earth were perhaps less enlarged; yet he was able to add many
+additional arguments in favor of Hook's theory, and to render it, as he
+said, a nearer approach to what Hooke would have written had he lived
+in later times. As to the periods wherein all the earthquakes happened,
+to which we owe the elevation of various parts of our continents and
+islands, Raspe says he pretends not to assign their duration, still less to
+defend Hooke's suggestion, that the convulsions almost all took place
+during the deluge of Noah. He adverts to the apparent indications of
+the former tropical heat of the climate of Europe, and the changes in
+the species of animals and plants, as among the most obscure and difficult
+problems in geology. In regard to the islands raised from the sea,
+within the times of history or tradition, he declares that some of them
+were composed of strata containing organic remains, and that they were
+not, as Buffon had asserted, made of mere volcanic matter. His work
+concludes with an eloquent exhortation to naturalists to examine the isles
+which rose, in 1707, in the Grecian Archipelago, and, in 1720, in the Azores,
+and not to neglect such splendid opportunities of studying nature "in
+the act of parturition." That Hooke's writings should have been neglected
+for more than half a century, was matter of astonishment to
+Raspe; but it is still more wonderful that his own luminous exposition
+of that theory should, for more than another half century, have excited
+so little interest.
+Fuchsel, 1762 and 1773.—Fuchsel, a German physician, published,
+in 1762, a geological description of the country between the Thuringerwald
+and the Hartz, and a memoir on the environs of Rudelstadt;89 and
+afterwards, in 1773, a theoretical work on the ancient history of the
+earth and of man.90 He had evidently advanced considerably beyond
+his predecessor Lehman, and was aware of the distinctness, both as to
+position and fossil contents, of several groups of strata of different ages,
+corresponding to the secondary formations now recognized by geologists
+44
+in various parts of Germany. He supposed the European continents to
+have remained covered by the sea until the formation of the marine strata,
+called in Germany "muschelkalk," at the same time that the terrestrial
+plants of many European deposits, attested the existence of dry land
+which bordered the ancient sea; land which, therefore, must have occupied
+the place of the present ocean. The pre-existing continent had
+been gradually swallowed up by the sea, different parts having subsided
+in succession into subterranean caverns. All the sedimentary strata
+were originally horizontal, and their present state of derangement must
+be referred to subsequent oscillations of the ground.
+As there were plants and animals in the ancient periods, so also there
+must have been men, but they did not all descend from one pair, but
+were created at various points on the earth's surface; and the number
+of these distinct birth-places was as great as are the original languages
+of nations.
+In the writings of Fuchsel we see a strong desire manifested to explain
+geological phenomena as far as possible by reference to the agency
+of known causes; and although some of his speculations were fanciful,
+his views coincide much more nearly with those now generally adopted,
+than the theories afterwards promulgated by Werner and his followers.
+Brander, 1766.—Gustavus Brander published, in 1766, his "Fossilia
+Hantoniensia," containing excellent figures of fossil shells from the more
+modern (or Eocene) marine strata of Hampshire. "Various opinions,"
+he says in the preface, "had been entertained concerning the time when
+and how these bodies became deposited. Some there are who conceive
+that it might have been effected in a wonderful length of time by a
+gradual changing and shifting of the sea," &c. But the most common
+cause assigned is that of "the deluge." This conjecture, he says, even
+if the universality of the flood be not called in question, is purely hypothetical.
+In his opinion, fossil animals and testacea were, for the most
+part, of unknown species; and of such as were known, the living analogues
+now belonged to southern latitudes.
+Soldani, 1780.—Soldani applied successfully his knowledge of zoology
+to illustrate the history of stratified masses. He explained that microscopic
+testacea and zoophytes inhabited the depths of the Mediterranean;
+and that the fossil species were, in like manner, found in those deposits
+wherein the fineness of their particles, and the absence of pebbles, implied
+that they were accumulated in a deep sea, or far from shore. This
+author first remarked the alternation of marine and freshwater strata in
+the Paris basin.91
+Fortis—Testa, 1793.—A lively controversy arose between Fortis and
+another Italian naturalist, Testa, concerning the fish of Monte Bolca, in
+1793. Their letters,92 written with great spirit and elegance, show that
+they were aware that a large proportion of the Subapennine shells were
+45
+identical with living species, and some of them with species now living
+in the torrid zone. Fortis proposed a somewhat fanciful conjecture, that
+when the volcanoes of the Vicentin were burning, the waters of the Adriatic
+had a higher temperature; and in this manner, he said, the shells
+of warmer regions may once have peopled their own seas. But Testa
+was disposed to think that these species of testacea were still common
+to their own and to equinoctial seas; for many, he said, once supposed
+to be confined to hotter regions, had been afterwards discovered in the
+Mediterranean.93
+Cortesi—Spallanzani—Wallerius—Whitehurst.—While these Italian
+naturalists, together with Cortesi and Spallanzani, were busily engaged
+in pointing out the analogy between the deposits of modern and
+ancient seas, and the habits and arrangement of their organic inhabitants,
+and while some progress was making, in the same country, in
+investigating the ancient and modern volcanic rocks, some of the most
+original observers among the English and German writers, Whitehurst94
+and Wallerius, were wasting their strength in contending, according to
+the old Woodwardian hypothesis, that all the strata were formed by
+Noah's deluge. But Whitehurst's description of the rocks of Derbyshire
+was most faithful; and he atoned for false theoretical views, by
+providing data for their refutation.
+Pallas—Saussure.—Towards the close of the eighteenth century, the
+idea of distinguishing the mineral masses on our globe into separate
+groups, and studying their relations, began to be generally diffused.
+Pallas and Saussure were among the most celebrated whose labors contributed
+to this end. After an attentive examination of the two great
+mountain chains of Siberia, Pallas announced the result, that the granitic
+rocks were in the middle, the schistose at their sides, and the limestones
+again on the outside of these; and this he conceived would
+prove a general law in the formation of all chains composed chiefly of
+primary rocks.95
+In his "Travels in Russia," in 1793 and 1794, he made many geological
+observations on the recent strata near the Wolga and the Caspian,
+and adduced proofs of the greater extent of the latter sea at no
+distant era in the earth's history. His memoir on the fossil bones of
+Siberia attracted attention to some of the most remarkable phenomena
+in geology. He stated that he had found a rhinoceros entire in the frozen
+soil, with its skin and flesh: an elephant, found afterwards in a mass
+46
+of ice on the shore of the North Sea, removed all doubt as to the accuracy
+of so wonderful a discovery.96
+The subjects relating to natural history which engaged the attention
+of Pallas, were too multifarious to admit of his devoting a large share
+of his labors exclusively to geology. Saussure, on the other hand, employed
+the chief portion of his time in studying the structure of the
+Alps and Jura, and he provided valuable data for those who followed
+him. He did not pretend to deduce any general system from his numerous
+and interesting observations; and the few theoretical opinions which
+escaped from him, seem, like those of Pallas, to have been chiefly derived
+from the cosmological speculations of preceding writers.
+</div></body></text></TEI>

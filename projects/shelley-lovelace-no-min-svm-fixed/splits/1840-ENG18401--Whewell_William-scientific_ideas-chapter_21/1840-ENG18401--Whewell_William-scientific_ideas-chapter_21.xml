@@ -1,0 +1,25 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Philosophy of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="21">
+
+CHAPTER XI.
+Of Mathematical Reasoning.
+
+
+1. Discursive Reasoning.—We have thus seen that our
+notions of space, time, and their modifications, necessarily
+involve a certain activity of the mind; and that the
+conditions of this activity form the foundations of those
+sciences which have the relations of space, time, and
+number, for their object. Upon the fundamental principles
+thus established, the various sciences which are included in
+the term Pure Mathematics, (Geometry, Algebra,
+Trigonometry, Conic Sections, and the rest of the Higher
+Geometry, the Differential Calculus, and the like,) are
+built up by a series of reasonings. These reasonings are
+subject to the rules of Logic, as we have already remarked;
+nor is it necessary here to dwell long on the nature and
+rules of such processes. But we may here notice that such
+processes are termed discursive, in opposition to the
+operations by which we acquire our fundamental principles,
+which are, as we have seen, intuitive. This
+opposition was formerly very familiar to our writers; as
+Milton,—</div></body></text></TEI>

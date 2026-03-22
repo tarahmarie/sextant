@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 192-194</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 192-194.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1840">[?] (estimated from box 165 date range)</date>
+          <note type="place">[?]</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 192-194</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_192-194.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>[word partially cut off] gentleman in Town, could only lead to disappointment; at least with any Parliamentary gentleman certainly!-- And I am very glad I have not attempted such an experiment; for I think failure would have vexed me.</p>
+      <p>But such plans might come in well sometimes perhaps for the Country , where the misfortune to me is always a want &amp; lack of any peculiar excitements.</p>
+      <p>We have a dinner- -card from the old Philips's for Weddy, 16th March.</p>
+      <p>I have accepted; but begging permission to take Hester, if you should be out of Town on that evening.--</p>
+      <p>I have given orders about the Minutes; as you desired.--</p>
+      <p>This morning Hester &amp; I have been with Wheatstone to the Government Economical-</p>
+      <p>-Geological-Mining Museum. It is most interesting; &amp; you must certainly see it. It is much in your way.</p>
+      <p>I made acquaintance there with De La Biche, who was very obliging &amp; polite, in showing &amp; explaining many things.</p>
+      <p>I suppose that your Uncle's Miss Neville is a cousin of Mrs Locke's; a clear reason against our having anything to do with her</p>
+      <p>I think! And now add your Uncle has not written you a line on the subject. It appears to me marked;-- his not doing so;-- and very confirmatory of the lady being one of the Mrs Locke click &amp; tribe.</p>
+      <p>I believe the Hen wrote to you of my going down with her last evening. I am particularly glad that</p>
+      <p>I was with her. For she was (tho' she will not admit or own it), annoyed &amp; nervous at our accident on the Railway, (of which I suppose she has told you); &amp; my own composure &amp; absence of all fear were a great comfort to her I know.</p>
+      <p>The occurence was I conceive the result of gross neglect; &amp; it certainly was not altogether agreeable to have the</p>
+      <p>Fast-Train upon our heels as we had the whole way afterwards. We were bundled out at Esher in a desperate hurry, as they scarcly dared stop; &amp; we watched the two Trains afterwards for some way, running a kind of fearful race with each other.--</p>
+    </div></body>
+  </text>
+</TEI>

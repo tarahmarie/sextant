@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 162-164</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 162-164.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1840">undated (estimated from box 165 date range)</date>
+          <note type="place">St. James's Square</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 162-164</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_162-164.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>St James' Sqre Weddy. Night</p>
+      <p>Dearest Mate. My journey was most successful in all respects. I arrived at Bridgwater Station full three quarters of an hour before the time;-- which I did not at all mind, &amp; much preferred to running it near the other way. Harmes tells me the children but just saved it; the departure bell ringing as she was paying for the tickets. What</p>
+      <p>a narrow escape!</p>
+      <p>I apprehended as much; &amp; you may remember how I urged them getting off quite early.--</p>
+      <p>I arrived in Town before a 1/4 past five !--</p>
+      <p>The Children were at by 1/2 past six. Harmes reached the Square at 1/2 past seven.--</p>
+      <p>At Reading Station I heard it announced that one of the poor wretches in the hospital had just died. A fellow- -passenger, who appeared to be an intelligent man, told me the accident was an</p>
+      <p>unavoidable one; owing to its being dark, &amp; in a locality where no one could have anticipated such a land-slip. He pointed out to me the place. They were still repairing it.--</p>
+      <p>I thought the weather quite perfect for a journey today.</p>
+      <p>I send you a letter I found from the Hen; &amp; I hope to enclose you Miss B--'s tomorrow.--</p>
+      <p>Ralph does not seem over-fatigued. But he enjoyed some nice buns I</p>
+      <p>had bought for him in Town, (&amp; presented him with on his arrival) very much; as well as a capital mutton-chop; for his supper.--</p>
+      <p>I hear that Byron complained terribly of its being a very long day &amp; too much Railway; &amp; that Annabella was suffering sadly with a corn, for which I pity her but a little, poor thing!--</p>
+      <p>Pray tell the maids to bring with them to Ockham my very small feather cushion, which has a spotted cover. It has been forgotten.-- Please remember this.--</p>
+      <p>Thursday Morning:</p>
+      <p>The children seem to have reached Ockham later last night than I can account for. Miss B-- was to write immediately on arriving.--</p>
+      <p>Harmes is to go down today. She is just returned from Dr L--, who she says is entirely satisfied about Ralph; with proper treatment. But I am very glad I brought him.</p>
+      <p>I am myself expecting Dr L-- this morning; finding it necessary not to delay consulting him. I am growing larger now quite by inches; especially in the neck. And</p>
+      <p>the distress in breathing; necessity for enormous doses, &amp;c; seem to get much worse.</p>
+      <p>But for my own determination, &amp; provision of constant occupations &amp; little excitements; I should be just as ever.--</p>
+      <p>What has come to me, I cannot imagine!--</p>
+      <p>Pray forward to me all my letters. I ought (as you will see by the enclosed) to have had this morning one from Hester, which I conclude arrived at Ashley yesterday after I was gone, (or ought so to have arrived).</p>
+      <p>There seems to have been much wet in the night here. And yesterday I found everything seeming ditto.</p>
+      <p>[No closing. Postscript appears on page 1 but is transcribed here as page 7]</p>
+      <p>P.S. Thursdy. 4 o'clock</p>
+      <p>Mr Lauzelle appoints you at 1/2 past 12 o'clock on Thursday the 6th. And he sends you by post today a small bottle of black stuff to apply.</p>
+    </div></body>
+  </text>
+</TEI>

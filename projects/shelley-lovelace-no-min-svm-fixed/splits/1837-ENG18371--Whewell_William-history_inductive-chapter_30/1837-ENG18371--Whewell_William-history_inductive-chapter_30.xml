@@ -1,0 +1,287 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="30">CHAPTER IV.
+Discovery of the Mechanical Principles of
+Fluids.
+
+Sect. 1.—Rediscovery of the Laws of
+Equilibrium of Fluids.
+WE have already said, that the true laws of the
+equilibrium of fluids were discovered by Archimedes, and rediscovered
+by Galileo and Stevinus; the intermediate time having been occupied by
+a vagueness and confusion of thought on physical subjects, which made
+it impossible for men to retain such clear views as Archimedes had
+disclosed. Stevinus must be considered as the earliest of the authors
+of this rediscovery; for his work (Principles of Statik and
+Hydrostatik) was published in Dutch about 1585; and in this, his
+views are perfectly distinct and correct. He restates the doctrines of
+Archimedes, and shows that, as a consequence of them, it follows that
+the pressure of a fluid on the bottom of a vessel may be much greater
+than the weight of the fluid itself: this he proves, by imagining some
+of the upper portions of the vessel to be filled with fixed solid
+bodies, which take the place of the fluid, and yet do not alter the
+pressure on the base. He also shows what will be the pressure on any
+portion of a base in an oblique position; and hence, by certain
+mathematical artifices which make an approach to the Infinitesimal
+Calculus, he finds the whole pressure on the base in such cases. This
+mode of treating the subject would take in a large portion of our
+elementary Hydrostatics as the science now stands. Galileo saw the
+properties of fluids no less clearly, and explained them very
+distinctly, in 1612, in his Discourse on Floating Bodies. It
+had been maintained by the Aristotelians, that form was the
+cause of bodies floating; and collaterally, that ice was
+condensed water; apparently from a confusion of thought
+between rigidity and density. Galileo asserted, on
+the contrary, that ice is rarefied water, as appears by its
+floating: and in support of this, he proved, by various experiments,
+that the floating of bodies does not depend on their form. The happy
+genius of Galileo is the more remarkable in this case, as the
+controversy was a good deal perplexed by the mixture of phenomena of
+another kind, due to what is usually called capillary or
+molecular attraction. Thus it is a fact, that a ball
+346 of ebony sinks
+in water, while a flat slip of the same material lies on the
+surface; and it required considerable sagacity to separate such cases
+from the general rule. Galileo’s opinions were attacked by various
+writers, as Nozzolini, Vincenzio di Grazia, Ludovico delle Colombe;
+and defended by his pupil Castelli, who published a reply in 1615.
+These opinions were generally adopted and diffused; but somewhat
+later, Pascal pursued the subject more systematically, and wrote his
+Treatise of the Equilibrium of Fluids in 1653; in which he
+shows that a fluid, inclosed in a vessel, necessarily presses equally
+in all directions, by imagining two pistons or sliding plugs,
+applied at different parts, the surface of one being centuple that of
+the other: it is clear, as he observes, that the force of one man
+acting at the first piston, will balance the force of one hundred men
+acting at the other. “And thus,” says he, “it appears that a vessel
+full of water is a new Principle of Mechanics, and a new Machine which
+will multiply force to any degree we choose.” Pascal also referred the
+equilibrium of fluids to the “principle of virtual velocities,” which
+regulates the equilibrium of other machines. This, indeed, Galileo had
+done before him. It followed from this doctrine, that the pressure
+which is exercised by the lower parts of a fluid arises from the
+weight of the upper parts.
+In all this there was nothing which was not easily assented to; but
+the extension of these doctrines to the air required an additional
+effort of mechanical conception. The pressure of the air on all sides
+of us, and its weight above us, were two truths which had never yet
+been apprehended with any kind of clearness. Seneca, indeed,29 talks of the “gravity of the air,” and
+of its power of diffusing itself when condensed, as the causes of
+wind; but we can hardly consider such propriety of phraseology in him
+as more than a chance; for we see the value of his philosophy by what
+he immediately adds: “Do you think that we have forces by which we
+move ourselves, and that the air is left without any power of moving?
+when even water has a motion of its own, as we see in the growth of
+plants.” We can hardly attach much value to such a recognition of the
+gravity and elasticity of the air.
+29 Quæst. Nat. v. 5.
+Yet the effects of these causes were so numerous and obvious, that
+the Aristotelians had been obliged to invent a principle to account
+for them; namely, “Nature’s Horror of a Vacuum.” To this principle
+were referred many familiar phenomena, as suction, breathing, the
+347 action of a
+pair of bellows, its drawing water if immersed in water, its refusing
+to open when the rent is stopped up. The action of a cupping
+instrument, in which the air is rarefied by fire; the fact that water
+is supported when a full inverted bottle is placed in a basin; or when
+a full tube, open below and closed above, is similarly placed; the
+running out of the water, in this instance, when the top is opened;
+the action of a siphon, of a syringe, of a pump; the adhesion of two
+polished plates, and other facts, were all explained by the fuga
+vacui. Indeed, we must contend that the principle was a very good
+one, inasmuch as it brought together all these facts which are really
+of the same kind, and referred them to a common cause. But when urged
+as an ultimate principle, it was not only unphilosophical,
+but imperfect and wrong. It was
+unphilosophical, because it introduced the notion of an
+emotion, Horror, as an account of physical facts; it was
+imperfect, because it was at best only a law of phenomena,
+not pointing out any physical cause; and it was wrong,
+because it gave an unlimited extent to the effect. Accordingly, it led
+to mistakes. Thus Mersenne, in 1644, speaks of a siphon which shall go
+over a mountain, being ignorant then that the effect of such an
+instrument was limited to a height of thirty-four feet. A few years
+later, however, he had detected this mistake; and in his third volume,
+published in 1647, he puts his siphon in his emendanda, and
+speaks correctly of the weight of air as supporting the mercury in the
+tube of Torricelli. It was, indeed, by finding this horror of a vacuum
+to have a limit at the height of thirty-four feet, that the true
+principle was suggested. It was discovered that when attempts were
+made to raise water higher than this. Nature tolerated a vacuum above
+the water which rose. In 1643, Torricelli tried to produce this vacuum
+at a smaller height, by using, instead of water, the heavier fluid,
+quicksilver; an attempt which shows that the true explanation, the
+balance of the weight of the water by another pressure, had already
+suggested itself. Indeed, this appears from other evidence. Galileo
+had already taught that the air has weight; and Baliani, writing to
+him in 1630, says,30 “If we were in a vacuum, the weight of
+the air above our heads would be felt.” Descartes also appears to have
+some share in this discovery; for, in a letter of the date of 1631, he
+explains the suspension of mercury in a tube, closed at top, by the
+pressure of the column of air reaching to the clouds.
+30 Drinkwater’s Galileo, p.
+90.
+348 Still men’s
+minds wanted confirmation in this view; and they found such
+confirmation, when, in 1647, Pascal showed practically, that if we
+alter the length of the superincumbent column of air by going to a
+high place, we alter the weight which it will support. This celebrated
+experiment was made by Pascal himself on a church-steeple in Paris,
+the column of mercury in the Torricellian tube being used to compare
+the weights of the air; but he wrote to his brother-in-law, who lived
+near the high mountain of Puy de Dôme in Auvergne, to request him to
+make the experiment there, where the result would be more decisive.
+“You see,” he says, “that if it happens that the height of the mercury
+at the top of the hill be less than at the bottom (which I have many
+reasons to believe, though all those who have thought about it are of
+a different opinion), it will follow that the weight and pressure of
+the air are the sole cause of this suspension, and not the horror of a
+vacuum: since it is very certain that there is more air to weigh on it
+at the bottom than at the top; while we cannot say that nature abhors
+a vacuum at the foot of a mountain more than on its summit.”—M.
+Perrier, Pascal’s correspondent, made the observation as he had
+desired, and found a difference of three inches of mercury, “which,”
+he says, “ravished us with admiration and astonishment.”
+When the least obvious case of the operation of the pressure and
+weight of fluids had thus been made out, there were no further
+difficulties in the progress of the theory of Hydrostatics. When
+mathematicians began to consider more general cases than those of the
+action of gravity, there arose differences in the way of stating the
+appropriate principles: but none of these differences imply any
+different conception of the fundamental nature of fluid
+equilibrium.
+Sect. 2.—Discovery of the Laws of Motion of
+Fluids.
+The art of conducting water in pipes, and
+of directing its motion for various purposes, is very old. When
+treated systematically, it has been termed Hydraulics: but
+Hydrodynamics is the general name of the science of the laws of
+the motions of fluids, under those or other circumstances. The Art is
+as old as the commencement of civilization: the Science does not
+ascend higher than the time of Newton, though attempts on such
+subjects were made by Galileo and his scholars.
+When a fluid spouts from an orifice in a vessel, Castelli saw that
+the velocity of efflux depends on the depth of the orifice below the
+349 surface: but he
+erroneously judged the velocity to be exactly proportional to the
+depth. Torricelli found that the fluid, under the inevitable causes of
+defect which occur in the experiment, would spout nearly to the height
+of the surface: he therefore inferred, that the full velocity is that
+which a body would acquire in falling through the depth; and that it
+is consequently proportional to the square root of the
+depth.—This, however, he stated only as a result of experience,
+or law of phenomena, at the end of his treatise, De Motu
+Naturaliter Accelerato, printed in 1643.
+Newton treated the subject theoretically in the Principia
+(1687); but we must allow, as Lagrange says, that this is the least
+satisfactory passage of that great work. Newton, having made his
+experiments in another manner than Torricelli, namely, by measuring
+the quantity of the efflux instead of its velocity, found a result
+inconsistent with that of Torricelli. The velocity inferred from the
+quantity discharged, was only that due to half the depth of
+the fluid.
+In the first edition of the Principia,31 Newton gave a
+train of reasoning by which he theoretically demonstrated his own
+result, going upon the principle, that the momentum of the issuing
+fluid is equal to the momentum which the column vertically over the
+orifice would generate by its gravity. But Torricelli’s experiments,
+which had given the velocity due to the whole depth, were confirmed on
+repetition: how was this discrepancy to be explained?
+31 B. ii. Prop. xxxvii.
+Newton explained the discrepancy by observing the contraction which
+the jet, or vein of water, undergoes, just after it leaves the
+orifice, and which he called the vena contracta. At the
+orifice, the velocity is that due to half the height; at the vena
+contracta it is that due to the whole height. The former velocity
+regulates the quantity of the discharge; the latter, the path of the
+jet.
+This explanation was an important step in the subject; but it made
+Newton’s original proof appear very defective, to say the least. In
+the second edition of the Principia (1714), Newton attacked the
+problem in a manner altogether different from his former
+investigation. He there assumed, that when a round vessel, containing
+fluid, has a hole in its bottom, the descending fluid may be conceived
+to be a conoidal mass, which has its base at the surface of the fluid,
+and its narrow end at the orifice. This portion of the fluid he calls
+the cataract; and supposes that while this part descends, the
+surrounding 350
+parts remain immovable, as if they were frozen; in this way he finds a
+result agreeing with Torricelli’s experiments on the velocity of the
+efflux.
+We must allow that the assumptions by which this result is obtained
+are somewhat arbitrary; and those which Newton introduces in
+attempting to connect the problem of issuing fluids with that of the
+resistance to a body moving in a fluid, are no less so. But even up to
+the present time, mathematicians have not been able to reduce problems
+concerning the motions of fluids to mathematical principles and
+calculations, without introducing some steps of this arbitrary kind.
+And one of the uses of experiments on this subject is, to suggest
+those hypotheses which may enable us, in the manner most consonant
+with the true state of things, to reduce the motions of fluids to
+those general laws of mechanics, to which we know they must be
+subject.
+Hence the science of the Motion of Fluids, unlike all the other
+primary departments of Mechanics, is a subject on which we still need
+experiments, to point out the fundamental principles. Many such
+experiments have been made, with a view either to compare the results
+of deduction and observation, or, when this comparison failed, to
+obtain purely empirical rules. In this way the resistance of fluids,
+and the motion of water in pipes, canals, and rivers, has been
+treated. Italy has possessed, from early times, a large body of such
+writers. The earlier works of this kind have been collected in sixteen
+quarto volumes. Lecchi and Michelotti about 1765, Bidone more
+recently, have pursued these inquiries. Bossut, Buat, Hachette, in
+France, have labored at the same task, as have Coulomb and Prony,
+Girard and Poncelet. Eytelwein’s German treatise (Hydraulik)
+contains an account of what others and himself have done. Many of
+these trains of experiments, both in France and Italy, were made at
+the expense of governments, and on a very magnificent scale. In
+England less was done in this way during the last century, than in
+most other countries. The Philosophical Transactions, for
+instance, scarcely contain a single paper on this subject founded on
+experimental investigations.32 Dr. Thomas
+Young, who was at the head of his countrymen in so many branches of
+science, was one of the first to call back attention to this: and Mr.
+Rennie and others have recently made valuable experiments. In many of
+the questions now spoken of, the accordance which engineers are able
+to obtain, between their calculated and observed results, 351 is very great: but
+these calculations are performed by means of empirical formulæ, which
+do not connect the facts with their causes, and still leave a wide
+space to be traversed, in order to complete the science.
+32 Rennie, Report to Brit.
+Assoc.
+In the mean time, all the other portions of Mechanics were reduced
+to general laws, and analytical processes; and means were found of
+including Hydrodynamics, notwithstanding the difficulties which attend
+its special problems, in this common improvement of form. This
+progress we must relate.
+[2d Ed.] [The hydrodynamical problems referred to above are, the
+laws of a fluid issuing from a vessel, the laws of the motion of water
+in pipes, canals, and rivers, and the laws of the resistance of
+fluids. To these may be added, as an hydrodynamical problem important
+in theory, in experiment, and in the comparison of the two, the laws
+of waves. Newton gave, in the Principia, an explanation of the
+waves of water (Lib. ii. Prop. 44), which appears to proceed upon an
+erroneous view of the nature of the motion of the fluid: but in his
+solution of the problem of sound, appeared, for the first time, a
+correct view of the propagation of an undulation in a fluid. The
+history of this subject, as bearing upon the theory of sound, is given
+in Book viii.: but I may here remark, that the
+laws of the motion of waves have been pursued experimentally by
+various persons, as Bremontier (Recherches sur le Mouvement des
+Ondes, 1809), Emy (Du Mouvement des Ondes, 1831), the
+Webers (Wellenlehre, 1825); and by Mr. Scott Russell
+(Reports of the British Association, 1844). The analytical
+theory has been carried on by Poisson, Cauchy, and, among ourselves,
+by Prof. Kelland (Edin. Trans.) and Mr. Airy (in the article
+Tides, in the Encyclopædia Metropolitana). And though
+theory and experiment have not yet been brought into complete
+accordance, great progress has been made in that work, and the
+remaining chasm between the two is manifestly due only to the
+incompleteness of both.]
+Perhaps the most remarkable case of fluid motion recently
+discussed, is one which Mr. Scott Russell has presented
+experimentally; and which, though novel, is easily seen to follow from
+known principles; namely, the Great Solitary Wave. A wave may
+be produced, which shall move along a canal unaccompanied by any other
+wave: and the simplicity of this case makes the mathematical
+conditions and consequences more simple than they are in most other
+problems of Hydrodynamics. 352</div></body></text></TEI>

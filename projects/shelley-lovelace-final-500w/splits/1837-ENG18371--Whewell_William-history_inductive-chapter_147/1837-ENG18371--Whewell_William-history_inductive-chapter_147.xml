@@ -1,0 +1,127 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="147">BOTANY.
+FOR the purpose of giving to
+my reader some indication of the present tendency of Botanical
+Science, I conceive that I cannot do better than direct his attention
+to the reflections, procedure, and reasonings which have been
+suggested by the most recent extensions of man’s knowledge of the
+vegetable world. And as a specimen of these, I may take the labors of
+Dr. Joseph Hooker, on the Flora of the Antarctic Regions,41 and especially of New Zealand. Dr.
+Hooker was the Botanist to an expedition commanded by Sir James Ross,
+sent out mainly for the purpose of investigating the phenomena of
+Terrestrial Magnetism near the South Pole; but directed also to the
+improvement of Natural History. The extension of botanical
+descriptions and classifications to a large mass of new objects
+necessarily suggests wider views of the value of classes (genera,
+species, &c.,) and the conclusions to be drawn from their
+constancy or inconstancy. A few of Dr. Hooker’s remarks may show the
+nature of the views taken under such circumstances.
+41 The Botany of the Antarctic
+Voyage of H. M. Discovery Ships Erebus and Terror, in the years
+1839–40. Published 1847. Flora Novæ Zelandiæ. 1853.
+I may notice, in the first place, (since this work is intended for
+general rather than for scientific readers,) Dr. Hooker’s testimony to
+the value of a technical descriptive language for a classificatory
+science—a Terminology, as it is called. He says, “It is
+impossible to write Botanical descriptions which a person ignorant of
+Botany can understand, although it is supposed by many unacquainted
+with science that this can and should be done.” And hence, he says,
+the state of botanical science demands Latin descriptions of the
+plants; and this is a lesson which he especially urges upon the
+Colonists who study the indigenous plants. 632
+Dr. Hooker’s remarks on the limits of species, their dispersion and
+variation, are striking and instructive. He is of opinion that species
+vary more, and are more widely diffused, than is usually supposed.
+Hence he conceives that the number of species has been needlessly and
+erroneously multiplied, by distinguishing the specimens which occur in
+different places, and vary in unessential features. He says that
+though, according to the lowest estimate of compilers, 100,000 is the
+commonly received number of known plants, he thinks that half that
+number is much nearer the truth. “This,” he says, “may be well
+conceived, when it is notorious that nineteen species have been made
+of the Common Potatoe, and many more of Solanum nigrum alone.
+Pteris aquilina has given rise to numerous book species;
+Vernonia cinerea of India to fifteen at least. . . . . . . Many
+more plants are common to most countries than is supposed; I have
+found 60 New Zealand flowering plants and 9 Ferns to be European ones,
+besides inhabiting numerous intermediate countries. . . . . . So long
+ago as 1814, Mr. Brown drew attention to the importance of such
+considerations, and gave a list of 150 European plants common to
+Australia.”
+As an example of the extent to which unessential differences may
+go, he says (p. xvii.,) “The few remaining native Cedars of Lebanon
+may be abnormal states of the tree which was once spread over the
+whole of the Lebanon; for there are now growing in England varieties
+of it which have no existence in a wild state. Some of them closely
+resemble the Cedars of Atlas and of the Himalayas (Deodar;) and
+the absence of any valid botanical differences tends to prove that
+all, though generally supposed to be different species, are one.”
+Still the great majority of the species of plants in those Southern
+regions are peculiar. “There are upwards of 100 genera, subgenera, or
+other well marked groups of plants, entirely or nearly confined to New
+Zealand, Australia, and extra-tropical South America. They are
+represented by one or more species in two or more of those countries,
+and thus effect a botanical relationship or affinity between them all
+which every botanist appreciates.”
+In reference to the History of Botany, I have received corrections
+and remarks from Dr. Hooker, with which I am allowed to enrich my
+pages.
+“P. 359. Note 3. Nelumbium speciosum, the Lotus
+of India. The Nelumbium does not float, but raises both leaf
+and flower several feet above the water: the Nymphæa Lotus has
+floating leaves. Both enter largely into the symbolism of the Hindoos,
+and are often confounded. 633
+“P. 362. Note 5. For Arachnis read
+Arachis. The Arachidna of Theophrastus cannot, however,
+be the Arachis or ground-nut.
+“Pp. 388 and 394. For Harlecamp read Hartecamp.
+“P. 394. For Kerlen read Kalm.
+“P. 394. For Asbech read Osbeck.
+“P. 386. John Ray. Ray was further the author of the present
+Natural System in its most comprehensive sense. He first divided
+plants into Flowerless and Flowering; and the latter into
+Monocotyledonous and Dicotyledonous:—’Floriferas dividemus in
+Dicotyledones, quarum semina sata binis
+foliis, seminalibus dictis, quæ cotyledonorum usum præstant, e terra
+exeunt, vel in binos saltem lobos dividuntur, quamvis eos supra terram
+foliorum specie non efferant; et Monocotyledones, quæ nec folia bina seminalia
+efferunt nec lobos binos condunt. Hæc divisio ad arbores etiam extendi
+potest; siquidem Palmæ et congeneres hoc respectu eodem modo a
+reliquis arboribus differunt quo Monocotyledones a reliquis
+herbis.’
+“P. 408. Endogenous and Exogenous Growth. The exact course
+of the wood fibres which traverse the stems of both Monocotyledonous
+and Dicotyledonous plants has been only lately discovered. In the
+Monocotyledons, those fibres are collected in bundles, which follow a
+very peculiar course:—from the base of each leaf they may be
+followed downwards and inwards, towards the axis of the trunk, when
+they form an arch with the convexity to the centre; and curving
+outwards again reach the circumference, where they are lost amongst
+the previously deposited fibres. The intrusion of the bases of these
+bundles amongst those already deposited, causes the circumference of
+the stem to be harder than the centre; and as all these arcs have a
+short course (their chords being nearly equal), the trunk does not
+increase in girth, and grows at the apex only. The wood-bundles are
+here definite. In the Dicotyledonous trunks, the layers of wood run in
+parallel courses from the base to the top of the trunk, each
+externally to that last formed, and the trunk increases both in height
+and girth; the wood-bundles are here indefinite.
+“With regard to the Cotyledons, though it is often difficult to
+distinguish a Monocotyledonous Embryo from a Dicotyledonous, they may
+always be discriminated when germinating. The Cotyledons, when two or
+more, and primordial leaves (when no Cotyledons are visible) of a
+Monocotyledon, are alternate; those of a Dicotyledon are opposite.
+“A further physiological distinction between Monocotyledons and
+634 Dicotyledons is
+observed in germination, when the Dicotyledonous radicle elongates and
+forms the root of the young plant; the Monocotyledonous radicle does
+not elongate, but pushes out rootlets from itself at once. Hence the
+not very good terms, exorhizal for Dicotyledonous, and
+endorhizal for Monocotyledonous.
+“The highest physiological generalization in the vegetable kingdom
+is between Phænogama and Cryptogama. In the former,
+fertilization is effected by a pollen-tube touching the nucleus of an
+ovule; in Cryptogams, the same process is effected by the contact of a
+sperm-cell, usually ciliated (antherozoid), upon another kind
+of cell called a germ-cell. In Phænogams, further, the organs of
+fructification are all modified leaves; those of Cryptogams are not
+homologous.” (J. D. H.)</div></body></text></TEI>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 110-111</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 110-111.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1844">undated [17 August 1844?]</date>
+          <note type="place">Brighton</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 110-111</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_110-111.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Brighton Satdy Morg</p>
+      <p>I have but a moment this morning, but I do not like to leave you without a line since tomorrow there is no post.</p>
+      <p>The weather is worse than ever again, Alas!--</p>
+      <p>Susette is going to leave me. I think that she is right in doing so, her views being what they are; &amp; I find</p>
+      <p>her warning rather honorable to her than otherwise.--</p>
+      <p>I must consider what to do. In many respects I do not require anything of a regular lady's maid, &amp; in fact such is in my way often &amp; greatly.</p>
+      <p>I want some one to make &amp; take care of my clothes, but not a personal attendant.</p>
+      <p>Every day I think I require the latter less.--</p>
+      <p>I am rather</p>
+      <p>thinking about leaving this soon, if the weather does not mend. However I shall write on Monday Morg.</p>
+    </div></body>
+  </text>
+</TEI>

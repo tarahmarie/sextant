@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 28-31</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 28-31.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1835">5 December [1835]</date>
+          <note type="place">Ockham</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 28-31</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_28-31.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Ockham. Saturday Morning, 5th Decr.</p>
+      <p>My Dearest. As I remember there is a West post from here, &amp; find there is no post from Fordhook tomorrow (Sunday). I shall leave this here this morning to be sent today.--</p>
+      <p>You give a nice account of yourself, but I am vexed at your having missed my first letter, which I suppose arrived at Exeter the very</p>
+      <p>evening of the day you left. Ford will have had the sense I imagine to forward it to Ashley. I do not make out these Western posts.</p>
+      <p>Luckily you seem to have been in a less fuss than I (silly little bad Bird!) was at not hearing from you.-- The Laundry maid has given warning, so that I must now look for a second as well as a first, &amp; I think I shall be able to secure both, in the course of</p>
+      <p>another week.-- The cause of one's leaving, is very little to her credit. She has chosen lately to have the men constantly sitting &amp; about in the Laundry, &amp; Hewett found one of them dressing there. Nothing can be more improper, where there are ladies' things of all kinds constantly about, &amp; it is allowed in no family.-- It has of course been stopped, &amp; the Laundry maid has given warning.-- If she has</p>
+      <p>so little idea of propriety, we are better without her.--</p>
+      <p>I enclosed you a letter, which was enclosed to you for me this morning from St. James' Square. Mama supposes the volume mentioned is also there, &amp; thinks it should certainly be returned. Will you see about this when you go to Town. How impertinent people are.--</p>
+      <p>I forward you a letter directed to the Honble. William King, somewhat after date I think.</p>
+      <p>The Molyneux's have just</p>
+      <p>sent an invitation to dinner for the 22nd. I have returned a polite answer, which I subjected to the Hen's inspection, declining however on account of the distance.--</p>
+      <p>Charlotte has sent me two beautiful feather hand-screens, which will be a great improvement upon the old horrid things.-- I am sorry I have not sent you the newspapers, but today I will. Mama has cut out a curious paragraph about Stonehenge,</p>
+      <p>which she asked my leave to do-- poor thing!--</p>
+      <p>I must now end. I enclose you also a note I have had from Lady Radstock.--</p>
+      <p>Your most Dear Birdie, A. A. K.</p>
+    </div></body>
+  </text>
+</TEI>

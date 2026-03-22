@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 65-66</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 65-66.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1843">undated (estimated from box 166 date range)</date>
+          <note type="place">Glenthorne</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 65-66</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_65-66.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Glenthorne Tuesdy Night</p>
+      <p>Dearest W. This will go by James very early tomorrow; as Mr Halliday says there is some excellent Harrier Hunting near (at least a few miles off) on the Moors tomorrow; &amp; wishes me in case it be fine enough, to have Tag-Rag over. So I have desired</p>
+      <p>the Coachman to bring him to me the first thing. James will return here too. I hope you will not be displeased; but as the saddle horses are doing absolutely nothing, (&amp; John can drive you if you use the carriage), I thought you would not object. And I wish to have the Coachman to take care of Taggy; who is too valuable to trust to</p>
+      <p>any doubtful hands.</p>
+      <p>You must not detain them in coming back; as we may have to set out very early. You send the Post-Boy on, do you not? Tho' he should have orders if I am out beyond a certain hour, not to wait for me, &amp; so miss your post at Porlock.--</p>
+      <p>I have little hope of the weather; but the Hallidays have more. I however ought to have Tag-Rag for the wet moors. He is</p>
+      <p>so strong, &amp; so clever; &amp; will not get me into a scrape.</p>
+      <p>Captain Prevost is pleasing &amp; handsome; &amp; very much obliged to you for your kindess about his brother.</p>
+      <p>I must get them to come over to Ashley. Captain M-- is expected tomorrow.</p>
+      <p>Mrs Prevost is a very nice girl. They have only been married a week.</p>
+      <p>I was in very good time today; &amp; your M'Intosh very useful.-- I hope you won't be angry; but I should be</p>
+      <p>vexed to lose the use which the horses might be of possibly, this once while I am in the West this year.</p>
+    </div></body>
+  </text>
+</TEI>

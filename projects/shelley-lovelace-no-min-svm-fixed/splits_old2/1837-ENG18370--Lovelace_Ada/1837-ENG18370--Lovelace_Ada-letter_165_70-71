@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 70-71</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 70-71.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1837">undated [September 1837]</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 70-71</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_70-71.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Sunday 1/2 pst 5 o'clock</p>
+      <p>Dearest William. My cold became so much worse last night, &amp; still more so this morning, accompanied with much heat, that I have been obliged to stop it vigorously.</p>
+      <p>The measures I took have answered well, but have brought on much local uneasiness which makes it necessary for me to keep</p>
+      <p>quite flat this evening, otherwise mischief might follow. This will account for my pencil note, but you must not be the least uneasy, for I have only now to keep quiet, and I do not think that I shall lay my egg for some days yet! Hester is a great comfort to me, &amp; indeed I do not know what I should do without her, both our young &amp; our servants being so inaccessible to me here.--</p>
+      <p>I am in hopes you will have very pleasant weather. In Town today it is rather too mild.--</p>
+      <p>The Hen continues to require</p>
+      <p>more bleeding, but the relief it gives her is very great, &amp; it seems quite necessary.-- She has had an amusing letter from Miss Murray, who is delighted with the unchanged simplicity of the Queen's manners, &amp; her perfect official dignity withal. She says "it seems to be the Queen's first object to make everybody about her happy". She is certainly a marvellous character for eighteen.--</p>
+      <p>I miss you sadly. I think it gets worse every absence. The poor bird to sing when her master is away.-- I am afraid this is not a very</p>
+      <p>entertaining letter, but the incidents up here in Mont Blanc are few &amp; not remarkable.-- The avis will of course write tomorrow.--</p>
+      <p>Bird</p>
+    </div></body>
+  </text>
+</TEI>

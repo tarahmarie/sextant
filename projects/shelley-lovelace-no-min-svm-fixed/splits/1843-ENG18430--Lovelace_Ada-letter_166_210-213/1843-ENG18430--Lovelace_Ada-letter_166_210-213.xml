@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 210-213</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 210-213.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1843">undated (estimated from box 166 date range)</date>
+          <note type="place">St. James' Square</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 210-213</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_210-213.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>St James' Sqre Sunday Night</p>
+      <p>I shall add a line in the morning, but will tell you the chief tonight. I am going on very well, &amp; am much altered for the better during the last 6 hours more especially. The plans seem to be answering; &amp; I think this recent attack will be far from being without its advantages even. I think it has illustrated &amp; proved</p>
+      <p>some points to both my Doctor &amp; myself which were not so certain before. The Hen seems to feel completely satisfied with him &amp; with me.</p>
+      <p>I intend to go down on Tuesday, by the 1/4 past 2 Train (I think there is such a one); or if I fail that, by the 1/4 past 4 or the 5 Train. I propose going to Esher, &amp; dining there.</p>
+      <p>The Hen desires me to say that she hopes to see you tomorrow (Monday) to dine &amp; sleep at Esher. She goes down tomorrow morning. I hope you will go to her, as I rather</p>
+      <p>think she has much to say to you. She &amp; Greig have conversed I believe on the Woburn affairs. I had sent Greig the correspondence, (as I knew he would be very desirous of seeing it, having known everything up to this time so fully). My Mother called there today by accident, &amp; Greig himself opened a conversation upon this matter. I by no means regret that he did so, but am rather glad of it.</p>
+      <p>I like uncle G. King's letter very much; &amp; so does</p>
+      <p>the Hen. By the bye she is much surprised at hearing (which I find you have told her) that the Bird wrote any part of your letter. She says it was so completely in character with you, (&amp; that our respective styles are so very different), that she could not have surmised it. She says that is the dramatic Bird, which can personate &amp; act for another person.--</p>
+      <p>My dear, does ou keep a dramatic avis, to play tricks &amp; amuse people?--</p>
+      <p>By the bye, forgot that I have the carriage</p>
+      <p>here (tho' I have but just been using it), &amp; that I shall therefore go down to Esher by it on Tuesday, &amp; need not think of Trains.</p>
+      <p>What a stupid Bird!--</p>
+      <p>I am getting into rather better spirits. I have been sadly down in the world, until this evening; &amp; still am not completely bright &amp; natural in feeling.--</p>
+      <p>I have little to tell you. I have seen only Babbage, who has been on ne peut pas plus kind, attentive, &amp; efficient. It is a great</p>
+      <p>gratification to me that my old friend really is so practically friendly &amp; good.--</p>
+      <p>I have seen somewhat of little Annabella, whom I like more &amp; more. The good docile little thing is turned quite alone into the Hen's bedroom at the Hotel, &amp; amuses herself with her book as quietly as any little mouse, never troubling any one. It is impossible for a child to be more agreeable or less obtrusive. She has a great taste for reading, which delights me.</p>
+      <p>You see, my dear, that</p>
+      <p>I do begin to appreciate ou young.</p>
+      <p>Monday Morg. 1/2 past nine.</p>
+      <p>Things continuing to go on well, as far as I can tell so early; &amp; plans remain unchanged.</p>
+      <p>I think the spirits &amp; mental feelings are making due progress too, towards a cheerful calmness &amp; all that is natural.</p>
+    </div></body>
+  </text>
+</TEI>

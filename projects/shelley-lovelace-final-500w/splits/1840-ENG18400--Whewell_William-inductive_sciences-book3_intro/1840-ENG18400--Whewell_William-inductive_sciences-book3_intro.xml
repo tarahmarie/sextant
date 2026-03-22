@@ -1,0 +1,782 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Novum Organon Renovatum</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="18">
+CHAPTER II.
+Of Methods of Observation.
+Aphorism XXVIII.
+The Methods of Observation of Quantity in general are,
+Numeration, which is precise by the nature of Number; the
+Measurement of Space and of Time, which are easily made
+precise; the Conversion of Space and Time, by which each
+aids the measurement of the other; the Method of Repetition;
+the Method of Coincidences or Interferences. The
+measurement of Weight is made precise by the Method of
+Double-weighing. Secondary Qualities are measured by
+means of Scales of Degrees; but in order to apply these
+Scales, the student requires the Education of the Senses.
+The Education of the Senses is forwarded by the practical
+study of Descriptive Natural History, Chemical Manipulation,
+and Astronomical Observation.
+1. I
+SHALL speak, in this chapter, of Methods
+of exact and systematic observation, by which
+such facts are collected as form the materials of precise
+scientific propositions. These Methods are very various,
+according to the nature of the subject inquired
+into, and other circumstances: but a great portion of
+them agree in being processes of measurement. These
+I shall peculiarly consider: and in the first place those
+referring to Number, Space, and Time, which are at
+the same time objects and instruments of measurement.
+2. But though we have to explain how observations
+may be made as perfect as possible, we must not
+forget that in most cases complete perfection is
+unattainable. Observations are never perfect.
+For we 146
+observe phenomena by our senses, and measure their
+relations in time and space; but our senses and our
+measures are all, from various causes, inaccurate. If
+we have to observe the exact place of the moon among
+the stars, how much of instrumental apparatus is
+necessary! This apparatus has been improved by
+many successive generations of astronomers, yet it is
+still far from being perfect. And the senses of man,
+as well as his implements, are limited in their exactness.
+Two different observers do not obtain precisely
+the same measures of the time and place of a phenomenon;
+as, for instance, of the moment at which the
+moon occults a star, and the point of her limb at which
+the occultation takes place. Here, then, is a source of
+inaccuracy and errour, even in astronomy, where the
+means of exact observation are incomparably more
+complete than they are in any other department of
+human research. In other cases, the task of obtaining
+accurate measures is far more difficult. If we have
+to observe the tides of the ocean when rippled with
+waves, we can see the average level of the water first
+rise and then fall; but how hard is it to select the exact
+moment when it is at its greatest height, or the exact
+highest point which it reaches! It is very easy, in such
+a case, to err by many minutes in time, and by several
+inches in space.
+Still, in many cases, good Methods can remove very
+much of this inaccuracy, and to these we now proceed.
+3. (I.) Number.—Number is the first step of
+measurement, since it measures itself, and does not, like
+space and time, require an arbitrary standard. Hence
+the first exact observations, and the first advances of
+rigorous knowledge, appear to have been made by means
+of number; as for example,—the number of days in a
+month and in a year;—the cycles according to which
+eclipses occur;—the number of days in the revolutions
+of the planets; and the like. All these discoveries, as
+we have seen in the History of Astronomy, go back to
+the earliest period of the science, anterior to any
+distinct tradition; and these discoveries presuppose a series,
+probably a very long series, of observations, made 147
+principally by means of number. Nations so rude as to
+have no other means of exact measurement, have still
+systems of numeration by which they can reckon to a
+considerable extent. Very often, such nations have very
+complex systems, which are capable of expressing numbers
+of great magnitude. Number supplies the means
+of measuring other quantities, by the assumption of a
+unit of measure of the appropriate kind: but where
+nature supplies the unit, number is applicable directly
+and immediately. Number is an important element in
+the Classificatory as well as in the Mathematical Sciences.
+The History of those Sciences shows how the
+formation of botanical systems was effected by the
+adoption of number as a leading element, by Cæsalpinus;
+and how afterwards the Reform of Linnæus in classification
+depended in a great degree on his finding, in the
+pistils and stamens, a better numerical basis than those
+before employed. In like manner, the number of rays
+in the membrane of the gills1,
+and the number of rays
+in the fins of fish, were found to be important elements
+in ichthyological classification by Artedi and Linnæus.
+There are innumerable instances, in all parts of Natural
+History, of the importance of the observation of number.
+And in this observation, no instrument, scale or
+standard is needed, or can be applied; except the
+scale of natural numbers, expressed either in words or
+in figures, can be considered as an instrument.
+1
+ Hist. Ind. Sc. b. xvi. c. vii.
+4. (II.) Measurement of Space.—Of quantities
+admitting of continuous increase and decrease,
+(for number is discontinuous,) space is the most simple in its
+mode of measurement, and requires most frequently to
+be measured. The obvious mode of measuring space is
+by the repeated application of a material measure, as
+when we take a foot-rule and measure the length of a
+room. And in this case the foot-rule is the unit of
+space, and the length of the room is expressed by the
+number of such units which it contains: or, as it may
+not contain an exact number, by a number with a
+fraction. But besides this measurement of linear space, 148
+there is another kind of space which, for purposes of
+science, it is still more important to measure, namely,
+angular space. The visible heavens being considered
+as a sphere, the portions and paths of the heavenly
+bodies are determined by drawing circles on the surface
+of this sphere, and are expressed by means of the parts
+of these circles thus intercepted: by such measures the
+doctrines of astronomy were obtained in the very beginning
+of the science. The arcs of circles thus measured,
+are not like linear spaces, reckoned by means of an
+arbitrary unit, for there is a natural unit, the total
+circumference, to which all arcs may be referred. For
+the sake of convenience, the whole circumference is
+divided into 360 parts or degrees; and by means of
+these degrees and their parts, all arcs are expressed.
+The arcs are the measures of the angles at the center,
+and the degrees may be considered indifferently as
+measuring the one or the other of these quantities.
+5. In the History of
+Astronomy2,
+I have described
+the method of observation of celestial angles employed
+by the Greeks. They determined the lines in which
+the heavenly bodies were seen, by means either of
+Shadows, or of Sights; and measured the angles between
+such lines by arcs or rules properly applied to
+them. The Armill, Astrolabe, Dioptra, and Parallactic
+Instrument of the ancients, were some of the
+instruments thus constructed. Tycho Brahe greatly
+improved the methods of astronomical observation by
+giving steadiness to the frame of his instruments,
+(which were large quadrants,) and accuracy to the
+divisions of the limb3.
+But the application of the
+telescope to the astronomical quadrant and the fixation of
+the center of the field by a cross of fine wires placed in
+the focus, was an immense improvement of the instrument,
+since it substituted a precise visual ray, pointing
+to the star, instead of the coarse coincidence of Sights.
+The accuracy of observation was still further increased 149
+by applying to the telescope a micrometer which might
+subdivide the smaller divisions of the arc.
+2
+Hist. Ind. Sc.  b. iii. c. iv. sect. 3.
+3
+Ib. b. vii. c. vi. sect. 1.
+6. By this means, the precision of astronomical observation
+was made so great, that very minute angular
+spaces could be measured: and it then became a question
+whether discrepancies which appeared at first as
+defects in the theory, might not arise sometimes from
+a bending or shaking of the instrument, and from the
+degrees marked on the limb being really somewhat
+unequal, instead of being rigorously equal. Accordingly,
+the framing and balancing of the instrument, so
+as to avoid all possible tremor or flexure, and the exact
+division of an arc into equal parts, became great objects
+of those who wished to improve astronomical observations.
+The observer no longer gazed at the stars from
+a lofty tower, but placed his telescope on the solid
+ground,—and braced and balanced it with various
+contrivances. Instead of a quadrant, an entire circle was
+introduced (by Ramsden;) and various processes were
+invented for the dividing of instruments. Among
+these we may notice Troughton’s method of dividing;
+in which the visual ray of a microscope was substituted
+for the points of a pair of compasses, and, by stepping
+round the circle, the partial arcs were made to bear
+their exact relation to the whole circumference.
+7. Astronomy is not the only science which depends on
+the measurement of angles. Crystallography
+also requires exact measures of this kind; and the
+goniometer, especially that devised by Wollaston,
+supplies the means of obtaining such measures. The
+science of Optics also, in many cases, requires the
+measurement of angles.
+8. In the measurement of linear space, there is no
+natural standard which offers itself. Most of the common
+measures appear to be taken from some part of
+the human body; as a foot, a cubit, a fathom; but such
+measures cannot possess any precision, and are altered
+by convention: thus there were in ancient times many
+kinds of cubits; and in modern Europe, there are a
+great number of different standards of the foot, as the
+Rhenish foot, the Paris foot, the English foot. It is 150
+very desirable that, if possible, some permanent standard,
+founded in nature, should be adopted; for the conventional
+measures are lost in the course of ages; and
+thus, dimensions expressed by means of them become
+unintelligible. Two different natural standards have
+been employed in modern times: the French have
+referred their measures of length to the total
+circumference of a meridian of the earth; a quadrant of this
+meridian consists of ten million units or metres. The
+English have fixed their linear measure by reference to
+the length of a pendulum which employs an exact
+second of time in its small oscillation. Both these
+methods occasion considerable difficulties in carrying
+them into effect; and are to be considered mainly as
+means of recovering the standard if it should ever be
+lost. For common purposes, some material standard is
+adopted as authority for the time: for example, the
+standard which in England possessed legal authority
+up to the year 1835 was preserved in the House of
+Parliament; and was lost in the conflagration which
+destroyed that edifice. The standard of length now
+generally referred to by men of science in England is
+that which is in the possession of the Astronomical
+Society of London.
+9. A standard of length being established, the
+artifices for applying it, and for subdividing it in the
+most accurate manner, are nearly the same as in the
+case of measures of arcs: as for instance, the employment
+of the visual rays of microscopes instead of the
+legs of compasses and the edges of rules; the use of
+micrometers for minute measurements; and the like.
+Many different modes of avoiding errour in such
+measurements have been devised by various observers,
+according to the nature of the cases with which they
+had to deal4.
+4 On the precautions employed in astronomical
+instruments for the measure of space, see Sir J. Herschel’s
+Astronomy (in the Cabinet Cyclopædia,) Arts. 103–110.
+10. (III.) Measurement of Time.—The methods of
+measuring Time are not so obvious as the methods of 151
+measuring space; for we cannot apply one portion of
+time to another, so as to test their equality. We are
+obliged to begin by assuming some change as the measure
+of time. Thus the motion of the sun in the sky,
+or the length and position of the shadows of objects,
+were the first modes of measuring the parts of the day.
+But what assurance had men, or what assurance could
+they have, that the motion of the sun or of the shadow
+was uniform? They could have no such assurance,
+till they had adopted some measure of smaller times;
+which smaller times, making up larger times by repetition,
+they took as the standard of uniformity;—for
+example, an hour-glass, or a clepsydra which answered
+the same purpose among the ancients. There is no
+apparent reason why the successive periods measured
+by the emptying of the hour-glass should be unequal;
+they are implicitly accepted as equal; and by reference
+to these, the uniformity of the sun’s motion may be
+verified. But the great improvement in the measurement
+of time was the use of a pendulum for the purpose by
+Galileo, and the application of this device to
+clocks by Huyghens in 1656. For the successive
+oscillations of a pendulum are rigorously equal, and a clock
+is only a train of machinery employed for the purpose
+of counting these oscillations. By means of this invention,
+the measure of time in astronomical observations
+became as accurate as the measure of space.
+11. What is the natural unit of time? It was assumed
+from the first by the Greek astronomers, that
+the sidereal days, measured by the revolution of a star
+from any meridian to the same meridian again, are
+exactly equal; and all improvements in the measure of
+time tended to confirm this assumption. The sidereal
+day is therefore the natural standard of time. But the
+solar day, determined by the diurnal revolution of the
+sun, although not rigorously invariable, as the sidereal
+day is, undergoes scarcely any perceptible variation;
+and since the course of daily occurrences is regulated
+by the sun, it is far more convenient to seek the basis
+of our unit of time in his motions. Accordingly the
+solar day (the mean solar day) is divided into 24 hours, 152
+and these, into minutes and seconds; and this is our
+scale of time. Of such time, the sidereal day has 23
+hours 56 minutes 4·09 seconds. And it is plain that
+by such a statement the length of the hour is fixed,
+with reference to a sidereal day. The standard of
+time (and the standard of space in like manner) equally
+answers its purpose, whether or not it coincides with
+any whole number of units.
+12. Since the sidereal day is thus the standard of
+our measures of time, it becomes desirable to refer to
+it, constantly and exactly, the instruments by which
+time is measured, in order that we may secure ourselves
+against errour. For this purpose, in astronomical
+observatories, observations are constantly made of the
+transit of stars across the meridian; the transit instrument
+with which this is done being adjusted with
+all imaginable regard to
+accuracy5.
+5
+ On the precautions employed in the measure of
+time by astronomers, see Herschel’s Astronomy, Art. 115–127.
+13. When exact measures of time are required in
+other than astronomical observations, the same instruments
+are still used, namely, clocks and chronometers.
+In chronometers, the regulating part is an oscillating
+body; not, as in clocks, a pendulum oscillating by the
+force of gravity, but a wheel swinging to and fro on
+its center, in consequence of the vibrations of a slender
+coil of elastic wire. To divide time into still
+smaller portions than these vibrations, other artifices
+are used; some of which will be mentioned under the
+next head.
+14. (IV.) Conversion of Space and Time.—Space
+and time agree in being extended quantities, which are
+made up and measured by the repetition of homogeneous
+parts. If a body move uniformly, whether in
+the way of revolving or otherwise, the space which any
+point describes, is proportional to the time of its
+motion; and the space and the time may each be
+taken as a measure of the other. Hence in such cases,
+by taking space instead of time, or time instead of 153
+space, we may often obtain more convenient and precise
+measures, than we can by measuring directly the
+element with which we are concerned.
+The most prominent example of such a conversion,
+is the measurement of the Right Ascension of stars,
+(that is, their angular distance from a standard
+meridian6
+on the celestial sphere,) by means of the time
+employed in their coming to the meridian of the place
+of observation. Since, as we have already stated, the
+visible celestial sphere, carrying the fixed stars,
+revolves with perfect uniformity about the pole; if we
+observe the stars as they come in succession to a fixed
+circle passing through the poles, the intervals of time
+between these observations will be proportional to the
+angles which the meridian circles passing through these
+stars make at the poles where they meet; and hence,
+if we have the means of measuring time with great
+accuracy, we can, by watching the times of the transits
+of successive stars across some visible mark in our own
+meridian, determine the angular distances of the
+meridian circles of all the stars from one another.
+6
+ A meridian is a circle passing through the
+poles about which the celestial sphere revolves. The meridian
+of any place on the earth is that  meridian which is
+exactly over the place.
+Accordingly, now that the pendulum clock affords
+astronomers the means of determining time exactly, a
+measurement of the Right Ascensions of heavenly
+bodies by means of a clock and a transit instrument,
+is a part of the regular business of an observatory. If
+the sidereal clock be so adjusted that it marks the
+beginning of its scale of time when the first point of
+Right Ascension is upon the visible meridian of our
+observatory, the point of the scale at which the clock
+points when any other star is in our meridian, will
+truly represent the Right Ascension of the star.
+Thus as the motion of the stars is our measure of
+time, we employ time, conversely, as our measure of
+the places of the stars. The celestial machine and our
+terrestrial machines correspond to each other in their
+movements; and the star steals silently and steadily 154
+across our meridian line, just as the pointer of the
+clock steals past the mark of the hour. We may judge
+of the scale of this motion by considering that the full
+moon employs about two minutes of time in sailing
+across any fixed line seen against the sky, transverse
+to her path: and all the celestial bodies, carried along
+by the revolving sphere, travel at the same rate.
+15. In this case, up to a certain degree, we render
+our measures of astronomical angles more exact and
+convenient by substituting time for space; but when,
+in the very same kind of observation, we wish to proceed
+to a greater degree of accuracy, we find that it
+is best done by substituting space for time. In observing
+the transit of a star across the meridian, if we
+have the clock within hearing, we can count the beats
+of the pendulum by the noise which they make, and
+tell exactly at which second of time the passage of the
+star across the visible thread takes place; and thus we
+measure Right Ascension by means of time. But our
+perception of time does not allow us to divide a second
+into ten parts, and to pronounce whether the transit
+takes place three-tenths, six-tenths, or seven-tenths of
+a second after the preceding beat of the clock. This,
+however, can be done by the usual mode of observing
+the transit of a star. The observer, listening to the
+beat of his clock, fastens his attention upon the star at
+each beat, and especially at the one immediately before
+and the one immediately after the passage of the
+thread: and by this means he has these two positions
+and the position of the thread so far present to his
+intuition at once, that he can judge in what proportion
+the thread is nearer to one position than the other, and
+can thus divide the intervening second in its due proportion.
+Thus if he observe that at the beginning of
+the second the star is on one side of the thread, and at
+the end of the second on the other side; and that the
+two distances from the thread are as two to three, he
+knows that the transit took place at two-fifths (or
+four-tenths) of a second after the former beat. In this
+way a second of time in astronomical observations
+may, by a skilful observer, be divided into ten equal 155
+parts; although when time is observed as time, a tenth
+of a second appears almost to escape our senses. From
+the above explanation, it will be seen that the reason
+why the subdivision is possible in the way thus described,
+is this:—that the moment of time thus to be
+divided is so small, that the eye and the mind can
+retain, to the end of this moment, the impression of
+position which it received at the beginning. Though
+the two positions of the star, and the intermediate
+thread, are seen successively, they can be contemplated
+by the mind as if they were seen simultaneously: and
+thus it is precisely the smallness of this portion of
+time which enables us to subdivide it by means of
+space.
+16. There is another case, of somewhat a different
+kind, in which time is employed in measuring space;
+namely, when space, or the standard of space, is defined
+by the length of a pendulum oscillating in a given
+time. We might in this way define any space by the
+time which a pendulum of such a length would take
+in oscillating; and thus we might speak, as was observed
+by those who suggested this device, of five
+minutes of cloth, or a rope half an hour long. We
+may observe, however, that in this case, the space is
+not proportional to the time. And we may add, that
+though we thus appear to avoid the arbitrary standard of
+space (for as we have seen, the standard of
+measures of time is a natural one,) we do not do so in
+fact: for we assume the invariableness of gravity,
+which really varies (though very slightly,) from place
+to place.
+17. (V.) The Method of Repetition in Measurement.—In
+many cases we can give great additional
+accuracy to our measurements by repeatedly adding
+to itself the quantity which we wish to measure. Thus
+if we wished to ascertain the exact breadth of a thread,
+it might not be easy to determine whether it was one-ninetieth,
+or one-ninety-fifth, or one-hundredth part of
+an inch; but if we find that ninety-six such threads
+placed side by side occupy exactly an inch, we have
+the precise measure of the breadth of the thread. In 156
+the same manner, if two clocks are going nearly at the
+same rate, we may not be able to distinguish the excess
+of an oscillation of one of the pendulums over an
+oscillation of the other: but when the two clocks have
+gone for an hour, one of them may have gained ten
+seconds upon the other; thus showing that the proportion
+of their times of oscillation is 3610 to 3600.
+In the latter of these instances, we have the principle
+of repetition truly exemplified, because (as has been
+justly observed by Sir J. Herschel7,)
+there is then ‘a
+juxtaposition of units without errour,’—‘one vibration
+commences exactly where the last terminates, no part
+of time being lost or gained in the addition of the
+units so counted.’ In space, this juxtaposition of units
+without errour cannot be rigorously accomplished,
+since the units must be added together by material
+contact (as in the above case of the threads,) or in
+some equivalent manner. Yet the principle of repetition
+has been applied to angular measurement with
+considerable success in Borda’s Repeating Circle. In
+this instrument, the angle between two objects which
+we have to observe, is repeated along the graduated
+limb of the circle by turning the telescope from one
+object to the other, alternately fastened to the circle
+(by its clamp) and loose from it (by unclamping). In
+this manner the errours of graduation may (theoretically)
+be entirely got rid of: for if an angle repeated
+nine times be found to go twice round the circle, it
+must be exactly eighty degrees: and where the repetition does
+not give an exact number of circumferences,
+it may still be made to subdivide the errour to any
+required extent.
+7
+ Disc. Nat. Phil. art. 121.
+18. Connected with the principle of repetition, is
+the Method of coincidences or interferences. If we have
+two Scales, on one of which an inch is divided into 10,
+and on the other into 11 equal parts; and if, these
+Scales being placed side by side, it appear that the
+beginning of the latter Scale is between the 2nd and
+3rd division of the former, it may not be apparent 157
+what fraction added to 2 determines the place of beginning
+of the second Scale as measured on the first. But
+if it appear also that the 3rd division of the second
+Scale coincides with a certain division of the first, (the
+5th,) it is certain that 2 and three-tenths is the exact
+place of the beginning of the second Scale, measured
+on the first Scale. The 3rd division of the 11 Scale
+will coincide (or interfere with) a division of the 10
+Scale, when the beginning or zero of the 11 divisions
+is three-tenths of a division beyond the preceding line
+of the 10 Scale; as will be plain on a little consideration.
+And if we have two Scales of equal units, in
+which each unit is divided into nearly, but not quite,
+the same number of equal parts (as 10 and 11, 19 and
+20, 29 and 30,) and one sliding on the other, it will
+always happen that some one or other of the division
+lines will coincide, or very nearly coincide; and thus
+the exact position of the beginning of one unit, measured
+on the other scale, is determined. A sliding
+scale, thus divided for the purpose of subdividing the
+units of that on which it slides, is called a Vernier,
+from the name of its inventor.
+19. The same Principle of Coincidence or Interference
+is applied to the exact measurement of the length
+of time occupied in the oscillation of a pendulum. If
+a detached pendulum, of such a length as to swing in
+little less than a second, be placed before the seconds’
+pendulum of a clock, and if the two pendulums begin
+to move together, the former will gain upon the latter,
+and in a little while their motions will be quite discordant.
+But if we go on watching, we shall find
+them, after a time, to agree again exactly; namely,
+when the detached pendulum has gained one complete
+oscillation (back and forwards,) upon the clock pendulum,
+and again coincides with it in its motion. If this
+happen after 5 minutes, we know that the times of
+oscillation of the two pendulums are in the proportion
+of 300 to 302, and therefore the detached pendulum
+oscillates in 150⁄151
+of a second. The accuracy which can
+be obtained in the measure of an oscillation by this
+means is great; for the clock can be compared (by 158
+observing transits of the stars or otherwise) with
+the natural standard of time, the sidereal day. And
+the moment of coincidence of the two pendulums
+may, by proper arrangements, be very exactly determined.
+We have hitherto spoken of methods of measuring
+time and space, but other elements also may be very
+precisely measured by various means.
+20. (VI.) Measurement of Weight.—Weight, like
+space and time, is a quantity made up by addition of
+parts, and may be measured by similar methods. The
+principle of repetition is applicable to the measurement
+of weight; for if two bodies be simultaneously put in
+the same pan of a balance, and if they balance pieces in
+the other pan, their weights are exactly added.
+There may be difficulties of practiced workmanship
+in carrying into effect the mathematical conditions of
+a perfect balance; for example, in securing an exact
+equality of the effective arms of the beam in all positions.
+These difficulties are evaded by the Method of
+double weighing; according to which the standard
+weights, and the body which is to be weighed, are
+successively put in the same pan, and made to balance by
+a third body in the opposite scale. By this means the
+different lengths of the arms of the beam, and other
+imperfections of the balance, become of no
+consequence8.
+8
+ For other methods of measuring weights accurately,
+see Faraday’s Chemical Manipulation, p. 25.
+21. There is no natural Standard of weight. The
+conventional weight taken as the standard, is the
+weight of a given bulk of some known substance; for
+instance, a cubic foot of water. But in order that this
+may be definite, the water must not contain any portion
+of heterogeneous substance: hence it is required
+that the water be distilled water.
+22. (VII.) Measurement of Secondary Qualities.—We
+have already seen9 that
+secondary qualities are
+estimated by means of conventional Scales, which refer 159
+them to space, number, or some other definite expression.
+Thus the Thermometer measures heat; the
+Musical Scale, with or without the aid of number, expresses
+the pitch of a note; and we may have an exact
+and complete Scale of Colours, pure and impure. We
+may remark, however, that with regard to sound and
+colour, the estimates  of the ear and the eye are not
+superseded, but only assisted: for if we determine
+what a note is, by comparing it with an instrument
+known to be in tune, we still leave the ear to decide
+when the note is in unison with one of the notes of the
+instrument. And when we compare a colour with our
+chromatometer, we judge by the eye which division
+of the chromatometer it matches. Colour and sound
+have their Natural Scales, which the eye and ear
+habitually apply; what science requires is, that those
+scales should be systematized. We have seen that
+several conditions are requisite in such scales of
+qualities: the observer’s skill and ingenuity are mainly
+shown in devising such scales and methods of applying
+them.
+9
+B. iii. c. ii. Of the Measure of Secondary Qualities.
+23. The Method of Coincidences is employed in
+harmonics: for if two notes are nearly, but not quite,
+in unison, the coincidences of the vibrations produce
+an audible undulation in the note, which is called the
+howl; and the exactness of the unison is known by
+this howl vanishing.
+24. (VIII.) Manipulation.—The process of applying
+practically methods of experiment and observation, is
+termed Manipulation; and the value of observations
+depends much upon the proficiency of the
+observer in this art. This skill appears, as we have
+said, not only in devising means and modes in measuring
+results, but also in inventing and executing arrangements
+by which elements are subjected to such
+conditions as the investigation requires: in finding and
+using some material combination by which nature shall
+be asked the question which we have in our minds.
+To do this in any subject may be considered as a
+peculiar Art, but especially in Chemistry; where ‘many
+experiments, and even whole trains of research, are 160
+essentially dependent for success on mere
+manipulation10.’
+The changes which the chemist has to study,—compositions,
+decompositions, and mutual actions,
+affecting the internal structure rather than the external
+form and motion of bodies,—are not familiarly
+recognized by common observers, as those actions are
+which operate upon the total mass of a body: and
+hence it is only when the chemist has become, to a
+certain degree, familiar with his science, that he has
+the power of observing. He must learn to interpret
+the effects of mixture, heat, and other Chemical agencies,
+so as to see in them those facts which chemistry
+makes the basis of her doctrines. And in learning to
+interpret this language, he must also learn to call it
+forth;—to place bodies under the requisite conditions,
+by the apparatus of his own laboratory and the operations
+of his own fingers. To do this with readiness
+and precision, is, as we have said, an Art, both of the
+mind and of the hand, in no small degree recondite
+and difficult. A person may be well acquainted with
+all the doctrines of chemistry, and may yet fail in the
+simplest experiment. How many precautions and observances,
+what resource and invention, what delicacy
+and vigilance, are requisite in Chemical Manipulation,
+may be seen by reference to Dr. Faraday’s work on
+that subject.
+10
+Faraday’s Chemical Manipulation, p. 3.
+25. The same qualities in the observer are requisite
+in some other departments of science; for example,
+in the researches of Optics: for in these, after the first
+broad facts have been noticed, the remaining features
+of the phenomena are both very complex and very
+minute; and require both ingenuity in the invention
+of experiments, and a keen scrutiny of their results.
+We have instances of the application of these qualities
+in most of the optical experimenters of recent times,
+and certainly in no one more than Sir David Brewster.
+Omitting here all notice of his succeeding labours, his
+Treatise on New Philosophical Instruments, published
+in 1813, is an excellent model of the kind of resource 161
+and skill of which we now speak. I may mention as
+an example of this skill, his mode of determining the
+refractive power of an irregular fragment of any
+transparent substance. At first this might appear an
+impossible problem; for it would seem that a regular and
+smooth surface are requisite, in order that we may
+have any measurable refraction. But Sir David Brewster
+overcame the difficulty by immersing the fragment
+in a combination of fluids, so mixed, that they had the
+same refractive power as the specimen. The question,
+when they had this power, was answered by noticing
+when the fragment became so transparent that its surface
+could hardly be seen; for this happened when, the
+refractive power within and without the fragment being
+the same, there was no refraction at the surface. And this
+condition being obtained, the refractive power of the fluid,
+and therefore of the fragment, was easily ascertained.
+26. (IX.) The Education of the Senses.—Colour
+and Musical Tone are, as we have seen, determined by
+means of the Senses, whether or not Systematical Scales
+are used in expressing the observed fact. Systematical
+Scales of sensible qualities, however, not only give
+precision to the record, but to the observation. But for
+this purpose such an Education of the Senses is requisite
+as may enable us to apply the scale immediately.
+The memory must retain the sensation or perception
+to which the technical term or degree of the scale
+refers. Thus with regard to colour, as we have said
+already11,
+when we find such terms as tin-white or
+pinchbeck-brown, the metallic colour so denoted ought
+to occur at once to our recollection without delay or
+search. The observer’s senses, therefore, must be educated,
+at first by an actual exhibition of the standard,
+and afterwards by a familiar use of it, to understand
+readily and clearly each phrase and degree of the scales
+which in his observations he has to apply. This is not
+only the best, but in many cases the only way in which
+the observation can be expressed. Thus glassy lustre,
+fatty lustre, adamantine lustre, denote
+certain kinds of 162
+shining in minerals, which appearances we should
+endeavour in vain to describe by periphrasis; and
+which the terms, if considered as terms in common
+language, would by no means clearly discriminate: for
+who, in common language, would say that coal has a
+fatty lustre? But these terms, in their conventional
+sense, are perfectly definite; and when the eye is once
+familiarized with this application of them, are easily
+and clearly intelligible.
+11 B. viii. c. iii. Terminology.
+[Please see Transcriber’s Notes.]
+27. The education of the senses, which is thus
+requisite in order to understand well the terminology
+of any science, must be acquired by an inspection of
+the objects which the science deals with; and is, perhaps,
+best promoted by the practical study of Natural
+History. In the different departments of Natural
+History, the descriptions of species are given by means
+of an extensive technical terminology: and that education
+of which we now speak, ought to produce the effect
+of making the observer as familiar with each of the terms
+of this terminology as we are with the words of our
+common language. The technical terms have a much
+more precise meaning than other terms, since they are
+defined by express convention, and not learnt by common
+usage merely. Yet though they are thus defined,
+not the definition, but the perception itself, is that
+which the term suggests to the proficient.
+In order to use the terminology to any good purpose,
+the student must possess it, not as a dictionary,
+but as a language. The terminology of his sciences
+must be the natural historian’s most familiar tongue.
+He must learn to think in such language. And when
+this is achieved, the terminology, as I have elsewhere
+said, though to an uneducated eye cumbrous and
+pedantical, is felt to be a useful implement, not an
+oppressive burden12.
+The impatient schoolboy looks upon
+his grammar and vocabulary as irksome and burdensome;
+but the accomplished student who has learnt
+the language by means of them, knows that they have
+given him the means of expressing what he thinks, and 163
+even of thinking more precisely. And as the study of
+language thus gives precision to the thoughts, the study
+of Natural History, and especially of the descriptive
+part of it, gives precision to the senses.
+12
+ Hist. Ind. Sc. b. xvi. c. iv. sect. 2.
+The Education of the Senses is also greatly promoted
+by the practical pursuit of any science of experiment
+and observation, as chemistry or astronomy.
+The methods of manipulating, of which we have just
+spoken, in chemistry, and the methods of measuring
+extremely minute portions of space and time which are
+employed in astronomy, and which are described in
+the former part of this chapter, are among the best
+modes of educating the senses for purposes of scientific
+observation.
+28. By the various Methods of precise observation
+which we have thus very briefly described, facts are
+collected, of an exact and definite kind; they are then
+bound together in general laws, by the aid of general
+ideas and of such methods as we have now to consider.
+It is true, that the ideas which enable us to combine
+facts into general propositions, do commonly operate in
+our minds while we are still engaged in the office of
+observing. Ideas of one kind or other are requisite to
+connect our phenomena into facts, and to give meaning
+to the terms of our descriptions: and it frequently
+happens, that long before we have collected all the
+facts which induction requires, the mind catches the
+suggestion which some of these ideas offer, and leaps
+forwards to a conjectural law while the labour of observation
+is yet unfinished. But though this actually
+occurs, it is easy to see that the process of combining
+and generalizing facts is, in the order of nature, posterior
+to, and distinct from, the process of observing
+facts. Not only is this so, but there is an intermediate
+step which, though inseparable from all successful
+generalization, may be distinguished from it in our
+survey; and may, in some degree, be assisted by peculiar
+methods. To the consideration of such methods
+we now proceed.
+</div></body></text></TEI>

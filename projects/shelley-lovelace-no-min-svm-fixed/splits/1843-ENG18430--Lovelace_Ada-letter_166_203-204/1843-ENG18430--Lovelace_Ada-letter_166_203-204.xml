@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 203-204</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 203-204.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1843">undated (estimated from box 166 date range)</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 203-204</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_203-204.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Monday Morg</p>
+      <p>Dearest Old Crow. Thanks for your long letter! I am improving, and getting in all things happier &amp; more settled.</p>
+      <p>I have little to say, for I live so very quietly, seeing scarcely any one; &amp; find increasingly</p>
+      <p>that my home-studies, (be they in turn, music, science, or literature, are what best suit me. The Theatres I get to love merely as instruments of study [double underline too; going now with my packet of music generally; to the quietest back-seat I can get, &amp; feeling absorbed in the artistical ideas suggested by the performance!-- I enjoy</p>
+      <p>London as conducing to all this cultivation; but the Thrush likes too to hear what happens in the fair &amp; beautiful country, which after all is God's own work, far more than all Towns!</p>
+      <p>Dear William! I find I enjoy pictures much of late; &amp; perhaps you (who in this are so good a judge &amp; critique), will help to develop my taste &amp; knowledge in this line!</p>
+      <p>Oh! You'll see I shall become a very artistical Avis, in all things;-- and all the better for having Science as a foundation, &amp; the imaginative &amp; creative developped only after [very thick underline] "la "premiere [accent mark over the 2nd "e"] jeunesse"!--</p>
+      <p>[next three lines of text completely crossed out]</p>
+      <p>So believe me, my Dear. Thine ever engaging,-- Thy fairest and gentlest of thrushes!</p>
+    </div></body>
+  </text>
+</TEI>

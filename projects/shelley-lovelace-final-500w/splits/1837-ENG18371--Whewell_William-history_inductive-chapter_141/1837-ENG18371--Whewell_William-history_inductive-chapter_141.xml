@@ -1,0 +1,105 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="141">CHAPTER XIII.
+Undulatory Theory.
+
+Direction of the Transverse Vibrations in
+Polarization.
+IN the conclusion of Chapter xiii. I have stated that there is a point
+in the undulatory theory which was regarded as left undecided by Young
+and Fresnel, and on which the two different opinions have been
+maintained by different mathematicians; namely, whether the vibrations
+of polarized light are perpendicular to the plane of polarization or
+in that plane. Professor Stokes of Cambridge has attempted to solve
+this question in a manner which is, theoretically, exceedingly
+ingenious, though it is difficult to make the requisite experiments in
+a decisive manner. The method may be briefly described.
+If polarized light be diffracted (see Chap. xi. sect. 2), each ray will be bent from its position,
+but will still be polarized. The original ray and the diffracted ray,
+thus forming a broken line, may be supposed to be connected at the
+angle by a universal joint (called a Hooke’s Joint), such that
+when the original ray turns about its axis, the diffracted ray also
+turns about its axis; as in the case of the long handle of a telescope
+and the screw which is turned by it. Now if the motion of the original
+ray round its axis be uniform, the motion of the diffracted ray round
+its axis is not uniform: and hence if, in a series of cases, the
+planes of polarization of the original ray differ by equal angles, in
+the diffracted ray the planes of polarization will differ by unequal
+angles. Then if vibrations be perpendicular to the plane of
+polarization, the planes of polarization in the diffracted rays will
+be crowded together in the neighborhood of the plane in which the
+diffraction takes place, and will be more rarely distributed in the
+neighborhood of the plane perpendicular to this, in which is the
+diffracting thread or groove.
+On making the experiment, Prof. Stokes conceived that he found, in
+his experiments, such a crowding of the planes of diffracted
+polarization towards the plane of diffraction; and thus he held that
+the 604 hypothesis
+that the transverse vibrations which constitute polarization are
+perpendicularly transverse to the plane of polarization was
+confirmed.8
+8 Camb. Trans., vol. ix. part i.
+1849.
+But Mr. Holtzmann,9 who, assenting to the reasoning, has
+made the experiment in a somewhat different manner, has obtained an
+opposite result; so that the point may be regarded as still
+doubtful.
+9 Phil. Mag., Feb. 1857.
+Final Disproof of the Emission Theory.
+As I have stated in the History, we cannot
+properly say that there ever was an Emission Theory of Light which was
+the rival of the Undulatory Theory: for while the undulatory
+theory provided explanations of new classes of phenomena as fast as
+they arose, and exhibited a consilience of theories in these
+explanations, the hypothesis of emitted particles required new
+machinery for every new set of facts, and soon ceased to be capable
+even of expressing the facts. The simple cases of the ordinary
+reflexion and refraction of light were explained by Newton on the
+supposition that the transmission of light is the motion of particles:
+and though his explanation includes a somewhat harsh assumption (that
+a refracting surface exercises an attractive force through a fixed
+finite space), the authority of his great name gave it a sort of
+permanent notoriety, and made it to be regarded as a standard point of
+comparison between a supposed “Emission Theory” and the undulation
+theory. And the way in which the theories were to be tested in this
+case was obvious: in the Newtonian theory, the velocity of light is
+increased by the refracting medium; in the undulatory theory, it is
+diminished. On the former hypothesis the velocity of light in air and
+in water is as 3 to 4; in the latter, as 4 to 3.
+But the immense velocity of light made it appear impossible to
+measure it, within the limits of any finite space which we can occupy
+with refracting matter. The velocity of light is known from
+astronomical phenomena;—from the eclipses of Jupiter’s
+satellites, by which it appears that light occupies 8 minutes in
+coming from the sun to the earth; and from the aberration of light, by
+which its velocity is shown to be 10,000 times the velocity of the
+earth in its orbit. Is it, then, possible to make apparent so small a
+difference as that between its passing through a few yards of air and
+of water?
+Mr. Wheatstone, in 1831, invented a machine by which this could
+605 be done. His
+object was to determine the velocity of the electric shock. His
+apparatus consisted in a small mirror, turning with great velocity
+about an axis which is in its own plane, like a coin spinning on its
+edge. The velocity of spinning may be made so great, that an object
+reflected shall change its place perceptibly after an almost
+inconceivably small fraction of a second. The application of this
+contrivance to measure the velocity of light, was, at the suggestion
+of Arago, who had seen the times of the rival theories of light,
+undertaken by younger men at Paris, his eyesight not allowing him to
+prosecute such a task himself. It was necessary that the mirrors
+should turn more than 1000 times in a second, in order that the two
+images, produced, one by light coming through air, and the other by
+light coming through an equal length of water, should have places
+perceptibly different. The mechanical difficulties of the experiment
+consisted in keeping up this great velocity by the machinery without
+destroying the machinery, and in transmitting the light without too
+much enfeebling it. These difficulties were overcome in 1850, by M.
+Fizeau and M. Léon Foucault separately: and the result was, that the
+velocity of light was found to be less in water than in air. And thus
+the Newtonian explanation of refraction, the last remnant of the
+Emission Theory, was proved to be false.
+
+
+BOOK X.
+
+THERMOTICS.—ATMOLOGY.
+</div></body></text></TEI>

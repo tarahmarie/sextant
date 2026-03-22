@@ -1,0 +1,164 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="50">CHAPTER I.
+Prelude to Newton.
+
+The Ancients.
+EXPRESSIONS in ancient writers
+which may be interpreted as indicating a notion of gravitation in the
+Newtonian sense, no doubt occur. But such a notion, we may be sure,
+must have been in the highest degree obscure, wavering, and partial. I
+have mentioned (Book i. Chap. 3) an author who
+has fancied that he traces in the works of the ancients the origin of
+most of the vaunted discoveries of the moderns. But to ascribe much
+importance to such expressions would be to give a false representation
+of the real progress of science. Yet some of Newton’s followers put
+forward these passages as well deserving notice; and Newton himself
+appears to have had some pleasure in citing such expressions; probably
+with the feeling that they relieved him of some of the odium which, he
+seems to have apprehended, hung over new discoveries. The Preface to
+the Principia, begins by quoting40 the authority of
+the ancients, as well as the moderns, in favor of applying the science
+of Mechanics to Natural Philosophy. In the Preface to David Gregory’s
+Astronomiæ Physicæ et Geometricæ Elementa, published in 1702,
+is a large array of names of ancient authors, and of quotations, to
+prove the early and wide diffusion of the doctrine of the gravity of
+the Heavenly Bodies. And it appears to be now made out, that this
+collection of ancient authorities 545 was supplied to Gregory by Newton
+himself. The late Professor Rigaud, in his Historical Essay on the
+First Publication of Sir Isaac Newton’s Principia, says (pp. 80
+and 101) that having been allowed to examine Gregory’s papers, he
+found that the quotations given by him in his Preface are copied or
+abridged from notes which Newton had supplied to him in his own
+handwriting. Some of the most noticeable of the quotations are those
+taken from Plutarch’s Dialogue on the Face which appears in the
+Moon’s Disk: it is there said, for example, by one of the
+speakers, that the Moon is perhaps prevented from falling to the earth
+by the rapidity of her revolution round it; as a stone whirled in a
+sling keeps it stretched. Lucretius also is quoted, as teaching that
+all bodies would descend with an equal celerity in a vacuum:
+
+Omnia quapropter debent per inane quietum
+Æque ponderibus non æquis concita ferri.
+Lib. ii. v.
+238.      
+40 Cum veteres Mechanicam (uti
+author est Pappus), in rerum Naturalium investigatione maximi
+fecerint, et recentiores, missis formis substantialibus et
+qualitatibus occultis, Phenonmena Naturæ ad leges mathematicas
+revocare aggressa sunt; visum est in hoc Tractatu Mathesin
+excolere quatenus ea ad Philosophiam spectat.
+It is asserted in Gregory’s Preface that Pythagoras was not
+unacquainted with the important law of gravity, the inverse squares of
+the distances from the centre. For, it is argued, the seven strings of
+Apollo’s lyre mean the seven planets; and the proportions of the notes
+of strings are reciprocally as the inverse squares of the weights
+which stretch them.
+I have attempted, throughout this work, to trace the progress of
+the discovery of the great truths which constitute real science, in a
+more precise manner than that which these interpretations of ancient
+authors exemplify.
+Jeremiah Horrox.
+In describing the Prelude to the Epoch of Newton, I have spoken (p. 395) of a group of philosophers in England
+who began, in the first half of the seventeenth century, to knock at
+the door where Truth was to be found, although it was left for Newton
+to force it open; and I have there noticed the influence of the civil
+wars on the progress of philosophical studies. To the persons thus
+tending towards the true physical theory of the solar system, I ought
+to have added Jeremy Horrox, whom I have mentioned in a former part
+(Book v. chap. 5) as one of the earliest
+admirers of Kepler’s discoveries. He died at the early age of
+twenty-two, having been the first person who ever saw Venus pass
+across the disk of the Sun according to astronomical prediction, which
+took place in 1639. His Venus in sole visa, 546 in which this is
+described, did not appear till 1661, when it was published by Hevelius
+of Dantzic. Some of his papers were destroyed by the soldiers in the
+English civil wars; and his remaining works were finally published by
+Wallis, in 1673. The passage to which I here specially wish to refer
+is contained in a letter to his astronomical ally, William Crabtree,
+dated 1638. He appears to have been asked by his friend to suggest
+some cause for the motion of the aphelion of a planet; and in reply,
+he uses an experimental illustration which was afterwards employed by
+Hooke in 1666. A ball at the end of a string is made to swing so that
+it describes an oval. This contrivance Hooke employed to show the way
+in which an orbit results from the combination of a projectile motion
+with a central force. But the oval does not keep its axis constantly
+in the same position. The apsides, as Horrox remarked, move in the
+same direction as the pendulum, though much slower. And it is true,
+that this experiment does illustrate, in a general way, the cause of
+the motion of the aphelia of the Planetary Orbits; although the form
+of the orbit is different in the experiment and in the solar system;
+being an ellipse with the centre of force in the centre of the
+ellipse, in the former case, and an ellipse with the centre of force
+in the focus, in the latter case. These two forms of orbits correspond
+to a central force varying directly as the distance, and a central
+force varying inversely as the square of the distance; as Newton
+proved in the Principia. But the illustration appears to show
+that Horrox pretty clearly saw how an orbit arose from a central
+force. So far, and no further, Newton’s contemporaries could get; and
+then he had to help them onwards by showing what was the law of the
+force, and what larger truths were now attainable.
+Newton’s Discovery of Gravitation.
+[Page 402.] As I have already remarked,
+men have a willingness to believe that great discoveries are governed
+by casual coincidences, and accompanied by sudden revolutions of
+feeling. Newton had entertained the thought of the moon being retained
+in her orbit by gravitation as early as 1665 or 1666. He resumed the
+subject and worked the thought out into a system in 1684 and 5. What
+induced him to return to the question? What led to his success on this
+last occasion? With what feelings was the success attended? It is easy
+to make an imaginary connection of facts. “His optical discoveries had
+recommended him to the Royal Society, and he was now a member. He
+547 there
+learned the accurate measurement of the Earth by Picard, differing
+very much from the estimation by which he had made his calculation in
+1666; and he thought his conjecture now more likely to be just.”41 M. Biot gives his assent to this
+guess.42 The English translation of M. Biot’s
+biography43 converts the guess into an assertion.
+But, says Professor Rigaud,44 Picard’s measurement of the Earth was
+well known to the Fellows of the Royal Society as early as 1675, there
+being an account of the results of it given in the Philosophical
+Transactions for that year. Moreover, Norwood, in his Seaman’s
+Practice, dated 1636, had given a much more exact measure than
+Newton employed in 1666. But Norwood, says Voltaire, had been buried
+in oblivion by the civil wars. No, again says the exact and
+truth-loving Professor Rigaud, Norwood was in communication with the
+Royal Society in 1667 and 1668. So these guesses at the accident which
+made the apple of 1665 germinate in 1684, are to be carefully
+distinguished from history.
+41 Robison’s Mechanical
+Philosophy, vol. iii. p. 94. (Art. 195.)
+42 Biographie
+Universelle.
+43 Library of Useful
+Knowledge.
+44 Historical Essay on the First
+Publication of the Principia (1838).
+But with what feelings did Newton attain to his success? Here again
+we have, I fear, nothing better than conjecture. “He went home, took
+out his old papers, and resumed his calculations. As they drew near to
+a close, he was so much agitated that he was obliged to desire a
+friend to finish them. His former conjecture was now found to agree
+with the phænomena with the utmost precision.”45 This conjectural
+story has been called “a tradition;” but he who relates it does not
+call it so. Every one must decide, says Professor Rigaud, from his
+view of Newton’s character, how far he thinks it consistent with this
+statement. Is it likely that Newton, so calm and so indifferent to
+fame as he generally showed himself, should be thus agitated on such
+an occasion? “No,” says Sir David Brewster; “it is not supported by
+what we know of Newton’s character.”46 To this we may
+assent; and this conjectural incident we must therefore, I conceive,
+separate from history. I had incautiously admitted it into the text of
+the first Edition.
+45 Robison, ibid.
+46 Life of Newton, vol. i. p.
+292.
+Newton appears to have discovered the method of demonstrating that
+a body might describe an ellipse when acted upon by a force residing
+in the focus, and varying inversely as the square of the distance, in
+1669, upon occasion of his correspondence with Hooke. In 1684, 548 at Halley’s request,
+he returned to the subject; and in February, 1685 there was inserted
+in the Register of the Royal Society a paper of Newton’s (Isaaci
+Newtoni Propositiones de Motu), which contained some of the
+principal propositions of the first two Books of the Principia.
+This paper, however, does not contain the proposition “Lunam gravitare
+in Terram,” nor any of the propositions of the Third Book.
+</div></body></text></TEI>

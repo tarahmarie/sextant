@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 186-187</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 186-187.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1852">undated [11 July 1852?]</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 186-187</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_186-187.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Sunday Night</p>
+      <p>I have had a more comfortable day, notwithstanding a horrible night of starts , such that I never slept for 5 minutes until after 7 in the morg.</p>
+      <p>But we expect to do better tonight. Young Mr Barwell is to sleep here, in order to watch me. Miss Boutelle is quite worn out. She could not leave my bedside</p>
+      <p>at all.</p>
+      <p>I have taken more nourishment today, a good deal; &amp; feel stronger &amp; quieter, Pain not bad. So altogether I expect to send you a better account tomorrow. We hope to master my starts. They amount to jolts, leaps, jumps, antics!-- Supposed to be from my having</p>
+      <p>diminished the opium .</p>
+      <p>We have some nice plans in view. And I hope to drive out (in an Carriage) tomorrow evg.</p>
+      <p>It is thought that Mr Barwell may be of great use, (under other medical men of course). I am so disgusted with sufferings, that I am sure I cling to any hope. But I am in better heart today.</p>
+    </div></body>
+  </text>
+</TEI>

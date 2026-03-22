@@ -1,0 +1,130 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title></title><author>Whewell William</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1858</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="21"> 
+
+NOVUM ORGANON RENOVATUM.
+
+BOOK IV.
+of the language of science.
+
+
+Introduction.
+IT has been shown in the History of the Sciences,
+and has further appeared in the course of the
+History of Ideas, that almost every step in the progress
+of science is marked by the formation or appropriation
+of a technical term. Common language has,
+in most cases, a certain degree of looseness and ambiguity;
+as common knowledge has usually something of
+vagueness and indistinctness. In common cases too,
+knowledge usually does not occupy the intellect alone,
+but more or less interests some affection, or puts in
+action the fancy; and common language, accommodating itself
+to the office of expressing such knowledge, contains,
+in every sentence, a tinge of emotion
+or of imagination. But when our knowledge becomes
+perfectly exact and purely intellectual, we require a
+language which shall also be exact and intellectual;—which
+shall exclude alike vagueness and fancy, imperfection
+and superfluity;—in which each term shall
+convey a meaning steadily fixed and rigorously limited.
+Such a language that of science becomes, through the
+use of Technical Terms. And we must now endeavour
+to lay down some maxims and suggestions, by attention
+to which Technical Terms may be better fitted to
+answer their purpose. In order to do this, we shall in 258
+the first place take a rapid survey of the manner in
+which Technical Terms have been employed from the
+earliest periods of scientific history.
+The progress of the use of technical scientific language
+offers to our notice two different and successive
+periods; in the first of which, technical terms were
+formed casually, as convenience in each case prompted;
+while in the second period, technical language was
+constructed intentionally, with set purpose, with a regard
+to its connexion, and with a view of constructing a
+system. Though the casual and the systematic formation
+of technical terms cannot be separated by any
+precise date of time, (for at all periods some terms in
+some sciences have been framed unsystematically,) we
+may, as a general description, call the former the Ancient
+and the latter the Modern Period. In illustrating
+the two following Aphorisms, I will give examples of
+the course followed in each of these periods.
+Aphorism I.
+In the Ancient Period of Sciences, Technical Terms were
+formed in three different ways:—by appropriating common
+words and fixing their meaning;—by constructing terms
+containing a description;—by constructing terms containing
+reference to a theory.
+The earliest sciences offer the earliest examples of
+technical terms. These are Geometry, Arithmetic, and
+Astronomy; to which we have soon after to add Harmonics,
+Mechanics, and Optics. In these sciences, we
+may notice the above-mentioned three different modes
+in which technical terms were formed.
+I. The simplest and first mode of acquiring technical
+terms, is to take words current in common usage,
+and by rigorously defining or otherwise fixing their
+meaning, to fit them for the expression of scientific
+truths. In this manner almost all the fundamental
+technical terms of Geometry were formed. A sphere,
+a cone, a cylinder, had among the Greeks, at first, 259
+meanings less precise than those which geometers gave
+to these words, and besides the mere designation of
+form, implied some use or application. A sphere
+(σφαῖρα) was a hand-ball used in games; a cone (κῶνος)
+was a boy’s spinning-top, or the crest of a helmet; a
+cylinder (κύλινδρος) was a roller; a cube (κύβος) was a
+die: till these words were adopted by the geometers,
+and made to signify among them pure modifications of
+space. So an angle (γωνία) was only a corner; a point
+(σημεῖον) was a signal; a line (γραμμὴ) was a mark; a
+straight line (εὐθεῖα) was marked by an adjective which
+at first meant only direct. A plane (ἐπίπεδον) is the
+neuter form of an adjective, which by its derivation
+means on the ground, and hence flat. In all these
+cases, the word adopted as a term of science has its
+sense rigorously fixed; and where the common use of
+the term is in any degree vague, its meaning may be
+modified at the same time that it is thus limited.
+Thus a rhombus (ῥόμβος) by its derivation, might mean
+any figure which is twisted out of a regular form; but
+it is confined by geometers to that figure which has
+four equal sides, its angles being oblique. In like
+manner, a trapezium (τραπέζιον) originally signifies a
+table, and thus might denote any form; but as the tables
+of the Greeks had one side shorter than the opposite one, such a
+figure was at first called a trapezium.
+Afterwards the term was made to signify any figure
+with four unequal sides; a name being more needful in
+geometry for this kind of figure than for the original
+form.
+This class of technical terms, namely, words adopted
+from common language, but rendered precise and
+determinate for purposes of science, may also be
+exemplified in other sciences. Thus, as was observed in the
+early portion of the history of
+astronomy1,
+a day, a
+month, a year, described at first portions of time marked
+by familiar changes, but afterwards portions determined
+by rigorous mathematical definitions. The conception
+of the heavens as a revolving sphere, is so obvious, 260
+that we may consider the terms which involve this
+conception as parts of common language; as the pole
+(πόλος); the arctic circle, which includes the stars that
+never set2;
+the horizon (ὁρίζων) a boundary, applied
+technically to the circle bounding the visible earth
+and sky. The turnings of the sun (τροπαὶ ἠελίοιο),
+which are mentioned by Hesiod, gave occasion to the
+term tropics, the circles at which the sun in his annual
+motion turns back from his northward or southward
+advance. The zones of the earth, (the torrid,
+temperate, and frigid;) the gnomon of a dial; the limb (or
+border) of the moon, or of a circular instrument, are
+terms of the same class. An eclipse (ἔκλειψις) is
+originally a deficiency or disappearance, and joined with
+the name of the luminary, an eclipse of the sun or of
+the moon, described the phenomenon; but when the
+term became technical, it sufficed, without addition, to
+designate the phenomenon.</div></body></text></TEI>

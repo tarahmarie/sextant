@@ -1,0 +1,584 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Zoonomia Vol II</title><author>Darwin, Erasmus (1731-1802)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1796</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="10">ARTICLES.
+
+
+A.
+
+
+Absorption, iv. 2. 1.
+—— cutaneous, mucous, cellular, iv. 2. 2.
+—— of the veins, iv. 2. 4.
+—— of inflamed vessels, iv. 2. 4. 3.
+—— of intestines and liver, iv. 2. 5.
+—— of venereal ulcers, iv. 2. 7.
+—— not increased by cold, iv. 2. 1.
+—— increased by opium after evacuation, ii. 2. 1.
+Acacia, iv. 3. 5. 2.
+Acids austere, iv. 2. 1. 2. iv. 3. 1.
+—— vegetable, sweet, vii. 3. 4. iv. 2. 1. 2.
+—— mineral, vii. 3. 6.
+Acrid plants, iv. 2. 4.
+Agriculture, i. 2. 3. 7.
+Agues, three kinds, iv. 2. 3. 2. iv. 2. 5. iv. 2. 6. 8.
+Air nourishes, i. 2. 5.
+—— warm bath of, iv. 2. 3. 8.
+Alcali vol. iii. 3. 8.
+Alcohol, ii. 2. 1. v. 2. 4.
+Almond, bitter, ii. 3. 1.
+Alth�a, iii. 3. 3. 3.
+Allium, iii. 3. 3.
+Aloe, iii. 2. 5. iii. 2. 7. iii. 3. 5. 5. vi. 2. 5.
+Alum, iii. 2. 1. iv. 2. 2. iv. 2. 5. 2. iv. 2. 5. 3.
+Amalgama in worms, vii. 1. 2.
+Amomum zinziber, iii. 3. 1.
+Amber, oil of, vi. 3. 1. 4.
+Ammoniac gum, vi. 3. 1. iii. 3. 3.
+—— salt or spirit, iii. 3. 1. 3.
+Anasarca, warm bath in, ii. 2. 2.
+Anchovy, iii. 2. 1. iii. 3. 1. 4.
+Animal food, i. 2. 1. 1.
+Antimony prepared, iii. 3. 1. 5. iii. 2. 1. iv. 1. 10.
+Anthemis nobilis, iv. 3. 3.
+—— pyrethum, iii. 3. 2.
+Anxiety, v. 2. 4.
+Apium, petroselinum, iii. 3. 4. 4.
+Apoplexy, iv. 2. 11.
+Aristolochia serpentaria, iii. 3. 1.
+Armenian bole, vi. 2. 3. iv. 3. 5. 3.
+Arsenic in ague, iv. 2. 6. 8. iv. 3. 6.
+—— saturated solution of, iv. 2. 6. 8.
+—— in itch, iv. 2. 9.
+—— how it acts, iv. 2. 6. 9.
+—— how to detect it, iv. 2. 6. 10.
+Artemisia maritima, iv. 3. 3.
+—— absynthium, iv. 3. 3.
+—— santonicum, iv. 3. 3.
+Artichoke-leaves, iv. 3. 3.
+Asa fœtida, iii. 3. vi. 3. 1.
+Asarum Europeum v. 3. 3.
+Ascarides, vii. 1. 2. iii. 2. 7.
+Asparagus, iii. 3. 4. 4.
+Astragalus tragacanth, iii. 3. 3. 3.
+Atropa belladona, ii. 3. 1.
+Azote, i. 2. 5.
+
+
+B.
+
+
+Balsams diuretic, iii. 2. 4.
+Bandages promote absorption, iv. 2. 10.
+Bark, Peruvian, iv. 2. 2.
+—— long used noxious, iv. 2. 11.
+Barley, iii. 3. 3. 3.
+Bath, warm, ii. 2. 2. 1. iii. 3. 1. 6. iii. 3. 3. 4. iii. 2. 3. 3.
+—— of warm air, iv. 2. 3. 8.
+—— of steam, iv. 2. 3. 8.
+—— cold, vii. 2. 3.
+—— nutritive, i. 2. 6. 1.
+Benzoin, iii. 3. 3.
+Bile of animals, iii. 3. 5. 2.
+—— dilute state of, iv. 2. 6.
+Blisters, how they act, iii. 2. 1. 10.
+—— cure heart-burn, iii. 2. 1. 10.
+—— stop vomiting, vi. 2. 2.
+—— produce expectoration, iii. 2. 3. 2.
+—— increase perspiration, iii. 2. 1. 10.
+Blood, transfusion of, i. 2. 6. 3.
+Bog-bean, iv. 3. 3.
+Bole armeni�, iv. 2. 5. 3.
+Bone-ashes, iv. 2. 5. 3.
+Bowels, inflammation of, v. 2. 2. 2.
+Bryony, white, iii. 3. 8.
+—— as a blister, iii. 2. 8.
+Butter, i. 2. 3. 2.
+Butter-milk, i. 2. 2. 2.
+
+
+C.
+
+
+Cabbage-leaves, vii. 1. 2.
+Calcareous earth, i. 2. 4. 3.
+Calomel, iii. 2. 5. vi. 2. 5.
+—— in enteritis, v. 2. 2. 2.
+Camphor, iii. 3. 1.
+Canella alba, iii. 3. 1.
+Cantharides, iii. 2. 6. iii. 2. 8. v. 2. 4. vi. 2. 4.
+Capillary action increased by tobacco, iv. 2. 3. 7.
+Capsicum, iii. 3. 1.
+Carbonic acid gas, vii. 2. 6.
+Cardamomum, iii. 3. 1.
+Caryophyllus aromat. iii. 3. 1.
+Cardamine, iv. 3. 4.
+Cassia sistul, iii. 3. 5. 1.
+—— senna, iii. 3. 5. 5.
+Castor, vi. 2. 1. vi. 3. 1.
+Cathartics, mild, iii. 2. 5.
+—— violent, v. 2. 2.
+Cerussa in ulcers, iv. 2. 9. iv. 2. 7.
+Chalk, iv. 2. 5. 3.
+Chalybeates, iv. 3. 4. 2.
+Cheese, i. 2. 2. 3.
+Cherries, black, ii. 2. 1. 8.
+Chlorosis, iv. 2. 6. 5.
+Cicuta, ii. 3. 1.
+Cinchona, iv. 2. 2.
+Cinnamon, iii. 3. 1. 2.
+Clay, iv. 2. 5. 3.
+Cloves, iii. 3. 1. iii. 3. 2.
+Cnicus acarna, v. 3. 1.
+Cocculus indicus, ii. 3. 1.
+Cochlearia armoracia, iii. 3. 8. iv. 3. 4.
+—— hortensis, iv. 3. 4.
+Cold, continued application of, vii. 2. 3.
+—— interrupted, vii. 2. 3. iii. 3. 1. 7.
+—— excessive, vii. 2. 3.
+—— first affects lymphatics, vii. 2. 3.
+—— produces rheum from the nose, vii. 2. 3.
+—— quick anhelation, vii. 2. 3.
+—— increases digestion, vii. 2. 3.
+Cold-fit easier prevented than removed, ii. 2. 1.
+Colic from lead, v. 2. 2. 2.
+Condiments, i. 2. 7.
+Convolvulus scammonium, v. 3. 2.
+Convulsions, iv. 2. 8.
+Cookery, i. 2. 3. 5.
+Copaiva balsam, iii. 3. 4. 3.
+Cowhage, iii. 3. 2.
+Crab-juice, iv. 2. 2.
+Cream, i. 2. 3. 2. i. 2. 2. 2.
+Cucumis colocynthis, v. 3. 2.
+Cynara scolymus, iv. 3. 3.
+Cynoglossum, ii. 3. 1.
+
+
+D.
+
+
+Dandelion, iv. 3. 4.
+Datura stramonium, ii. 3. 1.
+Daucus sylvestris, iii. 3. 4. 4.
+Delphinium stavisagria, ii. 3. 1.
+Diabetes, iv. 2. 5.
+—— warm bath in, vi. 2. 4.
+Diaphoretics, iii. 3. 1. iii. 2. 1. 2.
+—— best in a morning, iii. 2. 1. 5.
+Diarrhœa, vi. 2. 3.
+Digestion injured by cold, iii. 2. 1.
+—— increased by cold, vii. 2. 3.
+Digitalis, iv. 2. 3. 7. v. 2. 1. 2.
+—— tincture of, iv. 2. 3. 7.
+Dragon's blood, iv. 3. 5. 2.
+Dropsy, iv. 2. 3. 4. iv. 2. 6. 7.
+
+
+E.
+
+
+Ears, eruption behind, iv. 2. 9. 2.
+Earth of bones, iv. 2. 5.
+—— of alum, vi. 2. 4.
+—— calcareous, iv. 2. 5. 3. vi. 2. 4. i. 2. 4. 3.
+Eggs, i. 2. 1. 4.
+Egg-shells diuretic, iii. 2. 4.
+Electricity, ii. 2. 2. 2. iv. 2. 9.
+Emetics, how they act, v. 2. 1.
+Errhines mild, iii. 2. 9.
+—— in hydrocephalus, v. 2. 3. 1.
+—— violent, v. 2. 3.
+—— in head-ach, v. 2. 3. 1.
+Erysipelas, iv. 2. 9.
+Essential oils, ii. 2. 3.
+Ether, vitriolic, ii. 2. 3. iii. 3. 1. vi. 3. 1. 3.
+—— in ascarides, vii. 1. 2.
+Etiolation, i. 2. 3. 4.
+Euphorbium, v. 3. 3.
+Exercise, iii. 3. 1. 6. ii. 2. 6.
+Eyes inflamed, ii. 2. 2. 2. iv. 2. 4. 3.
+
+
+F.
+
+
+Famine, times of, i. 2. 3. 5. and 6.
+Fear, v. 2. 4.
+Feathers, smoke of, vi. 3. 1. 6.
+Fennel, iii. 3. 4. 4.
+Ferula asafœtida, iii. 3. 3.
+Fish, i. 2. 1. 2. i. 2. 1. 5.
+Flannel shirt, ii. 2. 2. 1.
+Flesh of animals, i. 2. 1.
+Fluke-worm, iv. 2. 6.
+Foxglove, iv. 2. 3. 7. v. 2. 1. v. 2. 4.
+—— tincture of, iv. 2. 3. 7.
+Friction, ii. 2. 6. iii. 3. 1. 6.
+
+
+G.
+
+
+Galanthus nivalis, vii. 3. 3.
+Galbanum, vi. 3. 1.
+Gall-stones, iv. 2. 6.
+Galls of oak, iv. 3. 5.
+Garlic, iii. 3. 3.
+Gentiana centaurium, iv. 3. 3.
+—— lutea, iv. 3. 3.
+Ginger, iii. 3. 1. iii. 3. 4.
+Gonorrhœa, iv. 2. 2. iii. 2. 4.
+Gout, iv. 2. 11. 2.
+Guaiacum, iii. 3. 1.
+Gum arabic, iii. 3. 3. 3.
+—— tragacanth, iii. 3. 3. 3.
+Glycyrrhiza glabra, iii. 3. 3. 3.
+Gravel, v. 2. 4. 4.
+
+
+H.
+
+
+Hartshorn, spirit and salt of, iii. 3. 3. iii. 3. 1. vi. 3. 1. 4.
+—— calcined, iv. 2. 5. vi. 2. 3.
+H�morrhages, iv. 2. 4. 4. iv. 2. 6. 2.
+H�matoxylon campechianum, iv. 3. 5. 2.
+Hay, infusion of, i. 2. 3. 6.
+Head-ach, snuff in, v. 2. 3. 1.
+Heat, ii. 2. 2. 1. See Bath.
+—— an universal solvent, vii. 2. 2.
+Helenium, iii. 3. 3. 2.
+Herpes, iv. 2. 1. iv. 2. 9.
+Herrings, red, iii. 3. 1. 4.
+Honey, iii. 3. 3. 3. iii. 3. 5. 1.
+Hop in beer, why noxious, iv. 2. 3. 6. iv. 2. 11. 2.
+Hordeum distichon, iii. 3. 3. 3.
+Humulus lupulus, iv. 2. 3. iv. 2. 11.
+Hydrargyrus vitriolatus, v. 2. 3.
+Hysteric disease, vi. 2. 1.
+—— pains, vi. 2. 1.
+—— convulsions, vi. 2. 1.
+
+
+I.
+
+
+Jalapium, iii. 3. 5. 5.
+Japan earth, iv. 3. 5. 2.
+Jaundice, iv. 2. 6. 3.
+Ileus, vi. 2. 5.
+Incitantia, ii.
+Intermittents. See Agues.
+Inverted motions, vi. 2. 1.
+—— in hysteric disease, vi. 2. 1.
+—— of the stomach, vi. 2. 2.
+—— intestinal canal, vi. 2. 5.
+—— of lymphatics, vi. 2. 3.
+Inula helenium, iii. 3. 3. 2.
+Ipecacuanha, v. 2. 1.
+Iron, rust of, iv. 3. 6.
+Irritability prevented, iv. 2. 3. 3.
+Itch, iv. 2. 1. 3.
+
+
+L.
+
+
+Laurus camphora, iii. 3. 1.
+—— cinnamomum, iii. 3. 1.
+—— sassafras, iii. 3. 1.
+Lead, iv. 3. 6.
+—— colic from, v. 2. 2. 2.
+—— sugar of, iv. 2. 9.
+Leeks, iii. 3. 3. 1.
+Legs, ulcers of, iv. 2. 10.
+Lemon-juice, iv. 2. 1. iv. 2. 2.
+Leontodon taraxacum, iv. 3. 4.
+Life shortened by great stimulus, i. 1.
+Lime, i. 2. 4. 3.
+Liquorice, iii. 3. 3. 3.
+Liver inflamed, iv. 2. 6.
+Logwood, iv. 3. 5. 2.
+Lymphatics, inverted motions of, v. 2. 1.
+
+
+M.
+
+
+Magnesia alba, iii. 3. 5. 3.
+Malt, i. 2. 3. 5.
+Manna, iii. 3. 5.
+Marsh-mallows, iii. 3. 3. 3.
+Marjoram, iii. 3. 9.
+Marum, iii. 3. 9.
+Mastich, iii. 3. 2. iii. 3. 3.
+Menianthes trifoliata, iv. 3. 3.
+Menispermum cocculus, ii. 3. 1.
+Menstruation promoted, iv. 2. 6. 6.
+—— repressed, iv. 2. 6. 6.
+Mercury, iii. 3. 2. vi. 2. 2.
+—— preparations of, iv. 3. 7. iv. 2. 7. iv. 2. 9.
+—— injected as a clyster, vi. 3. 5.
+Metallic salts, iv. 2. 6.
+Milk, i. 2. 2.
+Mimosa nilotica, iii. 3. 3. 3.
+—— catechu, iv. 3. 5. 2.
+Mint, vi. 3. 1. 3.
+Mortification, iv. 2. 9.
+Mucilage, vegetable, vii. 3. 3.
+Mucus, animal, vii. 3. 5.
+Mushrooms, i. 2. 1. 2.
+Musk, vi. 2. 1. vi. 3. 1.
+Mustard, iv. 3. 4. See Sinapism.
+
+
+N.
+
+
+Nausea in fevers, vii. 2. 5.
+Neutral salts diuretic, why, iii. 2. 4.
+—— increase some coughs, iii. 2. 4.
+—— increase heat of urine, iii. 2. 4.
+Nicotiana tabacum, iii. 3. 9. ii. 3. 1.
+Nitre, iii. 3. 4. v. 2. 4.
+Nutmeg, iii. 2. 1.
+Nutrientia, i.
+
+
+O.
+
+
+Oil of almonds, iii. 3. 5. 4.
+—— in cream, i. 2. 3. 2.
+—— of amber, vi. 2. 1.
+—— expressed externally, iii. 2. 3.
+—— essential, ii. 2. 3. iii. 3. 1. 2.
+Oiled silk, vii. 3. 13.
+Oleum, animale, vi. 2. 1. vi. 3. 4.
+—— ricini, iii. 3. 5. 4.
+Onions, iii. 3. 3.
+Opium, ii. 2. 1. 2. iv. 1. 2.
+—— in nervous pains, ii. 2. 1. 5.
+—— in inflammatory pains, ii. 2. 1. 6.
+—— increases all secretions and absorptions, ii. 2. 1. 1.
+—— absorption after evacuation, iv. 2. 8. 2. ii. 2. 1. 3.
+—— stops sweats, iv. 2. 1. 2.
+—— intoxicates, ii. 2. 1. 1.
+Oranges, their peel, iv. 3. 3.
+Orchis, vii. 3. 3.
+Oxygen gas, ii. 2. 4. i. 2. 5. iii. 2. 11. iv. 1. 4.
+—— produces and heals ulcers, iv. 2. 7.
+
+
+P.
+
+
+Papin's digester, i. 2. 3. 5.
+Papaver somniferum, ii. 3. 1. iv. 3. 2. See Opium.
+Pains, periodic, cured by opium, ii. 2. 1.
+Pareira brava, iii. 3. 4. 4.
+Parsley, iii. 3. 4.
+Passions, ii. 2. 5.
+Pasturage, i. 2. 3. 7.
+Pepper, iii. 3. 1.
+Peripneumony, iv. 2. 8. 2.
+Perspiration in a morning, iii. 2. 1.
+—— not an excrement, iii. 2. 1.
+Peru, balsam of, iii. 3. 5. 4.
+Petechi�, iv. 2. 4. 2.
+Pimento, iii. 3. 1.
+Piper indicum, iii. 3. 1.
+Pistacia lentiscus, iii. 3. 2.
+Pix liquida, iii. 3. 3.
+Plaster-bandage, iv. 2. 10.
+Pleurisy, iv. 2. 8. 2.
+Polygala seneka, iii. 3. 3. 2.
+Poppy. See Papaver.
+Portland's powder noxious, why, iv. 2. 11. 2.
+Potatoe-bread, i. 2. 3. 4.
+Potentilla, iv. 3. 5.
+Prunes, iii. 3. 5. 1.
+Prunus domestica, iii. 3. 5. 1.
+—— spinosa, iv. 3. 1.
+—— lauro-cerasus, ii. 3. 1.
+Pulegium, vi. 3. 1. 3.
+Pulse, intermittent, relieved by arsenic, iv. 2. 6.
+Pyrethrum, iii. 3. 2.
+Pyrus malus, vii.
+—— cydonia, iv. 3. 1.
+
+
+Q.
+
+
+Quassia, iv. 2. 2.
+Quince, iv. 3. 1.
+Quinquefolium, iv. 3. 5.
+
+
+R.
+
+
+Ratafie, why destructive, ii. 2. 1.
+Resin diuretic, iii. 2. 4. vi. 2. 4.
+Rhamnus catharticus, v. 3. 2.
+Rheumatism, iv. 2. 4. 5. iv. 2. 10. 2.
+Rheum palmatum.  See Rhubarb.
+Rhubarb, iii. 2. 1. iv. 2. 5. 1. iii. 3. 5. 5.
+—— causes constipation, why, iii. 2. 1. 1.
+Rice, vii.
+Roses, iv. 3. 5.
+Rot in sheep, iv. 2. 6.
+
+
+S.
+
+
+Sago, vii. 3.
+Sagop�num, vi. 3. 1.
+Salivation not necessary, iv. 2. 7.
+—— hysteric, v. 2. 3.
+Salt, common, unwholesome, iii. 1. 12.
+—— muriatic, iii. 3. 1.
+—— in clysters, iii. 2. 7.
+Salts, why diuretic, iii. 2. 4.
+—— neutral, iii. 3. 5. 3. iii. 2. 4.
+—— improper in coughs and gonorrhœa, iii. 2. 4.
+Salt fish and salt meat increase perspiration, iii. 2. 1.
+Sassafras, iii. 3. 1.
+Scammony, v. 2. 2.
+Scarcity, times of, i. 2. 3. 5. and 6.
+Scilla maritima, v. 2. 2. iv. 2. 3. iii. 3. 3. v. 2. 3.
+Scorbutic legs, iv. 2. 10.
+Scrophulous tumours, ii. 2. 4. iv. 2. 9.
+Sea-water, iii. 3. 5. 3.
+Secernentia, iii.
+Secretion of the bladder, iii. 2. 6.
+—— of the rectum, iii. 2. 7.
+—— of the skin, iii. 2. 8.
+Seneka, iii. 3. 3. 2.
+Senna, iii. 3. 5. 5.
+Serpentaria virginiana, iii. 3. 1.
+Sialagogues, iii. 2. 2. v. 2. 3.
+Simarouba, iv. 3. 5.
+Sinapi, iv. 3. 4.
+Sinapisms, vi. 2. 2. iii. 2. 8. vi. 2. 2.
+Sisymbrium nasturtium, iv. 3. 4.
+Sloes, iv. 2. 2.
+Snuffs of candles, vi. 3. 1. 4.
+Society, i. 2. 3. 7.
+Soot, vi. 3. 1. 4.
+Sorbentia, various kinds, iv. 2. 1.
+Spasmodic doctrine exploded, vii. 2. 3.
+Spermaceti, iii. 3. 3. 3.
+Spice noxious, iii. 1. 12.
+Spirit of wine noxious, ii. 2. 1.
+Sponge, burnt, vi. 3. 1. 4.
+Squill. See Scilla.
+Starch, i. 2. 3. 1.
+—— from poisonous roots, i. 2. 3. 4.
+Steam, bath of, iv. 2. 3. 8.
+Steel, iv. 2. 6.
+—— forwards and represses menstruation, iv. 2. 6.
+Stizolobium siliqua hirsuta, iii. 3. 2. vii. 3. 11.
+Strychnos nux vomica, ii. 3. 1.
+Sublimate of mercury, iv. 2. 7. iv. 2. 9.
+Sugar nourishing, i. 2. 3. 1. and 5. iii. 3. 3. 3.
+—— formed after the death of the plant, i. 2. 3. 5.
+—— aperient, iii. 3. 5. 1.
+Sulphur, iii. 3. 5. 4.
+Sweats in a morning, iii. 2. 1. 5.
+—— on waking, iii. 2. 1. 5.
+—— cold, v. 2. 5.
+—— stopped by opium, iv. 2. 1. 2.
+
+
+T.
+
+
+T�nia, vermes. See Worms.
+Tamarinds, iii. 3. 5. 1.
+Tansey, tanacetum, iv. 3. 3.
+Tar, iii. 3. 3.
+Tartar, crystals of, iii. 3. 5. 1. Class i. 2. 3. 13.
+—— vitriolate, iii. 3. 5. 3.
+—— emetic, v. 2. 1. v. 2. 2.
+Tea, vii. 2. 1.
+Tears, iii. 2. 10.
+Testaceous powders, iv. 2. 1.
+Tetradynamia, plants of, iv. 2. 4.
+Tincture of digitalis, iv. 2.
+Tinea, herpes, iv. 2. 1. 4.
+Tobacco, ii. 3. 1. iii. 3. 9. iv. 2. 3. 7.
+—— injures digestion, iii. 2. 2. 3.
+Tolu balsam, iii. 3. 3.
+Tormentilla erecta, iv. 3. 5.
+Torpentia, vii.
+Tragacanth gum, iii. 3. 3. 3.
+Turpentine, vi. 2. 4.
+—— spirit of, iii. 2. 6.
+Turpeth mineral, v. 2. 3.
+Tussilago farfara, iii. 3. 3. 3.
+
+
+U.
+
+
+Ulcers, scrophulous, iv. 2. 9.
+—— of the mouth, iv. 2. 2.
+—— cured by absorption, ii. 2. 1. 4. iv. 2. 3. 5.
+Uva ursi, iv. 3. 5.
+
+
+V.
+
+
+Valerian, vi. 3. 1.
+Vegetable acids, iv. 2. 1.
+—— food, i. 2. 1. 2.
+Venereal ulcers, iv. 2. 7.
+Venesection, vii. 2. 4. iv. 2. 8.
+—— diminishes secretions, vii. 2. 4.
+—— increases absorptions, vii. 2. 4.
+Veratrum, v. 3. 2.
+Vibices, iv. 2. 4. 3.
+Vinegar, iv. 2. 1. 2. iv. 2. 4. 3. ii. 2. 1. 9.
+Vitriol blue in agues, iv. 2. 6. iv. 2. 2.
+——   in ulcers, iv. 2. 9.
+—— white, iv. 3. 6. v. 2. 1.
+—— acid of, iv. 2. 1.
+—— in sweats, iv. 1. 1.
+—— in small-pox, iv. 1. 1.
+Volatile salt, vi. 3. 1. 6.
+Vomiting, v. 2. 2.
+Vomiting stopped by mercury, vi. 2. 2.
+Vomits, iv. 2. 3. 7.
+
+
+W.
+
+
+Warm bath, ii. 2. 2. 1.
+—— in diabetes vi. 2. 4.
+Water, i. 2. 4.
+—— dilutes and lubricates, vii. 2. 2.
+—— cold, produces sweats, iii. 2. 1.
+—— iced, in ileus, vi. 2. 5.
+—— cresses, iv. 3. 4.
+Whey of milk, iii. 3. 5. 2. i. 2. 2. 2.
+Wine, ii. 3. 1.
+Worms, vii. 1. 2. iii. 2. 7. iv. 2. 6. 4.
+—— in sheep, iv. 2. 6. 4.
+
+
+Z.
+
+
+Zinc, vitriol of, v. 3. 1.
+
+
+
+
+THE END.
+ 
+ 
+
+</div></body></text></TEI>

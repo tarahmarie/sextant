@@ -1,0 +1,103 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Philosophy of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="18">
+
+CHAPTER IX.
+Of the Axioms which relate to Number.
+
+
+
+1. THE
+foundations of our speculative knowledge of the
+relations and properties of Number, as well as of Space, are
+contained in the mode in which we represent to ourselves the
+magnitudes which are the subjects of our reasonings. To
+express these foundations in axioms in the case of number,
+is a matter requiring some consideration, for the same
+reason as in the case of geometry; that is, because these
+axioms are principles which we assume as true, without being
+aware that we have made any assumption; and we cannot,
+without careful scrutiny, determine when we have stated, in
+the form of axioms, all that is necessary for the formation
+of the science, and no more than is necessary. We will,
+however, attempt to detect the principles which really must
+form the basis of theoretical arithmetic.
+2. Why is it that three and two are equal to four and one?
+Because if we look at five things of any kind, we see that
+it is so. The five are four and one; they are also three and
+two. The truth of our assertion is involved in our being
+able to conceive the number five at all. We perceive this
+truth by intuition, for we cannot see, or imagine we see,
+five things, without perceiving also that the assertion
+above stated is true.
+But how do we state in words this fundamental principle of
+the doctrine of numbers? Let us consider a very simple case.
+If we wish to show that seven and two are equal to four and
+five, we say that seven are four and three, therefore seven
+and two are four and three and two; and because three and
+two are 139 five, this is four and five. Mathematical
+reasoners justify the first inference (marked by the
+conjunctive word therefore), by saying that “When
+equals are added to equals the wholes are equal,” and that
+thus, since seven is equal to three and four, if we add two
+to both, seven and two are equal to four and three and two.
+3. Such axioms as this, that when equals are added to
+equals the wholes are equal, are, in fact, expressions of
+the general condition of intuition, by which a whole is
+contemplated as made up of parts, and as identical with the
+aggregate of the parts. And a yet more general form in which
+we might more adequately express this condition of intuition
+would be this; that ‘Two magnitudes are equal when they can
+be divided into parts which are equal, each to each.’ Thus
+in the above example, seven and two are equal to four and
+five, because each of the two sums can be divided into the
+parts, four, three, and two.
+4. In all these cases, a person who had never seen such
+axioms enunciated in a verbal form would employ the same
+reasoning as a practised mathematician, in order to satisfy
+himself that the proposition was true. The steps of the
+reasoning, being seen to be true by intuition, would carry
+an entire conviction, whether or not the argument were made
+verbally complete. Hence the axioms may appear superfluous,
+and on this account such axioms have often been spoken
+contemptuously of, as empty and barren assertions. In fact,
+however, although they cannot supply the deficiency of the
+clear intuition of number and space in the reasoner himself,
+and although when he possesses such a faculty, he will
+reason rightly if he have never heard of such axioms, they
+still have their place properly at the beginning of our
+treatises on the science of quantity; since they express, as
+simply as words can express, those conditions of the
+intuition of magnitudes on which all reasoning concerning
+quantity must be based; and are necessary when we want, not
+only to see the truth of the elementary reasonings on these
+subjects, but to put such reasonings in a formal and logical
+shape. 140
+5. We have considered the above-mentioned axioms as the
+basis of all arithmetical operations of the nature of
+addition. But it is easily seen that the same
+principle may be carried into other cases; as for instance,
+multiplication, which is merely a repeated addition,
+and admits of the same kind of evidence. Thus five times
+three are equal to three times five; why is this? If we
+arrange fifteen things in five rows of three, it is seen by
+looking, or by imaginary looking, which is intuition,
+that they may also be taken as three rows of five. And thus
+the principle that those wholes are equal which can be
+resolved into the same partial magnitudes, is immediately
+applicable in this as in the other case.
+6. We may proceed to higher numbers, and may find ourselves
+obliged to use artificial nomenclature and notation in order
+to represent and reckon them; but the reasoning in these
+cases also is still the same. And the usual artifice by
+which our reasoning in such instances is assisted is, that
+the number which is the root of our scale of notation (which
+is ten in our usual system), is alternately separated
+into parts and treated as a single thing. Thus 47 and 35 are
+82; for 47 is four tens and seven; 35 is three tens and
+five; whence 47 and 35 are seven tens and twelve; that is, 7
+tens, 1 ten, and 2; which is 8 tens and 2, or 82. The like
+reasoning is applicable in other cases. And since the most
+remote and complex properties of numbers are obtained by a
+prolongation of a course of reasoning exactly similar to
+that by which we thus establish the most elementary
+propositions, we have, in the principles just noticed, the
+foundation of the whole of Theoretical Arithmetic.</div></body></text></TEI>

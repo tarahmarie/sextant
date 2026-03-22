@@ -1,0 +1,400 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="150">CHAPTER VII.
+Animal Morphology.
+THE subject of Animal
+Morphology has recently been expanded into a form strikingly
+comprehensive and systematic by Mr. Owen; and supplied by him with a
+copious and carefully-chosen language; which in his hands facilitates
+vastly the comparison and appreciation of the previous labors of
+physiologists, and opens the way to new truths and philosophical
+generalizations. Though the steps which have been made had been
+prepared by previous anatomists, I will borrow my view of them mainly
+from him; with the less scruple, inasmuch as he has brought into full
+view the labors of his predecessors.
+I have stated in the History that the
+skeletons of all vertebrate animals are conceived to be reducible to a
+single Type, and the skull reducible to a series of vertebræ. But
+inasmuch as this reduction includes not only a detailed correspondence
+of the bones of man with those of beasts, but also with those of
+birds, fishes, and reptiles, it may easily be conceived that the
+similarities and connexions are of a various and often remote kind.
+The views of such relations, held by previous Comparative Anatomists,
+have led to the designations of the bones of animals which have been
+employed in anatomical descriptions; and these designations having
+been framed and adopted by anatomists looking at the subject from
+different sides, and having different views of analogies and
+relations, have been very various and unstable; besides being often of
+cumbrous length and inconvenient form.
+The corresponding parts in different animals are called
+homologues, 639 a term first applied to anatomy by the
+philosophers of Germany; and this term Mr. Owen adopts, to the
+exclusion of terms more loosely denoting identity or similarity. And
+the Homology of the various bones of vertebrates having been in a
+great degree determined by the labors of previous anatomists, Mr. Owen
+has proposed names for each of the bones: the condition of such names
+being, that the homologues in all vertebrates shall be called by the
+same name, and that these names shall be founded upon the terms and
+phrases in which the great anatomists of the 16th, 17th, and 18th
+centuries expressed the results of their researches respecting the
+human skeleton. These names, thus selected, so far as concerned the
+bones of the Head of Fishes, one of the most difficult cases of this
+Special Homology, he published in a Table,44 in which they
+were compared, in parallel columns, with the names or phrases used for
+the like purpose by Cuvier, Agassiz, Geoffroy, Hallman, Sœmmering,
+Meckel, and Wagner. As an example of the considerations by which this
+selection of names was determined, I may quote what he says with
+regard to one of these bones of the skull.
+44 Lectures on Vertebrates.
+1846, p. 158. And On the Archetype and Homologies of the Vertebrate
+Skeleton. 1848, p. 172.
+“With regard to the ‘squamosal’ (squamosum. Lat. pars
+squamosa ossis temporis.—Sœmmering), it might be asked why the
+term ‘temporal’ might not be retained for this bone. I reply, because
+that term has long been, and is now universally, understood in human
+anatomy to signify a peculiarly anthropotomical coalesced congeries of
+bones, which includes the ‘squamosal’ together with the ‘petrosal,’
+the ‘tympanic,’ the ‘mastoid,’ and the ‘stylohyal.’ It seems
+preferable, therefore, to restrict the signification of the term
+‘temporal’ to the whole (in Man) of which the ‘squamosal’ is a part.
+To this part Cuvier has unfortunately applied the term ‘temporal’ in
+one class, and ‘jugal’ in another; and he has also transferred the
+term ‘temporal’ to a third equally distinct bone in fishes; while to
+increase the confusion M. Agassiz has shifted the name to a fourth
+different bone in the skull of fishes. Whatever, therefore, may be the
+value assigned to the arguments which will be presently set forth, as
+to the special homologies of the ‘pars squamosa ossis temporis,’ I
+have felt compelled to express the conclusion by a definite term, and
+in the present instance, have selected that which recalls the best
+accepted anthropomorphical designation of the part; although
+‘squamosal’ must be understood and applied in an arbitrary sense; and
+not as descriptive of a scale-like 640 form; which in reference to the bone so
+called, is rather its exceptional than normal figure in the vertebrate
+series.”
+The principles which Mr. Owen here adopts in the selection of names
+for the parts of the skeleton are wise and temperate. They agree with
+the aphorisms concerning the language of science which I published in
+the Philosophy of the Inductive Sciences; and Mr. Owen does me
+the great honor of quoting with approval some of those Aphorisms. I
+may perhaps take the liberty of remarking that the system of terms
+which he has constructed, may, according to our principles, be called
+rather a Terminology than a Nomenclature: that is, they are
+analogous more nearly to the terms by which botanists describe
+the parts and organs of plants, than to the names by which they
+denote genera and species. As we have seen in the History, plants as
+well as animals are subject to morphological laws; and the names which
+are given to organs in consequence of those laws are a part of the
+Terminology of the science. Nor is this distinction between
+Terminology and Nomenclature without its use; for the rules of
+prudence and propriety in the selection of words in the two cases are
+different. The Nomenclature of genera and species may be arbitrary and
+casual, as is the case to a great extent in Botany and in Zoology,
+especially of fossil remains; names being given, for instance, simply
+as marks of honor to individuals. But in a Terminology, such a mode of
+derivation is not admissible: some significant analogy or idea must be
+adopted, at least as the origin of the name, though not necessarily
+true in all its applications, as we have seen in the case of the
+“squamosal” just quoted. This difference in the rules respecting two
+classes of scientific words is stated in the Aphorisms xiii.
+and xiv. concerning the Language of Science.
+Such a Terminology of the bones of the skeletons of all vertebrates
+as Mr. Owen has thus propounded, cannot be otherwise than an immense
+acquisition to science, and a means of ascending from what we know
+already to wider truths and new morphological doctrines.
+With regard to one of these doctrines, the resolution of the human
+head into vertebræ, Mr. Owen now regards it as a great truth, and
+replies to the objections of Cuvier and M. Agassiz, in detail.45 He gives a Table in which the Bones of
+the Head are resolved into four vertebræ, which he terms the
+Occipital, Parietal, Frontal, and Nasal Vertebra, respectively. These
+four vertebræ agree in general with what Oken called the Ear-vertebra,
+the Jaw-vertebra, the Eye-vertebra, and 641 the Nose-vertebra, in his work On the
+Signification of the Bones of the Skull, published in 1807: and in
+various degrees, with similar views promulgated by Spix (1815),
+Bojanus (1818), Geoffroy (1824), Carus (1828). And I believe that
+these views, bold and fanciful as they at first appeared, have now
+been accepted by most of the principal physiologists of our time.
+45 Archetype and Homologies of the
+Vertebrate Skeleton. 1848, p. 141.
+But another aspect of this generalization has been propounded among
+physiologists; and has, like the others, been extended, systematized,
+and provided with a convenient language by Mr. Owen. Since animal
+skeletons are thus made up of vertebræ and their parts are to be
+understood as developements of the parts of vertebræ, Geoffroy (1822),
+Carus (1828), Müller (1834), Cuvier (1836), had employed certain terms
+while speaking of such developements; Mr. Owen in the Geological
+Transactions in 1838, while discussing the osteology of certain
+fossil Saurians, used terms of this kind, which are more systematic
+than those of his predecessors, and to which he has given currency by
+the quantity of valuable knowledge and thought which he has embodied
+in them.
+According to his Terminology,46 a vertebra, in
+its typical completeness, consists of a central part or
+centrum; at the back of this, two plates (the neural
+apophyses) and a third outward projecting piece (the neural
+spine), which three, with the centrum, form a canal for the spinal
+marrow; at the front of the centrum two other plates (the hæmal
+apophyses) and a projecting piece, forming a canal for a vascular
+trunk. Further lateral elements (pleuro-apophyses) and other
+projections, are in a certain sense dependent on these principal
+bones; besides which the vertebra may support diverging
+appendages. These parts of the vertebra are fixed together, so
+that a vertebra is by some anatomists described as a single bone; but
+the parts now mentioned are usually developed from distinct and
+independent centres, and are therefore called by Mr. Owen “autogenous”
+elements.
+46 Archetype and Homologies of the
+Vertebrate Skeleton. 1848, p. 81.
+The General Homology of the vertebral skeleton is the
+reference of all the parts of a skeleton to their true types in a
+series of vertebræ: and thus, as special homology refers all
+the parts of skeletons to a given type of skeleton, say that of Man,
+general homology refers all the parts of every skeleton, say
+that of Man, to the parts of a series of Vertebræ. And thus as Oken
+propounded his views of the Head as a resolution of the Problem of
+the Signification of the Bones of the Head, 642 so have we in like
+manner, for the purposes of General Homology, to solve the Problem of
+the Signification of Limbs. The whole of the animal being a
+string of vertebræ, what are arms and legs, hands and paws, claws and
+fingers, wings and fins, and the like? This inquiry Mr. Owen has
+pursued as a necessary part of his inquiries. In giving a public
+lecture upon the subject in 1849,47 he conceived
+that the phrase which I have just employed would not be clearly
+apprehended by an English Audience, and entitled his Discourse “On the
+Nature of Limbs:” and in this discourse he explained the
+modifications by which the various kinds of limbs are derived from
+their rudiments in an archetypal skeleton, that is, a mere series of
+vertebræ without head, arms, legs, wings, or fins.
+47 On the Nature of Limbs, a
+discourse delivered at a Meeting of the Royal Institution, 1849.
+Final Causes
+It has been mentioned in the History that in the discussions which
+took place concerning the Unity of Plan of animal structure, this
+principle was in some measure put in opposition to the principle of
+Final Causes: Morphology was opposed to Teleology. It is natural to
+ask whether the recent study of Morphology has affected this
+antithesis.
+If there be advocates of Final Causes in Physiology who would push
+their doctrines so far as to assert that every feature and every
+relation in the structure of animals have a purpose discoverable by
+man, such reasoners are liable to be perpetually thwarted and
+embarrassed by the progress of anatomical knowledge; for this progress
+often shows that an arrangement which had been explained and admired
+with reference to some purpose, exists also in cases where the purpose
+disappears; and again, that what had been noted as a special
+teleological arrangement is the result of a general morphological law.
+Thus to take an example given by Mr. Owen: that the ossification of
+the head originates in several centres, and thus in its early stages
+admits of compression, has been pointed out as a provision to
+facilitate the birth of viviparous animals; but our view of this
+provision is disturbed, when we find that the same mode of the
+formation of the bony framework takes place in animals which are born
+from an egg. And the number of points from which ossification begins,
+depends in a wider sense on the general homology of the animal frame,
+according to which each part is composed of a certain number of
+autogenous vertebral elements. In this 643 way, the admission of a new view as to
+Unity of Plan will almost necessarily displace or modify some of the
+old views respecting Final Causes.
+But though the view of Final Causes is displaced, it is not
+obliterated; and especially if the advocate of Purpose is also ready
+to admit visible correspondences which have not a discoverable object,
+as well as contrivances which have. And in truth, how is it possible
+for the student of anatomy to shut his eyes to either of these two
+evident aspects of nature? The arm and hand of man are made for taking
+and holding, the wing of the sparrow is made for flying; and each is
+adapted to its end with subtle and manifest contrivance. There is
+plainly Design. But the arm of man and the wing of the sparrow
+correspond to each other in the most exact manner, bone for bone.
+Where is the Use or the Purpose of this correspondence? If it be said
+that there may be a purpose though we do not see it, that is granted.
+But Final Causes for us are contrivances of which we
+see the end; and nothing is added to the evidence of Design by
+the perception of a unity of plan which in no way tends to promote the
+design.
+It may be said that the design appears in the modification of the
+plan in special ways for special purposes;—that the vertebral
+plan of an animal being given, the fore limbs are modified in Man and
+in Sparrow, as the nature and life of each require. And this is truly
+said; and is indeed the truth which we are endeavoring to bring into
+view:—that there are in such speculations, two elements; one
+given, the other to be worked out from our examination of the case;
+the datum and the problem; the homology and the
+teleology.
+Mr. Owen, who has done so much for the former of these portions of
+our knowledge, has also been constantly at the same time contributing
+to the other. While he has been aiding our advances towards the Unity
+of Nature, he has been ever alive to the perception of an Intelligence
+which pervades Nature. While his morphological doctrines have moved
+the point of view from which he sees Design, they have never obscured
+his view of it, but, on the contrary, have led him to present it to
+his readers in new and striking aspects. Thus he has pointed out the
+final purposes in the different centres of ossification of the long
+bones of the limbs of mammals, and shown how and why they differ in
+this respect from reptiles (Archetype, p. 104). And in this way
+he has been able to point out the insufficiency of the rule laid down
+both by Geoffroy St. Hilaire and Cuvier, for ascertaining the true
+number of bones in each species. 644
+Final Causes, or Evidences of Design, appear, as we have said, not
+merely as contrivances for evident purposes, but as modifications of a
+given general Plan for special given ends. If the general Plan be
+discovered after the contrivance has been noticed, the discovery may
+at first seem to obscure our perception of Purpose; but it will soon
+be found that it merely transfers us to a higher point of view. The
+adaptation of the Means to the End remains, though the Means are parts
+of a more general scheme than we were aware of. No generalization of
+the Means can or ought permanently to shake our conviction of the End;
+because we must needs suppose that the Intelligence which contemplates
+the End is an intelligence which can see at a glance along a vista of
+Means, however long and complex. And on the other hand, no special
+contrivance, however clear be its arrangement, can be unconnected with
+the general correspondences and harmonies by which all parts of nature
+are pervaded and bound together. And thus no luminous teleological
+point can be extinguished by homology; nor, on the other hand, can it
+be detached from the general expanse of homological light.
+The reference to Final Causes is sometimes spoken of as
+unphilosophical, in consequence of Francis Bacon’s comparison of Final
+Causes in Physics to Vestal Virgins devoted to God, and barren. I have
+repeatedly shown that, in Physiology, almost all the great discoveries
+which have been made, have been made by the assumption of a purpose in
+animal structures. With reference to Bacon’s simile, I have elsewhere
+said that if he had had occasion to develope its bearings, full of
+latent meaning as his similes so often are, he would probably have
+said that to those Final Causes barrenness was no reproach, seeing
+they ought to be not the Mothers but the Daughters of our Natural
+Sciences; and that they were barren, not by imperfection of their
+nature, but in order that they might be kept pure and undefiled, and
+so fit ministers in the temple of God. I might add that in Physiology,
+if they are not Mothers, they are admirable Nurses; skilful and
+sagacious in perceiving the signs of pregnancy, and helpful in
+bringing the Infant Truth into the light of day.
+There is another aspect of the doctrine of the Archetypal Unity of
+Composition of Animals, by which it points to an Intelligence from
+which the frame of nature proceeds; namely this:—that the
+Archetype of the Animal Structure being of the nature of an
+Idea, implies a mind in which this Idea existed; and that thus
+Homology itself points the way to the Divine Mind. But while we
+acknowledge the full 645 value of this view of theological
+bearing of physiology, we may venture to say that it is a view quite
+different from that which is described by speaking of “Final Causes,”
+and one much more difficult to present in a lucid manner to ordinary
+minds.
+
+
+BOOK XVIII.
+
+
+GEOLOGY.
+
+WITH regard to Geology, as a
+Palætiological Science, I do not know that any new light of an
+important kind has been thrown upon the general doctrines of the
+science. Surveys and examinations of special phenomena and special
+districts have been carried on with activity and intelligence; and the
+animals of which the remains people the strata, have been
+reconstructed by the skill and knowledge of zoologists:—of such
+reconstructions we have, for instance, a fine assemblage in the
+publications of the Palæontological Society. But the great questions
+of the manner of the creation and succession of animal and vegetable
+species upon the earth remain, I think, at the point at which they
+were when I published the last edition of the History.
+I may notice the views propounded by some chemists of certain
+bearings of Mineralogy upon Geology. As we have, in mineral masses,
+organic remains of former organized beings, so have we crystalline
+remains of former crystals; namely, what are commonly called
+pseudomorphoses—the shape of one crystal in the substance
+of another. M. G. Bischoff48 considers the study of pseudomorphs as
+important in geology, and as frequently the only means of tracing
+processes which have taken place and are still going on in the mineral
+kingdom.
+48 Chemical and Physical
+Geology.
+I may notice also Professor Breithaupt’s researches on the order of
+succession of different minerals, by observing the mode in which they
+occur and the order in which different crystals have been deposited,
+promise to be of great use in following out the geological changes
+which the crust of the globe has undergone. (Die Paragenesis der
+Mineralien. Freiberg. 1849.)
+In conjunction with these may be taken M. de Senarmont’s
+experiments on the formation of minerals in veins; and besides
+Bischoff’s 647
+Chemical Geology, Sartorius von Walterhausen’s Observations on
+the occurrence of minerals in Amygdaloid.
+As a recent example of speculations concerning Botanical
+Palætiology, I may give Dr. Hooker’s views of the probable history of
+the Flora of the Pacific.
+In speculating upon this question, Dr. Hooker is led to the
+discussion of geological doctrines concerning the former continuity of
+tracts of land which are now separate, the elevation of low lands into
+mountain ranges in the course of ages, and the like. We have already
+seen, in the speculations of the late lamented Edward Forbes, (see
+Book xviii. chap. vi. of this History,) an
+example of a hypothesis propounded to account for the existing Flora
+of England: a hypothesis, namely, of a former Connexion of the West of
+the British Isles with Portugal, of the Alps of Scotland with those of
+Scandinavia, and of the plains of East Anglia with those of Holland.
+In like manner Dr. Hooker says (p. xxi.) that he was led to speculate
+on the possibility of the plants of the Southern Ocean being the
+remains of a Flora that had once spread over a larger and more
+continuous tract of land than now exists in the ocean; and that the
+peculiar Antarctic genera and species may be the vestiges of a Flora
+characterized by the predominance of plants which are now scattered
+throughout the Southern islands. He conceives this hypothesis to be
+greatly supported by the observations and reasonings of Mr. Darwin,
+tending to show that such risings and sinkings are in active progress
+over large portions of the continents and islands of the Southern
+hemisphere: and by the speculations of Sir C. Lyell respecting the
+influence of climate on the migrations of plants and animals, and the
+influence of geological changes upon climate.
+In Zoology I may notice (following Mr. Owen)49 recent
+discoveries of the remains of the animals which come nearest to man in
+their structure. At the time of Cuvier’s death, in 1832, no evidence
+had been obtained of fossil Quadrumana; and he supposed that these, as
+well as Bimana, were of very recent introduction. Soon after, in the
+oldest (eocene) tertiary deposits of Suffolk, remains were found
+proving the existence of a monkey of the genus Macacus. In the
+Himalayan tertiaries were found petrified bones of a Semnopithecus; in
+Brazil, remains of an extinct platyrhine monkey of great size; and
+lastly, in the middle tertiary series of the South of France, was
+discovered a fragment of the jaw of the long-armed ape
+(Hylobates). But no fossil human 648 remains have been discovered in the
+regularly deposited layers of any divisions (not even the pleiocene) of
+the tertiary series; and thus we have evidence that the placing of man
+on the earth was the last and peculiar act of Creation.
+49 Brit. Asso. 1854, p.
+112.
+THE END.
+
+Transcriber’s Notes
+Whewell’s book was originally published in 3 volumes in London in
+1837. A second edition appeared in 1847, and a third in 1857. A
+2-volume version of the 3rd edition was published in New York in 1858,
+reprinted 1875. This Project Gutenberg text, combining both volumes in
+sequence, was derived from the 1875 version, relying upon resources
+kindly provided by the Internet Archive. In so doing, the Contents of
+Volume 2 have been moved to follow the Contents of Volume 1.
+Three items have been added to the Contents of the First Volume;
+they are marked off by ~ ~. Whewell’s additions to the 3rd edition
+were printed by way of appendices to the volumes. An indication that
+such an addition may be found has been given, again marked off by ~ ~,
+and linked to the relevant text. Any infelicities in these and other
+internal links are the transcriber’s responsibility.
+Where ditto signs were used in the text, the material has been
+repeated in full.
+Printed page numbers have been transcribed in colour. Where words
+were hyphenated across pages, the number has been placed before the word.
+Fractions have been transcribed as numerator⁄denominator,
+occasionally using parentheses to disambiguate. The original sometimes
+has numerator over a line with denominator below, at other times
+numerator hyphen denominator.
+Footnotes in the original text were numbered by chapter; here they
+have been numbered by Book (counting the preface and the appendices to
+each volume as a separate book and incorporating the Introduction with
+Book I). They are placed after the paragraph in which they occur.
+Corrections to the text are flagged in the .htm version by dotted red
+underline, on mouse-over revealing the nature of the change. They were
+usually confirmed by reference to English printings of the text.
+Inconsistencies, especially with respect to accents and formatting,
+are numerous and have in general not been adjusted, though Greek
+quotations have been checked against other versions where
+available. Nor have Whewell's unbalanced quotation marks been modernised.
+The English versions have been used to restore Whewell’s “gesperrt” emphases
+in some Greek passages.
+
+</div></body></text></TEI>

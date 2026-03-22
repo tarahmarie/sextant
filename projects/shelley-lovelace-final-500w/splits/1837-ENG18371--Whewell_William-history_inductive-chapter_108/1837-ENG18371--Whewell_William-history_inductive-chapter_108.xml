@@ -1,0 +1,160 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="108">CHAPTER IV.
+Establishment of the Distinction of Systems of
+Crystallization.—Weiss and Mohs.
+IN Haüy’s views, as generally
+happens in new systems, however true, there was involved something
+that was arbitrary, something that was false or doubtful, something
+that was unnecessarily limited. The principal points of this kind
+were;—his having made the laws of crystalline derivation depend
+so much upon cleavage;—his having assumed an atomic constitution
+of bodies as an essential part of his system; and his having taken a
+set of primary forms, which, being selected by no general view, were
+partly superfluous, and partly defective.
+How far evidence, such as has been referred to by various
+philosophers, has proved, or can prove, that bodies are constituted of
+indivisible atoms, will be more fully examined in the work which
+treats of the Philosophy of this subject. There can be little doubt
+that the 327
+portion of Haüy’s doctrine which most riveted popular attention and
+applause, was his dissection of crystals, in a manner which was
+supposed to lead actually to their ultimate material elements. Yet it
+is clear, that since the solids given by cleavage are, in many cases,
+such as cannot make up a solid space, the primary conception of a
+necessary geometrical identity between the results of division and the
+elements of composition, which is the sole foundation of the
+supposition that crystallography points out the actual elements,
+disappears on being scrutinized: and when Haüy, pressed by this
+difficulty, as in the case of fluor-spar, put his integrant octohedral
+molecules together, touching by the edges only, his method became an
+empty geometrical diagram, with no physical meaning.
+The real fact, divested of the hypothesis which was contained in
+the fiction of decrements, was, that when the relation of the
+derivative to the primary faces is expressed by means of numerical
+indices, these numbers are integers, and generally very small ones;
+and this was the form which the law gradually assumed, as the method
+of derivation was made more general and simple by Weiss and
+others.
+“When, in 1809, I published my Dissertation,” says Weiss,28 “I shared the common opinion as to the
+necessity of the assumption and the reality of the existence of a
+primitive form, at least in a sense not very different from the usual
+sense of the expression. While I sought,” he adds, referring to
+certain doctrines of general philosophy which he and others
+entertained, “a dynamical ground for this, instead of the
+untenable atomistic view, I found that, out of my primitive forms,
+there was gradually unfolded to my hands, that which really governs
+them, and is not affected by their casual fluctuations, the
+fundamental relations of those Dimensions according to which a
+multiplicity of internal oppositions, necessarily and mutually
+interdependent, are developed in the mass, each having its own
+polarity; so that the crystalline character is co-extensive with these
+polarities.”
+28 Mem. Acad. Berl. 1816, p.
+307.
+The “Dimensions” of which Weiss here speaks, are the Axes of
+Symmetry of the crystal; that is, those lines in reference to
+which, every face is accompanied by other faces, having like positions
+and properties. Thus a rhomb, or more properly a
+rhombohedron,29 of 328 calcspar may be placed with one of its
+obtuse corners uppermost, so that all the three faces which meet there
+are equally inclined to the vertical line. In this position, every
+derivative face, which is obtained by any modification of the faces or
+edges of the rhombohedron, implies either three or six such derivative
+faces; for no one of the three upper faces of the rhombohedron has any
+character or property different from the other two; and, therefore,
+there is no reason for the existence of a derivative from one of these
+primitive faces, which does not equally hold for the other primitive
+faces. Hence the derivative forms will, in all cases, contain none but
+faces connected by this kind of correspondence. The axis thus made
+vertical will be an Axis of Symmetry, and the crystal will consist of
+three divisions, ranged round this axis, and exactly resembling each
+other. According to Weiss’s nomenclature, such a crystal is
+“three-and-three-membered.”
+29 I use this name for the solid
+figure, since rhomb has always been used for a plane
+figure.
+But this is only one of the kinds of symmetry which crystalline
+forms may exhibit. They may have three axes of complete and
+equal symmetry at right angles to each other, as the cube and
+the regular octohedron;—or, two axes of equal symmetry,
+perpendicular to each other and to a third axis, which is not
+affected with the same symmetry with which they are; such a figure is
+a square pyramid;—or they may have three rectangular
+axes, all of unequal symmetry, the modifications
+referring to each axis separately from the other two.
+These are essential and necessary distinctions of crystalline form;
+and the introduction of a classification of forms founded on such
+relations, or, as they were called, Systems of Crystallization,
+was a great improvement upon the divisions of the earlier
+crystallographers, for those divisions were separated according to
+certain arbitrarily-assumed primary forms. Thus Romé de Lisle’s
+fundamental forms were, the tetrahedron, the cube, the octohedron, the
+rhombic prism, the rhombic octohedron, the dodecahedron with
+triangular faces: Haüy’s primary forms are the cube, the rhombohedron,
+the oblique rhombic prism, the right rhombic prism, the rhombic
+dodecahedron, the regular octohedron, tetrahedron, and six-sided
+prism, and the bipyramidal dodecahedron. This division, as I have
+already said, errs both by excess and defect, for some of these
+primary forms might be made derivatives from others; and no solid
+reason could be assigned why they were not. Thus the cube may be
+derived from the tetrahedron, by truncating the edges; and the rhombic
+dodecahedron again from the cube, by truncating its edges; while the
+square pyramid could not be legitimately identified with the
+derivative of any of these forms; for if we were to 329 derive it from the
+rhombic prism, why should the acute angles always suffer decrements
+corresponding in a certain way to those of the obtuse angles, as they
+must do in order to give rise to a square pyramid?
+The introduction of the method of reference to Systems of
+Crystallization has been a subject of controversy, some ascribing this
+valuable step to Weiss, and some to Mohs.30 It appears, I
+think, on the whole, that Weiss first published works in which the
+method is employed; but that Mohs, by applying it to all the known
+species of minerals, has had the merit of making it the basis of real
+crystallography. Weiss, in 1809, published a Dissertation On the
+mode of investigating the principal geometrical character of
+crystalline forms, in which he says,31 “No part, line,
+or quantity, is so important as the axis; no consideration is more
+essential or of a higher order than the relation of a crystalline
+plane to the axis;” and again, “An axis is any line governing the
+figure, about which all parts are similarly disposed, and with
+reference to which they correspond mutually.” This he soon followed
+out by examination of some difficult cases, as Felspar and Epidote. In
+the Memoirs of the Berlin Academy,32 for
+1814–15, he published An Exhibition of the natural Divisions
+of Systems of Crystallization. In this Memoir, his divisions are
+as follows:—The regular system, the four-membered,
+the two-and-two-membered, the three-and-three-membered,
+and some others of inferior degrees of symmetry. These divisions are
+by Mohs (Outlines of Mineralogy, 1822), termed the
+tessular, pyramidal, prismatic, and
+rhombohedral systems respectively. Hausmann, in his
+Investigations concerning the Forms of Inanimate Nature,33 makes a nearly corresponding
+arrangement;—the isometric, monodimetric,
+trimetric, and monotrimetic; and one or other of these
+sets of terms have been adopted by most succeeding writers.
+30 Edin. Phil. Trans. 1823,
+vols. xv. and xvi.
+31 pp. 16, 42.
+32 Ibid.
+33 Göttingen, 1821.
+In order to make the distinctions more apparent, I have purposely
+omitted to speak of the systems which arise when the prismatic
+system loses some part of its symmetry;—when it has only half or
+a quarter its complete number of faces;—or, according to Mohs’s
+phraseology, when it is hemihedral or tetartohedral.
+Such systems are represented by the singly-oblique or doubly-oblique
+prism; they are termed by Weiss two-and-one-membered, and
+one-and-one-membered; by other writers, Monoklinometric,
+and Triklinometric Systems. There are also other 330 peculiarities of
+Symmetry, such, for instance, as that of the plagihedral faces
+of quartz, and other minerals.
+The introduction of an arrangement of crystalline forms into
+systems, according to their degree of symmetry, was a step which was
+rather founded on a distinct and comprehensive perception of
+mathematical relations, than on an acquaintance with experimental
+facts, beyond what earlier mineralogists had possessed. This
+arrangement was, however, remarkably confirmed by some of the
+properties of minerals which attracted notice about the time now
+spoken of, as we shall see in the next chapter.
+~Additional material in the 3rd
+edition.~
+</div></body></text></TEI>

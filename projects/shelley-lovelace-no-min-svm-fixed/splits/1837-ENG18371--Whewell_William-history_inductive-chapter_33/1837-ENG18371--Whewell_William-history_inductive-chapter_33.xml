@@ -1,0 +1,580 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="33">CHAPTER I.
+Prelude to the Inductive Epoch of Newton.
+WE have now to contemplate the
+last and most splendid period of the progress of Astronomy;—the
+grand completion of the history of the most ancient and prosperous
+province of human knowledge;—the steps which elevated this
+science to an unrivalled eminence above other sciences;—the
+first great example of a wide and complex assemblage of phenomena
+indubitably traced to their single simple cause;—in short, the
+first example of the formation of a perfect Inductive Science.
+In this, as in other considerable advances in real science, the
+complete disclosure of the new truths by the principal discoverer, was
+preceded by movements and glimpses, by trials, seekings, and guesses
+on the part of others; by indications, in short, that men’s minds were
+already carried by their intellectual impulses in the direction in
+which the truth lay, and were beginning to detect its nature. In a
+case so important and interesting as this, it is more peculiarly
+proper to give some view of this Prelude to the Epoch of the full
+discovery.
+(Francis Bacon.) That Astronomy should become Physical
+Astronomy,—that the motions of the heavenly bodies should be
+traced to their causes, as well as reduced to rule,—was felt by
+all persons of active and philosophical minds as a pressing and
+irresistible need, at the time of which we speak. We have already seen
+how much this feeling had to do in impelling Kepler to the train of
+laborious research by which he made his discoveries. Perhaps it may be
+interesting to point out how strongly this persuasion of the necessity
+of giving a physical character to astronomy, had taken possession of
+the mind of Bacon, who, looking at the progress of knowledge with a
+more comprehensive spirit, and from a higher point of view than
+Kepler, could have none of his astronomical prejudices, since on that
+subject he was of a different school, and of far inferior knowledge.
+In his “Description of the Intellectual Globe,” Bacon says that while
+Astronomy had, up to that time, had it for her business to inquire
+into the rules of the heavenly motions, and Philosophy into their
+causes, they had both so far worked without due appreciation of their
+respective tasks; Philosophy neglecting facts, and Astronomy claiming
+assent to her 386
+mathematical hypotheses, which ought to be considered as mere steps of
+calculation. “Since, therefore,” he continues,1 “each science has
+hitherto been a slight and ill-constructed thing, we must assuredly
+take a firmer stand; our ground being, that these two subjects, which
+on account of the narrowness of men’s views and the traditions of
+professors have been so long dissevered, are, in fact, one and the
+same thing, and compose one body of science.” It must be allowed that,
+however erroneous might be the points of Bacon’s positive astronomical
+creed, these general views of the nature and position of the science
+are most sound and philosophical.
+1 Vol. ix. 221.
+(Kepler) In his attempts to suggest a right
+physical view of the starry heavens and their relation to the earth,
+Bacon failed, along with all the writers of his time. It has already
+been stated that the main cause of this failure was the want of a
+knowledge of the true theory of motion;—the non-existence of the
+science of Dynamics. At the time of Bacon and Kepler, it was only just
+beginning to be possible to reduce the heavenly motions to the laws of
+earthly motion, because the latter were only just then divulged.
+Accordingly, we have seen that the whole of Kepler’s physical
+speculations proceed upon an ignorance of the first law of motion, and
+assume it to be the main problem of the physical astronomer to assign
+the cause which keeps up the motions of the planets. Kepler’s
+doctrine is, that a certain Force or Virtue resides in the sun, by
+which all bodies within his influence are carried round him. He
+illustrates2 the nature of this Virtue in various
+ways, comparing it to Light, and to the Magnetic Power, which it
+resembles in the circumstances of operating at a distance, and also in
+exercising a feebler influence as the distance becomes greater. But it
+was obvious that these comparisons were very imperfect; for they do
+not explain how the sun produces in a body at a distance a motion
+athwart the line of emanation; and though Kepler introduced
+an assumed rotation of the sun on his axis as the cause of this
+effect, that such a cause could produce the result could not be
+established by any analogy of terrestrial motions. But another image
+to which he referred, suggested a much more substantial and
+conceivable kind of mechanical action by which the celestial motions
+might be produced, namely, a current of fluid matter circulating round
+the sun, and carrying the planet with it, like a boat in a stream. In
+the Table of Contents of the work on the planet Mars, the purport of
+the chapter to which I have alluded is 387 stated as follows: “A physical
+speculation, in which it is demonstrated that the vehicle of that
+Virtue which urges the planets, circulates through the spaces of the
+universe after the manner of a river or whirlpool (vortex),
+moving quicker than the planets.” I think it will be found, by any one
+who reads Kepler’s phrases concerning the moving force,—the
+magnetic nature,—the immaterial virtue of the sun, that they
+convey no distinct conception, except so far as they are interpreted
+by the expressions just quoted. A vortex of fluid constantly whirling
+round the sun, kept in this whirling motion by the rotation of the sun
+himself, and carrying the planets round the sun by its revolution, as
+a whirlpool carries straws, could be readily understood; and though it
+appears to have been held by Kepler that this current and vortex was
+immaterial, he ascribes to it the power of overcoming the inertia of
+bodies, and of putting them and keeping them in motion, the only
+material properties with which he had any thing to do. Kepler’s
+physical reasonings, therefore, amount, in fact, to the doctrine of
+Vortices round the central bodies, and are occasionally so stated by
+himself; though by asserting these vortices to be “an immaterial
+species,” and by the fickleness and variety of his phraseology on the
+subject, he leaves this theory in some confusion;—a proceeding,
+indeed, which both his want of sound mechanical conceptions, and his
+busy and inventive fancy, might have led us to expect. Nor, we may
+venture to say, was it easy for any one at Kepler’s time to devise a
+more plausible theory than the theory of vortices might have been
+made. It was only with the formation and progress of the science of
+Mechanics that this theory became untenable.
+2 De Stellâ Martis, P. 3. c.
+xxxiv.
+(Descartes) But if Kepler might be excused, or indeed
+admired, for propounding the theory of Vortices at his time, the case
+was different when the laws of motion had been fully developed, and
+when those who knew the state of mechanical science ought to have
+learned to consider the motions of the stars as a mechanical problem,
+subject to the same conditions as other mechanical problems, and
+capable of the same exactness of solution. And there was an especial
+inconsistency in the circumstance of the Theory of Vortices being put
+forwards by Descartes, who pretended, or was asserted by his admirers,
+to have been one of the discoverers of the true Laws of Motion. It
+certainly shows both great conceit and great shallowness, that he
+should have proclaimed with much pomp this crude invention of the
+ante-mechanical period, at the time when the best mathematicians of
+Europe, as Borelli in Italy, Hooke and Wallis in England, Huyghens in
+Holland, 388 were
+patiently laboring to bring the mechanical problem of the universe
+into its most distinct form, in order that it might be solved at last
+and forever.
+I do not mean to assert that Descartes borrowed his doctrines from
+Kepler, or from any of his predecessors, for the theory was
+sufficiently obvious; and especially if we suppose the inventor to
+seek his suggestions rather in the casual examples offered to the
+sense than in the exact laws of motion. Nor would it be reasonable to
+rob this philosopher of that credit, of the plausible deduction of a
+vast system from apparently simple principles, which, at the time, was
+so much admired; and which undoubtedly was the great cause of the many
+converts to his views. At the same time we may venture to say that a
+system of doctrine thus deduced from assumed principles by a long
+chain of reasoning, and not verified and confirmed at every step by
+detailed and exact facts, has hardly a chance of containing any truth.
+Descartes said that he should think it little to show how the world
+is constructed, if he could not also show that it
+must of necessity have been so constructed. The more modest
+philosophy which has survived the boastings of his school is content
+to receive all its knowledge of facts from experience, and never
+dreams of interposing its peremptory must be when nature is
+ready to tell us what is. The à priori philosopher
+has, however, always a strong feeling in his favor among men. The
+deductive form of his speculations gives them something of the charm
+and the apparent certainty of pure mathematics; and while he avoids
+that laborious recurrence to experiments, and measures, and multiplied
+observations, which is irksome and distasteful to those who are
+impatient to grow wise at once, every fact of which the theory appears
+to give an explanation, seems to be an unasked and almost an
+infallible witness in its favor.
+My business with Descartes here is only with his physical Theory of
+Vortices; which, great as was its glory at one time, is now utterly
+extinguished. It was propounded in his Principia Philosophiæ,
+in 1644. In order to arrive at this theory, he begins, as might be
+expected of him, from reasonings sufficiently general. He lays it down
+as a maxim, in the first sentence of his book, that a person who seeks
+for truth must, once in his life, doubt of all that he most believes.
+Conceiving himself thus to have stripped himself of all his belief on
+all subjects, in order to resume that part of it which merits to be
+retained, he begins with his celebrated assertion, “I think, therefore
+I am;” which appears to him a certain and immovable principle, by
+means of 389 which
+he may proceed to something more. Accordingly, to this he soon adds
+the idea, and hence the certain existence, of God and his perfections.
+He then asserts it to be also manifest, that a vacuum in any part of
+the universe is impossible; the whole must be filled with matter, and
+the matter must be divided into equal angular parts, this being the
+most simple, and therefore the most natural supposition.3
+This matter being in motion, the parts are necessarily ground into a
+spherical form; and the corners thus rubbed off (like filings or
+sawdust) form a second and more subtle matter.4 There is, besides,
+a third kind of matter, of parts more coarse and less fitted for
+motion. The first matter makes luminous bodies, as the sun, and the
+fixed stars; the second is the transparent substance of the skies; the
+third is the material of opake bodies, as the earth, planets, and
+comets. We may suppose, also,5 that the motions of these parts take the
+form of revolving circular currents,6 or
+vortices. By this means, the first matter will be collected to
+the centre of each vortex, while the second, or subtle matter,
+surrounds it, and, by its centrifugal effort, constitutes light. The
+planets are carried round the sun by the motion of his vortex,7
+each planet being at such a distance from the sun as to be in a part
+of the vortex suitable to its solidity and mobility. The motions are
+prevented from being exactly circular and regular by various causes;
+for instance, a vortex may be pressed into an oval shape by contiguous
+vortices. The satellites are, in like manner, carried round their
+primary planets by subordinate vortices; while the comets have
+sometimes the liberty of gliding out of one vortex into the one next
+contiguous, and thus travelling in a sinuous course, from system to
+system, through the universe. It is not necessary for us to speak here
+of the entire deficiency of this system in mechanical consistency, and
+in a correspondency to observation in details and measures. Its
+general reception and temporary sway, in some instances even among
+intelligent men and good mathematicians, are the most remarkable facts
+connected with it. These may be ascribed, in part, to the circumstance
+that philosophers were now ready and eager for a physical astronomy
+commensurate with the existing state of knowledge; they may have been
+owing also, in some measure, to the character and position of
+Descartes. He was a man of high claims in every department of
+speculation, and, in pure mathematics, a genuine inventor of great
+eminence;—a man of family and a soldier;—an inoffensive
+philosopher, attacked and persecuted 390 for his opinions with great bigotry and
+fury by a Dutch divine, Voet;—the favorite and teacher of two
+distinguished princesses, and, it is said, the lover of one of them.
+This was Elizabeth, the daughter of the Elector Frederick, and
+consequently grand-daughter of our James the First. His other royal
+disciple, the celebrated Christiana of Sweden, showed her zeal for his
+instructions by appointing the hour of five in the morning for their
+interviews. This, in the climate of Sweden, and in the winter, was too
+severe a trial for the constitution of the philosopher, born in the
+sunny valley of the Loire; and, after a short residence at Stockholm,
+he died of an inflammation of the chest in 1650. He always kept up an
+active correspondence with his friend Mersenne, who was called, by
+some of the Parisians, “the Resident of Descartes at Paris;” and who
+informed him of all that was done in the world of science. It is said
+that he at first sent to Mersenne an account of a system of the
+universe which he had devised, which went on the assumption of a
+vacuum; Mersenne informed him that the vacuum was no longer
+the fashion at Paris; upon which he proceeded to remodel his system,
+and to re-establish it on the principle of a plenum.
+Undoubtedly he tried to avoid promulgating opinions which might bring
+him into trouble. He, on all occasions, endeavored to explain away the
+doctrine of the motion of the earth, so as to evade the scruples to
+which the decrees of the pope had given rise; and, in stating the
+theory of vortices, he says,8 “There is no doubt that the world was
+created at first with all its perfection; nevertheless, it is well to
+consider how it might have arisen from certain principles, although we
+know that it did not.” Indeed, in the whole of his philosophy, he
+appears to deserve the character of being both rash and cowardly,
+“pusillanimus simul et audax,” far more than Aristotle, to
+whose physical speculations Bacon applies this description.9
+3 Prin. p. 58.
+4 Ib. p. 59.
+5 Ib. p. 56.
+6 Ib. p. 61.
+7 Ib. c. 140, p. 114.
+8 Prin. p. 56.
+9 Bacon, Descriptio Globi
+Intellectualis.
+Whatever the causes might be, his system was well received and
+rapidly adopted. Gassendi, indeed, says that he found nobody who had
+the courage to read the Principia through;10 but the system
+was soon embraced by the younger professors, who were eager to dispute
+in its favor. It is said11 that the University of Paris was on the
+point of publishing an edict against these new doctrines, and was only
+prevented from doing so by a pasquinade which is worth mentioning. It
+was composed by the poet Boileau (about 1684), and professed to be a
+Request in favor of Aristotle, and an Edict issued from Mount 391 Parnassus in
+consequence. It is obvious that, at this time, the cause of
+Cartesianism was looked upon as the cause of free inquiry and modern
+discovery, in opposition to that of bigotry, prejudice, and ignorance.
+Probably the poet was far from being a very severe or profound critic
+of the truth of such claims. “This petition of the Masters of Arts,
+Professors and Regents of the University of Paris, humbly showeth,
+that it is of public notoriety that the sublime and incomparable
+Aristotle was, without contest, the first founder of the four
+elements, fire, air, earth, and water; that he did, by special grace,
+accord unto them a simplicity which belongeth not to them of natural
+right;” and so on. “Nevertheless, since, a certain time past, two
+individuals, named Reason and Experience, have leagued themselves
+together to dispute his claim to the rank which of justice pertains to
+him, and have tried to erect themselves a throne on the ruins of his
+authority; and, in order the better to gain their ends, have excited
+certain factious spirits, who, under the names of Cartesians and
+Gassendists, have begun to shake off the yoke of their master,
+Aristotle; and, contemning his authority, with unexampled temerity,
+would dispute the right which he had acquired of making true pass for
+false and false for true;”—In fact, this production does not
+exhibit any of the peculiar tenets of Descartes, although, probably,
+the positive points of his doctrines obtained a footing in the
+University of Paris, under the cover of this assault on his
+adversaries. The Physics of Rohault, a zealous disciple of Descartes,
+was published at Paris about 1670,12 and was, for a
+time, the standard book for students of this subject, both in France
+and in England. I do not here speak of the later defenders of the
+Cartesian system, for, in their hands, it was much modified by the
+struggle which it had to maintain against the Newtonian system.
+10 Del. A. M. ii. 193.
+11 Enc. Brit. art.
+Cartesianism.
+12 And a second edition in 1672.
+We are concerned with Descartes and his school only as they form
+part of the picture of the intellectual condition of Europe just
+before the publication of Newton’s discoveries. Beyond this, the
+Cartesian speculations are without value. When, indeed, Descartes’
+countrymen could no longer refuse their assent and admiration to the
+Newtonian theory, it came to be the fashion among them to say that
+Descartes had been the necessary precursor of Newton; and to adopt a
+favorite saying of Leibnitz, that the Cartesian philosophy was the
+antechamber of Truth. Yet this comparison is far from being happy: it
+appeared rather as if these suitors had mistaken the door; for those
+392 who first came
+into the presence of Truth herself, were those who never entered this
+imagined antechamber, and those who were in the antechamber first,
+were the last in penetrating further. In partly the same spirit,
+Playfair has noted it as a service which Newton perhaps owed to
+Descartes, that “he had exhausted one of the most tempting forms of
+error.” We shall see soon that this temptation had no attraction for
+those who looked at the problem in its true light, as the Italian and
+English philosophers already did. Voltaire has observed, far more
+truly, that Newton’s edifice rested on no stone of Descartes’
+foundations. He illustrates this by relating that Newton only once
+read the work of Descartes, and, in doing so, wrote the word
+“error,” repeatedly, on the first seven or eight pages; after
+which he read no more. This volume, Voltaire adds, was for some time
+in the possession of Newton’s nephew.13
+13 Cartesianism, Enc.
+Phil.
+(Gassendi.) Even in his own country, the system of Descartes
+was by no means universally adopted. We have seen that though Gassendi
+was coupled with Descartes as one of the leaders of the new
+philosophy, he was far from admiring his work. Gassendi’s own views of
+the causes of the motions of the heavenly bodies are not very clear,
+nor even very clearly referrible to the laws of mechanics; although he
+was one of those who had most share in showing that those laws apply
+to astronomical motions. In a chapter, headed14 “Quæ sit motrix
+siderum causa,” he reviews several opinions; but the one which he
+seems to adopt, is that which ascribes the motion of the celestial
+globes to certain fibres, of which the action is similar to that of
+the muscles of animals. It does not appear, therefore, that he had
+distinctly apprehended, either the continuation of the movements of
+the planets by the First Law of Motion, or their deflection by the
+Second Law;—the two main steps on the road to the discovery of
+the true forces by which they are made to describe their orbits.
+14 Gassendi, Opera, vol. i. p.
+639.
+(Leibnitz, &c.) Nor does it appear that in Germany
+mathematicians had attained this point of view. Leibnitz, as we have
+seen, did not assent to the opinions of Descartes, as containing the
+complete truth; and yet his own views of the physics of the universe
+do not seem to have any great advantage over these. In 1671 he
+published A new physical hypothesis, by which the causes of most
+phenomena are deduced from a certain single universal motion supposed
+in our globe;—not to be despised either by the Tychonians or the
+Copernicans. He supposes 393 the particles of the earth to have
+separate motions, which produce collisions, and thus propagate15 an “agitation of the ether,” radiating
+in all directions; and,16 “by the rotation of the sun on its
+axis, concurring with its rectilinear action on the earth, arises the
+motion of the earth about the sun.” The other motions of the solar
+system are, as we might expect, accounted for in a similar manner; but
+it appears difficult to invest such an hypothesis with any mechanical
+consistency.
+15 Art. 5.
+16 Ib. 8.
+John Bernoulli maintained to the last the Cartesian hypothesis,
+though with several modifications of his own, and even pretended to
+apply mathematical calculation to his principles. This, however,
+belongs to a later period of our history; to the reception, not to the
+prelude, of the Newtonian theory.
+(Borelli.) In Italy, Holland, and England,
+mathematicians appear to have looked much more steadily at the problem
+of the celestial motions, by the light which the discovery of the real
+laws of motion threw upon it. In Borelli’s Theories of the Medicean
+Planets, printed at Florence in 1666, we have already a conception
+of the nature of central action, in which true notions begin to
+appear. The attraction of a body upon another which revolves about it
+is spoken of and likened to magnetic action; not converting the
+attracting force into a transverse force, according to the erroneous
+views of Kepler, but taking it as a tendency of the bodies to meet.
+“It is manifest,” says he,17 “that every planet and satellite
+revolves round some principal globe of the universe as a fountain of
+virtue, which so draws and holds them that they cannot by any means be
+separated from it, but are compelled to follow it wherever it goes, in
+constant and continuous revolutions.” And, further on, he describes18 the nature of the action, as a matter
+of conjecture indeed, but with remarkable correctness.19 “We shall account for these motions by
+supposing, that which can hardly be denied, that the planets have a
+certain natural appetite for uniting themselves with the globe round
+which they revolve, and that they really tend, with all their efforts,
+to approach to such globe; the planets, for instance, to the sun, the
+Medicean Stars to Jupiter. It is certain, also, that circular motion
+gives a body a tendency to recede from the centre of such revolution,
+as we find in a wheel, or a stone whirled in a sling. Let us suppose,
+then, the planet to endeavor to approach the sun; since, in the mean
+time, it requires, by the circular motion, a force to recede from the
+same central body, it comes to pass, that when 394 those two opposite
+forces are equal, each compensates the other, and the planet cannot go
+nearer to the sun nor further from him than a certain determinate
+space, and thus appears balanced and floating about him.”
+17 Cap. 2.
+18 Ib. 11.
+19 P. 47.
+This is a very remarkable passage; but it will be observed, at the
+same time, that the author has no distinct conception of the manner in
+which the change of direction of the planet’s motion is regulated from
+one instant to another; still less do his views lead to any mode of
+calculating the distance from the central body at which the planet
+would be thus balanced, or the space through which it might approach
+to the centre and recede from it. There is a great interval from
+Borelli’s guesses, even to Huyghens’ theorems  and a much greater to
+the beginning of Newton’s discoveries.
+(England.) It is peculiarly interesting to us to trace the
+gradual approach towards these discoveries which took place in the
+minds of English mathematicians  and this we can do with tolerable
+distinctness. Gilbert, in his work, De Magnete, printed in
+1600, has only some vague notions that the magnetic virtue of the
+earth in some way determines the direction of the earth’s axis, the
+rate of its diurnal rotation, and that of the revolution of the moon
+about it.20 He died in 1603, and, in his posthumous
+work, already mentioned (De Mundo nostro
+Sublunari Philosophia nova, 1651), we have already a more distinct
+statement of the attraction of one body by another.21 “The force which emanates from the moon
+reaches to the earth, and, in like manner, the magnetic virtue of the
+earth pervades the region of the moon: both correspond and conspire by
+the joint action of both, according to a proportion and conformity of
+motions; but the earth has more effect, in consequence of its superior
+mass; the earth attracts and repels the moon, and the moon, within
+certain limits, the earth; not so as to make the bodies come together,
+as magnetic bodies do, but so that they may go on in a continuous
+course.” Though this phraseology is capable of representing a good
+deal of the truth, it does not appear to have been connected, in the
+author’s mind, with any very definite notions of mechanical action in
+detail. We may probably say the same of Milton’s language:
+
+
+  What if the sun
+Be centre to the world; and other stars,
+By his attractive virtue and their own
+Incited, dance about him various rounds?
+Par. Lost, B. viii.  
+
+20 Lib. vi. cap. 6, 7.
+21 Ib. ii. c. 19.
+395 Boyle, about
+the same period, seems to have inclined to the Cartesian hypothesis.
+Thus, in order to show the advantage of the natural theology which
+contemplates organic contrivances, over that which refers to
+astronomy, he remarks: “It may be said, that in bodies inanimate,22 the contrivance is very rarely so
+exquisite but that the various motions and occurrences of their parts
+may, without much improbability, be suspected capable, after many
+essays, to cast one another into several of those circumvolutions
+called by Epicurus συστροφὰς and by Descartes, vortices; which
+being once made, may continue a long time after the manner explained
+by the latter.” Neither Milton nor Boyle, however, can be supposed to
+have had an exact knowledge of the laws of mechanics; and therefore
+they do not fully represent the views of their mathematical
+contemporaries. But there arose about this time a group of
+philosophers, who began to knock at the door where Truth was to be
+found, although it was left for Newton to force it open. These were
+the founders of the Royal Society, Wilkins, Wallis, Seth Ward, Wren,
+Hooke, and others. The time of the beginning of the speculations and
+association of these men corresponds to the time of the civil wars
+between the king and parliament in England  and it does not appear a
+fanciful account of their scientific zeal and activity, to say, that
+while they shared the common mental ferment of the times, they sought
+in the calm and peaceful pursuit of knowledge a contrast to the
+vexatious and angry struggles which at that time disturbed the repose
+of society. It was well if these dissensions produced any good to
+science to balance the obvious evils which flowed from them.
+Gascoigne, the inventor of the micrometer, a friend of Horrox, was
+killed in the battle of Marston Moor. Milburne, another friend of
+Horrox, who like him detected the errors of Lansberg’s astronomical
+tables, left papers on this subject, which were lost by the coming of
+the Scotch army into England in 1639; in the civil war which ensued,
+the anatomical collections of Harvey were plundered and destroyed.
+Most of these persons of whom I have lately had to speak, were
+involved in the changes of fortune of the Commonwealth, some on one
+side, and some on the other. Wilkins was made Warden of Wadham by the
+committee of parliament appointed for reforming the University of
+Oxford; and was, in 1659, made Master of Trinity College, Cambridge,
+by Richard Cromwell, but ejected thence the year following, upon the
+restoration of the 396 royal sway. Seth Ward, who was a Fellow
+of Sidney College, Cambridge, was deprived of his Fellowship by the
+parliamentary committee; but at a later period (1649) he took the
+engagement to be faithful to the Commonwealth, and became Savilian
+Professor of Astronomy at Oxford. Wallis held a Fellowship of Queen’s
+College, Cambridge, but vacated it by marriage. He was afterwards much
+employed by the royal party in deciphering secret writings, in which
+art he had peculiar skill. Yet he was appointed by the parliamentary
+commissioners Savilian Professor of Geometry at Oxford, in which
+situation he was continued by Charles II. after his restoration.
+Christopher Wren was somewhat later, and escaped these changes. He was
+chosen Fellow of All-Souls in 1652, and succeeded Ward as Savilian
+Professor of Astronomy. These men, along with Boyle and several
+others, formed themselves into a club, which they called the
+Philosophical, or the Invisible College; and met, from about the year
+1645, sometimes in London, and sometimes in Oxford, according to the
+changes of fortune and residence of the members. Hooke went to Christ
+Church, Oxford, in 1663, where he was patronized by Boyle, Ward, and
+Wallis; and when the Philosophical College resumed its meetings in
+London, after the Restoration, as the Royal Society, Hooke was made
+“curator of experiments.” Halley was of the next generation, and comes
+after Newton; he studied at Queen’s College, Oxford, in 1673; but was
+at first a man of some fortune, and not engaged in any official
+situation. His talents and zeal, however, made him an active and
+effective ally in the promotion of science.
+22 Shaw’s Boyle’s Works, ii.
+160.
+The connection of the persons of whom we have been speaking has a
+bearing on our subject, for it led, historically speaking, to the
+publication of Newton’s discoveries in physical astronomy. Rightly to
+propose a problem is no inconsiderable step to its solution; and it
+was undoubtedly a great advance towards the true theory of the
+universe to consider the motion of the planets round the sun as a
+mechanical question, to be solved by a reference to the laws of
+motion, and by the use of mathematics. So far the English philosophers
+appear to have gone, before the time of Newton. Hooke, indeed, when
+the doctrine of gravitation was published, asserted that he had
+discovered it previously to Newton; and though this pretension could
+not be maintained, he certainly had perceived that the thing to be
+done was, to determine the effect of a central force in producing
+curvilinear motion; which effect, as we have already seen, he illustrated by experiment as
+early as 1666. Hooke had also spoken more clearly on this subject
+397 in An
+Attempt to prove the Motion of the Earth from Observations,
+published in 1674. In this, he distinctly states that the planets
+would move in straight lines, if they were not deflected by central
+forces; and that the central attractive power increases in approaching
+the centre in certain degrees, dependent on the distance. “Now what
+these degrees are,” he adds, “I have not yet experimentally verified;”
+but he ventures to promise to any one who succeeds in this
+undertaking, a discovery of the cause of the heavenly motions. He
+asserted, in conversation, to Halley and Wren, that he had solved this
+problem, but his solution was never produced. The proposition that the
+attractive force of the sun varies inversely as the square of the
+distance from the centre, had already been divined, if not fully
+established. If the orbits of the planets were circles, this
+proportion of the forces might be deduced in the same manner as the
+propositions concerning circular motion, which Huyghens published in
+1673; yet it does not appear that Huyghens made this application of
+his principles. Newton, however, had already made this step some years
+before this time. Accordingly, he says in a letter to Halley, on
+Hooke’s claim to this discovery,23 “When Huygenius
+put out his Horologium Oscillatorium, a copy being presented to
+me, in my letter of thanks I gave those rules in the end thereof a
+particular commendation for their usefulness in computing the forces
+of the moon from the earth, and the earth from the sun.” He says,
+moreover, “I am almost confident by circumstances, that Sir
+Christopher Wren knew the duplicate proportion when I gave him a
+visit; and then Mr. Hooke, by his book Cometa, will prove the
+last of us three that knew it.” Hooke’s Cometa was published in
+1678. These inferences were all connected with Kepler’s law, that the
+times are in the sesquiplicate ratio of the major axes of the orbits.
+But Halley had also been led to the duplicate proportion by another
+train of reasoning, namely, by considering the force of the sun as an
+emanation, which must become more feeble in proportion to the
+increased spherical surface over which it is diffused, and therefore
+in the inverse proportion of the square of the distances.24 In this view of the matter, however,
+the difficulty was to determine what would be the motion of a body
+acted on by such a force, when the orbit is not circular but oblong.
+The investigation of this case was a problem which, we can 398 easily conceive, must
+have appeared of very formidable complexity while it was unsolved, and
+the first of its kind. Accordingly Halley, as his biographer says,
+“finding himself unable to make it out in any geometrical way, first
+applied to Mr. Hooke and Sir Christopher Wren, and meeting with no
+assistance from either of them, he went to Cambridge in August (1684),
+to Mr. Newton, who supplied him fully with what he had so ardently
+sought.”
+23 Biog. Brit., art.
+Hooke.
+24 Bullialdus, in 1645, had asserted
+that the force by which the sun “prehendit et harpagat,” takes hold of
+and grapples the planets, must be as the inverse square of the
+distance.
+A paper of Halley’s in the Philosophical Transactions for
+January, 1686, professedly inserted as a preparation for Newton’s
+work, contains some arguments against the Cartesian hypothesis of
+gravity, which seem to imply that Cartesian opinions had some footing
+among English philosophers; and we are told by Whiston, Newton’s
+successor in his professorship at Cambridge, that Cartesianism formed
+a part of the studies of that place. Indeed, Rohault’s Physics
+was used as a classbook at that University long after the time of
+which we are speaking; but the peculiar Cartesian doctrines which it
+contained were soon superseded by others.
+With regard, then, to this part of the discovery, that the force of
+the sun follows the inverse duplicate proportion of the distances, we
+see that several other persons were on the verge of it at the same
+time with Newton; though he alone possessed that combination of
+distinctness of thought and power of mathematical invention, which
+enabled him to force his way across the barrier. But another, and so
+far as we know, an earlier train of thought, led by a different path
+to the same result; and it was the convergence of these two lines of
+reasoning that brought the conclusion to men’s minds with irresistible
+force. I speak now of the identification of the force which retains
+the moon in her orbit with the force of gravity by which bodies fall
+at the earth’s surface. In this comparison Newton had, so far as I am
+aware, no forerunner. We are now, therefore, arrived at the point at
+which the history of Newton’s great discovery properly begins. ~Additional
+material in the 3rd edition.~ 399</div></body></text></TEI>

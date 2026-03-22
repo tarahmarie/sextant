@@ -1,0 +1,630 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Novum Organon Renovatum</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="19">
+CHAPTER III.
+Of Methods of acquiring clear Scientific Ideas;
+and first of Intellectual Education.
+Aphorism XXIX.
+The Methods by which the acquisition of clear Scientific
+Ideas is promoted, are mainly two; Intellectual Education
+and Discussion of Ideas.
+Aphorism XXX.
+The Idea of Space becomes more clear by studying Geometry;
+the Idea of Force, by studying Mechanics; the Ideas
+of Likeness, of Kind, of Subordination of Classes, by studying
+Natural History.
+Aphorism XXXI.
+Elementary Mechanics should now form a part of intellectual
+education, in order that the student may understand
+the Theory of Universal Gravitation: for an intellectual
+education should cultivate such ideas as enable the student to
+understand the most complete and admirable portions of the
+knowledge which the human race has attained to.
+Aphorism XXXII.
+Natural History ought to form a part of intellectual education,
+in order to correct certain prejudices which arise from
+cultivating the intellect by means of mathematics alone; and
+in order to lead the student to see that the division of things
+into Kinds, and the attribution and use of Names, are processes
+susceptible of great precision. 165
+THE
+ways in which men become masters of those
+clear and yet comprehensive conceptions which
+the formation and reception of science require, are
+mainly two; which, although we cannot reduce them
+to any exact scheme, we may still, in a loose use of
+the term, call Methods of acquiring clear Ideas. These
+two ways are Education and Discussion.
+1. (I.) Idea of Space.—It is easily seen that
+Education may do at least something to render our ideas
+distinct and precise. To learn Geometry in youth,
+tends, manifestly, to render our idea of space clear and
+exact. By such an education, all the relations, and all
+the consequences of this idea, come to be readily and
+steadily apprehended; and thus it becomes easy for us
+to understand portions of science which otherwise we
+should by no means be able to comprehend. The conception
+of similar triangles was to be mastered, before
+the disciples of Thales could see the validity of his
+method of determining the height of lofty objects by
+the length of their shadows. The conception of the
+sphere with its circles had to become familiar, before
+the annual motion of the sun and its influence upon
+the lengths of days could be rightly traced. The
+properties of circles, combined with the
+pure13
+doctrine of
+motion, were required as an introduction to the theory
+of Epicycles: the properties of conic sections were
+needed, as a preparation for the discoveries of Kepler.
+And not only was it necessary that men should possess
+a knowledge of certain figures and their properties; but
+it was equally necessary that they should have the
+habit of reasoning with perfect steadiness, precision,
+and conclusiveness concerning the relations of space.
+No small discipline of the mind is requisite, in most
+cases, to accustom it to go, with complete insight and
+security, through the demonstrations respecting intersecting
+planes and lines, dihedral and trihedral angles,
+which occur in solid geometry. Yet how absolutely
+necessary is a perfect mastery of such reasonings, to
+him who is to explain the motions of the moon in 166
+latitude and longitude! How necessary, again, is the
+same faculty to the student of crystallography! Without
+mathematical habits of conception and of thinking,
+these portions of science are perfectly inaccessible. But
+the early study of plane and solid geometry gives to
+all tolerably gifted persons, the habits which are thus
+needed. The discipline of following the reasonings of
+didactic works on this subject, till we are quite familiar
+with them, and of devising for ourselves reasonings of
+the same kind, (as, for instance, the solutions of problems
+proposed,) soon gives the mind the power of discoursing
+with perfect facility concerning the most
+complex and multiplied relations of space, and enables
+us to refer to the properties of all plane and solid
+figures as surely as to the visible forms of objects.
+Thus we have here a signal instance of the efficacy of
+education in giving to our Conceptions that clearness,
+which the formation and existence of science indispensably require.
+13
+ See Hist. Sc. Ideas, b. ii. c. xiii.
+2. It is not my intention here to enter into the
+details of the form which should be given to education,
+in order that it may answer the purposes now contemplated.
+But I may make a remark, which the above
+examples naturally suggest, that in a mathematical
+education, considered as a preparation for furthering
+or understanding physical science, Geometry is to be
+cultivated, far rather than Algebra:—the properties of
+space are to be studied and reasoned upon as they are
+in themselves, not as they are replaced and disguised
+by symbolical representations. It is true, that when
+the student is become quite familiar with elementary
+geometry, he may often enable himself to deal in a
+more rapid and comprehensive manner with the relations
+of space, by using the language of symbols and
+the principles of symbolical calculation: but this is an
+ulterior step, which may be added to, but can never be
+substituted for, the direct cultivation of geometry.
+The method of symbolical reasoning employed upon
+subjects of geometry and mechanics, has certainly
+achieved some remarkable triumphs in the treatment
+of the theory of the universe. These successful 167
+applications of symbols in the highest problems of physical
+astronomy appear to have made some teachers of mathematics
+imagine that it is best to begin the pupil’s course
+with such symbolical generalities. But this mode of
+proceeding will be so far from giving the student clear
+ideas of mathematical relations, that it will involve
+him in utter confusion, and probably prevent his ever
+obtaining a firm footing in geometry. To commence
+mathematics in such a way, would be much as if we
+should begin the study of a language by reading the
+highest strains of its lyrical poetry.
+3. (II.) Idea of Number, &c.—The study of
+mathematics, as I need hardly observe, developes and renders
+exact, our conceptions of the relations of number, as
+well as of space. And although, as we have already
+noticed, even in their original form the conceptions of
+number are for the most part very distinct, they may
+be still further improved by such discipline. In complex
+cases, a methodical cultivation of the mind in such
+subjects is needed: for instance, questions concerning
+Cycles, and Intercalations, and Epacts, and the like,
+require very great steadiness of arithmetical apprehension
+in order that the reasoner may deal with them
+rightly. In the same manner, a mastery of problems
+belonging to the science of Pure Motion, or, as I have
+termed it, Mechanism, requires either great natural
+aptitude in the student, or a mind properly disciplined
+by suitable branches of mathematical study.
+4. Arithmetic and Geometry have long been standard
+portions of the education of cultured persons throughout
+the civilized world; and hence all such persons have
+been able to accept and comprehend those portions of
+science which depend upon the idea of space: for instance,
+the doctrine of the globular form of the earth,
+with its consequences, such as the measures of latitude
+and longitude;—the heliocentric system of the universe
+in modern, or the geocentric in ancient times;—the
+explanation of the rainbow; and the like. In nations
+where there is no such education, these portions of
+science cannot exist as a part of the general stock of
+the knowledge of society, however intelligently they 168
+may be pursued by single philosophers dispersed here
+and there in the community.
+5. (III.) Idea of Force.—As the idea of Space is
+brought out in its full evidence by the study of Geometry,
+so the idea of Force is called up and developed
+by the study of the science of Mechanics. It has
+already been shown, in our scrutiny of the Ideas of the
+Mechanical Sciences, that Force, the Cause of motion
+or of equilibrium, involves an independent Fundamental
+Idea, and is quite incapable of being resolved into any
+mere modification of our conceptions of space, time,
+and motion. And in order that the student may possess
+this idea in a precise and manifest shape, he must
+pursue the science of Mechanics in the mode which
+this view of its nature demands;—that is, he must
+study it as an independent science, resting on solid
+elementary principles of its own, and not built upon
+some other unmechanical science as its substructure.
+He must trace the truths of Mechanics from their own
+axioms and definitions; these axioms and definitions
+being considered as merely means of bringing into
+play the Idea on which the science depends. The conceptions
+of force and matter, of action and reaction, of
+momentum and inertia, with the reasonings in which
+they are involved, cannot be evaded by any substitution
+of lines or symbols for the conceptions. Any attempts
+at such substitution would render the study of
+Mechanics useless as a preparation of the mind for
+physical science; and would, indeed, except counteracted
+by great natural clearness of thought on such
+subjects, fill the mind with confused and vague notions,
+quite unavailing for any purposes of sound reasoning.
+But, on the other hand, the study of Mechanics, in its
+genuine form, as a branch of education, is fitted to give
+a most useful and valuable precision of thought on
+such subjects; and is the more to be recommended,
+since, in the general habits of most men’s minds, the
+mechanical conceptions are tainted with far greater
+obscurity and perplexity than belongs to the conceptions
+of number, space, and motion.
+6. As habitually distinct conceptions of space and 169
+motion were requisite for the reception of the doctrines
+of formal astronomy, (the Ptolemaic and Copernican
+system,) so a clear and steady conception of force
+is indispensably necessary for understanding the Newtonian
+system of physical astronomy. It may be objected
+that the study of Mechanics as a science has not
+commonly formed part of a liberal education in Europe,
+and yet that educated persons have commonly accepted
+the Newtonian system. But to this we reply, that although
+most persons of good intellectual culture have
+professed to assent to the Newtonian system of the universe,
+yet they have, in fact, entertained it in so vague
+and perplexed a manner as to show very clearly that a
+better mental preparation than the usual one is necessary,
+in order that such persons may really understand
+the doctrine of universal attraction. I have elsewhere
+spoken of the prevalent indistinctness of mechanical
+conceptions14;
+and need not here dwell upon the
+indications, constantly occurring in conversation and in
+literature, of the utter inaccuracy of thought on such
+subjects which may often be detected; for instance, in
+the mode in which many men speak of centrifugal and
+centripetal forces;—of projectile and central forces;—of
+the effect of the moon upon the waters of the ocean;
+and the like. The incoherence of ideas which we
+frequently witness on such points, shows us clearly
+that, in the minds of a great number of men, well
+educated according to the present standard, the
+acceptance of the doctrine of Universal Gravitation is a result
+of traditional prejudice, not of rational conviction.
+And those who are Newtonians on such grounds, are
+not at all more intellectually advanced by being
+Newtonians in the nineteenth century, than they would
+have been by being Ptolemaics in the fifteenth.
+14
+ Hist. Sc. Ideas, b. iii. c. x.
+7. It is undoubtedly in the highest degree desirable
+that all great advances in science should become the
+common property of all cultivated men. And this can
+only be done by introducing into the course of a liberal
+education such studies as unfold and fix in men’s minds 170
+the fundamental ideas upon which the new-discovered
+truths rest. The progress made by the ancients in
+geography, astronomy, and other sciences, led them to
+assign, wisely and well, a place to arithmetic and
+geometry among the steps of an ingenuous education. The
+discoveries of modern times have rendered these steps
+still more indispensable; for we cannot consider a man
+as cultivated up to the standard of his times, if he is
+not only ignorant of, but incapable of comprehending,
+the greatest achievements of the human intellect. And
+as innumerable discoveries of all ages have thus secured
+to Geometry her place as a part of good education, so
+the great discoveries of Newton make it proper to introduce
+Elementary Mechanics as a part of the same
+course. If the education deserve to be called good,
+the pupil will not remain ignorant of those discoveries,
+the most remarkable extensions of the field of human
+knowledge which have ever occurred. Yet he cannot
+by possibility comprehend them, except his mind be
+previously disciplined by mechanical studies. The period
+appears now to be arrived when we may venture,
+or rather when we are bound to endeavour, to include
+a new class of Fundamental Ideas in the elementary
+discipline of the human intellect. This is indispensable,
+if we wish to educe the powers which we know
+that it possesses, and to enrich it with the wealth which
+lies within its reach15.
+15
+ The University of Cambridge has, by a recent law,
+made an examination in Elementary Mechanics requisite for the
+Degree of B.A.
+8. By the view which is thus presented to us of the
+nature and objects of intellectual education, we are led
+to consider the mind of man as undergoing a progress
+from age to age. By the discoveries which are made,
+and by the clearness and evidence which, after a time,
+(not suddenly nor soon,) the truths thus discovered acquire,
+one portion of knowledge after another becomes
+elementary; and if we would really secure this progress,
+and make men share in it, these new portions
+must be treated as elementary in the constitution of a 171
+liberal education. Even in the rudest forms of intelligence,
+man is immeasurably elevated above the unprogressive
+brute, for the idea of number is so far developed that
+he can count his flock or his arrows. But
+when number is contemplated in a speculative form, he
+has made a vast additional progress; when he steadily
+apprehends the relations of space, he has again advanced;
+when in thought he carries these relations into
+the vault of the sky, into the expanse of the universe,
+he reaches a higher intellectual position. And when
+he carries into these wide regions, not only the relations
+of space and time, but of cause and effect, of
+force and reaction, he has again made an intellectual
+advance; which, wide as it is at first, is accessible to
+all; and with which all should acquaint themselves, if
+they really desire to prosecute with energy the ascending
+path of truth and knowledge which lies before
+them. This should be an object of exertion to all ingenuous
+and hopeful minds. For, that exertion is
+necessary,—that after all possible facilities have been
+afforded, it is still a matter of toil and struggle to
+appropriate to ourselves the acquisitions of great discoverers,
+is not to be denied. Elementary mechanics,
+like elementary geometry, is a study accessible to all:
+but like that too, or perhaps more than that, it is a
+study which requires effort and contention of mind,—a
+forced steadiness of thought. It is long since one complained
+of this labour in geometry; and was answered
+that in that region there is no Royal Road. The same
+is true of Mechanics, and must be true of all branches
+of solid education. But we should express the truth
+more appropriately in our days by saying that there is
+no Popular Road to these sciences. In the mind, as
+in the body, strenuous exercise alone can give strength
+and activity. The art of exact thought can be acquired
+only by the labour of close thinking.
+9. (IV.) Chemical Ideas.—We appear then to have
+arrived at a point of human progress in which a liberal
+education of the scientific intellect should include,
+besides arithmetic, elementary geometry and mechanics. 172
+The question then occurs to us, whether there are any other
+Fundamental Ideas, among those belonging to
+other sciences, which ought also to be made part of
+such an education;—whether, for example, we should
+strive to develope in the minds of all cultured men
+the ideas of polarity, mechanical and chemical, of which
+we spoke in a former part of this work.
+The views to which we have been conducted by the
+previous inquiry lead us to reply that it would not be
+well at present to make chemical Polarities, at any
+rate, a subject of elementary instruction. For even
+the most profound and acute philosophers who have
+speculated upon this subject,—they who are leading
+the van in the march of discovery,—do not seem yet
+to have reduced their thoughts on this subject to a
+consistency, or to have taken hold of this idea of Polarity
+in a manner quite satisfactory to their own
+minds. This part of the subject is, therefore, by no
+means ready to be introduced into a course of general
+elementary education; for, with a view to such a purpose,
+nothing less than the most thoroughly luminous
+and transparent condition of the idea will suffice. Its
+whole efficacy, as a means and object of disciplinal
+study, depends upon there being no obscurity, perplexity,
+or indefiniteness with regard to it, beyond that
+transient deficiency which at first exists in the learner’s
+mind, and is to be removed by his studies. The
+idea of chemical Polarity is not yet in this condition;
+and therefore is not yet fit for a place in education.
+Yet since this idea of Polarity is the most general idea
+which enters into chemistry, and appears to be that
+which includes almost all the others, it would be
+unphilosophical, and inconsistent with all sound views of
+science, to introduce into education some chemical
+conceptions, and to omit those which depend upon this
+idea: indeed such a partial adoption of the science
+could hardly take place without not only omitting, but
+misrepresenting, a great part of our chemical knowledge.
+The conclusion to which we are necessarily
+led, therefore, is this:—that at present chemistry 173
+cannot with any advantage, form a portion of the general
+intellectual education16.
+16
+ I do not here stop to prove that an education
+(if it be so called) in which the memory only retains the
+verbal expression of results, while the mind does not apprehend
+the principles of the subject, and therefore cannot even
+understand the words in which its doctrines are expressed,
+is of no value whatever to the intellect, but rather, is highly
+hurtful to the habits of thinking and reasoning.
+10. (V.) Natural-History Ideas.—But there remains
+still another class of Ideas, with regard to
+which we may very properly ask whether they may
+not advantageously form a portion of a liberal education:
+I mean the Ideas of definite Resemblance and
+Difference, and of one set of resemblances subordinate
+to another, which form the bases of the classificatory
+sciences. These Ideas are developed by the study of
+the various branches of Natural History, as Botany,
+and Zoology; and beyond all doubt, those pursuits, if
+assiduously followed, very materially affect the mental
+habits. There is this obvious advantage to be looked
+for from the study of Natural History, considered as
+a means of intellectual discipline:—that it gives us, in
+a precise and scientific form, examples of the classing
+and naming of objects; which operations the use of
+common language leads us constantly to perform in a
+loose and inexact way. In the usual habits of our
+minds and tongues, things are distinguished or brought
+together, and names are applied, in a manner very indefinite,
+vacillating, and seemingly capricious: and we
+may naturally be led to doubt whether such defects
+can be avoided;—whether exact distinctions of things,
+and rigorous use of words be possible. Now upon this
+point we may receive the instruction of Natural History;
+which proves to us, by the actual performance of
+the task, that a precise classification and nomenclature
+are attainable, at least for a mass of objects all of the
+same kind. Further, we also learn from this study,
+that there may exist, not only an exact distinction of
+kinds of things, but a series of distinctions, one set
+subordinate to another, and the more general including 174
+the more special, so as to form a system of classification.
+All these are valuable lessons. If by the study
+of Natural History we evolve, in a clear and well defined form,
+the conceptions of genus, species, and of
+higher and lower steps of classification,
+we communicate precision, clearness, and method to the intellect,
+through a great range of its operations.
+11. It must be observed, that in order to attain the
+disciplinal benefit which the study of Natural History
+is fitted to bestow, we must teach the natural not the
+artificial classifications; or at least the natural as well
+as the artificial. For it is important for the student to
+perceive that there are classifications, not merely arbitrary,
+founded upon some assumed character, but natural, recognized
+by some discovered character: he ought
+to see that our classes being collected according to one
+mark, are confirmed by many marks not originally stated
+in our scheme; and are thus found to be grouped
+together, not by a single resemblance, but by a mass of
+resemblances, indicating a natural affinity. That objects
+may be collected into such groups, is a highly important
+lesson, which Natural History alone, pursued
+as the science of natural classes, can teach.
+12. Natural History has not unfrequently been
+made a portion of education: and has in some degree
+produced such effects as we have pointed out. It
+would appear, however, that its lessons have, for the
+most part, been very imperfectly learnt or understood
+by persons of ordinary education: and that there are
+perverse intellectual habits very commonly prevalent
+in the cultivated classes, which ought ere now to have
+been corrected by the general teaching of Natural
+History. We may detect among speculative men
+many prejudices respecting the nature and rules of
+reasoning, which arise from pure mathematics having
+been so long and so universally the instrument of
+intellectual cultivation. Pure Mathematics reasons from
+definitions: whatever term is introduced into her
+pages, as a circle, or a square, its definition comes along
+with it: and this definition is supposed to supply all
+that the reasoner needs to know, respecting the term. 175
+If there be any doubt concerning the validity of the
+conclusion, the doubt is resolved by recurring to the
+definitions. Hence it has come to pass that in other
+subjects also, men seek for and demand definitions as
+the most secure foundation of reasoning. The definition
+and the term defined are conceived to be so far
+identical, that in all cases the one may be substituted
+for the other; and such a substitution is held to be
+the best mode of detecting fallacies.
+13. It has already been shown that even geometry
+is not founded upon definitions alone: and we shall
+not here again analyse the fallacy of this belief in the
+supreme value of definitions. But we may remark
+that the study of Natural History appears to be the
+proper remedy for this erroneous habit of thought. For
+in every department of Natural History the object of
+our study is kinds of things, not one of which kinds
+can be rigorously defined, yet all of them are sufficiently
+definite. In these cases we may indeed give a
+specific description of one of the kinds, and may call it
+a definition; but it is clear that such a definition does
+not contain the essence of the thing. We
+say17 that the
+Rose Tribe are ‘Polypetalous dicotyledons, with lateral
+styles, superior simple ovaria, regular perigynous stamens,
+exalbuminous definite seeds, and alternate stipulate leaves.’
+But no one would say that this was our
+essential conception of a rose, to be substituted for it
+in all cases of doubt or obscurity, by way of making
+our reasonings perfectly clear. Not only so; but as
+we have already seen18,
+the definition does not even
+apply to all the tribe. For the stipulæ are absent in
+Lowea: the albumen is present in Neillia: the fruit of
+Spiræa sorbifolia is capsular. If, then, we can possess
+any certain knowledge in Natural History, (which no
+cultivator of the subject will doubt,) it is evident that
+our knowledge cannot depend on the possibility of laying
+down exact definitions and reasoning from them.
+17
+ Lindley’s Nat. Syst. Bot. p. 81.
+18
+ Hist. Sc. Ideas, b. viii. c. ii. sect. 3.
+14. But it may be asked, if we cannot define a 176
+word, or a class of things which a word denotes, how
+can we distinguish what it does mean from what it
+does not mean? How can we say that it signifies one
+thing rather than another, except we declare what is
+its signification?
+The answer to this question involves the general
+principle of a natural method of classification, which
+has already been stated19
+and need not here be again
+dwelt on. It has been shown that names of kinds of
+things (genera) associate them according to total
+resemblances, not partial characters. The principle
+which connects a group of objects in natural history is
+not a definition, but a type. Thus we take as the type
+of the Rose family, it may be, the common wild rose;
+all species which resemble this flower more than they
+resemble any other group of species are also roses, and
+form one genus. All genera which resemble Roses
+more than they resemble any other group of genera
+are of the same family. And thus the Rose family
+is collected about some one species, which is the type
+or central point of the group.
+19
+ Hist. Sc. Ideas, b. viii. c. ii. sect. 3.
+In such an arrangement, it may readily be conceived
+that though the nucleus of each group may cohere
+firmly together, the outskirts of contiguous groups
+may approach, and may even be intermingled, so that
+some species may doubtfully adhere to one group or
+another. Yet this uncertainty does not at all affect
+the truths which we find ourselves enabled to assert
+with regard to the general mass of each group. And
+thus we are taught that there may be very important
+differences between two groups of objects, although we
+are unable to tell where the one group ends and where
+the other begins; and that there may be propositions
+of indisputable truth, in which it is impossible to give
+unexceptionable definitions of the terms employed.
+15. These lessons are of the highest value with
+regard to all employments of the human mind; for the
+mode in which words in common use acquire their
+meaning, approaches far more nearly to the Method of
+177 Type than
+to the method of definition. The terms
+which belong to our practical concerns, or to our spontaneous
+and unscientific speculations, are rarely capable
+of exact definition. They have been devised in order
+to express assertions, often very important, yet very
+vaguely conceived: and the signification of the word is
+extended, as far as the assertion conveyed by it can be
+extended, by apparent connexion or by analogy. And
+thus, in all the attempts of man to grasp at knowledge,
+we have an exemplification of that which we have
+stated as the rule of induction, that Definition and
+Proposition are mutually dependent, each adjusted so
+as to give value and meaning to the other: and this is
+so, even when both the elements of truth are defective
+in precision: the Definition being replaced by an
+incomplete description or a loose reference to a Type;
+and the Proposition being in a corresponding degree
+insecure.
+16. Thus the study of Natural History, as a corrective
+of the belief that definitions are essential to
+substantial truth, might be of great use; and the advantage
+which might thus be obtained is such as well
+entitles this study to a place in a liberal education.
+We may further observe, that in order that Natural
+History may produce such an effect, it must be studied
+by inspection of the objects themselves, and not by the
+reading of books only. Its lesson is, that we must in
+all cases of doubt or obscurity refer, not to words or
+definitions, but to things. The Book of Nature is its
+dictionary: it is there that the natural historian looks,
+to find the meaning of the words which he
+uses20. So
+178 long as a plant,
+in its most essential parts, is more like
+a rose than any thing else, it is a rose. He knows no
+other definition.
+20
+ It is a curious example of the influence of the belief
+in definitions, that elementary books have been written in which
+Natural History is taught in the way of question and answer, and
+consequently by means of words alone. In such a scheme, of course
+all objects are defined: and we may easily anticipate
+the value of the knowledge thus conveyed. Thus, ‘Iron is a
+well-known hard metal, of a darkish gray colour, and very elastic:’
+‘Copper is an orange-coloured  metal, more sonorous than any other,
+and the most elastic of any except iron.’ This is to pervert
+the meaning of education, and to make it a business of mere words.
+17. (VI.) Well-established Ideas alone to be used.—We
+may assert in general what we have elsewhere, as
+above, stated specially with reference to the fundamental
+principles of chemistry:—no Ideas are suited to become
+the elements of elementary education, till they have not
+only become perfectly distinct and fixed in the minds
+of the leading cultivators of the science to which they
+belong; but till they have been so for some considerable
+period. The entire clearness and steadiness of view
+which is essential to sound science, must have time to
+extend itself to a wide circle of disciples. The views
+and principles which are detected by the most profound
+and acute philosophers, are soon appropriated by all the
+most intelligent and active minds of their own and of
+the following generations; and when this has taken
+place, (and not till then,) it is right, by a proper
+constitution of our liberal education, to extend a general
+knowledge of such principles to all cultivated persons.
+And it follows, from this view of the matter, that we
+are by no means to be in haste to adopt, into our
+course of education, all new discoveries as soon as they
+are made. They require some time, in order to settle
+into their proper place and position in men’s minds,
+and to show themselves under their true aspects; and
+till this is done, we confuse and disturb, rather than
+enlighten and unfold, the ideas of learners, by introducing
+the discoveries into our elementary instruction.
+Hence it was perhaps reasonable that a century should
+elapse from the time of Galileo, before the rigorous
+teaching of Mechanics became a general element of
+intellectual training; and the doctrine of Universal
+Gravitation was hardly ripe for such an employment till
+the end of the last century. We must not direct the
+unformed youthful mind to launch its little bark upon
+the waters of speculation, till all the agitation of
+discovery, with its consequent fluctuation and
+controversy, has well subsided.
+18. But it may be asked, How is it
+that time 179 operates
+to give distinctness and evidence to scientific
+ideas? In what way does it happen that views and
+principles, obscure and wavering at first, after a while
+become luminous and steady? Can we point out any
+process, any intermediate steps, by which this result is
+produced? If we can, this process must be an important
+portion of the subject now under our consideration.
+To this we reply, that the transition from the hesitation
+and contradiction with which true ideas are first
+received, to the general assent and clear apprehension
+which they afterwards obtain, takes place through
+the circulation of various arguments for and against
+them, and various modes of presenting and testing
+them, all which we may include under the term Discussion,
+which we have already mentioned as the
+second of the two ways by which scientific views are
+developed into full maturity.
+</div></body></text></TEI>

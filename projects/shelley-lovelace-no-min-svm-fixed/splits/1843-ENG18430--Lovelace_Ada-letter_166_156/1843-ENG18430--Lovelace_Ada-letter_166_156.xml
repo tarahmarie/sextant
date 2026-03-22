@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 156</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 156.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1843">undated (estimated from box 166 date range)</date>
+          <note type="place">St. James' Square</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 156</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_156.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>St James' Sqre Weddy. 1/2 past 2.</p>
+      <p>I think you will wish to have a line. I have had a long &amp; painful process performed on my teeth this morning, &amp; have to go again now. A sad business, &amp; shockingly painful.</p>
+      <p>I am thus detained till the 5 Train; &amp; can't let the carriage free for Dr G.-- &amp; B-- till that hour. So they won't be down till 8 or 9 o'clock. Byron is very unwell with a sick headache, poor thing.--</p>
+      <p>I shall write to you more at full from Brighton tomorrow</p>
+      <p>but I want now just to express to you my deep sense of the degree in which you (dearest Mate) depend on me, on my diligence, &amp; discretion; &amp; how entirely I perceive that your strong attachment to &amp; feelings for me cause you to be at my mercy; I am more aware of this than I was, &amp; I hope I am incapable of abusing such a fact.--</p>
+      <p>Of course time only can enable you to judge how far I am capable of repaying your own devotion of feeling.</p>
+      <p>I merely wish you to be aware that I feel my reponsibility on the subject very deeply, &amp; that I reflect much &amp; continually on it now.</p>
+    </div></body>
+  </text>
+</TEI>

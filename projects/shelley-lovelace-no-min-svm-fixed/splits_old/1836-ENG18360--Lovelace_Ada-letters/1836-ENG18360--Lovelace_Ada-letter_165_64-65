@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 64-65</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 64-65.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1836">undated [early August 1836?]</date>
+          <note type="place">Brighton</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 64-65</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_64-65.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Brighton Sundy Afternoon</p>
+      <p>Dearest Mate. I have just been reading one of the most splendid sermons I ever had the blessing of perusing, by a preacher of some celebrity-- Mr Melville. He is one of the strictly orthodox, but I do not admire his sermon, (which has nothing to do with disputed points), the less</p>
+      <p>on that account. The subject is-- "On the Advantages of possessing the Scriptures"-- considered both individually &amp; internally-- an advantage I feel myself to have daily &amp; continually neglected.--</p>
+      <p>This subject reminds me that there is here a famous Unitarian preacher, whom the Hen thinks of going to hear next Sunday. Would you object to my going?-- Mama says that I may go separately if I please, but that in your absence she cannot be so far responsible for my proceeding</p>
+      <p>as to take me with her.--</p>
+      <p>By the bye I hope you will be here this week, but you make no mention of leaving Ashley.--</p>
+      <p>I called yesterday on Emily with Hester early in the day, &amp; saw her. As we entered the room she pretended to be engrossed with the newspaper &amp; to start up when we were almost close to her. She was very evidently &amp; very much embarrassed the whole time, &amp; I did not hasten my departure. I confounded her utterly</p>
+      <p>&amp; made her convict herself, about her ride on the Henfield road, and had the pleasure of seeing her eyes quail &amp; look into her lap beneath the very steady, though I believe very gentle, gaze of mine. I was determined to look her through for once. She coloured up to her temples &amp; looked the picture of guilt. To be forced by me, without a single harsh word, to admit in Hester's presence that which she had previously denied to her, must have been unpleasant. I think she is probably</p>
+    </div></body>
+  </text>
+</TEI>

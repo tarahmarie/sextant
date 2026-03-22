@@ -1,0 +1,386 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Connexion of the Physical Sciences</title><author>Somerville, Mary (1780-1872)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1834</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="9">
+55
+SECTION VIII.
+
+Masses of Planets that have no Satellites determined from their Perturbations—Masses
+of the others obtained from the Motions of their Satellites—Masses
+of the Sun, the Earth, of Jupiter and of the Jovial
+System—Mass of the Moon—Real Diameters of Planets, how obtained—Size
+of Sun, Densities of the Heavenly Bodies—Formation of Astronomical
+Tables—Requisite Data and Means of obtaining them.
+The masses of such planets as have no satellites are known by
+comparing the inequalities they produce in the motions of the
+earth and of each other, determined theoretically, with the same
+inequalities given by observation; for the disturbing cause must
+necessarily be proportional to the effect it produces. The masses
+of the satellites themselves may also be compared with that of
+the sun by their perturbations. Thus, it is found, from the
+comparison of a vast number of observations with La Place’s
+theory of Jupiter’s satellites, that the mass of the sun is no less
+than 65,000,000 times greater than the least of these moons.
+But, as the quantities of matter in any two primary planets are
+directly as the cubes of the mean distances at which their satellites
+revolve, and inversely as the squares of their periodic times
+(N. 135), the mass of the sun and of any planets which have
+satellites may be compared with the mass of the earth. In this
+manner it is computed that the mass of the sun is 354,936 times
+that of the earth; whence the great perturbations of the moon,
+and the rapid motion of the perigee and nodes of her orbit
+(N. 136). Even Jupiter, the largest of the planets, has been
+found by Professor Airy to be 1047·871 times less than the sun;
+and, indeed, the mass of the whole Jovial system is not more
+than the 1054·4th part of that of the sun. So that the mass of
+the satellites bears a very small proportion to that of their primary.
+The mass of the moon is determined from several sources—from
+her action on the terrestrial equator, which occasions the nutation
+in the axis of rotation; from her horizontal parallax; from an
+inequality she produces in the sun’s longitude; and from her
+action on the tides. The three first quantities, computed from
+56theory and compared with their observed values, give her mass
+respectively equal to the
+1⁄71,
+1⁄74·2,
+and
+1⁄69·2,
+part of that of the earth,
+which do not differ much from each other. Dr. Brinkley has
+found it to be
+1⁄80
+from the constant of lunar nutation: but, from
+the moon’s action in raising the tides, her mass appears to be
+about the
+1⁄75
+part of that of the earth—a value that cannot differ
+much from the truth.
+The apparent diameters of the sun, moon, and planets are
+determined by measurement; therefore their real diameters may
+be compared with that of the earth; for the real diameter of a
+planet is to the real diameter of the earth, or 7926 miles, as the
+apparent diameter of the planet to the apparent diameter of the
+earth as seen from the planet, that is, to twice the parallax of the
+planet. According to Bessel, the mean apparent diameter of
+the sun is 1923ʺ·64, and with the solar parallax 8ʺ·5776, it
+will be found that the diameter of the sun is about 886,877
+miles. Therefore, if the centre of the sun were to coincide with
+the centre of the earth, his volume would not only include the
+orbit of the moon, but would extend nearly as far again; for the
+moon’s mean distance from the earth is about sixty times the
+earth’s equatorial radius, or 238,793 miles: so that twice the distance
+of the moon is 477,586 miles, which differs but little from
+the solar radius; his equatorial radius is probably not much less
+than the major axis of the lunar orbit. The diameter of the
+moon is only 2160 miles; and Jupiter’s diameter of 88,200 miles
+is very much less than that of the sun; the diameter of Pallas
+does not much exceed 79 miles, so that an inhabitant of that
+planet, in one of our steam carriages, might go round his world
+in a few hours. The diameters of Lutetia and Atalanta are only
+8 and 4 miles respectively; but the whole of the 55 telescopic
+planets are so small, that their united mass is probably not more
+than the fifth or sixth part of that of the moon.
+The densities of bodies are proportional to their masses, divided
+by their volumes. Hence, if the sun and planets be assumed to
+be spheres, their volumes will be as the cubes of their diameters.
+Now, the apparent diameters of the sun and earth, at their mean
+distance, are 1923ʺ·6 and 17ʺ·1552, and the mass of the earth is
+the 354,936th part of that of the sun taken as the unit. It
+follows, therefore, that the earth is four times as dense as
+the sun. But the sun is so large that his attractive force would
+57cause bodies to fall through about 334·65 feet in a second.
+Consequently, if he were habitable by human beings, they would
+be unable to move, since their weight would be thirty times
+as great as it is here. A man of moderate size would weigh
+about two tons at the surface of the sun; whereas at the surface
+of some of the new planets he would be so light that it would be
+impossible to stand steady, since he would only weigh a few
+pounds. The mean density of the earth has been determined by
+the following method. Since a comparison of the action of two
+planets upon a third gives the ratio of the masses of these two
+planets, it is clear that, if we can compare the effect of the
+whole earth with the effect of any part of it, a comparison may
+be instituted between the mass of the whole earth and the mass
+of that part of it. Now a leaden ball was weighed against the
+earth by comparing the effects of each upon a pendulum; the
+nearness of the smaller mass making it produce a sensible effect
+as compared with that of the larger: for by the laws of attraction
+the whole earth must be considered as collected in its centre.
+By this method it has been found that the mean density of the
+earth is 5·660 times greater than that of water at the temperature
+of 62° of Fahrenheit’s thermometer. The late Mr. Baily,
+whose accuracy as an experimental philosopher is acknowledged,
+was unremittingly occupied nearly four years in accomplishing
+this very important object. In order to ascertain the mean
+density of the earth still more perfectly, Mr. Airy made a series
+of experiments to compare the simultaneous oscillations of two
+pendulums, one at the bottom of the Harton coal-pit, 1260 feet
+deep, in Northumberland, and the other on the surface of the
+earth immediately above it. The oscillations of the pendulums
+were compared with an astronomical clock at each station, and
+the time was instantaneously transmitted from one to the other
+by a telegraphic wire. The oscillations were observed for more
+than 100 hours continuously, when it was found that the lower
+pendulum made
+21⁄2
+oscillations more in 24 hours than the upper
+one. The experiment was repeated for the same length of time
+with the same result; but on this occasion the upper pendulum
+was taken to the bottom of the mine and the lower brought to
+the surface. From the difference between the oscillations at the
+two stations it appears that gravitation at the bottom of the
+mine exceeds that at the surface by the
+1⁄19190
+part, and that the
+58mean density of the earth is 6·565, which is greater than that
+obtained by Mr. Baily by ·89. While employed on the trigonometrical
+survey of Scotland, Colonel James determined the mean
+density of the earth to be 5·316, from a deviation of the
+plumb-line amounting to 2ʺ, caused by the attraction of Arthur’s
+Seat and the heights east of Edinburgh: it agrees more nearly with
+the density found by Mr. Baily than with that deduced from Mr.
+Airy’s experiments. All the planets and satellites appear to be
+of less density than the earth. The motions of Jupiter’s satellites
+show that his density increases towards his centre. Were his
+mass homogeneous, his equatorial and polar axes would be in the
+ratio of 41 to 36, whereas they are observed to be only as 41 to
+38. The singular irregularities in the form of Saturn, and the
+great compression of Mars, prove the internal structure of these
+two planets to be very far from uniform.
+Before entering on the theory of rotation, it may not be foreign
+to the subject to give some idea of the methods of computing
+the places of the planets, and of forming astronomical tables.
+Astronomy is now divided into the three distinct departments of
+theory, observation, and computation. Since the problem of the
+three bodies can only be solved by approximation, the analytical
+astronomer determines the position of a planet in space by a
+series of corrections. Its place in its circular orbit is first found,
+then the addition or subtraction of the equation of the centre
+(N. 48) to or from its mean place gives its position in the
+ellipse. This again is corrected by the application of the principal
+periodic inequalities. But, as these are determined for
+some particular position of the three bodies, they require to be
+corrected to suit other relative positions. This process is continued
+till the corrections become less than the errors of observation,
+when it is obviously unnecessary to carry the approximation
+further. The true latitude and distance of the planet from the
+sun are obtained by methods similar to those employed for the
+longitude.
+As the earth revolves equably about its axis in 24 hours, at
+the rate of 15° in an hour, time becomes a measure of angular
+motion, and the principal element in astronomy, where the object
+is to determine the exact state of the heavens and the successive
+changes it undergoes in all ages, past, present, and to come.
+Now, the longitude, latitude, and distance of a planet from the
+59sun are given in terms of the time, by general analytical formulæ.
+These formulæ will consequently give the exact place of the body
+in the heavens, for any time assumed at pleasure, provided they
+can be reduced to numbers. But before the calculator begins
+his task the observer must furnish the necessary data, which
+are, obviously, the forms of the orbits, and their positions with
+regard to the plane of the ecliptic (N. 57). It is therefore necessary
+to determine by observation, for each planet, the length of
+the major axis of its orbit, the excentricity, the inclination of the
+orbit to the plane of the ecliptic, the longitudes of its perihelion
+and ascending node at a given time, the periodic time of the
+planet, and its longitude at any instant arbitrarily assumed, as
+an origin from whence all its subsequent and antecedent longitudes
+are estimated. Each of these quantities is determined
+from that position of the planet on which it has most influence.
+For example, the sum of the greatest and least distances of the
+planet from the sun is equal to the major axis of the orbit, and
+their difference is equal to twice the excentricity. The longitude
+of the planet, when at its least distance from the sun, is the
+same with the longitude of the perihelion; the greatest latitude
+of the planet is equal to the inclination of the orbit: the longitude
+of the planet, when in the plane of the ecliptic in passing towards
+the north, is the longitude of the ascending node, and the
+periodic time is the interval between two consecutive passages of
+the planet through the same node, a small correction being made
+for the precession of the node during the revolution of the planet
+(N. 137). Notwithstanding the excellence of instruments and
+the accuracy of modern observers, unavoidable errors of observation
+can only be compensated by finding the value of each element
+from the mean of a thousand, or even many thousands of
+observations. For as it is probable that the errors are not all in
+one direction, but that some are in excess and others in defect,
+they will compensate each other when combined.
+However, the values of the elements determined separately
+can only be regarded as approximate, because they are so connected
+that the estimation of any one independently will induce
+errors in the others. The excentricity depends upon the longitude
+of the perihelion, the mean motion depends upon the major
+axis, the longitude of the node upon the inclination of the orbit,
+and vice versâ. Consequently, the place of a planet computed
+60with the approximate data will differ from its observed place.
+Then the difficulty is to ascertain what elements are most in
+fault, since the difference in question is the error of all; that is
+obviated by finding the errors of some thousands of observations,
+and combining them, so as to correct the elements simultaneously,
+and to make the sum of the squares of the errors a minimum
+with regard to each element (N. 138). The method of accomplishing
+this depends upon the Theory of Probabilities; a subject
+fertile in most important results in the various departments of
+science and of civil life, and quite indispensable in the determination
+of astronomical data. A series of observations continued
+for some years will give approximate values of the secular
+and periodic inequalities, which must be corrected from time to
+time, till theory and observation agree. And these again will
+give values of the masses of the bodies forming the solar system,
+which are important data in computing their motions. The
+periodic inequalities derived from a great number of observations
+are employed for the determination of the values of the masses
+till such time as the secular inequalities shall be perfectly
+known, which will then give them with all the necessary precision.
+When all these quantities are determined in numbers,
+the longitude, latitude, and distance of the planet from the sun
+are computed for stated intervals, and formed into tables, arranged
+according to the time estimated from a given epoch, so
+that the place of the body may be determined from them by
+inspection alone, at any instant for perhaps a thousand years
+before and after that epoch. By this tedious process, tables have
+been computed for all the great planets, and several of the
+small, besides the moon and the satellites of Jupiter. In
+the present state of astronomy the masses and elements of the
+orbits are pretty well known, so that the tables only require
+to be corrected from time to time as observations become
+more accurate. Those containing the motions of Jupiter,
+Saturn, and Uranus have already been twice constructed within
+the last thirty years, and the tables of Jupiter and Saturn
+agree almost perfectly with modern observation. The following
+prediction will be found in the sixth edition of this book, published
+in the year 1842: “Those of Uranus, however, are already
+defective, probably because the discovery of that planet in 1781
+is too recent to admit of much precision in the determination of
+61its motions, or that possibly it may be subject to disturbances
+from some unseen planet revolving about the sun beyond the
+present boundaries of our system. If, after a lapse of years, the
+tables formed from a combination of numerous observations
+should be still inadequate to represent the motions of Uranus,
+the discrepancies may reveal the existence, nay, even the mass and
+orbit, of a body placed for ever beyond the sphere of vision.”[5]
+That prediction has been fulfilled since the seventh edition of
+this book was published. Not only the existence of Neptune,
+revolving at the distance of three thousand millions of miles from
+the sun, has been discovered from his disturbing action on
+Uranus, but his mass, the form and position of his orbit in space,
+and his periodic time had been determined before the planet had
+been seen, and the planet itself was discovered in the very point
+of the heavens which had been assigned to it. It had been
+noticed for years that the perturbation of Uranus had increased
+in an unaccountable manner (N. 139). After the disturbing
+action of all the known planets had been determined, it was
+found that, between the years 1833 and 1837, the observed and
+computed distance of Uranus from the sun differed by 240,000
+miles, which is about the mean distance of the moon from the
+earth, while, in 1841, the error in the geocentric longitude of the
+planet amounted to 96ʺ. These discrepancies were therefore
+attributed to the attraction of some unseen and unknown planet,
+consequently they gave rise to a case altogether unprecedented
+in the history of astronomy. Heretofore it was required to determine
+the disturbing action of one known planet upon another.
+Whereas the inverse problem had now to be solved, in which it
+was required to find the place of an unknown body in the heavens,
+at a given time, together with its mass, and the form and position
+of its orbit, from the disturbance it produced on the motions
+of another. The difficulty was extreme, because all the elements
+of the orbit of Uranus were erroneous from the action of Neptune,
+and those of Neptune’s orbit were unknown. In this dilemma
+it was necessary to form some hypothesis with regard to the
+unknown planet; it was therefore assumed, according to Bode’s
+empirical law on the mean distances of the planets, that it
+was revolving at twice the distance of Uranus from the sun.
+62In fact, the periodic time of Uranus is about 84 years, and, as the
+discrepancies in his motions increased slowly and regularly, it
+was evident that it would require a planet with a much longer
+periodic time to produce them—moreover, it was clear that the
+new planet must be exterior to Uranus, otherwise it would have
+disturbed the motions of Saturn.
+Another circumstance tended to lessen the difficulty; the
+latitude of Uranus was not much affected, therefore it was concluded
+that the inclination of the orbit of the unknown body
+must be very small, and, as that of the orbit of Uranus is only
+46ʹ 28ʺ·4, both planets were assumed to be moving in the plane
+of the ecliptic, and thus the elements of the orbit of the unknown
+planet were reduced from six to four. Having thus assumed
+that the unknown body was revolving in a circle in the plane
+of the ecliptic, the analytical expression of its action on the
+motion of Uranus, when in numerous points of its orbit, was
+compared with the observed longitude of Uranus, through a
+regular series of years, by means of which the faulty elements
+of the orbit of Uranus were eliminated, or got rid of, and there
+only remained a relation between the mass of the new planet and
+three of the elements of its orbit; and it then was necessary to
+assume such a value for two of them as would suit the rest.
+That was accomplished so dexterously, that the perturbations of
+Uranus were perfectly conformable to the motions of Neptune,
+moving in the orbit thus found, and the place of the new planet
+exactly agreed with observation. Subsequently its orbit and
+motions have been determined more accurately.
+The honour of this admirable effort of genius is shared by Mr.
+Adams and M. Le Verrier, who, independently of each other,
+arrived at these wonderful results. Mr. Adams had determined
+the mass and apparent diameter of Neptune, with all the circumstances
+of its motion, eight months before M. Le Verrier had
+terminated his results, and had also pointed out the exact spot
+where the planet would be found; but the English observers
+neglected to look for it till M. Le Verrier made known his researches,
+and communicated its position to Dr. Galle, at Berlin,
+who found it the very first night he looked for it, and then it
+was evident that it would have been seen in the place Mr. Adams
+had assigned to it eight months before had it been looked for. So
+closely did the results of these two great mathematicians agree.
+63Neptune has a diameter of 39,793 miles, consequently he is
+nearly 200 times larger than the earth, and may be seen with a
+telescope of moderate power. His motion is retrograde at present,
+and six times slower than that of the earth. At so great a
+distance from the sun it can only have the
+1⁄1300th
+part of the light
+and heat the earth receives; but having a satellite, the deficiency
+of light may in some measure be supplied.
+The prediction may now be transferred from Uranus to Neptune,
+whose perturbations may reveal the existence of a planet
+still further removed, which may for ever remain beyond the
+reach of telescopic vision—yet its mass, the form and position of its
+orbit, and all the circumstances of its motion may become known,
+and the limits of the solar system may still be extended hundreds
+of millions of miles.
+The mean distance of Neptune from the sun has subsequently
+proved to be only 2893 millions of miles, and the period of his
+revolution 166 years, so that Baron Bode’s law, of the interval
+between the orbits of any two planets being twice as great as the
+inferior interval and half of the superior, fails in the case of
+Neptune, though it was useful on the first approximation to his
+motions; and since Bode’s time it has led to the discovery of fifty-five
+telescopic planets revolving between the orbits of Mars and
+Jupiter, some by chance, others by a systematic search on the
+faith that these minute planets are fragments of a larger body
+that has exploded, because their distances from the sun are nearly
+the same; the lines of the nodes of some of their orbits terminate
+in the same points of the heavens, and the inclinations of their
+orbits are such as might have taken place from their mutual
+disturbances at the time of the explosion, and while yet they
+were near enough for their forms to affect their motions. The
+orbits of the more recently discovered asteroids show that this
+hypothesis is untenable.
+The tables of Mars, Venus, and even those of the sun, have
+been greatly improved, and still engage the attention of our
+Astronomer Royal, Mr. Airy, and other eminent astronomers. We
+are chiefly indebted to the German astronomers for tables of
+the four older telescopic planets, Vesta, Juno, Ceres, and Pallas;
+the others have only been discovered since the year 1845.
+The determination of the path of a planet when disturbed by
+all the others, a problem which has employed the talents of the
+64greatest astronomers, from Newton to the present day, is only
+successfully accomplished with regard to the older planets, which
+revolve in nearly circular orbits, but little inclined to the plane
+of the ecliptic. When the excentricity and inclination of the
+orbits are great, their analysis fails, because the series expressing
+the co-ordinates of the bodies become extremely complicated, and
+do not converge when applied to comets and the telescopic planets.
+This difficulty has been overcome by Sir John Lubbock, and other
+mathematicians, who have the honour of having completed the
+theory of planetary motion, which becomes every day of more
+importance, from the new planets that have been discovered, and
+also with regard to comets, many of which return to the sun at
+regular intervals, and from whose perturbations the masses of the
+planets will be more accurately determined, and the retarding
+influence of the ethereal medium better known.</div></body></text></TEI>

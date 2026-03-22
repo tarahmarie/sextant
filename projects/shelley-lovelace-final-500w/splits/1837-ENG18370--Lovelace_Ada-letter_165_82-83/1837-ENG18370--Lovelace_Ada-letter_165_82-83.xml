@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 82-83</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 82-83.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1837">undated [after 22 September 1837]</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 82-83</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_82-83.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>[letter ends on page 4 with no closing]</p>
+      <p>Sweet Mate. The Avis had yesterday a confirmed cold, so has not been out since Friday. I am not sorry that Dr Locock should have this opportunity of seeing what my colds are like, though this one is by no means one of my worst.-- In other</p>
+      <p>respects I am doing well, &amp; the pain I had on Friday can be I am told properly accounted for, &amp; is not likely to return. It seems now Dr L's opinion &amp; hope that there may be no more trouble of any kind, or prospect of little birdies, for months to come.--</p>
+      <p>Mrs Clermont who was a long time with the baby yesterday, &amp; you know was with Mama</p>
+      <p>at her birth &amp;, first months of existence, thinks this one extremely unlike her, &amp; especially in the eyes, which she says must turn decidedly black like Byron's.--</p>
+      <p>Mama was a very quiet infant &amp; rarely cried at all. I squalled almost incessantly for 6 weeks, so in this my daughter is no Ada &amp; no Annabella.--</p>
+      <p>I find so much to do that I almost think</p>
+      <p>me may have to delay going, till Friday or Saturday.-- This can be left undecided however at present, &amp; I shall do as you may wish about it.--</p>
+      <p>No answer from Mr Madge. Stephen says you did not desire one to be asked for.--</p>
+      <p>I was so pleased this morning with ou sweet letter all about flowers.</p>
+    </div></body>
+  </text>
+</TEI>

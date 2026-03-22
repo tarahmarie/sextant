@@ -1,0 +1,430 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="31">CHAPTER V.
+Generalization of the Principles of
+Mechanics.
+
+Sect. 1.—Generalization of the Second
+Law of Motion.—Central Forces.
+THE Second Law of Motion being
+proved for constant Forces which act in parallel lines, and the Third
+Law for the Direct Action of bodies, it still required great
+mathematical talent, and some inductive power, to see clearly the laws
+which govern the motion of any number of bodies, acted upon by each
+other, and by any forces, anyhow varying in magnitude and direction.
+This was the task of the generalization of the laws of motion.
+Galileo had convinced himself that the velocity of projection, and
+that which gravity alone would produce, are “both maintained, without
+being altered, perturbed, or impeded in their mixture.” It is to be
+observed, however, that the truth of this result depends upon a
+particular circumstance, namely, that gravity, at all points, acts in
+lines, which, as to sense, are parallel. When we have to consider
+cases in which this is not true, as when the force tends to the centre
+of a circle, the law of composition cannot be applied in the same way;
+and, in this case, mathematicians were met by some peculiar
+difficulties.
+One of these difficulties arises from the apparent inconsistency of
+the statical and dynamical measures of force. When a body moves in a
+circle, the force which urges the body to the centre is only a
+tendency to motion; for the body does not, in fact, approach
+to the centre; and this mere tendency to motion is combined with an
+actual motion, which takes place in the circumference. We appear to
+have to compare two things which are heterogeneous. Descartes had
+noticed this difficulty, but without giving any satisfactory solution
+of it.33 If we combine the actual motion to or
+from the centre with the traverse motion about the centre, we obtain a
+result which is false on mechanical principles. Galileo endeavored in
+this way to find the curve described by a body which falls towards the
+earth’s centre, and is, at the same time, carried 353 round by the motion
+of the earth; and obtained an erroneous result. Kepler and Fermat
+attempted the same problem, and obtained solutions different from that
+of Galileo, but not more correct.
+33 Princip. P. iii. 59.
+Even Newton, at an early period of his speculations, had an
+erroneous opinion respecting this curve, which he imagined to be a
+kind of spiral. Hooke animadverted upon this opinion when it was laid
+before the Royal Society of London in 1679, and stated, more truly,
+that, supposing no resistance, it would be “an eccentric ellipsoid,”
+that is, a figure resembling an ellipse. But though he had made out
+the approximate form of the curve, in some unexplained way, we have no
+reason to believe that he possessed any means of determining the
+mathematical properties of the curve described in such a case. The
+perpetual composition of a central force with the previous motion of
+the body, could not be successfully treated without the consideration
+of the Doctrine of Limits, or something equivalent to that doctrine.
+The first example which we have of the right solution of such a
+problem occurs, so far as I know, in the Theorems of Huyghens
+concerning Circular Motion, which were published, without
+demonstration, at the end of his Horologium Oscillatorium, in
+1673. It was there asserted that when equal bodies describe circles,
+if the times are equal, the centrifugal forces will be as the
+diameters of the circles; if the velocities are equal, the forces will
+be reciprocally as the diameters, and so on. In order to arrive at
+these propositions, Huyghens must, virtually at least, have applied
+the Second Law of Motion to the limiting elements of the curve,
+according to the way in which Newton, a few years later, gave the
+demonstration of the theorems of Huyghens in the Principia.
+The growing persuasion that the motions of the heavenly bodies
+about the sun might be explained by the action of central forces, gave
+a peculiar interest to these mechanical speculations, at the period
+now under review. Indeed, it is not easy to state separately, as our
+present object requires us to do, the progress of Mechanics, and the
+progress of Astronomy. Yet the distinction which we have to make is,
+in its nature, sufficiently marked. It is, in fact, no less marked
+than the distinction between speaking logically and speaking truly.
+The framers of the science of motion were employed in establishing
+those notions, names, and rules, in conformity to which all
+mechanical truth must be expressed; but what was the
+truth with regard to the mechanism of the universe remained to be
+determined by other means. Physical Astronomy, at the period of which
+we speak, eclipsed and overlaid 354 theoretical Mechanics, as, a little
+previously, Dynamics had eclipsed and superseded Statics.
+The laws of variable force and of curvilinear motion were not much
+pursued, till the invention of Fluxions and of the Differential
+Calculus again turned men’s minds to these subjects, as easy and
+interesting exercises of the powers of these new methods. Newton’s
+Principia, of which the first two Books are purely dynamical,
+is the great exception to this assertion; inasmuch as it contains
+correct solutions of a great variety of the most general problems of
+the science; and indeed is, even yet, one of the most complete
+treatises which we possess upon the subject.
+We have seen that Kepler, in his attempts to explain the
+curvilinear motions of the planets by means of a central force,
+failed, in consequence of his belief that a continued transverse
+action of the central body was requisite to keep up a continual
+motion. Galileo had founded his theory of projectiles on the principle
+that such an action was not necessary; yet Borelli, a pupil of
+Galileo, when, in 1666, he published his theory of the Medicean Stars
+(the satellites of Jupiter), did not keep quite clear of the same
+errors which had vitiated Kepler’s reasonings. In the same way, though
+Descartes is sometimes spoken of as the first promulgator of the First
+Law of Motion, yet his theory of Vortices must have been mainly
+suggested by a want of an entire confidence in that law. When he
+represented the planets and satellites as owing their motions to
+oceans of fluid diffused through the celestial spaces, and constantly
+whirling round the central bodies, he must have felt afraid of
+trusting the planets to the operation of the laws of motion in free
+space. Sounder physical philosophers, however, began to perceive the
+real nature of the question. As early as 1666, we read, in the
+Journals of the Royal Society, that “there was read a paper of Mr.
+Hooke’s explicating the inflexion of a direct motion into a curve by a
+supervening attractive principle;” and before the publication of the
+Principia in 1687, Huyghens, as we have seen, in Holland, and,
+in our own country, Wren, Halley, and Hooke, had made some progress in
+the true mechanics of circular motion,34 and had
+distinctly contemplated the problem of the motion of a body in an
+ellipse by a central force, though they could not solve it. Halley
+went to Cambridge in 1684,35 for the express purpose of consulting
+Newton upon the subject of the production of the elliptical motion of
+the planets by means of a central 355 force, and, on the 10th of December,36 announced to the Royal Society that he
+had seen Mr. Newton’s book, De Motu Corporum. The feeling that
+mathematicians were on the brink of discoveries such as are contained
+in this work was so strong, that Dr. Halley was requested to remind
+Mr. Newton of his promise of entering them in the Register of the
+Society, “for securing the invention to himself till such time as he
+can be at leisure to publish it.” The manuscript, with the title
+Philosophiæ Naturalis Principia Mathematica, was presented to
+the society (to which it was dedicated) on the 28th of April, 1686.
+Dr. Vincent, who presented it, spoke of the novelty and dignity of the
+subject; and the president (Sir J. Hoskins) added, with great truth,
+“that the method was so much the more to be prized as it was both
+invented and perfected at the same time.”
+34 Newt. Princip. Schol. to
+Prop. iv.
+35 Sir D. Brewster’s Life of
+Newton, p. 154.
+36 Id. p. 184.
+The reader will recollect that we are here speaking of the
+Principia as a Mechanical Treatise only; we shall afterwards
+have to consider it as containing the greatest discoveries of Physical
+Astronomy. As a work on Dynamics, its merit is, that it exhibits a
+wonderful store of refined and beautiful mathematical artifices,
+applied to solve all the most general problems which the subject
+offered. The Principia can hardly be said to contain any new
+inductive discovery respecting the principles of mechanics; for though
+Newton’s Axioms or Laws of Motion which stand at the beginning
+of the book, are a much clearer and more general statement of the
+grounds of Mechanics than had yet appeared, they do not involve any
+doctrines which had not been previously stated or taken for granted by
+other mathematicians.
+The work, however, besides its unrivalled mathematical skill,
+employed in tracing out, deductively, the consequences of the laws of
+motion, and its great cosmical discoveries, which we shall hereafter
+treat of, had great philosophical value in the history of Dynamics, as
+exhibiting a clear conception of the new character and functions of
+that science. In his Preface, Newton says, “Rational Mechanics must be
+the science of the Motions which result from any Forces, and of the
+Forces which are required for any Motions, accurately propounded and
+demonstrated. For many things induce me to suspect, that all natural
+phenomena may depend upon some Forces by which the particles of bodies
+are either drawn towards each other, and cohere, or repel and recede
+from each other: and these Forces being hitherto unknown, philosophers
+have pursued their researches in vain. And I hope 356 that the principles
+expounded in this work will afford some light, either to this mode of
+philosophizing, or to some mode which is more true.”
+Before we pursue this subject further, we must trace the remainder
+of the history of the Third Law.
+Sect. 2.—Generalization of the Third Law of
+Motion.—Centre of Oscillation.—Huyghens.
+The Third Law of Motion, whether expressed
+according to Newton’s formula (by the equality of Action and
+Reaction), or in any other of the ways employed about the same time,
+easily gave the solution of mechanical problems in all cases of
+direct action; that is, when each body acted directly on
+others. But there still remained the problems in which the action is
+indirect;—when bodies, in motion, act on each other by
+the intervention of levers, or in any other way. If a rigid rod,
+passing through two weights, be made to swing about its upper point,
+so as to form a pendulum, each weight will act and react on the other
+by means of the rod, considered as a lever turning about the point of
+suspension. What, in this case, will be the effect of this action and
+reaction? In what time will the pendulum oscillate by the force of
+gravity? Where is the point at which a single weight must be placed to
+oscillate in the same time? in other words, where is the Centre of
+Oscillation?
+Such was the problem—an example only of the general problem
+of indirect action—which mathematicians had to solve. That it
+was by no means easy to see in what manner the law of the
+communication of motion was to be extended from simpler cases to those
+where rotatory motion was produced, is shown by this;—that
+Newton, in attempting to solve the mechanical problem of the
+Precession of the Equinoxes, fell into a serious error on this very
+subject. He assumed that, when a part has to communicate rotatory
+movement to the whole (as the protuberant portion of the terrestrial
+spheroid, attracted by the sun and moon, communicates a small movement
+to the whole mass of the earth), the quantity of the motion,
+“motus,” will not be altered by being communicated. This principle is
+true, if, by motion, we understand what is called moment of
+inertia, a quantity in which both the velocity of each particle
+and its distance from the axis of rotation are taken into account: but
+Newton, in his calculations of its amount, considered the velocity
+only; thus making motion, in this case, identical with the
+momentum which he introduces in treating of the simpler case
+357 of the third
+law of motion, when the action is direct. This error was retained even
+in the later editions of the Principia.37
+37 B. iii. Lemma iii. to Prop,
+xxxix.
+The question of the centre of oscillation had been proposed by
+Mersenne somewhat earlier,38 in 1646. And though the problem was out
+of the reach of any principles at that time known and understood, some
+of the mathematicians of the day had rightly solved some cases of it,
+by proceeding as if the question had been to find the Centre of
+Percussion. The Centre of Percussion is the point about which the
+momenta of all the parts of a body balance each other, when it is in
+motion about any axis, and is stopped by striking against an obstacle
+placed at that centre. Roberval found this point in some easy cases;
+Descartes also attempted the problem; their rival labors led to an
+angry controversy: and Descartes was, as in his physical speculations
+he often was, very presumptuous, though not more than half right.
+38 Mont. ii. 423.
+Huyghens was hardly advanced beyond boyhood when Mersenne first
+proposed this problem; and, as he says,39 could see no
+principle which even offered an opening to the solution, and had thus
+been repelled at the threshold. When, however, he published his
+Horologium Oscillatorium in 1673, the fourth part of that work
+was on the Centre of Oscillation or Agitation; and the principle which
+he then assumed, though not so simple and self-evident as those to
+which such problems were afterwards referred, was perfectly correct
+and general, and led to exact solutions in all cases. The reader has
+already seen repeatedly in the course of this history, complex and
+derivative principles presenting themselves to men’s minds, before
+simple and elementary ones. The “hypothesis” assumed by Huyghens was
+this; “that if any weights are put in motion by the force of gravity,
+they cannot move so that the centre of gravity of them all
+shall rise higher than the place from which it descended.”
+This being assumed, it is easy to show that the centre of gravity
+will, under all circumstances, rise as high as its original
+position; and this consideration leads to a determination of the
+oscillation of a compound pendulum. We may observe, in the principle
+thus selected, a conviction that, in all mechanical action, the centre
+of gravity may be taken as the representative of the whole system.
+This conviction, as we have seen, may be traced in the axioms of
+Archimedes and Stevinus; and Huyghens, when he proceeds upon it,
+undertakes to show,40 that he assumes only this, that a heavy
+body cannot, of itself, move upwards.
+39 Hor. Osc. Pref.
+40 Hor. Osc. p. 121.
+358 Clear as
+Huyghen’s principle appeared to himself, it was, after some time,
+attacked by the Abbé Catelan, a zealous Cartesian. Catelan also put
+forth principles which he conceived were evident, and deduced from
+them conclusions contradictory to those of Huyghens. His principles,
+now that we know them to be false, appear to us very gratuitous. They
+are these; “that in a compound pendulum, the sum of the velocities of
+the component weights is equal to the sum of the velocities which they
+would have acquired if they had been detached pendulums;” and “that
+the time of the vibration of a compound pendulum is an arithmetic mean
+between the times of the vibrations of the weights, moving as detached
+pendulums.” Huyghens easily showed that these suppositions would make
+the centre of gravity ascend to a greater height than that from which
+it fell; and after some time, James Bernoulli stept into the arena,
+and ranged himself on the side of Huyghens. As the discussion thus
+proceeded, it began to be seen that the question really was, in what
+manner the Third Law of Motion was to be extended to cases of indirect
+action; whether by distributing the action and reaction according to
+statical principles, or in some other way. “I propose it to the
+consideration of mathematicians,” says Bernoulli in 1686, “what law of
+the communication of velocity is observed by bodies in motion, which
+are sustained at one extremity by a fixed fulcrum, and at the other by
+a body also moving, but more slowly. Is the excess of velocity which
+must be communicated from the one body to the other to be distributed
+in the same proportion in which a load supported on the lever would be
+distributed?” He adds, that if this question be answered in the
+affirmative, Huyghens will be found to be in error; but this is a
+mistake. The principle, that the action and reaction of bodies thus
+moving are to be distributed according to the rules of the lever, is
+true; but Bernoulli mistook, in estimating this action and reaction by
+the velocity acquired at any moment; instead of taking, as he
+should have done, the increment of velocity which gravity
+tended to impress in the next instant. This was shown by the Marquis
+de l’Hôpital; who adds, with justice, “I conceive that I have thus
+fully answered the call of Bernoulli, when he says, I propose it to
+the consideration of mathematicians, &c.”
+We may, from this time, consider as known, but not as fully
+established, the principle that “When bodies in motion affect each
+other, the action and reaction are distributed according to the laws
+of Statics;” although there were still found occasional difficulties
+in the 359
+generalization and application of the role. James Bernoulli, in 1703,
+gave “a General Demonstration of the Centre of Oscillation, drawn from
+the nature of the Lever.” In this demonstration41 he takes as a
+fundamental principle, that bodies in motion, connected by levers,
+balance, when the products of their momenta and the lengths of the
+levers are equal in opposite directions. For the proof of this
+proposition, he refers to Marriotte, who had asserted it of weights
+acting by percussion,42 and in order to prove it, had balanced
+the effect of a weight on a lever by the effect of a jet of water, and
+had confirmed it by other experiments.43 Moreover, says
+Bernoulli, there is no one who denies it. Still, this kind of proof
+was hardly satisfactory or elementary enough. John Bernoulli took up
+the subject after the death of his brother James, which happened in
+1705. The former published in 1714 his Meditatio de Naturâ Centri
+Oscillationis. In this memoir, he assumes, as his brother had
+done, that the effects of forces on a lever in motion are distributed
+according to the common rules of the lever.44 The principal
+generalization which he introduced was, that he considered gravity as
+a force soliciting to motion, which might have different intensities
+in different bodies. At the same time, Brook Taylor in England solved
+the problem, upon the same principles as Bernoulli; and the question
+of priority on this subject was one point in the angry intercourse
+which, about this time, became common between the English
+mathematicians and those of the Continent. Hermann also, in his
+Phoronomia, published in 1716, gave a proof which, as he
+informs us, he had devised before he saw John Bernoulli’s. This proof
+is founded on the statical equivalence of the “solicitations of
+gravity” and the “vicarious solicitations” which correspond
+to the actual motion of each part; or, as it has been expressed by
+more modern writers, the equilibrium of the impressed and
+effective forces.
+41 Op. ii. 930.
+42 Choq. des Corps, p.
+296.
+43 Ib. Prop. xi.
+44 P. 172.
+It was shown by John Bernoulli and Hermann, and was indeed easily
+proved, that the proposition assumed by Huyghens as the foundation of
+his solution, was, in fact, a consequence of the elementary principles
+which belong to this branch of mechanics. But this assumption of
+Huyghens was an example of a more general proposition, which by some
+mathematicians at this time had been put forward as an original and
+elementary law; and as a principle which ought to supersede the usual
+measure of the forces of bodies in motion; this principle they called
+“the Conservation of Vis Viva.” The attempt to 360 make this change was
+the commencement of one of the most obstinate and curious of the
+controversies which form part of the history of mechanical science.
+The celebrated Leibnitz was the author of the new opinion. In 1686, he
+published, in the Leipsic Acts, “A short Demonstration of a memorable
+Error of Descartes and others, concerning the natural law by which
+they think that God always preserves the same quantity of motion; in
+which they pervert mechanics.” The principle that the same quantity of
+motion, and therefore of moving force, is always preserved in the
+world, follows from the equality of action and reaction; though
+Descartes had, after his fashion, given a theological reason for it;
+Leibnitz allowed that the quantity of moving force remains always the
+same, but denied that this force is measured by the quantity of motion
+or momentum. He maintained that the same force is requisite to raise a
+weight of one pound through four feet, and a weight of four pounds
+through one foot, though the momenta in this case are as one to two.
+This was answered by the Abbé de Conti; who truly observed, that
+allowing the effects in the two cases to be equal, this did not prove
+the forces to be equal; since the effect, in the first case, was
+produced in a double time, and therefore it was quite consistent to
+suppose the force only half as great. Leibnitz, however, persisted in
+his innovation; and in 1695 laid down the distinction between vires
+mortuæ, or pressures, and vires vivæ, the name he gave to
+his own measure of force. He kept up a correspondence with John
+Bernoulli, whom he converted to his peculiar opinions on this subject;
+or rather, as Bernoulli says,45 made him think
+for himself, which ended in his proving directly that which Leibnitz
+had defended by indirect reasons. Among other arguments, he had
+pretended to show (what is certainly not true), that if the common
+measure of forces be adhered to, a perpetual motion would be possible.
+It is easy to collect many cases which admit of being very simply and
+conveniently reasoned upon by means of the vis viva, that is,
+by taking the force to be proportional to the square of the
+velocity, and not to the velocity itself. Thus, in order to give the
+arrow twice the velocity, the bow must be four times
+as strong; and in all cases in which no account is taken of the time
+of producing the effect, we may conveniently use similar methods.
+45 Op. iii. 40.
+But it was not till a later period that the question excited any
+general notice. The Academy of Sciences of Paris in 1724 proposed
+361 as a subject
+for their prize dissertation the laws of the impact of bodies.
+Bernoulli, as a competitor, wrote a treatise, upon Leibnitzian
+principles, which, though not honored with the prize, was printed by
+the Academy with commendation.46 The opinions
+which he here defended and illustrated were adopted by several
+mathematicians; the controversy extended from the mathematical to the
+literary world, at that time more attentive than usual to mathematical
+disputes, in consequence of the great struggle then going on between
+the Cartesian and the Newtonian system. It was, however, obvious that
+by this time the interest of the question, so far as the progress of
+Dynamics was concerned, was at an end; for the combatants all agreed
+as to the results in each particular case. The Laws of Motion were now
+established; and the question was, by means of what definitions and
+abstractions could they be best expressed;—a metaphysical, not a
+physical discussion, and therefore one in which “the paper
+philosophers,” as Galileo called them, could bear a part. In the first
+volume of the Transactions of the Academy of St. Petersburg,
+published in 1728, there are three Leibnitzian memoirs by Hermann,
+Bullfinger, and Wolff. In England, Clarke was an angry assailant of
+the German opinion, which S’Gravesande maintained. In France, Mairan
+attacked the vis viva in 1728; “with strong and victorious
+reasons,” as the Marquise du Chatelet declared, in the first edition
+of her Treatise on Fire.47 But shortly
+after this praise was published, the Chateau de Cirey, where the
+Marquise usually lived, became a school of Leibnitzian opinions, and
+the resort of the principal partisans of the vis viva. “Soon,”
+observes Mairan, “their language was changed; the vis viva was
+enthroned by the side of the monads.” The Marquise tried to
+retract or explain away her praises; she urged arguments on the other
+side. Still the question was not decided; even her friend Voltaire was
+not converted. In 1741 he read a memoir On the Measure and Nature
+of Moving Forces, in which he maintained the old opinion. Finally,
+D’Alembert in 1743 declared it to be, as it truly was, a mere question
+of words; and by the turn which Dynamics then took, it ceased to be of
+any possible interest or importance to mathematicians.
+46 Discours sur les Loix de la
+Communication du Mouvement.
+47 Mont. iii. 640.
+The representation of the laws of motion and of the reasonings
+depending on them, in the most general form, by means of analytical
+language, cannot be said to have been fully achieved till the time of
+D’Alembert; but as we have already seen, the discovery of these laws
+362 had taken place
+somewhat earlier; and that law which is more particularly expressed in
+D’Alembert’s Principle (the equality of the action gained and
+lost) was, it has been seen, rather led to by the general current
+of the reasoning of mathematicians about the end of the seventeenth
+century than discovered by any one. Huyghens, Marriotte, the two
+Bernoulli’s, L’Hôpital, Taylor, and Hermann, have each of them their
+name in the history of this advance; but we cannot ascribe to any of
+them any great real inductive sagacity shown in what they thus
+contributed, except to Huyghens, who first seized the principle in
+such a form as to find the centre of oscillation by means of it.
+Indeed, in the steps taken by the others, language itself had almost
+made the generalization for them at the time when they wrote; and it
+required no small degree of acuteness and care to distinguish the old
+cases, in which the law had already been applied, from the new cases,
+in which they had to apply it.
+</div></body></text></TEI>

@@ -1,0 +1,124 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Connexion of the Physical Sciences</title><author>Mary Somerville</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1834</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="12">
+79
+SECTION XI.
+
+Precession and Nutation—Their Effects on the Apparent Places of the
+Fixed Stars.
+It has been shown that the axis of rotation is invariable on the
+surface of the earth; and observation as well as theory prove
+that, were it not for the action of the sun and moon on the matter
+at the equator, it would remain exactly parallel to itself in every
+point of its orbit.
+The attraction of an external body not only draws a spheroid
+towards it, but, as the force varies inversely as the square of the
+distance, it gives it a motion about its centre of gravity, unless
+when the attracting body is situated in the prolongation of one
+of the axes of the spheroid. The plane of the equator is inclined
+to the plane of the ecliptic at an angle of 23° 27ʹ 28ʺ·29;
+and the inclination of the lunar orbit to the same is 5° 8ʹ 47ʺ·9.
+Consequently, from the oblate figure of the earth, the sun and
+moon, acting obliquely and unequally on the different parts of the
+terrestrial spheroid, urge the plane of the equator from its direction,
+and force it to move from east to west, so that the equinoctial
+points have a slow retrograde motion on the plane of the
+ecliptic of 50ʺ·41 annually. The direct tendency of this action
+is to make the planes of the equator and ecliptic coincide, but it
+is balanced by the tendency of the earth to return to stable rotation
+about the polar diameter, which is one of its principal axes
+of rotation. Therefore the inclination of the two planes remains
+constant, as a top spinning preserves the same inclination to the
+plane of the horizon. Were the earth spherical, this effect would
+not be produced, and the equinoxes would always correspond
+with the same points of the ecliptic, at least as far as this kind
+of motion is concerned. But another and totally different cause
+which operates on this motion has already been mentioned. The
+action of the planets on one another and on the sun occasions a
+very slow variation in the position of the plane of the ecliptic,
+which affects its inclination to the plane of the equator, and gives
+80the equinoctial points a slow but direct motion on the ecliptic of
+0ʺ·31 annually, which is entirely independent of the figure of
+the earth, and would be the same if it were a sphere. Thus the
+sun and moon by moving the plane of the equator cause the
+equinoctial points to retrograde on the ecliptic: and the planets
+by moving the plane of the ecliptic give them a direct motion,
+though much less than the former. Consequently the difference
+of the two is the mean precession, which is proved both by
+theory and observation to be about 50ʺ·1 annually (N. 146).
+As the longitudes of all the fixed stars are increased by this
+quantity, the effects of precession are soon detected. It was
+accordingly discovered by Hipparchus in the year 128 before
+Christ, from a comparison of his own observations with those of
+Timocharis 155 years before. In the time of Hipparchus the
+entrance of the sun into the constellation Aries was the beginning
+of spring; but since that time the equinoctial points have receded
+30°, so that the constellations called the signs of the zodiac
+are now at a considerable distance from those divisions of the
+ecliptic which bear their names. Moving at the rate of 50ʺ·1
+annually, the equinoctial points will accomplish a revolution in
+25,868 years. But, as the precession varies in different centuries,
+the extent of this period will be slightly modified. Since the
+motion of the sun is direct, and that of the equinoctial points
+retrograde, he takes a shorter time to return to the equator than
+to arrive at the same stars; so that the tropical year of 365d 5h
+48m 49s·7 must be increased by the time he takes to move
+through an arc of 50ʺ·1, in order to have the length of the sidereal
+year. The time required is 20m 19s·6, so that the sidereal
+year contains 365d 6h 9m 9s·6 mean solar days.
+The mean annual precession is subject to a secular variation;
+for, although the change in the plane of the ecliptic in which the
+orbit of the sun lies be independent of the form of the earth, yet,
+by bringing the sun, moon, and earth into different relative positions
+from age to age, it alters the direct action of the two first
+on the prominent matter at the equator: on this account the
+motion of the equinox is greater by 0ʺ·455 now than it was in
+the time of Hipparchus. Consequently the actual length of the
+tropical year is about 4s·21 shorter than it was at that time.
+The utmost change that it can experience from this cause amounts
+to 43 seconds.
+81Such is the secular motion of the equinoxes. But it is sometimes
+increased and sometimes diminished by periodic variations,
+whose periods depend upon the relative positions of the sun and
+moon with regard to the earth, and which are occasioned by the
+direct action of these bodies on the equator. Dr. Bradley discovered
+that by this action the moon causes the pole of the
+equator to describe a small ellipse in the heavens, the axes of
+which are 18ʺ·5 and 13ʺ·674, the longer being directed towards
+the pole of the ecliptic. The period of this inequality is about
+19 years, the time employed by the nodes of the lunar orbit to
+accomplish a revolution. The sun causes a small variation in the
+description of this ellipse; it runs through its period in half a
+year. Since the whole earth obeys these motions, they affect
+the position of its axis of rotation with regard to the starry
+heavens, though not with regard to the surface of the earth; for
+in consequence of precession alone the pole of the equator moves
+in a circle round the pole of the ecliptic in 25,868 years, and by
+nutation alone it describes a small ellipse in the heavens every
+19 years, on each side of which it deviates every half-year from
+the action of the sun. The real curve traced in the starry
+heavens by the imaginary prolongation of the earth’s axis is
+compounded of these three motions (N. 147). This nutation in
+the earth’s axis affects both the precession and obliquity with
+small periodic variations. But in consequence of the secular
+variation in the position of the terrestrial orbit, which is chiefly
+owing to the disturbing energy of Jupiter on the earth, the
+obliquity of the ecliptic is annually diminished, according to M.
+Bessel, by 0ʺ·457. This variation in the course of ages may
+amount to 10 or 11 degrees; but the obliquity of the ecliptic to
+the equator can never vary more than 2° 42ʹ or 3°, since the
+equator will follow in some measure the motion of the ecliptic.
+It is evident that the places of all the celestial bodies are
+affected by precession and nutation. Their longitudes estimated
+from the equinox are augmented by precession; but, as it affects
+all the bodies equally, it makes no change in their relative positions.
+Both the celestial latitudes and longitudes are altered to
+a small degree by nutation; hence all observations must be
+corrected for these inequalities. In consequence of this real
+motion in the earth’s axis, the pole-star, forming part of the constellation
+82of the Little Bear, which was formerly 12° from the
+celestial pole, is now within 1° 24ʹ of it, and will continue to
+approach it till it is within
+1⁄2°,
+after which it will retreat from
+the pole for ages; and 12,934 years hence the star α Lyræ will
+come within 5° of the celestial pole, and become the polar star
+of the northern hemisphere.</div></body></text></TEI>

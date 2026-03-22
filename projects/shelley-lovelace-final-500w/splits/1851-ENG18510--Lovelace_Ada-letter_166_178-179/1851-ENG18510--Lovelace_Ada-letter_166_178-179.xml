@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 178-179</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 178-179.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1851">undated [about November or December 1851?]</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 178-179</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_178-179.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Monday</p>
+      <p>I have little to say. I am very suffering. Such general malaise &amp; susceptibility, but nothing to be anxious about-- excepting that there should be no more loss of blood at present.--</p>
+      <p>I am going on really well in essentials, if no drawbacks occur.</p>
+      <p>This is a terrible</p>
+      <p>relapse. All the strength I had gained, is quite gone. So much ground to work up once again.</p>
+      <p>It is not surprising that Weddy night has left an impression of horror &amp; distress on my mind.</p>
+      <p>Yr accounts of Lord Onslow, &amp; also of the trespass of the horses, are very amusing &amp; made me laugh, which is good for me.</p>
+      <p>I have less spirits than I had. And yet I really am better then I could have hoped after such a disaster.</p>
+    </div></body>
+  </text>
+</TEI>

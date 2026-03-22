@@ -1,0 +1,210 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Connexion of the Physical Sciences</title><author>Mary Somerville</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1834</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="32">
+316
+SECTION XXXI.
+
+Electro-Dynamics—Reciprocal Action of Electric Currents—Identity of
+Electro-Dynamic Cylinders and Magnets—Differences between the Action
+of Voltaic Electricity and Electricity of Tension—Effects of a Voltaic
+Current—Ampère’s Theory—Dr. Faraday’s Experiment of Electrifying
+and Magnetising a Ray of Light.
+The science of electro-magnetism, which must render the name
+of M. Oersted ever memorable, relates to the reciprocal action of
+electrical and magnetic currents: M. Ampère, by discovering the
+mutual action of electrical currents on one another, has added a
+new branch to the subject, to which he has given the name of
+electro-dynamics.
+When electric currents are passing through two conducting
+wires, so suspended or supported as to be capable of moving both
+towards and from one another, they show mutual attraction or
+repulsion, according as the currents are flowing in the same or in
+contrary directions; the phenomena varying with the relative
+inclinations and positions of the streams of electricity. The
+mutual action of such currents, whether they flow in the same or
+in contrary directions, whether they be parallel, perpendicular,
+diverging, converging, circular, or heliacal, all produce different
+kinds of motion in a conducting wire, both rectilineal and circular,
+and also the rotation of a wire helix, such as that described,
+now called an electro-dynamic cylinder on account of some improvements
+in its construction (N. 225). And, as the hypothesis
+of a force varying inversely as the square of the distance accords
+perfectly with all the observed phenomena, these motions come
+under the same laws of dynamics and analysis as any other
+branch of physics.
+Electro-dynamic cylinders act on each other precisely as if
+they were magnets during the time the electricity is flowing
+through them. All the experiments that can be performed with
+the cylinder might be accomplished with a magnet. That end of
+the cylinder in which the current of positive electricity is moving
+in a direction similar to the motion of the hands of a watch, acts
+317as the south pole of a magnet, and the other end, in which the
+current is flowing in a contrary direction, exhibits northern
+polarity.
+The phenomena mark a very decided difference between the
+action of electricity in motion or at rest, that is, between Voltaic
+and static electricity; the laws they follow are in many respects
+of an entirely different nature, though the electricities themselves
+are identical. Since Voltaic electricity flows perpetually, it
+cannot be accumulated, and consequently has no tension, or
+tendency to escape from the wires which conduct it. Nor do
+these wires either attract or repel light bodies in their vicinity,
+whereas static or ordinary electricity can be accumulated in insulated
+bodies to a great degree, and in that state of rest the
+tendency to escape is proportional to the quantity accumulated
+and the resistance it meets with. In ordinary electricity, the
+law of action is, that dissimilar electricities attract and similar
+electricities repel one another. In Voltaic electricity, on the
+contrary, similar currents, or such as are moving in the same
+direction, attract one another, while a mutual repulsion is exerted
+between dissimilar currents, or such as flow in opposite directions.
+Common electricity escapes when the pressure of the atmosphere
+is removed, but the electro-dynamical effects are the same whether
+the conductors be in air or in vacuo.
+The effects produced by a current of electricity depend upon
+the celerity of its motion through a conducting wire. Yet we
+are ignorant whether the motion be uniform or varied, but the
+method of transmission has a marked influence on the results;
+for, when it flows without intermission, it occasions a deviation
+in the magnetic needle, but it has no effect whatever when its
+motion is discontinuous or interrupted, like the current produced
+by the common electrical machine when a communication is
+made between the positive and negative conductors.
+M. Ampère has established a theory of electro-magnetism
+suggested by the analogy between electro-dynamic cylinders and
+magnets, founded upon the reciprocal attraction of electro-currents,
+to which he reduces all the phenomena of magnetism and
+electro-magnetism, by assuming that the magnetic properties
+which bodies possess derive these properties from currents of
+electricity, circulating about every part in one uniform direction.
+Although every particle of a magnet possesses like properties
+318with the whole, yet the general effect is the same as if the magnetic
+properties were confined to the surface. Consequently,
+Ampère concludes that the internal electro-currents must compensate
+one another, and that the magnetism of a body must
+therefore arise from a superficial current of electricity constantly
+circulating in a direction perpendicular to the axis of the magnet;
+so that the reciprocal action of magnets and all the phenomena
+of electro-magnetism are reduced to the action and reaction of
+superficial currents of electricity, acting at right angles to their
+direction.
+Notwithstanding the experiments made by Ampère to elucidate
+the subject, there is still an uncertainty in the theory of the
+induction of magnetism by an electric current in a body near it.
+It does not appear whether electric currents which did not
+previously exist are actually produced by induction, or if its
+effect be only to give one uniform direction to the infinite number
+of electric currents previously existing in the particles of the
+body, and thus rendering them capable of exhibiting magnetic
+phenomena, in the same manner as polarization reduces the
+undulations of light to one plane, which had previously been
+performed in every plane. Possibly both may be combined in
+producing the effect; for the action of the electric current may
+not only give a common direction to those already existing, but
+may also increase their intensity. However that may be, by
+assuming that the attractions and repulsions of the elementary
+portions of electric currents vary inversely as the square of the
+distance, the actions being at right angles to the direction of the
+current, it is found that the attraction and repulsion of a current
+of indefinite length on the elementary portion of a parallel current
+at any distance from it are in the simple ratio of the shortest
+distance between them: consequently, the reciprocal action of
+electric currents is reduced to the composition and resolution of
+forces, so that the phenomena of electro-magnetism are brought
+under the laws of mechanics by the theory of Ampère. It
+appears that Dr. Faraday’s very remarkable experiment of electrifying
+and magnetising a ray of polarized light may possibly
+afford a demonstration of the reality of Ampère’s explanation of
+the ultimate nature of magnetism.
+In this experiment a copper wire 501 feet long was arranged
+in four concentric spirals, the extremities of which were connected
+319with the poles of a powerful galvanic battery, and a polished
+prism of heavy glass, or silicated borate of lead, was placed in the
+axis of the spiral as a core, through the length or axis of which
+a ray of polarized light was sent. This ray, viewed through a
+piece of tourmaline or a Nichol’s eye-piece, vanished and reappeared
+as usual at each quarter revolution of the eye-piece; but when a
+current of electricity was sent through the spiral at the time the
+ray had vanished, it instantly reappeared, and remained as long as
+the electric current continued to flow; but the instant the electricity
+ceased the light vanished, and as often as the electric current
+flowed through the spiral, or was interrupted, so often did the
+polarized ray appear and vanish.
+The character of the force thus impressed on the heavy glass
+is that of rotation, for the stopping and renewing of the electric
+current had the same effect as the revolving motion of the eye-piece
+in making the light alternately appear and vanish. Accordingly,
+Dr. Faraday found that, when the electricity flowed
+through the spiral in one direction, the rotation of the plane of
+polarization was right-handed; and when it flowed in the other
+direction, the rotation of the plane of polarization was left-handed,
+the rotation increasing with the length of the prism and the
+intensity of the electricity. The same phenomena were produced
+by a very powerful magnet when a ray of polarized light was
+sent through the heavy glass parallel to the line of magnetic
+force.
+Heavy glass or silico-borate of lead has the property more than
+any other substance of making light rotate under electric and
+magnetic influence; but many substances have the property
+more or less, as flint and crown glass, rock salt, all the fixed and
+essential oils, water, and many other liquids, but none of the
+gases possess it. In those substances that have the power of
+circular polarization naturally, the magnetic and electric influences
+increase or diminish the rotation according to its direction.
+Polarized heat is made to revolve in the same manner, when
+the medium through which it passes is subject to magnetic
+influence.
+Mr. Grove observes that if light and heat be merely modes of
+force, which there is every reason to believe that they are, it
+may be fairly stated that in these experiments magnetism affects
+these forces directly; for light and heat being, in that view,
+320motions of ordinary matter, magnetism in affecting these movements
+affects the forces which occasion them. If, however, this
+effect of magnetism be a molecular change of the matter transmitting
+the light and heat, then it follows that the light and heat
+are indirectly affected by the electricity or magnetism. Dr.
+Faraday says that the magnetic forces do not act on the ray
+of light directly, without the intervention of matter, but
+through the mediation of the substance in which they and the
+ray have a simultaneous existence; the substances and the forces
+giving to and receiving from each other the power of acting on
+the light. Dr. Thomson has shown, by a mathematical investigation
+of the subject, that Dr. Faraday’s discovery seems to prove
+the truth of Ampère’s explanation of the ultimate nature of
+magnetism. However, in Ampère’s theory, the current of electricity
+flowing round the iron makes it a permanent magnet, but
+it does not make the heavy glass or the other bodies, which have
+the same property, either temporary magnets when the light is
+rotating within them, or permanent magnets when the inductive
+action of the current of electricity ceases. Hence the molecular
+condition of the substances, when the light is rotating in them,
+must be specifically distinct from that of magnetised iron: it
+must therefore be a new magnetic condition, and the force which
+the matter in this state possesses must be a new magnetic force.
+After describing his admirable experiment, Dr. Faraday observes
+that “it has established for the first time a true, direct
+relation and dependence between light and the magnetic and
+electric forces; and thus a great addition is made to the facts
+and considerations which tend to prove that all natural forces are
+tied together, and have one common origin. It is no doubt difficult,
+in the present state of our knowledge, to express our expectations
+in exact terms; and though I have said that another of
+the powers of nature is in these experiments directly related to the
+rest, I ought perhaps rather to say that another form of the
+great power is distinctly and directly related to the other forms;
+or that the great power manifested by particular phenomena in
+particular forms is here further identified and recognised by the
+direct relation of its form of light to its forms of electricity and
+magnetism. The relation existing between polarized light and
+magnetism and electricity is even more interesting than if it had
+been shown to exist with common light only. It cannot but
+321extend to common light; and, as it belongs to light made in a
+certain respect more precise in its character and properties by
+polarization, it collates and connects it with these powers in that
+duality of character which they possess, and yields an opening,
+which before was wanting to us, for the appliances of these to the
+investigation of the nature of this and other radiant agencies.”
+Thus Dr. Faraday’s experiment not only shows the increasing
+connexion between the sciences, but the tendency of all the
+forces of nature to merge in one great and universal power.
+In the action of a magnet upon the stratifications of an electrical
+discharge Mr. Gassiot has discovered a new instance of the
+connexion between magnetism and light.</div></body></text></TEI>

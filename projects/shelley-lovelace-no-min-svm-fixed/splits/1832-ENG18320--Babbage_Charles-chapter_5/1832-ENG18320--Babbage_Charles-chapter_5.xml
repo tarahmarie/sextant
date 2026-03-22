@@ -1,0 +1,29 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Economy of Machinery and Manufactures</title><author>Babbage, Charles (1791-1871)</author></titleStmt><publicationStmt><publisher>Charles Knight</publisher><pubPlace>London</pubPlace><date>1832</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="5">Chapter 5
+Extending the Time of Action of Forces
+45. This is one of the most common and most useful of the
+employments of machinery. The half minute which we daily devote
+to the winding-up of our watches is an exertion of labour almost
+insensible; yet, by the aid of a few wheels, its effect is spread
+over the whole twenty-four hours. In our clocks, this extension
+of the time of action of the original force impressed is carried
+still further; the better kind usually require winding up once in
+eight days, and some are occasionally made to continue in action
+during a month, or even a year. Another familiar illustration may
+be noticed in our domestic furniture: the common jack by which
+our meat is roasted, is a contrivance to enable the cook in a few
+minutes to exert a force which the machine retails out during the
+succeeding hour in turning the loaded spit; thus enabling her to
+bestow her undivided attention on the other important duties of
+her vocation. A great number of automatons and mechanical toys
+moved by springs, may be classed under this division.
+46. A small moving power, in the shape of a jack or a spring
+with a train of wheels, is often of great convenience to the
+experimental philosopher, and has been used with advantage in
+magnetic and electric experiments where the rotation of a disk of
+metal or other body is necessary, thus allowing to the enquirer
+the unimpeded use of both his hands. A vane connected by a train
+of wheels, and set in motion by a heavy weight, has also, on some
+occasions, been employed in chemical processes, to keep a
+solution in a state of agitation. Another object to which a
+similar apparatus may be applied, is the polishing of small
+specimens of minerals for optical experiments.</div></body></text></TEI>

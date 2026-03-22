@@ -1,0 +1,88 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="142">CHAPTER III.
+The Relation of Vapour and Air.
+
+Sect. 4.—Force of Steam.
+THE experiments on the elastic
+force of steam made by the French Academy are fitted in an especial
+manner to decide the question between rival formulæ, in consequence of
+the great amount of force to which they extend; namely, 60 feet of
+mercury, or 24 atmospheres: for formulæ which give results almost
+indistinguishable in the lower part of the scale diverge widely at
+those elevated points. Mr. Waterston10 has reduced both
+these and other experiments to a rule in the following
+manner:—He takes the zero of gaseous tension, determined by
+other experimenters (Rudberg, Magnus, and Regnault,) to be 461° below
+the zero of Fahrenheit, or 274° below the zero of the centigrade
+scale: and temperatures reckoned from this zero he calls “G
+temperatures.” The square root of the G temperatures is the element to
+which the elastic force is referred (for certain theoretical reasons),
+and it is found that the density of steam is as the sixth power
+of this element. The agreement of this rule with the special results
+is strikingly close. A like rule was found by him to apply generally
+to many other gases in contact with their liquids.
+10 Phil. Trans. 1852.
+But M. Regnault has recently investigated the subject in the most
+complete and ample manner, and has obtained results somewhat
+different.11 He is led to the conclusion that no
+formula proceeding by 607 a power of the temperature can represent
+the experiments. He also finds that the rule of Dalton (that as the
+temperatures increase in arithmetical progression, the elastic force
+increases in geometric progression) deviates from the observations,
+especially at high temperatures. Dalton’s rule would be expressed by
+saying that the variable part of the elastic force is as
+at, where t is the temperature. This failing,
+M. Regnault makes trial of a formula suggested by M. Biot, consisting
+of a sum of two terms, one of which is as at, and
+the other is bt: and in this way satisfies the
+experiments very closely. But this can only be considered as a formula
+of interpolation, and has no theoretical basis. M. Roche had proposed
+a formula in which the force is as az, z
+depending upon the temperature by an equation12 to which he had
+been led by theoretical considerations. This agrees better with
+observation than any other formula which includes only the same number
+of coefficients.
+11 Mém. de l’Institut, vol.
+xxi. (1847). M. Regnault’s Memoir occupies 767 pages.
+12 The equation z =  t⁄1 +
+mt.
+Among the experimental thermotical laws referred to by M. Regnault
+are, the Law of Watt,13 that “the quantity of heat which is
+required to convert a pint of water at a temperature of zero into
+steam, is the same whatever be the pressure.” Also, the Law of
+Southern, that “the latent heat of vaporization, that is the heat
+absorbed in the passage from the liquid to the gaseous consistence, is
+constant for all purposes: and that we obtain the total heat in adding
+to the constant latent heat the number which represents the latent
+heat of steam.” Southern found the latent heat of the steam of water
+to be represented by about 950 degrees of Fahrenheit.14
+13 See Robison’s Mechanical
+Philosophy, vol. ii. p. 8.
+14 Ib. p. 160.
+Sect. 5.—Temperature of the
+Atmosphere.
+I may notice, as important
+additions to our knowledge on this subject, the results of four
+balloon ascents made in 1852,15 by the Committee
+of the Meteorological Observatory established at Kew by the British
+Association for the Advancement of Science. In these ascents the
+observers mounted to more than 13,000, 18,000, and 19,000 feet, and in
+the last to 22,370; by which ascent the temperature fell from 49
+degrees to nearly 10 degrees below zero; and the dew-point fell from
+37° to 12°. Perhaps the most marked result of these observations is
+the 608
+following:—The temperature of the air decreases uniformly as we
+ascend above the earth’s surface; but this decrease does not go on
+continuously. At a certain elevation, varying on different days, the
+decrease is arrested: and for a depth of two or three thousand feet of
+air, the temperature decreases little, or even increases in ascending.
+Above this, the diminution again takes place at nearly the same rate
+as in the lower regions. This intermediate region of undecreasing
+temperature extended in the various ascents, from about altitude 4000
+to 6000 feet, 6500 to 10,000, 2000 to 4500, and 4000 to 8000. This
+interruption in the decrease of temperature is accompanied by a large
+and abrupt fall in the temperature of the dew-point, or by an actual
+condensation of vapor. Thus, this region is the region of the
+clouds, and the increase of heat appears to arise from the latent
+heat liberated when aqueous vapor is formed into clouds.
+15 Phil. Trans. 1853.
+</div></body></text></TEI>

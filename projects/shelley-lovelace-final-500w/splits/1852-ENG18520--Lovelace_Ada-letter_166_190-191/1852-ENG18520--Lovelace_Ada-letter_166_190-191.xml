@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 190-191</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 190-191.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1852">undated [1852?]</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 190-191</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_190-191.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Sundy Night</p>
+      <p>I had a very suffering night last night. I have scrambled on pretty well today.</p>
+      <p>Mr Barwell attends pretty which I feel a comfort. I took a</p>
+      <p>drive this evg &amp; liked it.-- I feel very done up, &amp; scarcely care to see or speak much to people, now.</p>
+      <p>I fancy myself a little stronger this evg.</p>
+      <p>The [too faint to read] not altogether hopeless I think. More promising than the other.</p>
+    </div></body>
+  </text>
+</TEI>

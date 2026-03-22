@@ -1,0 +1,567 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Zoonomia Vol I</title><author>Darwin, Erasmus (1731-1802)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1794</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="20">SECT. XX.
+OF VERTIGO.
+
+1. We determine our perpendicularity by
+  the apparent motions of objects. A person hood-winked cannot walk in a
+  straight line. Dizziness in looking from a tower, in a room stained with
+  uniform lozenges, on riding over snow. 2.
+  Dizziness from moving objects. A whirling-wheel. Fluctuations of a
+  river. Experiment with a child. 3.
+  Dizziness from our own motions and those of other objects. 4. Riding over a broad stream. Sea-sickness.
+5. Of turning round on one foot. Dervises in
+  Turkey. Attention of the mind prevents slight sea-sickness. After a
+  voyage ideas of vibratory motions are still perceived on shore. 6. Ideas continue some time after they are
+  excited. Circumstances of turning on one foot, standing on a tower, and
+  walking in the dark, explained. 7.
+  Irritative ideas of apparent motions. Irritative ideas of sounds.
+  Batt�ment of the sound of bells and organ-pipes. Vertiginous noise in the
+  head. Irritative motions of the stomach, intestines, and glands. 8. Symptoms that accompany vertigo. Why vomiting
+  comes on in strokes of the palsy. By the motion of a ship. By injuries on
+  the head. Why motion makes sick people vomit. 9. Why drunken people are vertiginous. Why a
+  stone in the ureter, or bile-duct, produces vomiting. 10. Why after a voyage ideas of vibratory
+  motions are perceived on shore. 11.
+  Kinds of vertigo and their cure. 12.
+  Definition of vertigo.
+
+1. In learning to walk we judge of the
+  distances of the objects, which we approach, by the eye; and by observing
+  their perpendicularity determine our own. This circumstance not having
+  been attended to by the writers on vision, the disease called vertigo or
+  dizziness has been little understood.
+When any person loses the power of muscular action, whether he is
+  erect or in a sitting posture, he sinks down upon the ground; as is seen
+  in fainting fits, and other instances of great debility. Hence it
+  follows, that some exertion of muscular power is necessary to preserve
+  our perpendicular attitude. This is performed by proportionally exerting
+  the antagonist muscles of the trunk, neck, and limbs; and if at any time
+  in our locomotions we find ourselves inclining to one side, we either
+  restore our equilibrium by the efforts of the muscles on the other side,
+  or by moving one of our feet extend the base, which we rest upon, to the
+  new center of gravity.
+But the most easy and habitual manner of determining our want of
+  perpendicularity, is by attending to the apparent motion of the objects
+  within the sphere of distinct vision; for this apparent motion of
+  objects, when we incline from our perpendicularity, or begin to fall, is
+  as much greater than the real motion of the eye, as the diameter of the
+  sphere of distinct vision is to our perpendicular height.
+Hence no one, who is hood-winked, can walk in a straight line for a
+  hundred steps together; for he inclines so greatly, before he is warned
+  of his want of perpendicularity by the sense of touch, not having the
+  apparent motions of ambient objects to measure this inclination by, that
+  he is necessitated to move one of his feet outwards, to the right or to
+  the left, to support the new centre of gravity, and thus errs from the
+  line he endeavours to proceed in.
+For the same reason many people become dizzy, when they look from the
+  summit of a tower, which is raised much above all other objects, as these
+  objects are out of the sphere of distinct vision, and they are obliged to
+  balance their bodies by the less accurate feelings of their muscles.
+There is another curious phenomenon belonging to this place, if the
+  circumjacent visible objects are so small, that we do not distinguish
+  their minute parts; or so similar, that we do not know them from each
+  other; we cannot determine our perpendicularity by them. Thus in a room
+  hung with a paper, which is coloured over with similar small black
+  lozenges or rhomboids, many people become dizzy; for when they begin to
+  fall, the next and the next lozenge succeeds upon the eye; which they
+  mistake for the first, and are not aware, that they have any apparent
+  motion. But if you fix a sheet of paper, or draw any other figure, in the
+  midst of these lozenges, the charm ceases, and no dizziness is
+  perceptible.—The same occurs, when we ride over a plain covered
+  with snow without trees or other eminent objects.
+2. But after having compared visible objects
+  at rest with the sense of touch, and learnt to distinguish their shapes
+  and shades, and to measure our want of perpendicularity by their apparent
+  motions, we come to consider them in real motion. Here a new difficulty
+  occurs, and we require some experience to learn the peculiar mode of
+  motion of any moving objects, before we can make use of them for the
+  purposes of determining our perpendicularity. Thus some people become
+  dizzy at the sight of a whirling wheel, or by gazing on the fluctuations
+  of a river, if no steady objects are at the same time within the sphere
+  of their distinct vision; and when a child first can stand erect upon his
+  legs, if you gain his attention to a white handkerchief steadily extended
+  like a sail, and afterwards make it undulate, he instantly loses his
+  perpendicularity, and tumbles on the ground.
+3. A second difficulty we have to encounter is
+  to distinguish our own real movements from the apparent motions of
+  objects. Our daily practice of walking and riding on horseback soon
+  instructs us with accuracy to discern these modes of motion, and to
+  ascribe the apparent motions of the ambient objects to ourselves; but
+  those, which we have not acquired by repeated habit, continue to confound
+  us. So as we ride on horseback the trees and cottages, which occur to us,
+  appear at rest; we can measure their distances with our eye, and regulate
+  our attitude by them; yet if we carelessly attend to distant hills or
+  woods through a thin hedge, which is near us, we observe the jumping and
+  progressive motions of them; as this is increased by the paralax of these
+  objects; which we have not habituated ourselves to attend to. When first
+  an European mounts an elephant sixteen feet high, and whose mode of
+  motion he is not accustomed to, the objects seem to undulate, as he
+  passes, and he frequently becomes sick and vertiginous, as I am well
+  informed. Any other unusual movement of our bodies has the same effect,
+  as riding backwards in a coach, swinging on a rope, turning round swiftly
+  on one leg, scating on the ice, and a thousand others. So after a patient
+  has been long confined to his bed, when he first attempts to walk, he
+  finds himself vertiginous, and is obliged by practice to learn again the
+  particular modes of the apparent motions of objects, as he walks by
+  them.
+4. A third difficulty, which occurs to us in
+  learning to balance ourselves by the eye, is, when both ourselves and the
+  circumjacent objects are in real motion. Here it is necessary, that we
+  should be habituated to both these modes of motion in order to preserve
+  our perpendicularity. Thus on horseback we accurately observe another
+  person, whom we meet, trotting towards us, without confounding his
+  jumping and progressive motion with our own, because we have been
+  accustomed to them both; that is, to undergo the one, and to see the
+  other at the same time. But in riding over a broad and fluctuating
+  stream, though we are well experienced in the motions of our horse, we
+  are liable to become dizzy from our inexperience in that of the water.
+  And when first we go on ship-board, where the movements of ourselves, and
+  the movements of the large waves are both new to us, the vertigo is
+  almost unavoidable with the terrible sickness, which attends it. And this
+  I have been assured has happened to several from being removed from a
+  large ship into a small one; and again from a small one into a man of
+  war.
+5. From the foregoing examples it is evident,
+  that, when we are surrounded with unusual motions, we lose our
+  perpendicularity: but there are some peculiar circumstances attending
+  this effect of moving objects, which we come now to mention, and shall
+  hope from the recital of them to gain some insight into the manner of
+  their production.
+When a child moves round quick upon one foot, the circumjacent objects
+  become quite indistinct, as their distance increases their apparent
+  motions; and this great velocity confounds both their forms, and their
+  colours, as is seen in whirling round a many coloured wheel; he then
+  loses his usual method of balancing himself by vision, and begins to
+  stagger, and attempts to recover himself by his muscular feelings. This
+  staggering adds to the instability of the visible objects by giving a
+  vibratory motion besides their rotatory one. The child then drops upon
+  the ground, and the neighbouring objects seem to continue for some
+  seconds of time to circulate around him, and the earth under him appears
+  to librate like a balance. In some seconds of time these sensations of a
+  continuation of the motion of objects vanish; but if he continues turning
+  round somewhat longer, before he falls, sickness and vomiting are very
+  liable to succeed. But none of these circumstances affect those who have
+  habituated themselves to this kind of motion, as the dervises in Turkey,
+  amongst whom these swift gyrations are a ceremony of religion.
+In an open boat passing from Leith to Kinghorn in Scotland, a sudden
+  change of the wind shook the undistended sail, and stopt our boat; from
+  this unusual movement the passengers all vomited except myself. I
+  observed, that the undulation of the ship, and the instability of all
+  visible objects, inclined me strongly to be sick; and this continued or
+  increased, when I closed my eyes, but as often as I bent my attention
+  with energy on the management and mechanism of the ropes and sails, the
+  sickness ceased; and recurred again, as often as I relaxed this
+  attention; and I am assured by a gentleman of observation and veracity,
+  that he has more than once observed, when the vessel has been in
+  immediate danger, that the sea-sickness of the passengers has
+  instantaneously ceased, and recurred again, when the danger was over.
+Those, who have been upon the water in a boat or ship so long, that
+  they have acquired the necessary habits of motion upon that unstable
+  element, at their return on land frequently think in their reveries, or
+  between sleeping and waking, that they observe the room, they sit in, or
+  some of its furniture, to librate like the motion of the vessel. This I
+  have experienced myself, and have been told, that after long voyages, it
+  is some time before these ideas entirely vanish. The same is observable
+  in a less degree after having travelled some days in a stage coach, and
+  particularly when we lie down in bed, and compose ourselves to sleep; in
+  this case it is observable, that the rattling noise of the coach, as well
+  as the undulatory motion, haunts us. The drunken vertigo, and the vulgar
+  custom of rocking children, will be considered in the next Section.
+6. The motions, which are produced by the
+  power of volition, may be immediately stopped by the exertion of the same
+  power on the antagonist muscles; otherwise these with all the other
+  classes of motion continue to go on, some time after they are excited, as
+  the palpitation of the heart continues after the object of fear, which
+  occasioned it, is removed. But this circumstance is in no class of
+  motions more remarkable than in those dependent on irritation; thus if
+  any one looks at the sun, and then covers his eyes with his hand, he will
+  for many seconds of time, perceive the image of the sun marked on his
+  retina: a similar image of all other visible objects would remain some
+  time formed on the retina, but is extinguished by the perpetual change of
+  the motions of this nerve in our attention to other objects. To this must
+  be added, that the longer time any movements have continued to be excited
+  without fatigue to the organ, the longer will they continue
+  spontaneously, after the excitement is withdrawn: as the taste of tobacco
+  in the mouth after a person has been smoaking it.
+This taste remains so strong, that if a person continues to draw air
+  through a tobacco pipe in the dark, after having been smoking some time,
+  he cannot distinguish whether his pipe be lighted or not.
+From these two considerations it appears, that the dizziness felt in
+  the head, after seeing objects in unusual motion, is no other than a
+  continuation of the motions of the optic nerve excited by those objects
+  and which engage our attention. Thus on turning round on one foot, the
+  vertigo continues for some seconds of time after the person is fallen on
+  the ground; and the longer he has continued to revolve, the longer will
+  continue these successive motions of the parts of the optic nerve.
+
+Additional Observations on VERTIGO.
+After revolving with your eyes open till you become vertiginous, as
+  soon as you cease to revolve, not only the circum-ambient objects appear
+  to circulate round you in a direction contrary to that, in which you have
+  been turning, but you are liable to roll your eyes forwards and
+  backwards; as is well observed, and ingeniously demonstrated by Dr. Wells
+  in a late publication on vision. The same occurs, if you revolve with
+  your eyes closed, and open them immediately at the time of your ceasing
+  to turn; and even during the whole time of revolving, as may be felt by
+  your hand pressed lightly on your closed eyelids. To these movements of
+  the eyes, of which he supposes the observer to be inconscious, Dr. Wells
+  ascribes the apparent circumgyration of objects on ceasing to
+  revolve.
+The cause of thus turning our eyes forwards, and then back again,
+  after our body is at rest, depends, I imagine, on the same circumstance,
+  which induces us to follow the indistinct spectra, which are formed on
+  one side of the center of the retina, when we observe them apparently on
+  clouds, as described in Sect. XL. 2. 2.; and
+  then not being able to gain a more distinct vision of them, we turn our
+  eyes back, and again and again pursue the flying shade.
+But this rolling of the eyes, after revolving till we become
+  vertiginous, cannot cause the apparent circumgyration of objects, in a
+  direction contrary to that in which we have been revolving, for the
+  following reasons. 1. Because in pursuing a spectrum in the sky, or on
+  the ground, as above mentioned, we perceive no retrograde motions of
+  objects. 2. Because the apparent retrograde motions of objects, when we
+  have revolved till we are vertiginous, continues much longer than the
+  rolling of the eyes above described.
+3. When we have revolved from right to left, the apparent motion of
+  objects, when we stop, is from left to right; and when we have revolved
+  from left to right, the apparent circulation of objects is from right to
+  left; yet in both these cases the eyes of the revolver are seen equally
+  to roll forwards and backwards.
+4. Because this rolling of the eyes backwards and forwards takes place
+  during our revolving, as may be perceived by the hand lightly pressed on
+  the closed eyelids, and therefore exists before the effect ascribed to
+  it.
+And fifthly, I now come to relate an experiment, in which the rolling
+  of the eyes does not take place at all after revolving, and yet the
+  vertigo is more distressing than in the situations above mentioned. If
+  any one looks steadily at a spot in the ceiling over his head, or indeed
+  at his own finger held up high over his head, and in that situation turns
+  round till he becomes giddy; and then stops, and looks horizontally; he
+  now finds, that the apparent rotation of objects is from above downwards,
+  or from below upwards; that is, that the apparent circulation of objects
+  is now vertical instead of horizontal, making part of a circle round the
+  axis of his eye; and this without any rolling of his eyeballs. The
+  reason of there being no rolling of the eyeballs, perceived after this
+  experiment, is, because the images of objects are formed in rotation
+  round the axis of the eye, and not from one side to the other of the axis
+  of it; so that, as the eyeball has not power to turn in its socket round
+  its own axis, it cannot follow the apparent motions of these evanescent
+  spectra, either before or after the body is at rest. From all which
+  arguments it is manifest, that these apparent retrograde gyrations of
+  objects are not caused by the rolling of the eyeballs; first, because no
+  apparent retrogression of objects is observed in other rollings of the
+  eyes: secondly, because the apparent retrogression of objects continues
+  many seconds after the rolling of the eyeballs ceases. Thirdly, because
+  the apparent retrogression of objects is sometimes one way, and sometimes
+  another, yet the rolling of the eyeballs is the same. Fourthly, because
+  the rolling of the eyeballs exists before the apparent retrograde motions
+  of objects is observed; that is, before the revolving person stops. And
+  fifthly, because the apparent retrograde gyration of objects is produced,
+  when there is no rolling of the eyeballs at all.
+Doctor Wells imagines, that no spectra can be gained in the eye, if a
+  person revolves with his eyelids closed, and thinks this a sufficient
+  argument against the opinion, that the apparent progression of the
+  spectra of light or colours in the eye can cause the apparent
+  retrogression of objects in the vertigo above described; but it is
+  certain, when any person revolves in a light room with his eyes closed,
+  that he nevertheless perceives differences of light both in quantity and
+  colour through his eyelids, as he turns round; and readily gains spectra
+  of those differences. And these spectra are not very different except in
+  vivacity from those, which he acquires, when he revolves with unclosed
+  eyes, since if he then revolves very rapidly the colours and forms of
+  surrounding objects are as it were mixed together in his eye;. as when,
+  the prismatic colours are painted on a wheel, they appear white as they
+  revolve. The truth of this is evinced by the staggering or vertigo of men
+  perfectly blind, when they turn round; which is not attended with
+  apparent circulation of objects, but is a vertiginous disorder of the
+  sense of touch. Blind men balance themselves by their sense of touch;
+  which, being less adapted for perceiving small deviations from their
+  perpendicular, occasions them to carry themselves more erect in walking.
+  This method of balancing themselves by the direction of their pressure
+  against the floor, becomes disordered by the unusual mode of action in
+  turning round, and they begin to lose their perpendicularity, that is,
+  they become vertiginous; but without any apparent circular motions of
+  visible objects.
+It will appear from the following experiments, that the apparent
+  progression of the ocular spectra of light or colours is the cause of the
+  apparent retrogression of objects, after a person has revolved, till he
+  is vertiginous.
+First, when a person turns round in a light room with his eyes open,
+  but closes them before he stops, he will seem to be carried forwards in
+  the direction he was turning for a short time after he stops. But if he
+  opens his eyes again, the objects before him instantly appear to move in
+  a retrograde direction, and he loses the sensation of being carried
+  forwards. The same occurs if a person revolves in a light room with his
+  eyes closed; when he stops, he seems to be for a time carried forwards,
+  if his eyes are still closed; but the instant he opens them, the
+  surrounding objects appear to move in retrograde gyration. From hence it
+  may be concluded, that it is the sensation or imagination of our
+  continuing to go forwards in the direction in which we were turning, that
+  causes the apparent retrograde circulation of objects.
+Secondly, though there is an audible vertigo, as is known by the
+  battement, or undulations of sound in the ears, which many vertiginous
+  people experience; and though there is also a tangible vertigo, as when a
+  blind person turns round, as mentioned above; yet as this circumgyration
+  of objects is an hallucination or deception of the sense of sight, we are
+  to look for the cause of our appearing to move forward, when we stop with
+  our eyes closed after gyration, to some affection of this sense. Now,
+  thirdly, if the spectra formed in the eye during our rotation, continue
+  to change, when we stand still, like the spectra described in Sect. III. 3. 6. such changes must suggest to us the
+  idea or sensation of our still continuing to turn round; as is the case,
+  when we revolve in a light room, and close our eyes before we stop. And
+  lastly, on opening our eyes in the situation above described, the objects
+  we chance to view amid these changing spectra in the eye, must seem to
+  move in a contrary direction; as the moon sometimes appears to move
+  retrograde, when swift-gliding clouds are passing forwards so much nearer
+  the eye of the beholder.
+To make observations on faint ocular spectra requires some degree of
+  habit, and composure of mind, and even patience; some of those described
+  in Sect. XL. were found difficult to see, by many,
+  who tried them; now it happens, that the mind, during the confusion of
+  vertigo, when all the other irritative tribes of motion, as well as those
+  of vision, are in some degree disturbed, together with the fear of
+  falling, is in a very unfit state for the contemplation of such weak
+  sensations, as are occasioned by faint ocular spectra. Yet after
+  frequently revolving, both with my eyes closed, and with them open, and
+  attending to the spectra remaining in them, by shading the light from my
+  eyelids more or less with my hand, I at length ceased to have the idea of
+  going forward, after I stopped with my eyes closed; and saw changing
+  spectra in my eyes, which seemed to move, as it were, over the field of
+  vision; till at length, by repeated trials on sunny days, I persuaded
+  myself, on opening my eyes, after revolving some time, on a shelf of
+  gilded books in my library, that I could perceive the spectra in my eyes
+  move forwards over one or two of the books, like the vapours in the air
+  of a summer's day; and could so far undeceive myself, as to perceive the
+  books to stand still. After more trials I sometimes brought myself to
+  believe, that I saw changing spectra of lights and shades moving in my
+  eyes, after turning round for some time, but did not imagine either the
+  spectra or the objects to be in a state of gyration. I speak, however,
+  with diffidence of these facts, as I could not always make the
+  experiments succeed, when there was not a strong light in my room, or
+  when my eyes were not in the most proper state for such observations.
+The ingenious and learned M. Sauvage has mentioned other theories to
+  account for the apparent circumgyration of objects in vertiginous people.
+  As the retrograde motions of the particles of blood in the optic
+  arteries, by spasm, or by fear, as is seen in the tails of tadpoles, and
+  membranes between the fingers of frogs. Another cause he thinks may be
+  from the librations to one side, and to the other, of the crystalline
+  lens in the eye, by means of involuntary actions of the muscles, which
+  constitute the ciliary process. Both these theories lie under the same
+  objection as that of Dr. Wells before mentioned; namely, that the
+  apparent motions of objects, after the observer has revolved for some
+  time, should appear to vibrate this way and that; and not to circulate
+  uniformly in a direction contrary to that, in which the observer had
+  revolved.
+M. Sauvage has, lastly, mentioned the theory of colours left in the
+  eye, which he has termed impressions on the retina. He says, "Experience
+  teaches us, that impressions made on the retina by a visible object
+  remain some seconds after the object is removed; as appears from the
+  circle of fire which we see, when a fire-stick is whirled round in the
+  dark; therefore when we are carried round our own axis in a circle, we
+  undergo a temporary vertigo, when we stop; because the impressions of the
+  circumjacent objects remain for a time afterwards on the retina."
+  Nosolog. Method. Clas. VIII. I. 1. We have before observed, that the
+  changes of these colours remaining in the eye, evinces them to be motions
+  of the fine terminations of the retina, and not impressions on it; as
+  impressions on a passive substance must either remain, or cease intirely.
+  See an additional note at the end of the second volume.
+
+Any one, who stands alone on the top of a high tower, if he has not
+  been accustomed to balance himself by objects placed at such distances
+  and with such inclinations, begins to stagger, and endeavours to recover
+  himself by his muscular feelings. During this time the apparent motion of
+  objects at a distance below him is very great, and the spectra of these
+  apparent motions continue a little time after he has experienced them;
+  and he is persuaded to incline the contrary way to counteract their
+  effects; and either immediately falls, or applying his hands to the
+  building, uses his muscular feelings to preserve his perpendicular
+  attitude, contrary to the erroneous persuasions of his eyes. Whilst the
+  person, who walks in the dark, staggers, but without dizziness; for he
+  neither has the sensation of moving objects to take off his attention
+  from his muscular feelings, nor has he the spectra of those motions
+  continued on his retina to add to his confusion. It happens indeed
+  sometimes to one landing on a tower, that the idea of his not having room
+  to extend his base by moving one of his feet outwards, when he begins to
+  incline, superadds fears to his other inconveniences; which like
+  surprise, joy, or any great degree of sensation, enervates him in a
+  moment, by employing the whole sensorial power, and by thus breaking all
+  the associated trains and tribes of motion.
+7. The irritative ideas of objects, whilst we
+  are awake, are perpetually present to our sense of sight; as we view the
+  furniture of our rooms, or the ground, we tread upon, throughout the
+  whole day without attending to it. And as our bodies are never at perfect
+  rest during our waking hours, these irritative ideas of objects are
+  attended perpetually with irritative ideas of their apparent motions. The
+  ideas of apparent motions are always irritative ideas, because we never
+  attend to them, whether we attend to the objects themselves, or to their
+  real motions, or to neither. Hence the ideas of the apparent motions of
+  objects are a complete circle of irritative ideas, which continue
+  throughout the day.
+Also during all our waking hours, there is a perpetual confused sound
+  of various bodies, as of the wind in our rooms, the fire, distant
+  conversations, mechanic business; this continued buzz, as we are seldom
+  quite motionless, changes its loudness perpetually, like the sound of a
+  bell; which rises and falls as long as it continues, and seems to pulsate
+  on the ear. This any one may experience by turning himself round near a
+  waterfall; or by striking a glass bell, and then moving the direction of
+  its mouth towards the ears, or from them, as long as its vibrations
+  continue. Hence this undulation of indistinct sound makes another
+  concomitant circle of irritative ideas, which continues throughout the
+  day.
+We hear this undulating sound, when we are perfectly at rest
+  ourselves, from other sonorous bodies besides bells; as from two
+  organ-pipes, which are nearly but not quite in unison, when they are
+  sounded together. When a bell is struck, the circular form is changed
+  into an eliptic one; the longest axis of which, as the vibrations
+  continue, moves round the periphery of the bell; and when either axis of
+  this elipse is pointed towards our ears, the sound is louder; and less
+  when the intermediate parts of the elipse are opposite to us. The
+  vibrations of the two organ-pipes may be compared to Nonius's rule; the
+  sound is louder, when they coincide, and less at the intermediate times.
+  But, as the sound of bells is the most familiar of those sounds, which
+  have a considerable battement, the vertiginous patients, who attend to
+  the irritative circles of sounds above described, generally compare it to
+  the noise of bells.
+The peristaltic motions of our stomach and intestines, and the
+  secretions of the various glands, are other circles of irritative
+  motions, some of them more or less complete, according to our abstinence
+  or satiety.
+So that the irritative ideas of the apparent motions of objects, the
+  irritative battements of sounds, and the movements of our bowels and
+  glands compose a great circle of irritative tribes of motion: and when
+  one considerable part of this circle of motions becomes interrupted, the
+  whole proceeds in confusion, as described in Section XVII. 1. 7. on Catenation of Motions.
+8. Hence a violent vertigo, from whatever
+  cause it happens, is generally attended with undulating noise in the
+  head, perversions of the motions of the stomach and duodenum, unusual
+  excretion of bile and gastric juice, with much pale urine, sometimes with
+  yellowness of the skin, and a disordered secretion of almost every gland
+  of the body, till at length the arterial system is affected, and fever
+  succeeds.
+Thus bilious vomitings accompany the vertigo occasioned by the motion
+  of a ship; and when the brain is rendered vertiginous by a paralytic
+  affection of any part of the body, a vomiting generally ensues, and a
+  great discharge of bile: and hence great injuries of the head from
+  external violence are succeeded with bilious vomitings, and sometimes
+  with abscesses of the liver. And hence, when a patient is inclined to
+  vomit from other causes, as in some fevers, any motions of the attendants
+  in his room, or of himself when he is raised or turned in his bed,
+  presently induces the vomiting by superadding a degree of vertigo.
+9. And conversely it is very usual with those,
+  whose stomachs are affected from internal causes, to be afflicted with
+  vertigo, and noise in the head; such is the vertigo of drunken people,
+  which continues, when their eyes are closed, and themselves in a
+  recumbent posture, as well as when they are in an erect posture, and have
+  their eyes open. And thus the irritation of a stone in the bile-duct, or
+  in the ureter, or an inflammation of any of the intestines, are
+  accompanied with vomitings and vertigo.
+In these cases the irritative motions of the stomach, which are in
+  general not attended to, become so changed by some unnatural stimulus, as
+  to become uneasy, and excite our sensation or attention. And thus the
+  other irritative trains of motions, which are associated with it, become
+  disordered by their sympathy. The same happens, when a piece of gravel
+  sticks in the ureter, or when some part of the intestinal canal becomes
+  inflamed. In these cases the irritative muscular motions are first
+  disturbed by unusual stimulus, and a disordered action of the sensual
+  motions, or dizziness ensues. While in sea-sickness the irritative
+  sensual motions, as vertigo, precedes; and the disordered irritative
+  muscular motions, as those of the stomach in vomiting, follow.
+10. When these irritative motions are
+  disturbed, if the degree be not very great, the exertion of voluntary
+  attention to any other object, or any sudden sensation, will disjoin
+  these new habits of motion. Thus some drunken people have become sober
+  immediately, when any accident has strongly excited their attention; and
+  sea-sickness has vanished, when the ship has been in danger. Hence when
+  our attention to other objects is most relaxed, as just before we fall
+  asleep, or between our reveries when awake, these irritative ideas of
+  motion and sound are most liable to be perceived; as those, who have been
+  at sea, or have travelled long in a coach, seem to perceive the
+  vibrations of the ship, or the rattling of the wheels, at these
+  intervals; which cease again, as soon as they exert their attention. That
+  is, at those intervals they attend to the apparent motions, and to the
+  battement of sounds of the bodies around them, and for a moment mistake
+  them for those real motions of the ship, and noise of wheels, which they
+  had lately been accustomed to: or at these intervals of reverie, or on
+  the approach of sleep, these supposed motions or sounds may be produced
+  entirely by imagination.
+We may conclude from this account of vertigo, that sea-sickness is not
+  an effort of nature to relieve herself, but a necessary consequence of
+  the associations or catenations of animal motions. And may thence infer,
+  that the vomiting, which attends the gravel in the ureter, inflammations
+  of the bowels, and the commencement of some fevers, has a similar origin,
+  and is not always an effort of the vis medicatrix natur�. But where the
+  action of the organ is the immediate consequence of the stimulating
+  cause, it is frequently exerted to dislodge that stimulus, as in vomiting
+  up an emetic drug; at other times, the action of an organ is a general
+  effort to relieve pain, as in convulsions of the locomotive muscles;
+  other actions drink up and carry on the fluids, as in absorption and
+  secretion; all which may be termed efforts of nature to relieve, or to
+  preserve herself.
+11. The cure of vertigo will frequently
+  depend on our previously investigating the cause of it, which from what
+  has been delivered above may originate from the disorder of any part of
+  the great tribes of irritative motions, and of the associate motions
+  catenated with them.
+Many people, when they arrive at fifty or sixty years of age, are
+  affected with slight vertigo; which is generally but wrongly ascribed to
+  indigestion, but in reality arises from a beginning defect of their
+  sight; as about this time they also find it necessary to begin to use
+  spectacles, when they read small prints, especially in winter, or by
+  candle light, but are yet able to read without them during the summer
+  days, when the light is stronger. These people do not see objects so
+  distinctly as formerly, and by exerting their eyes more than usual, they
+  perceive the apparent motions of objects, and confound them with the real
+  motions of them; and therefore cannot accurately balance themselves so as
+  easily to preserve their perpendicularity by them.
+That is, the apparent motions of objects, which are at rest, as we
+  move by them, should only excite irritative ideas: but as these are now
+  become less distinct, owing to the beginning imperfection of our sight,
+  we are induced voluntarily to attend to them; and then these
+  apparent motions become succeeded by sensation; and thus the other parts
+  of the trains of irritative ideas, or irritative muscular motions, become
+  disordered, as explained above. In these cases of slight vertigo I have
+  always promised my patients, that they would get free from it in two or
+  three months, as they should acquire the habit of balancing their bodies
+  by less distinct objects, and have seldom been mistaken in my
+  prognostic.
+There is an auditory vertigo, which is called a noise in the head,
+  explained in No. 7. of this section, which also
+  is very liable to affect people in the advance of life, and is owing to
+  their hearing less perfectly than before. This is sometimes called a
+  ringing, and sometimes a singing, or buzzing, in the ears, and is
+  occasioned by our first experiencing a disagreeable sensation from our
+  not being able distinctly to hear the sounds, we used formerly to hear
+  distinctly. And this disagreeable sensation excites desire and consequent
+  volition; and when we voluntarily attend to small indistinct sounds, even
+  the whispering of the air in a room, and the pulsations of the arteries
+  of the ear are succeeded by sensation; which minute sounds ought only to
+  have produced irritative sensual motions, or unperceived ideas. See
+  Section XVII. 3. 6. These patients after a
+  while lose this auditory vertigo, by acquiring a new habit of not
+  attending voluntarily to these indistinct sounds, but contenting
+  themselves with the less accuracy of their sense of hearing.
+Another kind of vertigo begins with the disordered action of some
+  irritative muscular motions, as those of the stomach from intoxication,
+  or from emetics; or those of the ureter, from the stimulus of a stone
+  lodged in it; and it is probable, that the disordered motions of some of
+  the great congeries of glands, as of those which form the liver, or of
+  the intestinal canal, may occasion vertigo in consequence of their
+  motions being associated or catenated with the great circles of
+  irritative motions; and from hence it appears, that the means of cure
+  must be adapted to the cause.
+To prevent sea-sickness it is probable, that the habit of swinging for
+  a week or two before going on shipboard might be of service. For the
+  vertigo from failure of sight, spectacles may be used. For the auditory
+  vertigo, �ther may be dropt into the ear to stimulate the part, or to
+  dissolve ear-wax, if such be a part of the cause. For the vertigo arising
+  from indigestion, the peruvian bark and a blister are recommended. And
+  for that owing to a stone in the ureter, venesection, cathartics,
+  opiates, sal soda aerated.
+12. Definition of vertigo. 1. Some of the
+  irritative sensual, or muscular motions, which were usually not succeeded
+  by sensation, are in this disease succeeded by sensation; and the trains
+  or circles of motions, which were usually catenated with them, are
+  interrupted, or inverted, or proceed in confusion. 2. The sensitive and
+  voluntary motions continue undisturbed. 3. The associate trains or
+  circles of motions continue; but their catenations with some of the
+  irritative motions are disordered, or inverted, or dissevered.
+
+</div></body></text></TEI>

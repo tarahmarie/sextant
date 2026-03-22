@@ -1,0 +1,666 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="74">CHAPTER XIII.
+Confirmation and Extension of the Undulatory
+Theory.
+AFTER the undulatory theory
+had been developed in all its main features, by its great authors,
+Young and Fresnel, although it bore marks of truth that could hardly
+be fallacious, there was still here, as in the case of other great
+theories, a period in which difficulties were to be removed,
+objections answered, men’s minds familiarized to the new conceptions
+thus presented to them; and in which, also, it might reasonably be
+expected that the theory would be extended to facts not at first
+included in its domain. This period is, indeed, that in which we are
+living; and we might, perhaps with propriety, avoid the task of
+speaking of our living contemporaries. But it would be unjust to the
+theory not to notice some of the remarkable events, characteristic of
+such a period, which have already occurred; and this may be done very
+simply. 119
+In the case of this great theory, as in that of gravitation, by far
+the most remarkable of these confirmatory researches were conducted by
+the authors of the discovery, especially Fresnel. And in looking at
+what he conceived and executed for this purpose, we are, it appears to
+me, strongly reminded of Newton, by the wonderful inventiveness and
+sagacity with which he devised experiments, and applied to them
+mathematical reasonings.
+1. Double Refraction of Compressed Glass.—One of these
+confirmatory experiments was the production of double refraction by
+the compression of glass. Fresnel observes,107 that though
+Sir D. Brewster had shown that glass under compression produced colors
+resembling those which are given by doubly-refracting crystals, “very
+skilful physicists had not considered those experiments as a
+sufficient proof of the bifurcation of the light.” In the hypothesis
+of moveable polarization, it is added, there is no apparent connexion
+between these phenomena of coloration and double refraction; but on
+Young’s theory, that the colors arise from two rays which have
+traversed the crystal with different velocities, it appears almost
+unavoidable to admit also a difference of path in the two rays.
+107 Ann. de Chim. 1822, tom.
+xx. p. 377.
+“Though,” he says, “I had long since adopted this opinion, it did
+not appear to me so completely demonstrated, that it was right to
+neglect an experimental verification of it;” and therefore, in 1819,
+he proceeded to satisfy himself of the fact, by the phenomena of
+diffraction. The trial left no doubt on the subject; but he still
+thought it would be interesting actually to produce two images in
+glass by compression; and by a highly-ingenious combination,
+calculated to exaggerate the effect of the double refraction, which is
+very feeble, even when the compression is most intense, he obtained
+two distinct images. This evidence of the dependence of dipolarizing
+structure upon a doubly-refracting state of particles, thus
+excogitated out of the general theory, and verified by trial, may well
+be considered, as he says, “as a new occasion of proving the
+infallibility of the principle of interferences.”
+2. Circular Polarization.—Fresnel then turned his
+attention to another set of experiments, related to this indeed, but
+by a tie so recondite, that nothing less than his clearness and
+acuteness of view could have detected any connexion. The optical
+properties of quartz had been perceived to be peculiar, from the
+period of the discovery 120 of dipolarized colors by MM. Arago and
+Biot. At the end of the Notice just quoted, Fresnel says,108 “As soon as my occupations permit me,
+I propose to employ a pile of prisms similar to that which I have
+described, in order to study the double refraction of the rays which
+traverse crystals of quartz in the direction of the axis.” He then
+ventures, without hesitation, to describe beforehand what the
+phenomena will be. In the Bulletin des Sciences109 for December, 1822, it is stated that
+experiment had confirmed what he had thus announced.
+108 Ann. de Chim. 1822, tom.
+xx. p. 382.
+109 Ib. Ann. de Chim. 1822,
+tom. xx. p. 191.
+The phenomena are those which have since been spoken of as
+circular polarization; and the term first occurs in this
+notice.110 They are very remarkable, both by
+their resemblances to, and their differences from, the phenomena of
+plane-polarized light. And the manner in which Fresnel was led
+to this anticipation of the facts is still more remarkable than the
+facts themselves. Having ascertained by observation that two
+differently-polarized rays, totally reflected at the internal surface
+of glass, suffer different retardations of their undulations,
+he applied the formulæ which he had obtained for the polarizing effect
+of reflection to this case. But in this case the formulæ expressed an
+impossibility; yet as algebraical formulæ, even in such cases, have
+often some meaning, “I interpreted,” he says,111 “in the manner
+which appeared to me most natural and most probable, what the analysis
+indicated by this imaginary form;” and by such an interpretation he
+collected the law of the difference of undulation of the two rays. He
+was thus able to predict that by two internal reflections in a
+rhomb, or parallelopiped of glass, of a certain form and
+position, a polarized ray would acquire a circular undulation of its
+particles; and this constitution of the ray, it appeared, by reasoning
+further, would show itself by its possessing peculiar properties,
+partly the same as those of polarized light, and partly different.
+This extraordinary anticipation was exactly confirmed; and thus the
+apparently bold and strange guess of the author was fully justified,
+or at least assented to, even by the most cautious philosophers. “As I
+cannot appreciate the mathematical evidence for the nature of circular
+polarization,” says Prof. Airy,112 “I shall
+mention the experimental evidence on which I receive it.” The
+conception has since been universally adopted.
+110 Ib. p. 194.
+111 Bullet. des Sc. 1823, p.
+33.
+112 Camb. Trans. vol. iv. p.
+81, 1831.
+But Fresnel, having thus obtained circularly-polarized rays, saw
+121 that he could
+account for the phenomena of quartz, already observed by M. Arago, as
+we have noticed in Chap. ix., by supposing two
+circularly-polarized rays to pass, with different velocities, along
+the axis. The curious succession of colors, following each other in
+right-handed or left-handed circular order, of which we have already spoken, might thus be hypothetically
+explained.
+But was this hypothesis of two circularly-polarized rays,
+travelling along the axis of such crystals, to be received, merely
+because it accounted for the phenomena? Fresnel’s ingenuity again
+enabled him to avoid such a defect in theorizing. If there were two
+such rays, they might be visibly separated113 by the same
+artifice, of a pile of prisms properly achromatized, which he had used
+for compressed glass. The result was, that he did obtain a visible
+separation of the rays; and this result has since been confirmed by
+others, for instance. Professor Airy.114 The rays were
+found to be in all respects identical with the circularly-polarized
+rays produced by the internal reflections in Fresnel’s rhomb. This
+kind of double refraction gave a hypothetical explanation of the laws
+which M. Biot had obtained for the phenomena of this class; for
+example,115 the rule, that the deviation of the
+plane of polarization of the emergent ray is inversely as the square
+of the length of an undulation for each kind of rays. And thus the
+phenomena produced by light passing along the axis of quartz were
+reduced into complete conformity with the theory.
+113 Bull. des Sc. 1822, p.
+193.
+114 Cambridge Trans. iv. p.
+80.
+115 Bull. des Sc. 1822, p.
+197.
+[2nd Ed.] [I believe, however, Fresnel did not deduce the
+phenomenon from the mathematical formula, without the previous
+suggestion of experiment. He observed appearances which
+implied a difference of retardation in the two differently-polarized
+rays at total reflection; as Sir D. Brewster observed in reflection of
+metals phenomena having a like character. The general fact being
+observed, Fresnel used the theory to discover the law of this
+retardation, and to determine a construction in which, one ray being a
+quarter of an undulation retarded more than the other, circular
+polarization would be produced. And this anticipation was verified by
+the construction of his rhomb.
+As a still more curious verification of this law, another of
+Fresnel’s experiments may be mentioned. He found the proper angles for
+a circularly-polarizing glass rhomb on the supposition that there were
+122 four
+internal reflections instead of two; two of the four taking place when
+the surface of the glass was dry, and two when it was wet. The rhomb
+was made; and when all the points of reflection were dry, the light
+was not circularly polarized; when two points were wet, the light was
+circularly polarized; and when all four were wet, it was not
+circularly polarized.]
+3. Elliptical Polarization in Quartz.—We now come to
+one of the few additions to Fresnel’s theory which have been shown to
+be necessary. He had accounted fully for the colors produced by the
+rays which travel along the axis of quartz crystals; and
+thus, for the colors and changes of the central spot which is produced
+when polarized light passes through a transverse plate of such
+crystals. But this central spot is surrounded by rings of colors. How
+is the theory to be extended to these?
+This extension has been successfully made by Professor Airy.116 His hypothesis is, that as rays
+passing along the axis of a quartz crystal are circularly polarized,
+rays which are oblique to the axis are elliptically polarized, the
+amount of ellipticity depending, in some unknown manner, upon the
+obliquity; and that each ray is separated by double refraction into
+two rays polarized elliptically; the one right-handed, the other
+left-handed. By means of these suppositions, he not only was enabled
+to account for the simple phenomena of single plates of quartz; but
+for many most complex and intricate appearances which arise from the
+superposition of two plates, and which at first sight might appear to
+defy all attempts to reduce them to law and symmetry; such as spirals,
+curves approaching to a square form, curves broken in four places. “I
+can hardly imagine,” he says,117 very
+naturally, “that any other supposition would represent the phenomena
+to such extreme accuracy. I am not so much struck with the accounting
+for the continued dilatation of circles, and the general
+representation of the forms of spirals, as with the explanations of
+the minute deviations from symmetry; as when circles become almost
+square, and crosses are inclined to the plane of polarization. And I
+believe that any one who shall follow my investigation, and imitate my
+experiments, will be surprised at their perfect agreement.”
+116 Camb. Trans., iv. p. 83,
+&c.
+117 Camb. Trans., iv. p.
+122.
+4. Differential Equations of Elliptical
+Polarization.—Although circular and elliptical polarization
+can be clearly conceived, and their existence, it would seem,
+irresistibly established by the phenomena, it 123 is extremely difficult to conceive any
+arrangement of the particles of bodies by which such motions can
+mechanically be produced; and this difficulty is the greater, because
+some fluids and some gases impress a circular polarization upon light;
+in which cases we cannot imagine any definite arrangement of the
+particles, such as might form the mechanism requisite for the purpose.
+Accordingly, it does not appear that any one has been able to suggest
+even a plausible hypothesis on that subject. Yet, even here, something
+has been done. Professor Mac Cullagh, of Dublin, has discovered that
+by slightly modifying the analytical expressions resulting from
+the common case of the propagation of light, we may obtain other
+expressions which would give rise to such motions as produce circular
+and elliptical polarization. And though we cannot as yet assign the
+mechanical interpretation of the language of analysis thus
+generalized, this generalization brings together and explains by one
+common numerical supposition, two distinct classes of facts;—a
+circumstance which, in all cases, entitles an hypothesis to a very
+favorable consideration.
+Mr. Mac Cullagh’s assumption consists in adding to the two
+equations of motion which are expressed by means of second
+differentials, two other terms involving third differentials in a
+simple and symmetrical manner. In doing this, he introduces a
+coefficient, of which the magnitude determines both the amount of
+rotation of the polarization of a ray passing along the axis, as
+observed and measured by Biot, and the ellipticity of the polarization
+of a ray which is oblique to the axis, according to Mr. Airy’s theory,
+of which ellipticity that philosopher also had obtained certain
+measures. The agreement between the two sets of measures118 thus brought into connexion is such as
+very strikingly to confirm Mr. Mac Cullagh’s hypothesis. It appears
+probable, too, that the confirmation of this hypothesis involves,
+although in an obscure and oracular form, a confirmation of the
+undulatory theory, which is the starting-point of this curious
+speculation.
+118 Royal I. A. Trans.
+1836.
+5. Elliptical Polarization of Metals.—The effect of
+metals upon the light which they reflect, was known from the first to
+be different from that which transparent bodies produce. Sir David
+Brewster, who has recently examined this subject very fully,119 has described the modification thus
+produced, as elliptic polarization. In employing this term, “he
+seems to have been led,” it has been observed,120 “by a 124 desire to avoid as
+much as possible all reference to theory. The laws which he has
+obtained, however, belong to elliptically-polarized light in the sense
+in which the term was introduced by Fresnel.” And the identity of the
+light produced by metallic reflection with the elliptically-polarized
+light of the wave-theory, is placed beyond all doubt, by an
+observation of Professor Airy, that the rings of uniaxal crystals,
+produced by Fresnel’s elliptically-polarized light, are exactly the
+same as those produced by Brewster’s metallic light.
+119 Phil. Trans. 1830.
+120 Lloyd, Report on Optics,
+p. 372. (Brit. Assoc.)
+6. Newton’s Rings by Polarized Light.—Other
+modifications of the phenomena of thin plates by the use of polarized
+light, supplied other striking confirmations of the theory. These were
+in one case the more remarkable, since the result was foreseen by
+means of a rigorous application of the conception of the vibratory
+motion of light, and confirmed by experiment. Professor Airy, of
+Cambridge, was led by his reasonings to see, that if Newton’s rings
+are produced between a lens and a plate of metal, by polarized light,
+then, up to the polarizing angle, the central spot will be black, and
+instantly beyond this, it will be white. In a note,121 in which he announced this, he says,
+“This I anticipated from Fresnel’s expressions; it is confirmatory of
+them, and defies emission.” He also predicted that when the rings were
+produced between two substances of very different refractive powers,
+the centre would twice pass from black to white and from white to
+black, by increasing the angle; which anticipation was fulfilled by
+using a diamond for the higher refraction.122
+121 Addressed to myself, dated May
+28, 1831. I ought, however, to notice, that this experiment had been
+made by M. Arago, fifteen years earlier, and published: though not
+then recollected by Mr. Airy.
+122 Camb. Trans. vol. ii. p.
+409.
+7. Conical Refraction.—In the same
+manner. Professor Hamilton of Dublin pointed out that according to the
+Fresnelian doctrine of double refraction, there is a certain direction
+of a crystal in which a single ray of light will be refracted so as to
+form a conical pencil. For the direction of the refracted ray
+is determined by a plane which touches the wave surface, the rule
+being that the ray must pass from the centre of the surface to the
+point of contact; and though in general this contact gives a single
+point only, it so happens, from the peculiar inflected form of the
+wave surface, which has what is called a cusp, that in one
+particular position, the plane can touch the surface in an entire
+circle. Thus the general rule which assigns the path of 125 the refracted ray,
+would, in this case, guide it from the centre of the surface to every
+point in the circumference of the circle, and thus make it a cone.
+This very curious and unexpected result, which Professor Hamilton thus
+obtained from the theory, his friend Professor Lloyd verified as an
+experimental fact. We may notice, also, that Professor Lloyd found the
+light of the conical pencil to be polarized according to a law of an
+unusual kind; but one which was easily seen to be in complete
+accordance with the theory.
+8. Fringes of Shadows.—The phenomena of the fringes
+of shadows of small holes and groups of holes, which had been the
+subject of experiment by Fraunhofer, were at a later period carefully
+observed in a vast variety of cases by M. Schwerd of Spires, and
+published in a separate work,123
+Beugungs-erscheinungen (Phenomena of Inflection), 1836. In this
+Treatise, the author has with great industry and skill calculated the
+integrals which, as we have seen, are requisite in order to trace the
+consequences of the theory; and the accordance which he finds between
+these and the varied and brilliant results of observation is
+throughout exact. “I shall,” says he, in the preface,124 “prove by the present Treatise, that
+all inflection-phenomena, through openings of any form, size, and
+arrangement, are not only explained by the undulation-theory, but that
+they can be represented by analytical expressions, determining the
+intensity of the light in any point whatever.” And he justly adds,
+that the undulation-theory accounts for the phenomena of light, as
+completely as the theory of gravitation does for the facts of the
+solar system.
+123 Die Beugungs-erscheinungen,
+aus dem Fundamental-gesetz der Undulations-Theorie analytisch
+entwickelt und in Bildern dargestellt, von F. M. Schwerd.
+Mannheim, 1835.
+124 Dated Speyer, Aug. 1835.
+9. Objections to the Theory.—We have hitherto
+mentioned only cases in which the undulatory theory was either
+entirely successful in explaining the facts, or at least
+hypothetically consistent with them and with itself. But other
+objections were started, and some difficulties were long considered as
+very embarrassing. Objections were made to the theory by some English
+experimenters, as Mr. Potter, Mr. Barton, and others. These appeared
+in scientific journals, and were afterwards answered in similar
+publications. The objections depended partly on the measure of the
+intensity of light in the different points of the phenomena
+(a datum which it is very difficult to obtain with accuracy 126 by experiment), and
+partly on misconceptions of the theory; and I believe there are none
+of them which would now be insisted on.
+We may mention, also, another difficulty, which it was the habit of
+the opponents of the theory to urge as a reproach against it, long
+after it had been satisfactorily explained: I mean the
+half-undulation which Young and Fresnel had found it necessary,
+in some cases, to assume as gained or lost by one of the rays. Though
+they and their followers could not analyse the mechanism of reflection
+with sufficient exactness to trace out all the circumstances, it was
+not difficult to see, upon Fresnel’s principles, that reflection from
+the interior and exterior surface of glass must be of opposite kinds,
+which might be expressed by supposing one of these rays to lose half
+an undulation. And thus there came into view a justification of the
+step which had originally been taken upon empirical grounds alone.
+10. Dispersion, on the Undulatory Theory.—A difficulty
+of another kind occasioned a more serious and protracted embarrassment
+to the cultivators of this theory. This was the apparent impossibility
+of accounting, on the theory, for the prismatic dispersion of color.
+For it had been shown by Newton that the amount of refraction is
+different for every color; and the amount of refraction depends on the
+velocity with which light is propagated. Yet the theory suggested no
+reason why the velocity should be different for different colors: for,
+by mathematical calculation, vibrations of all degrees of rapidity (in
+which alone colors differ) are propagated with the same speed. Nor
+does analogy lead us to expect this variety. There is no such
+difference between quick and slow waves of air. The sounds of the
+deepest and the highest bells of a peal are heard at any distance in
+the same order. Here, therefore, the theory was at fault.
+But this defect was far from being a fatal one. For though the
+theory did not explain, it did not contradict, dispersion. The
+suppositions on which the calculations had been conducted, and the
+analogy of sound, were obviously in no small degree precarious. The
+velocity of propagation might differ for different rates of
+undulation, in virtue of many causes which would not affect the
+general theoretical results.
+Many such hypothetical causes were suggested by various eminent
+mathematicians, as solutions of this conspicuous difficulty. But
+without dwelling upon these conjectures, it may suffice to notice that
+hypothesis upon which the attention of mathematicians was soon
+concentrated. This was the hypothesis of finite intervals
+between the 127
+particles of the ether. The length of one of those undulations which
+produce light, is a very small quantity, its mean value being 1⁄50,000th
+of an inch; but in the previous investigations of the consequences of
+the theory, it had been assumed that the distance from each other, of
+the particles of the ether, which, by their attractions or repulsions,
+caused the undulations to be propagated, is indefinitely less than
+this small quantity;—so that its amount might be neglected in
+the cases in which the length of the undulation was one of the
+quantities which determined the result. But this assumption was made
+arbitrarily, as a step of simplification, and because it was imagined
+that, in this way, a nearer approach was made to the case of a
+continuous fluid ether, which the supposition of distinct particles
+imperfectly represented. It was still free for mathematicians to
+proceed upon the opposite assumption, of particles of which the
+distances were finite, either as a mathematical basis of calculation,
+or as a physical hypothesis; and it remained to be seen if, when this
+was done, the velocity of light would still be the same for different
+lengths of undulation, that is, for different colors. M. Cauchy,
+calculating, upon the most general principles, the motion of such a
+collection of particles as would form an elastic medium, obtained
+results which included the new extension of the previous hypothesis.
+Professor Powell, of Oxford, applied himself to reduce to calculation,
+and to compare with experiment, the result of these researches. And it
+appeared that, on M. Cauchy’s principles, a variation in the velocity
+of light is produced by a variation in the length of the wave,
+provided that the interval between the molecules of the ether bears a
+sensible ratio to the length of an undulation.125 Professor
+Powell obtained also, from the general expressions, a formula
+expressing the relation between the refractive index of a ray, and the
+length of a wave, or the color of light.126 It then became
+his task to ascertain whether this relation obtained experimentally;
+and he found a very close agreement between the numbers which resulted
+from the formula and those observed by Fraunhofer, for ten different
+kinds of media, namely, certain glasses and fluids.127 To these he afterwards added ten other
+cases of crystals observed by M. Rudberg.128 Mr. Kelland,
+of Cambridge, also calculated, in a manner somewhat different, the
+results of the same hypothesis of finite intervals;129 and, obtaining 128 formulæ not exactly
+the same as Professor Powell, found also an agreement between these
+and Fraunhofer’s observations.
+125 Phil. Mag. vol. vi. p.
+266.
+126 Ib. vol. vii. 1835, p. 266.
+127 Phil. Trans. 1835, p.
+249.
+128 Ib. 1836, p. 17.
+129 Camb. Trans. vol.  vi. p.
+153.
+It may be observed, that the refractive indices observed and
+employed in these comparisons, were not those determined by the color
+of the ray, which is not capable of exact identification, but those
+more accurate measures which Fraunhofer was enabled to make, in
+consequence of having detected in the spectrum the black lines which
+he called B, C, D, E, F, G, H. The agreement between the theoretical
+formulæ and the observed numbers is remarkable, throughout all the
+series of comparisons of which we have spoken. Yet we must at present
+hesitate to pronounce upon the hypothesis of finite intervals, as
+proved by these calculations; for though this hypothesis has given
+results agreeing so closely with experiment, it is not yet clear that
+other hypotheses may not produce an equal agreement. By the nature of
+the case, there must be a certain gradation and continuity in the
+succession of colors in the spectrum, and hence, any supposition which
+will account for the general fact of the whole dispersion, may
+possibly account for the amount of the intermediate dispersions,
+because these must be interpolations between the extremes. The result
+of this hypothetical calculation, however, shows very satisfactorily
+that there is not, in the fact of dispersion, anything which is at all
+formidable to the undulatory theory.
+11. Conclusion.—There are several other
+of the more recondite points of the theory which may be considered as,
+at present, too undecided to allow us to speak historically of the
+discussions which they have occasioned.130 For example,
+it was conceived, for some time, that the vibrations of polarized
+light are perpendicular to the plane of polarization. But this
+assumption was not an essential part of the theory; and all the
+phenomena would equally allow us to suppose the vibrations to be in
+the polarization plane; the main requisite being, that light polarized
+in planes at right angles to each other, should also have the
+vibrations at right angles. Accordingly, for some time, this point was
+left undecided by Young and Fresnel, and, more recently, some
+mathematicians have come to the opinion that ether vibrates in the
+plane of polarization. The theory of transverse vibrations is equally
+stable, whichever supposition may be finally confirmed. ~Additional
+material in the 3rd edition.~
+130  For on account of these, see
+Professor Lloyd’s Report on Physical Optics. (Brit. Assoc.
+Report, 1834.)
+We may speak, in the same manner, of the suppositions which, from
+129 the time of
+Young and Fresnel, the cultivators of this theory have been led to
+make respecting the mechanical constitution of the ether, and the
+forces by which transverse vibrations are produced. It was natural
+that various difficulties should arise upon such points, for
+transverse vibrations had not previously been made the subject of
+mechanical calculation, and the forces which occasion them must act in
+a different manner from those which were previously contemplated.
+Still, we may venture to say, without entering into these discussions,
+that it has appeared, from all the mathematical reasonings which have
+been pursued, that there is not, in the conception of transverse
+vibrations, anything inconsistent either with the principles of
+mechanics, or with the best general views which we can form, of the
+forces by which the universe is held together.
+I willingly speak as briefly as the nature of my undertaking
+allows, of those points of the undulatory theory which are still under
+deliberation among mathematicians. With respect to these, an intimate
+acquaintance with mathematics and physics is necessary to enable any
+one to understand the steps which are made from day to day; and still
+higher philosophical qualifications would be requisite in order to
+pronounce a judgment upon them. I shall, therefore, conclude this
+survey by remarking the highly promising condition of this great
+department of science, in respect to the character of its cultivators.
+Nothing less than profound thought and great mathematical skill can
+enable any one to deal with this theory, in any way likely to promote
+the interests of science. But there appears, in the horizon of the
+scientific world, a considerable class of young mathematicians, who
+are already bringing to these investigations the requisite talents and
+zeal; and who, having acquired their knowledge of the theory since the
+time when its acceptation was doubtful, possess, without effort, that
+singleness and decision of view as to its fundamental doctrines, which
+it is difficult for those to attain whose minds have had to go through
+the hesitation, struggle, and balance of the epoch of the
+establishment of the theory. In the hands of this new generation, it
+is reasonable to suppose the Analytical Mechanics of light will be
+improved as much as the Analytical Mechanics of the solar system was
+by the successors of Newton. We have already had to notice many of
+this younger race of undulationists. For besides MM. Cauchy, Poisson,
+and Ampère, M. Lamé has been more recently following these researches
+in France.131 In 130 Belgium, M. Quetelet has given great
+attention to them; and, in our own country, Sir William Hamilton, and
+Professor Lloyd, of Dublin, have been followed by Mr. Mac Cullagh.
+Professor Powell, of Oxford, has continued his researches with
+unremitting industry; and, at Cambridge, Professor Airy, who did much
+for the establishment and diffusion of the theory before he was
+removed to the post of Astronomer Royal, at Greenwich, has had the
+satisfaction to see his labors continued by others, even to the most
+recent time; for Mr. Kelland,132 whom we have
+already mentioned, and Mr. Archibald Smith,133 the two
+persons who, in 1834 and 1836, received the highest mathematical
+honors which that university can bestow, have both of them published
+investigations respecting the undulatory theory.
+131 Prof. Lloyd’s Report, p.
+392.
+132 On the Dispersion of Light, as
+explained by the Hypothesis of Finite Intervals. Camb. Trans. vol.
+vi. p. 153.
+133 Investigation of the Equation
+to Fresnel’s Wave Surface, ib. p. 85. See also, in the same
+volume, Mathematical Considerations on the Problem of the
+Rainbow, showing it to belong to Physical Optics, by R. Potter,
+Esq., of Queen’s College.
+We may be permitted to add, as a reflection obviously suggested by
+these facts, that the cause of the progress of science is incalculably
+benefited by the existence of a body of men, trained and stimulated to
+the study of the higher mathematics, such as exist in the British
+universities, who are thus prepared, when an abstruse and sublime
+theory comes before the world with all the characters of truth, to
+appreciate its evidence, to take steady hold of its principles, to
+pursue its calculations, and thus to convert into a portion of the
+permanent treasure and inheritance of the civilized world, discoveries
+which might otherwise expire with the great geniuses who produced
+them, and be lost for ages, as, in former times, great scientific
+discoveries have sometimes been.
+The reader who is acquainted with the history of recent optical
+discovery, will see that we have omitted much which has justly excited
+admiration; as, for example, the phenomena produced by glass under
+heat or pressure, noticed by MM. Lobeck, and Biot, and Brewster, and
+many most curious properties of particular minerals. We have omitted,
+too, all notice of the phenomena and laws of the absorption of light,
+which hitherto stand unconnected with the theory. But in this we have
+not materially deviated from our main design; for our end, in what we
+have done, has been to trace the advances of Optics 131 towards perfection as
+a theory; and this task we have now nearly executed as far as our
+abilities allow.
+We have been desirous of showing that the type of this
+progress, in the histories of the two great sciences, Physical
+Astronomy and Physical Optics, is the same. In both we have many
+Laws of Phenomena detected and accumulated by acute and
+inventive men; we have Preludial guesses which touch the true
+theory, but which remain for a time imperfect, undeveloped,
+unconfirmed: finally we have the Epoch when this true theory,
+clearly apprehended by great philosophical geniuses, is recommended by
+its fully explaining what it was first meant to explain, and confirmed
+by its explaining what it was not meant to explain. We have then its
+Progress struggling for a little while with adverse
+prepossessions and difficulties; finally overcoming all these, and
+moving onwards, while its triumphal procession is joined by all the
+younger and more vigorous men of science.
+It would, perhaps, be too fanciful to attempt to establish a
+parallelism between the prominent persons who figure in these two
+histories. If we were to do this, we must consider Huyghens and Hooke
+as standing in the place of Copernicus, since, like him, they
+announced the true theory, but left it to a future age to give it
+development and mechanical confirmation; Malus and Brewster, grouping
+them together, correspond to Tycho Brahe and Kepler, laborious in
+accumulating observations, inventive and happy in discovering laws of
+phenomena; and Young and Fresnel combined, make up the Newton of
+optical science.
+[2nd Ed.] [In the Report on Physical Optics, (Brit. Ass.
+Reports, 1834,) by Prof. Lloyd, the progress of the mathematical
+theory after Fresnel’s labors is stated more distinctly than I have
+stated it, to the following effect. Ampère, in 1828, proved Fresnel’s
+mathematical results directly, which Fresnel had only proved
+indirectly, and derived from his proof Fresnel’s beautiful geometrical
+construction. Prof. Mac Cullagh not long after gave a concise
+demonstration of the same theorem, and of the other principal points
+of Fresnel’s theory. He represents the elastic force by means of an
+ellipsoid whose axes are inversely proportional to those of Fresnel’s
+generating ellipsoid, and deduces Fresnel’s construction
+geometrically. In the third Supplement to his Essay on the Theory
+of Systems of Rays (Trans. R. I. Acad. vol. xvii.), Sir W.
+Hamilton has presented that portion of Fresnel’s theory which relates
+to the fundamental problem of the determination of the velocity and
+polarization of a plane wave, in a very elegant and analytical form.
+This he does by means of what he calls the 132 characteristic function of the
+optical system to which the problem belongs. From this function is
+deduced the surface of wave-slowness of the medium; and by
+means of this surface, the direction of the rays refracted into the
+medium. From this construction also Sir W. Hamilton was led to the
+anticipation of conical refraction, mentioned above.
+The investigations of MM. Cauchy and Lamé refer to the laws by
+which the particles of the ether act upon each other and upon the
+particles of other bodies;—a field of speculation which appears
+to me not yet ripe for the final operations of the analyst.
+Among the mathematicians who have supplied defects in Fresnel’s
+reasoning on this subject, I may mention Mr. Tovey, who treated it in
+several papers in the Philosophical Magazine (1837–40). Mr.
+Tovey’s early death must be deemed a loss to mathematical science.
+Besides investigating the motion of symmetrical systems of
+particles which may be supposed to correspond to biaxal crystals, Mr.
+Tovey considered the case of unsymmetrical systems, and found that the
+undulations propagated would, in the general case, be elliptical; and
+that in a particular case, circular undulations would take place, such
+as are propagated along the axis of quartz. It appears to me, however,
+that he has not given a definite meaning to those limitations of his
+general hypothesis which conduct him to this result. Perhaps if the
+hypothetical conditions of this result were traced into detail, they
+would be found to reside in a screw-like arrangement of the
+elementary particles, in some degree such as crystals of quartz
+themselves exhibit in their forms, when they have plagihedral faces at
+both ends.
+Such crystals of quartz are, some like a right-handed and some like
+a left-handed screw; and, as Sir John Herschel discovered, the
+circular polarization is right-handed or left-handed according as the
+plagihedral form is so. In Mr. Tovey’s hypothetical investigation it
+does not appear upon what part of the hypothesis this difference of
+right and left-handed depends. The definition of this part of the
+hypothesis is a very desirable step.
+When crystals of Quartz are right-handed at one end, they are
+right-handed at the other end: but there is a different kind of
+plagihedral form, which occurs in some other crystals, for instance,
+in Apatite: in these the plagihedral faces are right-handed at the one
+extremity and left-handed at the other. For the sake of distinction,
+we may call the former homologous plagihedral faces, since, at
+both ends, they have the same name; and the latter heterologous
+plagihedral faces. 133
+The homologous plagihedral faces of Quartz crystals are accompanied
+by homologous circular polarization of the same name. I do not know
+that heterologous circular polarization has been observed in any
+crystal, but it has been discovered by Dr. Faraday to occur in glass,
+&c., when subjected to powerful magnetic action.
+Perhaps it was presumptuous in me to attempt to draw such
+comparisons, especially with regard to living persons, as I have done
+in the preceding pages of this Book. Having published this passage,
+however, I shall not now suppress it. But I may observe that the
+immense number and variety of the beautiful optical discoveries which
+we owe to Sir David Brewster makes the comparison in his case a very
+imperfect representation of his triumphs over nature; and that,
+besides his place in the history of the Theory of Optics, he must hold
+a most eminent position in the history of Optical Crystallography,
+whenever the discovery of a True Optical Theory of Crystals supplies
+us with the Epoch to which his labors in this field form so
+rich a Prelude. I cordially assent to the expression employed
+by Mr. Airy in the Phil. Trans. for 1840, in which he speaks of
+Sir David Brewster as “the Father of Modern Experimental Optics.”]
+~Additional material in the 3rd
+edition.~
+
+
+BOOK X.
+
+SECONDARY MECHANICAL SCIENCES.
+(CONTINUED.)
+
+HISTORY
+OF
+THERMOTICS AND ATMOLOGY.
+
+Et primum faciunt ignem se vortere in auras
+Aëris; hinc imbrem gigni terramque creari
+Ex imbri; retroque a terrâ cuncta revorti,
+Humorem primum, post aëra deinde calorem;
+Nec cessare hæc inter se mutare, meare,
+De cœlo ad terram de terrâ ad sidera mundi.
+Lucretius, i.
+783.   
+
+Water, and Air, and Fire, alternate run
+Their endless circle, multiform, yet one.
+For, moulded by the fervor’s latent beams,
+Solids flow loose, and fluids flash to
+steams,
+And elemental flame, with secret force,
+Pursues through earth, air, sky, its stated
+course.
+
+</div></body></text></TEI>

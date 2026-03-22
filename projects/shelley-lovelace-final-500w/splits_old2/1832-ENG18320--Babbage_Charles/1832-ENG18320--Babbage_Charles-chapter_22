@@ -1,0 +1,365 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Economy of Machinery and Manufactures</title><author>Babbage, Charles (1791-1871)</author></titleStmt><publicationStmt><publisher>Charles Knight</publisher><pubPlace>London</pubPlace><date>1832</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="22">Chapter 22
+On the Causes and Consequences of Large Factories
+263. On examining the analysis which has been given in
+chapter XIX of the operations in the art of pin-making, it will
+be observed, that ten individuals are employed in it, and also
+that the time occupied in executing the several processes is very
+different. In order, however, to render more simple the reasoning
+which follows, it will be convenient to suppose that each of the
+seven processes there described requires an equal quantity of
+time. This being supposed, it is at once apparent, that, to
+conduct an establishment for pin-making most profitably, the
+number of persons employed must be a multiple of ten. For if a
+person with small means has only sufficient capital to enable him
+to employ half that number of persons, they cannot each of them
+constantly adhere to the execution of the same process; and if a
+manufacturer employs any number not a multiple of ten, a similar
+result must ensue with respect to some portion of them. The same
+reflection constantly presents itself on examining any
+well-arranged factory. In that of Mr Mordan, the patentee of the
+ever-pointed pencils, one room is devoted to some of the
+processes by which steel pens are manufactured. Six fly-presses
+are here constantly at work; in the first a sheet of thin steel
+is brought by the workman under the die which at each blow cuts
+out a flat piece of the metal, having the form intended for the
+pen. Two other workmen are employed in placing these flat pieces
+under two other presses, in which a steel chisel cuts the slit.
+Three other workmen occupy other presses, in which the pieces so
+prepared receive their semi-cylindrical form. The longer time
+required for adjusting the small pieces in the two latter
+operations renders them less rapid in execution than the first;
+so that two workmen are fully occupied in slitting, and three in
+bending the flat pieces, which one man can punch out of the sheet
+of steel. If, therefore, it were necessary to enlarge this
+factory, it is clear that twelve or eighteen presses would be
+worked with more economy than any number not a multiple of six.
+The same reasoning extends to every manufacture which is
+conducted upon the principle of the division of labour, and we
+arrive at this general conclusion: When the number of processes
+into which it is most advantageous to divide it, and the number
+of individuals to be employed in it, are ascertained, then all
+factories which do not employ a direct multiple of this latter
+number, will produce the article at a greater cost. This
+principle ought always to be kept in view in great
+establishments, although it is quite impossible, even with the
+best division of the labour, to attend to it rigidly in practice.
+The proportionate number of the persons who possess the greatest
+skill, is of course to be first attended to. That exact ratio
+which is more profitable for a factory employing a hundred
+workmen, may not be quite the best where there are five hundred;
+and the arrangements of both may probably admit of variations,
+without materially increasing the cost of their produce. But it
+is quite certain that no individual, nor in the case of
+pin-making could any five individuals, ever hope to compete with
+an extensive establishment. Hence arises one cause of the great
+size of manufacturing establishments, which have increased with
+the progress of civilization. Other circumstances, however,
+contribute to the same end, and arise also from the same cause—
+the division of labour.
+264. The material out of which the manufactured article is
+produced, must, in the several stages of its progress, be
+conveyed from one operator to the next in succession: this can be
+done at least expense when they are all working in the same
+establishment. If the weight of the material is considerable,
+this reason acts with additional force; but even where it is
+light, the danger arising from frequent removal may render it
+desirable to have all the processes carried on in the same
+building. In the cutting and polishing of glass this is the case;
+whilst in the art of needle-making several of the processes are
+carried on in the cottages of the workmen. It is, however, clear
+that the latter plan, which is attended with some advantages to
+the family of the workmen, can be adopted only where there exists
+a sure and quick method of knowing that the work has been well
+done, and that the whole of the materials given out have been
+really employed.
+265. The inducement to contrive machines for any process of
+manufacture increases with the demand for the article; and the
+introduction of machinery, on the other hand, tends to increase
+the quantity produced and to lead to the establishment of large
+factories. An illustration of these principles may be found in
+the history of the manufacture of patent net.
+The first machines for weaving this article were very
+expensive, costing from a thousand to twelve or thirteen hundred
+pounds. The possessor of one of these, though it greatly
+increased the quantity he could produce, was nevertheless unable,
+when working eight hours a day, to compete with the old methods.
+This arose from the large capital invested in the machinery; but
+he quickly perceived that with the same expense of fixed capital,
+and a small addition to his circulating capital, he could work
+the machine during the whole twenty-four hours. The profits thus
+realized soon induced other persons to direct their attention to
+the improvement of those machines; and the price was greatly
+reduced, at the same time that the rapidity of production of the
+patent net was increased. But if machines be kept working through
+the twenty-four hours, it is necessary that some person shall
+attend to admit the workmen at the time they relieve each other;
+and whether the porter or other servant so employed admit one
+person or twenty, his rest will be equally disturbed. It will
+also be necessary occasionally to adjust or repair the machine;
+and this can be done much better by a workman accustomed to
+machine-making, than by the person who uses it. Now, since the
+good performance and the duration of machines depend to a very
+great extent upon correcting every shake or imperfection in their
+parts as soon as they appear, the prompt attention of a workman
+resident on the spot will considerably reduce the expenditure
+arising from the wear and tear of the machinery. But in the case
+of single lace frame, or a single loom, this would be too
+expensive a plan. Here then arises another circumstance which
+tends to enlarge the extent of a factory. It ought to consist of
+such a number of machines as shall occupy the whole time of one
+workman in keeping them in order: if extended beyond that number,
+the same principle of economy would point out the necessity of
+doubling or tripling the number of machines, in order to employ
+the whole time of two or three skilful workmen.
+266. Where one portion of the workman's labour consists in
+the exertion of mere physical force, as in weaving and in many
+similar arts, it will soon occur to the manufacturer, that if
+that part were executed by a steam-engine, the same man might, in
+the case of weaving, attend to two or more looms at once; and,
+since we already suppose that one or more operative engineers
+have been employed, the number of his looms may be so arranged
+that their time shall be fully occupied in keeping the
+steam-engine and the looms in order. One of the first results
+will be, that the looms can be driven by the engine nearly twice
+as fast as before: and as each man, when relieved from bodily
+labour, can attend to two looms, one workman can now make almost
+as much cloth as four. This increase of producing power is,
+however, greater than that which really took place at first; the
+velocity of some of the parts of the loom being limited by the
+strength of the thread, and the quickness with which it commences
+its motion: but an improvement was soon made, by which the motion
+commenced slowly, and gradually acquired greater velocity than it
+was safe to give it at once; and the speed was thus increased
+from 100 to about 120 strokes per minute.
+267. Pursuing the same principles, the manufactory becomes
+gradually so enlarged, that the expense of lighting during the
+night amounts to a considerable sum; and as there are already
+attached to the establishment persons who are up all night, and
+can therefore constantly attend to it, and also engineers to make
+and keep in repair any machinery, the addition of an apparatus
+for making gas to light the factory leads to a new extension, at
+the same time that it contributes, by diminishing the expense of
+lighting, and the risk of accidents from fire, to reduce the cost
+of manufacturing.
+268. Long before a factory has reached this extent, it will
+have been found necessary to establish an accountant's
+department, with clerks to pay the workmen, and to see that they
+arrive at their stated times; and this department must be in
+communication with the agents who purchase the raw produce, and
+with those who sell the manufactured article.
+269. We have seen that the application of the division of
+labour tends to produce cheaper articles; that it thus increases
+the demand; and gradually, by the effect of competition, or by
+the hope of increased gain, that it causes large capitals to be
+embarked in extensive factories. Let us now examine the influence
+of this accumulation of capital directed to one object. In the
+first place, it enables the most important principle on which the
+advantages of the division of labour depends to be carried almost
+to its extreme limits: not merely is the precise amount of skill
+purchased which is necessary for the execution of each process,
+but throughout every stage—from that in which the raw material
+is procured, to that by which the finished produce is conveyed
+into the hands of the consumer—the same economy of skill
+prevails. The quantity of work produced by a given number of
+people is greatly augmented by such an extended arrangement; and
+the result is necessarily a great reduction in the cost of the
+article which is brought to market.
+270. Amongst the causes which tend to the cheap production of
+any article, and which are connected with the employment of
+additional capital, may be mentioned, the care which is taken to
+prevent the absolute waste of any part of the raw material. An
+attention to this circumstance sometimes causes the union of two
+trades in one factory, which otherwise might have been separated.
+An enumeration of the arts to which the horns of cattle are
+applicable, will furnish a striking example of this kind of
+economy. The tanner who has purchased the raw hides, separates
+the horns, and sells them to the makers of combs and lanterns.
+The horn consists of two parts, an outward horny case, and an
+inward conical substance, somewhat intermediate between indurated
+hair and bone. The first process consists in separating these two
+parts, by means of a blow against a block of wood. The horny
+exterior is then cut into three portions with a frame-saw.
+1. The lowest of these, next the root of the horn, after
+undergoing several processes, by which it is flattened, is made
+into combs.
+2. The middle of the horn, after being flattened by heat, and
+having its transparency improved by oil, is split into thin
+layers, and forms a substitute for glass, in lanterns of the
+commonest kind.
+3. The tip of the horn is used by the makers of knife
+handles, and of the tops of whips, and for other similar
+purposes.
+4. The interior, or core of the horn, is boiled down in
+water. A large quantity of fat rises to the surface; this is put
+aside, and sold to the makers of yellow soap.
+5. The liquid itself is used as a kind of glue, and is
+purchased by cloth dressers for stiffening.
+6. The insoluble substance, which remains behind, is then
+sent to the mill, and, being ground down, is sold to the farmers
+for manure.
+7. Besides these various purposes to which the different
+parts of the horn are applied, the clippings, which arise in comb
+making, are sold to the farmer for manure. In the first year
+after they are spread over the soil they have comparatively
+little effect, but during the next four or five their efficiency
+is considerable. The shavings which form the refuse of the
+lantern maker, are of a much thinner texture: some of them are
+cut into various figures and painted, and used as toys; for being
+hygrometric, they curl up when placed on the palm of a warm hand.
+But the greater part of these shavings also are sold for manure,
+and from their extremely thin and divided form, the full effect
+is produced upon the first crop.
+271. Another event which has arisen, in one trade at least,
+from the employment of large capital, is, that a class of
+middlemen, formerly interposed between the maker and the
+merchant, now no longer exist. When calico was woven in the
+cottages of the workmen, there existed a class of persons who
+travelled about and purchased the pieces so made, in large
+numbers, for the purpose of selling them to the exporting
+merchant. But the middlemen were obliged to examine every piece,
+in order to know that it was perfect, and of full measure. The
+greater number of the workmen, it is true, might be depended
+upon, but the fraud of a few would render this examination
+indispensable: for any single cottager, though detected by one
+purchaser, might still hope that the fact would not become known
+to all the rest.
+The value of character, though great in all circumstances of
+life, can never be so fully experienced by persons possessed of
+small capital, as by those employing much larger sums: whilst
+these larger sums of money for which the merchant deals, render
+his character for punctuality more studied and known by others.
+Thus it happens that high character supplies the place of an
+additional portion of capital; and the merchant, in dealing with
+the great manufacturer, is saved from the expense of
+verification, by knowing that the loss, or even the impeachment,
+of the manufacturer's character, would be attended with greater
+injury to himself than any profit upon a single transaction could
+compensate.
+272. The amount of well-grounded confidence, which exists in
+the character of its merchants and manufacturers, is one of the
+many advantages that an old manufacturing country always
+possesses over its rivals. To such an extent is this confidence
+in character carried in England, that, at one of our largest
+towns, sales and purchases on a very extensive scale are made
+daily in the course of business without any of the parties ever
+exchanging a written document.
+273. A breach of confidence of this kind, which might have
+been attended with very serious embarrassment, occurred in the
+recent expedition to the mouth of the Niger.
+'We brought with us from England,' Mr Lander states, 'nearly
+a hundred thousand needles of various sizes, and amongst them was
+a great quantity of Whitechapel sharps warranted superfine, and
+not to cut in the eye. Thus highly recommended, we imagined that
+these needles must have been excellent indeed; but what was our
+surprise, some time ago, when a number of them which we had
+disposed of were returned to us, with a complaint that they were
+all eyeless, thus redeeming with a vengeance the pledge of the
+manufacturer, "that they would not cut in the eye". On
+examination afterwards, we found the same fault with the
+remainder of the "Whitechapel sharps", so that to save our credit
+we have been obliged to throw them away.'(1*)
+274. The influence of established character in producing
+confidence operated in a very remarkable manner at the time of
+the exclusion of British manufactures from the continent during
+the last war. One of our largest establishments had been in the
+habit of doing extensive business with a house in the centre of
+Germany; but, on the closing of the continental ports against our
+manufactures, heavy penalties were inflicted on all those who
+contravened the Berlin and Milan decrees. The English
+manufacturer continued, nevertheless, to receive orders, with
+directions how to consign them, and appointments for the time and
+mode of payment, in letters, the handwriting of which was known
+to him, but which were never signed, except by the christian name
+of one of the firm, and even in some instances they were without
+any signature at all. These orders were executed; and in no
+instance was there the least irregularity in the payments.
+275. Another circumstance may be noticed, which to a small
+extent is more advantageous to large than to small factories. In
+the export of several articles of manufacture, a drawback is
+allowed by government, of a portion of the duty paid on the
+importation of the raw material. In such circumstances, certain
+forms must be gone through in order to protect the revenue from
+fraud; and a clerk, or one of the partners, must attend at the
+custom-house. The agent of the large establishment occupies
+nearly the same time in receiving a drawback of several
+thousands, as the smaller exporter does of a few shillings. But
+if the quantity exported is inconsiderable, the small
+manufacturer frequently does not find the drawback will repay him
+for the loss of time.
+276. In many of the large establishments of our manufacturing
+districts, substances are employed which are the produce of
+remote countries, and which are, in several instances, almost
+peculiar to a few situations. The discovery of any new locality,
+where such articles exist in abundance, is a matter of great
+importance to any establishment which consumes them in large
+quantities; and it has been found, in some instances, that the
+expense of sending persons to great distances, purposely to
+discover and to collect such produce, has been amply repaid. Thus
+it has happened, that the snowy mountains of Sweden and Norway,
+as well as the warmer hills of Corsica, have been almost stripped
+of one of their vegetable productions, by agents sent expressly
+from one of our largest establishments for the dying of calicos.
+Owing to the same command of capital, and to the scale upon which
+the operations of large factories are carried on, their returns
+admit of the expense of sending out agents to examine into the
+wants and tastes of distant countries, as well as of trying
+experiments, which, although profitable to them, would be ruinous
+to smaller establishments possessing more limited resources.
+These opinions have been so well expressed in the Report of
+the Committee of the House of Commons on the Woollen Trade, in
+1806, that we shall close this chapter with an extract, in which
+the advantages of great factories are summed up.
+Your committee have the satisfaction of seeing, that the
+apprehensions entertained of factories are not only vicious in
+principle, but they are practically erroneous: to such a degree.
+that even the very opposite principles might be reasonably
+entertained. Nor would it be difficult to prove, that the
+factories, to a certain extent at least, and in the present day,
+seem absolutely necessary to the wellbeing of the domestic
+system: supplying those very particulars wherein the domestic
+system must be acknowledged to be inherently defective: for it is
+obvious, that the little master manufacturers cannot afford, like
+the man who possesses considerable capital, to try the
+experiments which are requisite, and incur the risks, and even
+losses, which almost always occur, in inventing and perfecting
+new articles of manufacture, or in carrying to a state of greater
+perfection articles already established. He cannot learn, by
+personal inspection, the wants and habits, the arts,
+manufactures, and improvements of foreign countries; diligence,
+economy, and prudence, are the requisites of his character, not
+invention, taste, and enterprise: nor would he be warranted in
+hazarding the loss of any part of his small capital. He walks in
+a sure road as long as he treads in the beaten track; but he must
+not deviate into the paths of speculation. The owner of a
+factory, on the contrary, being commonly possessed of a large
+capital, and having all his workmen employed under his own
+immediate superintendence, may make experiments, hazard
+speculation, invent shorter or better modes of performing old
+processes, may introduce new articles, and improve and perfect
+old ones, thus giving the range to his taste and fancy, and,
+thereby alone enabling our manufacturers to stand the competition
+with their commercial rivals in other countries. Meanwhile, as is
+well worthy of remark (and experience abundantly warrants the
+assertion), many of these new fabrics and inventions, when their
+success is once established, become general amongst the whole
+body of manufacturers: the domestic manufacturers themselves thus
+benefiting, in the end, from those very factories which had been
+at first the objects of their jealousy. The history of almost all
+our other manufactures, in which great improvements have been
+made of late years in some cases at an immense expense, and after
+numbers of unsuccessful experiments, strikingly illustrates and
+enforces the above remarks. It is besides an acknowledged fact,
+that the owners of factories are often amongst the most extensive
+purchasers at the halls, where they buy from the domestic
+clothier the established articles of manufacture, or are able at
+once to answer a great and sudden order; whilst, at home, and
+under their own superintendence, they make their fancy goods, and
+any articles of a newer, more costly, or more delicate quality,
+to which they are enabled by the domestic system to apply a much
+larger proportion of their capital. Thus, the two systems,
+instead of rivalling, are mutual aids to each other: each
+supplying the other's defects, and promoting the other's
+prosperity.
+Notes:
+1. Lander's Journal of an Expedition to the Mouth of the Niger,
+vol. ii., p. 42.</div></body></text></TEI>

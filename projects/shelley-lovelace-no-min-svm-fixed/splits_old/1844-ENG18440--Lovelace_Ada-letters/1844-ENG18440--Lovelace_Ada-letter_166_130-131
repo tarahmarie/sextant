@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 130-131</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 130-131.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1844">25 November [1844]</date>
+          <note type="place">Bromfield</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 130-131</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_130-131.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Bromfield Monday. 25th Novr</p>
+      <p>Dearest Mate. All well, but not much time. I could stay here a fortnight with advantage.</p>
+      <p>I have made the whole family laugh heartily with my witty fun about the chaotic nature of the establishment &amp; proceedings. Old Crosse delights in my quizzing of him. The playful Bird, you know!!--</p>
+      <p>She is very harmless however, I assure you.</p>
+      <p>Young John Crosse is an excellent mathematician as well as metaphysician &amp;c; &amp; he works my brain famously</p>
+      <p>for he opposes everything I advance, intentionally; but with a perfect good humour.</p>
+      <p>This is very useful &amp; good for me.</p>
+      <p>He will be an addition to my catalogue of useful &amp; intellectual friends, in many respects.</p>
+      <p>I fully feel all you say, my dear, about order, system, &amp;c.</p>
+      <p>Indeed, here I see an example of a total want of it, &amp; how much much more might have been done had there been system &amp; order.</p>
+      <p>Today is splendid, &amp; we are all going to take a very long walk.</p>
+      <p>Satdy, which you mention as fine, was here a miserable cold raw fog.</p>
+      <p>Yesterday was middling, &amp; we took a walk of 4 miles &amp; back. Miss Crosse walks any distance, &amp; at a tremendous rate.</p>
+      <p>Today is a gem.</p>
+      <p>It is a sad drawback that we breakfast about 11 o'clock; it loses full half the day.</p>
+      <p>There is no order. Every one straggles down when he pleases. You cannot conceive what an odd house it is altogether.</p>
+      <p>The post &amp;c all is by chance, &amp; at all sorts of hours.</p>
+      <p>I never saw the like.--</p>
+      <p>I start on Weddy, for a 12 o'clock Train.</p>
+    </div></body>
+  </text>
+</TEI>

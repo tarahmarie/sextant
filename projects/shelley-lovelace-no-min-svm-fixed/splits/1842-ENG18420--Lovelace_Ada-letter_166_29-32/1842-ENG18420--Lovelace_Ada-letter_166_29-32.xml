@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 29-32</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 29-32.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1842">undated [July 1842]</date>
+          <note type="place">Eaton</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 29-32</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_29-32.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Eaton Weddy. 2 o'clock</p>
+      <p>Dearest W. Your long letter of Monday, received this morning, is delightful.</p>
+      <p>I have much to tell you since yesterday. My visit to Brampton was very agreeable. I was glad to renew my acquaintance with Lady Mary Hewett; who married I think the</p>
+      <p>same day as myself; &amp; I have not seen her for many years. She has a fine boy a year younger than Byron.--</p>
+      <p>I had a very long &amp; interesting, &amp; I hope useful, conversation with Dr Jones about my mother, which I am very much pleased with.</p>
+      <p>But now I must explain arrangements. When I returned here, (with Annabella Acheson), in the</p>
+      <p>evening, my mother said she had seem some coaches pass thro' from Bedford to Cambridge; &amp; that she advised me to go by one of them today, in preference to any other mode of going; as being both most convenient &amp; cheapest. So this morning I walked over to St Neots, (a mile &amp; 1/2 off) to get some things for the Hen; &amp; then I took my place for 1/2 past 4 o'clock; for Mrs King; I have now just packed</p>
+      <p>my things into a Carpet- -Bag, &amp; sent it off to the St Neots Inn by my mother's servant; explaining to him that I am in-cog, of course; &amp; that he is not to speak of Mylady. I am well pleased with this arrangement.</p>
+      <p>I enclose you a letter received from Hester this morning, &amp; from which you will perceive that I have an additional reason for wishing to go to Cambridge now in Mr Gamlen. This is to</p>
+      <p>me quite an unexpected delight. How I shall enjoy being there.</p>
+      <p>I would not leave my mother however, unless under the best care. She goes to Brampton this afternoon, where the Jones's &amp; Achesons will be delightful for her. How long she will remain there, is quite uncertain; &amp; consequently my movements likewise, which of course depend on her. I think she contemplates some</p>
+      <p>little alteration of her original plans; but as nothing is yet fixed, I say noo more on this subject today.</p>
+      <p>I am certainly a cormfort to her. She says that my activity, gentleness, &amp; fun, are delightful. (Tho' this report ought not to come to you from myself).</p>
+      <p>I send you also a letter received from F. Knight this morning. I shall write to him</p>
+      <p>tomorrow or next day.</p>
+      <p>I long to get him to Ockham. Tho' of this he makes no mention; &amp; indeed seems to be going quite in other directions.</p>
+      <p>I must remind the old Knight also about coming to Ockham.--</p>
+      <p>I am pleased that you admire Miss Jane. She is I think beautiful; at least will be when in condition. And I am assured she will do lots of work.</p>
+    </div></body>
+  </text>
+</TEI>

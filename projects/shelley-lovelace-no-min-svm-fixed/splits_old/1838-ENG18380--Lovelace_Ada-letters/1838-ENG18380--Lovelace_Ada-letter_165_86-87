@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 86-87</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 86-87.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1838">undated [1838]</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 86-87</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_86-87.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Sunday. 5 o'clock</p>
+      <p>Sweetest William. This morning [same word repeated, which looks like "snig":] , , , nothing but dreary , which lasted till between 2 &amp; 3 o'clock, when there was a gleam of sun and I managed to get out for a half hour's walk.</p>
+      <p>I did not sleep well last night, &amp; woke at 7 this morning unable to get to sleep again. I think</p>
+      <p>I never sleep well when ou are away. Today I have had a little annoyance with my head, but I should say nothing of consequence, &amp; these variations will happen.--</p>
+      <p>I had an interesting post this morning,-- a curious letter from the Hen about the shilling experiment. I send it to you, but take care of it pray. Also a letter from Dr Locock, expressing the greatest interest &amp; curiosity about the divining rod, &amp; seeming inclined to</p>
+      <p>join in investigating the subject; in consequence of which I am going to send him in a parcel the vol of containing the accounts of Lady Noel, with Mr Fairholme's second letter, and some remarks &amp; suggestions of my own, together with an account of the shilling experiment.-- I have made up my mind not to let this matter rest, &amp; shall endeavour to turn Faraday's attention to the subject. If he, Mrs Somerville, Babbage, &amp; Dr Locock, would unite</p>
+      <p>in investigating it, which I think I can manage to effect, probably something would in course of time be made of it.-- Am I not a fine stirrabout meddlesome avis?-- I have so much to write to the Hen, that I must end.--</p>
+      <p>Ou loving little Birdie Ada</p>
+    </div></body>
+  </text>
+</TEI>

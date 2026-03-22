@@ -1,0 +1,156 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Philosophy of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="55">
+
+CHAPTER III.
+Speculations founded upon the Symmetry of Crystals.
+
+
+
+1. WHEN
+a crystal, as, for instance, a crystal of
+Galena, (sulphuret of lead,) is readily divisible into smaller cubes, and these into smaller ones,
+and so on without limit, it is very natural to represent
+to ourselves the original cube as really consisting of
+small cubical elements; and to imagine that it is a philosophical account of the physical structure of such a
+substance to say that it is made up of cubical molecules. And when the Galena crystal has externally
+the form of a cube, there is no difficulty in such a conception; for the surface of the crystal is also conceived
+as made up of the surfaces of its cubical molecules.
+We conceive the crystal so constituted, as we conceive
+a wall built of bricks.
+But if, as often happens, the Galena crystal be an
+octahedron, a further consideration is requisite in order
+to understand its structure, pursuing still the same
+hypothesis. The mineral is still, as in the other case,
+readily cleavable into small cubes, having their corners
+turned to the faces of the octahedron. Therefore these
+faces can no longer be conceived as made up of the
+faces of cubical elements of which the whole is constituted. If we suppose a pile of such small cubes to be
+closely built together, but with decreasing width above,
+so as to form a pyramid, the face of such a pyramid
+will no longer be plane; it will consist of a great number of the corners or edges of the small elementary
+cubes. It would appear at first sight, therefore, that
+such a face cannot represent the smooth polished surface of a crystal. 81
+But when we come to look more closely, this difficulty disappears. For how large are these elementary
+cubes? We cannot tell, even supposing they really
+have any size. But we know that they must be, at
+any rate, very small; so small as to be inappreciable by
+our senses, for our senses find no limit to the divisibility of minerals by cleavage. Hence the surface of
+the pyramid above described would not consist of
+visible corners or edges, but would be roughened by
+specks of imperceptible size; or rather, by supposing
+these specks to become still smaller, the roughness
+becomes smoothness. And thus we may have a crystal
+with a smooth surface, made up of small cubes in such
+a manner that their surfaces are all oblique to the surface of the crystal.
+Haüy, struck by some instances in which the supposition of such a structure of crystals appeared to account happily for several of their relations and properties, adopted and propounded it as a general theory.
+The small elements, of which he supposed crystals to
+be thus built up, he termed integrant molecules. The
+form of these molecules might or might not be the
+same as the primitive form with which his construction was supposed to begin; but there was, at any rate,
+a close connexion between these forms, since both of
+them were founded on the cleavage of the mineral.
+The tenet that crystals are constituted in the manner
+which I have been describing, I shall call the Theory
+of Integrant Molecules, and I have now to make some
+remarks on the grounds of this theory.
+2. In the case of which I have spoken, the mineral
+used as the example, Galena, readily splits into cubes,
+and cubes are easily placed together so as to fit each
+other, and fill the space which they occupy. The same
+is the case in the mineral which suggested to Haüy his
+theory, namely, Calc Spar. The crystals of this substance are readily divisible into rhombohedrons, a
+form like a brick with oblique angles; and such bricks
+can be built together so as to produce crystals of all the
+immense varieties of form which Calc Spar presents.
+This kind of masonry is equally possible in many other 82 minerals; but as we go through the mineral kingdom
+in our survey, we soon find cases which offer difficulties. Some minerals cleave only in two directions,
+some in one only; in such cases we cannot by cleavage
+obtain an integrant molecule of definite form; one of
+its dimensions, at least, must remain indeterminate
+and arbitrary. Again, in some instances, we have
+more than three different planes of cleavage, as in
+Fluor Spar, where we have four. The solid, bounded
+by four planes, is a tetrahedron; or if we take four
+pairs of parallel faces, an octahedron. But if we
+attempt to take either of these forms for our integrant
+molecule, we are met by this difficulty: that a collection of such forms will not fill space. Perhaps this
+difficulty will be more readily conceived by the general
+reader if it be contemplated with reference to plane
+figures. It will readily be seen that a number of
+equal squares may be put together so as to fill the
+space which they occupy; but if we take a number of
+equal regular octagons, we may easily convince ourselves that no possible arrangement can make them
+cover a flat space without leaving blank spots between.
+In like manner octahedrons or tetrahedrons cannot be
+arranged in solid space so as to fill it. They necessarily leave vacancies. Hence the structure of Fluor
+Spar, and similar crystals, was a serious obstacle in the
+way of the theory of integrant molecules. That theory
+had been adopted in the first instance because portions of the crystal, obtained by cleavage, could be
+built up into a solid mass; but this ground of the
+theory failed altogether in such instances as I have
+described, and hence the theory, even upon the representations of its adherents, had no longer any claim to
+assent.
+The doctrine of Integral Molecules, however, was
+by no means given up at once, even in such instances.
+In this and in other subjects, we may observe that a
+theory, once constructed and carried into detail, has
+such a hold upon the minds of those who have been in
+the habit of applying it, that they will attempt to uphold it by introducing suppositions inconsistent with 83 the original foundations of the theory. Thus those who
+assert the Atomic Theory, reconcile it with facts by
+taking the halves of atoms; and thus the Theory of Integrant Molecules was maintained for Fluor Spar, by
+representing the elementary octahedrons of which crystals are built up, as touching each other only by the
+edges. The contact of surface with surface amongst
+integrant molecules had been the first basis of the
+theory; but this supposition being here inapplicable,
+was replaced by one which made the theory no longer
+a representation of the facts (the cleavages), but a
+mere geometrical construction. Although, however,
+the inapplicability of the theory to such cases was thus,
+in some degree, disguised to the disciples of Haüy, it
+was plain that, in the face of such difficulties, the
+Theory of Integrant Molecules could not hold its place
+as a philosophical truth. But it still answered the
+purpose (a very valuable one, and one to which crystallography is much indebted,) of an instrument for calculating the geometrical relations of the parts of crystals
+to each other: for the integrant molecules were supposed to be placed layer above layer, each layer as we
+ascend, decreasing by a certain number of molecules
+and rows of molecules; and the calculation of these
+laws of decrement was, in fact, the best mode then
+known of determining the positions of the faces. The
+Theory of Decrements served to express and to determine, in a great number of the most obvious cases, the
+laws of phenomena in crystalline forms, though the
+Theory of Integrant Molecules could not be maintained
+as a just view of the structure of crystals.
+3. The Theory of Integrant Molecules, however, involved this just and important principle: that a true
+view of the intimate structure of crystals must include
+and explain the facts of crystallization, that is, crystalline form and cleavage; and that it must take these
+into account, according to their degree of Symmetry.
+So far all theories concerning the elements of crystals
+must agree. And it was soon seen that this was, in
+reality, all that had been established by the investigations of Haüy and his school. I have already, in the 84 History, quoted Weiss’s reflections on making this
+step. ‘When in 1809,’ he says5, ‘I published my
+Dissertation, I shared the common opinion as to the
+necessity of the assumption, and the reality of the existence of a primitive form, at least in a sense not very
+different from the usual sense of the expression.’ He
+then proceeds to relate that he sought a ground for
+such an opinion, independent of the doctrine of Atoms,
+which he, in common with a great number of philosophers of that time in his own country, was disposed to
+reject, inclining to believe that the properties of bodies
+were determined by Forces which acted in them, and
+not by Molecules of which they were composed. He
+adds, that in pursuing this train of thought, he found,
+‘that out of his Primitive Forms there was gradually
+unfolded to his hands that which really governs them,
+and is not affected by their casual fluctuations; namely,
+the Fundamental Relations of their Dimensions,’ or as
+we now may call them, Axes of Symmetry. With
+reference to these Axes, he found, as he goes on to say,
+that ‘a multiplicity of internal Oppositions, necessarily
+and mutually interdependent, are developed in the
+crystalline mass, each Relation having its own Polarity;
+so that the Crystalline Character is co-extensive with
+these Polarities.’ The character of these polarities,
+whether manifested in crystalline faces, cleavage, or
+any other incidents of crystallization, is necessarily displayed in the degree and kind of Symmetry which the
+crystal possesses: and thus this Symmetry, in all our
+speculations concerning the structure of crystals, necessarily takes the place of that enumeration of Primitive
+Forms which were rejected as inconsistent with observed
+facts, and destitute of sound scientific principle.</div></body></text></TEI>

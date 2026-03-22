@@ -1,0 +1,516 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Chemical History of a Candle</title><author>Faraday, Michael (1791-1867)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1848</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="lecture" n="7">LECTURE ON PLATINUM.
+[Delivered before the ROYAL INSTITUTION, on Friday, February 22,
+1861.]
+Whether I was to have the honour of appearing before you this evening or
+not, seemed to be doubtful upon one or two points. One of these I will
+mention immediately; the other may or may not appear during the course of
+the hour that follows. The first point is this. When I was tempted to
+promise this subject for your attention this evening, it was founded upon
+a promise, and a full intent of performing that promise, on the part of my
+friend Deville, of Paris, to come here to shew before you a phenomenon in
+metallurgic chemistry not common. In that I have been disappointed. His
+intention was to have fused here some thirty or forty pounds of platinum,
+and so to have made manifest, through my mouth and my statement, the
+principles of a new process in metallurgy, in relation to this beautiful,
+magnificent, and valuable metal; but circumstances over which neither he
+nor I, nor others concerned, have sufficient control, have prevented the
+fulfilment of that intention; and the period at which I learned the fact
+was so recent, that I could hardly leave my place here to be filled by
+another, or permit you, who in your kindness have come to hear what might
+be said, to remain unreceived in the best manner possible to me under the
+circumstances. I therefore propose to state, as well as I can, what the
+principles are on which M. Deville proceeds, by means of drawings, and
+some subordinate or inferior experiments. The metal platinum, of which you
+see some very fine specimens on the table, has been known to us about a
+hundred years. It has been wrought in a beautiful way in this country, in
+France, and elsewhere, and supplied to the consumer in ingots of this
+kind, or in plates, such as we have here, or in masses, that by their very
+fall upon the table indicate the great weight of the substance, which is,
+indeed, nearly at the head of all substances in that respect. This
+substance has been given to us hitherto mainly through the philosophy of
+Dr. Wollaston, whom many of us know, and it is obtained in great purity
+and beauty. It is a very remarkable metal in many points, besides its
+known special uses. It usually comes to us in grains. Here is a very fine
+specimen of native platinum in grains. Here is also a nugget or ingot, and
+here are some small pieces gathered out of certain alluvial soils in
+Brazil, Mexico, California, and the Uralian districts of Russia.
+It is strange that this metal is almost always found associated with some
+four or five other metals, most curious in their qualities and
+characteristics. They are called platiniferous metals; and they have not
+only the relation of being always found associated in this manner, but
+they have other relations of a curious nature, which I shall point out to
+you by a reference to one of the tables behind me. This substance is
+always native—it is always in the metallic state; and the metals with
+which it is found connected, and which are rarely found elsewhere, are
+palladium, rhodium, iridium, osmium, and ruthenium. We have the names in
+one of the tables arranged in two columns, representing, as you see, two
+groups—platinum, iridium, and osmium constituting one group; and
+ruthenium, rhodium, and palladium the other. Three of these have the
+chemical equivalent of 98½, and the others a chemical equivalent of
+about half that number. Then the metals of one group have an extreme
+specific gravity—platinum being, in fact, the lightest of the three, or
+as light as the lightest. Osmium has a specific gravity of 21.4, and is
+the heaviest body in nature; platinum is 21.15, and iridium the same; the
+specific gravity of the other three being only about half that, namely,
+11.3, 12.1, and 11.8. Then there is this curious relation, that palladium
+and iridium are very much alike, so that you would scarcely know one from
+the other, though one has only half the weight of the other, and only half
+the equivalent power. So with iridium and rhodium, and osmium and
+ruthenium, which are so closely allied that they make pairs, being
+separated each from its own group. Then these metals are the most
+infusible that we possess. Osmium is the most difficult to fuse: indeed, I
+believe it never has been fused, while every other metal has. Ruthenium
+comes next, iridium next, rhodium next, platinum next (so that it ranks
+here as a pretty fusible metal, and yet we have been long accustomed to
+speak of the infusibility of platinum), and next comes palladium, which is
+the most fusible metal of the whole. It is a curious thing to see this
+fine association of physical properties coming out in metals which are
+grouped together somehow or other in nature, but, no doubt, by causes
+which are related to analogous properties in their situation on the
+surface of the earth, for it is in alluvial soils that these things are
+found.
+Now, with regard to this substance, let me tell you briefly how we get it.
+The process used to be this. The ore which I shewed you just now was
+taken, and digested in nitro-muriatic acid of a certain strength, and
+partly converted into a solution, with the leaving behind of certain
+bodies that I have upon the table.  The platinum being dissolved with care
+in acids, to the solution the muriate of ammonia was added, as I am about
+to add it here. A yellow precipitate was then thrown down, as you perceive
+is the case now; and this, carefully washed and cleansed, gave us that
+body [pointing to a specimen of the chloride of platinum and ammonium],
+the other elements, or nearly all, being ejected.  This substance being
+heated, gave us what we call platinum sponge, or platinum in the metallic
+state, so finely divided as to form a kind of heavy mass or sponge, which,
+at the time that Dr. Wollaston first sent it forth, was not fusible for
+the market or in the manufacturers’ workshops, inasmuch as the temperature
+required was so high, and there were no furnaces that could bring the mass
+into a globule, and cause the parts to adhere together. Most of our metals
+that we obtain from nature, and work in our shops, are brought at last
+into a mass by fusion.  I am not aware that there is in the arts or
+sciences any other than iron which is not so.  Soft iron we do not bring
+together by fusion, but by a process which is analogous to the one that
+was followed in the case of platinum, namely, welding; for these divided
+grains of spongy platinum having been well washed and sunk in water for
+the purpose of excluding air, and pressed together, and heated, and
+hammered, and pressed again, until they come into a pretty close, dense,
+compact mass, did so cohere, that when the mass was put into the furnace
+of charcoal, and raised to a high temperature, the particles, at first
+infinitely divided—for they were chemically divided—adhered the one to
+the other, each to all the rest, until they made that kind of substance
+which you see here, which will bear rolling and expansion of every kind.
+No other process than that has hitherto been adopted for the purpose of
+obtaining this substance from the particles by solution, precipitation,
+ignition, and welding. It certainly is a very fine thing to see that we
+may so fully depend upon the properties of the various substances we have
+to deal with; that we can, by carrying out our processes, obtain a
+material like this, allowing of division and extension under a rolling
+mill—a material of the finest possible kind, the parts being held
+together, not with interstices, not with porosity, but so continuous that
+no fluids can pass between them; and, as Dr. Wollaston beautifully shewed,
+a globule of platinum fused by the voltaic battery and the oxyhydrogen
+blowpipe, when drawn into a wire, was not sounder or stronger than this
+wire made by the curious coalescence of the particles by the sticking
+power that they had at high temperatures. This is the process adopted by
+Messrs. Johnson and Matthey, to whose great kindness I am indebted for
+these ingots and for the valuable assistance I have received in the
+illustrations.
+The treatment, however, that I have to bring before you is of another
+kind; and it is in the hope that we shall be able before long to have such
+a thing as the manufacture of platinum of this kind, that I am encouraged
+to come before you, and tell you how far Deville has gone in the matter,
+and to give you illustrations of the principles on which he proceeds. I
+think it is but fair that you should see an experiment shewing you the way
+in which we get the adhesion of platinum. Probably you all know of the
+welding of iron: you go into the smith’s shop, and you see him put the
+handle of a poker on to the stem, and by a little management and the
+application of heat he makes them one.  You have no doubt seen him put the
+iron into the fire and sprinkle a little sand upon it.  He does not know
+the philosophy he calls into play when he sprinkles a little sand over the
+oxide of iron, but he has a fine philosophy there, or practises it, when
+he gets his welding. I can shew you here this beautiful circumstance of
+the sticking together of the particles up to the fullest possible
+intensity of their combination. If you were to go into the workshops of
+Mr. Matthey, and see them hammering and welding away, you would see the
+value of the experiment I am about to shew you. I have here some
+platinum-wire.  This is a metal which resists the action of acids, resists
+oxidation by heat, and change of any sort; and which, therefore, I may
+heat in the atmosphere without any flux. I bend the wire so as to make the
+ends cross: these I make hot by means of the blowpipe, and then, by giving
+them a tap with a hammer, I shall make them into one piece. Now that the
+pieces are united, I shall have great difficulty in pulling them apart,
+though they are joined only at the point where the two cylindrical
+surfaces came together. And now I have succeeded in pulling the wire
+apart, the division is not at the point of welding, but where the force of
+the pincers has cut it, so that the junction we have effected is a
+complete one. This, then, is the principle of the manufacture and
+production of platinum in the old way.
+The treatment which Deville proposes to carry out, and which he has
+carried out to a rather large extent in reference to the Russian supply of
+platinum, is one altogether by heat, having little or no reference to the
+use of acids. That you may know what the problem is, look at this table,
+which gives you the composition of such a piece of platinum ore as I
+shewed you just now. Wherever it comes from, the composition is as
+complicated, though the proportions vary:—
+Platinum, . . . . . 76.4
+
+Iridium,. . . . . .  4.3
+
+Rhodium,. . . . . .  0.3
+
+Palladium,. . . . .  1.4
+
+Gold, . . . . . . .  0.4
+
+Copper, . . . . . .  4.1
+
+Iron, . . . . . . . 11.7
+
+Osmide of Iridium,.  0.5
+
+Sand, . . . . . . .  1.4
+
+                   —————
+
+                   100.5
+
+This refers to the Uralian ore. In that state of combination, as shewn in
+the table, the iridium and osmium are found combined in crystals,
+sometimes to the amount of 0.5 per cent., and sometimes 3 or 4 per cent.
+Now, this Deville proposes to deal with in the dry way, in the place of
+dealing with it by any acid.
+I have here another kind of platinum; and I shew it to you for this
+reason. The Russian Government, having large stores of platinum in their
+dominions, have obtained it in a metallic state, and worked it into coin.
+The coin I have in my hand is a twelve silver rouble piece. The rouble is
+worth three shillings, and this coin is, therefore, of the value of
+thirty-six shillings. The smaller coin is worth half that sum; and the
+other, half of that. The metal, however, is unfit for coinage. When you
+have the two metals, gold and silver, used for coinage, you have a little
+confusion in the value of the two in the market; but when you have three
+precious metals (for you may call platinum a precious metal) worked into
+coin, they will be sure to run counter to one another. Indeed, the case
+did happen, that the price of platinum coin fixed by the Government was
+such, that it was worth while to purchase platinum in other countries, and
+make coin of it, and then take it into that country and circulate it. The
+result was, that the Russian Government stopped the issue. The composition
+of this coin is—platinum, 97.0; iridium, 1.2; rhodium, 0.5; palladium,
+0.25; a little copper, and a little iron. It is, in fact, bad platinum: it
+scales, and it has an unfitness for commercial use and in the laboratory,
+which the other well-purified platinum has not. It wants working over
+again.
+Now, Deville’s process depends upon three points,—upon intense heat,
+blowpipe action, and the volatility of certain metals. We know that there
+are plenty of metals that are volatile; but this, I think, is the first
+time that it has been proposed to use the volatility of certain
+metals—such as gold and palladium—for the purpose of driving them off
+and leaving something else behind. He counts largely upon the volatility
+of metals which we have not been in the habit of considering volatile, but
+which we have rather looked upon as fixed; and I must endeavour to
+illustrate these three points by a few experiments. Perhaps I can best
+show you what is required in the process of heating platinum by using that
+source of heat which we have here, and which seems to be almost
+illimitable—namely, the voltaic battery; for it is only in consequence of
+the heat that the voltaic battery affects the platinum. By applying the
+two extremities of the battery to this piece of platinum-wire, you will
+see what result we shall obtain. You perceive that we can take about this
+heating agent wherever we like, and deal with it as we please, limiting it
+in any way. I am obliged to deal carefully with it; but even that
+circumstance will have an interest for you in watching the experiment.
+Contact is now made. The electric current, when compressed into thin
+conducting-wires offering resistance, evolves heat to a large extent; and
+this is the power by which we work. You see the intense glow immediately
+imparted to the wire; and if I applied the heat continuously, the effect
+of the current would be to melt the wire. As soon as the contact is
+broken, the wire resumes its former appearance; and now that we make
+contact again, you perceive the glow as before. [The experiment was
+repeated several times in rapid succession.] You can see a line of light,
+though you can scarcely perceive the wire; and now that it has melted with
+the great heat, if you examine it, you will perceive that it is indeed a
+set of irregularities from end to end—a set of little spheres, which are
+strung upon an axis of platinum running through it. It is that wire which
+Mr. Grove described as being produced at the moment when fusion of the
+whole mass is commencing. In the same manner, if I take a tolerably thick
+piece of platinum, and subject it to the heat that can be produced by this
+battery, you will see the brilliancy of the effect produced. I shall put
+on a pair of spectacles for the experiment, as there is an injurious
+effect of the voltaic spark upon the eyes, if the action is continued; and
+it is neither policy nor bravery to subject any organ to unnecessary
+danger; and I want, at all events, to keep the full use of my eyes to the
+end of the lecture.
+You now see the action of the heat upon the piece of platinum—heat so
+great as to break in pieces the plate on which the drops of metal fall.
+You perceive, then, that we have sufficiently powerful sources of heat in
+nature to deal with platinum. I have here an apparatus by which the same
+thing can be shewn. Here is a piece of platinum, which is put into a
+crucible of carbon made at the end of one pole of the battery, and you
+will see the brilliant light that will be produced. There is our furnace,
+and the platinum is rapidly getting heated; and now you perceive that it
+is melted, and throwing off little particles. What a magnificent
+philosophical instrument this is. When you look at the result, which is
+lying upon the charcoal, you will see a beautifully fused piece of
+platinum. It is now a fiery globule, with a surface so bright, and smooth,
+and reflecting, that I cannot tell whether it is transparent, or opaque,
+or what. This, then, will give you an idea of what has to be done by any
+process that pretends to deal with thirty, or forty, or fifty pounds of
+platinum at once.
+Let me now tell you briefly what Deville proposes to do. First of all, he
+takes this ore, with its impurities, and mixes it (as he finds it
+essential and best) with its own weight of sulphuret of lead—lead
+combined with sulphur. Both the lead and the sulphur are wanted; for the
+iron that is there present, as you see by the table, is one of the most
+annoying substances in the treatment that you can imagine, because it is
+not volatile; and while the iron remains adhering to the platinum, the
+platinum will not flow readily. It cannot be sent away by a high
+temperature—sent into the atmosphere so as to leave the platinum behind.
+Well, then, a hundred parts of ore and a hundred parts of sulphuret of
+lead, with about fifty parts of metallic lead, being all mingled together
+in a crucible, the sulphur of the sulphuret takes the iron, the copper,
+and some of the other metals and impurities, and combines with them to
+form a slag; and as it goes on boiling and oxidising, it carries off the
+iron, and so a great cleansing takes place.
+Now, you ought to know that these metals, such as platinum, iridium, and
+palladium, have a strong affinity for such metals as lead and tin, and
+upon this a great deal depends. Very much depends upon the platinum
+throwing out its impurities of iron and so forth, by being taken up with
+the lead present in it. That you may have a notion of the great power that
+platinum has of combining with other metals, I will refer you to a little
+of the chemist’s experience—his bad experience. He knows very well that
+if he takes a piece of platinum-foil, and heats a piece of lead upon it,
+or if he takes a piece of platinum-foil, such as we have here, and heats
+things upon it that have lead in them, his platinum is destroyed. I have
+here a piece of platinum, and if I apply the heat of the spirit-lamp to
+it, in consequence of the presence of this little piece of lead which I
+will place on it, I shall make a hole in the metal. The heat of the lamp
+itself would do no harm to the platinum, nor would other chemical means;
+but because there is a little lead present, and there is an affinity
+between the two substances, the bodies fuse together at once. You see the
+hole I have made. It is large enough to put your finger in, though the
+platinum itself was, as you saw, almost infusible, except by the voltaic
+battery. For the purpose of shewing this fact in a more striking manner, I
+have taken pieces of platinum-foil, tinfoil, and lead-foil, and rolled
+them together; and if I apply the blowpipe to them, you will have, in
+fact, a repetition on a larger scale of the experiment you saw just now
+when the lead and platinum came together, and one spoiled the other. When
+the metals are laid one upon the other, and folded together and heat
+applied, you will not only see that the platinum runs to waste, but that
+at the time when the platinum and lead are combined there is ignition
+produced—there is a power of sustaining combustion. I have taken a large
+piece, that you may see the phenomenon on a large scale. You saw the
+ignition and the explosion which followed, of which we have here the
+results—the consequence of the chemical affinity between the platinum and
+the metals combined with it, which is the thing upon which Deville founds
+his first result.
+When he has melted these substances and stirred them well up, and so
+obtained a complete mixture, he throws in air upon the surface to burn off
+all the sulphur from the remaining sulphuret of lead; and at last he gets
+an ingot of lead with platinum—much lead, comparatively, and little
+platinum. He gets that in the crucible with a lot of scoriæ and other
+things, which he treats afterwards. It is that platiniferous lead which we
+have to deal with in our future process. Now, let me tell you what he does
+with it. His first object is to get rid of the lead. He has thrown out all
+the iron, and a number of other things, and he has got this kind of
+compound indicated in the table. He may get it as high as 78 per cent. of
+platinum, and 22 of lead; or 5, or 10, or 15 of platinum, and 95, or 90,
+or 85 of lead (which he calls weak platinum), and he then places it in the
+kind of vessel that you see before you. Suppose we had the mixture here;
+we should have to make it hot, and then throw in air upon the surface. The
+combustible metal—that is, the lead—and the part that will oxidise, are
+thoroughly oxidised; the litharge would flow out in a fused state into a
+vessel placed to receive it, and the platinum remains behind.
+[Illustration: Fig. 36.]
+Here is the process which Deville adopts for the purpose of casting off
+the lead, after he has got out the platinum from the ore. (Having made use
+of your friend, you get rid of him as quickly as you can.) He gets his
+heat by applying the combination of oxygen and hydrogen, or of carburetted
+fuel, for the purpose of producing a fire. I have here a source of
+coal-gas; there I have a source of hydrogen; and here I have a source of
+oxygen. I have here also one of the blowpipes used by Deville in his
+process for working platinum in the way I have spoken of. There are two
+pipes, and one of them goes to the source of coal-gas, and the other to
+the supply of oxygen.
+[Illustration: Fig. 37.]
+By uniting these we obtain a flame of such a heat as to melt platinum. You
+will, perhaps, hardly imagine what the heat is, unless you have some proof
+of it; but you will soon see that I have actually the power of melting
+platinum. Here is a piece of platinum-foil running like wax under the
+flame which I am bringing to bear against it. The question, however, is
+whether we shall get heat enough to melt, not this small quantity, but
+large masses—many pounds of the metal. Having obtained heat like this,
+the next consideration is what vessel is he to employ which could retain
+the platinum when so heated, or bear the effects of the flame?  Such
+vessels are happily well supplied at Paris, and are formed of a substance
+which surrounds Paris; it is a kind of chalk (called, I believe, by
+geologists, calcaire grossière), and it has the property of enduring an
+extreme degree of heat. I am now going to get the highest heat that we can
+obtain. First, I shew you the combustion of hydrogen by itself. I have not
+a large supply, because the coal-gas is sufficient for most of our
+purposes. If I put a piece of lime obtained from this chalk into the gas,
+you see we get a pretty hot flame, which would burn one’s fingers a good
+deal But now let me subject a piece of it to the joint action of oxygen
+and hydrogen. I do this for the purpose of shewing you the value of lime
+as a material for the furnaces and chambers that are to contain the
+substances to be operated on, and that are consequently to sustain the
+action of this extreme heat. Here we have the hydrogen and the oxygen,
+which will give the most intense heat that can be obtained by chemical
+action; and if I put a piece of lime into the flame, we get what is called
+the lime-light. Now, with all the beauty and intensity of action which you
+perceive, there is no sensible deterioration of the lime except by the
+mechanical force of the current of gases rushing from the jet against the
+lime, sweeping away such particles as are not strongly aggregated. “Vapour
+of lime” some call it; and it may be so, but there is no other change of
+the lime than that under the action of heat of this highly-exalted
+chemical condition, though almost any other substance would melt at once.
+Then, as to the way in which the heat is applied to the substance. It is
+all very well for me to take a piece of antimony, and fuse it in the flame
+of a blowpipe. But if I tried this piece in the ordinary lamp flame, I
+should do nothing; if I tried a smaller piece, I should do little or
+nothing; and if I tried a still smaller piece, I should do little or
+nothing; yet I have a condition which will represent what Deville carries
+to the highest possible extent, and which we all carry to the highest
+extent, in the use of the blowpipe. Suppose I take this piece of antimony:
+I shall not be able to melt it in that flame of the candle by merely
+holding it there; yet, by taking pains, we can even melt a piece of
+platinum there. This is a preparation which I made for the purpose of
+proving the fusibility of platinum in a common candle. There is a piece of
+wire, drawn by that ingenious process of Dr. Wollaston’s, not more than
+the three-thousandth part of an inch in diameter. He put the wire into the
+middle of a cylinder of silver, and drew both together until the whole
+compound was exceedingly thin; and then he dissolved away the silver by
+nitric acid. There was left in the centre a substance which I can scarcely
+see with an eye-glass, but which I know is there, and which I can make
+visible, as you see, by putting it into the candle, where the heat makes
+it glow like a spark. I have again and again tried this experiment
+up-stairs in my own room, and have easily fused this platinum-wire by a
+common candle. You see we have, therefore, heat enough in the candle, as
+in the voltaic battery, or in the highly-exalted combustion of the
+blowpipe, but we do not supply a continuous source of heat. In the very
+act of this becoming ignited, the heat radiates so fast that you cannot
+accumulate enough to cause the fusion of the wire, except under the most
+careful arrangement. Thus I cannot melt that piece of antimony by simply
+putting it into the candle; but if I put it upon charcoal, and drive the
+fiery current against it, there will be heat enough to melt it. The beauty
+of the blowpipe is, that it sends hot air (making hot air by the
+combustion of the flame) against the thing to be heated. I have only to
+hold the antimony in the course of that current, and particle by particle
+of the current impinges upon the antimony, and so we get it melted. You
+now see it red-hot, and I have no doubt it will continue to burn if I
+withdraw it from the flame and continue to force the air on it. Now, you
+see it burning without any heat but that of its own combustion, which I am
+keeping up by sending the air against it. It would go out in a moment if I
+took away the current of air from it; but there it is burning, and the
+more air I give it, by this or any other action, the better it is. So,
+then, we have here not merely a mighty source of heat, but a means of
+driving the heat forcibly against substances.
+Let me shew you another experiment with a piece of iron. It will serve two
+purposes—shewing you what the blowpipe does as a source of heat, and what
+it does by sending that heat where it is wanted. I have taken iron in
+contrast with silver or other metals, that you may see the difference of
+action, and so be more interested in the experiment. Here is our fuel, the
+coal-gas; and here our oxygen. Having thus my power of heat, I apply it to
+the iron, which, as you see, soon gets red-hot. It is now flowing about
+like a globule of melted mercury. But observe, I cannot raise any vapour:
+it is now covered with a coat of melted oxide, and unless I have a great
+power in my blowpipe, it is hardly possible to break through it. Now,
+then, you see these beautiful sparks: you have not only a beautiful kind
+of combustion, but you see the iron is being driven off, not producing
+smoke, but burning in a fixed condition. How different this is from the
+action of some other metals—that piece of antimony, for instance, which
+we saw just now throwing off abundance of fumes. We can, of course, burn
+away this iron by giving plenty of air to it; but with the bodies which
+Deville wants to expose to this intense heat he has not that means: the
+gas itself must have power enough to drive off the slag which forms on the
+surface of the metal, and power to impinge upon the platinum so as to get
+the full contact that he wants for the fusion to take place. We see here,
+then, the means to which he resorts—oxygen, and either coal-gas or
+water-gas[19], or pure hydrogen, for producing heat, and the blowpipe for
+the purpose of impelling the heated current upon the metals.
+I have two or three rough drawings here, representing the kind of furnaces
+which he employs. They are larger, however, than the actual furnaces he
+uses. Even the furnace in which he carries on that most serious operation
+of fusing fifty pounds of platinum at once is not much more than half the
+size of the drawing. It is made of a piece of lime below and a piece of
+lime above. You see how beautifully lime sustains heat without altering in
+shape; and you may have thought how beautifully it prevents the
+dissipation of the heat by its very bad conducting powers.
+[Illustration: Fig. 38]
+While the front part of the lime which you saw here was so highly ignited,
+I could at any moment touch the back of it without feeling any annoyance
+from the heat So, by having a chamber of lime of this sort, he is able to
+get a vessel to contain these metals with scarcely any loss of heat. He
+puts the blowpipes through these apertures, and sends down these gases
+upon the metals, which are gradually melted. He then puts in more metal
+through a hole at the top. The results of the combustion issue out of the
+aperture which you see represented. If there be strips of platinum, he
+pushes them through the mouth out of which the heated current is coming,
+and there they get red-hot and white-hot before they get into the bath of
+platinum. So he is able to fuse a large body of platinum in this manner.
+When the platinum is melted, he takes off the top and pours out from the
+bottom piece, like a crucible, and makes his cast. This is the furnace by
+which he fuses his forty pounds or fifty pounds of platinum at once. The
+metal is raised to a heat that no eye can bear. There is no light and
+shadow, no chiaro-oscuro there; all is the same intensity of glow. You
+look in, and you cannot see where the metal or the lime is; it is all as
+one. We have, therefore, a platform with a handle, which turns upon an
+axis, that coincides with the gutter that is formed for the pouring of the
+metal; and when all is known to be ready, by means of dark glasses, the
+workmen take off the top piece and lift up the handle, and the mould being
+then placed in a proper position, he knows that the issue of the metal
+will be exactly in the line of the axis. No injury has ever happened from
+the use of this plan. You know with what care it is necessary to carry
+such a vessel of mercury as we have here, for fear of turning it over on
+one side or the other; but if it be a vessel of melted platinum, the very
+greatest care must be used, because the substance is twice as heavy: yet
+no injury has been done to any of the workmen in this operation.
+I have said that Deville depends upon intense heat for carrying off
+vapour; and this brings me to the point of shewing how vapours are carried
+off. Here is a basin of mercury, which boils easily, as you know, and
+gives us the opportunity of observing the facts and principles which are
+to guide us. I have here two poles of the battery, and if I bring them
+into contact with the mercury, see what a development of vapour we have.
+The mercury is flying off rapidly; and I might, if I pleased, put all the
+company around me in a bath of mercury vapour. And so, if we take this
+piece of lead and treat it in the same way, it will also give off vapour.
+Observe the fumes that rise from it; and even if it was so far enclosed
+from the air that you could not form any litharge, you would still have
+those abundant fumes flying off. I may also take a piece of gold, and shew
+you the same thing. I have here a piece of gold which I put upon a clean
+surface of Paris limestone. Applying the heat of the blowpipe to it, you
+see how the heat drives off the vapour; and if you notice at the end of
+the Lecture, you will observe on the stone a purple patch of condensed
+gold. Thus you see a proof of the volatilisation of gold. It is the same
+with silver. You will not be startled if I sometimes use one agent and
+sometimes another to illustrate a particular point. The volatility of gold
+and silver is the same thing, whether it be effected by the voltaic
+battery or by the blowpipe. [A lump of silver was placed in a charcoal
+crucible between the poles of a voltaic battery.] Now, look at the fumes
+of silver, and observe the peculiar and beautiful green colour which they
+produce. We shall now shew you this same process of boiling the silver,
+cast on a screen from the electric lamp which you have before you; and
+while Dr. Tyndall is kindly getting the lamp ready for this purpose, let
+me tell you that Deville proposes to throw out in this way all these
+extraneous things that I have spoken of, except two—namely, iridium and
+rhodium. It so happens, as he says, that iridium and rhodium do make the
+metal more capable of resisting the attacks of acids than platinum itself.
+Alloys are compounded up to 25 per cent. of rhodium and iridium, by which
+the chemical inaction of the platinum is increased, and also its
+malleability and other physical properties. [The image of the voltaic
+discharge through vapour of silver was now thrown upon the screen.] What
+you have now on the screen is an inverted image of what you saw when we
+heated the silver before. The fine stream that you see around the silver
+is the discharge of the electric force that takes place, giving you that
+glorious green light which you see in the ray; and if Dr. Tyndall will
+open the top of the lamp, you will see the quantity of fumes that will
+come out of the aperture, shewing you at once the volatility of silver.
+I have now finished this imperfect account. It is but an apology for not
+having brought the process itself before you. I have done the best I could
+under the circumstances; and I know your kindness well, for if I were not
+aware that I might trust to it, I would not appear here so often as I have
+done. The gradual loss of memory and of my other faculties is making
+itself painfully evident to me, and requires, every time I appear before
+you, the continued remembrance of your kindness to enable me to get
+through my task. If I should happen to go on too long, or should fail in
+doing what you might desire, remember it is yourselves who are chargeable,
+by wishing me to remain. I have desired to retire, as I think every man
+ought to do before his faculties become impaired; but I must confess that
+the affection I have for this place, and for those who frequent this
+place, is such, that I hardly know when the proper time has arrived.</div></body></text></TEI>

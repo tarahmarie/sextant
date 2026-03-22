@@ -1,0 +1,744 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="38">CHAPTER VI.
+The Instruments and Aids of Astronomy during the
+Newtonian Period.
+
+Sect. 1.—Instruments.
+SOME instruments or other were
+employed at all periods of astronomical observation. But it was only
+when observation had attained a considerable degree of delicacy, that
+the exact construction of instruments became an object of serious
+care. Gradually, as the possibility and the value of increased
+exactness became manifest, it was seen that every thing which could
+improve the astronomer’s instruments was of high importance to him.
+And hence in some cases a vast increase of size and of expense was
+introduced; in other cases new combinations, or the result of
+improvements in other sciences, were brought into play. Extensive
+knowledge, intense thought, and great ingenuity, were requisite in the
+astronomical instrument maker. Instead of ranking with artisans, he
+became a man of science, sharing the honor and dignity of the
+astronomer himself.
+1. Measure of Angles.—Tycho Brahe was the first
+astronomer who acted upon a due appreciation of the importance of good
+instruments. The collection of such at Uraniburg was by far the finest
+which had ever existed. He endeavored to give steadiness to the frame,
+and accuracy to the divisions of his instruments. His Mural Quadrant
+was well adapted for this purpose; its radius was five cubits: it is
+clear, that as we enlarge the instrument we are enabled to measure
+smaller arcs. On this principle many large gnomons were
+erected. Cassini’s celebrated one in the church of St. Petronius at
+Bologna, was eighty-three feet (French) high. But this mode of
+obtaining accuracy was soon abandoned for better methods. Three great
+improvements were introduced about the same time. The application of
+the Micrometer to the telescope, by Huyghens, Malvasia, and Auzout;
+the application of the Telescope to the astronomical quadrant; and the
+fixation of the centre of its field by a Cross of fine wires placed in
+the focus by Gascoigne, and afterwards by Picard. We may judge how
+great was the improvement which these contrivances introduced into the
+art of 471
+observing, by finding that Hevelius refused to adopt them because they
+would make all the old observations of no value. He had spent a
+laborious and active life in the exercise of the old methods, and
+could not bear to think that all the treasures which he had
+accumulated had lost their worth by the discovery of a new mine of
+richer ore.
+[2d Ed.] [Littrow, in his Die Wunder des Himmels, Ed. 2, pp.
+684, 685, says that Gascoigne invented and used the telescope with
+wires in the common focus of the lenses in 1640. He refers to Phil.
+Trans. xxx. 603. Picard reinvented this arrangement in 1667. I
+have   already spoken of Gascoigne as the
+inventor of the micrometer.
+Römer (already mentioned, p. 464) brought
+into use the Transit Instrument, and the employment of complete
+Circles, instead of the Quadrants used till then; and by these means
+gave to practical astronomy a new form, of which the full value was
+not discovered till long afterwards.]
+The apparent place of the object in the instrument being so
+precisely determined by the new methods, the exact Division of the arc
+into degrees and their subdivisions became a matter of great
+consequence. A series of artists, principally English, have acquired
+distinguished places in the lists of scientific fame by their
+performances in this way; and from that period, particular instruments
+have possessed historical interest and individual reputation. Graham
+was one of the first of these artists. He executed a great Mural Arc
+for Halley at Greenwich; for Bradley he constructed the Sector which
+detected aberration. He also made the Sector which the French
+academicians carried to Lapland; and probably the goodness of this
+instrument, compared with the imperfection of those which were sent to
+Peru, was one main cause of the great difference of duration in the
+two series of observations. Bird, somewhat later121 (about 1750),
+divided several Quadrants for public observatories. His method of
+dividing was considered so perfect, that the knowledge of it was
+purchased by the English government, and published in 1767. Ramsden
+was equally celebrated. The error of one of his best Quadrants (that
+at Padua) is said to be never greater than two seconds. But at a later
+period, Ramsden constructed Mural Circles only, holding this to be a
+kind of instrument far superior to the quadrant. He made one of five
+feet diameter, in 1788, for M. Piazzi at Palermo; and one of eight
+feet for the observatory of Dublin. Troughton, a worthy successor of
+the 472 artists we
+have mentioned, has invented a method of dividing the circle still
+superior to the former ones; indeed, one which is theoretically
+perfect, and practically capable of consummate accuracy. In this way,
+circles have been constructed for Greenwich, Armagh, Cambridge, and
+many other places; and probably this method, carefully applied, offers
+to the astronomer as much exactness as his other implements allow him
+to receive; but the slightest casualty happening to such an
+instrument, after it has been constructed, or any doubt whether the
+method of graduation has been rightly applied, makes it unfit for the
+jealous scrupulosity of modern astronomy.
+121 Mont. iv. 337.
+The English artists sought to attain accurate measurements by
+continued bisection and other aliquot subdivision of the limb of their
+circle; but Mayer proposed to obtain this end otherwise, by
+repeating the measure on different parts of the circumference
+till the error of the division becomes unimportant, instead of
+attempting to divide an instrument without error. This invention of
+the Repeating Circle was zealously adopted by the French, and the
+relative superiority of the rival methods is still a matter of
+difference of opinion.
+[2d Ed.] [In the series of these great astronomical mechanists, we
+must also reckon George Reichenbach. He was born Aug. 24, 1772, at
+Durlach; became Lieutenant of Artillery in the Bavarian service in
+1794; (Salinenrath) Commissioner of Salt-works in 1811; and in 1820,
+First Commissioner of Water-works and Roads. He became, with
+Fraunhofer, the ornament of the mechanical and optical Institute
+erected in 1805 at Benedictbeuern by Utzschneider; and his
+astronomical instruments, meridian circles, transit instruments,
+equatorials, heliometers, make an epoch in Observing Astronomy. His
+contrivances in the Salt-works at Berchtesgaden and Reichenhall, in
+the Arms Manufactory at Amberg, and in the works for boring cannon at
+Vienna, are enduring monuments of his rare mechanical talent. He died
+May 21, 1826, at Munich.]
+2. Clocks.—The improvements in the
+measures of space require corresponding improvements in the measure of
+time. The beginning of any thing which we can call accuracy, in this
+subject, was the application of the Pendulum to clocks, by Huyghens,
+in 1656. That the successive oscillations of a pendulum occupy equal
+times, had been noticed by Galileo; but in order to take advantage of
+this property, the pendulum must be connected with machinery by which
+its motion is kept from languishing, and by which the number of its
+swings is recorded. By inventing such machinery, Huyghens at once
+obtained 473 a
+measure of time more accurate than the sun itself. Hence astronomers
+were soon led to obtain the right ascension of a star, not directly,
+by measuring a Distance in the heavens, but indirectly, by observing
+the Moment of its Transit. This observation is now made with a degree
+of accuracy which might, at first sight, appear beyond the limits of
+human sense, being noted to a tenth of a second of time: but we
+may explain this, by remarking that though the number of the second at
+which the transit happens is given by the clock, and is reckoned
+according to the course of time, the subdivision of the second of time
+into smaller fractions is performed by the eye,—by seeing the
+space described by the heavenly body in a whole second, and hence
+estimating a smaller time, according to the space which its
+description occupies.
+But in order to make clocks so accurate as to justify this degree
+of precision, their construction was improved by various persons in
+succession. Picard soon found that Huyghens’ clocks were affected in
+their going by temperature, for heat caused expansion of the metallic
+pendulum. This cause of error was remedied by combining different
+metals, as iron and copper, which expand in a different degree, in
+such a way that their effects compensate each other. Graham afterwards
+used quicksilver for the same purpose. The Escapement too
+(which connects the force which impels the clock with the pendulum
+which regulates it), and other parts of the machinery, had the most
+refined mechanical skill and ingenuity of the best artists constantly
+bestowed upon then. The astronomer of the present day, constantly
+testing the going of such a clock by the motions of the fixed stars,
+has a scale of time as stable and as minutely exact as the scales on
+which he measures distance.
+The construction of good Watches, that is, portable or marine
+clocks, was important on another account, namely, because they might
+be used in determining the longitude of places. Hence the improvement
+of this little machine became an object of national interest, and was
+included in the reward of 20,000l., which we have already noticed as offered by the English parliament for
+the discovery of the longitude. Harrison,122 originally a
+carpenter, turned his mind to this subject with success. After thirty
+years of labor, in which he was encouraged by many eminent persons, he
+produced, in 1758, a time-keeper, which was sent on a voyage to
+Jamaica for trial. After 161 days, the error 474 of the watch was only one minute five
+seconds, and the artist received from the nation 5000l. At a
+later period,123 at the age of seventy-five years,
+after a life devoted to this object, having still further satisfied
+the commissioners, he received, in 1765, 10,000l., at the same
+time that Euler and the heirs of Mayer received each 3000l. for
+the lunar tables which they had constructed.
+122 Mont. iv. 554.
+123 Mont. iv. 560.
+The two methods of finding the longitude, by Chronometers and by
+Lunar Observations, have solved the problem for all practical
+purposes; but the latter could not have been employed at sea without
+the aid of that invaluable instrument, the Sextant, in which the
+distance of two objects is observed, by bringing one to coincide
+apparently with the reflected image of the other. This instrument was
+invented by Hadley, in 1731. Though the problem of finding the
+longitude be, in fact, one of geography rather than astronomy, it is
+an application of astronomical science which has so materially
+affected the progress of our knowledge, that it deserves the notice we
+have bestowed upon it.
+3. Telescopes.—We have spoken of the application of
+the telescope to astronomical measurements, but not of the improvement
+of the telescope itself. If we endeavor to augment the optical power
+of this instrument, we run, according to the path we take, into
+various inconveniences;—distortion, confusion, want of light, or
+colored images. Distortion and confusion are produced, if we increase
+the magnifying power, retaining the length and the aperture of the
+object-glass. If we diminish the aperture we suffer from loss of
+light. What remains then is to increase the focal length. This was
+done to an extraordinary extent, in telescopes constructed in the
+beginning of the last century. Huyghens, in his first attempts, made
+them 22 feet long;124 afterwards, Campani, by order of Louis
+the Fourteenth, made them of 86, 100, and 136 feet. Huyghens, by new
+exertions, made a telescope 210 feet long. Auzout and Hartsoecker are
+said to have gone much further, and to have succeeded in making an
+object-glass of 600 feet focus. But even such telescopes as those of
+Campani are almost unmanageable: in that of Huyghens, the object-glass
+was placed on a pole, and the observer was placed at the focus with an
+eye-glass.
+124 Bailly, ii. 253.
+The most serious objection to the increase of the aperture of
+object-glasses, was the coloration of the image produced, in
+consequence of the unequal refrangibility of differently colored rays.
+Newton, who discovered the principle of this defect in lenses, had
+maintained that 475
+the evil was irremediable, and that a compound lens could no more
+refract without producing color, than a single lens could. Euler and
+Klingenstierna doubted the exactness of Newton’s proposition; and, in
+1755, Dollond disproved it by experiment. This discovery pointed out a
+method of making object-glasses which should give no
+color;—which should be achromatic. For this purpose
+Dollond fabricated various kinds of glass (flint and crown glass); and
+Clairaut and D’Alembert calculated formulæ. Dollond and his son125 succeeded in constructing telescopes
+of three feet long (with a triple object-glass) which produced an
+effect as great as those of forty-five feet on the ancient principles.
+At first it was conceived that these discoveries opened the way to a
+vast extension of the astronomer’s power of vision; but it was found
+that the most material improvement was the compendious size of the new
+instruments; for, in increasing the dimensions, the optician was
+stopped by the impossibility of obtaining lenses of flint-glass of
+very large dimensions. And this branch of art remained long
+stationary; but, after a time, its epoch of advance again arrived. In
+the present century, Fraunhofer, at Munich, with the help of Guinand
+and the pecuniary support of Utzschneider, succeeded in forming lenses
+of flint-glass of a magnitude till then unheard of. Achromatic
+object-glasses, of a foot in diameter, and twenty feet focal length,
+are now no longer impossible; although in such attempts the artist
+cannot reckon on certain success.
+125 Bailly, iii. 118.
+[2d Ed.] [Joseph Fraunhofer was born March 6, 1787, at Straubing in
+Bavaria, the son of a poor glazier. He was in his earlier years
+employed in his father’s trade, so that he was not able to attend
+school, and remained ignorant of writing and arithmetic till his
+fourteenth year. At a later period he was assisted by Utzschneider,
+and tried rapidly to recover his lost ground. In the year 1806 he
+entered the establishment of Utzschneider as an optician. In this
+establishment (transferred from Benedictbeuern to Munich in 1819) he
+soon came to be the greatest Optician of Germany. His excellent
+telescopes and microscopes are known throughout Europe. His greatest
+telescope, that in the Observatory at Dorpat, has an object-glass of 9
+inches diameter, and a focal length of 13⅓ feet. His written
+productions are to be found in the Memoirs of the Bavarian
+Academy, in Gilbert’s Annalen der Physik, and in Schumacher’s
+Astronomische Nachrichten. He died the 7th of June, 1826.]
+476
+Such telescopes might be expected to add something to our knowledge
+of the heavens, if they had not been anticipated by reflectors of an
+equal or greater scale. James Gregory had invented, and Newton had
+more efficaciously introduced, reflecting telescopes. But these were
+not used with any peculiar effect, till the elder Herschel made them
+his especial study. His skill and perseverance in grinding specula,
+and in contriving the best apparatus for their use, were rewarded by a
+number of curious and striking discoveries, among which, as we have already related, was the discovery of a new planet
+beyond Saturn. In 1789, Herschel surpassed all his former attempts, by
+bringing into action a reflecting telescope of forty feet length, with
+a speculum of four feet in diameter. The first application of this
+magnificent instrument showed a new satellite (the sixth) of Saturn.
+He and his son have, with reflectors of twenty feet, made a complete
+survey of the heavens, so far as they are visible in this country; and
+the latter is now in a distant region completing this survey, by
+adding to it the other hemisphere.
+In speaking of the improvements of telescopes we ought to notice,
+that they have been pursued in the eye-glasses as well as in the
+object-glasses. Instead of the single lens, Huyghens substituted an
+eye-piece of two lenses, which, though introduced for another purpose,
+attained the object of destroying color.126 Ramsden’s
+eye-piece is one fit to be used with a micrometer, and others of more
+complex construction have been used for various purposes. ~Additional
+material in the 3rd edition.~
+126 Coddington’s Optics, ii.
+21.
+Sect. 2.—Observatories.
+Astronomy, which is thus benefited by the
+erection of large and stable instruments, requires also the
+establishment of permanent Observatories, supplied with funds for
+their support, and for that of the observers. Such observatories have
+existed at all periods of the history of the science; but from the
+commencement of the period which we are now reviewing, they multiplied
+to such an extent that we cannot even enumerate them. Yet we must
+undoubtedly look upon such establishments, and the labors of which
+they have been the scene, as important and essential parts of the
+history of the progress of astronomy. Some of the most distinguished
+of the observatories of modern times we may mention. The first of
+these were that of Tycho Brahe 477 at Uraniburg, and that of the Landgrave
+of Hesse Cassel, at Cassel, where Rothman and Byrgius observed. But by
+far the most important observations, at least since those of Tycho,
+which were the basis of the discoveries of Kepler and Newton, have
+been made at Paris and Greenwich. The Observatory of Paris was built
+in 1667. It was there that the first Cassini made many of his
+discoveries; three of his descendants have since labored in the same
+place, and two others of his family, the Maraldis;127 besides many other eminent
+astronomers, as Picard, La Hire, Lefêvre, Fouchy, Legentil, Chappe,
+Méchain, Bouvard. Greenwich Observatory was built a few years later
+(1675); and ever since its erection, the observations there made have
+been the foundation of the greatest improvements which astronomy, for
+the time, received. Flamsteed, Halley, Bradley, Bliss, Maskelyne,
+Pond, have occupied the place in succession: on the retirement of the
+last-named astronomer in 1835, Professor Airy was removed thither from
+the Cambridge Observatory. In every state, and in almost every
+principality in Europe, Observatories have been established; but these
+have often fallen speedily into inaction, or have contributed little
+to the progress of astronomy, because their observations have not been
+published. From the same causes, the numerous private observatories
+which exist throughout Europe have added little to our knowledge,
+except where the attention of the astronomer has been directed to some
+definite points; as, for instance, the magnificent labors of the
+Herschels, or the skilful observations made by Mr. Pond with the
+Westbury circle, which first pointed out the error of graduation of
+the Greenwich quadrants. The Observations, now regularly published,128 are those of Greenwich, begun by
+Maskelyne, and continued quarterly by Mr. Pond; those of Königsberg,
+published by Bessel since 1814; of Vienna, by Littrow since 1820; of
+Speier, by Schwerd since 1826; those of Cambridge, commenced by Airy
+in 1828; of Armagh, by Robinson in 1829. Besides these, a number of
+useful observations have been published in journals and occasional
+forms; as, for instance, those of Zach, made by Seeberg, near Gotha,
+since 1788; and others have been employed in forming catalogues, of
+which we shall speak shortly.
+127 Mont. iv. 346.
+128 Airy, Rep. p. 128.
+[2d Ed.] [I have left the statement of published Observations in
+the text as it stood originally. I believe that at present (1847) the
+twelve places contained in the following list publish their
+Observations quite regularly, or nearly so;—Greenwich, Oxford,
+Cambridge, Vienna, 478 Berlin, Dorpat, Munich, Geneva, Paris,
+Königsberg, Madras, the Cape of Good Hope.
+Littrow, in his translation, adds to the publications noticed in
+the text as containing astronomical Observations, Zach’s Monatliche
+Correspondenz, Lindenau and Bohnenberger’s Zeitschrift für
+Astronomie, Bode’s Astronomisches Jahrbuch, Schumacher’s
+Astronomische Nachrichten.]
+Nor has the establishment of observatories been confined to Europe.
+In 1786, M. de Beauchamp, at the expense of Louis the Sixteenth,
+erected an observatory at Bagdad, “built to restore the Chaldean and
+Arabian observations,” as the inscription stated; but, probably, the
+restoration once effected, the main intention had been fulfilled, and
+little perseverance in observing was thought necessary. In 1828, the
+British government completed the building of an observatory at the
+Cape of Good Hope, which Lacaille had already made an astronomical
+station by his observations there at an earlier period (1750); and an
+observatory formed in New South Wales by Sir T. M. Brisbane in 1822,
+and presented by him to the government, is also in activity. The East
+India Company has founded observatories at Madras, Bombay, and St.
+Helena; and observations made at the former of these places, and at
+St. Helena, have been published.
+The bearing of the work done at such observatories upon the past
+progress of astronomy, has already been seen in the preceding
+narrative. Their bearing upon the present condition of the science
+will be the subject of a few remarks hereafter.
+Sect. 3.—Scientific Societies.
+The influence of Scientific Societies, or
+Academical Bodies, has also been very powerful in the subject before
+us. In all branches of knowledge, the use of such associations of
+studious and inquiring men is great; the clearness and coherence of a
+speculator’s ideas, and their agreement with facts (the two main
+conditions of scientific truth), are severally but beneficially tested
+by collision with other minds. In astronomy, moreover, the vast extent
+of the subject makes requisite the division of labor and the support
+of sympathy. The Royal Societies of London and of Paris were founded
+nearly at the same time as the metropolitan Observatories of the two
+countries. We have seen what constellations of philosophers, and what
+activity of research, existed at those periods; these philosophers
+appear in the lists, their discoveries 479 in the publications, of the
+above-mentioned eminent Societies. As the progress of physical
+science, and principally of astronomy, attracted more and more
+admiration, Academies were created in other countries. That of Berlin
+was founded by Leibnitz in 1710; that of St Petersburg was established
+by Peter the Great in 1725; and both these have produced highly
+valuable Memoirs. In more modern times these associations have
+multiplied almost beyond the power of estimation. They have been
+formed according to divisions, both of locality and of subject,
+conformable to the present extent of science, and the vast population
+of its cultivators. It would be useless to attempt to give a view
+either of their number or of the enormous mass of scientific
+literature which their Transactions present. But we may notice, as
+especially connected with our present subject, the Astronomical
+Society of London, founded in 1820, which gave a strong impulse to the
+pursuit of the science in England.
+Sect. 4.—Patrons of Astronomy.
+The advantages which letters and philosophy
+derive from the patronage of the great have sometimes been questioned;
+that love of knowledge, it has been thought, cannot be genuine which
+requires such stimulation, nor those speculations free and true which
+are thus forced into being. In the sciences of observation and
+calculation, however, in which disputed questions can be
+experimentally decided, and in which opinions are not disturbed by
+men’s practical principles and interests, there is nothing necessarily
+operating to poison or neutralize the resources which wealth and power
+supply to the investigation of truth.
+Astronomy has, in all ages, flourished under the favor of the rich
+and powerful; in the period of which we speak, this was eminently the
+case. Louis the Fourteenth gave to the astronomy of France a
+distinction which, without him, it could not have attained. No step
+perhaps tended more to this than his bringing the celebrated Dominic
+Cassini to Paris. This Italian astronomer (for he was born at
+Permaldo, in the county of Nice, and was professor at Bologna), was
+already in possession of a brilliant reputation, when the French
+ambassador, in the name of his sovereign, applied to Pope Clement the
+Ninth, and to the senate of Bologna, that he should be allowed to
+remove to Paris. The request was granted only so far as an absence of
+six years; but at the end of that time, the benefits and honors which
+480 the king had
+conferred upon him, fixed him in France. The impulse which his arrival
+(in 1669) and his residence gave to astronomy, showed the wisdom of
+the measure. In the same spirit, the French government drew to Paris
+Römer from Denmark, Huyghens from Holland, and gave a pension to
+Hevelius, and a large sum when his observatory at Dantzic had been
+destroyed by fire in 1679.
+When the sovereigns of Prussia and Russia were exerting themselves
+to encourage the sciences in their countries, they followed the same
+course which had been so successful in France. Thus, as we have said, the Czar Peter took Delisle to Petersburg
+in 1725; the celebrated Frederick the Great drew to Berlin, Voltaire
+and Maupertuis, Euler and Lagrange; and the Empress Catharine obtained
+in the same way Euler, two of the Bernoulli’s, and other
+mathematicians. In none of these instances, however, did it happen
+that “the generous plant did still its stock renew,” as we have seen
+was the case at Paris, with the Cassinis, and their kinsmen the
+Maraldis.
+[2d Ed.] [I may notice among instances of the patronage of
+Astronomy, the reward at present offered by the King of Denmark for
+the discovery of a Comet.]
+It is not necessary to mention here the more recent cases in which
+sovereigns or statesmen have attempted to patronize individual
+astronomers.
+Sect. 5.—Astronomical Expeditions.
+Besides the pensions thus bestowed upon
+resident mathematicians and astronomers, the governments of Europe
+have wisely and usefully employed considerable sums upon expeditions
+and travels undertaken by men of science for some appropriate object.
+Thus Picard, in 1671, was sent to Uraniburg, the scene of Tycho’s
+observations, to determine its latitude and its longitude. He found
+that “the City of the Skies” had utterly disappeared from the earth;
+and even its foundations were retraced with difficulty. With the same
+object, that of accurately connecting the labors of the places which
+had been at different periods the metropolis of astronomy, Chazelles
+was sent, in 1693, to Alexandria. We have already mentioned Richer’s
+astronomical expedition to Cayenne in 1672. Varin and Deshayes129 were sent a few years later into the
+same regions for similar purposes. Halley’s expedition to St. 481 Helena in 1677, with
+the view of observing the southern stars, was at his own expense; but
+at a later period (in 1698), he was appointed to the command of a
+small vessel by King William the Third, in order that he might make
+his magnetical observations in all parts of the world. Lacaille was
+maintained by the French government four years at the Cape of Good
+Hope (1750–4), for the purpose of observing the stars of the
+southern hemisphere. The two transits of Venus in 1761 and 1769,
+occasioned expeditions to be sent to Kamtschatka and Tobolsk by the
+Russians; to the Isle of France, and to Coromandel, by the French;130 to the isles of St. Helena and
+Otaheite by the English; to Lapland and to Drontheim, by the Swedes
+and Danes. I shall not here refer to the measures of degrees executed
+by various nations, still less the innumerable surveys by land and
+sea; but I may just notice the successive English expeditions of
+Captains Basil Hall, Sabine, and Foster, for the purpose of
+determining the length of the seconds’ pendulum in different
+latitudes; and the voyages of M. Biot and others, sent by the French
+government for the same purpose. Much has been done in this way, but
+not more than the progress of astronomy absolutely required; and only
+a small portion of that which the completion of the subject calls
+for.
+129 Bailly, ii. 374.
+130 Bailly, iii. 107.
+Sect. 6.—Present State of Astronomy.
+Astronomy, in its present condition, is not
+only much the most advanced of the sciences, but is also in far more
+favorable circumstances than any other science for making any future
+advance, as soon as this is possible. The general methods and
+conditions by which such an advantage is to be obtained for the
+various sciences, we shall endeavor hereafter to throw some light
+upon; but in the mean time, we may notice here some of the
+circumstances in which this peculiar felicity of the present state of
+astronomy may be traced.
+The science is cultivated by a number of votaries, with an
+assiduity and labor, and with an expenditure of private and public
+resources, to which no other subject approaches; and the mode of its
+cultivation in all public and most private observatories, has this
+character—that it forms, at the same time, a constant process of
+verification of existing discoveries, and a strict search for any new
+discoverable laws. The observations made are immediately referred to
+the best tables, and 482 corrected by the best formulæ which are
+known; and if the result of such a reduction leaves any thing
+unaccounted for, the astronomer is forthwith curious and anxious to
+trace this deviation from the expected numbers to its rule and its
+origin; and till the first, at least, of these things is performed, he
+is dissatisfied and unquiet. The reference of observations to the
+state of the heavens as known by previous researches, implies a great
+amount of calculation. The exact places of the stars at some standard
+period are recorded in Catalogues; their movements, according
+to the laws hitherto detected, are arranged in Tables; and if
+these tables are applied to predict the numbers which observation on
+each day ought to give, they form Ephemerides. Thus the
+catalogues of fixed stars of Flamsteed, of Piazzi, of Maskelyne, of
+the Astronomical Society, are the basis of all observation. To these
+are applied the Corrections for Refraction of Bradley or Bessel, and
+those for Aberration, for Nutation, for Precession, of the best modern
+astronomers. The observations so corrected enable the observer to
+satisfy himself of the delicacy and fidelity of his measures of time
+and space; his Clocks and his Arcs. But this being done, different
+stars so observed can be compared with each other, and the astronomer
+can then endeavor further to correct his fundamental
+Elements;—his Catalogue, or his Tables of Corrections. In these
+Tables, though previous discovery has ascertained the law, yet the
+exact quantity, the constant or coefficient of the
+formula, can be exactly fixed only by numerous observations and
+comparisons. This is a labor which is still going on, and in which
+there are differences of opinion on almost every point; but the amount
+of these differences is the strongest evidence of the certainty and
+exactness of those doctrines in which all agree. Thus Lindenau makes
+the coefficient of Nutation rather less than nine seconds, which other
+astronomers give as about nine seconds and three-tenths. The Tables of
+Refraction are still the subject of much discussion, and of many
+attempts at improvement. And after or amid these discussions, arise
+questions whether there be not other corrections of which the law has
+not yet been assigned. The most remarkable example of such questions
+is the controversy concerning the existence of an Annual Parallax of
+the fixed stars, which Brinkley asserted, and which Pond denied. Such
+a dispute between two of the best modern observers, only proves that
+the quantity in question, if it really exist, is of the same order as
+the hitherto unsurmounted errors of instruments and corrections.
+[2d Ed.] [The belief in an appreciable parallax of some of the
+fixed 483 stars
+appears to gain ground among astronomers. The parallax of 61
+Cygni, as determined by Bessel, is 0″·34; about one-third of a
+second, or 1⁄10000 of a degree. That of
+α Centauri, as determined by Maclear, is 0″·9, or 1⁄4000 of a
+degree.]
+But besides the fixed stars and their corrections, the astronomer
+has the motions of the planets for his field of action. The
+established theories have given us tables of these, from which their
+daily places are calculated and given in our Ephemerides, as the
+Berliner Jahrbuch of Encke, or the Nautical Almanac,
+published by the government of this country, the Connaissance des
+Tems which appears at Paris, or the Effemeridi di Milano.
+The comparison of the observed with the tabular place, gives us the
+means of correcting the coefficients of the tables; and thus of
+obtaining greater exactness in the constants of the solar system. But
+these constants depend upon the mass and form of the bodies of which
+the system is composed; and in this province, as well as in sidereal
+astronomy, different determinations, obtained by different paths, may
+be compared; and doubts may be raised and may be solved. In this way,
+the perturbations produced by Jupiter on different planets gave rise
+to a doubt whether his attraction be really proportional to his mass,
+as the law of universal gravitation asserts. The doubt has been solved
+by Nicolai and Encke in Germany, and by Airy in England. The mass of
+Jupiter, as shown by the perturbations of Juno, of Vesta, and of
+Encke’s Comet, and by the motion of his outermost Satellite, is found
+to agree, though different from the mass previously received on the
+authority of Laplace. Thus also Burckhardt, Littrow, and Airy, have
+corrected the elements of the Solar Tables. In other cases, the
+astronomer finds that no change of the coefficients will bring the
+Tables and the observations to a coincidence;—that a new term in
+the formula is wanting. He obtains, as far as he can, the law of this
+unknown term; if possible, he traces it to some known or probable
+cause. Thus Mr. Airy, in his examination of the Solar Tables, not only
+found that a diminution of the received mass of Mars was necessary,
+but perceived discordances which led him to suspect the existence of a
+new inequality. Such an inequality was at length found to result
+theoretically from the attraction of Venus. Encke, in his examination
+of his comet, found a diminution of the periodic time in the
+successive revolutions; from which he inferred the existence of a
+resisting medium. Uranus still deviates from his tabular place, and
+the cause remains yet to be discovered. (But see the Additions to this volume.) 484
+Thus it is impossible that an assertion, false to any amount which
+the existing state of observation can easily detect, should have any
+abiding prevalence in astronomy. Such errors may long keep their
+ground in any science which is contained mainly in didactic works, and
+studied in the closet, but not acted upon elsewhere;—which is
+reasoned upon much, but brought to the test of experiment rarely or
+never. Here, on the contrary, an error, if it arise, makes its way
+into the Tables, into the Ephemeris, into the observer’s nightly List,
+or his sheet of Reductions; the evidence of sense flies in its face in
+a thousand observatories; the discrepancy is traced to its source, and
+soon disappears forever.
+In this favored branch of knowledge, the most recondite and
+delicate discoveries can no more suffer doubt or contradiction, than
+the most palpable facts of sense which the face of nature offers to
+our notice. The last great discovery in astronomy—the motion of
+the stars arising from Aberration—is as obvious to the vast
+population of astronomical observers in all parts of the world, as the
+motion of the stars about the pole is to the casual night wanderer.
+And this immunity from the danger of any large error in the received
+doctrines, is a firm platform on which the astronomer can stand and
+exert himself to reach perpetually further and further into the region
+of the unknown.
+The same scrupulous care and diligence in recording all that has
+hitherto been ascertained, has been extended to those departments of
+astronomy in which we have as yet no general principles which serve to
+bind together our acquired treasures. These records may be considered
+as constituting a Descriptive Astronomy; such are, for
+instance, Catalogues of Stars, and Maps of the Heavens, Maps of the
+Moon, representations of the appearance of the Sun and Planets as seen
+through powerful telescopes, pictures of Nebulæ, of Comets, and the
+like. Thus, besides the Catalogue of Fundamental Stars which may be
+considered as standard points of reference for all observations of the
+Sun, Moon, and Planets, there exist many large catalogues of smaller
+stars. Flamsteed’s Historia Celestis, which much surpassed any
+previous catalogue, contained above 3000 stars. But in 1801, the
+French Histoire Céleste appeared, comprising observations of
+50,000 stars. Catalogues or charts of other special portions of the
+sky have been published more recently; and in 1825, the Berlin Academy
+proposed to the astronomers of Europe to carry on this work by
+portioning out the heavens among them.
+[2d Ed.] [Before Flamsteed, the best Catalogue of the Stars was
+485 Tycho Brahe’s,
+containing the places of about 1000 stars, determined very roughly
+with the naked eye. On the occasion of a project of finding the
+longitude, which was offered to Charles II., in 1674, Flamsteed
+represented that the method was quite useless, in consequence, among
+other things, of the inaccuracy of Tycho’s places of the stars.
+Flamsteed’s letters being shown King Charles, he was startled at the
+assertion of the fixed stars’ places being false in the Catalogue, and
+said, with some vehemence, “He must have them anew observed, examined,
+and corrected for the use of his seamen.” This was the immediate
+occasion of building Greenwich Observatory, and placing Flamsteed
+there as an observer. Flamsteed’s Historia Celestis contained
+above 3000 stars, observed with telescopic sights. It has recently
+been republished with important improvements by Mr. Baily. See Baily’s
+Flamsteed, p. 38.
+The French Histoire Céleste was published in 1801 by
+Lalande, containing 50,000 stars, simply as observed by himself and
+other French astronomers. The reduction of the observations contained
+in this Catalogue to the mean places at the beginning of the year 1800
+may be effected by means of Tables published by Schumacher for that
+purpose in 1825.
+In 1807, Piazzi’s Catalogue of 6748 stars, founded on Maskelyne’s
+Catalogue of 1700, was published; afterwards extended to 7646 stars in
+1814. This is considered as the greatest work undertaken by any modern
+astronomer; the observations being well made, reduced, and compared
+with those of former astronomers. Piazzi’s Catalogue is the standard
+and accurate Catalogue, as the Histoire Céleste is the standard
+approximate Catalogue for small stars. But the new planets were
+discovered mostly by a comparison of the heavens with Bode’s (Berlin)
+Catalogue.
+I may mention other Catalogues of Stars which have recently been
+published. Pond’s Catalogue contains 1112 Northern stars; Johnson’s,
+606; Wrottesley’s, 1318 (in Right Ascension only); Airy’s First
+Cambridge Catalogue, 726; his Greenwich Catalogue, 1439. Pearson’s has
+520 zodiacal stars; Groombridge’s, 4243 circumpolar stars as far as 50
+degrees of North Polar distance; Santini’s, a zone 18 degrees North of
+the equator. Besides these, Mr. Taylor has published, by order of the
+Madras government, a Catalogue of 11,000 stars observed by him at
+Madras; and Rumker, who observed in the Observatory established by Sir
+Thomas Brisbane at Paramatta (in Australia), has commenced a Catalogue
+which is to contain 12,000. Mr. Baily 486 published two Standard Catalogues; that
+of the Royal Astronomical Society, containing 2881 stars; and that of
+the British Association, containing 8377 stars. I omit other
+Catalogues, as those of Argelander, &c., and Catalogues of
+Southern Stars.
+Of the Berlin Maps, fourteen hours in Right Ascension have been
+published; and their value may be judged of by this circumstance, that
+it was in a great measure by comparing the heavens with these Maps
+that the new planet Astræa was discovered. The Zone observations made
+at Königsberg, by the late illustrious astronomer Bessel, deserve to
+be mentioned, as embracing a vast number of stars.
+The common mode of designating the Stars is founded upon the
+ancient constellations as given by Ptolemy; to which Bayer, of
+Augsburg, in his Uranometria, added the artifice of designating
+the brightest stars in each constellation by the Greek letters, α, β,
+γ, &c., applied in order of brightness, and when these were
+exhausted, the Latin letters. Flamsteed used numbers. As the number of
+observed stars increased, various methods were employed for
+designating them; and the confusion which has been thus introduced,
+both with regard to the boundaries of the constellations and the
+nomenclature of the stars in each, has been much complained of lately.
+Some attempts have been made to remedy this variety and disorder. Mr.
+Argelander has recently recorded stars, according to their magnitudes
+as seen by the naked eye, in a Neue Uranometrie.
+Among representations of the Moon I may mention Hevelius’s
+Selenographia, a work of former times, and Beer and Madler’s
+Map of the Moon, recently published.]
+I have already said something of the
+observations of the two Herschels on Double Stars, which have
+led to a knowledge of the law of the revolution of such systems. But
+besides these, the same illustrious astronomers have accumulated
+enormous treasures of observations of Nebulæ; the materials, it
+may be, hereafter, of some vast new generalization with respect to the
+history of the system of the universe.
+[2d Ed.] [A few measures of Double Stars are to be found in
+previous astronomical records. But the epoch of the creation of this
+part of the science of astronomy must be placed at the beginning of
+the present century, when Sir William Herschel (in 1802) published in
+the Phil. Trans. a Catalogue of 500 new Nebulæ of various
+classes, and in the Phil. Trans. 1803, a paper “On the changes
+in the relative situation of the Double Stars in 25 years.” In
+succeeding papers he pursued the subject. In one in 1814 he noticed
+the breaking up of the 487 Milky Way in different places,
+apparently from some principle of Attraction; and in this, and in one
+in 1817, he published those remarkable views on the distribution of
+the stars in our own cluster as forming a large stratum, and on the
+connection of stars and nebulæ (the stars appearing sometimes to be
+accompanied by nebulæ, sometimes to have absorbed a part of the
+nebula, and sometimes to have been formed from nebulæ), which have
+been accepted and propounded by others as the Nebular Theory.
+Sir William Herschel’s last paper was a Catalogue of 145 new Double
+Stars communicated to the Astronomical Society in 1822. In 1827 M.
+Struve, of Dorpat (in Russia), published his Catalogus Novus,
+containing the places of 3112 double stars. While this was going on,
+Sir John Herschel and Sir James South published (in the Phil.
+Trans. 1824) accurate measures of 380 Double and Triple Stars, to
+which Sir J. South afterwards added 458. Mr. Dunlop published measures
+of 253 Southern Double Stars. Other Observations have been published
+by Capt. Smyth, Mr. Dawes, &c. The great work of Struve,
+Mensuræ Micrometricæ, &c., contains 3134 such objects,
+including most of Sir W. Herschel’s Double Stars. Sir J. Herschel in
+1826, 7, and 8 presented to the Astronomical Society about 1000
+measures of Double Stars; and in 1830, good measures of 1236, made
+with his 20-feet reflector. His paper in vol. v. of the Ast. Soc.
+Mem., besides measures of 364 such stars, exhibits all the most
+striking results, as to the motion of Double Stars, which have yet
+been obtained. In 1835 he carried his 20-feet reflector to the Cape of
+Good Hope for the purpose of completing the survey of Double Stars and
+Nebulæ in the southern hemisphere with the same instruments which had
+explored the northern skies. He returned from the Cape in 1838, and is
+now (1846) about to give the world the results of his labors. Besides
+the stars just mentioned, his work will contain from 1500 to 2000
+additional double stars; making a gross number of above 8000; in which
+of course are included a number of objects of no great scientific
+interest, but in which also are contained the materials of the most
+important discoveries which remain to be made by astronomers. The
+publication of Sir John Herschel’s great work upon Double Stars and
+Nebulæ is looked for with eager interest by astronomers.
+Of the observations of Nebulæ we may say what has just been said of
+the observations of Double Stars;—that they probably contain the
+materials of important future discoveries. It is impossible not to
+regard these phenomena with reference to the Nebular
+Hypothesis, which has been propounded by Laplace, and much more
+strongly 488
+insisted upon by other persons;—namely, the hypothesis that
+systems of revolving planets, of which the Solar System is an example,
+arise from the gradual contraction and separation of vast masses of
+nebulous matter. Yet it does not appear that any changes have been
+observed in nebulæ which tend to confirm this hypothesis; and the most
+powerful telescope in the world, recently erected by the Earl of
+Rosse, has given results which militate against the hypothesis;
+inasmuch as it has shown that what appeared a diffused nebulous mass
+is, by a greater power of vision, resolved, in all cases yet examined,
+into separate stars.
+When astronomical phenomena are viewed with reference to the
+Nebular Hypothesis, they do not belong so properly to Astronomy, in
+the view here taken of it, as to Cosmogony. If such speculations
+should acquire any scientific value, we shall have to arrange them
+among those which I have called Palætiological Sciences;
+namely, those Sciences which contemplate the universe, the earth, and
+its inhabitants, with reference to their historical changes and the
+causes of those changes.]
+
+
+ADDITIONS TO THE THIRD EDITION.
+</div></body></text></TEI>

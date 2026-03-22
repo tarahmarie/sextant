@@ -1,0 +1,432 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An Essay Concerning Human Understanding</title><author>Locke, John (1632-1704)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1690</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="2">
+
+THE EPISTLE TO THE READER
+READER,
+
+I have put into thy hands what has been the diversion of some of my idle and
+heavy hours. If it has the good luck to prove so of any of thine, and thou hast
+but half so much pleasure in reading as I had in writing it, thou wilt as
+little think thy money, as I do my pains, ill bestowed. Mistake not this for a
+commendation of my work; nor conclude, because I was pleased with the doing of
+it, that therefore I am fondly taken with it now it is done. He that hawks at
+larks and sparrows has no less sport, though a much less considerable quarry,
+than he that flies at nobler game: and he is little acquainted with the subject
+of this treatise—the UNDERSTANDING—who does not know that, as it is
+the most elevated faculty of the soul, so it is employed with a greater and
+more constant delight than any of the other. Its searches after truth are a
+sort of hawking and hunting, wherein the very pursuit makes a great part of the
+pleasure. Every step the mind takes in its progress towards Knowledge makes
+some discovery, which is not only new, but the best too, for the time at least.
+
+
+For the understanding, like the eye, judging of objects only by its own sight,
+cannot but be pleased with what it discovers, having less regret for what has
+escaped it, because it is unknown. Thus he who has raised himself above the
+alms-basket, and, not content to live lazily on scraps of begged opinions, sets
+his own thoughts on work, to find and follow truth, will (whatever he lights
+on) not miss the hunter’s satisfaction; every moment of his pursuit will reward
+his pains with some delight; and he will have reason to think his time not ill
+spent, even when he cannot much boast of any great acquisition.
+
+
+This, Reader, is the entertainment of those who let loose their own thoughts,
+and follow them in writing; which thou oughtest not to envy them, since they
+afford thee an opportunity of the like diversion, if thou wilt make use of thy
+own thoughts in reading. It is to them, if they are thy own, that I refer
+myself: but if they are taken upon trust from others, it is no great matter
+what they are; they are not following truth, but some meaner consideration; and
+it is not worth while to be concerned what he says or thinks, who says or
+thinks only as he is directed by another. If thou judgest for thyself I know
+thou wilt judge candidly, and then I shall not be harmed or offended, whatever
+be thy censure. For though it be certain that there is nothing in this Treatise
+of the truth whereof I am not fully persuaded, yet I consider myself as liable
+to mistakes as I can think thee, and know that this book must stand or fall
+with thee, not by any opinion I have of it, but thy own. If thou findest little
+in it new or instructive to thee, thou art not to blame me for it. It was not
+meant for those that had already mastered this subject, and made a thorough
+acquaintance with their own understandings; but for my own information, and the
+satisfaction of a few friends, who acknowledged themselves not to have
+sufficiently considered it.
+
+
+Were it fit to trouble thee with the history of this Essay, I should tell thee,
+that five or six friends meeting at my chamber, and discoursing on a subject
+very remote from this, found themselves quickly at a stand, by the difficulties
+that rose on every side. After we had awhile puzzled ourselves, without coming
+any nearer a resolution of those doubts which perplexed us, it came into my
+thoughts that we took a wrong course; and that before we set ourselves upon
+inquiries of that nature, it was necessary to examine our own abilities, and
+see what OBJECTS our understandings were, or were not, fitted to deal with.
+This I proposed to the company, who all readily assented; and thereupon it was
+agreed that this should be our first inquiry. Some hasty and undigested
+thoughts, on a subject I had never before considered, which I set down against
+our next meeting, gave the first entrance into this Discourse; which having
+been thus begun by chance, was continued by intreaty; written by incoherent
+parcels; and after long intervals of neglect, resumed again, as my humour or
+occasions permitted; and at last, in a retirement where an attendance on my
+health gave me leisure, it was brought into that order thou now seest it.
+
+
+This discontinued way of writing may have occasioned, besides others, two
+contrary faults, viz., that too little and too much may be said in it. If thou
+findest anything wanting, I shall be glad that what I have written gives thee
+any desire that I should have gone further. If it seems too much to thee, thou
+must blame the subject; for when I put pen to paper, I thought all I should
+have to say on this matter would have been contained in one sheet of paper; but
+the further I went the larger prospect I had; new discoveries led me still on,
+and so it grew insensibly to the bulk it now appears in. I will not deny, but
+possibly it might be reduced to a narrower compass than it is, and that some
+parts of it might be contracted, the way it has been writ in, by catches, and
+many long intervals of interruption, being apt to cause some repetitions. But
+to confess the truth, I am now too lazy, or too busy, to make it shorter. I am
+not ignorant how little I herein consult my own reputation, when I knowingly
+let it go with a fault, so apt to disgust the most judicious, who are always
+the nicest readers. But they who know sloth is apt to content itself with any
+excuse, will pardon me if mine has prevailed on me, where I think I have a very
+good one. I will not therefore allege in my defence, that the same notion,
+having different respects, may be convenient or necessary to prove or
+illustrate several parts of the same discourse, and that so it has happened in
+many parts of this: but waiving that, I shall frankly avow that I have
+sometimes dwelt long upon the same argument, and expressed it different ways,
+with a quite different design. I pretend not to publish this Essay for the
+information of men of large thoughts and quick apprehensions; to such masters
+of knowledge I profess myself a scholar, and therefore warn them beforehand not
+to expect anything here, but what, being spun out of my own coarse thoughts, is
+fitted to men of my own size, to whom, perhaps, it will not be unacceptable
+that I have taken some pains to make plain and familiar to their thoughts some
+truths which established prejudice, or the abstractedness of the ideas
+themselves, might render difficult. Some objects had need be turned on every
+side; and when the notion is new, as I confess some of these are to me; or out
+of the ordinary road, as I suspect they will appear to others, it is not one
+simple view of it that will gain it admittance into every understanding, or fix
+it there with a clear and lasting impression. There are few, I believe, who
+have not observed in themselves or others, that what in one way of proposing
+was very obscure, another way of expressing it has made very clear and
+intelligible; though afterwards the mind found little difference in the
+phrases, and wondered why one failed to be understood more than the other. But
+everything does not hit alike upon every man’s imagination. We have our
+understandings no less different than our palates; and he that thinks the same
+truth shall be equally relished by every one in the same dress, may as well
+hope to feast every one with the same sort of cookery: the meat may be the
+same, and the nourishment good, yet every one not be able to receive it with
+that seasoning; and it must be dressed another way, if you will have it go down
+with some, even of strong constitutions. The truth is, those who advised me to
+publish it, advised me, for this reason, to publish it as it is: and since I
+have been brought to let it go abroad, I desire it should be understood by
+whoever gives himself the pains to read it. I have so little affection to be in
+print, that if I were not flattered this Essay might be of some use to others,
+as I think it has been to me, I should have confined it to the view of some
+friends, who gave the first occasion to it. My appearing therefore in print
+being on purpose to be as useful as I may, I think it necessary to make what I
+have to say as easy and intelligible to all sorts of readers as I can. And I
+had much rather the speculative and quick-sighted should complain of my being
+in some parts tedious, than that any one, not accustomed to abstract
+speculations, or prepossessed with different notions, should mistake or not
+comprehend my meaning.
+
+
+It will possibly be censured as a great piece of vanity or insolence in me, to
+pretend to instruct this our knowing age; it amounting to little less, when I
+own, that I publish this Essay with hopes it may be useful to others. But, if
+it may be permitted to speak freely of those who with a feigned modesty condemn
+as useless what they themselves write, methinks it savours much more of vanity
+or insolence to publish a book for any other end; and he fails very much of
+that respect he owes the public, who prints, and consequently expects men
+should read, that wherein he intends not they should meet with anything of use
+to themselves or others: and should nothing else be found allowable in this
+Treatise, yet my design will not cease to be so; and the goodness of my
+intention ought to be some excuse for the worthlessness of my present. It is
+that chiefly which secures me from the fear of censure, which I expect not to
+escape more than better writers. Men’s principles, notions, and relishes are so
+different, that it is hard to find a book which pleases or displeases all men.
+I acknowledge the age we live in is not the least knowing, and therefore not
+the most easy to be satisfied. If I have not the good luck to please, yet
+nobody ought to be offended with me. I plainly tell all my readers, except half
+a dozen, this Treatise was not at first intended for them; and therefore they
+need not be at the trouble to be of that number. But yet if any one thinks fit
+to be angry and rail at it, he may do it securely, for I shall find some better
+way of spending my time than in such kind of conversation. I shall always have
+the satisfaction to have aimed sincerely at truth and usefulness, though in one
+of the meanest ways. The commonwealth of learning is not at this time without
+master-builders, whose mighty designs, in advancing the sciences, will leave
+lasting monuments to the admiration of posterity: but every one must not hope
+to be a Boyle or a Sydenham; and in an age that produces such masters as the
+great Huygenius and the incomparable Mr. Newton, with some others of that
+strain, it is ambition enough to be employed as an under-labourer in clearing
+the ground a little, and removing some of the rubbish that lies in the way to
+knowledge;—which certainly had been very much more advanced in the world,
+if the endeavours of ingenious and industrious men had not been much cumbered
+with the learned but frivolous use of uncouth, affected, or unintelligible
+terms, introduced into the sciences, and there made an art of, to that degree
+that Philosophy, which is nothing but the true knowledge of things, was thought
+unfit or incapable to be brought into well-bred company and polite
+conversation. Vague and insignificant forms of speech, and abuse of language,
+have so long passed for mysteries of science; and hard and misapplied words,
+with little or no meaning, have, by prescription, such a right to be mistaken
+for deep learning and height of speculation, that it will not be easy to
+persuade either those who speak or those who hear them, that they are but the
+covers of ignorance, and hindrance of true knowledge. To break in upon the
+sanctuary of vanity and ignorance will be, I suppose, some service to human
+understanding; though so few are apt to think they deceive or are deceived in
+the use of words; or that the language of the sect they are of has any faults
+in it which ought to be examined or corrected, that I hope I shall be pardoned
+if I have in the Third Book dwelt long on this subject, and endeavoured to make
+it so plain, that neither the inveterateness of the mischief, nor the
+prevalency of the fashion, shall be any excuse for those who will not take care
+about the meaning of their own words, and will not suffer the significancy of
+their expressions to be inquired into.
+
+
+I have been told that a short Epitome of this Treatise, which was printed in
+1688, was by some condemned without reading, because INNATE IDEAS were denied
+in it; they too hastily concluding, that if innate ideas were not supposed,
+there would be little left either of the notion or proof of spirits. If any one
+take the like offence at the entrance of this Treatise, I shall desire him to
+read it through; and then I hope he will be convinced, that the taking away
+false foundations is not to the prejudice but advantage of truth, which is
+never injured or endangered so much as when mixed with, or built on, falsehood.
+In the Second Edition I added as followeth:—
+
+
+The bookseller will not forgive me if I say nothing of this New Edition, which
+he has promised, by the correctness of it, shall make amends for the many
+faults committed in the former. He desires too, that it should be known that it
+has one whole new chapter concerning Identity, and many additions and
+amendments in other places. These I must inform my reader are not all new
+matter, but most of them either further confirmation of what I had said, or
+explications, to prevent others being mistaken in the sense of what was
+formerly printed, and not any variation in me from it.
+
+
+I must only except the alterations I have made in Book II. chap. xxi.
+
+
+What I had there written concerning Liberty and the Will, I thought deserved as
+accurate a view as I am capable of; those subjects having in all ages exercised
+the learned part of the world with questions and difficulties, that have not a
+little perplexed morality and divinity, those parts of knowledge that men are
+most concerned to be clear in. Upon a closer inspection into the working of
+men’s minds, and a stricter examination of those motives and views they are
+turned by, I have found reason somewhat to alter the thoughts I formerly had
+concerning that which gives the last determination to the Will in all voluntary
+actions. This I cannot forbear to acknowledge to the world with as much freedom
+and readiness; as I at first published what then seemed to me to be right;
+thinking myself more concerned to quit and renounce any opinion of my own, than
+oppose that of another, when truth appears against it. For it is truth alone I
+seek, and that will always be welcome to me, when or from whencesoever it
+comes. But what forwardness soever I have to resign any opinion I have, or to
+recede from anything I have writ, upon the first evidence of any error in it;
+yet this I must own, that I have not had the good luck to receive any light
+from those exceptions I have met with in print against any part of my book, nor
+have, from anything that has been urged against it, found reason to alter my
+sense in any of the points that have been questioned. Whether the subject I
+have in hand requires often more thought and attention than cursory readers, at
+least such as are prepossessed, are willing to allow; or whether any obscurity
+in my expressions casts a cloud over it, and these notions are made difficult
+to others’ apprehensions in my way of treating them; so it is, that my meaning,
+I find, is often mistaken, and I have not the good luck to be everywhere
+rightly understood.
+
+
+Of this the ingenious author of the Discourse Concerning the Nature of Man has
+given me a late instance, to mention no other. For the civility of his
+expressions, and the candour that belongs to his order, forbid me to think that
+he would have closed his Preface with an insinuation, as if in what I had said,
+Book II. ch. xxvii, concerning the third rule which men refer their actions to,
+I went about to make virtue vice and vice virtue, unless he had mistaken my
+meaning; which he could not have done if he had given himself the trouble to
+consider what the argument was I was then upon, and what was the chief design
+of that chapter, plainly enough set down in the fourth section and those
+following. For I was there not laying down moral rules, but showing the
+original and nature of moral ideas, and enumerating the rules men make use of
+in moral relations, whether these rules were true or false: and pursuant
+thereto I tell what is everywhere called virtue and vice; which “alters not the
+nature of things,” though men generally do judge of and denominate their
+actions according to the esteem and fashion of the place and sect they are of.
+
+
+If he had been at the pains to reflect on what I had said, Bk. I. ch. ii. sect.
+18, and Bk. II. ch. xxviii. sect. 13, 14, 15 and 20, he would have known what I
+think of the eternal and unalterable nature of right and wrong, and what I call
+virtue and vice. And if he had observed that in the place he quotes I only
+report as a matter of fact what OTHERS call virtue and vice, he would not have
+found it liable to any great exception. For I think I am not much out in saying
+that one of the rules made use of in the world for a ground or measure of a
+moral relation is—that esteem and reputation which several sorts of
+actions find variously in the several societies of men, according to which they
+are there called virtues or vices. And whatever authority the learned Mr. Lowde
+places in his Old English Dictionary, I daresay it nowhere tells him (if I
+should appeal to it) that the same action is not in credit, called and counted
+a virtue, in one place, which, being in disrepute, passes for and under the
+name of vice in another. The taking notice that men bestow the names of
+‘virtue’ and ‘vice’ according to this rule of Reputation is all I have done, or
+can be laid to my charge to have done, towards the making vice virtue or virtue
+vice. But the good man does well, and as becomes his calling, to be watchful in
+such points, and to take the alarm even at expressions, which, standing alone
+by themselves, might sound ill and be suspected.
+
+
+‘Tis to this zeal, allowable in his function, that I forgive his citing as he
+does these words of mine (ch. xxviii. sect. II): “Even the exhortations of
+inspired teachers have not feared to appeal to common repute, Philip, iv. 8;”
+without taking notice of those immediately preceding, which introduce them, and
+run thus: “Whereby even in the corruption of manners, the true boundaries of
+the law of nature, which ought to be the rule of virtue and vice, were pretty
+well preserved. So that even the exhortations of inspired teachers,” &c. By
+which words, and the rest of that section, it is plain that I brought that
+passage of St. Paul, not to prove that the general measure of what men called
+virtue and vice throughout the world was the reputation and fashion of each
+particular society within itself; but to show that, though it were so, yet, for
+reasons I there give, men, in that way of denominating their actions, did not
+for the most part much stray from the Law of Nature; which is that standing and
+unalterable rule by which they ought to judge of the moral rectitude and
+gravity of their actions, and accordingly denominate them virtues or vices. Had
+Mr. Lowde considered this, he would have found it little to his purpose to have
+quoted this passage in a sense I used it not; and would I imagine have spared
+the application he subjoins to it, as not very necessary. But I hope this
+Second Edition will give him satisfaction on the point, and that this matter is
+now so expressed as to show him there was no cause for scruple.
+
+
+Though I am forced to differ from him in these apprehensions he has expressed,
+in the latter end of his preface, concerning what I had said about virtue and
+vice, yet we are better agreed than he thinks in what he says in his third
+chapter (p. 78) concerning “natural inscription and innate notions.” I shall
+not deny him the privilege he claims (p. 52), to state the question as he
+pleases, especially when he states it so as to leave nothing in it contrary to
+what I have said. For, according to him, “innate notions, being conditional
+things, depending upon the concurrence of several other circumstances in order
+to the soul’s exerting them,” all that he says for “innate, imprinted,
+impressed notions” (for of innate IDEAS he says nothing at all), amounts at
+last only to this—that there are certain propositions which, though the
+soul from the beginning, or when a man is born, does not know, yet “by
+assistance from the outward senses, and the help of some previous cultivation,”
+it may AFTERWARDS come certainly to know the truth of; which is no more than
+what I have affirmed in my First Book. For I suppose by the “soul’s exerting
+them,” he means its beginning to know them; or else the soul’s ‘exerting of
+notions’ will be to me a very unintelligible expression; and I think at best is
+a very unfit one in this, it misleading men’s thoughts by an insinuation, as if
+these notions were in the mind before the ‘soul exerts them,’ i. e. before they
+are known;—whereas truly before they are known, there is nothing of them
+in the mind but a capacity to know them, when the ‘concurrence of those
+circumstances,’ which this ingenious author thinks necessary ‘in order to the
+soul’s exerting them,’ brings them into our knowledge.
+
+
+P. 52 I find him express it thus: ‘These natural notions are not so imprinted
+upon the soul as that they naturally and necessarily exert themselves (even in
+children and idiots) without any assistance from the outward senses, or without
+the help of some previous cultivation.’ Here, he says, they ‘exert themselves,’
+as p. 78, that the ‘soul exerts them.’ When he has explained to himself or
+others what he means by ‘the soul’s exerting innate notions,’ or their
+‘exerting themselves;’ and what that ‘previous cultivation and circumstances’
+in order to their being exerted are—he will I suppose find there is so
+little of controversy between him and me on the point, bating that he calls
+that ‘exerting of notions’ which I in a more vulgar style call ‘knowing,’ that
+I have reason to think he brought in my name on this occasion only out of the
+pleasure he has to speak civilly of me; which I must gratefully acknowledge he
+has done everywhere he mentions me, not without conferring on me, as some
+others have done, a title I have no right to.
+
+
+There are so many instances of this, that I think it justice to my reader and
+myself to conclude, that either my book is plainly enough written to be rightly
+understood by those who peruse it with that attention and indifferency, which
+every one who will give himself the pains to read ought to employ in reading;
+or else that I have written mine so obscurely that it is in vain to go about to
+mend it. Whichever of these be the truth, it is myself only am affected
+thereby; and therefore I shall be far from troubling my reader with what I
+think might be said in answer to those several objections I have met with, to
+passages here and there of my book; since I persuade myself that he who thinks
+them of moment enough to be concerned whether they are true or false, will be
+able to see that what is said is either not well founded, or else not contrary
+to my doctrine, when I and my opposer come both to be well understood.
+
+
+If any other authors, careful that none of their good thoughts should be lost,
+have published their censures of my Essay, with this honour done to it, that
+they will not suffer it to be an essay, I leave it to the public to value the
+obligation they have to their critical pens, and shall not waste my reader’s
+time in so idle or ill-natured an employment of mine, as to lessen the
+satisfaction any one has in himself, or gives to others, in so hasty a
+confutation of what I have written.
+
+
+The booksellers preparing for the Fourth Edition of my Essay, gave me notice of
+it, that I might, if I had leisure, make any additions or alterations I should
+think fit. Whereupon I thought it convenient to advertise the reader, that
+besides several corrections I had made here and there, there was one alteration
+which it was necessary to mention, because it ran through the whole book, and
+is of consequence to be rightly understood. What I thereupon said was
+this:—
+
+
+CLEAR and DISTINCT ideas are terms which, though familiar and frequent in men’s
+mouths, I have reason to think every one who uses does not perfectly
+understand. And possibly ‘tis but here and there one who gives himself the
+trouble to consider them so far as to know what he himself or others precisely
+mean by them. I have therefore in most places chose to put DETERMINATE or
+DETERMINED, instead of CLEAR and DISTINCT, as more likely to direct men’s
+thoughts to my meaning in this matter. By those denominations, I mean some
+object in the mind, and consequently determined, i. e. such as it is there seen
+and perceived to be. This, I think, may fitly be called a determinate or
+determined idea, when such as it is at any time objectively in the mind, and so
+determined there, it is annexed, and without variation determined, to a name or
+articulate sound, which is to be steadily the sign of that very same object of
+the mind, or determinate idea.
+
+
+To explain this a little more particularly. By DETERMINATE, when applied to a
+simple idea, I mean that simple appearance which the mind has in its view, or
+perceives in itself, when that idea is said to be in it: by DETERMINED, when
+applied to a complex idea, I mean such an one as consists of a determinate
+number of certain simple or less complex ideas, joined in such a proportion and
+situation as the mind has before its view, and sees in itself, when that idea
+is present in it, or should be present in it, when a man gives a name to it. I
+say SHOULD be, because it is not every one, nor perhaps any one, who is so
+careful of his language as to use no word till he views in his mind the precise
+determined idea which he resolves to make it the sign of. The want of this is
+the cause of no small obscurity and confusion in men’s thoughts and discourses.
+
+
+I know there are not words enough in any language to answer all the variety of
+ideas that enter into men’s discourses and reasonings. But this hinders not but
+that when any one uses any term, he may have in his mind a determined idea,
+which he makes it the sign of, and to which he should keep it steadily annexed
+during that present discourse. Where he does not, or cannot do this, he in vain
+pretends to clear or distinct ideas: it is plain his are not so; and therefore
+there can be expected nothing but obscurity and confusion, where such terms are
+made use of which have not such a precise determination.
+
+
+Upon this ground I have thought determined ideas a way of speaking less liable
+to mistakes, than clear and distinct: and where men have got such determined
+ideas of all that they reason, inquire, or argue about, they will find a great
+part of their doubts and disputes at an end; the greatest part of the questions
+and controversies that perplex mankind depending on the doubtful and uncertain
+use of words, or (which is the same) indetermined ideas, which they are made to
+stand for. I have made choice of these terms to signify, (1) Some immediate
+object of the mind, which it perceives and has before it, distinct from the
+sound it uses as a sign of it. (2) That this idea, thus determined, i.e. which
+the mind has in itself, and knows, and sees there, be determined without any
+change to that name, and that name determined to that precise idea. If men had
+such determined ideas in their inquiries and discourses, they would both
+discern how far their own inquiries and discourses went, and avoid the greatest
+part of the disputes and wranglings they have with others.
+
+
+Besides this, the bookseller will think it necessary I should advertise the
+reader that there is an addition of two chapters wholly new; the one of the
+Association of Ideas, the other of Enthusiasm. These, with some other larger
+additions never before printed, he has engaged to print by themselves, after
+the same manner, and for the same purpose, as was done when this Essay had the
+second impression.
+
+
+In the Sixth Edition there is very little added or altered. The greatest part
+of what is new is contained in the twenty-first chapter of the second book,
+which any one, if he thinks it worth while, may, with a very little labour,
+transcribe into the margin of the former edition.
+
+
+</div></body></text></TEI>

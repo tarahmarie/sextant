@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 207-208</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 207-208.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1840">undated (estimated from box 165 date range)</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 207-208</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_207-208.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Saturday 2 o'clock</p>
+      <p>Dearest W--. I am most wonderfully better today owing entirely to Dr Locock's wisdom &amp; kindness. He is putting me quite on a new system &amp; assures me that all my vagaries are purely physical. He is a great comfort to</p>
+      <p>me; &amp; I feel convinced that all will come right in time.</p>
+      <p>Dear W--; are you not glad &amp; pleased with Avis?--</p>
+      <p>I am going down this afternoon to see the Hen &amp; Elizabeth; so I am hurried, &amp; Hester will add more to you.</p>
+      <p>Think of my vexation yesterday at F. K's calling to tell</p>
+      <p>Saturday-- Later</p>
+      <p>Dearest W-- Since Hester's &amp; my letter were written, unforseen circumstances have entirely altered my plans for tomorrow; &amp; I do not go to Esher. I write this in case you had thought to ride over &amp; meet me.</p>
+    </div></body>
+  </text>
+</TEI>

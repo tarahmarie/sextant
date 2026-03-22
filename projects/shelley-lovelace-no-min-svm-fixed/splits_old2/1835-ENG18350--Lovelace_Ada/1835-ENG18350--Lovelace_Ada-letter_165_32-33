@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 32-33</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 32-33.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1835">6 December [1835]</date>
+          <note type="place">Fordhook</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 32-33</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_32-33.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Fordhook. Sunday Evg. 6th Decr.</p>
+      <p>My Dearest. I shall begin to write to you tonight, &amp; I believe this is the last letter I shall send. I calculate you will get it on Tuesday Evening, before which time I conclude you will not have left Ashley.-- I hope to go to Town on Thursday Morning in the Hen's carriage, &amp; to bring you out. This we have concocted between us. She hopes</p>
+      <p>very much that you will stay here till Saturday, &amp; indeed I know she will be much disappointed if you do not, so pray think about it. Tomorrow the Cab drives over here with George in it, who is to bring me all the letters that get to Ockham tomorrow morning, so that I may separate enclosures &amp; forward yours to you. George remains here, &amp; the Cab goes on to Town to wait there till your arrival on Thursday. I desired Tubbs to send all Tuesday's &amp; Wednesday's letters to</p>
+      <p>St. James's Square. The horse that comes in the Cab tomorrow is not one of the coach horses. I was assured that one of the saddle horses had been used in it &amp; was fit to [crossed out: do] be so. I hope I am not wrong in allowing it.--</p>
+      <p>I have neither carriage nor horses of my own here, nor have yet given any orders about their coming.-- Should the Hen not be able to send us to Kingston, I am still in favour of our horses only bringing the carriage as far as there,</p>
+      <p>for they seemed quite beat yesterday with only bringing us to Ditton, &amp; the roads are very heavy now. The Kingston post horses could bring the carriage on here, &amp; take us back there. However if we stay till Saturday, it will be time enough to settle all this when we meet, as I hope, on Thursday Morning.</p>
+      <p>I am writing on Dove coloured paper. The colour is an emblem of the loving Bird's affection.-- This ink is as vile as Mr. Ford's pens, &amp; makes me write abominably.--</p>
+      <p>Good Night, my Dearest.--</p>
+    </div></body>
+  </text>
+</TEI>

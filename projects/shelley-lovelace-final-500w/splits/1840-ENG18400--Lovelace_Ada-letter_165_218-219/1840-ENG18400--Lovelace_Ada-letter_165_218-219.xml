@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 218-219</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 218-219.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1840">undated (estimated from box 165 date range)</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 218-219</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_218-219.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Monday Morg 1/2 past 9 o'clock</p>
+      <p>Dearest W. I am going to the Hen, &amp; shall set out just about 11 o'clock, hoping to see the Guard turn out again.</p>
+      <p>You will see in the Examiner the sad account of poor Laut Carpenter's death. Mr Madge noticed it yesterday in his sermon,</p>
+      <p>&amp; seemed much affected. I thought he would quite have broken down.--</p>
+      <p>Yesterday Miss Murray called in the afternoon, full of enthusiasm about everything &amp; particularly her children. She desired me to send you the enclosed paper of propositions to Government, for your consideration.--</p>
+      <p>This evening Mrs Nightingale has asked me to look in,-- only by</p>
+      <p>way of calling on her, which I think I shall do.</p>
+      <p>Miss Doyle came yesterday evening &amp; was very agreeable indeed, &amp; not dogmatic. She talked much about the E. . Mrs. E. N is likely to add to the family by &amp; bye.--</p>
+      <p>Mr Phillott was here yesterday &amp; spoke to me about Charlotte, whom he thinks in danger of falling into very bad health unless she is more careful about herself.</p>
+      <p>He says she has been originally inspired by your Mother's strange systems &amp; want of systems.--</p>
+      <p>On Satdy as I was riding home through the St James' Park, William Pinney met me &amp; rode home with me, questioning me exceedingly about your sisters, which amused me much.--</p>
+      <p>I am expecting the little musical boys.--</p>
+      <p>Avis</p>
+    </div></body>
+  </text>
+</TEI>

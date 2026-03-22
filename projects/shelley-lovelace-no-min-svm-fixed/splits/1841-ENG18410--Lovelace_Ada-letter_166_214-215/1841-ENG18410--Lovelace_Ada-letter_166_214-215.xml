@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 214-215</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 214-215.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1841">undated [June or July 1841?]</date>
+          <note type="place">Ockham</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 214-215</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_214-215.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Ockham Monday. 7 o'clock</p>
+      <p>Dearest. You will like to hear that I am doing very well. It is fortunate however that I did not attempt going to Fryern today. Dr Kay found it necessary to give me more laudanum &amp;c before luncheon today; &amp; it was not possible for me</p>
+      <p>to think of going out even. But I have had a capital sleep this afternoon, &amp; am much refreshed now, &amp; mending fast. Dr Kay left, with the [brats? boats?], about three.--</p>
+      <p>He most kind, &amp; leaving us all more than ever attached to him, particularly myself.--</p>
+      <p>Indeed I will try &amp; attend to everything he says to me; &amp; I never</p>
+      <p>can sufficiently be grateful &amp; attached to him for all his kindness and friendship for me.--</p>
+      <p>He has been also most attentive &amp; kind to Charlotte;-- who is fully sensible of it; &amp; whom he is to continue to attend in Town.--</p>
+      <p>I have written to the Hen. I fear she will have sent me a letter to Fryern today.</p>
+      <p>Dearest Mate; forgive the</p>
+      <p>poor naughty sick Bird. May it be</p>
+      <p>Avis Phoneix?--</p>
+    </div></body>
+  </text>
+</TEI>

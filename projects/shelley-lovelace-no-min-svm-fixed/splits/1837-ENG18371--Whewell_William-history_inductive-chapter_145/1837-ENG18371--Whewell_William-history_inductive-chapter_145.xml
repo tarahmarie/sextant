@@ -1,0 +1,270 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="145">CHAPTER VII.
+Magneto-electric Induction.
+FARADAY’S discovery that, in
+combinations like those in which a voltaic current was known to
+produce motion, motion would produce a voltaic current, naturally
+excited great attention among the scientific men of Europe. The
+general nature of his discovery was communicated by letter26 to M. Hachette at Paris, in December,
+1831; and experiments having the like results were forthwith made by
+MM. Becquerel and Ampère at Paris, and MM. Nobili and Antinori at
+Florence.
+26 Ann. de Chimie, vol. xlviii.
+(1831), p. 402.
+It was natural also that in a case in which the relations of space
+which determine the results are so complicated, different philosophers
+should look at them in different ways. There had been, from the first
+discovery by Oersted of the effect of a voltaic current upon a magnet,
+two rival methods of regarding the facts. Electric and magnetic lines
+exert an effort to place themselves transverse to each other (see chapter iv. of this Book), and (as I have already
+said) two ways offered themselves of simplifying this general
+truth:—to suppose an electric current made up of transverse
+magnetic lines; or to suppose magnetic lines made up of transverse
+electric currents. On either of these assumptions, the result was
+expressed by saying that like currents or lines (electric or
+magnetic) tend to place themselves parallel; which is a law more
+generally intelligible than the law of transverse position. Faraday
+had adopted the former view; had taken the lines of magnetic force for
+the fundamental lines of his system, and defined the direction of the
+magneto-electric current of induction by the relation 619 of the motion to
+these lines. Ampère, on the other hand, supposed the magnet to be made
+up of transverse electric currents (chap.
+vi.); and had deduced all the facts of electro-dynamical action,
+with great felicity, from this conception. The question naturally
+arose, in what manner, on this view, were the new facts of
+magneto-electric induction by motion to be explained, or even
+expressed?
+Various philosophers attempted to answer this question. Perhaps the
+form in which the answer has obtained most general acceptance is that
+in which it was put by Lenz, who discoursed on the subject to the
+Academy of St. Petersburg in 1833.27 His general rule
+is to this effect: when a wire moves in the neighborhood of an
+electric current or a magnet, a current takes place in it, such as,
+existing independently, would have produced a motion opposite to the
+actual motion. Thus two parallel forward currents move towards
+each other:—hence if a current move towards a parallel wire, it
+produces in it a backward current. A moveable wire conducting a
+current downwards will move round the north pole of a magnet in
+the direction N., W., S., E.:—hence if, when the wire have in it
+no current, we move it in the direction N., W., S., E., we produce in
+the wire an upward current. And thus, as M. de la Rive
+remarks,28 in cases in which the mutual action of
+two currents produces a limited motion, as attraction or repulsion, or
+a deviation right or left, the corresponding magneto-electric
+induction produces an instantaneous current only; but when the
+electrodynamic action produces a continued motion, the corresponding
+motion produces, by induction, a continued current.
+27 Acad. Petrop. Nov. 29, 1833.
+Pogg. Ann. vol. xxxi. p. 483.
+28 Traité de l’Electricité,
+vol. i. p. 441 (1854).
+Looking at this mode of stating the law, it is impossible not to
+regard this effect as a sort of reaction; and accordingly, this view
+was at once taken of it. Professor Ritchie said, in 1833, “The law is
+founded on the universal principle that action and reaction are
+equal.” Thus, if voltaic electricity induce magnetism under certain
+arrangements, magnetism will, by similar arrangements, react on a
+conductor and induce voltaic electricity.29
+29 On the Reduction of Mr. Faraday’s
+discoveries in Magneto-electric Induction to a General Law.
+Trans. of R. S. in Phil. Mag. N.S. vol. iii. 37, and
+vol. iv. p. 11. In the second edition of this history I used the like
+expressions.
+There are still other ways of looking at this matter. I have
+elsewhere pointed out that where polar properties co-exist, they are
+620 generally found
+to be connected,30 and have illustrated this law in the
+case of electrical, magnetical, and chemical polarities. If we regard
+motion backwards and forwards, to the right and the left, and the
+like, as polar relations, we see that magneto-electric
+induction gives us a new manifestation of connected polarities.
+30 Phil. Ind. Sc. B. v. c.
+ii.
+Diamagnetic Polarity.
+But the manifestation of co-existent polarities which are brought
+into view in this most curious department of nature is not yet
+exhausted by those which we have described. I have already spoken (chap. vii.) of Dr. Faraday’s discovery that there are
+diamagnetic as well as magnetic bodies; bodies which are repelled by
+the pole of a magnet, as well as bodies which are attracted. Here is a
+new opposition of properties. What is the exact definition of this
+opposition in connexion with other polarities? To this, at present,
+different philosophers give different answers. Some say that
+diamagnetism is completely the opposite of ordinary magnetism, or, as
+Dr. Faraday has termed it for the sake of distinction, of
+paramagnetism. They say that as a north pole of a magnet gives
+to the neighboring extremity of a piece of soft iron a south pole, so
+it gives to the neighboring extremity of a piece of bismuth a north
+pole, and that the bismuth becomes for a time an inverted magnet; and
+hence, arranges itself across the line of magnetised force, instead of
+along it. Dr. Faraday himself at first adopted this view;31 but he now conceives that the bismuth
+is not made polar, but is simply repelled by the magnet; and that the
+transverse position which it assumes, arises merely from its elongated
+form, each end trying to recede as far as possible from the repulsive
+pole of the magnet.
+31 Faraday’s Researches, Art.
+2429, 2430.
+Several philosophers of great eminence, however, who have examined
+the subject with great care, adhere to Dr. Faraday’s first view of the
+nature of Diamagnetism—as W. Weber,32 Plücker, and Mr.
+Tyndall among ourselves. If we translate this view into the language
+of Ampère’s theory, it comes to this:—that as currents are
+induced in iron and magnetics parallel to those existing in the
+inducing magnet or battery wire; so in bismuth, heavy glass, and other
+diamagnetic bodies, the currents induced are in the contrary 621
+directions:—these hypothetical currents being in non-conducting
+diamagnetic, as in magnetic bodies, not in the mass, but round the
+particles of the matter.
+32 Poggendorf’s Ann. Jou.
+1848.
+Magneto-optic Effects and Magnecrystallic Polarity.
+Not even yet have we terminated the enumeration of the co-existent
+polarities which in this province of nature have been brought into
+view. Light has polar properties; the very term polarization is
+the record of the discovery of these. The forces which determine the
+crystalline forms of bodies are of a polar nature: crystalline forms,
+when complete, may be defined as those forms which have a certain
+degree of symmetry in reference to opposite poles. Now has this
+optical and crystalline polarity any relation to the electrical
+polarity of which we have been speaking?
+However much we might be disposed beforehand to conjecture that
+there is some relation between these two groups of polar properties,
+yet in this as in the other parts of this history of discoveries
+respecting polarities, no conjecture hits the nature of the relation,
+such as experiment showed it to be. In November, 1846, Faraday
+announced the discovery of what he then called “the action of magnets
+on light.” But this action was manifested, not on light directly, but
+on light passing through certain kinds of glass.33 When this glass,
+subjected to the action of the powerful magnets which he used,
+transmitted a ray of light parallel to the line of magnetic force, an
+effect was produced upon the light. But of what nature was this
+effect? When light was ordinary light, no change in its condition was
+discoverable. But if the light were light polarized in any plane, the
+plane of polarization was turned round through a certain angle while
+the ray passed through the glass:—a greater angle, in proportion
+as the magnetic force was greater, and the thickness of the glass
+greater.
+33 Silicated borate of lead. See
+Researches, § 2151, &c. Also flint glass, rock salt, water
+(2215).
+A power in some respects of this kind, namely, a power to rotate
+the plane of polarization of a ray passing through them, is possessed
+by some bodies in their natural state; for instance, quartz crystals,
+and oil of turpentine. But yet, as Dr. Faraday remarks,34 there is a great difference in the two
+cases. When polarized rays pass through oil of turpentine, in whatever
+direction they pass, they all of them have their 622 plane of polarization
+rotated in the same direction; that is, all to the right or all to the
+left; but when a ray passes through the heavy glass, the power of
+rotation exists only in a plane perpendicular to the magnetic line,
+and its direction as right or left-handed is reversed by reversing the
+magnetic polarity.
+34 Researches, Art. 2231.
+In this case, we have optical properties, which do not depend on
+crystalline form, affected by the magnetic force. But it has also been
+found that crystalline form, which is so fertile a source of optical
+properties, affords indications of magnetic forces. In 1847, M.
+Plücker,35 of the University of Bonn, using a
+powerful magnetic apparatus, similar to Faraday’s, found that crystals
+in general are magnetic, in this sense, that the axes of crystalline
+form tend to assume a certain position with reference to the magnetic
+lines of force. The possession of one optic axis or of two is one of
+the broad distinctions of the different crystalline forms: and using
+this distinction, M. Plücker found that a crystal having a single
+optic axis tends to place itself with this axis transverse to the
+magnetic line of force, as if its optic axis were repelled by each
+magnetic pole; and crystals with two axes act as if each of these axes
+were repelled by the magnetic poles. This force is independent of the
+magnetic or diamagnetic character of the crystal; and is a directive,
+more properly than an attractive or repulsive force.
+35 Taylor’s Scientific Memoirs,
+vol. v.
+Soon afterwards (in 1848) Faraday also discovered36 an effect of magnetism depending on
+crystalline form, which at first sight appeared to be different from
+the effects observed by M. Plücker. He found that a crystal of
+bismuth, of which the form is nearly a cube, but more truly a
+rhombohedron with one diagonal a little longer than the others, tends
+to place itself with this diagonal in the direction of the lines of
+magnetic force. At first he conceived37 the properties
+thus detected to be different from those observed by M. Plücker; since
+in this case the force of a crystalline axis is axial, whereas in
+those, it was equatorial. But a further consideration of the subject,
+led him38 to a conviction that these forces must
+be fundamentally identical: for it was easy to conceive a combination
+of bismuth crystals which would behave in the magnetic field as a
+crystal of calcspar does; or a combination of calcspar crystals which
+would behave as a crystal of bismuth does.
+36 Researches, Art. 2454,
+&c.
+37 Art. 2469.
+38 Art. 2593, 2601.
+And thus we have fresh examples to show that the Connexion of
+coexistent Polarities is a thought deeply seated in the minds of the
+623 profoundest and
+most sagacious philosophers, and perpetually verified and illustrated,
+by unforeseen discoveries in unguessed forms, through the labors of
+the most skilful experimenters.
+Magneto-electric Machines.
+The discovery that a voltaic wire moved in presence of a magnet,
+has a current generated in it, was employed as the ground of the
+construction of machines to produce electrical effects. In Saxton’s
+machine two coils of wire including a core of soft iron revolved
+opposite to the ends of a horseshoe magnet, and thus, as the two coils
+came opposite to the N. and S. and to the S. and N. poles of the
+magnet, currents were generated alternately in the wires in opposite
+directions. But by arranging the connexions of the ends of the wires,
+the successive currents might be made to pass in corresponding
+directions. The alternations or successions of currents in such
+machines are governed by a contrivance which alternately interrupts
+and permits the action; this contrivance has been called a
+rheotome. Clarke gave a new form to a machine of the same
+nature as Saxton’s. But the like effect may be produced by using an
+electro-magnet instead of a common magnet. When this is done, a
+current is produced which by induction produces a current in another
+wire, and the action is alternately excited and interrupted. When the
+inducing current is interrupted, a momentary current in an
+opposite direction is produced in the induced wire; and when this
+current stops, it produces in the inducing wire a current in the
+original direction, which may be adjusted so as to reinforce the
+resumed action of the original current. This was pointed out by M. De
+la Rive in 1843.39 Machines have been constructed on such
+principles by him and others. Of such machines the most powerful
+hitherto known is that constructed by M. Ruhmkorff. The effects of
+this instrument are exceedingly energetic.
+39 Traité de l’Elect. i.
+391.
+Applications of Electrodynamic Discoveries.
+The great series of discoveries of which I have had to speak have
+been applied in many important ways to the uses of life. The
+Electric Telegraph is one of the most remarkable of these. By
+wires extended to the most distant places, the electric current is
+transmitted 624
+thither in an imperceptible time; and by means of well-devised systems
+of operation, is made to convey from man to man words, which are now
+most emphatically “winged words.” In the most civilised states such
+wires now form a net-work across the land, which is familiar to our
+thoughts as the highway is to our feet; and wide seas have such
+pathways of human thought buried deep in their waves from shore to
+shore. Again, by using the chemical effects of electrodynamic action,
+of which we shall have to speak in the next Book,
+a new means has been obtained of copying, with an exactness
+unattainable before, any forms which art or nature has produced, and
+of covering them with a surface of metal. The Electrotype
+Process is now one of the great powers which manufacturing art
+employs.
+But these discoveries have also been employed in explaining natural
+phenomena, the causes of which had before been altogether inscrutable.
+This is the case with regard to the diurnal variation of the magnetic
+needle; a fact  which as to its existence is universal in all places,
+and which yet is so curiously diverse in its course at different
+places. Dr. Faraday has shown that some of the most remarkable of
+these diversities, and probably all, seem to be accounted for by the
+different magnetic effects of air at different temperatures: although,
+as I have already said, (Book xii.) the discovery of a
+decennial period in the diurnal changes of magnetic declination shows
+that any explanation of those changes which refers them to causes
+existing in the atmosphere must be very incomplete.40
+40 Researches, Art. 2892.
+
+
+BOOK XIV.
+
+CHEMISTRY.
+</div></body></text></TEI>

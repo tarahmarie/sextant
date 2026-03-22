@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 124-127</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 124-127.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1838">undated [July 1838]</date>
+          <note type="place">St. James's Square</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 124-127</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_124-127.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>St. James' Sqre Tuesdy. 11 o'clock</p>
+      <p>Dearest W. I am expecting Dr Locock &amp; the child.-- I think, as far as I can judge without seeing you, that Monday will probably be very convenient to you for our Western departure. I suppose you will probably come up Thursday, &amp; I think you had better desire that the horse with a large</p>
+      <p>white star on his forehead, who is in the habit of getting lame, should not be one of those who bring you up.-- I must leave you to settle about my riding horse, whether to take him to Ashley or return him to Boss.-- I think of riding in some school this week, or at least this day or two; &amp; till you come, I think I shall hire a pair of horses, for the britska post-horses will be best, for</p>
+      <p>half a day, which is I believe half a guinea. It will not do for me to have no air &amp; exercise but the little I can get on my own legs.-- I am sorry we shall not have our carriage horses at Ashley, as we had intended. I think it would have been a pleasure.--</p>
+      <p>Dr Locock spoke to George yesterday evening &amp; satisfied himself that the vaccination did take properly, &amp; also endeavoured to explain to him</p>
+      <p>what he previously stated to me, , that it is about 10 cases out of a 100 in which small- -pox is caught after vaccination, &amp; not 1 out of those 10 cases in which the patient has it badly. He feels no doubt that the coachman will do extremely well. Mr Harborough said his disease was very much modified, in consequence of vaccination.--</p>
+      <p>I am going by Dr L's request, to write to Charles Noel, about the cows who had the cow- -pox not long ago. Dr L would give anything for some fo the matter, &amp; regrets extremely</p>
+      <p>that I cannot be done with some of it.--</p>
+      <p>4 o'clock. The avis has been vaccinated.</p>
+      <p>I have lost all today, as far as going out is concerned, for they will not let me have a pair of horses even for an hour, under a guinea, so I have nothing but my legs, &amp; a great part of today has been lonely. I think I shall now go &amp; walk for as long as I can.--</p>
+      <p>I feel sadly forlorn &amp; dull, the more from having no</p>
+      <p>means of getting about or amusing myself.--</p>
+      <p>I am not sure of when I spoke to Thyer about a little store of candles, he understood that I meant for Ashley. Do tell him.</p>
+    </div></body>
+  </text>
+</TEI>

@@ -1,0 +1,109 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Philosophy of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="32">
+
+CHAPTER VII.
+Of the Establishment of the Principles of Dynamics.
+
+
+
+1. IN
+the History of Mechanics, I have traced the steps by
+which the three Laws of Motion and the other principles of
+mechanics were discovered, established, and extended to the
+widest generality of form and application. We have, in these
+laws, examples of principles which were, historically
+speaking, obtained by reference to experience. Bearing in
+mind the object and the result of the preceding discussions,
+we cannot but turn with much interest to examine these
+portions of science; to inquire whether there be any real
+difference in the grounds and nature between the knowledge
+thus obtained, and those truths which we have already
+contemplated; and which, as we have seen, contain their own
+evidence, and do not require proof from experiment.
+2. The First Law of Motion.—The first law of motion
+is, that When a body moves not acted upon by any force,
+it will go on perpetually in a straight line, and with a
+uniform velocity. Now what is the real ground of our
+assent to this proposition? That it is not at first sight a
+self-evident truth, appears to be clear; since from the time
+of Aristotle to that of Galileo the opposite assertion was
+held to be true; and it was believed that all bodies in
+motion had, by their own nature, a constant tendency to move
+more and more slowly, so as to stop at last. This belief,
+indeed, is probably even now entertained by most persons,
+till their attention is fixed upon the arguments by which
+the first law of motion is established. It is, however, not
+difficult to lead any person of a speculative habit 236 of
+thought to see that the retardation which constantly takes
+place in the motion of all bodies when left to themselves,
+is, in reality, the effect of extraneous forces which
+destroy the velocity. A top ceases to spin because the
+friction against the ground and the resistance of the air
+gradually diminish its motion, and not because its motion
+has any internal principle of decay or fatigue. This may be
+shown, and was, in fact, shown by Hooke before the Royal
+Society, at the time when the laws of motion were still
+under discussion, by means of experiments in which the
+weight of the top is increased, and the resistance to motion
+offered by its support, is diminished; for by such
+contrivances its motion is made to continue much longer than
+it would otherwise do. And by experiments of this nature,
+although we can never remove the whole of the external
+impediments to continued motion, and although, consequently,
+there will always be some retardation; and an end of the
+motion of a body left to itself, however long it may be
+delayed, must at last come; yet we can establish a
+conviction that if all resistance could be removed, there
+would be no diminution of velocity, and thus the motion
+would go on for ever.
+If we call to mind the axioms which we formerly stated, as
+containing the most important conditions involved in the
+idea of Cause, it will be seen that our conviction in this
+case depends upon the first axiom of Causation, that nothing
+can happen without a cause. Every change in the velocity of
+the moving body must have a cause; and if the change can, in
+any manner, be referred to the presence of other bodies,
+these are said to exert force upon the moving body:
+and the conception of force is thus evolved from the general
+idea of cause. Force is any cause which has motion, or
+change of motion, for its effect; and thus, all the
+change of velocity of a body which can be referred to
+extraneous bodies,—as the air which surrounds it, or the
+support on which it rests,—is considered as the effect of
+forces; and this consideration is looked upon as explaining
+the difference between the motion which really takes places
+in the experiment, and that motion 237 which, as the law
+asserts, would take place if the body were not acted on by
+any forces.
+Thus the truth of the first law of motion depends upon the
+axiom that no change can take place without a cause; and
+follows from the definition of force, if we suppose that
+there can be none but an external cause of change. But in
+order to establish the law, it was necessary further to be
+assured that there is no internal cause of change of
+velocity belonging to all matter whatever, and operating in
+such a manner that the mere progress of time is sufficient
+to produce a diminution of velocity in all moving bodies. It
+appears from the history of mechanical science, that this
+latter step required a reference to observation and
+experiment; and that the first law of motion is so far,
+historically at least, dependent upon our experience.
+But notwithstanding this historical evidence of the need
+which we have of a reference to observed facts, in order to
+place this first law of motion out of doubt, it has been
+maintained by very eminent mathematicians and philosophers,
+that the law is, in truth, evident of itself, and does not
+really rest upon experimental proof. Such, for example, is
+the opinion of d’Alembert20, who offers what is called
+an à priori proof of this law; that is, a
+demonstration derived from our ideas alone. When a body is
+put in motion, either, he says, the cause which puts it in
+motion at first, suffices to make it move one foot, or the
+continued action of the cause during this foot is requisite
+for the motion. In the first case, the same reason which
+made the body proceed to the end of the first foot will hold
+for its going on through a second, a third, a fourth foot,
+and so on for any number. In the second case, the same
+reason which made the force continue to act during the first
+foot, will hold for its acting, and therefore for the body
+moving during each succeeding foot. And thus the body, once
+beginning to move, must go on moving for ever.</div></body></text></TEI>

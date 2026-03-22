@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 126-128</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 126-128.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1844">undated [23 November 1844]</date>
+          <note type="place">Bromfield</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 126-128</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_126-128.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Bromfield Satdy. Morg (about 1/2 past nine)</p>
+      <p>Finding no symptoms of either breakfast (no cloth being laid), or of human beings, I have sat down to write to you, in my shawl &amp; boa in their very cold Sitting Room.</p>
+      <p>I was down at nine, having been told there would then be breakfast. We all sat up reading &amp; talking philosophy till one o'clock last night. I suppose that is the secret of the dawdle this morning. My head is very muzzy this morning, from that cause I think; &amp; I shall take the liberty this evening of calling</p>
+      <p>my hosts to a recollection of Time. The droll thing was we were discussing the metaphysics of Time &amp; Space, &amp; in so doing we forgot real Time &amp; Space.</p>
+      <p>We got here at 1/2 past three!-- Our horses absolutely flew. We were at Williton under two hours. I never saw the poor things go so beautifully. Crosse was astonished. They baited a full hour at Williton, &amp; had a 10 minutes rest &amp; a little water again at the foot of the great ridge we crossed, which is indeed a tremendous ascent, of I think a mile long-- more or less steep.</p>
+      <p>But the beasts made nothing of it, &amp; came in quite fresh &amp; lively. They seemed pleased when the Bird fluttered round</p>
+      <p>their noses &amp; noticed them.</p>
+      <p>John is an excellent driver.</p>
+      <p>Our journey was agreeable. I was so admirably clad that I did not feel the cold.</p>
+      <p>In the course of it, I was able to give Crosse a complete outline &amp; vista of all my scientific plans &amp; ideas. He seems to think there is much merit in them, &amp; remarked, "I see no mere enthu= "siasm in all this. It is all "so quietly reasoned, so soundly "based".--</p>
+      <p>I find my visit here is of more importance to me than I anticipated. The eldest son John is giving me information as to the scientific doings in Germany which it is of the utmost importance I should be</p>
+      <p>in possession of; &amp; he will undertake, if I choose, to be my organ to any extent he can, in procuring me every means of keeping au courant as to German mathematics &amp; Natural Philosophy. He is a most extensively read, &amp; also a very clever young man. I can get from &amp; by means of him, what I could from no one else. He is to be 6 months at Berlin next year, &amp; he will occupy himself in catering for me. He knows much not only about German metaphysics &amp; theology, but about their physiology, &amp;c.</p>
+      <p>It will be a great thing for my views to have so many labourers in the field for me.-- John Crosse says that in Germany books of dry</p>
+      <p>science sell even better than light works;-- that for instance such a one as Wilkinson's would pay richly, had it been written in German. This is a hint which I shall endeavour to get more information upon; for my own future purposes. I believe that many of my subjects would be read to an extent, in that country, which they never would here, (besides paying well).--</p>
+      <p>But all this I shall by degrees take measures for obtaining authentic data for judging of.</p>
+      <p>It would be a proud thing to write German scientific treatises. I know very nearly enough of the language.--</p>
+      <p>It is bitterly cold, which don't suit me.</p>
+    </div></body>
+  </text>
+</TEI>

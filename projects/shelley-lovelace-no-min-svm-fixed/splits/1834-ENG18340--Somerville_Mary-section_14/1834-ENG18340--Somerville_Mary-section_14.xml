@@ -1,0 +1,431 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Connexion of the Physical Sciences</title><author>Somerville, Mary (1780-1872)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1834</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="14">
+91
+SECTION XIII.
+
+Tides—Forces that produce them—Origin and Course of Tidal Wave—Its
+Speed—Three kinds of Oscillations in the Ocean—The Semidiurnal
+Tides—Equinoctial Tides—Effects of the Declination of the Sun and
+Moon—Theory insufficient without Observation—Direction of the
+Tidal Wave—Height of Tides—Mass of Moon obtained from her
+Action on the Tides—Interference of Undulations—Impossibility of a
+Universal Inundation—Currents.
+One of the most immediate and remarkable effects of a gravitating
+force external to the earth is the alternate rise and fall
+of the surface of the sea twice in the course of a lunar day, or
+24h 50m 28s of mean solar time. As it depends upon the action
+of the sun and moon, it is classed among astronomical problems,
+of which it is by far the most difficult and its explanation the
+least satisfactory. The form of the surface of the ocean in equilibrio,
+when revolving with the earth round its axis, is an ellipsoid
+flattened at the poles; but the action of the sun and moon, especially
+of the moon, disturbs the equilibrium of the ocean. If
+the moon attracted the centre of gravity of the earth and all its
+particles with equal and parallel forces, the whole system of the
+earth and the waters that cover it would yield to these forces
+with a common motion, and the equilibrium of the seas would
+remain undisturbed. The difference of the forces and the inequality
+of their directions alone disturb the equilibrium.
+The particles of water under the moon are more attracted than
+the centre of gravity of the earth, in the inverse ratio of the
+square of the distance. Hence they have a tendency to leave
+the earth, but are retained by their gravitation, which is diminished
+by this tendency. On the contrary, the moon attracts
+the centre of the earth more powerfully than she attracts the
+particles of water in the hemisphere opposite to her; so that the
+earth has a tendency to leave the waters, but is retained by
+gravitation, which is again diminished by this tendency. Thus
+the waters immediately under the moon are drawn from the
+earth, at the same time that the earth is drawn from those
+92which are diametrically opposite to her, in both instances producing
+an elevation of the ocean of nearly the same height above
+the surface of equilibrium; for the diminution of the gravitation
+of the particles in each position is almost the same, on account
+of the distance of the moon being great in comparison of the
+radius of the earth. Were the earth entirely covered by the sea,
+the waters thus attracted by the moon would assume the form of
+an oblong spheroid whose greater axis would point towards the
+moon; since the columns of water under the moon, and in the
+direction diametrically opposite to her, are rendered lighter in
+consequence of the diminution of their gravitation; and, in
+order to preserve the equilibrium, the axes 90° distant would be
+shortened. The elevation, on account of the smaller space to
+which it is confined, is twice as great as the depression, because
+the contents of the spheroid always remain the same. If the
+waters were capable of assuming the form of equilibrium instantaneously,
+that is, the form of the spheroid, its summit would
+always point to the moon notwithstanding the earth’s rotation.
+But, on account of their resistance, the rapid motion produced
+in them by rotation prevents them from assuming at every
+instant the form which the equilibrium of the forces acting upon
+them requires. Hence, on account of the inertia of the waters,
+if the tides be considered relatively to the whole earth and open
+seas, there is a meridian about 30° eastward of the moon, where
+it is always high water both in the hemisphere where the moon
+is and in that which is opposite. On the west side of this circle
+the tide is flowing, on the east it is ebbing, and on every part of
+the meridian at 90° distant it is low water. This great wave,
+which follows all the motions of the moon as far as the rotation
+of the earth will permit, is modified by the action of the sun, the
+effects of whose attraction are in every respect like those produced
+by the moon, though greatly less in degree. Consequently
+a similar wave, but much smaller, raised by the sun, tends to
+follow his motions, which at times combines with the lunar
+wave, and at others opposes it, according to the relative positions
+of the two luminaries; but as the lunar wave is only modified a
+little by the solar, the tides must necessarily happen twice in a
+day, since the rotation of the earth brings the same point twice
+under the meridian of the moon in that time, once under the
+superior and once under the inferior meridian.
+93The periodic motions of the waters of the ocean, on the hypothesis
+of an ellipsoid of revolution, entirely covered by the sea,
+are, however, very far from according with observation. This
+arises from the great irregularities in the surface of the earth,
+which is but partially covered by the sea, from the variety in
+the depths of the ocean, the manner in which it is spread out on
+the earth, the position and inclination of the shores, the currents,
+and the resistance which the waters meet with: causes impossible
+to estimate generally, but which modify the oscillations of
+the great mass of the ocean. However, amidst all these irregularities,
+the ebb and flow of the sea maintain a ratio to the forces
+producing them sufficient to indicate their nature, and to verify
+the law of the attraction of the sun and moon on the sea. La
+Place observes, that the investigation of such relations between
+cause and effect is no less useful in natural philosophy than the
+direct solution of problems, either to prove the existence of the
+causes or to trace the laws of their effects. Like the theory of
+probabilities, it is a happy supplement to the ignorance and
+weakness of the human mind.
+Since the disturbing action of the sun and moon can only
+become sensible in a very great extent of deep water, the Antarctic
+Ocean is the origin and birthplace of our tides. A succession
+of tidal waves from that source follow one another in a
+north-westerly direction down the Pacific and Atlantic Oceans,
+modified as they proceed by the depth of the water and the
+form of the coasts. For when the sun and moon are in the same
+meridian, and pass over the mass of waters lying east from Van
+Diemen’s Land, New Zealand, and the South Pole, the resulting
+force of their combined attraction, penetrating to the abyss of the
+deep and boundless circuit of the Southern Ocean, raises a vast
+wave or ridge of water, which tends to follow the luminaries to
+the north and west, and continues to flow in that direction long
+after the bodies cease to act upon it; but it is so retarded by the
+rotation of the earth and by the inertia of the water, that it does
+not arrive at the different parts of the coasts till after the
+moon’s southing (N. 156). When this tidal wave leaves the
+Antarctic Ocean and enters the Pacific, it rushes along the
+western coast of America to its farthest end, but it is so much
+obstructed by the number of islands in the middle of that ocean
+that it is hardly perceptible among them; while on the east it
+94enters the Indian Ocean, strikes with violence on the coasts of
+Hindostan and the shores at the mouths of the Ganges, and
+causes the terrific bore in the Hoogly. The part of this tidal
+wave that enters the Atlantic passes impetuously along the
+coasts of Africa and America, arriving later and later at each
+place. It is modified, however, by a tide raised in the Atlantic,
+which is deep and free from islands; and this combined tidal
+wave, still coming northward, pours its surge into the Gulf of
+Fundy to the height of fifty feet; then being deflected by the
+coast of America at right angles, it rushes eastward, bringing
+high water to the western coasts of Ireland and England. It
+then goes round Scotland, brings high water to Aberdeen and
+the opposite coasts of Norway and Denmark, and, continuing its
+course to the south, arrives at the mouth of the Thames and
+fills the channels of that river on the morning of the third day
+after leaving the Antarctic Ocean.
+Thus the tides in our ports are owing to an impulse from the
+waters of the Antarctic seas raised by the action of the sun and
+moon. No doubt a similar action raised that tide in the North
+Polar Ocean which Dr. Kane saw rolling on the northern coast
+of Greenland in 82° N. latitude, but which, in the present state
+of the globe, is imprisoned by bars of ice and ice-bound lands.
+The tidal wave extends to the bottom of the ocean, and moves
+uniformly and with great speed in very deep water, variably and
+slow in shallow water; the time of propagation depends upon
+the depth of the sea, as well as on the nature and form of the
+coasts. It varies inversely as the square of the depth—a law
+which theoretically affords the means of ascertaining the proportionate
+depth of the sea in different parts. It is one of the great
+constants of nature, and is to fluids what the pendulum is to
+solids—a connecting link between time and force.
+For example: the tidal wave moves across the Southern
+Ocean with the velocity of 1000 miles an hour, and in the
+Atlantic it is scarcely less on account of the deep trough which
+runs through the centre of that ocean; but the sea is so shallow
+on the British coast that it takes more time to come from Aberdeen
+to London than to travel over an arc of 120°, between 60°
+S. lat. and 60° N. lat.
+In deep water the tidal wave is merely a rise and fall of the
+surface; the water does not advance, though the wave does. Indeed,
+95if so heavy a body as water were to move at the rate of
+1000 miles an hour, it would cause universal destruction, since
+in the most violent hurricanes the velocity of the wind is little
+more than 100 miles an hour. Besides, it is evident that no
+ship could either sail or steam against it. When the water is
+shallow, however, there is a motion of translation in the water
+along with the tide.
+In the deep ocean the undulating motion consists of two distinct
+things—an advancing form and a molecular movement.
+The motion of each particle of water is in an ellipse lying wholly
+in the vertical plane; so that, after the momentary displacement
+during the passage of the wave, they return to their places
+again. The resistance of the sea-bed is insensible in deep water;
+but when the tidal wave, which extends to the very bottom of
+the ocean, comes into shallow water with diminished velocity, the
+particles of water moving in vertical ellipses strike the bottom,
+and by reaction the wave rises higher; and that being continually
+repeated, as the form moves on the wave rises higher and higher,
+bends more and more forward, till at last it loses its equilibrium,
+and then both form and water roll to the shore, and the elliptical
+trajectories of the particles, which in deep water were vertical,
+incline more and more, till at length they become horizontal.
+The distance from the shore at which the water begins to be
+translated depends upon the depth, the nature of the coast, and
+the form of the shore. Mr. Scott Russell has demonstrated that
+in shallow water the velocity of the wave is equal to that which
+a heavy body falling freely by its gravity would acquire in
+descending through half the depth of the fluid.
+It is proved by daily experience, as well as by strict mathematical
+reasoning, that, if a number of waves or oscillations be
+excited in a fluid by different forces, each pursues its course and
+has its effect independently of the rest. Now, in the tides there
+are three kinds of oscillations, depending on different causes, and
+producing their effects independently of each other, which may
+therefore be estimated separately. The oscillations of the first
+kind, which are very small, are independent of the rotation of
+the earth, and, as they depend upon the motion of the disturbing
+body in its orbit, they are of long periods. The second kind of
+oscillations depend upon the rotation of the earth, therefore their
+period is nearly a day. The oscillations of the third kind vary
+96with an angle equal to twice the angular rotation of the earth,
+and consequently happen twice in twenty-four hours (N. 157).
+The first afford no particular interest, and are extremely small;
+but the difference of two consecutive tides depends upon the
+second. At the time of the solstices this difference, which ought
+to be very great according to Newton’s theory, is hardly sensible
+on our shores. La Place has shown that the discrepancy arises
+from the depth of the sea, and that if the depth were uniform
+there would be no difference in the consecutive tides but that
+which is occasioned by local circumstances. It follows, therefore,
+that, as this difference is extremely small, the sea, considered
+in a large extent, must be nearly of uniform depth, that is to
+say, there is a certain mean depth from which the deviation is
+not great. The mean depth of the Pacific Ocean is supposed to
+be about four or five miles, that of the Atlantic only three or
+four, which, however, is mere conjecture. Possibly the great
+extent and uniformly small depth of the Atlantic over the telegraphic
+platform may prevent the difference of the oscillations
+in question from being perceptible on our shores. From the
+formulæ which determine the difference of these consecutive
+tides it is proved that the precession of the equinoxes and the
+nutation of the earth’s axis are the same as if the sea formed one
+solid mass with the earth.
+The oscillations of the third kind are the semi-diurnal tides
+so remarkable on our coasts. In these there are two phenomena
+particularly to be distinguished, one occurring twice in a month,
+the other twice in a year.
+The first phenomenon is, that the tides are much increased in
+the syzygies (N. 158), or at the time of new and full moon: in
+both cases the sun and moon are in the same meridian; for when
+the moon is new they are in conjunction, and when she is full
+they are in opposition. In each of these positions their action is
+combined to produce the highest or spring tides under that meridian,
+and the lowest in those points that are 90° distant. It is
+observed that the higher the sea rises in full tide, the lower it is
+in the ebb. The neap tides take place when the moon is in
+quadrature. They neither rise so high nor sink so low as the
+spring tides. It is evident that the spring tides must happen
+twice in a month, since in that time the moon is once new and
+once full. Theory proves that each partial tide increases as the
+97cube of the parallax or apparent diameter of the body producing
+it, for the greater the apparent diameter the nearer the body
+and the more intense its action upon the sea; hence the spring
+tides are much increased when the moon is in perigee, for then
+she is nearest to the earth.
+The second phenomenon in the tides is the augmentation
+occurring at the time of the equinoxes, when the sun’s declination
+is zero (N. 159), which happens twice in every year. The
+spring tides which take place at that time are often much increased
+by the equinoctial gales, and, on the hypothesis of the
+whole earth covered by the ocean, would be the greatest possible
+if the line of the moon’s nodes coincided with that of her perigee,
+for then the whole action of the luminaries would be in the plane
+of the equator. But since the Antarctic Ocean is the source of
+the tides, it is evident that the spring tide must be greatest
+when the moon is in perigee, and when both luminaries have
+their highest southern declination, for then they act most directly
+upon the great circuit of the south polar seas.
+The sun and moon are continually making the circuit of the
+heavens at different distances from the plane of the equator, on
+account of the obliquity of the ecliptic and the inclination of the
+lunar orbit. The moon takes about
+291⁄2
+days to vary through all
+her declinations, which sometimes extend
+283⁄4°
+on each side of
+the equator, while the sun requires nearly
+3651⁄4
+days to accomplish
+his motions through
+231⁄2°
+on each side of the same plane,
+so that their combined action causes great variations in the tides.
+Both the height and time of high water are perpetually changing,
+and, although the problem does not admit of a general solution,
+it is necessary to analyse the phenomena which ought to arise
+from the attraction of the sun and moon, but the result must
+be corrected in each particular case for local circumstances, so
+that the theory of the tides in each port becomes really a matter
+of experiment, and can only be determined by means of a vast
+number of observations, including many revolutions of the
+moon’s nodes.
+The mean height of the tides will be increased by a very small
+quantity for ages to come, in consequence of the decrease in the
+mean distance of the moon from the earth; the contrary effect
+will take place after that period has elapsed, and the moon’s
+mean distance begins to increase again, which it will continue to
+98do for many ages. Thus the mean distance of the moon and the
+consequent minute increase in the height of the tides will oscillate
+between fixed limits for ever.
+The height to which the tides rise is much greater in narrow
+channels than in the open sea, on account of the obstructions they
+meet with. The sea is so pent up in the British Channel that
+the tides sometimes rise as much as fifty feet at St. Malo, on the
+coast of France; whereas on the shores of some of the South Sea
+islands, near the centre of the Pacific, they do not exceed one or
+two feet. The winds have great influence on the height of the
+tides, according as they conspire with or oppose them. But the
+actual effect of the wind in exciting the waves of the ocean
+extends very little below the surface. Even in the most violent
+storms the water is probably calm at the depth of ninety or a
+hundred fathoms. The tidal wave of the ocean does not reach
+the Mediterranean nor the Baltic, partly from their position and
+partly from the narrowness of the Straits of Gibraltar and of the
+Categat, but it is very perceptible in the Red Sea and in Hudson’s
+Bay. The ebb and flow of the sea are perceptible in rivers to a
+very great distance from their estuaries. In the Narrows of Pauxis,
+in the river of the Amazons, more than five hundred miles from
+the sea, the tides are evident. It requires so many days for the
+tide to ascend this mighty stream, that the returning tides meet a
+succession of those which are coming up; so that every possible
+variety occurs at some part or other of its shores, both as to magnitude
+and time. It requires a very wide expanse of water to
+accumulate the impulse of the sun and moon, so as to render their
+influence sensible; on that account the tides in the Mediterranean
+and Black Sea are scarcely perceptible.
+These perpetual commotions in the waters are occasioned by
+forces that bear a very small proportion to terrestrial gravitation:
+the sun’s action in raising the ocean is only the
+1⁄38448000
+of gravitation
+at the earth’s surface, and the action of the moon is little
+more than twice as much; these forces being in the ratio of
+1 to 2.35333, when the sun and moon are at their mean distances
+from the earth. From this ratio the mass of the moon is found
+to be only the
+1⁄75
+part of that of the earth. Had the action of the
+sun on the ocean been exactly equal to that of the moon, there
+would have been no neap tides, and the spring tides would have
+been of twice the height which the action of either the sun or
+99moon would have produced separately—a phenomenon depending
+upon the interference of the waves or undulations.
+A stone plunged into a pool of still water occasions a series of
+waves to advance along the surface, though the water itself is
+not carried forward, but only rises into heights and sinks into
+hollows, each portion of the surface being elevated and depressed
+in its turn. Another stone of the same size, thrown into the
+water near the first, will occasion a similar set of undulations.
+Then, if an equal and similar wave from each stone arrive at the
+same spot at the same time, so that the elevation of the one
+exactly coincides with the elevation of the other, their united
+effect will produce a wave twice the size of either. But, if one
+wave precede the other by exactly half an undulation, the elevation
+of the one will coincide with the hollow of the other, and the
+hollow of the one with the elevation of the other; and the waves
+will so entirely obliterate one another, that the surface of the
+water will remain smooth and level. Hence, if the length of
+each wave be represented by 1, they will destroy one another at
+intervals of
+1⁄2,
+3⁄2,
+5⁄2,
+&c., and will combine their effects at the intervals
+1, 2, 3, &c. It will be found according to this principle,
+when still water is disturbed by the fall of two equal stones, that
+there are certain lines on its surface of a hyperbolic form, where
+the water is smooth in consequence of the waves obliterating each
+other, and that the elevation of the water in the adjacent parts
+corresponds to both the waves united (N. 160). Now, in the
+spring and neap tides arising from the combination of the simple
+solilunar waves, the spring tide is the joint result of the combination
+when they coincide in time and place; and the neap tide
+happens when they succeed each other by half an interval, so as
+to leave only the effect of their difference sensible. It is, therefore,
+evident that, if the solar and lunar tides were of the same height,
+there would be no difference, consequently no neap tides, and the
+spring tides would be twice as high as either separately. In the
+port of Batsha, in Tonquin, where the tides arrive by two channels
+of lengths corresponding to half an interval, there is neither high
+nor low water on account of the interference of the waves.
+The initial state of the ocean has no influence on the tides; for,
+whatever its primitive conditions may have been, they must soon
+have vanished by the friction and mobility of the fluid. One of
+the most remarkable circumstances in the theory of the tides is
+100the assurance that, in consequence of the density of the sea being
+only one-fifth of the mean density of the earth, and the earth itself
+increasing in density towards the centre, the stability of the equilibrium
+of the ocean never can be subverted by any physical cause.
+A general inundation arising from the mere instability of the
+ocean is therefore impossible. A variety of circumstances, however,
+tend to produce partial variations in the equilibrium of the
+seas, which is restored by means of currents. Winds and the
+periodical melting of the ice at the poles occasion temporary watercourses;
+but by far the most important causes are the centrifugal
+force induced by the velocity of the earth’s rotation, and variations
+in the density of the sea.
+The centrifugal force may be resolved into two forces—one
+perpendicular, and another tangent to the earth’s surface (N. 161).
+The tangential force, though small, is sufficient to make the fluid
+particles within the polar circles tend towards the equator, and
+the tendency is much increased by the immense evaporation in
+the equatorial regions from the heat of the sun, which disturbs
+the equilibrium of the ocean. To this may also be added the
+superior density of the waters near the poles, from their low temperature.
+In consequence of the combination of all these circumstances,
+two great currents perpetually set from each pole towards
+the equator. But, as they come from latitudes where the rotatory
+motion of the surface of the earth is very much less than it is
+between the tropics, on account of their inertia, they do not immediately
+acquire the velocity with which the solid part of the
+earth’s surface is revolving at the equatorial regions; from whence
+it follows that, within twenty-five or thirty degrees on each side
+of the line, the ocean has a general motion from east to west,
+which is much increased by the action of the trade winds. Both
+in the Pacific and Atlantic currents of enormous magnitude are
+deflected by the continents and islands to the north and south
+from this mighty mass of rushing waters, which convey the
+warmth of the equator to temper the severity of the polar regions,
+while to maintain the equilibrium of the seas counter currents of
+cold water are poured from the polar oceans to mingle with the
+warm waters at the line, so that a perpetual circulation is maintained.
+Icebergs are sometimes drifted as far as the Azores from the
+Polar seas, and from the south pole they have come even to the
+101Cape of Good Hope. But the ice which encircles the south pole
+extends to lower latitudes by 10° than that which surrounds the
+north. In consequence of the polar current Sir Edward Parry
+was obliged to give up his attempt to reach the north pole in the
+year 1827, because the fields of ice were drifting to the south
+faster than his party could travel over them to the north.
+Kotzebue and Sir James Ross found a stratum of constant temperature
+in the ocean at a depth depending upon the latitude: at
+the equator it is at the depth of 7200 feet, from whence it gradually
+rises till it comes to the surface in both hemispheres about the
+latitude of 56° 26ʹ, where the water has the same temperature at
+all depths; it then descends to 4500 feet below the surface about
+the 70th parallel both in the Arctic and Antarctic Seas. The
+temperature of that aqueous zone is about 39°·5 of Fahrenheit.[7]
+It divides the surface of the ocean into five great zones of temperature,
+namely, a medial region, in which the highest mean
+temperature is 82° Fahr., two temperate zones each of 39°·5
+Fahr., and two polar basins at the freezing point of salt water.</div></body></text></TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 153-157</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 153-157.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1841">undated [June 1841]</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 153-157</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_153-157.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Friday Afternoon</p>
+      <p>My Dearest Mate. I am so happy altogether, &amp; so well &amp; nice today, that I don't know how to put my chirps &amp; gaiety on paper so as to convey the thrush's glee to her dear Mate. I have quantities to tell him.-- I have been</p>
+      <p>making acquaintance with Sir William Molesworth. I rode with him two days ago, which was my first introduction to him,-- arranged by Mr Duppa. We took to each other much, &amp; I was most agreeably surprised &amp; disappointed in his gentlemanlike respectful manners, &amp; the absence of everything like self-sufficiency or</p>
+      <p>conceit. He has just been with me today, &amp; we have had a long &amp; highly interesting conversation on science, mathematics, metaphysics &amp;c. I have invited him to Ockham (of which I hope you will not disapprove). He has a most extraordinary intellect, &amp; I consider him a valuable addition to my flock.--</p>
+      <p>Yesterday we all</p>
+      <p>went to Norwood as proposed. There was nothing in H's manners to disapprove of or regret. At Norwood we met Sir T &amp; Lady Acland, old Mr Fortescue, Henry Fortescue, in short all the collateral Fortescues almost.--</p>
+      <p>In returning home, we paid the intended visit to the Astrologer at Dulwich; &amp; were</p>
+      <p>altogether highly entertained there. The particulars of the visit, I cannot communicate now in a letter.--</p>
+      <p>This evening I go to the German Opera with Dr Kay.--</p>
+      <p>I have been very much with the Hen since you went. She seems to like &amp; approve me, &amp; all my plans &amp; intentions,</p>
+      <p>as far as I have explained them; and especially my intended &amp; increasing intercourse &amp; projects with Dr Kay. She has been further discussing me with him, &amp; she tells me she is astonished at his knowledge, penetration, &amp; judgment respecting me; &amp; much gratified to see the honest &amp; disinterested</p>
+      <p>friendship he entertains for the Avis.--</p>
+      <p>Pray love the happy Bird, who never can be grateful enough for the relations &amp; friends she is so singularly blessed with; from ou downwards.--</p>
+      <p>I was disappointed to have no letter from you this morning, but on calculating, I rather believe I could not</p>
+      <p>easily have heard before tomorrow. I write, as you may perceive, in haste; &amp; am scrawling in a very Bird-claw [claw underlined twice] -like way.--</p>
+      <p>We have had much rain; but it is fine this afternoon. I am going to ride out with Mr Duppa.--</p>
+      <p>Dearest Mate, Good Bye. The Bird chirps at ou.</p>
+      <p>I had a long visit from Greig again yesterday morning</p>
+      <p>in which he repeated his urgency about the Chair-man-ship, &amp; his conviction of a unanimous election for you.--</p>
+      <p>Avis Phoenix</p>
+      <p>P.S. I hope you have not thought me negligent for not writing yesterday I was much hurried.--</p>
+    </div></body>
+  </text>
+</TEI>

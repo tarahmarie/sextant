@@ -1,0 +1,192 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="63">CHAPTER II.
+Discovery of the Law of Refraction.
+WE have seen in the former part of this history that the Greeks had formed
+a tolerably clear conception of the refraction as well as the
+reflection of the rays of light; and that Ptolemy had measured the
+amount of refraction of glass and water at various angles. If we give
+the names of the angle of incidence and the angle of
+refraction respectively to the angles which a ray of light makes
+with the line perpendicular to surface of glass or water (or any other
+medium) within and without the medium, Ptolemy had observed that the
+angle of refraction is always less than the angle of incidence. He had
+supposed it to be less in a given proportion, but this opinion is
+false; and was afterwards rightly denied by the Arabian mathematician
+Alhazen. The optical views which occur in the work of Alhazen are far
+sounder than those of his predecessors; and the book may be regarded
+as the most considerable monument which we have of the scientific
+genius of the Arabians; for it appears, for the most part, not to be
+borrowed from Greek authorities. The author not only asserts (lib.
+vii.), that refraction takes place towards the perpendicular, and
+refers to experiment for the truth of this: and that the quantities of
+the refraction differ according to the magnitudes of the angles which
+the directions of the incidental rays (primæ lineæ) make with
+the perpendiculars to the surface; but he also says distinctly and
+decidedly that the angles of refraction do not follow the proportion
+of the angles of incidence.
+[2nd Ed.] [There appears to be good ground to assent to the
+assertion of Alhazen’s originality, made by his editor Risner, who
+says, “Euclideum hic vel Ptolemaicum nihil fere est.” Besides the
+doctrine of reflection and refraction of light, the Arabian author
+gives a description of the eye. He distinguishes three fluids,
+humor aqueus, crystallinus, vitreus, and four
+coats of the eye, tunica adherens, cornea, uvea,
+tunica reti similis. He distinguishes also three kinds of
+vision: “Visibile percipitur aut solo visu, aut visu et syllogismo,
+aut visu et anticipatâ notione.” He has several propositions relating
+to what we sometimes call the Philosophy of Vision: for instance this:
+“E visibili sæpius viso remanet in anima generalis notio,” &c.]
+55
+The assertion, that the angles of refraction are not proportional
+to the angles of incidence, was an important remark; and if it had
+been steadily kept in mind, the next thing to be done with regard to
+refraction was to go on experimenting and conjecturing till the true
+law of refraction was discovered; and in the mean time to apply the
+principle as far as it was known. Alhazen, though he gives directions
+for making experimental measures of refraction, does not give any
+Table of the results of such experiments, as Ptolemy had done.
+Vitello, a Pole, who in the 13th century published an extensive work
+upon Optics, does give such a table; and asserts it to be deduced from
+experiment, as I have already said (vol. i.).
+But this assertion is still liable to doubt in consequence of the
+table containing impossible observations.
+[2nd Ed.] [As I have already stated, Vitello asserts that his
+Tables were derived from his own observations. Their near agreement
+with those of Ptolemy does not make this improbable: for where the
+observations were only made to half a degree, there was not much room
+for observers to differ. It is not unlikely that the observations of
+refraction out of air into water and glass, and out of water into
+glass, were actually made; while the impossible values which accompany
+them, of the refraction out of water and glass into air, and out of
+glass into water, were calculated, and calculated from an erroneous
+rule.]
+The principle that a ray refracted in glass or water is turned
+towards the perpendicular, without knowing the exact law of
+refraction, enabled mathematicians to trace the effects of transparent
+bodies in various cases. Thus in Roger Bacon’s works we find a
+tolerably distinct explanation of the effect of a convex glass; and in
+the work of Vitello the effect of refraction at the two surfaces of a
+glass globe is clearly traceable.
+Notwithstanding Alhazen’s assertion of the contrary, the opinion
+was still current among mathematicians that the angle of refraction
+was proportional to the angle of incidence. But when Kepler’s
+attention was drawn to the subject, he saw that this was plainly
+inconsistent with the observations of Vitello for large angles; and he
+convinced himself by his own experiments that the true law was
+something different from the one commonly supposed. The discovery of
+this true law excited in him an eager curiosity; and this point had
+the more interest for him in consequence of the introduction of a
+correction for atmospheric refraction into astronomical calculations,
+which had been made by Tycho, and of the invention of the telescope.
+In 56 his
+Supplement to Vitello, published in 1604, Kepler attempts to
+reduce to a rule the measured quantities of refraction. The reader who
+recollects what we have already narrated, the manner in which Kepler
+attempted to reduce to law the astronomical observations of
+Tycho,—devising an almost endless variety of possible formulæ,
+tracing their consequences with undaunted industry, and relating, with
+a vivacious garrulity, his disappointments and his hopes,—will
+not be surprised to find that he proceeded in the same manner with
+regard to the Tables of Observed Refractions. He tried a variety of
+constructions by triangles, conic sections, &c., without being
+able to satisfy himself; and he at last3 is obliged to
+content himself with an approximate rule, which makes the refraction
+partly proportional to the angle of incidence, and partly, to the
+secant of that angle. In this way he satisfies the observed
+refractions within a difference of less than half a degree each way.
+When we consider how simple the law of refraction is, (that the ratio
+of the sines of the angles of incidence and refraction is constant for
+the same medium,) it appears strange that a person attempting to
+discover it, and drawing triangles for the purpose, should fail; but
+this lot of missing what afterwards seems to have been obvious, is a
+common one in the pursuit of truth.
+3 L. U. K. Life of Kepler, p.
+115.
+The person who did discover the Law of the Sines, was Willebrord
+Snell, about 1621; but the law was first published by Descartes, who
+had seen Snell’s papers.4 Descartes does not acknowledge this law
+to have been first detected by another; and after his manner, instead
+of establishing its reality by reference to experiment, he pretends to
+prove à priori that it must be true,5 comparing, for
+this purpose, the particles of light to balls striking a substance
+which accelerates them.
+4 Huyghens, Dioptrica, p.
+2.
+5 Diopt. p. 53.
+[2nd Ed.] [Huyghens says of Snell’s papers, “Quæ et nos vidimus
+aliquando, et Cartesium quoque vidisse accepimus, et hinc fortasse
+mensuram illam quæ in sinibus consistit elicuerit.” Isaac Vossius,
+De Lucis Naturâ et Proprietate, says that he also had seen this
+law in Snell’s unpublished optical Treatise. The same writer says,
+“Quod itaque (Cartesius) habet, refractionum momenta non exigenda esse
+ad angulos sed ad lineas, id tuo Snellio, acceptum ferre debuisset,
+cujus nomen more solito dissimulavit.” “Cartesius got his law
+from Snell, and in his usual way, concealed it.” 57
+Huyghens’ assertion, that Snell did not attend to the
+proportion of the sines, is very captious; and becomes absurdly so,
+when it is made to mean that Snell did not know the law of
+the sines. It is not denied that Snell knew the true law, or that the
+true law is the law of the sines. Snell does not use the
+trigonometrical term sine, but he expresses the law in a
+geometrical form more simply. Even if he had attended to the
+law of the sines, he might reasonably have preferred his own way of
+stating it.
+James Gregory also independently discovered the true law of
+refraction; and, in publishing it, states that he had learnt that it
+had already been published by Descartes.]
+But though Descartes does not, in this instance, produce any good
+claims to the character of an inductive philosopher, he showed
+considerable skill in tracing the consequences of the principle when
+once adopted. In particular we must consider him as the genuine author
+of the explanation of the rainbow. It is true that Fleischer6
+and Kepler had previously ascribed this phenomenon to the rays of
+sunlight which, falling on drops of rain, are refracted into each
+drop, reflected at its inner surface, and refracted out again: Antonio
+de Dominis had found that a glass globe of water, when placed in a
+particular position with respect to the eye, exhibited bright colors;
+and had hence explained the circular form of the bow, which, indeed,
+Aristotle had done before.7 But none of these writers had shown why
+there was a narrow bright circle of a definite diameter; for the drops
+which send rays to the eye after two refractions and a reflection,
+occupy a much wider space in the heavens. Descartes assigned the
+reason for this in the most satisfactory manner,8 by showing that
+the rays which, after two refractions and a reflection, come to the
+eye at an angle of about forty-one degrees with their original
+direction, are far more dense than those in any other position. He
+showed, in the same manner, that the existence and position of the
+secondary bow resulted from the same laws. This is the complete
+and adequate account of the state of things, so far as the brightness
+of the bows only is concerned; the explanation of the colors belongs
+to the next article of our survey.
+6 Mont. i. 701.
+7 Meteorol. iii. 3.
+8 Meteorum, cap. viii. p.
+196.
+The explanation of the rainbow and of its magnitude, afforded by
+Snell’s law of sines, was perhaps one of the leading points in the
+verification of the law. The principle, being once established, was
+applied, by the aid of mathematical reasoning, to atmospheric
+refractions, 58
+optical instruments, diacaustic curves, (that is, the curves of
+intense light produced by refraction,) and to various other cases; and
+was, of course, tested and confirmed by such applications. It was,
+however, impossible to pursue these applications far, without a due
+knowledge of the laws by which, in such cases, colors are produced. To
+these we now proceed.
+[2nd Ed.] [I have omitted many interesting parts of the history of
+Optics about this period, because I was concerned with the
+inductive discovery of laws, rather than with mathematical
+deductions from such laws when established, or
+applications of them in the form of instruments. I might
+otherwise have noticed the discovery of Spectacle Glasses, of the
+Telescope, of the Microscope, of the Camera Obscura, and the
+mathematical explanation of these and other phenomena, as given by
+Kepler and others. I might also have noticed the progress of knowledge
+respecting the Eye and Vision. We have seen
+that Alhazen described the structure of the eye. The operation of the
+parts was gradually made out. Baptista Porta compares the eye to his
+Camera Obscura (Magia Naturalis, 1579). Scheiner, in his
+Oculus, published 1652, completed the Theory of the Eye. And
+Kepler discussed some of the questions even now often agitated; as the
+causes and conditions of our seeing objects single with two eyes, and
+erect with inverted images.]
+</div></body></text></TEI>

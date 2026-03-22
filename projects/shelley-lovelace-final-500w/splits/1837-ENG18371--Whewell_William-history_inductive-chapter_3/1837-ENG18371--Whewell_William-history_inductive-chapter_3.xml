@@ -1,0 +1,716 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="3">CHAPTER II.
+The Greek School Philosophy.
+
+Sect. 1.—The general Foundation of
+the Greek School Philosophy.
+THE physical philosophy of the
+Greek Schools was formed by looking at the material world through the
+medium of that common language which men employ to answer the common
+occasions of life; and by adopting, arbitrarily, as the grounds of
+comparison of facts, and of inference from them, notions more abstract
+and large than those with which men are practically familiar, but not
+less vague and obscure. Such a philosophy, however much it might be
+systematized, by classifying and analyzing the conceptions which it
+involves, could not overcome the vices of its fundamental principle.
+But before speaking of these defects, we must give some indications of
+its character.
+The propensity to seek for principles in the common usages of
+language may be discerned at a very early period. Thus we have an
+example of it in a saying which is reported of Thales, the founder of
+Greek philosophy.13 When he was asked, “What is the
+greatest thing?” he replied, “Place; for all other
+things are in the world, but the world is in it.” In
+Aristotle we have the consummation of this mode of speculation. The
+usual point from which he starts in his inquiries is, that we say thus
+or thus in common language. Thus, when he has to discuss the question,
+whether there be, in any part of the universe, a Void, or space in
+which there is nothing, he inquires first in how many senses we say
+that one thing is in another. He enumerates many of these;14 we say the part is in the whole, as the
+finger is in the hand; again we say, the species is in the
+genus, as man is included in animal; again, the government of
+Greece is in the king; and various other senses are described
+or exemplified, but of all these the most proper is when we
+say a thing is in a vessel, and generally, in place.
+He next examines what place is, and comes to this conclusion,
+that “if about a body there be another body including it, it is in
+place, and if not, not.” A body moves when it changes its
+place; but 64 he
+adds, that if water be in a vessel, the vessel being at rest, the
+parts of the water may still move, for they are included by each
+other; so that while the whole does not change its place, the parts
+may change their places in a circular order. Proceeding then to the
+question of a void, he, as usual, examines the different
+senses in which the term is used, and adopts, as the most proper,
+place without matter; with no useful result, as we shall soon see.
+13 Plut. Conv. Sept. Sap. Diog.
+Laert. i. 35.
+14 Physic. Ausc. iv. 3.
+Again,15 in a question concerning mechanical
+action, he says, “When a man moves a stone by pushing it with a stick,
+we say both that the man moves the stone, and that the stick
+moves the stone, but the latter more properly.”
+15 Physic. Ausc. viii. 5.
+Again, we find the Greek philosophers applying themselves to
+extract their dogmas from the most general and abstract notions which
+they could detect; for example,—from the conception of the
+Universe as One or as Many things. They tried to determine how far we
+may, or must, combine with these conceptions that of a whole, of
+parts, of number, of limits, of place, of beginning or end, of full or
+void, of rest or motion, of cause and effect, and the like. The
+analysis of such conceptions with such a view, occupies, for instance,
+almost the whole of Aristotle’s Treatise on the Heavens.
+The Dialogue of Plato, which is entitled Parmenides, appears
+at first as if its object were to show the futility of this method of
+philosophizing; for the philosopher whose name it bears, is
+represented as arguing with an Athenian named Aristotle,16 and, by a process of metaphysical
+analysis, reducing him at least to this conclusion, “that whether
+One exist, or do not exist, it follows that both it and other
+things, with reference to themselves and to each other, all and in all
+respects, both are and are not, both appear and appear not.” Yet the
+method of Plato, so far as concerns truths of that kind with which we
+are here concerned, was little more efficacious than that of his
+rival. It consists mainly, as may be seen in several of the dialogues,
+and especially in the Timæus, in the application of notions as
+loose as those of the Peripatetics; for example, the conceptions of
+the Good, the Beautiful, the Perfect; and these are rendered still
+more arbitrary, by assuming an acquaintance with the views of the
+Creator of the universe. The philosopher is thus led to maxims which
+agree with those 65
+of the Aristotelians, that there can be no void, that things seek
+their own place, and the like.17
+16 This Aristotle is not the
+Stagirite, who was forty-five years younger than Plato, but one of the
+“thirty tyrants,” as they were called.
+17 Timæus, p. 80.
+Another mode of reasoning, very widely applied in these attempts,
+was the doctrine of contrarieties, in which it was assumed, that
+adjectives or substantives which are in common language, or in some
+abstract mode of conception, opposed to each other, must point at some
+fundamental antithesis in nature, which it is important to study. Thus
+Aristotle18 says, that the Pythagoreans, from the
+contrasts which number suggests, collected ten
+principles,—Limited and Unlimited, Odd and Even, One and Many,
+Right and Left, Male and Female, Rest and Motion, Straight and Curved,
+Light and Darkness, Good and Evil, Square and Oblong. We shall see
+hereafter, that Aristotle himself deduced the doctrine of Four
+Elements, and other dogmas, by oppositions of the same kind.
+18 Metaph. 1. 5.
+The physical speculator of the present day will learn without
+surprise, that such a mode of discussion as this, led to no truths of
+real or permanent value. The whole mass of the Greek philosophy,
+therefore, shrinks into an almost imperceptible compass, when viewed
+with reference to the progress of physical knowledge. Still the
+general character of this system, and its fortunes from the time of
+its founders to the overthrow of their authority, are not without
+their instruction, and, it may be hoped, not without their interest. I
+proceed, therefore, to give some account of these doctrines in their
+most fully developed and permanently received form, that in which they
+were presented by Aristotle.
+Sect. 2.—The Aristotelian Physical
+Philosophy.
+The principal physical treatises of
+Aristotle are, the eight Books of “Physical Lectures,” the four Books
+“Of the Heavens,” the two Books “Of Production and Destruction:” for
+the Book “Of the World” is now universally acknowledged to be
+spurious; and the “Meteorologies,” though full of physical
+explanations of natural phenomena, does not exhibit the doctrines and
+reasonings of the school in so general a form; the same may be said of
+the “Mechanical Problems.” The treatises on the various subjects of
+Natural History, “On Animals,” “On the Parts of Animals,” “On Plants,”
+“On Physiognomonics,” “On Colors,” “On Sound,” contain an
+extraordinary 66
+accumulation of facts, and manifest a wonderful power of
+systematizing; but are not works which expound principles, and
+therefore do not require to be here considered.
+The Physical Lectures are possibly the work concerning which a
+well-known anecdote is related by Simplicius, a Greek commentator of
+the sixth century, as well as by Plutarch. It is said, that Alexander
+the Great wrote to his former tutor to this effect; “You have not done
+well in publishing these lectures; for how shall we, your pupils,
+excel other men, if you make that public to all, which we learnt from
+you?” To this Aristotle is said to have replied: “My Lectures are
+published and not published; they will be intelligible to those who
+heard them, and to none besides.” This may very easily be a story
+invented and circulated among those who found the work beyond their
+comprehension; and it cannot be denied, that to make out the meaning
+and reasoning of every part, would be a task very laborious and
+difficult, if not impossible. But we may follow the import of a large
+portion of the Physical Lectures with sufficient clearness to
+apprehend the character and principles of the reasoning; and this is
+what I shall endeavor to do.
+The author’s introductory statement of his view of the nature of
+philosophy falls in very closely with what has been said, that he
+takes his facts and generalizations as they are implied in the
+structure of language. “We must in all cases proceed,” he says, “from
+what is known to what is unknown.” This will not be denied; but we can
+hardly follow him in his inference. He adds, “We must proceed,
+therefore, from universal to particular. And something of this,” he
+pursues, “may be seen in language; for names signify things in a
+general and indefinite manner, as circle, and by defining we
+unfold them into particulars.” He illustrates this by saying, “thus
+children at first call all men father, and all women
+mother, but afterwards distinguish.”
+In accordance with this view, he endeavors to settle
+several of the great questions concerning the universe, which had been
+started among subtle and speculative men, by unfolding the meaning of
+the words and phrases which are applied to the most general notions of
+things and relations. We have already noticed this method. A few
+examples will illustrate it further:—Whether there was or was
+not a void, or place without matter, had already been debated
+among rival sects of philosophers. The antagonist arguments were
+briefly these:—There must be a void, because a body cannot move
+into a space except it is 67 empty, and therefore without a void there
+could be no motion:—and, on the other hand, there is no void,
+for the intervals between bodies are filled with air, and air is
+something. These opinions had even been supported by reference to
+experiment. On the one hand, Anaxagoras and his school had shown, that
+air, when confined, resisted compression, by squeezing a blown
+bladder, and pressing down an inverted vessel in the water; on the
+other hand, it was alleged that a vessel full of fine ashes held as
+much water as if the ashes were not there, which could only be
+explained by supposing void spaces among the ashes. Aristotle decides
+that there is no void, on such arguments as this:19—In a void
+there could be no difference of up and down; for as in nothing there
+are no differences, so there are none in a privation or negation; but
+a void is merely a privation or negation of matter; therefore, in a
+void, bodies could not move up and down, which it is in their nature
+to do. It is easily seen that such a mode of reasoning, elevates the
+familiar forms of language and the intellectual connections of terms,
+to a supremacy over facts; making truth depend upon whether terms are
+or are not privative, and whether we say that bodies fall
+naturally. In such a philosophy every new result of observation
+would be compelled to conform to the usual combinations of phrases, as
+these had become associated by the modes of apprehension previously
+familiar.
+19 Physic. Ausc. iv. 7, p. 215.
+It is not intended here to intimate that the common modes of
+apprehension, which are the basis of common language, are limited and
+casual. They imply, on the contrary, universal and necessary
+conditions of our perceptions and conceptions; thus all things are
+necessarily apprehended as existing in Time and Space, and as
+connected by relations of Cause and Effect; and so far as the
+Aristotelian philosophy reasons from these assumptions, it has a real
+foundation, though even in this case the conclusions are often
+insecure. We have an example of this reasoning in the eighth Book,20 where he proves that there never was a
+time in which change and motion did not exist; “For if all things were
+at rest, the first motion must have been produced by some change in
+some of these things; that is, there must have been a change before
+the first change;” and again, “How can before and after
+apply when time is not? or how can time be when motion is not? If,” he
+adds, “time is a numeration of motion, and if time be eternal, motion
+must be eternal.” But he sometimes 68 introduces principles of a more arbitrary
+character; and besides the general relations of thought, takes for
+granted the inventions of previous speculators; such, for instance, as
+the then commonly received opinions concerning the frame of the world.
+From the assertion that motion is eternal, proved in the manner just
+stated, Aristotle proceeds by a curious train of reasoning, to
+identify this eternal motion with the diurnal motion of the heavens.
+“There must,” he says, “be something which is the First Mover:”21 this follows from the relation of
+causes and effects. Again, “Motion must go on constantly, and,
+therefore, must be either continuous or successive. Now what is
+continuous is more properly said to take place constantly, than
+what is successive. Also the continuous is better; but we always
+suppose that which is better to take place in nature, if it be
+possible. The motion of the First Mover will, therefore, be
+continuous, if such an eternal motion be possible.” We here see the
+vague judgment of better and worse introduced, as that
+of natural and unnatural was before, into physical
+reasonings.
+20 Ib. viii. 1, p. 258.
+21 Physic. Ausc. viii. 6. p.
+258.
+I proceed with Aristotle’s argument.22 “We have now,
+therefore, to show that there may be an infinite single, continuous
+motion, and that this is circular.” This is, in fact, proved, as may
+readily be conceived, from the consideration that a body may go on
+perpetually revolving uniformly in a circle. And thus we have a
+demonstration, on the principles of this philosophy, that there is and
+must be a First Mover, revolving eternally with a uniform circular
+motion.
+22 Ib. viii. 8.
+Though this kind of philosophy may appear too trifling to deserve
+being dwelt upon, it is important for our purpose so far as to
+exemplify it, that we may afterwards advance, confident that we have
+done it no injustice.
+I will now pass from the doctrines relating to the motions of the
+heavens, to those which concern the material elements of the universe.
+And here it may be remarked that the tendency (of which we are here
+tracing the development) to extract speculative opinions from the
+relations of words, must be very natural to man; for the very widely
+accepted doctrine of the Four Elements which appears to be founded on
+the opposition of the adjectives hot and cold,
+wet and dry, is much older than Aristotle, and was
+probably one of the earliest of philosophical dogmas. The great master
+of this philosophy, however, puts the opinion in a more systematic
+manner than his predecessors. 69
+“We seek,” he says,23 “the principles of sensible things,
+that is, of tangible bodies. We must take, therefore, not all the
+contrarieties of quality, but those only which have reference to the
+touch. Thus black and white, sweet and bitter, do not differ as
+tangible qualities, and therefore must be rejected from our
+consideration.
+23 De Gen. et Corrupt. ii. 2.
+“Now the contrarieties of quality which refer to the touch are
+these: hot, cold; dry, wet; heavy, light; hard, soft; unctuous,
+meagre; rough, smooth; dense, rare.” He then proceeds to reject all
+but the four first of these, for various reasons; heavy and light,
+because they are not active and passive qualities; the others, because
+they are combinations of the four first, which therefore he infers to
+be the four elementary qualities.
+“24Now in four things there are six
+combinations of two; but the combinations of two opposites, as hot and
+cold, must be rejected; we have, therefore, four elementary
+combinations, which agree with the four apparently elementary bodies.
+Fire is hot and dry; air is hot and wet (for steam is air); water is
+cold and wet, earth is cold and dry.”
+24 Ib. iii. 8.
+It may be remarked that this disposition to assume that some common
+elementary quality must exist in the cases in which we habitually
+apply a common adjective, as it began before the reign of the
+Aristotelian philosophy, so also survived its influence. Not to
+mention other cases, it would be difficult to free Bacon’s
+Inquisitio in naturam calidi, “Examination of the nature of
+heat,” from the charge of confounding together very different classes
+of phenomena under the cover of the word hot.
+The correction of these opinions concerning the elementary
+composition of bodies belongs to an advanced period in the history of
+physical knowledge, even after the revival of its progress. But there
+are some of the Aristotelian doctrines which particularly deserve our
+attention, from the prominent share they had in the very first
+beginnings of that revival; I mean the doctrines concerning
+motion.
+These are still founded upon the same mode of reasoning from
+adjectives; but in this case, the result follows, not only from the
+opposition of the words, but also from the distinction of their being
+absolutely or relatively true. “Former writers,” says
+Aristotle, “have considered heavy and light relatively only,
+taking cases, where both things have weight, but one is lighter than
+the other; and they imagined that, in 70 this way, they defined what was
+absolutely (ἁπλῶς) heavy and light.” We now know that things
+which rise by their lightness do so only because they are pressed
+upwards by heavier surrounding bodies; and this assumption of absolute
+levity, which is evidently gratuitous, or rather merely nominal,
+entirely vitiated the whole of the succeeding reasoning. The inference
+was, that fire must be absolutely light, since it tends to take its
+place above the other three elements; earth absolutely heavy, since it
+tends to take its place below fire, air, and water. The philosopher
+argued also, with great acuteness, that air, which tends to take its
+place below fire and above water, must do so by its nature,
+and not in virtue of any combination of heavy and light elements. “For
+if air were composed of the parts which give fire its levity, joined
+with other parts which produce gravity, we might assume a quantity of
+air so large, that it should be lighter than a small quantity of fire,
+having more of the light parts.” It thus follows that each of the four
+elements tends to its own place, fire being the highest, air the next,
+water the next, and earth the lowest.
+The whole of this train of errors arises from fallacies which have
+a verbal origin;—from considering light as opposite to heavy;
+and from considering levity as a quality of a body, instead of
+regarding it as the effect of surrounding bodies.
+It is worth while to notice that a difficulty which often
+embarrasses persons on their entrance upon physical
+speculations,—the difficulty of conceiving that up and down are
+different directions in different places,—had been completely
+got over by Aristotle and the Greek philosophers. They were steadily
+convinced of the roundness of the earth, and saw that this truth led
+to the conclusion that all heavy bodies tend in converging directions
+to the centre. And, they added, as the heavy tends to the centre, the
+light tends to the exterior, “for Exterior is opposite to Centre as
+heavy is to light.”25
+25 De Cœlo, iv. 4.
+The tendencies of bodies downwards and upwards, their weight, their
+fall, their floating or sinking, were thus accounted for in a manner
+which, however unsound, satisfied the greater part of the speculative
+world till the time of Galileo and Stevinus, though Archimedes in the
+mean time published the true theory of floating bodies, which is very
+different from that above stated. Other parts of the doctrines of
+motion were delivered by the Stagirite in the same spirit and with the
+same success. The motion of a body which is thrown along the 71 ground diminishes and
+finally ceases; the motion of a body which falls from a height goes on
+becoming quicker and quicker; this was accounted for on the usual
+principle of opposition, by saying that the former is a
+violent, the latter a natural motion. And the later
+writers of this school expressed the characters of such motions in
+verse. The rule of natural motion was26
+
+
+Principium tepeat, medium cum fine
+calebit.
+Cool at the first, it warm and warmer
+glows.
+
+And of violent motion, the law was—
+
+
+Principium fervet, medium calet, ultima
+friget.
+Hot at the first, then barely warm, then
+cold.
+
+26 Alsted. Encyc. tom. i. p.
+687.
+It appears to have been considered by Aristotle a difficult problem
+to explain why a stone thrown from the hand continues to move for some
+time, and then stops. If the hand was the cause of the motion, how
+could the stone move at all when left to itself? if not, why does it
+ever stop? And he answers this difficulty by saying,27 “that there is a motion communicated to
+the air, the successive parts of which urge the stone onwards; and
+that each part of this medium continues to act for some while after it
+has been acted on, and the motion ceases when it comes to a particle
+which cannot act after it has ceased to be acted on.” It will be
+readily seen that the whole of this difficulty, concerning a body
+which moves forward and is retarded till it stops, arises from
+ascribing the retardation, not to the real cause, the surrounding
+resistances, but to the body itself.
+27 Phys. Ausc. viii. 10.
+One of the doctrines which was the subject of the warmest
+discussion between the defenders and opposers of Aristotle, at the
+revival of physical knowledge, was that in which he asserts,28 “That body is heavier than another
+which in an equal bulk moves downward quicker.” The opinion maintained
+by the Aristotelians at the time of Galileo was, that
+bodies fall quicker exactly in proportion to their weight. The master
+himself asserts this in express terms, and reasons upon it.29 Yet in another passage he appears to
+distinguish between weight and actual motion downwards.30 “In physics, we call bodies heavy and
+light from their power of motion; but these names are not
+applied to their actual operations (ἐνέργειαις) except any one thinks
+72 momentum
+(ῥοπὴ) to be a word of both applications. But heavy and light are, as
+it were, the embers or sparks of motion, and therefore
+proper to be treated of here.”
+28 De Cœlo, iv. 1, p. 308.
+29 Ib. iii. 2.
+30 Ib. iv. 1, p. 307.
+The distinction just alluded to, between Power or Faculty of
+Action, and actual Operation or Energy, is one very frequently
+referred to by Aristotle; and though not by any means useless, may
+easily be so used as to lead to mere verbal refinements instead of
+substantial knowledge.
+The Aristotelian distinction of Causes has not any very immediate
+bearing upon the parts of physics of which we have here mainly spoken;
+but it was so extensively accepted, and so long retained, that it may
+be proper to notice it.31 “One kind of Cause is the matter of
+which any thing is made, as bronze of a statue, and silver of a vial;
+another is the form and pattern, as the Cause of an octave is the
+ratio of two to one; again, there is the Cause which is the origin of
+the production, as the father of the child; and again, there is the
+End, or that for the sake of which any thing is done, as health is the
+cause of walking.” These four kinds of Cause, the material, the
+formal, the efficient, and the final, were long
+leading points in all speculative inquiries; and our familiar forms of
+speech still retain traces of the influence of this division.
+31 Phys. ii. 3.
+It is my object here to present to the reader in an intelligible
+shape, the principles and mode of reasoning of the Aristotelian
+philosophy, not its results. If this were not the case, it would be
+easy to excite a smile by insulating some of the passages which are
+most remote from modern notions. I will only mention, as specimens,
+two such passages, both very remarkable.
+In the beginning of the book “On the Heavens,” he proves32 the world to be perfect, by
+reasoning of the following kind: “The bodies of which the world is
+composed are solids, and therefore have three dimensions: now three is
+the most perfect number; it is the first of numbers, for of one
+we do not speak as a number; of two we say both; but
+three is the first number of which we say all; moreover,
+it has a beginning, a middle, and an end.”
+32 De Cœlo, i. 1.
+The reader will still perceive the verbal foundations of opinions
+thus supported.
+“The simple elements must have simple motions, and thus fire and
+air have their natural motions upwards, and water and earth have 73 their natural motions
+downwards; but besides these motions, there is motion in a circle,
+which is unnatural to these elements, but which is a more perfect
+motion than the other, because a circle is a perfect line, and a
+straight line is not; and there must be something to which this motion
+is natural. From this it is evident,” he adds, with obvious animation,
+“that there is some essence of body different from those of the four
+elements, more divine than those, and superior to them. If things
+which move in a circle move contrary to nature, it is marvellous, or
+rather absurd, that this, the unnatural motion, should alone be
+continuous and eternal; for unnatural motions decay speedily. And so,
+from all this, we must collect, that besides the four elements which
+we have here and about us, there is another removed far off, and the
+more excellent in proportion as it is more distant from us.” This
+fifth element was the “quinta essentia,” of after writers, of
+which we have a trace in our modern literature, in the word
+quintessence.
+Sect. 3.—Technical Forms of the Greek
+Schools.
+We have hitherto considered only the
+principle of the Greek Physics; which was, as we have seen, to deduce
+its doctrines by an analysis of the notions which common language
+involves. But though the Grecian philosopher began by studying words
+in their common meanings, he soon found himself led to fix upon some
+special shades or applications of these meanings as the permanent and
+standard notion, which they were to express; that is, he made his
+language technical. The invention and establishment of
+technical terms is an important step in any philosophy, true or false;
+we must, therefore, say a few words on this process, as exemplified in
+the ancient systems.
+1. Technical Forms of the Aristotelian Philosophy.—We
+have already had occasion to cite some of the distinctions introduced
+by Aristotle, which may be considered as technical; for instance, the
+classification of Causes as material, formal,
+efficient, and final; and the opposition of Qualities as
+absolute and relative. A few more of the most important
+examples may suffice. An analysis of objects into Matter and
+Form, when metaphorically extended from visible objects to
+things conceived in the most general manner, became an habitual
+hypothesis of the Aristotelian school. Indeed this metaphor is even
+yet one of the most significant of those which we can employ, to
+suggest one of the most comprehensive and fundamental antitheses with
+which philosophy has to do;—the opposition of sense and reason,
+of 74 impressions
+and laws. In this application, the German philosophers have, up to the
+present time, rested upon this distinction a great part of the weight
+of their systems; as when Kant says, that Space and Time are the
+Forms of Sensation. Even in our own language, we retain a trace
+of the influence of this Aristotelian notion, in the word
+Information, when used for that knowledge which may be
+conceived as moulding the mind into a definite shape, instead of
+leaving it a mere mass of unimpressed susceptibility.
+Another favorite Aristotelian antithesis is that of Power
+and Act (δύναμις, ἐνέργεια). This distinction is made the basis
+of most of the physical philosophy of the school; being, however,
+generally introduced with a peculiar limitation. Thus, Light is
+defined to be “the Act of what is lucid, as being lucid. And if,” it
+is added, “the lucid be so in power but not in act, we have darkness.”
+The reason of the limitation, “as being lucid,” is, that a lucid body
+may act in other ways; thus a torch may move as well as shine, but its
+moving is not its act as being a lucid body.
+Aristotle appears to be well satisfied with this explanation, for
+he goes on to say, “Thus light is not Fire, nor any body whatever, or
+the emanation of any body (for that would be a kind of body), but it
+is the presence of something like Fire in the body; it is, however,
+impossible that two bodies should exist in the same place, so that it
+is not a body;” and this reasoning appears to leave him more satisfied
+with his doctrine, that Light is an Energy or Act.
+But we have a more distinctly technical form given to this notion.
+Aristotle introduced a word formed by himself to express the act which
+is thus opposed to inactive power: this is the celebrated word
+ἐντελέχεια. Thus the noted definition of Motion in the third book of
+the Physics,33 is that it is “the Entelechy, or
+Act, of a movable body in respect of being movable;” and the
+definition of the Soul is34 that it is “the Entelechy of a
+natural body which has life by reason of its power.” This word has
+been variously translated by the followers of Aristotle, and some of
+them have declared it untranslatable. Act and Action are
+held to be inadequate substitutes; the very act, ipse cursus
+actionis, is employed by some; primus actus is employed by
+many, but another school use primus actus of a non-operating
+form. Budæus uses efficacia. Cicero35 translates it
+“quasi quandam continuatam motionem, et perennem;” but this
+paraphrase, though it may 75 fall in with the description of the soul,
+which is the subject with which Cicero is concerned, does not appear
+to agree with the general applications of the term. Hermolaus Barbarus
+is said to have been so much oppressed with this difficulty of
+translation, that he consulted the evil spirit by night, entreating to
+be supplied with a more common and familiar substitute for this word:
+the mocking fiend, however, suggested only a word equally obscure, and
+the translator, discontented with this, invented for himself the word
+perfectihabia.
+33 Phys. iii. 1.
+34 De Animâ, ii. 1.
+35 Tusc. i. 10.
+We need not here notice the endless apparatus of technicalities
+which was, in later days, introduced into the Aristotelian philosophy;
+but we may remark, that their long continuance and extensive use show
+us how powerful technical phraseology is, for the perpetuation either
+of truth or error. The Aristotelian terms, and the metaphysical views
+which they tend to preserve, are not yet extinct among us. In a very
+recent age of our literature it was thought a worthy employment by
+some of the greatest writers of the day, to attempt to expel this
+system of technicalities by ridicule.
+“Crambe regretted extremely that substantial forms, a race
+of harmless beings, which had lasted for many years, and afforded a
+comfortable subsistence to many poor philosophers, should now be
+hunted down like so many wolves, without a possibility of retreat. He
+considered that it had gone much harder with them than with
+essences, which had retired from the schools into the
+apothecaries’ shops, where some of them had been advanced to the
+degree of quintessences.”36
+36 Martinus Scriblerus, cap.
+vii.
+We must now say a few words on the technical terms which others of
+the Greek philosophical sects introduced.
+2. Technical Forms of the Platonists.—The other sects
+of the Greek philosophy, as well as the Aristotelians, invented and
+adopted technical terms, and thus gave fixity to their tenets and
+consistency to their traditionary systems; of these I will mention a
+few.
+A technical expression of a contemporary school has acquired
+perhaps greater celebrity than any of the terms of Aristotle. I mean
+the Ideas of Plato. The account which Aristotle gives of the
+origin of these will serve to explain their nature.37 “Plato,” says he, “who, in his youth,
+was in habits of communication first with Cratylus and the Heraclitean
+opinions, which represent all the objects of sense as being in a
+perpetual flux, so that concerning these no science nor certain 76 knowledge can exist,
+entertained the same opinions at a later period also. When,
+afterwards, Socrates treated of moral subjects, and gave no attention
+to physics, but, in the subjects which he did discuss, arrived at
+universal truths, and before any man, turned his thoughts to
+definitions, Plato adopted similar doctrines on this subject also; and
+construed them in this way, that these truths and definitions must be
+applicable to something else, and not to sensible things: for it was
+impossible, he conceived, that there should be a general common
+definition of any sensible object, since such were always in a state
+of change. The things, then, which were the subjects of universal
+truths he called Ideas; and held that objects of sense had
+their names according to Ideas and after them; so that things
+participated in that Idea which had the same name as was applied to
+them.”
+37 Arist. Metaph. i. 6. The same
+account is repeated, and the subject discussed, Metaph. xii. 4.
+In agreement with this, we find the opinions suggested in the
+Parmenides of Plato, the dialogue which is considered by many
+to contain the most decided exposition of the doctrine of Ideas. In
+this dialogue, Parmenides is made to say to Socrates, then a young
+man,38 “O Socrates, philosophy has not yet
+claimed you for her own, as, in my judgment, she will claim you, and
+you will not dishonor her. As yet, like a young man as you are, you
+look to the opinions of men. But tell me this: it appears to you, as
+you say, that there are certain Kinds or Ideas (εἰδὴ) of
+which things partake and receive applications according to that of
+which they partake: thus those things which partake of Likeness
+are called like; those things which partake of Greatness
+are called great; those things which partake of Beauty
+and Justice are called beautiful and just.” To
+this Socrates assents. And in another part of the dialogue he shows
+that these Ideas are not included in our common knowledge, from whence
+he infers that they are objects of the Divine mind.
+38 Parmenid. p. 131.
+In the Phædo the same opinion is maintained, and is summed up in
+this way, by a reporter of the last conversation of Socrates,39 εἶναι τι ἕκαστον τῶν εἰδῶν, καὶ τούτων
+τ’ ἄλλα μεταλαμβάνοντα αὐτῶν τούτων τὴν ἐπωνυμίαν ἴσχειν; “that each
+Kind has an existence, and that other things partake of these
+Kinds, and are called according to the Kind of which they
+partake.”
+39 Phædo, p. 102.
+The inference drawn from this view was, that in order to obtain
+true and certain knowledge, men must elevate themselves, as much as
+possible, to these Ideas of the qualities which they have to consider:
+77 and as things
+were thus called after the Ideas, the Ideas had a priority and
+pre-eminence assigned them. The Idea of Good, Beautiful, and
+Wise was the “First Good,” the “First Beautiful,” the “First Wise.”
+This dignity and distinction were ultimately carried to a large
+extent. Those Ideas were described as eternal and self-subsisting,
+forming an “Intelligible World,” full of the models or archetypes of
+created things. But it is not to our purpose here to consider the
+Platonic Ideas in their theological bearings. In physics they were
+applied in the same form as in morals. The primum calidum,
+primum frigidum were those Ideas of fundamental Principles by
+participation of which, all things were hot or cold.
+This school did not much employ itself in the development of its
+principles as applied to physical inquiries: but we are not without
+examples of such speculations. Plutarch’s Treatise Περὶ τοῦ Πρώτου
+Ψυχροῦ, “On the First Cold,” may be cited as one. It is in reality a
+discussion of a question which has been agitated in modern times
+also;—whether cold be a positive quality or a mere privation.
+“Is there, O Favorinus,” he begins, “a First Power and Essence of the
+Cold, as Fire is of the Hot; by a certain presence and participation
+of which all other things are cold: or is rather coldness a privation
+of heat, as darkness is of light, and rest of motion?” ~Additional
+material in the 3rd edition.~
+3. Technical Forms of the Pythagoreans.—The
+Numbers of the Pythagoreans, when propounded as the explanation
+of physical phenomena, as they were, are still more obscure than the
+Ideas of the Platonists. There were, indeed, considerable resemblances
+in the way in which these two kinds of notions were spoken of. Plato
+called his Ideas unities, monads; and as, according to
+him, Ideas, so, according to the Pythagoreans, Numbers, were the
+causes of things being what they are.40 But there was
+this difference, that things shared the nature of the Platonic Ideas
+“by participation,” while they shared the nature of Pythagorean
+Numbers “by imitation.” Moreover, the Pythagoreans followed their
+notion out into much greater development than any other school,
+investing particular numbers with extraordinary attributes, and
+applying them by very strange and forced analogies. Thus the number
+Four, to which they gave the name of Tetractys, was held to be
+the most perfect number, and was conceived to correspond to the human
+soul, in some way which appears to be very imperfectly understood by
+the commentators of this philosophy.
+40 Arist. Metaph. i. 6.
+78 It has been
+observed by a distinguished modern scholar,41 that the place
+which Pythagoras ascribed to his numbers is intelligible only by
+supposing that he confounded, first a numerical unit with a
+geometrical point, and then this with a material atom. But this
+criticism appears to place systems of physical philosophy under
+requisitions too severe. If all the essential properties and
+attributes of things were fully represented by the relations of
+number, the philosophy which supplied such an explanation of the
+universe, might well be excused from explaining also that existence of
+objects which is distinct from the existence of all their qualities
+and properties. The Pythagorean love of numerical speculations might
+have been combined with the doctrine of atoms, and the combination
+might have led to results well worth notice. But so far as we are
+aware, no such combination was attempted in the ancient schools of
+philosophy; and perhaps we of the present day are only just beginning
+to perceive, through the disclosures of chemistry and crystallography,
+the importance of such a line of inquiry.
+41 Thirlwall’s Hist. Gr. ii.
+142.
+4. Technical Forms of the Atomists and Others.—The
+atomic doctrine, of which we have just spoken, was one of the most
+definite of the physical doctrines of the ancients, and was applied
+with most perseverance and knowledge to the explanation of phenomena.
+Though, therefore, it led to no success of any consequence in ancient
+times, it served to transmit, through a long series of ages, a habit
+of really physical inquiry; and, on this account, has been thought
+worthy of an historical disquisition by Bacon.42
+42 Parmenidis et Telesii et præcipue
+Democriti Philosophia, &c., Works, vol. ix. 317.
+The technical term, Atom, marks sufficiently the nature of
+the opinion. According to this theory, the world consists of a
+collection of simple particles, of one kind of matter, and of
+indivisible smallness (as the name indicates), and by the various
+configurations and motions of these particles, all kinds of matter and
+all material phenomena are produced.
+To this, the Atomic Doctrine of Leucippus and Democritus, was
+opposed the Homoiomeria of Anaxagoras; that is, the opinion
+that material things consist of particles which are homogeneous in
+each kind of body, but various in different kinds: thus for example,
+since by food the flesh and blood and bones of man increase, the
+author of this doctrine held that there are in food particles of
+flesh, and blood, 79
+and bone. As the former tenet points to the corpuscular theories of
+modern times, so the latter may be considered as a dim glimpse of the
+idea of chemical analysis. The Stoics also, who were, especially at a
+later period, inclined to materialist views, had their technical modes
+of speaking on such subjects. They asserted that matter contained in
+itself tendencies or dispositions to certain forms, which dispositions
+they called λόγοι σπερματικοὶ, seminal proportions, or
+seminal reasons.
+Whatever of sound view, or right direction, there might be in the
+notions which suggested these and other technical expressions, was, in
+all the schools of philosophy (so far as physics was concerned)
+quenched and overlaid by the predominance of trifling and barren
+speculations; and by the love of subtilizing and commenting upon the
+works of earlier writers, instead of attempting to interpret the book
+of nature. Hence these technical terms served to give fixity and
+permanence to the traditional dogmas of the sect, but led to no
+progress of knowledge.
+The advances which were made in physical science proceeded, not
+from these schools of philosophy (if we except, perhaps, the
+obligations of the science of Harmonics to the Pythagoreans), but from
+reasoners who followed an independent path. The sequel of the
+ambitious hopes, the vast schemes, the confident undertakings of the
+philosophers of ancient Greece, was an entire failure in the physical
+knowledge of which it is our business to trace the history. Yet we are
+not, on that account, to think slightingly of these early speculators.
+They were men of extraordinary acuteness, invention, and range of
+thought; and, above all, they had the merit of first completely
+unfolding the speculative faculty—of starting in that keen and
+vigorous chase of knowledge out of which all the subsequent culture
+and improvement of man’s intellectual stores have arisen. The sages of
+early Greece form the heroic age of science. Like the first navigators
+in their own mythology, they boldly ventured their untried bark in a
+distant and arduous voyage, urged on by the hopes of a supernatural
+success; and though they missed the imaginary golden prize which they
+sought, they unlocked the gates of distant regions, and opened the
+seas to the keels of the thousands of adventurers who, in succeeding
+times, sailed to and fro, to the indefinite increase of the mental
+treasures of mankind.
+But inasmuch as their attempts, in one sense, and at first, failed,
+we must proceed to offer some account of this failure, and of its
+nature and causes. 80</div></body></text></TEI>

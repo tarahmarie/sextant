@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 72-73</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 72-73.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1843">undated (estimated from box 166 date range)</date>
+          <note type="place">Ockham</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 72-73</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_72-73.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Ockham Thursdy</p>
+      <p>Dearest W. I am vexed I did not give you the drawing-book, when you went. I am sure you would have made me a sketch or two.</p>
+      <p>I am longing to read you some some most curious &amp; interesting things about ferns, &amp; also about the preservation of plants in glass cases. I am quite pleased</p>
+      <p>to have discovered such a vein of amusement, &amp; which I think we may also turn to no small practical account.</p>
+      <p>I had a very long ride yesterday, &amp; was enchanted with the beauty of everything, &amp; with the splendour of a view which I had never seen before. I rode all along the Downs (just this side of St Martha's) to the Telegraph near Guildford, when the whole Town &amp; valley burst upon me like</p>
+      <p>a fairy-scene; then I went down by the old castle, &amp; turned to Shalford, whence I came back thro' all those wild &amp; picturesque dingles &amp; jungles &amp; woods &amp;c, that run parallel with the Downs I had been shortly before gallopping along.--</p>
+      <p>I was more at ease too, &amp; courageous, than I have been for some time.--</p>
+      <p>Charlotte is in bed with another boy, &amp; everything doing extremely well.-- I</p>
+      <p>think you have better send on Charles Murray's letter to my mother. I cannot conceive what could make him so desperately in a hurry to dispatch her statement, without a day's delay even. He seems to think the matter by no means pressing; &amp; we have (amongst us all) had to add to the complexity of the most complex piece of business the world ever saw; whereas a little delay would have made it simple &amp; consistent enough.</p>
+      <p>What a treat to get a letter from the Hen without any allusions</p>
+      <p>even to E. L N. B V. B }; [the three pairs of initials are linked together with a large single brace, followed directly to the right by a semicolon and the following text] Three combinations of letters which I regard with particular horror &amp; spite. [curved line]</p>
+    </div></body>
+  </text>
+</TEI>

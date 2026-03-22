@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 43-45</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 43-45.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1842">undated [July 1842]</date>
+          <note type="place">Cambridge</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 43-45</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_43-45.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Cambridge Tuesday</p>
+      <p>Dearest W. I laughed most heartily over the account of the kicking quadrupeds, &amp;c, this morning. My mother's plans are again altered; &amp; if I find them really fixed (as I believe them to be), I shall be back at Ockham on Saturday next. She is so pleased</p>
+      <p>with the University Arems Hotel, &amp; the very fine pure air of the situation, that she means to stay here a week or two; &amp; to have an Acheson over from Brampton.</p>
+      <p>There is an idea of my making a further tour with her again by &amp; bye; but of this nothing is yet fixed; &amp; I don't think it would be at any rate for the next fortnight. So would not the end of next week do</p>
+      <p>well for the Fortescues?</p>
+      <p>According to my present intentions, (but you know I am depending on a very uncertain person), I shall be in St James' Sqre on Friday Evening; &amp; back at Ockham by dinner-time on Satdy. I have Lauzelle to see on Satdy morning [crossed out: &amp;] or afternoon. Let me have a line in St James' Sqre to say what trains stop at Weybridge between 3 &amp; 7 o'clock. Because the</p>
+      <p>carriage should meet me; &amp; I have (remember) my maid to take back who is on holiday in Town, &amp; some luggage.</p>
+      <p>I shall be in Town before 1/2 past six on Friday, so as to send you a line to fix the hour for the carriage on Satdy; if I only find your letter, as I hope. I can put in, you know, by a doublt stamp, till 1/2 past six.</p>
+      <p>I find something very</p>
+      <p>peculiar in the air of this place. I never have been so well, &amp; my Mother says she finds me quite altered since St Neots, where I looked very ill. My chilliness is diminished, my appetite &amp; digestion most active &amp; healthy, &amp; I am able to diminish the number of pills I have to take.</p>
+      <p>I cannot conceive what it is. My mother also finds the place delightful &amp; beneficial.-- I have</p>
+      <p>also quite lost my Asthma, or whatever it is. At least I have it but very slightly, &amp; seldom.</p>
+      <p>I am much struck with the Power I seem to have over my mother's spirits &amp; cheerfullness of mind.</p>
+    </div></body>
+  </text>
+</TEI>

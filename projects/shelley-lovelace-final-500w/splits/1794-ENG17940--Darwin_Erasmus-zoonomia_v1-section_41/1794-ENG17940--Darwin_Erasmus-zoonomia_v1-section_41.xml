@@ -1,0 +1,989 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Zoonomia Vol I</title><author>Darwin, Erasmus (1731-1802)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1794</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="41">SECT. XL.
+
+On the OCULAR SPECTRA of Light and Colours, by Dr. R. W. Darwin, of
+  Shrewsbury. Reprinted, by Permission, from the Philosophical
+  Transactions, Vol. LXXVI. p. 313.
+Spectra of four kinds. 1. Activity
+  of the retina in vision. 2. Spectra from
+  defect of sensibility. 3. Spectra from
+  excess of sensibility. 4. Of direct
+  ocular spectra. 5. Greater stimulus
+  excites the retina into spasmodic action. 6.
+  Of reverse ocular spectra. 7. Greater
+  stimulus excites the retina into various successive spasmodic
+  actions. 8. Into fixed spasmodic
+  action. 9. Into temporary paralysis.
+10. Miscellaneous remarks; 1. Direct and reverse spectra at the same
+  time. A spectral halo. Rule to predetermine the colours of spectra.
+2. Variation of spectra from extraneous
+  light. 3. Variation of spectra in
+  number, figure, and remission. 4.
+  Circulation of the blood in the eye is visible. 5. A new way of magnifying objects.
+  Conclusion.
+
+When any one has long and attentively looked at a bright object, as at
+  the setting sun, on closing his eyes, or removing them, an image, which
+  resembles in form the object he was attending to, continues some time to
+  be visible; this appearance in the eye we shall call the ocular spectrum
+  of that object.
+These ocular spectra are of four kinds: 1st, Such as are owing to a
+  less sensibility of a defined part of the retina; or spectra from
+  defect of sensibility. 2d, Such as are owing to a greater sensibility
+  of a defined part of the retina; or spectra from excess of
+  sensibility. 3d, Such as resemble their object in its colour as well
+  as form; which may be termed direct ocular spectra. 4th, Such as
+  are of a colour contrary to that of their object; which may be termed
+  reverse ocular spectra.
+The laws of light have been most successfully explained by the great
+  Newton, and the perception of visible objects has been ably investigated
+  by the ingenious Dr. Berkeley and M. Malebranche; but these minute
+  phenomena of vision have yet been thought reducible to no theory, though
+  many philosophers have employed a considerable degree of attention upon
+  them: among these are Dr. Jurin, at the end of Dr. Smith's Optics; M.
+  �pinus, in the Nov. Com. Petropol. V. 10.; M. Beguelin, in the Berlin
+  Memoires, V. II. 1771; M. d'Arcy, in the Histoire de l'Acad. des Scienc.
+  1765; M. de la Hire; and, lastly, the celebrated M. de Buffon, in the
+  Memoires de l'Acad. des Scien. who has termed them accidental colours, as
+  if subjected to no established laws, Ac. Par. 1743. M. p. 215.
+I must here apprize the reader, that it is very difficult for
+  different people to give the same names to various shades of colours;
+  whence, in the following pages, something must be allowed, if on
+  repeating the experiments the colours here mentioned should not
+  accurately correspond with his own names of them.
+I. Activity of the Retina in Vision.
+From the subsequent experiments it appears, that the retina is in an
+  active not in a passive state during the existence of these ocular
+  spectra; and it is thence to be concluded, that all vision is owing to
+  the activity of this organ.
+1. Place a piece of red silk, about an inch
+  in diameter, as in plate 1, at Sect. III. 1.,
+  on a sheet of white paper, in a strong light; look steadily upon it from
+  about the distance of half a yard for a minute; then closing your eyelids
+  cover them with your hands, and a green spectrum will be seen in your
+  eyes, resembling in form the piece of red silk: after some time, this
+  spectrum will disappear and shortly reappear; and this alternately three
+  or four times, if the experiment is well made, till at length it vanishes
+  entirely.
+2. Place on a sheet of white paper a
+  circular piece of blue silk, about four inches in diameter, in the
+  sunshine; cover the center of this with a circular piece of yellow silk,
+  about three inches in diameter; and the center of the yellow silk with a
+  circle of pink silk, about two inches in diameter; and the center of the
+  pink silk with a circle of green silk, about one inch in diameter; and
+  the centre of this with a circle of indigo, about half an inch in
+  diameter; make a small speck with ink in the very center of the whole, as
+  in plate 3, at Sect. III. 3. 6.; look
+  steadily for a minute on this central spot, and then closing your eyes,
+  and applying your hand at about an inch distance before them, so as to
+  prevent too much or too little light from passing through the eyelids,
+  you will see the most beautiful circles of colours that imagination can
+  conceive, which are most resembled by the colours occasioned by pouring a
+  drop or two of oil on a still lake in a bright day; but these circular
+  irises of colours are not only different from the colours of the silks
+  above mentioned, but are at the same time perpetually changing as long as
+  they exist.
+3. When any one in the dark presses either
+  corner of his eye with his finger, and turns his eye away from his
+  finger, he will see a circle of colours like those in a peacock's tail:
+  and a sudden flash of light is excited in the eye by a stroke on it.
+  (Newton's Opt. Q. 16.)
+4. When any one turns round rapidly on one
+  foot, till he becomes dizzy, and falls upon the ground, the spectra of
+  the ambient objects continue to present themselves in rotation, or appear
+  to librate, and he seems to behold them for some time still in
+  motion.
+From all these experiments it appears, that the spectra in the eye are
+  not owing to the mechanical impulse of light impressed on the retina, nor
+  to its chemical combination with that organ, nor to the absorption and
+  emission of light, as is observed in many bodies; for in all these cases
+  the spectra must either remain uniformly, or gradually diminish; and
+  neither their alternate pretence and evanescence as in the first
+  experiment, nor the perpetual changes of their colours as in the second,
+  nor the flash of light or colours in the pressed eye as in the third, nor
+  the rotation or libration of the spectra as in the fourth, could
+  exist.
+It is not absurd to conceive, that the retina may be stimulated into
+  motion, as well as the red and white muscles which form our limbs and
+  vessels; since it consists of fibres, like those, intermixed with its
+  medullary substance. To evince this structure, the retina of an ox's eye
+  was suspended in a glass of warm water, and forcibly torn in a few
+  places; the edges of these parts appeared jagged and hairy, and did not
+  contract, and become smooth like simple mucus, when it is distended till
+  it breaks; which shews that it consists of fibres; and that its fibrous
+  construction became still more distinct to the sight, by adding some
+  caustic alkali to the water, as the adhering mucus was first eroded, and
+  the hair-like fibres remained floating in the vessel. Nor does the degree
+  of transparency of the retina invalidate the evidence of its fibrous
+  structure, since Leeuwenhoek has shewn that the crystalline humour itself
+  consists of fibres. (Arcana Natur�, V. 1. p. 70.)
+Hence it appears, that as the muscles have larger fibres intermixed
+  with a smaller quantity of nervous medulla, the organ of vision has a
+  greater quantity of nervous medulla intermixed with smaller fibres; and
+  it is probable that the locomotive muscles, as well as the vascular ones,
+  of microscopic animals have much greater tenuity than these of the
+  retina.
+And besides the similar laws, which will be shewn in this paper to
+  govern alike the actions of the retina and of the muscles, there are many
+  other analogies which exist between them. They are both originally
+  excited into action by irritations, both are nearly in the same quantity
+  of time, are alike strengthened or fatigued by exertion, are alike
+  painful if excited into action when they are in an inflamed state, are
+  alike liable to paralysis, and to the torpor of old age.
+II. OF SPECTRA FROM DEFECT OF SENSIBILITY.
+
+The retina is not so easily excited into action by less irritation
+  after having been lately subjected to greater.
+
+1. When any one passes from the bright
+  daylight into a darkened room, the irises of his eyes expand themselves
+  to their utmost extent in a few seconds of time; but it is very long
+  before the optic nerve, after having been stimulated by the greater light
+  of the day, becomes sensible of the less degree of it in the room; and,
+  if the room is not too obscure, the irises will again contract themselves
+  in some degree, as the sensibility of the retina returns.
+2. Place about half an inch square of white
+  paper on a black hat, and looking steadily on the center of it for a
+  minute, remove your eyes to a sheet of white paper; and after a second or
+  two a dark square will be seen on the white paper, which will continue
+  some time. A similar dark square will be seen in the closed eye, if light
+  be admitted through the eyelids.
+So after looking at any luminous object of a small size, as at the
+  sun, for a short time, so as not much to fatigue the eyes, this part of
+  the retina becomes less sensible to smaller quantities of light; hence,
+  when the eyes are turned on other less luminous parts of the sky, a dark
+  spot is seen resembling the shape of the sun, or other luminous object
+  which we last beheld. This is the source of one kind of the dark-coloured
+  musc� volitantes. If this dark spot lies above the center of the
+  eye, we turn our eyes that way, expecting to bring it into the center of
+  the eye, that we may view it more distinctly; and in this case the dark
+  spectrum seems to move upwards. If the dark spectrum is found beneath the
+  centre of the eye, we pursue it from the same motive, and it seems to
+  move downwards. This has given rise to various conjectures of something
+  floating in the aqueous humours of the eyes; but whoever, in attending to
+  these spots, keeps his eyes unmoved by looking steadily at the corner of
+  a cloud, at the same time that he observes the dark spectra, will be
+  thoroughly convinced, that they have no motion but what is given to them
+  by the movement of our eyes in pursuit of them. Sometimes the form of the
+  spectrum, when it has been received from a circular luminous body, will
+  become oblong; and sometimes it will be divided into two circular
+  spectra, which is not owing to our changing the angle made by the two
+  optic axises, according to the distance of the clouds or other bodies to
+  which the spectrum is supposed to be contiguous, but to other causes
+  mentioned in No. X. 3. of this section. The
+  apparent size of it will also be variable according to its supposed
+  distance.
+As these spectra are more easily observable when our eyes are a little
+  weakened by fatigue, it has frequently happened, that people of delicate
+  constitutions have been much alarmed at them, fearing a beginning decay
+  of their sight, and have thence fallen into the hands of ignorant
+  oculists; but I believe they never are a prelude to any other disease of
+  the eye, and that it is from habit alone, and our want of attention to
+  them, that we do not see them on all objects every hour of our lives. But
+  as the nerves of very weak people lose their sensibility, in the same
+  manner as their muscles lose their activity, by a small time of exertion,
+  it frequently happens, that sick people in the extreme debility of fevers
+  are perpetually employed in picking something from the bed-clothes,
+  occasioned by their mistaking the appearance of these musc�
+  volitantes in their eyes. Benvenuto Celini, an Italian artist, a man
+  of strong abilities, relates, that having passed the whole night on a
+  distant mountain with some companions and a conjurer, and performed many
+  ceremonies to raise the devil, on their return in the morning to Rome,
+  and looking up when the sun began to rise, they saw numerous devils run
+  on the tops of the houses, as they passed along; so much were the spectra
+  of their weakened eyes magnified by fear, and made subservient to the
+  purposes of fraud or superstition. (Life of Ben. Celini.)
+3. Place a square inch of white paper on a
+  large piece of straw-coloured silk; look steadily some time on the white
+  paper, and then move the centre of your eyes on the silk, and a spectrum
+  of the form of the paper will appear on the silk, of a deeper yellow than
+  the other part of it: for the central part of the retina, having been
+  some time exposed to the stimulus of a greater quantity of white light,
+  is become less sensible to a smaller quantity of it, and therefore sees
+  only the yellow rays in that part of the straw-coloured silk.
+Facts similar to these are observable in other parts of our system:
+  thus, if one hand be made warm, and the other exposed to the cold, and
+  then both of them immersed in subtepid water, the water is perceived warm
+  to one hand, and cold to the other; and we are not able to hear weak
+  sounds for some time after we have been exposed to loud ones; and we feel
+  a chilliness on coming into an atmosphere of temperate warmth, after
+  having been some time confined in a very warm room: and hence the
+  stomach, and other organs of digestion, of those who have been habituated
+  to the greater stimulus of spirituous liquor, are not excited into their
+  due action by the less stimulus of common food alone; of which the
+  immediate consequence is indigestion and hypochondriacism.
+III. OF SPECTRA FROM EXCESS OF SENSIBILITY.
+
+The retina is more easily excited into action by greater irritation
+  after having been lately subjected to less.
+
+1. If the eyes are closed, and covered
+  perfectly with a hat, for a minute or two, in a bright day; on removing
+  the hat a red or crimson light is seen through the eyelids. In this
+  experiment the retina, after being some time kept in the dark, becomes so
+  sensible to a small quantity of light, as to perceive distinctly the
+  greater quantity of red rays than of others which pass through the
+  eyelids. A similar coloured light is seen to pass through the edges of
+  the fingers, when the open hand is opposed to the flame of a candle.
+2. If you look for some minutes steadily on
+  a window in the beginning of the evening twilight, or in a dark day, and
+  then move your eyes a little, so that those parts of the retina, on which
+  the dark frame-work of the window was delineated, may now fall on the
+  glass part of it, many luminous lines, representing the frame-work, will
+  appear to lie across the glass panes: for those parts of the retina,
+  which were before least stimulated by the dark frame-work, are now more
+  sensible to light than the other parts of the retina which were exposed
+  to the more luminous parts of the window,
+3. Make with ink on white paper a very black
+  spot, about half an inch in diameter, with a tail about an inch in
+  length, so as to represent a tadpole, as in plate 2, at Sect. III. 3. 3.; look steadily for a minute on this
+  spot, and, on moving the eye a little, the figure of the tadpole will be
+  seen on the white part of the paper, which figure of the tadpole will
+  appear whiter or more luminous than the other parts of the white paper;
+  for the part of the retina on which the tadpole was delineated, is now
+  more sensible to light, than the other parts of it, which were exposed to
+  the white paper. This experiment is mentioned by Dr. Irwin, but is not by
+  him ascribed to the true cause, namely, the greater sensibility of that
+  part of the retina which has been exposed to the black spot, than of the
+  other parts which had received the white field of paper, which is put
+  beyond a doubt by the next experiment.
+4. On closing the eyes after viewing the
+  black spot on the white paper, as in the foregoing experiment, a red spot
+  is seen of the form of the black spot: for that part of the retina, on
+  which the black spot was delineated, being now more sensible to light
+  than the other parts of it, which were exposed to the white paper, is
+  capable of perceiving the red rays which penetrate the eyelids. If this
+  experiment be made by the light of a tallow candle, the spot will be
+  yellow instead of red; for tallow candles abound much with yellow light,
+  which passes in greater quantity and force through the eyelids than blue
+  tight; hence the difficulty of distinguishing blue and green by this kind
+  of candle light. The colour of the spectrum may possibly vary in the
+  daylight, according to the different colour of the meridian or the
+  morning or evening light.
+M. Beguelin, in the Berlin Memoires, V. II. 1771, observes, that, when
+  he held a book so that the sun shone upon his half-closed eyelids, the
+  black letters, which he had long inspected, became red, which must have
+  been thus occasioned. Those parts of the retina which had received for
+  some time the black letters, were so much more sensible than those parts
+  which had been opposed to the white paper, that to the former the red
+  light, which passed through the eyelids, was perceptible. There is a
+  similar story told, I think, in de Voltaire's Historical Works, of a Duke
+  of Tuscany, who was playing at dice with the general of a foreign army,
+  and, believing he saw bloody spots upon the dice, portended dreadful
+  events, and retired in confusion. The observer, after looking for a
+  minute on the black spots of a die, and carelessly closing his eyes, on a
+  bright day; would see the image of a die with red spots upon it, as above
+  explained.
+5. On emerging from a dark cavern, where we
+  have long continued, the light of a bright day becomes intolerable to the
+  eye for a considerable time, owing to the excess of sensibility existing
+  in the eye, after having been long exposed to little or no stimulus. This
+  occasions us immediately to contract the iris to its smallest aperture,
+  which becomes again gradually dilated, as the retina becomes accustomed
+  to the greater stimulus of the daylight.
+The twinkling of a bright star, or of a distant candle in the night,
+  is perhaps owing to the same cause. While we continue to look upon these
+  luminous objects, their central parts gradually appear paler, owing to
+  the decreasing sensibility of the part of the retina exposed to their
+  light; whilst, at the same time, by the unsteadiness of the eye, the
+  edges of them are perpetually falling on parts of the retina that were
+  just before exposed to the darkness of the night, and therefore tenfold
+  more sensible to light than the part on which the star or candle had been
+  for some time delineated. This pains the eye in a similar manner as when
+  we come suddenly from a dark room into bright daylight, and gives the
+  appearance of bright scintillations. Hence the stars twinkle most when
+  the night is darkest, and do not twinkle through telescopes, as observed
+  by Musschenbroeck; and it will afterwards be seen why this twinkling is
+  sometimes of different colours when the object is very bright, as Mr.
+  Melvill observed in looking at Sirius. For the opinions of others on this
+  subject, see Dr. Priestley's valuable History of Light and Colours, p.
+  494.
+Many facts observable in the animal system are similar to these; as
+  the hot glow occasioned by the usual warmth of the air, or our clothes,
+  on coming out of a cold bath; the pain of the fingers on approaching the
+  fire after having handled snow; and the inflamed heels from walking in
+  snow. Hence those who have been exposed to much cold have died on being
+  brought to a fire, or their limbs have become so much inflamed as to
+  mortify. Hence much food or wine given suddenly to those who have almost
+  perished by hunger has destroyed them; for all the organs of the famished
+  body are now become so much more irritable to the stimulus of food and
+  wine, which they have long been deprived of, that inflammation is
+  excited, which terminates in gangrene or fever.
+IV. OF DIRECT OCULAR SPECTRA.
+
+A quantity of stimulus somewhat greater than natural excites the
+  retina into spasmodic action, which ceases in a few seconds.
+
+A certain duration and energy of the stimulus of light and colours
+  excites the perfect action of the retina in vision; for very quick
+  motions are imperceptible to us, as well as very slow ones, as the
+  whirling of a top, or the shadow on a sun-dial. So perfect darkness does
+  not affect the eye at all; and excess of light produces pain, not
+  vision.
+1. When a fire-coal is whirled round in the
+  dark, a lucid circle remains a considerable time in the eye; and that
+  with so much vivacity of light, that it is mistaken for a continuance of
+  the irritation of the object. In the same manner, when a fiery meteor
+  shoots across the night, it appears to leave a long lucid train behind
+  it, part of which, and perhaps sometimes the whole, is owing to the
+  continuance of the action of the retina after having been thus vividly
+  excited. This is beautifully illustrated by the following experiment: fix
+  a paper sail, three or four inches in diameter, and made like that of a
+  smoke jack, on a tube of pasteboard; on looking through the tube at a
+  distant prospect, some disjointed parts of it will be seen through the
+  narrow intervals between the sails; but as the fly begins to revolve,
+  these intervals appear larger; and when it revolves quicker, the whole
+  prospect is seen quite as distinct as if nothing intervened, though less
+  luminous.
+
+
+    Fig. 3.
+  
+2. Look through a dark tube, about half a
+  yard long, at the area of a yellow circle of half an inch diameter, lying
+  upon a blue area of double that diameter, for half a minute; and on
+  closing your eyes the colours of the spectrum will appear similar to the
+  two areas, as in fig. 3.; but if the eye is kept too long upon them, the
+  colours of the spectrum will be the reverse of those upon the paper, that
+  is, the internal circle will become blue, and the external area yellow;
+  hence some attention is required in making this experiment.
+3. Place the bright flame of a spermaceti
+  candle before a black object in the night; look steadily at it for a
+  short time, till it is observed to become somewhat paler; and on closing
+  the eyes, and covering them carefully, but not so as to compress them,
+  the image of the blazing candle will continue distinctly to be
+  visible.
+4. Look steadily, for a short time, at a
+  window in a dark day, as in Exp. 2. Sect. III.
+  and then closing your eyes, and covering them with your hands, an exact
+  delineation of the window remains for some time visible in the eye. This
+  experiment requires a little practice to make it succeed well; since, if
+  the eyes are fatigued by looking too long on the window, or the day be
+  too bright, the luminous parts of the window will appear dark in the
+  spectrum, and the dark parts of the frame-work will appear luminous, as
+  in Exp. 2. Sect. III. And it is even difficult
+  for many, who first try this experiment, to perceive the spectrum at all;
+  for any hurry of mind, or even too great attention to the spectrum
+  itself, will disappoint them, till they have had a little experience in
+  attending to such small sensations.
+The spectra described in this section, termed direct ocular spectra,
+  are produced without much fatigue of the eye; the irritation of the
+  luminous object being soon withdrawn, or its quantity of light being not
+  so great as to produce any degree of uneasiness in the organ of vision;
+  which distinguishes them from the next class of ocular spectra, which are
+  the consequence of fatigue. These direct spectra are best observed in
+  such circumstances that no light, but what comes from the object, can
+  fall upon the eye; as in looking through a tube, of half a yard long, and
+  an inch wide, at a yellow paper on the side of a room, the direct
+  spectrum was easily produced on closing the eye without taking it from
+  the tube; but if the lateral light is admitted through the eyelids, or by
+  throwing the spectrum on white paper, it becomes a reverse spectrum, as
+  will be explained below.
+The other senses also retain for a time the impressions that have been
+  made upon them, or the actions they have been excited into. So if a hard
+  body is pressed upon the palm of the hand, as is practised in tricks of
+  legerdemain, it is not easy to distinguish for a few seconds whether it
+  remains or is removed; and tastes continue long to exist vividly in the
+  mouth, as the smoke of tobacco, or the taste of gentian, after the sapid
+  material is withdrawn.
+
+V. A quantity of stimulus somewhat greater
+  than the last mentioned excites the retina into spasmodic action, which
+  ceases and recurs alternately.
+
+1. On looking for a time on the setting sun,
+  so as not greatly to fatigue the sight, a yellow spectrum is seen when
+  the eyes are closed and covered, which continues for a time, and then
+  disappears and recurs repeatedly before it entirely vanishes. This yellow
+  spectrum of the sun when the eyelids are opened becomes blue; and if it
+  is made to fall on the green grass, or on other coloured objects, it
+  varies its own colour by an intermixture of theirs, as will be explained
+  in another place.
+2. Place a lighted spermaceti candle in the
+  night about one foot from your eye, and look steadily on the centre of
+  the flame, till your eye becomes much more fatigued than in Sect. IV. Exp. 3.; and on closing your eyes a reddish
+  spectrum will be perceived, which will cease and return alternately.
+The action of vomiting in like manner ceases, and is renewed by
+  intervals, although the emetic drug is thrown up with the first effort:
+  so after-pains continue some time after parturition; and the alternate
+  pulsations of the heart of a viper are renewed for some time after it is
+  cleared from its blood.
+VI. OF REVERSE OCULAR SPECTRA.
+
+The retina, after having been excited into action by a stimulus
+  somewhat greater them the last mentioned falls into opposite spasmodic
+  action.
+
+The actions of every part of animal bodies may be advantageously
+  compared with each other. This strict analogy contributes much to the
+  investigation of truth; while those looser analogies, which compare the
+  phenomena of animal life with those of chemistry or mechanics, only serve
+  to mislead our inquiries.
+When any of our larger muscles have been in long or in violent action,
+  and their antagonists have been at the same time extended, as soon as the
+  action of the former ceases, the limb is stretched the contrary way for
+  our ease, and a pandiculation or yawning takes place.
+By the following observations it appears, that a similar circumstance
+  obtains in the organ of vision; after it has been fatigued by one kind of
+  action, it spontaneously falls into the opposite kind.
+1. Place a piece of coloured silk, about an
+  inch in diameter, on a sheet of white paper, about half a yard from your
+  eyes; look steadily upon it for a minute; then remove your eyes upon
+  another part of the white paper, and a spectrum will be seen of the form
+  of the silk thus inspected, but of a colour opposite to it. A spectrum
+  nearly similar will appear if the eyes are closed, and the eyelids shaded
+  by approaching the hand near them, so as to permit some, but to prevent
+  too much light falling on them.
+
+
+Red silk produced a green spectrum.
+Green produced a red one.
+Orange produced blue.
+Blue produced orange.
+Yellow produced violet.
+Violet produced yellow.
+
+
+That in these experiments the colours of the spectra are the reverse
+  of the colours which occasioned them, may be seen by examining the third
+  figure in Sir Isaac Newton's Optics, L. II. p. 1, where those thin lamin�
+  of air, which reflected yellow, transmitted violet; those which reflected
+  red, transmitted a blue green; and so of the rest, agreeing with the
+  experiments above related.
+2. These reverse spectra are similar to a
+  colour, formed by a combination of all the primary colours except that
+  with which the eye has been fatigued in making the experiment: thus the
+  reverse spectrum of red must be such a green as would be produced by a
+  combination of all the other prismatic colours. To evince this fact the
+  following satisfactory experiment was made. The prismatic colours were
+  laid on a circular pasteboard wheel, about four inches in diameter, in
+  the proportions described in Dr. Priestley's History of Light and
+  Colours, pl. 12. fig. 83. except that the red compartment was entirely
+  left out, and the others proportionably extended so as to complete the
+  circle. Then, as the orange is a mixture of red and yellow, and as the
+  violet is a mixture of red and indigo, it became necessary to put yellow
+  on the wheel instead of orange, and indigo instead of violet, that the
+  experiment might more exactly quadrate with the theory it was designed to
+  establish or confute; because in gaining a green spectrum from a red
+  object, the eye is supposed to have become insensible to red light. This
+  wheel, by means of an axis, was made to whirl like a top; and on its
+  being put in motion, a green colour was produced, corresponding with
+  great exactness to the reverse spectrum of red.
+3. In contemplating any one or these reverse
+  spectra in the closed and covered eye, it disappears and re-appears
+  several times successively, till at length it entirely vanishes, like the
+  direct spectra in Sect. V.; but with this
+  additional circumstance, that when the spectrum becomes faint or
+  evanescent, it is instantly revived by removing the hand from before the
+  eyelids, so as to admit more light: because then not only the fatigued
+  part of the retina is inclined spontaneously to fall into motions of a
+  contrary direction, but being still sensible to all other rays of light,
+  except that with which it was lately fatigued, is by these rays at the
+  same time stimulated into those motions which form the reverse
+  spectrum.
+From these experiments there is reason to conclude, that the fatigued
+  part of the retina throws itself into a contrary mode of action, like
+  oscitation or pandiculation, as soon as the stimulus which has fatigued
+  it is withdrawn; and that it still remains sensible, that is, liable to
+  be excited into action by any other colours at the same time, except the
+  colour with which it has been fatigued.
+
+VII. The retina after having been excited
+  into action by a stimulus somewhat greater than the last mentioned falls
+  into various successive spasmodic actions.
+
+1. On looking at the meridian sun as long as
+  the eyes can well bear its brightness, the disk first becomes pale, with
+  a luminous crescent, which seems to librate from one edge of it to the
+  other, owing to the unsteadiness of the eye; then the whole phasis of the
+  sun becomes blue, surrounded with a white halo; and on closing the eyes,
+  and covering them with the hands, a yellow spectrum is seen, which in a
+  little time changes into a blue one.
+M. de la Hire observed, after looking at the bright sun, that the
+  impression in his eye first assumed a yellow appearance, and then green,
+  and then blue; and wishes to ascribe these appearances to some affection
+  of the nerves. (Porterfield on the Eye, Vol. I. p. 313.)
+2. After looking steadily on about an inch
+  square of pink silk, placed on white paper, in a bright sunshine, at the
+  distance of a foot from my eyes, and closing and covering my eyelids, the
+  spectrum of the silk was at first a dark green, and the spectrum of the
+  white paper became of a pink. The spectra then both disappeared; and then
+  the internal spectrum was blue; and then, after a second disappearance,
+  became yellow, and lastly pink, whilst the spectrum of the field varied
+  into red and green.
+These successions of different coloured spectra were not exactly the
+  same in the different experiments, though observed, as near as could be,
+  with the same quantity of light, and other similar circumstances; owing,
+  I suppose, to trying too many experiments at a time; so that the eye was
+  not quite free from the spectra of the colours which were previously
+  attended to.
+The alternate exertions of the retina in the preceding section
+  resembled the oscitation or pandiculation of the muscles, as they were
+  performed in directions contrary to each other, and were the consequence
+  of fatigue rather than of pain. And in this they differ from the
+  successive dissimilar exertions of the retina, mentioned in this section,
+  which resemble in miniature the more violent agitations of the limbs in
+  convulsive diseases, as epilepsy, chorea S. Viti, and opisthotonos; all
+  which diseases are perhaps, at first, the consequence of pain, and have
+  their periods afterwards established by habit.
+
+VIII. The retina, after having been excited
+  into action by a stimulus somewhat greater than the last mentioned falls
+  into a fixed spasmodic action, which continues for some days.
+
+1. After having looked long at the meridian
+  sun, in making some of the preceding experiments, till the disks faded
+  into a pale blue, I frequently observed a bright blue spectrum of the sun
+  on other objects all the next and the succeeding day, which constantly
+  occurred when I attended to it, and frequently when I did not previously
+  attend to it. When I closed and covered my eyes, this appeared of a dull
+  yellow; and at other times mixed with the colours of other objects on
+  which it was thrown. It may be imagined, that this part of the retina was
+  become insensible to white light, and thence a bluish spectrum became
+  visible on all luminous objects; but as a yellowish spectrum was also
+  seen in the closed and covered eye, there can remain no doubt of this
+  being the spectrum of the sun. A similar appearance was observed by M.
+  �pinus, which he acknowledges he could give no account of. (Nov. Com.
+  Petrop. V. 10. p. 2. and 6.)
+The locked jaw, and some cataleptic spasms, are resembled by this
+  phenomenon; and from hence we may learn the danger to the eye by
+  inspecting very luminous objects too long a time.
+IX. A quantity of stimulus greater than the preceding induces a temporary
+paralysis of the organ of vision.
+1. Place a circular piece of bright red
+  silk, about half an inch in diameter, on the middle of a sheet of white
+  paper; lay them on the floor in a bright sunshine, and fixing your eyes
+  steadily on the center of the red circle, for three or four minutes, at
+  the distance of four or six feet from the object, the red silk will
+  gradually become paler, and finally cease to appear red at all.
+2. Similar to these are many other animal
+  facts; as purges, opiates, and even poisons, and contagious matter, cease
+  to stimulate our system, after we have been habituated to their use. So
+  some people sleep undisturbed by a clock, or even by a forge hammer in
+  their neighbourhood: and not only continued irritations, but violent
+  exertions of any kind, are succeeded by temporary paralysis. The arm
+  drops down after violent action, and continues for a time useless; and it
+  is probable, that those who have perished suddenly in swimming, or in
+  scating on the ice, have owed their deaths to the paralysis, or extreme
+  fatigue, which succeeds every violent and continued exertion.
+X. MISCELLANEOUS REMARKS.
+There were some circumstances occurred in making these experiments,
+  which were liable to alter the results of them, and which I shall here
+  mention for the assistance of others, who may wish to repeat them.
+1. Of direct and inverse spectra
+  existing at the same time; of reciprocal direct spectra; of
+  a combination of direct and inverse spectra; of a spectral
+  halo; rules to pre-determine the colours of spectra.
+a. When an area, about six inches square, of bright pink Indian
+  paper, had been viewed on an area, about a foot square, of white writing
+  paper, the internal spectrum in the closed eye was green, being the
+  reverse spectrum of the pink paper; and the external spectrum was pink,
+  being the direct spectrum of the pink paper. The same circumstance
+  happened when the internal area was white, and external one pink; that
+  is, the internal spectrum was pink, and the external one green. All the
+  same appearances occurred when the pink paper was laid on a black
+  hat.
+b. When six inches square of deep violet polished paper was
+  viewed on a foot square of white writing paper, the internal spectrum was
+  yellow, being the reverse spectrum of the violet paper, and the external
+  one was violet, being the direct spectrum of the violet paper.
+c. When six inches square of pink paper was viewed on a foot
+  square of blue paper, the internal spectrum was blue, and the external
+  spectrum was pink; that is, the internal one was the direct spectrum of
+  the external object, and the external one was the direct spectrum of the
+  internal object, instead of their being each the reverse spectrum of the
+  objects they belonged to.
+d. When six inches square of blue paper were viewed on a foot
+  square of yellow paper, the interior spectrum became a brilliant yellow,
+  and the exterior one a brilliant blue. The vivacity of the spectra was
+  owing to their being excited both by the stimulus of the interior and
+  exterior objects; so that the interior yellow spectrum was both the
+  reverse spectrum of the blue paper, and the direct one of the yellow
+  paper; and the exterior blue spectrum was both the reverse spectrum of
+  the yellow paper, and the direct one of the blue paper.
+e. When the internal area was only a square half-inch of red
+  paper, laid on a square foot of dark violet paper, the internal spectrum
+  was green, with a reddish-blue halo. When the red internal paper was two
+  inches square, the internal spectrum was a deeper green, and the external
+  one redder. When the internal paper was six inches square, the spectrum
+  of it became blue, and the spectrum of the external paper was red.
+f. When a square half-inch of blue paper was laid on a six-inch
+  square of yellow paper, the spectrum of the central paper in the closed
+  eye was yellow, incircled with a blue halo. On looking long on the
+  meridian sun, the disk fades into a pale blue surrounded with a whitish
+  halo.
+These circumstances, though they very much perplexed the experiments
+  till they were investigated, admit of a satisfactory explanation; for
+  while the rays from the bright internal object in exp. a. fall
+  with their full force on the center of the retina, and, by fatiguing that
+  part of it, induce the reverse spectrum, many scattered rays, from the
+  same internal pink paper, fall on the more external parts of the retina,
+  but not in such quantity as to occasion much fatigue, and hence induce
+  the direct spectrum of the pink colour in those parts of the eye. The
+  same reverse and direct spectra occur from the violet paper in exp.
+  b.: and in exp. c. the scattered rays from the central pink
+  paper produce a direct spectrum of this colour on the external parts of
+  the eye, while the scattered rays from the external blue paper produce a
+  direct spectrum of that colour on the central part of the eye, instead of
+  these parts of the retina falling reciprocally into their reverse
+  spectra. In exp. d. the colours being the reverse of each other,
+  the scattered rays from the exterior object falling on the central parts
+  of the eye, and there exciting their direct spectrum, at the same time
+  that the retina was excited into a reverse spectrum by the central
+  object, and this direct and reverse spectrum being of similar colour, the
+  superior brilliancy of this spectrum was produced. In exp. e. the
+  effect of various quantities of stimulus on the retina, from the
+  different respective sizes of the internal and external areas, induced a
+  spectrum of the internal area in the center of the eye, combined of the
+  reverse spectrum of that internal area and the direct one of the external
+  area, in various shades of colour, from a pale green to a deep blue, with
+  similar changes in the spectrum of the external area. For the same
+  reasons, when an internal bright object was small, as in exp. f.
+  instead of the whole of the spectrum of the external object being reverse
+  to the colour of the internal object, only a kind of halo, or radiation
+  of colour, similar to that of the internal object, was spread a little
+  way on the external spectrum. For this internal blue area being so small,
+  the scattered rays from it extended but a little way on the image of the
+  external area of yellow paper, and could therefore produce only a blue
+  halo round the yellow spectrum in the center.
+If any one should suspect that the scattered rays from the exterior
+  coloured object do not intermix with the rays from the interior coloured
+  object, and thus affect the central part of the eye, let him look through
+  an opake tube, about two feet in length, and an inch in diameter, at a
+  coloured wall of a room with one eye, and with the other eye naked; and
+  he will find, that by shutting out the lateral light, the area of the
+  wall seen through a tube appears as if illuminated by the sunshine,
+  compared with the other parts of it; from whence arises the advantage of
+  looking through a dark tube at distant paintings.
+Hence we may safely deduce the following rules to determine
+  before-hand the colours of all spectra. 1. The direct spectrum without
+  any lateral light is an evanescent representation of its object in the
+  unfatigued eye. 2. With some lateral light it becomes of a colour
+  combined of the direct spectrum of the central object, and of the
+  circumjacent objects, in proportion to their respective quantity and
+  brilliancy. 3. The reverse spectrum without lateral light is a
+  representation in the fatigued eye of the form of its objects, with such
+  a colour as would be produced by all the primary colours, except that of
+  the object. 4. With lateral light the colour is compounded of the reverse
+  spectrum of the central object, and the direct spectrum of the
+  circumjacent objects, in proportion to their respective quantity and
+  brilliancy.
+2. Variation and vivacity of the spectra occasioned by extraneous light.
+The reverse spectrum, as has been before explained, is similar to a
+  colour, formed by a combination of all the primary colours, except that
+  with which the eye has been fatigued in making the experiment: so the
+  reverse spectrum of red is such a green as would be produced by a
+  combination of all the other prismatic colours. Now it must be observed,
+  that this reverse spectrum of red is therefore the direct spectrum of a
+  combination of all the other prismatic colours, except the red; whence,
+  on removing the eye from a piece of red silk to a sheet of white paper,
+  the green spectrum, which is perceived, may either be called the reverse
+  spectrum of the red silk, or the direct spectrum of all the rays from the
+  white paper, except the red; for in truth it is both. Hence we see the
+  reason why it is not easy to gain a direct spectrum of any coloured
+  object in the day-time, where there is much lateral light, except of very
+  bright objects, as of the setting sun, or by looking through an opake
+  tube; because the lateral external light falling also on the central part
+  of the retina, contributes to induce the reverse spectrum, which is at
+  the same time the direct spectrum of that lateral light, deducting only
+  the colour of the central object which we have been viewing. And for the
+  same reason, it is difficult to gain the reverse spectrum, where there is
+  no lateral light to contribute to its formation. Thus, in looking through
+  an opake tube on a yellow wall, and closing my eye, without admitting any
+  lateral light, the spectra were all at first yellow; but at length
+  changed into blue. And on looking in the same manner on red paper, I did
+  at length get a green spectrum; but they were all at first red ones: and
+  the same after looking at a candle in the night.
+The reverse spectrum was formed with greater facility when the eye was
+  thrown from the object on a sheet of white paper, or when light was
+  admitted through the closed eyelids; because not only the fatigued part
+  of the retina was inclined spontaneously to fall into motions of a
+  contrary direction; but being still sensible to all other rays of light
+  except that with which it was lately fatigued, was by these rays
+  stimulated at the same time into those motions which form the reverse
+  spectrum. Hence, when, the reverse spectrum of any colour became faint,
+  it was wonderfully revived by admitting more light through the eyelids,
+  by removing the hand from before them: and hence, on covering the closed
+  eyelids, the spectrum would often cease for a time, till the retina
+  became sensible to the stimulus of the smaller quantity of light, and
+  then it recurred. Nor was the spectrum only changed in vivacity, or in
+  degree, by this admission of light through the eyelids; but it frequently
+  happened, after having viewed bright objects, that the spectrum in the
+  closed and covered eye was changed into a third spectrum, when light was
+  admitted through the eyelids: which third spectrum was composed of such
+  colours as could pass through the eyelids, except those of the object.
+  Thus, when an area of half an inch diameter of pink paper was viewed on a
+  sheet of white paper in the sunshine, the spectrum with closed and
+  covered eyes was green; but on removing the hands from before the closed
+  eyelids, the spectrum became yellow, and returned instantly again to
+  green, as often as the hands were applied to cover the eyelids, or
+  removed from them: for the retina being now insensible to red light, the
+  yellow rays passing through the eyelids in greater quantity than the
+  other colours, induced a yellow spectrum; whereas if the spectrum was
+  thrown on white paper, with the eyes open, it became only a lighter
+  green.
+Though a certain quantity of light facilitates the formation of the
+  reverse spectrum, a greater quantity prevents its formation, as the more
+  powerful stimulus excites even the fatigued parts of the eye into action;
+  otherwise we should see the spectrum of the last viewed object as often
+  as we turn our eyes. Hence the reverse spectra are best seen by gradually
+  approaching the hand near the closed eyelids to a certain distance only,
+  which must be varied with the brightness of the day, or the energy of the
+  spectrum. Add to this, that all dark spectra, as black, blue, or green,
+  if light be admitted through the eyelids, after they have been some time
+  covered, give reddish spectra, for the reasons given in Sect. III. Exp. 1.
+From these circumstances of the extraneous light coinciding with the
+  spontaneous efforts of the fatigued retina to produce a reverse spectrum,
+  as was observed before, it is not easy to gain a direct spectrum, except
+  of objects brighter than the ambient light; such as a candle in the
+  night, the setting sun, or viewing a bright object through an opake tube;
+  and then the reverse spectrum is instantaneously produced by the
+  admission of some external light; and is as instantly converted again to
+  the direct spectrum by the exclusion of it. Thus, on looking at the
+  setting sun, on closing the eyes, and covering them, a yellow spectrum is
+  seen, which is the direct spectrum of the setting sun; but on opening the
+  eyes on the sky, the yellow spectrum is immediately changed into a blue
+  one, which is the reverse spectrum of the yellow sun, or the direct
+  spectrum of the blue sky, or a combination of both. And this is again
+  transformed into a yellow one on closing the eyes, and so reciprocally,
+  as quick as the motions of the opening and closing eyelids. Hence, when
+  Mr. Melvill observed the scintillations of the star Sirius to be
+  sometimes coloured, these were probably the direct spectrum of the blue
+  sky on the parts of the retina fatigued by the white light of the star.
+  (Essays Physical and Literary, p. 81. V. 2.)
+When a direct spectrum is thrown on colours darker than itself, it
+  mixes with them; as the yellow spectrum of the setting sun, thrown on the
+  green grass, becomes a greener yellow. But when a direct spectrum is
+  thrown on colours brighter than itself, it becomes instantly changed into
+  the reverse spectrum, which mixes with those brighter colours. So the
+  yellow spectrum of the setting sun thrown on the luminous sky becomes
+  blue, and changes with the colour or brightness of the clouds on which it
+  appears. But the reverse spectrum mixes with every kind of colour on
+  which it is thrown, whether brighter than itself or not; thus the reverse
+  spectrum, obtained by viewing a piece of yellow silk, when thrown on
+  white paper, was a lucid blue green; when thrown on black Turkey leather,
+  becomes a deep violet. And the spectrum of blue silk, thrown on white
+  paper, was a light yellow; on black silk was an obscure orange; and, the
+  blue spectrum, obtained from orange-coloured silk, thrown on yellow,
+  became a green.
+In these cases the retina is thrown into activity or sensation by the
+  stimulus of external colours, at the same time that it continues the
+  activity or sensation which forms the spectra; in the same manner as the
+  prismatic colours, painted on a whirling top, are seen to mix together.
+  When these colours of external objects are brighter than the direct
+  spectrum which is thrown upon them, they change it into the reverse
+  spectrum, like the admission of external light on a direct spectrum, as
+  explained above. When they are darker than the direct spectrum, they mix
+  with it, their weaker stimulus being inefficient to induce the reverse
+  spectrum.
+3. Variation of spectra in respect to number, and figure, and remission.
+
+
+    Fig. 4.
+  
+When we look long and attentively at any object, the eye cannot always
+  be kept entirely motionless; hence, on inspecting a circular area of red
+  silk placed on white paper, a lucid crescent or edge is seen to librate
+  on one side or other of the red circle: for the exterior parts of the
+  retina sometimes falling on the edge of the central silk, and sometimes
+  on the white paper, are less fatigued with red light than the central
+  part of the retina, which is constantly, exposed to it; and therefore,
+  when they fall on the edge of the red silk, they perceive it more
+  vividly. Afterwards, when the eye becomes fatigued, a green spectrum in
+  the form of a crescent is seen to librate on one side or other of the
+  central circle, as by the unsteadiness of the eye a part of the fatigued
+  retina falls on the white paper; and as by the increasing fatigue of the
+  eye the central part of the silk appears paler, the edge on which the
+  unfatigued part of the retina occasionally falls will appear of a deeper
+  red than the original silk, because it is compared with the pale internal
+  part of it. M. de Buffon in making this experiment observed, that the red
+  edge of the silk was not only deeper coloured than the original silk;
+  but, on his retreating a little from it, it became oblong, and at length
+  divided into two, which must have been owing to his observing it either
+  before or behind the point of intersection of the two optic axises. Thus,
+  if a pen is held up before a distant candle, when we look intensely at
+  the pen two candles are seen behind it; when we look intensely at the
+  candle two pens are seen. If the sight be unsteady at the time of
+  beholding the sun, even though one eye only be used, many images of the
+  sun will appear, or luminous lines, when the eye is closed. And as some
+  parts of these will be more vivid than others, and some parts of them
+  will be produced nearer the center of the eye than others, these will
+  disappear sooner than the others; and hence the number and shape of these
+  spectra of the sun will continually vary, as long as they exist. The
+  cause of some being more vivid than others, is the unsteadiness of the
+  eye of the beholder, so that some parts of the retina have been longer
+  exposed to the sunbeams. That some parts of a complicated spectrum fade
+  and return before other parts of it, the following experiment evinces.
+  Draw three concentric circles; the external one an inch and a half in
+  diameter, the middle one an inch, and the internal one half an inch;
+  colour the external and internal areas blue, and the remaining one
+  yellow, as in Fig. 4.; after having looked about a minute on the center
+  of these circles, in a bright light, the spectrum of the external area
+  appears first in the closed eye, then the middle area, and lastly the
+  central one; and then the central one disappears, and the others in
+  inverted order. If concentric circles of more colours are added, it
+  produces the beautiful ever changing spectrum in Sect. I. Exp. 2.
+From hence it would seem, that the center of the eye produces quicker
+  remissions of spectra, owing perhaps to its greater sensibility; that is,
+  to its more energetic exertions. These remissions of spectra bear some
+  analogy to the tremors of the hands, and palpitations of the heart, of
+  weak people: and perhaps a criterion of the strength of any muscle or
+  nerve may be taken from the time it can be continued in exertion.
+4. Variation of spectra in respect to brilliancy; the visibility of the circulation
+of the blood in the eye.
+1. The meridian or evening light makes a difference in the colours of
+  some spectra; for as the sun descends, the red rays, which are less
+  refrangible by the convex atmosphere, abound in great quantity. Whence
+  the spectrum of the light parts of a window at this time, or early in the
+  morning, is red; and becomes blue either a little later or earlier; and
+  white in the meridian day; and is also variable from the colour of the
+  clouds or sky which are opposed to the window.
+2. All these experiments are liable to be confounded, if they are made
+  too soon after each other, as the remaining spectrum will mix with the
+  new ones. This is a very troublesome circumstance to painters, who are
+  obliged to look long upon the same colour; and in particular to those
+  whose eyes, from natural debility, cannot long, continue the same kind of
+  exertion. For the same reason, in making these experiments, the result
+  becomes much varied if the eyes, after viewing any object, are removed on
+  other objects for but an instant of time, before we close them to view
+  the spectrum; for the light from the object, of which we had only a
+  transient view, in the very time of closing our eyes acts as a stimulus
+  on the fatigued retina; and for a time prevents the defined spectrum from
+  appearing, or mixes its own spectrum with it. Whence, after the eyelids
+  are closed, either a dark field, or some unexpected colours, are beheld
+  for a few seconds, before the desired spectrum becomes distinctly
+  visible.
+3. The length of time taken up in viewing an object, of which we are
+  to observe the spectrum, makes a great difference in the appearance of
+  the spectrum, not only in its vivacity, but in its colour; as the direct
+  spectrum of the central object, or of the circumjacent ones, and also the
+  reverse spectra of both, with their various combinations, as well as the
+  time of their duration in the eye, and of their remissions or
+  alternations, depend upon the degree of fatigue the retina is subjected
+  to. The Chevalier d'Arcy constructed a machine by which a coal of fire
+  was whirled round in the dark, and found, that when a luminous body made
+  a revolution in eight thirds of time, it presented to the eye a complete
+  circle of fire; from whence he concludes, that the impression continues
+  on the organ about the seventh part of a second. (Mem. de l'Acad. des Sc.
+  1765.) This, however, is only to be considered as the shortest time of
+  the duration of these direct spectra; since in the fatigued eye both the
+  direct and reverse spectra, with their intermissions, appear to take up
+  many seconds of time, and seem very variable in proportion to the
+  circumstances of fatigue or energy.
+4. It sometimes happens, if the eyeballs have been rubbed hard with
+  the fingers, that lucid sparks are seen in quick motion amidst the
+  spectrum we are attending to. This is similar to the flashes of fire from
+  a stroke on the eye in fighting, and is resembled by the warmth and glow,
+  which appears upon the skin after friction, and is probably owing to an
+  acceleration of the arterial blood into the vessels emptied by the
+  previous pressure. By being accustomed to observe such small sensations
+  in the eye, it is easy to see the circulation of the blood in this organ.
+  I have attended to this frequently, when I have observed my eyes more
+  than commonly sensible to other spectra. The circulation may be seen
+  either in both eyes at a time, or only in one of them; for as a certain
+  quantity of light is necessary to produce this curious phenomenon, if one
+  hand be brought nearer the closed eyelids than the other, the circulation
+  in that eye will for a time disappear. For the easier viewing the
+  circulation, it is sometimes necessary to rub the eyes with a certain
+  degree of force after they are closed, and to hold the breath rather
+  longer than is agreeable, which, by accumulating more blood in the eye,
+  facilitates the experiment; but in general it may be seen distinctly
+  after having examined other spectra with your back to the light, till the
+  eyes become weary; then having covered your closed eyelids for half a
+  minute, till the spectrum is faded away which you were examining, turn
+  your face to the light, and removing your hands from the eyelids, by and
+  by again shade them a little, and the circulation becomes curiously
+  distinct. The streams of blood are however generally seen to unite, which
+  shews it to be the venous circulation, owing, I suppose, to the greater
+  opacity of the colour of the blood in these vessels; for this venous
+  circulation is also much more easily seen by the microscope in the tail
+  of a tadpole.
+5. Variation of spectra in respect to distinctness and size; with a new way
+of magnifying objects.
+1. It was before observed, that when the two colours viewed together
+  were opposite to each other, as yellow and blue, red and green, &c.
+  according to the table of reflections and transmissions of light in Sir
+  Isaac Newton's Optics, B. II. Fig. 3. the spectra of those colours were
+  of all others the most brilliant, and best defined; because they were
+  combined of the reverse spectrum of one colour, and of the direct
+  spectrum of the other. Hence, in books printed with small types, or in
+  the minute graduation of thermometers, or of clock-faces, which are to be
+  seen at a distance, if the letters or figures are coloured with orange,
+  and the ground with indigo; or the letters with red, and the ground with
+  green; or any other lucid colour is used for the letters, the spectrum of
+  which is similar to the colour of the ground; such letters will be seen
+  much more distinctly, and with less confusion, than in black or white:
+  for as the spectrum of the letter is the same colour with the ground on
+  which they are seen, the unsteadiness of the eye in long attending to
+  them will not produce coloured lines by the edges of the letters, which
+  is the principal cause of their confusion. The beauty of colours lying in
+  vicinity to each other, whose spectra are thus reciprocally similar to
+  each colour, is owing to this greater ease that the eye experiences in
+  beholding them distinctly; and it is probable, in the organ of hearing, a
+  similar circumstance may constitute the pleasure of melody. Sir Isaac
+  Newton observes, that gold and indigo were agreeable when viewed
+  together; and thinks there may be some analogy between the sensations of
+  light and sound. (Optics, Qu. 14.)
+In viewing the spectra of bright objects, as of an area of red silk of
+  half an inch diameter on white paper, it is easy to magnify it to tenfold
+  its size: for if, when the spectrum is formed, you still keep your eye
+  fixed on the silk area, and remove it a few inches further from you, a
+  green circle is seen round the red silk: for the angle now subtended by
+  the silk is less than it was when the spectrum was formed, but that of
+  the spectrum continues the same, and our imagination places them at the
+  same distance. Thus when you view a spectrum on a sheet of white paper,
+  if you approach the paper to the eye, you may diminish it to a point; and
+  if the paper is made to recede from the eye, the spectrum will appear
+  magnified in proportion to the distance.
+
+
+    Fig. 5.
+  
+I was surprised, and agreeably amused, with the following experiment.
+  I covered a paper about four inches square with yellow, and with a pen
+  filled with a blue colour wrote upon the middle of it the word BANKS in
+  capitals, as in Fig. 5, and sitting with my back to the sun, fixed my
+  eyes for a minute exactly on the center of the letter N in the middle of
+  the word; after closing my eyes, and shading them somewhat with my hand,
+  the word was distinctly seen in the spectrum in yellow letters on a blue
+  field; and then, on opening my eyes on a yellowish wall at twenty feet
+  distance, the magnified name of BANKS appeared written on the wall in
+  golden characters.
+Conclusion.
+It was observed by the learned M. Sauvage (Nosol. Method. Cl. VIII.
+  Ord. i.) that the pulsations of the optic artery might be perceived by
+  looking attentively on a white wall well illuminated. A kind of net-work,
+  darker than the other parts of the wall, appears and vanishes alternately
+  with every pulsation. This change of the colour of the wall he well
+  ascribes to the compression of the retina by the diastole of the artery.
+  The various colours produced in the eye by the pressure of the finger, or
+  by a stroke on it, as mentioned by Sir Isaac Newton, seem likewise to
+  originate from the unequal pressure on various parts of the retina. Now
+  as Sir Isaac Newton has shewn, that all the different colours are
+  reflected or transmitted by the lamin� of soap bubbles, or of air,
+  according to their different thickness or thinness, is it not probable,
+  that the effect of the activity of the retina may be to alter its
+  thickness or thinness, so as better to adapt it to reflect or transmit
+  the colours which stimulate it into action? May not muscular fibres exist
+  in the retina for this purpose, which may be less minute than the
+  locomotive muscles of microscopic animals? May not these muscular actions
+  of the retina constitute the sensation of light and colours; and the
+  voluntary repetitions of them, when the object is withdrawn, constitute
+  our memory of them? And lastly, may not the laws of the sensations of
+  light, here investigated, be applicable to all our other senses, and much
+  contribute to elucidate many phenomena of animal bodies both in their
+  healthy and diseased state; and thus render this investigation well
+  worthy the attention of the physician, the metaphysician, and the natural
+  philosopher?
+November 1, 1785.
+
+
+
+
+Dum, Liber! astra petis volitans trepidantibus alis,
+Irruis immemori, parvula gutta, mari.
+Me quoque, me currente rot� revolubilis �tas
+Volverit in tenebras,—i, Liber, ipse sequor.
+
+
+
+</div></body></text></TEI>

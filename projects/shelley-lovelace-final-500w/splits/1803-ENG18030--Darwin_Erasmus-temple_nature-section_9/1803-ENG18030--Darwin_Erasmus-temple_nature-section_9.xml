@@ -1,0 +1,529 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Temple of Nature</title><author>Darwin, Erasmus (1731-1802)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1803</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="9">(p. 129) CANTO IV.
+OF GOOD AND EVIL.
+
+I. "How few," the Muse in plaintive accents cries,
+  And mingles with her words pathetic sighs.—
+  "How few, alas! in Nature's wide domains
+  The sacred charm of Sympathy restrains!
+  Uncheck'd desires from appetite commence,
+  And pure reflection yields to selfish sense!
+  —Blest is the Sage, who learn'd in Nature's laws
+  With nice distinction marks effect and cause;
+  Who views the insatiate Grave with eye sedate,
+  Nor fears thy voice, inexorable Fate!      10
+(p. 130)   "When War, the Demon, lifts his banner high,
+  And loud artillery rends the affrighted sky;
+  Swords clash with swords, on horses horses rush,
+  Man tramples man, and nations nations crush;
+  Death his vast sithe with sweep enormous wields,
+  And shuddering Pity quits the sanguine fields.
+"The wolf, escorted by his milk-drawn dam,
+  Unknown to mercy, tears the guiltless lamb;
+The towering eagle, darting from above,
+  Unfeeling rends the inoffensive dove;      20
+  The lamb and dove on living nature feed,
+  Crop the young herb, or crush the embryon seed.
+  Nor spares the loud owl in her dusky flight,
+  Smit with sweet notes, the minstrel of the night;
+  Nor spares, enamour'd of his radiant form,
+  The hungry nightingale the glowing worm;
+(p. 131) Who with bright lamp alarms the midnight hour,
+  Climbs the green stem, and slays the sleeping flower.
+"Fell Oestrus buries in her rapid course
+  Her countless brood in stag, or bull, or horse;      30
+  Whose hungry larva eats its living way,
+  Hatch'd by the warmth, and issues into day.
+The wing'd Ichneumon for her embryon young
+  Gores with sharp horn the caterpillar throng.
+(p. 132) The cruel larva mines its silky course,
+  And tears the vitals of its fostering nurse.
+While fierce Libellula with jaws of steel
+  Ingulfs an insect-province at a meal;
+Contending bee-swarms rise on rustling wings,
+  And slay their thousands with envenom'd stings.      40
+"Yes! smiling Flora drives her armed car
+  Through the thick ranks of vegetable war;
+(p. 133) Herb, shrub, and tree, with strong emotions rise
+  For light and air, and battle in the skies;
+  Whose roots diverging with opposing toil
+  Contend below for moisture and for soil;
+  Round the tall Elm the flattering Ivies bend,
+  And strangle, as they clasp, their struggling friend;
+  Envenom'd dews from Mancinella flow,
+  And scald with caustic touch the tribes below;      50
+  Dense shadowy leaves on stems aspiring borne
+  With blight and mildew thin the realms of corn;
+  And insect hordes with restless tooth devour
+  The unfolded bud, and pierce the ravell'd flower.
+"In ocean's pearly haunts, the waves beneath
+  Sits the grim monarch of insatiate Death;
+The shark rapacious with descending blow
+  Darts on the scaly brood, that swims below;
+(p. 134) The crawling crocodiles, beneath that move,
+  Arrest with rising jaw the tribes above;      60
+  With monstrous gape sepulchral whales devour
+  Shoals at a gulp, a million in an hour.
+  —Air, earth, and ocean, to astonish'd day
+  One scene of blood, one mighty tomb display!
+  From Hunger's arm the shafts of Death are hurl'd,
+And one great Slaughter-house the warring world!
+(p. 135)   "The brow of Man erect, with thought elate,
+  Ducks to the mandate of resistless fate;
+  Nor Love retains him, nor can Virtue save
+  Her sages, saints, or heroes from the grave.      70
+While cold and hunger by defect oppress,
+  Repletion, heat, and labour by excess,
+(p. 136) The whip, the sting, the spur, the fiery brand,
+  And, cursed Slavery! thy iron hand;
+  And led by Luxury Disease's trains,
+  Load human life with unextinguish'd pains.
+"Here laughs Ebriety more fell than arms,
+  And thins the nations with her fatal charms,
+  With Gout, and Hydrops groaning in her train,
+  And cold Debility, and grinning Pain,      80
+  With harlot's smiles deluded man salutes,
+  Revenging all his cruelties to brutes!
+  There the curst spells of Superstition blind,
+  And fix her fetters on the tortured mind;
+  She bids in dreams tormenting shapes appear,
+  With shrieks that shock Imagination's ear,
+(p. 137) E'en o'er the grave a deeper shadow flings,
+  And maddening Conscience darts a thousand stings.
+"There writhing Mania sits on Reason's throne,
+  Or Melancholy marks it for her own,      90
+  Sheds o'er the scene a voluntary gloom,
+  Requests oblivion, and demands the tomb.
+And last Association's trains suggest
+Ideal ills, that harrow up the breast,
+(p. 138) Call for the dead from Time's o'erwhelming main,
+  And bid departed Sorrow live again.
+"Here ragged Avarice guards with bolted door
+  His useless treasures from the starving poor;
+  Loads the lorn hours with misery and care,
+  And lives a beggar to enrich his heir.      100
+  Unthinking crowds thy forms, Imposture, gull,
+  A Saint in sackcloth, or a Wolf in wool.
+(p. 139) While mad with foolish fame, or drunk with power,
+  Ambition slays his thousands in an hour;
+  Demoniac Envy scowls with haggard mien,
+  And blights the bloom of other's joys, unseen;
+  Or wrathful Jealousy invades the grove,
+  And turns to night meridian beams of Love!
+"Here wide o'er earth impetuous waters sweep,
+  And fields and forests rush into the deep;      110
+  Or dread Volcano with explosion dire
+  Involves the mountains in a flood of fire;
+  Or yawning Earth with closing jaws inhumes
+  Unwarned nations, living in their tombs;
+  Or Famine seizes with her tiger-paw,
+  And swallows millions with unsated maw.
+"There livid Pestilence in league with Dearth
+  Walks forth malignant o'er the shuddering earth,
+(p. 140) Her rapid shafts with airs volcanic wings,
+  Or steeps in putrid vaults her venom'd stings.      120
+  Arrests the young in Beauty's vernal bloom,
+  And bears the innocuous strangers to the tomb!—
+"And now, e'en I, whose verse reluctant sings
+  The changeful state of sublunary things,
+  Bend o'er Mortality with silent sighs,
+  And wipe the secret tear-drops from my eyes,
+  Hear through the night one universal groan,
+  And mourn unseen for evils not my own,
+  With restless limbs and throbbing heart complain,
+  Stretch'd on the rack of sentimental pain!      130
+(p. 141) —Ah where can Sympathy reflecting find
+  One bright idea to console the mind?
+  One ray of light in this terrene abode
+  To prove to Man the Goodness of his God?"
+II. "Hear, O ye Sons of Time!" the Nymph replies,
+  Quick indignation darting from her eyes;
+  "When in soft tones the Muse lamenting sings,
+  And weighs with tremulous hand the sum of things;
+  She loads the scale in melancholy mood,
+  Presents the evil, but forgets the good.      140
+(p. 142) But if the beam some firmer hand suspends,
+  And good and evil load the adverse ends;
+  With strong libration, where the Good abides,
+  Quick nods the beam, the ponderous gold subsides.
+"Hear, O ye Sons of Time! the powers of Life
+  Arrest the elements, and stay their strife;
+From wandering atoms, ethers, airs, and gas,
+  By combination form the organic mass;
+  And,—as they seize, digest, secrete,—dispense
+  The bliss of Being to the vital Ens.      150
+  Hence in bright groups from Irritation rise
+  Young Pleasure's trains, and roll their azure eyes.
+(p. 143)   "With fond delight we feel the potent charm,
+  When Zephyrs cool us, or when sun-beams warm;
+  With fond delight inhale the fragrant flowers,
+  Taste the sweet fruits, which bend the blushing bowers,
+  Admire the music of the vernal grove,
+  Or drink the raptures of delirious love.
+"So with long gaze admiring eyes behold
+The varied landscape all its lights unfold;      160
+  Huge rocks opposing o'er the stream project
+  Their naked bosoms, and the beams reflect;
+(p. 144) Wave high in air their fringed crests of wood,
+  And checker'd shadows dance upon the flood;
+  Green sloping lawns construct the sidelong scene,
+  And guide the sparkling rill that winds between;
+  Conduct on murmuring wings the pausing gale,
+  And rural echoes talk along the vale;
+  Dim hills behind in pomp aerial rise,
+  Lift their blue tops, and melt into the skies.      170
+"So when by Handel tuned to measured sounds
+  The trumpet vibrates, or the drum rebounds;
+  Alarm'd we listen with ecstatic wonder
+  To mimic battles, or imagined thunder.
+  When the soft lute in sweet impassion'd strains
+  Of cruel nymphs or broken vows complains;
+  As on the breeze the fine vibration floats,
+We drink delighted the melodious notes.
+(p. 145) But when young Beauty on the realms above
+  Bends her bright eye, and trills the tones of love;      180
+  Seraphic sounds enchant this nether sphere;
+  And listening angels lean from Heaven to hear.
+"Next by Sensation led, new joys commence
+  From the fine movements of the excited sense;
+  In swarms ideal urge their airy flight,
+  Adorn the day-scenes, and illume the night.
+  Her spells o'er all the hand of Fancy flings,
+  Gives form and substance to unreal things;
+(p. 146) With fruits and foliage decks the barren waste,
+  And brightens Life with sentiment and taste;      190
+  Pleased o'er the level and the rule presides,
+  The painter's brush, the sculptor's chisel guides,
+  With ray ethereal lights the poet's fire,
+  Tunes the rude pipe, or strings the heroic lyre:
+  Charm'd round the nymph on frolic footsteps move
+  The angelic forms of Beauty, Grace, and Love.
+"So dreams the Patriot, who indignant draws
+  The sword of vengeance in his Country's cause;
+  Bright for his brows unfading honours bloom,
+  Or kneeling Virgins weep around his tomb.      200
+  So holy transports in the cloister's shade
+  Play round thy toilet, visionary maid!
+  Charm'd o'er thy bed celestial voices sing,
+  And Seraphs hover on enamour'd wing.
+"So Howard, Moira, Burdett, sought the cells,
+  Where want, or woe, or guilt in darkness dwells;
+(p. 147) With Pity's torch illumed the dread domains,
+  Wiped the wet eye, and eased the galling chains;
+  With Hope's bright blushes warm'd the midnight air,
+  And drove from earth the Demon of Despair.      210
+  Erewhile emerging from the caves of night
+  The Friends of Man ascended into light;
+  With soft assuasive eloquence address'd
+  The ear of Power to stay his stern behest;
+  At Mercy's call to stretch his arm and save
+  His tottering victims from the gaping grave.
+  These with sweet smiles Imagination greets,
+  For these she opens all her treasured sweets,
+  Strews round their couch, by Pity's hand combined,
+  Bright flowers of joy, the sunshine of the mind;      220
+  While Fame's loud trump with sounds applausive breathes
+  And Virtue crowns them with immortal wreathes.
+"Thy acts, Volition, to the world impart
+  The plans of Science with the works of art;
+(p. 148) Give to proud Reason her comparing power,
+  Warm every clime, and brighten every hour.
+  In Life's first cradle, ere the dawn began
+  Of young Society to polish man;
+  The staff that propp'd him, and the bow that arm'd,
+  The boat that bore him, and the shed that warm'd,      230
+  Fire, raiment, food, the ploughshare, and the sword,
+  Arose, Volition, at thy plastic word.
+"By thee instructed, Newton's eye sublime
+  Mark'd the bright periods of revolving time;
+  Explored in Nature's scenes the effect and cause,
+  And, charm'd, unravell'd all her latent laws.
+  Delighted Herschel with reflected light
+  Pursues his radiant journey through the night;
+  Detects new guards, that roll their orbs afar
+  In lucid ringlets round the Georgian star.      240
+(p. 149)   "Inspired by thee, with scientific wand
+  Pleased Archimedes mark'd the figured sand;
+  Seized with mechanic grasp the approaching decks,
+  And shook the assailants from the inverted wrecks.
+  —Then cried the Sage, with grand effects elate,
+  And proud to save the Syracusian state;
+  While crowds exulting shout their noisy mirth,
+  'Give where to stand, and I will move the earth.'
+So Savery guided his explosive steam
+  In iron cells to raise the balanced beam;      250
+  The Giant-form its ponderous mass uprears,
+  Descending nods and seems to shake the spheres.
+(p. 150)   "Led by Volition on the banks of Nile
+  Where bloom'd the waving flax on Delta's isle,
+  Pleased Isis taught the fibrous stems to bind,
+  And part with hammers from the adhesive rind;
+  With locks of flax to deck the distaff-pole,
+  And whirl with graceful bend the dancing spole.
+  In level lines the length of woof to spread,
+  And dart the shuttle through the parting thread.      260
+So Arkwright taught from Cotton-pods to cull,
+  And stretch in lines the vegetable wool;
+  With teeth of steel its fibre-knots unfurl'd,
+  And with the silver tissue clothed the world.
+"Ages remote by thee, Volition, taught
+  Chain'd down in characters the winged thought;
+  With silent language mark'd the letter'd ground,
+  And gave to sight the evanescent sound.
+(p. 151) Now, happier lot! enlighten'd realms possess
+  The learned labours of the immortal Press;      270
+  Nursed on whose lap the births of science thrive,
+  And rising Arts the wrecks of Time survive.
+"Ye patriot heroes! in the glorious cause
+  Of Justice, Mercy, Liberty, and Laws,
+  Who call to Virtue's shrine the British youth,
+  And shake the senate with the voice of Truth;
+  Rouse the dull ear, the hoodwink'd eye unbind,
+  And give to energy the public mind;
+(p. 152) While rival realms with blood unsated wage
+  Wide-wasting war with fell demoniac rage;      280
+  In every clime while army army meets,
+  And oceans groan beneath contending fleets;
+  Oh save, oh save, in this eventful hour
+  The tree of knowledge from the axe of power;
+  With fostering peace the suffering nations bless,
+  And guard the freedom of the immortal Press!
+  So shall your deathless fame from age to age
+  Survive recorded in the historic page;
+  And future bards with voice inspired prolong
+  Your sacred names immortalized in song.      290
+"Thy power Association next affords
+  Ideal trains annex'd to volant words,
+  Conveys to listening ears the thought superb,
+  And gives to Language her expressive verb;
+(p. 153) Which in one changeful sound suggests the fact
+  At once to be, to suffer, or to act;
+  And marks on rapid wing o'er every clime
+  The viewless flight of evanescent Time.
+"Call'd by thy voice contiguous thoughts embrace
+  In endless streams arranged by Time or Place;      300
+  The Muse historic hence in every age
+  Gives to the world her interesting page;
+  While in bright landscape from her moving pen
+  Rise the fine tints of manners and of men.
+(p. 154)   "Call'd by thy voice Resemblance next describes
+  Her sister-thoughts in lucid trains or tribes;
+  Whence pleased Imagination oft combines
+  By loose analogies her fair designs;
+  Each winning grace of polish'd wit bestows
+  To deck the Nymphs of Poetry and Prose.      310
+"Last, at thy potent nod, Effect and Cause
+  Walk hand in hand accordant to thy laws;
+  Rise at Volition's call, in groups combined,
+  Amuse, delight, instruct, and serve Mankind;
+(p. 155) Bid raised in air the ponderous structure stand,
+  Or pour obedient rivers through the land;
+  With cars unnumber'd crowd the living streets,
+  Or people oceans with triumphant fleets.
+"Thy magic touch imagined forms supplies
+  From colour'd light, the language of the eyes;      320
+  On Memory's page departed hours inscribes,
+  Sweet scenes of youth, and Pleasure's vanish'd tribes.
+  By thee Antinous leads the dance sublime
+  On wavy step, and moves in measured time;
+  Charm'd round the Youth successive Graces throng,
+  And Ease conducts him, as he moves along;
+  Unbreathing crowds the floating form admire,
+  And Vestal bosoms feel forbidden fire.
+"When rapp'd Cecilia breathes her matin vow,
+  And lifts to Heaven her fair adoring brow;      330
+  From her sweet lips, and rising bosom part
+  Impassion'd notes, that thrill the melting heart;
+(p. 156) Tuned by thy hand the dulcet harp she rings,
+  And sounds responsive echo from the strings;
+  Bright scenes of bliss in trains suggested move,
+  And charm the world with melody and love.
+III. "Soon the fair forms with vital being bless'd,
+  Time's feeble children, lose the boon possess'd;
+The goaded fibre ceases to obey,
+  And sense deserts the uncontractile clay;      340
+  While births unnumber'd, ere the parents die,
+  The hourly waste of lovely life supply;
+  And thus, alternating with death, fulfil
+  The silent mandates of the Almighty Will;
+  Whose hand unseen the works of nature dooms
+  By laws unknown—WHO GIVES, AND WHO RESUMES.
+"Each pregnant Oak ten thousand acorns forms
+  Profusely scatter'd by autumnal storms;
+(p. 157) Ten thousand seeds each pregnant poppy sheds
+  Profusely scatter'd from its waving heads;      350
+The countless Aphides, prolific tribe,
+  With greedy trunks the honey'd sap imbibe;
+(p. 158) Swarm on each leaf with eggs or embryons big,
+  And pendent nations tenant every twig.
+  Amorous with double sex, the snail and worm,
+  Scoop'd in the soil, their cradling caverns form;
+  Heap their white eggs, secure from frost and floods,
+  And crowd their nurseries with uncounted broods.
+  Ere yet with wavy tail the tadpole swims,
+  Breathes with new lungs, or tries his nascent limbs;      360
+  Her countless shoals the amphibious frog forsakes,
+  And living islands float upon the lakes.
+(p. 159) The migrant herring steers her myriad bands
+  From seas of ice to visit warmer strands;
+  Unfathom'd depths and climes unknown explores,
+  And covers with her spawn unmeasured shores.
+  —All these, increasing by successive birth,
+  Would each o'erpeople ocean, air, and earth.
+"So human progenies, if unrestrain'd,
+  By climate friended, and by food sustain'd,      370
+  O'er seas and soils, prolific hordes! would spread
+  Erelong, and deluge their terraqueous bed;
+  But war, and pestilence, disease, and dearth,
+  Sweep the superfluous myriads from the earth.
+Thus while new forms reviving tribes acquire
+  Each passing moment, as the old expire;
+  Like insects swarming in the noontide bower,
+  Rise into being, and exist an hour;
+  The births and deaths contend with equal strife,
+  And every pore of Nature teems with Life;      380
+(p. 160) Which buds or breathes from Indus to the Poles,
+  And Earth's vast surface kindles, as it rolls!
+"Hence when a Monarch or a mushroom dies,
+  Awhile extinct the organic matter lies;
+  But, as a few short hours or years revolve,
+  Alchemic powers the changing mass dissolve;
+Born to new life unnumber'd insects pant,
+  New buds surround the microscopic plant;
+  Whose embryon senses, and unwearied frames,
+  Feel finer goads, and blush with purer flames;      390
+(p. 161) Renascent joys from irritation spring,
+  Stretch the long root, or wave the aurelian wing.
+"When thus a squadron or an army yields,
+  And festering carnage loads the waves or fields;
+  When few from famines or from plagues survive,
+  Or earthquakes swallow half a realm alive;—
+  While Nature sinks in Time's destructive storms,
+  The wrecks of Death are but a change of forms;
+  Emerging matter from the grave returns,
+  Feels new desires, with new sensations burns;      400
+  With youth's first bloom a finer sense acquires,
+  And Loves and Pleasures fan the rising fires.—
+Thus sainted Paul, 'O Death!' exulting cries,
+  'Where is thy sting? O Grave! thy victories?'
+(p. 162)   "Immortal Happiness from realms deceased
+  Wakes, as from sleep, unlessen'd or increased;
+  Calls to the wise in accents loud and clear,
+  Sooths with sweet tones the sympathetic ear;
+  Informs and fires the revivescent clay,
+And lights the dawn of Life's returning day.      410
+"So when Arabia's Bird, by age oppress'd,
+  Consumes delighted on his spicy nest;
+  A filial Phœnix from his ashes springs,
+  Crown'd with a star, on renovated wings;
+  Ascends exulting from his funeral flame,
+  And soars and shines, another and the same.
+(p. 163)   "So erst the Sage with scientific truth
+  In Grecian temples taught the attentive youth;
+  With ceaseless change how restless atoms pass
+  From life to life, a transmigrating mass;      420
+  How the same organs, which to day compose
+  The poisonous henbane, or the fragrant rose,
+  May with to morrow's sun new forms compile,
+  Frown in the Hero, in the Beauty smile.
+  Whence drew the enlighten'd Sage the moral plan,
+  That man should ever be the friend of man;
+  Should eye with tenderness all living forms,
+  His brother-emmets, and his sister-worms.
+"Hear, O ye Sons of Time! your final doom,
+  And read the characters, that mark your tomb:      430
+(p. 164) The marble mountain, and the sparry steep,
+  Were built by myriad nations of the deep,—
+  Age after age, who form'd their spiral shells,
+  Their sea-fan gardens and their coral cells;
+  Till central fires with unextinguished sway
+  Raised the primeval islands into day;—
+  The sand-fill'd strata stretch'd from pole to pole;
+  Unmeasured beds of clay, and marl, and coal,
+(p. 165) Black ore of manganese, the zinky stone,
+  And dusky steel on his magnetic throne,      440
+  In deep morass, or eminence superb,
+  Rose from the wrecks of animal or herb;
+  These from their elements by Life combined,
+  Form'd by digestion, and in glands refined,
+  Gave by their just excitement of the sense
+  The Bliss of Being to the vital Ens.
+"Thus the tall mountains, that emboss the lands,
+  Huge isles of rock, and continents of sands,
+  Whose dim extent eludes the inquiring sight,
+Are mighty Monuments of past Delight;      450
+(p. 166) Shout round the globe, how Reproduction strives
+  With vanquish'd Death,—and Happiness survives;
+How Life increasing peoples every clime,
+  And young renascent Nature conquers Time;
+(p. 167) —And high in golden characters record
+  The immense munificence of Nature's Lord!—
+"He gives and guides the sun's attractive force,
+  And steers the planets in their silver course;
+  With heat and light revives the golden day,
+  And breathes his spirit on organic clay;      460
+  With hand unseen directs the general cause
+  By firm immutable immortal laws."
+Charm'd with her words the Muse astonish'd stands,
+  The Nymphs enraptured clasp their velvet hands;
+  Applausive thunder from the fane recoils,
+  And holy echoes peal along the ailes;
+  O'er Nature's shrine celestial lustres glow,
+  And lambent glories circle round her brow.
+(p. 168)   IV. Now sinks the golden sun,—the vesper song
+  Demands the tribute of Urania's tongue;      470
+  Onward she steps, her fair associates calls
+  From leaf-wove avenues, and vaulted halls.
+  Fair virgin trains in bright procession move,
+  Trail their long robes, and whiten all the grove;
+  Pair after pair to Nature's temple sweep,
+  Thread the broad arch, ascend the winding steep;
+  Through brazen gates along susurrant ailes
+  Stream round their Goddess the successive files;
+  Curve above curve to golden seats retire,
+  And star with beauty the refulgent quire.      480
+And first to Heaven the consecrated throng
+  With chant alternate pour the adoring song,
+  Swell the full hymn, now high, and now profound,
+  With sweet responsive symphony of sound.
+  Seen through their wiry harps, below, above,
+  Nods the fair brow, the twinkling fingers move;
+(p. 169) Soft-warbling flutes the ruby lip commands,
+  And cymbals ring with high uplifted hands.
+To Chaos next the notes melodious pass,
+  How suns exploded from the kindling mass,      490
+  Waved o'er the vast inane their tresses bright,
+  And charm'd young Nature's opening eyes with light.
+  Next from each sun how spheres reluctant burst,
+  And second planets issued from the first.
+  And then to Earth descends the moral strain,
+  How isles, emerging from the shoreless main,
+  With sparkling streams and fruitful groves began,
+  And form'd a Paradise for mortal man.
+Sublimer notes record Celestial Love,
+  And high rewards in brighter climes above;      500
+(p. 170) How Virtue's beams with mental charm engage
+  Youth's raptured eye, and warm the frost of age,
+  Gild with soft lustre Death's tremendous gloom,
+  And light the dreary chambers of the tomb.
+  How fell Remorse shall strike with venom'd dart,
+  Though mail'd in adamant, the guilty heart;
+  Fierce furies drag to pains and realms unknown
+  The blood-stain'd tyrant from his tottering throne.
+By hands unseen are struck aerial wires,
+  And Angel-tongues are heard amid the quires;      510
+  From aile to aile the trembling concord floats,
+  And the wide roof returns the mingled notes,
+  Through each fine nerve the keen vibrations dart,
+  Pierce the charm'd ear, and thrill the echoing heart.—
+Mute the sweet voice, and still the quivering strings,
+  Now Silence hovers on unmoving wings.—
+—Slow to the altar fair Urania bends
+  Her graceful march, the sacred steps ascends,
+(p. 171) High in the midst with blazing censer stands,
+  And scatters incense with illumined hands:      520
+  Thrice to the Goddess bows with solemn pause,
+  With trembling awe the mystic veil withdraws,
+  And, meekly kneeling on the gorgeous shrine,
+  Lifts her ecstatic eyes to Truth Divine!      524
+
+END OF CANTO IV.</div></body></text></TEI>

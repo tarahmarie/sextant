@@ -1,0 +1,39 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Philosophy of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="34">
+
+CHAPTER IX.
+Of the Establishment of the Law of Universal Gravitation.
+
+
+THE doctrine of universal gravitation is a feature of so
+much importance in the history of science that we shall not
+pass it by without a few remarks on the nature and evidence
+of the doctrine.
+1. To a certain extent the doctrine of the attraction of
+bodies according to the law of the inverse square of the
+distance, exhibits in its progress among men the same
+general features which we have noticed in the history of the
+laws of motion. This doctrine was maintained à priori
+on the ground of its simplicity, and was asserted
+positively, even before it was clearly
+understood:—notwithstanding this anticipation, its
+establishment on the ground of facts was a task of vast
+labour and sagacity:—when it had been so established in a
+general way, there occurred at later periods, an occasional
+suspicion that it might be approximately true only:—these
+suspicions led to further researches, which showed the rule
+to be rigorously exact:—and at present there are
+mathematicians who maintain, not only that it is true, but
+that it is a necessary property of matter. A very few words
+on each of these points will suffice.
+2. I have shown in the History of Science41, that
+the attraction of the sun according to the inverse square of
+the distance, had been divined by Bullialdus, Hooke, Halley,
+and others, before it was proved by Newton. Probably the
+reason which suggested this conjecture was, that gravity
+might be considered 273 as a sort of emanation; and that
+thus, like light or any other effect diffused from a center,
+it must follow the law just stated, the efficacy of the
+force being weakened in receding from the center, exactly in
+proportion to the space through which it is diffused. It
+cannot be denied that such a view appears to be strongly
+recommended by analogy.</div></body></text></TEI>

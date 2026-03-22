@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 176-177</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 176-177.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1840">undated (estimated from box 165 date range)</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 176-177</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_176-177.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Satdy Morg</p>
+      <p>I cannot describe my annoyance at not having any letters from you this morning, especially as I am in real distress for the Check for Madselle Bertucat; who depended for making a payment of importance to her, on my promise of her having it today early. I hope</p>
+      <p>that nothing has happened to my letter of Thursday &amp; still less to your reply to it, if you have sent one.--</p>
+      <p>My cold is so bad that it interferes with my Singing, which is a nuisance.--</p>
+      <p>I must talk to you about some plans which seem to be rather essential for me; &amp; while by a little contrivance I think can be effected.</p>
+      <p>They would certainly be the making of my health, if of nothing else.</p>
+      <p>But they would render a little previous calculation requisite. My own mind is made up as to their advisability, &amp; I know that I shall find you willing to take them into consideration, &amp; to endeavour &amp; to accomodate matters &amp; plans as to give me the opportunities which I so ardently long for.</p>
+      <p>The fact is that my</p>
+      <p>powers seem to be developping so wonderfully in the musical &amp; dramatic line, that they say I may in 3 years equal Pasta, Adelaide Kemble, or any one. (But pray don't hint a word of this to anyone, of course).--</p>
+      <p>But then, I must have the training requisite; &amp; this will require 2 little journeys but which I think will suit &amp; interest you equally with myself, &amp; be in all respects beneficial.</p>
+    </div></body>
+  </text>
+</TEI>

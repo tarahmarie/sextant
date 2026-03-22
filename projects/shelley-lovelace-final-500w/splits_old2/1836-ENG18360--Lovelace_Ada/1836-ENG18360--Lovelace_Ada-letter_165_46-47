@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 46-47</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 46-47.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1836">2 May [1836]</date>
+          <note type="place">St. James's Square</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 46-47</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_46-47.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>[The last few lines and closing of the letter are written sideways to the left of the heading on page 1. For clarity, I've transcribed this text as page 5 even though it appears on the first page.]</p>
+      <p>St. James Sqre Mondy Morning 2nd May.</p>
+      <p>My Dearest William. I have had a nice feast with your 2 letters this morning.-- Emily called in Dover St on Saturdy, and I believe she and your Mother rather came to high words. The latter is naturally very much displeased, &amp; I fear Emily was very insolent. Charlotte described her style of dress as dashing, &amp; most conspicuous. I believe she has hired a smart page who walks about with her, but I cannot think this sufficent</p>
+      <p>protection for a person whose very audacity of appearance is enough to invite insolence from a certain class.-- She called here yesterday afternoon, but I was out walking, which I am glad of.-- I found from the servant that she has no friend with her, but further than this I could not enquire.-- Should she call again before you return, I shall probably see her if she is unaccompanied, but am determined to enter into no discussion with her, though I can make it very evident to [crossed out: you] her that I know what she is about.--I am more struck myself by the consummate artfulness of her letter, than by the tone of intimidation in it. It</p>
+      <p>is penned by a person who has not an idea of truth in her heart, and by one accustomed to to use sophistical arguments to justify her actions to herself, to such an extent that I believe her incapable of knowing when she tells truth. She has drawn me a picture of her character in that letter, more forcible than any that could have been drawn of her.--</p>
+      <p>We went to Church yesterday afternoon but I mean to go no more before my confinement. I found the heat, &amp; straight back to the seat, so intolerable that I could attend to nothing.--</p>
+      <p>1/2 pst 5 o'clock. Mrs Pope, Hester's drawing mistress has given her a most charming account of my</p>
+      <p>picture, which she (Mrs Pope) is quite in love with &amp; says is much admired. It is extremely well placed I hear. We mean to go &amp; take a look at it tomorrow, if I can only manage the stairs.--</p>
+      <p>This afternoon Hester &amp; I have been to the Diorama, neither of us having ever seen one in our lives. We were much pleased, but I long to find out how it is managed.--</p>
+      <p>I send you a letter I had yesterday from the dear Hen. The present has arrived today, &amp; is almost the prettiest thing I ever saw. It is a beautiful silver &amp; glass butter dish, of which the handle is a silver cow. I really do not know how to thank our very kind Hen. If you have not yet read her letter, you will not understand all this. I also send you this</p>
+      <p>note that has come with the present.-- I think of my mate continually &amp; I believe amuse Hester by my anxiety for the post.--</p>
+      <p>Your little loving Birdie A. A. K.</p>
+    </div></body>
+  </text>
+</TEI>

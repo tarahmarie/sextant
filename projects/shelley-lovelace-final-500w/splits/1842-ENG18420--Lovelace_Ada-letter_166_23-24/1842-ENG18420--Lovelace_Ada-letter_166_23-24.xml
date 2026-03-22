@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 23-24</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 23-24.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1842">undated [June 1842]</date>
+          <note type="place">Eaton</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 23-24</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_23-24.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Eaton Monday 6 o'clock</p>
+      <p>We have just arrived; after a pleasant drive. But it has been a very warm day, altho' a good deal of wind too. Last night there was rain &amp; it continued until 10 o'clock this morning.--</p>
+      <p>I was delighted &amp; extremely interested by my visit to Bracket this morning.</p>
+      <p>I took care too to observe &amp; enquire about all the things that I know you would have cared most about, had you been with me. I find Lord Melbourne plants a good deal; larch, fir, &amp; oak &amp; ash; but very much I believe the two former. It is a very beautiful place altogether. When I return, I shall tell you all about it.</p>
+      <p>No more now; but you see you are remembered</p>
+      <p>by the Bird, in all she sees.</p>
+      <p>I thought you would like to have even this shabby line tonight.--</p>
+      <p>The Hen is tolerable, but requires more bleeding; &amp; I only fear she will not have decision to take the right measures.--</p>
+      <p>I hear a very sweet &amp; beautiful Canary singing, chirrupping, whistling, &amp; hopping, in his cage; poor little fellow!-- Continue</p>
+      <p>to direct always to St James' Sqre.</p>
+    </div></body>
+  </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="59">CHAPTER V.
+Problem of the Sounds of Pipes.
+IT was taken for granted by
+those who reasoned on sounds, that the sounds of flutes, organ-pipes,
+and wind-instruments in general, 39 consisted in vibrations of some kind; but
+to determine the nature and laws of these vibrations, and to reconcile
+them with mechanical principles, was far from easy. The leading facts
+which had been noticed were, that the note of a pipe was proportional
+to its length, and that a flute and similar instruments might be made
+to produce some of the acute harmonics, as well as the genuine note.
+It had further been noticed,28 that pipes
+closed at the end, instead of giving the series of harmonics 1, ½, ⅓,
+¼, &c., would give only those notes which answer to the odd
+numbers 1, ⅓, ⅕, &c. In this problem also, Newton29 made the first step to the solution. At
+the end of the propositions respecting the velocity of sound, of which
+we have spoken, he noticed that it appeared by
+taking Mersenne’s or Sauveur’s determination of the number of
+vibrations corresponding to a given note, that the pulse of air runs
+over twice the length of the pipe in the time of each vibration. He
+does not follow out this observation, but it obviously points to the
+theory, that the sound of a pipe consists of pulses which travel back
+and forwards along its length, and are kept in motion by the breath of
+the player. This supposition would account for the observed dependence
+of the note on the length of the pipe. The subject does not appear to
+have been again taken up in a theoretical way till about 1760; when
+Lagrange in the second volume of the Turin Memoirs, and D.
+Bernoulli in the Memoirs of the French Academy for 1762,
+published important essays, in which some of the leading facts were
+satisfactorily explained, and which may therefore be considered as the
+principal solutions of the problem.
+28 D. Bernoulli, Berlin. Mem.
+1753, p. 150.
+29 Princip. Schol. Prop.
+50.
+In these solutions there was necessarily something hypothetical. In
+the case of vibrating strings, as we have seen, the Form of the
+vibrating curve was guessed at only, but the existence and position of
+the Nodes could be rendered visible to the eye. In the vibrations of
+air, we cannot see either the places of nodes, or the mode of
+vibration; but several of the results are independent of these
+circumstances. Thus both of the solutions explain the fact, that a
+tube closed at one end is in unison with an open tube of double the
+length; and, by supposing nodes to occur, they account for the
+existence of the odd series of harmonics alone, 1, 3, 5, in closed
+tubes, while the whole series, 1, 2, 3, 4, 5, &c., occurs in open
+ones. Both views of the nature of the vibration appear to be nearly
+the same; though Lagrange’s is expressed with an analytical generality
+which renders it obscure, and Bernoulli has perhaps 40 laid down an hypothesis
+more special than was necessary. Lagrange30 considers the
+vibration of open flutes as “the oscillations of a fibre of air,”
+under the condition that its elasticity at the two ends is, during the
+whole oscillation, the same as that of the surrounding atmosphere.
+Bernoulli supposes31 the whole inertia of the air in the
+flute to be collected into one particle, and this to be moved by the
+whole elasticity arising from this displacement. It may be observed
+that both these modes of treating the matter come very near to what we
+have stated as Newton’s theory; for though Bernoulli supposes all the
+air in the flute to be moved at once, and not successively, as by
+Newton’s pulse, in either case the whole elasticity moves the whole
+air in the tube, and requires more time to do this according to its
+quantity. Since that time, the subject has received further
+mathematical developement from Euler,32 Lambert,33 and Poisson;34 but no new
+explanation of facts has arisen. Attempts have however been made to
+ascertain experimentally the places of the nodes. Bernoulli himself
+had shown that this place was affected by the amount of the opening,
+and Lambert35 had examined other cases with the same
+view. Savart traced the node in various musical pipes under different
+conditions; and very recently Mr. Hopkins, of Cambridge, has pursued
+the same experimental inquiry.36 It appears from
+these researches, that the early assumptions of mathematicians with
+regard to the position of the nodes, are not exactly verified by the
+facts. When the air in a pipe is made to vibrate so as to have several
+nodes which divide it into equal parts, it had been supposed by
+acoustical writers that the part adjacent to the open end was half of
+the other parts; the outermost node, however, is found experimentally
+to be displaced from the position thus assigned to it, by a
+quantity depending on several collateral circumstances.
+30 Mém. Turin, vol. ii. p. 154.
+31 Mém. Berlin, 1753, p.
+446.
+32 Nov. Act. Petrop. tom.
+xvi.
+33 Acad. Berlin, 1775.
+34 Journ. Ec. Polyt. cap.
+14.
+35 Acad. Berlin, 1775.
+36 Camb. Trans. vol. v. p.
+234.
+Since our purpose was to consider this problem only so far as it
+has tended towards its mathematical solution, we have avoided saying
+anything of the dependence of the mode of vibration on the cause by
+which the sound is produced; and consequently, the researches on the
+effects of reeds, embouchures, and the like, by Chladni, Savart,
+Willis, and others, do not belong to our subject. It is easily seen
+that the complex effect of the elasticity and other properties of the
+reed and of the air together, is a problem of which we can hardly
+41 hope to give a
+complete solution till our knowledge has advanced much beyond its
+present condition.
+Indeed, in the science of Acoustics there is a vast body of facts
+to which we might apply what has just been said; but for the sake of
+pointing out some of them, we shall consider them as the subjects of
+one extensive and yet unsolved problem.
+</div></body></text></TEI>

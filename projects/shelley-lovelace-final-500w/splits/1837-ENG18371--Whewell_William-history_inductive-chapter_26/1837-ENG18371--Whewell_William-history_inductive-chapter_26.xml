@@ -1,0 +1,29 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="26">INTRODUCTION.
+WE enter now upon a new region
+of the human mind. In passing from Astronomy to Mechanics we make a
+transition from the formal to the physical
+sciences;—from time and space to force and matter;—from
+phenomena to causes. Hitherto we have been concerned
+only with the paths and orbits, the periods and cycles, the angles and
+distances, of the objects to which our sciences applied, namely, the
+heavenly bodies. How these motions are produced;—by what
+agencies, impulses, powers, they are determined to be what they
+are;—of what nature are the objects themselves;—are
+speculations which we have hitherto not dwelt upon. The history of
+such speculations now comes before us; but, in the first place, we
+must consider the history of speculations concerning motion in
+general, terrestrial as well as celestial. We must first attend to
+Mechanics, and afterwards return to Physical Astronomy.
+In the same way in which the development of Pure Mathematics, which
+began with the Greeks, was a necessary condition of the progress of
+Formal Astronomy, the creation of the science of Mechanics now became
+necessary to the formation and progress of Physical Astronomy.
+Geometry and Mechanics were studied for their own sakes; but they also
+supplied ideas, language, and reasoning to other sciences. If the
+Greeks had not cultivated Conic Sections, Kepler could not have
+superseded Ptolemy; if the Greeks had cultivated Dynamics,1
+Kepler might have anticipated Newton.
+1 Dynamics is the science which
+treats of the Motions of Bodies; Statics is the science which
+treats of the Pressure of Bodies which are in equilibrium, and
+therefore at rest. 312</div></body></text></TEI>

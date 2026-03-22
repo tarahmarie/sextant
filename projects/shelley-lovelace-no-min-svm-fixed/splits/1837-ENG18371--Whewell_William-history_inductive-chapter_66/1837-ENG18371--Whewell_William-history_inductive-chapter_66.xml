@@ -1,0 +1,135 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="66">CHAPTER V.
+Discovery of the Laws of Double
+Refraction.
+THE laws of refraction which
+we have hitherto described, were simple and uniform, and had a
+symmetrical reference to the surface of the refracting medium. It
+appeared strange to men, when their attention was drawn to a class of
+phenomena in which this symmetry was wanting, and in which a
+refraction took place which was not even in the plane of incidence.
+The subject was not unworthy the notice and admiration it attracted;
+for the prosecution of it ended in the discovery of the general laws
+of light. The phenomena of which I now speak, are those exhibited by
+various kinds of crystalline bodies; but observed for a long time in
+one kind only, namely, the rhombohedral calc-spar; or, as it was
+usually termed, from the country which supplied the largest and
+clearest crystals, Iceland spar. These 70 rhombohedral crystals are usually very
+smooth and transparent, and often of considerable size; and it was
+observed, on looking through them, that all objects appeared double.
+The phenomena, even as early as 1669, had been considered so curious,
+that Erasmus Bartholin published a work upon them at Copenhagen,36 (Experimenta Crystalli
+Islandici, Hafniæ, 1669.) He analysed the phenomena into their
+laws, so far as to discover that one of the two images was produced by
+refraction after the usual rule, and the other by an unusual
+refraction. This latter refraction Bartholin found to vary in
+different positions; to be regulated by a line parallel to the sides
+of the rhombohedron; and to be greatest in the direction of a line
+bisecting two of the angles of the rhombic face of the crystal.
+36 Priestley’s Optics, p.
+550.
+These rules were exact as far as they went; and when we consider
+how geometrically complex the law is, which really regulates the
+unusual or extraordinary refraction;—that Newton altogether
+mistook it, and that it was not verified till the experiments of Haüy
+and Wollaston in our own time;—we might expect that it would not
+be soon or easily detected. But Huyghens possessed a key to the
+secret, in the theory, which he had devised, of the propagation of
+light by undulations, and which he conceived with perfect distinctness
+and correctness, so far as its application to these phenomena is
+concerned. Hence he was enabled to lay down the law of the phenomena
+(the only part of his discovery which we have here to consider), with
+a precision and success which excited deserved admiration, when the
+subject, at a much later period, regained its due share of attention.
+His Treatise was written37 in 1678, but not published till
+1690.
+37 See his Traité de la
+Lumière. Preface.
+The laws of the ordinary and the extraordinary
+refraction in Iceland spar are related to each other; they are, in
+fact, similar constructions, made, in the one case, by means of an
+imaginary sphere, in the other, by means of a spheroid; the spheroid
+being of such oblateness as to suit the rhombohedral form of the
+crystal, and the axis of the spheroid being the axis of symmetry of
+the crystal. Huyghens followed this general conception into particular
+positions and conditions; and thus obtained rules, which he compared
+with observation, for cutting the crystal and transmitting the rays in
+various manners. “I have examined in detail,” says he,38 “the properties of the 71 extraordinary
+refraction of this crystal, to see if each phenomenon which is deduced
+from theory, would agree with what is really observed. And this being
+so, it is no slight proof of the truth of our suppositions and
+principles; but what I am going to add here confirms them still more
+wonderfully; that is, the different modes of cutting this crystal, in
+which the surfaces produced give rise to refractions exactly such as
+they ought to be, and as I had foreseen them, according to the
+preceding theory.”
+38 See Maseres’s Tracts on
+Optics, p. 250; or Huyghens, Tr. sur la Lum. ch. v. Art.
+43.
+Statements of this kind, coming from a philosopher like Huyghens,
+were entitled to great confidence; Newton, however, appears not to
+have noticed, or to have disregarded them. In his Opticks, he
+gives a rule for the extraordinary refraction of Iceland spar which is
+altogether erroneous, without assigning any reason for rejecting the
+law published by Huyghens; and, so far as appears, without having made
+any experiments of his own. The Huyghenian doctrine of double
+refraction fell, along with his theory of undulations, into temporary
+neglect, of which we shall have hereafter to
+speak. But in 1788, Haüy showed that Huyghens’s rule agreed much
+better than Newton’s with the phenomena: and in 1802, Wollaston,
+applying a method of his own for measuring refraction, came to the
+same result. “He made,” says Young,39 “a number of
+accurate experiments with an apparatus singularly well calculated to
+examine the phenomena, but could find no general principle to connect
+them, until the work of Huyghens was pointed out to him.” In 1808, the
+subject of double refraction was proposed as a prize-question by the
+French Institute; and Malus, whose Memoir obtained the prize, says, “I
+began by observing and measuring a long series of phenomena on natural
+and artificial faces of Iceland spar. Then, testing by means of these
+observations the different laws proposed up to the present time by
+physical writers, I was struck with the admirable agreement of the law
+of Huyghens with the phenomena, and I was soon convinced that it is
+really the law of nature.” Pursuing the consequences of the law, he
+found that it satisfied phenomena which Huyghens himself had not
+observed. From this time, then, the truth of the Huyghenian law was
+universally allowed, and soon afterwards, the theory by which it had
+been suggested was generally received.
+39 Quart. Rev. 1809, Nov. p.
+338.
+The property of double refraction had been first studied only in
+Iceland spar, in which it is very obvious. The same property belongs,
+72 though less
+conspicuously, to many other kinds of crystals. Huyghens had noticed
+the same fact in rock-crystal;40 and Malus found
+it to belong to a large list of bodies besides; for instance,
+arragonite, sulphate of lime, of baryta, of strontia, of iron;
+carbonate of lead; zircon, corundum, cymophane, emerald, euclase,
+felspar, mesotype, peridote, sulphur, and mellite. Attempts were made,
+with imperfect success, to reduce all these to the law which had been
+established for Iceland spar. In the first instance, Malus took for
+granted that the extraordinary refraction depended always upon an
+oblate spheroid; but M. Biot41 pointed out a
+distinction between two classes of crystals in which this spheroid was
+oblong and oblate respectively, and these he called attractive
+and repulsive crystals. With this correction, the law could be
+extended to a considerable number of cases; but it was afterwards
+proved by Sir D. Brewster’s discoveries, that even in this form, it
+belonged only to substances of which the crystallization has relation
+to a single axis of symmetry, as the rhombohedron, or the square
+pyramid. In other cases, as the rhombic prism, in which the form,
+considered with reference to its crystalline symmetry, is
+biaxal, the law is much more complicated. In that case, the
+sphere and the spheroid, which are used in the construction for
+uniaxal crystals, transform themselves into the two successful
+convolutions of a single continuous curve surface; neither of the two
+rays follows the law of ordinary refraction; and the formula which
+determines their position is very complex. It is, however, capable of
+being tested by measures of the refractions of crystals cut in a
+peculiar manner for the purpose, and this was done by MM. Fresnel and
+Arago. But this complex law of double refraction was only discovered
+through the aid of the theory of a luminiferous ether, and therefore
+we must now return to the other facts which led to such a theory.
+40  Traité de la Lumière, ch.
+v. Art. 20
+41 Biot, Traité de Phys. iii.
+330.
+</div></body></text></TEI>

@@ -1,0 +1,908 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="34">CHAPTER II.
+The Inductive Epoch of Newton.—Discovery of the
+Universal Gravitation of Matter, according to the Law of the Inverse
+Square of the Distance.
+IN order that we may the more
+clearly consider the bearing of this, the greatest scientific
+discovery ever made, we shall resolve it into the partial propositions
+of which it consists. Of these we may enumerate five. The doctrine of
+universal gravitation asserts,
+1. That the force by which the different planets are
+attracted to the sun is in the inverse proportion of the squares of
+their distances;
+2. That the force by which the same planet is attracted to
+the sun, in different parts of its orbit, is also in the inverse
+proportion of the squares of the distances;
+3. That the earth also exerts such a force on the
+moon, and that this force is identical with the force of
+gravity;
+4. That bodies thus act on other bodies, besides those
+which revolve round them; thus, that the sun exerts such a force on
+the moon and satellites, and that the planets exert such forces on
+one another;
+5. That this force, thus exerted by the general masses of the sun,
+earth, and planets, arises from the attraction of each
+particle of these masses; which attraction follows the above law,
+and belongs to all matter alike.
+The history of the establishment of these five truths will be given
+in order.
+1. Sun’s Force on Different Planets.—With regard to
+the first of the above five propositions, that the different planets
+are attracted to the sun by a force which is inversely as the square
+of the distance, Newton had so far been anticipated, that several
+persons had discovered it to be true, or nearly true; that is, they
+had discovered that if the orbits of the planets were circles, the
+proportions of the central force to the inverse square of the distance
+would follow from Kepler’s third law, of the sesquiplicate proportion
+of the periodic times. As we have seen, Huyghens’ theorems would have
+proved this, if they had been so applied; Wren knew it; Hooke not only
+knew it, but claimed a prior knowledge to Newton; and Halley had
+satisfied himself that it was at 400 least nearly true, before he visited
+Newton. Hooke was reported to Newton at Cambridge, as having applied
+to the Royal Society to do him justice with regard to his claims; but
+when Halley wrote and informed Newton (in a letter dated June 29,
+1686), that Hooke’s conduct “had been represented in worse colors than
+it ought,” Newton inserted in his book a notice of these his
+predecessors, in order, as he said, “to compose the dispute.”25 This notice appears in a Scholium to
+the fourth Proposition of the Principia, which states the
+general law of revolutions in circles. “The case of the sixth
+corollary,” Newton there says, “obtains in the celestial bodies, as
+has been separately inferred by our countrymen, Wren, Hooke, and
+Halley;” he soon after names Huyghens, “who, in his excellent treatise
+De Horologio Oscillatorio, compares the force of gravity with
+the centrifugal forces of revolving bodies.”
+25 Biog. Brit. folio, art.
+Hooke.
+The two steps requisite for this discovery were, to propose the
+motions of the planets as simply a mechanical problem, and to apply
+mathematical reasoning so as to solve this problem, with reference to
+Kepler’s third law considered as a fact. The former step was a
+consequence of the mechanical discoveries of Galileo and his school;
+the result of the firm and clear place which these gradually obtained
+in men’s mind, and of the utter abolition of all the notions of solid
+spheres by Kepler. The mathematical step required no small
+mathematical powers; as appears, when we consider that this was the
+first example of such a problem, and that the method of limits, under
+all its forms, was at this time in its infancy, or rather, at its
+birth. Accordingly, even this step, though much the easiest in the
+path of deduction, no one before Newton completely executed.
+2. Force in different Points of an Orbit.—The
+inference of the law of the force from Kepler’s two laws concerning
+the elliptical motion, was a problem quite different from the
+preceding, and much more difficult; but the dispute with respect to
+priority in the two propositions was intermingled. Borelli, in 1666,
+had, as we have seen, endeavored to reconcile
+the general form of the orbit with the notion of a central attractive
+force, by taking centrifugal force into the account; and Hooke, in
+1679, had asserted that the result of the law of the inverse square in
+the force of the earth would be an ellipse,26 or a curve like
+an ellipse.27 But it does not appear that this was
+any thing more than 401 a conjecture. Halley says28 that “Hooke, in 1683, told him he had
+demonstrated all the laws of the celestial motions by the reciprocally
+duplicate proportion of the force of gravity; but that, being offered
+forty shillings by Sir Christopher Wren to produce such a
+demonstration, his answer was, that he had it, but would conceal it
+for some time, that others, trying and failing, might know how to
+value it when he should make it public.” Halley, however, truly
+observes, that after the publication of the demonstration in the
+Principia, this reason no longer held; and adds, “I have
+plainly told him, that unless he produce another differing
+demonstration, and let the world judge of it, neither I nor any one
+else can believe it.”
+26 Newton’s Letter, Biog.
+Brit., Hooke, p. 2660.
+27 Birch’s Hist. R. S.,
+Wallis’s Life.
+28 Enc. Brit., Hooke, p.
+2660.
+Newton allows that Hooke’s assertions in 1679 gave occasion to his
+investigation on this point of the theory. His demonstration is
+contained in the second and third Sections of the Principia. He
+first treats of the general law of central forces in any curve; and
+then, on account, as he states, of the application to the motion of
+the heavenly bodies, he treats of the case of force varying inversely
+as the square of the distance, in a more diffuse manner.
+In this, as in the former portion of his discovery, the two steps
+were, the proposing the heavenly motions as a mechanical problem, and
+the solving this problem. Borelli and Hooke had certainly made the
+former step, with considerable distinctness; but the mathematical
+solution required no common inventive power.
+Newton seems to have been much ruffled by Hooke’s speaking slightly
+of the value of this second step; and is moved in return to deny
+Hooke’s pretensions with some asperity, and to assert his own. He
+says, in a letter to Halley, “Borelli did something in it, and wrote
+modestly; he (Hooke) has done nothing; and yet written in such a way
+as if he knew, and had sufficiently hinted all but what remained to be
+determined by the drudgery of calculations and observations; excusing
+himself from that labor by reason of his other business; whereas he
+should rather have excused himself by reason of his inability; for it
+is very plain, by his words, he knew not how to go about it. Now is
+not this very fine? Mathematicians that find out, settle, and do all
+the business, must content themselves with being nothing but dry
+calculators and drudges; and another that does nothing but pretend and
+grasp at all things, must carry away all the inventions, as well of
+those that were to follow him as of those that 402 went before.” This
+was written, however, under the influence of some degree of mistake;
+and in a subsequent letter, Newton says, “Now I understand he was in
+some respects misrepresented to me, I wish I had spared the postscript
+to my last,” in which is the passage just quoted. We see, by the
+melting away of rival claims, the undivided honor which belongs to
+Newton, as the real discoverer of the proposition now under notice. We
+may add, that in the sequel of the third Section of the
+Principia, he has traced its consequences, and solved various
+problems flowing from it with his usual fertility and beauty of
+mathematical resource; and has there shown the necessary connection of
+Kepler’s third law with his first and second.
+3. Moon’s Gravity to the Earth.—Though others had
+considered cosmical forces as governed by the general laws of motion,
+it does not appear that they had identified such forces with the force
+of terrestrial gravity. This step in Newton’s discoveries has
+generally been the most spoken of by superficial thinkers; and a false
+kind of interest has been attached to it, from the story of its being
+suggested by the fall of an apple. The popular mind is caught by the
+character of an eventful narrative which the anecdote gives to this
+occurrence; and by the antithesis which makes a profound theory appear
+the result of a trivial accident. How inappropriate is such a view of
+the matter we shall soon see. The narrative of the progress of
+Newton’s thoughts, is given by Pemberton (who had it from Newton
+himself) in his preface to his View of Newton’s Philosophy, and
+by Voltaire, who had it from Mrs. Conduit, Newton’s niece.29 “The first thoughts,” we are told,
+“which gave rise to his Principia, he had when he retired from
+Cambridge, in 1666, on account of the plague (he was then twenty-four
+years of age). As he sat alone in a garden, he fell into a speculation
+on the power of gravity; that as this power is not found sensibly
+diminished at the remotest distance from the centre of the earth to
+which we can rise, neither at the tops of the loftiest buildings, nor
+even on the summits of the highest mountains, it appeared to him
+reasonable to conclude that this power must extend much further than
+was usually thought: Why not as high as the moon? said he to himself;
+and if so, her motion must be influenced by it; perhaps she is
+retained in her orbit thereby.”
+29 Elémens de Phil. de Newton,
+3me partie, chap. iii.
+The thought of cosmical gravitation was thus distinctly brought
+into being; and Newton’s superiority here was, that he conceived the
+403 celestial
+motions as distinctly as the motions which took place close to
+him;—considered them as of the same kind, and applied the same
+rules to each, without hesitation or obscurity. But so far, this
+thought was merely a guess: its occurrence showed the activity of the
+thinker; but to give it any value, it required much more than a “why
+not?”—a “perhaps.” Accordingly, Newton’s “why not?” was
+immediately succeeded by his “if so, what then?” His reasoning was,
+that if gravity reach to the moon, it is probably of the same kind as
+the central force of the sun, and follows the same rule with respect
+to the distance. What is this rule? We have already seen that, by
+calculating from Kepler’s laws, and supposing the orbits to be
+circles, the rule of the force appears to be the inverse duplicate
+proportion of the distance; and this, which had been current as a
+conjecture among the previous generation of mathematicians, Newton had
+already proved by indisputable reasonings, and was thus prepared to
+proceed in his train of inquiry. If, then, he went on, pursuing his
+train of thought, the earth’s gravity extend to the moon, diminishing
+according to the inverse square of the distance, will it, at the
+moon’s orbit, be of the proper magnitude for retaining her in her
+path? Here again came in calculation, and a calculation of extreme
+interest; for how important and how critical was the decision which
+depended on the resulting numbers? According to Newton’s calculations,
+made at this time, the moon by her motion in her orbit, was deflected
+from the tangent every minute through a space of thirteen feet. But by
+noticing the space through which bodies would fall in one minute at
+the earth’s surface, and supposing this to be diminished in the ratio
+of the inverse square, it appeared that gravity would, at the moon’s
+orbit, draw a body through more than fifteen feet. The difference
+seems small, the approximation encouraging, the theory plausible; a
+man in love with his own fancies would readily have discovered or
+invented some probable cause of this difference. But Newton acquiesced
+in it as a disproof of his conjecture, and “laid aside at that time
+any further thoughts of this matter;” thus resigning a favorite hypothesis,
+with a candor and openness to conviction not inferior to Kepler,
+though his notion had been taken up on far stronger and sounder
+grounds than Kepler dealt in; and without even, so far as we know,
+Kepler’s regrets and struggles. Nor was this levity or indifference;
+the idea, though thus laid aside, was not finally condemned and
+abandoned. When Hooke, in 1679, contradicted Newton on the subject of
+the curve described by a falling body, and asserted it to be an
+ellipse, Newton 404
+was led to investigate the subject, and was then again conducted, by
+another road, to the same law of the inverse square of the distance.
+This naturally turned his thoughts to his former speculations. Was
+there really no way of explaining the discrepancy which this law gave,
+when he attempted to reduce the moon’s motion to the action of
+gravity? A scientific operation then recently completed, gave the
+explanation at once. He had been mistaken in the magnitude of the
+earth, and consequently in the distance of the moon, which is
+determined by measurements of which the earth’s radius is the base. He
+had taken the common estimate, current among geographers and seamen,
+that sixty English miles are contained in one degree of latitude. But
+Picard, in 1670, had measured the length of a certain portion of the
+meridian in France, with far greater accuracy than had yet been
+attained  and this measure enabled Newton to repeat his calculations
+with these amended data. We may imagine the strong curiosity which he
+must have felt as to the result of these calculations. His former
+conjecture was now found to agree with the phenomena to a remarkable
+degree of precision. This conclusion, thus coming after long doubts
+and delays, and falling in with the other results of mechanical
+calculation for the solar system, gave a stamp from that moment to his
+opinions, and through him to those of the whole philosophical
+world.
+[2d Ed.] [Dr. Robison (Mechanical Philosophy, p. 288) says
+that Newton having become a member of the Royal Society, there learned
+the accurate measurement of the earth by Picard, differing very much
+from the estimation by which he had made his calculations in 1666. And
+M. Biot, in his Life of Newton, published in the Biographie
+Universelle, says, “According to conjecture, about the month of
+June, 1682, Newton being in London at a meeting of the Royal Society,
+mention was made of the new measure of a degree of the earth’s
+surface, recently executed in France by Picard; and great praise was
+given to the care which had been employed in making this measure
+exact.”
+I had adopted this conjecture as a fact in my first edition; but it
+has been pointed out by Prof. Rigaud (Historical Essay on the First
+Publication of the Principia, 1838), that Picard’s measurement was
+probably well known to the Fellows of the Royal Society as early as
+1675, there being an account of the results of it given in the
+Philosophical Transactions for that year. Newton appears to
+have discovered the method of determining that a body might describe
+an ellipse when acted upon by a force residing in the focus, and
+varying 405
+inversely as the square of the distance, in 1679, upon occasion of his
+correspondence with Hooke. In 1684, at Halley’s request, he returned
+to the subject, and in February, 1685, there was inserted in the
+Register of the Royal Society a paper of Newton’s (Isaaci Newtoni
+Propositiones de Motu) which contained some of the principal
+Propositions of the first two Books of the Principia. This
+paper, however, does not contain the Proposition “Lunam gravitare in
+terram,” nor any of the other propositions of the third Book. The
+Principia was printed in 1686 and 7, apparently at the expense
+of Halley. On the 6th of April, 1687, the third Book was presented to
+the Royal Society.]
+It does not appear, I think, that before Newton, philosophers in
+general had supposed that terrestrial gravity was the very force by
+which the moon’s motions are produced. Men had, as we have seen, taken
+up the conception of such forces, and had probably called them
+gravity: but this was done only to explain, by analogy, what
+kind of forces they were, just as at other times they
+compared them with magnetism; and it did not imply that terrestrial
+gravity was a force which acted in the celestial spaces. After Newton
+had discovered that this was so, the application of the term “gravity”
+did undoubtedly convey such a suggestion; but we should err if we
+inferred from this coincidence of expression that the notion was
+commonly entertained before him. Thus Huyghens appears to use language
+which may be mistaken, when he says,30 that Borelli was
+of opinion that the primary planets were urged by “gravity” towards
+the sun, and the satellites towards the primaries. The notion of
+terrestrial gravity, as being actually a cosmical force, is foreign to
+all Borelli’s speculations.31 But Horrox, as early as 1635, appears
+to have entertained the true view on this subject, although vitiated
+by Keplerian errors concerning the connection between the rotation of
+the central body and its effect on the body which revolves about it.
+Thus he says,32 that the emanation of the earth carries
+a projected stone along with the motion of the earth, just in the same
+way as it carries the moon in her orbit; and that this force is
+greater on the stone than on the moon, because the distance is
+less.
+30 Cosmotheoros, l. 2. p.
+720.
+31 I have found no instance in which
+the word is so used by him.
+32 Astronomia Kepleriana defensa et
+promota, cap. 2. See further on this subject in the Additions to this volume.
+The Proposition in which Newton has stated the discovery of which
+we are now speaking, is the fourth of his third Book: “That the moon
+gravitates to the earth, and by the force of gravity is perpetually
+406 deflected from
+a rectilinear motion, and retained in her orbit.” The proof consists
+in the numerical calculation, of which he only gives the elements, and
+points out the method; but we may observe, that no small degree of
+knowledge of the way in which astronomers had obtained these elements,
+and judgment in selecting among them, were necessary: thus, the mean
+distance of the moon had been made as little as fifty-six and a half
+semidiameters of the earth by Tycho, and as much as sixty-two and a
+half by Kircher: Newton gives good reasons for adopting sixty-one.
+The term “gravity,” and the expression “to gravitate,” which, as we
+have just seen, Newton uses of the moon, were to receive a still wider
+application in consequence of his discoveries; but in order to make
+this extension clearer, we consider it as a separate step.
+~Additional material in the 3rd edition.~
+4. Mutual Attraction of all the Celestial Bodies.—If
+the preceding parts of the discovery of gravitation were comparatively
+easy to conjecture, and difficult to prove, this was much more the
+case with the part of which we have now to speak, the attraction of
+other bodies, besides the central ones, upon the planets and
+satellites. If the mathematical calculation of the unmixed effect of a
+central force required transcendent talents, how much must the
+difficulty be increased, when other influences prevented those first
+results from being accurately verified, while the deviations from
+accuracy were far more complex than the original action! If it had not
+been that these deviations, though surprisingly numerous and
+complicated in their nature, were very small in their quantity, it
+would have been impossible for the intellect of man to deal with the
+subject; as it was, the struggle with its difficulties is even now a
+matter of wonder.
+The conjecture that there is some mutual action of the planets, had
+been put forth by Hooke in his Attempt to prove the Motion of the
+Earth (1674). It followed, he said, from his doctrine, that not
+only the sun and moon act upon the course and motion of the earth, but
+that Mercury, Venus, Mars, Jupiter, and Saturn, have also, by their
+attractive power, a considerable influence upon the motion of the
+earth, and the earth in like manner powerfully affects the motions of
+those bodies. And Borelli, in attempting to form “theories” of the
+satellites of Jupiter, had seen, though dimly and confusedly, the
+probability that the sun would disturb the motions of these bodies.
+Thus he says (cap. 14), “How can we believe that the Medicean globes
+are not, like other planets, impelled with a greater velocity when
+they approach the sun: and thus they are acted upon by two moving
+forces, one of 407
+which produces their proper revolution about Jupiter, the other
+regulates their motion round the sun.” And in another place (cap. 20),
+he attempts to show an effect of this principle upon the inclination
+of the orbit; though, as might be expected, without any real
+result.
+The case which most obviously suggests the notion that the sun
+exerts a power to disturb the motions of secondary planets about
+primary ones, might seem to be our own moon; for the great
+inequalities which had hitherto been discovered, had all, except the
+first, or elliptical anomaly, a reference to the position of the sun.
+Nevertheless, I do not know that any one had attempted thus to explain
+the curiously irregular course of the earth’s attendant. To calculate,
+from the disturbing agency, the amount of the irregularities, was a
+problem which could not, at any former period, have been dreamt of as
+likely to be at any time within the verge of human power.
+Newton both made the step of inferring that there were such forces,
+and, to a very great extent, calculated the effects of them. The
+inference is made on mechanical principles, in the sixth Theorem of
+the third Book of the Principia;—that the moon is
+attracted by the sun, as the earth is;—that the satellites of
+Jupiter and Saturn are attracted as the primaries are; in the same
+manner, and with the same forces. If this were not so, it is shown
+that these attendant bodies could not accompany the principal ones in
+the regular manner in which they do. All those bodies at equal
+distances from the sun would be equally attracted.
+But the complexity which must occur in tracing the results of this
+principle will easily be seen. The satellite and the primary, though
+nearly at the same distance, and in the same direction, from the sun,
+are not exactly so. Moreover the difference of the distances and of
+the directions is perpetually changing; and if the motion of the
+satellite be elliptical, the cycle of change is long and intricate: on
+this account alone the effects of the sun’s action will inevitably
+follow cycles as long and as perplexed as those of the positions. But
+on another account they will be still more complicated; for in the
+continued action of a force, the effect which takes place at first,
+modifies and alters the effect afterwards. The result at any moment is
+the sum of the results in preceding instants: and since the terms, in
+this series of instantaneous effects, follow very complex rules, the
+sums of such series will be, it might be expected, utterly incapable
+of being reduced to any manageable degree of simplicity.
+It certainly does not appear that any one but Newton could make
+408 any impression
+on this problem, or course of problems. No one for sixty years after
+the publication of the Principia, and, with Newton’s methods,
+no one up to the present day, had added any thing of any value to his
+deductions. We know that he calculated all the principal lunar
+inequalities; in many of the cases, he has given us his processes; in
+others, only his results. But who has presented, in his beautiful
+geometry, or deduced from his simple principles, any of the
+inequalities which he left untouched? The ponderous instrument of
+synthesis, so effective in his hands, has never since been grasped by
+one who could use it for such purposes; and we gaze at it with
+admiring curiosity, as on some gigantic implement of war, which stands
+idle among the memorials of ancient days, and makes us wonder what
+manner of man he was who could wield as a weapon what we can hardly
+lift as a burden.
+It is not necessary to point out in detail the sagacity and skill
+which mark this part of the Principia. The mode in which the
+author obtains the effect of a disturbing force in producing a motion
+of the apse of an elliptical orbit (the ninth Section of the first
+Book), has always been admired for its ingenuity and elegance. The
+general statement of the nature of the principal inequalities produced
+by the sun in the motion of a satellite, given in the sixty-sixth
+Proposition, is, even yet, one of the best explanations of such
+action; and the calculations of the quantity of the effects in the
+third Book, for instance, the variation of the moon, the
+motion of the nodes and its inequalities, the change of
+inclination of the orbit,—are full of beautiful and
+efficacious artifices. But Newton’s inventive faculty was exercised to
+an extent greater than these published investigations show. In several
+cases he has suppressed the demonstration of his method, and given us
+the result only; either from haste or from mere weariness, which might
+well overtake one who, while he was struggling with facts and numbers,
+with difficulties of conception and practice, was aiming also at that
+geometrical elegance of exposition, which he considered as alone fit
+for the public eye. Thus, in stating the effect of the eccentricity of
+the moon’s orbit upon the motion of the apogee, he says,33 “The computations, as too intricate and
+embarrassed with approximations, I do not choose to introduce.”
+33 Schol. to Prop. 35, first
+edit.
+The computations of the theoretical motion of the moon being thus
+difficult, and its irregularities numerous and complex, we may ask
+409 whether
+Newton’s reasoning was sufficient to establish this part of his
+theory; namely, that her actual motions arise from her gravitation to
+the sun. And to this we may reply, that it was sufficient for that
+purpose,—since it showed that, from Newton’s hypothesis,
+inequalities must result, following the laws which the moon’s
+inequalities were known to follow;—since the amount of the
+inequalities given by the theory agreed nearly with the rules which
+astronomers had collected from observation;—and since, by the
+very intricacy of the calculation, it was rendered probable, that the
+first results might be somewhat inaccurate, and thus might give rise
+to the still remaining differences between the calculations and the
+facts. A Progression of the Apogee; a Regression of the
+Nodes; and, besides the Elliptical, or first Inequality, an
+inequality, following the law of the Evection, or second
+inequality discovered by Ptolemy; another, following the law of the
+Variation discovered by Tycho;—were pointed out in the
+first edition of the Principia, as the consequences of the
+theory. Moreover, the quantities of these inequalities were calculated
+and compared with observation with the utmost confidence, and the
+agreement in most instances was striking. The Variation agreed with
+Halley’s recent observations within a minute of a degree.34 The Mean Motion of the Nodes in a year
+agreed within less than one-hundredth of the whole.35 The Equation of the Motion of the Nodes
+also agreed well.36 The Inclination of the Plane of the
+Orbit to the ecliptic, and its changes, according to the different
+situations of the nodes, likewise agreed.37 The Evection has
+been already noticed as encumbered with peculiar difficulties: here
+the accordance was less close. The Difference of the daily progress of
+the Apogee in syzygy, and its daily Regress in Quadratures, is, Newton
+says, “4¼ minutes by the Tables, 6⅔ by our calculation.” He boldly
+adds, “I suspect this difference to be due to the fault of the
+Tables.” In the second edition (1711) he added the calculation of
+several other inequalities, as the Annual Equation, also
+discovered by Tycho; and he compared them with more recent
+observations made by Flamsteed at Greenwich; but even in what has
+already been stated, it must be allowed that there is a wonderful
+accordance of theory with phenomena, both being very complex in the
+rules which they educe.
+34 B. iii. Prop. 29.
+35 Prop. 32.
+36 Prop. 33.
+37 Prop. 35.
+The same theory which gave these Inequalities in the motion of the
+Moon produced by the disturbing force of the sun, gave also 410 corresponding
+Inequalities in the motions of the Satellites of other planets,
+arising from the same cause; and likewise pointed out the necessary
+existence of irregularities in the motions of the Planets arising from
+their mutual attraction. Newton gave propositions by which the
+Irregularities of the motion of Jupiter’s moons might be deduced from
+those of our own;38 and it was shown that the motions of
+their nodes would be slow by theory, as Flamsteed had found it to be
+by observation.39 But Newton did not attempt to calculate
+the effect of the mutual action of the planets, though he observes,
+that in the case of Jupiter and Saturn this effect is too considerable
+to be neglected;40 and he notices in the second edition,41 that it follows from the theory of
+gravity, that the aphelia of Mercury, Venus, the Earth, and Mars,
+slightly progress.
+38 B. i. Prop. 66.
+39 B. iii. Prop. 23.
+40 B. iii. Prop. 13.
+41 Scholium to Prop. 14. B. iii.
+In one celebrated instance, indeed, the deviation of the theory of
+the Principia from observation was wider, and more difficult to
+explain; and as this deviation for a time resisted the analysis of
+Euler and Clairaut, as it had resisted the synthesis of Newton, it at
+one period staggered the faith of mathematicians in the exactness of
+the law of the inverse square of the distance. I speak of the Motion
+of the Moon’s Apogee, a problem which has already been referred to; and in which Newton’s
+method, and all the methods which could be devised for some time
+afterwards, gave only half the observed motion; a circumstance which
+arose, as was discovered by Clairaut in 1750, from the insufficiency
+of the method of approximation. Newton does not attempt to conceal
+this discrepancy. After calculating what the motion of apse would be,
+upon the assumption of a disturbing force of the same amount as that
+which the sun exerts on the moon, he simply says,42 “the apse of the
+moon moves about twice as fast.”
+42 B. i. Prop. 44, second edit. There
+is reason to believe, however, that Newton had, in his unpublished
+calculations, rectified this discrepancy.
+The difficulty of doing what Newton did in this branch of the
+subject, and the powers it must have required, may be judged of from
+what has already been stated;—that no one, with his methods, has
+yet been able to add any thing to his labors: few have undertaken to
+illustrate what he has written, and no great number have understood it
+throughout. The extreme complication of the forces, and of the
+conditions under which they act, makes the subject by far the most
+thorny walk of mathematics. It is necessary to resolve the action
+411 into many
+elements, such as can be separated; to invent artifices for dealing
+with each of these; and then to recompound the laws thus obtained into
+one common conception. The moon’s motion cannot be conceived without
+comprehending a scheme more complex than the Ptolemaic epicycles and
+eccentrics in their worst form; and the component parts of the system
+are not, in this instance, mere geometrical ideas, requiring only a
+distinct apprehension of relations of space in order to hold them
+securely; they are the foundations of mechanical notions, and require
+to be grasped so that we can apply to them sound mechanical
+reasonings. Newton’s successors, in the next generation, abandoned the
+hope of imitating him in this intense mental effort; they gave the
+subject over to the operation of algebraical reasoning, in which
+symbols think for us, without our dwelling constantly upon their
+meaning, and obtain for us the consequences which result from the
+relations of space and the laws of force, however complicated be the
+conditions under which they are combined. Even Newton’s countrymen,
+though they were long before they applied themselves to the method
+thus opposed to his, did not produce any thing which showed that they
+had mastered, or could retrace, the Newtonian investigations.
+Thus the Problem of Three Bodies,43 treated
+geometrically, belongs exclusively to Newton; and the proofs of the
+mutual action of the sun, planets, and satellites, which depend upon
+such reasoning, could not be discovered by any one but him.
+43 See the history of the Problem
+of Three Bodies, ante, in Book vi. Chap. vi. Sect. 7.
+But we have not yet done with his achievements on this subject; for
+some of the most remarkable and beautiful of the reasonings which he
+connected with this problem, belong to the next step of his
+generalization.
+5. Mutual Attraction of all Particles of Matter.—That
+all the parts of the universe are drawn and held together by love, or
+harmony, or some affection to which, among other names, that of
+attraction may have been given, is an assertion which may very
+possibly have been made at various times, by speculators writing at
+random, and taking their chance of meaning and truth. The authors of
+such casual dogmas have generally nothing accurate or substantial,
+either in their conception of the general proposition, or in their
+reference to examples of it; and, therefore, their doctrines are no
+concern of ours at present. But among those who were really the first
+to think of the mutual 412 attraction of matter, we cannot help
+noticing Francis Bacon; for his notions were so far from being
+chargeable with the looseness and indistinctness to which we have
+alluded, that he proposed an experiment44 which was to
+decide whether the facts were so or not;—whether the gravity of
+bodies to the earth arose from an attraction of the parts of matter
+towards each other, or was a tendency towards the centre of the earth.
+And this experiment is, even to this day, one of the best which can be
+devised, in order to exhibit the universal gravitation of matter: it
+consists in the comparison of the rate of going of a clock in a deep
+mine, and on a high place. Huyghens, in his book De Causâ
+Gravitatis, published in 1690, showed that the earth would have an
+oblate form, in consequence of the action of the centrifugal force;
+but his reasoning does not suppose gravity to arise from the mutual
+attraction of the parts of the earth. The apparent influence of the
+moon upon the tides had long been remarked; but no one had made any
+progress in truly explaining the mechanism of this influence; and all
+the analogies to which reference had been made, on this and similar
+subjects, as magnetic and other attractions, were rather delusive than
+illustrative, since they represented the attraction as something
+peculiar in particular bodies, depending upon the nature of each
+body.
+44 Nov. Org. Lib. ii. Aph.
+36.
+That all such forces, cosmical and terrestrial, were the same
+single force, and that this was nothing more than the insensible
+attraction which subsists between one stone and another, was a
+conception equally bold and grand; and would have been an
+incomprehensible thought, if the views which we have already explained
+had not prepared the mind for it. But the preceding steps having
+disclosed, between all the bodies of the universe, forces of the same
+kind as those which produce the weight of bodies at the earth, and,
+therefore, such as exist in every particle of terrestrial matter; it
+became an obvious question, whether such forces did not also belong to
+all particles of planetary matter, and whether this was not, in fact,
+the whole account of the forces of the solar system. But, supposing
+this conjecture to be thus suggested, how formidable, on first
+appearance at least, was the undertaking of verifying it! For if this
+be so, every finite mass of matter exerts forces which are the result
+of the infinitely numerous forces of its particles, these forces
+acting in different directions. It does not appear, at first sight,
+that the law by which the force is related to the distance, will be
+the same for the particles as it is for the masses; and, in reality,
+it 413 is not so,
+except in special cases. And, again, in the instance of any effect
+produced by the force of a body, how are we to know whether the force
+resides in the whole mass as a unit, or in the separate particles? We
+may reason, as Newton does,45 that the rule which proves gravity to
+belong universally to the planets, proves it also to belong to their
+parts; but the mind will not be satisfied with this extension of the
+rule, except we can find decisive instances, and calculate the effects
+of both suppositions, under the appropriate conditions. Accordingly,
+Newton had to solve a new series of problems suggested by this
+inquiry; and this he did.
+45 Princip. B. iii. Prop.
+7.
+These solutions are no less remarkable for the mathematical power
+which they exhibit, than the other parts of the Principia. The
+propositions in which it is shown that the law of the inverse square
+for the particles gives the same law for spherical masses, have that
+kind of beauty which might well have justified their being published
+for their mathematical elegance alone, even if they had not applied to
+any real case. Great ingenuity is also employed in other instances, as
+in the case of spheroids of small eccentricity. And when the amount of
+the mechanical action of masses of various forms has thus been
+assigned, the sagacity shown in tracing the results of such action in
+the solar system is truly admirable; not only the general nature of
+the effect being pointed out, but its quantity calculated. I speak in
+particular of the reasonings concerning the Figure of the Earth, the
+Tides, the Precession of the Equinoxes, the Regression of the Nodes of
+a ring such as Saturn’s; and of some effects which, at that time, had
+not been ascertained even as facts of observation; for instance, the
+difference of gravity in different latitudes, and the Nutation of the
+earth’s axis. It is true, that in most of these cases, Newton’s
+process could be considered only as a rude approximation. In one (the
+Precession) he committed an error, and in all, his means of
+calculation were insufficient. Indeed these are much more difficult
+investigations than the Problem of Three Bodies, in which three points
+act on each other by explicit laws. Up to this day, the resources of
+modern analysis have been employed upon some of them with very partial
+success; and the facts, in all of them, required to be accurately
+ascertained and measured, a process which is not completed even now.
+Nevertheless the form and nature of the conclusions which Newton did
+obtain, were such as to inspire a strong confidence in the competency
+of his theory to explain 414 all such phenomena as have been spoken
+of. We shall afterwards have to speak of the
+labors, undertaken in order to examine the phenomena more exactly, to
+which the theory gave occasion.
+Thus, then, the theory of the universal mutual gravitation of all
+the particles of matter, according to the law of the inverse square of
+the distances, was conceived, its consequences calculated, and its
+results shown to agree with phenomena. It was found that this theory
+took up all the facts of astronomy as far as they had hitherto been
+ascertained; while it pointed out an interminable vista of new facts,
+too minute or too complex for observation alone to disentangle, but
+capable of being detected when theory had pointed out their laws, and
+of being used as criteria or confirmations of the truth of the
+doctrine. For the same reasoning which explained the evection,
+variation, and annual equation of the moon, showed that there must be
+many other inequalities besides these; since these resulted from
+approximate methods of calculation, in which small quantities were
+neglected. And it was known that, in fact, the inequalities hitherto
+detected by astronomers did not give the place of the moon with
+satisfactory accuracy; so that there was room, among these hitherto
+untractable irregularities, for the additional results of the theory.
+To work out this comparison was the employment of the succeeding
+century; but Newton began it. Thus, at the end of the proposition in
+which he asserts,46 that “all the lunar motions and their
+irregularities follow from the principles here stated,” he makes the
+observation which we have just made; and gives, as examples, the
+different motions of the apogee and nodes, the difference of the
+change of the eccentricity, and the difference of the moon’s
+variation, according to the different distances of the sun. “But this
+inequality,” he says, “in astronomical calculations, is usually
+referred to the prosthaphæresis of the moon, and confounded with
+it.”
+46 B. iii. Prop. 22.
+Reflections on the Discovery.—Such, then, is the great
+Newtonian Induction of Universal Gravitation, and such its history. It
+is indisputably and incomparably the greatest scientific discovery
+ever made, whether we look at the advance which it involved, the
+extent of the truth disclosed, or the fundamental and satisfactory
+nature of this truth. As to the first point, we may observe that any
+one of the five steps into which we have separated the doctrine,
+would, of itself, have been considered as an important
+advance;—would have conferred distinction on the persons who
+made it, and the time to which it belonged. All 415 the five steps made
+at once, formed not a leap, but a flight,—not an improvement
+merely, but a metamorphosis,—not an epoch, but a termination.
+Astronomy passed at once from its boyhood to mature manhood. Again,
+with regard to the extent of the truth, we obtain as wide a
+generalization as our physical knowledge admits, when we learn that
+every particle of matter, in all times, places, and circumstances,
+attracts every other particle in the universe by one common law of
+action. And by saying that the truth was of a fundamental and
+satisfactory nature, I mean that it assigned, not a rule merely, but a
+cause, for the heavenly motions; and that kind of cause which most
+eminently and peculiarly we distinctly and thoroughly conceive,
+namely, mechanical force. Kepler’s laws were merely formal
+rules, governing the celestial motions according to the relations of
+space, time, and number; Newton’s was a causal law, referring
+these motions to mechanical reasons. It is no doubt conceivable that
+future discoveries may both extend and further explain Newton’s
+doctrines;—may make gravitation a case of some wider law, and
+may disclose something of the mode in which it operates; questions
+with which Newton himself struggled. But, in the mean time, few
+persons will dispute, that both in generality and profundity, both in
+width and depth, Newton’s theory is altogether without a rival or
+neighbor.47
+47 The value and nature of this step
+have long been generally acknowledged wherever science is cultivated.
+Yet it would appear that there is, in one part of Europe, a school of
+philosophers who contest the merit of this part of Newton’s
+discoveries. “Kepler,” says a celebrated German metaphysician,*
+“discovered the laws of free motion; a discovery of immortal glory. It
+has since been the fashion to say that Newton first found out the
+proof of these rules. It has seldom happened that the glory of the
+first discoverer has been more unjustly transferred to another
+person.” It may appear strange that any one in the present day should
+hold such language; but if we examine the reasons which this author
+gives, they will be found, I think, to amount to this: that his mind
+is in the condition in which Kepler’s was; and that the whole range of
+mechanical ideas and modes of conception which made the transition
+from Kepler and Newton possible, are extraneous to the domain of his
+philosophy. Even this author, however, if I understand him rightly,
+recognizes Newton as the author of the doctrine of Perturbations.
+ I have given a further account of these views, in a Memoir On
+Hegel’s Criticism of Newton’s Principia. Cambridge Transactions,
+1849.
+* Hegel, Encyclopædia, § 270.
+The requisite conditions of such a discovery in the mind of its
+author were, in this as in other cases, the idea, and its comparison
+with facts;—the conception of the law, and the moulding this
+conception in such a form as to correspond with known realities. The
+idea of mechanical 416 force as the cause of the celestial
+motions, had, as we have seen, been for some time growing up in men’s
+minds; had gone on becoming more distinct and more general; and had,
+in some persons, approached the form in which it was entertained by
+Newton. Still, in the mere conception of universal gravitation, Newton
+must have gone far beyond his predecessors and contemporaries, both in
+generality and distinctness; and in the inventiveness and sagacity
+with which he traced the consequences of this conception, he was, as
+we have shown, without a rival, and almost without a second. As to the
+facts which he had to include in his law, they had been accumulating
+from the very birth of astronomy; but those which he had more
+peculiarly to take hold of were the facts of the planetary motions as
+given by Kepler, and those of the moon’s motions as given by Tycho
+Brahe and Jeremy Horrox.
+We find here occasion to make a remark which is important in its
+bearing on the nature of progressive science. What Newton thus used
+and referred to as facts, were the laws which his
+predecessors had established. What Kepler and Horrox had put forth as
+“theories,” were now established truths, fit to be used in the
+construction of other theories. It is in this manner that one theory
+is built upon another;—that we rise from particulars to
+generals, and from one generalization to another;—that we have,
+in short, successive steps of induction. As Newton’s laws assumed
+Kepler’s, Kepler’s laws assumed as facts the results of the planetary
+theory of Ptolemy; and thus the theories of each generation in the
+scientific world are (when thoroughly verified and established,) the facts of the
+next generation. Newton’s theory is the circle of generalization which
+includes all the others;—the highest point of the inductive
+ascent;—the catastrophe of the philosophic drama to which Plato
+had prologized;—the point to which men’s minds had been
+journeying for two thousand years.
+Character of Newton.—It is not easy to anatomize the
+constitution and the operations of the mind which makes such an
+advance in knowledge. Yet we may observe that there must exist in it,
+in an eminent degree, the elements which compose the mathematical
+talent. It must possess distinctness of intuition, tenacity and
+facility in tracing logical connection, fertility of invention, and a
+strong tendency to generalization. It is easy to discover indications
+of these characteristics in Newton. The distinctness of his intuitions
+of space, and we may add of force also, was seen in the amusements of
+his youth; in his constructing clocks and mills, carts and dials, as
+well as the facility with which he 417 mastered geometry. This fondness for
+handicraft employments, and for making models and machines, appears to
+be a common prelude of excellence in physical science;48 probably on this very account, that it
+arises from the distinctness of intuitive power with which the child
+conceives the shapes and the working of such material combinations.
+Newton’s inventive power appears in the number and variety of the
+mathematical artifices and combinations which he devised, and of which
+his books are full. If we conceive the operation of the inventive
+faculty in the only way in which it appears possible to conceive
+it;—that while some hidden source supplies a rapid stream of
+possible suggestions, the mind is on the watch to seize and detain any
+one of these which will suit the case in hand, allowing the rest to
+pass by and be forgotten;—we shall see what extraordinary
+fertility of mind is implied by so many successful efforts; what an
+innumerable host of thoughts must have been produced, to supply so
+many that deserved to be selected. And since the selection is
+performed by tracing the consequences of each suggestion, so as to
+compare them with the requisite conditions, we see also what rapidity
+and certainty in drawing conclusions the mind must possess as a
+talent, and what watchfulness and patience as a habit.
+48 As in Galileo, Hooke, Huyghens, and
+others.
+The hidden fountain of our unbidden thoughts is for us a mystery;
+and we have, in our consciousness, no standard by which we can measure
+our own talents; but our acts and habits are something of which we are
+conscious; and we can understand, therefore, how it was that Newton
+could not admit that there was any difference between himself and
+other men, except in his possession of such habits as we have
+mentioned, perseverance and vigilance. When he was asked how he made
+his discoveries, he answered, “by always thinking about them;” and at
+another time he declared that if he had done any thing, it was due to
+nothing but industry and patient thought: “I keep the subject of my
+inquiry constantly before me, and wait till the first dawning opens
+gradually, by little and little, into a full and clear light.” No
+better account can be given of the nature of the mental
+effort which gives to the philosopher the full benefit of his
+powers; but the natural powers of men’s minds are not on that
+account the less different. There are many who might wait through ages
+of darkness without being visited by any dawn.
+The habit to which Newton thus, in some sense, owed his 418 discoveries, this
+constant attention to the rising thought, and development of its
+results in every direction, necessarily engaged and absorbed his
+spirit, and made him inattentive and almost insensible to external
+impressions and common impulses. The stories which are told of his
+extreme absence of mind, probably refer to the two years during which
+he was composing his Principia, and thus following out a train
+of reasoning the most fertile, the most complex, and the most
+important, which any philosopher had ever had to deal with. The
+magnificent and striking questions which, during this period, he must
+have had daily rising before him; the perpetual succession of
+difficult problems of which the solution was necessary to his great
+object; may well have entirely occupied and possessed him. “He existed
+only to calculate and to think.”49 Often, lost in
+meditation, he knew not what he did, and his mind appeared to have
+quite forgotten its connection with the body. His servant reported
+that, on rising in a morning, he frequently sat a large portion of the
+day, half-dressed, on the side of his bed  and that his meals waited
+on the table for hours before he came to take them. Even with his
+transcendent powers, to do what he did was almost irreconcilable with
+the common conditions of human life; and required the utmost devotion
+of thought, energy of effort, and steadiness of will—the
+strongest character, as well as the highest endowments, which belong
+to man.
+49  Biot.
+Newton has been so universally considered as the greatest example
+of a natural philosopher, that his moral qualities, as well as his
+intellect, have been referred to as models of the philosophical
+character; and those who love to think that great talents are
+naturally associated with virtue, have always dwelt with pleasure upon
+the views given of Newton by his contemporaries; for they have
+uniformly represented him as candid and humble, mild and good. We may
+take as an example of the impressions prevalent about him in his own
+time, the expressions of Thomson, in the Poem on his Death.50 419
+
+
+Say ye who best can tell, ye happy few,
+Who saw him in the softest lights of life,
+All unwithheld, indulging to his friends
+The vast unborrowed treasures of his mind,
+Oh, speak the wondrous man! how mild, how
+calm
+How greatly humble, how divinely good,
+How firm established on eternal truth!
+Fervent in doing well, with every nerve
+Still pressing on, forgetful of the past,
+And panting for perfection; far above
+Those little cares and visionary joys
+That so perplex the fond impassioned heart
+Of ever-cheated, ever-trusting man.
+50 In the same strain we find the
+general voice of the time. For instance, one of Loggan’s “Views of
+Cambridge” is dedicated “Isaaco Newtono . . Mathematico, Physico,
+Chymico consummatissimo; nec minus suavitate morum  et candore animi .
+. . spectabili.”
+ In opposition to the general current of such testimony, we have
+the complaints of Flamsteed, who ascribes to Newton angry language and
+harsh conduct in the matter of the publication of the Greenwich
+Observations, and of Whiston. Yet even Flamsteed speaks well of his
+general disposition. Whiston was himself so weak and prejudiced that
+his testimony is worth very little.
+[2d Ed.] [In the first edition of the Principia, published
+in 1687, Newton showed that the nature of all the then known
+inequalities of the moon, and in some cases, their quantities, might
+be deduced from the principles which he laid down  but the
+determination of the amount and law of most of the inequalities was
+deferred to a more favorable opportunity, when he might be furnished
+with better astronomical observations. Such observations as he needed
+for this purpose had been made by Flamsteed, and for these he applied,
+representing how much value their use would add to the observations.
+“If,” he says, in 1694, “you publish them without such a theory to
+recommend them, they will only be thrown into the heap of the
+observations of former astronomers, till somebody shall arise that by
+perfecting the theory of the moon shall discover your observations to
+be exacter than the rest; but when that shall be, God knows: I fear,
+not in your lifetime, if I should die before it is done. For I find
+this theory so very intricate, and the theory of gravity so necessary
+to it, that I am satisfied it will never be perfected but by somebody
+who understands the theory of gravity as well, or better than I do.”
+He obtained from Flamsteed the lunar observations for which he
+applied, and by using these he framed the Theory of the Moon which is
+given as his in David Gregory’s Astronomiæ Elementa.51 He also obtained from Flamsteed the
+diameters of the planets as observed at various times, and the
+greatest elongation of Jupiter’s Satellites, both of which, Flamsteed
+says, he made use of in his Principia.
+51 In the Preface to a Treatise on
+Dynamics, Part i., published in 1836, I have endeavored to show
+that Newton’s modes of determining several of the lunar inequalities
+admitted of an accuracy not very inferior to the modern analytical
+methods.
+Newton, in his letters to Flamsteed in 1694 and 5, acknowledges
+this service.52]
+52 The quarrel on the subject of the
+publication of Flamsteed’s Observations took place at a later period.
+Flamsteed wished to have his Observations printed complete and entire.
+Halley, who, under the authority of Newton and others, had the
+management of the printing, made many alterations and omissions, which
+Flamsteed considered as deforming and spoiling the work. The
+advantages of publishing a complete series of observations,
+now generally understood, were not then known to astronomers in
+general, though well known to Flamsteed, and earnestly insisted upon
+in his remonstrances. The result was that Flamsteed published his
+Observations at his own expense, and finally obtained permission to
+destroy the copies printed by Halley, which he did. In 1726, after
+Flamsteed’s death, his widow applied to the Vice-Chancellor of Oxford,
+requesting that the volume printed by Halley might be removed out of
+the Bodleian Library, where it exists, as being “nothing more than an
+erroneous abridgment of Mr. Flamsteed’s works,” and unfit to see the
+light. 420</div></body></text></TEI>

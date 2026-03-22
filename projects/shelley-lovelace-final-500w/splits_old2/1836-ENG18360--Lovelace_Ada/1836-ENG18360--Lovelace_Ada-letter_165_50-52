@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 50-52</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 50-52.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1836">29 July [1836]</date>
+          <note type="place">Brighton</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 50-52</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_50-52.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Brighton Friday. 29th July</p>
+      <p>My Own Dearest. A desperate high wind &amp; violent storm all day. There was an interval this afternoon just sufficient for me to go out at the Hen's recommendation in a bath chair. I am ten doors from her-- No 68-- She is 58.-- Hester called on Emily today, but she</p>
+      <p>was out. H called on Aunt Lucy also, who was at home. I sent her a civil message about calling which gave pleasure.-- She &amp; Emily both live in a little street oddly enough placed between Mama's house &amp; mine, so we are in very close quarters, which as far as Emily is concerned I do not rejoice at.-- Mama saw her out riding yesterday on one of the roads near Brighton. She was going at a foot's pace, with her groom</p>
+      <p>in livery behind her. Mama was struck with her remarkedly good seat, &amp; thought her brilliant looking though perhaps not to the Hen's taste handsome.-- I am very glad I have not brought riding horses. If this weather continues, I shall ride but little.-- My dear little bird is very well, &amp; very engaging &amp; a comfort in ou absence.-- I love him more &amp; more, and only hope I may be a tender mother to the dear little thing.--</p>
+      <p>They have turned out the</p>
+      <p>wrong horse at Ockham, through a mistake of her (the Hen) coachman [coachmans with the s crossed out]-- not ours. I found this out first as I came to Dorking yesterday, and have desired the other one to be turned out immediately. Both are to remain out tille I return.-- I have spoken to the Hen about it.--</p>
+      <p>Hester &amp; I have been reading a good deal together this morning. She enjoys Herschels Discourse. I thought she would.-- The Hen gave</p>
+      <p>me to read today a most touching, interesting &amp; instructive account of the death-bed of a young lady of 19 whom he attended, &amp; of whom he wrote this description. I was so struck with it that I mean to copy it or get it copied. I think it would interest ou.</p>
+      <p>The naughty Hen is very saucy.-- My Dearest, Yours most affecly The Little Bird A.A.K.</p>
+    </div></body>
+  </text>
+</TEI>

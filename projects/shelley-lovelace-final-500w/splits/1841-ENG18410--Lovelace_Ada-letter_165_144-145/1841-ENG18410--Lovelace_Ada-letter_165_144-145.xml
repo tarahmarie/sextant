@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 144-145</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 144-145.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1841">undated [1841]</date>
+          <note type="place">Paris</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 144-145</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_144-145.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Paris 12 o'clock. Thursdy Morng.</p>
+      <p>Dearest William. I arrived here at six this morning; &amp; now write from an Hotel, where I came to recruit myself &amp; take a warm bath previous to going to the Hen. I should have been with her two hours since but that it is has been pouring with rain the whole morning. I am now hoping to go &amp; surprise her (by the bye you know she has omitted giving me her address;-- further than that she has left the Rue de Rivole), very shortly, as it looks much brighter.-- I had a very rapid &amp; excellent journey, tho' of course I can say nothing for its agreeableness, or for the comfort of the night I have passed. But I have got to my journey's end, &amp; with entire success. After I wrote my letter to you on</p>
+      <p>board the Packet the other day, I became on approaching the Foreland, most distressingly ill. It was not sickness, but an effect on my circulation &amp; nervous system-- the combined results of the sea air (which is known to be lowering in its tendency), &amp; the motion which latter was very considerable, &amp; our Boat in all respects small, bad, and uncomfortable.-- I was so ill that I believe some alarm was excited. Luckily my own consciousness &amp; prescence of mind were quite sufficiently aline to enable me to assure the bystanders they had nothing to apprehend. I was fearfully cold (&amp; this tho' I had taken every precaution as to clothing). After being laid down, quantities of blankets &amp; feather pillows heaped all round &amp; upon me, heat applied to my hands &amp; feet, &amp; good rubbing at the same time, I very soon came quite to. &amp; tho I certainly suffered most acutely for the time, yet it appears to have</p>
+      <p>left no effects behind it.-- But some of the symptoms were very peculiar, &amp; show the curious tendency of my constitutions, which seems never to alter in its ultimate nature, tho' circumstances &amp; increased strength may leave the peculiarities for months &amp; years together undevelopped.</p>
+      <p>Well-- on the whole all has been most prosperous. I think here is a fine gleam so I will put this into the post, &amp; run off after the Hen. I dare say she may write you a line herself [a few words obscured by a fold in the paper] her letters are not gone. Post leaves rather early.</p>
+      <p>The Bird</p>
+    </div></body>
+  </text>
+</TEI>

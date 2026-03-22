@@ -1,0 +1,495 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="139">CHAPTER VIII.
+The Two Antagonist Doctrines of Geology.
+
+Sect. 1.—Of the Doctrine of
+Geological Catastrophes.
+THAT great changes, of a kind
+and intensity quite different from the common course of events, and
+which may therefore properly be called catastrophes, have taken place
+upon the earth’s surface, was an opinion which appeared to be forced
+upon men by obvious facts. Rejecting, as a mere play of fancy, the
+notions of the destruction of the earth by cataclysms or
+conflagrations, of which we have already spoken, we find that the
+first really scientific examination of the materials of the earth,
+that of the Sub-Apennine hills, led men to draw this inference.
+Leonardo da Vinci, whom we have already noticed for his early and
+strenuous assertion of the real marine origin of fossil impressions of
+shells, also maintained that the bottom of the sea had become the top
+of the mountain; yet his mode of explaining this may perhaps be
+claimed by the modern advocates of uniform causes as more allied to
+their 587 opinion,
+than to the doctrine of catastrophes.101 But Steno, in
+1669, approached nearer to this doctrine; for he asserted that Tuscany
+must have changed its face at intervals, so as to acquire six
+different configurations, by the successive breaking down of the older
+strata into inclined positions, and the horizontal deposit of new ones
+upon them. Strabo, indeed, at an earlier period had recourse to
+earthquakes, to explain the occurrence of shells in mountains; and
+Hooke published the same opinion later. But the Italian geologists
+prosecuted their researches under the advantage of having, close at
+hand, large collections of conspicuous and consistent phenomena.
+Lazzaro Moro, in 1740, attempted to apply the theory of earthquakes to
+the Italian strata; but both he and his expositor, Cirillo Generelli,
+inclined rather to reduce the violence of these operations within the
+ordinary course of nature,102 and thus
+leant to the doctrine of uniformity, of which we have afterwards to
+speak. Moro was encouraged in this line of speculation by the
+extraordinary occurrence, as it was deemed by most persons, of the
+rise of a new volcanic island from a deep part of the Mediterranean,
+near Santorino, in 1707.103 But in other
+countries, as the geological facts were studied, the doctrine of
+catastrophes appeared to gain ground. Thus in England, where, through
+a large part of the country, the coal-measures are extremely inclined
+and contorted, and covered over by more horizontal fragmentary beds,
+the opinion that some violent catastrophe had occurred to dislocate
+them, before the superincumbent strata were deposited, was strongly
+held. It was conceived that a period of violent and destructive action
+must have succeeded to one of repose; and that, for a time, some
+unusual and paroxysmal forces must have been employed in elevating and
+breaking the pre-existing strata, and wearing their fragments into
+smooth pebbles, before nature subsided into a new age of tranquillity
+and vitality. In like manner Cuvier, from the alternations of
+fresh-water and salt-water species in the strata of Paris, collected
+the opinion of a series of great revolutions, in which “the thread of
+induction was broken.” Deluc and others, to whom we owe the first
+steps in geological dynamics, attempted carefully to distinguish
+between causes now in action, and those which have ceased to act; in
+which latter class they reckoned the causes which have 588 elevated the existing
+continents. This distinction was assented to by many succeeding
+geologists. The forces which have raised into the clouds the vast
+chains of the Pyrenees, the Alps, the Andes, must have been, it was
+deemed, something very different from any agencies now operating.
+101 “Here is a part of the earth
+which has become more light, and which rises, while the opposite part
+approaches nearer to the centre, and what was the bottom of the sea is
+become the top of the mountain.”—Venturi’s Léonardo da
+Vinci.
+102 Lyell, i. 3. p. 64. (4th
+ed.)
+103 Ib. p. 60.
+This opinion was further confirmed by the appearance of a complete
+change in the forms of animal and vegetable life, in passing from one
+formation to another. The species of which the remains occurred, were
+entirely different, it was said, in two successive epochs: a new
+creation appears to have intervened; and it was readily believed that
+a transition, so entirely out of the common course of the world, might
+be accompanied by paroxysms of mechanical energy. Such views prevail
+extensively among geologists up to the present time: for instance, in
+the comprehensive theoretical generalizations of Elie de Beaumont and
+others, respecting mountain-chains, it is supposed that, at certain
+vast intervals, systems of mountains, which may be recognized by the
+parallelism of course of their inclined beds, have been disturbed and
+elevated, lifting up with them the aqueous strata which had been
+deposited among them in the intervening periods of tranquillity, and
+which are recognized and identified by means of their organic remains:
+and according to the adherents of this hypothesis, these sudden
+elevations of mountain-chains have been followed, again and again, by
+mighty waves, desolating whole regions of the earth.
+The peculiar bearing of such opinions upon the progress of physical
+geology will be better understood by attending to the doctrine of
+uniformity, which is opposed to them, and with the consideration
+of which we shall close our survey of this science, the last branch of
+our present task.
+Sect. 2.—Of the Doctrine of Geological
+Uniformity.
+The opinion that the history
+of the earth had involved a serious of catastrophes, confirmed by the
+two great classes of facts, the symptoms of mechanical violence on a
+very large scale, and of complete changes in the living things by
+which the earth had been tenanted, took strong hold of the geologists
+of England, France, and Germany. Hutton, though he denied that there
+was evidence of a beginning of the present state of things, and
+referred many processes in the formation of strata to existing causes,
+did not assert that the elevatory forces which raise continents from
+the bottom of the ocean, were of the same order, 589 as well as of the
+same kind, with the volcanoes and earthquakes which now shake the
+surface. His doctrine of uniformity was founded rather on the supposed
+analogy of other lines of speculation, than on the examination of the
+amount of changes now going on. “The Author of nature,” it was said,
+“has not permitted in His works any symptom of infancy or of old age,
+or any sign by which we may estimate either their future or their past
+duration:” and the example of the planetary system was referred to in
+illustration of this.104 And a general persuasion that the
+champions of this theory were not disposed to accept the usual
+opinions on the subject of creation, was allowed, perhaps very
+unjustly, to weigh strongly against them in the public opinion.
+104 Lyell, i. 4, p. 94.
+While the rest of Europe had a decided bias towards the doctrine of
+geological catastrophes, the phenomena of Italy, which, as we have
+seen, had already tended to soften the rigor of that doctrine, in the
+progress of speculation from Steno to Generelli, were destined to
+mitigate it still more, by converting to the belief of uniformity
+transalpine geologists who had been bred up in the catastrophist
+creed. This effect was, indeed, gradual. For a time the distinction of
+the recent and the tertiary period was held to be marked
+and strong. Brocchi asserted that a large portion of the Sub-Apennine
+fossil shells belonged to a living species of the Mediterranean Sea:
+but the geologists of the rest of Europe turned an incredulous ear to
+this Italian tenet; and the persuasion of the distinction of the
+tertiary and the recent period was deeply impressed on most geologists
+by the memorable labors of Cuvier and Brongniart on the Paris basin.
+Still, as other tertiary deposits were examined, it was found that
+they could by no means be considered as contemporaneous, but that they
+formed a chain of posts, advancing nearer and nearer to the recent
+period. Above the strata of the basins of London and Paris,105 lie the newer strata of Touraine, of
+Bourdeaux, of the valley of the Bormida and the Superga near Turin,
+and of the basin of Vienna, explored by M. Constant Prevost. Newer and
+higher still than these, are found the Sub-Apennine formations of
+Northern Italy, and probably of the same period, the English “crag” of
+Norfolk and Suffolk. And most of these marine formations are
+associated with volcanic products and fresh-water deposits, so as to
+imply apparently a long train of alternations of corresponding
+processes. It may easily be supposed that, when the subject had
+assumed this form, the boundary of the present and past condition of
+the earth 590 was
+in some measure obscured. But it was not long before a very able
+attempt was made to obliterate it altogether. In 1828, Mr. Lyell set
+out on a geological tour through France and Italy.106 He had already conceived the idea of
+classing the tertiary groups by reference to the number of recent
+species which were found in a fossil state. But as he passed from the
+north to the south of Italy, he found, by communication with the best
+fossil conchologists, Borelli at Turin, Guidotti at Parma, Costa at
+Naples, that the number of extinct species decreased; so that the
+last-mentioned naturalist, from an examination of the fossil shells of
+Otranto and Calabria, and of the neighboring seas, was of opinion that
+few of the tertiary shells were of extinct species. To complete the
+series of proof, Mr. Lyell himself explored the strata of Ischia, and
+found, 2000 feet above the level of the sea, shells, which were all
+pronounced to be of species now inhabiting the Mediterranean; and soon
+after, he made collections of a similar description on the flanks of
+Etna, in the Val di Noto, and in other places.
+105 Lyell, 1st ed. vol. iii. p.
+61.
+106 1st ed. vol. iii. Pref.
+The impression produced by these researches is described by
+himself.107 “In the course of my tour I had been
+frequently led to reflect on the precept of Descartes, that a
+philosopher should once in his life doubt everything he had been
+taught; but I still retained so much faith in my early geological
+creed as to feel the most lively surprize on visiting Sortino,
+Pentalica, Syracuse, and other parts of the Val di Noto, at beholding
+a limestone of enormous thickness, filled with recent shells, or
+sometimes with mere casts of shells, resting on marl in which shells
+of Mediterranean species were imbedded in a high state of
+preservation. All idea of [necessarily] attaching a high antiquity to
+a regularly-stratified limestone, in which the casts and impressions
+of shells alone were visible, vanished at once from my mind. At the
+same time, I was struck with the identity of the associated igneous
+rocks of the Val di Noto with well-known varieties of ‘trap’ in
+Scotland and other parts of Europe; varieties which I had also seen
+entering largely into the structure of Etna.
+107 Lyell, 1st ed. Pref. x.
+“I occasionally amused myself,” Mr. Lyell adds, “with speculating
+on the different rate of progress which geology might have made, had
+it been first cultivated with success at Catania, where the phenomena
+above alluded to, and the great elevation of the modern tertiary beds
+in the Val di Noto, and the changes produced in the historical era by
+the Calabrian earthquakes, would have been familiarly known.” 591
+Before Mr. Lyell entered upon his journey, he had put into the
+hands of the printer the first volume of his “Principles of Geology,
+being an attempt to explain the former Changes of the Earth’s Surface
+by reference to the Causes now in Operation.” And after viewing
+such phenomena as we have spoken of, he, no doubt, judged that the
+doctrine of catastrophes of a kind entirely different from the
+existing course of events, would never have been generally received,
+if geologists had at first formed their opinions upon the Sicilian
+strata. The boundary separating the present from the anterior state of
+things crumbled away; the difference of fossil and recent species had
+disappeared, and, at the same time, the changes of position which
+marine strata had undergone, although not inferior to those of earlier
+geological periods, might be ascribed, it was thought, to the same
+kind of earthquakes as those which still agitate that region. Both the
+supposed proofs of catastrophic transition, the organical and the
+mechanical changes, failed at the same time; the one by the removal of
+the fact, the other by the exhibition of the cause. The powers of
+earthquakes, even such as they now exist, were, it was supposed, if
+allowed to operate for an illimitable time, adequate to produce all
+the mechanical effects which the strata of all ages display. And it
+was declared that all evidence of a beginning of the present state of
+the earth, or of any material alteration in the energy of the forces
+by which it has been modified at various epochs, was entirely
+wanting.
+Other circumstances in the progress of geology tended the same way.
+Thus, in cases where there had appeared in one country a sudden and
+violent transition from one stratum to the next, it was found, that by
+tracing the formations into other countries, the chasm between them
+was filled up by intermediate strata; so that the passage became as
+gradual and gentle as any other step in the series. For example,
+though the conglomerates, which in some parts of England overlie the
+coal-measures, appear to have been produced by a complete
+discontinuity in the series of changes; yet in the coal-fields of
+Yorkshire, Durham, and Cumberland, the transition is smoothed down in
+such a way that the two formations pass into each other. A similar
+passage is observed in Central-Germany, and in Thuringia is so
+complete, that the coal-measures have sometimes been considered as
+subordinate to the todtliegendes.108
+108 De la Beche, p. 414,
+Manual.
+Upon such evidence and such arguments, the doctrine of 592 catastrophes was
+rejected with some contempt and ridicule; and it was maintained, that
+the operation of the causes of geological change may properly and
+philosophically be held to have been uniform through all ages and
+periods. On this opinion, and the grounds on which it he been urged,
+we shall make a few concluding remarks.
+It must be granted at once, to the advocates of this geological
+uniformity, that we are not arbitrarily to assume the existence of
+catastrophes. The degree of uniformity and continuity with which
+terremotive forces have acted, must be collected, not from any
+gratuitous hypothesis, but from the facts of the case. We must suppose
+the causes which have produced geological phenomena, to have been as
+similar to existing causes, and as dissimilar, as the effects teach
+us. We are to avoid all bias in favor of powers deviating in kind and
+degree from those which act at present; a bias which, Mr. Lyell
+asserts, has extensively prevailed among geologists.
+But when Mr. Lyell goes further, and considers it a merit in a
+course of geological speculation that it rejects any
+difference between the intensity of existing and of past causes, we
+conceive that he errs no less than those whom he censures. “An
+earnest and patient endeavor to reconcile the former
+indication of change,”109 with any restricted class of
+causes,—a habit which he enjoins,—is not, we may suggest,
+the temper in which science ought to be pursued. The effects must
+themselves teach us the nature and intensity of the causes which have
+operated; and we are in danger of error, if we seek for slow and shun
+violent agencies further than the facts naturally direct us, no less
+than if we were parsimonious of time and prodigal of violence.
+Time, inexhaustible and ever accumulating his efficacy, can
+undoubtedly do much for the theorist in geology; but Force,
+whose limits we cannot measure, and whose nature we cannot fathom, is
+also a power never to be slighted: and to call in the one to protect
+us from the other, is equally presumptuous, to whichever of the two
+our superstition leans. To invoke Time, with ten thousand earthquakes,
+to overturn and set on edge a mountain-chain, should the phenomena
+indicate the change to have been sudden and not successive, would be
+ill excused by pleading the obligation of first appealing to known
+causes.110
+109 Lyell, B. iv. c. i. p. 328, 4th
+ed.
+110 [2nd Ed.] [I have, in the text,
+quoted the fourth edition of Mr. Lyell’s Principles, in which
+he recommends “an earnest and patient endeavor to reconcile the former
+indications of change with the evidence of gradual mutation now in
+progress.” In the sixth edition, in that which is, I presume, the
+corresponding passage, although it is transferred from the fourth to
+the first Book (B. i. c. xiii. p. 325) he recommends, instead, “an
+earnest and patient inquiry how far geological appearances are
+reconcileable with the effect of changes now in progress.” But while
+Mr. Lyell has thus softened the advocate’s character in his language
+in this passage, the transposition which I have noticed appears to me
+to have an opposite tendency. For in the former edition, the causes
+now in action were first described in the second and third Books, and
+the great problem of Geology, stated in the first Book, was attempted
+to be solved in the fourth. But by incorporating this fourth Book with
+the first, and thus prefixing to the study of existing causes
+arguments against the belief of their geological insufficiency, there
+is an appearance as if the author wished his reader to be prepared by
+a previous pleading against the doctrine of catastrophes, before he
+went to the study of existing causes. The Doctrines of Catastrophes
+and of Uniformity, and the other leading questions of the
+Palætiological Sciences, are further discussed in the Philosophy of
+the Inductive Sciences, Book x.]
+593 In truth, we
+know causes only by their effects; and in order to learn the nature of
+the causes which modify the earth, we must study them through all ages
+of their action, and not select arbitrarily the period in which we
+live as the standard for all other epochs. The forces which have
+produced the Alps and Andes are known to us by experience, no less
+than the forces which have raised Etna to its present height; for we
+learn their amount in both cases by their results. Why, then, do we
+make a merit of using the latter case as a measure for the former? Or
+how can we know the true scale of such force, except by comprehending
+in our view all the facts which we can bring together?
+In reality when we speak of the uniformity of nature, are
+we not obliged to use the term in a very large sense, in order to make
+the doctrine at all tenable? It includes catastrophes and convulsions
+of a very extensive and intense kind; what is the limit to the
+violence which we must allow to these changes? In order to enable
+ourselves to represent geological causes as operating with uniform
+energy through all time, we must measure our time by long cycles, in
+which repose and violence alternate; how long may we extend this cycle
+of change, the repetition of which we express by the word
+uniformity?
+And why must we suppose that all our experience, geological as well
+as historical, includes more than one such cycle? Why must we
+insist upon it, that man has been long enough an observer to obtain
+the average of forces which are changing through immeasurable
+time? 594
+The analogy of other sciences has been referred to, as sanctioning
+this attempt to refer the whole train of facts to known causes. To
+have done this, it has been said, is the glory of Astronomy: she seeks
+no hidden virtues, but explains all by the force of gravitation, which
+we witness operating at every moment. But let us ask, whether it would
+really have been a merit in the founders of Physical Astronomy, to
+assume that the celestial revolutions resulted from any selected class
+of known causes? When Newton first attempted to explain the motions of
+the moon by the force of gravity, and failed because the measures to
+which he referred were erroneous, would it have been philosophical in
+him, to insist that the difference which he found ought to be
+overlooked, since otherwise we should be compelled to go to causes
+other than those which we usually witness in action? Or was there any
+praise due to those who assumed the celestial forces to be the same
+with gravity, rather than to those who assimilated them with any other
+known force, as magnetism, till the calculation of the laws and amount
+of these forces, from the celestial phenomena, had clearly sanctioned
+such an identification? We are not to select a conclusion now well
+proved, to persuade ourselves that it would have been wise to assume
+it anterior to proof, and to attempt to philosophize in the method
+thus recommended.
+Again, the analogy of Astronomy has been referred to, as confirming
+the assumption of perpetual uniformity. The analysis of the heavenly
+motions, it has been said, supplies no trace of a beginning, no
+promise of an end. But here, also, this analogy is erroneously
+applied. Astronomy, as the science of cyclical motions, has nothing in
+common with Geology. But look at Astronomy where she has an analogy
+with Geology; consider our knowledge of the heavens as a
+palætiological science;—as the study of a past condition, from
+which the present is derived by causes acting in time. Is there then
+no evidence of a beginning, or of a progress? What is the import of
+the Nebular Hypothesis? A luminous matter is condensing, solid bodies
+are forming, are arranging themselves into systems of cyclical motion;
+in short, we have exactly what we are told, on this analogy, we ought
+not to have;—the beginning of a world. I will not, to justify
+this argument, maintain the truth of the nebular hypothesis; but if
+geologists wish to borrow maxims of philosophizing from astronomy,
+such speculations as have led to that hypothesis must be their
+model.
+Or, let them look at any of the other provinces of palætiological
+speculation; at the history of states, of civilization, of languages.
+We 595 may assume
+some resemblance or connexion between the principles which
+determined the progress of government, or of society, or of
+literature, in the earliest ages, and those which now operate; but who
+has speculated successfully, assuming an identity of such
+causes? Where do we now find a language in the process of formation,
+unfolding itself in inflexions, terminations, changes of vowels by
+grammatical relations, such as characterize the oldest known
+languages? Where do we see a nation, by its natural faculties,
+inventing writing, or the arts of life, as we find them in the most
+ancient civilized nations? We may assume hypothetically, that man’s
+faculties develop themselves in these ways; but we see no such effects
+produced by these faculties, in our own time, and now in progress,
+without the influence of foreigners.
+Is it not clear, in all these cases, that history does not exhibit
+a series of cycles, the aggregate of which may be represented as a
+uniform state, without indication of origin or termination? Does it
+not rather seem evident that, in reality, the whole course of the
+world, from the earliest to the present times, is but one cycle, yet
+unfinished;—offering, indeed, no clear evidence of the mode of
+its beginning; but still less entitling us to consider it as a
+repetition or series of repetitions of what had gone before?
+Thus we find, in the analogy of the sciences, no confirmation of
+the doctrine of uniformity, as it has been maintained in Geology. Yet
+we discern, in this analogy, no ground for resigning our hope, that
+future researches, both in Geology and in other palætiological
+sciences, may throw much additional light on the question of the
+uniform or catastrophic progress of things, and on the earliest
+history of the earth and of man. But when we see how wide and complex
+is the range of speculation to which our analogy has referred us, we
+may well be disposed to pause in our review of science;—to
+survey from our present position the ground that we have passed
+over;—and thus to collect, so far as we may, guidance and
+encouragement to enable us to advance in the track which lies before
+us.
+Before we quit the subject now under consideration, we may,
+however, observe, that what the analogy of science really teaches us,
+as the most promising means of promoting this science, is the
+strenuous cultivation of the two subordinate sciences, Geological
+Knowledge of Facts, and Geological Dynamics. These are the two
+provinces of knowledge—corresponding to Phenomenal Astronomy,
+and Mathematical Mechanics—which may lead on to the epoch of the
+Newton of 596
+geology. We may, indeed, readily believe that we have much to do in
+both these departments. While so large a portion of the globe is
+geologically unexplored;—while all the general views which are
+to extend our classifications satisfactorily from one hemisphere to
+another, from one zone to another, are still unformed; while the
+organic fossils of the tropics are almost unknown, and their general
+relation to the existing state of things has not even been
+conjectured;—how can we expect to speculate rightly and
+securely, respecting the history of the whole of our globe? And if
+Geological Classification and Description are thus imperfect, the
+knowledge of Geological Causes is still more so. As we have seen, the
+necessity and the method of constructing a science of such causes, are
+only just beginning to be perceived. Here, then, is the point where
+the labors of geologists may be usefully applied; and not in premature
+attempts to decide the widest and abstrusest questions which the human
+mind can propose to itself.
+It has been stated,111 that when the Geological Society of
+London was formed, their professed object was to multiply and record
+observations, and patiently to await the result at some future time;
+and their favorite maxim was, it is added, that the time was not yet
+come for a General System of Geology. This was a wise and
+philosophical temper, and a due appreciation of their position. And
+even now, their task is not yet finished; their mission is not yet
+accomplished. They have still much to do, in the way of collecting
+Facts; and in entering upon the exact estimation of Causes, they have
+only just thrown open the door of a vast Labyrinth, which it may
+employ many generations to traverse, but which they must needs
+explore, before they can penetrate to the Oracular Chamber of
+Truth.
+111 Lyell, B. i. c. iv. p.
+103.
+~Additional material in the 3rd
+edition.~
+
+I rejoice, on many accounts,
+to find myself arriving at the termination of the task which I have
+attempted. One reason why I am glad to close my history is, that in it
+I have been compelled, especially in the latter part of my labors, to
+speak as a judge respecting eminent philosophers whom I reverence as
+my Teachers in those very sciences on which I have had to pronounce a
+judgment;—if, indeed, even the appellation of Pupil be not too
+presumptuous. But I doubt not that such men are as full of candor and
+tolerance, as they are of knowledge and thought. And if they deem, as
+I did, that such a history of 597 science ought to be attempted, they will
+know that it was not only the historian’s privilege, but his duty, to
+estimate the import and amount of the advances which he had to
+narrate; and if they judge, as I trust they will, that the attempt has
+been made with full integrity of intention and no want of labor, they
+will look upon the inevitable imperfections of the execution of my
+work with indulgence and hope.
+There is another source of satisfaction in arriving at this point
+of my labors. If, after our long wandering through the region of
+physical science, we were left with minds unsatisfied and unraised, to
+ask, “Whether this be all?”—our employment might well be deemed
+weary and idle. If it appeared that all the vast labor and intense
+thought which has passed under our review had produced nothing but a
+barren Knowledge of the external world, or a few Arts ministering
+merely to our gratification; or if it seemed that the methods of
+arriving at truth, so successfully applied in these cases, aid us not
+when we come to the higher aims and prospects of our being;—this
+History might well be estimated as no less melancholy and unprofitable
+than those which narrate the wars of states and the wiles of
+statesmen. But such, I trust, is not the impression which our survey
+has tended to produce. At various points, the researches which we have
+followed out, have offered to lead us from matter to mind, from the
+external to the internal world; and it was not because the thread of
+investigation snapped in our hands, but rather because we were
+resolved to confine ourselves, for the present, to the material
+sciences, that we did not proceed onwards to subjects of a closer
+interest. It will appear, also, I trust, that the most perfect method
+of obtaining speculative truth,—that of which I have had to
+relate the result,—is by no means confined to the least worthy
+subjects; but that the Methods of learning what is really true, though
+they must assume different aspects in cases where a mere contemplation
+of external objects is concerned, and where our own internal world of
+thought, feeling, and will, supplies the matter of our speculations,
+have yet a unity and harmony throughout all the possible employments
+of our minds. To be able to trace such connexions as this, is the
+proper sequel, and would be the high reward, of the labor which has
+been bestowed on the present work. And if a persuasion of the reality
+of such connexions, and a preparation for studying them, have been
+conveyed to the reader’s mind while he has been accompanying me
+through our long survey, his time may not have been employed on 598 these pages in vain.
+However vague and hesitating and obscure may be such a persuasion, it
+belongs, I doubt not, to the dawning of a better Philosophy, which it
+may be my lot, perhaps, to develop more fully hereafter, if permitted
+by that Superior Power to whom all sound philosophy directs our
+thoughts.
+
+
+ADDITIONS TO THE THIRD EDITION.
+
+BOOK VIII.
+ACOUSTICS.
+</div></body></text></TEI>

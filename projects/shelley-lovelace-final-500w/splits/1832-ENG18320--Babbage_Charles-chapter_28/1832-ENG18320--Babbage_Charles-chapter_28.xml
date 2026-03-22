@@ -1,0 +1,403 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Economy of Machinery and Manufactures</title><author>Babbage, Charles (1791-1871)</author></titleStmt><publicationStmt><publisher>Charles Knight</publisher><pubPlace>London</pubPlace><date>1832</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="28">Chapter 28
+Proper Circumstances for the Application of Machinery
+329. The first object of machinery, the chief cause of its
+extensive utility, is the perfection and the cheap production of
+the articles which it is intended to make. Whenever it is
+required to produce a great multitude of things, all of exactly
+the same kind, the proper time has arrived for the construction
+of tools or machines by which they may be manufactured. If only a
+few pairs of cotton stockings should be required, it would be an
+absurd waste of time, and of capital, to construct a
+stocking-frame to weave them, when, for a few pence, four steel
+wires can be procured by which they may be knit. If, on the other
+hand, many thousand pairs were wanted, the time employed, and the
+expense incurred in constructing a stocking-frame, would be more
+than repaid by the saving of time in making that large number of
+stockings. The same principle is applicable to the copying of
+letters: if three or four copies only are required, the pen and
+the human hand furnish the cheapest means of obtaining them; if
+hundreds are called for, lithography may be brought to our
+assistance; but if hundreds of thousands are wanted, the
+machinery of a printing establishment supplies the most
+economical method of accomplishing the object.
+330. There are, however, many cases in which machines or
+tools must be made, in which economical production is not the
+most important object. Whenever it is required to produce a few
+articles parts of machinery, for instance, which must be executed
+with the most rigid accuracy or be perfectly alike—it is nearly
+impossible to fulfil this condition, even with the aid of the
+most skilful hands: and it becomes necessary to make tools
+expressly for the purpose, although those tools should, as
+frequently happens, cost more in constructing than the things
+they are destined to make.
+331. Another instance of the just application of machinery,
+even at an increased expense, arises where the shortness of time
+in which the article is produced, has an important influence on
+its value. In the publication of our daily newspapers, it
+frequently happens that the debates in the Houses of Parliament
+are carried on to three and four o'clock in the morning, that is.
+to within a very few hours of the time for the publication of the
+paper. The speeches must be taken down by reporters, conveyed by
+them to the establishment of the newspaper, perhaps at the
+distance of one or two miles, transcribed by them in the office,
+set up by the compositor, the press corrected, and the paper be
+printed off and distributed, before the public can read them.
+Some of these journals have a circulation of from five to ten
+thousand daily. Supposing four thousand to be wanted, and that
+they could be printed only at the rate of five hundred per hour
+upon one side of the paper, (which was the greatest number two
+journeymen and a boy could take off by the old hand presses),
+sixteen hours would be required for printing the complete
+edition; and the news conveyed to the purchasers of the latest
+portion of the impression, would be out of date before they could
+receive it. To obviate this difficulty, it was often necessary to
+set up the paper in duplicate, and sometimes, when late, in
+triplicate: but the improvements in the printing machines have
+been so great, that four thousand copies are now printed on one
+side in an hour.
+332. The establishment of 'The Times' newspaper is an
+example, on a large scale, of a manufactory in which the division
+of labour, both mental and bodily, is admirably illustrated, and
+in which also the effect of domestic economy is well exemplified.
+It is scarcely imagined by the thousands who read that paper in
+various quarters of the globe, what a scene of organized activity
+the factory presents during the whole night, or what a quantity
+of talent and mechanical skill is put in action for their
+amusement and information. (1*) Nearly a hundred persons are
+employed in this establishment; and, during the session of
+Parliament, at least twelve reporters are constantly attending
+the Houses of Commons and Lords; each in his turn retiring, after
+about an hour's work, to translate into ordinary writing, the
+speech he has just heard and noted in shorthand. In the meantime
+fifty compositors are constantly at work, some of whom have
+already set up the beginning, whilst others are committing to
+type the yet undried manuscript of the continuation of a speech,
+whose middle portion is travelling to the office in the pocket of
+the hasty reporter, and whose eloquent conclusion is, perhaps, at
+that very moment, making the walls of St Stephen's vibrate with
+the applause of its hearers. These congregated types, as fast as
+they are composed, are passed in portions to other hands; till at
+last the scattered fragments of the debate, forming, when united
+with the ordinary matter, eight-and-forty columns, reappear in
+regular order on the platform of the printing-press. The hand of
+man is now too slow for the demands of his curiosity, but the
+power of steam comes to his assistance. Ink is rapidly supplied
+to the moving types, by the most perfect mechanism; four
+attendants incessantly introduce the edges of large sheets of
+white paper to the junction of two great rollers, which seem to
+devour them with unsated appetite; other rollers convey them to
+the type already inked, and having brought them into rapid and
+successive contact, redeliver them to four other assistants,
+completely printed by the almost momentary touch. Thus, in one
+hour, four thousand sheets of paper are printed on one side; and
+an impression of twelve thousand copies, from above three hundred
+thousand moveable pieces of metal, is produced for the public in
+six hours.
+333. The effect of machinery in printing other periodical
+publications, and of due economy in distributing them, is so
+important for the interests of knowledge, that it is worth
+examining by what means it is possible to produce them at the
+small price at which they are sold. 'Chambers' Journal', which is
+published at Edinburgh, and sold at three halfpence a number,
+will furnish an example. Soon after its commencement in 1832, the
+sale in Scotland reached 30,000, and in order to supply the
+demand in London it was reprinted; but on account of the expense
+of 'composition' it was found that this plan would not produce
+any profit, and the London edition was about to be given up, when
+it occurred to the proprietor to stereotype it at Edinburgh, and
+cast two copies of the plates. This is now done about three weeks
+before the day of publication—one set of plates being sent up
+to London by the mail, an impression is printed off by steam: the
+London agent has then time to send packages by the cheapest
+conveyances to several of the large towns, and other copies go
+through the booksellers' parcels to all the smaller towns. Thus a
+great saving is effected in the outlay of capital, and 20,000
+copies are conveyed from London, as a centre, to all parts of
+England, whilst there is no difficulty in completing imperfect
+sets, nor any waste from printing more than the public demand.
+334. The conveyance of letters is another case, in which the
+importance of saving time would allow of great expense in any new
+machinery for its accomplishment. There is a natural limit to the
+speed of horses, which even the greatest improvements in the
+breed, aided by an increased perfection in our roads, can never
+surpass; and from which, perhaps, we are at present not very
+remote. When we reflect upon the great expense of time and money
+which the last refinements of a theory or an art usually require,
+it is not unreasonable to suppose that the period has arrived in
+which the substitution of machinery for such purposes ought to be
+tried.
+335. The post bag despatched every evening by the mail to one
+of our largest cities, Bristol, usually weighs less than a
+hundred pounds. Now, the first reflection which naturally
+presents itself is, that, in order to transport these letters a
+hundred and twenty miles, a coach and apparatus, weighing above
+thirty hundredweight, are put in motion, and also conveyed over
+the same space. (2*)
+It is obvious that, amongst the conditions of machinery for
+accomplishing such an object, it would be desirable to reduce the
+weight of matter to be conveyed along with the letters: it would
+also be desirable to reduce the velocity of the animal power
+employed; because the faster a horse is driven, the less weight
+he can draw. Amongst the variety of contrivances which might be
+imagined for this purpose, we will mention one, which, although
+by no means free from objections, fulfils some of the prescribed
+conditions; and it is not a purely theoretical speculation, since
+some few experiments have been made upon it, though on an
+extremely limited scale.
+336. Let us imagine a series of high pillars erected at
+frequent intervals, perhaps every hundred feet, and as nearly as
+possible in a straight line between two post towns. An iron or
+steel wire must be stretched over proper supports, fixed on each
+of these pillars, and terminating at the end of every three or
+five miles, as may be found expedient, in a very strong support,
+by which it may be stretched. At each of these latter points a
+man ought to reside in a small stationhouse. A narrow cylindrical
+tin case, to contain the letters, might be suspended by two
+wheels rolling upon this wire; the cases being so constructed as
+to enable the wheels to pass unimpeded by the fixed supports of
+the wire. An endless wire of much smaller size must pass over two
+drums, one at each end of the station. This wire should be
+supported on rollers, fixed to the supports of the great wire,
+and at a short distance below it. There would thus be two
+branches of the smaller wire always accompanying the larger one;
+and the attendant at either station, by turning the drum, might
+cause them to move with great velocity in opposite directions. In
+order to convey the cylinder which contains the letters, it would
+only be necessary to attach it by a string, or by a catch, to
+either of the branches of the endless wire. Thus it would be
+conveyed speedily to the next station, where it would be removed
+by the attendant to the commencement of the next wire, and so
+forwarded. It is unnecessary to enter into the details which
+this, or any similar plan, would require. The difficulties are
+obvious; but if these could be overcome, it would present many
+advantages besides velocity; for if an attendant resided at each
+station, the additional expense of having two or three deliveries
+of letters every day, and even of sending expresses at any
+moment, would be comparatively trifling; nor is it impossible
+that the stretched wire might itself be available for a species
+of telegraphic communication yet more rapid.
+Perhaps if the steeples of churches, properly selected, were
+made use of, connecting them by a few intermediate stations with
+some great central building, as, for instance, with the top of St
+Paul's; and if a similar apparatus were placed on the top of each
+steeple, with a man to work it during the day, it might be
+possible to diminish the expense of the two-penny post, and make
+deliveries every half hour over the greater part of the
+metropolis.
+337. The power of steam, however, bids fair almost to rival
+the velocity of these contrivances; and the fitness of its
+application to the purposes of conveyance, particularly where
+great rapidity is required, begins now to be generally admitted.
+The following extract from the Report of the Committee of the
+House of Commons on steamcarriages, explains clearly its various
+advantages:
+Perhaps one of the principal advantages resulting from the use of
+steam, will be, that it may be employed as cheaply at a quick as
+at a slow rate; 'this is one of the advantages over horse labour.
+which becomes more and more expensive as the speed is increased.
+There is every reason to expect, that in the end the rate of
+travelling by steam will be much quicker than the utmost speed of
+travelling by horses; in short, the safety to travellers will
+become the limit to speed.' In horse-draught the opposite result
+takes place; 'in all cases horses lose power of draught in a much
+greater proportion than they gain speed, and hence the work they
+do becomes more expensive as they go quicker.'
+Without increase of cost, then, we shall obtain a power which
+will insure a rapidity of internal communication far beyond the
+utmost speed of horses in draught; and although the performance
+of these carriages may not have hitherto attained this point,
+when once it has been established, that at equal speed we can use
+steam more cheaply in draught than horses, we may fairly
+anticipate that every day's increased experience in the
+management of the engines, will induce greater skill, greater
+confidence, and greater speed.
+The cheapness of the conveyance will probably be, for some
+time, a secondary consideration. If, at present, it can be used
+as cheaply as horse power, the competition with the former modes
+of conveyance will first take place as to speed. When once the
+superiority of steam-carriages shall have been fully established,
+competition will induce economy in the cost of working them. The
+evidence, however, of Mr Macneill, shewing the greater
+efficiency, with diminished expenditure of fuel, by locomotive
+engines on railways, convinces the committee, that experience
+will soon teach a better construction of the engines, and a less
+costly mode of generating the requisite supply of steam.
+Nor are the advantages of steam-power confined to the greater
+velocity attained, or to its greater cheapness than
+horse-draught. In the latter, danger is increased, in as large a
+proportion as expense, by greater speed. In steam-power, on the
+contrary, 'there is no danger of being run away with, and that of
+being overturned is greatly diminished. It is difficult to
+control four such horses as can draw a heavy carriage ten miles
+per hour, in case they are frightened, or choose to run away; and
+for quick travelling they must be kept in that state of courage,
+that they are always inclined for running away, particularly down
+hills, and at sharp turns of the road. In steam, however, there
+is little corresponding danger, being perfectly controllable, and
+capable of exerting its power in reverse in going down hills.,
+Every witness examined has given the fullest and most
+satisfactory evidence of the perfect control which the conductor
+has over the movement of the carriage. With the slightest
+exertion it can be stopped or turned, under circumstances where
+horses would be totally unmanageable.
+338. Another instance may be mentioned in which the object to
+be obtained is so important, that although it might be rarely
+wanted, yet machinery for that purpose would justify considerable
+expense. A vessel to contain men, and to be navigated at some
+distance below the surface of the sea, would, in many
+circumstances, be almost invaluable. Such a vessel, evidently,
+could not be propelled by any engine requiring the aid of fire.
+If, however, by condensing air into a liquid, and carrying it in
+that state, a propelling power could be procured sufficient for
+moving the vessel through a considerable space, the expense would
+scarcely render its occasional employment impossible.(3*)
+339. Slide of Alpnach. Amongst the forests which flank many
+of the lofty mountains of Switzerland, some of the finest timber
+is found in positions almost inaccessible. The expense of roads,
+even if it were possible to make them in such situations, would
+prevent the inhabitants from deriving any advantages from these
+almost inexhaustible supplies. Placed by nature at a considerable
+elevation above the spot at which they can be made use of, they
+are precisely in fit circumstances for the application of
+machinery to their removal; and the inhabitants avail themselves
+of the force of gravity to relieve them from some portion of this
+labour. The inclined planes which they have established in
+various forests, by which the timber has been sent down to the
+water courses, have excited the admiration of every traveller;
+and in addition to the merit of simplicity, the construction
+these slides requires scarcely anything beyond the material which
+grows upon the spot.
+Of all these specimens of carpentry, the Slide of Alpnach was
+the most considerable, from its great length, and from the almost
+inaccessible position from which it descended. The following
+account of it is taken from Gilbert's Annalen, 1819, which is
+translated in the second volume of Brewster's Journal:
+For many centuries, the rugged flanks and the deep gorges of
+Mount Pilatus were covered with impenetrable forests; which were
+permitted to grow and to perish, without being of the least
+utility to man, till a foreigner, who had been conducted into
+their wild recesses in the pursuit of the chamois, directed the
+attention of several Swiss gentlemen to the extent and
+superiority of the timber. The most skilful individuals, however,
+considered it quite impracticable to avail themselves of such
+inaccessible stores. It was not till the end of 1816, that M.
+Rupp, and three Swiss gentlemen, entertaining more sanguine
+hopes, purchased a certain extent of the forests, and began the
+construction of the slide, which was completed in the spring of
+1818.
+The Slide of Alpnach is formed entirely of about 25,000 large
+pine trees, deprived of their bark, and united together in a very
+ingenious manner, without the aid of iron. It occupied about 160
+workmen during eighteen months, and cost nearly 100,000 francs,
+or L4,250. It is about three leagues, or 44,000 English feet
+long, and terminates in the Lake of Lucerne. It has the form of a
+trough, about six feet broad, and from three to six feet deep.
+Its bottom is formed of three trees, the middle one of which has
+a groove cut out in the direction of its length, for receiving
+small rills of water, which are conducted into it from various
+places, for the purpose of diminishing the friction. The whole of
+the slide is sustained by about 2,000 supports; and in many
+places it is attached, in a very ingenious manner, to the rugged
+precipices of granite.
+The direction of the slide is sometimes straight, and
+sometimes zig-zag, with an inclination of from 10 degrees to 18
+degrees. It is often carried along the sides of hills and the
+flanks of precipitous rocks, and sometimes passes over their
+summits. Occasionally it goes under ground, and at other times it
+is conducted over the deep gorges by scaffoldings 120 feet in
+height.
+The boldness which characterizes this work, the sagacity and
+skill displayed in all its arrangements, have excited the wonder
+of every person who has seen it. Before any step could be taken
+in its erection, it was necessary to cut several thousand trees
+to obtain a passage through the impenetrable thickets. All these
+difficulties, however, were surmounted, and the engineer had at
+last the satisfaction of seeing the trees descend from the
+mountain with the rapidity of lightning. The larger pines, which
+were about a hundred feet long, and ten inches thick at their
+smaller extremity, ran through the space of three leagues, or
+nearly nine miles, in two minutes and a half, and during their
+descent, they appeared to be only a few feet in length.
+The arrangements for this part of the operation were
+extremely simple. From the lower end of the slide to the upper
+end, where the trees were introduced, workmen were posted at
+regular distances, and as soon as everything was ready, the
+workman at the lower end of the slide cried out to the one above
+him, 'Lachez' (let go). The cry was repeated from one to another.
+and reached the top of the slide in three minutes. The workmen at
+the top of the slide then cried out to the one below him, 'Il
+vient' (it comes), and the tree was instantly launched down the
+slide, preceded by the cry which was repeated from post to post.
+As soon as the tree had reached the bottom, and plunged into the
+lake, the cry of lachez was repeated as before, and a new tree
+was launched in a similar manner. By these means a tree descended
+every five or six minutes, provided no accident happened to the
+slide, which sometimes took place, but which was instantly
+repaired when it did.
+In order to shew the enormous force which the trees acquired
+from the great velocity of their descent, M. Rupp made
+arrangements for causing some of the trees to spring from the
+slide. They penetrated by their thickest extremities no less than
+from eighteen to twenty-four feet into the earth; and one of the
+trees having by accident struck against another, it instantly
+cleft it through its whole length, as if it had been struck by
+lightning.
+After the trees had descended the slide, they were collected
+into rafts upon the lake, and conducted to Lucerne. From thence
+they descended the Reuss, then the Aar to near Brugg, afterwards
+to Waldshut by the Rhine, then to Basle, and even to the sea when
+it was necessary.
+It is to be regretted that this magnificent structure no
+longer exists, and that scarcely a trace of it is to be seen upon
+the flanks of Mount Pilatus. Political circumstances having taken
+away the principal source of demand for the timber, and no other
+market having been found, the operation of cutting and
+transporting the trees necessarily ceased.(4*)
+Professor Playfair, who visited this singular work, states,
+that six minutes was the usual time occupied in the descent of a
+tree; but that in wet weather, it reached the lake in three
+minutes.
+NOTES:
+1. The author of these pages, with one of his friends, was
+recently induced to visit this most interesting establishment,
+after midnight, during the progress of a very important debate.
+The place was illuminated with gas, and was light as the day:
+there was neither noise nor bustle; and the visitors were
+received with such calm and polite attention, that they did not,
+until afterwards, become sensible of the inconvenience which such
+intruders, at a moment of the greatest pressure, must occasion,
+nor reflect tha the tranquility which they admired, was the
+result of intense and regulated occupation. But the effect of
+such checks in the current of business will appear on
+recollecting that, as four thousand newspapers are printed off on
+one side within the hour, every minute is attended with a loss of
+sixty-six impressions. The quarter of an hour, therefore, which
+the stranger may think it not unreasonable to claim for the
+gratification of his curiosity (and to him this time is but a
+moment), may cause a failure in the delivery of a thousand
+copies, and disappoint a proportionate number of expectant
+readers, in some of our distant towns, to which the morning
+papers are dispatched by the earliest and most rapid conveyances
+of each day.
+This note is inserted with the further and more general
+purpose of calling the attention of those, especially foreigners,
+who are desirous of inspecting our larger manufactories, to the
+chief cause of the difficulty which frequently attends their
+introduction. When the establishment is very extensive, and its
+departments skilfully arranged, the exclusion of visitors arises,
+not from any illiberal jealousy, nor, generally, from any desire
+of concealment, which would, in most cases, be absurd, but from
+the substantial inconvenience and loss of time, throughout an
+entire series of well-combined operations, which must be
+occasioned even by short and causual interruptions.
+2. It is true that the transport of letters is not the only
+object which this apparatus answers; but the transport of
+passengers, which is a secondary object, does in fact put a limit
+to the velocity of that of the letters, which is the primary one.
+3. A proposal for such a vessel, and description of its
+construction, by the author of this volume, may be found in the
+Encyclopaedia Metropolitana, Art. Diving Bell.
+4. The mines of Bolanos in Mexico are supplied with timber from
+the adjacent mountains by a slide similar to that of Alpnach. It
+was constructed by M. Floresi, a gentleman well acquainted with
+Switzerland.</div></body></text></TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 174-177</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 174-177.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1851">27 October [1851]</date>
+          <note type="place">London</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 174-177</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_174-177.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>London Mond. 27th Octr</p>
+      <p>Dearest L--</p>
+      <p>The "singing" was the surprise in store for you, of which I spoke;-- &amp; I hope you are pleased. Her voice will be magnificent. It is very uncommon at</p>
+      <p>14, to have a [little? or tithe?] of her present power. Under proper precautions, there is no risk in her singing even so young. But the voice must not be overworked. We know what to do with it.</p>
+      <p>Dr Cape has urged me so strongly to remain</p>
+      <p>here at present, that I should be a fool to do otherwise, especially as there is no real reason (but only a matter of agreeableness), for any other course.</p>
+      <p>The progress made here, is twofold; &amp; he says it will lengthen the case indefinitely, if I continue the back</p>
+      <p>&amp; forward life, which (most foolishly) I have been pursuing. Besides this, the absence of vegetation is he says better for the present state of my constitution.</p>
+      <p>That Hay Fever, I should not have had probably in a Town.</p>
+      <p>By &amp; bye, I can go down for 7 or 8 days, &amp;</p>
+      <p>2/ then return here for 3 weeks again. There is considerable progress the last fortnight, &amp; this last week especially.</p>
+      <p>The difference too, in my freshness &amp; strength is great.</p>
+      <p>Dr Cape said if necessary he would write to you, to tell you that he thought it would</p>
+      <p>shorten the case, by some months probably, if I am less in the country at present. But I said this was not requisite.</p>
+      <p>The fact is, he fears it will go on quite indefinitely;-- Whereas, under proper conditions, I should hope</p>
+      <p>that 4 or 5 months here may see me something like sound.</p>
+      <p>Anyone but me, would have been immoveable from a Sofa all this time.</p>
+      <p>In about a fortnight it is proposed I should go to Horsley for full a week.</p>
+      <p>But really the case is too serious a one to</p>
+      <p>be trifled with, &amp; I ought to have made it more decidedly the first object all along.</p>
+      <p>The enclosed is final &amp; fatal. Very sad.</p>
+    </div></body>
+  </text>
+</TEI>

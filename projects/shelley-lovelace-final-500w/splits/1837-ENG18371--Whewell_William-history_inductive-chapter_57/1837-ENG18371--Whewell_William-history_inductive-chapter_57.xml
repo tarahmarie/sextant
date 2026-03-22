@@ -1,0 +1,182 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="57">CHAPTER III.
+Problem of the Propagation of Sound.
+WE have seen that the ancient
+philosophers, for the most part, held that sound was transmitted, as
+well as produced, by some motion of the air, without defining what
+kind of motion this was; that some writers, however, applied to it a
+very happy similitude, the expansive motion of the circular waves
+produced by throwing a stone into still water; but that
+notwithstanding, some rejected this mode of conception, as, for
+instance, Bacon, who ascribed the transmission of sound to certain
+“spiritual species.”
+Though it was an obvious thought to ascribe the motion of sound to
+some motion of air; to conceive what kind of motion could and did
+produce this effect, must have been a matter of grave perplexity at
+the time of which we are speaking; and is far from easy to most
+persons even now. We may judge of the difficulty of forming this
+conception, when we recollect that John Bernoulli the younger12 declared, that he could not understand
+Newton’s proposition on this subject. The difficulty consists in this;
+that the movement of the parts of air, in which sound consists,
+travels along, but that the parts 33 of air themselves do not so travel.
+Accordingly Otto Guericke,13 the inventor of the air-pump, asks,
+“How can sound be conveyed by the motion of the air? when we find that
+it is better conveyed through air that is still, than when there is a
+wind.” We may observe, however, that he was partly misled by finding,
+as he thought, that a bell could be heard in the vacuum of his
+air-pump; a result which arose, probably, from some imperfection in
+his apparatus.
+12 Prize Dis. on Light,
+1736.
+13 De Vac. Spat. p. 138.
+Attempts were made to determine, by experiment, the circumstances
+of the motion of sound; and especially its velocity. Gassendi14 was one of the first who did this. He
+employed fire-arms for the purpose, and thus found the velocity to be
+1473 Paris feet in a second. Roberval found a velocity so small (560
+feet) that it threw uncertainty upon the rest, and affected Newton’s
+reasonings subsequently.15 Cassini, Huyghens, Picard, Römer, found
+a velocity of 1172 Paris feet, which is more accurate than the former.
+Gassendi had been surprised to find that the velocity with which
+sounds travel, is the same whether they are loud or gentle.
+14 Fischer, Gesch. d. Physik.
+vol. i. 171.
+15 Newt. Prin. B. ii. P. 50,
+Schol.
+The explanation of this constant velocity of sound, and of its
+amount, was one of the problems of which a solution was given in the
+Great Charter of modern science, Newton’s Principia (1687).
+There, for the first time, were explained the real nature of the
+motions and mutual action of the parts of the air through which sound
+is transmitted. It was shown16 that a body
+vibrating in an elastic medium, will propagate pulses through
+the medium; that is, the parts of the medium will move forwards and
+backwards, and this motion will affect successively those parts which
+are at a greater and greater distance from the origin of motion. The
+parts, in going forwards, produce condensation; in returning to their
+first places, they allow extension; and the play of the elasticities
+developed by these expansions and contractions, supplies the forces
+which continue to propagate the motion.
+16 Newt. Prin. B. ii. P.
+43.
+The idea of such a motion as this, is, as we have said, far from
+easy to apprehend distinctly: but a distinct apprehension of it is a
+step essential to the physical part of the sciences now under notice;
+for it is by means of such pulses, or undulations, that
+not only sound, but light, and probably heat, are propagated. We
+constantly meet with evidence of the difficulty which men have in
+conceiving this undulatory motion, and in separating it from a local
+motion of the medium as a 34 mass. For instance, it is not easy at
+first to conceive the waters of a great river flowing constantly
+down towards the sea, while waves are rolling up the
+very same part of the stream; and while the great elevation, which
+makes the tide, is travelling from the sea perhaps with a velocity of
+fifty miles an hour. The motion of such a wave, or elevation, is
+distinct from any stream, and is of the nature of undulations in
+general. The parts of the fluid stir for a short time and for a small
+distance, so as to accumulate themselves on a neighboring part, and
+then retire to their former place; and this movement affects the parts
+in the order of their places. Perhaps if the reader looks at a field
+of standing corn when gusts of wind are sweeping over it in visible
+waves, he will have his conception of this matter aided; for he will
+see that here, where each ear of grain is anchored by its stalk, there
+can be no permanent local motion of the substance, but only a
+successive stooping and rising of the separate straws, producing
+hollows and waves, closer and laxer strips of the crowded ears.
+Newton had, moreover, to consider the mechanical consequences which
+such condensations and rarefactions of the elastic medium, air, would
+produce in the parts of the fluid itself. Employing known laws of the
+elasticity of air, he showed, in a very remarkable proposition,17 the law according to which the
+particles of air might vibrate. We may observe, that in this solution,
+as in that of the vibrating string already mentioned, a rule was
+exhibited according to which the particles might oscillate,
+but not the law to which they must conform. It was proved
+that, by taking the motion of each particle to be perfectly similar to
+that of a pendulum, the forces, developed by contraction and
+expansion, were precisely such as the motion required; but it was not
+shown that no other type of oscillation would give rise to the same
+accordance of force and motion. Newton’s reasoning also gave a
+determination of the speed of propagation of the pulses: it appeared
+that sound ought to travel with the velocity which a body would
+acquire by falling freely through half the height of a homogeneous
+atmosphere; “the height of a homogeneous atmosphere” being the
+height which the air must have, in order to produce, at the earth’s
+surface, the actual atmospheric pressure, supposing no diminution of
+density to take place in ascending. This height is about 29,000 feet;
+and hence it followed that the velocity was 968 feet. This velocity is
+really considerably less than that of sound; but at the time of which
+35 we speak, no
+accurate measure had been established; and Newton persuaded himself,
+by experiments made in the cloister of Trinity College, his residence,
+that his calculation was not far from the fact. When, afterwards, more
+exact experiments showed the velocity to be 1142 English feet, Newton
+attempted to explain the difference by various considerations, none of
+which were adequate to the purpose;—as, the dimensions of the
+solid particles of which the fluid air consists;—or the vapors
+which are mixed with it. Other writers offered other suggestions; but
+the true solution of the difficulty was reserved for a period
+considerably subsequent.
+17 Princ. B. ii. P. 48.
+Newton’s calculation of the motion of sound, though logically
+incomplete, was the great step in the solution of the problem; for
+mathematicians could not but presume that his result was not
+restricted to the hypothesis on which he had obtained it; and the
+extension of the solution required only mere ordinary talents. The
+logical defect of his solution was assailed, as might have been
+expected. Cranmer (professor at Geneva), in 1741, conceived that he
+was destroying the conclusiveness of Newton’s reasoning, by showing
+that it applied equally to other modes of oscillation. This, indeed,
+contradicted the enunciation of the 48th Prop. of the Second Book of
+the Principia; but it confirmed and extended all the general
+results of the demonstration; for it left even the velocity of sound
+unaltered, and thus showed that the velocity did not depend
+mechanically on the type of the oscillation. But the satisfactory
+establishment of this physical generalization was to be supplied from
+the vast generalizations of analysis, which mathematicians were now
+becoming able to deal with. Accordingly this task was performed by the
+great master of analytical generalization, Lagrange, in 1759, when, at
+the age of twenty-three, he and two friends published the first volume
+of the Turin Memoirs. Euler, as his manner was, at once
+perceived the merit of the new solution, and pursued the subject on
+the views thus suggested. Various analytical improvements and
+extensions were introduced into the solution by the two great
+mathematicians; but none of these at all altered the formula by which
+the velocity of sound was expressed; and the discrepancy between
+calculation and observation, about one-sixth of the whole, which had
+perplexed Newton, remained still unaccounted for.
+The merit of satisfactorily explaining this
+discrepancy belongs to Laplace. He was the first to remark18 that the common law of the 36 changes of elasticity
+in the air, as dependent on its compression, cannot be applied to
+those rapid vibrations in which sound consists, since the sudden
+compression produces a degree of heat which additionally increases the
+elasticity. The ratio of this increase depended on the experiments by
+which the relation of heat and air is established. Laplace, in 1816,
+published19 the theorem on which the correction
+depends. On applying it, the calculated velocity of sound agreed very
+closely with the best antecedent experiments, and was confirmed by
+more exact ones instituted for that purpose.
+18 Méc. Cél. t. v. l. xii. p.
+96.
+19 Ann. Phys. et Chim. t. iii.
+p. 288.
+This step completes the solution of the problem of the propagation
+of sound, as a mathematical induction, obtained from, and verified by,
+facts. Most of the discussions concerning points of analysis to which
+the investigations on this subject gave rise, as, for instance, the
+admissibility of discontinuous functions into the solutions of
+partial differential equations, belong to the history of pure
+mathematics. Those which really concern the physical theory of sound
+may be referred to the problem of the motion of air in tubes, to which
+we shall soon have to proceed; but we must first
+speak of another form which the problem of vibrating strings
+assumed.
+It deserves to be noticed that the ultimate result of the study of
+the undulations of fluids seems to show that the comparison of the
+motion of air in the diffusion of sound with the motion of circular
+waves from a centre in water, which is mentioned at the beginning of
+this chapter, though pertinent in a certain way, is not exact. It
+appears by Mr. Scott’s recent investigations concerning waves,20 that the circular waves are oscillating
+waves of the Second order, and are gregarious. The sound-wave
+seems rather to resemble the great solitary Wave of Translation of the
+First order, of which we have already spoken in Book vi. chapter vi.
+20 Brit. Ass. Reports for 1844,
+p. 361.
+</div></body></text></TEI>

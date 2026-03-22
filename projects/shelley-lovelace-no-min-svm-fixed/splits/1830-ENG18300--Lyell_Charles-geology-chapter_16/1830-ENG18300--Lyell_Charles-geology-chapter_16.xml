@@ -1,0 +1,812 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Principles of Geology</title><author>Lyell, Charles (1797-1875)</author></titleStmt><publicationStmt><publisher>John Murray</publisher><pubPlace>London</pubPlace><date>1830</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="16">CHAPTER XVI.
+PHENOMENA OF SPRINGS.
+Origin of Springs—Artesian wells—Borings at Paris—Distinct causes by which
+mineral and thermal waters may be raised to the surface—Their connection with
+volcanic agency—Calcareous springs—Travertin of the Elsa—Baths of San
+Vignone and of San Filippo, near Radicofani—Spheroidal structure in travertin—Lake
+of the Solfatara, near Rome—Travertin at Cascade of Tivoli—Gypseous,
+siliceous, and ferruginous springs—Brine springs—Carbonated springs—Disintegration
+of granite in Auvergne—Petroleum springs—Pitch lake of Trinidad.
+Origin of springs.—The action of running water on the surface of the
+land having been considered, we may next turn our attention to what
+may be termed "the subterranean drainage," or the phenomena of
+springs. Every one is familiar with the fact, that certain porous soils,
+such as loose sand and gravel, absorb water with rapidity, and that the
+ground composed of them soon dries up after heavy showers. If a well
+be sunk in such soils, we often penetrate to considerable depths before
+we meet with water; but this is usually found on our approaching the
+lower parts of the formation, where it rests on some impervious bed; for
+here the water, unable to make its way downwards in a direct line,
+accumulates as in a reservoir, and is ready to ooze out into any opening
+which may be made, in the same manner as we see the salt water flow
+into, and fill, any hollow which we dig in the sands of the shore at low tide.
+233
+The facility with which water can percolate loose and gravelly soils
+is clearly illustrated by the effect of the tides in the Thames between
+Richmond and London. The river, in this part of its course, flows
+through a bed of gravel overlying clay, and the porous superstratum
+is alternately saturated by the water of the Thames as the tide rises,
+and then drained again to the distance of several hundred feet from the
+banks when the tide falls, so that the wells in this tract regularly ebb
+and flow.
+If the transmission of water through a porous medium be so rapid,
+we cannot be surprised that springs should be thrown out on the side
+of a hill, where the upper set of strata consist of chalk, sand, or other
+permeable substances, while the subjacent are composed of clay or
+other retentive soils. The only difficulty, indeed, is to explain why the
+water does not ooze out everywhere along the line of junction of the
+two formations, so as to form one continuous land-soak, instead of a
+few springs only, and these far distant from each other. The principal
+cause of this concentration of the waters at a few points is, first, the
+frequency of rents and fissures, which act as natural drains; secondly,
+the existence of inequalities in the upper surface of the impermeable
+stratum, which lead the water, as valleys do on the external surface of
+a country, into certain low levels and channels.
+That the generality of springs owe their supply to the atmosphere is
+evident from this, that they become languid, or entirely cease to flow,
+after long droughts, and are again replenished after a continuance of
+rain. Many of them are probably indebted for the constancy and uniformity
+of their volume to the great extent of the subterranean reservoirs
+with which they communicate, and the time required for these to
+empty themselves by percolation. Such a gradual and regulated discharge
+is exhibited, though in a less perfect degree, in every great lake
+which is not sensibly affected in its level by sudden showers, but only
+slightly raised; so that its channel of efflux, instead of being swollen
+suddenly like the bed of a torrent, is enabled to carry off the surplus
+water gradually.
+Much light has been thrown, of late years, on the theory of springs,
+by the boring of what are called by the French "Artesian wells," because
+the method has long been known and practised in Artois; and it
+is now demonstrated that there are sheets, and in some places currents
+of fresh water, at various depths in the earth. The instrument employed
+in excavating these wells is a large augur, and the cavity bored
+is usually from three to four inches in diameter. If a hard rock is met
+with, it is first triturated by an iron rod, and the materials being thus
+reduced to small fragments or powder, are readily extracted. To hinder
+the sides of the well from falling in, as also to prevent the spreading of
+the ascending water in the surrounding soil, a jointed pipe is introduced,
+formed of wood in Artois, but in other countries more commonly of
+metal. It frequently happens that, after passing through hundreds of
+feet of retentive soils, a water-bearing stratum is at length pierced,
+234
+when the fluid immediately ascends to the surface, and flows over.
+The first rush of the water up the tube is often violent, so that for a time
+the water plays like a fountain, and then, sinking, continues to flow over
+tranquilly, or sometimes remains stationary at a certain depth below the
+orifice of the well. This spouting of the water in the first instance is
+probably owing to the disengagement of air and carbonic acid gas, for
+both of these have been seen to bubble up with the water.304
+At Sheerness, at the mouth of the Thames, a well was bored on a
+low tongue of land near the sea, through 300 feet of the blue clay of
+London, below which a bed of sand and pebbles was entered, belonging,
+doubtless, to the plastic clay formation; when this stratum was pierced,
+the water burst up with impetuosity, and filled the well. By another
+perforation at the same place, the water was found at the depth of 328
+feet below the surface clay; it first rose rapidly to the height of 189 feet,
+and then, in the course of a few hours, ascended to an elevation of
+eight feet above the level of the ground. In 1824 a well was dug at
+Fulham, near the Thames, at the Bishop of London's, to the depth of
+317 feet, which, after traversing the tertiary strata, was continued
+through 67 feet of chalk. The water immediately rose to the surface,
+and the discharge was about 50 gallons per minute. In the garden of
+the Horticultural Society at Chiswick, the borings passed through 19
+feet of gravel, 242½ feet of clay and loam, and 67½ feet of chalk, and
+the water then rose to the surface from a depth of 329 feet.305 At the
+Duke of Northumberland's, above Chiswick, the borings were carried to
+the extraordinary depth of 620 feet, so as to enter the chalk, when a
+considerable volume of water was obtained, which rose four feet above
+the surface of the ground. In a well of Mr. Brooks, at Hammersmith,
+the rush of water from a depth of 360 feet was so great, as to inundate
+several buildings and do considerable damage; and at Tooting, a sufficient
+stream was obtained to turn a wheel, and raise the water to the
+upper stories of the houses.306 In 1838, the total supply obtained from
+the chalk near London was estimated at six million gallons a day, and,
+in 1851, at nearly double that amount, the increase being accompanied
+by an average fall of no less than two feet a year in the level to which
+the water rose. The water stood commonly, in 1822, at high-water
+mark, and had sunk in 1851 to 45, and in some wells to 65 feet below
+high-water mark.307 This fact shows the limited capacity of the subterranean
+reservoir. In the last of three wells bored through the chalk
+at Tours, to the depth of several hundred feet, the water rose 32 feet
+above the level of the soil, and the discharge amounted to 300 cubic
+yards of water every twenty-four hours.308
+By way of experiment, the sinking of a well was commenced at Paris
+235
+in 1834, which had reached, in November, 1839, a depth of more than
+1600 English feet, and yet no water ascended to the surface. The
+government were persuaded by M. Arago to persevere, if necessary, to
+the depth of more than 2000 feet; but when they had descended
+above 1800 English feet below the surface, the water rose through
+the tube (which was about ten inches in diameter), so as to discharge
+half a million of gallons of limpid water every twenty-four hours. The
+temperature of the water increased at the rate of 1·8° F. for every 101
+English feet, as they went down, the result agreeing very closely with
+the anticipations of the scientific advisers of this most spirited undertaking.
+Mr. Briggs, the British consul in Egypt, obtained water between
+Cairo and Suez, in a calcareous sand, at the depth of thirty feet; but
+it did not rise in the well.309 But other borings in the same desert, of
+variable depth, between 50 and 300 feet, and which passed through
+alternations of sand, clay, and siliceous rock, yielded water at the
+surface.310
+The rise and overflow of the water in Artesian wells is generally
+referred, and apparently with reason, to the same principle as the play
+of an artificial fountain. Let the porous stratum or set of strata, a a,
+rest on the impermeable rock d, and be covered by another mass of an
+impermeable nature. The whole mass a a may easily, in such a position,
+become saturated with water, which may descend from its higher
+and exposed parts—a hilly region to which clouds are attracted, and
+where rain falls in abundance. Suppose that at some point, as at b,
+an opening be made, which gives a free passage upwards to the waters
+confined in a a, at so low a level that they are subjected to the pressure
+of a considerable column of water collected in the more elevated
+portion of the same stratum. The water will then rush out, just as the
+liquid from a large barrel which is tapped, and it will rise to a height
+corresponding to the level of its point of departure, or, rather, to a
+height which balances the pressure previously exerted by the confined
+waters against the roof and sides of the stratum or reservoir a a. In
+like manner, if there happen to be a natural fissure c, a spring will be
+produced at the surface on precisely the same principle.
+Fig. 20.
+Among the causes of the failure of Artesian wells, we may mention
+those numerous rents and faults which abound in some rocks, and the
+236
+deep ravines and valleys by which many countries are traversed; for,
+when these natural lines of drainage exist, there remains a small quantity
+only of water to escape by artificial issues. We are also liable to
+be baffled by the great thickness either of porous or impervious strata,
+or by the dip of the beds, which may carry off the waters from the adjoining
+high lands to some trough in an opposite direction, as when the
+borings are made at the foot of an escarpment where the strata incline
+inwards, or in a direction opposite to the face of the cliffs.
+The mere distance of hills or mountains need not discourage us from
+making trials; for the waters which fall on these higher lands readily
+penetrate to great depths through highly inclined or vertical strata, or
+through the fissures of shattered rocks, and after flowing for a great
+distance, must often reascend and be brought up again by other fissures,
+so as to approach the surface in the lower country. Here they may
+be concealed beneath the covering of undisturbed horizontal beds, which
+it may be necessary to pierce in order to reach them. It should be
+remembered, that the course of waters flowing under ground bears
+but a remote resemblance to that of rivers on the surface, there being,
+in the one case, a constant descent from a higher to a lower level from
+the source of the stream to the sea; whereas, in the other, the water
+may at one time sink far below the level of the ocean, and afterwards
+rise again high above it.
+Among other curious facts ascertained by aid of the borer, it is
+proved that in strata of different ages and compositions, there are often
+open passages by which the subterranean waters circulate. Thus, at
+St. Ouen, in France, five distinct sheets of water were intersected in a
+well, and from each of these a supply obtained. In the third waterbearing
+stratum, at the depth of 150 feet, a cavity was found in which
+the borer fell suddenly about a foot, and thence the water ascended in
+great volume.311 The same falling of the instrument, as in a hollow
+space, has been remarked in England and other countries. At Tours,
+in 1830, a well was perforated quite through the chalk, when the
+water suddenly brought up, from a depth of 364 feet, a great quantity
+of fine sand, with much vegetable matter and shells. Branches of a
+thorn several inches long, much blackened by their stay in the water,
+were recognized, as also the stems of marsh plants, and some of their
+roots, which were still white, together with the seeds of the same in a
+state of preservation, which showed that they had not remained more
+than three or four months in the water. Among the seeds were those
+of the marsh plant Galium uliginosum; and among the shells, a freshwater
+species (Planorbis marginatus), and some land species, as Helix
+rotundata, and H. striata. M. Dujardin, who, with others, observed
+this phenomenon, supposes that the waters had flowed from some valleys
+of Auvergne or the Vivarais since the preceding autumn.312
+An analogous phenomenon is recorded at Reimke, near Bochum in
+237
+Westphalia, where the water of an Artesian well brought up, from a
+depth of 156 feet, several small fish, three or four inches long, the
+nearest streams in the country being at a distance of some leagues.313
+In both cases it is evident that water had penetrated to great
+depths, not simply by filtering through a porous mass, for then it
+would have left behind the shells, fish, and fragments of plants, but by
+flowing through some open channels in the earth. Such examples
+may suggest the idea that the leaky beds of rivers are often the feeders
+of springs.
+MINERAL AND THERMAL SPRINGS.
+Almost all springs, even those which we consider the purest, are
+impregnated with some foreign ingredients, which, being in a state of
+chemical solution, are so intimately blended with the water as not to
+affect its clearness, while they render it, in general, more agreeable to
+our taste, and more nutritious than simple rain-water. But the springs
+called mineral contain an unusual abundance of earthy matter in solution,
+and the substances with which they are impregnated correspond remarkably
+with those evolved in a gaseous form by volcanoes. Many of these
+springs are thermal, i. e., their temperature is above the mean temperature
+of the place, and they rise up through all kinds of rock; as, for
+example, through granite, gneiss, limestone, or lava, but are most frequent
+in volcanic regions, or where violent earthquakes have occurred
+at eras comparatively modern.
+The water given out by hot springs is generally more voluminous and
+less variable in quantity at different seasons than that proceeding from
+any others. In many volcanic regions, jets of steam, called by the
+Italians "stufas," issue from fissures, at a temperature high above the
+boiling point, as in the neighborhood of Naples, and in the Lipari Isles,
+and are disengaged unceasingly for ages. Now, if such columns of
+steam, which are often mixed with other gases, should be condensed
+before reaching the surface by coming in contact with strata filled with
+cold water, they may give rise to thermal and mineral springs of every
+degree of temperature. It is, indeed, by this means only, and not by
+hydrostatic pressure, that we can account for the rise of such bodies of
+water from great depths; nor can we hesitate to admit the adequacy of
+the cause, if we suppose the expansion of the same elastic fluids to be
+sufficient to raise columns of lava to the lofty summits of volcanic mountains.
+Several gases, the carbonic acid in particular, are disengaged in
+a free state from the soil in many districts, especially in the regions of
+active or extinct volcanoes; and the same are found more or less intimately
+combined with the waters of all mineral springs, both cold and
+thermal. Dr. Daubeny and other writers have remarked, not only that
+these springs are most abundant in volcanic regions, but that when
+remote from them, their site usually coincides with the position of some
+238
+great derangement in the strata; a fault, for example, or great fissure,
+indicating that a channel of communication has been opened with the
+interior of the earth at some former period of local convulsion. It is
+also ascertained that at great heights in the Pyrenees and Himalaya
+mountains hot springs burst out from granitic rocks, and they are abundant
+in the Alps also, these chains having all been disturbed and dislocated
+at times comparatively modern, as can be shown by independent
+geological evidence.
+The small area of volcanic regions may appear, at first view, to present
+an objection to these views, but not so when we include earthquakes
+among the effects of igneous agency. A large proportion of
+the land hitherto explored by geologists can be shown to have been
+rent or shaken by subterranean movements since the oldest tertiary
+strata were formed. It will also be seen, in the sequel, that new
+springs have burst out, and others have had the volume of their waters
+augmented, and their temperature suddenly raised after earthquakes, so
+that the description of these springs might almost with equal propriety
+have been given under the head of "igneous causes," as they are agents
+of a mixed nature, being at once igneous and aqueous.
+But how, it will be asked, can the regions of volcanic heat send forth
+such inexhaustible supplies of water? The difficulty of solving this
+problem would, in truth, be insurmountable, if we believed that all the
+atmospheric waters found their way into the basin of the ocean; but in
+boring near the shore we often meet with streams of fresh water at the
+depth of several hundred feet below the sea level; and these probably
+descend, in many cases, far beneath the bottom of the sea, when not
+artificially intercepted in their course. Yet, how much greater may be
+the quantity of salt water which sinks beneath the floor of the ocean,
+through the porous strata of which it is often composed, or through
+fissures rent in it by earthquakes. After penetrating to a considerable
+depth, this water may encounter a heat of sufficient intensity to convert
+it into vapor, even under the high pressure to which it would then be
+subjected. This heat would probably be nearest the surface in volcanic
+countries, and farthest from it in those districts which have been longest
+free from eruptions or earthquakes.
+It would follow from the views above explained, that there must be
+a twofold circulation of terrestrial waters; one caused by solar heat,
+and the other by heat generated in the interior of our planet. We
+know that the land would be unfit for vegetation, if deprived of the
+waters raised into the atmosphere by the sun; but it is also true that
+mineral springs are powerful instruments in rendering the surface subservient
+to the support of animal and vegetable life. Their heat is said
+to promote the development of the aquatic tribes in many parts of the
+ocean, and the substances which they carry up from the bowels of the
+earth to the habitable surface, are of a nature and in a form which
+adapts them peculiarly for the nutrition of animals and plants.
+As these springs derive their chief importance to the geologist from
+239
+the quantity and quality of the earthy materials which, like volcanoes,
+they convey from below upwards, they may properly be considered in
+reference to the ingredients which they hold in solution. These consist
+of a great variety of substances; but chiefly salts with bases of lime,
+magnesia, alumine, and iron, combined with carbonic, sulphuric, and muriatic
+acids. Muriate of soda, silica, and free carbonic acid are frequently
+present; also springs of petroleum, or liquid bitumen, and of naphtha.
+Calcareous springs.—Our first attention is naturally directed to springs
+which are highly charged with calcareous matter, for these produce a
+variety of phenomena of much interest in geology. It is known that
+rain-water collecting carbonic acid from the atmosphere has the property
+of dissolving the calcareous rocks over which it flows, and thus, in the
+smallest ponds and rivulets, matter is often supplied for the earthy secretions
+of testacea, and for the growth of certain plants on which they
+feed. But many springs hold so much carbonic acid in solution, that
+they are enabled to dissolve a much larger quantity of calcareous matter
+than rain-water; and when the acid is dissipated in the atmosphere, the
+mineral ingredients are thrown down, in the form of porous tufa or of
+more compact travertin.314
+Auvergne.—Calcareous springs, although most abundant in limestone
+districts, are by no means confined to them, but flow out indiscriminately
+from all rock formations. In central France, a district where the primary
+rocks are unusually destitute of limestone, springs copiously
+charged with carbonate of lime rise up through the granite and gneiss.
+Some of these are thermal, and probably derive their origin from the
+deep source of volcanic heat, once so active in that region. One of these
+springs, at the northern base of the hill upon which Claremont is built,
+issues from volcanic peperino, which rests on granite. It has formed,
+by its incrustations, an elevated mound of travertin, or white concretionary
+limestone, 240 feet in length, and, at its termination, sixteen feet
+high and twelve wide. Another encrusting spring in the same department,
+situated at Chaluzet, near Pont Gibaud, rises in a gneiss country,
+at the foot of a regular volcanic cone, at least twenty miles from any
+calcareous rock. Some masses of tufaceous deposit, produced by this
+spring, have an oolitic texture.
+Valley of the Elsa.—If we pass from the volcanic district of France
+to that which skirts the Apennines in the Italian peninsula, we meet
+with innumerable springs which have precipitated so much calcareous
+matter, that the whole ground in some parts of Tuscany is coated over
+with tufa and travertin, and sounds hollow beneath the foot.
+In other places in the same country, compact rocks are seen descending
+the slanting sides of hills, very much in the manner of lava currents,
+except that they are of a white color and terminate abruptly when they
+reach the course of a river. These consist of a calcareous precipitate
+from springs, some of which are still flowing, while others have disappeared
+240
+or changed their position. Such masses are frequent on the
+slope of the hills which bound the valley of the Elsa, one of the tributaries
+of the Arno, which flows near Colle, through a valley several hundred
+feet deep, shaped out of a lacustrine formation, containing fossil
+shells of existing species. I observed here that the travertin was unconformable
+to the lacustrine beds, its inclination according with the
+slope of the sides of the valley. One of the finest examples which I
+saw was at the Molino delle Caldane, near Colle. The Senà, and several
+other small rivulets which feed the Elsa, have the property of encrusting
+wood and herbs with calcareous stone. In the bed of the Elsa itself,
+aquatic plants, such as Charæ, which absorb large quantities of carbonate
+of lime, are very abundant.
+Fig. 21.
+Section of travertin, San Vignone.
+Baths of San Vignone.—Those persons who have merely seen the
+action of petrifying waters in England, will not easily form an adequate
+conception of the scale on which the same process is exhibited in those
+regions which lie nearer to the active centres of volcanic disturbance.
+One of the most striking examples of the rapid precipitation of carbonate
+of lime from thermal waters, occurs in the hill of San Vignone in Tuscany,
+at a short distance from Radicofani, and only a few hundred yards
+from the high road between Sienna and Rome. The spring issues from
+near the summit of a rocky hill, about 100 feet in height. The top of
+the hill stretches in a gently inclined platform to the foot of Mount
+Amiata, a lofty eminence, which consists in great part of volcanic products.
+The fundamental rock, from which the spring issues, is a black
+slate, with serpentine (b b, fig. 21), belonging to the older Apennine formation.
+The water is hot, has a strong taste, and, when not in very
+small quantity, is of a bright green color. So rapid is the deposition
+near the source, that in the bottom of a conduit-pipe for carrying off
+the water to the baths, and which is inclined at an angle of 30°, half a
+foot of solid travertin is formed every year. A more compact rock is
+produced where the water flows slowly; and the precipitation in winter,
+when there is least evaporation, is said to be more solid, but less in
+quantity by one-fourth, than in summer. The rock is generally white;
+some parts of it are compact, and ring to the hammer; others are cellular,
+241
+and with such cavities as are seen in the carious part of bone or
+the siliceous millstone of the Paris basin. A portion of it also below
+the village of San Vignone consists of incrustations of long vegetable
+tubes, and may be called tufa. Sometimes the travertin assumes precisely
+the botryoidal and mammillary forms, common to similar deposits
+in Auvergne, of a much older date; and, like them, it often scales off
+in thin, slightly undulating layers.
+A large mass of travertin (c, fig. 21) descends the hill from the
+point where the spring issues, and reaches to the distance of about half
+a mile east of San Vignone. The beds take the slope of the hill at
+about an angle of 6°, and the planes of stratification are perfectly parallel.
+One stratum, composed of many layers, is of a compact nature,
+and fifteen feet thick; it serves as an excellent building stone, and a
+mass of fifteen feet in length was, in 1828, cut out for the new bridge
+over the Orcia. Another branch of it (a, fig. 21) descends to the west,
+for 250 feet in length, of varying thickness, but sometimes 200 feet
+deep; it is then cut off by the small river Orcia, as some glaciers in
+Switzerland descend into a valley till their progress is suddenly arrested
+by a transverse stream of water.
+The abrupt termination of the mass of rock at the river, where its
+thickness is undiminished, clearly shows that it would proceed much
+farther if not arrested by the stream, over which it impends slightly.
+But it cannot encroach upon the channel of the Orcia, being constantly
+undermined, so that its solid fragments are seen strewed amongst the
+alluvial gravel. However enormous, therefore, the mass of solid rock
+may appear which has been given out by this single spring, we may
+feel assured that it is insignificant in volume when compared to that
+which has been carried to the sea since the time when it began to flow.
+What may have been the length of that period of time we have no
+data for conjecturing. In quarrying the travertin, Roman tiles have
+been sometimes found at the depth of five or six feet.
+Baths of San Filippo.—On another hill, not many miles from that
+last mentioned, and also connected with Mount Amiata, the summit of
+which is about three miles distant, are the celebrated baths of San
+Filippo. The subjacent rocks consist of alternations of black slate, limestone,
+and serpentine. There are three warm springs containing carbonate
+and sulphate of lime, and sulphate of magnesia. The water
+which supplies the baths falls into a pond, where it has been known to
+deposit a solid mass thirty feet thick in about twenty years.315 A manufactory
+of medallions in basso-relievo is carried on at these baths. The
+water is conducted by canals into several pits, in which it deposits travertin
+and crystals of sulphate of lime. After being thus freed from its
+grosser parts, it is conveyed by a tube to the summit of a small chamber,
+and made to fall through a space of ten or twelve feet. The current
+is broken in its descent by numerous crossed sticks, by which the
+242
+spray is dispersed around upon certain moulds, which are rubbed
+lightly over with a solution of soap, and a deposition of solid matter
+like marble is the result, yielding a beautiful cast of the figures formed
+in the mould. The geologist may derive from these experiments considerable
+light, in regard to the high slope of the strata at which some
+semi-crystalline precipitations can be formed; for some of the moulds
+are disposed almost perpendicularly, yet the deposition is nearly equal
+in all parts.
+A hard stratum of stone, about a foot in thickness, is obtained from
+the waters of San Filippo in four months; and, as the springs are
+powerful, and almost uniform in the quantity given out, we are at no
+loss to comprehend the magnitude of the mass which descends the
+hill, which is a mile and a quarter in length and the third of a mile in
+breadth, in some places attaining a thickness of 250 feet at least. To
+what length it might have reached it is impossible to conjecture, as it is
+cut off, like the travertin of San Vignone, by a small stream, where it
+terminates abruptly. The remainder of the matter held in solution is
+carried on probably to the sea.
+Spheroidal structure in travertin.—But what renders this recent
+limestone of peculiar interest to the geologist, is the spheroidal form
+which it assumes, analogous to that of the cascade of Tivoli, afterwards
+to be described. (See fig. 22, p. 244.) The lamination of some of the
+concentric masses is so minute that sixty may be counted in the thickness
+of an inch, yet, notwithstanding these marks of gradual and successive
+deposition, sections are sometimes exhibited of what might seem
+to be perfect spheres. This tendency to a mammillary and globular
+structure arises from the facility with which the calcareous matter is
+precipitated in nearly equal quantities on all sides of any fragment of
+shell or wood or any inequality of the surface over which the mineral
+water flows, the form of the nucleus being readily transmitted through
+any number of successive envelopes. But these masses can never be
+perfect spheres, although they often appear such when a transverse
+section is made in any line not in the direction of the point of attachment.
+There are, indeed, occasionally seen small oolitic and pisolitic
+grains, of which the form is globular; for the nucleus, having been for
+a time in motion in the water, has received fresh accessions of matter on
+all sides.
+In the same manner I have seen, on the vertical walls of large steam-boilers,
+the heads of nails or rivets covered by a series of enveloping
+crusts of calcareous matter, usually sulphate of lime; so that a concretionary
+nodule is formed, preserving a nearly globular shape, when increased
+to a mass several inches in diameter. In these, as in many travertins,
+there is often a combination of the concentric and radiated structure.
+Campagna di Roma.—The country around Rome, like many parts of
+the Tuscan States already referred to, has been at some former period
+the site of numerous volcanic eruptions; and the springs are still
+copiously impregnated with lime, carbonic acid, and sulphuretted hydrogen.
+243
+A hot spring was discovered about 1827, near Civita Vecchia,
+by Signor Riccioli, which deposits alternate beds of a yellowish travertin,
+and a white granular rock, not distinguishable, in hand specimens,
+either in grain, color, or composition, from statuary marble. There
+is a passage between this and ordinary travertin. The mass accumulated
+near the spring is in some places about six feet thick.
+Lake of the Solfatara.—In the Campagna, between Rome and Tivoli,
+is the Lake of the Solfatara, called also Lago di Zolfo (lacus albula),
+into which flows continually a stream of tepid water from a smaller
+lake, situated a few yards above it. The water is a saturated solution
+of carbonic acid gas, which escapes from it in such quantities in some
+parts of its surface, that it has the appearance of being actually in ebullition.
+"I have found by experiment," says Sir Humphry Davy, "that
+the water taken from the most tranquil part of the lake, even after being
+agitated and exposed to the air, contained in solution more than its
+own volume of carbonic acid gas, with a very small quantity of sulphuretted
+hydrogen. Its high temperature, which is pretty constant at 80°
+of Fahr., and the quantity of carbonic acid that it contains, render it
+peculiarly fitted to afford nourishment to vegetable life. The banks of
+travertin are everywhere covered with reeds, lichen, confervæ, and
+various kinds of aquatic vegetables; and at the same time that the process
+of vegetable life is going on, the crystallizations of the calcareous
+matter, which is everywhere deposited, in consequence of the escape
+of carbonic acid, likewise proceed. There is, I believe, no place in the
+world where there is a more striking example of the opposition or contrast
+of the laws of animate and inanimate nature, of the forces of inorganic
+chemical affinity, and those of the powers of life."316
+The same observer informs us that he fixed a stick in a mass of
+travertin covered by the water in the month of May, and in April following
+he had some difficulty in breaking, with a sharp-pointed hammer,
+the mass which adhered to the stick, and which was several inches in
+thickness. The upper part was a mixture of light tufa and the leaves
+of confervæ; below this was a darker and more solid travertin, containing
+black and decomposed masses of confervæ; in the inferior part the
+travertin was more solid, and of a gray color, but with cavities probably
+produced by the decomposition of vegetable matter.317
+The stream which flows out of this lake fills a canal about nine feet
+broad and four deep, and is conspicuous in the landscape by a line of
+vapor which rises from it. It deposits calcareous tufa in this channel,
+and the Tiber probably receives from it, as well as from numerous other
+streams, much carbonate of lime in solution, which may contribute to
+the rapid growth of its delta. A large proportion of the most splendid
+edifices of ancient and modern Rome are built of travertin, derived from
+the quarries of Ponte Lucano, where there has evidently been a lake at
+a remote period, on the same plain as that already described.
+Fig. 22.
+Section of spheroidal concretionary Travertin under the Cascade of Tivoli.
+244
+Travertin of Tivoli.—In the same neighborhood the calcareous
+waters of the Anio incrust the reeds which grow on its banks, and the
+foam of the cataract of Tivoli forms beautiful pendant stalactites. On
+the sides of the deep chasm into which the cascade throws itself, there
+is seen an extraordinary accumulation of horizontal beds of tufa and
+travertin, from four to five hundred feet in thickness. The section
+immediately under the temples of Vesta and the Sibyl, displays, in a
+precipice about four hundred feet high, some spheroids which are from
+six to eight feet in diameter, each concentric layer being about the eighth
+of an inch in thickness. The preceding diagram exhibits about fourteen
+feet of this immense mass, as seen in the path cut out of the rock in descending
+from the temple of Vesta to the Grotto di Nettuno. I have
+not attempted to express in this drawing the innumerable thin layers of
+which these magnificent spheroids are composed, but the lines given
+mark some of the natural divisions into which they are separated by
+minute variations in the size or color of the laminæ. The undulations
+245
+also are much smaller in proportion to the whole circumference than in
+the drawing. The beds (a a) are of hard travertin and soft tufa; below
+them is a pisolite (b), the globules being of different sizes: underneath
+this appears a mass of concretionary travertin (c c), some of the
+spheroids being of the above-mentioned extraordinary size. In some
+places (as at d) there is a mass of amorphous limestone, or tufa, surrounded
+by concentric layers. At the bottom is another bed of
+pisolite (b), in which the small nodules are about the size and shape
+of beans, and some of them of filberts, intermixed with some smaller
+oolitic grains. In the tufaceous strata, wood is seen converted into a
+light tufa.
+There can be little doubt that the whole of this deposit was formed
+in an extensive lake which existed when the external configuration of
+this country varied greatly from that now observed. The Anio throws
+itself into a ravine excavated in the ancient travertin, and its waters
+give rise to masses of calcareous stone, scarcely if at all distinguishable
+from the older rock. I was shown, in 1828, in the upper part of the
+travertin, the hollow left by a cart-wheel, in which the outer circle and
+the spokes had been decomposed, and the spaces which they filled left
+void. It seemed to me at the time impossible to explain the position
+of this mould without supposing that the wheel was imbedded before
+the lake was drained; but Sir R. Murchison suggests that it may have
+been washed down by a flood into the gorge in modern times, and then
+incrusted with calcareous tufa in the same manner as the wooden beam
+of the church of St. Lucia was swept down in 1826, and stuck fast in
+the Grotto of the Syren, where it still remains, and will eventually be
+quite imbedded in travertin.
+I have already endeavored to explain (p. 241), when speaking of
+the travertin of San Filippo, how the spheroidal masses represented in
+figure 22 may have been formed.
+Sulphureous and gypseus springs.—The quantity of other mineral
+ingredients wherewith springs in general are impregnated, is insignificant
+in comparison to lime, and this earth is most frequently combined
+with carbonic acid. But as sulphuric acid, and sulphuretted hydrogen
+are very frequently supplied by springs, gypsum may, perhaps, be deposited
+largely in certain seas and lakes. Among other gypseous
+precipitates at present known on the land, I may mention those of
+Baden, near Vienna, which feed the public bath. Some of these supply
+singly from 600 to 1000 cubic feet of water per hour, and deposit
+a fine powder, composed of a mixture of sulphate of lime with sulphur
+and muriate of lime.318 The thermal waters of Aix, in Savoy, in passing
+through strata of Jurassic limestone, turn them into gypsum or sulphate
+of lime. In the Andes, at the Puenta del Inca, Lieutenant Brand
+found a thermal spring at the temperature of 91° Fahr., containing a
+large proportion of gypsum with carbonate of lime and other ingredients.
+246
+319
+Many of the mineral springs of Iceland, says Mr. R. Bunsen,
+deposit gypsum.320 and sulphureous acid gas escapes plentifully from
+them as from the volcanoes of the same island. It may, indeed, be laid
+down as a general rule, that the mineral substances dissolved in hot
+springs agree very closely with those which are disengaged in a gaseous
+form from the craters of active volcanoes.
+Siliceous springs.—Azores.—In order that water should hold a very
+large quantity of silica in solution, it seems necessary that it should be
+raised to a high temperature.321 The hot springs of the Valle das
+Fernas, in the island of St. Michael, rising through volcanic rocks, precipitate
+vast quantities of siliceous sinter. Around the circular basin of
+the largest spring, which is between twenty and thirty feet in diameter,
+alternate layers are seen of a coarser variety of sinter mixed with clay,
+including grass, ferns, and reeds, in different states of petrifaction. In
+some instances, alumina, which is likewise deposited from the hot
+waters, is the mineralizing material. Branches of the same ferns which
+now flourish in the island are found completely petrified, preserving the
+same appearance as when vegetating, except that they acquire an ash-gray
+color. Fragments of wood, and one entire bed from three to five
+feet in depth, composed of reeds now common in the island, have become
+completely mineralized.
+The most abundant variety of siliceous sinter occurs in layers, from a
+quarter to half an inch in thickness, accumulated on each other often
+to the height of a foot and upwards, and constituting parallel, and for
+the most part horizontal, strata many yards in extent. This sinter has
+often a beautiful semi-opalescent lustre. A recent breccia is also in
+the act of forming, composed of obsidian, pumice, and scoriæ, cemented
+by siliceous sinter.322
+Geysers of Iceland.—But the hot springs in various parts of Iceland,
+particularly the celebrated geysers, afford the most remarkable example
+of the deposition of silex.323 The circular reservoirs into which the geysers
+fall, are lined in the interior with a variety of opal, and round the
+edges with sinter. The plants incrusted with the latter substance have
+much the same appearance as those incrusted with calcareous tufa in
+our own country. They consist of various grasses, the horse-tail
+(Equisetum), and leaves of the birch-tree, which are the most common
+of all, though no trees of this species now exist in the surrounding
+country. The petrified stems also of the birch occur in a state much
+resembling agatized wood.324
+By analysis of the water, Mr. Faraday has ascertained that the solution
+of the silex is promoted by the presence of the alkali, soda. He
+suggests that the deposition of silica in an insoluble state takes place
+partly because the water when cooled by exposure to the air is unable
+247
+to retain as much silica as when it issues from the earth at a temperature
+of 180° or 190° Fahr.; and partly because the evaporation of the
+water decomposes the compound of silica and soda which previously
+existed. This last change is probably hastened by the carbonic acid
+of the atmosphere uniting with the soda. The alkali, when disunited
+from the silica, would readily be dissolved in and removed by running
+water.325
+Mineral waters, even when charged with a small proportion of silica,
+as those of Ischia, may supply certain species of corals, sponges, and infusoria,
+with matter for their siliceous secretions; but there is little doubt
+that rivers obtain silex in solution from another and far more general
+source, namely, the decomposition of felspar. When this mineral,
+which is so abundant an ingredient in the hypogene and trappean rocks,
+has disintegrated, it is found that the residue, called porcelain clay, contains
+a small proportion only of the silica which existed in the original
+felspar, the other part having been dissolved and removed by water.326
+Ferruginous springs.—The waters of almost all springs contain some
+iron in solution; and it is a fact familiar to all, that many of them are
+so copiously impregnated with this metal, as to stain the rocks or herbage
+through which they pass, and to bind together sand and gravel into
+solid masses. We may naturally, then, conclude that this iron, which
+is constantly conveyed from the interior of the earth into lakes and seas,
+and which does not escape again from them into the atmosphere by
+evaporation, must act as a coloring and cementing principle in the subaqueous
+deposits now in progress. Geologists are aware that many
+ancient sandstones and conglomerates are bound together or colored
+by iron.
+Brine springs.—So great is the quantity of muriate of soda in some
+springs, that they yield one-fourth of their weight in salt. They are
+rarely, however, so saturated, and generally contain, intermixed with
+salt, carbonate and sulphate of lime, magnesia, and other mineral ingredients.
+The brine springs of Cheshire are the richest in our country;
+those of Northwich being almost saturated. Those of Barton also, in
+Lancashire, and Droitwich in Worcestershire, are extremely rich.327 They
+are known to have flowed for more than 1000 years, and the quantity
+of salt which they have carried into the Severn and Mersey must be
+enormous. These brine springs rise up through strata of sandstone and
+red marl, which contain large beds of rock salt. The origin of the brine,
+therefore, may be derived in this and many other instances from beds of
+fossil salt; but as muriate of soda is one of the products of volcanic
+emanations and of springs in volcanic regions, the original source of salt
+may be as deep seated as that of lava.
+Many springs in Sicily contain muriate of soda, and the "fiume salso,"
+248
+in particular, is impregnated with so large a quantity, that cattle refuse
+to drink of it. A hot spring, rising through granite, at Saint Nectaire,
+in Auvergne, may be mentioned as one of many, containing a large proportion
+of muriate of soda, together with magnesia and other ingredients.328
+Carbonated springs.—Auvergne.—Carbonic acid gas is very plentifully
+disengaged from springs in almost all countries, but particularly near
+active or extinct volcanoes. This elastic fluid has the property of decomposing
+many of the hardest rocks with which it comes in contact, particularly
+that numerous class in whose composition felspar is an ingredient.
+It renders the oxide of iron soluble in water, and contributes, as was
+before stated, to the solution of calcareous matter. In volcanic districts
+these gaseous emanations are not confined to springs, but rise up in the
+state of pure gas from the soil in various places. The Grotto del Cane,
+near Naples, affords an example, and prodigious quantities are now
+annually disengaged from every part of the Limagne d'Auvergne, where
+it appears to have been developed in equal quantity from time immemorial.
+As the acid is invisible, it is not observed, except an excavation
+be made, wherein it immediately accumulates, so that it will extinguish
+a candle. There are some springs in this district, where the water is
+seen bubbling and boiling up with much noise, in consequence of the
+abundant disengagement of this gas. In the environs of Pont-Gibaud,
+not far from Clermont, a rock belonging to the gneiss formation, in which
+lead-mines are worked, has been found to be quite saturated with carbonic
+acid gas, which is constantly disengaged. The carbonates of iron,
+lime, and manganese are so dissolved, that the rock is rendered soft, and
+the quartz alone remains unattacked.329 Not far off is the small volcanic
+cone of Chaluzet, which once broke up through the gneiss, and sent
+forth a lava stream.
+Supposed atmosphere of carbonic acid.—Prof. Bischoff in his history
+of volcanoes,330 has shown what enormous quantities of carbonic acid gas
+are exhaled in the vicinity of the extinct craters of the Rhine (in the
+neighborhood of the Laacher-see, for example, and the Eifel), and also
+in the mineral springs of Nassau and other countries, where there are no
+immediate traces of volcanic action. It would be easy to calculate in
+how short a period the solid carbon, thus emitted from the interior of the
+earth in an invisible form, would amount to a quantity as great as could
+be obtained from the trees of a large forest, and how many thousand
+years would be required to supply the materials of a dense seam of pure
+coal from the same source. Geologists who favor the doctrine of the
+former existence of an atmosphere highly charged with carbonic acid, at
+the period of the ancient coal-plants, have not sufficiently reflected on
+the continual disengagement of carbon, which is taking place in a gaseous
+form from springs, as also in a free state from the ground and from
+249
+volcanic craters into the air. We know that all plants are now engaged
+in secreting carbon, and many thousands of large trees are annually
+floated down by great rivers, and buried in their alluvial deposits; but
+before we can assume that the quantity of carbon which becomes permanently
+locked up in the earth by such agency will bring about an
+essential change in the chemical composition of the atmosphere, we must
+be sure that the trees annually buried contain more carbon than is given
+out from the interior of the earth in the same lapse of time. Every large
+area covered by a dense mass of peat, bears ample testimony to the fact,
+that several million tons of carbon have been taken from the air, by the
+powers of vegetable life, and stored up in the earth's crust, a large
+quantity of oxygen having been at the same time set free; but we cannot
+infer from these circumstances, that the constitution of the atmosphere
+has been materially deranged, until we have data for estimating
+the rate at which dead animal and vegetable substances are daily putrefying,—organic
+remains and various calcareous rocks decomposing, and
+volcanic regions emitting fresh volumes of carbonic acid gas. That the
+ancient carboniferous period was one of vast duration all geologists are
+agreed; instead, therefore, of supposing an excess of carbonic acid in
+the air at that epoch, for the support of a peculiar flora, we may imagine
+Time to have multiplied the quantity of carbon given out annually by
+mineral springs, volcanic craters, and other sources, until the component
+elements of any given number of coal-seams had been evolved from below,
+without any variation taking place in the constitution of the atmosphere.
+It has been too common, in reasoning on this question, to compute
+the loss of carbon by the volume of coal stored up in the ancient
+strata, and to take no account of the annual gain, by the restoration of
+carbonic acid to the atmosphere, through the machinery above alluded to.331
+Disintegrating effects of carbonic acid.—The disintegration of granite
+is a striking feature of large districts in Auvergne, especially in the
+neighborhood of Clermont. This decay was called by Dolomieu, "la
+maladie du granite;" and the rock may with propriety be said to have
+the rot, for it crumbles to pieces in the hand. The phenomenon may,
+without doubt, be ascribed to the continual disengagement of carbonic
+acid gas from numerous fissures.
+In the plains of the Po, between Verona and Parma, especially at
+Villa Franca, south of Mantua, I observed great beds of alluvium, consisting
+chiefly of primary pebbles, percolated by spring-water, charged
+with carbonate of lime and carbonic acid in great abundance. They are
+for the most part incrusted with calc-sinter; and the rounded blocks of
+gneiss, which have all the outward appearance of solidity, have been so
+disintegrated by the carbonic acid as readily to fall to pieces.
+The subtraction of many of the elements of rocks by the solvent power
+of carbonic acid, ascending both in a gaseous state and mixed with
+spring-water in the crevices of rocks, must be one of the most powerful
+250
+sources of those internal changes and rearrangements of particles so
+often observed in strata of every age. The calcareous matter, for example,
+of shells, is often entirely removed and replaced by carbonate of
+iron, pyrites, silex, or some other ingredient, such as mineral waters
+usually contain in solution. It rarely happens, except in limestone
+rocks, that the carbonic acid can dissolve all the constituent parts of the
+mass; and for this reason, probably, calcareous rocks are almost the
+only ones in which great caverns and long winding passages are found.
+Petroleum springs.—Springs of which the waters contain a mixture
+of petroleum and the various minerals allied to it, as bitumen, naphtha,
+asphaltum, and pitch, are very numerous, and are, in many cases, undoubtedly
+connected with subterranean fires, which raise or sublime the
+more subtle parts of the bituminous matters contained in rocks. Many
+springs in the territory of Modena and Parma, in Italy, produce petroleum
+in abundance; but the most powerful, perhaps, yet known, are
+those on the Irawadi, in the Burman empire. In one locality there are
+said to be 520 wells, which yield annually 400,000 hogsheads of petroleum.332
+Pitch lake of Trinidad.—Fluid bitumen is seen to ooze from the
+bottom of the sea, on both sides of the island of Trinidad, and to rise
+up to the surface of the water. Near Cape La Braye there is a vortex
+which, in stormy weather, according to Captain Mallet, gushes out,
+raising the water five or six feet, and covers the surface for a considerable
+space with petroleum, or tar; and the same author quotes Gumilla,
+as stating, in his "Description of the Orinoco," that about seventy years
+ago, a spot of land on the western coast of Trinidad, near half-way between
+the capital and an Indian village, sank suddenly, and was immediately
+replaced by a small lake of pitch, to the great terror of the
+inhabitants.333
+It is probable that the great pitch lake of Trinidad owes its origin to
+a similar cause; and Dr. Nugent has justly remarked, that in that district
+all the circumstances are now combined from which deposits of
+pitch may have originated. The Orinoco has for ages been rolling
+down great quantities of woody and vegetable bodies into the surrounding
+sea, where, by the influence of currents and eddies, they may be
+arrested and accumulated in particular places. The frequent occurrence
+of earthquakes and other indications of volcanic action in those parts
+lend countenance to the opinion, that these vegetable substances may
+have undergone, by the agency of subterranean fire, those transformations
+and chemical changes which produce petroleum; and this may,
+by the same causes, be forced up to the surface, where, by exposure to
+the air, it becomes inspissated, and forms the different varieties of pure
+and earthy pitch, or asphaltum, so abundant in the island.334
+251
+It may be stated generally, that a large portion of the finer particles
+and the more crystalline substances, found in sedimentary rocks of different
+ages, are composed of the same elements as are now held in solution
+by springs, while the coarser materials bear an equally strong
+resemblance to the pebbles and sedimentary matter carried down by
+torrents and rivers. It should also be remembered, that it is not only
+during inundations, when the muddy sediment is apparent, that rivers
+are busy in conveying solid matter to the sea, but that even when their
+waters are perfectly transparent, they are annually bearing along vast
+masses of carbon, lime, and silica to the ocean.
+</div></body></text></TEI>

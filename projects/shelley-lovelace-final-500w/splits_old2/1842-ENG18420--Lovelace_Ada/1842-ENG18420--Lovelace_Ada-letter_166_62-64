@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 62-64</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 62-64.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1842">undated [6 August 1842]</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 62-64</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_62-64.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Saturday 5 o'clock</p>
+      <p>[horizontal line across page] The enclosed from Dr Jones today. [horizontal line across page]</p>
+      <p>This day is actually gloom personified so cloudy &amp; rainy. My mother is worse again, &amp; Locock has just ordered leeches again.</p>
+      <p>I am much pleased that the Hen &amp; he seem now to agree; &amp; both have decided to call in the aid of Dr Southey;-- not from any peculiar skill or distinction of Dr S--; but because</p>
+      <p>he is an old friend of my mother's, &amp; a person she is very fond of, &amp; well-calculated to assist Locock; tho' as a subordinate. My intentions are to go to Ockham tomorrow afternoon; tho' if the weather is like that of today, I certainly shall not. For it will be wretched &amp; dreary. And I want sunshine &amp; cheerfulness. But I am very anxious now to go</p>
+      <p>back. I long to get to my Harp. Madselle Bertucat is now gone abroad; so my practising here in Town ended on Friday. The Hen begs me to cultivate my Harp very much for the present; thinking it better calculated for me in some respects than any other study at present. And she has suggested one or two uses I may make of it for the benefit of others or at least pleasure of some</p>
+      <p>of my friends that I should well care to gratify.</p>
+      <p>Alas! Alas! the day is more &amp; more lugubrious &amp; dispiriting.</p>
+      <p>Direct always here. Because it loses nothing if I do go to Ockham.</p>
+      <p>Here are the two extracts I forgot yesterday.</p>
+      <p>Mrs Jameson has been most kind; &amp; has promised whenever I go, to do all in her power to take my place with my mother.</p>
+      <p>That is a good woman, I firmly believe.</p>
+      <p>I doubt if I can go before Monday;-- on several accounts.</p>
+      <p>And if so, I had best wait for you I think; that we may go together.</p>
+      <p>But from what you say, I don't think it is very certain that you can come on Monday even.</p>
+      <p>And my arrangements are as you perceive as yet absolutely uncertain.</p>
+      <p>I think it serves me right to have such a dose of London now.</p>
+    </div></body>
+  </text>
+</TEI>

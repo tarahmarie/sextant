@@ -1,0 +1,15 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Prometheus Unbound</title><author>Shelley, Percy Bysshe (1792-1822)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1820</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="2">DRAMATIS PERSONAE.
+PROMETHEUS.
+DEMOGORGON.
+JUPITER.
+THE EARTH.
+OCEAN.
+APOLLO.
+MERCURY.
+OCEANIDES: ASIA, PANTHEA, IONE.
+HERCULES.
+THE PHANTASM OF JUPITER.
+THE SPIRIT OF THE EARTH.
+THE SPIRIT OF THE MOON.
+SPIRITS OF THE HOURS.
+SPIRITS. ECHOES. FAUNS. FURIES.</div></body></text></TEI>

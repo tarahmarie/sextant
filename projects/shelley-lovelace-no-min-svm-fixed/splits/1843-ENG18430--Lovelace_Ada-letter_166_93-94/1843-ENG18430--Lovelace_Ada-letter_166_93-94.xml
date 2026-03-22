@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 93-94</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 93-94.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1843">undated [23 October 1843]</date>
+          <note type="place">Clifton</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 93-94</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_93-94.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Clifton Monday Evening</p>
+      <p>We have been to Portishead today. It has been impossible for me to complete what I wish to send Mr Kraemer.</p>
+      <p>But it will go tomorrow. Do not mistrust me. I am very anxiious on the subject &amp; feel that it demands my best thought &amp; pen.</p>
+      <p>I believe we are going to</p>
+      <p>Bath in a day or two, as we think it will be warmer for us; &amp; we begin to feel the cold here extremely.</p>
+      <p>We are going I believe to reconnoitre at Bath tomorrow, by Rail.</p>
+      <p>Of course however you will make no alterations in the address, until you are directed by us to do so.</p>
+      <p>I quite agree with you that October would be too late for Scotland, &amp; I think the Hen thinks</p>
+      <p>so too. The end of August &amp; the month of Sepr would do. She much desires to shew me the Scotch lakes, &amp; I am mad with pleasure at the idea, of course. But, my dear, ou &amp; I must make little excursions sometimes. How nice the Isle of Wight &amp; New-Forest expedition will be in July.</p>
+      <p>I hope, by the bye, that you approve of my little merry, innocent, bird-like plans, for shewing ou Cleve &amp;c, &amp; some [two words crossed out]</p>
+      <p>other little schemes of the sort.--</p>
+      <p>I am glad you are taking the young about.</p>
+      <p>And I am glad Franks is going to you, as I know it will be very pleasant for you. (I hope F. K will not however happen to pop over from the Moor while he is at Ashley!)</p>
+      <p>Are the ministry stark mad about Ireland? I think so.</p>
+      <p>Here they are crying the arrest about the streets, by public criers. What will come of it all?--</p>
+    </div></body>
+  </text>
+</TEI>

@@ -1,0 +1,420 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Ninth Bridgewater Treatise</title><author>Babbage, Charles (1791-1871)</author></titleStmt><publicationStmt><publisher>John Murray</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="1"> ADVERTISEMENT TO THE SECOND EDITION.
+ THE following are the principal alterations in the Second Edition:—
+The Chapter on Hume's Argument against Miracles has been nearly re-written,
+ and the Note in the Appendix, to which it refers, has been so enlarged, as to
+ meet all the interpretations which I have been able to suppose of that author's
+ meaning.
+The Chapter next following contains an examination of a difficulty which would
+ naturally present itself to any one who had pursued the reasoning in the previous
+ Chapter and its appended Note. I thought it better to state the difficulty,
+ with what I conceive to be an answer, than to leave the reader to the chance
+ of observing it, without the aid which he might justly claim from one who had
+ previously gone over the same ground.
+A new Chapter is then introduced, On the Nature of a Superintending Providence.
+[page] iv
+I have added in the Notes a very interesting letter from Sir John Herschel
+ to Mr. Lyell, on the theory of isothermal surfaces, as connected with Geology.
+I have again read, with much attention, the chapters in Mr. Whewell's Bridgewater
+ Treatise, which bear upon the question of the effect of the pursuits of science
+ on our belief in natural religion, and I confess that I am unable to alter the
+ opinion I have already expressed upon that subject,—that they give support
+ to those who maintain that the pursuits of science are in general unfavourable
+ to religion. Of the injustice of that opinion and of the individual injury
+ which it occasionally inflicts, additional evidence has been presented to me,
+ since the publication of the First Edition.
+In endeavouring to understand the meaning and spirit of the author, I find
+ it difficult to interpret such passages as the following, which is stated to
+ embody the substance of his opinions:—
+"If the mathematician set out on religious reasonings, thinking that
+ his mathematical knowledge alone must bring him into a nearer proximity to his
+ Maker and Master, he will, I fear, find that the road is interrupted by a wide
+ chasm, and he may, perhaps, turn back frustrated and hopeless. It is only by
+ rising above his mathematics and his
+[page] v
+"physics;—by recognising the utter dissimilarity of moral and religious
+ grounds of belief, from mathematical and physical reasonings upon established
+ laws of nature;—that he can make his way to the conviction of a moral
+ constitution and providential government of the world; and if the mathematical
+ or physical philosopher so habituate his mind, that "it is difficult for
+ him thus to elevate himself into a higher region than that of mathematical proof
+ and physical consequence, I cannot but think he does damage to his power of
+ judging on those other subjects."
+This passage is one of those which is likely to be misunderstood, and which
+ may be adduced by others in the support of views which it is impossible to suppose
+ Mr. Whewell to entertain. If, by "rising above his mathematics and physics,"
+ it is meant, that inquiry into the relation of man to his Maker, is of more
+ importance to his welfare than those other subjects, then it is a proposition
+ which scarcely requires to be asserted, because it has never been denied. Even
+ the atheist, who has arrived, by reasoning, at his desolate conclusion, would
+ not fail to admit its truth, by attending to any new argument which might be
+ proposed against his creed. But if it is meant, that there is a "higher
+ region" of evidence than that of "mathematical proof and physical
+ consequence," then it is in my opinion utterly and
+[page] vi
+completely erroneous; and as I am confident this erroneous light will be that
+ in which the statement will be understood by many, I think it necessary to state
+ distinctly what appears to me the relative position of the subjects in discussion.
+First, The truths of pure mathematics are necessary truths; they are of such
+ a nature, that to suppose the reverse, involves a contradiction.
+Secondly, The laws of nature, on which physical reasonings are founded, although
+ some of them are considered as necessary truths, depend, in many instances,
+ on the testimony of our senses. These derive their highest confirmation from
+ the aid of pure mathematics, by which innumerable consequences, previously unobserved,
+ are proved to result from them.
+Thirdly, The truths of natural religion rest also on the testimony of our external
+ senses, but united with that internal consciousness of intention or design which
+ we experience in our own breast, and from which we infer similar powers in other
+ beings. Many of the facts on which the conclusions of natural religion are founded,
+ derive their chief importance from the aid supplied by the united power of the
+ two former classes, and the amount and value of this support will be enlarged
+ with the advance of those sciences.
+[page] vii
+Fourthly, Revealed religion rests on human testimony; nd on that alone. Its
+ first and greatest support arises from natural religion. I have endeavoured
+ in one chapter of the present volume to show, that, notwithstanding the weakening
+ effect of transmission upon testimony, a time may arrive when, by the progress
+ of knowledge, internal evidence of the truth of revelation may start into existence
+ with all the force that can be derived from the testimony of the senses.
+The first class of truths then (those of Pure Mathematics) appears to rest
+ on necessity. The second, (the Laws of Nature,) on necessity and our external
+ senses. The third, (those of Natural Religion,) on our external senses and internal
+ consciousness. The last, (those of Revelation,) on human testimony. If they
+ admit of any classification, as subjects having a common resemblance, or as
+ possessing different degrees of evidence, I have placed them in the only order
+ which, in my opinion, is consistent with truth; convinced that it is more injurious
+ to religion to overrate, than to undervalue the cogency of the evidence on which
+ it rests.
+
+CHARLES BABBAGE.
+
+ DORSET STREET, 
+ MANCHESTER SQUARE, Dec. 26, 1837.
+[page] viii
+
+POSTSCRIPT.
+A volume, on the Connexion of Natural Science and Religion, by the Rev. J.
+ Baden Powell, has just reached me; and whilst I am happy in having several
+ of my arguments approved by so candid and competent an inquirer, I will here,
+ at the author's request, correct an oversight into which he has inadvertently
+ fallen, in commenting on the view taken respecting the interpretation of the
+ Mosaic account of the Creation.
+It is stated by Mr. Powell that the view I have proposed "amounts to
+ an admission that it is impossible at the present day to fix any certain meaning
+ on compositions of such antiquity, and so entirely destitute of all elucidation
+ from contemporary writings, as the Mosaic records."
+This statement is much more general than the opinion I have expressed, which
+ is, that "the language of the Hebrews in times long subsequent to the
+ date of that book (the books of Moses,) may not have so far changed as to prevent
+ us from rightly understanding generally the history it narrates; but there
+ appears to be no reasonable ground for venturing to pronounce with any confidence
+ on the minute shades of meaning of allied words."—Ninth Bridgewater
+ Treatise, 1st Edit. p. 77.
+[page i]
+
+CONTENTS.
+Page
+Preface ............. v
+CHAPTER I.
+Nature of the Argument ......... 23
+CHAPTER II.
+Argument in favour of Design from the changing of Laws in Natural Events ........
+ 30
+CHAPTER III.
+Argument to show that the Doctrines in the preceding Chapter do not lead to
+ Fatalism .... 50
+CHAPTER IV.
+On the Account of the Creation, in the First Chapter of Genesis ............
+ 63
+
+[page] ii
+CHAPTER V.
+Page
+Further View of the same Subject ...... 72
+CHAPTER VI.
+Of the Desire of Immortality ....... 82
+CHAPTER VII.
+On Time .............. 87
+CHAPTER VIII.
+Argument from Laws intermitting—on the Nature of Miracles .............
+ 92
+CHAPTER IX.
+On the permanent Impression of our Words and Actions on the Globe we inhabit
+ . . . . . 108
+CHAPTER X.
+On Hume's Argument against Miracles .... 120
+CHAPTER XI.
+Reflections on the Inquiry in the preceding Chapter 132
+CHAPTER XII.
+the Nature of a Superintending Providence . . 141
+
+[page] iii
+CHAPTER XIII.
+Page
+A priori Argument in favour of the Occurrence of Miracles ............. 149
+CHAPTER XIV.
+Thoughts on the Nature of Future Punishments . 159
+CHAPTER XV.
+Reflections on Free Will .. ...... 167
+
+ CONCLUSION ............ 172
+APPENDIX.
+NOTE A. On the great Law which regulates Matter . 179
+ B. On the Calculating Engine ..... 186
+ C. Extract from the Theory of Probabilities of La Place ......... 189
+ D. Note to Chap. VIII. on Miracles . . . 191
+ E. Note to Chap. X. on Hume's Argument against Miracles ........ 192
+ F. On the Consequences of Central Heat . . 204
+
+[page iv]
+CONTENTS.
+Page
+
+ G. On the Action of Existing Causes in producing Elevations and Subsidences
+ in Portions of the Earth's Surface . . . 209
+ H. Tables showing the Expansion of Beds of Granite variously heated ..... 221
+ I . Extracts from Letters of Sir John Herschel 225
+ K. On the Elevation of Beaches by Tides . . 248
+ L. On Ripple Mark ......... 252
+ M. On the A.ge of Strata, as inferred from the Kings of Trees embedded in them
+ . . 256
+ N. On a Method of multiplying Illustrations from Wood-Cuts ........ 265
+
+[page v]
+
+PREFACE.
+
+ THE volume here presented to the public does not form a part of that series
+ of works composed at the desire of the trustees who directed the application
+ of the bequest of £8000, by the late Earl of Bridgewater, for the purpose
+ of advancing arguments in favour of Natural Religion.
+
+[page] vi
+I have, however, thought, that in furthering the intentions of the testator,
+ by publishing some reflections on that subject, I might be permitted to connect
+ with them a title which has now become familiarly associated, in the public
+ mind, with the evidences in favour of Natural Religion.
+The Bridgewater Treatises were restricted by the founder to the subject of
+ Natural Religion; and I had intended not to have deviated from their example.
+ In the single instance in which the question of miracles has been discussed,
+ I was led so irresistibly, by the very nature of the illustrations employed
+ in the former argument, to the view there proposed, that I trust to being excused
+ for having ventured one step beyond the strict limits of that argument, by entering
+ on the first connecting link between natural religion and revelation.
+The same argument will produce very various
+[page] vii
+degrees of conviction on different minds; and much of this difference will
+ depend on the extent of previous information, and on the strength of the reasoning
+ faculty in those to whom the argument is addressed. To the great variety, therefore,
+ of the illustrations' which have been adduced in proof of design and of benevolence
+ in the works of the Creator, there can be no objection. In truth, to the cultivated
+ eye of science, the origin and consequences of the mightiest hurricane, as well
+ as those of the smallest leaf it scatters in its course, equally lead to the
+ inference of a designing power, the more irresistibly the more extensive the
+ knowledge which is brought to bear on those phenomena.
+One of the chief defects of the Treatises above referred to appears to me to
+ arise from their not pursuing the argument to a sufficient extent. When a multitude
+ of apparently unconnected facts is traced up to some
+[page] viii
+common principle, we feel spontaneously an admiration for him who has explained
+ to us the connexion; and if, advancing another stage in the investigation, he
+ prove that other facts, apparently at variance with that principle, are not
+ merely no exceptions, but are themselves inevitable consequences of its application,
+ our admiration of the principle, and our respect for its discoverer, are still
+ further enhanced.
+But if this respect and admiration are yielded to the mere interpreter of Nature's
+ laws, how much more exalted must those sentiments become when applied to the
+ Being who called such principles into living existence by creating matter subservient
+ to their dominion—whose mind, intimately cognizant of the remotest consequences
+ of the present as well as of all other laws, decreed existence to that one alone,
+ which should comprehend within its grasp the completion of its destiny—
+[page] ix
+which should require no future intervention to meet events unanticipated by
+ its author, in whose omniscient mind we can conceive no infirmity of purpose—no
+ change of intention!
+The object of these pages, as of the Bridge-water Treatises, is to show that
+ the power and knowledge of the great Creator of matter and of mind are unlimited.
+ Deeply engaged in those other pursuits from which my chief arguments are drawn,
+ I regret the impossibility of bestowing on their full development that time
+ and attention which the difficulty and importance of the subject equally deserve; and in committing these fragments to the press, perhaps in too condensed a
+ form, I wish them to be considered merely as suggestions intended to direct
+ the reader's attention to lines of argument which appear to me new, and to views
+ of nature which appear more magnificent, than those with which I was previously
+ acquainted.
+[page] x
+Probably I should not have been induced to place my reflections on the subject
+ before the public, had I not, in common with other cultivators of the more abstract
+ branches of mathematical science, felt that a prejudice, which I had believed
+ to have been long eradicated from every cultivated mind, had lately received
+ support, at least to a certain extent, from a chapter in the first* of the Bridgewater
+ Treatises; and in a still greater degree, from a work of a far different order—one,
+ however, which derived its only claim to notice from the circumstance of its
+ appearing under the sanction of the University of Oxford.
+The prejudice to which I allude is, that the pursuits of science are unfavourable
+ to religion.
+There are two classes of men most deeply impressed with the conviction of the
+ very
+* It was the first in the order of publication.
+[page] xi
+limited extent of human knowledge—those whose contracted information renders
+ them eminent examples of the fact, and those whose wide grasp of many of its
+ profoundest branches has taught them, by lengthened experience, that each accession
+ to their stock but enables them to view a larger portion of its illimitable
+ field. Those who belong to the first of these classes must acquire the alphabet
+ of science, in order to understand knowledge, and the elements of modesty, to
+ use it with dignity. When they have thus graduated in the "infant school"
+ of philosophy, they may perhaps understand the argument, and perchance be worthy
+ of a reply,—but not till then.
+In that chapter of the first Bridgewater Treatise to which I have referred,
+ the charge seems not even to be limited to those who pursue that branch of science
+ which is conversant with the properties of pure number, and with abstractions
+ of a like nature, but
+[page] xii
+applies to all who cultivate deductive processes of reasoning.
+It is maintained by the author, that long application to such inquiries disqualifies
+ the mind from duly appreciating the force of that kind of evidence which alone
+ can be adduced in favour of Natural Theology.
+" We may thus, with the greatest proprie y, deny to the mechanical philosophers
+ and mathematicians of recent times any authority with regard to their views
+ of the administration of the universe; we have no reason whatever to expect
+ from their speculations any help, when we ascend to the first cause and supreme
+ ruler of the universe. But we might perhaps go farther, and assert that they
+ are in some respects less likely than men employed in other pursuits, to make
+ any clear advance towards such a subject of speculation."—Bridgewater
+ Treatise) by the Rev. WM. WHEWELL, p. 334.
+Admitting, for the sake of argument, that there have been individuals, possessed
+ of high intellectual powers, successfully devoted to those subjects, who have
+ arrived by reasoning at conclusions respecting the First Cause,
+[page] xiii
+totally opposite to those entertained by Mr. Whewell and myself, I should still
+ be very reluctant to endeavour to invalidate the influence of their conclusions,
+ by any inquiry either into their intellectual or their moral character. Reasoning
+ is to be combated and refuted by reasoning alone. Any endeavour to raise a prejudice,
+ or throw the shadow of an imputation, either implies the existence of some latent
+ misgiving in the minds of those who employ such weapons, or is a tacit admission
+ that the question is beyond the grasp of one at least of the debaters.
+Who that has studied their works ever dreamed of inquiring into the moral or
+ intellectual character of Euclid or Archimedes, for the purpose of confirming
+ or invalidating his belief in their conclusions? Who that possesses confidence
+ in his own reason, justified by a laborious cultivation and successful exercise
+ of that faculty, fails to anatomize and
+[page] xiv
+refute the arguments, rather than analyze the mental or moral habits of those
+ from whom he differs ?
+The only case in which such extraneous matters can be fairly called in, is
+ when facts are stated resting on testimony. Then it is not only just, but it
+ is necessary for the sake of truth, to inquire into the habits of mind of him
+ by whom they are adduced;— whether he possesses sufficient talent and
+ precision to enable him to state precisely what his senses convey to him, and
+ nothing more; or, if he receive information from others, whether he is credulous
+ or cautious. In both cases, it is necessary to inquire into moral feelings,
+ in order to be assured that there is no wilful mis-statement in the groundwork
+ of his reasoning. And even when this is well established, it is still necessary
+ to inquire whether he had any personal, professional, or pecuniary interest
+[page] xv
+which may insensibly have influenced his mind in one direction.
+Such I conceive to be the sound distinction between those branches of knowledge
+ resting on facts open to the observation of all, supported by reasoning addressed
+ to the understandings of all, — and those other branches in which reasoning
+ is mixed up with testimony. In the former, the argument is every thing—the
+ character nothing: in the latter, the character must be sifted as well as the
+ arguments.
+Feeling convinced that the truths of Natural Religion rest on foundations far
+ stronger than those of any human testimony; that they are impressed in indelible
+ characters, by almighty power, on every fragment of the material world, I cannot
+ but regret that reflections should have been made, in connexion with this subject,
+ calculated to throw the least
+[page] xvi
+shadow of doubt on evidence otherwise irresistible.
+As, however, these views of the nature of the question may not bring that conviction
+ to other minds, which they do to my own, and as one of the disturbing forces
+ which act on our minds has been strongly put forward, it is but justice to state
+ the whole of them. It requires but little insight into man's heart to perceive
+ that profession and professional advancement — that power and wealth —
+ have a far more frequent and more effective influence on his judgment than any
+ mental habits he may be supposed to have cultivated.
+It may be right then to state, that the author of these pages has always been
+ an ardent but not an exclusive cultivator of some of the more abstract branches
+ of mathematical science. In pursuing one of those inquiries,
+[page] xvii
+amongst the most recondite and apparently the most removed from any practical
+ application, he was struck with the bearing of some of the resets which presented
+ themselves, on the question of Natural Religion; and these he has endeavoured
+ to place before the reader, in the following pages.
+The author belongs to no profession in which he can hope for advancement, if
+ he successfully advocate one side of the question, or in which his prospects
+ can be injured by candidly stating any arguments on the other. He has not been
+ invited by men high in the State, and deservedly respected, to strengthen that
+ great basis which precedes all revelation, and on which it must all rest. Nor
+ has any sum of money been assigned to him, that, whatever the mercantile success
+ or failure of the present volume may be, he shall, on its publication, reap
+ a large pecuniary reward.
+[page] xviii
+Having chosen a career to which the institutions of the country hold out none
+ of those great prizes that stimulate professional exertions, and which constrain
+ men to yield a certain degree of deference to the opinions, sound or unsound, 
+ of their countrymen, he has, on the one hand, nothing to hope from their approbation,
+ and, on the other, is equally exempt from any dread of their censure; and,
+ had his conviction been as strongly opposed to the doctrines this Fragment advocates, 
+ as it is in their favour, he would, had a fit occasion presented itself, fearlessly
+ have laid before the world the arguments which had forced his mind to that conviction.
+In conclusion, I have to express to my fellow-labourers in the cause, my hope
+ that they will put no unkind interpretation on these remarks, which, founded
+ on principles of human nature, are necessarily of general application; that
+ they will see that motives alien, in my
+[page] xix
+own opinion, to the subject, having been once introduced, candour to those
+ who differ from us, as well as a deference to truth itself, compelled me to
+ state them fully.
+CHARLES BABBAGE.
+
+ DORSET-STREET,
+ MANCHESTER-SQUARE, April 1837.
+[page xx]
+[page] xxi
+The following account of the origin of the Bridgewater Treatises, is extracted
+ from one of those works:—
+"The Right Honourable and Reverend Francis Henry,
+ Earl of Bridgewater, died in the month of February, 1829; and, by his last
+ will and testament, bearing date the 25th of February, 1825, he directed certain
+ Trustees therein named, to invest in the public funds the sum of eight thousand
+ pounds sterling; this sum, with the accruing dividends thereon," to be
+ held at the disposal of the President, for the time being, of the Royal Society
+ of London, to be paid to the person or persons nominated by him. The testator
+ further directed, that the person or persons selected by the said President
+ should be appointed to write, print, and publish, one thousand copies of a work
+ 'On the Power, Wisdom, and Goodness of God, as manifested in the Creation;'
+ illustrating such work by all reasonable arguments, as, for instance, the variety
+ and formation of God's creatures in the animal, vegetable, and mineral kingdoms; the effect of digestion, and thereby of conversion; the construction of the
+ hand of man, and an infinite variety of other arguments: as also by discoveries,
+ ancient and modern, in arts, sciences, and the whole extent of literature. He
+ desired, moreover, that the profits arising from the sale of the works so published
+ should be paid to the authors of the works.
+"The late President of the Royal Society, Davies Gilbert, Esq., requested
+ the assistance of his Grace the Archbishop of Canterbury, and of the Bishop
+ of London, in determining upon the best mode of carrying into effect the intentions
+ of the testator. Acting with their advice, and with the concurrence of a nobleman
+ immediately connected with the deceased, Mr. Davies Gilbert appointed eight
+ gentlemen to write separate Treatises on the different branches of the subject."
+[page] xxii
+Of the eight gentlemen so appointed, four were of the clerical, and four of
+ the medical, profession. Their names, and the subjects assigned to them, are
+ as follows:—
+1. The Rev. THOMAS CHALMERS, D.D., Professor of Divinity in the University
+ of Edinburgh—" On the Adaptation of External Nature to the Moral and
+ Intellectual Constitution of Man."
+2. The Rev. WM. BUCKLAND, D.D., F.R.S., Canon of Christ Church, and Professor
+ of Geology in the University of Oxford—" On Geology and Mineralogy."
+3. The Rev. WM. WHEWELL, M.A., F.R.S., Fellow of Trinity College,Cambridge—"
+ On Astronomy and General Physics."
+4. The Rev. WM. KIRBY, M.A., F.R.S.—" On the History, Habits, and
+ Instincts of Animals."
+5. JOHN KIDD, M.D., F.R.S., Regius Professor of Medicine in the University
+ of Oxford—" On the Adaptation of External Nature to the Physical Condition
+ of Man."
+6. Sir CHARLES BELL, K.H., F.R.S.—" The Hand: its Mechanism and
+ Vital Endowments, as evincing Design."
+7. PETER MARK ROGET, M.D., Fellow of, and Secretary to, the Royal Society—"
+ On Animal and Vegetable Physiology."
+8. WM. PROUT, M.D., F.R.S.—" On Chemistry, Meteorology, and the Function
+ of Digestion."
+[page 23]</div></body></text></TEI>

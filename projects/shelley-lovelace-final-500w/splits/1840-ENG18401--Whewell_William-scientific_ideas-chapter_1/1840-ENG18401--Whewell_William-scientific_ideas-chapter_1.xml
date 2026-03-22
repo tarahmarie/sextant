@@ -1,0 +1,323 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Philosophy of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="1">
+
+BOOK I.
+
+OF IDEAS IN GENERAL.
+
+CHAPTER I.
+Of the Fundamental Antithesis of Philosophy.
+
+Sect. 1.—Thoughts and Things.
+IN order that we may do something towards determining the
+nature and conditions of human knowledge, (which I have
+already stated as the purpose of this work,) I shall have to
+refer to an antithesis or opposition, which is familiar and
+generally recognized, and in which the distinction of the
+things opposed to each other is commonly considered very
+clear and plain. I shall have to attempt to make this
+opposition sharper and stronger than it is usually
+conceived, and yet to shew that the distinction is far from
+being so clear and definite as it is usually assumed to be:
+I shall have to point the contrast, yet shew that the things
+which are contrasted cannot be separated:—I must explain
+that the antithesis is constant and essential, but yet that
+there is no fixed and permanent line dividing its members. I
+may thus appear, in different parts of my discussion, to be
+proceeding in opposite directions, but I hope that the
+reader who gives me a patient attention will see that both
+steps lead to the point of view to which I wish to lead him.
+The antithesis or opposition of which I speak is denoted,
+with various modifications, by various pairs of terms: I
+shall endeavour to shew the connexion of these different
+modes of expression, and I will begin with that form which
+is the simplest and most idiomatic. 24
+The simplest and most idiomatic expression of the antithesis
+to which I refer is that in which we oppose to each other
+Things and Thoughts. The opposition is familiar and plain.
+Our thoughts are something which belongs to ourselves;
+something which takes place within us; they are what we
+think; they are actions of our minds. Things, on the
+contrary, are something different from ourselves and
+independent of us; something which is without us; they
+are; we see them, touch them, and thus know that
+they exist; but we do not make them by seeing or touching
+them, as we make our Thoughts by thinking them; we
+are passive, and Things act upon our organs of
+perception.
+Now what I wish especially to remark is this: that in all
+human Knowledge both Thoughts and Things are concerned. In
+every part of my knowledge there must be some thing
+about which I know, and an internal act of me who know.
+Thus, to take simple yet definite parts of our knowledge, if
+I know that a solar year consists of 365 days, or a lunar
+month of 30 days, I know something about the sun or the
+moon; namely, that those objects perform certain revolutions
+and go through certain changes, in those numbers of days;
+but I count such numbers and conceive such revolutions and
+changes by acts of my own thoughts. And both these elements
+of my knowledge are indispensable. If there were not such
+external Things as the sun and the moon I could not have any
+knowledge of the progress of time as marked by them. And
+however regular were the motions of the sun and moon, if I
+could not count their appearances and combine their changes
+into a cycle, or if I could not understand this when done by
+other men, I could not know anything about a year or a
+month. In the former case I might be conceived as a human
+being, possessing the human powers of thinking and
+reckoning, but kept in a dark world with nothing to mark the
+progress of existence. The latter is the case of brute
+animals, which see the sun and moon, but do not know how
+many days make a month or a year, because they have not
+human powers of thinking and reckoning. 25
+The two elements which are essential to our knowledge in the
+above cases, are necessary to human knowledge in all cases.
+In all cases, Knowledge implies a combination of Thoughts
+and Things. Without this combination, it would not be
+Knowledge. Without Thoughts, there could be no connexion;
+without Things, there could be no reality. Thoughts and
+Things are so intimately combined in our Knowledge, that we
+do not look upon them as distinct. One single act of the
+mind involves them both; and their contrast disappears in
+their union.
+But though Knowledge requires the union of these two
+elements, Philosophy requires the separation of them, in
+order that the nature and structure of Knowledge may be
+seen. Therefore I begin by considering this separation. And
+I now proceed to speak of another way of looking at the
+antithesis of which I have spoken; and which I may, for the
+reasons which I have just mentioned, call the Fundamental
+Antithesis of Philosophy.
+Sect. 2.—Necessary and Experiential Truths.
+Most persons are familiar with the distinction of
+necessary and contingent truths. The former
+kind are Truths which cannot but be true; as that 19 and 11
+make 30;—that parallelograms upon the same base and between
+the same parallels are equal;—that all the angles in the
+same segment of a circle are equal. The latter are Truths
+which it happens (contingit) are true; but
+which, for anything which we can see, might have been
+otherwise; as that a lunar month contains 30 days, or that
+the stars revolve in circles round the pole. The latter kind
+of Truths are learnt by experience, and hence we may call
+them Truths of Experience, or, for the sake of
+convenience, Experiential Truths, in contrast with
+Necessary Truths.
+Geometrical propositions are the most manifest examples of
+Necessary Truths. All persons who have read and understood
+the elements of geometry, know that the propositions above
+stated (that parallelograms 26 upon the same base and
+between the same parallels are equal; that all the angles in
+the same segment of a circle are equal,) are necessarily
+true; not only they are true, but they must be
+true. The meaning of the terms being understood, and the
+proof being gone through, the truth of the propositions must
+be assented to. We learn these propositions to be true by
+demonstrations deduced from definitions and axioms; and when
+we have thus learnt them, we see that they could not be
+otherwise. In the same manner, the truths which concern
+numbers are necessary truths: 19 and 11 not only do make 30,
+but must make that number, and cannot make anything
+else. In the same manner, it is a necessary truth that half
+the sum of two numbers added to half their difference is
+equal to the greater number.
+It is easy to find examples of Experiential Truths;—propositions which we know to be true, but know by
+experience only. We know, in this way, that salt will
+dissolve in water; that plants cannot live without light;—in short, we know in this way all that we do know in
+chemistry, physiology, and the material sciences in general.
+I take the Sciences as my examples of human
+knowledge, rather than the common truths of daily life, or
+moral or political truths; because, though the latter are
+more generally interesting, the former are much more
+definite and certain, and therefore better starting-points
+for our speculations, as I have already said. And we may
+take elementary astronomical truths as the most familiar
+examples of Experiential Truths in the domain of science.
+With these examples, the distinction of Necessary and
+Experiential Truths is, I hope, clear. The former kind, we
+see to be true by thinking about them, and see that they
+could not be otherwise. The latter kind, men could never
+have discovered to be true without looking at them; and
+having so discovered them, still no one will pretend to say
+they might not have been otherwise. For aught we can see,
+the astronomical truths which express the motions and
+periods of the sun, moon and stars, might have been
+otherwise. If we had been placed in another part of the
+solar system, our 27 experiential truths respecting days,
+years, and the motions of the heavenly bodies, would have
+been other than they are, as we know from astronomy itself.
+It is evident that this distinction of Necessary and
+Experiential Truths involves the same antithesis which we
+have already considered;—the antithesis of Thoughts and
+Things. Necessary Truths are derived from our own Thoughts:
+Experiential truths are derived from our observation of
+Things about us. The opposition of Necessary and
+Experiential Truths is another aspect of the Fundamental
+Antithesis of Philosophy.
+Sect. 3.—Deduction and Induction.
+I have already stated that geometrical truths are
+established by demonstrations deduced from
+definitions and axioms. The term Deduction is
+specially applied to such a course of demonstration of
+truths from definitions and axioms. In the case of the
+parallelograms upon the same base and between the same
+parallels, we prove certain triangles to be equal, by
+supposing them placed so that their two bases have the same
+extremities; and hence, referring to an Axiom respecting
+straight lines, we infer that the bases coincide. We combine
+these equal triangles with other equal spaces, and in this
+way make up both the one and the other of the
+parallelograms, in such a manner as to shew that they are
+equal. In this manner, going on step by step, deducing the
+equality of the triangles from the axiom, and the equality
+of the parallelograms from that of the triangles, we travel
+to the conclusion. And this process of successive deduction
+is the scheme of all geometrical proof. We begin with
+Definitions of the notions which we reason about, and with
+Axioms, or self-evident truths, respecting these notions;
+and we get, by reasoning from these, other truths which are
+demonstratively evident; and from these truths again, others
+of the same kind, and so on. We begin with our own Thoughts,
+which supply us with Axioms to start from; and we reason
+from these, till we come to propositions 28 which are
+applicable to the Things about us; as for instance, the
+propositions respecting circles and spheres applicable to
+the motions of the heavenly bodies. This is
+Deduction, or Deductive Reasoning.
+Experiential truths are acquired in a very different way. In
+order to obtain such truths, we begin with Things. In order
+to learn how many days there are in a year, or in a lunar
+month, we must begin by observing the sun and the moon. We
+must observe their changes day by day, and try to make the
+cycle of change fit into some notion of number which we
+supply from our own Thoughts. We shall find that a cycle of
+30 days nearly will fit the changes of phase of the
+moon;—that a cycle of 365 days nearly will fit the changes
+of daily motion of the sun. Or, to go on to experiential
+truths of which the discovery comes within the limits of the
+history of science—we shall find (as Hipparchus found) that
+the unequal motion of the sun among the stars, such as
+observation shews it to be, may be fitly represented by the
+notion of an eccentric;—a circle in which the sun
+has an equable annual motion, the spectator not being in the
+center of the circle. Again, in the same manner, at a later
+period, Kepler started from more exact observations of the
+sun, and compared them with a supposed motion in a certain
+ellipse; and was able to shew that, not a circle about an
+eccentric point, but an ellipse, supplied the mode of
+conception which truly agreed with the motion of the sun
+about the earth; or rather, as Copernicus had already shewn,
+of the earth about the sun. In such cases, in which truths
+are obtained by beginning from observation of external
+things and by finding some notion with which the Things, as
+observed, agree, the truths are said to be obtained by
+Induction. The process is an Inductive Process.
+The contrast of the Deductive and Inductive process is
+obvious. In the former, we proceed at each step from general
+truths to particular applications of them; in the latter,
+from particular observations to a general truth which
+includes them. In the former case we may be said to reason
+downwards, in the latter case, 29 upwards;
+for general notions are conceived as standing above
+particulars. Necessary truths are proved, like arithmetical
+sums, by adding together the portions of which they consist.
+An inductive truth is proved, like the guess which answers a
+riddle, by its agreeing with the facts described.
+Demonstration is irresistible in its effect on the belief,
+but does not produce surprize, because all the steps to the
+conclusion are exhibited, before we arrive at the
+conclusion. Inductive inference is not demonstrative, but it
+is often more striking than demonstrative reasoning, because
+the intermediate links between the particulars and the
+inference are not shewn. Deductive truths are the results of
+relations among our own Thoughts. Inductive truths are
+relations which we discern among existing Things; and thus,
+this opposition of Deduction and Induction is again an
+aspect of the Fundamental Antithesis already spoken of.
+Sect. 4.—Theories and Facts.
+General experiential Truths, such as we have just spoken of,
+are called Theories, and the particular observations
+from which they are collected, and which they include and
+explain, are called Facts. Thus Hipparchus’s
+doctrine, that the sun moves in an eccentric about the
+earth, is his Theory of the Sun, or the Eccentric
+Theory. The doctrine of Kepler, that the Earth moves in
+an Ellipse about the Sun, is Kepler’s Theory of the
+Earth, the Elliptical Theory. Newton’s doctrine that this
+elliptical motion of the Earth about the Sun is produced and
+governed by the Sun’s attraction upon the Earth, is the
+Newtonian theory, the Theory of Attraction.
+Each of these Theories was accepted, because it included,
+connected and explained the Facts; the Facts being,
+in the two former cases, the motions of the Sun as observed;
+and in the other case, the elliptical motion of the Earth as
+known by Kepler’s Theory. This antithesis of Theory
+and Fact is included in what has just been said of
+Inductive Propositions. A Theory is an Inductive
+Proposition, and the Facts 30 are the particular
+observations from which, as I have said, such Propositions
+are inferred by Induction. The Antithesis of Theory and Fact
+implies the fundamental Antithesis of Thoughts and Things;
+for a Theory (that is, a true Theory) may be described as a
+Thought which is contemplated distinct from Things and seen
+to agree with them; while a Fact is a combination of our
+Thoughts with Things in so complete agreement that we do not
+regard them as separate.
+Thus the antithesis of Theory and Fact involves the
+antithesis of Thoughts and Things, but is not identical with
+it. Facts involve Thoughts, for we know Facts only by
+thinking about them. The Fact that the year consists of 365
+days; the Fact that the month consists of 30 days, cannot be
+known to us, except we have the Thoughts of Time, Number and
+Recurrence. But these Thoughts are so familiar, that we have
+the fact in our mind as a simple Thing without attending to
+the Thought which it involves. When we mould our Thoughts
+into a Theory, we consider the thought as distinct from the
+Facts; but yet, though distinct, not independent of them;
+for it is a true Theory, only by including and agreeing with
+the Facts.
+Sect. 5.—Ideas and Sensations.
+We have just seen that the antithesis of Theory and Fact,
+although it involves the antithesis of Thoughts and Things,
+is not identical with it. There are other modes of
+expression also, which involve the same Fundamental
+Antithesis, more or less modified. Of these, the pair of
+words which in their relations appear to separate the
+members of the antithesis most distinctly are Ideas and
+Sensations. We see and hear and touch external things, and
+thus perceive them by our senses; but in perceiving them, we
+connect the impressions of sense according to relations of
+space, time, number, likeness, cause, &c. Now some at least
+of these kinds of connexion, as space, time, number, may be
+contemplated distinct from the things to which they are
+applied; and so contemplated, I term them Ideas. And
+31 the other element, the impressions upon our senses
+which they connect, are called Sensations.
+I term space, time, cause, &c., Ideas, because they
+are general relations among our sensations, apprehended by
+an act of the mind, not by the senses simply. These
+relations involve something beyond what the senses alone
+could furnish. By the sense of sight we see various shades
+and colours and shapes before us, but the outlines by which
+they are separated into distinct objects of definite forms,
+are the work of the mind itself. And again, when we conceive
+visible things, not only as surfaces of a certain form, but
+as solid bodies, placed at various distances in space, we
+again exert an act of the mind upon them. When we see a body
+move, we see it move in a path or orbit, but this orbit is
+not itself seen; it is constructed by the mind. In like
+manner when we see the motions of a needle towards a magnet,
+we do not see the attraction or force which produces the
+effects; but we infer the force, by having in our minds the
+Idea of Cause. Such acts of thought, such Ideas,
+enter into our perceptions of external things.
+But though our perceptions of external things involve some
+act of the mind, they must involve something else besides an
+act of the mind. If we must exercise an act of thought in
+order to see force exerted, or orbits described by bodies in
+motion, or even in order to see bodies existing in space,
+and to distinguish one kind of object from another, still
+the act of thought alone does not make the Bodies. There
+must be something besides, on which the thought is exerted.
+A colour, a form, a sound, are not produced by the mind,
+however they may be moulded, combined, and interpreted by
+our mental acts. A philosophical poet has spoken of</div></body></text></TEI>

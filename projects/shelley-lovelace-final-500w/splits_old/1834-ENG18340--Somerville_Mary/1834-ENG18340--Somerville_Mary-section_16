@@ -1,0 +1,469 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Connexion of the Physical Sciences</title><author>Mary Somerville</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1834</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="16">
+117
+SECTION XV.
+
+Analysis of the Atmosphere—Its Pressure—Law of Decrease in Density—Law
+of Decrease in Temperature—Measurement of Heights by the
+Barometer—Extent of the Atmosphere—Barometrical Variations—Oscillations—Trade-Winds—Cloud-Ring—Monsoons—Rotation of
+Winds—Laws of Hurricanes.
+The atmosphere is not homogeneous. It appears from analysis
+that, of 100 parts, 99·5 consist of nitrogen and oxygen gases
+mixed in the proportions of 79 to 21 of volume, the remainder
+consists of 0·05 parts of carbonic acid and on an average 0·45 of
+aqueous vapour. These proportions are found to be the same at
+all heights hitherto attained by man. The air is an elastic fluid,
+resisting pressure in every direction, and is subject to the law of
+gravitation. As the space in the top of the tube of a barometer
+is a vacuum, the column of mercury suspended by the pressure
+of the atmosphere on the surface of that in the cistern is a
+measure of its weight. Consequently every variation in the
+density occasions a corresponding rise or fall in the barometrical
+column. At the level of the sea in latitude 42°, and at the
+temperature of melting ice, the mean height of the barometer is
+29·922 or 30 inches nearly. The pressure of the atmosphere is
+about fifteen pounds on every square inch; so that the surface
+of the whole globe sustains a weight of 11,671,000,000 hundreds
+of millions of pounds. Shell-fish, which have the power of
+producing a vacuum, adhere to the rocks by a pressure of fifteen
+pounds upon every square inch of contact.
+The atmosphere when in equilibrio is an ellipsoid flattened at
+the poles from its rotation with the earth. In that state its
+strata are of uniform density at equal heights above the level of
+the sea; but since the air is both heavy and elastic, its density
+necessarily diminishes in ascending above the surface of the
+earth; for each stratum of air is compressed only by the weight
+above it. Therefore the upper strata are less dense because they
+are less compressed than those below them. Whence it is easy
+to show, supposing the temperature to be constant, that if the
+118heights above the earth be taken in increasing arithmetical
+progression, that is, if they increase by equal quantities, as by a
+foot or a mile, the densities of the strata of air, or the heights of
+the barometer which are proportionate to them, will decrease in
+geometrical progression. For example, at the level of the sea if
+the mean height of the barometer be 29·922 inches, at the height
+of 18,000 feet it will be 14·961 inches, or one half as great; at
+the height of 36,000 feet it will be one-fourth as great; at 54,000
+feet it will be one-eighth, and so on. Sir John Herschel has shown
+that the actual decrease is much more rapid, and that, in any hypothesis
+that has been formed with regard to the divisibility of the
+aërial atoms, a vacuum exists at the height of 80 or 90 miles above
+the earth’s surface, inconceivably more perfect than any that can be
+produced in the best air-pumps. Indeed the decrease in density is
+so rapid that three-fourths of all the air contained in the atmosphere
+is within four miles of the earth; and, as its superficial extent is
+200 millions of square miles, its relative thickness is less than
+that of a sheet of paper when compared with its breadth. The air
+even on mountain tops is sufficiently rare to diminish the intensity
+of sound, to affect respiration, and to occasion a loss of muscular
+strength. The blood burst from the lips and ears of M. de
+Humboldt as he ascended the Andes; and he experienced the
+same difficulty in kindling and maintaining a fire at great heights
+which Marco Polo, the Venetian, felt on the mountains of
+Central Asia. M. Gay-Lussac ascended in a balloon to the
+height of 4·36 miles, and he suffered greatly from the rarity of
+the air. It is true that at the height of thirty-seven miles the
+atmosphere is still dense enough to reflect the rays of the sun when
+18° below the horizon; but the tails of comets show that extremely
+attenuated matter is capable of reflecting light. And although,
+at the height of fifty miles, the bursting of the meteor of 1783
+was heard on earth like the report of a cannon, it only proves
+the immensity of the explosion of a mass half a mile in diameter,
+which could produce a sound capable of penetrating air three
+thousand times more rare than that we breathe. But even these
+heights are extremely small when compared with the radius of
+the earth.
+The density of the air is modified by various circumstances,
+chiefly by changes of temperature, because heat dilates the air
+and cold contracts it, varying
+1⁄480
+of the whole bulk when at 32°
+119for every degree of Fahrenheit’s thermometer. Experience shows
+that the heat of the air decreases as the height above the surface
+of the earth increases. It appears that the mean temperature of
+space is 226° below the zero point of Fahrenheit by the theories
+of Fourier and Pouillet, but Sir John Herschel has computed it
+to be -239° Fahr. from observations made during the ascent in
+balloons. Such would probably be the temperature of the surface
+of the earth also, were it not for the non-conducting power of
+the air, whence it is enabled to retain the heat of the sun’s rays,
+which the earth imbibes and radiates in all directions. The
+decrease in heat is very irregular; each authority gives a
+different estimate, because it varies with latitude and local
+circumstances, but from the mean of five different statements it
+seems to be about one degree for every 334 feet; the mean of
+observations made in balloons is 400 feet, which is probably
+nearer the truth. This is the cause of the severe cold and perpetual
+snow on the summits of the alpine chains. In the year 1852 four
+ascents in a balloon took place from the meteorological observatory
+at Kew, in which the greatest height attained was 22,370 feet.
+The observations then made by Mr. Welsh furnished Sir John
+Herschel with data for computing that the temperature of space
+is minus 239°, that is 239° below the zero point of Fahrenheit,
+that the limiting temperature of the atmosphere is probably
+771⁄2
+degrees below that point at the equator, and
+1191⁄2
+below it at the
+poles, with a range of temperature from the surface of
+1611⁄2°
+in
+the former case, and
+1191⁄2°
+in the latter. During these ascents it
+was found that the temperature of the air decreases uniformly
+up to a certain point, where it is arrested and remains constant,
+or increases through a depth of 2000 or 3000 feet, after which it
+decreases again according to the same law as before. Throughout
+this zone of constant temperature it either rains, or there is a
+great fall in the dew point; in short, it is the region of clouds,
+and the increase of temperature is owing to the latent or absorbed
+heat set free by the condensation of the aqueous vapour. In the
+latitude of Kew the cloud region begins at altitudes varying
+between 2000 and 6500 feet, according to the state of the
+weather.
+Were it not for the effects of temperature on the density of the
+air, the heights of mountains might be determined by the
+barometer alone; but as the thermometer must also be consulted,
+120the determination becomes more complicated. Mr. Ivory’s
+method of computing heights from barometrical measurements
+has the advantage of combining accuracy with the greatest
+simplicity. Indeed the accuracy with which the heights of
+mountains can be obtained by this method is very remarkable.
+Admiral Smyth, R.N., and Sir John Herschel measured the
+height of Etna by the barometer, without any communication
+and in different years; Admiral Smyth made it 10,874 feet, and
+Sir John Herschel 10,873, the difference being only one foot. In
+consequence of the diminished pressure of the atmosphere water
+boils at a lower temperature on mountain tops than in the
+valleys, which induced Fahrenheit to propose this mode of
+observation as a method of ascertaining their heights. It is very
+simple, as Professor Forbes ascertained that the temperature of
+the boiling point varies in arithmetical proportion with the
+height, or 5495 feet for every degree of Fahrenheit, so that the
+calculation of height becomes one of arithmetic only, without the
+use of any table.
+The mean pressure of the atmosphere is not the same all over
+the globe. It is less by 0·24 of an inch at the equator than at
+the tropics or in the higher latitudes, in consequence of the
+ascent of heated air and vapour from the surface of the ocean. It
+is less also on the shores of the Baltic Sea than it is in France,
+and it was observed by Sir James C. Ross that throughout the
+whole of the Antarctic Ocean, from 68° to 74° S. latitude, and
+from 8° to 7° W. longitude, there is a depression of the barometer
+amounting to an inch and upwards, which is equivalent to an
+elevation above the sea level of 800 feet. A similar depression
+was observed by M. Erman in the sea of Ochotzk, and in the
+adjacent continent of eastern Siberia. Sir John Herschel assigns
+as the cause of these singular anomalies the great system of
+circulation of the trade and antetrade winds, in both hemispheres,
+reacting upon the general mass of the continents as
+obstacles in their path, which is modified by the configuration of
+the land.
+There are various periodic oscillations in the atmosphere, which,
+rising and falling like waves in the sea, occasion corresponding
+changes in the height of the barometer, but they differ as much
+from the trade-winds, monsoons, and other currents, as the tides
+of the sea do from the Gulf-stream and other oceanic rivers.
+121The sun and moon disturb the equilibrium of the atmosphere by
+their attraction, and produce annual undulations which have
+their maximum altitudes at the equinoxes, and their minima at
+the solstices. There are also lunar tides, which ebb and flow
+twice in the course of a lunation. The diurnal tides, which
+accomplish their rise and fall in six hours, are greatly modified
+by the heat of the sun. Between the tropics the barometer
+attains its maximum height about nine in the morning, then
+sinks till three or four in the afternoon; it again rises and
+attains a second maximum about nine in the evening, and then
+it begins to fall, and reaches a second minimum at three in
+the morning, again to pursue the same course. According to
+M. Bouvard, the amount of the oscillations at the equator is
+proportional to the temperature, and in other parallels it varies
+as the temperature and the square of the cosine of the latitude
+conjointly; consequently it decreases from the equator to the
+poles, but it is somewhat greater in the day than in the night.
+Besides these small undulations, there are vast waves perpetually
+moving over the continents and oceans in separate and
+independent systems, being confined to local, yet very extensive
+districts, probably occasioned by long-continued rains or dry
+weather over large tracts of country. By numerous barometrical
+observations made simultaneously in both hemispheres, the
+courses of several have been traced, some of which occupy
+twenty-four, and others thirty-six, hours to accomplish their
+rise and fall. One especially of these vast barometric waves,
+many hundreds of miles in breadth, has been traced over the
+greater part of Europe; and not its breadth only, but also the
+direction of its front and its velocity, have been clearly ascertained.
+Although, like all other waves, these are but moving
+forms, yet winds arise dependent on them like tide streams in
+the ocean. Mr. Birt has determined the periods of other waves
+of still greater extent and duration, two of which required
+seventeen days to rise and fall; and another which takes fourteen
+days to complete its undulation, called by Mr. Birt the November
+wave, passes annually over the British Islands, probably over
+the whole of Europe and the seas on its northern coasts. Its
+crest, which appears to be 6000 miles in extent, moves from
+N.W. to S.E. at the rate of about 19 miles an hour; while the
+extent of its barometrical elevation from its trough to its crest is
+122seldom less than an inch, sometimes double that quantity. The
+great crest is preceded and followed at about five days’ interval
+by two lower ones, and the beginning and end are marked by
+deep depressions. The researches of M. Leverrier leave no doubt
+that the great Crimean storm of the 14th November, 1854, was
+part of this phenomenon,[8] for even a very small difference of
+atmospheric pressure is sufficient to raise a considerable wind.
+Since each oscillation has its perfect effect independently of the
+others, each one is marked by a change in the barometer, and
+this is beautifully illustrated by curves constructed from a series
+of observations. The general form of the curve shows the course
+of the principal wave, while small undulations in its outline
+mark the maxima and minima of the minor oscillations.
+The trade-winds, which are the principal currents in the
+atmosphere, are only a particular case of those very general
+laws which regulate the motion of the winds depending on the
+rarefaction of the air combined with the rotation of the earth on
+its axis. They are permanent currents of wind between the
+tropics, blowing to the N.E. on the N. side of the equator,
+and to the S.E. on the S. side.
+If currents of air come from the poles, it is clear that equilibrium
+must be restored by counter-currents from the equator;
+moreover, winds coming from the poles, where there is no rotation,
+to the equator, which revolves from W. to E. at the rate
+of 1000 miles an hour, must of necessity move in a direction
+resulting from their own progressive motion and that of rotation;
+hence, in blowing towards the equator the bias is to the
+E., and in blowing from it the bias is to the W. Thus as N.
+and S. winds from the poles blow along the surface from the
+tropics to the equator, in consequence of this composition of
+motions that from the N. becomes the N.E. trade-wind, and
+that from the S. the S.E. trade-wind. Now these winds being
+in contrary directions cross at the equator, balance each other
+through about 6 degrees of latitude, and produce a belt of calms
+of that breadth encircling the globe, known as the calms of the
+equator, or the Variables of seamen. The heat of the sun
+rarefies the air so much, that the trade-winds, after crossing at
+the equator, ascend into the higher regions of the atmosphere,
+where that from the N. goes to the tropic of Capricorn, and
+123that from the S. to the tropic of Cancer. But while travelling
+in these lofty regions they become cold and heavy, and, sinking
+to the surface at the tropics, each proceeds to the opposite pole
+from which it set out. Now, however, they have a greater rotatory
+motion than the places they successively arrive at, so the
+bias is to the W., and they become the N.W. and S.W. extra-tropical
+winds.
+If on arriving at the poles the air were to accumulate there,
+the circulation of the winds would cease; but currents rise into
+the upper regions, and flow back again to the tropics, where
+they sink down to fill the vacuum caused by the great precipitation
+of vapour in these regions, and then flow to the equator as
+trade-winds (N. 177). So the currents of air cross again at
+the tropics and produce two belts of calms which surround
+the globe, named by Lieutenant Maury the Calms of Cancer
+and the Calms of Capricorn, but generally known to sailors as
+the Doldrums. Thus the winds go from pole to pole and back
+again, alternately as under and upper currents. In their
+circuits the winds cross each other five times, producing regions
+of calms at the poles, the tropics, and equator. The trade-winds
+generally extend for about 28° on each side of the equator, but,
+on account of the greater quantity of land in the northern hemisphere,
+the N.E. trade-wind is narrower than the S.E.
+The sun is perpetually raising enormous quantities of vapour
+from the ocean which the trade-winds carry to the equator:
+it is condensed when it rises with the air into the higher
+strata, and forms a ring of clouds along the southern side of the
+belt of equatorial calms that surrounds the earth, which, during
+the day, is perpetually pouring down torrents of rain, while the
+sun continually beating upon its upper surface dissolves the clouds
+into invisible vapour which is carried by the winds and condensed
+into rain on the extra-tropical regions. The whole system of
+trade-winds, equatorial and tropical calms, with the cloud ring,
+follow the sun in declination; consequently in its journeys back
+and forwards it annually travels over 1000 miles of latitude, and
+regulates the dry and rainy season in the tropical parts of the
+earth.
+The monsoons, which are periodic winds in the Indian Ocean,
+in part depend upon this movement. For when the sun is in the
+northern hemisphere the trade-winds come northward with him;
+124and when his intense heat expands the air over the Great Gobi
+and other arid Asiatic deserts, it ascends; the N.E. trade-wind is
+drawn in to fill the vacuum and ascends with it; then the S.E.
+trade-wind, being no longer met and balanced by the N.E. trade,
+passes into the northern hemisphere, and as it proceeds northward
+from the equator it is deflected to the west by the rotation
+of the earth, combined with the indraught over the heated
+deserts, and becomes the S.W. monsoon, which blows while the
+sun is north of the equator, but as soon as he goes south, and no
+longer rarefies the air over the Indian deserts, the S.E. trade-wind
+resumes its usual course, and is then known as the S.E.
+monsoon. The influence of the heated deserts is perceptible to
+the distance of 1000 miles from the shore; the monsoons prevail
+with great steadiness over the Arabian Gulf, the Indian Ocean,
+and part of the China Sea. At the change, torrents of rain and
+violent thunderstorms accompany the conflict between the contending
+winds.
+The Sahara desert in North Africa, and those of Utah, Texas,
+and New Mexico, occasion the monsoons which prevail in the
+North Atlantic and on both sides of Central America, and the
+monsoons which blow to the north of Australia show the sterility
+of the interior, even if other proofs were wanting. From the
+powerful effect of the land in drawing off the winds from their
+course, it may be seen why the N.E. trade-winds are narrower
+than the S.E. trades.
+In the extra-tropical winds in the North Atlantic, which blow
+from the 40th parallel to the pole, the north-westerly are to the
+easterly as 2 to 1: hence there would be an accumulation of air at
+the pole at the expense of the equator, did not a current rise at
+the pole and return to the equator through the high regions of
+the atmosphere, which confirms the theory of the rotation of the
+wind.
+There are many proofs of the existence of the counter-currents
+above the trade-winds. On the Peak of Teneriffe the prevailing
+winds are from the west. Light clouds have frequently been seen
+moving rapidly from west to east at a very great height above
+the trade-winds, which were sweeping along the surface of the
+ocean in a contrary direction. Rains, clouds, and nearly all the
+other atmospheric phenomena, occur below the height of 18,000
+feet, and generally much nearer to the surface of the earth.
+125They are owing to currents of air running upon each other in
+horizontal strata, differing in their electric state, in temperature
+and moisture, as well as in velocity and direction.
+When north and south winds blow alternately, the wind at
+any place will veer in one uniform direction through every point
+of the compass, provided the one begins before the other has
+ceased. In the northern hemisphere a north wind sets out with
+a smaller degree of rotatory motion than the places have at which
+it successively arrives, consequently it passes through all the
+points of the compass from N. to N.E. and E. A current from
+the south, on the contrary, sets out with a greater rotatory
+velocity than the places have at which it successively arrives, so
+by the rotation of the earth it is deflected from S. to S.W. and W.
+Now, if the vane at any place should have veered from the N.
+through N.E. to E., and a south wind should spring up, it would
+combine its motion with the former and cause the vane to turn
+successively from the E. to S.E. and S. But by the earth’s rotation
+this south wind will veer to the S.W. and W., and, if a
+north wind should now arise, it would combine its motion with
+that of the west, and cause it to veer to the N.W. and N. Thus
+two alternations of north and south wind will cause the vane at
+any place to go completely round the compass, from N. to E.,
+S., W., and N. again. At the Royal Observatory at Greenwich
+the wind accomplishes five circuits in that direction in the course
+of a year. When circumstances combine to produce alternate
+north and south winds in the southern hemisphere, the gyration
+is in the contrary direction. Although the general tendency of
+the wind may be rotatory, and is so in many instances, at least
+for part of the year, yet it is so often counteracted by local circumstances,
+that the winds are in general very irregular, every
+disturbance in atmospheric equilibrium from heat or any other
+cause producing a corresponding wind. The most prevalent winds
+in Europe are the N.E. and S.W.; the former arises from the
+north polar current, and the latter from causes already mentioned.
+The law of the wind’s rotation was first described by Dr. Dalton,
+but has been developed by Professor Dove, of Berlin.
+Hurricanes are those storms of wind in which the portion of
+the atmosphere that forms them revolves in a horizontal circuit
+round a vertical or somewhat inclined axis of rotation, while the
+axis itself, and consequently the whole storm, is carried forward
+126along the surface of the globe, so that the direction in which the
+storm is advancing is quite different from the direction in which
+the rotatory current may be blowing at any point. In the West
+Indies, where hurricanes are frequent and destructive, they
+generally originate in the tropical regions near the inner boundary
+of the trade-winds, and are caused by the vertical ascent of a
+column of rarefied air, whose place is supplied by a rush of wind
+from the surrounding regions, set into gyration by the rotation of
+the earth. By far the greater number of Atlantic hurricanes
+have begun eastward of the lesser Antilles or Caribbean Islands.
+In every case the axis of the storm moves in an elliptical or
+parabolic curve, having its vertex in or near the tropic of Cancer,
+which marks the external limit of the trade-winds north of the
+equator. As the motion before it reaches the tropic is in a
+straight line from S.E. to N.W., and after it has passed it from
+S.W. to N.E., the bend of the curve is turned towards Florida
+and the Carolinas. In the southern hemisphere the body of the
+storm moves in exactly the opposite direction. The hurricanes
+which originate south of the equator, and whose initial path is
+from N.E. to S.W., bend round at the tropic of Capricorn, and
+then move from N.W. to S.E.
+The extent and velocity of these storms are great; for instance,
+the hurricane that took place on the 12th of August, 1830,
+was traced from eastward of the Caribbee Islands, along the
+Gulf Stream, to the bank of Newfoundland, a distance of more
+than 3000 miles, which it passed over in six days. Although
+the hurricane of the 1st of September, 1821, was not so extensive,
+its velocity was greater, as it moved at the rate of 30 miles
+an hour: small storms are generally more rapid than those of
+greater dimensions.
+The action of these storms seems to be at first confined to the
+stratum of air nearest the earth, and then they seldom appear to
+be more than a mile high, though sometimes they are raised
+higher; or even divided by a mountain into two separate storms,
+each of which continues its new path and gyrations with increased
+violence. This occurred in the gale of the 25th of December,
+1821, in the Mediterranean, when the Spanish mountains and
+the Maritime Alps became new centres of motion.
+By the friction of the earth the axis of the storm bends a little
+forward. This causes a continual intermixture of the lower and
+127warmer strata of air with those that are higher and colder, producing
+torrents of rain and violent electric explosions.
+The breadth of the whirlwind is greatly augmented when the
+path of the storm changes on crossing the tropic. The vortex
+of a storm has covered an extent of the surface of the globe 500
+miles in diameter.
+The revolving motion accounts for the sudden and violent
+changes observed during hurricanes. In consequence of the
+rotation of the air, the wind blows in opposite directions on each
+side of the axis of the storm, and the violence of the blast
+increases from the circumference towards the centre of gyration,
+but in the centre itself the air is in repose: hence, when the
+body of the storm passes over a place, the wind begins to blow
+moderately, and increases to a hurricane as the centre of the
+whirlwind approaches; then, in a moment, a dead and awful
+calm succeeds, suddenly followed by a renewal of the storm in
+all its violence, but now blowing in a direction diametrically
+opposite to its former course. This happened at the Island of
+St. Thomas on the 2nd of August, 1837, where the hurricane
+increased in violence till half-past seven in the morning, when
+perfect stillness took place for forty minutes, after which the
+storm recommenced in a contrary direction.
+The sudden fall of the mercury in the barometer in the regions
+habitually visited by hurricanes is a certain indication of a coming
+tempest. In consequence of the centrifugal force of these
+rotatory storms the air becomes rarefied, and, as the atmosphere
+is disturbed to some distance beyond the actual circle of gyration
+or limits of the storm, the barometer often sinks some hours
+before its arrival, from the original cause of the rotatory disturbance.
+It continues sinking under the first half of the hurricane,
+is at a maximum sometimes of two inches in the centre of
+gyration, and again rises during the passage of the latter half,
+though it does not attain its greatest height till the storm is over.
+The diminution of atmospheric pressure is greater and extends
+over a wider area in the temperate zones than in the torrid, on
+account of the sudden expansion of the circle of rotation when
+the gale crosses the tropic.
+As the fall of the barometer gives warning of the approach of
+a hurricane, so the laws of the storm’s motion afford the seaman
+knowledge to guide him in avoiding it. In the northern
+128temperate zone, if the gale begins from the S.E. and veers by S.
+to W., the ship should steer to the S.E.; but, if the gale begins
+from the N.E., and changes through N. to N.W., the vessel
+should go to the N.W. In the northern part of the torrid zone,
+if the storm begin from the N.E., and veer through E. to S.E.,
+the ship should steer to the N.E.; but, if it begin from the N.W.,
+and veer by W. to S.W., the ship should steer to the S.W.,
+because she is in the south-western side of the storm. Since the
+laws of storms are reversed in the southern hemisphere, the rules
+for steering vessels are necessarily reversed also. A heavy swell
+is peculiarly characteristic of these storms. In the open sea the
+swell often extends many leagues beyond the range of the gale
+which produced it.
+Waterspouts are occasioned by small whirlwinds, which always
+have their origin at a great distance from that part of the sea
+from which the spout begins to rise, where it is generally calm.
+The whirl is produced by two currents of air, which, running in
+opposite directions, compress one another by their impetus, so
+that they rise in spiral eddies to the clouds. They move slowly
+along the surface of the sea, sometimes in vertical, and sometimes
+in twisted spirals, putting the sea into violent agitation as
+they pass, and carrying the water aloft by the force of gyration.
+Occasionally the eddies begin in the clouds and dip down to
+the sea.</div></body></text></TEI>

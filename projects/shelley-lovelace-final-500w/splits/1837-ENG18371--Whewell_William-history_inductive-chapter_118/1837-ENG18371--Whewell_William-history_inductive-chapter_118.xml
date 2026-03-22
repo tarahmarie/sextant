@@ -1,0 +1,682 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="118">CHAPTER IV.
+The Reform of Linnæus.
+
+Sect. 1.—Introduction of the
+Reform.
+ALTHOUGH, perhaps, no man of
+science ever exercised a greater sway than Linnæus, or had more
+enthusiastic admirers, the most intelligent botanists always speak of
+him, not as a great discoverer, but as a judicious and strenuous
+Reformer. Indeed, in his own lists of botanical writers, he
+places himself among the “Reformatores;” and it is apparent that this
+is the nature of his real claim to admiration; for the doctrine of the
+sexes of plants, even if he had been the first to establish it, was a
+point of botanical physiology, a province of the 388 science which no one
+would select as the peculiar field of Linnæus’s glory; and the
+formation of a system of arrangement on the basis of this doctrine,
+though attended with many advantages, was not an improvement of any
+higher order than those introduced by Ray and Tournefort. But as a
+Reformer of the state of Natural History in his time, Linnæus was
+admirable for his skill, and unparalleled in his success. And we have
+already seen, in the instance of the reform of mineralogy, as
+attempted by Mohs and Berzelius, that men of great talents and
+knowledge may fail in such an undertaking.
+It is, however, only by means of the knowledge which he displays,
+and of the beauty and convenience of the improvements which he
+proposes, that any one can acquire such an influence as to procure his
+suggestions to be adopted. And even if original circumstances of birth
+or position could invest any one with peculiar prerogatives and powers
+in the republic of science, Karl Linné began his career with no such
+advantages. His father was a poor curate in Smaland, a province of
+Sweden; his boyhood was spent in poverty and privation; it was with
+great difficulty that, at the age of twenty-one, he contrived to
+subsist at the University of Upsal, whither a strong passion for
+natural history had urged him. Here, however, he was so far fortunate,
+that Olaus Rudbeck, the professor of botany, committed to him the care
+of the Botanic Garden.86 The perusal of the works of Vaillant
+and Patrick Blair suggested to him the idea of an arrangement of
+plants, formed upon the sexual organs, the stamens and pistils; and of
+such an arrangement he published a sketch in 1731, at the age of
+twenty-four.
+86 Sprengel, ii. 232.
+But we must go forwards a few years in his life, to come to the
+period to which his most important works belong. University and family
+quarrels induced him to travel; and, after various changes of scene,
+he was settled in Holland, as the curator of the splendid botanical
+garden of George Clifford, an opulent banker. Here it was87 that he laid the foundation of his
+future greatness. In the two years of his residence at Hartecamp, he published nine works. The first, the
+Systema Naturæ, which contained a comprehensive sketch of the
+whole domain of Natural History, excited general astonishment, by the
+acuteness of the observations, the happy talent of combination, and
+the clearness of the systematic views. Such a work could not fail to
+procure considerable respect for its author. His Hortus
+Cliffortiana 389 and Musa Cliffortiana added to
+this impression. The weight which he had thus acquired, he proceeded
+to use for the improvement of botany. His Fundamenta Botanica
+and Bibliotheca Botanica appeared in 1736; his Critica
+Botanica and Genera Plantarum in 1737; his Classes
+Plantarum in 1738; his Species Plantarum was not published
+till 1753; and all these works appeared in many successive editions,
+materially modified.
+87 Ibid. 234.
+This circulation of his works showed that his labors were producing
+their effect. His reputation grew; and he was soon enabled to exert a
+personal, as well as a literary, influence, on students of natural
+history. He became Botanist Royal, President of the Academy of
+Sciences at Stockholm, and Professor in the University of Upsal; and
+this office he held for thirty-six years with unrivalled credit;
+exercising, by means of his lectures, his constant publications, and
+his conversation, an extraordinary power over a multitude of zealous
+naturalists, belonging to every part of the world.
+In order to understand more clearly the nature and effect of the
+reforms introduced by Linnæus into botany, I shall consider them under
+the four following heads;—Terminology,
+Nomenclature, Artificial System, and Natural
+System.
+Sect. 2.—Linnæan Reform of Botanical
+Terminology.
+It must be recollected that I
+designate as Terminology, the system of terms employed
+in the description of objects of natural history; while by
+Nomenclature, I mean the collection of the names of
+species. The reform of the descriptive part of botany was one
+of the tasks first attempted by Linnæus; and his terminology was the
+instrument by which his other improvements were effected.
+Though most readers, probably, entertain, at first, a persuasion
+that a writer ought to content himself with the use of common words in
+their common sense, and feel a repugnance to technical terms and
+arbitrary rules of phraseology, as pedantic and troublesome; it is
+soon found, by the student of any branch of science that, without
+technical terms and fixed rules, there can be no certain or
+progressive knowledge. The loose and infantine grasp of common
+language cannot hold objects steadily enough for scientific
+examination, or lift them from one stage of generalization to another.
+They must be secured by the rigid mechanism of a scientific
+phraseology. This necessity had been felt in all the sciences, from
+the earliest periods of their progress. But the 390 conviction had never
+been acted upon so as to produce a distinct and adequate descriptive
+botanical language. Jung, indeed,88 had already
+attempted to give rules and precepts which should answer this purpose;
+but it was not till the Fundamenta Botanica appeared, that the
+science could be said to possess a fixed and complete terminology.
+88 Isagoge Phytoscopica,
+1679.
+To give an account of such a terminology, is, in fact, to give a
+description of a dictionary and grammar, and is therefore what cannot
+here be done in detail. Linnæus’s work contains about a thousand terms
+of which the meaning and application are distinctly explained; and
+rules are given, by which, in the use of such terms, the botanist may
+avoid all obscurity, ambiguity, unnecessary prolixity and complexity,
+and even inelegance and barbarism. Of course the greater part of the
+words which Linnæus thus recognized had previously existed in
+botanical writers; and many of them had been defined with technical
+precision. Thus Jung89 had already explained what was a
+composite, what a pinnate leaf; what kind of a bunch of
+flowers is a spike, a panicle, an umbel, a
+corymb, respectively. Linnæus extended such distinctions,
+retaining complete clearness in their separation. Thus, with him,
+composite leaves are further distinguished as digitate,
+pinnate, bipinnate, pedate, and so on; pinnate
+leaves are abruptly so, or with an odd one, or with a
+tendril; they are pinnate oppositely, alternately,
+interruptedly, articulately, decursively. Again,
+the inflorescence, as the mode of assemblage of the flowers is
+called, may be a tuft (fasciculus), a head (capitulum),
+a cluster (racemus), a bunch (thyrsus), a
+panicle, a spike, a catkin (amentum), a
+corymb, an umbel, a cyme, a whorl
+(verticillus). And the rules which he gives, though often apparently
+arbitrary and needless, are found, in practice, to be of great service
+by their fixity and connexion. By the good fortune of having had a
+teacher with so much delicacy of taste as Linnæus, in a situation of
+so much influence, Botany possesses a descriptive language which will
+long stand as a model for all other subjects.
+89 Sprengel, ii. 28.
+It may, perhaps, appear to some persons, that such a terminology as
+we have here described must be enormously cumbrous; and that, since
+the terms are arbitrarily invested with their meaning, the invention
+of them requires no knowledge of nature. With respect to the former
+doubt, we may observe, that technical description is, in reality, the
+only description which is clearly intelligible; but that technical
+language cannot be understood without being learnt as any other 391 language is learnt;
+that is, the reader must connect the terms immediately with his own
+sensations and notions, and not mediately, through a verbal
+explanation; he must not have to guess their meaning, or to discover
+it by a separate act of interpretation into more familiar language as
+often as they occur. The language of botany must be the botanist’s
+most familiar tongue. When the student has thus learnt to
+think in botanical language, it is no idle distinction to
+tell him that a bunch of grapes is not a cluster;
+that is, a thyrsus not a raceme. And the terminology
+of botany is then felt to be a useful implement, not an oppressive
+burden. It is only the schoolboy that complains of the irksomeness of
+his grammar and vocabulary. The accomplished student possesses them
+without effort or inconvenience.
+As to the other question, whether the construction of such a
+botanical grammar and vocabulary implies an extensive and accurate
+acquaintance with the facts of nature, no one can doubt who is
+familiar with any descriptive science. It is true, that a person might
+construct an arbitrary scheme of distinctions and appellations, with
+no attention to natural objects; and this is what shallow and
+self-confident persons often set about doing, in some branch of
+knowledge with which they are imperfectly acquainted. But the
+slightest attempt to use such a phraseology leads to confusion; and
+any continued use of it leads to its demolition. Like a garment which
+does not fit us, if we attempt to work in it we tear it in pieces.
+The formation of a good descriptive language is, in fact, an
+inductive process of the same kind as those which we have already
+noticed in the progress of natural history. It requires the
+discovery of fixed characters, which discovery is to be marked
+and fixed, like other inductive steps, by appropriate technical
+terms. The characters must be so far fixed, that the things which
+they connect must have a more permanent and real association than the
+things which they leave unconnected. If one bunch of grapes were
+really a racemus, and another a thyrsus, according to the definition
+of these terms, this part of the Linnæan language would lose its
+value; because it would no longer enable us to assert a general
+proposition with respect to one kind of plants.
+Sect. 3.—Linnæan Reform of Botanical
+Nomenclature.
+In the ancient writers each
+recognized kind of plants had a distinct name. The establishment of
+Genera led to the practice of designating 392 Species by the name of the genus, with
+the addition of a “phrase” to distinguish the species. These phrases,
+(expressed in Latin in the ablative case,) were such as not only to
+mark, but to describe the species, and were intended to contain such
+features of the plant as were sufficient to distinguish it from others
+of the same genus. But in this way the designation of a plant often
+became a long and inconvenient assemblage of words. Thus different
+kinds of Rose were described as,
+
+Rosa campestris, spinis carens, biflora (Rosa alpina.)
+Rosa aculeata, foliis odoratis subtus rubiginosis (R.
+eglanteria.)
+Rosa carolina fragrans, foliis medio tenus serratis (R.
+carolina.)
+Rosa sylvestris vulgaris, flore odorato incarnato (R.
+canina.)
+And several others. The prolixity of these
+appellations, their variety in every different author, the
+insufficiency and confusion of the distinctions which they contained,
+were felt as extreme inconveniences. The attempt of Bauhin to remedy
+this evil by a Synonymy, had, as we have seen, failed at the time, for want of any
+directing principle; and was become still more defective by the lapse
+of years and the accumulation of fresh knowledge and new books. Haller
+had proposed to distinguish the species of each genus by the numbers
+1, 2, 3, and so on; but botanists found that their memory could not
+deal with such arbitrary abstractions. The need of some better
+nomenclature was severely felt.
+The remedy which Linnæus finally introduced was the use of
+trivial names; that is, the designation of each species by the
+name of the genus along with a single conventional word,
+imposed without any general rule. Such names are added above in
+parentheses, to the specimens of the names previously in use. But
+though this remedy was found to be complete and satisfactory, and is
+now universally adopted in every branch of natural history, it was not
+one of the reforms which Linnæus at first proposed. Perhaps he did not
+at first see its full value; or, if he did, we may suppose that it
+required more self-confidence than he possessed, to set himself to
+introduce and establish ten thousand new names in the botanical world.
+Accordingly, the first attempts of Linnæus at the improvement of the
+nomenclature of botany were, the proposal of fixed and careful rules
+for the generic name, and for the descriptive phrase. Thus, in his
+Critica Botanica, he gives many precepts concerning the
+selection of the names of 393 genera, intended to secure convenience
+or elegance. For instance, that they are to be single words;90 he substitutes atropa for
+bella donna, and leontodon for dens leonis; that
+they are not to depend upon the name of another genus,91 as acriviola,
+agrimonoides; that they are not92 to be
+“sesquipedalia;” and, says he, any word is sesquipedalian to me, which
+has more than twelve letters, as kalophyllodendron, for which
+he substitutes calophyllon. Though some of these rules may seem
+pedantic, there is no doubt that, taken altogether, they tend
+exceedingly, like the labors of purists in other languages, to exclude
+extravagance, caprice, and barbarism in botanical speech.
+90 Phil. Bot. 224.
+91 Ib. 228, 229.
+92 Ib. 252.
+The precepts which he gives for the matter of the “descriptive
+phrase,” or, as it is termed in the language of the Aristotelian
+logicians, the “differentia,” are, for the most part, results of the
+general rule, that the most fixed characters which can be found are to
+be used; this rule being interpreted according to all the knowledge of
+plants which had then been acquired. The language of the rules was, of
+course, to be regulated by the terminology, of which we have already
+spoken.
+Thus, in the Critica Botanica, the name of a plant is
+considered as consisting of a generic word and a specific phrase; and
+these are, he says,93 the right and left hands of the plant.
+But he then speaks of another kind of name; the trivial name,
+which is opposed to the scientific. Such names were, he says,94 those of his predecessors, and
+especially of the most ancient of them. Hitherto95 no rules had
+been given for their use. He manifestly, at this period, has small
+regard for them. “Yet,” he says, “trivial names may, perhaps, be used
+on this account,—that the differentia often turns out too
+long to be convenient in common use, and may require change as new
+species are discovered. However,” he continues, “in this work we set
+such names aside altogether, and attend only to the
+differentiæ.”
+93 Ib. 266.
+94 Ib. 261.
+95 Ib. 260.
+Even in the Species Plantarum, the work which gave general
+currency to these trivial names, he does not seem to have yet dared to
+propose so great a novelty. They only stand in the margin of the work.
+“I have placed them there,” he says in his Preface, “that, without
+circumlocution, we may call every herb by a single name; I have done
+this without selection, which would require more time. And I beseech
+all sane botanists to avoid most religiously ever 394 proposing a trivial
+name without a sufficient specific distinction, lest the science
+should fall into its former barbarism.”
+It cannot be doubted, that the general reception of these trivial
+names of Linnæus, as the current language among botanists, was due, in
+a very great degree, to the knowledge, care, and skill with which his
+characters, both of genera and of species, were constructed. The
+rigorous rules of selection and expression which are proposed in the
+Fundamenta Botanica and Critica Botanica, he himself
+conformed to; and this scrupulosity was employed upon the results of
+immense labor. “In order that I might make myself acquainted with the
+species of plants,” he says, in the preface to his work upon them, “I
+have explored the Alps of Lapland, the whole of Sweden, a part of
+Norway, Denmark, Germany, Belgium, England, France: I have examined
+the Botanical Gardens of Paris, Oxford, Chelsea, Hartecamp, Leyden, Utrecht, Amsterdam, Upsal, and
+others: I have turned over the Herbals of Burser, Hermann, Clifford,
+Burmann, Oldenland, Gronovius, Royer, Sloane, Sherard, Bobart, Miller,
+Tournefort, Vaillant, Jussieu, Surian, Beck, Brown, &c.: my dear disciples
+have gone to distant lands, and sent me plants from thence;  Kalm to Canada, Hasselquist to Egypt,  Osbeck to China, Toren to Surat, Solander to
+England, Alstrœmer to Southern Europe, Martin to Spitzbergen, Pontin
+to Malabar, Kœhler to Italy, Forskähl to the East, Lœfling to Spain,
+Montin to Lapland: my botanical friends have sent me many seeds and
+dried plants from various countries: Lagerström many from the East
+Indies; Gronovius most of the Virginian; Gmelin all the Siberian;
+Burmann those of the Cape.” And in consistency with this habit of
+immense collection of materials, is his maxim,96 that “a person
+is a better botanist in proportion as he knows more species.” It will
+easily be seen that this maxim, like Newton’s declaration that
+discovery requires patient thought alone, refers only to the exertions
+of which the man of genius is conscious; and leaves out of sight his
+peculiar endowments, which he does not see because they are part of
+his power of vision. With the taste for symmetry which dictated the
+Critica Botanica, and the talent for classification which
+appears in the Genera Plantarum, and the Systema Naturæ,
+a person must undoubtedly rise to higher steps of classificatory
+knowledge and skill, as he became acquainted with a greater number of
+facts.
+96 Phil. Bot. 259.
+The acknowledged superiority of Linnæus in the knowledge of the
+395 matter of his
+science, induced other persons to defer to him in what concerned its
+form; especially when his precepts were, for the most part,
+recommended strongly both by convenience and elegance. The trivial
+names of the Species Plantarum were generally received; and
+though some of the details may have been altered, the immense
+advantage of the scheme ensures its permanence.
+Sect. 4.—Linnæus’s Artificial System.
+We have already seen, that,
+from the time of Cæsalpinus, botanists had been endeavoring to frame a
+systematic arrangement of plants. All such arrangements were
+necessarily both artificial and natural: they were artificial,
+inasmuch as they depended upon assumed principles, the number, form,
+and position of certain parts, by the application of which the whole
+vegetable kingdom was imperatively subdivided; they were
+natural, inasmuch as the justification of this division was,
+that it brought together those plants which were naturally related. No
+system of arrangement, for instance, would have been tolerated which,
+in a great proportion of cases, separated into distant parts of the
+plan the different species of the same genus. As far as the main body
+of the genera, at least, all systems are natural.
+But beginning from this line, we may construct our systems with two
+opposite purposes, according as we endeavor to carry our assumed
+principle of division rigorously and consistently through the system,
+or as we wish to associate natural families of a wider kind than
+genera. The former propensity leads to an artificial, the latter to a
+natural method. Each is a System of Plants; but in the first,
+the emphasis is thrown on the former word of the title, in the other,
+on the latter.
+The strongest recommendation of an artificial system, (besides its
+approaching to a natural method,) is, that it shall be capable of easy
+use; for which purpose, the facts on which it depends must be apparent
+in their relations, and universal in their occurrence. The system of
+Linnæus, founded upon the number, position, and other circumstances of
+the stamina and pistils, the reproductive organs of the plants,
+possessed this merit in an eminent degree, as far as these characters
+are concerned; that is, as far as the classes and orders. In its
+further subdivision into genera, its superiority was mainly due to the
+exact observation and description, which we have already had to notice
+as talents which Linnæus peculiarly possessed.
+The Linnæan system of plants was more definite than that of 396 Tournefort, which was
+governed by the corolla; for number is more definite than irregular
+form. It was more readily employed than any of those which depend on
+the fruit, for the flower is a more obvious object, and more easily
+examined. Still, it can hardly be doubted, that the circumstance which
+gave the main currency to the system of Linnæus was its physiological
+signification: it was the Sexual System. The relation of the
+parts to which it directed the attention, interested both the
+philosophical faculty and the imagination. And when, soon after the
+system had become familiar in our own country, the poet of The
+Botanic Garden peopled the bell of every flower with “Nymphs” and
+“Swains,” his imagery was felt to be by no means forced and
+far-fetched.
+The history of the doctrine of the sexes of plants, as a point of
+physiology, does not belong to this place; and the Linnæan system of
+classification need not be longer dwelt upon for our present purpose.
+I will only explain a little further what has been said, that it is,
+up to a certain point, a natural system. Several of Linnæus’s classes
+are, in a great measure, natural associations, kept together in
+violation of his own artificial rules. Thus the class
+Diadelphia, in which, by the system, the filaments of the
+stamina should be bound together in two parcels, does, in fact,
+contain many genera which are monadelphous, the filaments of
+the stamina all cohering so as to form one bundle only; as in
+Genista, Spartium, Anthyllis, Lupinus,
+&c. And why is this violation of rule? Precisely because these
+genera all belong to the natural tribe of Papilionaceous plants, which
+the author of the system could not prevail upon himself to tear
+asunder. Yet in other cases Linnæus was true to his system, to the
+injury of natural alliances, as he was, for instance, in another
+portion of this very tribe of Papilionaceæ; for there are
+plants which undoubtedly belong to the tribe, but which have ten
+separate stamens; and these he placed in the order Decandria.
+Upon the whole, however, he inclines rather to admit transgression of
+art than of nature.
+The reason of this inclination was, that he rightly considered an
+artificial method as instrumental to the investigation of a natural
+one; and to this part of his views we now proceed.
+Sect. 5.—Linnæus’s Views on a Natural
+Method.
+The admirers of Linnæus, the
+English especially, were for some time in the habit of putting his
+Sexual System in opposition to the Natural Method, which about the
+same time was attempted in France. And 397 as they often appear to have imagined
+that the ultimate object of botanical methods was to know the name of
+plants, they naturally preferred the Swedish method, which is
+excellent as a finder. No person, however, who wishes to know
+botany as a science, that is, as a body of general truths, can be
+content with making names his ultimate object. Such a person will be
+constantly and irresistibly led on to attempt to catch sight of the
+natural arrangement of plants, even before he discovers, as he will
+discover by pursuing such a course of study, that the knowledge of the
+natural arrangement is the knowledge of the essential construction and
+vital mechanism of plants. He will consider an artificial method as a
+means of arriving at a natural method. Accordingly, however much some
+of his followers may have overlooked this, it is what Linnæus himself
+always held and taught. And though what he executed with regard to
+this object was but little,97 the distinct
+manner in which he presented the relations of an artificial and
+natural method, may justly be looked upon as one of the great
+improvements which he introduced into the study of his science.
+97 The natural orders which he
+proposed are a bare enumeration of genera, and have not been generally
+followed.
+Thus in the Classes Plantarum (1747), he speaks of the
+difficulty of the task of discovering the natural orders, and of the
+attempts made by others. “Yet,” he adds, “I too have labored at this,
+have done something, have much still to do, and shall labor at the
+object as long as I live.” He afterwards proposed sixty-seven orders,
+as the fragments of a natural method, always professing their
+imperfection.98 And in others of his works99 he lays down some antitheses on the
+subject after his manner. “The natural orders teach us the nature of
+plants; the artificial orders enable us to recognize plants. The
+natural orders, without a key, do not constitute a Method; the Method
+ought to be available without a master.”
+98 Phil. Bot. p. 80.
+99 Genera Plantarum, 1764. See
+Prælect. in Ord. Nat. p. xlviii.
+That extreme difficulty must attend the formation of a Natural
+Method, may be seen from the very indefinite nature of the Aphorisms
+upon this subject which Linnæus has delivered, and which the best
+botanists of succeeding times have assented to. Such are
+these;—the Natural Orders must be formed by attention, not to
+one or two, but to all the parts of plants;—the same
+organs are of great importance in regulating the divisions of one part
+of the system, and 398 of small importance in another part;100—the Character does not
+constitute the Genus, but the Genus the Character;—the Character
+is necessary, not to make the Genus, but to recognize it. The
+vagueness of these maxims is easily seen; the rule of attending to all
+the parts, implies, that we are to estimate their relative importance,
+either by physiological considerations (and these again lead to
+arbitrary rules, as, for instance, the superiority of the function of
+nutrition to that of reproduction), or by a sort of latent naturalist
+instinct, which Linnæus in some passages seems to recognize. “The
+Habit of a plant,” he says,101 “must be
+secretly consulted. A practised botanist will distinguish, at the
+first glance, the plants of different quarters of the globe, and yet
+will be at a loss to tell by what mark he detects them. There is, I
+know not what look,—sinister, dry, obscure in African plants;
+superb and elevated, in the Asiatic; smooth and cheerful, in the
+American; stunted and indurated, in the Alpine.”
+100 Phil. Bot. p. 172.
+101 Ib. p. 171.
+Again, the rule that the same parts are of very different value in
+different Orders, not only leaves us in want of rules or reasons which
+may enable us to compare the marks of different Orders, but destroys
+the systematic completeness of the natural arrangement. If some of the
+Orders be regulated by the flower and others by the fruit, we may have
+plants, of which the flower would place them in one Order, and the
+fruit in another. The answer to this difficulty is the maxim already
+stated;—that no Character makes the Order; and that if a
+Character do not enable us to recognize the Order, it does not answer
+its purpose, and ought to be changed for another.
+This doctrine, that the Character is to be employed as a servant
+and not as a master, was a stumbling-block in the way of those
+disciples who looked only for dogmatical and universal rules. One of
+Linnæus’s pupils, Paul Dietrich Giseke, has given us a very lively
+account of his own perplexity on having this view propounded to him,
+and of the way in which he struggled with it. He had complained of the
+want of intelligible grounds, in the collection of natural orders
+given by Linnæus. Linnæus102 wrote in
+answer, “You ask me for the characters of the Natural Orders: I
+confess I cannot give them.” Such a reply naturally increased Giseke’s
+difficulties. But afterwards, in 1771, he had the good fortune to
+spend some time at Upsal; and he narrates a conversation which he held
+with the great 399
+teacher on this subject, and which I think may serve to show the
+nature of the difficulty;—one by no means easily removed, and by
+the general reader, not even readily comprehended with distinctness.
+Giseke began by conceiving that an Order must have that
+attribute from which its name is derived;—that the
+Umbellatæ must have their flower disposed in an umbel. The
+“mighty master” smiled,103 and told him not to look at names, but
+at nature. “But” (said the pupil) “what is the use of the name, if it
+does not mean what it professes to mean?” “It is of small import”
+(replied Linnæus) “what you call the Order, if you
+take a proper series of plants and give it some name, which is clearly
+understood to apply to the plants which you have associated. In such
+cases as you refer to, I followed the logical rule, of borrowing a
+name a potiori, from the principal member. Can you” (he added)
+“give me the character of any single Order?” Giseke. “Surely,
+the character of the Umbellatæ is, that they have an umbel?”
+Linnæus. “Good; but there are plants which have an umbel, and
+are not of the Umbellatæ.” G. “I remember. We must
+therefore add, that they have two naked seeds.” L. “Then,
+Echinophora, which has only one seed, and Eryngium,
+which has not an umbel, will not be Umbellatæ; and yet they are
+of the Order.” G. “I would place Eryngium among the
+Aggregatæ. L. “No; both are beyond dispute
+Umbellatæ. Eryngium has an involucrum, five stamina, two
+pistils, &c. Try again for your Character.” G. “I would
+transfer such plants to the end of the Order, and make them form the
+transition to the next Order. Eryngium would connect the
+Umbellatæ with the Aggregatæ.” L. “Ah! my good
+friend, the Transition from Order to Order is one thing; the
+Character of an Order is another. The Transitions I could
+indicate; but a Character of a Natural Order is impossible. I will not
+give my reasons for the distribution of Natural Orders which I have
+published. You or some other person, after twenty or after fifty
+years, will discover them, and see I was in the right.”
+102 Linnæi Prælectiones,
+Pref. p. xv.
+103 “Subrisit ὁ πανυ.”
+I have given a portion of this curious conversation in order to
+show that the attempt to establish Natural Orders leads to convictions
+which are out of the domain of the systematic grounds on which they
+profess to proceed. I believe the real state of the case to be that
+the systematist, in such instances, is guided by an unformed and
+undeveloped apprehension of physiological functions. The ideas of the
+form, 400 number,
+and figure of parts are, in some measure, overshadowed and superseded
+by the rising perception of organic and vital relations; and the
+philosopher who aims at a Natural Method, while he is endeavoring
+merely to explore the apartment in which he had placed himself, that
+of Arrangement, is led beyond it, to a point where another light
+begins, though dimly, to be seen; he is brought within the influence
+of the ideas of Organization and Life.
+The sciences which depend on these ideas will be the subject of our
+consideration hereafter. But what has been said may perhaps serve to
+explain the acknowledged and inevitable imperfection of the
+unphysiological Linnæan attempts towards a natural method. “Artificial
+Glasses are,” Linnæus says, “a substitute for Natural, till Natural
+are detected.” But we have not yet a Natural Method. “Nor,” he says,
+in the conversation above cited, “can we have a Natural Method; for a
+Natural Method implies Natural Classes and Orders; and these Orders
+must have Characters.” “And they,” he adds in another place,104 “who, though they cannot obtain a
+complete Natural Method, arrange plants according to the fragments of
+such a method, to the rejection of the Artificial, seem to me like
+persons who pull down a convenient vaulted room, and set about
+building another, though they cannot turn the vault which is to cover
+it.”
+104 Gen. Plant. in Prælect.
+p. xii.
+How far these considerations deterred other persons from turning
+their main attention to a natural method, we shall shortly see; but in
+the mean time, we must complete the history of the Linnæan Reform.
+Sect. 6.—Reception and Diffusion of the Linnæan
+Reform.
+We have already seen that
+Linnæus received, from his own country, honors and emoluments which
+mark his reputation as established, as early as 1740; and by his
+publications, his lectures, and his personal communications, he soon
+drew round him many disciples, whom he impressed strongly with his own
+doctrines and methods. It would seem that the sciences of
+classification tend, at least in modern times more than other
+sciences, to collect about the chair of the teacher a large body of
+zealous and obedient pupils; Linnæus and Werner were by far the most
+powerful heads of schools of any men who appeared in the course of the
+last century. Perhaps one reason of this is, that in these sciences,
+consisting of such an enormous multitude of species, of descriptive
+401 particulars,
+and of previous classifications, the learner is dependent upon the
+teacher more completely, and for a longer time than in other subjects
+of speculation: he cannot so soon or so easily cast off the aid and
+influence of the master, to pursue reasonings and hypotheses of his
+own. Whatever the cause may be, the fact is, that the reputation and
+authority of Linnæus, in the latter part of his life, were immense. He
+enjoyed also royal favor, for the King and Queen of Sweden were both
+fond of natural history. In 1753, Linnæus received from the hand of
+his sovereign the knighthood of the Polar Star, an honor which had
+never before been conferred for literary merit; and in 1756, was
+raised to the rank of Swedish nobility by the title of Von Linné; and
+this distinction was confirmed by the Diet in 1762. He lived, honored
+and courted, to the age of seventy-one; and in 1778 was buried in the
+cathedral of Upsal, with many testimonials of public respect and
+veneration.
+De Candolle105 assigns, as the causes of the
+successes of the Linnæan system,—the specific names,—the
+characteristic phrase,—the fixation of descriptive
+language,—the distinction of varieties and species,—the
+extension of the method to all the kingdoms of nature,—and the
+practice of introducing into it the species most recently discovered.
+This last course Linnæus constantly pursued; thus making his works the
+most valuable for matter, as they were the most convenient in form.
+The general diffusion of his methods over Europe may be dated,
+perhaps, a few years after 1760, when the tenth and the succeeding
+editions of the Systema Naturæ were in circulation, professing
+to include every species of organized beings. But his pupils and
+correspondents effected no less than his books, in giving currency to
+his system. In Germany,106 it was defended by Ludwig, Gesner,
+Fabricius. But Haller, whose reputation in physiology was as great as
+that of Linnæus in methodology, rejected it as too merely artificial.
+In France, it did not make any rapid or extensive progress: the best
+French botanists were at this time occupied with the solution of the
+great problem of the construction of a Natural Method. And though the
+rhetorician Rousseau charmed, we may suppose, with the elegant
+precision of the Philosophia Botanica, declared it to be the
+most philosophical work he had ever read in his life, Buffon and
+Andanson, describers and philosophers of a more ambitious school, felt
+a repugnance to the rigorous rules, and limited, but finished,
+undertakings of the Swedish naturalist. To resist his 402 criticism and his
+influence, they armed themselves with dislike and contempt.
+105 Théor. Elém. p. 40.
+106 Sprengel, ii. 244.
+In England the Linnæan system was very favorably
+received:—perhaps the more favorably, for being a strictly
+artificial system. For the indefinite and unfinished form which almost
+inevitably clings to a natural method, appears to be peculiarly
+distasteful to our countrymen. It might seem as if the suspense and
+craving which comes with knowledge confessedly incomplete were so
+disagreeable to them, that they were willing to avoid it, at any rate
+whatever; either by rejecting system altogether, or by accepting a
+dogmatical system without reserve. The former has been their course in
+recent times with regard to Mineralogy; the latter was their
+proceeding with respect to the Linnæan Botany. It is in this country
+alone, I believe, that Wernerian and Linnæan Societies have been
+instituted. Such appellations somewhat remind us of the Aristotelian
+and Platonic schools of ancient Greece. In the same spirit it was,
+that the Artificial System was at one time here considered, not as
+subsidiary and preparatory to the Natural Orders, but as opposed to
+them. This was much as if the disposition of an army in a review
+should be considered as inconsistent with another arrangement of it in
+a battle.
+When Linnæus visited England in 1736, Sloane, then the patron of
+natural history in this country, is said to have given him a cool
+reception, such as was perhaps most natural from an old man to a young
+innovator; and Dillenius, the Professor at Oxford, did not accept the
+sexual system. But as Pulteney, the historian of English Botany, says,
+when his works became known, “the simplicity of the classical
+characters, the uniformity of the generic notes, all confined to the
+parts of the fructification, and the precision which marked the
+specific distinctions, merits so new, soon commanded the assent of the
+unprejudiced.”
+Perhaps the progress of the introduction of the Linnæan System into
+England will be best understood from the statement of T. Martyn, who
+was Professor of Botany in the University of Cambridge, from 1761 to
+1825. “About the year 1750,” he says,107 “I was a
+pupil of the school of our great countryman Ray; but the rich vein of
+knowledge, the profoundness and precision, which I remarked everywhere
+in the Philosophia Botanica, (published in 1751,) withdrew me
+from my first master, and I became a decided convert to that system of
+botany which has since been generally received. In 1753, the
+Species 403
+Plantarum, which first introduced the specific names, made me a
+Linnæan completely.” In 1763, he introduced the system in his lectures
+at Cambridge, and these were the first Linnæan lectures in England.
+Stillingfleet had already, in 1757, and Lee, in 1760, called the
+attention of English readers to Linnæus. Sir J. Hill, (the king’s
+gardener at Kew,) in his Flora Britannica, published in 1760,
+had employed the classes and generic characters, but not the
+nomenclature; but the latter was adopted by Hudson, in 1762, in the
+Flora Anglica.
+107 Pref. to Language of
+Botany, 3rd edit. 1807.
+Two young Swedes, pupils of Linnæus, Dryander and Solander, settled
+in England, and were in intimate intercourse with the most active
+naturalists, especially with Sir Joseph Banks, of whom the former was
+librarian, and the latter a fellow-traveller in Cook’s celebrated
+voyage. James Edward Smith was also one of the most zealous disciples
+of the Linnæan school; and, after the death of Linnæus, purchased his
+Herbariums and Collections. It is related,108 as a curious
+proof of the high estimation in which Linnæus was held, that when the
+Swedish government heard of this bargain, they tried, though too late,
+to prevent these monuments of their countryman’s labor and glory being
+carried from his native land, and even went so far as to send a
+frigate in pursuit of the ship which conveyed them to England. Smith
+had, however, the triumph of bringing them home in safety. On his
+death they were purchased by the Linnæan Society. Such relics serve,
+as will easily be imagined, not only to warm the reverence of his
+admirers, but to illustrate his writings: and since they have been in
+this country, they have been the object of the pilgrimage of many a
+botanist, from every part of Europe.
+108 Trapp’s Transl. of Stower’s
+Life of Linnæus, p. 314.
+I have purposely confined myself to the history of the Linnæan
+system in the cases in which it is most easily applicable, omitting
+all consideration of more obscure and disputed kinds of vegetables, as
+ferns, mosses, fungi, lichens, sea-weeds, and the like. The nature and
+progress of a classificatory science, which it is our main purpose to
+bring into view, will best be understood by attending, in the first
+place, to the cases in which such a science has been pursued with the
+most decided success; and the advances which have been made in the
+knowledge of the more obscure vegetables, are, in fact, advances in
+artificial classification, only in as far as they are advances in
+natural classification, and in physiology.
+To these subjects we now proceed. 404</div></body></text></TEI>

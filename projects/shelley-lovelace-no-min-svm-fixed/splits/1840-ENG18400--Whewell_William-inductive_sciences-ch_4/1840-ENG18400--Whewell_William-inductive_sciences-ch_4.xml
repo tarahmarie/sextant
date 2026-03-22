@@ -1,0 +1,1791 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Novum Organon Renovatum</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="11">
+CHAPTER VI.
+Of the Logic of Induction.
+Aphorism XVII.
+The Logic of Induction consists in stating the Facts and
+the Inference in such a manner, that the Evidence of the Inference
+is manifest: just as the Logic of Deduction consists
+in stating the Premises and the Conclusion in such a manner
+that the Evidence of the Conclusion is manifest.
+Aphorism XVIII.
+The Logic of Deduction is exhibited by means of a certain
+Formula; namely, a Syllogism; and every train of deductive
+reasoning, to be demonstrative, must be capable of resolution
+into a series of such Formulæ legitimately constructed. In
+like manner, the Logic of Induction may be exhibited by
+means of certain Formulæ; and every train of inductive
+inference to be sound, must be capable of resolution into a
+scheme of such Formulæ, legitimately constructed.
+Aphorism XIX.
+The inductive act of thought by which several Facts are
+colligated into one Proposition, may be expressed by saying:
+The several Facts are exactly expressed as one Fact, if,
+and only if, we adopt the Conceptions and the Assertion
+of the Proposition.
+Aphorism XX.
+The One Fact, thus inductively obtained from several
+Facts, may be combined with other Facts, and colligated
+with them by a new act of Induction. This process may be 98
+indefinitely repeated: and these successive processes are the
+Steps of Induction, or of Generalization, from the lowest to
+the highest.
+Aphorism XXI.
+The relation of the successive Steps of Induction may be
+exhibited by means of an Inductive Table, in which the
+several Facts are indicated, and tied together by a Bracket,
+and the Inductive Inference placed on the other side of the
+Bracket; and this arrangement repeated, so as to form a
+genealogical Table of each Induction, from the lowest to the
+highest.
+Aphorism XXII.
+The Logic of Induction is the Criterion of Truth inferred
+from Facts, as the Logic of Deduction is the Criterion of
+Truth deduced from necessary Principles. The Inductive
+Table enables us to apply such a Criterion; for we can determine
+whether each Induction is verified and justified by
+the Facts which its Bracket includes; and if each induction
+in particular be sound, the highest, which merely combines
+them all, must necessarily be sound also.
+Aphorism XXIII.
+The distinction of Fact and Theory is only relative.
+Events and phenomena, considered as Particulars which may
+be colligated by Induction, are Facts; considered as Generalities
+already obtained by colligation of other Facts, they are
+Theories. The same event or phenomenon is a Fact or a
+Theory, according as it is considered as standing on one side
+or the other of the Inductive Bracket.
+
+1. THE
+subject to which the present chapter refers
+is described by phrases which are at the present
+day familiarly used in speaking of the progress of
+knowledge. We hear very frequent mention of ascending
+from particular to general propositions, and
+from these to propositions still more general;—of 99
+truths included in other truths of a higher degree of
+generality;—of different stages of generalization;—and
+of the highest step of the process of discovery, to
+which all others are subordinate and preparatory. As
+these expressions, so familiar to our ears, especially
+since the time of Francis Bacon, denote, very significantly,
+processes and relations which are of great importance in
+the formation of science, it is necessary for
+us to give a clear account of them, illustrated with
+general exemplifications; and this we shall endeavour
+to do.
+We have, indeed, already explained that science consists
+of Propositions which include the Facts from which
+they were collected; and other wider Propositions, collected
+in like manner from the former, and including
+them. Thus, that the stars, the moon, the sun, rise,
+culminate, and set, are facts included in the proposition
+that the heavens, carrying with them all the celestial
+bodies, have a diurnal revolution about the axis of the
+earth. Again, the observed monthly motions of the
+moon, and the annual motions of the sun, are included
+in certain propositions concerning the movements of
+those luminaries with respect to the stars. But all
+these propositions are really included in the doctrine
+that the earth, revolving on its axis, moves round the
+sun, and the moon round the earth. These movements, again,
+considered as facts, are explained and
+included in the statement of the forces which the earth
+exerts upon the moon, and the sun upon the earth.
+Again, this doctrine of the forces of these three bodies
+is included in the assertion, that all the bodies of the
+solar system, and all parts of matter, exert forces, each
+upon each. And we might easily show that all the
+leading facts in astronomy are comprehended in the
+same generalization. In like manner with regard to
+any other science, so far as its truths have been well
+established and fully developed, we might show that it
+consists of a gradation of propositions, proceeding from
+the most special facts to the most general theoretical
+assertions. We shall exhibit this gradation in some of
+the principal branches of science. 100
+2. This gradation of truths, successively included
+in other truths, may be conveniently represented by
+Tables resembling the genealogical tables by which the
+derivation of descendants from a common ancestor is
+exhibited; except that it is proper in this case to invert
+the form of the Table, and to make it converge to
+unity downwards instead of upwards, since it has for
+its purpose to express, not the derivation of many from
+one, but the collection of one truth from many things.
+Two or more co-ordinate facts or propositions may be
+ranged side by side, and joined by some mark of connexion,
+(a bracket, as ⏟ or ⎵,) beneath
+which may be placed the more general proposition
+which is collected by induction from the former. Again,
+propositions co-ordinate with this more general one
+may be placed on a level with it; and the combination
+of these, and the result of the combination, may be
+indicated by brackets in the same manner; and so on,
+through any number of gradations. By this means
+the streams of knowledge from various classes of facts
+will constantly run together into a smaller and smaller
+number of channels; like the confluent rivulets of a
+great river, coming together from many sources, uniting
+their ramifications so as to form larger branches, these
+again uniting in a single trunk. The genealogical tree
+of each great portion of science, thus formed, will
+contain all the leading truths of the science arranged
+in their due co-ordination and subordination. Such
+Tables, constructed for the sciences of Astronomy and
+of Optics, will be given at the end of this chapter.
+3. The union of co-ordinate propositions into a proposition
+of a higher order, which occurs in this Tree of
+Science wherever two twigs unite in one branch, is, in
+each case, an example of Induction. The single proposition
+is collected by the process of induction from
+its several members. But here we may observe, that
+the image of a mere union of the parts at each of these
+points, which the figure of a tree or a river presents, is
+very inadequate to convey the true state of the case;
+for in Induction, as we have seen, besides mere collection
+of particulars, there is always a new conception, a 101
+principle of connexion and unity, supplied by the
+mind, and superinduced upon the particulars. There
+is not merely a juxta-position of materials, by which
+the new proposition contains all that its component
+parts contained; but also a formative act exerted by
+the understanding, so that these materials are contained
+in a new shape. We must remember, therefore, that our
+Inductive Tables, although they represent the elements
+and the order of these inductive
+steps, do not fully represent the whole signification of
+the process in each case.
+4. The principal features of the progress of science
+spoken of in the last chapter are clearly exhibited in
+these Tables; namely, the Consilience of Inductions
+and the constant Tendency to Simplicity observable in
+true theories. Indeed in all cases in which, from
+propositions of considerable generality, propositions of a
+still higher degree are obtained, there is a convergence
+of inductions; and if in one of the lines which thus
+converge, the steps be rapidly and suddenly made in
+order to meet the other line, we may consider that we
+have an example of Consilience. Thus when Newton
+had collected, from Kepler’s Laws, the Central Force of
+the sun, and from these, combined with other facts,
+the Universal Force of all the heavenly bodies, he
+suddenly turned round to include in his generalization
+the Precession of the Equinoxes, which he declared to
+arise from the attraction of the sun and moon upon
+the protuberant part of the terrestrial spheroid. The
+apparent remoteness of this fact, in its nature, from the
+other facts with which he thus associated it, causes this
+part of his reasoning to strike us as a remarkable example
+of Consilience. Accordingly, in the Table of
+Astronomy we find that the columns which contain
+the facts and theories relative to the sun and planets,
+after exhibiting several stages of induction within
+themselves, are at length suddenly connected with
+a column till then quite distinct, containing the
+precession of the equinoxes. In like manner, in the Table
+of Optics, the columns which contain the facts and
+theories relative to double refraction, and those which
+102 include
+polarization by crystals, each go separately
+through several stages of induction; and then these
+two sets of columns are suddenly connected by Fresnel’s
+mathematical induction, that double refraction and
+polarization arise from the same cause: thus
+exhibiting a remarkable Consilience.
+5. The constant Tendency to Simplicity in the
+sciences of which the progress is thus represented,
+appears from the form of the Table itself; for the
+single trunk into which all the branches converge,
+contains in itself the substance of all the propositions
+by means of which this last generalization was arrived
+at. It is true, that this ultimate result is sometimes
+not so simple as in the Table it appears: for instance,
+the ultimate generalization of the Table exhibiting the
+progress of Physical Optics,—namely, that Light consists
+in Undulations,—must be understood as including some other
+hypotheses; as, that the undulations
+are transverse, that the ether through which they are
+propagated has its elasticity in crystals and other
+transparent bodies regulated by certain laws; and the
+like. Yet still, even acknowledging all the complication
+thus implied, the Table in question evidences
+clearly enough the constant advance towards unity,
+consistency, and simplicity, which have marked the
+progress of this Theory. The same is the case in the
+Inductive Table of Astronomy in a still greater
+degree.
+6. These Tables naturally afford the opportunity of
+assigning to each of the distinct steps of which the
+progress of science consists, the name of the Discoverer
+to whom it is due. Every one of the inductive
+processes which the brackets of our Tables mark,
+directs our attention to some person by whom the induction
+was first distinctly made. These names I
+have endeavoured to put in their due places in the
+Tables; and the Inductive Tree of our knowledge in
+each science becomes, in this way, an exhibition of the
+claims of each discoverer to distinction, and, as it
+were, a Genealogical Tree of scientific nobility. It is
+by no means pretended that such a tree includes the 103
+names of all the meritorious labourers in each department
+of science. Many persons are most usefully
+employed in collecting and verifying truths, who do
+not advance to any new truths. The labours of a
+number of such are included in each stage of our
+ascent. But such Tables as we have now before us
+will present to us the names of all the most eminent
+discoverers: for the main steps of which the progress
+of science consists, are transitions from more particular
+to more general truths, and must therefore be
+rightly given by these Tables; and those must be the
+greatest names in science to whom the principal events
+of its advance are thus due.
+7. The Tables, as we have presented them, exhibit
+the course by which we pass from Particular to General
+through various gradations, and so to the most general.
+They display the order of discovery. But by reading
+them in an inverted manner, beginning at the single
+comprehensive truths with which the Tables end, and
+tracing these back into the more partial truths, and
+these again into special facts, they answer another
+purpose;—they exhibit the process of verification of
+discoveries once made. For each of our general propositions
+is true in virtue of the truth of the narrower
+propositions which it involves; and we cannot satisfy
+ourselves of its truth in any other way than by ascertaining
+that these its constituent elements are true.
+To assure ourselves that the sun attracts the planets
+with forces varying inversely as the square of the distance,
+we must analyse by geometry the motion of a
+body in an ellipse about the focus, so as to see that such
+a motion does imply such a force. We must also verify
+those calculations by which the observed places of each
+planet are stated to be included in an ellipse. These
+calculations involve assumptions respecting the path which
+the earth describes about the sun, which assumptions
+must again be verified by reference to observation. And
+thus, proceeding from step to step, we resolve the most
+general truths into their constituent parts; and these
+again into their parts; and by testing, at each step, both
+the reality of the asserted ingredients and the propriety 104
+of the conjunction, we establish the whole system of
+truths, however wide and various it may be.
+8. It is a very great advantage, in such a mode of
+exhibiting scientific truths, that it resolves the verification
+of the most complex and comprehensive theories,
+into a number of small steps, of which almost any one
+falls within the reach of common talents and industry.
+That if the particulars of any one step be true, the
+generalization also is true, any person with a mind
+properly disciplined may satisfy himself by a little
+study. That each of these particular propositions is
+true, may be ascertained, by the same kind of attention,
+when this proposition is resolved into its constituent
+and more special propositions. And thus we
+may proceed, till the most general truth is broken up
+into small and manageable portions. Of these portions,
+each may appear by itself narrow and easy; and
+yet they are so woven together, by hypothesis and conjunction,
+that the truth of the parts necessarily assures
+us of the truth of the whole. The verification is of
+the same nature as the verification of a large and complex
+statement of great sums received by a mercantile
+office on various accounts from many quarters. The
+statement is separated into certain comprehensive heads,
+and these into others less extensive; and these again
+into smaller collections of separate articles, each of
+which can be inquired into and reported on by separate
+persons. And thus at last, the mere addition of
+numbers performed by these various persons, and the
+summation of the results which they obtain, executed
+by other accountants, is a complete and entire security
+that there is no errour in the whole of the process.
+9. This comparison of the process by which we
+verify scientific truth to the process of Book-keeping
+in a large commercial establishment, may appear to
+some persons not sufficiently dignified for the subject.
+But, in fact, the possibility of giving this formal and
+business-like aspect to the evidence of science, as
+involved in the process of successive generalization, is an
+inestimable advantage. For if no one could pronounce
+concerning a wide and profound theory except he who 105
+could at once embrace in his mind the whole range of
+inference, extending from the special facts up to the
+most general principles, none but the greatest geniuses
+would be entitled to judge concerning the truth or
+errour of scientific discoveries. But, in reality, we
+seldom need to verify more than one or two steps of
+such discoveries at one time; and this may commonly
+be done (when the discoveries have been fully established
+and developed,) by any one who brings to the
+task clear conceptions and steady attention. The progress
+of science is gradual: the discoveries which are
+successively made, are also verified successively. We
+have never any very large collections of them on our
+hands at once. The doubts and uncertainties of any
+one who has studied science with care and perseverance
+are generally confined to a few points. If he can
+satisfy himself upon these, he has no misgivings respecting
+the rest of the structure; which has indeed
+been repeatedly verified by other persons in like manner.
+The fact that science is capable of being resolved
+into separate processes of verification, is that which
+renders it possible to form a great body of scientific
+truth, by adding together a vast number of truths, of
+which many men, at various times and by multiplied
+efforts, have satisfied themselves. The treasury of
+Science is constantly rich and abundant, because it
+accumulates the wealth which is thus gathered by so
+many, and reckoned over by so many more: and the
+dignity of Knowledge is no more lowered by the multiplicity
+of the tasks on which her servants are employed, and the
+narrow field of labour to which some
+confine themselves, than the rich merchant is degraded
+by the number of offices which it is necessary for him
+to maintain, and the minute articles of which he requires
+an exact statement from his accountants.
+10. The analysis of doctrines inductively obtained,
+into their constituent facts, and the arrangement of
+them in such a form that the conclusiveness of the
+induction may be distinctly seen, may be termed the
+Logic of Induction. By Logic has generally been
+meant a system which teaches us so to arrange our 106
+reasonings that their truth or falsehood shall be evident
+in their form. In deductive reasonings, in which
+the general principles are assumed, and the question is
+concerning their application and combination in particular
+cases, the device which thus enables us to judge
+whether our reasonings are conclusive is the Syllogism;
+and this form, along with the rules which belong to it,
+does in fact supply us with a criterion of deductive or
+demonstrative reasoning. The Inductive Table, such
+as it is presented in the present chapter, in like manner
+supplies the means of ascertaining the truth of our
+inductive inferences, so far as the form in which our
+reasoning may be stated can afford such a criterion. Of
+course some care is requisite in order to reduce a train
+of demonstration into the form of a series of syllogisms;
+and certainly not less thought and attention are required
+for resolving all the main doctrines of any great
+department of science into a graduated table of co-ordinate
+and subordinate inductions. But in each
+case, when this task is once executed, the evidence or
+want of evidence of our conclusions appears immediately
+in a most luminous manner. In each step of
+induction, our Table enumerates the particular facts,
+and states the general theoretical truth which includes
+these and which these constitute. The special act of
+attention by which we satisfy ourselves that the facts
+are so included,—that the general truth is so
+constituted,—then affords little room for errour, with
+moderate attention and clearness of thought.
+11. We may find an example of this act of attention
+thus required, at any one of the steps of induction
+in our Tables; for instance, at the step in the early
+progress of astronomy at which it was inferred, that
+the earth is a globe, and that the sphere of the heavens
+(relatively) performs a diurnal revolution round this
+globe of the earth. How was this established in the belief
+of the Greeks, and how is it fixed in our conviction?
+As to the globular form, we find that as we travel to
+the north, the apparent pole of the heavenly motions,
+and the constellations which are near it, seem to mount
+higher, and as we proceed southwards they descend. 107
+Again, if we proceed from two different points considerably
+to the east and west of each other, and travel
+directly northwards from each, as from the south of
+Spain to the north of Scotland, and from Greece to
+Scandinavia, these two north and south lines will be
+much nearer to each other in their northern than in
+their southern parts. These and similar facts, as soon
+as they are clearly estimated and connected in the
+mind, are seen to be consistent with a convex surface of
+the earth, and with no other: and this notion is further
+confirmed by observing that the boundary of the earth’s
+shadow upon the moon is always circular; it being
+supposed to be already established that the moon receives
+her light from the sun, and that lunar eclipses
+are caused by the interposition of the earth. As for
+the assertion of the (relative) diurnal revolution of the
+starry sphere, it is merely putting the visible phenomena
+in an exact geometrical form: and thus we establish and
+verify the doctrine of the revolution of the sphere of
+the heavens about the globe of the earth, by contemplating
+it so as to see that it does really and exactly
+include the particular facts from which it is collected.
+We may, in like manner, illustrate this mode of
+verification by any of the other steps of the same Table.
+Thus if we take the great Induction of Copernicus, the
+heliocentric scheme of the solar system, we find it in the
+Table exhibited as including and explaining, first, the
+diurnal revolution just spoken of; second, the motions
+of the moon among the fixed stars; third, the motions
+of the planets with reference to the fixed stars and the
+sun; fourth, the motion of the sun in the ecliptic.
+And the scheme being clearly conceived, we see that all
+the particular facts are faithfully represented by it;
+and this agreement, along with the simplicity of the
+scheme, in which respect it is so far superior to any
+other conception of the solar system, persuade us that
+it is really the plan of nature.
+In exactly the same way, if we attend to any of the
+several remarkable discoveries of Newton, which form
+the principal steps in the latter part of the Table, as
+for instance, the proposition that the sun attracts all 108
+the planets with a force which varies inversely as the
+square of the distance, we find it proved by its including
+three other propositions previously established;—first,
+that the sun’s mean force on different planets
+follows the specified variation (which is proved from
+Kepler’s third law); second, that the force by which
+each planet is acted upon in different parts of its orbit
+tends to the sun (which is proved by the equable description
+of areas); third, that this force in different
+parts of the same orbit is also inversely as the square
+of the distance (which is proved from the elliptical
+form of the orbit). And the Newtonian generalization,
+when its consequences are mathematically traced,
+is seen to agree with each of these particular propositions,
+and thus is fully established.
+12. But when we say that the more general proposition
+includes the several more particular ones, we
+must recollect what has before been said, that these
+particulars form the general truth, not by being merely
+enumerated and added together, but by being seen in a
+new light. No mere verbal recitation of the particulars
+can decide whether the general proposition is true;
+a special act of thought is requisite in order to determine
+how truly each is included in the supposed induction.
+In this respect the Inductive Table is not
+like a mere schedule of accounts, where the rightness
+of each part of the reckoning is tested by mere addition
+of the particulars. On the contrary, the Inductive
+truth is never the mere sum of the facts. It is made
+into something more by the introduction of a new
+mental element; and the mind, in order to be able to
+supply this element, must have peculiar endowments
+and discipline. Thus looking back at the instances
+noticed in the last article, how are we to see that a
+convex surface of the earth is necessarily implied by
+the convergence of meridians towards the north, or by
+the visible descent of the north pole of the heavens as
+we travel south? Manifestly the student, in order to
+see this, must have clear conceptions of the relations
+of space, either naturally inherent in his mind, or
+established there by geometrical cultivation,—by 109
+studying the properties of circles and spheres. When he
+is so prepared, he will feel the force of the expressions
+we have used, that the facts just mentioned are seen to
+be consistent with a globular form of the earth; but
+without such aptitude he will not see this consistency:
+and if this be so, the mere assertion of it in words
+will not avail him in satisfying himself of the truth of
+the proposition.
+In like manner, in order to perceive the force of the
+Copernican induction, the student must have his mind
+so disciplined by geometrical studies, or otherwise, that
+he sees clearly how absolute motion and relative motion
+would alike produce apparent motion. He must have
+learnt to cast away all prejudices arising from the seeming
+fixity of the earth; and then he will see that there
+is nothing which stands in the way of the induction,
+while there is much which is on its side. And in the
+same manner the Newtonian induction of the law of
+the sun’s force from the elliptical form of the orbit,
+will be evidently satisfactory to him only who has such
+an insight into Mechanics as to see that a curvilinear
+path must arise from a constantly deflecting force;
+and who is able to follow the steps of geometrical
+reasoning by which, from the properties of the ellipse,
+Newton proves this deflection to be in the proportion
+in which he asserts the force to be. And thus in all
+cases the inductive truth must indeed be verified by
+comparing it with the particular facts; but then this
+comparison is possible for him only whose mind is
+properly disciplined and prepared in the use of those
+conceptions, which, in addition to the facts, the act of
+induction requires.
+13. In the Tables some indication is given, at
+several of the steps, of the act which the mind must
+thus perform, besides the mere conjunction of facts, in
+order to attain to the inductive truth. Thus in the
+cases of the Newtonian inductions just spoken of, the
+inferences are stated to be made ‘By Mechanics;’
+and in the case of the Copernican induction, it is said
+that, ‘By the nature of motion, the apparent motion is
+the same, whether the heavens or the earth have a 110
+diurnal motion; and the latter is more simple.’ But
+these verbal statements are to be understood as mere
+hints22:
+they cannot supersede the necessity of the student’s
+contemplating for himself the mechanical principles and the
+nature of motion thus referred to.
+22
+ In the Inductive Tables they are marked by an asterisk.
+
+14. In the common or Syllogistic Logic, a certain
+Formula of language is used in stating the reasoning,
+and is useful in enabling us more readily to apply the
+Criterion of Form to alleged demonstrations. This
+formula is the usual Syllogism; with its members,
+Major Premiss, Minor Premiss, and Conclusion. It
+may naturally be asked whether in Inductive Logic
+there is any such Formula? whether there is any
+standard form of words in which we may most properly
+express the inference of a general truth from
+particular facts?
+At first it might be supposed that the formula of
+Inductive Logic need only be of this kind: ‘These
+particulars, and all known particulars of the same
+kind, are exactly included in the following general
+proposition.’ But a moment’s reflection on what has
+just been said will show us that this is not sufficient:
+for the particulars are not merely included in the
+general proposition. It is not enough that they appertain
+to it by enumeration. It is, for instance, no adequate
+example of Induction to say, ‘Mercury describes
+an elliptical path, so does Venus, so do the Earth,
+Mars, Jupiter, Saturn, Uranus; therefore all the
+Planets describe elliptical paths.’ This is, as we have
+seen, the mode of stating the evidence when the proposition
+is once suggested; but the Inductive step consists in the
+suggestion of a conception not before
+apparent. When Kepler, after trying to connect the
+observed places of the planet Mars in many other
+ways, found at last that the conception of an ellipse
+would include them all, he obtained a truth by induction:
+for this conclusion was not obviously included
+in the phenomena, and had not been applied to these 111
+facts previously. Thus in our Formula, besides stating
+that the particulars are included in the general proposition,
+we must also imply that the generality is constituted by
+a new Conception,—new at least in its
+application.
+Hence our Inductive Formula might be something
+like the following: ‘These particulars, and all known
+particulars of the same kind, are exactly expressed by
+adopting the Conceptions and Statement of the following
+Proposition.’ It is of course requisite that the
+Conceptions should be perfectly clear, and should precisely
+embrace the facts, according to the explanation
+we have already given of those conditions.
+15. It may happen, as we have already stated, that
+the Explication of a Conception, by which it acquires
+its due distinctness, leads to a Definition, which Definition
+may be taken as the summary and total result
+of the intellectual efforts to which this distinctness is
+due. In such cases, the Formula of Induction may be
+modified according to this condition; and we may state
+the inference by saying, after an enumeration and
+analysis of the appropriate facts, ‘These facts are
+completely and distinctly expressed by adopting the
+following Definition and Proposition.’
+This Formula has been adopted in stating the Inductive
+Propositions which constitute the basis of the
+science of Mechanics, in a work intitled The Mechanical
+Euclid. The fundamental truths of the subject
+are expressed in Inductive Pairs of Assertions, consisting
+each of a Definition and a Proposition, such as
+the following:
+ Def.—A Uniform Force
+is that which acting in the
+direction of the body’s motion, adds or subtracts equal
+velocities in equal times.
+ Prop.—Gravity is a Uniform Force.
+ Again,
+ Def.—Two Motions are
+compounded when each
+produces its separate effect in a direction parallel to
+itself.
+ Prop.—When any Force acts upon a body in motion,
+the motion which the Force would produce in the 112
+body at rest is compounded with the previous motion
+of the body.
+ And in like manner in other cases.
+In these cases the proposition is, of course, established,
+and the definition realized, by an enumeration
+of the facts. And in the case of inferences made in
+such a form, the Definition of the Conception and the
+Assertion of the Truth are both requisite and are correlative
+to one another. Each of the two steps contains the verification
+and justification of the other.
+The Proposition derives its meaning from the Definition;
+the Definition derives its reality from the Proposition.
+If they are separated, the Definition is arbitrary or empty,
+the Proposition vague or ambiguous.
+16. But it must be observed that neither of the
+preceding Formulæ expresses the full cogency of the
+inductive proof. They declare only that the results
+can be clearly explained and rigorously deduced by the
+employment of a certain Definition and a certain Proposition.
+But in order to make the conclusion demonstrative, which in
+perfect examples of Induction it is,
+we ought to be able to declare that the results can be
+clearly explained and rigorously declared only by the
+Definition and Proposition which we adopt. And in
+reality, the conviction of the sound inductive reasoner
+does reach to this point. The Mathematician asserts
+the Laws of Motion, seeing clearly that they (or laws
+equivalent to them) afford the only means of clearly
+expressing and deducing the actual facts. But this
+conviction, that the inductive inference is not only
+consistent with the facts, but necessary, finds its place
+in the mind gradually, as the contemplation of the
+consequences of the proposition, and the various relations
+of the facts, becomes steady and familiar. It
+is scarcely possible for the student at once to satisfy
+himself that the inference is thus inevitable. And
+when he arrives at this conviction, he sees also, in
+many cases at least, that there may be other ways of
+expressing the substance of the truth established,
+besides that special Proposition which he has under
+his notice. 113
+We may, therefore, without impropriety, renounce
+the undertaking of conveying in our formula this final
+conviction of the necessary truth of our inference. We
+may leave it to be thought, without insisting upon saying it,
+that in such cases what can be true, is true.
+But if we wish to express the ultimate significance of
+the Inductive Act of thought, we may take as our
+Formula for the Colligation of Facts by Induction,
+this:—‘The several Facts are exactly expressed as one
+Fact if, and only if, we adopt the Conception and the
+Assertion’ of the inductive inference.
+17. I have said that the mind must be properly
+disciplined in order that it may see the necessary
+connexion between the facts and the general proposition
+in which they are included. And the perception of
+this connexion, though treated as one step in our
+inductive inference, may imply many steps of demonstrative
+proof. The connexion is this, that the particular case
+is included in the general one, that is, may
+be deduced from it: but this deduction may often
+require many links of reasoning. Thus in the case of
+the inference of the law of the force from the elliptical
+form of the orbit by Newton, the proof that in the
+ellipse the deflection from the tangent is inversely as
+the square of the distance from the focus of the ellipse,
+is a ratiocination consisting of several steps, and
+involving several properties of Conic Sections; these
+properties being supposed to be previously established by
+a geometrical system of demonstration on the special
+subject of the Conic Sections. In this and similar
+cases the Induction involves many steps of Deduction.
+And in such cases, although the Inductive Step, the
+Invention of the Conception, is really the most important,
+yet since, when once made, it occupies a
+familiar place in men’s minds; and since the Deductive
+Demonstration is of considerable length and requires
+intellectual effort to follow it at every step; men often
+admire the deductive part of the proposition, the geometrical
+or algebraical demonstration, far more than
+that part in which the philosophical merit really resides. 114
+18. Deductive reasoning is virtually a collection of
+syllogisms, as has already been stated: and in such
+reasoning, the general principles, the Definitions and
+Axioms, necessarily stand at the beginning of the
+demonstration. In an inductive inference, the Definitions
+and Principles are the final result of the reasoning,
+the ultimate effect of the proof. Hence when an
+Inductive Proposition is to be established by a proof
+involving several steps of demonstrative reasoning, the
+enunciation of the Proposition will contain, explicitly
+or implicitly, principles which the demonstration proceeds
+upon as axioms, but which are really inductive
+inferences. Thus in order to prove that the force
+which retains a planet in an ellipse varies inversely as
+the square of the distance, it is taken for granted that
+the Laws of Motion are true, and that they apply to
+the planets. Yet the doctrine that this is so, as well
+as the law of the force, were established only by this and
+the like demonstrations. The doctrine which is the
+hypothesis of the deductive reasoning, is the inference
+of the inductive process. The special facts which are
+the basis of the inductive inference, are the conclusion
+of the train of deduction. And in this manner the
+deduction establishes the induction. The principle
+which we gather from the facts is true, because the
+facts can be derived from it by rigorous demonstration.
+Induction moves upwards, and deduction downwards,
+on the same stair.
+But still there is a great difference in the character
+of their movements. Deduction descends steadily and
+methodically, step by step: Induction mounts by a
+leap which is out of the reach of method. She bounds
+to the top of the stair at once; and then it is the
+business of Deduction, by trying each step in order, to
+establish the solidity of her companion’s footing. Yet
+these must be processes of the same mind. The Inductive
+Intellect makes an assertion which is subsequently
+justified by demonstration; and it shows its
+sagacity, its peculiar character, by enunciating the
+proposition when as yet the demonstration does not 115
+exist: but then it shows that it is sagacity, by also
+producing the demonstration.
+It has been said that inductive and deductive reasoning
+are contrary in their scheme; that in Deduction
+we infer particular from general truths; while in
+Induction we infer general from particular: that
+Deduction consists of many steps, in each of which we apply
+known general propositions in particular cases; while
+in Induction we have a single step, in which we pass
+from many particular truths to one general proposition.
+And this is truly said; but though contrary
+in their motions, the two are the operation of the same
+mind travelling over the same ground. Deduction is
+a necessary part of Induction. Deduction justifies by
+calculation what Induction had happily guessed. Induction
+recognizes the ore of truth by its weight;
+Deduction confirms the recognition by chemical analysis.
+Every step of Induction must be confirmed by
+rigorous deductive reasoning, followed into such detail
+as the nature and complexity of the relations (whether
+of quantity or any other) render requisite. If not so
+justified by the supposed discoverer, it is not Induction.
+19. Such Tabular arrangements of propositions as
+we have constructed may be considered as the Criterion
+of Truth for the doctrines which they include. They
+are the Criterion of Inductive Truth, in the same
+sense in which Syllogistic Demonstration is the Criterion
+of Necessary Truth,—of the certainty of conclusions,
+depending upon evident First Principles.
+And that such Tables are really a Criterion of the
+truth of the propositions which they contain, will be
+plain by examining their structure. For if the connexion
+which the inductive process assumes be ascertained
+to be in each case real and true, the assertion of
+the general proposition merely collects together
+ascertained truths; and in like manner each of those more
+particular propositions is true, because it merely
+expresses collectively more special facts: so that the most
+general theory is only the assertion of a great body
+of facts, duly classified and subordinated. When we 116
+assert the truth of the Copernican theory of the motions
+of the solar system, or of the Newtonian theory of the
+forces by which they are caused, we merely assert the
+groups of propositions which, in the Table of Astronomical
+Induction, are included in these doctrines; and
+ultimately, we may consider ourselves as merely asserting
+at once so many Facts, and therefore, of course,
+expressing an indisputable truth.
+20. At any one of these steps of Induction in the
+Table, the inductive proposition is a Theory with
+regard to the Facts which it includes, while it is to be
+looked upon as a Fact with respect to the higher
+generalizations in which it is included. In any other
+sense, as was formerly shown, the opposition of Fact
+and Theory is untenable, and leads to endless perplexity
+and debate. Is it a Fact or a Theory that the
+planet Mars revolves in an Ellipse about the Sun?
+To Kepler, employed in endeavouring to combine the
+separate observations by the Conception of an Ellipse,
+it is a Theory; to Newton, engaged in inferring the
+law of force from a knowledge of the elliptical motion,
+it is a Fact. There are, as we have already seen, no
+special attributes of Theory and Fact which distinguish
+them from one another. Facts are phenomena apprehended
+by the aid of conceptions and mental acts, as
+Theories also are. We commonly call our observations
+Facts, when we apply, without effort or consciousness,
+conceptions perfectly familiar to us: while we speak of
+Theories, when we have previously contemplated the
+Facts and the connecting Conception separately, and
+have made the connexion by a conscious mental act.
+The real difference is a difference of relation; as the
+same proposition in a demonstration is the premiss of
+one syllogism and the conclusion in another;—as the
+same person is a father and a son. Propositions are
+Facts and Theories, according as they stand above or
+below the Inductive Brackets of our Tables.
+21. To obviate mistakes I may remark that the
+terms higher and lower, when used of generalizations,
+are unavoidably represented by their opposites in our
+Inductive Tables. The highest generalization is that 117
+which includes all others; and this stands the lowest
+on our page, because, reading downwards, that is the
+place which we last reach.
+There is a distinction of the knowledge acquired by
+Scientific Induction into two kinds, which is so important
+that we shall consider it in the succeeding
+chapter.
+ 
+
+CHAPTER VII.
+Of Laws of Phenomena and of Causes.
+
+
+Aphorism XXIV.
+Inductive truths are of two kinds, Laws of Phenomena,
+and Theories of Causes. It is necessary to begin in every
+science with the Laws of Phenomena; but it is impossible that
+we should be satisfied to stop short of a Theory of Causes. In
+Physical Astronomy, Physical Optics, Geology, and other
+sciences, we have instances showing that we can make a great
+advance in inquiries after true Theories of Causes.
+
+1. IN
+the first attempts at acquiring an exact and
+connected knowledge of the appearances and operations
+which nature presents, men went no further
+than to learn what takes place, not why it occurs.
+They discovered an Order which the phenomena follow,
+Rules which they obey; but they did not come in
+sight of the Powers by which these rules are determined,
+the Causes of which this order is the effect.
+Thus, for example, they found that many of the celestial
+motions took place as if the sun and stars were
+carried round by the revolutions of certain celestial
+spheres; but what causes kept these spheres in constant
+motion, they were never able to explain. In
+like manner in modern times, Kepler discovered that
+the planets describe ellipses, before Newton explained
+why they select this particular curve, and describe it
+in a particular manner. The laws of reflection, refraction,
+dispersion, and other properties of light have
+long been known; the causes of these laws are at
+present under discussion. And the same might be 119
+said of many other sciences. The discovery of the
+Laws of Phenomena is, in all cases, the first step in
+exact knowledge; these Laws may often for a long
+period constitute the whole of our science; and it is
+always a matter requiring great talents and great efforts,
+to advance to a knowledge of the Causes of the
+phenomena.
+Hence the larger part of our knowledge of nature,
+at least of the certain portion of it, consists of the
+knowledge of the Laws of Phenomena. In Astronomy
+indeed, besides knowing the rules which guide the appearances,
+and resolving them into the real motions
+from which they arise, we can refer these motions to
+the forces which produce them. In Optics, we have
+become acquainted with a vast number of laws by
+which varied and beautiful phenomena are governed;
+and perhaps we may assume, since the evidence of the
+Undulatory Theory has been so fully developed, that
+we know also the Causes of the Phenomena. But in
+a large class of sciences, while we have learnt many
+Laws of Phenomena, the causes by which these are
+produced are still unknown or disputed. Are we to
+ascribe to the operation of a fluid or fluids, and if so,
+in what manner, the facts of heat, magnetism, electricity,
+galvanism? What are the forces by which the
+elements of chemical compounds are held together?
+What are the forces, of a higher order, as we cannot
+help believing, by which the course of vital action in
+organized bodies is kept up? In these and other cases,
+we have extensive departments of science; but we are
+as yet unable to trace the effects to their causes; and
+our science, so far as it is positive and certain, consists
+entirely of the laws of phenomena.
+2. In those cases in which we have a division of
+the science which teaches us the doctrine of the causes,
+as well as one which states the rules which the effects
+follow, I have, in the History, distinguished the two
+portions of the science by certain terms. I have thus
+spoken of Formal Astronomy and Physical Astronomy.
+The latter phrase has long been commonly employed to
+describe that department of Astronomy which deals with 120
+those forces by which the heavenly bodies are guided in
+their motions; the former adjective appears well suited
+to describe a collection of rules depending on those ideas
+of space, time, position, number, which are, as we have
+already said, the forms of our apprehension of phenomena.
+The laws of phenomena may be considered as
+formulæ, expressing results in terms of those ideas.
+In like manner, I have spoken of Formal Optics and
+Physical Optics; the latter division including all
+speculations concerning the machinery by which the
+effects are produced. Formal Acoustics and Physical
+Acoustics may be distinguished in like manner, although
+these two portions of science have been a good
+deal mixed together by most of those who have treated
+of them. Formal Thermotics, the knowledge of the
+laws of the phenomena of heat, ought in like manner
+to lead to Physical Thermotics, or the Theory of Heat
+with reference to the cause by which its effects are
+produced;—a branch of science which as yet can hardly
+be said to exist.
+3. What kinds of cause are we to admit in science?
+This is an important, and by no means an easy question.
+In order to answer it, we must consider in what
+manner our progress in the knowledge of causes has
+hitherto been made. By far the most conspicuous instance
+of success in such researches, is the discovery
+of the causes of the motions of the heavenly bodies.
+In this case, after the formal laws of the motions,—their
+conditions as to space and time,—had become
+known, men were enabled to go a step further; to reduce
+them to the familiar and general cause of motion—mechanical
+force; and to determine the laws which
+this force follows. That this was a step in addition to
+the knowledge previously possessed, and that it was a
+real and peculiar truth, will not be contested. And a
+step in any other subject which should be analogous to
+this in astronomy;—a discovery of causes and forces
+as certain and clear as the discovery of universal
+gravitation;—would undoubtedly be a vast advance upon
+a body of science consisting only of the laws of phenomena. 121
+4. But although physical astronomy may well be
+taken as a standard in estimating the value and magnitude
+of the advance from the knowledge of phenomena to the
+knowledge of causes; the peculiar features
+of the transition from formal to physical science in
+that subject must not be allowed to limit too narrowly
+our views of the nature of this transition in other
+cases. We are not, for example, to consider that the
+step which leads us to the knowledge of causes in any
+province of nature must necessarily consist in the
+discovery of centers of forces, and collections of
+such centers, by which the effects are produced. The discovery
+of the causes of phenomena may imply the detection
+of a fluid by whose undulations, or other operations,
+the results are occasioned. The phenomena of acoustics
+are, we know, produced in this manner by the air;
+and in the cases of light, heat, magnetism, and others,
+even if we reject all the theories of such fluids which
+have hitherto been proposed, we still cannot deny that
+such theories are intelligible and possible, as the
+discussions concerning them have shown. Nor can it be
+doubted that if the assumption of such a fluid, in any
+case, were as well evidenced as the doctrine of universal
+gravitation is, it must be considered as a highly
+valuable theory.
+5. But again; not only must we, in aiming at the
+formation of a Causal Section in each Science of Phenomena,
+consider Fluids and their various modes of
+operation admissible, as well as centers of mechanical
+force; but we must be prepared, if it be necessary, to
+consider the forces, or powers to which we refer the
+phenomena, under still more general aspects, and invested
+with characters different from mere mechanical
+force. For example; the forces by which the chemical
+elements of bodies are bound together, and from which
+arise, both their sensible texture, their crystalline form,
+and their chemical composition, are certainly forces of
+a very different nature from the mere attraction of
+matter according to its mass. The powers of assimilation
+and reproduction in plants and animals are obviously
+still more removed from mere mechanism; yet 122
+these powers are not on that account less real, nor a
+less fit and worthy subject of scientific inquiry.
+6. In fact, these forces—mechanical, chemical and
+vital,—as we advance from one to the other, each bring
+into our consideration new characters; and what these
+characters are, has appeared in the historical survey
+which we made of the Fundamental Ideas of the various
+sciences. It was then shown that the forces by which
+chemical effects are produced necessarily involve the
+Idea of Polarity,—they are polar forces; the particles
+tend together in virtue of opposite properties which in
+the combination neutralize each other. Hence, in attempting
+to advance to a theory of Causes in chemistry,
+our task is by no means to invent laws of mechanical
+force, and collections of forces, by which the effects
+may be produced. We know beforehand that no such
+attempt can succeed. Our aim must be to conceive
+such new kinds of force, including Polarity among
+their characters, as may best render the results intelligible.
+7. Thus in advancing to a Science of Cause in any
+subject, the labour and the struggle is, not to analyse
+the phenomena according to any preconceived and
+already familiar ideas, but to form distinctly new
+conceptions, such as do really carry us to a more intimate
+view of the processes of nature. Thus in the case of
+astronomy, the obstacle which deferred the discovery
+of the true causes from the time of Kepler to that of
+Newton, was the difficulty of taking hold of mechanical
+conceptions and axioms with sufficient clearness and
+steadiness; which, during the whole of that interval,
+mathematicians were learning to do. In the question
+of causation which now lies most immediately in the
+path of science, that of the causes of electrical and
+chemical phenomena, the business of rightly fixing and
+limiting the conception of polarity, is the proper object
+of the efforts of discoverers. Accordingly a large portion
+of Mr Faraday’s recent
+labours23
+is directed, not to 123
+the attempt at discovering new laws of phenomena, but
+to the task of throwing light upon the conception of
+polarity, and of showing how it must be understood, so
+that it shall include electrical induction and other phenomena,
+which have commonly been ascribed to forces
+acting mechanically at a distance. He is by no means
+content, nor would it answer the ends of science that
+he should be, with stating the results of his experiments;
+he is constantly, in every page, pointing out
+the interpretation of his experiments, and showing how
+the conception of Polar Forces enters into this interpretation.
+‘I shall,’ he says24,
+‘use every opportunity
+which presents itself of returning to that strong test of
+truth, experiment; but,’ he adds, ‘I shall necessarily
+have occasion to speak theoretically, and even hypothetically.’
+His hypothesis that electrical inductive
+action always takes place by means of a continuous line
+of polarized particles, and not by attraction and repulsion
+at a distance, if established, cannot fail to be a
+great step on our way towards a knowledge of causes,
+as well as phenomena, in the subjects under his consideration.
+
+23 Eleventh, Twelfth,
+and Thirteenth Series of Researches, Phil. Trans. 1837 and 8.
+
+
+24 Art. 1318.
+
+8. The process of obtaining new conceptions is, to
+most minds, far more unwelcome than any labour in
+employing old ideas. The effort is indeed painful and
+oppressive; it is feeling in the dark for an object which
+we cannot find. Hence it is not surprising that we
+should far more willingly proceed to seek for new causes
+by applying conceptions borrowed from old ones. Men
+were familiar with solid frames, and with whirlpools of
+fluid, when they had not learnt to form any clear conception
+of attraction at a distance. Hence they at
+first imagined the heavenly motions to be caused by
+Crystalline Spheres, and by Vortices. At length they
+were taught to conceive Central Forces, and then they
+reduced the solar system to these. But having done
+this, they fancied that all the rest of the machinery of
+nature must be central forces. We find Newton 124
+expressing this conviction25,
+and the mathematicians of
+the last century acted upon it very extensively. We
+may especially remark Laplace’s labours in this field.
+Having explained, by such forces, the phenomena of
+capillary attraction, he attempted to apply the same
+kind of explanation to the reflection, refraction, and
+double refraction of light;—to the constitution of
+gases;—to the operation of heat. It was soon seen that
+the explanation of refraction was arbitrary, and that
+of double refraction illusory; while polarization entirely
+eluded the grasp of this machinery. Centers of force
+would no longer represent the modes of causation
+which belonged to the phenomena. Polarization required
+some other contrivance, such as the undulatory
+theory supplied. No theory of light can be of any
+avail in which the fundamental idea of Polarity is not
+clearly exhibited.
+25
+Multa me movent, &c.,—Pref. to the Principia, already quoted in the
+History.
+
+9. The sciences of magnetism and electricity have
+given rise to theories in which this relation of polarity
+is exhibited by means of two opposite
+fluids26;—a
+positive and a negative fluid, or a vitreous and a resinous,
+for electricity, and a boreal and an austral fluid
+for magnetism. The hypothesis of such fluids gives
+results agreeing in a remarkable manner with the
+facts and their measures, as Coulomb and others have
+shown. It may be asked how far we may, in such a
+case, suppose that we have discovered the true cause of
+the phenomena, and whether it is sufficiently proved
+that these fluids really exist. The right answer seems
+to be, that the hypothesis certainly represents the
+truth so far as regards the polar relation of the two
+energies, and the laws of the attractive and repulsive
+forces of the particles in which these energies reside;
+but that we are not entitled to assume that the vehicles
+of these energies possess other attributes of material
+fluids, or that the forces thus ascribed to the
+particles are the primary elementary forces from which 125
+the action originates. We are the more bound to
+place this cautious limit to our acceptance of the Coulombian
+theory, since in electricity Faraday has in
+vain endeavoured to bring into view one of the polar
+fluids without the other: whereas such a result ought
+to be possible if there were two separable fluids. The
+impossibility of this separate exhibition of one fluid
+appears to show that the fluids are real only so far as
+they are polar. And Faraday’s view above mentioned,
+according to which the attractions at a distance are
+resolved into the action of lines of polarized particles
+of air, appears still further to show that the conceptions
+hitherto entertained of electrical forces, according
+to the Coulombian theory, do not penetrate to the real
+and intimate nature of the causation belonging to this
+case.
+26
+Hist. Ind. Sc. b. xi. c. ii.
+
+10. Since it is thus difficult to know when we have
+seized the true cause of the phenomena in any department
+of science, it may appear to some persons that
+physical inquirers are imprudent and unphilosophical
+in undertaking this Research of Causes; and that it
+would be safer and wiser to confine ourselves to the
+investigation of the laws of phenomena, in which field
+the knowledge which we obtain is definite and certain.
+Hence there have not been wanting those who have
+laid it down as a maxim that ‘science must study only
+the laws of phenomena, and never the mode of
+production27.’
+But it is easy to see that such a maxim would
+confine the breadth and depth of scientific inquiries to
+a most scanty and miserable limit. Indeed, such a
+rule would defeat its own object; for the laws of phenomena,
+in many cases, cannot be even expressed or
+understood without some hypothesis respecting their
+mode of production. How could the phenomena of
+polarization have been conceived or reasoned upon,
+except by imagining a polar arrangement of particles,
+or transverse vibrations, or some equivalent hypothesis?
+The doctrines of fits of easy transmission, the doctrine
+of moveable polarization, and the like, even when 126
+erroneous as representing the whole of the phenomena,
+were still useful in combining some of them into laws;
+and without some such hypotheses the facts could not
+have been followed out. The doctrine of a fluid caloric
+may be false; but without imagining such a fluid, how
+could the movement of heat from one part of a body to
+another be conceived? It may be replied that Fourier,
+Laplace, Poisson, who have principally cultivated the
+Theory of Heat, have not conceived it as a fluid, but
+have referred conduction to the radiation of the molecules
+of bodies, which they suppose to be separate points.
+But this molecular constitution of bodies is itself an
+assumption of the mode in which the phenomena are
+produced; and the radiation of heat suggests inquiries
+concerning a fluid emanation, no less than its conduction
+does. In like manner, the attempts to connect
+the laws of phenomena of heat and of gases, have led
+to hypotheses respecting the constitution of gases, and
+the combination of their particles with those of caloric,
+which hypotheses may be false, but are probably the
+best means of discovering the truth.
+27
+ Comte, Philosophie Positive.
+
+To debar science from inquiries like these, on the
+ground that it is her business to inquire into facts,
+and not to speculate about causes, is a curious example
+of that barren caution which hopes for truth without
+daring to venture upon the quest of it. This temper
+would have stopped with Kepler’s discoveries, and
+would have refused to go on with Newton to inquire
+into the mode in which the phenomena are produced.
+It would have stopped with Newton’s optical facts,
+and would have refused to go on with him and his
+successors to inquire into the mode in which these
+phenomena are produced. And, as we have abundantly
+shown, it would, on that very account, have failed in
+seeing what the phenomena really are.
+In many subjects the attempt to study the laws of
+phenomena, independently of any speculations respecting
+the causes which have produced them, is neither
+possible for human intelligence nor for human temper.
+Men cannot contemplate the phenomena without
+clothing them in terms of some hypothesis, and will 127
+not be schooled to suppress the questionings which at
+every moment rise up within them concerning the
+causes of the phenomena. Who can attend to the
+appearances which come under the notice of the geologist;—strata
+regularly bedded, full of the remains of
+animals such as now live in the depths of the ocean,
+raised to the tops of mountains, broken, contorted,
+mixed with rocks such as still flow from the mouths of
+volcanos,—who can see phenomena like these, and
+imagine that he best promotes the progress of our
+knowledge of the earth’s history, by noting down the
+facts, and abstaining from all inquiry whether these
+are really proof of past states of the earth and of
+subterraneous forces, or merely an accidental imitation of
+the effects of such causes? In this and similar cases,
+to proscribe the inquiry into causes would be to annihilate the science.
+Finally, this caution does not even gain its own
+single end, the escape from hypotheses. For, as we
+have said, those who will not seek for new and appropriate
+causes of newly-studied phenomena, are almost
+inevitably led to ascribe the facts to modifications of
+causes already familiar. They may declare that they
+will not hear of such causes as vital powers, elective
+affinities, electric, or calorific, or luminiferous ethers or
+fluids; but they will not the less on that account
+assume hypotheses equally unauthorized;—for instance—universal
+mechanical forces; a molecular constitution of bodies;
+solid, hard, inert matter;—and will
+apply these hypotheses in a manner which is arbitrary
+in itself as well as quite insufficient for its purpose.
+11. It appears, then, to be required, both by the
+analogy of the most successful efforts of science in past
+times and by the irrepressible speculative powers of
+the human mind, that we should attempt to discover
+both the laws of phenomena, and their causes. In every
+department of science, when prosecuted far enough,
+these two great steps of investigation must succeed
+each other. The laws of phenomena must be known
+before we can speculate concerning causes; the causes
+must be inquired into when the phenomena have been 128
+reduced to rule. In both these speculations the suppositions
+and conceptions which occur must be constantly tested by
+reference to observation and experiment. In both we must,
+as far as possible, devise
+hypotheses which, when we thus test them, display
+those characters of truth of which we have already
+spoken;—an agreement with facts such as will stand
+the most patient and rigid inquiry; a provision for
+predicting truly the results of untried cases; a consilience
+of inductions from various classes of facts; and
+a progressive tendency of the scheme to simplicity and
+unity.
+We shall attempt hereafter to give several rules of a
+more precise and detailed kind for the discovery of the
+causes, and still more, of the laws of phenomena. But
+it will be useful in the first place to point out the
+Classification of the Sciences which results from the
+principles already established in this
+work. And for
+this purpose we must previously decide the question,
+whether the practical Arts, as Medicine and Engineering,
+must be included in our list of Sciences.
+ 
+
+CHAPTER VIII.
+Of Art and Science.
+
+
+Aphorism XXV.
+Art and Science differ. The object of Science is Knowledge;
+the objects of Art, are Works. In Art, truth is a
+means to an end; in Science, it is the only end. Hence the
+Practical Arts are not to be classed among the Sciences.
+Aphorism XXVI.
+Practical Knowledge, such as Art implies, is not Knowledge
+such as Science includes. Brute animals have a practical
+knowledge of relations of space and force; but they have
+no knowledge of Geometry or Mechanics.
+
+1. THE
+distinction of Arts and Sciences very materially
+affects all classifications of the departments
+of Human Knowledge. It is often maintained, expressly or
+tacitly, that the Arts are a part of our
+knowledge, in the same sense in which the Sciences
+are so; and that Art is the application of Science to the
+purposes of practical life. It will be found that these
+views require some correction, when we understand
+Science in the exact sense in which we have throughout
+endeavoured to contemplate it, and in which alone
+our examination of its nature can instruct us in the
+true foundations of our knowledge.
+When we cast our eyes upon the early stages of
+the histories of nations, we cannot fail to be struck
+with the consideration, that in many countries the
+Arts of life already appear, at least in some rude form
+or other, when, as yet, nothing of science exists. A 130
+practical knowledge of Astronomy, such as enables them
+to reckon months and years, is found among all nations
+except the mere savages. A practical knowledge of
+Mechanics must have existed in those nations which
+have left us the gigantic monuments of early architecture.
+The pyramids and temples of Egypt and Nubia,
+the Cyclopean walls of Italy and Greece, the temples
+of Magna Græcia and Sicily, the obelisks and edifices
+of India, the cromlechs and Druidical circles of countries
+formerly Celtic,—must have demanded no small
+practical mechanical skill and power. Yet those
+modes of reckoning time must have preceded the rise
+of speculative Astronomy; these structures must have
+been erected before the theory of Mechanics was
+known. To suppose, as some have done, a great body
+of science, now lost, to have existed in the remote
+ages to which these remains belong, is not only quite
+gratuitous, and contrary to all analogy, but is a
+supposition which cannot be extended so far as to explain
+all such cases. For it is impossible to imagine that
+every art has been preceded by the science which
+renders a reason for its processes. Certainly men formed
+wine from the grape, before they possessed a Science of
+Fermentation; the first instructor of every artificer in
+brass and iron can hardly be supposed to have taught
+the Chemistry of metals as a Science; the inventor
+of the square and the compasses had probably no more
+knowledge of demonstrated Geometry than have the
+artisans who now use those implements; and finally,
+the use of speech, the employment of the inflections
+and combinations of words, must needs be assumed as
+having been prior to any general view of the nature
+and analogy of Language. Even at this moment, the
+greater part of the arts which exist in the world are
+not accompanied by the sciences on which they theoretically
+depend. Who shall state to us the general
+chemical truths to which the manufactures of glass,
+and porcelain, and iron, and brass, owe their existence?
+Do not almost all artisans practise many successful
+artifices long before science explains the ground of the
+process? Do not arts at this day exist, in a high state 131
+of perfection, in countries in which there is no science,
+as China and India? These countries and many others
+have no theories of mechanics, of optics, of chemistry,
+of physiology; yet they construct and use mechanical
+and optical instruments, make chemical combinations,
+take advantage of physiological laws. It is too evident
+to need further illustration that Art may exist without
+Science;—that the former has usually been anterior to
+the latter, and even now commonly advances independently,
+leaving science to follow as it can.
+2. We here mean by Science, that exact, general,
+speculative knowledge, of which we have, throughout
+this work, been endeavouring to exhibit the nature
+and rules. Between such Science and the practical
+Arts of life, the points of difference are sufficiently
+manifest. The object of Science is Knowledge; the
+object of Art are Works. The latter is satisfied with
+producing its material results; to the former, the
+operations of matter, whether natural or artificial, are
+interesting only so far as they can be embraced by
+intelligible principles. The End of Art is the Beginning
+of Science; for when it is seen what is done, then
+comes the question why it is done. Art may have
+fixed general rules, stated in words; but she has
+these merely as means to an end: to Science, the propositions
+which she obtains are each, in itself, a sufficient end of
+the effort by which it is acquired. When
+Art has brought forth her product, her task is finished;
+Science is constantly led by one step of her path to
+another: each proposition which she obtains impels
+her to go onwards to other propositions more general,
+more profound, more simple. Art puts elements together,
+without caring to know what they are, or why
+they coalesce. Science analyses the compound, and at
+every such step strives not only to perform, but to
+understand the analysis. Art advances in proportion
+as she becomes able to bring forth products more
+multiplied, more complex, more various; but Science,
+straining her eyes to penetrate more and more deeply
+into the nature of things, reckons her success in
+proportion as she sees, in all the phenomena, however 132
+multiplied; complex, and varied, the results of one or
+two simple and general laws.
+3. There are many acts which man, as well as
+animals, performs by the guidance of nature, without
+seeing or seeking the reason why he does so; as, the
+acts by which he balances himself in standing or
+moving, and those by which he judges of the form and
+position of the objects around him. These actions
+have their reason in the principles of geometry and
+mechanics; but of such reasons he who thus acts is
+unaware: he works blindly, under the impulse of an
+unknown principle which we call Instinct. When
+man’s speculative nature seeks and finds the reasons
+why he should act thus or thus;—why he should
+stretch out his arm to prevent his falling, or assign a
+certain position to an object in consequence of the
+angles under which it is seen;—he may perform the
+same actions as before, but they are then done by the
+aid of a different faculty, which, for the sake of
+distinction, we may call Insight. Instinct is a purely
+active principle; it is seen in deeds alone; it has no
+power of looking inwards; it asks no questions; it has
+no tendency to discover reasons or rules; it is the
+opposite of Insight.
+4. Art is not identical with Instinct: on the contrary,
+there are broad differences. Instinct is stationary;
+Art is progressive. Instinct is mute; it acts,
+but gives no rules for acting: Art can speak; she can
+lay down rules. But though Art is thus separate
+from Instinct, she is not essentially combined with
+Insight. She can see what to do, but she needs not
+to see why it is done. She may lay down Rules, but it
+is not her business to give Reasons. When man makes
+that his employment, he enters upon the domain of
+Science. Art takes the phenomena and laws of nature
+as she finds them: that they are multiplied, complex,
+capricious, incoherent, disturbs her not. She is content
+that the rules of nature’s operations should be
+perfectly arbitrary and unintelligible, provided they
+are constant, so that she can depend upon their effects.
+But Science is impatient of all appearance of caprice, 133
+inconsistency, irregularity, in nature. She will not
+believe in the existence of such characters. She resolves
+one apparent anomaly after another; her task is
+not ended till every thing is so plain and simple, that
+she is tempted to believe that she sees that it could by
+no possibility have been otherwise than it is.
+5. It may be said that, after all, Art does really
+involve the knowledge which Science delivers;—that
+the artisan who raises large weights, practically knows
+the properties of the mechanical powers;—that he
+who manufactures chemical compounds is virtually
+acquainted with the laws of chemical combination.
+To this we reply, that it might on the same grounds
+be asserted, that he who acts upon the principle that
+two sides of a triangle are greater than the third is
+really acquainted with geometry; and that he who
+balances himself on one foot knows the properties of
+the center of gravity. But this is an acquaintance
+with geometry and mechanics which even brute animals
+possess. It is evident that it is not of such
+knowledge as this that we have here to treat. It is
+plain that this mode of possessing principles is
+altogether different from that contemplation of them on
+which science is founded. We neglect the most essential
+and manifest differences, if we confound our unconscious
+assumptions with our demonstrative reasonings.
+6. The real state of the case is, that the principles
+which Art involves, Science alone evolves. The truths
+on which the success of Art depends, lurk in the
+artist’s mind in an undeveloped state; guiding his
+hand, stimulating his invention, balancing his judgment;
+but not appearing in the form of enunciated
+Propositions. Principles are not to him direct objects
+of meditation: they are secret Powers of Nature, to
+which the forms which tenant the world owe their
+constancy, their movements, their changes, their luxuriant
+and varied growth, but which he can nowhere
+directly contemplate. That the creative and directive
+Principles which have their lodgment in the artist’s
+mind, when unfolded by our speculative powers into 134
+systematic shape, become Science, is true; but it is
+precisely this process of development which gives to
+them their character of Science. In practical Art,
+principles are unseen guides, leading us by invisible
+strings through paths where the end alone is looked
+at: it is for Science to direct and purge our vision so
+that these airy ties, these principles and laws,
+generalizations and theories, become distinct objects of vision.
+Many may feel the intellectual monitor, but it is only
+to her favourite heroes that the Goddess of Wisdom
+visibly reveals herself.
+7. Thus Art, in its earlier stages at least, is widely
+different from Science, is independent of it, and is
+anterior to it. At a later period, no doubt, Art may borrow
+aid from Science; and the discoveries of the philosopher
+may be of great value to the manufacturer and
+the artist. But even then, this application forms no
+essential part of the science: the interest which belongs
+to it is not an intellectual interest. The augmentation
+of human power and convenience may impel
+or reward the physical philosopher; but the processes
+by which man’s repasts are rendered more delicious,
+his journeys more rapid, his weapons more terrible,
+are not, therefore, Science. They may involve principles
+which are of the highest interest to science; but
+as the advantage is not practically more precious because
+it results from a beautiful theory, so the theoretical
+principle has no more conspicuous place in science
+because it leads to convenient practical consequences.
+The nature of Science is purely intellectual; Knowledge
+alone,—exact general Truth,—is her object; and we
+cannot mix with such material, as matters of the same
+kind, the merely Empirical maxims of Art, without
+introducing endless confusion into the subject, and
+making it impossible to attain any solid footing in our
+philosophy.
+8. I shall therefore not place, in our Classification
+of the Sciences, the Arts, as has generally been done;
+nor shall I notice the applications of sciences to art,
+as forming any separate portion of each science. The
+sciences, considered as bodies of general speculative 135
+truths, are what we are here concerned with; and
+applications of such truths, whether useful or useless,
+are important to us only as illustrations and examples.
+Whatever place in human knowledge the Practical
+Arts may hold, they are not Sciences. And it is only
+by this rigorous separation of the Practical from the
+Theoretical, that we can arrive at any solid conclusions
+respecting the nature of Truth, and the mode of arriving
+at it, such as it is our object to attain.
+ 
+
+CHAPTER IX.
+Of the Classification of Sciences.
+
+
+
+1. THE
+Classification of Sciences has its chief use in
+pointing out to us the extent of our powers of
+arriving at truth, and the analogies which may obtain
+between those certain and lucid portions of knowledge
+with which we are here concerned, and those other
+portions, of a very different interest and evidence,
+which we here purposely abstain to touch upon. The
+classification of human knowledge will, therefore, have
+a more peculiar importance when we can include in it
+the moral, political, and metaphysical, as well as the
+physical portions of our knowledge. But such a survey
+does not belong to our present undertaking: and
+a general view of the connexion and order of the
+branches of sciences which our review has hitherto included,
+will even now possess some interest; and may
+serve hereafter as an introduction to a more complete
+scheme of the general body of human knowledge.
+2. In this, as in any other case, a sound classification
+must be the result, not of any assumed principles
+imperatively applied to the subject, but of an examination
+of the objects to be classified;—of an analysis of
+them into the principles in which they agree and differ.
+The Classification of Sciences must result from the
+consideration of their nature and contents. Accordingly,
+that review of the Sciences in which the History of
+the Sciences engaged us, led to a Classification, of which
+the main features are indicated in that work. The
+Classification thus obtained, depends neither upon the
+faculties of the mind to which the separate parts of
+our knowledge owe their origin, nor upon the objects
+which each science contemplates; but upon a more 137
+natural and fundamental element;—namely, the Ideas
+which each science involves. The Ideas regulate and
+connect the facts, and are the foundations of the reasoning,
+in each science: and having in another work
+more fully examined these Ideas, we are now prepared
+to state here the classification to which they lead. If
+we have rightly traced each science to the Conceptions
+which are really fundamental with regard to it, and
+which give rise to the first principles on which it
+depends, it is not necessary for our purpose that we
+should decide whether these Conceptions are absolutely
+ultimate principles of thought, or whether, on the contrary,
+they can be further resolved into other Fundamental Ideas.
+We need not now suppose it determined whether or not Number
+is a mere modification
+of the Idea of Time, and Force a mere modification of
+the Idea of Cause: for however this may be, our Conception
+of Number is the foundation of Arithmetic,
+and our Conception of Force is the foundation of Mechanics.
+It is to be observed also that in our classification,
+each Science may involve, not only the Ideas
+or Conceptions which are placed opposite to it in the
+list, but also all which precede it. Thus Formal Astronomy
+involves not only the Conception of Motion, but
+also those which are the foundation of Arithmetic and
+Geometry. In like manner. Physical Astronomy employs the
+Sciences of Statics and Dynamics, and thus,
+rests on their foundations; and they, in turn, depend
+upon the Ideas of Space and of Time, as well as of
+Cause.
+3. We may further observe, that this arrangement
+of Sciences according to the Fundamental Ideas which
+they involve, points out the transition from those parts
+of human knowledge which have been included in our
+History and Philosophy, to other regions of speculation
+into which we have not entered. We have repeatedly
+found ourselves upon the borders of inquiries of a
+psychological, or moral, or theological nature. Thus
+the History of Physiology28
+led us to the consideration 138
+of Life, Sensation, and Volition; and at these Ideas we
+stopped, that we might not transgress the boundaries of
+our subject as then predetermined. It is plain that
+the pursuit of such conceptions and their consequences,
+would lead us to the sciences (if we are allowed to call
+them sciences) which contemplate not only animal, but
+human principles of action, to Anthropology, and Psychology.
+In other ways, too, the Ideas which we hare
+examined, although manifestly the foundations of sciences
+such as we have here treated of also plainly
+pointed to speculations of a different order; thus the
+Idea of a Final Cause is an indispensable guide in
+Biology, as we have seen; but the conception of Design
+as directing the order of nature, once admitted, soon
+carries us to higher contemplations. Again, the Class
+of Palætiological Sciences which we were in the History
+led to construct, although we there admitted only
+one example of the Class, namely Geology, does in
+reality include many vast lines of research; as the
+history and causes of the division of plants and animals,
+the history of languages, arts, and consequently
+of civilization. Along with these researches, comes
+the question how far these histories point backwards to
+a natural or a supernatural origin; and the Idea of a
+First Cause is thus brought under our consideration.
+Finally, it is not difficult to see that as the Physical
+Sciences have their peculiar governing Ideas, which
+support and shape them, so the Moral and Political
+Sciences also must similarly have their fundamental
+and formative Ideas, the source of universal and certain
+truths, each of their proper kind. But to follow
+out the traces of this analogy, and to verify the
+existence of those Fundamental Ideas in Morals and
+Politics, is a task quite out of the sphere of the work
+in which we are here engaged.
+28
+ Hist. Ind. Sc. b. xvii. c. v. sect. 2.
+
+4. We may now place before the reader our Classification
+of the Sciences. I have added to the list of
+Sciences, a few not belonging to our present subject,
+that the nature of the transition by which we are to
+extend our philosophy into a wider and higher region
+may be in some measure perceived. 139
+The Classification of the Sciences is given over leaf.
+A few remarks upon it offer themselves.
+The Pure Mathematical Sciences can hardly be called
+Inductive Sciences. Their principles are not obtained
+by Induction from Facts, but are necessarily assumed
+in reasoning upon the subject matter which those
+sciences involve.
+The Astronomy of the Ancients aimed only at explaining
+the motions of the heavenly bodies, as a mechanism.
+Modern Astronomy, explains these motions on
+the principles of Mechanics.
+The term Physics, when confined to a peculiar
+class of Sciences, is usually understood to exclude the
+Mechanical Sciences on the one side, and Chemistry
+on the other; and thus embraces the Secondary Mechanical
+and Analytico-Mechanical Sciences. But the adjective
+Physical applied to any science and opposed
+to Formal, as in Astronomy and Optics, implies those
+speculations in which we consider not only the Laws
+of Phenomena but their Causes; and generally, as
+in those cases, their Mechanical Causes.
+The term Metaphysics is applied to subjects in which
+the Facts examined are emotions, thoughts and mental
+conditions; subjects not included in our present survey. 140
+
+
+Fundamental Ideas or
+Conceptions.Sciences.Classification.
+
+
+SpaceGeometry⎫
+
+
+Time⎪Pure Mathematical
+
+
+NumberArithmetic⎬
+
+
+SignAlgebra⎪ Sciences.
+
+
+LimitDifferentials⎭
+
+
+MotionPure Mechanism⎱Pure Motional
+
+
+Formal Astronomy⎰Sciences.
+
+
+
+
+
+Cause
+
+
+ForceStatics⎫
+
+
+MatterDynamics⎪Mechanical
+
+
+Inertia Hydrostatics⎬
+
+
+Fluid PressureHydrodynamics⎪Sciences.
+
+
+Physical Astronomy⎭
+
+
+Outness
+
+
+Medium of SensationAcoustics⎫
+
+
+Intensity of QualitiesFormal Optics⎪Secondary
+
+
+Scales of QualitiesPhysical Optics⎬Mechanical
+
+
+Thermotics⎪Sciences.
+
+
+Atmology⎭(Physics.)
+
+
+PolarityElectricity⎫Analytico-Mecha-
+
+
+Magnetism⎬nical Sciences.
+
+
+Galvanism⎭(Physics.)
+
+
+Element (Composition)
+
+
+Chemical Affinity
+
+
+Substance (Atoms)ChemistryAnalytical Science.
+
+
+SymmetryCrystallography⎱Analytico-Classifi-
+
+
+LikenessSystematic Mineralogy⎰catory Sciences.
+
+
+Degrees of LikenessSystematic Botany⎫Classificatory
+
+
+Systematic Zoology⎬
+
+
+Natural AffinityComparative Anatomy⎭Sciences.
+
+
+(Vital Powers)
+
+
+Assimilation
+
+
+Irritability
+
+
+(Organization)BiologyOrganical Sciences.
+
+
+Final Cause
+
+
+Instinct
+
+
+EmotionPsychology(Metaphysics.)
+
+
+Thought
+
+
+Historical CausationGeology⎫
+
+
+Distribution of⎪Palætiological
+
+
+ Plants and Animals⎬
+
+
+Glossology⎪Sciences.
+
+
+Ethnography⎭
+
+
+First CauseNatural Theology.
+
+
+ 
+
+INDUCTIVE CHARTS
+
+[Transcriber's note: Two large charts were inserted into the book at this point. Here
+they have been reproduced as tables. But since the originals were much wider than the book
+pages they are somewhat unwieldy tables. They are omitted in ePub and Kindle files.
+In the lines containing brackets, vertical lines
+are used to indicate the range of columns thus brought together, where this is not obvious.
+To move on to the text of Book III., click here.]
+</div></body></text></TEI>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 216-217</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 216-217.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1843">undated (estimated from box 166 date range)</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 216-217</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_216-217.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Monday Afternoon</p>
+      <p>Dearest W. Letters came from Charlotte this morning, which have entirely satisfied H's mind about remaining.</p>
+      <p>I have written to Charlotte that I will go down, if she is taken ill before such</p>
+      <p>time as H-- ought to leave Town. They have only to send up a person immediately with a note to me, (which would not be very costly), &amp; I would go of course instantly; &amp; could be there very easily &amp; quickly indeed.-- For no one is so easily packed off as I am.</p>
+      <p>Emily has been here. She tells me that every one admired my dress extremely.</p>
+      <p>I hear your Mother &amp; the L. K's are quite Henry-Fortescue cracked at present. How very strangely they take up &amp; put down.</p>
+    </div></body>
+  </text>
+</TEI>

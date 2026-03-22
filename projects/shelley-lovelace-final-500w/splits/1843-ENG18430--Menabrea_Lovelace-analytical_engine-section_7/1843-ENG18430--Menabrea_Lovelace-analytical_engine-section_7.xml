@@ -1,0 +1,505 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Sketch of the Analytical Engine with Notes by the Translator</title><author>Menabrea, Luigi; Lovelace, Ada</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1843</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="7">
+NOTE E.—Page 19.
+[Pg 46]
+This example has evidently been chosen on account of its brevity and
+simplicity, with a view merely to explain the manner in which
+the engine would proceed in the case of an analytical calculation
+containing variables, rather than to illustrate the extent of its
+powers to solve cases of a difficult and complex nature. The equations
+of page 14 are in fact a more complicated problem than the present one.
+We have not subjoined any diagram of its development for this new
+example, as we did for the former one, because this is unnecessary
+after the full application already made of those diagrams to the
+illustration of M. Menabrea’s excellent tables.
+It may be remarked that a slight discrepancy exists between the formulæ
+
+given in the Memoir as the data for calculation, and the
+results of the calculation as developed in the last division of
+the table which accompanies it. To agree perfectly with this latter,
+the data should have been given as
+
+The following is a more complicated example of the manner in which the
+engine would compute a trigonometrical function containing variables.
+To multiply
+
+Let the resulting products be represented under the general form
+
+
+This trigonometrical series is not only in itself very appropriate
+for illustrating the processes of the engine, but is likewise of much
+practical interest from its frequent use in astronomical computations.
+Before proceeding further with it, we shall point out that there are
+three very distinct classes of ways in which it may be desired to
+deduce numerical values from any analytical formula.
+First. We may wish to find the collective, numerical value of the
+whole formula, without any reference to the quantities of
+which that formula is a function, or to the particular mode of their
+combination and distribution, of which the formula is the result and
+representative. Values of this kind are of a strictly arithmetical
+nature in the most limited sense of the term, and retain no trace
+whatever of the processes through which they have been deduced. In
+fact, any one such numerical value may have been attained from an
+infinite variety of data, or of problems. The values for 
+and  in the two equations (see Note D.), come under this class of
+numerical results.
+Secondly. We may propose to compute the collective numerical value of
+each term of a formula, or of a series, and to keep these results
+[Pg 47]
+separate. The engine must in such a case appropriate as many columns to
+results as there are terms to compute.
+Thirdly. It may be desired to compute the numerical value of various
+subdivisions of each term, and to keep all these results
+separate. It may be required, for instance, to compute each coefficient
+separately from its variable, in which particular case the engine must
+appropriate two result-columns to every term that contains
+both a variable and coefficient.
+There are many ways in which it may be desired in special cases to
+distribute and keep separate the numerical values of different parts of
+an algebraical formula; and the power of effecting such distributions
+to any extent is essential to the algebraical character of
+the Analytical Engine. Many persons who are not conversant with
+mathematical studies, imagine that because the business of the engine
+is to give its results in numerical notation, the nature
+of its processes must consequently be arithmetical and
+numerical, rather than algebraical and analytical.
+This is an error. The engine can arrange and combine its numerical
+quantities exactly as if they were letters or any other
+general symbols; and in fact it might bring out its results in
+algebraical notation, were provisions made accordingly. It might
+develope three sets of results simultaneously, viz. symbolic
+results (as already alluded to in Notes A. and B.); numerical
+results (its chief and primary object); and algebraical results
+in literal notation, This latter however has not been deemed
+a necessary or desirable addition to its powers, partly because the
+necessary arrangements for effecting it would increase the complexity
+and extent of the mechanism to a degree that would not be commensurate
+with the advantages, where the main object of the invention is to
+translate into numerical language general formulæ of analysis already
+known to us, or whose laws of formation are known to us. But it would
+be a mistake to suppose that because its results are given
+in the notation of a more restricted science, its processes
+are therefore restricted to those of that science. The object of the
+engine is in fact to give the utmost practical efficiency to the
+resources of numerical interpretations of the higher science of
+analysis, while it uses the processes and combinations of this latter.
+To return to the trigonometrical series. We shall only consider
+the four first terms of the factor
+(),
+since this will be sufficient to show the method. We propose to
+obtain separately the numerical value of each coefficient
+, , &c. of (1.). The direct
+multiplication of the two factors gives
+
+a result which would stand thus on the engine:—
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Pg 48]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+()
+()
+()
+
+
+
+The variable belonging to each coefficient is written below it,
+as we have done in the diagram, by way of memorandum. The only
+further reduction which is at first apparently possible in the
+preceding result, would be the addition of  to
+ (in which case  should
+be effaced from ). The whole operations from the
+beginning would then be—
+
+
+First Series of
+Operations.
+Second Series of
+Operations.
+Third Series, which contains
+only one (final) operation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We do not enter into the same detail of every step of the
+processes as in the examples of Notes D. and G., thinking it
+unnecessary and tedious to do so. The reader will remember the meaning
+and use of the upper and lower indices, &c., as before explained.
+To proceed: we know that
+
+Consequently, a slight examination of the second line of (2.) will show
+that by making the proper substitutions, (2.) will become
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+These coefficients should respectively appear on
+
+We shall perceive, if we inspect the particular arrangement of the
+results in (2.) on the Result-columns as represented in the diagram,
+that, in order to effect this transformation, each successive
+coefficient upon , , &c.
+(beginning with ), must through means of proper
+cards be divided by two[25]; and that one of the halves thus[Pg 49] obtained
+must be added to the coefficient on the Variable which precedes
+it by ten columns, and the other half to the coefficient on the
+Variable which precedes it by twelve columns; ,
+, &c. themselves becoming zeros during the process.
+This series of operations may be thus expressed:—
+Fourth Series.[26]
+
+
+
+The calculation of the coefficients , ,
+&c. of (1.), would now be completed, and they would stand ranged in
+order on , , &c. It will be
+remarked, that from the moment the fourth series of operations is
+ordered, the Variables , ,
+&c. cease to be Result-Variables, and become mere
+Working-Variables.
+The substitution made by the engine of the processes in the second
+side of (3.) for those in the first side, is an excellent illustration
+of the manner in which we may arbitrarily order it to substitute any
+function, number, or process, at pleasure, for any other function,
+number or process, on the occurrence of a specified contingency.
+We will now suppose that we desire to go a step further, and to obtain
+the numerical value of each complete term of the product (1.),
+that is of each coefficient and variable united, which for the
+()th term would be .
+We must for this purpose place the variables themselves on another
+set of columns, , , &c., and
+then order their successive multiplication by ,
+, &c., each for each. There would thus be a
+final series of operations as follows:—
+Fifth and Final Series of Operations.
+
+(N.B. that  being intended to receive the
+coefficient on  which has no variable, will
+only have  inscribed on it, preparatory to
+commencing the fifth series of operations.)
+From the moment that the fifth and final series of operations is
+ordered, the Variables , , &c.
+then in their turn cease to be Result-Variables and become mere
+[Pg 50]
+Working-Variables; , , &c.
+being now the recipients of the ultimate results.
+We should observe, that if the variables , ,
+, &c. are furnished, they would be placed directly upon
+, , &c., like any other data.
+If not, a separate computation might be entered upon in a separate
+part of the engine, in order to calculate them, and place them on
+, &c.
+We have now explained how the engine might compute (1.) in the most
+direct manner, supposing we knew nothing about the general term
+of the resulting series. But the engine would in reality set to work
+very differently, whenever (as in this case) we do know the law
+for the general term.
+The two first terms of (1.) are
+
+and the general term for all after these is
+
+which is the coefficient of the ( term. The engine would
+calculate the two first terms by means of a separate set of suitable
+Operation-cards, and would then need another set for the third term;
+which last set of Operation-cards would calculate all the succeeding
+terms ad infinitum; merely requiring certain new Variable-cards
+for each term to direct the operations to act on the proper columns.
+The following would be the successive sets of operations for computing
+the coefficients of  terms—
+
+Or we might represent them as follows, according to the numerical order
+of the operations:—
+
+The brackets, it should be understood, point out the relation in
+which the operations may be grouped, while the comma marks
+succession. The symbol + might be used for this latter purpose,
+but this would be liable to produce confusion, as + is also necessarily
+used to represent one class of the actual operations which are the
+subject of that succession. In accordance with this meaning attached to
+the comma, care must be taken when any one group of operations recurs
+more than once, as is represented above by  (11 ... 15), not to
+insert a comma after the number or letter prefixed to that group.
+,(11 ... 15) would stand for an operation  followed
+by the group of operations (11 ... 15); instead of denoting the
+number of groups which are to follow each other.
+Wherever a general term exists, there will be a recurring
+group of operations, as in the above example. Both for brevity and
+for distinctness, a recurring group is called a cycle.
+A cycle of operations, then, must be understood to signify any
+set of operations which is repeated more than once.
+It is equally a cycle, whether it be repeated twice
+only, or an indefinite number of times; for it is the fact of a
+repetition occurring at all that constitutes it such. In many
+cases of analysis there is a recurring group of one or more
+[Pg 51]
+cycles; that is, a cycle of a cycle, or a cycle of
+cycles. For instance: suppose we wish to divide a series by a
+series,
+
+it being required that the result shall be developed, like the dividend
+and the divisor, in successive powers of . A little consideration
+of (1.), and of the steps through which algebraical division is
+effected, will show that (if the denominator be supposed to consist
+of  terms) the first partial quotient will be completed by the
+following operations:—
+
+that the second partial quotient will be completed by an exactly
+similar set of operations, which acts on the remainder obtained by
+the first set, instead of on the original dividend. The whole of the
+processes therefore that have been gone through, by the time the
+second partial quotient has been obtained, will be,—
+
+which is a cycle that includes a cycle, or a cycle of the second order.
+The operations for the complete division, supposing we propose
+to obtain  terms of the series constituting the quotient, will
+be,—
+
+It is of course to be remembered that the process of algebraical
+division in reality continues ad infinitum, except in the few
+exceptional cases which admit of an exact quotient being obtained. The
+number  in the formula (4.), is always that of the number of terms
+we propose to ourselves to obtain; and the th partial quotient is
+the coefficient of the ()th power of .
+There are some cases which entail cycles of cycles of cycles, to
+an indefinite extent. Such cases are usually very complicated, and they
+are of extreme interest when considered with reference to the engine.
+The algebraical development in a series, of the th function of any
+given function, is of this nature. Let it be proposed to obtain the
+th function of
+
+We should premise that we suppose the reader to understand what is
+meant by an th function. We suppose him likewise to comprehend
+distinctly the difference between developing an th
+function algebraically, and merely calculating an th
+function arithmetically. If he does not, the following will
+be by no means very intelligible; but we have not space to give any
+preliminary explanations. To proceed: the law, according to which the
+successive functions of (5.) are to be developed, must of course first
+be fixed on. This law may be of very various kinds. We may propose to
+obtain our results in successive powers of , in which case
+the general form would be
+
+[Pg 52]
+or in successive powers of  itself, the index of the function we
+are ultimately to obtain, in which case the general form would be
+
+and  would only enter in the coefficients. Again, other functions
+of  or of  instead of powers, might be selected. It
+might be in addition proposed, that the coefficients themselves should
+be arranged according to given functions of a certain quantity. Another
+mode would be to make equations arbitrarily amongst the coefficients
+only, in which case the several functions, according to either of
+which it might be possible to develop the th function of (5.),
+would have to be determined from the combined consideration of these
+equations and of (5.) itself.
+The algebraical nature of the engine (so strongly insisted
+on in a previous part of this Note) would enable it to follow out
+any of these various modes indifferently; just as we recently showed
+that it can distribute and separate the numerical results of any one
+prescribed series of processes, in a perfectly arbitrary manner. Were
+it otherwise, the engine could merely compute the arithmetical
+th function, a result which, like any other purely
+arithmetical results, would be simply a collective number, bearing no
+traces of the data or the processes which had led to it.
+Secondly, the law of development for the th function being
+selected, the next step would obviously be to develope (5.) itself,
+according to this law. This result would be the first function, and
+would be obtained by a determinate series of processes. These in
+most cases would include amongst them one or more cycles of
+operations.
+The third step (which would consist of the various processes necessary
+for effecting the actual substitution of the series constituting
+the first function, for the variable itself) might
+proceed in either of two ways. It might make the substitution either
+wherever  occurs in the original (5.), or it might similarly make
+it wherever  occurs in the first function itself which is the
+equivalent of (5.). In some cases the former mode might be best, and in
+others the latter.
+Whichever is adopted, it must be understood that the result is to
+appear arranged in a series following the law originally prescribed
+for the development of the th function. This result constitutes
+the second function; with which we are to proceed exactly as we did
+with the first function, in order to obtain the third function; and
+so on,  times, to obtain the th function. We easily
+perceive that since every successive function is arranged in a series
+following the same law, there would (after the first
+function is obtained) be a cycle, of a cycle, of a cycle,
+&c. of operations[27], one, two, three, up to  times, in order
+to get the th function. We say, after the first function is
+obtained, because (for reasons on which we cannot here enter) the
+first function might in many cases be developed through a set
+[Pg 53]
+of processes peculiar to itself, and not recurring for the remaining
+functions.
+We have given but a very slight sketch, of the principal general
+steps which would be requisite for obtaining an th function of
+such a formula as (5.). The question is so exceedingly complicated,
+that perhaps few persons can be expected to follow, to their own
+satisfaction, so brief and general a statement as we are here
+restricted to on this subject. Still it is a very important case as
+regards the engine, and suggests ideas peculiar to itself, which we
+should regret to pass wholly without allusion. Nothing could be more
+interesting than to follow out, in every detail, the solution by the
+engine of such a case as the above; but the time, space and labour this
+would necessitate, could only suit a very extensive work.
+To return to the subject of cycles of operations: some of the
+notation of the integral calculus lends itself very aptly to express
+them: (2.) might be thus written:—
+
+where  stands for the variable; ( for the function of
+the variable, that is, for ; and the limits are from 1 to
+, or from 0 to , each increment being equal to unity.
+Similarly, (4.) would be,—
+
+the limits of  being from 1 to , or from 0 to ,
+
+Perhaps it may be thought that this notation is merely a circuitous way
+of expressing what was more simply and as effectually expressed before;
+and, in the above example, there may be some truth in this. But there
+is another description of cycles which can only effectually be
+expressed, in a condensed form, by the preceding notation. We shall
+call them varying cycles. They are of frequent occurrence, and
+include successive cycles of operations of the following nature:—
+
+where each cycle contains the same group of operations, but in which
+the number of repetitions of the group varies according to a fixed
+rate, with every cycle. (9.) can be well expressed as follows:—
+
+Independent of the intrinsic advantages which we thus perceive to
+result in certain cases from this use of the notation of the integral
+calculus, there are likewise considerations which make it interesting,
+from the connections and relations involved in this new application.
+It has been observed in some of the former Notes, that the processes
+used in analysis form a logical system of much higher generality
+than the applications to number merely. Thus, when we read over any
+algebraical formula, considering it exclusively with reference to the
+processes of the engine, and putting aside for the moment its abstract
+signification as to the relations of quantity, the symbols +, x, &c.,
+in reality represent (as their immediate and proximate effect, when the
+formula is applied to the engine) that a certain prism which is a part
+[Pg 54]
+of the mechanism (see Note C.), turns a new face, and thus presents
+a new card to act on the bundles of levers of the engine; the new
+card being perforated with holes, which are arranged according to the
+peculiarities of the operation of addition, or of multiplication, &c.
+Again, the numbers in the preceding formula (8.), each of them
+really represents one of these very pieces of card that are hung over
+the prism.
+Now in the use made in the formulæ (7.). (8.) and (10.), of the
+notation of the integral calculus, we have glimpses of a similar new
+application of the language of the higher mathematics. ,
+in reality, here indicates that when a certain number of cards have
+acted in succession, the prism over which they revolve must rotate
+backwards, so as to bring those cards into their former position;
+and the limits 1 to , 1 to  &c., regulate how often this
+backward rotation is to be repeated.
+A.A.L.</div></body></text></TEI>

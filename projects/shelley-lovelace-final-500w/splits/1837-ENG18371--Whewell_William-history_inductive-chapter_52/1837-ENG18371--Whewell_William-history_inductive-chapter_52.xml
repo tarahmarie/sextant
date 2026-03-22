@@ -1,0 +1,581 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="52">CHAPTER IV.
+Verification and Completion of the Newtonian
+Theory.
+
+Tables of the Moon and
+Planets.
+THE Newtonian discovery of
+Universal Gravitation, so remarkable in other respects, is also
+remarkable as exemplifying the immense extent to which the
+verification of a great truth may be carried, the amount of human
+labor which may be requisite to do it justice, and the striking
+extension of human knowledge to which it may lead. I have said that it
+is remarked as a beauty in the first fixation of a theory that its
+measures or elements are established by means of a few 551 data; but that its
+excellence when established is in the number of observations which it
+explains. The multiplicity of observations which are explained by
+astronomy, and which are made because astronomy explains them, is
+immense, as I have noted in the text. And the multitude of
+observations thus made is employed for the purpose of correcting the
+first adopted elements of the theory. I have mentioned some of the
+examples of this process: I might mention many others in order to
+continue the history of this part of Astronomy up to the present time.
+But I will notice only those which seem to me the most remarkable.
+In 1812, Burckhardt’s Tables de la Lune were published by
+the French Bureau des Longitudes. A comparison of these and Burg’s
+with a considerable number of observations, gave 9⁄100ths of
+a second as the mean error of the former in the Moon’s longitude,
+while the mean error of Burg’s was 18⁄100ths. The preference was
+therefore accorded to Burckhardt’s.
+Yet the Lunar Tables were still as much as thirty seconds wrong in
+single observations. This circumstance, and Laplace’s expressed wish,
+induced the French Academy to offer a prize for a complete and purely
+theoretical determination of the Lunar path, instead of determinations
+resting, as hitherto, partly upon theory and partly upon observations.
+In 1820, two prize essays appeared, the one by Damoiseau, the other by
+Plana and Carlini. And some years afterwards (in 1824, and again in
+1828), Damoiseau published Tables de la Lune formées sur la seule
+Théorie d’Attraction. These agree very closely with observation.
+That we may form some notion of the complexity of the problem, I may
+state that the longitude of the Moon is in these Tables affected by no
+fewer than forty-seven equations; and the other quantities
+which determine her place are subject to inequalities not much less in
+number.
+Still I had to state in the second Edition, published in 1847, that
+there remained an unexplained discordance between theory and
+observation in the motions of the Moon; an inequality of long period
+as it seemed, which the theory did not give.
+A careful examination of a long series of the best observations of
+the Moon, compared throughout with the theory in its most perfect
+form, would afford the means both of correcting the numerical elements
+of the theory, and of detecting the nature, and perhaps the law, of
+any still remaining discrepancies. Such a work, however, required vast
+labor, as well as great skill and profound mathematical knowledge.
+552 Mr. Airy
+undertook the task; employing for that purpose, the Observations of
+the Moon made at Greenwich from 1750 to 1830. Above 8000 observed
+places of the Moon were compared with theory by the computation of the
+same number of places, each separately and independently calculated
+from Plana’s Formulæ. A body of calculators (sometimes sixteen), at
+the expense of the British Government, was employed for about eight
+years in this work. When we take this in conjunction with the labor
+which the observations themselves imply, it may serve to show on what
+a scale the verification of the Newtonian theory has been conducted.
+The first results of this labor were published in two quarto volumes;
+the final deductions as to correction of elements, &c., were given
+in the Memoirs of the Astronomical Society in 1848.48
+48 The total expense of computers, to
+the end of reading the proof-sheets, was 4300l.
+ Mr. Airy’s estimate of days’ works [made before beginning], for
+the heavy part of calculations only, was thirty-six years of one
+computer. This was somewhat exceeded, but not very greatly, in that
+part.
+Even while the calculations were going on, it became apparent that
+there were some differences between the observed places of the Moon,
+and the theory so far as it had then been developed. M. Hansen, an
+eminent German mathematician who had devised new and powerful methods
+for the mathematical determination of the results of the law of
+gravitation, was thus led to explore still further the motions of the
+Moon in pursuance of this law. The result was that he found there must
+exist two lunar inequalities, hitherto not known; the one of 273, and
+the other of 239 years, the coefficients of which are respectively 27
+and 23 seconds. Both these originate in the attraction of Venus; one
+of them being connected with the long inequality in the Solar Tables,
+of which Mr. Airy had already proved the existence, as stated in Chap.
+vi. Sect. 6 of this Book.
+These inequalities fell in with the discrepancies between the
+actual observations and the previously calculated Tables, which Mr.
+Airy had discovered. And again, shortly afterwards, M. Hansen found
+that there resulted from the theory two other new equations of the
+Moon; one in latitude and one in longitude, agreeing with two which
+were found by Mr. Airy in deducing from the observations the
+correction of the elements of the Lunar Tables. And again, a little
+later, there was detected by these mathematicians a theoretical
+correction for the 553 motion of the Node of the Moon’s orbit,
+coinciding exactly with one which had been found to appear in the
+observations.
+Nothing can more strikingly exhibit the confirmation which
+increased scrutiny brings to light between the Newtonian theory on the
+one hand, and the celestial motions on the other. We have here a very
+large mass of the best observations which have ever been made,
+systematically examined, with immense labor, and with the set purpose
+of correcting at once all the elements of the Lunar Tables. The
+corrections of the elements thus deduced imply of course some error in
+the theory as previously developed. But at the same time, and with the
+like determination thoroughly to explore the subject, the theory is
+again pressed to yield its most complete results, by the invention of
+new and powerful mathematical methods; and the event is, that residual
+errors of the old Tables, several in number, following the most
+diverse laws, occurring in several detached parts, agree with the
+residual results of the Theory thus newly extracted from it. And thus
+every additional exactness of scrutiny into the celestial motions on
+the one hand and the Newtonian theory on the other, has ended, sooner
+or later, in showing the exactness of their coincidence.
+The comparison of the theory with observation in the case of the
+motions of the Planets, the motion of each being disturbed by the
+attraction of all the others, is a subject in some respects still more
+complicated and laborious. This work also was undertaken by the same
+indefatigable astronomer; and here also his materials belonged to the
+same period as before; being the admirable observations made at
+Greenwich from 1750 to 1830, during the time that Bradley, Maskelyne,
+and Pond were the Astronomers Royal.49 These Planetary
+observations were deduced, and the observed places were compared with
+the tabular places: with Lindenau’s Tables of Mercury, Venus, and
+Mars; and with Bouvard’s Tables of Jupiter, Saturn, and Uranus; and
+thus, while the received theory and its elements were confirmed, the
+means of testing any improvement which may hereafter be proposed,
+either in the form of the theoretical results or in the constant
+elements which they involved, was placed within the reach of the 554 astronomers of all
+future time. The work appeared in 1845; the expense of the
+compilations and the publication being defrayed by the British
+Government.
+49 The observations of stars made by
+Bradley, who preceded Maskelyne at Greenwich, had already been
+discussed by Bessel, a great German astronomer; and the results
+published in 1818, with a title that well showed the estimation in
+which he held those materials: Fundamenta Astronomiæ pro anno
+1775, deducta ex Ohservationibus viri incomparabilis James Bradley
+in specula Astronomica Grenovicensi per annos 1750–1762
+institutis.
+The Discovery of Neptune.
+The theory of gravitation was destined to receive a confirmation
+more striking than any which could arise from any explanation, however
+perfect, given by the motions of a known planet; namely, in revealing
+the existence of an unknown planet, disclosed to astronomers by the
+attraction which it exerted upon a known one. The story of the
+discovery of Neptune by the calculations of Mr. Adams and M. Le
+Verrier was partly told in the former edition of this History. I had
+there stated (vol. ii. p. 306) that “a deviation of observation from
+the theory occurs at the very extremity of the solar system, and that
+its existence appears to be beyond doubt. Uranus does not conform to
+the Tables calculated for him on the theory of gravitation. In 1821,
+Bouvard said in the Preface to the Tables of this Planet, “the
+formation of these Tables offers to us this alternative, that we
+cannot satisfy modern observations to the requisite degree of
+precision without making our Tables deviate from the ancient
+observations.” But when we have done this, there is still a
+discordance between the Tables and the more modern observations, and
+this discordance goes on increasing. At present the Tables make the
+Planet come upon the meridian about eight seconds later than he really
+does. This discrepancy has turned the thoughts of astronomers to the
+effects which would result from a planet external to Uranus. It
+appears that the observed motion would be explained by applying a
+planet at twice the distance of Uranus from the Sun to exercise a
+disturbing force, and it is found that the present longitude of this
+disturbing body must be about 325 degrees.
+I added, “M. Le Verrier (Comptes Rendus, Jan. 1, 1846) and,
+as I am informed by the Astronomer Royal, Mr. Adams, of St. John’s
+College, Cambridge, have both arrived independently at this
+result.”
+To this Edition I added a Postscript, dated, Nov. 7, 1846, in which
+I said:
+“The planet exterior to Uranus, of which the existence was inferred
+by M. Le Verrier and Mr. Adams from the motions of Uranus (vol. ii.
+Note (l.)), has since been discovered. This
+confirmation of calculations founded upon the doctrine of universal
+gravitation, may be looked upon as the most remarkable event of the
+kind since the return of Halley’s comet in 1757  and in some respects,
+as a more striking event 555 even than that; inasmuch as the new
+planet had never been seen at all, and was discovered by
+mathematicians entirely by their feeling of its influence, which they
+perceived through the organ of mathematical calculation.
+“There can be no doubt that to M. Le Verrier belongs the glory of
+having first published a prediction of the place and appearance of the
+new planet, and of having thus occasioned its discovery by
+astronomical observers. M. Le Verrier’s first prediction was published
+in the Comptes Rendus de l’Acad. des Sciences, for June
+1, 1846 (not Jan. 1, as erroneously printed in my Note). A
+subsequent paper on the subject was read Aug. 31. The planet was seen
+by M. Galle, at the Observatory of Berlin, on September 23, on which
+day he had received an express application from M. Le Verrier,
+recommending him to endeavor to recognize the stranger by its having a
+visible disk. Professor Challis, at the Observatory of Cambridge, was
+looking out for the new planet from July 29, and saw it on August 4,
+and again on August 12, but without recognizing it, in consequence of
+his plan of not comparing his observations till he had accumulated a
+greater number of them. On Sept. 29, having read for the first time M.
+Le Verrier’s second paper, he altered his plan, and paid attention to
+the physical appearance rather than the position of the star. On that
+very evening, not having then heard of M. Galle’s discovery, he
+singled out the star by its seeming to have a disk.
+“M. Le Verrier’s mode of discussing the circumstances of Uranus’s
+motion, and inferring the new planet from these circumstances, is in
+the highest degree sagacious and masterly. Justice to him cannot
+require that the contemporaneous, though unpublished, labors of Mr.
+Adams, of St John’s College, Cambridge, should not also be recorded.
+Mr. Adams made his first calculations to account for the anomalies in
+the motion of Uranus, on the hypothesis of a more distant planet, in
+1843. At first he had not taken into account the earlier Greenwich
+observations; but these were supplied to him by the Astronomer Royal,
+in 1844. In September, 1845, Mr. Adams communicated to Professor
+Challis values of the elements of the supposed disturbing body;
+namely, its mean distance, mean longitude at a given epoch, longitude
+of perihelion, eccentricity of orbit, and mass. In the next month, he
+communicated to the Astronomer Royal values of the same elements,
+somewhat corrected. The note (l.), vol. ii.,
+of the present work (2d Ed.), in which the names of MM. Le Verrier and
+Adams are mentioned in conjunction, was in the press in August, 1846,
+a 556 month before
+the planet was seen. As I have stated in the text, Mr. Adams and M. Le
+Verrier assigned to the unseen planet nearly the same position; they
+also assigned to it nearly the same mass; namely, 2½ times the mass of
+Uranus. And hence, supposing the density to be not greater than that
+of Uranus, it followed that the visible diameter would be about 3”, an
+apparent magnitude not much smaller than Uranus himself.
+“M. Le Verrier has mentioned for the new planet the name
+Neptunus; and probably, deference to his authority as its
+discoverer, will obtain general currency for this name.”
+Mr. Airy has given a very complete history of the circumstances
+attending the discovery of Neptune, in the Memoirs of the Astronomical
+Society (read November 13, 1846). In this he shows that the
+probability of some disturbing body beyond Uranus had suggested itself
+to M. A. Bouvard and Mr. Hussey as early as 1834. Mr. Airy himself
+then thought that the time was not ripe for making out the nature of
+any external action on the planets. But Mr. Adams soon afterwards
+proceeded to work at the problem. As early as 1841 (as he himself
+informs me) he conjectured the existence of a planet exterior to
+Uranus, and recorded in a memorandum his design of examining its
+effect; but deferred the calculations till he had completed his
+preparations for the University examination which he was to undergo in
+January, 1843, in order to receive the Degree of Bachelor of Arts. He
+was the Senior Wrangler of that occasion, and soon afterwards
+proceeded to carry his design into effect; applying to the Astronomer
+Royal for recorded observations which might aid him in his task. On
+one of the last days of October, 1845, Mr. Adams went to the
+Observatory at Greenwich; and finding the Astronomer Royal abroad, he
+left there a paper containing the elements of the extra-Uranian
+Planet: the longitude was in this paper stated as 323½ degrees. It
+was, as we have seen, in June, 1846, that M. Le Verrier’s Memoir
+appeared, in which he assigned to the disturbing body a longitude of
+325 degrees. The coincidence was striking. “I cannot sufficiently
+express,” says Mr. Airy, “the feeling of delight and satisfaction
+which I received from the Memoir of M. Le Verrier.” This feeling
+communicated itself to others. Sir John Herschel said in September,
+1846, at a meeting of the British Association at Southampton, “We see
+it (the probable new planet) as Columbus saw America from the shores
+of Spain. Its movements have been felt, trembling along the
+far-reaching line of our analysis, with a certainty hardly inferior to
+that of ocular demonstration.” 557
+In truth, at the moment when this was uttered, the new Planet had
+already been seen by Professor Challis; for, as we have said, he had
+seen it in the early part of August. He had included it in the net
+which he had cast among the stars for this very purpose; but employing
+a slow and cautious process, he had deferred for a time that
+examination of his capture which would have enabled him to detect the
+object sought. As soon as he received M. Le Verrier’s paper of August
+31 on September 29, he was so much impressed with the sagacity and
+clearness of the limitations of the field of observation there laid
+down, that he instantly changed his plan of observation, and noted the
+planet, as an object having a visible disk, on the evening of the same
+day.
+In this manner the theory of gravitation predicted and produced the
+discovery. Thus to predict unknown facts found afterwards to be true,
+is, as I have said, a confirmation of a theory which in impressiveness
+and value goes beyond any explanation of known facts. It is a
+confirmation which has only occurred a few times in the history of
+science; and in the case only of the most refined and complete
+theories, such as those of Astronomy and Optics. The mathematical
+skill which was requisite in order to arrive at such a discovery, may
+in some measure be judged of by the account which we have had to give
+of the previous mathematical progress of the theory of gravitation. It
+there appeared that the lives of many of the most acute,
+clear-sighted, and laborious of mankind, had been employed for
+generations in solving the problem. Given the planetary bodies, to
+find their mutual perturbations: but here we have the inverse
+problem—Given the perturbations, to find the planets.50
+50 This may be called the
+inverse problem with reference to the older and more familiar
+problem; but we may remark that the usual phraseology of the Problem
+of Central Forces differs from this analogy. In Newton’s
+Principia, the earlier Sections, in which the motion is given
+to find the force, are spoken of as containing the Direct Problem of
+Central Forces: the Eighth Section of the First Book, where the Force
+is given to find the orbit, is spoken of as containing the
+Inverse Problem of Central Forces.
+The Minor Planets.
+The discovery of the Minor Planets which revolve between the orbits
+of Mars and Jupiter was not a consequence or confirmation of the
+Newtonian theory. That theory gives no reason for the distance of
+558 the Planets
+from the Sun; nor does any theory yet devised give such reason. But an
+empirical formula proposed by the Astronomer Bode of Berlin, gives a
+law of these distances (Bode’s Law), which, to make it
+coherent, requires a planet between Mars and Jupiter. With such an
+addition, the distance of Mercury, Venus, Earth, Mars, the Missing
+Planet, Jupiter, Saturn, and Uranus, are nearly as the numbers 4, 7, 10, 16, 28, 52, 100, 196,in which the excesses of each number above the preceding are
+the series 3, 3, 6, 12, 24, 48, 96.On the strength of this law the Germans wrote on
+the long-expected Planet, and formed themselves into associations
+for the discovery of it.
+Not only did this law stimulate the inquiries for the Missing
+Planet, and thus lead to the discovery of the Minor Planets, but it
+had also a share in the discovery of Neptune. According to the law, a
+planet beyond Uranus may be expected to be at the distance represented
+by 388. Mr. Adams and M. Le Verrier both of them began by assuming a
+distance of nearly this magnitude for the Planet which they sought;
+that is, a distance more than 38 times the earth’s distance. It was
+found afterwards that the distance of Neptune is only 30 times that of
+the earth; yet the assumption was of essential use in obtaining the
+result  and Mr. Airy remarks that the history of the discovery shows
+the importance of using any received theory as far as it will go, even
+if the theory can claim no higher merit than that of being
+plausible.51
+51 Account of the Discovery of
+Neptune, &c., Mem. Ast. Soc., vol. xvi. p. 414.
+The discovery of Minor Planets in a certain region of the interval
+between Mars and Jupiter has gone on to such an extent, that their
+number makes them assume in a peculiar manner the character of
+representatives of a Missing Planet. At first, as I have said in the
+text, it was supposed that all these portions
+must pass through or near a common node; this opinion being founded on
+the very bold doctrine, that the portions must at one time have been
+united in one Planet, and must then have separated. At this node, as I
+have stated, Olbers lay in wait for them, as for a hostile army at a
+defile. Ceres, Pallas, and Juno had been discovered in this way in the
+period from 1801 to 1804; and Vesta was caught in 1807. For a time the
+chase for new planets in this region seemed to have exhausted the
+stock. But after thirty-eight years, to the astonishment of
+astronomers, they began to be again detected in extraordinary numbers.
+In 1845, M. Hencke of 559 Driessen discovered a fifth of these
+planets, which was termed Astræa. In various quarters the chase was
+resumed with great ardor. In 1847 were found Hebe, Iris, and Flora; in
+1848, Metis; in 1849, Hygæa; in 1850, Parthenope, Victoria, and
+Egeria; in 1861, Irene and Eunomia; in 1852, Psyche, Thetis,
+Melpomene, Fortuna, Massilia, Lutetia, Calliope. To these we have now
+(at the close of 1856) to add nineteen others; making up the
+whole number of these Minor Planets at present known to
+forty-two.
+As their enumeration will show, the ancient practice has been
+continued of giving to the Planets mythological names. And for a time,
+till the numbers became too great, each of the Minor Planets was
+designated in astronomical books by some symbol appropriate to the
+character of the mythological person; as from ancient times Mars has
+been denoted by a mark indicating a spear, and Venus by one
+representing a looking-glass. Thus, when a Minor Planet was discovered
+at London in 1851, the year in which the peace of the world was, in a
+manner, celebrated by the Great Exhibition of the Products of All
+Nations, held at that metropolis, the name Irene was given to
+the new star, as a memorial of the auspicious time of its discovery.
+And it was agreed, for awhile, that its symbol should be a dove with
+an olive-branch. But the vast multitude of the Minor Planets, as
+discovery went on, made any mode of designation, except a numerical
+one, practically inconvenient. They are now denoted by a small circle
+inclosing a figure in the order of their discovery. Thus, Ceres
+is ⓵, Irene is ⑭, and Isis is ㊷.
+The rapidity with which these discoveries were made was owing in
+part to the formation of star-maps, in which all known fixed stars
+being represented, the existence of a new and movable star might be
+recognized by comparison of the sky with the map. These maps were
+first constructed by astronomers of different countries at the
+suggestion of the Academy of Berlin; but they have since been greatly
+extended, and now include much smaller stars than were originally laid
+down.
+I will mention the number of planets discovered in each year. After
+the start was once made, by Hencke’s discovery of Astræa in 1845, the
+same astronomer discovered Hebe in 1847; and in the same year Mr.
+Hind, of London, discovered two others, Iris and Flora. The years 1848
+and 1849 each supplied one; the year 1850, three; 1851, two; 1852 was
+marked by the extraordinary discovery of eight new members of
+the planetary system. The year 1853 supplied four; 1854, six; 1855,
+four; and 1856 has already given us five. 560
+These discoveries have been distributed among the observatories of
+Europe. The bright sky of Naples has revealed seven new planets to the
+telescope of Signer Gasparis. Marseilles has given us one; Germany,
+four, discovered by M. Luther at Bilk; Paris has furnished seven; and
+Mr. Hind, in Mr. Bishop’s private observatory in London,
+notwithstanding our turbid skies, has discovered no less than ten
+planets; and there also Mr. Marth discovered ㉙ Amphitrite. Mr.
+Graham, at the private observatory of Mr. Cooper, in Ireland,
+discovered ⓽ Metis.
+America has supplied its planet, namely ㉛ Euphrosyne,
+discovered by Mr. Ferguson at Washington  and the most recent of these
+discoveries is that by Mr. Pogson, of Oxford, who has found the
+forty-second of these Minor Planets, which has been named Isis.52
+52 I take this list from a Memoir of
+M. Bruhns, Berlin, 1856.
+I may add that it appears to follow from the best calculations that
+the total mass of all these bodies is very small. Herschel reckoned
+the diameters of Ceres at 35, and of Pallas at 26 miles. It has since
+been calculated53 that some of them are smaller still;
+Victoria having a diameter of 9 miles, Lutetia of 8, and Atalanta of
+little more than 4. It follows from this that the whole mass would
+probably be less than the sixth part of our moon. Hence their
+perturbing effects on each other or on other planets are null; but
+they are not the less disturbed by the action of the other planets,
+and especially of Jupiter.
+53 Bruhns, as above.
+Anomalies in the Action of Gravitation.
+The complete and exact manner in which the doctrine of gravitation
+explains the motions of the Comets as well as of the Planets, has made
+astronomers very bold in proposing hypotheses to account for any
+deviations from the motion which the theory requires. Thus Encke’s
+Comet is found to have its motion accelerated by about one-eighth of a
+day in every revolution. This result was conceived to be established
+by former observations, and is confirmed by the facts of the
+appearance of 1852.54 The hypothesis which is proposed in
+order to explain this result is, that the Comet moves in a resisting
+medium, which makes it fall inwards from its path, towards the Sun,
+and thus, by narrowing its orbit, diminishes its periodic time. On the
+other hand, M. Le Verrier has found that Mercury’s mean motion has
+gone on diminishing; 561 as if the planet were, in the progress
+of his revolutions, receding further from the Sun. This is explained,
+if we suppose that there is, in the region of Mercury, a resisting
+medium which moves round the Sun in the same direction as the Planets
+move. Evidence of a kind of nebulous disk surrounding the Sun, and
+extending beyond the orbits of Mercury and Venus, appears to be
+afforded us by the phenomenon called the Zodiacal Light; and as
+the Sun itself rotates on its axis, it is most probable that this kind
+of atmosphere rotates also.55 On the other hand, M. Le Verrier
+conceives that the Comets which now revolve within the ordinary
+planetary limits have not always done so, but have been caught and
+detained by the Planets among which they move. In this way the action
+of Jupiter has brought the Comets of Faye and Vico into their present
+limited orbits, as it drew the Comet of Lexell out of its known orbit,
+when the Comet passed over the Planet in 1779, since which time it has
+not been seen.
+54 Berlin Memoirs, 1854.
+55 M. Le Verrier, Annales de l’Obs.
+de Paris, vol. i. p. 89.
+Among the examples of the boldness with which astronomers assume
+the doctrine of gravitation even beyond the limits of the solar system
+to be so entirely established, that hypotheses may and must be assumed
+to explain any apparent irregularity of motion, we may reckon the mode
+of accounting for certain supposed irregularities in the proper motion
+of Sirius, which has been proposed by Bessel, and which M. Peters
+thinks is proved to be true by his recent researches (Astr.
+Nach. xxxi. p. 219, and xxxii. p. 1). The hypothesis is, that
+Sirius has a companion star, dark, and therefore invisible to us; and
+that the two, revolving round their common centre as the system moves
+on, the motion of Sirius is seen to be sometimes quicker and sometimes
+slower.
+The Earth’s Density.
+“Cavendish’s experiment,” as it is commonly called—the
+measure of the attractions of manageable masses by the torsion
+balance, in order to determine the density of the Earth—has been
+repeated recently by Professor Reich at Freiberg, and by Mr. Baily in
+England, with great attention to the means of attaining accuracy.
+Professor Reich’s result for the density of the Earth is 5·44; Mr.
+Baily’s is 5·92. Cavendish’s result was 5·48; according to recent
+revisions56 it is 5·52.
+56 The calculation has been revised by
+M. Edward Schmidt. Humboldt’s Kosmos, ii. p. 425.
+562 But the
+statical effect of the attraction of manageable masses, or even of
+mountains, is very small. The effect of a small change in gravity may
+be accumulated by being constantly repeated in the oscillations of a
+pendulum, and thus may become perceptible. Mr. Airy attempted to
+determine the density of the Earth by a method depending on this view.
+A pendulum oscillating at the surface was to be compared with an equal
+pendulum at a great depth below the surface. The difference of their
+rates would disclose the different force of gravity at the two
+positions; and hence, the density of the Earth. In 1826 and 1828, Mr.
+Airy attempted this experiment at the copper mine of Dolcoath in
+Cornwall, but failed from various causes. But in 1854, he resumed it
+at the Harton coal mine in Durham, the depth of which is 1260 feet;
+having in this new trial, the advantage of transmitting the time from
+one station to the other by the instantaneous effect of galvanism,
+instead of by portable watches. The result was a density of 6·56;
+which is much larger than the preceding results, but, as Mr. Airy
+holds, is entitled to compete with the others on at least equal
+terms.
+Tides.
+I should be wanting in the expression of gratitude to those who
+have practically assisted me in Researches on the Tides, if I did not
+mention the grand series of Tide Observations made on the coast of
+Europe and America in June, 1835, through the authority of the Board
+of Admiralty, and the interposition of the late Duke of Wellington, at
+that time Foreign Secretary. Tide observations were made for a
+fortnight at all the Coast-guard stations of Great Britain and Ireland
+in June, 1834; and these were repeated in June, 1835, with
+corresponding observations on all the coasts of Europe, from the North
+Cape of Norway to the Straits of Gibraltar; and from the mouth of the
+St. Lawrence to the mouth of the Mississippi. The results of these
+observations, which were very complete so far as the coast tides were
+concerned, were given in the Philosophical Transactions for
+1836.
+Additional accuracy respecting the Tides of the North American
+coast may be expected from the survey now going on under the direction
+of Superintendent A. Bache. The Tides of the English Channel have been
+further investigated, and the phenomena presented under a new point of
+view by Admiral Beechey. 563
+The Tides of the Coast of Ireland have been examined with great
+care by Mr. Airy. Numerous and careful observations were made with a
+view, in the first instance, of determining what was to be regarded as
+“the Level of the Sea;” but the results were discussed so as to bring
+into view the laws and progress, on the Irish coast, of the various
+inequalities of the Tides mentioned in Chap. iv. Sect. 9 of this Book.
+I may notice as one of the curious results of the Tide Observations
+of 1836, that it appeared to me, from a comparison of the
+Observations, that there must be a point in the German Ocean, about
+midway between Lowestoft on the English coast, and the Brill on the
+Dutch coast, where the tide would vanish: and this was ascertained to
+be the case by observation; the observations being made by Captain
+Hewett, then employed in a survey of that sea.
+Cotidal Lines supply, as I conceive, a good and simple
+method of representing the progress and connection of
+littoral tides. But to draw cotidal lines across oceans, is a
+very precarious mode of representing the facts, except we had much
+more knowledge on the subject than we at present possess. In the
+Phil. Trans. for 1848, I have resumed the subject of the Tides
+of the Pacific; and I have there expressed my opinion, that while the
+littoral tides are produced by progressive waves, the oceanic tides
+are more of the nature of stationary undulations.
+But many points of this kind might be decided, and our knowledge on
+this subject might be brought to a condition of completeness, if a
+ship or ships were sent expressly to follow the phenomena of the Tides
+from point to point, as the observations themselves might suggest a
+course. Till this is done, our knowledge cannot be completed. Detached
+and casual observations, made aliud agendo, can never carry us
+much beyond the point where we at present are.
+Double Stars.
+Sir John Herschel’s work, referred to in
+the History (2d Ed.) as then about to appear, was published in 1847.57 In this work, besides a vast amount of
+valuable observations and reasonings on other subjects 564 (as Nebulæ, the
+Magnitude of Stars, and the like), the orbits of several double stars
+are computed by the aid of the new observations. But Sir John
+Herschel’s conviction on the point in question, the operation of the
+Newtonian law of gravitation in the region of the stars, is expressed
+perhaps more clearly in another work which he published in 1849.58 He there speaks of Double Stars, and
+especially of gamma Virginis, the one which has been most
+assiduously watched, and has offered phenomena of the greatest
+interest.59 He then finds that the two components
+of this star revolve round each other in a period of 182 years; and
+says that the elements of the calculated orbit represent the whole
+series of recorded observations, comprising an angular movement of
+nearly nine-tenths of a complete circuit, both in angle and distance,
+with a degree of exactness fully equal to that of observation itself.
+“No doubt can therefore,” he adds, “remain as to the prevalence
+in this remote system of the Newtonian Law of Gravitation.”
+57 Results of Astronomical
+Observations made during the years 1834, 5, 6, 7, 8, at the
+Cape of Good Hope, being the completion of a Telescopic Survey of the
+whole Surface of the visible Heavens commenced in 1825.
+58 Outlines of Astronomy.
+59 Out. 844.
+Yet M. Yvon de Villarceau has endeavored to show60 that this conclusion, however probable,
+is not yet proved. He holds, even for the Double Stars, which have
+been most observed, the observations are only equivalent to seven or
+eight really distinct data, and that seven data are not sufficient to
+determine that an ellipse is described according to the Newtonian law.
+Without going into the details of this reasoning, I may remark, that
+the more rapid relative angular motion of the components of a Double
+Star when they are more near each other, proves, as is allowed on all
+hands, that they revolve under the influence of a mutual attractive
+force, obeying the Keplerian Law of Areas. But that, whether this
+force follows the law of the inverse square or some other law, can
+hardly have been rigorously proved as yet, we may easily conceive,
+when we recollect the manner in which that law was proved for the
+Solar System. It was by means of an error of eight minutes,
+observed by Tycho, that Kepler was enabled, as he justly boasted, to
+reform the scheme of the Solar System,—to show, that is, that
+the planetary orbits are ellipses with the sun in the focus. Now, the
+observations of Double Stars cannot pretend to such accuracy as this;
+and therefore the Keplerian theorem cannot, as yet, have been fully
+demonstrated from those observations. But when we know 565 that Double Stars are
+held together by a central force, to prove that this force follows a
+different law from the only law which has hitherto been found to
+obtain in the universe, and which obtains between all the known masses
+of the universe, would require very clear and distinct evidence, of
+which astronomers have as yet seen no trace.
+60 Connaissance des Temps, for
+1852; published in 1849.
+</div></body></text></TEI>

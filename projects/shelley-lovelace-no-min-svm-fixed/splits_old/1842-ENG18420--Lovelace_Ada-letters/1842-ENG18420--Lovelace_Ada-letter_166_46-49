@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 46-49</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 46-49.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1842">undated [30 July 1842]</date>
+          <note type="place">St. James's Square</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 46-49</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_46-49.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>July 30, 1842</p>
+      <p>St James' Sqre Satdy. 5 o'clock</p>
+      <p>Dearest Mate. I have but a minute for you. My mother will I expect be able to move to Ockham on Tuesday; but I was obliged to come away at 3 o'clock, before Locock had again seen her. She was up in the drawing-room this morning in good time; but coughing most painfully still, &amp; very high fever threatening. I am myself</p>
+      <p>working like a horse, &amp; endeavouring to do everything that can promote such plans as you will approve, &amp; tend to settle all my ideas &amp; affairs, &amp; get things into the complete order I wish to establish. I expect to go down to Ockham with my mother, &amp; shall probably send away our carriage tomorrow, as I think you may dislike its remaining. However I shall see.</p>
+      <p>The Hen says I am of very great use &amp; comfort to her.</p>
+      <p>I am so arranging my plans that I may not</p>
+      <p>probably require to come up to Town again at all for some time, excepting once for a morning about the 11th or 12th. And I hope I shall succeed in this; as I know you would prefer such a state of things. At any rate be satisfied of one thing: that I am endeavouring not to make excuses for coming to Town, but on the contrary to entail those reasons which are good for bringing me to Town. And I assure you that I am exerting myself very much, dear Mate. I met Mr</p>
+      <p>Wharton today at the Hen's. He paid me such very flattering compliments that the Bird actually blushed; &amp; the Hen smiled &amp; looked pleased. He seemed quite struck with my appearance when he came in; &amp; actually did not know me; &amp; declares I looked only 16 or 18 years old. He is to come to Ockham on Satdy the 20th. He will enjoy Fonblanque. I hope to get the Kay Shuttleworths also. That would make a delightful little party.</p>
+      <p>Wharton &amp; me had much talk about Hugo. Wharton</p>
+      <p>shakes his head about him. I am sorry to say that some recent facts have come out still less than anything yet to Hugo's credit. I am quite vexed. He's a shabby dog I fear.</p>
+      <p>Wharton told me of the extraordinary riding of F. Knight in Holland, &amp; that Tag-Rag was considered there quite a wonder; even by such men as the Duke of Leeds; not merely the heavy Dutchmen. But all said the horse was too good &amp; magnificent for such battering work.</p>
+      <p>Wharton congratulates me on the probability of my possessing such an animal.</p>
+      <p>This morning I saw at least 50 thrushes in 2 low cages, for sale, in Church Passage; &amp; they have so haunted my imagination every since, that I mean to try &amp; get a pair. I would not at the time; because I cannot bear to have such little dear things in captivity.</p>
+      <p>But I then recollected that as captivity was to be at any rate their fate, I</p>
+      <p>might as well be Slave-owner as any one else.</p>
+    </div></body>
+  </text>
+</TEI>

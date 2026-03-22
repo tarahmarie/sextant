@@ -1,0 +1,551 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Novum Organon Renovatum</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="25">
+CHAPTER IX.
+Of the Application of Inductive Truths.
+Aphorism LIII.
+When the theory of any subject is established, the observations
+and experiments which are made in applying the
+science to use and to instruction, supply a perpetual verification
+of the theory.
+Aphorism LIV.
+Such observations and experiments, when numerous and
+accurate, supply also corrections of the constants involved
+in the theory; and sometimes, (by the Method of Residues,)
+additions to the theory.
+Aphorism LV.
+It is worth considering, whether a continued and connected
+system of observation and calculation, like that of
+astronomy, might not be employed with advantage in improving
+our knowledge of other subjects; as Tides, Currents,
+Winds, Clouds, Rain, Terrestrial Magnetism, Aurora Borealis,
+Composition of Crystals, and many other subjects.
+Aphorism LVI.
+An extension of a well-established theory to the explanation
+of new facts excites admiration as a discovery; but it is a
+discovery of a lower order than the theory itself.
+Aphorism LVII.
+The practical inventions which are most important in
+Art may be either unimportant parts of Science, or results
+not explained by Science. 234
+Aphorism LVIII.
+In modern times, in many departments. Art is constantly
+guided, governed and advanced by Science.
+Aphorism LIX.
+Recently several New Arts have been invented, which may
+be regarded as notable verifications of the anticipations of
+material benefits to be derived to man from the progress of
+Science.
+1. BY the
+application of inductive truths, we here
+mean, according to the arrangement given in
+chap. I. of this book, those steps, which in the natural
+order of science, follow the discovery of each truth.
+These steps are, the verification of the discovery by additional
+experiments and reasonings, and its extension
+to new cases, not contemplated by the original discoverer.
+These processes occupy that period, which,
+in the history of each great discovery, we have termed
+the Sequel of the epoch; as the collection of facts, and
+the elucidation of conceptions, form its Prelude.
+2. It is not necessary to dwell at length on the
+processes of the Verification of Discoveries. When the
+Law of Nature is once stated, it is far easier to devise
+and execute experiments which prove it, than it was
+to discern the evidence before. The truth becomes
+one of the standard doctrines of the science to which it
+belongs, and is verified by all who study or who teach
+the science experimentally. The leading doctrines of
+Chemistry are constantly exemplified by each chemist
+in his Laboratory; and an amount of verification is
+thus obtained of which books give no adequate conception.
+In Astronomy, we have a still stronger example
+of the process of verifying discoveries. Ever since the
+science assumed a systematic form, there have been
+Observatories, in which the consequences of the theory
+were habitually compared with the results of observation.
+And to facilitate this comparison, Tables of
+great extent have been calculated, with immense labour,
+from each theory, showing the place which the 235
+theory assigned to the heavenly bodies at successive
+times; and thus, as it were, challenging nature to
+deny the truth of the discovery. In this way, as I
+have elsewhere stated, the continued prevalence of an
+errour in the systematic parts of astronomy is
+impossible49.
+An errour, if it arise, makes its way into the
+tables, into the ephemeris, into the observer’s nightly
+list, or his sheet of reductions; the evidence of sense
+flies in its face in a thousand Observatories; the
+discrepancy is traced to its source, and soon disappears
+for ever.
+49
+ Hist. Ind. Sc. b. vii. c. vi. sect. 6.
+3. In these last expressions, we suppose the theory,
+not only to be tested, but also to be corrected when it
+is found to be imperfect. And this also is part of the
+business of the observing astronomer. From his accumulated
+observations, he deduces more exact values than
+had previously been obtained, of the Constants or
+Coefficients of these Inequalities of which the Argument is
+already known. This he is enabled to do by the methods
+explained in the fifth chapter of this book; the Method
+of Means, and especially the Method of Least Squares.
+In other cases, he finds, by the Method of Residues,
+some new Inequality; for if no change of the Coefficients
+will bring the Tables and the observation to a
+coincidence, he knows that a new Term is wanting in
+his formula. He obtains, as far as he can, the law of
+this unknown Term; and when its existence and its
+law have been fully established, there remains the
+task of tracing it to its cause.
+4. The condition of the science of Astronomy, with
+regard to its security and prospect of progress, is one of
+singular felicity. It is a question well worth our consideration,
+as regarding the interests of science, whether, in other branches
+of knowledge also, a continued
+and corrected system, of observation and calculation,
+imitating the system employed by astronomers, might
+not be adopted. But the discussion of this question
+would involve us in a digression too wide for the present occasion. 236
+5. There is another mode of application of true
+theories after their discovery, of which we must also
+speak; I mean the process of showing that facts, not
+included in the original induction, and apparently of a
+different kind, are explained by reasonings founded
+upon the theory:—extensions of the theory as we may
+call them. The history of physical astronomy is full
+of such events. Thus after Bradley and Wargentin
+had observed a certain cycle among the perturbations
+of Jupiter’s satellites, Laplace explained this cycle by
+the doctrine of universal
+gravitation50. The long
+inequality of Jupiter and Saturn, the diminution of the
+obliquity of the ecliptic, the acceleration of the moon’s
+mean motion, were in like manner accounted for by
+Laplace. The coincidence of the nodes of the moon’s
+equator with those of her orbit was proved to result
+from mechanical principles by Lagrange. The motions
+of the recently-discovered planets, and of comets, shown
+by various mathematicians to be in exact accordance
+with the theory, are Verifications and Extensions still
+more obvious.
+50
+ Hist. Ind. Sc. b. vii. c. iv. sect. 3.
+6. In many of the cases just noticed, the consistency
+between the theory, and the consequences thus proved
+to result from it, is so far from being evident, that the
+most consummate command of all the powers and aids
+of mathematical reasoning is needed, to enable the philosopher
+to arrive at the result. In consequence of
+this circumstance, the labours just referred to, of Laplace,
+Lagrange, and others, have been the object of
+very great and very just admiration. Moreover, the
+necessary connexion of new facts, at first deemed inexplicable,
+with principles already known to be true;—a
+connexion utterly invisible at the outset, and yet at
+last established with the certainty of demonstration;—strikes
+us with the delight of a new discovery; and at
+first sight appears no less admirable than an original
+induction. Accordingly, men sometimes appear tempted
+to consider Laplace and other great mathematicians as
+persons of a kindred genius to Newton. We must not 237
+forget, however, that there is a great and essential difference
+between inductive and deductive processes of
+the mind. The discovery of a new theory, which is
+true, is a step widely distinct from any mere development
+of the consequences of a theory already invented
+and established.
+7. In the other sciences also, which have been
+framed by a study of natural phenomena, we may find
+examples of the explanation of new phenomena by
+applying the principles of the science when once
+established. Thus, when the laws of the reflection
+and refraction of light had been established, a new
+and poignant exemplification of them was found in
+the explanation of the Rainbow by the reflection and
+refraction of light in the spherical drops of a shower;
+and again, another, no less striking, when the intersecting
+Luminous Circles and Mock Suns, which are
+seen in cold seasons, were completely explained by the
+hexagonal crystals of ice which float in the upper
+regions of the atmosphere. The Darkness of the space
+between the primary and secondary rainbow is another
+appearance which optical theory completely explains.
+And when we further include in our optical theory
+the doctrine of interferences, we find the explanation
+of other phenomena; for instance, the Supernumerary
+Rainbows which accompany the primary rainbow on
+its inner side, and the small Halos which often surround
+the sun and moon. And when we come to
+optical experiments, we find many instances in which
+the doctrine of interferences and of undulations have
+been applied to explain the phenomena by calculations
+almost as complex as those which we have mentioned
+in speaking of astronomy: with results as little foreseen
+at first and as entirely satisfactory in the end.
+Such are Schwerdt’s explanation of the diffracted
+images of a triangular aperture by the doctrine of
+interferences, and the explanation of the coloured
+Lemniscates seen by polarized light in biaxal crystals,
+given by Young and by Herschel: and still more
+marked is another case, in which the curves are
+unsymmetrical, namely, the curves seen by passing polarized 238
+light through plates of quartz, which agree in a wonderful manner
+with the calculations of Airy. To these
+we may add the curious phenomena, and equally
+curious mathematical explanation, of Conical Refraction,
+as brought to view by Professor Lloyd and Sir
+W. Hamilton. Indeed, the whole history both of
+Physical Optics and of Physical Astronomy is a series
+of felicities of this kind, as we have elsewhere
+observed. Such applications of theory, and unforeseen
+explanations of new facts by complicated trains of reasoning
+necessarily flowing from the theory, are strong proof
+of the truth of the theory, while it is in the course of
+being established; but we are here rather speaking of
+them as applications of the theory after it has been
+established.
+Those who thus apply principles already discovered
+are not to be ranked in their intellectual achievements
+with those who discover new principles; but still,
+when such applications are masked by the complex
+relations of space and number, it is impossible not to
+regard with admiration the clearness and activity of
+intellect which thus discerns in a remote region the
+rays of a central truth already unveiled by some great
+discoverer.
+8. As examples in other fields of the application
+of a scientific discovery to the explanation of natural
+phenomena, we may take the identification of Lightning
+with electricity by Franklin, and the explanation
+of Dew by Wells. For Wells’s Inquiry into the
+Cause of Dew, though it has sometimes been praised
+as an original discovery, was, in fact, only resolving
+the phenomenon into principles already discovered.
+The atmologists of the last century were
+aware51 that
+the vapour which exists in air in an invisible state
+may be condensed into water by cold; and they had
+noticed that there is always a certain temperature,
+lower than that of the atmosphere, to which if we
+depress bodies, water forms upon them in fine drops.
+This temperature is the limit of that which
+is 239 necessary
+to constitute vapour, and is hence called the constituent
+temperature. But these principles were not
+generally familiar in England till Dr. Wells introduced
+them into his Essay on Dew, published in 1814; having
+indeed been in a great measure led to them by his
+own experiments and reasonings. His explanation of
+Dew,—that it arises from the coldness of the bodies
+on which it settles,—was established with great ingenuity;
+and is a very elegant confirmation of the Theory
+of Constituent Temperature.
+51
+Hist. Ind. Sc. b. x. c. iii. sect. 5.
+9. As other examples of such explanations of new
+phenomena by a theory, we may point out Ampère’s
+Theory that Magnetism is transverse voltaic currents,
+applied to explain the rotation of a voltaic wire round
+a magnet, and of a magnet round a voltaic wire. And
+again, in the same subject, when it had been proved
+that electricity might be converted into magnetism, it
+seemed certain that magnetism might be converted
+into electricity; and accordingly Faraday found under
+what conditions this may be done; though indeed
+here, the theory rather suggested the experiment than
+explained it when it had been independently observed.
+The production of an electric spark by a magnet was
+a very striking exemplification of the theory of the
+identity of these different polar agencies.
+10. In Chemistry such applications of the principles of
+the science are very frequent; for it is the
+chemist’s business to account for the innumerable
+changes which take place in material substances by
+the effects of mixture, heat, and the like. As a marked
+instance of such an application of the science, we
+may take the explanation of the explosive force of
+gunpowder52,
+from the conversion of its materials
+into gases. In Mineralogy also we have to apply the 240
+principles of Chemistry to the analysis of bodies: and
+I may mention, as a case which at the time excited
+much notice, the analysis of a mineral called Heavy
+Spar. It was found that different specimens of this
+mineral differed in their crystalline angles about three
+degrees and a half; a difference which was at variance
+with the mineralogical discovery then recently made,
+of the constancy of the angle of the same substance.
+Vauquelin solved this difficulty by discovering that
+the crystals with the different angles were really
+minerals chemically different; the one kind being sulphate
+of barytes, and the other, sulphate of strontian.
+52
+ The explanation is, that the force is due to the
+sudden development of a large volume of nitrogen and carbonic
+acid gases, which at the ordinary temperature of the air would
+occupy a space equal to about 300 times the bulk of the powder
+used, but from the intense heat developed at the moment of the
+explosion, the dilatation amounts to at least 1500 times
+the volume of the gunpowder employed.
+11. In this way a scientific theory, when once established,
+is perpetually finding new applications in the
+phenomena of nature; and those who make such
+applications, though, as we have said, they care not to
+be ranked with the great discoverers who establish
+theories new and true, often receive a more prompt
+and general applause than great discoverers do; because
+they have not to struggle with the perplexity
+and averseness which often encounter the promulgation
+of new truths.
+12. Along with the verification and extension of
+scientific truths, we are naturally led to consider the
+useful application of them. The example of all the
+best writers who have previously treated of the philosophy
+of sciences, from Bacon to Herschel, draws our
+attention to those instances of the application of scientific
+truths, which are subservient to the uses of
+practical life; to the support, the safety, the pleasure
+of man. It is well known in how large a degree
+the furtherance of these objects constituted the merit
+of the Novum Organon in the eyes of its author;
+and the enthusiasm with which men regard these
+visible and tangible manifestations of the power and
+advantage which knowledge may bring, has gone on
+increasing up to our own day. And undoubtedly such
+applications of the discoveries of science to promote
+the preservation, comfort, power and dignity of man,
+must always be objects of great philosophical as well
+as practical interest. Yet we may observe that those 241
+practical inventions which are of most importance in
+the Arts, have not commonly, in the past ages of the
+world, been the results of theoretical knowledge, nor
+have they tended very greatly to the promotion of such
+knowledge. The use of bread and of wine has existed
+from the first beginning of man’s social history; yet men
+have not had—we may question whether they yet have—a
+satisfactory theory of the constitution and fabrication
+of bread and of wine. From a very early period
+there have been workers in metal: yet who could tell
+upon what principles depended the purifying of gold
+and silver by the fire, or the difference between iron
+and steel? In some cases, as in the story of the brass
+produced by the Corinthian conflagration, some particular
+step in art is ascribed to a special accident; but
+hardly ever to the thoughtful activity of a scientific
+speculator. The Dyeing of cloths, the fabrication and
+colouring of earthenware and glass vessels was carried
+to a very high degree of completeness; yet who had
+any sound theoretical knowledge respecting these processes?
+Are not all these arts still practised with
+a degree of skill which we can hardly or not at all
+surpass, by nations which have, properly speaking, no
+science? Till lately, at least, if even now the case
+be different, the operations by which man’s comforts,
+luxuries, and instruments were produced, were either
+mere practical processes, which the artist practises, but
+which the scientist cannot account for; or, as in astronomy
+and optics, they depended upon a small portion
+only of the theoretical sciences, and did not tend to
+illustrate, or lead to, any larger truths. Bacon mentions
+as recent discoveries, which gave him courage
+and hope with regard to the future progress of human
+knowledge, the invention of gunpowder, glass, and
+printing, the introduction of silk, and the discovery of
+America. Yet which of these can be said to have been
+the results of a theoretical enlargement of human
+knowledge? except perhaps the discovery of the New
+World, which was in some degree the result of Columbus’s
+conviction of the globular form of the earth.
+This, however, was not a recent, but a very ancient 242
+doctrine of all sound astronomers. And which of these
+discoveries has been the cause of a great enlargement
+of our theoretical knowledge?—except any one claims
+such a merit for the discovery of printing; in which
+sense the result is brought about in a very indirect
+manner, in the same way in which the progress of
+freedom and of religion may be ascribed as consequences
+to the same discovery. However great or
+striking, then, such discoveries have been, they have
+not, generally speaking, produced any marked advance
+of the Inductive Sciences in the sense in which we
+here speak of them. They have increased man’s
+power, it may be: that is, his power of adding to his
+comforts and communicating with his fellow-men.
+But they have not necessarily or generally increased
+his theoretical knowledge. And, therefore, with whatever
+admiration we may look upon such discoveries as
+these, we are not to admire them as steps in Inductive
+Science.
+And on the other hand, we are not to ask of Inductive Science,
+as a necessary result of her progress,
+such additions as these to man’s means of enjoyment
+and action. It is said, with a feeling of triumph, that
+Knowledge is Power: but in whatever sense this may
+truly be said, we value Knowledge, not because it is
+Power but because it is Knowledge; and we estimate
+wrongly both the nature and the dignity of that kind
+of science with which we are here concerned, if we
+expect that every new advance in theory will forthwith
+have a market value:—that science will mark
+the birth of a new Truth with some new birthday
+present, such as a softer stuff to wrap our limbs, a
+brighter vessel to grace our table, a new mode of
+communication with our friends and the world, a new
+instrument for the destruction of our enemies, or a new
+region which may be the source of wealth and interest.
+13. Yet though, as we have said, many of the most
+remarkable processes which we reckon as the triumphs
+of Art did not result from a previous progress of Science,
+we have, at many points of the history of Science,
+applications of new views, to enable man to do
+as well 243
+as to see. When Archimedes had obtained clear views
+of the theory of machines, he forthwith expressed them
+in his bold practical boast; ‘Give me whereon to stand,
+and I will move the earth.’ And his machines with
+which he is said to have handled the Roman ships
+like toys, and his burning mirrors with which he is
+reported to have set them on fire, are at least possible
+applications of theoretical principles. When he saw
+the waters rising in the bath as his body descended,
+and rushed out crying, ‘I have found the way;’ what
+he had found was the solution of the practical
+question of the quantity of silver mixed with the gold of
+Hiero’s crown. But the mechanical inventions of Hero
+of Alexandria, which moved by the force of air or of
+steam, probably involved no exact theoretical notions
+of the properties of air or of steam. He devised a toy
+which revolved by the action of steam; but by the force
+of steam exerted in issuing from an orifice, not by its
+pressure or condensation. And the Romans had no arts
+derived from science in addition to those which they
+inherited from the Greeks. They built aqueducts, not
+indeed through ignorance of the principles of hydrostatics,
+as has sometimes been said; for we, who know our
+hydrostatics, build aqueducts still; but their practice
+exemplified only Archimedean hydrostatics. Their
+clepsydras or water-clocks were adjusted by trial only.
+They used arches and vaults more copiously than the
+Greeks had done, but the principle of the arch appears,
+by the most recent researches, to have been known to
+the Greeks. Domes and groined arches, such as we have
+in the Pantheon and in the Baths of Caracalla, perhaps
+they invented; certainly they practised them on
+a noble scale. Yet this was rather practical skill
+than theoretical knowledge; and it was pursued by
+their successors in the middle ages in the same manner,
+as practical skill rather than theoretical knowledge.
+Thus were produced flying buttresses, intersecting
+pointed vaults, and the other wonders of mediæval
+architecture. The engineers of the fifteenth century,
+as Leonardo da Vinci, began to convert their practical
+into theoretical knowledge of Mechanics; but still 244
+clocks and watches, flying machines and printing
+presses involved no new mechanical principle.
+14. But from this time the advances in Science
+generally produced, as their result, new inventions of
+a practical kind. Thus the doctrine of the weight of
+air led to such inventions as the barometer used as
+a Weather-glass, the Air-pump with its train of curious
+experiments, the Diving-Bell, the Balloon. The
+telescope was perhaps in some degree a discovery due
+to accident, but its principles had been taught by
+Roger Bacon, and still more clearly by Descartes.
+Newton invented a steady thermometer by attending
+to steady laws of nature. And in the case of the improvements
+of the steam engine made by Watt, we
+have an admirable example how superior the method
+of improving Art by Science is, to the blind gropings
+of mere practical habit.
+Of this truth, the history of most of the useful arts
+in our time offers abundant proofs and illustrations.
+All improvements and applications of the forces and
+agencies which man employs for his purposes are now
+commonly made, not by blind trial but with the
+clearest theoretical as well as practical insight which
+he can obtain, into the properties of the agents which
+he employs. In this way he has constructed, (using
+theory and calculation at every step of his construction,)
+steam engines, steam boats, screw-propellers,
+locomotive engines, railroads and bridges and structures
+of all kinds. Lightning-conductors have been
+improved and applied to the preservation of buildings,
+and especially of ships, with admirable effect, by Sir
+Wm. Snow Harris, an experimenter who has studied
+with great care the theory of electricity. The measurement
+of the quantity of oxygen, that is, of vital
+power, in air, has been taught by Cavendish, and by
+Dr Ure a skilful chemist of our time. Methods for
+measuring the bleaching power of a substance have
+been devised by eminent chemical philosophers, Gay
+Lussac and Mr Graham. Davy used his discoveries
+concerning the laws of flame in order to construct his
+Safety Lamp:—his discoveries concerning the galvanic 245
+battery in order to protect ships’ bottoms from corrosion.
+The skilled geologist has repeatedly given to
+those who were about to dig for coal where it could
+have no geological place, advice which has saved them
+from ruinous expence. Sir Roderick Murchison, from
+geological evidence, declared the likelihood of gold
+being found abundantly in Australia, many years before
+the diggings began.
+Even the subtle properties of light as shewn in the
+recent discoveries of its interference and polarization,
+have been applied to useful purposes. Young invented
+an Eriometer, an instrument which should measure the
+fineness of the threads of wool by the coloured fringes
+which they produce; and substances which it is important
+to distinguish in the manufacture of sugar,
+are discriminated by their effect in rotating the plane
+of polarization of light. One substance has been termed
+Dextrin, from its impressing a right-handed rotation
+on the plane of polarization.
+And in a great number of Arts and Manufactures,
+the necessity of a knowledge of theory to the right
+conduct of practice is familiarly acknowledged and
+assumed. In the testing and smelting of metals, in the
+fabrication of soap, of candles, of sugar; in the dyeing
+and printing of woollen, linen, cotton and silken stuffs;
+the master manufacturer has always the scientific chemist
+at his elbow;—either a ‘consulting chemist’ to
+whom he may apply on a special occasion, (for such is
+now a regular profession;) or a chemist who day by
+day superintends, controls, and improves the processes
+which his workmen daily carry on. In these cases,
+though Art long preceded Science, Science now guides,
+governs and advances Art.
+15. Other Arts and manufactures which have arisen
+in modern times have been new creations produced by
+Science, and requiring a complete acquaintance with
+scientific processes to conduct them effectually and
+securely. Such are the photographic Arts, now so
+various in their form; beginning with those which,
+from their authors, are called Daguerrotype and Talbotype.
+Such are the Arts of Electrotype modelling 246
+and Electrotype plating. Such are the Arts of preparing
+fulminating substances; gun-cotton; fulminate
+of silver, and of mercury; and the application of those
+Arts to use, in the fabrication of percussion-caps for
+guns. Such is the Art of Electric Telegraphy, from its
+first beginning to its last great attempt, the electric
+cord which connects England and America. Such is
+the Art of imitating by the chemistry of the laboratory
+the vegetable chemistry of nature, and thus producing
+the flavour of the pear, the apple, the pine-apple, the
+melon, the quince. Such is the Art of producing in
+man a temporary insensibility to pain, which was
+effected first through the means of sulphuric ether by
+Dr Jackson of America, and afterwards through the
+use of chloroform by Dr Simpson of Edinburgh. In
+these cases and many others Science has endowed
+man with New Arts. And though even in these Arts,
+which are thus the last results of Science, there is
+much which Science cannot fully understand and explain;
+still, such cases cannot but be looked upon as
+notable verifications of the anticipations of those who
+in former times expected from the progress of Science
+a harvest of material advantages to man.
+We must now conclude our task by a few words on
+the subject of inductions involving Ideas ulterior to
+those already considered.
+</div></body></text></TEI>

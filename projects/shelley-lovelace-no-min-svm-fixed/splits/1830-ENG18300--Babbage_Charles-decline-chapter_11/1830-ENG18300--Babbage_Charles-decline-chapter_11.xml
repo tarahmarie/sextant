@@ -1,0 +1,839 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Reflections on the Decline of Science in England</title><author>Babbage, Charles (1791-1871)</author></titleStmt><publicationStmt><publisher>B. Fellowes</publisher><pubPlace>London</pubPlace><date>1830</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="11">
+      SECTION 4. OF THE SCIENTIFIC ADVISERS.
+    
+
+      Whether it was feared by the PARTY who govern the Royal Society, that its
+      Council would not be sufficiently tractable, or whether the Admiralty
+      determined to render that body completely subservient to them, or whether
+      both these motives concurred, I know not; but, low as has been for years
+      its character for independence, and fallen as the Royal Society is in
+      public estimation, it could scarcely be prepared for this last insult. In
+      order to inform the public and the Society, (for I believe the fact is
+      known to few of the members,) it will be necessary to trace the history of
+      those circumstances which led to the institution of the offices of
+      Scientific Advisers, from the time of the existence of the late Board of
+      Longitude.
+    
+
+      That body consisted, according to the act of parliament which established
+      it, of certain official members, who usually possessed no knowledge of the
+      subjects it was the duty of the Board to discuss—of certain
+      professors of the two universities, and the Astronomer Royal, who had some
+      knowledge, and who were paid 100L. a year for their attendance;—of
+      three honorary members of the Royal Society, who combined the
+      qualifications of the two preceding classes; and, lastly, of "three other
+      persons," named Resident Commissioners, who were supposed to be "WELL
+      VERSED IN THE SCIENCES OF MATHEMATICS, ASTRONOMY, OR NAVIGATION," and who
+      were paid a hundred a year to do the work of the Board.
+    
+
+      The first three classes were permanent members, but the "three other
+      persons" only held the appointment for ONE YEAR, and were renewable at the
+      pleasure of the Admiralty. This Board was abolished by another act of
+      parliament, on the ground that it was useless. Shortly after, the
+      Secretary of the Admiralty communicated to the Council of the Royal
+      Society, the copy of an Order in Council:
+    
+
+      ADMIRALTY OFFICE,
+    
+
+      November 1, 1828.
+    
+
+      SIR, I am commanded by my Lords Commissioners of the Admiralty, to send
+      herewith, for the information of the President and Council of the Royal
+      Society, a copy of His Majesty's Order in Council of the 27th of last
+      month; explaining that the salaries heretofore allowed to the Resident
+      Commissioners of the Board of Longitude, and to the Superintendents of the
+      Nautical Almanac, and of Chronometers, shall be continued to them,
+      notwithstanding the abolition of the Board of Longitude. And I am to
+      acquaint you, that the necessary orders have been given to the Navy Board
+      for the payment of the said salaries.
+    
+
+      I am, Sir,
+    
+
+      Your most obedient humble servant,
+    
+
+      JOHN BARROW. AT THE COURT AT WINDSOR,
+    
+
+      27th October, 1828.
+    
+
+      PRESENT,
+    
+
+      The King's most Excellent Majesty in Council,
+    
+
+      Whereas, there was this day read at the Board a Memorial from the Right
+      Honourable the Lords Commissioners of the Admiralty, dated 4th of this
+      instant, in the words following, viz.—
+    
+
+      Whereas, by an Act of the 58th of his late Majesty's reign, cap. 20,
+      instituted "An Act for the more effectually discovering the Longitude at
+      sea, and encouraging attempts to find a Northern passage between the
+      Atlantic and Pacific Oceans, and to approach the North Pole," three
+      persons well versed in the sciences of Mathematics, Astronomy, or
+      Navigation, were appointed as a Resident Committee of the Board of
+      Commissioners for discovery of the Longitude at sea, and a Superintendent
+      of the Nautical Almanac and of Chronometers was also appointed, with such
+      salaries for the execution of those services as his Majesty might, by any
+      Order in Council, be pleased to direct; and, whereas, your Majesty was in
+      consequence, by your Order in Council of the 27th of May, 1828, most
+      graciously pleased to direct, that the three said Resident Commissioners
+      should be paid at the rate of 100L. a year each; and by your further Order
+      in Council, of the 31st October, 1818, that the Superintendent of the
+      Nautical Almanac should be allowed a salary of 300L., and the
+      Superintendent of Chronometers 100L. a year; and, whereas, the act above
+      mentioned has been repealed, and the Board of Longitude abolished; and
+      doubts have therefore arisen, whether the said Orders in Council shall
+      still continue in force; and whereas it is expedient that the said
+      appointments be continued; We beg leave most humbly to submit to your
+      Majesty, that your Majesty may be graciously pleased, by your Order in
+      Council, to direct that the said offices of Superintendent of the Nautical
+      Almanac, and of Superintendent of Chronometers; and also the three persons
+      before-mentioned as a Resident Committee, to advise with the Commissioners
+      for executing the Office of Lord High Admiral, on all questions of
+      discoveries, inventions, calculations, and other scientific subjects, be
+      continued, with the same duties and salaries, and under the same
+      regulations as heretofore; and further beg most humbly to propose, that
+      such three persons to form the Resident Committee, be chosen annually by
+      the Commissioners for executing the office of Lord High Admiral, from
+      among the Council of the Royal Society.
+    
+
+      His Majesty, having taken the said Memorial into consideration, was
+      pleased, by and with the advice of his Privy Council, to approve thereof
+      and the Right Honourable the Lords Commissioners of the Admiralty are to
+      give the necessary directions herein accordingly.
+    
+
+      (Signed) JAMES HILLER.
+    
+
+      Thus, it appeared that the Admiralty were to choose three persons from
+      among the Council of the Royal Society, who were to have a hundred a year
+      each during the pleasure of the Admiralty.
+    
+
+      Such an open attack on the independence of the Council could not escape
+      the remarks of some of the members, and a kind of mild remonstrance was
+      made, in which the real ground of complaint was omitted.
+    
+
+      MINUTE OF COUNCIL OF THE ROYAL SOCIETY. December 18, 1823.
+    
+
+      RESOLVED, That in acknowledging the communication of the Lords
+      Commissioners of the Admiralty, made to the Council of the Royal Society,
+      on the 20th of November last, it be represented to them that inconvenience
+      may arise from the plan therein specified, from the circumstance of all
+      the members of the Council being annually elected by the Society at large;
+      and that body being consequently subject to continual changes from year to
+      year.
+    
+
+      This was answered by the following letter from the Secretary of the
+      Admiralty:
+    
+
+      ADMIRALTY OFFICE, DEC. 30, 1828.
+    
+
+      SIR, Having submitted to my Lords Commissioners of the Admiralty your
+      Letter of the 18th instant, subjoining an extract from the Minutes of the
+      proceedings of the Council of the Royal Society, arising out of the
+      communication made to them by their Lordships, on the subject of his
+      Majesty's Order in Council, of the fifth of October last, I have their
+      Lordships' command to acquaint you, for the information of the President
+      and Council, and with reference to what they have stated as to the
+      inconvenience which may arise from the intended plan of limiting their
+      Lordships' choice of members of the Resident Committee of Scientific
+      Advice to the Council of the Royal Society, that their Lordships were
+      induced to recommend this plan to his Majesty as a mark of respect to the
+      Society, and as a pledge to the public of the qualification of the persons
+      chosen. Nor did their Lordships apprehend any inconvenience from the
+      circumstance stated in the Minute of the Council, of the Members being
+      annually elected, as the Resident Committee is also annually appointed;
+      and, in point of fact, no practical inconvenience has been felt during the
+      ten years that the Committee has been in existence, as four of the
+      distinguished gentlemen whom their Lordships have successively appointed
+      to this office, have continued during the whole period to be members of
+      the Council; and if any such difficulty or inconvenience should hereafter
+      arise, their Lordships will be ready to take proper measures for remedying
+      it.
+    
+
+      Their Lordships' intention therefore is, to propose to Captain Kater and
+      Mr. Herschel, to continue to fill this office; and to Dr. Young, who had
+      resigned it, on receiving the appointment of Secretary to the late Board
+      of Longitude, to be appointed.
+    
+
+      I am, Sir, Your obedient servant,
+    
+
+      JOHN BARROW.
+    
+
+      The representation made by the Council was not calculated to produce much
+      effect; but the Secretary of the Admiralty, who knew well the stuff of
+      which Councils of the Royal Society are composed, might have spared the
+      bitter irony of making their Lordships say, that they recommended this
+      plan "AS A MARK OF RESPECT TO THE SOCIETY," and "AS A PLEDGE TO THE PUBLIC
+      OF THE QUALIFICATIONS OF THE PERSONS CHOSEN," whilst he delicately hints
+      to them their dependent situation, by observing, that the "RESIDENT
+      COMMITTEE IS ALSO ANNUALLY APPOINTED."
+    
+
+      The Secretary knew that, PRACTICALLY speaking, it had been the custom for
+      years for the President of the Royal Society to nominate the Council, and
+      consequently he knew that every scientific adviser must first be indebted
+      to the President for being qualified to advise, and then to the Admiralty
+      for deriving profit from his counsel. Thus then their Lordships, as a
+      "MARK OF RESPECT FOR THE SOCIETY" confirm the dependence of the Council on
+      the President, by making his nomination a qualification for place, and
+      establish a new dependence of the same Council on themselves, by giving a
+      hundred pounds each year to such three members of that Council as they may
+      select. "THE PLEDGE" they offer "TO THE PUBLIC, OF THE QUALIFICATIONS OF
+      THE PERSONS CHOSEN," is, that Mr. Davies Gilbert had previously thought
+      they would do for his Council.
+    
+
+      What the Society, when they are acquainted with it, may think of this mark
+      of respect, or what value the public may put upon this pledge, must be
+      left to themselves to express.
+    
+
+      In looking over the list of officers and Council of the Royal Society the
+      weakest perhaps (for purposes of science) which was ever made, a
+      consolation arises from the possibility of some of those who were placed
+      there by way of compliment, occasionally attending. In that contracted
+      field Lord Melville's penetration may not be uselessly employed; and the
+      soldier who presides over our colonies may judge whether the principles
+      which pervade it are open and liberal as his own.
+    
+
+      The inconvenience to the public service from such an arrangement is, that
+      the number out of which the advisers are selected must, in any case, be
+      very small; and may, from several circumstances, be considerably reduced.
+      In a council fairly selected, to judge of the merits of the various
+      subjects likely to be brought under the consideration of the Society,
+      anatomy, chemistry, and the different branches of natural history, will
+      share with the numerous departments of physical science, in claiming to be
+      represented by persons competently skilled in those subjects. These claims
+      being satisfied, but few places will be left to fill up with
+      mathematicians, astronomers, and persons conversant with nautical
+      astronomy.
+    
+
+      Let us look at the present Council. Is there a single mathematician
+      amongst them, if we except Mr Barlow, whose deservedly high reputation
+      rests chiefly on his physical and experimental inquiries, and whom the
+      President and the Admiralty have clearly shown they do not look upon as a
+      mathematician, by not appointing him an adviser?
+    
+
+      Small as the number of those persons on the Council, who are conversant
+      with the three subjects named in the Act of Parliament, must usually be,
+      it may be still further diminished. The President, when he forms his
+      Council, may decline naming those members who are most fit for such
+      situations. Or, on the other hand, some of those members who are best
+      qualified for them, from their knowledge, may decline the honour of being
+      the nominees of Mr. Gilbert, as Vice Presidents, Treasurers, or
+      Councillors, and thus lending their names to support a system of which
+      they disapprove.
+    
+
+      Whether the first of these causes has ever operated can be best explained
+      by those gentlemen who have been on the Council. The refusals are,
+      notwithstanding the President's taciturnity on the subject, better known
+      than he is willing that they should be.
+    
+
+      Having discussed the general policy of the measure, with reference both to
+      the Society and to the public, and without the slightest reference to the
+      individuals who may have refused or accepted those situations, I shall now
+      examine the propriety of the appointments that have been made.
+    
+
+      Doubtless the gentlemen who now hold those situations either have never
+      considered the influence such a mode of selection would have on the
+      character of the Council; or, having considered it, they must have arrived
+      at a different conclusion from mine. There may, however, be arguments
+      which I have overlooked, and a discussion of them must ultimately lead to
+      truth: but I confess that it appears to me the objections which have been
+      stated rest on principles of human nature, too deeply seated to be easily
+      removed.
+    
+
+      That I am not singular in the view I have taken of this subject, appears
+      from several circumstances. A question was asked respecting these
+      appointments at the Anniversary before the last; and, from the nature of
+      the answer, many of the members of the Society have been led to believe
+      the objections have been removed. Several Fellows of the Society, who knew
+      these facts, thought it inexpedient ever to vote for placing any gentleman
+      on the Council who had accepted these situations; and, having myself the
+      same view of the case, I applied to the Council to be informed of the
+      names of the present Scientific Advisers. But although they remonstrated
+      against the PRINCIPLE, they replied that they had "NO COGNIZANCE" of the
+      fact.
+    
+
+      The two first members of the Council, Mr. Herschel and Captain Kater, who
+      were so appointed, and who had previously been Resident Commissioners
+      under the Act, immediately refused the situations. Dr. Young became one of
+      the Advisers; and Captain Sabine and Mr. Faraday were appointed by the
+      Admiralty as the two remaining ones. Of Dr. Young, who died shortly after,
+      I shall only observe that he possessed knowledge which qualified him for
+      the situation.
+    
+
+      Whether those who at present fill these offices can be said to belong to
+      that class of persons which the Order in Council and the Act of Parliament
+      point out, is a matter on which doubt may reasonably be entertained. The
+      Order in Council speaks of these three persons as being the same, and
+      having the "SAME DUTIES" as those mentioned in the Act; and it recites the
+      words of the Act, that they shall be persons "WELL VERSED IN THE SCIENCES
+      OF MATHEMATICS ASTRONOMY, AND NAVIGATION." Of the fitness of the gentlemen
+      who now hold those situations to pronounce judgment on mathematical
+      questions, the public will be better able to form an opinion when they
+      shall have communicated to the world any of their own mathematical
+      inquiries. Although it is the practice to consider that acceptance of
+      office is alone necessary to qualify a man for a statesman, a similar
+      doctrine has not yet prevailed in the world of science. One of these
+      gentlemen, who has established his reputation as a chemist, stands in the
+      same predicament with respect to the other two sciences. It remains then
+      to consider Captain Sabine's claims, which must rest on his skill in
+      "PRACTICAL ASTRONOMY AND NAVIGATION,"—a claim which can only be
+      allowed when the scientific world are set at rest respecting the
+      extraordinary nature of those observations contained in his work on the
+      Pendulum.
+    
+
+      That volume, printed under the authority of the Board of Longitude,
+      excited at its appearance considerable attention. The circumstance of the
+      Government providing instruments and means of transport for the purpose of
+      these inquiries, placed at Captain Sabine's disposal means superior to
+      those which amateurs can generally afford, whilst the industry with which
+      he availed himself of these opportunities, enabled him to bring home
+      multitudes of observations from situations rarely visited with such
+      instruments, and for such purposes.
+    
+
+      The remarkable agreement with each other, which was found to exist amongst
+      each class of observations, was as unexpected by those most conversant
+      with the respective processes, as it was creditable to one who had devoted
+      but a few years to the subject, and who, in the course of those voyages,
+      used some of the instruments for the first time in his life.
+    
+
+      This accordance amongst the results was such, that naval officers of the
+      greatest experience, confessed themselves unable to take such lunars;
+      whilst other observers, long versed in the use of the transit instrument,
+      avowed their inability to take such transits. Those who were conversant
+      with pendulums, were at a loss how to make, even under more favourable
+      circumstances, similarly concordant observations. The same opinion
+      prevailed on the continent as well as in England. On whatever subject
+      Captain Sabine touched, the observations he published seemed by their
+      accuracy to leave former observers at a distance. The methods of using the
+      instruments scarcely differed in any important point from those before
+      adopted; and, but for a fortunate discovery, which I shall presently
+      relate, the world must have concluded that Captain Sabine possessed some
+      keenness of vision, or acuteness of touch, which it would be hopeless for
+      any to expect to rival.
+    
+
+      The Council of the Royal Society spared no pains to stamp the accuracy of
+      these observations with their testimony. They seem to have thrust Captain
+      Sabine's name perpetually on their minutes, and in a manner which must
+      have been almost distressing: they recommend him in a letter to the
+      Admiralty, then in another to the Ordnance; and several of the same
+      persons, in their other capacity, as members of the Board of Longitude,
+      after voting him a THOUSAND POUNDS for these observations, are said to
+      have again recommended him to the Master-General of the Ordnance. That an
+      officer, commencing his scientific career, should be misled by such
+      praises, was both natural and pardonable; but that the Council of the
+      Royal Society should adopt their opinion so heedlessly, and maintain it so
+      pertinaciously, was as cruel to the observer as it was injurious to the
+      interests of science.
+    
+
+      It might have been imagined that such praises, together with the Copley
+      medal, presented to Captain Sabine by the Royal Society, and the medal of
+      Lalande, given to him by the Institute of France, had arisen from such a
+      complete investigation of his observations, as should place them beyond
+      the reach even of criticism. But, alas! the Royal Society may write, and
+      nobody will attend; its medals have lost their lustre; and even the
+      Institute of France may find that theirs cannot confer immortality. That
+      learned body is in the habit of making most interesting and profound
+      reports on any memoirs communicated to it; nothing escapes the penetration
+      of their committees appointed for such purposes. Surely, when they enter
+      on the much more important subject of the award of a medal, unusual pains
+      must be taken with the previous report, and it might, perhaps, be of some
+      advantage to science, and might furnish their admirers with arguments in
+      their defence, if they would publish that on which the decree of their
+      Lalande's medal to Captain Sabine was founded.
+    
+
+      It is far from necessary to my present object, to state all that has been
+      written and said respecting these pendulum experiments: I shall confine
+      myself merely to two points; one, the transit observations, I shall allude
+      to, because I may perhaps show the kind of feeling that exists respecting
+      them, and possibly enable Captain Sabine to explain them. The other point,
+      the error in the estimation of the division of the level, I shall discuss,
+      because it is an admitted fact.
+    
+
+      Some opinion may be formed of transit observations, by taking the
+      difference of times of the passage of any star between the several wires;
+      supposing the distances of those wires equal, the intervals of time
+      occupied by the star in passing from one to the other, ought to be
+      precisely the same. As those times of passing from one wire to another are
+      usually given to seconds and tenths of seconds, it rarely happens that the
+      accordance is perfect.
+    
+
+      The transit instrument used by Captain Sabine was thirty inches in length,
+      and the wires are stated to be equi-distant. Out of about 370 transits,
+      there are eighty-seven, or nearly one-fourth, which have the intervals
+      between all the wires agreeing to the same, the tenth of a second. At
+      Sierra Leone, nineteen out of seventy-two have the same accordance; and of
+      the moon culminating stars, p. 409, twelve out of twenty-four are equally
+      exact. With larger instruments, and in great observatories, this is not
+      always the case.
+    
+
+      Captain Kater has given, in the Philosophical Transactions, 1819, p. 427,
+      a series of transits, with a three and a half foot transit, in which about
+      one-eleventh part of them only have this degree of accuracy; and it should
+      be observed that not merely the instrument, but the stars selected, have,
+      in this instance, an advantage over Captain Sabine's.
+    
+
+      The transit of M. Bessel is five feet in length, made by Frauenhofer, and
+      the magnifying power employed is 182; yet, out of some observations of his
+      in January, 1826, only one-eleventh have this degree of accordance. In
+      thirty-three of the Greenwich observations of January, 1828, fifteen have
+      this agreement, or five-elevenths; but this is with a ten-feet transit.
+      Now in none of these instances do the times agree within a tenth of a
+      second between all the wires; but I have accounted those as agreeing in
+      all the wires in which there is not more than four-tenths of a second
+      between the greatest and least.
+    
+
+      This superior accuracy of the small instrument requires some explanation.
+      One which has been suggested is, that Captain Sabine employs a chronometer
+      to observe transits with; and that since it beats five times in two
+      seconds, each beat will give four-tenths of a second; and this being the
+      smallest quantity registered, the agreement becomes more probable than if
+      tenths were the smallest quantities noticed. In general, the larger the
+      lowest unity employed the greater will be the apparent agreement amongst
+      the differences. Thus, if, in the transit of stars near the pole, the
+      times of passing the wires were only registered to the nearest minute, the
+      intervals would almost certainly be equal. There is another circumstance,
+      about which there is some difficulty. It is understood that the same
+      instrument,—the thirty-inch transit, was employed by Lieutenant
+      Foster; and it has not been stated that the wires were changed, although
+      this has most probably been the case. Now, in the transits which the later
+      observer has given, he has found it necessary to correct for a
+      considerable inequality between the first and second wires (See Phil.
+      Trans. 1827). If an erroneous impression has gone abroad on this subject,
+      it is doing a service to science to insure its correction, by drawing
+      attention to it.
+    
+
+      Should these observations be confirmed by other observers, it would seem
+      to follow that the use of a chronometer renders a transit more exact, and
+      therefore that it ought to be used in observatories.
+    
+
+      Among the instruments employed by Captain Sabine, was a repeating circle
+      of six inches diameter, made by order of the Board of Longitude, for the
+      express purpose of ascertaining how far repeating instruments might be
+      diminished in size:—a most important subject, on which the Board
+      seem to have entertained a very commendable degree of anxiety.
+    
+
+      The following extract from the "Pendulum Experiments" is important:
+    
+
+      "The repeating circle was made by the direction, and at the expense of the
+      Board of Longitude, for the purpose of exemplifying the principle of
+      repetition when applied to a circle of so small a diameter as six inches,
+      carrying a telescope of seven inches focal length, and one inch aperture;
+      and of practically ascertaining the degree of accuracy which might be
+      retained, whilst the portability of the instrument should be increased, by
+      a reduction in the size to half the amount which had been previously
+      regarded by the most eminent artists as the extreme limit of diminution to
+      which repeating circles, designed for astronomical purposes, ought to be
+      carried.
+    
+
+      "The practical value of the six-inch repeating circle may be estimated, by
+      comparing the differences of the partial results from the mean at each
+      station, with the correspondence of any similar collection of observations
+      made with a circle, on the original construction, and of large dimensions;
+      such, for instance, as the latitudes of the stations of the French are,
+      recorded in the Base du Systeme Metrique: when, if due allowance be made
+      for the extensive experience and great skill of the distinguished persons
+      who conducted the French observations, the comparison will scarcely appear
+      to the disadvantage of the smaller circle, even if extended generally
+      through all the stations of the present volume; but if it be particularly
+      directed to Maranham and Spitzbergen,—at which stations the partial
+      results were more numerous than elsewhere, and obtained with especial
+      regard to every circumstance by which their accuracy might be affected,
+      the performance of the six-inch circle will appear fully equal to that of
+      circles of the larger dimension. The comparison with the two stations, at
+      which a more than usual attention was bestowed, is the more appropriate,
+      because it was essential to the purposes for which the latitudes of the
+      French stations were required, that the observations should always be
+      conducted with the utmost possible regard to accuracy.
+    
+
+      "It would appear, therefore, that in a repeating circle of six inches, the
+      disadvantages of a smaller image enabling a less precise contact or
+      bisection, and of an arch of less radius admitting of a less minute
+      subdivision, may be compensated by the principle of repetition."
+    
+
+      Captain Sabine has pointed out Maranham and Spitzbergen as places most
+      favourable to the comparison. Let us take the former of these places, and
+      compare the observations made there with the small repeating instrument of
+      six inches diameter, with those made by the French astronomers at
+      Formentera, with a repeating circle of forty-one centi-metres, or about
+      sixteen inches in diameter, made by Fortin. It is singular that this
+      instrument was directed, by the French Board of Longitude, to be made
+      expressly for this survey, and the French astronomers paid particular
+      attention to it, from the circumstance of some doubts having been
+      entertained respecting the value of the principle of repetition.
+    
+
+      The following series of observations were made with the two instruments.
+      [I have chosen the inferior meridian altitude of Polaris, merely because
+      the number of sets of observations are rather fewer. The difference
+      between the extremes of the altitude of Polaris, deduced from sets taken
+      above the pole by the same observers, amounts to seven seconds and a
+      half.]
+    
+
+      Latitude deduced from Polaris, with a repeating circle, 16 inches
+      diameter.—BASE DU SYSTEME METRIQUE, tom. iv. p. 376. 1807.
+    
+
+     Number of           Latitude              Names of Observers.
+     Observations.       of Formentera.
+
+                         deg. min. sec.
+      64                  38  39  55.3         Biot
+     100                          54.7         Arago
+      10                          56.2         Biot
+      88                          56.9         Biot
+     120                          56.7         Arago
+      84                          54.9         Biot
+     100                          56.5         Arago
+     102                          57.1         Arago
+      80                          54.5         Biot
+      88                          53.3         Arago
+      90                          53.6         Arago
+      88                          53.8         Arago
+      92                          53.7         Arago
+      42                          55.6         Chaix
+      90                          54.1         Chaix
+      80                          53.9         Arago
+
+     Mean of 1318 Observations, 38deg. 39min. 54.93sec.
+
+
+      Sets of Observations made with a six-inch repeating circle, at Maranham.
+    
+
+   Star.               Number of         Latitude       Observer.
+                       Observations.     deduced.
+
+                                      deg. min. sec.
+   alpha Lyrae             8           2    31  42.4    Capt. Sabine
+   alpha Lyrae            12                    43.8     Ditto
+   alpha Pavonis          10                    44.5     Ditto
+   alpha Lyrae            12                    44.6     Ditto
+   alpha Cygni            12                    42.1     Ditto
+   alpha Gruris           12                    42.2     Ditto
+
+   Mean latitude deduced from 66 observations 2deg. 31min 43.3sec.
+
+
+      In comparing these results, although the French observations were more
+      than twenty times as numerous as the English, yet the deviations of the
+      individual sets from the mean are greater. One second and three-tenths is
+      the greatest deviation from the mean of the Maranham observations; whilst
+      the greatest deviation of those of Formentera, is two seconds and
+      two-tenths. If this mode of comparison should be thought unfair, on
+      account of the greater number of the sets in the French observations, let
+      any six, in succession, of those sets be taken, and compared with the six
+      English sets; and it will be found that in no one instance is the greatest
+      deviation from the mean of the whole of the observations less than in
+      those of Maranham. It must also be borne in mind, that by the latitude
+      deduced by the mean of 1250 superior culminations of Polaris by the same
+      observers, the latitude of Formentera was found to be 38deg. 39min
+      57.07sec., a result differing by 2.14sec. from the mean of the 1318
+      inferior culminations given above. [This difference cannot be accounted
+      for by any difference in the tables of refraction, as neither the
+      employment of those of Bradley, of Piazzi, of the French, of Groombridge,
+      of Young, of Ivory, of Bessel, or of Carlini, would make a difference of
+      two-tenths of a second.]
+    
+
+      These facts alone ought to have awakened the attention of Captain Sabine,
+      and of those who examined and officially pronounced on the merits of his
+      observations; for, supposing the skill of the observers equal, it seems a
+      necessary consequence that "the performance of the six-inch circle is" not
+      merely "fully equal to that of circles of larger dimensions," but that it
+      is decidedly SUPERIOR to one of sixteen inches in diameter.
+    
+
+      This opinion did indeed gain ground for a time; but, fortunately for
+      astronomy, long after these observations were made, published, and
+      rewarded, Captain Kater, having borrowed the same instrument, discovered
+      that the divisions of its level, which Captain Sabine had considered to be
+      equal to one second each, were, in fact, more nearly equal to eleven
+      seconds, each one being 10.9sec. This circumstance rendered necessary a
+      recalculation of all the observations made with that instrument: a
+      re-calculation which I am not aware Captain Sabine has ever thought it
+      necessary to publish. [Above two hundred sets of observations with this
+      instrument are given in the work alluded to. It can never be esteemed
+      satisfactory merely to state the mean results of the corrections arising
+      from this error: for the confidence to be attached to that mean will
+      depend on the nature of the deviations from it.]
+    
+
+      This is the more to be regretted, as it bears upon a point of considerable
+      importance to navigation; and if it should have caused any alteration in
+      his opinion as to the comparative merits of great and small instruments,
+      it might have been expected from a gentleman, who was expressly directed
+      by the Board of Longitude, to try the question with an instrument
+      constructed for that especial purpose.
+    
+
+      Finding that this has not been done by the person best qualified for the
+      task, perhaps a few remarks from one who has no pretensions to familiarity
+      with the instrument, may tend towards elucidating this interesting
+      question.
+    
+
+      The following table gives the latitudes as corrected for the error of
+      level:
+    
+
+ Station.       Star              Latitude      Latitude        Diffe-
+                                   by Capt.    corrected for     rence
+                                   Sabine      error of level.
+
+                                 deg.min.sec.   deg.min.sec.    sec.
+
+ Sierra Leone  Sirius             8  29  27.9    8  29  34.7    6.8
+
+ Ascension     Alph.Centuri       7  55  46.7    7  55  40.1    6.6
+
+ Bahia         Alph.Lyrae        12  59  19.4   12  59  21.4    2.0
+               Alph.Lyrae                21.2       58  49.8   31.4
+               Alph.Pavonis              22.4       59   5.1   17.3
+
+ Maranham      Alph.Lyrae         2  31  42.4    2  31  22     20.4
+               Alph.Lyrae                43.8           31.8   12.0
+               Alph.Pavonis              44.5           44      .5
+               Alph.Lyrae                44.6           42.6    2.0
+               Alph.Cygni                42.1           39.2    2.9
+               Alph.Gruris               42.2           27.4   14.8
+
+ Trinidad      Achernar          10  38  56.1   10  38  58.2    2.1
+               Alph.Gruris               52.2           50.8    1.4
+               Achernar                  59.3           56.6    2.7
+
+ Jamaica       Polaris           17  56   8.6   17  56   4.6    4.0
+                                          6.6            3.3    3.3
+
+ New York      Sun               40  42  40.1   40  42  44.6    4.5
+               Polaris                   48.9           38.2   10.7
+               Sun                       41.4           47.2    5.8
+               Beta Urs.Min.             42.3           58.4   16.1
+
+ Hammerfest    Sun               70  40   5.3   70  40   7.2    1.9
+
+ Spitzbergen   Sun               79  49  56.1   79  49  58.6    2.5
+               Sun                       55.9           44.8   11.1
+               Sun                       58.6           52.7    5.9
+               Sun                       59.3           51.6    7.7
+               Sun                       55.8           51.6    4.2
+               Sun                   50   1.5           57.0    4.5
+
+ Greenland     Sun               74  32  19.9   74  32  32.4   12.4
+               Sun                       17.9           18.7    0.8
+
+ Drontheim     Sun               63  25  51.3   63  26   6.1   14.8
+               Alph.Urs.Min.             57.2           49.4    7.8
+
+
+      This presents a very different view of the latitudes as determined by the
+      small repeating circle, from that in Captain Sabine's book; and confining
+      ourselves still to Maranham, where the latitudes "WERE OBTAINED, WITH
+      ESPECIAL REGARD TO EVERY CIRCUMSTANCE BY WHICH THEIR ACCURACY MIGHT BE
+      AFFECTED," and where "A MORE THAN USUAL ATTENTION WAS BESTOWED," it
+      appears, that if we take Captain Sabine's own test, namely, "the
+      differences of the partial results from the mean at each station," the
+      deviations become nearly ten times as large as they were before; a
+      circumstance which might be expected to have some influence in the
+      decision of the question.
+    
+
+      There is, however, another light in which it is impossible to avoid
+      looking at this singular oversight. The second column of the table of
+      latitudes must now be considered the true one, as that which really
+      resulted from the observations. Now, on examining the column of true
+      latitudes, the differences between the different sets of observations is
+      so considerable as naturally to excite some fear of latent error, more
+      especially as nearly the greatest discordance arises from the same star,
+      Alph.Lyrae, observed after an interval of only three days. It becomes
+      interesting to every person engaged in making astronomical observations,
+      to know what is the probability of his being exposed to an error so little
+      to be guarded against, and so calculated to lull the suspicions of the
+      unfortunate astronomer to whom it may happen.
+    
+
+      In fact, the question resolves itself into this: the true latitude of a
+      place being determined by sets of observations as in the first of the
+      following columns—
+    
+
+                                                     Latitudes as
+     True latitudes observed.                    computed by a mistake
+                                                   of Capt. Sabine's.
+
+                                 deg.min.sec.       deg.min.sec.
+     Alph.Lyrae, 28th Aug....  2  31  22.0        2  31  42.4
+     Alph.Lyrae, 29th Aug....         31.8               43.8
+     Alph.Pavonis, 29th Aug...         44,0               44.5
+     Alph.Lyrae, 31st Aug....         42.6               44.6
+     Alph.Cygni, 31st Aug....         39.2               42.0
+     Alph.Gruris, 2d Sept....         27.4               42.2
+
+
+      what are the chances that, by one error all the latitudes in the first
+      column should be brought so nearly to an agreement as they are in the
+      second column? The circumstance of the number of divisions of the level
+      being almost arbitrary within limits, might perhaps be alleged as
+      diminishing this extraordinary improbability: but let any one consider, if
+      he choose the error of each set, as independent of the others, still he
+      will find the odds against it enormous.
+    
+
+      When it is considered that an error, almost arbitrary in its law, has thus
+      had the effect of bringing discordant observations into an almost
+      unprecedented accordance, as at Maranham; and not merely so, but that at
+      eight of the nine stations it has uniformly tended to diminish the
+      differences between the partial results, and that at the ninth station it
+      only increased it by a small fraction of a second, I cannot help feeling
+      that it is more probable even that Captain Kater, with all his admitted
+      skill, and that Captain Sabine himself, should have been both mistaken in
+      their measures of the divisions of the level, than that so singular an
+      effect should have been produced by one error; and I cannot bring myself
+      to believe that such an anticipation is entirely without foundation.
+    
+
+      Whatever may be the result of a re-examination, it was a singular
+      oversight NOT TO MEASURE the divisions of a level intended to be used for
+      determining so important a question; more particularly as, in the very
+      work to which reference was made by Captain Sabine for the purpose of
+      comparing the observations, it was the very first circumstance which
+      occupied the French philosophers, and several pages [See pages 265 to 275
+      of the RECUEIL D'OBSERVATIONS GEODESIQUES, &c. PAR MM. BIOT ET ARAGO,
+      which forms the fourth volume of the BASE DU SYSTEME METRIQUE.] are filled
+      with the details relative to the determination of the value of the
+      divisions of the level. It would also have been satisfactory, with such an
+      important object in view, to have read off some of the sets after each
+      pair of observations, in order to see how far the system of repetition
+      made the results gradually converge to a limit, and in order to know how
+      many repetitions were sufficient. Such a course would almost certainly
+      have led to a knowledge of the true value of the divisions of the level;
+      for the differences in the altitude of the same star, after a few minutes
+      of time, must, in many instances, have been far too great to have arisen
+      from the change of its altitude: and had these been noticed, they must
+      have been referred to some error in the instrument, which could scarcely,
+      in such circumstances, have escaped detection.
+    
+
+      I have now mentioned a few of the difficulties which attend Captain
+      Sabine's book on the pendulum, difficulties which I am far from saying are
+      inexplicable. He would be bold indeed who, after so wonderful an instance
+      of the effect of chance as I have been just discussing, should venture to
+      pronounce another such accident impossible; but I think enough has been
+      said to show, that the feeling which so generally prevails relative to it,
+      is neither captious nor unreasonable.
+    
+
+      Enough also has appeared to prove, that the conduct of the Admiralty in
+      appointing that gentleman one of their scientific advisers, was, under the
+      peculiar circumstances, at least, unadvised. They have thus lent, as far
+      as they could, the weight of their authority to support observations which
+      are now found to be erroneous. They have thus held up for imitation
+      observations which may induce hundreds of meritorious officers to throw
+      aside their instruments, in the despair of ever approaching a standard
+      which is since admitted to be imaginary; and they have ratified the
+      doctrine, for I am not aware their official adviser has ever even modified
+      it, that diminutive instruments are equal almost to the largest.
+    
+
+      To what extent this doctrine is correct, may perhaps yet admit of doubt.
+      It cannot, however, admit of a doubt, that it is unwise to crown it with
+      official authority, and thus expose the officers of their service to
+      depend on means which may be quite insufficient for their purpose.
+    
+
+      How the Board of Longitude, after EXPRESSLY DIRECTING THIS INSTRUMENT TO
+      BE MADE AND TRIED, could come to the decision at which they arrived,
+      appears inexplicable. The known difference of opinion amongst the best
+      observers respecting the repeating principle, ought to have rendered them
+      peculiarly cautious, nor ought the opinion of a Troughton, that
+      instruments of less than one foot in diameter may be considered, "FOR
+      ASTRONOMY, AS LITTLE BETTER THAN PLAYTHINGS," [Memoirs of the Astronomical
+      Society, Vol.I. p.53.] to have been rejected without the most carefully
+      detailed experiments. There were amongst that body, persons who must have
+      examined minutely the work on the Pendulum. Captain Kater must have felt
+      those difficulties in the perusal of it which other observers have
+      experienced; and he who was placed in the Board of Longitude especially
+      for his knowledge of instruments, might, in a few hours, have arrived at
+      more decisive facts. But perhaps I am unjust. Captain Kater's knowledge
+      rendered it impossible for him to have been ignorant of the difficulties,
+      and his candour would have prevented him from concealing them: he must,
+      therefore, after examining the subject, have been outvoted by his
+      lay-brethren who had dispensed with that preliminary.
+    
+
+      It would be unjust, before quitting this subject, not to mention with
+      respect the acknowledgment made by an officer of the naval service of the
+      errors into which he also fell from this same level. Lieutenant Foster,
+      aware of the many occasions on which Captain Sabine had employed this
+      instrument, and knowing that he considered each division as equal to one
+      second, never thought that a doubt could exist on the subject, and made
+      all his calculations accordingly. When Captain Kater made him acquainted
+      with the mistake, Lieutenant Foster immediately communicated a paper [The
+      paper of Lieutenant Foster is printed in the Philosophical Transactions,
+      1827, p.122, and is worth consulting.] to the Royal Society, in which he
+      states the circumstance most fully, and recomputed all the observations in
+      which that instrument was used. Unfortunately, from the original
+      observations of Mr. Ross being left on board the Fury at the time of her
+      loss, the transcripts of his results could not be recomputed like the
+      rest, and were consequently useless.
+    
+
+
+ 
+
+
+
+</div></body></text></TEI>

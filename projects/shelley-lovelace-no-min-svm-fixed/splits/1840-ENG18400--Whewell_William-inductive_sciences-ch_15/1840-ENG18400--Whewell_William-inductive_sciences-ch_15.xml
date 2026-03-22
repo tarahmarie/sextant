@@ -1,0 +1,522 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Novum Organon Renovatum</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="24">
+CHAPTER VIII.
+Methods of Induction depending on Resemblance.
+Aphorism XLIX.
+The Law of Continuity is this:—that a quantity cannot
+pass from one amount to another by any change of conditions,
+without passing through all intermediate magnitudes
+according to the intermediate conditions. This Law may
+often be employed to disprove distinctions which have no real
+foundation.
+Aphorism L.
+The Method of Gradation consists in taking a number of
+stages of a property in question, intermediate between two
+extreme cases which appear to be different. This Method is
+employed to determine whether the extreme cases are really
+distinct or not.
+Aphorism LI.
+The Method of Gradation, applied to decide the question,
+whether the existing geological phenomena arise from existing
+causes, leads to this result:—That the phenomena do appear
+to arise from Existing Causes, but that the action of existing
+causes may, in past times, have transgressed, to any extent,
+their recorded limits of intensity.
+Aphorism LII.
+The Method of Natural Classification consists in classing
+cases, not according to any assumed Definition, but according
+to the connexion of the facts themselves, so as to make them
+the means of asserting general truths. 221
+Sect. I.—The Law of Continuity.
+1. THE
+Law of Continuity is applicable to quantity
+primarily, and therefore might be associated
+with the methods treated of in the last chapter: but
+inasmuch as its inferences are made by a transition from
+one degree to another among contiguous cases, it will
+be found to belong more properly to the Methods of
+Induction of which we have now to speak.
+The Law of Continuity consists in this proposition,—That
+a quantity cannot pass from one amount to
+another by any change of conditions, without passing
+through all intermediate degrees of magnitude according
+to the intermediate conditions. And this law may
+often be employed to correct inaccurate inductions,
+and to reject distinctions which have no real foundation
+in nature. For example, the Aristotelians made
+a distinction between motions according to nature, (as
+that of a body falling vertically downwards,) and motions
+contrary to nature, (as that of a body moving
+along a horizontal plane:) the former, they held, became
+naturally quicker and quicker, the latter naturally
+slower and slower. But to this it might be replied,
+that a horizontal line may pass, by gradual motion,
+through various inclined positions, to a vertical
+position: and thus the retarded motion may pass into the
+accelerated; and hence there must be some inclined
+plane on which the motion downwards is naturally
+uniform: which is false, and therefore the distinction
+of such kinds of motion is unfounded. Again, the
+proof of the First Law of Motion depends upon the
+Law of Continuity: for since, by diminishing the
+resistance to a body moving on a horizontal plane, we
+diminish the retardation, and this without limit, the
+law of continuity will bring us at the same time to
+the case of no resistance and to the case of no retardation.
+2. The Law of Continuity is asserted by Galileo
+in a particular application; and the assertion which it 222
+suggests is by him referred to
+Plato;—namely36 that a
+moveable body cannot pass from rest to a determinate
+degree of velocity without passing through all smaller
+degrees of velocity. This law, however, was first asserted
+in a more general and abstract form by
+Leibnitz37:
+and was employed by him to show that the laws
+of motion propounded by Descartes must be false. The
+Third Cartesian Law of Motion was
+this38: that when
+one moving body meets another, if the first body have
+a less momentum than the second, it will be reflected
+with its whole motion: but if the first have a greater
+momentum than the second, it will lose a part of its
+motion, which it will transfer to the second. Now
+each of these cases leads, by the Law of Continuity, to
+the case in which the two bodies have equal momentums:
+but in this case, by the first part of the law the
+body would retain all its motion; and by the second
+part of the law it would lose a portion of it: hence the
+Cartesian Law is false.
+36
+ Dialog. iii. 150. iv. 32.
+37
+ Opera, i. 366.
+38
+ Cartes, Prin. p. 35.
+3. I shall take another example of the application
+of this Law from Professor Playfair’s Dissertation on
+the History of Mathematical and Physical
+Science39.
+‘The Academy of Sciences at Paris having (in 1724)
+proposed, as a Prize Question, the Investigation of the
+Laws of the Communication of Motion, John Bernoulli
+presented an Essay on the subject very ingenious and
+profound; in which, however, he denied the existence
+of hard bodies, because in the collision of such bodies,
+a finite change of motion must take place in an instant:
+an event which, on the principle just explained, he
+maintained to be impossible.’ And this reasoning
+was justifiable: for we can form a continuous
+transition from cases in which the impact manifestly
+occupies a finite time, (as when we strike a large soft
+body) to cases in which it is apparently instantaneous.
+Maclaurin and others are disposed, in order to avoid
+the conclusion of Bernoulli, to reject the Law of 223
+Continuity. This, however, would not only be, as Playfair
+says, to deprive ourselves of an auxiliary, commonly
+useful though sometimes deceptive; but what is much
+worse, to acquiesce in false propositions, from the want
+of clear and patient thinking. For the Law of Continuity,
+when rightly interpreted, is never violated in
+actual fact. There are not really any such bodies as
+have been termed perfectly hard: and if we approach
+towards such cases, we must learn the laws of motion
+which rule them by attending to the Law of Continuity,
+not by rejecting it.
+39
+ In the Encyc. Brit. p. 537.
+4. Newton used the Law of Continuity to suggest,
+but not to prove, the doctrine of universal gravitation.
+Let, he said, a terrestrial body be carried as high as
+the moon: will it not still fall to the earth? and does
+not the moon fall by the same force40?
+Again: if any
+one says that there is a material ether which does not
+gravitate41,
+this kind of matter, by condensation, may
+be gradually transmuted to the density of the most
+intensely gravitating bodies: and these gravitating
+bodies, by taking the internal texture of the condensed
+ether, may cease to gravitate; and thus the weight of
+bodies depends, not on their quantity of matter, but
+on their texture; which doctrine Newton conceived he
+had disproved by experiment.
+40
+ Principia, lib. iii. prop. 6.
+41
+ Ib. cor. 2.
+5. The evidence of the Law of Continuity resides
+in the universality of those Ideas, which enter into
+our apprehension of Laws of Nature. When, of two
+quantities, one depends upon the other, the Law of
+Continuity necessarily governs this dependence. Every
+philosopher has the power of applying this law, in
+proportion as he has the faculty of apprehending the Ideas
+which he employs in his induction, with the same
+clearness and steadiness which belong to the fundamental
+ideas of Quantity, Space and Number. To those
+who possess this faculty, the Law is a Rule of very wide
+and decisive application. Its use, as has appeared in the
+above examples, is seen rather in the disproof of erroneous
+views, and in the correction of false propositions, 224
+than in the invention of new truths. It is a test of
+truth, rather than an instrument of discovery.
+Methods, however, approaching very near to the
+Law of Continuity may be employed as positive means
+of obtaining new truths; and these I shall now describe.
+Sect. II.—The Method of Gradation.
+6. To gather together the cases which resemble
+each other, and to separate those which are essentially
+distinct, has often been described as the main business
+of science; and may, in a certain loose and vague
+manner of speaking, pass for a description of some of
+the leading procedures in the acquirement of knowledge.
+The selection of instances which agree, and of
+instances which differ, in some prominent point or
+property, are important steps in the formation of
+science. But when classes of things and properties
+have been established in virtue of such comparisons, it
+may still be doubtful whether these classes are separated
+by distinctions of opposites, or by differences of
+degree. And to settle such questions, the Method of
+Gradation is employed; which consists in taking
+intermediate stages of the properties in question, so as to
+ascertain by experiment whether, in the transition
+from one class to another, we have to leap over a
+manifest gap, or to follow a continuous road.
+7. Thus for instance, one of the early Divisions
+established by electrical philosophers was that of Electrics
+and Conductors. But this division Dr. Faraday
+has overturned as an essential opposition. He
+takes42 a
+Gradation which carries him from Conductors to
+Non-conductors. Sulphur, or Lac, he says, are held to be
+non-conductors, but are not rigorously so. Spermaceti
+is a bad conductor: ice or water better than spermaceti:
+metals so much better that they are put in a
+different class. But even in metals the transit of the
+electricity is not instantaneous: we have in them proof
+of a retardation of the electric current: ‘and what 225
+reason,” Mr. Faraday asks, “why this retardation
+should not be of the same kind as that in spermaceti,
+or in lac, or sulphur? But as, in them, retardation is
+insulation, [and insulation is
+induction43] why should
+we refuse the same relation to the same exhibitions of
+force in the metals?”
+42
+ Researches, 12th series, art. 1328.
+43
+ These words refer to another proposition,
+also established by the Method of Gradation.
+The process employed by the same sagacious philosopher
+to show the identity of Voltaic and Franklinic
+electricity, is another example of the same kind44.
+Machine [Franklinic] electricity was made to exhibit the
+same phenomena as Voltaic electricity, by causing the
+discharge to pass through a bad conductor, into a very
+extensive discharging train: and thus it was clearly
+shown that Franklinic electricity, not so conducted,
+differs from the other kinds, only in being in a state
+of successive tension and explosion instead of a state
+of continued current.
+44
+ Hist. Ind. Sc. b. xiv. c. ix. sect. 2.
+Again; to show that the decomposition of bodies in
+the Voltaic circuit was not due to the Attraction of the
+Poles45,
+Mr. Faraday devised a beautiful series of
+experiments, in which these supposed Poles were made to
+assume all possible electrical conditions:—in some cases
+the decomposition took place against air, which according
+to common language is not a conductor, nor is decomposed;—in
+others, against the metallic poles, which
+are excellent conductors but undecomposable;—and so
+on: and hence he infers that the decomposition cannot
+justly be considered as due to the Attraction, or Attractive
+Powers, of the Poles.
+45
+ Ibid. Researches, art. 497.
+8. The reader of the Novum Organon may perhaps,
+in looking at such examples of the Rule, be reminded
+of some of Bacon’s Classes of Instances, as his instantiæ
+absentiæ in proximo, and his instantiæ migrantes.
+But we may remark that Instances classed
+and treated as Bacon recommends in those parts of
+his work, could hardly lead to scientific truth. His 226
+processes are vitiated by his proposing to himself the
+form or cause of the property before him, as the object
+of his inquiry; instead of being content to obtain, in
+the first place, the law of phenomena. Thus his
+example46
+of a Migrating Instance is thus given. “Let
+the Nature inquired into be that of Whiteness;
+an Instance Migrating to the production of this property is
+glass, first whole, and then pulverized; or plain water,
+and water agitated into a foam; for glass and water
+are transparent, and not white; but glass powder and
+foam are white, and not transparent. Hence we must
+inquire what has happened to the glass or water in
+that Migration. For it is plain that the Form of
+Whiteness is conveyed and induced by the crushing
+of the glass and shaking of the water.” No real
+knowledge has resulted from this line of reasoning:—from
+taking the Natures and Forms of things and of
+their qualities for the primary subject of our researches.
+46
+ Nov. Org. lib. ii. Aph. 28.
+9. We may easily give examples from other subjects in
+which the Method of Gradation has been used
+to establish, or to endeavour to establish, very extensive
+propositions. Thus Laplace’s Nebular Hypothesis,—that
+systems like our solar system are formed by
+gradual condensation from diffused masses, such as the
+nebulæ among the stars,—is founded by him upon an
+application of this Method of Gradation. We see, he
+conceives, among these nebulæ, instances of all degrees
+of condensation, from the most loosely diffused fluid,
+to that separation and solidification of parts by which
+suns, and satellites, and planets are formed: and thus
+we have before us instances of systems in all their
+stages; as in a forest we see trees in every period of
+growth. How far the examples in this case satisfy the
+demands of the Method of Gradation, it remains for
+astronomers and philosophers to examine.
+Again; this method was used with great success by
+Macculloch and others to refute the opinion, put in
+currency by the Wernerian school of geologists, that 227
+the rocks called trap rocks must be classed with those
+to which a sedimentary origin is ascribed. For it was
+shown that a gradual transition might be traced from
+those examples in which trap rocks most resembled
+stratified rocks, to the lavas which have been recently
+ejected from volcanoes: and that it was impossible to
+assign a different origin to one portion, and to the
+other, of this kind of mineral masses; and as the
+volcanic rocks were certainly not sedimentary, it followed,
+that the trap rocks were not of that nature.
+Again; we have an attempt of a still larger kind
+made by Sir C. Lyell, to apply this Method of Gradation
+so as to disprove all distinction between the causes by
+which geological phenomena have been produced, and
+the causes which are now acting at the earth’s surface.
+He has collected a very remarkable series of changes
+which have taken place, and are still taking place, by
+the action of water, volcanoes, earthquakes, and other
+terrestrial operations; and he conceives he has shown
+in these a gradation which leads, with no wide chasm
+or violent leap, to the state of things of which geological
+researches have supplied the evidence.
+10. Of the value of this Method in geological speculations,
+no doubt can be entertained. Yet it must still
+require a grave and profound consideration, in so vast
+an application of the Method as that attempted by
+Sir C. Lyell, to determine what extent we may allow to
+the steps of our gradation; and to decide how far the
+changes which have taken place in distant parts of the
+series may exceed those of which we have historical
+knowledge, without ceasing to be of the same kind.
+Those who, dwelling in a city, see, from time to time,
+one house built and another pulled down, may say that
+such existing causes, operating through past time,
+sufficiently explain the existing condition of the city. Yet
+we arrive at important political and historical truths,
+by considering the origin of a city as an event of a
+different order from those daily changes. The causes
+which are now working to produce geological results,
+may be supposed to have been, at some former epoch,
+so far exaggerated in their operation, that the changes 228
+should be paroxysms, not degrees;—that they should
+violate, not continue, the gradual series. And we
+have no kind of evidence whether the duration of our
+historical times is sufficient to give us a just measure
+of the limits of such degrees;—whether the terms
+which we have under our notice enable us to ascertain
+the average rate of progression.
+11. The result of such considerations seems to be
+this:—that we may apply the Method of Gradation in
+the investigation of geological causes, provided we
+leave the Limits of the Gradation undefined. But,
+then, this is equivalent to the admission of the opposite
+hypothesis: for a continuity of which the successive
+intervals are not limited, is not distinguishable from
+discontinuity. The geological sects of recent times
+have been distinguished as uniformitarians and catastrophists:
+the Method of Gradation seems to prove the
+doctrine of the uniformitarians; but then, at the same
+time that it does this, it breaks down the distinction
+between them and the catastrophists.
+There are other exemplifications of the use of gradations
+in Science which well deserve notice: but some
+of them are of a kind somewhat different, and may be
+considered under a separate head.
+Sect. III. The Method of Natural Classification.
+12. The Method of Natural Classification consists, as
+we have seen, in grouping together objects, not according
+to any selected properties, but according to their
+most important resemblances; and in combining such
+grouping with the assignation of certain marks of the
+classes thus formed. The examples of the successful
+application of this method are to be found in the
+Classificatory Sciences through their whole extent; as,
+for example, in framing the Genera of plants and animals.
+The same method, however, may often be extended to other
+sciences. Thus the classification of
+Crystalline Forms, according to their Degree of Symmetry,
+(which is really an important distinction,) as introduced
+by Mohs and Weiss, was a great improvement 229
+upon Haüy’s arbitrary division according to certain
+assumed primary forms. Sir David Brewster was led
+to the same distinction of crystals by the study of
+their optical properties; and the scientific value of the
+classification was thus strongly exhibited. Mr. Howard’s
+classification of Clouds appears to be founded in
+their real nature, since it enables him to express the
+laws of their changes and successions. As we have
+elsewhere said, the criterion of a true classification is,
+that it makes general propositions possible. One of
+the most prominent examples of the beneficial influence
+of a right classification, is to be seen in the
+impulse given to geology by the distinction of strata
+according to the organic fossils which they
+contain47:
+which, ever since its general adoption, has been a
+leading principle in the speculations of geologists.
+47
+ Hist. Ind. Sc. b. xviii. c. ii. sect. 3.
+13. The mode in which, in this and in other cases,
+the Method of Natural Classification directs the researches
+of the philosopher, is this:—his arrangement
+being adopted, at least as an instrument of inquiry and
+trial, he follows the course of the different members of
+the classification, according to the guidance which Nature
+herself offers; not prescribing beforehand the
+marks of each part, but distributing the facts according
+to the total resemblances, or according to those
+resemblances which he finds to be most important.
+Thus, in tracing the course of a series of strata from
+place to place, we identify each stratum, not by any
+single character, but by all taken together;—texture,
+colour, fossils, position, and any other circumstances
+which offer themselves. And if, by this means, we
+come to ambiguous cases, where different indications
+appear to point different ways, we decide so as best to
+preserve undamaged those general relations and truths
+which constitute the value of our system. Thus
+although we consider the organic fossils in each stratum
+as its most important characteristic, we are not
+prevented, by the disappearance of some fossils, or the
+addition of others, or by the total absence of fossils, 230
+from identifying strata in distant countries, if the
+position and other circumstances authorize us to do so.
+And by this Method of Classification, the doctrine of
+Geological Equivalents48
+has been applied to a great
+part of Europe.
+48
+ Hist. Ind. Sc. b. xviii. c. iii. sect. 4.
+14. We may further observe, that the same method
+of natural classification which thus enables us to
+identify strata in remote situations, notwithstanding that
+there may be great differences in their material and
+contents, also forbids us to assume the identity of the
+series of rocks which occur in different countries, when
+this identity has not been verified by such a continuous
+exploration of the component members of the
+series. It would be in the highest degree unphilosophical
+to apply the special names of the English or
+German strata to the rocks of India, or America, or
+even of southern Europe, till it has appeared that in
+those countries the geological series of northern Europe
+really exists. In each separate country, the divisions
+of the formations which compose the crust of the
+earth must be made out, by applying the Method of
+Natural Arrangement to that particular case, and not
+by arbitrarily extending to it the nomenclature
+belonging to another case. It is only by such precautions,
+that we can ever succeed in obtaining geological
+propositions, at the same time true and comprehensive; or
+can obtain any sound general views respecting the
+physical history of the earth.
+15. The Method of Natural Classification, which
+we thus recommend, falls in with those mental habits
+which we formerly described as resulting from the
+study of Natural History. The method was then termed
+the Method of Type, and was put in opposition to the
+Method of Definition.
+The Method of Natural Classification is directly
+opposed to the process in which we assume and apply
+arbitrary definitions; for in the former Method, we
+find our classes in nature, and do not make them by
+marks of our own imposition. Nor can any advantage 231
+to the progress of knowledge be procured, by laying
+down our characters when our arrangements are as yet
+quite loose and unformed. Nothing was gained by
+the attempts to define Metals by their weight, their
+hardness, their ductility, their colour; for to all these
+marks, as fast as they were proposed, exceptions were
+found, among bodies which still could not be excluded
+from the list of Metals. It was only when
+elementary substances were divided into Natural
+Classes, of which classes Metals were one, that a true
+view of their distinctive characters was obtained.
+Definitions in the outset of our examination of nature are
+almost always, not only useless, but prejudicial.
+16. When we obtain a Law of Nature by induction
+from phenomena, it commonly happens, as we have
+already seen, that we introduce, at the same time, a
+Proposition and a Definition. In this case, the two
+are correlative, each giving a real value to the other.
+In such cases, also, the Definition, as well as the
+Proposition, may become the basis of rigorous reasoning,
+and may lead to a series of deductive truths. We have
+examples of such Definitions and Propositions in the
+Laws of Motion, and in many other cases.
+17. When we have established Natural Classes of
+objects, we seek for Characters of our classes; and
+these Characters may, to a certain extent, be called the
+Definitions of our classes. This is to be understood,
+however, only in a limited sense: for these Definitions
+are not absolute and permanent. They are liable to
+be modified and superseded. If we find a case which
+manifestly belongs to our Natural Class, though violating
+our Definition, we do not shut out the case, but
+alter our definition. Thus, when we have made it
+part of our Definition of the Rose family, that they
+have alternate stipulate leaves, we do not, therefore,
+exclude from the family the genus Lowæa, which has
+no stipulæ. In Natural Classifications, our
+Definitions are to be considered as temporary and
+provisional only. When Sir C. Lyell established the
+distinctions of the tertiary strata, which he termed Eocene,
+Miocene, and Pliocene, he took a numerical criterion 232
+(the proportion of recent species of shells contained in
+those strata) as the basis of his division. But now
+that those kinds of strata have become, by their
+application to a great variety of cases, a series of Natural
+Classes, we must, in our researches, keep in view the
+natural connexion of the formations themselves in different
+places; and must by no means allow ourselves
+to be governed by the numerical proportions which
+were originally contemplated; or even by any amended
+numerical criterion equally arbitrary; for however
+amended, Definitions in natural history are never immortal.
+The etymologies of Pliocene and Miocene
+may, hereafter, come to have merely an historical interest;
+and such a state of things will be no more inconvenient,
+provided the natural connexions of each class
+are retained, than it is to call a rock oolite or
+porphyry, when it has no roelike structure and no fiery
+spots.
+The Methods of Induction which are treated of in
+this and the preceding chapter, and which are specially
+applicable to causes governed by relations of Quantity
+or of Resemblance, commonly lead us to Laws of Phenomena
+only. Inductions founded upon other ideas,
+those of Substance and Cause for example, appear to
+conduct us somewhat further into a knowledge of the
+essential nature and real connexions of things. But
+before we speak of these, we shall say a few words
+respecting the way in which inductive propositions,
+once obtained, may be verified and carried into effect
+by their application.
+</div></body></text></TEI>

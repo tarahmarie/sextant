@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 84-85</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 84-85.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1840">undated (estimated from box 165 date range)</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 84-85</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_84-85.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Saturday 5 o'clock</p>
+      <p>Dearest Mate. I asked Locock this morning about Tuesday, &amp; he said it must depend on the result of today's drive. That result is excellent. I was less weak &amp; tired when I returned than when I set out. I think I was out near an hour, &amp; found the britska easy.-- The glasses do not</p>
+      <p>shut by any means close, which in case of rain would be inconvenient, but otherwise it is very good.-- Yesterday evening I was less well, owing to a very sudden &amp; great increase of inconveniences. This seemed to make Locock a little doubtful about the journey, but today it has passed off exactly as he wished.--</p>
+      <p>I was anxious about it knowing how much my sweet mate wishes to be warbling with his bird in his own trees. But in</p>
+      <p>short I am a very nice avis, very pert &amp; pleased with myself.--</p>
+      <p>I send you my Hen's letter of this morning, &amp; two others which of course I have not read, though knowing from whom they come, I much wished it.-- Caroline tells Charlotte that Emily has been giving out all is wrong again at Woburn, &amp; Hester gone off alone somewhere.--</p>
+      <p>I had a better night than usual owing to the bed here down stairs being very</p>
+      <p>good. The rooms too are most comfortable &amp; lofty, had I hope will put you in good humour again with this house. The drawing-room has so beautiful a carpet of leopard &amp; tiger skin mixed &amp; excellent for wear, that I want one like it.--</p>
+      <p>I have got the pretty yellow pattern from Fryern, &amp; much admire it, but I am afraid your prudence may think it too delicate.</p>
+      <p>My sweetest of mates, Yours most affecly The Little Bird</p>
+    </div></body>
+  </text>
+</TEI>

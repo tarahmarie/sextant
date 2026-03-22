@@ -1,0 +1,1768 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title></title><author>Babbage Charles</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="31">REFLECTIONS ON FREE WILL.
+ The great question of the incompatibility
+ of one of the attributes of the Creator—that of fore-knowledge, with the existence
+ of the free exercise of their will in the beings he has created,—has long baffled
+ human comprehension; nor is it the object of this chapter to enter upon that
+ difficult question. As, however, some of the properties of the Calculating Engine
+ seem, although but very remotely, to bear on a similar question, with respect
+ to finite beings, it may, perhaps, not be entirely useless to state them.
+[page] 168
+It has already been observed, that
+ it is possible so to adjust the engine, that it shall change the law it is calculating
+ into another law, at any distant period which may be assigned.
+ Now, by a similar adjustment, this
+ change may be made to take place at a time not foreseen by the person employing
+ the engine. For example: when calculating a table of squares, it may be made
+ to change into a table of cubes, the first time the square number ends in the
+ figures—
+ 269696;
+ an event which only occurs at the
+ 99736th calculation; and whether that fact is known to the person who adjusts
+ the machine or not, is immaterial to the result. But the very condition on which
+ the change depends, maybe impossible. Thus, the change of the law from that
+ of squares to that of cubes may be made to take place the first time
+[page] 169
+ the square number ends in 7. But
+ it is known, that no square number can end in a 7; consequently the event,
+ on the happening of which the change is determined, can itself never take place.
+ Yet, the engine retains impressed on it a law, which would be called into action
+ if the event on which it depends could occur in the course of the law it is
+ calculating. Nay, further, if the observer of the engine is informed, that at
+ certain times he can move the last figure the engine has calculated, and change
+ it into any other, in consequence of which it becomes possible that some future
+ term may end in 7; then, after he has so changed the last figure, whenever
+ that terminal figure arrives, all future numbers calculated by the machine will
+ follow the law of the cubes.
+[page] 170
+ These contingent changes may be
+ limited to single exceptions, and the arrival of such an exception may be made
+ contingent on a change which is only possible at certain rare periods. For example:
+ the engine may be set to calculate square numbers, and after a certain number
+ of calculations—ten million and fifty-three, for instance, it shall be possible
+ to add unity to a wheel in another part of the engine, which in every other
+ case is immovable. This fact being communicated to the observer, he may either
+ make that addition or refrain from it: if he refrain, the law of the squares
+ will continue for ever; if he make the addition, one single cube will be substituted
+ for that square number, which ought to occur ten million and five terms beyond
+ the point at which he made
+[page] 171
+the addition; and after that no
+ future addition will ever become possible, and no deviation from the law of
+ the squares ever can occur.
+[page] 172
+ CONCLUSION. 
+ Reader, I have now fulfilled the task I undertook. Labouring under that imputed
+ mental incapacity which the science I cultivate has been stated to produce,
+ I have brought from the recesses of that science the reasonings and illustrations
+ by which I have endeavoured faintly to embody the human conception of the Almighty
+ mind. It is for you to determine whether the trains of thought I have excited
+ have lowered or exalted your previous notions of the power and the knowledge
+ of the Creator.
+[page] 173
+ That prejudice which I have endeavoured to expose is not a merely speculative
+ opinion, it is a practical evil; and those whose writings have been supposed
+ to give support to it, will, I am sure, feel grieved when they learn that it
+ is used by the ignorant and the designing, for the injury of the virtuous and
+ the instructed; that it is employed as a firebrand, to disturb the relations
+ of social life. They will also, if the arguments I have used have the same effect
+ on their minds which they have had upon my own, lament still more deeply that
+ they should have contributed, in any degree, to throw discredit on that species
+ of knowledge which is now found to supply some of the strongest arguments in
+ favour of religion. I will, however, hope that the opinions I have combated
+ are not shared or even countenanced by the higher authorities of our Protestant
+ Church; and I cannot better conclude this Fragment, than by recalling to the
+ reader the words of one, whose power of reasoning, and whose love of truth,
+ add
+[page] 174
+ dignity to the high station he so deservedly fills:— " Lastly, As we must
+ not dare to withhold " or disguise revealed religious truth, so, we "
+ must dread the progress of no other truth. " We must not imitate the
+ bigoted Romanists " who imprisoned Galileo; and step forward " Bible in hand
+ (like the profane Israelites carrying the Ark of God into the field of battle)
+ " to check the inquiries of the Geologist, the Astronomer, or the Political-economist,
+ from " an apprehension that the cause of religion " can be endangered by them.*
+ Any theory " on whatever subject, that is really sound, can " never be inimical
+ to a religion founded on " truth; and any that is unsound may be refuted by
+ arguments drawn from observation " and experiment, without calling in the aid
+ of " revelation. If we give way to a dread of " danger from the inculcation
+ of any scriptural
+ * See First Lecture on Political Economy.
+[page] 175
+ doctrine, or from the progress of physical or "moral science, we manifest
+ a want of faith in" God's power, or in his will, to maintain his own cause.
+ That we shall indeed best further his cause by fearless perseverance in an "open and straight course, I am firmly persuaded; but it is not only when we perceive" the mischiefs of falsehood and disguise, and "the beneficial
+ tendency of fairness and candour, that we are to be followers of truth: "the
+ trial of our faith is, when we cannot perceive this: and the part of
+ a lover of truth " is to follow her at all seeming hazards, after the example
+ of Him who came into the world that He might bear witness to the "Truth."'*
+ * Sermons by the Archbishop of Dublin.
+[page 176]
+[page 177]
+APPENDIX. 
+[page 178]
+[page 179]
+APPENDIX. 
+ NOTE A. page 32.
+ON THE GREAT LAW WHICH REGULATES MATTER.
+EVER since the period
+ when Newton established the great law of gravity, philosophers have occasionally
+ speculated on the existence of some more comprehensive law, of which gravity
+ itself is a consequence. Although some have considered it vain to search for
+ a more general law, the great philosopher himself left encouragement to future
+ inquirers; and the time, perhaps, has even now arrived, when such a discovery
+ may be near its maturity. It would occupy too much space to introduce many illustrations
+ of this opinion; there is, however, one which deserves attention, because it
+ is not merely a happy conjecture, but the hypothesis on which it rests has been
+ carried out by its author, through the aid of profound mathematical reasoning,
+ to many of its remote consequences.
+[page] 180
+ M. Mosotti* has shown, that by
+ supposing matter to consist of two sorts of particles, each of which repels
+ similar particles, directly as the mass, and inversely as the squares of their
+ distances, whilst each attracts those of the other kind, also according to the
+ same law,— then the resulting attractions explain all the phenomena of electricity,
+ while there remains a residual force, acting at all sensible distances, according
+ to the law of gravity.
+Many of the discoveries of the present day point towards
+ some more general law; and many philosophers of the present time anticipate
+ its near approach. Under these circumstances, it may be interesting as well
+ as useful briefly to state the principles which such a law must comprehend; and to indicate, however imperfectly, the path to be pursued in the research.
+If matter be supposed to consist of two sorts of particles, or rather, perhaps,
+ of two sorts of centres of force, of different orders of density; and if the
+ particles of each order repel their own particles, according to a given law,
+ but attract particles of the other kind, according to another law,—then, if
+ we conceive only one particle of the denser kind to exist, and an infinite
+* Professor of Physics at the University of the Ionian Islands.—The paper of M. Mosotti has been translated, and published by Mr. R. Taylor,
+ in the third number of the Scientific Memoirs; a work which it is proposed shall
+ contain translations of all the most important original papers printed
+ in foreign countries.
+[page] 181
+ number of the other kind, that
+ single particle will become the centre of a system, surrounded by all the others,
+ which will form around it an atmosphere denser near the central body. If we
+ conceive a stream of particles, similar to those forming the atmosphere, to
+ impinge upon it, so as just to overcome its resistance, they will, whilst continually
+ producing undulations throughout its whole extent, gradually increase its magnitude,
+ until it attains such a size, that the repulsion of the particles at the outer
+ surface of this enlarged atmosphere is just balanced by the attraction of the
+ central particle. If the stream continue after this point is reached, the whole
+ outer layer will be pressed a little beyond the limit of attraction, and will
+ fly off at right angles to the surface, which might then be said to radiate.
+ If the whole of the space in which such a central particle with its atmosphere
+ is placed, is itself full of atmospheric particles, then their density will
+ increase in approaching the central body; and if a stream of such particles
+ were directed towards the centre, they might produce throughout the atmosphere
+ vibrations, which would be transmitted from it in all directions. If two such
+ central particles, with their atmospheres, exist at a distance from each other,
+ they will be drawn together by a force depending on the difference between
+[page] 182
+ the mutual repulsion of their atmospheres and central bodies respectively
+ for each other, and the attraction of each central particle for its neighbour's
+ atmosphere: and in order to coincide with the existing law of nature, this
+ force must be directly as the mass, and inversely as the square, of the distance.
+ The other conditions which such a law must satisfy, are— 1. That the juxtaposition
+ of such atoms must, in some circumstances, form a solid body:— 2. In
+ other circumstances, a fluid. 3. That again, in still other circumstances,
+ its particles shall repel each other, or the body become gaseous. 4. In the
+ first state the body must possess cohesion, tenacity, malleability, elasticity; the measure and extent of each of which must result generally from the original
+ law, and in each particular case from the constants belonging to the substance
+ itself. 5. In the second state, it must possess capillarity, susceptibility
+ of being compressed without becoming solid, as also elasticity. But besides
+ these, the central atoms must admit of a more intimate approach, so that
+ their atmospheres may
+[page] 183
+ unite and form one atmosphere.
+ This might constitute chemical union. Binary compounds might then (supposing
+ the distance between the two central particles to be very small, compared with
+ the diameters of the atmospheres) have atmospheres not quite spherical, and
+ attracting differently in different directions; thus possessing polarity. Combinations
+ of three or more atoms, as the central body of one atmosphere, might give great
+ varieties of attractive forces. Each different combination would give a different
+ atmosphere; and the equation of its surface might, perhaps, become the mathematical
+ expression of the substance it constituted. Thus, all the phenomena produced
+ by bodies, acting chemically on each other, might be deduced from the comparison
+ of the characteristic surfaces of the atmospheres of their atoms. Another
+ result, also, might ensue. Two or more central atoms uniting, might either not
+ be able to retain the same amount of atmosphere, or they might possibly be able
+ to retain a larger quantity. If the particles of such atmospheres constituted
+ heat, it would in the former case be given out, and in the latter absorbed by
+ chemical union. Hence the whole of chemistry, and with it crystallography, would
+ become a branch of mathematical analysis, which, like astronomy, taking its
+ constants from observation, would enable us to predict the character of any
+ new compound, and possibly indicate the source from which its formation might
+ be anticipated.
+[page] 184
+ For the sake of simplicity, two
+ species of particles only have been mentioned above; but it seems more probable,
+ that matter consists of at least three kinds. Suppose each of the three kinds
+ to repel its own particles; and the central atom, whilst it repels similar particles,
+ to attract those of the two other kinds; and moreover, that the latter are
+ either repulsive, or indifferent to each other. We might then conceive matter
+ to be made up of particles, each having a central point, with an atmosphere
+ surrounding it, and this atmosphere again inclosed within another and larger
+ one. Under such circumstances, the outer atmosphere might give rise to heat
+ and light, to solidity and fluidity, and the gaseous condition; to capillarity,
+ to elasticity, tenacity, and malleability. The more intimate union of the central
+ atoms, by which two or more become enclosed in one common atmosphere of the
+ second kind, might represent chemical combinations, and perhaps that atmosphere
+ itself be electricity. Possibly, also, this intermediate atmosphere, acted on
+ by the pressure of the external one, and by the attraction of the central atom,
+ might take the liquid form. These binary or multiple-combinations of the original
+ atoms, and their smaller atmospheres, would still be enclosed in an atmosphere
+ of the outer kind, which might be nearly spherical. The joint action of the
+ three might, at sensible distances, produce gravity.
+[page] 185
+ The reader should, however, bear
+ in mind, that these hints are thrown out only as objects of reflection and inquiry; and that nothing but a profound mathematical investigation can establish them,
+ or even give to them that temporary value which arises from any hypothesis,
+ representing a large collection of facts.
+[page] 186
+NOTE B. page 33.
+ON THE CALCULATING
+ ENGINE.
+THE nature of the arguments advanced in this volume having obliged me to refer,
+ more frequently than I should have chosen, to the Calculating Engine, it becomes
+ necessary to give the reader some brief account of its progress and present
+ state.
+About the year 1821, I undertook
+ to superintend, for the Government, the construction of an engine for calculating
+ and printing mathematical and astronomical tables. Early in the year 1833, a
+ small portion of the machine was put together, and was found to perform its
+ work with all the precision which had been anticipated. At that period circumstances,
+ which I could not control, caused what I then considered a temporary suspension
+ of its progress; and the Government, on whose
+[page] 187
+decision the continuance or discontinuance
+ of the work depended, have not yet communicated to me their wishes on the question.
+ The first illustration (p. 33 to 43) I have employed is derived from
+ the calculations made by this engine.
+About October, 1834, I commenced
+ the design of another, and far more powerful engine. Many of the contrivances
+ necessary for its performance have since been discussed and drawn according
+ to various principles; and all of them have been invented in more than one
+ form. I consider them, even in their present state, as susceptible of practical
+ execution; but time, thought, and expense, will probably improve them. As the
+ remaining illustrations are all drawn from the powers of this new engine, it
+ may be right to state, that it will calculate the numerical value of any algebraical
+ function—that, at any period previously fixed upon, or contingent on certain
+ events, it will cease to tabulate that algebraic function, and commence the
+ calculation of a different one, and that these changes may be repeated to any
+ extent.
+The former engine could employ about
+ 120 figures in its calculations; the present machine is intended to compute
+ with about 4,000.
+ Here I should willingly have left
+ the subject; but the public having erroneously imagined, that the sums
+[page] 188
+ of money paid to the workmen for
+ the construction of the engine, were the remuneration of my own services, for
+ inventing and directing its progress; and a Committee of the House of Commons
+ having incidentally led the public to believe that a sum of money was voted
+ to me for that purpose,—I think it right to give to that report the most direct
+ and unequivocal contradiction.
+[page] 189
+NOTE C. page 111.
+EXTRACT FROM THE
+ THEORY OF PROBABILITIES OF LAPLACE.
+ "Nous devons donc envisager l'état
+ présent de l'univers, comme l'effet de son état antérieur,
+ et comme la cause de celui qui va suivre. " Une intelligence qui pour un instant
+ donnée, connaîtrait toutes les forces dont la nature est animée,
+ et la situation respective des êtres qui la composent, si d'ailleurs elle
+ était assez vaste pour soumettre ces données à l'analyse,
+ embrasserait, dans la même formule, les mouvemens des plus grands corps
+ de l'univers et ceux du plus léger atome: rien ne serait incertain pour
+ elle, et l'avenir, comme le passé, serait présent a ses yeux.
+ L'esprit humain offre, dans la perfection qu'il a su donner à l'astronomie,
+ une faible esquisse de cette intelli-
+[page] 190
+gence. Ses découvertes en
+ mécanique et en géométrie, jointes à celle de la
+ pesanteur universelle, l'ont mis à portée de comprendre dans les
+ mêmes expressions analytiques, les états passés et futurs
+ du système du monde.
+"En appliquant le même méthode
+ à quelques autres objets de ses connaissances, il est parvenu à
+ ramener à des lois générales, les phénomènes
+ observés, et à prévoir ceux que des circonstances données
+ doivent faire éclore. Tous ses efforts dans la recherche de la vérité, 
+ tendent à le rapprocher sans cesse à l'intelligence que nous venons
+ de concevoir, mais dont il restera toujours infiniment éloigné.
+ Cette tendance propre à l'espèce humaine, est ce qui la rend supérieure
+ aux animaux; et ses progrès en ce genre, distinguent les nations et
+ les siècles, et fondent leur véritable gloire."—Laplace, Théorie
+ Analytique des Probabilités.
+[page] 191
+NOTE D. page 92.
+NOTE TO CHAP. VIII.
+ ON MIRACLES.
+THE view taken of miracles in Chapter
+ VIII. is the same as that contained in the work of Butler, on the Analogy of
+ Religion to the Constitution and Course of Nature. Inquiries connected with
+ the Calculating Engine, impressed it very forcibly on my own mind, and I have
+ drawn the illustrations chiefly from that subject. 1 cannot, however, forbear
+ referring the reader to the opinion of Sir J. Herschel, expressed at the beginning
+ of his letter to Mr. Lyell, (see Note I. p. 225,) because it confirms
+ me in the belief, that the more profoundly we inquire into the mechanism of
+ nature, the more certainly we arrive at that conclusion.
+[page] 192
+NOTE E. page 181.
+NOTE TO CHAPTER X.
+ ON HUMES ARGUMENT AGAINST MIRACLES.
+THE reader will observe, that throughout
+ the chapter to which this note refers, as well as in the note itself, the argument
+ of Hume is taken strictly according to his own interpretation of the terms he
+ uses, and the calculations are founded on them; so that it is from the very
+ argument itself, when fairly pursued to its full extent, that the refutation
+ results.
+Both our belief in the truth of
+ human testimony, and our belief in the permanence of the laws of nature, are,
+ according to Hume, founded on experience; we may, therefore, in the complete
+ ignorance in which he assumes we are, with respect to the causes of either,
+ treat the question as one of the probability of an event deduced solely from
+ observations of the past.
+[page] 193
+ The argument of Hume asserts, that
+ one improbability, namely, that of the falsehood of the testimony in favour
+ of a miracle, must always be greater than another improbability, namely,
+ that of the occurrence of the miracle itself; and also, that, from the very
+ nature of human experience, this preponderance can never take place.
+ Now the only possible mode of disproving the assertion, that one thing cannot,
+ under any circumstances, be greater than another, is to measure, under all circumstances,
+ the numerical value of the two things so compared, and the truth or falsehood
+ of the assertion will then appear. The doctrine of chances, which has been much
+ improved since the time of Hume, now enables us to apply precise measures to
+ this argument; and it is the object of this Note to state the outlines of the
+ calculation, and the results to which it leads. Previously to this, however,
+ it may not be amiss to offer a few remarks on the principles about to be employed.
+ In the great work of Laplace, " Théorie Analytique des Probabilités,"
+ those principles are established, and they are not merely undisputed, but are
+ admitted by other writers of the highest authority on this subject. They form
+ a part of the received knowledge of the present day, and, as such, they are
+ employed in the present work, in which I propose to use, not to
+[page] 194
+ discuss them. I state this, because
+ it has occasionally been asserted by persons unacquainted with the doctrine
+ of chances, that the argument respecting the probability or improbability of
+ miracles does not admit of the application of numbers. The received foundations
+ of science are not to be put aside by such opinions, however highly skilled
+ their authors may be in other branches of knowledge, and however powerful the
+ intellect by which they may have attained those acquirements. The conclusions
+ arrived at by the application of pure analysis must ever rest on the truth of
+ the principles assumed at the commencement of the inquiry; and although a knowledge
+ of mathematics may not appear necessary for forming a right judgment of the
+ accuracy of those principles, yet it is observed, that a clear apprehension
+ of them is not often found in the minds of those who are unacquainted with that
+ science. When, however, the grounds on which the principles employed in the
+ doctrine of chances are called in question by competent authority, it will be
+ time enough to examine the question; and none will more eagerly enter upon
+ that examination than those best versed in it, for none are so well aware of
+ the extreme difficulty and delicacy of the subject. As confusion sometimes arises
+ from the difference in the meaning of the words probable and improbable in popular language and in mathematical inquiries,
+[page] 195
+it may be convenient to point it
+ out; and to state, that in this Note it is used in the mathematical sense,
+ unless the reader's attention is directly called to a question relating to its
+ popular sense.
+In common language, an event is
+ said to be probable when it is more likely to happen than to fail: it
+ is said to be improbable when it is more likely to fail than to happen.
+Now, an event whose probability
+ is, in mathematical language , will be called probable or improbable, in
+ordinary language, according as p is less or greater than 2.
+If, in mathematical language, expresses
+ the probability of an event happening,  expresses the
+probability of its failing, or the improbability of its happening.
+It has been stated in the text,
+ that two views may be taken of those extraordinary deviations from the usual
+ course of nature, called miracles. According to the first of these, we have
+ to calculate the probability that a white ball has been drawn from an
+ urn (containing only white and black balls, out of which m balls have
+ been drawn all black), as deduced from
+[page] 196
+ the testimony of witnesses whose
+ probability of speaking truth is known:—or, of the analogous case; it having
+ been observed that m persons have died without any restoration to life,
+ what is the probability that such a resurrection has happened, it having been
+ asserted by n independent witnesses, the probability of each of whose
+ speaking false is -? The probability of the death without resurrection of the
+ , and the improbability of such an
+ occurrence, independently of testimony, is; which is therefore the probability
+ of a contrary occurrence, or that
+ of a person being raised from the dead. Now only two hypotheses can be formed,
+ collusion being, by hypothesis, out of the question: either the event did happen,
+ and the witnesses agree in speaking the truth, the probability of their concurrence
+ being
+ ,
+ and of that of the hypothesis being;
+ or the event did not happen, and
+ the witnesses  agree in a falsehood,
+ the probability of their concurrence being , and that of the hypothesis The probability
+ of the witnesses speaking truth, and the event occurring, is therefore,
+[page] 197
+
+ and the probability of their falsehood
+ is,
+
+ If we interpret Hume's assertion,
+ " that the falsehood of the witnesses must be more improbable than the occurrence
+ of the miracle," according to the mathematical meaning of the word improbable,
+ then we must
+ have,
+
+ or,
+
+ hence,
+
+ from which we find,
+
+[page] 198
+ are persons whose statements are
+ more frequently correct than incorrect, and who give their testimony in favour
+ of it without collusion,) a certain number n can always be found; so
+ that it shall be a greater improbability that their unanimous statement shall
+ be a falsehood, than that the miracle shall have occurred. Let us now suppose
+ each witness to state one falsehood for every ten truths, or p = 11,
+ and m = 1000,000,000,000;
+
+ or twenty-five such witnesses are
+ sufficient. If the witnesses only state one falsehood for every hundred truths,
+ then thirteen such witnesses are sufficient. Another view of the question might
+ be taken; and it might be asserted that, in order to believe in the miracle,
+ the probability of its truth must be greater than the probability of its falsehood; in this case the expression (A) must be greater than (B); or,
+
+ In this case also, under the same
+ circumstances, the condition can always be fulfilled of finding a sufficient
+[page] 199
+number of witnesses to render the
+ miracle probable, or even to give to it any required degree of probability.
+
+ According to the second view stated
+ in the text, a miracle may be assimilated to the drawing of a given number i out of an urn, containing all numbers from one to m. In this case
+ the probability of the occurrence of the event is,
+ and the probability of the concurrence of n witnesses in falsehood is Hence the probability that the particular number i was drawn, as deduced
+ from the testimony of n witnesses, each of whose probability of falsehood
+ is , is expressed by,
+
+[page] 200
+ and the probability of the number i not having been drawn, or of their falsehood, is
+
+ Hence the improbability of the
+ testimony must, according to Hume, be greater than that of the occurrence of
+ the event; or,-
+
+ If it is only required that the
+ probability of the occurrence of the miracle shall be greater than its
+[page] 201
+ improbability, then we must make (C) greater than (D); or,
+
+ Hence in this view, also, a sufficient
+ number of witnesses of given veracity may always be found to render the
+ improbability of their concurrent independent testimony being false, greater
+ than the improbability of the occurrence of the miracle. There is, however,
+ one other view, which it seems probable would have been that taken by Hume himself,
+ had he applied numbers to his own argument. Considering the probability of the
+ coincidence in falsehood of persons each having the probability
+[page] 202
+ in favour of his truth, which is u, that probability ought to be less than that of the occurrence
+ of the miracle; or,
+
+ This view of the question refers
+ to the probability of the concurrence of the witnesses before they have
+ given their testimony. The other four cases relate to the probability of the
+ miracle having happened, as deduced from the fact of the testimony having been
+ given. The last seems to have been that which Hume would have himself arrived
+ at; the others represent the true methods of estimating the probabilities of
+ the various cases: and the important conclusion follows, that, whichever be
+ the interpretation given to the argument of Hume, if independent witnesses can
+ be found, who speak truth more frequently than falsehood, it is always possible to assign a number of independent witnesses, the improbability of
+ the falsehood of whose concurring testimony shall be greater than that of the
+ improbability of the miracle itself.
+[page] 203
+ It is to be observed, that the
+ whole of this argument applies to independent witnesses. The possibility
+ of the collusion, and the degree of credit to be assigned to witnesses under
+ any given circumstances, depend on facts which have not yet been sufficiently
+ collected to become the subject of mathematical inquiry. Some of those considerations
+ which bear on this part of the subject, the reader will find treated of in the
+ work of Dr. Conyers Middleton, entitled " A Free Inquiry into the Miraculous
+ Powers which are supposed to have subsisted in the Christian Church, from the
+ earliest Ages through several successive Centuries." London, 1749.
+[page] 204
+NOTE F.
+ON THE CONSEQUENCES
+ OF CENTRAL HEAT.
+the increase of temperature observed
+ as we descend below the earth's surface, as well as other phenomena, have led
+ to a very general opinion, that great heat exists in the interior of the earth,
+ and that the body of our planet, having been at one time intensely heated, has
+ cooled down to its present temperature. With the view of pointing out courses
+ of inquiry, by which these opinions may ultimately be tested by observation,
+ it may be expedient to take a cursory view of some of the consequences of such
+ an hypothesis.
+And first, let us imagine the exterior
+ of our globe to have once been in a state of intense heat. No fluid such as
+ water could then have existed on the surface: it would instantly have been
+ converted into vapour; and
+[page] 205
+ notwithstanding the increased weight
+ of atmosphere thus produced and pressing on the surface of the globe, sufficient
+ heat would reduce all fluids to the gaseous state. Let us, however, inquire
+ as to the possible extent of such an atmosphere. In the first place, it could
+ not extend beyond that point at which the moon's attraction is equal to that
+ of the earth. In the next place, much more contracted limits would be prescribed
+ by the effect of centrifugal force, and of the cooling of the vapour by expansion,
+ and by its distance from the source of radiant heat, which had caused its evaporation.
+ It would be interesting to inquire, what would be the nature of the surface
+ of the atmosphere under such circumstances. At the distance at which the centrifugal
+ force is equal to that of gravity, it might happen that the temperature was
+ scarcely sufficient to maintain the water in a gaseous state. Should this have
+ been the case, a belt of perpetual clouds might have been formed, resembling
+ those of Jupiter. If, at this limit, a still lower degree of temperature prevailed,
+ instead of a belt of clouds, a ring of ice might be formed. This ring of ice,
+ being exposed to different effects of radiation from variations in the radiating
+ power of various parts of the earth's surface, might, by the superior heat at
+ some parts, become diminished, whilst
+[page] 206
+ the condensation of the vapour
+ might augment parts less exposed, and situated nearer to the body of the planet:
+ and these conditions might continue, until at last the ring itself was melted
+ or partially melted through at one or more points, and the whole might break
+ up, and the fragments moving in a resisting medium, would ultimately fall down
+ on the surface of the planet. The tearing up of that surface from such an event,
+ would be augmented by the sudden conversion of the solid ice into steam; and
+ after a time, the fragments of the ring would be absorbed again into the atmosphere
+ of the planet. Let us now suppose, owing to the gradual cooling down of the
+ whole globe, the limit of condensation of steam into water, to occur at a nearer
+ point than that at which the centrifugal force equals that of gravity. As soon
+ as the steam is condensed into water, it will descend towards the surface of
+ the earth; but that surface being still very hot, will, by its radiation, again
+ convert the descending shower into steam; and this will happen at different
+ heights above the surface, according to the radiating power of the part below.
+ We may, therefore, conceive a shell surrounding the earth, the outer surface
+ of which has just been condensed into water, and the inner consists of vapour,
+ just re-converted into that state by the earth's radiation. These surfaces will
+ attain different heights in different places. Between these two surfaces there
+ will exist a perpetual
+[page] 207
+ rain, descending from the upper
+ as a gentle shower, becoming gradually a violent torrent, and then as it falls
+ re-absorbed into another gentle shower, which is entirely converted into vapour
+ in approaching the heated surface. Such being the state of things, let us imagine
+ the globe to cool down uniformly. The lower surface of the descending rain,
+ which is placed at irregular heights, will at length be brought down to the
+ earth's surface in one or more points. The effect of this, which will in the
+ first instance be a gentle shower, would be to cool that portion of the surface
+ on which it falls, and hence to diminish its radiating power. This change, in
+ its turn, will lower the under surface of the watery shell, so that a more violent
+ rain, and ultimately an impetuous torrent will continue, perhaps, for thousands
+ of years, its unremitted vertical action on the surface exposed to its force.
+ The excavation of the largest valleys, or even of ocean beds, is not too much
+ to expect from such forces. But let us take another view of the consequences
+ of such an original state of incandescence. The whole of the fluids now on the
+ surface of the earth must then have been suspended in its atmosphere. But the
+ extent of that atmosphere is itself limited by various causes: the attraction
+ of other bodies, the effects of centrifugal force, the decrease of temperature,
+ and the
+[page] 208
+ distances at which the particles
+ of gaseous bodies cease to repel each other, all have their influence in determining
+ its form and magnitude. Let us suppose that we possessed data from which the
+ approximate amount of vapour contained in the entire atmosphere were known,
+ and consequently the whole quantity of water in it; then, since we know the
+ area of the present seas, we might easily ascertain their average depth. If
+ the result of such a computation should give a mean depth much less than that
+ which we know the ocean to possess,—as, for instance, only a hundred feet,—then
+ we might conclude, either that the surface of the earth had never been in such
+ a state of incandescence as has been supposed, or if it had, that a new source
+ of aqueous vapour had been supplied to it, subsequently to its cooling down.
+[page] 209
+ NOTE G. on the action
+ of existing causes in producing elevations and subsidences in portions of the
+ earth's surface.
+ the following explanation of the
+ origin of many of the changes at present going on on the earth's surface, was
+ suggested in endeavouring to account for the very singular phenomena presented
+ by the temple of Jupiter Serapis, at Puzzuoli, near Naples. The facts relating
+ to that temple were observed by me in 1828, and the theory occurred soon after
+ my return to England; but though occasionally mentioned to geological friends,
+ it was not printed until it appeared in the abstract of my paper on the Temple
+ of Serapis, presented to the Geological Society of London, in March 1854. The
+ following positions are taken as the basis of the reasoning on this subject:—
+[page] 210
+ 1. That, as we descend below the
+ surface of the earth, the temperature increases. 2. That solid rocks expand
+ by being heated; but that clay, and some other substances, contract under the
+ same circumstances. 3. That different rocks and strata conduct heat differently.
+ 4. That the earth radiates heat differently, at different parts of its surface,
+ according as it is covered with forests, with mountains, with deserts, or with
+ water. 5. That existing atmospheric agents, and other causes, are constantly
+ changing the condition of the surface of the globe. The only one of these propositions
+ on which, in the present state of knowledge, the slightest question can be raised,
+ is the first. But the observations on which it depends have latterly become
+ so numerous, that the general fact of an increase of temperature, in descending
+ through the crust of the earth, can scarcely be questioned; although the exact
+ law of this increase, and the extent to which it penetrates, are yet undecided.
+ An increase of 1 Fahrenheit's thermometer, for every 50 or 60 feet we penetrate
+ below the earth's surface,
+[page 211]
+[page 212]
+
+[page] 213
+ seems nearly the average result
+ of observations. If the rate continue, it is obvious that, at a small distance
+ below the surface, we shall arrive at a heat which will keep all the substances
+ with which we are acquainted in a state of fusion. Without, however, assuming
+ the fluidity of the central nucleus,—a question yet unsettled, and which
+ rests on very inferior evidence* to that by which the principles here employed
+ are supported,—we may yet arrive at important conclusions; and these may be
+ applied to the case of central fluidity, according to the opinions of the inquirer.
+ If we consider the temperature of any point:—for example, G, situated two miles
+ below the surface of an elevated table land, A, in the annexed wood-cut; and
+ if we imagine a surface passing through all the points of equal temperature
+ within t e globe; then, as this surface passes under the adjacent ocean, which
+ we may suppose, on an average, to be two miles deep, it is evident that the surface of equal heat will descend towards the earth's centre; because,
+ if it did not, we should have great heat nearly in contact with the bottom of
+ the sea. In the first figure, B is the surface of the ocean. A D, the surface
+ of the land, and of the bed of the ocean. The broken line, G F, is the isothermal
+ line. Let us now
+* The reader will find this question
+ fully discussed in the 17th chapter of Lyell's Geology; On the Causes of Earthquakes
+ and Volcanoes.
+[page] 214
+ suppose, by the continual wearing
+ down of the continents and islands adjoining this ocean, that it becomes yearly
+ filled up. The broken line C, in the second figure of the wood-cut, indicates
+ the new bottom. The former bottom of the ocean being now covered with a bad
+ conductor of heat, instead of with a fluid which rapidly conveyed it away, the
+ surface of uniform temperature will rise, slowly but considerably, as is shown
+ at G E, in the third figure. In the fourth figure, the first bed of the ocean,
+ A D, and its isothermal line, G F, as well as the new bed, A C, of the ocean,
+ and its corresponding isothermal line, G E, are all shown at one view. The newly
+ formed strata will be consolidated by the application of heat; they may, perhaps,
+ contract in bulk, and thus give space for new deposits, which will, in their
+ turn, become similarly consolidated. But the surface of uniform temperature
+ below the bed of the ocean cannot rise towards the earth's surface, without
+ an increase in the temperature of all the beds of various rock on which it rests; and this increase must take place for a considerable depth. The consequence
+ must be a gradual rise of the ancient bed of the ocean, and of all the deposits
+ newly formed upon it. The shallowness of this altered ocean will, by exposing
+ it to greater evaporation from the effect of the sun's heat, give increased
+ force to the atmospheric causes still operating upon
+[page] 215
+ the inequalities of the solid surface,
+ and tend more rapidly to fill up the depressions. Possibly the conducting power
+ of the heated rocks may be so slow, that its total effect may not be produced
+ for centuries after the sea has given place to dry land; and we can conceive,
+ that in such circumstances,—the force of the sun's rays from without, and the
+ increasing heat from below, so consolidating the surface, that the land may 
+ again descend below the level of adjacent seas, even though its first bottom
+ is still subject to the elevatory process. Thus, a series of shallow seas or
+ large lakes might be formed; and these processes might even be repeated several
+ times, before the full effect of the expansion from below had permanently raised
+ the whole newly-formed land above . the influence of the adjacent seas. If the
+ sea were originally much deeper, or, if in particular parts it were much deeper,
+ as, for instance, ten or twenty miles, then a portion of the solid matter beneath
+ its surface might, after the lapse of many ages, acquire a red, or even a melting
+ heat, and the conversion into gases of some of the substances thus operated
+ on, might give rise to earthquakes, or to subterraneous volcanoes. On the other
+ hand, as the high land gradually wears away, by the removal of a portion of
+ its thickness, and
+[page] 216
+ as the cooling down of its surface
+ takes place, its contraction might give rise to enormous rents. If these cracks
+ penetrate to any great reservoirs of melted matter, such as appear to subsist
+ beneath volcanoes, then they will be compressed by the contraction, and the
+ melted matter will rise and fill the cracks, which, when cooled down, will become
+ dykes. If these rents do not reach the internal reservoir of melted matter,
+ and if there exist in the neighbourhood any volcanic vents connected with it,
+ the contraction of the upper strata may give rise to volcanic eruptions, through
+ those vents, which might be driven by such a force to almost any height. These
+ eruptions may themselves diminish the heat of the beds immediately above the
+ melting cauldron from which they arise; for the conversion of some of the fluid
+ substances into gases, on the removal of the enormous pressure, will rapidly
+ abstract heat from the melted mass. As the removal of the upper surface of the
+ high land will diminish its resistance to fracture, so the altered pressure
+ arising from the removal of that weight, and its transfer to the bottom of the
+ ocean, may determine the exit of the melted matter. Other consequences 'might
+ arise from the different fusibility of the various strata deposited in the bed
+ of the ocean. Let us imagine, in the annexed wood cut,
+[page] 217
+ the two beds, A and B, to melt
+ at a much lower temperature than those between which they intervene. It might
+ happen, by the gradual rising of the isothermal surfaces, that one or both of
+ those strata should be
+
+ melted; and thus, supposing all
+ the beds originally to have contained marine remains, we might, at a distant
+ period, discover two interposed beds, without any trace of such remains, but
+ presenting all the appearances of former fusion, resting on, separated by, and
+ existing under, other beds of demonstrably marine formation. If, during that
+ former state of fusion, rents should have been formed through several of the
+ strata, injection of the liquid matter might proceed from these melted beds,
+ both upwards and downwards. If, on the contrary, older dykes had penetrated
+ all the strata, it is possible to suppose such a degree of fusibility in the
+ older dyke, or such chemical relation to the melted bed, that the portions of
+ the dyke passing through that bed shall be obliterated, whilst those which traverse
+[page] 218
+ the less fusible beds, protected
+ from r.uch action, shall remain unaltered, as in the annexed cut.
+
+ Another consequence of this constant
+ change in the position of the isothermal surfaces must be the development of
+ thermo-electricity, which, acting on an immense scale, may determine the melting
+ of some beds, or the combination of the melted masses of others, or cause the
+ segregation of veins and crystals, in heated, though not fluid, portions of
+ the strata exposed to its influence. Nor may the dykes themselves be without
+ their use, either in keeping up the communication for the passage of electricity,
+ if they are good conductors,—or in separating the groups of strata which produce
+ it, if they are bad conductors. For the elucidation of this subject, it appears
+ very important that experiment should be made on the effects of long-continued
+ artificial heat in altering and obliterating the traces of organic remains existing
+ in known rocks. It seems probable that by a well-planned series of such experiments,
+ we might be enabled to
+[page] 219
+ trace the gradually disappearing
+ structure of animal remains existing in rocks subjected to fire, into marks
+ which, without such aid, seem utterly distinct from that origin; and that we
+ might thus establish new alphabets with which to attempt the deciphering of
+ some of the older rocks.* It appears, therefore, that from changes continually
+ going on, by the destruction of forests, the filling up of seas, the wearing
+ down of elevated lands,—the heat radiated from the earth's surface varies considerably
+ at different periods. Inconsequence of this variation, and also in consequence
+ of the covering up of the bottoms of seas, by the detritus of the land, the surfaces of equal temperature within the earth are continually changing
+ their form, and exposing thick beds near the exterior to alterations of temperature.
+ The expansion and contraction of these strata may form rents and veins, produce
+ earthquakes, determine volcanic eruptions, elevate continents, and possibly
+ raise mountain chains. The further consequences resulting from the working out
+ of this theory would fill a volume, rather than a note.
+* Some experiments, with this object in view, were undertaken at the recommendation
+ of the British Association, (See Third Report,
+ p. 479, and Fourth Report, p. 576.) and portions of rock, containing organic
+ remains, have already (1838) been exposed, for above five years, to the heat
+ of the hearth of a blast furnace, at the Elsecar iron works in Yorkshire, through
+ the permission of Earl Fitzwilliam, and at the Low Moor works, by that of the
+ proprietors.
+[page] 220
+It may, however, be remarked, that
+ whilst the principles on which it is founded are really existing causes, yet
+ that the sufficiency of the theory for explaining all the phenomena cannot be
+ admitted until it shall have been shown, that their power is fully adequate
+ to produce all the observed effects.
+ NOTE H.
+[page] 221
+ TABLE
+ Showing the Expansion of Beds
+ of Granite variously heated, from One Degree to One Hundred Degrees Fahrenheit,
+ and from One to Five Hundred Miles thick.
+
+
+Miles.
+One Degree.
+Twenty Degrees.
+Fifty Degrees.
+One Hundred Degrees.
+
+
+ 
+Feet.
+Feet.
+Feet.
+Feet.I
+
+
+1
+.02548
+.5095
+1.274
+2.548
+
+
+5
+.13
+2.55
+6.37
+12.74
+
+
+10
+.25
+5.10
+12.74
+25.48
+
+
+15
+.38
+7'64
+19.11
+38.21
+
+
+20
+.51
+10.19
+25.48
+50.95 i
+
+
+25
+.64
+12.74
+31.85
+63.C9
+
+
+30
+.76
+15.29
+38.2J
+76.43
+
+
+35
+.89
+17.83
+44.58
+89.17
+
+
+40
+1.02
+20.38
+50.95
+101.90
+
+
+45
+1.15
+22.93
+57.32
+114.64
+
+
+50
+ 1.27 
+25.48
+63.69
+127.38
+
+
+55
+1.40
+28.02
+70.06
+140.12
+
+
+60
+1.53
+30'57
+76.43
+152.86
+
+
+65
+1.66
+33.12
+82.80
+165.59
+
+
+70
+ 1.78 
+35.67
+89.17
+178.33
+
+
+75
+1.91
+38.21
+95.5
+191.07
+
+
+80
+2.04
+40.76
+101.90
+203.81
+
+
+85
+2.17
+43.31
+108.27
+216.55
+
+
+90
+2.29
+45.86
+114.64
+229.28
+
+
+95
+2.42
+48.40
+121.01
+242.02
+
+
+100
+2.55
+50.95
+127.38
+254.76
+
+
+150
+3.82
+76.43
+191.07
+382.14
+
+
+200
+5.10
+101.90
+254.76
+509.52
+
+
+500
+12.74.
+254.76
+636.90
+1273.80
+
+
+[page] 222
+TABLE
+Showing the Expansion of Beds
+ of Granite variously heated, from Two Hundred Degrees to Three Thousand Degrees
+ Fahrenheit, and from One to Five Hundred Miles thick.
+
+
+Miles.
+Two Hundred Degrees.
+Five Hundred Degrees
+One Thousand Degrees
+Three Thousand Degrees.
+
+
+ 
+
+Feet.
+Feel.
+Feet.
+Feet.
+
+
+1
+5.095
+12.738
+25.476
+76.428
+
+
+5
+25.5
+63.7
+127.4
+382.1
+
+
+10
+51.0
+127.4
+254.8
+764.3
+
+
+15
+76.4
+191.1
+382.1
+1147.4
+
+
+20
+101.9
+254.8
+509.5
+1528.6
+
+
+25
+127.4
+318.5
+636.9
+1910.7
+
+
+30
+152.9
+382.1
+764.3
+2292.8
+
+
+35
+178.3
+445.8
+891.7
+2675.0
+
+
+40
+203.8
+509.5
+1019.0
+3057.1
+
+
+45
+229.3
+573.2
+1146.4
+3439.3
+
+
+50
+254.8
+636.9
+1273.8
+3821.4
+
+
+55
+280.2
+700.6
+1401.2
+4203.5
+
+
+60
+305.7
+764.3
+1528.6
+4585.7
+
+
+65
+331.2
+828.0
+1655.9
+4967.8
+
+
+70
+356.7
+891.7
+1783.3
+5350.0
+
+
+75
+382.1
+955.4
+1910.7
+5732.1
+
+
+80
+407.6
+1019.0
+2038.1
+6114.2
+
+
+85
+433.1
+1082.7
+2165.5
+6496.4
+
+
+90
+458.6
+1146.4
+2292.8
+6878.5
+
+
+95
+484.0
+1210.1
+2420.2
+7260.7
+
+
+100
+509.5
+1273.8
+2547.6
+ 7642.8 
+
+
+150
+764.3
+1910.7
+3821.4
+ 11464.2 
+
+
+200
+1019.0
+2547.6
+5095.2
+ 15285.6 
+
+
+500
+2547.5
+6369.0
+12738.0
+ 38214.0 
+
+
+[page] 223
+ The table was calculated from experiments
+ made under the direction of Colonel Totten, by Mr. H. C. Bartlett, of the United
+ States Engineers; an account of which is given in the American Journal of Science,
+ Vol. XXII. p. 136. From the result of these experiments it was found that, for
+ every degree of Fahrenheit,
+ Granite expands ............. .000004825
+ Marble.................. .000005668 Sandstone ................ .000009532
+ The tables were computed by the
+ Calculating Engine, from the first line, which was deduced from the experiment.
+ It will be observed that the numbers given are always true to the last figure,
+ a compensation which the Engine itself made. In order to find the expansion
+ for marble, increase the numbers by one-sixth. To find the expansion for sandstone,
+ double the numbers found in the table. Other experiments have since been made
+ by Mr. Adie, of which an account is given in the thirteenth volume of the Transactions
+ of the Royal Society of Edinburgh: from these I have selected the following
+ list of expansions:—
+ Roman Cement expands .........
+ .00000750 Sicilian White Marble .......... .00000613 Carrara Marble ..............
+ .00000363
+[page] 224
+ Sandstone, from Craigleith quarry
+ .... .00000652 Slate, from Penrhyn, Wales ....... .00000576 Peterhead Red Granite
+ .......... .00000498 Arbroath Pavement............ .00000499 Caithness Pavement.
+ ........... .00000497 Greenstone, from Ratho ......... .00000449 Aberdeen Grey
+ Granite ......... .00000438 Best Stock Brick ............. .00000306 Fire Brick
+ ................. .00000274 Black Marble, Galway .......... .00000247
+[page] 225
+NOTE I.
+ I am happy to be enabled to put
+ before the reader extracts from two letters of Sir J. Herschel, which show,
+ that though my early friend is extending the boundaries of our system, by his
+ observations in the southern hemisphere, his active and indefatigable mind has
+ yet found time to throw its comprehensive glance over some of the highest questions
+ which perplex other sciences. I feel, that the almost perfect coincidence of
+ his views with my own, gives additional support to the explanations I have offered; whilst the reader will perceive, from the different light in which my friend
+ has viewed the subject, that we were both independently led to the same inferences
+ by different courses of inquiry. I. The first of the letters to which I allude,
+ and of which I shall extract the greater part, is addressed to Mr. Lyell.
+" Feldhausen, Cape of Good Hope,
+ Feb. 20, 1836. MY DEAR SlR,
+ I am perfectly ashamed not to
+ have long since acknowledged your present of the new edition of your
+[page] 226
+ Geology, a work which I now read
+ for the third time, and every time with increased interest, as it appears
+ to me one of those productions which work a complete revolution in their subject,
+ by altering entirely the point of view in which it must thenceforward be
+ contemplated. You have succeeded, too, in adding dignity to a subject already
+ grand, by exposing to view the immense extent and complication of the problems
+ it offers for solution, and by unveiling a dim glimpse of a region of speculation
+ connected with it, where it seems impossible to venture without experiencing
+ some degree of that mysterious awe which the sybil appeals to, in the bosom
+ of AEneas, on entering the confines of the shades—or what the Maid of Avenel
+ suggests to Halbert Glendinning,
+'He that on such quest would go, must know nor fear nor failing; To
+ coward soul or faithless heart the search were unavailing.'
+ Of course I allude to that mystery
+ of mysteries, the replacement of extinct species by others. Many will doubtless
+ think your speculations too bold, but it is as well to face the difficulty
+ at once. For my own part, I cannot but think it an inadequate conception
+ of the Creator, to assume it as granted that his combinations are exhausted
+ upon any one of the theatres of their former exercise, though in this, as
+ in all his other works, we are led, by all analogy, to suppose that he operates
+ through a series of intermediate causes, and that in consequence the origina-
+[page] 227
+ tion of fresh species, could
+ it ever come under our cognizance, would be found to be a natural in contradistinction to a miraculous process—although we perceive no indications
+ of any process actually in progress which is likely to issue in such a result."
+ Now for a bit of theory. Has it ever occurred to you to speculate on the
+ probable effect of the transfer of pressure from one part to another of the
+ earth's surface by the degradation of existing and the formation of new
+ continents—on the fluid or semi-fluid matter beneath the outer crust? Supposing
+ the whole to float on a sea of lava, the effect would merely be an almost
+ infinitely minute flexure of the strata; but, supposing the layer next
+ below the crust to be partly solid and partly fluid, and composed of a
+ mixture of fixed rock, liquid lava, and other masses, in various degrees of
+ viscidity and mobility, great inequalities may subsist in the distribution
+ of pressure, and the consequence maybe, local disruptions of the crust, where
+ weakest, and escape to the surface of lava, &c. If the obstructions "
+ to free communication among distant parts of a fluid be great, no instantaneous propagation of pressure
+[page] 228
+ can subsist, the hydrostatical
+ law of the equality of pressure being only true of fluids in a state of undisturbed
+ equilibrium. If the whole contents of the fissures, pipes, &c., into which
+ we may consider the interior divided, were lava, it is true no increase of pressure
+ on the bed of an ocean, from deposited matter, could force the lava up to a
+ higher level than the surface, or so high. But if the contents be partly liquid,
+ partly gaseous, or partly water, in a state to become steam, at a diminished
+ pressure, then it may happen that the joint specific gravity of lava + gas,
+ or lava+ steam occupying any given channel may be less than that of water;
+ or of the joint column of water + newly deposited matter—which may be brought
+ to press upon it by any sudden giving way of support, and the effect will be
+ the escape of a mixture of lava and gas, either together, as froth and pumice,
+ or by fits, according as they are disposed in the channel. This (taken as a
+ general cause of volcanoes) would account for the great quantity of gaseous
+ matter which always accompanies eruptions, and for the final blow out of
+ wind and dust with which they so often terminate. It has always been my greatest
+ difficulty in Geology to find a primum mobile for the volcano, taken
+ as a general, not a local phenomenon. Davy's speculations about the oxidation
+ of the alkaline metals seems to me a mere chemical dream, and the fermentation
+ of water and pyrites as utterly insignificant on a scale of any
+[page] 229
+ magnitude. Poulett Scrope's notion
+ of solid rocks flashing out into lava and vapour, on removal of pressure, and your statement of the probable cause of Volcanic Eruptions, in p. 385,
+ vol. ii. 4th Ed. when you speak of the effect of a minute hole bored in a tube,
+ in which liquefied gases are imprisoned, both appear to me wanting in explicitness,
+ and as not going high enough in the inquiry, up to its true beginning, and also
+ as giving, in some respects, a wrong notion of the process itself. The question
+ stares us in the face—How came the gases to be so condensed? Why did they submit
+ to be urged into liquefaction? If they were not originally elastic, but have
+ become so by subterranean heat, whence came the heat? and why did it come
+ ? How came the pressure to be removed, or what caused the crack? &c.
+ &c. It seems clear that if the gases, or aqueous vapour, were once free,
+ at so high a degree of elasticity as is presumed, there exists no adequate cause
+ for their confinement,—the spring once uncoiled, there is nowhere a power capable
+ of bending it up to the pitch. We are forced therefore to admit, that the elastic
+ force has been superadded to them, during their sojourn below, by an accession
+ of temperature. Now, though I cannot agree with you in your view of the subject
+ of the Central heat, p. 373, vol. ii. 4th Ed. (because I see no reason why the
+ heat may not
+[page] 230
+go on increasing to the very
+ centre without necessitating such disturbance of equilibrium as to give
+ rise to any circulation of currents, which you there seem to regard as the necessary
+ consequence of such a state*), yet I agree entirely with what you observe in
+ p. 376, that—the ordinary repose of the surface argues a wonderful inertness
+ in the interior, where, in fact, I conceive that every thing is motionless.
+ Under these circumstances, and debarred from that obvious means of boiling our
+ pot, the invasion of a circulating current, or casual injection of intensely
+ hot liquid matter from below, the question, ' Whence comes the heat T and
+ ' Why did it come? remains to be answered on sound theoretical grounds.
+ Now, the answer I conceive to be as follows:—
+"Granting an equilibrium of temperature
+ and pressure within the globe, the isothermal strata near the centre will be
+ spherical, but where they approach the surface will, by degrees, conform themselves
+ to the configuration of the solid portion; that is, to the bottom of
+ the sea and the surface of continents. Suppose such a state of equilibrium,
+ and that under
+* "Heated liquids circulate not
+ because the lower parts are hotter, but because they are lighter, than the upper. But in the interior of a heated globe, the density depends
+ not only on the temperature, but on the pressure (i. e. the depth) of
+ each stratum; so that nothing is easier than to imagine a law of increasing
+ temperature which shall co-exist with increasing density.
+[page] 231
+ the bottom B of my great ocean
+ D E, the isothermal strata are as represented by the black lines.
+
+ Now, let that basin be filled with 
+ solid matter up to A. Immediately the equilibrium of temperature will be disturbed.
+ Why?—because the form of a stratum of temperature depends essentially on the
+ form of the bounding surface of the solid above it, that form being one of the
+ arbitrary functions which enter into its partial differential equation. Immediately,
+ therefore, the temperature will begin to migrate from below upwards, and the
+ isothermal strata will gradually change their forms from the black to the dotted
+ lines. The lowest portions at B will then (after the lapse of ages, and when
+ a fresh state of equilibrium is attained) have acquired the temperature of the
+ stratum C, corresponding to their then actual depth, while a point as
+ deep below B as C is below the surface, will have
+[page] 232
+ acquired a much higher temperature,
+ and may become actually melted, and that without any bodily transfer of matter
+ in a liquid state from below. But if C be already at the melting point,
+ B will now be so—i. e. the lower level will attain B, and the bottom of the
+ new strata will melt, water included, with which, from the circumstances
+ of the case, they must be saturated. " Now, let the process of deposition go
+ on, until, by accumulation of pressure on the bottom or sloping sides, or on
+ some protuberance from the bottom, some support gives way—a piece of the solid
+ crust breaks down, and is plunged into the liquid below, and a crack takes place
+ extending upwards. Into this the liquid will rise by simple hydrostatic pressure.
+ But as it gains height, it is less pressed; and if it attain such a height
+ that the ignited water can become steam, the case before alluded to arises,
+ the joint specific gravity of the column is suddenly diminished, and up comes
+ a jet of mixed steam and lava, till so much has escaped that the deposited matter
+ takes a fresh bearing, when the evacuation ceases, and the crack becomes sealed
+ up. " In the analysis I have above given of the process of heating from below,
+ we have, if I mistake not, a strictly theoretical account of that great desideratum
+ of the Huttonian theory—' Let heat,' says he,
+[page] 233
+' invade a newly deposited
+ stratum from below.'— But why? Not because great currents of melted matter
+ are circulating in the nucleus of the globe— not because great waves of caloric
+ are rushing to and fro, without a law and without a cause in the subterranean
+ regions—but simply because the fact of new strata having been deposited,
+ alters the conditions of the equilibrium of temperature, and they draw the heat
+ to them, or, which comes to the same thing, retain it in them in its
+ transit outwards (the supply from the centre being supposed inexhaustible, and
+ its temperature of course invariable).
+ " According to the general tenor
+ of your book, we may conclude, that the greatest transfer of material to the
+ bottom of the ocean, is produced at the coast line by the action of the sea; and that the quantity carried down by rivers from the surface of continents,
+ is comparatively trifling. While, therefore, the greatest local accumulation
+ of pressure is in the central area of deep seas, the greatest local relief takes place along the abraded coast lines. Here, then, in this view, should
+ ccur the chief volcanic vents. If the view I have taken of the motionless state
+ of the interior of the earth be correct, there appears no reason why any such
+ influx of heat should take place under an existing continent (say Scandinavia)
+ as to heat incumbent rocks (whose bases retain their level) 5 or 600 Fahr,
+ for many miles in thickness. (Princ. of Geol.
+[page] 234
+ vol. ii. p. 384.4th Ed.) Laplace's*
+ idea of the elevation of surface due to columnar expansion (which you attribute,
+ in a note, to Babbage,) is in this view inadequate to explain the rise of Scandinavia,
+ or of the Andes, &c. But, in the variation of local pressure due to the
+ transfer of matter by the sea, on the bed of an ocean imperfectly and unequally
+ supported, it seems to me an adequate cause may be found. Let A be Scandinavia,
+ B the adjacent ocean (the North Sea), C a vast deposit, newly laid on the original
+ bed D of the ocean; E E E a semi-fluid, or mixed
+
+ mass, on which D D D reposes. What
+ will be the effect of the enormous weight thus added to the bed DDD (rock being
+ heavier than sea)? Of course,
+* " Nisi Mitscherlich's. I remember
+ well to have read it somewhere other."
+[This was written before my friend
+ had received the abstract of the paper on the Temple of Serapis, forwarded to
+ him by Mr. Lyell. The reader will perceive, by Note G. of the Appendix, that isothermal sur..es form the prominent feature of both our views of this
+ question.—C. B.]
+[page] 235
+ to depress D under it, and to force
+ it down into the yielding mass E, a portion of which will be driven laterally
+ under the continent A, and upheave it. Lay a weight on a surface of soft clay: you depress it below, and raise it around the weight. If the surface of the
+ clay be dry and hard, it will crack in the change of figure." " I don't know
+ whether I have made clear to you ray notions about the effects of the removal
+ of matter from above, to below, the sea. 1st. It produces a mechanical subversion
+ of the equilibrium of pressure. 2dly. It also, and by a different process
+ (as above explained at large), produces a subversion of the equilibrium of temperature.
+ The last is the most important. It must be an excessively slow process, and
+ will depend, 1st, on the depth of matter deposited; 2dly, on the quantity of
+ water retained by it under the great squeeze it has got; 3dly, on the tenacity
+ of the incumbent mass—whether the influx of caloric from below, which must take
+ place, acting on that water, shall either heave up the whole mass, as a continent,
+ or shall crack it, and escape as a submarine volcano, or shall be suppressed
+ until the mere weight of the continually accumulating mass breaks its lateral
+ supports at or near the coast lines, and opens there a chain of volcanoes.
+[page] 236
+ " Thus the circuit is kept up—the primum mobile is the degrading power of the sea and rains (both originating
+ in the sun's action) above, and the inexhaustible supply of heat from the enormous
+ reservoirs below, always escaping at the surface, unless when repressed by an
+ addition of fresh clothing, at any particular part. In this view of the subject,
+ the tendency is outwards. Every continent deposited has a propensity
+ to rise again; and the destructive principle is continually counterbalanced
+ by a re-organizing principle from beneath. Nay, it may go farther—there may
+ be such a tendency in the globe to swell into froth at its surface, as may maintain
+ its dimensions in spite of its expense of heat; and thus preserve the uniformity
+ of its rotation on its axis, in spite of the doctrines of refrigeration and
+ contraction, (which, by the bye, had occurred to myself, and been rejected,
+ as inadequat to give a general formula of explanation of volcanoes, &c.)
+ Perhaps I shall recur to this subject on some future occasion; but really the
+ stars leave me very little time to lick into form any geological theories, or
+ even to examine them with any degree of scrupulous severity." II. The following
+ is the copy of a letter from Sir John Herschel to Mr. Murchison, in explanation
+ of the views expressed in his previous letter to Mr. Lyell.
+[page] 237
+ " Feldhausen, Cape of Good Hope, Nov. 15,1836.
+ " In the letter you allude to as
+ having been written by me to Mr. Lyell, there were some speculations about the
+ effect of central heat on newly-deposited matter, which, judging from some expressions
+ in his answer to that letter, I am inclined to think must have been put obscurely,
+ since he appears disposed to regard the view I took of the subject as identical
+ with some theory ascribed to Mr. Babbage (but, I believe, before propounded
+ by Mitscherlich) about the elevation of strata by pyrometric expansion of
+ the subjacent columns of rock, by an invasion of subterraneous heat. Granting
+ the heat, there is no difficulty in deducing expansions, disruptions, tumefactions,
+ &c.; but this was not my drift. Will it be trespassing too much
+ on your patience if I here state, in brief, what I really had in view—which,
+ so far as I can recollect, has not hitherto been duly, or not at all, considered
+ ? If you like to call it my ' theory,' you may do so; but it is not so much
+ 'a theory,' as a pursuing into its consequences, according to admitted laws,
+ of the hypothesis of a high central temperature, which many geologists admit,
+ and all are familiar with. " Granting, then, as a postulate, a gradation of
+ temperature within the globe, from the observed external temperature at the
+ surface, up to a high state
+[page] 238
+ of incandescence at the centre: I say, that when solid matter comes to be deposited to any considerable thickness
+ on any part of the bed of the ocean, by subsidence, (or even on the surface
+ of a continent, by volcanic ejection, as in great volcanic plateaux and table-lands,
+ or by the action of the wind,.as in sand hills,) the mere fact of such accession
+ of materials, without requiring any other condition, or concomitant cause, will, of itself, in virtue of the known laws of the propagation of heat
+ through a slowly-conducting mass, immediately subvert the equilibrium of temperature,
+ and induce a change in the form of the isothermal surfaces (curves of equal
+ temperature) in the whole region immediately beneath, and surrounding the point
+ of deposition—causing all those surfaces (which, you will observe, are only
+ imaginary mathematical ones, like lines of equal variation in a magnetic chart—not
+ real strata) to bulge outwards, and recede from the centre in that part. The
+ direct consequence of this will be, that any given point of the surface on which
+ the deposit took place will, when a new state of equilibrium is attained, (supposing
+ it to be so) have a temperature corresponding to an isothermal surface of
+ a deeper order: i. e., it will have become hotter than it was previous
+ to the new deposit; and the same is true of every point in the vertical line
+ drawn from that point downwards. Supposing, as before said, a new state of equilibrium
+ to be attained, (the deposition ceasing, by the filling up
+[page] 239
+ of the sea in that part) then the
+ temperature of the lowest parts of the newly-formed strata will be that of a
+ point situated beneath the surface of an old continent in the same latitude,
+ at a depth equal to the thickness of the deposited matter. The thicker, therefore,
+ the deposit, the hotter will its lower portions tend to grow; and, if thick
+ enough, they may grow red hot,or even melt. In the latter case, their
+ supports being also melted or softened, may wholly or partially yield, under
+ the new circumstances of pressure, to which they were originally not adjusted;
+ and the phenomena of earthquakes, volcanic explosions, &c., may arrive—while,
+ on the other hand, if no cracks occur, and all goes on in quiet, the only consequence
+ will be, the obliteration of organic remains, and lines of stratification, &c.—the
+ formation of new combinations of a chemical nature, &c. &c.—in a word,
+ the production of Lyell's ' metamorphic-' rocks. " The process described above
+ is precisely that by which a man's skin grows warmer in a winter day by putting
+ on an additional great coat; the flow of heat outwards is obstructed, and the
+ surface of congelation carried to a distance from his person, by the accumulation
+ of heat thereby caused beneath by the new covering. " You see, therefore, that
+ my object is to get at a geological ' primum mobile? in the nature of
+ a vera
+[page] 240
+causa, and to trace its working
+ in a distinct and intelligible manner. In future, therefore, instead of saying,
+ as heretofore, 'Let heat from below invade newly-deposited strata
+ (Heaven knows how or why), then they will melt, expand,' &c. &c., we
+ shall commence a step higher, and say, ' Let strata be deposited.' Then,
+ as a necessary consequence, and according to known, regular, and calculable
+ laws, heat will gradually invade them from below and around; and, according
+ to its due degree of intensity at any assigned time, will expand, ignite, or
+ melt them, as the case may be, &c. &c. &c.; and, I mistake greatly,
+ if this be not a considerable reform in our geological language.
+ " According to this view of the
+ matter, there is nothing casual in the formation of Metamorphic Rocks. All strata,
+ once buried deep enough, (and due time allowed! ! !) must assume that state,—none
+ can escape. All records of former worlds must ultimately perish. " P.S.—If you
+ think it worth while to read the above speculation whenever a discussion may
+ arise, naturally leading to it, at any meeting of the Geological Society, (not
+ as a formal communication, for I have not time to put it into shape, or work
+ it out in detail, but incidentally) you are quite at liberty to do so; and
+ I shall be glad to know your own opinion of it."
+[page] 241
+ Since the first edition of this
+ work was published, Mr. Lyell has received another letter from Sir John Herschel,
+ explanatory of his views on this subject; and I am happy to place before the
+ reader the following extracts, not because there is any necessity to prove that
+ my friend arrived independently at the same conclusions with myself, but because
+ they afford additional illustrations of a view which we both think deserving
+ of further inquiry. This letter was written by Sir John Herschel previously
+ to the receipt of the first edition of this volume, which I had forwarded to
+ him at the Cape of Good Hope.
+" Feldhausen, June 12, 1837.
+ " I reply to your note, however,
+ immediately, " because there are points in it, and in a letter of " Murchison's
+ I lately received, but especially in " yours, which call for immediate notice
+ on my part, " lest I should be supposed to have willingly and " knowingly, what
+ our French neighbours call, " ' emprunté des idées,'—appropriated
+ the ideas of " Babbage; to which charge should any one feel " disposed to bring
+ it (B. I am sure will not), I plead " not guilty. Till the arrival of Murchison's
+ letter, " in fact, I was utterly unaware that Babbage had (or " any body else)
+ speculated on that peculiar mutual
+[page] 242
+ reaction of the surface and interior
+ of the globe, which consists in what, I think, we 'must now call ' the secular
+ variation of the isothermal surfaces ' of the latter. The idea I considered
+ as entirely my own; and I was never more taken by surprise, than when to-day,
+ directed for the first time by an express mention in your letter of a paper
+ of Babbage's, abstracted in the Geological Notices, I hunted up all those notices
+ in my possession, and found in an uncut Number (No. 36,)—as I am sorry to say
+ many of these, and other not less interesting brochures which have reached me,
+ still are— an abstract of a paper on the Temple of Serapis, at the end of which
+ a theory identical with mine in that leading point, undoubtedly stands printed.
+ " Convinced as I feel of the great importance of this general view of geological
+ revolutions, in contrast with all the arbitrary, local, and temporary expedients
+ which have hitherto been resorted to to explain particular phenomena, and to
+ the recourse had to ' the volcano and the earthquake,' as the great explaining
+ powers; whereas in this view, these are only symptomatic phenomena, natural
+ and necessary concomitants of systems of action much more extensive, which are
+ constantly going forwards. ...But as I do, at all events, lay claim to absolute
+ independence of speculation on the subject, it is quite right that I should
+ make clear to you and to
+[page] 243
+ ' him the progress of my own ideas,
+ and also account: for what must have appeared singular in my own; mention of his speculations in my letter to Murchison. And to take
+ the last first:—The fact is, that I never was aware that Babbage had made any communication to the Geological Society on the subject, till Murchison's
+ letter first led me to suppose, and yours expressly stated, by referring to
+ the Proceedings for an abstract, that such was the case. The passage in your
+ book and note appended, (Vol. II. p. 383, 4th Edit.) contain no allusion to
+ the cause of rocks becoming heated from below. The employment of the
+ pyrometric expansion of rocks as a motive power, was, I feel confident, suggested
+ by some one (and the name of Mitscherlich or Laplace, has somehow
+ got connected in my memory with it) many years ago, certainly before 1833. Of
+ this B. must have been as ignorant as I was of his views, as he appears to have
+ based his ideas on Colonel Tottens'* experiments (when made I know not). And
+ I only remembered to have read Babbage's paper on the Temple of Serapis, published
+ in one of the quarterly journals not long after his arrival from the Continent,
+ in which, so far as I recollect, this point is not touched upon; nor is it
+ in your speech from the chair, where alternate pyrometric expansion and contraction,
+ without reference
+* The origin of my view is stated
+ in the first paragraph of this Note.
+[page] 244
+to the cause of the invasion or
+ abstraction of heat, are alone alluded to.
+" However, discussion of points
+ of this sort is of little moment in itself; as, if a theory be founded in sound
+ views, it matters little to the world whether A. or B. or A. and B.
+ first entertained it, or whether it arose in the whole alphabet when its seeds
+ were ready to germinate. As regards the course of my own ideas, it was simply
+ this. When I first read your book, I was struck with your views of the metamorphic
+ rocks, and I began to speculate how and why the mere fact of deep burial might
+ tend to raise their temperature to the required point. Three modes occurred:—1st. Development of heat by condensation; but this cause seemed somewhat
+ feeble, and not very clear in its mode of action, since at every moment an equilibrium
+ of pressure and resistance is established. 2dly. Plunging down into an ignited
+ pasty mass; here however, considering the excessive slowness of the process,
+ it occurred to me that there would be plenty of time for the ignited matter
+ below, not merely to divide its caloric with the newly superposed mass, but
+ to take up fresh from below, and thus to establish a regular gradation of temperature
+ from below upwards. And this led to the 3d and more general view of the matter,
+ which is that of the variation of isothermal surfaces, as stated in my letters
+ to Murchison and yourself.
+[page] 245
+ " These notions had been fermenting
+ and regurgitating in the cavities of my brain, from the moment I first read
+ your statement of the metamorphic doctrine in your first edition; but what
+ determined the disruption of the incumbent stratum, and their final explosion,
+ was the reperusal of your little 12mo. edition you were so good as to send me.
+ " All things considered, however, I do not regret having written what I did: and I am still so far disposed to regard it as publici juris, as to
+ wish that such passages in my letters as yourself and Murchison may think eligible
+ for the purpose, might on some fitting opportunity be read at a meeting of the
+ Geological Society. (All idea of my drawing up a regular paper is out of the
+ question, I am so involved in other matters at present.) It will draw attention
+ to the subject, and science will gain by the discussion. " When people think
+ independently at different times, and excited by different original subjects
+ of consideration, bearing on one more general object, if their ideas converge
+ towards one view of the matter, it is a proof that there is something worthy
+ of further inquiry; and if they think to any purpose, it is hardly possible
+ but that many points will occur to each, which do not to the other, and that
+ so a theory may branch out and acquire a body much
+[page] 246
+sooner than it would do by the speculations
+ of one alone;—and indeed such is in some degree the case in the present instance.
+ Babbage, for example, has speculated not only on the heaping on of matter in
+ some parts, but on its abstraction in others, as a cause of variation in the
+ isothermal surface;—and justly; it is a case of the algebraic passage from
+ + to — passing through 0. In envisaging (as the French call it) the question
+ algebraically, the cases could not be separated. Again, he has confined himself
+ to the pyrometric changes in the solid strata, while I have left these out of
+ view, and relied on what I think to be a far more energetic and widely acting
+ cause—the variation of pressure, and the infirmity of supports broken by weight
+ or softened by heat, to produce tilts. Both causes, however, doubtless
+ act, and both must be considered in further detail: the former alone may
+ account for the phenomena of the Bay of Naples; the latter must, I think, be
+ called into account for those of Scandinavia and Greenland, and of the Andes.
+ " I would observe that a central
+ heat may or may not exist for our purposes. And it seems to be a demonstrated
+ fact, that temperature does, in all parts of the earth's surface yet
+ examined, increase in going down towards the centre, in what I almost
+ feel disposed to call a frightfully rapid progression; and though that
+ rapidity may cease, and the progression even
+[page] 247
+ take a contrary direction, long
+ before we reach the; centre, (as it might do, for instance, had
+ the earth, originally cold, been, as Poisson supposes, kept for a few billions
+ or trillions of years, in a firmament full of burning suns, besetting every
+ outlet of heat, and then launched into our cooler milky way) still, as all we
+ want is no more than a heat sufficient to melt silex, &c. I do not think
+ we need trouble ourselves with any inquiries of the sort, but take it for granted,
+ that a very moderate plunge downwards, in proportion to the earth's radius,
+ will do all we want. Nay, the internal heat may even be locally unequal; i.
+ e. great in Europe and Asia, small under America, —as it would, for example,
+ if, when roasting at Poisson's sun-fire, the great jack of the universe had
+ stood still, and allowed one side of our terraqueous joint to scorch, and the
+ other to remain underdone. —A hint to those who are on the look out for a cause
+ (if any such there be) for the ' poles of maximum cold,' and the general inferior
+ temperature of the American climate, from end to end of that continent."
+[page] 248
+NOTE K.
+ON THE ELEVATION
+ OF BEACHES BY TIDES.
+if the earth were a spheroid of
+ revolution, covered by one uniform ocean, two great tidal waves would follow
+ each other round the globe at a distance of twelve hours.
+Suppose several high narrow strips
+ of land were now to encircle the globe, passing through the opposite poles,
+ and dividing the earth's surface into several great unequal oceans, a separate
+ tide would be raised in each. When the tidal wave had reached the farthest shore
+ of one of them, conceive the causes that produce it to cease; then the wave
+ thus raised would recede to the opposite shore, and continue to oscillate until
+ destroyed by the friction of its bed. But if, instead of ceasing to act, the
+ causes which produced the tide were to
+[page] 249
+ reappear at the opposite shore
+ of the ocean, at the very moment when the reflected tide had returned to the
+ place of its origin; then the second tide would act in augmentation of the
+ first, and, if this continued, tides of great height might be produced for ages.
+ The result might be, that the narrow ridge dividing the adjacent oceans would
+ be broken through, and the tidal wave traverse a broader tract than in the former
+ ocean. Let us imagine the new ocean to be just so much broader than the old,
+ that the reflected tide would return to the origin of the tidal movement half
+ a tide later than before: then, instead of two superimposed tides, we should
+ have a tide arising from the subtraction of one from the other. The alterations
+ of the height of the tides on shores so circumstanced, might be very small;
+ and this might again continue for ages: thus causing beaches to be raised at
+ very different elevations, without any real alteration in the level either of
+ the sea or land. If we consider the superposition of derivative tides, similar
+ effects might be found to result; and it deserves inquiry, whether it may not
+ be possible to account for some remarkable and well-attested phenomena by such
+ means. The gradual elevation during the past century, of one portion of the
+ Swedish coast above the Baltic, is a recognised fact, and has lately been verified
+ by
+[page] 250
+ Mr. Lyell.* It is not probable,
+ from the form and position of that sea, that two tides should reach it distant
+ by exactly half the interval of a tide, and thus produce a very small tide;
+ nor is it likely that by the gradual but slow erosion of the longer channel,
+ one tide should almost imperceptibly advance upon the other: but it becomes
+ an interesting question to examine whether, in other places, under such peculiar
+ circumstances, it might not be possible that a series of observations of the
+ heights of tides at two distant periods, might give a different position for
+ the mean level of the sea at places so situated. If we conceive two tides to
+ meet at any point, one of which is twelve hours later than the other, the elevation
+ of the waters will arise from the joint influence of both. Let us suppose, that
+ from the abrasion of the channel, the later tide arrives each time one-hundredth
+ of a second earlier than before. After about 3,150 years, the high water of
+ the earlier tide will coincide in point of time with the low water of the later
+ tide: and the difference of height between high and low water will be equal
+ to the difference of the height of the two tides, instead of to thei sum, as
+ it was at the first epoch. If, in such circumstances, the two tides were nearly
+* See Phil. Trans. 1836.
+[page] 251
+ equal in magnitude, it might happen
+ that on a coast so circumstanced, there would at one time be scarcely any perceptible
+ tide; and yet, 3000 years after, the tide might rise 30 or 40 feet, or even
+ higher; and this would happen without any change of relative height in the land
+ and water during the intervening time. Possibly this view of the effects which
+ may arise, either from the wearing down of channels, or the filling up of seas
+ through which tides pass, may be applied to explain some of the phenomena of
+ raised beaches, which are of frequent occurrence. Natural philosophers are at
+ present not quite agreed upon the mode of determining the mean level of the
+ ocean. Whether it is to be deduced from the averages between the highest and
+ lowest spring tide, or from the averages of all the intermediate ones, or from
+ the means of the instantaneous heights of the tide at all intervening periods—or
+ by whatever other process, its true level is yet to be ascertained. It may,
+ perhaps, also be useful to suggest that, besides the actual level of the sea
+ at any particular place, it would be also desirable to ascertain whether the
+ time of high water at given epochs is not itself a changeable quantity, These
+ reflections, however, are only thrown out with the view of exciting discussion
+ on a subject involved at present in great mathematical difficulties, and possessing,
+ at the same time, the highest practical importance.
+[page] 252
+NOTE L.
+ON RIPPLE-MARK.
+the small waves raised on the surface
+ of the water, by the passage of a slight breeze, are called Ripple; and a series
+ of marks, very similar in appearance, which are sometimes seen at low water
+ on the flat part of a sea-beach formed of fine sand, are called ripple-marks.
+ Such marks occur in various strata of stone, and at various depths below the
+ solid surface of the globe, and are regarded as evidence of their having been
+ formed beneath the sea. Similar appearances occur when a strong wind drives
+ over the face of a sandy plain, and are frequently seen upon the surface of
+ snow.
+It appears that two fluids of different
+ specific gravity, the lighter passing over the surface of the former, always
+ concur in the formation of ripple. It seems also
+[page] 253
+ that the lines of ripple-mark are
+ at right angles to the direction of the current which forms them. If a fluid
+ like air pass over the surface of perfectly quiescent water, in a plain absolutely
+ parallel, it will have no effect; but if it impinge on the surface of the water
+ with the slightest inclination, it will raise a small wave, which will be propagated
+ by undulations to great distances. If the direction of the wind is very nearly
+ parallel to the surface, this first wave, being raised above the general surface,
+ will protect that part of the water immediately beyond it from the full effect
+ of the wind, which will therefore again impinge upon the water at a little distance: and, this impact concurring with the undulation, will tend to produce another
+ small wave, and thus, new waves will be produced. But the under surface of the
+ air itself will also during this process assume the form of waves, and so, on
+ the slightest deviation at any one point from absolute parallelism in the two
+ fluids, their whole surfaces will become covered with ripples. If one of the
+ fluids be water, and the lower fluid be fine sand, partially suspended in water,
+ these marks do not disappear when the cause ceases to act, as they do when formed
+ by movement of air over the surface of water; but they remain and form the
+ ridges or ripple which we observe when the tide has receded from a flat,
+ sandy shore.
+[page] 254
+ If, after the formation of ripple-marks
+ at the bottom of a shallow sea, some adjacent river or some current deposit
+ upon them the mud which it holds in suspension, then the first marks will be
+ preserved, and new ripple marks may appear above them. Such is the origin of
+ those marks we observe in various sand-stones, from the most recent down to
+ those of the coal measures. Dr. Fitton informs me, that the sand hills on the
+ south of Etapies (in France) consist of ripple-marks produced by the wind on
+ a very large scale. They are crescent-shaped hillocks, many of which are more
+ than a hundred feet high. The height is greatest in the middle of the crescents,
+ declining towards the points; and the slope on the inner side of the crescent,
+ which is remote from the prevailing direction of the winds, is much more rapid
+ than that on which it strikes. Mr. Lyell has observed and described this mode
+ of formation of ripple on the dunes of sand near Calais; remarking, that in
+ that case there is an actual lateral transfer; the grains of sand being carried
+ by the wind up the less inclined slope of the ripple, and falling over the steep
+ scarp. I have observed the same fact at Swansea. A similar explanation seems
+ to present itself as the origin of that form of clouds familiarly known as "a mackarel sky"—a wave-like appearance, which pro-
+[page] 255
+ bably arises from the passage of
+ a current of air above or below a thin stratum of clouds. The air, being of
+ nearly the same specific gravity as that of the cloud it acts upon, would produce
+ ripple of larger size than would otherwise occur. The surface of the sun presents
+ to very good telescopes a certain mottled appearance, which is not exactly ripple,
+ and which it is difficult to convey by description. It may, however, be suggested,
+ that wherever such appearances occur, whether in planetary or in stellar bodies,
+ or in the minuter precincts of the dye-house and the engine-boiler, they indicate
+ the fitness of an inquiry, whether there are not two currents of fluid or semi-fluid
+ matter, one moving with a different velocity over the other, the direction of
+ the motion being at right angles to the lines of waves
+[page] 256
+ NOTE M.
+ON THE AGE OF STRATA,
+ AS INFERRED FROM THE RINGS OF TREES EMBEDDED IN THEM.
+ THE indelible records of past events which are preserved within the solid
+ substance of our globe, may be in some measure understood without the aid of
+ that refined analysis on which a complete acquaintance with them depends. The
+ remains of vegetation, and of animal life, embedded in their coeval rocks, attest
+ the existence of far distant times; and as science and the arts advance, we
+ shall be enabled to read the minuter details of their living history. The object
+ of the present note is to suggest to the reader a line of inquiry, by which
+ we may still trace some small portion of the history of the past in the fossil
+ woods which occur in so many of our strata. It is well known that dicotyledonous
+ trees increase in size by the deposition of an additional layer annually
+[page] 257
+ between the wood and the bark,
+ and that a transverse section of such trees presents a series of nearly concentric
+ though irregular rings, the number of which indicates the age of the tree. The
+ relative thickness of these rings depends on the more or less flourishing state
+ of the plant during the years in which they were formed. Each ring may, in some
+ trees, be observed to be subdivided into others, thus indicating successive
+ periods of the same year during which its vegetation was advanced or checked.
+ These rings are disturbed in certain parts by irregularities resulting from
+ branches; and the year in which each branch first sprung from the parent stock
+ may be ascertained by proper sections. It has been found by experiment, that
+ even the motion imparted to a tree by the winds has an influence on its growth.
+ Two young trees of equal size and vigour were selected and planted in similar
+ circumstances, except that one was restrained from having any motion in the
+ direction of the meridian, by two strong ropes fixed to it, and connecting it
+ to the ground, at some distance towards the north and south. The other tree
+ was by similar means prevented from having any motion in the direction of east
+ and west. After several years, both trees were cut down, and the sections of
+ their stems were found to be oval; but the longer axis of the oval of each was
+ in the direction in which it had been capable of being moved by the winds.</div></body></text></TEI>

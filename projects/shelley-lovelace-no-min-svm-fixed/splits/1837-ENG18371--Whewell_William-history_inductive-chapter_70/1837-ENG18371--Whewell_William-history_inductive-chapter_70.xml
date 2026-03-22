@@ -1,0 +1,157 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="70">CHAPTER IX.
+Discovery of the Laws of Phenomena of Dipolarized
+Light.
+BESIDES the above-mentioned
+perplexing cases of colors produced by common light, cases of
+periodical colors produced by polarized light began to be
+discovered, and soon became numerous. In August, 1811, M. Arago
+communicated to the Institute of France an account of colors seen by
+passing polarized light through mica, and analysing57 it with a prism of Iceland spar. It is
+remarkable that the light which produced the colors in this case was
+the light polarized by the sky, a cause of polarization not previously
+known. The effect which the mica thus produced was termed
+depolarization;—not a very happy term, since the effect
+is not the destruction of the polarization, but the combination of a
+new polarizing influence with the former. The word
+dipolarization, which has since been proposed, is a much more
+appropriate expression. Several other curious phenomena of the same
+kind were observed in quartz, and in flint-glass. M. Arago was not
+able to reduce these phenomena to laws, but he had a full conviction
+of their value, and ventures to class them with the great steps in
+81 this part of
+optics. “To Bartholin we owe the knowledge of double refraction; to
+Huyghens, that of the accompanying polarization; to Malus,
+polarization by reflection; to Arago, depolarization.” Sir D. Brewster
+was at the same time engaged in a similar train of research; and made
+discoveries of the same nature, which, though not published till some
+time after those of Arago, were obtained without a knowledge of what
+had been done by him. Sir D. Brewster’s Treatise on New
+Philosophical Instruments, published in 1813, contains many
+curious experiments on the “depolarizing” properties of minerals. Both
+these observers noticed the changes of color which are produced by
+changes in the position of the ray, and the alternations of color in
+the two oppositely polarized images; and Sir D. Brewster discovered
+that, in topaz, the phenomena had a certain reference to lines which
+he called the neutral and depolarizing axes. M. Biot had
+endeavored to reduce the phenomena to a law; and had succeeded so far,
+that he found that in the plates of sulphate of lime, the place of the
+tint, estimated in Newton’s scale (see ante, chap. vii.), was as the square of the sine of the
+inclination. But the laws of these phenomena became much more obvious
+when they were observed by Sir D. Brewster with a larger field of
+view.58 He found that the colors of topaz,
+under the circumstances now described, exhibited themselves in the
+form of elliptical rings, crossed by a black bar, “the most brilliant
+class of phenomena,” as he justly says, “in the whole range of
+optics.” In 1814, also, Wollaston observed the circular rings with a
+black cross, produced by similar means in calc-spar; and M. Biot, in
+1815, made the same observation. The rings in several of these cases
+were carefully measured by M. Biot and Sir D. Brewster, and a great
+mass of similar phenomena was discovered. These were added to by
+various persons, as M. Seebeck, and Sir John Herschel.
+57 The prism of Iceland spar produces
+the colors by separating the transmitted rays according to the laws of
+double refraction. Hence it is said to analyse the light.
+58 Phil. Trans. 1814.
+Sir D. Brewster, in 1818, discovered a general relation between the
+crystalline form and the optical properties, which gave an
+incalculable impulse and a new clearness to these researches. He found
+that there was a correspondence between the degree of symmetry of the
+optical phenomena and the crystalline form; those crystals which are
+uniaxal in the crystallographical sense, are also uniaxal in their
+optical properties, and give circular rings; those which are of other
+forms are, generally speaking, biaxal; they give oval and knotted
+isochromatic lines, with two poles. He also discovered a
+rule for the tint at each point 82 in such cases; and thus explained, so far
+as an empirical law of phenomena went, the curious and various forms
+of the colored curves. This law, when simplified by M. Biot,59 made the tint proportional to the
+product of the distances of the point from the two poles. In the
+following year, Sir J. Herschel confirmed this law by showing, from
+actual measurement, that the curve of the isochromatic lines in these
+cases was the curve termed the lemniscata, which has, for each
+point, the product of the distances from two fixed poles equal to a
+constant quantity.60 He also reduced to rule some other
+apparent anomalies in phenomena of the same class.
+59 Mém. Inst. 1818, p.
+192.
+60 Phil. Trans. 1819.
+M. Biot, too, gave a rule for the directions of the planes of
+polarization of the two rays produced by double refraction in biaxal
+crystals, a circumstance which has a close bearing upon the phenomena
+of dipolarization. His rule was, that the one plane of polarization
+bisects the dihedral angle formed by the two planes which pass through
+the optic axes, and that the other is perpendicular to such a plane.
+When, however, Fresnel had discovered from the theory the true laws of
+double refraction, it appeared that the above rule is inaccurate,
+although in a degree which observation could hardly detect without the
+aid of theory.61
+61  Fresnel, Mém. Inst. 1827,
+p. 162.
+There were still other classes of optical phenomena which attracted
+notice; especially those which are exhibited by plates of quartz cut
+perpendicular to the axis. M. Arago had observed, in 1811, that this
+substance produced a twist of the plane of polarization to the
+right or left hand, the amount of this twist being different for
+different colors; a result which was afterwards traced to a
+modification of light different both from common and from polarized
+light, and subsequently known as circular polarization. Sir J.
+Herschel had the good fortune and sagacity to discover that this
+peculiar kind of polarization in quartz was connected with an equally
+peculiar modification of crystallization, the plagihedral faces
+which are seen, on some crystals, obliquely disposed, and, as it were,
+following each other round the crystal from left to right, or from
+right to left. Sir J. Herschel found that the right-handed or
+left-handed character of the circular polarization
+corresponded, in all cases, to that of the crystal.
+In 1815, M. Biot, in his researches on the subject of circular
+polarization, was led to the unexpected and curious discovery, that
+this 83 property
+which seemed to require for its very conception a crystalline
+structure in the body, belonged nevertheless to several fluids, and in
+different directions for different fluids. Oil of turpentine, and an
+essential oil of laurel, gave the plane of polarization a rotation to
+the left hand; oil of citron, syrup of sugar, and a solution of
+camphor, gave a rotation to the right hand. Soon after, the like
+discovery was made independently by Dr. Seebeck, of Berlin.
+It will easily be supposed that all those brilliant phenomena could
+not be observed, and the laws of many of the phenomena discovered,
+without attempts on the part of philosophers to combine them all under
+the dominion of some wide and profound theory. Endeavors to ascend
+from such knowledge as we have spoken of, to the general theory of
+light, were, in fact, made at every stage of the subject, and with a
+success which at last won almost all suffrages. We are now arrived at
+the point at which we are called upon to trace the history of this
+theory; to pass from the laws of phenomena to their causes;—from
+Formal to Physical Optics. The undulatory theory of light, the only
+discovery which can stand by the side of the theory of universal
+gravitation, as a doctrine belonging to the same order, for its
+generality, its fertility, and its certainty, may properly be treated
+of with that ceremony which we have hitherto bestowed only on the
+great advances of astronomy; and I shall therefore now proceed to
+speak of the Prelude to this epoch, the Epoch itself, and its Sequel,
+according to the form of the preceding Book which treats of
+astronomy.
+[2nd Ed.] [I ought to have stated, in the beginning of this
+chapter, that Malus discovered the depolarization of white
+light in 1811. He found that a pencil of light which, being
+polarized, refused to be reflected by a surface properly placed,
+recovered its power of being reflected after being transmitted through
+certain crystals and other transparent bodies. Malus intended to
+pursue this subject, when his researches were terminated by his death,
+Feb. 7, 1812. M. Arago, about the same time, announced his important
+discovery of the depolarization of colors by crystals.
+I may add, to what is above said of M.
+Biot’s discoveries respecting the circular polarizing power of fluids,
+that he pursued his researches so as to bring into view some most
+curious relations among the elements of bodies. It appeared that
+certain substances, as sugar of canes, had a right-handed effect, and
+certain other substances, as gum, a left-handed effect; and that the
+molecular value of this effect was not altered by dilution. It
+appeared also that a certain element of the 84 substance of fruits, which had been
+supposed to be gum, and which is changed into sugar by the operation
+of acids, is not gum, and has a very energetic right-handed effect.
+This substance M. Biot called dextrine, and he has since traced
+its effects into many highly curious and important results.]
+
+
+PHYSICAL OPTICS.
+</div></body></text></TEI>

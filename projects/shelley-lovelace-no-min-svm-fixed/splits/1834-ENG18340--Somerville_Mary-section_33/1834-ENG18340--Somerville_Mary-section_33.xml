@@ -1,0 +1,295 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Connexion of the Physical Sciences</title><author>Somerville, Mary (1780-1872)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1834</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="33">
+322
+SECTION XXXII.
+
+Magneto-Electricity—Volta-Electric Induction—Magneto-Electric Induction—Identity
+in the Action of Electricity and Magnetism—Description
+of a Magneto-Electric Apparatus and its Effects—Identity of
+Magnetism and Electricity—The Submarine Telegraph.
+From the law of action and reaction being equal and contrary,
+it might be expected that, as electricity powerfully affects
+magnets, so, conversely, magnetism ought to produce electrical
+phenomena. By proving this very important fact from the following
+series of interesting and ingenious experiments, Dr. Faraday
+has added another branch to the science which he has named
+magneto-electricity. A great quantity of copper wire was coiled
+in the form of a helix round one half of a ring of soft iron, and
+connected with a galvanic battery; while a similar helix connected
+with a galvanometer was wound round the other half of the
+ring, but not touching the first helix. As soon as contact was made
+with the battery, the needle of the galvanometer was deflected.
+But the action was transitory; for, when the contact was continued,
+the needle returned to its usual position, and was not
+affected by the continual flow of the electricity through the wire
+connected with the battery. As soon, however, as the contact
+was broken, the needle of the galvanometer was again deflected,
+but in the contrary direction. Similar effects were produced by
+an apparatus consisting of two helices of copper wire coiled
+round a block of wood, instead of iron, from which Dr. Faraday
+infers that the electric current passing from the battery through
+one wire induces a similar current through the other wire, but
+only at the instant of contact, and that a momentary current is
+induced in a contrary direction when the passage of the electricity
+is suddenly interrupted. These brief currents or waves of electricity
+were found to be capable of magnetizing needles, of passing
+through a small extent of fluid, and, when charcoal points
+were interposed in the current of the induced helix, a minute
+spark was perceived as often as the contacts were made or
+323broken, but neither chemical action nor any other electric effects
+were obtained. A deviation of the needle of the galvanometer
+took place when common magnets were employed instead of the
+Voltaic current; so that the magnetic and electric forces are
+identical in their effects in this experiment. Again, when a
+helix formed of 220 feet of copper wire, into which a cylinder of
+soft iron was introduced, was placed between the north and south
+poles of two bar magnets, and connected with the galvanometer
+by means of wires from each extremity, as often as the magnets
+were brought into contact with the iron cylinder it became magnetic
+by induction, and produced a deflection in the needle of the
+galvanometer. On continuing the contact the needle resumed
+its natural position, and, when the contact was broken, deflection
+took place in the opposite direction; when the magnetic contacts
+were reversed, the deflection was reversed also. With strong
+magnets, so powerful was the action, that the needle of the galvanometer
+whirled round several times successively; and similar
+effects were produced by the mere approximation or removal of
+the helix to the poles of the magnets. Thus it was proved that
+magnets produce the very same effects on the galvanometer that
+electricity does. Though at that time no chemical decomposition
+was effected by these momentary currents which emanate
+from the magnets, they agitated the limbs of a frog; and Dr.
+Faraday justly observes, that “an agent which is conducted
+along metallic wires in the manner described, which, whilst so
+passing, possesses the peculiar magnetic actions and force of a
+current of electricity, which can agitate and convulse the limbs
+of a frog, and which finally can produce a spark by its discharge
+through charcoal, can only be electricity.” Soon after he completely
+established the identity of the two powers by producing
+the spark, heating metallic wires, and accomplishing chemical
+decomposition. Hence it appears that electrical currents are
+evolved by magnets, which produce the same phenomena with
+the electrical currents from the Voltaic battery: they, however,
+differ materially in this respect—that time is required for the
+exercise of the magnetico-electric induction, whereas Volta-electric
+induction is instantaneous.
+Thus the effect of induction or the influence of the spiral wire
+in increasing the electric and magnetic power is very great
+indeed, and to that we are indebted for the electric telegraph, for
+324Voltaic electricity alone is too feeble to overcome the resistance
+of a long wire.
+Electric currents, whatever their tension may be, produce the
+phenomena of induction; these again induce other currents in bodies
+capable of induction, and so on indefinitely; the first and second
+flow in the same direction, the others alternately opposite and
+direct. They all give the shock and can decompose water, but
+with Volta-electric currents the elevation of temperature as well
+as their physiological and magnetic effects are produced by instantaneous
+actions, which only depend upon the quantity and
+tension of the current, and by no means on its duration, for induced
+currents only exist for a moment when the circuit of the
+battery is broken. The most energetic physiological effects are
+produced by a small quantity of electricity moving with great
+velocity. The apparatus first employed by Dr. Faraday is in
+effect a battery, where the agent is the magnetic instead of
+the Voltaic force, or, in other words, electricity, and is thus
+constructed:—
+A very powerful horseshoe magnet, formed of twelve steel
+plates in close approximation, is placed in a horizontal position.
+An armature, consisting of a bar of the purest soft iron, has
+each of its ends bent at right angles, so that the faces of those
+ends may be brought directly opposite and close to the poles of
+the magnet when required. Ten copper wires—covered with
+silk, in order to insulate them—are wound round one half of the
+bar of soft iron, as a compound helix: ten other wires, also insulated,
+are wound round the other half of the bar. The extremities
+of the first set of wires are in metallic connexion with a
+circular disc, which dips into a cup of mercury, while the ends
+of the other ten wires in the opposite direction are soldered to a
+projecting screw-piece, which carries a slip of copper with two
+opposite points. The steel magnet is stationary; but when the
+armature, together with its appendages, is made to rotate vertically,
+the edge of the disc always remains immersed in the
+mercury, while the points of the copper slip alternately dip in it
+and rise above it. By the ordinary laws of induction, the armature
+becomes a temporary magnet while its bent ends are opposite
+the poles of the steel magnet, and ceases to be magnetic when
+they are at right angles to them. It imparts its temporary magnetism
+to the helices which concentrate it; and, while one set
+325conveys a current to the disc, the other set conducts the opposite
+current to the copper slip. As the edge of the revolving disc is
+always immersed in the mercury, one set of wires is constantly
+maintained in contact with it, and the circuit is only completed
+when a point of the copper slip dips in the mercury also; but
+the circuit is broken the moment that point rises above it. Thus,
+by the rotation of the armature, the circuit is alternately broken
+and renewed; and as it is only at these moments that electric
+action is manifested, a brilliant spark takes place every time the
+copper point leaves the surface of the mercury. Platinum wire
+is ignited, shocks smart enough to be disagreeable are given, and
+water is decomposed with astonishing rapidity, by the same
+means; which proves, beyond a doubt, the identity of the magnetic
+and electric agencies, and places Dr. Faraday, whose experiments
+established the principle, in the first rank of experimental
+philosophers.
+A magneto-electric machine has been recently constructed by
+Mr. Henley, of enormous power. It consists of two permanent
+magnets, from which the induction is obtained; each of these is
+formed of thirty horseshoe steel magnets, two feet and a half
+long, and from four to five inches broad, and each is surrounded
+by a coil of wire six miles long, coated with silk to insulate the
+coils. A shock from these wires would be instantaneous death.
+This apparatus will ultimately be employed to send a stream of
+electricity through long submarine and subterraneous wires; but
+a Volta-electric machine has hitherto been used, in which the
+electricity is generated by a galvanic battery instead of magnets.
+Induction, or the effect of the spiral wires in augmenting the
+power of Voltaic electricity, is admirably illustrated in the
+Atlantic telegraph.
+Wires that are to convey electricity under ground, or through
+water, must be defended from injury and insulated to prevent
+the lateral escape of the electricity. For that purpose the cable
+that is laid at the bottom of the Atlantic, from near Valentia in
+Ireland to Trinity Bay in Newfoundland, is formed of seven fine
+copper wires which convey the electricity, bound together by a
+coating of gutta percha, over which there are layers of cloth
+dipped in pitch, and then the whole is covered by steel wires
+twisted together in strands and twined round in long close spirals,
+forming a cord or cable not more than an inch and a quarter in
+326diameter, and 2100 miles long. The use of the gutta percha is
+to insulate the wires; the other coatings are merely for protection.
+The Voltaic battery which generates the electricity consists
+of 40 cells, the plates of which are alternately of zinc and
+platinized silver, each about nine inches square, the exciting fluid
+being dilute sulphuric acid. Although the force developed by
+this battery is so great that a piece of iron three inches long and
+three eighths of an inch in diameter placed in contact with the
+poles may be consumed in a few minutes, it is absolutely incapable
+of sending a current of electricity through wires 2500 miles
+long, on account of their resistance, without the aid of Dr. Faraday’s
+inductive action. It is only the primary agent for inducing
+a current of sufficient strength.
+To accomplish that, many thousand yards of fine copper wire
+coated with silk are wound round a hollow soft iron cylinder; the
+whole is then coated by gutta percha, and the end of the wire is
+joined to the wires in the cable so as to form a continuous line
+from Valentia to Newfoundland. A second copper wire, shorter
+but thicker than the preceding, and also insulated by a coating of
+silk, is wound round the cylinder above the gutta percha: when
+the ends of this thick wire are brought into contact with the
+poles of the battery, currents of electricity flow through it,
+between pole and pole, and in their passage temporarily convert
+the hollow iron cylinder into a powerful electro-magnet, which
+by its reaction induces a current of electricity in the fine wire of
+sufficient power to cross the Atlantic. The efficiency of the
+electric telegraph depends upon the power we possess of breaking
+and renewing the current at pleasure, since by that means distinct
+and successive signals are made from station to station.
+In the Atlantic cable positive and negative electricity are transmitted
+alternately; the electricity is sent to America from alternate
+poles, and the current returns again through the water,
+which completes the circuit.
+The passage of electricity through a cable or telegraphic wire
+in air is sensibly instantaneous; that through a cable, whether
+extended in water or under ground, requires time on account
+of lateral induction through the gutta percha; for the electricity,
+in passing through the wires, induces the opposite electricity on
+the surface of the water or moist earth in contact with the cable,
+and in that respect it is precisely like a Leyden jar, the gutta
+327percha representing the glass. As the power of induction is proportional
+to the tension of the electricity, and as the tension is
+continually diminished by the resistance of the wires, the induction
+is continually diminished and requires a longer time. Electricity
+took two seconds to pass through a cable 768 miles long,
+laid under ground from London to Manchester, and back again
+twice; while in air it was all but instantaneous, because the inductive
+capacity of air is very much less than that of water or moist
+earth. In the experiment with the cable under ground it took two-thirds
+of a second to overcome the resistance of the wires, and
+then the velocity of the electricity was 1000 miles in a second,
+and it was the same whatever the intensity of the electricity.
+It has already been mentioned that the efficiency of the electric
+telegraph depends upon the breaking and renewing the current
+of electricity by means of which a succession of waves of electricity
+are sent through the conducting wires. Now it has been
+ascertained that three electric waves may travel simultaneously
+through the wires of the Atlantic telegraph with sufficient intervals
+between them to record the indications they are intended to
+convey; that is, three signals can be intelligibly and practically
+transmitted in two seconds.
+The original design, structure, and difficulty of depositing the
+cable are only equalled by the talent and perseverance with
+which it has been done. The 5th of August, 1858, will be
+memorable for the accomplishment of the boldest enterprise that
+ever was undertaken by man, and which is only the beginning
+of a vast submarine communication that will ultimately encircle
+the globe. It has been granted to British genius thus to annihilate
+time and space, in order to connect all mankind into one
+great family for their moral and religious advancement; and,
+whatever may be the fate of the British Islands in the course of
+ages, to their energetic race the glory will remain of having
+been the chief instruments in the hands of Providence for the
+civilization of the world—a civilization which will extend with
+the development of their numerous colonies into great independent
+Christian states, like those of the Union in North
+America. The thunderbolt snatched from heaven by Franklin
+now passes through the depths of the Atlantic as a messenger of
+peace between the kindred nations.[16]
+328In telegraphs on land the intensity of the battery or magnets
+is increased by induction on the same principle. It is by intensity
+that the electric current is enabled to pass through the wires, and
+that is augmented by increasing the number of coils round the
+cylinder: however, it is only advantageous when the distance
+between the stations is great, for then the resistance in the additional
+coils bears a small proportion to the resistance offered by
+very long wires, but a very great proportion to that opposed in
+very short ones. The nice adjustment for each case has been
+determined by the experiments of eminent electricians, and all
+the arrangements have been brought to great perfection in this
+wonderful triumph of science, which is due to Volta, who called
+into existence the fiery stream, and to Faraday, who has given it
+the energy of the lightning.
+When the length of the wire in the helices of an electro-magnet
+is very great, it offers increasing resistance to the passage of the
+electricity, so that the cessation of magnetism is not instantaneous
+when the contact with the Voltaic battery is broken. To remedy
+that defect an instrument has been invented which instantaneously
+deprives the apparatus of the remaining electricity. A
+great length of fine wire gives the severest shocks, while a shorter
+and thicker wire gives the longest sparks and ignites the greatest
+quantity of platinum wire.
+Ruhmkorff’s electro-inductive apparatus has either been improved,
+or new machines constructed, by Messrs. Grove, Gassiot,
+and Joule, of intense energy. Indeed, so great is the energy of
+electro-induction, that hopes were entertained of its superseding
+steam as a motive power. For the current of electricity from an
+electro-magnet can be made to flow in opposite directions, so as
+to produce alternate attractions and repulsions, and consequently
+a continued motion, which might be applied as a motive force
+to machinery. However, Mr. Joule has proved that the power
+developed by one pound of coal in combustion is to that produced
+by one pound of zinc consumed in Mr. Grove’s powerful electro-magnetic
+apparatus as nine to one, so that, even if zinc were as
+cheap as coal, and a Voltaic battery as easily kept in order as an
+engine-furnace, electricity will not supersede steam as a motive
+power.
+A current of electricity traversing a conductor gives out a
+quantity of heat determined by fixed laws, the amount of which
+is invariable as long as the machine to which it is applied remains
+329at rest; but the instant the machine is set in motion a reaction
+takes place in the intensity of the current, causing a diminution
+in the quantity of heat, because the heat that disappears is converted
+into the mechanical force exerted by the engine.
+Mr. Joule’s experiments prove that, whenever a current of
+electricity is generated by a magneto-electric machine, the quantity
+of heat evolved by that current has a constant relation to the
+power required to work the machine; and on the other hand,
+whenever an engine is worked by a Voltaic battery, that the
+power developed is at the expense of the calorific force of the
+battery for a given consumption of zinc, the mechanical effect
+produced having a fixed relation to the heat lost in the Voltaic
+current. The obvious conclusion Mr. Joule draws from these
+experiments is, that heat and mechanical power are convertible
+into one another, and it becomes evident, therefore, that heat is
+either the vis viva or living force of ponderable particles, or a
+state of attraction and repulsion capable of generating vis viva
+(N. 222).</div></body></text></TEI>

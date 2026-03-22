@@ -1,0 +1,203 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="21">CHAPTER I.
+Prelude to the Inductive Epoch of
+Copernicus.
+THE Doctrine of Copernicus,
+that the Sun is the true centre of the celestial motions, depends
+primarily upon the consideration that such a supposition explains very
+simply and completely all the obvious appearances of the heavens. In
+order to see that it does this, nothing more is requisite than a
+distinct conception of the nature of Relative Motion, and a knowledge
+of the principal Astronomical Phenomena. There was, therefore, no
+reason why such a doctrine might not be discovered, that is,
+suggested as a theory plausible at first sight, long before the time
+of Copernicus; or rather, it was impossible that this guess, among
+others, should not be propounded as a solution of the appearances of
+the heavens. We are not, therefore, to be surprised if we find, in the
+earliest times of Astronomy, and at various succeeding periods, such a
+system spoken of by astronomers, and maintained by some as true,
+though rejected by the majority, and by the principal writers.
+When we look back at such a difference of opinion, having in our
+minds, as we unavoidably have, the clear and irresistible
+considerations by which the Copernican Doctrine is established for
+us, it is difficult for us not to attribute superior sagacity and
+candor to those who held that side of the question, and to imagine
+those who clung to the Ptolemaic Hypothesis to have been blind and
+prejudiced; incapable of seeing the beauty of simplicity and symmetry,
+or indisposed to resign established errors, and to accept novel and
+comprehensive truths. Yet in judging thus, we are probably ourselves
+influenced by prejudices arising from the knowledge and received
+opinions of our own times. For is it, in reality, clear that, before
+the time of Copernicus, the 258 Heliocentric Theory (that which
+places the centre of the celestial motions in the Sun) had a claim to
+assent so decidedly superior to the Geocentric Theory, which places
+the Earth in the centre? What is the basis of the heliocentric
+theory?—That the relative motions are the
+same, on that and on the other supposition. So far, therefore,
+the two hypotheses are exactly on the same footing. But, it is urged,
+on the heliocentric side we have the advantage of
+simplicity:—true; but we have, on the other side, the testimony
+of our senses; that is, the geocentric doctrine (which asserts that
+the Earth rests and the heavenly bodies move) is the obvious and
+spontaneous interpretation of the appearances. Both these arguments,
+simplicity on the one side, and obviousness on the
+other, are vague, and we may venture to say, both indecisive. We
+cannot establish any strong preponderance of probability in favor of
+the former doctrine, without going much further into the arguments of
+the question.
+Nor, when we speak of the superior simplicity of the
+Copernican theory, must we forget, that though this theory has
+undoubtedly, in this respect, a great advantage over the Ptolemaic,
+yet that the Copernican system itself is very complex, when it
+undertakes to account, as the Ptolemaic did, for the
+Inequalities of the Motions of the sun, moon, and planets;
+and, that in the hands of Copernicus, it retained a large share of the
+eccentrics and epicycles of its predecessor, and, in some parts, with
+increased machinery. The heliocentric theory, without these
+appendages, would not approach the Ptolemaic, in the accurate
+explanation of facts; and as those who had placed the sun in the
+centre had never, till the time of Copernicus, shown how the
+inequalities were to be explained on that supposition, we may assert
+that after the promulgation of the theory of eccentrics and epicycles
+on the geocentric hypothesis, there was no published
+heliocentric theory which could bear a comparison with that
+hypothesis.
+It is true, that all the contrivances of epicycles, and the like,
+by which the geocentric hypothesis was made to represent the
+phenomena, were susceptible of an easy adaptation to a heliocentric
+method, when a good mathematician had once proposed to himself the
+problem: and this was precisely what Copernicus undertook and
+executed. But, till the appearance of his work, the heliocentric
+system had never come before the world except as a hasty and imperfect
+hypothesis; which bore a favorable comparison with the phenomena, so
+long as their general features only were known; but which had been
+completely thrown into the shade by the labor and intelligence
+bestowed upon 259
+the Hipparchian or Ptolemaic theories by a long series of great
+astronomers of all civilized countries.
+But, though the astronomers who, before Copernicus, held the
+heliocentric opinion, cannot, on any good grounds, be considered as
+much more enlightened than their opponents, it is curious to trace the
+early and repeated manifestations of this view of the universe. The
+distinct assertion of the heliocentric theory among the Greeks is an
+evidence of the clearness of their thoughts, and the vigour of their
+minds; and it is a proof of the feebleness and servility of intellect
+in the stationary period, that, till the period of Copernicus, no one
+was found to try the fortune of this hypothesis, modified according to
+the improved astronomical knowledge of the time.
+The most ancient of the Greek philosophers to whom the ancients
+ascribe the heliocentric doctrine, is Pythagoras; but Diogenes
+Laertius makes Philolaus, one of the followers of Pythagoras, the
+first author of this doctrine. We learn from Archimedes, that it was
+held by his contemporary, Aristarchus. “Aristarchus of Samos,” says
+he,1 “makes this supposition,—that the
+fixed stars and the sun remain at rest, and that the earth revolves
+round the sun in a circle.” Plutarch2 asserts that this,
+which was only a hypothesis in the hands of Aristarchus, was
+proved by Seleucus; but we may venture to say that, at that
+time, no such proof was possible. Aristotle had recognized the
+existence of this doctrine by arguing against it. “All things,” says
+he,3 “tend to the centre of the earth, and
+rest there, and therefore the whole mass of the earth cannot rest
+except there.” Ptolemy had in like manner argued against the diurnal
+motion of the earth: such a revolution would, he urged, disperse into
+surrounding space all the loose parts of the earth. Yet he allowed
+that such a supposition would facilitate the explanation of some
+phenomena. Cicero appears to make Mercury and Venus revolve about the
+sun, as does Martianus Capella at a later period; and Seneca says4
+it is a worthy subject of contemplation, whether the earth be at rest
+or in motion: but at this period, as we may see from Seneca himself,
+that habit of intellect which was requisite for the solution of such a
+question, had been succeeded by indistinct views, and rhetorical forms
+of speech. If there were any good mathematicians and good observers at
+this period, they were employed in cultivating and verifying the
+Hipparchian theory.
+1 Archim. Arenarius.
+2 Quest. Plat. Delamb. A.
+A. vi.
+3 Quoted by Copernic. i. 7.
+4 Quest. Nat. vii. 2.
+Next to the Greeks, the Indians appear to have possessed that 260 original vigor and
+clearness of thought, from which true science springs. It is
+remarkable that the Indians, also, had their heliocentric theorists.
+Aryabatta5 (a. d. 1322),
+and other astronomers of that country, are said to have advocated the
+doctrine of the earth’s revolution on its axis; which opinion,
+however, was rejected by subsequent philosophers among the
+Hindoos.
+5 Lib. U. K. Hist. Ast. p.
+11.
+Some writers have thought that the heliocentric doctrine was
+derived by Pythagoras and other European philosophers, from
+some of the oriental nations. This opinion, however, will appear to
+have little weight, if we consider that the heliocentric hypothesis,
+in the only shape in which the ancients knew it, was too obvious to
+require much teaching; that it did not and could not, so far as we
+know, receive any additional strength from any thing which the
+oriental nations could teach; and that each astronomer was induced to
+adopt or reject it, not by any information which a master could give
+him, but by his love of geometrical simplicity on the one hand, or the
+prejudices of sense on the other. Real science, depending on a clear
+view of the relation of phenomena to general theoretical ideas, cannot
+be communicated in the way of secret and exclusive traditions, like
+the mysteries of certain arts and crafts. If the philosopher do not
+see that the theory is true, he is little the better for
+having heard or read the words which assert its truth.
+It is impossible, therefore, for us to assent to those views which
+would discover in the heliocentric doctrines of the ancients, traces
+of a more profound astronomy than any which they have transmitted to
+us. Those doctrines were merely the plausible conjectures of men with
+sound geometrical notions; but they were never extended so as to
+embrace the details of the existing astronomical knowledge; and
+perhaps we may say, that the analysis of the phenomena into the
+arrangements of the Ptolemaic system, was so much more obvious than
+any other, that it must necessarily come first, in order to form an
+introduction to the Copernican.
+The true foundation of the heliocentric theory for the ancients
+was, as we have intimated, its perfect geometrical consistency with
+the general features of the phenomena, and its simplicity. But it was
+unlikely that the human mind would be content to consider the subject
+under this strict and limited aspect alone. In its eagerness for wide
+speculative views, it naturally looked out for other and vaguer
+principles of connection and relation. Thus, as it had been urged in
+261 favor of the
+geocentric doctrine, that the heaviest body must be in the centre, it
+was maintained, as a leading recommendation of the opposite opinion,
+that it placed the Fire, the noblest element, in the Centre of the
+Universe. The authority of mythological ideas was called in on both
+sides to support these views. Numa, as Plutarch6 informs us, built
+a circular temple over the ever-burning Fire of Vesta; typifying, not
+the earth, but the Universe, which, according to the Pythagoreans, has
+the Fire seated at its Centre. The same writer, in another of his
+works, makes one of his interlocutors say, “Only, my friend, do not
+bring me before a court of law on a charge of impiety; as Cleanthes
+said, that Aristarchus the Samian ought to be tried for impiety,
+because he removed the Hearth of the Universe.” This, however, seems
+to have been intended as a pleasantry.
+6 De Facie in Orbe Lunæ,
+6.
+The prevalent physical views, and the opinions concerning the
+causes of the motions of the parts of the universe, were scarcely more
+definite than the ancient opinions concerning the relations of the
+four elements, till Galileo had founded the true Doctrine of Motion.
+Though, therefore, arguments on this part of the subject were the most
+important part of the controversy after Copernicus, the force of such
+arguments was at his time almost balanced. Even if more had been known
+on such subjects, the arguments would not have been conclusive: for
+instance, the vast mass of the heavens, which is commonly urged as a
+reason why the heavens do not move round the earth, would not make
+such a motion impossible; and, on the other hand, the motions of
+bodies at the earth’s surface, which were alleged as inconsistent with
+its motion, did not really disprove such an opinion. But according to
+the state of the science of motion before Copernicus, all reasonings
+from such principles were utterly vague and obscure.
+We must not omit to mention a modern who preceded Copernicus, in
+the assertion at least of the heliocentric doctrine. This was Nicholas
+of Cusa (a village near Treves), a cardinal and bishop, who, in the
+first half of the fifteenth century, was very eminent as a divine and
+mathematician; and who in a work, De Doctâ Ignorantiâ,
+propounded the doctrine of the motion of the earth; more, however, as
+a paradox than as a reality. We cannot consider this as any distinct
+anticipation of a profound and consistent view of the truth.
+We shall now examine further the promulgation of the Heliocentric
+System by Copernicus, and its consequences.  ~Additional material in
+the 3rd edition.~ 262</div></body></text></TEI>

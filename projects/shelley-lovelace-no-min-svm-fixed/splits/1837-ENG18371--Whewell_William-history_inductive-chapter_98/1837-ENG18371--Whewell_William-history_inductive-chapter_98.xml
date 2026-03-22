@@ -1,0 +1,149 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="98">CHAPTER V.
+Chemistry of Gases.—Black.
+Cavendish.
+THE study of the properties of
+aëriform substances, or Pneumatic Chemistry, as it was called,
+occupied the chemists of the eighteenth century, and was the main
+occasion of the great advances which the science made at that period.
+The most material general truths which came into view in the course of
+these researches, were, that gases were to be numbered among the
+constituent elements of solid and fluid bodies; and that, in these, as
+in all other cases of composition, the compound was equal to the sum
+of its elements. The latter proposition, indeed, cannot be looked upon
+as a discovery, for it had been frequently acknowledged, though little
+applied; in fact, it could not be referred to with any advantage, till
+the aëriform elements, as well as others, were taken into the account.
+As soon as this was done, it produced a revolution in chemistry.
+[2nd Ed.] [Though the view of the mode in which gaseous elements
+become fixed in bodies and determine their properties, had great
+additional light thrown upon it by Dr. Black’s discoveries, as we
+shall see, the notion that solid bodies involve such gaseous elements
+was not new at that period. Mr. Vernon Harcourt has shown16 that Newton and Boyle admitted into
+their speculations airs of various kinds, capable of fixation in
+bodies. I have, in the succeeding chapter (chap.
+vi.), spoken of the views of Rey, Hooke, and Mayow, connected with
+the function of airs in chemistry, and forming a prelude to the Oxygen
+Theory.]
+16 Phil. Mag. 1846.
+Notwithstanding these preludes, the credit of the first great step
+in pneumatic chemistry is, with justice, assigned to Dr. Black,
+afterwards professor at Edinburgh, but a young man of the age of
+twenty-four at the time when he made his discovery.17 He found that the difference between
+caustic lime and common limestone arose from this, that the latter
+substance consists of the former, combined with a certain air, which,
+being thus fixed in the solid body, he called fixed air
+(carbonic 273 acid
+gas). He found, too, that magnesia, caustic potash, and caustic soda,
+would combine with the same air, with similar results. This discovery
+consisted, of course, in a new interpretation of observed changes.
+Alkalies appeared to be made caustic by contact with quicklime: at
+first Black imagined that they underwent this change by acquiring
+igneous matter from the quicklime; but when he perceived that the lime
+gained, not lost, in magnitude as it became mild, he rightly supposed
+that the alkalies were rendered caustic by imparting their air to the
+lime. This discovery was announced in Black’s inaugural dissertation,
+pronounced in 1755, on the occasion of his taking his degree of Doctor
+in the University of Edinburgh.
+17 Thomson’s Hist. Chem. i.
+317.
+The chemistry of airs was pursued by other experimenters. The
+Honorable Henry Cavendish, about 1765, invented an apparatus, in which
+aërial fluids are confined by water, so that they can be managed and
+examined. This hydro-pneumatic apparatus, or as it is sometimes
+called, the pneumatic trough, from that time was one of the
+most indispensable parts of the chemist’s apparatus. Cavendish,18 in 1766, showed the identity of the
+properties of fixed air derived from various sources; and pointed out
+the peculiar qualities of inflammable air (afterwards called
+hydrogen gas), which, being nine times lighter than common air, soon
+attracted general notice by its employment for raising balloons. The
+promise of discovery which this subject now offered, attracted the
+confident and busy mind of Priestley, whose Experiments and
+Observations on different kinds of Air appeared in 1744–79.
+In these volumes, he describes an extraordinary number of trials of
+various kinds; the results of which were, the discovery of new kinds
+of air, namely, phlogisticated air (azotic gas), nitrous
+air (nitrous gas), and dephlogisticated air (oxygen
+gas).
+18 Phil. Trans. 1766.
+But the discovery of new substances, though valuable in supplying
+chemistry with materials, was not so important as discoveries
+respecting their modes of composition. Among such discoveries, that of
+Cavendish, published in the Philosophical Transactions for
+1784, and disclosing the composition of water by the union of two
+gases, oxygen and hydrogen, must be considered as holding a most
+distinguished place. He states,19 that his
+“experiments were made principally with a view to find out the cause
+of the diminution which common air is well known to suffer, by all the
+various ways in which it is phlogisticated.” And, after describing
+various unsuccessful attempts, he finds 274 that when inflammable air is used in
+this phlogistication (or burning), the diminution of the common air is
+accompanied by the formation of a dew in the apparatus.20 And thus he infers21 that “almost
+all the inflammable air, and one-fifth of the common air, are turned
+into pure water.”
+19 Phil. Trans. 1784, p.
+119.
+20 Phil. Trans. 1784, p.
+128.
+21 Ib. p. 129.
+Lavoisier, to whose researches this result was, as we shall soon
+see, very important, was employed in a similar attempt at the same
+time (1783), and had already succeeded,22 when he learned
+from Dr. Blagden, who was present at the experiment, that Cavendish
+had made the discovery a few months sooner. Monge had, about the same
+time, made the same experiments, and communicated the result to
+Lavoisier and Laplace immediately afterwards. The synthesis was soon
+confirmed by a corresponding analysis. Indeed the discovery
+undoubtedly lay in the direct path of chemical research at the time.
+It was of great consequence in the view it gave of experiments in
+composition; for the small quantity of water produced in many such
+processes, had been quite overlooked; though, as it now appeared, this
+water offered the key to the whole interpretation of the change.
+22 A. P. 1781, p. 472
+Though some objections to Mr. Cavendish’s view were offered by
+Kirwan,23 on the whole they were generally
+received with assent and admiration. But the bearing of these
+discoveries upon the new theory of Lavoisier, who rejected phlogiston,
+was so close, that we cannot further trace the history of the subject
+without proceeding immediately to that theory.
+23 P. T. 1784, p. 154.
+[2nd Ed.] [I have elsewhere stated,24—with
+reference to recent attempts to deprive Cavendish of the credit of his
+discovery of the composition of water, and to transfer it to
+Watt,—that Watt not only did not anticipate, but did not fully
+appreciate the discovery of Cavendish and Lavoisier; and I have
+expressed my concurrence with Mr. Vernon Harcourt’s views, when he
+says,25 that “Cavendish pared off from the
+current hypotheses their theory of combustion, and their affinities of
+imponderable for ponderable matter, as complicating chemical with
+physical considerations; and he then corrected and adjusted them with
+admirable skill to the actual phenomena, not binding the facts to the
+theory, but adapting the theory to the facts.”
+24 Philosophy, b. vi. c.
+4.
+25 Address to the British
+Association, 1839.
+I conceive that the discussion which the subject has recently
+received, has left no doubt on the mind of any one who has perused the
+275 documents, that
+Cavendish is justly entitled to the honor of this discovery, which in
+his own time was never contested. The publication of his Journals of
+Experiments26 shows that he succeeded in establishing
+the point in question in July, 1781. His experiments are referred to
+in an abstract of a paper of Priestley’s, made by Dr. Maty, the
+secretary of the Royal Society, in June, 1783. In June, 1783, also,
+Dr. Blagden communicated the result of Cavendish’s experiments to
+Lavoisier, at Paris. Watt’s letter, containing his hypothesis that
+“water is composed of dephlogisticated air and phlogiston deprived of
+part of their latent or elementary heat; and that phlogisticated or
+pure air is composed of water deprived of its phlogiston and united to
+elementary heat and light,” was not read till Nov. 1783; and even if
+it could have suggested such an experiment as Cavendish’s (which does
+not appear likely), is proved, by the dates, to have had no share in
+doing so.
+26 Appendix to Mr. V.
+Harcourt’s Address
+Mr. Cavendish’s experiment was suggested by an experiment in which
+Warltire, a lecturer on chemistry at Birmingham, exploded a mixture of
+hydrogen and common air in a close vessel, in order to determine
+whether heat were ponderable.]
+</div></body></text></TEI>

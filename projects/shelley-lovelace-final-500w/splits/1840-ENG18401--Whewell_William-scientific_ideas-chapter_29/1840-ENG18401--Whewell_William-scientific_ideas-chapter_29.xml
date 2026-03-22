@@ -1,0 +1,316 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Philosophy of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="29">
+
+CHAPTER IV.
+Of the Axioms which relate to the Idea of Cause.
+
+
+1. Causes are abstract Conceptions.—We have now to
+express, as well as we can, the fundamental character of
+that Idea of Cause of which we have just proved the
+existence. This may be done, at least for purposes of
+reasoning, in this as in former instances, by means of
+axioms. I shall state the principal axioms which belong to
+this subject, referring the reader to his own thoughts for
+the axiomatic evidence which belongs to them.
+But I must first observe, that in order to express general
+and abstract truths concerning cause and effect, these
+terms, cause and effect, must be understood in
+a general and abstract manner. When one event gives rise to
+another, the first event is, in common language,
+often called the cause, and the second the effect. Thus the
+meeting of two billiard-balls may be said to be the cause of
+one of them turning aside out of the path in which it was
+moving. For our present purposes, however, we must not apply
+the term cause to such occurrences as this meeting and
+turning, but to a certain conception, force,
+abstracted from all such special events, and considered as a
+quality or property by which one body affects the motion of
+the other. And in like manner in other cases, cause is to be
+conceived as some abstract quality, power, or efficacy, by
+which change is produced; a quality not identical with the
+events, but disclosed by means of them. Not only is this
+abstract mode of conceiving force and cause useful in
+expressing the fundamental principles of science; but it
+supplies us with the only mode by which such principles can
+be 185 stated in a general manner, and made to lead to
+substantial truth and real knowledge.
+Understanding cause, therefore, in this sense, we
+proceed to our Axioms.
+2. First Axiom. Nothing can take place without a
+Cause.
+Every event, of whatever kind, must have a cause in the
+sense of the term which we have just indicated; and that it
+must, is a universal and necessary proposition to which we
+irresistibly assent as soon as it is understood. We believe
+each appearance to come into existence,—we conceive every
+change to take place,—not only with something preceding it,
+but something by which it is made to be what it is. An
+effect without a cause;—an event without a preceding
+condition involving the efficacy by which the event is
+produced;—are suppositions which we cannot for a moment
+admit. That the connexion of effect with cause is universal
+and necessary, is a universal and constant conviction of
+mankind. It persists in the minds of all men, undisturbed by
+all the assaults of sophistry and skepticism; and, as we
+have seen in the last chapter, remains unshaken, even when
+its foundations seem to be ruined. This axiom expresses, to
+a certain extent, our Idea of Cause; and when that idea is
+clearly apprehended, the axiom requires no proof, and indeed
+admits of none which makes it more evident. That
+notwithstanding its simplicity, it is of use in our
+speculations, we shall hereafter see; but in the first
+place, we must consider the other axioms belonging to this
+subject.
+3. Second Axiom. Effects are proportional to their
+Causes, and Causes are measured by their Effects.
+We have already said that cause is that quality or
+power, in the circumstances of each case, by which the
+effect is produced; and this power, an abstract property of
+the condition of things to which it belongs, can in no way
+fall directly under the cognizance of the senses. Cause, of
+whatever kind, is not apprehended as including objects and
+events which share its nature by being co-extensive with
+certain portions of it, as space and time are. It cannot
+therefore, like them, be 186 measured by repetition of its
+own parts, as space is measured by repetition of inches, and
+time by repetition of minutes. Causes may be greater or
+less; as, for instance, the force of a man is greater than
+the force of a child. But how much is the one greater than
+the other? How are we to compare the abstract conception,
+force, in such cases as these?
+To this, the obvious and only answer is, that we must
+compare causes by means of their effects;—that we must
+compare force by something which force can do. The child can
+lift one fagot; the man can lift ten such fagots: we have
+here a means of comparison. And whether or not the rule is
+to be applied in this manner, that is, by the number of
+things operated on, (a question which we shall have to
+consider hereafter,) it is clear that this form of rule,
+namely, a reference to some effect or other as our measure,
+is the right, because the only possible form. The cause
+determines the effect. The cause being the same, the effect
+must be the same. The connexion of the two is governed by a
+fixed and inviolable rule. It admits of no ambiguity. Every
+degree of intensity in the cause has some peculiar
+modification of the effect corresponding to it. Hence the
+effect is an unfailing index of the amount of the cause; and
+if it be a measurable effect, gives a measure of the cause.
+We can have no other measure; but we need no other, for this
+is exact, sufficient and complete.
+It may be said, that various effects are produced by the
+same cause. The sun’s heat melts wax and expands
+quicksilver. The force of gravity causes bodies to move
+downwards if they are free, and to press down upon their
+supports if they are supported. Which of the effects is to
+be taken as the measure of heat, or of gravity, in these
+cases? To this we reply, that if we had merely different
+states of the same cause to compare, any of the effects
+might be taken. The sun’s heat on different days might be
+measured by the expansion of quicksilver, or by the quantity
+of wax melted. The force of gravity, if it were different at
+different places, might be measured by the spaces through
+which a given weight would bend an elastic 187 support, or
+by the spaces through which a body would fall in a given
+time. All these measures are consistent with the general
+character of our idea of cause.
+4. Limitation of the Second Axiom.—But there may be
+circumstances in the nature of the case which may further
+determine the kind of effect which we must take for the
+measure of the cause. For example, if causes are conceived
+to be of such a nature as to be capable of addition, the
+effects taken as their measure must conform to this
+condition. This is the case with mechanical causes. The
+weights of two bodies are the causes of the pressure which
+they exert downwards; and these weights are capable of
+addition. The weight of the two is the sum of the weight of
+each. We are therefore not at liberty to say that weights
+shall be measured by the spaces through which they bend a
+certain elastic support, except we have first ascertained
+that the whole weight bends it through a space equal to the
+sum of the inflections produced by the separate weights.
+Without this precaution, we might obtain inconsistent
+results. Two weights, each of the magnitude 3 as measured by
+their effects, might, if we took the inflections of a spring
+for the effects, be together equal to 5 or to 7 by the same
+kind of measurement. For the inflection produced by two
+weights of 3 might, for aught we can see beforehand, be more
+or less than twice as great as the inflection produced by
+one weight of 3. That forces are capable of addition, is a
+condition which limits, and, as we shall see, in some cases
+rigorously fixes, the kind of effects which are to be taken
+as their measures.
+Causes which are thus capable of addition are to be measured
+by the repeated addition of equal quantities. Two such
+causes are equal to each other when they produce
+exactly the same effect. So far our axiom is applied
+directly. But these two causes can be added
+together; and being thus added, they are double of
+one of them; and the cause composed by addition of
+three such, is three times as great as the
+first; and so on for any measure whatever. By this means,
+and by this 188 means only, we have a complete and
+consistent measure of those causes which are so conceived as
+to be subject to this condition of being added and
+multiplied.
+Causes are, in the present chapter, to be understood in the
+widest sense of the term; and the axiom now under our
+consideration applies to them, whenever they are of such a
+nature as to admit of any measure at all. But the cases
+which we have more particularly in view are
+mechanical causes, the causes of the motion and of
+the equilibrium of bodies. In these cases, forces are
+conceived as capable of addition; and what has been said of
+the measure of causes in such cases, applies peculiarly to
+mechanical forces. Two weights, placed together, may be
+considered as a single weight, equal to the sum of
+the two. Two pressures, pushing a body in the same direction
+at the same point, are identical in all respects with some
+single pressure, their sum, pushing in like manner;
+and this is true whether or not they put the body in motion.
+In the cases of mechanical forces, therefore, we take some
+certain effect, velocity generated or weight supported,
+which may fix the unit of force; and we then measure
+all other forces by the successive repetition of this unit,
+as we measure all spaces by the successive repetition of our
+unit of lineal measure.
+But these steps in the formation of the science of Mechanics
+will be further explained, when we come to follow our axioms
+concerning cause into their application in that science. At
+present we have, perhaps, sufficiently explained the axiom
+that causes are measured by their effects, and we now
+proceed to a third axiom, also of great importance.
+5. Third Axiom. Reaction is equal and opposite to
+Action.
+In the case of mechanical forces, the action of a cause
+often takes place by an operation of one body upon another;
+and in this case, the action is always and inevitably
+accompanied by an opposite action. If I press a
+stone with my hand, the stone presses my hand in return. If
+one ball strike another and put it in motion, the second
+ball diminishes the motion of 189 the first. In these
+cases the operation is mutual; the Action is accompanied by
+a Reaction. And in all such cases the Reaction is a force of
+exactly the same nature as the Action, exerted in an
+opposite direction. A pressure exerted upon a body at rest
+is resisted and balanced by another pressure; when the
+pressure of one body puts another in motion, the body,
+though it yields to the force, nevertheless exerts upon the
+pressing body a force like that which it suffers.
+Now the axiom asserts further, that this Reaction is
+equal, as well as opposite, to the Action. For the
+Reaction is an effect of the Action, and is determined by
+it. And since the two, Action and Reaction, are forces of
+the same nature, each may be considered as cause and as
+effect; and they must, therefore, determine each other by a
+common rule. But this consideration leads necessarily to
+their equality: for since the rule is mutual, if we could
+for an instant suppose the Reaction to be less than the
+Action, we must, by the same rule, suppose the Action to be
+less than the Reaction. And thus Action and Reaction, in
+every such case, are rigorously equal to each other.
+It is easily seen that this axiom is not a proposition which
+is, or can be, proved by experience; but that its truth is
+anterior to special observation, and depends on our
+conception of Action and Reaction. Like our other axioms,
+this has its source in an Idea; namely, the Idea of Cause,
+under that particular condition in which cause and effect
+are mutual. The necessary and universal truth which we
+cannot help ascribing to the axiom, shows that it is not
+derived from the stores of experience, which can never
+contain truths of this character. Accordingly, it was
+asserted with equal confidence and generality by those who
+did not refer to experience for their principles, and by
+those who did. Leonicus Tomæus, a commentator of Aristotle,
+whose work was published in 1552, and therefore at a period
+when no right opinions concerning mechanical reaction were
+current, at least in his school, says, in his remarks on the
+Author’s Questions concerning the communication of motion,
+that ‘Reaction is equal and 190 contrary to Action.’ The
+same principle was taken for granted by all parties, in all
+the controversies concerning the proper measure of force, of
+which we shall have to speak: and would be rigorously true,
+as a law of motion, whichever of the rival interpretations
+of the measure of the term ‘Action’ we were to take.
+6. Extent of the Third Axiom.—It may naturally be
+asked whether this third Axiom respecting causation extends
+to any other cases than those of mechanical action, since
+the notion of Cause in general has certainly a much wider
+extent. For instance, when a hot body heats a cold one, is
+there necessarily an equal reaction of the second body upon
+the first? Does the snowball cool the boy’s hand exactly as
+much as the hand heats the snow? To this we reply, that, in
+every case in which one body acts upon another by its
+physical qualities, there must be some reaction. No body can
+affect another without being itself also affected. But in
+any physical change the action exerted is an
+abstract term which may be variously understood. The hot
+hand may melt a cool body, or may warm it:
+which kind of effect is to be taken as action? This remains
+to be determined by other considerations.
+In all cases of physical change produced by one body in
+another, it is generally possible to assume such a meaning
+of action, that the reaction shall be of the same nature as
+the action; and when this is done, the third axiom of
+causation, that reaction is equal to action, is universally
+true. Thus if a hot body heat a cold one, the change may be
+conceived as the transfer of a certain substance,
+heat or caloric, from the first body to the
+second. On this supposition, the first body loses
+just as much heat as the other gains; action and
+reaction are equal. But if the reaction be of a different
+kind to the action we can no longer apply the axiom. If a
+hot body melt a cold one, the latter cools
+the former: here, then, is reaction; but so long as the
+action and reaction are stated in this form, we cannot
+assert any equality between them.
+In treating of the secondary mechanical sciences, we 191
+shall see further in what way we may conceive the physical
+action of one body upon another, so that the same axioms
+which are the basis of the science of Mechanics shall apply
+to changes not at first sight manifestly mechanical.
+The three axioms of causation which we have now stated are
+the fundamental maxims of all reasoning concerning causes as
+to their quantities; and it will be shown in the sequel that
+these axioms form the basis of the science of Mechanics,
+determining its form, extent, and certainty. We must,
+however, in the first place, consider how we acquire those
+conceptions upon which the axioms now established are to be
+employed.
+[2d Ed.] [The Axiom that Reaction is equal and opposite
+to Action, may appear to be at variance with a maxim
+concerning Cause which is commonly current; namely, that the
+‘Cause precedes Effect, and Effect follows Cause.’ For it
+may be said, if A, the Action, and R, the
+Reaction, can be considered as mutually the cause of each
+other, A must precede R, and yet must follow
+it, which is impossible. But to this I reply, that in those
+cases of direct Causation to which the maxim applies, the
+Cause and Effect are not successive, but simultaneous. If I
+press against some obstacle, the obstacle resists and
+returns the pressure at the instant it is exerted, not after
+any interval of time, however small. The common maxim, that
+the effect follows the cause, has arisen from the practice
+of considering, as examples of cause and effect, not
+instantaneous forces or causes, and the instantaneous
+changes which they produce; but taking, instead of this
+latter, the cumulative effects produced in the
+course of time, and compared with like results occurring
+without the action of the cause. Thus, if we alter the
+length of a clock-pendulum, this change produces, as its
+effect, a subsequent change of rate in the clock: because
+the rate is measured by the accumulated effects of the
+pendulum’s gravity, before and after the change. But the
+pendulum produces its mechanical effect upon the escapement,
+at the moment of its contact, and each wheel upon the next,
+at the moment of its contact. As has 192 been
+said in a Review of this work, ‘The time lost in cases of
+indirect physical causation is consumed in the movements
+which take place among the parts of the mechanism in action,
+by which the active forces so transformed into momentum are
+transported over intervals of space to new points of action,
+the motion of matter in such cases being regarded as a mere
+carrier of force.’ (Quarterly Rev. No. cxxxv. p.
+212.)
+This subject I have further treated in the Memoirs of the
+Cambridge Philosophical Society, vol. vii. part iii.]
+[In this Third Edition I add this discussion.]</div></body></text></TEI>

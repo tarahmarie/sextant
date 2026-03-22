@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 218-219</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 218-219.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1843">undated (estimated from box 166 date range)</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 218-219</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_218-219.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Monday 1 o'clock</p>
+      <p>I send you a curious letter I received this morning.--</p>
+      <p>I have been a stupid, heavy, idle lout these 2 days. Now I think it is blowing over again, &amp; I am returning to activity. It is not that I have been ill at all.</p>
+      <p>But I have been alternately flighty , (hating to settle to anything), &amp; stupid; I have grown rather puffy &amp; large also.</p>
+      <p>The fact is it has been the critical time; &amp; as I seem to be coming out of my stupidity now, without results ; I conclude that as before, it has very probably missed for this time.</p>
+      <p>But this certainly proves, (if it is so), that</p>
+      <p>things are not yet at all settled, &amp; that time alone can prove what nature intends.--</p>
+      <p>The Hallidays called here a day or two ago, &amp; left word they would be in Town again in a few days, to remain I believe some time. I am delighted at it. They will be delightful Theatrical companions for me, (&amp; without my having to</p>
+      <p>pay for more than myself too, which is a consideration you know that I am not able wholly to despise).--</p>
+      <p>I do not think I am today in very remarkable spirits. It appears to me that I am too flighty, desultory, &amp; unstable an animal; too really Bird-like , or Butterfly- like, in short; ever to accomplish anything of moment. However, time will show!--</p>
+    </div></body>
+  </text>
+</TEI>

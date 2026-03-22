@@ -1,0 +1,499 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="12">CHAPTER III.
+Inductive Epoch of Hipparchus.
+
+Sect. 1.—Establishment of the Theory
+of Epicycles and Eccentrics.
+ALTHOUGH, as we have already
+seen, at the time of Plato, the Idea of Epicycles had been suggested,
+and the problem of its general application proposed, and solutions of
+this problem offered by his followers; we still consider Hipparchus as
+the real discoverer and founder of that theory; inasmuch as he not
+only guessed that it might, but showed that it must,
+account for the phenomena, both as to their nature and as to their
+quantity. The assertion that “he only discovers who proves,” is just;
+not only because, until a theory is proved to be the true one, it has
+no pre-eminence over the numerous other guesses among which it
+circulates, and above which the proof alone elevates it; but also
+because he who takes hold of the theory so as to apply calculation to
+it, possesses it with a distinctness of conception which makes it
+peculiarly his.
+In order to establish the Theory of Epicycles, it was necessary to
+assign the magnitudes, distances, and positions of the circles or
+spheres in which the heavenly bodies were moved, in such a manner as
+to account for their apparently irregular motions. We may best
+understand what was the problem to be solved, by calling to mind what
+we now know to be the real motions of the heavens. The true motion of
+the earth round the sun, and therefore the apparent annual motion of
+the sun, is performed, not in a circle of which the earth is the
+centre, but in an ellipse or oval, the earth being nearer to one end
+than to the other; and the motion is most rapid when the sun is at the
+nearer end of this oval. But instead of an oval, we may suppose the
+sun to move uniformly in a circle, the earth being now, not in the
+centre, but nearer to one side; for on this supposition, the sun will
+appear to move most quickly when he is nearest to the earth, or in his
+Perigee, as that point is called. Such an orbit is called an
+Eccentric, and the distance of the earth from the centre of the
+circle is called the Eccentricity. It may easily be shown by
+geometrical reasoning, that the inequality of apparent motion so
+produced, is exactly the same in 146 detail, as the inequality which follows
+from the hypothesis of a small Epicycle, turning uniformly on
+its axis, and carrying the sun in its circumference, while the centre
+of this epicycle moves uniformly in a circle of which the earth is the
+centre. This identity of the results of the hypothesis of the
+Eccentric and the Epicycle is proved by Ptolemy in the third book of
+the “Almagest.”
+The Sun’s Eccentric.—When Hipparchus had clearly
+conceived these hypotheses, as possible ways of accounting
+for the sun’s motion, the task which he had to perform, in order to
+show that they deserved to be adopted, was to assign a place to the
+Perigee, a magnitude to the Eccentricity, and an
+Epoch at which the sun was at the perigee; and to show that, in
+this way, he had produced a true representation of the motions of the
+sun. This, accordingly, he did; and having thus determined, with
+considerable exactness, both the law of the solar irregularities, and
+the numbers on which their amount depends, he was able to assign the
+motions and places of the sun for any moment of future time with
+corresponding exactness; he was able, in short, to construct Solar
+Tables, by means of which the sun’s place with respect to the
+stars could be correctly found at any time. These tables (as they are
+given by Ptolemy)63 give the Anomaly, or inequality
+of the sun’s motion; and this they exhibit by means of the
+Prosthapheresis, the quantity of which, at any distance of the
+sun from the Apogee, it is requisite to add to or subtract from
+the arc, which he would have described if his motion had been
+equable.
+63 Syntax. 1. iii.
+The reader might perhaps expect that the calculations which thus
+exhibited the motions of the sun for an indefinite future period must
+depend upon a considerable number of observations made at all seasons
+of the year. That, however, was not the case; and the genius of the
+discoverer appeared, as such genius usually does appear, in his
+perceiving how small a number of facts, rightly considered, were
+sufficient to form a foundation for the theory. The number of days
+contained in two seasons of the year sufficed for this purpose to
+Hipparchus. “Having ascertained,” says Ptolemy, “that the time from
+the vernal equinox to the summer tropic is 94½ days, and the time from
+the summer tropic to the autumnal equinox 92½ days, from these
+phenomena alone he demonstrates that the straight line joining the
+centre of the sun’s eccentric path with the centre of the zodiac (the
+spectator’s eye) is nearly the 24th part of the radius of the
+eccentric path; and that 147 its apogee precedes the summer
+solstice by 24½ degrees nearly, the zodiac containing 360.”
+The exactness of the Solar Tables, or Canon, which was
+founded on these data, was manifested, not only by the coincidence of
+the sun’s calculated place with such observations as the Greek
+astronomers of this period were able to make (which were indeed very
+rude), but by its enabling them to calculate solar and lunar eclipses;
+phenomena which are a very precise and severe trial of the accuracy of
+such tables, inasmuch as a very minute change in the apparent place of
+the sun or moon would completely alter the obvious features of the
+eclipse. Though the tables of this period were by no means perfect,
+they bore with tolerable credit this trying and perpetually recurring
+test; and thus proved the soundness of the theory on which the tables
+were calculated.
+The Moon’s Eccentric.—The moon’s motions have many
+irregularities; but when the hypothesis of an Eccentric or an Epicycle
+had sufficed in the case of the sun, it was natural to try to explain,
+in the same way, the motions of the moon; and it was shown by
+Hipparchus that such hypotheses would account for the more obvious
+anomalies. It is not very easy to describe the several ways in which
+these hypotheses were applied, for it is, in truth, very difficult to
+explain in words even the mere facts of the moon’s motion. If she were
+to leave a visible bright line behind her in the heavens wherever she
+moved, the path thus exhibited would be of an extremely complex
+nature; the circle of each revolution slipping away from the
+preceding, and the traces of successive revolutions forming a sort of
+band of net-work running round the middle of the sky.64 In each revolution, the motion in
+longitude is affected by an anomaly of the same nature as the sun’s
+anomaly already spoken of; but besides this, the path of the moon
+deviates from the ecliptic to the north and to the south of the
+ecliptic, and thus she has a motion in latitude. This motion in
+latitude would be sufficiently known if we knew the period of its
+restoration, that is, the time which the moon occupies in
+moving from any latitude till she is restored to the same latitude;
+as, for instance, from the ecliptic on one side of the heavens to the
+ecliptic on the same side of the heavens again. But it is found that
+the period of the restoration of the latitude is not the same as the
+period of the restoration of the longitude, that is, as the period of
+the moon’s revolution among the 148 stars; and thus the moon describes a
+different path among the stars in every successive revolution, and her
+path, as well as her velocity, is constantly variable.
+64 The reader will find an attempt to
+make the nature of this path generally intelligible in the
+Companion to the British Almanac for 1814.
+Hipparchus, however, reduced the motions of the moon to rule and to
+Tables, as he did those of the sun, and in the same manner. He
+determined, with much greater accuracy than any preceding astronomer,
+the mean or average equable motions of the moon in longitude and in
+latitude; and he then represented the anomaly of the motion in
+longitude by means of an eccentric, in the same manner as he had done
+for the sun.
+But here there occurred still an additional change, besides those
+of which we have spoken. The Apogee of the Sun was always in the same
+place in the heavens; or at least so nearly so, that Ptolemy could
+detect no error in the place assigned to it by Hipparchus 250 years
+before. But the Apogee of the Moon was found to have a motion among
+the stars. It had been observed before the time of Hipparchus, that in
+6585⅓ days, there are 241 revolutions of the moon with regard to the
+stars, but only 239 revolutions with regard to the anomaly. This
+difference could be suitably represented by supposing the eccentric,
+in which the moon moves, to have itself an angular motion, perpetually
+carrying its apogee in the same direction in which the moon travels;
+but this supposition being made, it was necessary to determine, not
+only the eccentricity of the orbit, and place of the apogee at a
+certain time, but also the rate of motion of the apogee itself, in
+order to form tables of the moon.
+This task, as we have said, Hipparchus executed; and in this
+instance, as in the problem of the reduction of the sun’s motion to
+tables, the data which he found it necessary to employ were very few.
+He deduced all his conclusions from six eclipses of the moon.65 Three of these, the records of which
+were brought from Babylon, where a register of such occurrences was
+kept, happened in the 366th and 367th years from the era of
+Nabonassar, and enabled Hipparchus to determine the eccentricity and
+apogee of the moon’s orbit at that time. The three others were
+observed at Alexandria, in the 547th year of Nabonassar, which gave
+him another position of the orbit at an interval of 180 years; and he
+thus became acquainted with the motion of the orbit itself, as well as
+its form.66
+65 Ptol. Syn. iv. 10.
+66 Ptolemy uses the hypothesis of an
+epicycle for the moon’s first inequality; but Hipparchus employs an
+eccentric.
+149 The moon’s
+motions are really affected by several other inequalities, of very
+considerable amount, besides those which were thus considered by
+Hipparchus; but the lunar paths, constructed on the above data,
+possessed a considerable degree of correctness, and especially when
+applied, as they were principally, to the calculation of eclipses; for
+the greatest of the additional irregularities which we have mentioned
+disappear at new and full moon, which are the only times when eclipses
+take place.
+The numerical explanation of the motions of the sun and moon, by
+means of the Hypothesis of Eccentrics, and the consequent construction
+of tables, was one of the great achievements of Hipparchus. The
+general explanation of the motions of the planets, by means of the
+hypothesis of epicycles, was in circulation previously, as we have
+seen. But the special motions of the planets, in their epicycles, are,
+in reality, affected by anomalies of the same kind as those which
+render it necessary to introduce eccentrics in the cases of the sun
+and moon.
+Hipparchus determined, with great exactness, the Mean
+Motions of the Planets; but he was not able, from want of data, to
+explain the planetary Irregularities by means of Eccentrics.
+The whole mass of good observations of the planets which he received
+from preceding ages, did not contain so many, says Ptolemy, as those
+which he has transmitted to us of his own. “Hence67 it was,” he
+adds, “that while he labored, in the most assiduous manner to
+represent the motions of the sun and moon by means of equable circular
+motions; with respect to the planets, so far as his works show, he did
+not even make the attempt, but merely put the extant observations in
+order, added to them himself more than the whole of what he received
+from preceding ages, and showed the insufficiency of the hypothesis
+current among astronomers to explain the phenomena.” It appears that
+preceding mathematicians had already pretended to construct “a
+Perpetual Canon,” that is, Tables which should give the places of the
+planets at any future time; but these being constructed without regard
+to the eccentricity of the orbits, must have been very erroneous.
+67 Synt. ix. 2.
+Ptolemy declares, with great reason, that Hipparchus showed his
+usual love of truth, and his right sense of the responsibility of his
+task, in leaving this part of it to future ages. The Theories of the
+Sun and Moon, which we have already described, constitute him a great
+astronomical discoverer, and justify the reputation he has always
+150 possessed.
+There is, indeed, no philosopher who is so uniformly spoken of in
+terms of admiration. Ptolemy, to whom we owe our principal knowledge
+of him, perpetually couples with his name epithets of praise: he is
+not only an excellent and careful observer, but “a68 most
+truth-loving and labor-loving person,” one who had shown extraordinary
+sagacity and remarkable desire of truth in every part of science.
+Pliny, after mentioning him and Thales, breaks out into one of his
+passages of declamatory vehemence: “Great men! elevated above the
+common standard of human nature, by discovering the laws which
+celestial occurrences obey, and by freeing the wretched mind of man
+from the fears which eclipses inspired—Hail to you and to your
+genius, interpreters of heaven, worthy recipients of the laws of the
+universe, authors of principles which connect gods and men!” Modern
+writers have spoken of Hipparchus with the same admiration; and even
+the exact but severe historian of astronomy, Delambre, who bestows his
+praise so sparingly, and his sarcasm so generally;—who says69 that it is unfortunate for the memory
+of Aristarchus that his work has come to us entire, and who cannot
+refer70 to the statement of an eclipse rightly
+predicted by Halicon of Cyzicus without adding, that if the story be
+true, Halicon was more lucky than prudent;—loses all his
+bitterness when he comes to Hipparchus.71 “In Hipparchus,”
+says he, “we find one of the most extraordinary men of antiquity; the
+very greatest, in the sciences which require a combination of
+observation with geometry.” Delambre adds, apparently in the wish to
+reconcile this eulogium with the depreciating manner in which he
+habitually speaks of all astronomers whose observations are inexact,
+“a long period and the continued efforts of many industrious men are
+requisite to produce good instruments, but energy and assiduity depend
+on the man himself.”
+68 Synt. ix. 2.
+69 Astronomie Ancienne, i.
+75.
+70 Ib. i. 17.
+71 Ib. i. 186.
+Hipparchus was the author of other great discoveries and
+improvements in astronomy, besides the establishment of the Doctrine
+of Eccentrics and Epicycles; but this, being the greatest advance in
+the theory of the celestial motions which was made by the
+ancients, must be the leading subject of our attention in the present
+work; our object being to discover in what the progress of real
+theoretical knowledge consists, and under what circumstances it has
+gone on. 151
+Sect. 2.—Estimate of the Value of the Theory of
+Eccentrics and Epicycles.
+It may be useful here to explain the value
+of the theoretical step which Hipparchus thus made; and the more so,
+as there are, perhaps, opinions in popular circulation, which might
+lead men to think lightly of the merit of introducing or establishing
+the Doctrine of Epicycles. For, in the first place, this doctrine is
+now acknowledged to be false; and some of the greatest men in the more
+modern history of astronomy owe the brightest part of their fame to
+their having been instrumental in overturning this hypothesis. And,
+moreover, in the next place, the theory is not only false, but
+extremely perplexed and entangled, so that it is usually looked upon
+as a mass of arbitrary and absurd complication. Most persons are
+familiar with passages in which it is thus spoken of.72
+
+
+.  .  .  .  .   He his
+fabric of the heavens
+Hath left to their disputes, perhaps to
+move
+His laughter at their quaint opinions wide;
+Hereafter, when they come to model heaven
+And calculate the stars, how will they
+wield
+The mighty frame! how build, unbuild,
+contrive,
+To save appearances! how gird the sphere
+With centric and eccentric scribbled o’er,
+Cycle in epicycle, orb in orb!
+
+And every one will recollect the celebrated saying of
+Alphonso X., king of Castile,73 when this
+complex system was explained to him; that “if God had consulted him at
+the creation, the universe should have been on a better and simpler
+plan.” In addition to this, the system is represented as involving an
+extravagant conception of the nature of the orbs which it introduces;
+that they are crystalline spheres, and that the vast spaces which
+intervene between the celestial luminaries are a solid mass, formed by
+the fitting together of many masses perpetually in motion; an
+imagination which is presumed to be incredible and monstrous.
+72 Paradise Lost, viii.
+73a. d.
+1252.
+We must endeavor to correct or remove these prejudices, not only in
+order that we may do justice to the Hipparchian, or, as it is usually
+called, Ptolemaic system of astronomy, and to its founder; but for
+another reason, much more important to the purpose of this work; 152 namely, that we may
+see how theories may be highly estimable, though they contain false
+representations of the real state of things, and may be extremely
+useful, though they involve unnecessary complexity. In the advance of
+knowledge, the value of the true part of a theory may much outweigh
+the accompanying error, and the use of a rule may be little impaired
+by its want of simplicity. The first steps of our progress do not lose
+their importance because they are not the last; and the outset of the
+journey may require no less vigor and activity than its close.
+That which is true in the Hipparchian theory, and which no
+succeeding discoveries have deprived of its value, is the
+Resolution of the apparent motions of the heavenly bodies
+into an assemblage of circular motions. The test of the truth and
+reality of this Resolution is, that it leads to the construction of
+theoretical Tables of the motions of the luminaries, by which their
+places are given at any time, agreeing nearly with their places as
+actually observed. The assumption that these circular motions, thus
+introduced, are all exactly uniform, is the fundamental principle of
+the whole process. This assumption is, it may be said, false; and we
+have seen how fantastic some of the arguments were, which were
+originally urged in its favor. But some assumption is
+necessary, in order that the motions, at different points of a
+revolution, may be somehow connected, that is, in order that we may
+have any theory of the motions; and no assumption more simple than the
+one now mentioned can be selected. The merit of the theory is
+this;—that obtaining the amount of the eccentricity, the place
+of the apogee, and, it may be, other elements, from few
+observations, it deduces from these, results agreeing with
+all observations, however numerous and distant. To express an
+inequality by means of an epicycle, implies, not only that there is an
+inequality, but further,—that the inequality is at its greatest
+value at a certain known place,—diminishes in proceeding from
+that place by a known law,—continues its diminution for a known
+portion of the revolution of the luminary,—then increases again;
+and so on: that is, the introduction of the epicycle represents the
+inequality of motion, as completely as it can be represented with
+respect to its quantity.
+We may further illustrate this, by remarking that such a Resolution
+of the unequal motions of the heavenly bodies into equable circular
+motions, is, in fact, equivalent to the most recent and improved
+processes by which modern astronomers deal with such motions. Their
+universal method is to resolve all unequal motions into a series of
+153 terms,
+or expressions of partial motions; and these terms involve
+sines and cosines, that is, certain technical modes of
+measuring circular motion, the circular motion having some constant
+relation to the time. And thus the problem of the resolution of the
+celestial motions into equable circular ones, which was propounded
+above two thousand years ago in the school of Plato, is still the
+great object of the study of modern astronomers, whether observers or
+calculators.
+That Hipparchus should have succeeded in the first great steps of
+this resolution for the sun and moon, and should have seen its
+applicability in other cases, is a circumstance which gives him one of
+the most distinguished places in the roll of great astronomers. As to
+the charges or the sneers against the complexity of his system, to
+which we have referred, it is easy to see that they are of no force.
+As a system of calculation, his is not only good, but, as we
+have just said, in many cases no better has yet been discovered. If,
+when the actual motions of the heavens are calculated in the best
+possible way, the process is complex and difficult, and if we are
+discontented at this, nature, and not the astronomer, must be the
+object of our displeasure. This plea of the astronomers must be
+allowed to be reasonable. “We must not be repelled,” says Ptolemy,74 “by the complexity of the hypotheses,
+but explain the phenomena as well as we can. If the hypotheses satisfy
+each apparent inequality separately, the combination of them will
+represent the truth; and why should it appear wonderful to any that
+such a complexity should exist in the heavens, when we know nothing of
+their nature which entitles us to suppose that any inconsistency will
+result?”
+74 Synt. xiii. 2.
+But it may be said, we now know that the motions are more simple
+than they were thus represented, and that the Theory of Epicycles was
+false, as a conception of the real construction of the heavens. And to
+this we may reply, that it does not appear that the best astronomers
+of antiquity conceived the cycles and epicycles to have a material
+existence. Though the dogmatic philosophers, as the Aristotelians,
+appear to have taught that the celestial spheres were real solid
+bodies, they are spoken of by Ptolemy as imaginary;75 and it is clear, from his proof of the
+identity of the results of the hypothesis of an eccentric and an
+epicycle, that they are intended to pass for no more than geometrical
+conceptions, in which view they are true representations of the
+apparent motions.
+75 Ibid. iii. 3.
+154 It is true,
+that the real motions of the heavenly bodies are simpler than the
+apparent motions; and that we, who are in the habit of representing to
+our minds their real arrangement, become impatient of the seeming
+confusion and disorder of the ancient hypotheses. But this real
+arrangement never could have been detected by philosophers, if the
+apparent motions had not been strictly examined and successfully
+analyzed. How far the connection between the facts and the true theory
+is from being obvious or easily traced, any one may satisfy himself by
+endeavoring, from a general conception of the moon’s real motions, to
+discover the rules which regulate the occurrences of eclipses; or even
+to explain to a learner, of what nature the apparent motions of the
+moon among the stars will be.
+The unquestionable evidence of the merit and value of the Theory of
+Epicycles is to be found in this circumstance;—that it served to
+embody all the most exact knowledge then extant, to direct astronomers
+to the proper methods of making it more exact and complete, to point
+out new objects of attention and research; and that, after doing this
+at first, it was also able to take in, and preserve, all the new
+results of the active and persevering labors of a long series of
+Greek, Latin, Arabian, and modern European astronomers, till a new
+theory arose which could discharge this office. It may, perhaps,
+surprise some readers to be told, that the author of this next
+great step in astronomical theory, Copernicus, adopted the
+theory of epicycles; that is, he employed that which we have spoken of
+as its really valuable characteristic. “We76 must confess,”
+he says, “that the celestial motions are circular, or compounded of
+several circles, since their inequalities observe a fixed law and
+recur in value at certain intervals, which could not be, except that
+they were circular; for a circle alone can make that which has been,
+recur again.”
+76 Copernicus. De Rev. 1. i. c.
+4.
+In this sense, therefore, the Hipparchian theory was a real and
+indestructible truth, which was not rejected, and replaced by
+different truths, but was adopted and incorporated into every
+succeeding astronomical theory; and which can never cease to be one of
+the most important and fundamental parts of our astronomical
+knowledge.
+A moment’s reflection will show that, in the events just spoken of,
+the introduction and establishment of the Theory of Epicycles, those
+characteristics were strictly exemplified, which we have asserted to
+be the conditions of every real advance in progressive science;
+namely, 155 the
+application of distinct and appropriate Ideas to a real series of
+Facts. The distinctness of the geometrical conceptions which enabled
+Hipparchus to assign the Orbits of the Sun and Moon, requires no
+illustration; and we have just explained how these ideas combined into
+a connected whole the various motions and places of those luminaries.
+To make this step in astronomy, required diligence and care, exerted
+in collecting observations, and mathematical clearness and steadiness
+of view, exercised in seeing and showing that the theory was a
+successful analysis of them.
+Sect. 3.—Discovery of the Precession of the
+Equinoxes.
+The same qualities which we trace in the
+researches of Hipparchus already examined,—diligence in
+collecting observations, and clearness of idea in representing
+them,—appear also in other discoveries of his, which we must not
+pass unnoticed. The Precession of the Equinoxes, in particular, is one
+of the most important of these discoveries.
+The circumstance here brought into notice was a Change of Longitude
+of the Fixed Stars. The longitudes of the heavenly bodies, being
+measured from the point where the sun’s annual path cuts the equator,
+will change if that path changes. Whether this happens, however, is
+not very easy to decide; for the sun’s path among the stars is made
+out, not by merely looking at the heavens, but by a series of
+inferences from other observable facts. Hipparchus used for this
+purpose eclipses of the moon; for these, being exactly opposite to the
+sun, afford data in marking out his path. By comparing the eclipses of
+his own time with those observed at an earlier period by Timocharis,
+he found that the bright star, Spica Virginis, was six degrees behind
+the equinoctial point in his own time, and had been eight degrees
+behind the same point at an earlier epoch. The suspicion was thus
+suggested, that the longitudes of all the stars increase perpetually;
+but Hipparchus had too truly philosophical a spirit to take this for
+granted. He examined the places of Regulus, and those of other stars,
+as he had done those of Spica; and he found, in all these instances, a
+change of place which could be explained by a certain alteration of
+position in the circles to which the stars are referred, which
+alteration is described as the Precession of the Equinoxes.
+The distinctness with which Hipparchus conceived this change of
+relation of the heavens, is manifested by the question which, as we
+are told by Ptolemy, he examined and decided;—that this motion
+of the 156 heavens
+takes place about the poles of the ecliptic, and not about those of
+the equator. The care with which he collected this motion from the
+stars themselves, may be judged of from this, that having made his
+first observations for this purpose on Spica and Regulus, zodiacal
+stars, his first suspicion was that the stars of the zodiac alone
+changed their longitude, which suspicion he disproved by the
+examination of other stars. By his processes, the idea of the nature
+of the motion, and the evidence of its existence, the two conditions
+of a discovery, were fully brought into view. The scale of the facts
+which Hipparchus was thus able to reduce to law, may be in some
+measure judged of by recollecting that the precession, from his time
+to ours, has only carried the stars through one sign of the zodiac;
+and that, to complete one revolution of the sky by the motion thus
+discovered, would require a period of 25,000 years. Thus this
+discovery connected the various aspects of the heavens at the most
+remote periods of human history; and, accordingly, the novel and
+ingenious views which Newton published in his chronology, are founded
+on this single astronomical fact, the Precession of the Equinoxes.
+The two discoveries which have been described, the mode of
+constructing Solar and Lunar Tables, and the Precession, were advances
+of the greatest importance in astronomy, not only in themselves, but
+in the new objects and undertakings which they suggested to
+astronomers. The one discovery detected a constant law and order in
+the midst of perpetual change and apparent disorder; the other
+disclosed mutation and movement perpetually operating where every
+thing had been supposed fixed and stationary. Such discoveries were
+well adapted to call up many questionings in the minds of speculative
+men; for, after this, nothing could be supposed constant till it had
+been ascertained to be so by close examination; and no apparent
+complexity or confusion could justify the philosopher in turning away
+in despair from the task of simplification. To answer the inquiries
+thus suggested, new methods of observing the facts were requisite,
+more exact and uniform than those hitherto employed. Moreover, the
+discoveries which were made, and others which could not fail to follow
+in their train, led to many consequences, required to be reasoned
+upon, systematized, completed, enlarged. In short, the Epoch of
+Induction led, as we have stated that such epochs must always
+lead, to a Period of Development, of Verification,
+Application, and Extension. 157</div></body></text></TEI>

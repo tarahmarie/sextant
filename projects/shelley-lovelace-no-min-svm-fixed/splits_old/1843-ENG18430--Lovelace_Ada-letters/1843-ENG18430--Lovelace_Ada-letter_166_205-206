@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 205-206</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 205-206.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1843">undated (estimated from box 166 date range)</date>
+          <note type="place">St. James' Square</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 205-206</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_205-206.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>St James' Sqre 2 o'clock Friday</p>
+      <p>Dearest. I wrote ou a line, you dearest of the Bird's heart, to tell ou of my sad disappointment. Ou letter has been sent off from here to Acton by post. Think of it!!! But the coachman is to go on your mare &amp; get it, &amp; send it by mail,</p>
+      <p>tonight in a parcel. The poor bird nearly burst into tears, she felt so grieved at the moment.-- She loves ou more &amp; more, &amp; feels the blessing of ou, &amp; how undeserving she is of it.--</p>
+      <p>All is well &amp; happy, &amp; we have had luncheon with the Byrons.-- Yesterday I saw Lady G Murray, who mentioned</p>
+      <p>the disagreeable scene between you &amp; Emily, so I told her the whole history. She says she does not believe the Queen ever wrote to E, any more than Lady Charlemont, &amp; that that part of her tale bears falsehood on its face, to her mind at least.-- Lady G Fare has been bothering Miss Murray I find about it I must go.--</p>
+      <p>Birdie</p>
+    </div></body>
+  </text>
+</TEI>

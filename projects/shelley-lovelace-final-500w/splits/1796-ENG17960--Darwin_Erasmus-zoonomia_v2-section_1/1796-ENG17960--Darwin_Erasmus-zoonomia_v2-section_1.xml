@@ -1,0 +1,163 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Zoonomia Vol II</title><author>Darwin, Erasmus (1731-1802)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1796</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="1">PREFACE.
+All diseases originate in the exuberance, deficiency, or retrograde
+  action, of the faculties of the sensorium, as their proximate cause; and
+  consist in the disordered motions of the fibres of the body, as the
+  proximate effect of the exertions of those disordered faculties.
+The sensorium possesses four distinct powers, or faculties, which are
+  occasionally exerted, and produce all the motions of the fibrous parts of
+  the body; these are the faculties of producing fibrous motions in
+  consequence of irritation which is excited by external bodies; in
+  consequence of sensation which is excited by pleasure or pain; in
+  consequence of volition which is excited by desire or aversion; and in
+  consequence of association which is excited by other fibrous motions. We
+  are hence supplied with four natural classes of diseases derived from
+  their proximate causes; which we shall term those of irritation, those of
+  sensation, those of volition, and those of association.
+In the subsequent classification of diseases I have not adhered to the
+  methods of any of those, who have preceded me; the principal of whom are
+  the great names of Sauvages and Cullen; but have nevertheless availed
+  myself, as much as I could, of their definitions and distinctions.
+The essential characteristic of a disease consists in its proximate
+  cause, as is well observed by Doctor Cullen, in his Nosologia Methodica,
+  T. ii. Prolegom. p. xxix. Similitudo quidem morborum in similitudine
+  caus� eorum proxim�, qualiscunque sit, rever� consistit. I have taken the
+  proximate cause for the classic character. The characters of the orders
+  are taken from the excess, or deficiency, or retrograde action, or other
+  properties of the proximate cause. The genus is generally derived from
+  the proximate effect. And the species generally from the locality of the
+  disease in the system.
+Many species in this system are termed genera in the systems of other
+  writers; and the species of those writers are in consequence here termed
+  varieties. Thus in Dr. Cullen's Nosologia the variola or small-pox is
+  termed a genus, and the distinct and confluent kinds are termed species.
+  But as the infection from the distinct kind frequently produces the
+  confluent kind, and that of the confluent kind frequently produces the
+  distinct; it would seem more analogous to botanical arrangement, which
+  these nosologists profess to imitate, to call the distinct and confluent
+  small-pox varieties than species. Because the species of plants in
+  botanical systems propagate others similar to themselves; which does not
+  uniformly occur in such vegetable productions as are termed
+  varieties.
+In some other genera of nosologists the species have no analogy to
+  each other, either in respect to their proximate cause, or to their
+  proximate effect, though they may he somewhat similar in less essential
+  properties; thus the thin and saline discharge from the nostrils on going
+  into the cold air of a frosty morning, which is owing to the deficient
+  action of the absorbent vessels of the nostrils, is one species; and the
+  viscid mucus discharged from the secerning vessels of the same membrane,
+  when inflamed, is another species of the same genus, Catarrhus. Which
+  bear no analogy either in respect to their immediate cause or to their
+  immediate effect.
+The uses of the method here offered to the public of classing diseases
+  according to their proximate causes are, first, more distinctly to
+  understand their nature by comparing their essential properties.
+  Secondly, to facilitate the knowledge of the methods of cure; since in
+  natural classification of diseases the species of each genus, and indeed
+  the genera of each order, a few perhaps excepted, require the same
+  general medical treatment. And lastly, to discover the nature and the
+  name of any disease previously unknown to the physician; which I am
+  persuaded will be more readily and more certainly done by this natural
+  system, than by the artificial classifications already published.
+The common names of diseases are not well adapted to any kind of
+  classification, and least of all to this from their proximate causes.
+  Some of their names in common language are taken from the remote cause,
+  as worms, stone of the bladder; others from the remote effect, as
+  diarrhœa, salivation, hydrocephalus; others from some accidental
+  symptom of the disease, as tooth-ach, head-ach, heart-burn; in which the
+  pain is only a concomitant circumstance of the excess or deficiency of
+  fibrous actions, and not the cause of them. Others again are taken from
+  the deformity occasioned in consequence of the unnatural fibrous motions,
+  which constitute diseases, as tumours, eruptions, extenuations; all these
+  therefore improperly give names to diseases; and some difficulty is thus
+  occasioned to the reader in endeavouring to discover to what class such
+  disorders belong.
+Another difficulty attending the names of diseases is, that one name
+  frequently includes more than one disease, either existing at the same
+  time or in succession. Thus the pain of the bowels from worms is caused
+  by the increased action of the membrane from the stimulus of those
+  animals; but the convulsions, which sometimes succeed these pains in
+  children, are caused by the consequent volition, and belong to another
+  class.
+To discover under what class any disease should be arranged, we must
+  first investigate the proximate cause; thus the pain of the tooth-ach is
+  not the cause of any diseased motions, but the effect; the tooth-ach
+  therefore does not belong to the class of Sensation. As the pain is
+  caused by increased or decreased action of the membranes of the tooth,
+  and these actions are owing to the increase or decrease of irritation,
+  the disease is to be placed in the class of irritation.
+To discover the order it must be inquired, whether the pain be owing
+  to increased or defective motion of the pained membrane; which is known
+  by the concomitant heat or coldness of the part. In tooth-ach without
+  inflammation there is generally a coldness attends the cheek in its
+  vicinity; as may be perceived by the hand of the patient himself,
+  compared with the opposite cheek. Hence odontalgia is found to belong to
+  the order of decreased irritation. The genus and species must be found by
+  inspecting the synopsis of the second order of the class of Irritation.
+  See Class I. 2. 4. 12.
+This may be further elucidated by considering the natural operation of
+  parturition; the pain is occasioned by the increased action or distention
+  of the vessels of the uterus, in consequence of the stimulus of the
+  fetus; and is therefore caused by increased irritation; but the action of
+  the abdominal muscles in its exclusion are caused by the pain, and belong
+  to the class of increased sensation. See Class II. 1. 1. 12. Hence the difficulty of
+  determining, under what class of diseases parturition should be arranged,
+  consists in there being two kinds of diseased actions comprehended under
+  one word; which have each their different proximate cause.
+In Sect. XXXIX. 8. 4. and in Class II. 1.
+  1. 1. we have endeavoured to give names to four links of animal
+  causation, which conveniently apply to the classification of diseases;
+  thus in common nictitation, or winking with the eyes without our
+  attention to it, the increased irritation is the proximate cause; the
+  stimulus of the air on the dry cornea is the remote cause; the closing of
+  the eyelid is the proximate effect; and the diffusion of tears over the
+  eye-ball is the remote effect. In some cases two more links of causation
+  may be introduced; one of them may be termed the pre-remote cause; as the
+  warmth or motion of the atmosphere, which causes greater exhalation from
+  the cornea. And the other the post-remote effect; as the renewed
+  pellucidity of the cornea; and thus six links of causation may be
+  expressed in words.
+But if amid these remote links of animal causation any of the four
+  powers or faculties of the sensorium be introduced, the reasoning is not
+  just according to the method here proposed; for these powers of the
+  sensorium are always the proximate causes of the contractions of animal
+  fibres; and therefore in true language cannot be termed their remote
+  causes. From this criterion it may always be determined, whether more
+  diseases than one are comprehended under one name; a circumstance which
+  has much impeded the investigation of the causes, and cures of
+  diseases.
+Thus the term fever, is generally given to a collection of morbid
+  symptoms; which are indeed so many distinct diseases, that sometimes
+  appear together, and sometimes separately; hence it has no determinate
+  meaning, except it signifies simply a quick pulse, which continues for
+  some hours; in which sense it is here used.
+In naming diseases I have endeavoured to avoid the affectation of
+  making new compound Greek words, where others equally expressive could be
+  procured: as a short periphrasis is easier to be understood, and less
+  burthensome to the memory.
+In the Methodus Medendi, which is marked by M.M. at the end of many of
+  the species of diseases, the words incitantia, sorbentia, torpentia,
+  &c. refer to the subsequent articles of the Materia Medica,
+  explaining the operations of medicines.
+The remote causes of many diseases, their periods, and many
+  circumstances concerning them, are treated of in the preceding volume;
+  the descriptions of many of them, which I have omitted for the sake of
+  brevity, may be seen in the Nosologia Methodica of Sauvages, and in the
+  Synopsis Nosologi� of Dr. Cullen, and in the authors to which they
+  refer.
+In this arduous undertaking the author solicits the candour of the
+  critical reader; as he cannot but foresee, that many errors will be
+  discovered, many additional species will require to be inserted; and
+  others to be transplanted, or erased. If he could expend another forty
+  years in the practice of medicine, he makes no doubt, but that he could
+  bring this work nearer perfection, and thence render it more worthy the
+  attention of philosophers.——As it is, he is induced to hope,
+  that some advantages will be derived from it to the science of medicine,
+  and consequent utility to the public, and leaves the completion of his
+  plan to the industry of future generations.
+
+
+Derby, Jan. 1, 1796.
+
+
+
+</div></body></text></TEI>

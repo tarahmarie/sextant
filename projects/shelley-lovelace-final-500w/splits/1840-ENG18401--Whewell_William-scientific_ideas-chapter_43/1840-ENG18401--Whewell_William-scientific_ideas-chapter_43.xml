@@ -1,0 +1,150 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Philosophy of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="43">
+
+CHAPTER II.
+Of the Connexion of Polarities.
+
+
+
+1. IT
+has appeared in the preceding chapter that in cases in
+which the phenomena suggest to us the idea of Polarity, we
+are also led to assume some material machinery as the mode
+in which the polar forces are exerted. We assume, for
+instance, globular particles which possess poles, or the
+vibrations of a fluid, or two fluids attracting each other;
+in every case, in short, some hypothesis by which the
+existence and operation of the Polarity is embodied in
+geometrical and mechanical properties of a medium; nor is it
+possible for us to avoid proceeding upon the conviction that
+some such hypothesis must be true; although the nature of
+the connexion between the mechanism and the phenomena must
+still be indefinite and arbitrary.
+But since each class of Polar Phenomena is thus referred to
+an ulterior cause, of which we know no more than that it has
+a polar character, it follows that different
+Polarities may result from the same cause
+manifesting its polar character under different aspects.
+Taking, for example, the hypothesis of globular particles,
+if electricity result from an action dependent upon the
+poles of each globule, magnetism may depend upon an
+action in the equator of each globule; or taking
+the supposition of transverse vibrations, if polarized light
+result directly from such vibrations,
+crystallization may have reference to the axes of
+the elasticity of the medium by which the
+vibrations are rendered transverse,—so far as the polar
+character only of the phenomena is to be accounted for. I
+say this may be so, in so far only as the
+polar character of the phenomena is concerned; for whether
+the relation of 372 electricity to magnetism, or of
+crystalline forces to light, can really be explained by such
+hypotheses, remains to be determined by the facts
+themselves. But since the first necessary feature of the
+hypothesis is, that it shall give polarity, and since an
+hypothesis which does this, may, by its mathematical
+relations, give polarities of different kinds and in
+different directions, any two co-existent kinds of polarity
+may result from the same cause, manifesting itself in
+various manners.
+The conclusion to which we are led by these general
+considerations is, that two co-existing classes of polar
+phenomena may be effects of the same cause. But
+those who have studied such phenomena more deeply and
+attentively have, in most or in all cases, arrived at the
+conviction that the various kinds of Polarity in such cases
+must be connected and fundamentally identical. As
+this conviction has exercised a great influence, both upon
+the discoveries of new facts and upon the theoretical
+speculations of modern philosophers, and has been put
+forward by some writers as a universal principle of science,
+I will consider some of the cases in which it has been thus
+applied.
+2. Connexion of Magnetic and Electric Polarity.—The
+polar phenomena of electricity and magnetism are clearly
+analogous in their laws: and obvious facts showed at an
+early period that there was some connexion between the two
+agencies. Attempts were made to establish an evident and
+definite relation between the two kinds of force, which
+attempts proceeded upon the principle now under
+consideration;—namely, that in such cases, the two kinds of
+Polarity must be connected. Professor Œrsted, of Copenhagen,
+was one of those who made many trials founded upon this
+conviction: yet all these were long unsuccessful. At length,
+in 1820, he discovered that a galvanic current, passing at
+right angles near to a magnetic needle, exercises upon it a
+powerful deflecting force. The connexion once detected
+between magnetism and galvanism was soon recognized as
+constant and universal. It was represented in different
+hypothetical modes by different persons; some considering
+the galvanic 373 current as the primitive axis, and the
+magnet as constituted of galvanic currents passing round it
+at right angles to the magnetic axis; while others conceived
+the magnetic axis as the primitive one, and the electric
+current as implying a magnetic current round the wire. So
+far as many of the general relations of these two kinds of
+force were concerned, either mode of representation served
+to express them; and thus the assumption that the two
+Polarities, the magnetic and the electric, were
+fundamentally identical, was verified, so far as the
+phenomena of magnetic attraction, and the like, were
+concerned.
+I need not here mention how this was further confirmed by
+the experiments in which, by means of the forces thus
+brought into view, a galvanic wire was made to revolve round
+a magnet, and a magnet round a galvanic wire;—in which
+artificial magnets were constructed of coils of galvanic
+wire;—and finally, in which the galvanic spark was obtained
+from the magnet. The identity which sagacious speculators
+had divined even before it was discovered, and which they
+had seen to be universal as soon as it was brought to light,
+was completely manifested in every imaginable form.
+The relation of the electric and magnetic Polarities was
+found to be, that they were transverse to each
+other, and this relation exhibited under various conditions
+of form and position of the apparatus, gave rise to very
+curious and unexpected perplexities. The degree of
+complication which this relation may occasion, may be judged
+of from the number of constructions and modes of conception
+offered by Œrsted, Wollaston, Faraday, and others, for the
+purpose of framing a technical memory of the results. The
+magnetic polarity gives us the north and south poles of the
+needle; the electric polarity makes the current positive and
+negative; and these pairs of opposites are connected by
+relations of situation, as above and below, right and left;
+and give rise to the resulting motion of the needle one way
+or the other. 374
+3. Ampère, by framing his hypotheses of the action of
+voltaic currents and the constitution of magnets, reduced
+all these technical rules to rigorous deductions from one
+general principle. And thus the vague and obscure persuasion
+that there must be some connexion between
+Electricity and Magnetism, so long an idle and barren
+conjecture, was unfolded into a complete theory, according
+to which magnetic and electromotive actions are only two
+different manifestations of the same forces; and all the
+above-mentioned complex relations of polarities are reduced
+to one single polarity, that of the electro-dynamic current.
+4. As the Idea of Polarity was thus firmly established and
+clearly developed, it became an instrument of reasoning.
+Thus it led Ampère to maintain that the original or
+elementary forces in electro-dynamic action could not be as
+M. Biot thought they were, a statical couple, but
+must be directly opposite to each other. The same idea
+enabled Mr. Faraday to carry on with confidence such
+reasonings as the following8: ‘No other known power has
+like direction with that exerted between an electric current
+and a magnetic pole; it is tangential, while all other
+forces acting at a distance are direct. Hence if a magnetic
+pole on one side of a revolving plate follow its course by
+reason of its obedience to the tangential force exerted upon
+it by the very current of electricity which it has itself
+caused; a similar pole on the other side of the plate should
+immediately set it free from this force; for the currents
+which have to be formed by the two poles are in contrary
+directions.’ And in Article 1114 of his Researches,
+the same eminent philosopher infers that if electricity and
+magnetism are considered as the results of a peculiar agent
+or condition, exerted in determinate directions
+perpendicular to each other, one must be by some means
+convertible into the other; and this he was afterwards able
+to prove to be the case in fact.</div></body></text></TEI>

@@ -1,0 +1,45 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Temple of Nature</title><author>Darwin, Erasmus (1731-1802)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1803</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="2">(p. 002) CONTENTS.
+I. Subject proposed.
+Life, Love, and Sympathy 1.
+Four past Ages, a fifth beginning 9.
+Invocation to Love 15.
+II. Bowers of Eden, Adam and Eve 33.
+Temple of Nature 65.
+Time chained by Sculpture 75.
+Proteus bound by Menelaus 83.
+Bowers of Pleasure 89.
+School of Venus 97.
+Court of Pain 105.
+Den of Oblivion 113.
+Muse of Melancholy 121.
+Cave of Trophonius 125.
+Shrine of Nature 129.
+Eleusinian Mysteries 137.
+III.
+Morning 155.
+Procession of Virgins 159.
+Address to the Priestess 167.
+Descent of Orpheus into Hell 185.
+IV. Urania 205.
+God the First Cause 223.
+Life began beneath the Sea 233.
+Repulsion, Attraction, Contraction, Life 235.
+Spontaneous Production of Minute Animals 247.
+Irritation, Appetency 251.
+Life enlarges the Earth 265.
+Sensation, Volition, Association 269.
+Scene in the Microscope; Mucor, Monas, Vibrio, Vorticella, Proteus, Mite 281.
+V. Vegetables and Animals improve by Reproduction 295.
+Have all arisen from Microscopic Animalcules 303.
+Rocks of Shell and Coral 315.
+Islands and Continents raised by Earthquakes 321.
+Emigration of Animals from the Sea 327.
+Trapa 335.
+Tadpole, Musquito 343.
+Diodon, Lizard, Beaver, Lamprey, Remora, Whale 351.
+Venus rising from the Sea, emblem of Organic Nature 371.
+All animals are first Aquatic 385.
+Fetus in the Womb 389.
+Animals from the Mud of the Nile 401.
+The Hierophant and Muse 421-450.
+</div></body></text></TEI>

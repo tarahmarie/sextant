@@ -1,0 +1,511 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Economy of Machinery and Manufactures</title><author>Babbage, Charles (1791-1871)</author></titleStmt><publicationStmt><publisher>Charles Knight</publisher><pubPlace>London</pubPlace><date>1832</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="30">Chapter 30
+On Combinations Amongst Masters or Workmen against Each Other
+353. There exist amongst the workmen of almost all classes,
+certain rules or laws which govern their actions towards each
+other, and towards their employers. But, besides these general
+principles, there are frequently others peculiar to each factory,
+which have derived their origin, in many instances, from the
+mutual convenience of the parties engaged in them. Such rules are
+little known except to those actually pursuing the several
+trades; and, as it is of importance that their advantages and
+disadvantages should be canvassed, we shall offer a few remarks
+upon some of them.
+354. The principles by which such laws should be tried are,
+First. That they conduce to the general benefit of all the
+persons employed.
+Secondly. That they prevent fraud.
+Thirdly. That they interfere as little as possible with the
+free agency of each individual.
+355. It is usual in many workshops, that, on the first
+entrance of a new journeyman, he shall pay a small fine to the
+rest of the men. It is clearly unjust to insist upon this
+payment; and when it is spent in drinking, which is,
+unfortunately, too often the case, it is injurious. The reason
+assigned for the demand is, that the newcomer will require some
+instruction in the habits of the shop, and in the places of the
+different tools, and will thus waste the time of some of his
+companions until he is instructed. If this fine were added to a
+fund, managed by the workmen themselves, and either divided at
+given periods, or reserved for their relief in sickness, it would
+be less objectionable, since its tendency would be to check the
+too frequent change of men from one shop to another. But it
+ought, at all events, not to be compulsory, and the advantages to
+be derived from the fund to which the workman is invited to
+subscribe, ought to be his sole inducement to contribute.
+356. In many workshops, the workmen, although employed on
+totally different parts of the objects manufactured, are yet
+dependent, in some measure, upon each other. Thus a single smith
+may be able to forge, in one day, work enough to keep four or
+five turners employed during the next. If, from idleness or
+intemperance, the smith neglects his work, and does not furnish
+the usual supply, the turners (supposing them to be paid by the
+piece), will have their time partly unoccupied, and their gains
+consequently diminished. It is reasonable, in such circumstances,
+that a fine should be levied on the delinquent; but it is
+desirable that the master should have concurred with his workmen
+in establishing such a rule, and that it should be shown to each
+individual previously to his engagement; and it is very desirable
+that such fine should not be spent in drinking.
+357. In some establishments, it is customary for the master
+to give a small gratuity whenever any workman has exercised a
+remarkable degree of skill, or has economized the material
+employed. Thus, in splitting horn into layers for lanterns, one
+horn usually furnishes from five to eight layers; but if a
+workman split the horn into ten layers or more, he receives a
+pint of ale from the master. These premiums should not be too
+high, lest the material should be wasted in unsuccessful
+attempts: but such regulations, when judiciously made, are
+beneficial, as they tend to produce skill amongst the workmen,
+profit to the masters, and diminished cost to the consumers.
+358. In some few factories, in which the men are paid by the
+piece, it is usual, when any portion of work, delivered in by a
+workman, is rejected by the master on account of its being badly
+executed, to fine the delinquent. Such a practice tends to remedy
+one of the evils attendant upon that mode of payment, and greatly
+assists the master, since his own judgement is thus supported by
+competent and unprejudiced judges.
+359. Societies exist amongst some of the larger bodies of
+workmen, and others have been formed by the masters engaged in
+the same branches of trade. These associations have different
+objects in view; but it is very desirable that their effects
+should be well understood by the individuals who compose them;
+and that the advantages arising from them, which are certainly
+great, should be separated as much as possible from the evils
+which they have, unfortunately, too frequently introduced.
+Associations of workmen and of masters may, with advantage, agree
+upon rules to be observed by both parties, in estimating the
+proportionate value of different kinds of work executed in their
+trade, in order that time may be saved, and disputes be
+prevented. They may also be most usefully employed in acquiring
+accurate information as to the number of persons working in the
+various departments of any manufacture, their rate of wages, the
+number of machines in use, and other statistical details.
+Information of this nature is highly valuable, both for the
+guidance of the parties who are themselves most interested, and
+to enable them, upon any application to government for
+assistance, or with a view to legislative enactments, to supply
+those details, without which the propriety of any proposed
+measure cannot be duly estimated. Such details may be collected
+by men actually engaged in any branch of trade, at a much smaller
+expense of time, than by persons less acquainted with, and less
+interested in it.
+360. One of the most legitimate and most important objects of
+such associations as we have just mentioned, is to agree upon
+ready and certain modes of measuring the quantity of work done by
+the workmen. For a long time a difficulty upon this point existed
+in the lace trade, which was justly complained of by the men as a
+serious grievance; but the introduction of the rack, which counts
+the number of holes in the length of the piece, has entirely put
+an end to the most fertile cause of disputes. This invention was
+adverted to by the Committee of 1812, and a hope was expressed,
+in their report, that the same contrivance would be applied to
+stocking-frames. It would, indeed, be of great mutual advantage
+to the industrious workman, and to the master manufacturer in
+every trade, if the machines employed in it could register the
+quantity of work which they perform, in the same manner as a
+steam-engine does the number of strokes it makes. The
+introduction of such contrivances gives a greater stimulus to
+honest industry than can readily be imagined, and removes one of
+the sources of disagreement between parties, whose real interests
+must always suffer by any estrangement between them.
+361. The effects arising from combinations amongst the
+workmen, are almost always injurious to the parties themselves.
+There are numerous instances, in which the public suffer by
+increased price at the moment, but are ultimately gainers from
+the permanent reduction which results; whilst, on the other hand,
+the improvements which are often made in machinery in consequence
+of 'a strike' amongst the workmen, most frequently do injury, of
+greater or less duration, to that particular class which gave
+rise to them. As the injury to the men and to their families is
+almost always more serious than that which affects their
+employers, it is of the utmost importance to the comfort and
+happiness of the former class, that they should themselves
+entertain sound views upon this question. For this purpose a few
+illustrations of the principle which is here maintained, will
+probably have greater weight than any reasoning of a more general
+nature, though drawn from admitted principles of political
+economy. Such instances will, moreover, present the advantage of
+appealing to facts known to many individuals of those classes for
+whose benefit these reflections are intended.
+362. There is a process in the manufacture of gun barrels for
+making what, in the language of the trade, are called skelps. The
+skelp is a piece or bar of iron, about three feet long, and four
+inches wide, but thicker and broader at one end than at the
+other; and the barrel of a musket is formed by forging out such
+pieces to the proper dimensions, and then folding or bending them
+into a cylindrical form, until the edges overlap, so that they
+can be welded together.
+About twenty years ago, the workmen, employed at a very
+extensive factory in forging these skelps out of bar-iron,
+'struck' for an advance of wages; and as their demands were very
+exorbitant, they were not immediately complied with. In the
+meantime, the superintendent of the establishment directed his
+attention to the subject; and it occurred to him, that if the
+circumference of the rollers, between which the bar-iron was
+rolled, were to be made equal to the length of a skelp, or of a
+musket barrel, and if also the groove in which the iron was
+compressed, instead of being of the same width and depth
+throughout, were cut gradually deeper and wider from a point on
+the rollers, until it returned to the same point, then the
+bar-iron passing between such rollers, instead of being uniform
+in width and thickness, would have the form of a skelp. On making
+the trial, it was found to succeed perfectly; a great reduction
+of human labour was effected by the process, and the workmen who
+had acquired peculiar skill in performing it ceased to derive any
+advantage from their dexterity.
+363. It is somewhat singular that another and a still more
+remarkable instance of the effect of combination amongst workmen,
+should have occurred but a few years since in the very same
+trade. The process of welding the skelps, so as to convert them
+into gun barrels, required much skill, and after the termination
+of the war, the demand for muskets having greatly diminished, the
+number of persons employed in making them was very much reduced.
+This circumstance rendered combination more easy; and upon one
+occasion, when a contract had been entered into for a
+considerable supply to be delivered on a fixed day, the men all
+struck for such an advance of wages as would have caused the
+completion of the contract to be attended with a very heavy loss.
+In this difficulty, the contractors resorted to a mode of
+welding the gun barrel, for which a patent had been taken out by
+one of themselves some years before this event. The plan had not
+then succeeded so well as to come into general use, in
+consequence of the cheapness of the usual mode of welding by hand
+labour, combined with some other difficulties with which the
+patentee had to contend. But the stimulus produced by the
+combination of the workmen, induced him to make new trials, and
+he was enabled to introduce such a facility in welding gun
+barrels by rollers, and such perfection in the work itself, that,
+in all probability, very few will in future be welded by hand
+labour.
+This new process consisted in folding a bar of iron, about a
+foot long, into the form of a cylinder, with the edges a little
+overlapping. It was then placed in a furnace, and being taken out
+when raised to a welding heat, a triblet, or cylinder of iron,
+was placed in it, and the whole was passed quickly through a pair
+of rollers. The effect of this was, that the welding was
+performed at a single heating, and the remainder of the
+elongation necessary for extending the skelps to the length of
+the musket barrel, was performed in a similar manner, but at a
+lower temperature. The workmen who had combined were, of course,
+no longer wanted, and instead of benefiting themselves by their
+combination, they were reduced permanently, by this improvement
+in the art, to a considerably lower rate of wages: for as the
+process of welding gun barrels by hand required peculiar skill
+and considerable experience, they had hitherto been in the habit
+of earning much higher wages than other workmen of their class.
+On the other hand, the new method of welding was far less
+injurious to the texture of the iron, which was now exposed only
+once, instead of three or four times, to the welding heat, so
+that the public derived advantage from the superiority, as well
+as from the economy of the process. Another process has
+subsequently been invented, applicable to the manufacture of a
+lighter kind of iron tubes, which can thus be made at a price
+which renders their employment very general. They are now to be
+found in the shops of all our larger ironmongers, of various
+lengths and diameters, with screws cut at each end; and are in
+constant use for the conveyance of gas for lighting, or of water
+for warming, our houses.
+364. Similar examples must have presented themselves to all
+those who are familiar with the details of our
+manufactories, but these are sufficient to illustrate one of
+the results of combinations. It would not, however, be fair
+to push the conclusion deduced from these instances to its
+extreme limit. Although it is very apparent, that in the two
+cases which have been stated, the effects of combination
+were permanently injurious to the workman, by almost
+immediately placing him in a lower class (with respect to
+his wages) than he occupied before; yet they do not prove
+that all such combinations have this effect. It is quite
+evident that they have all this tendency, it is also certain
+that considerable stimulus must be applied to induce a man
+to contrive a new and expensive process; and that in both
+these cases, unless the fear of pecuniary loss had acted
+powerfully, the improvement would not have been made. If,
+therefore, the workmen had in either case combined for only
+a small advance of wages, they would, in all probability,
+have been successful, and the public would have been
+deprived, for many years, of the inventions to which these
+combinations gave rise. It must, however, be observed, that
+the same skill which enabled the men to obtain, after long
+practice, higher wages than the rest of their class, would
+prevent many of them from being permanently thrown back into
+the class of ordinary workmen. Their diminished wages will
+continue only until they have acquired, by practice, a
+facility of execution in some other of the more difficult
+operations: but a diminution of wages, even for a year or
+two, is still a very serious inconvenience to any person who
+lives by his daily exertion. The consequence of combination
+has then, in these instances, been, to the workmen who
+combined—reduction of wages; to the public -reduction of
+price; and to the manufacturer increased sale of his
+commodity, resulting from that reduction.
+365. It is, however, important to consider the effects of
+combination in another and less obvious point of view. The fear
+of combination amongst the men whom he employs, will have a
+tendency to induce the manufacturer to conceal from his workmen
+the extent of the orders he may at any time have received; and,
+consequently, they will always be less acquainted with the extent
+of the demand for their labour than they otherwise might be. This
+is injurious to their interests; for instead of foreseeing, by
+the gradual falling-off in the orders, the approach of a time
+when they must be unemployed, and preparing accordingly, they are
+liable to much more sudden changes than those to which they would
+otherwise be exposed.
+In the evidence given by Mr Galloway, the engineer, he
+remarks, that,
+"When employers are competent to show their men that their
+business is steady and certain, and when men find that they are
+likely to have permanent employment, they have always better
+habits, and more settled notions, which will make them better
+men, and better workmen, and will produce great benefits to all
+who are interested in their employment."
+366. As the manufacturer, when he makes a contract, has no
+security that a combination may not arise amongst the workmen,
+which may render that contract a loss instead of a benefit;
+besides taking precautions to prevent them from becoming
+acquainted with it, he must also add to the price at which he
+could otherwise sell the article, some small increase to cover
+the risk of such an occurrence. If an establishment consist of
+several branches which can only be carried on jointly, as, for
+instance, of iron mines, blast furnaces, and a colliery, in which
+there are distinct classes of workmen, it becomes necessary to
+keep on hand a larger stock of materials than would be required,
+if it were certain that no combinations would arise.
+Suppose, for instance, the colliers were to 'strike' for an
+advance of wages—unless there was a stock of coal above ground,
+the furnaces must be stopped, and the miners also would be thrown
+out of employ. Now the cost of keeping a stock of iron ore, or of
+coals above ground, is just the same as that of keeping in a
+drawer, unemployed, its value in money, (except, indeed, that the
+coal suffers a small deterioration by exposure to the elements).
+The interest of this sum must, therefore, be considered as the
+price of an insurance against the risk of combination amongst the
+workmen; and it must, so far as it goes, increase the price of
+the manufactured article, and, consequently, limit the demand
+which would otherwise exist for it. But every circumstance which
+tends to limit the demand, is injurious to the workmen; because
+the wider the demand, the less it is exposed to fluctuation.
+The effect to which we have alluded, is by no means a
+theoretical conclusion; the proprietors of one establishment in
+the iron trade, within the author's knowledge, think it expedient
+always to keep above ground a supply of coal for six months,
+which is, in that instance, equal in value to about L10,000. When
+we reflect that the quantity of capital throughout the country
+thus kept unemployed merely from the fear of combinations amongst
+the workmen, might, under other circumstances, be used for
+keeping a larger number at work, the importance of introducing a
+system in which there should exist no inducement to combine
+becomes additionally evident.
+367. That combinations are, while they last, productive of
+serious inconveniences to the workmen themselves, is admitted by
+all parties; and it is equally true, that, in most cases, a
+successful result does not leave them in so good a condition as
+they were in before 'the strike'. The little capital they
+possessed, which ought to have been hoarded with care for days of
+illness or distress, is exhausted; and frequently, in order to
+gratify a pride, at the existence of which we cannot but rejoice,
+even whilst we regret its misdirected energy, they will undergo
+the severest privations rather than return to work at their
+former wages. With many of the workmen, unfortunately, during
+such periods, bad habits are formed which it is very difficult to
+eradicate; and, in all those engaged in such transactions, the
+kinder feelings of the heart are chilled, and passions are called
+into action which are permanently injurious to the happiness of
+the individual, and destructive of those sentiments of confidence
+which it is equally the interest of the master manufacturer and
+of his workman to maintain. If any of the trade refuse to join in
+the strike, the majority too frequently forget, in the excitement
+of their feelings, the dictates of justice, and endeavour to
+exert a species of tyranny, which can never be permitted to exist
+in a free country. In conceding therefore to the working classes,
+that they have a right, if they consider it expedient, to combine
+for the purpose of procuring higher wages (provided always, that
+they have completed all their existing contracts), it ought ever
+to be kept before their attention, that the same freedom which
+they claim for themselves they are bound to allow to others, who
+may have different views of the advantages of combination. Every
+effort which reason and kindness can dictate, should be made, not
+merely to remove their grievances, but to satisfy their own
+reason and feelings, and to show them the consequences which will
+probably result from their conduct: but the strong arm of the
+law, backed, as in such cases it will always be, by public
+opinion, should be instantly and unhesitatingly applied, to
+prevent them from violating the liberty of a portion of their
+own, or of any other class of society.
+368. Amongst the evils which ultimately fall heavy on the
+working classes themselves, when, through mistaken views, they
+attempt to interfere with their employers in the mode of carrying
+on their business, may be mentioned the removal of factories to
+other situations, where the proprietors may be free from the
+improper control of their men. The removal of a considerable
+number of lace frames to the western counties, which took place,
+in consequence of the combinations in Nottinghamshire, has
+already been mentioned. Other instances have occurred, where
+still greater injury has been produced by the removal of a
+portion of the skill and capital of the country to a foreign
+land. Such was the case at Glasgow, as stated in the fifth
+Parliamentary Report respecting Artizans and Machinery. One of
+the partners in an extensive cotton factory, disgusted by the
+unprincipled conduct of the workmen, removed to the state of New
+York, where he re-established his machinery, and thus afforded,
+to rivals already formidable to our trade, at once a pattern of
+our best machinery, and an example of the most economical methods
+of employing it.
+369. When the nature of the work is such that it is not
+possible to remove it, as happens with regard to mines, the
+proprietors are more exposed to injury from combinations amongst
+the workmen: but as the owners are generally possessed of a
+larger capital, they generally succeed, if the reduction of wages
+which they propose is really founded on the necessity of the
+case.
+An extensive combination lately existed amongst the colliers
+in the north of England, which unfortunately led, in several
+instances, to acts of violence. The proprietors of the coalmines
+were consequently obliged to procure the aid of miners from other
+parts of England who were willing to work at the wages they could
+afford to give; and the aid of the civil, and in some cases of
+the military, power, was requisite for their protection. This
+course was persisted in during several months, and the question
+being, which party could support itself longest on the diminished
+gains, as it might have readily been foreseen, the proprietors
+ultimately succeeded.
+370. One of the remedies employed by the masters against the
+occurrence of combinations, is to make engagements with their men
+for long periods and to arrange them in such a manner, that these
+contracts shall not all terminate together. This has been done in
+some cases at Sheffield, and in other places. It is attended with
+the inconvenience to the masters that, during periods when the
+demand for their produce is reduced, they are still obliged to
+employ the same number of workmen. This circumstance, however,
+frequently obliges the proprietors to direct their attention to
+improvements in their works: and in one such instance, within the
+author's knowledge, a large reservoir was deepened, thus
+affording a more constant supply to the water-wheel, whilst, at
+the same time, the mud from the bottom gave permanent fertility
+to a piece of land previously almost barren. In this case, not
+merely was the supply of produce checked, when a glut existed.
+but the labour was, in fact, applied more profitably than it
+would have been in the usual course.
+371. A mode of paying the wages of workmen in articles which
+they consume, has been introduced into some of our manufacturing
+districts, which has been called the truck system. As in many
+instances this has nearly the effect of a combination of the
+masters against the men, it is a fit subject for discussion in
+the present chapter: but it should be carefully distinguished
+from another system of a very different tendency, which will be
+first described.
+372. The principal necessaries for the support of a workman
+and his family are few in number, and are usually purchased by
+him in small quantities weekly. Upon such quantities, sold by the
+retail dealer, a large profit is generally made; and if the
+article is one whose quality, like that of tea, is not readily
+estimated, then a great additional gain is made by the retail
+dealer selling an inferior article.
+Where the number of workmen living on the same spot is large,
+it may be thought desirable that they should unite together and
+have an agent, to purchase by wholesale those articles which are
+most in demand, as tea, suger, bacon, etc., and to retail them at
+prices, which will just repay the wholesale cost, together with
+the expense of the agent who conducts their sale. If this be
+managed wholly by a committee of workmen, aided perhaps by advice
+from the master, and if the agent is paid in such a manner as to
+have himself an interest in procuring good and reasonable
+articles, it may be a benefit to the workmen: and if the plan
+succeed in reducing the cost of articles of necessity to the men,
+it is clearly the interest of the master to encourage it. The
+master may indeed be enabled to afford them facilities in making
+their wholesale purchases; but he ought never to have the least
+interest in, or any connection with, the profit made by the
+articles sold. The men, on the other hand, who subscribe to set
+up the shop, ought not, in the slightest degree, to be compelled
+to make their purchases there: the goodness and cheapness of the
+article ought to be their sole inducements.
+It may perhaps be objected, that this plan is only employing
+a portion of the capital belonging to the workmen in a retail
+trade; and that, without it, competition amongst small
+shopkeepers will reduce the articles to nearly the same price.
+This objection would be valid if the objects of consumption
+required no verification; but combining what has been already
+stated on that subject(1*) with the present argument, the plan
+seems liable to no serious objections.
+373. The truck system is entirely different in its effects.
+The master manufacturer keeps a retail shop for articles required
+by his men, and either pays their wages in goods, or compels them
+by express agreement, or less directly, by unfair means, to
+expend the whole or a certain part of their wages at his shop. If
+the manufacturer kept this shop merely for the purpose of
+securing good articles, at fair prices, to his workmen, and if he
+offered no inducement to them to purchase at his shop, except the
+superior cheapness of his articles, it would certainly be
+advantageous to the men. But, unfortunately, this is not always
+the case; and the temptation to the master, in times of
+depression, to reduce in effect the wages which he pays (by
+increasing the price of articles at his shop), without altering
+the nominal rate of payment, is frequently too great to be
+withstood. If the object be solely to procure for his workmen
+better articles, it will be more effectually accomplished by the
+master confining himself to supplying a small capital, at a
+moderate rate of interest; leaving the details to be conducted by
+a committee of workmen, in conjunction with his own agent, and
+the books of the shop to be audited periodically by the men
+themselves.
+374. Wherever the workmen are paid in goods, or are compelled
+to purchase at the master's shop, much injustice is done to them,
+and great misery results from it. Whatever may have been the
+intentions of the master in such cases, the real effect is, to
+deceive the workman as to the amount he receives in exchange for
+his labour. Now, the principles on which the happiness of that
+class of society depends, are difficult enough to be understood,
+even by those who are blessed with far better opportunities of
+investigating them: and the importance of their being well
+acquainted with those principles which relate to themselves, is
+of more vital consequence to workmen, than to many other classes.
+It is therefore highly desirable to assist them in comprehending
+the position in which they are placed, by rendering all the
+relations in which they stand to each other, and to their
+employers, as simple as possible. Workmen should be paid entirely
+in money; their work should be measured by some unbiassed, some
+unerring piece of mechanism; the time during which they are
+employed should be defined, and punctually adhered to. The
+payments they make to their benefit societies should be fixed on
+such just principles, as not to require extraordinary
+contributions. In short, the object of all who wish to promote
+their happiness should be, to give them, in the simplest form,
+the means of knowing beforehand, the sum they are likely to
+acquire by their labour, and the money they will be obliged to
+expend for their support: thus putting before them, in the
+clearest light, the certain result of persevering industry.
+375. The cruelty which is inflicted on the workman by the
+payment of his wages in goods, is often very severe. The little
+purchases necessary for the comfort of his wife and children,
+perhaps the medicines he occasionally requires for them in
+illness, must all be made through the medium of barter; and he is
+obliged to waste his time in arranging an exchange, in which the
+goods which he has been compelled to accept for his labour are
+invariably taken at a lower price than that at which his master
+charged them to him. The father of a family perhaps, writhing
+under the agonies of the toothache, is obliged to make his hasty
+bargain with the village surgeon, before he will remove the cause
+of his pain; or the disconsolate mother is compelled to sacrifice
+her depreciated goods in exchange for the last receptacle of her
+departed offspring. The subjoined evidence from the Report of the
+Committee of the House of Commons on Framework Knitters'
+Petitions, shows that these are not exaggerated statements.
+It has been so common in our town to pay goods instead of
+money, that a number of my neighbours have been obliged to pay
+articles for articles, to pay sugar for drugs out of the
+druggist's shop; and others have been obliged to pay sugar for
+drapery goods, and such things, and exchange in that way numbers
+of times. I was credibly informed, that one person paid half a
+pound of tenpenny sugar and a penny to have a tooth drawn; and
+there is a credible neighbour of mine told me, that he had heard
+that the sexton had been paid for digging a grave with sugar and
+tea: and before I came off, knowing I had to give evidence upon
+these things, I asked this friend to enquire of the sexton,
+whether this was a fact: the sexton hesitated for a little time,
+on account of bringing into discredit the person who paid these
+goods: however, he said at last, 'I have received these articles
+repeatedly—I know these things have been paid to a great extent
+in this way.'
+NOTES:
+1. See Chapter XV, p. 87</div></body></text></TEI>

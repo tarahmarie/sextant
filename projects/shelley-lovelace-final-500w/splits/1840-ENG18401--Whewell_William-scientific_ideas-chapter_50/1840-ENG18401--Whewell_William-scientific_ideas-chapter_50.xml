@@ -1,0 +1,85 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Philosophy of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="50">
+
+CHAPTER IV.
+Application of the Idea of Substance in Chemistry.
+
+
+1. A Body is Equal to the Sum of its Elements.—From the earliest periods of chemistry the balance has
+been familiarly used to determine the proportions of
+the ingredients and of the compound; and soon after
+the middle of the last century, this practice was so
+studiously followed, that Wenzel and Richter were
+thereby led to the doctrine of Definite Proportions.
+But yet the full value and significance of the balance,
+as an indispensable instrument in chemical researches,
+was not understood till the gaseous, as well as solid
+and fluid ingredients were taken into the account.
+When this was done, it was found that the principle,
+that the whole is equal to the sum of its parts, of
+which, as we have seen, the necessary truth, in such
+cases, flows from the idea of substance, could be applied
+in the most rigorous manner. And conversely, it was
+found that by the use of the balance, the chemist
+could decide, in doubtful cases, which was a whole, and
+which were parts.
+For chemistry considers all the changes which belong
+to her province as compositions and decompositions of
+elements; but still the question may occur, whether an
+observed change be the one or the other. How can we
+distinguish whether the process which we contemplate
+be composition or decomposition?—whether the new
+body be formed by addition of a new, or subtraction of
+an old element? Again; in the case of decomposition,
+we may inquire, What are the ultimate limits of our
+analysis? If we decompound bodies into others more
+and more simple, how far can we carry this succession 40 of processes? How far can we proceed in the road of
+analysis? And in our actual course, what evidence
+have we that our progress, as far as it has gone, has
+carried us from the more complex to the more simple?
+To this we reply, that the criterion which enables
+us to distinguish, decidedly and finally, whether our
+process have been a mere analysis of the proposed body
+into its ingredients, or a synthesis of some of them with
+some new element, is the principle stated above, that
+the weight of the whole is equal to the weight of
+all the parts. And no process of chemical analysis or
+synthesis can be considered complete till it has been
+verified by this fact;—by finding that the weight of the
+compound is the weight of its supposed ingredients; or,
+that if there be an element which we think we have
+detached from the whole, its loss is betrayed by a corresponding diminution of weight.
+I have already noticed what an important part this
+principle has played in the great chemical controversy
+which ended in the establishment of the oxygen theory.
+The calcination of a metal was decided to be the union
+of oxygen with the metal, and not the separation of
+phlogiston from it, because it was found that in the process of calcination, the weight of the metal increased,
+and increased exactly as much as the weight of ambient
+air diminished. When oxygen and hydrogen were exploded together, and a small quantity of water was
+produced, it was held that this was really a synthesis
+of water, because, when very great care was taken
+with the process, the weight of the water which resulted
+was equal to the weight of the gases which disappeared.
+2. Lavoisier.—It was when gases came to be considered as entering largely into the composition of
+liquid and solid bodies, that extreme accuracy in weighing was seen to be so necessary to the true understanding of chemical processes. It was in this manner
+discovered by Lavoisier and his contemporaries that
+oxygen constitutes a large ingredient of calcined metals,
+of acids, and of water. A countryman of Lavoisier30 41 has not only given most just praise to that great philosopher for having constantly tested all his processes
+by a careful and skilful use of the balance, but has also
+claimed for him the merit of having introduced the
+maxim, that in chemical operations nothing is created
+and nothing lost. But I think it is impossible to
+deny that this maxim is assumed in all the attempts at
+analysis made by his contemporaries, as well as by him.
+This maxim is indeed included in any clear notion of
+analysis: it could not be the result of the researches of
+any one chemist, but was the governing principle of
+the reasonings of all. Lavoisier, however, employed
+this principle with peculiar assiduity and skill. In
+applying it, he does not confine himself to mere additions and subtractions of the quantities of ingredients;
+but often obtains his results by more complex processes. In one of his investigations he says, ‘I may
+consider the ingredients which are brought together,
+and the result which is obtained as an algebraical equation; and if I successively suppose each of the quantities of this equation to be unknown, I can obtain its
+value from the rest: and thus I can rectify the experiment by the calculation, and the calculation by the experiment. I have often taken advantage of this
+method, in order to correct the first results of my experiments, and to direct me in repeating them with
+proper precautions.’</div></body></text></TEI>

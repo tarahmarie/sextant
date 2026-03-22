@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 141-142</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 141-142.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1843">undated (estimated from box 166 date range)</date>
+          <note type="place">Ockham</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 141-142</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_141-142.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Ockham Satdy. 12 o'clock</p>
+      <p>Dearest W. I am obliged to send up to Town on purpose, in consequence of Madme de Ste A's statement received this morning; &amp; which is of such a nature, that I think it proper to inform Dr Lushington, Mr Wharton, &amp; Mr Murray, without delay. You know what it</p>
+      <p>is to have complicated &amp; humerous letters to write (under pressure too for time) in such an affair as this.</p>
+      <p>You will therefore understand that my brain is at this moment in no enviable state; &amp; that I can only do the necessary, &amp; not add to it by now explaining to you fully.</p>
+      <p>Bertraud is the name of Madme de Ste A's servant.</p>
+      <p>I have sent her</p>
+      <p>statement to my mother, or you should have it.--</p>
+      <p>It is most likely, I think, that it will be now wished I &amp; Madme de Ste A-- should negotiate about an arbitraton.</p>
+      <p>Best could not return here today; which he much regretted.--</p>
+      <p>I wish this damned affair (that is indeed the only suitable or proper adjective) were over. It swallows up all my energies &amp; peace; &amp; I</p>
+      <p>scarcely manage to keep patience &amp; composure with anything or anybody.</p>
+    </div></body>
+  </text>
+</TEI>

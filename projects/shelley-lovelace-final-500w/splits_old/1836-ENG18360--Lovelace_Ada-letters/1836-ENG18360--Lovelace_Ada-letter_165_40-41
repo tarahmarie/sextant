@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 40-41</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 40-41.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1836">29 April [1836]</date>
+          <note type="place">St. James's Square</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 40-41</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_40-41.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>St. James' Square 1/4 to 6 o'clock. Fridy. 29th April.</p>
+      <p>My Dearest Mate. We have just returned from the dear Hen's, &amp; found her up in the drawing room &amp; seeming tolerably well. The drive has given me a slight pain in my back, and it makes me a little sorry to think this is probably the last time I shall see her before I am myself a Hen, since she has no prospect of a house near Town, &amp; I must go to Acton no</p>
+      <p>more.--</p>
+      <p>Charlotte was here this morning &amp; we three walked to the Panorama. I managed with their advice &amp; assistance to cross both [crossed out: the] Regent St &amp; the Haymarket very safely &amp; almost comfortably, and think myself quite a heroine in consequence. I was delighted with Luna &amp; I also sent them up to see Thebes, which is too much in the skies for me to attempt.</p>
+      <p>Lady Anne is engaged to the Ancient Court on Wednesdy the 4th, but Mr Wilbraham will come. Also Lord &amp; Lady Byron have accepted. I have not yet had Lady Mary's answer.</p>
+      <p>This evening I write to Dr Mayo &amp; Mr Murchison, the latter of whom is in Town without his wife. I think we shall have men enough for me to venture on asking the Murrays.-- Shall I ask Lord Courtenay? And do you think of any one else? I have begged Lady Mary to invite Lord Ebrington.</p>
+      <p>Mrs Somerville was very agreeable yesterday evening.--</p>
+      <p>I have seen two butlers this morning, both rather likely to do, &amp; they are to call &amp; see you on Thursdy Morning. I have had letters</p>
+      <p>from the others, but do not like the style.--</p>
+      <p>The Bird is very much in love with ou, &amp; watches anxiously for the post in the morning. Pray ou little bird.--</p>
+      <p>The Hen assured me that at the Charing Cross Post Office, I can get letters in till near 7 o'clock, &amp; made me stay longer with her in consequence. I hope she is not [??? (the rest of the line is illegible)] deceitful. She was amused at the Bird's being in a hurry to get back &amp; write to its mate.</p>
+      <p>I send you two newspapers, &amp; deserve to be pecked at for forgetting yesterday.</p>
+      <p>Ou very affectionate A. A. K.</p>
+    </div></body>
+  </text>
+</TEI>

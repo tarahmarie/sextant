@@ -1,0 +1,198 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="106">CHAPTER II.
+Epoch of Romé De Lisle and Haüy.—Establishment
+of the Fixity of Crystalline Angles, and the Simplicity of the Laws of
+Derivation.
+WE have already seen that,
+before 1780, several mineralogists had recognized the constancy of the
+angles of crystals, and had seen (as Démeste and Werner,) that the
+forms were subject to modifications of a definite kind. But neither of
+these two thoughts was so apprehended and so developed, as to
+supersede the occasion for a discoverer who should put forward these
+principles as what they really were, the materials of a new and
+complete science. The merit of this step belongs jointly to Romé de
+Lisle and to Haüy. The former of these two men had already, in 1772,
+published an Essai de Crystallographie, in which he had
+described a number of crystals. But in this work his views are still
+rude and vague; he does not establish any connected sequence of
+transitions in each kind of substance, and lays little or no stress on
+the angles. But in 1783, his ideas16 had reached a
+maturity which, by comparison, excites our admiration. In this he
+asserts, in the most distinct manner, the invariability of
+the angles of crystals of each kind, under all the changes of relative
+dimension which the faces may undergo;17 and he points
+out that this invariability applies only to the primitive
+forms, from each of which many secondary forms are derived by
+various changes.18 Thus we cannot deny him the merit of
+having taken steady hold on both the handles of this discovery, though
+something still remained for another to do. Romé pursues his general
+ideas into detail with great labor and skill. He gives drawings of
+more than five hundred regular forms (in his first work he had
+inserted only one hundred and ten; Linnæus only knew forty); and
+assigns them to their proper substances; for instance, thirty to
+calcspar, and sixteen to felspar. He also invented and used a
+goniometer. We cannot doubt that he would have been 321 looked upon as a
+great discoverer, if his fame had not been dimmed by the more
+brilliant success of his contemporary Haüy.
+16 Cristallographie, ou
+Description de Formes propres à tous les Corps du Règne Minéral. 3
+vols. and 1 vol. of plates.
+17 p. 68.
+18 p. 73.
+Réné-Just Haüy is rightly looked upon as the founder of the modern
+school of crystallography; for all those who have, since him, pursued
+the study with success, have taken his views for their basis. Besides
+publishing a system of crystallography and of mineralogy, far more
+complete than any which had yet appeared, the peculiar steps in the
+advance which belong to him are, the discovery of the importance of
+cleavage, and the consequent expression of the laws of
+derivation of secondary from primary forms, by means of the
+decrements of the successive layers of integrant
+molecules.
+The latter of these discoveries had already been, in some measure,
+anticipated by Bergman, who had, in 1773, conceived a hexagonal prism
+to be built up by the juxtaposition of solid rhombs on the planes of a
+rhombic nucleus.19 It is not clear20 whether Haüy
+was acquainted with Bergman’s Memoir, at the time when the cleavage of
+a hexagonal prism of calcspar, accidentally obtained, led him to the
+same conception of its structure. But however this might be, he had
+the indisputable credit of following out this conception with all the
+vigor of originality, and with the most laborious and persevering
+earnestness; indeed he made it the business of his life. The
+hypothesis of a solid, built up of small solids, had this peculiar
+advantage in reference to crystallography; it rendered a reason of
+this curious fact;—that a certain series of forms occur in
+crystals of the same kind, while other forms, apparently intermediate
+between those which actually occur, are rigorously excluded. The
+doctrine of decrements explained this; for by placing a number of
+regularly-decreasing rows of equal solids, as, for instance, of
+bricks, upon one another, we might form a regular equal-sided
+triangle, as the gable of a house; and if the breadth of the gable
+were one hundred bricks, the height of the triangle might be one
+hundred, or fifty, or twenty-five; but it would be found that if the
+height were an intermediate number, as fifty-seven, or forty-three,
+the edge of the wall would become irregular; and such irregularity is
+assumed to be inadmissible in the regular structure of crystals. Thus
+this mode of conceiving crystals allows of certain definite secondary
+forms, and no others.
+19 De Formis Crystallorum.
+Nov. Act. Reg. Soc. Sc. Ups. 1773.
+20 Traité de Minér. 1822, i.
+15.
+The mathematical deduction of the dimensions and proportions 322 of these secondary
+forms;—the invention of a notation to express them;—the
+examination of the whole mineral kingdom in accordance with these
+views;—the production of a work21 in which they
+are explained with singular clearness and vivacity;—are services
+by which Haüy richly earned the admiration which has been bestowed
+upon him. The wonderful copiousness and variety of the forms and laws
+to which he was led, thoroughly exercised and nourished the spirit of
+deduction and calculation which his discoveries excited in him. The
+reader may form some conception of the extent of his labors, by being
+told—that the mere geometrical propositions which he found it
+necessary to premise to his special descriptions, occupy a volume and
+a half of his work;—that his diagrams are nearly a thousand in
+number;—that in one single substance (calcspar) he has described
+forty-seven varieties of form;—and that he has described one
+kind of crystal (called by him fer sulfuré parallélique) which
+has one hundred and thirty-four faces.
+21 Traité de Minéralogie,
+1801, 5 vols.
+In the course of a long life, he examined, with considerable care,
+all the forms he could procure of all kinds of mineral; and the
+interpretation which he gave of the laws of those forms was, in many
+cases, fixed, by means of a name applied to the mineral in which the
+form occurred; thus, he introduced such names as équiaxe,
+métastatique, unibinaire, perihexahèdre,
+bisalterne, and others. It is not now desirable to apply
+separate names to the different forms of the same mineral species, but
+these terms answered the purpose, at the time, of making the subjects
+of study more definite. A symbolical notation is the more convenient
+mode of designating such forms, and such a notation Haüy invented; but
+the symbols devised by him had many inconveniences, and have since
+been superseded by the systems of other crystallographers.
+Another of Haüy’s leading merits was, as we have already intimated,
+to have shown, more clearly than his predecessors had done, that the
+crystalline angles of substances are a criterion of the substances;
+and that this is peculiarly true of the angles of
+cleavage;—that is, the angles of those edges which are
+obtained by cleaving a crystal in two different directions;—a
+mode of division which the structure of many kinds of crystals allowed
+him to execute in the most complete manner. As an instance of the
+employment of this criterion, I may mention his separation of the
+sulphates of baryta and strontia, which had 323 previously been confounded. Among
+crystals which in the collections were ranked together as “heavy
+spar,” and which were so perfect as to admit of accurate measurement,
+he found that those which were brought from Sicily, and those of
+Derbyshire, differed in their cleavage angle by three degrees and a
+half. “I could not suppose,” he says,22 “that this
+difference was the effect of any law of decrement; for it would have
+been necessary to suppose so rapid and complex a law, that such an
+hypothesis might have been justly regarded as an abuse of the theory.”
+He was, therefore, in great perplexity. But a little while previous to
+this, Klaproth had discovered that there is an earth which, though in
+many respects it resembles baryta, is different from it in other
+respects; and this earth, from the place where it was found (in
+Scotland), had been named Strontia. The French chemists had
+ascertained that the two earths had, in some cases, been mixed or
+confounded; and Vauquelin, on examining the Sicilian crystals, found
+that their base was strontia, and not, as in the Derbyshire ones,
+baryta. The riddle was now read; all the crystals with the larger
+angle belong to the one, all those with the smaller, to the other, of
+these two sulphates; and crystallometry was clearly recognized as an
+authorized test of the difference of substances which nearly resemble
+each other.
+22 Traité, ii. 320.
+Enough has been said, probably, to enable the reader to judge how
+much each of the two persons, now under review, contributed to
+crystallography. It would be unwise to compare such contributions to
+science with the great discoveries of astronomy and chemistry; and we
+have seen how nearly the predecessors of Romé and Haüy had reached the
+point of knowledge on which these two crystallographers took their
+stand. But yet it is impossible not to allow, that in these
+discoveries, which thus gave form and substance to the science of
+crystallography, we have a manifestation of no common sagacity and
+skill. Here, as in other discoveries, were required ideas and
+facts;—clearness of geometrical conception which could deal with
+most complex relations of form; a minute and extensive acquaintance
+with actual crystals; and the talent and habit of referring these
+facts to the general ideas. Haüy, in particular, was happily endowed
+for his task. Without being a great mathematician, he was sufficiently
+a geometer to solve all the problems which his undertaking demanded;
+and though the mathematical reasoning might have been made more
+compendious 324 by
+one who was more at home in mathematical generalization, probably this
+could hardly have been done without making the subject less accessible
+and less attractive to persons moderately disciplined in mathematics.
+In all his reasonings upon particular cases, Haüy is acute and clear;
+while his general views appear to be suggested rather by a lively
+fancy than by a sage inductive spirit: and though he thus misses the
+character of a great philosopher, the vivacity of style, and felicity
+and happiness of illustration, which grace his book, and which agree
+well with the character of an Abbé of the old French monarchy, had a
+great and useful influence on the progress of the subject.
+Unfortunately Romé de Lisle and Haüy were not only rivals, but in
+some measure enemies. The former might naturally feel some vexation at
+finding himself, in his later years (he died in 1790), thrown into
+shade by his more brilliant successor. In reference to Haüy’s use of
+cleavage, he speaks23 of “innovators in crystallography, who
+may properly be called crystalloclasts.” Yet he adopted, in
+great measure, the same views of the formation of crystals by
+laminæ,24 which Haüy illustrated by the
+destructive process at which he thus sneers. His sensitiveness was
+kept alive by the conduct of the Academy of Sciences, which took no
+notice of him and his labors;25 probably
+because it was led by Buffon, who disliked Linnæus, and might dislike
+Romé as his follower; and who, as we have seen, despised crystallography. Haüy revenged
+himself by rarely mentioning Romé in his works, though it was manifest
+that his obligations to him were immense; and by recording his errors
+while he corrected them. More fortunate than his rival, Haüy was, from
+the first, received with favor and applause. His lectures at Paris
+were eagerly listened to by persons from all quarters of the world.
+His views were, in this manner, speedily diffused; and the subject was
+soon pursued, in various ways, by mathematicians and mineralogists in
+every country of Europe.
+23 Pref. p. xxvii.
+24 T. ii. p. 21.
+25 Marx. Gesch. d. Cryst.
+130.
+</div></body></text></TEI>

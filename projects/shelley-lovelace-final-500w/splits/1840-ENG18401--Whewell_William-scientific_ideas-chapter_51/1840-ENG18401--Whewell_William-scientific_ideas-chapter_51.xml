@@ -1,0 +1,108 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Philosophy of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="51">
+
+CHAPTER V.
+The Atomic Theory.
+
+
+1. The Atomic Theory considered on Chemical
+Grounds.—We have already seen that the combinations which result from chemical affinity are definite, a
+certain quantity of one ingredient uniting, not with
+an uncertain, but with a certain quantity of another
+ingredient. But it was found, in addition to this principle, that one ingredient would often unite with
+another in different proportions, and that, in such
+cases, these proportions are multiples one of another.
+In the three salts formed by potassa with oxalic acid,
+the quantities of acid which combine with the same
+quantity of alkali are exactly in the proportion of the
+numbers 1, 2, 4. And the same rule of the existence of multiple proportions is found to obtain in other
+cases.
+It is obvious that such results will be accounted for,
+if we suppose that the base and the acid consist each of
+numerous definite equal particles, and that the formation of the salts above mentioned consists in the combination of one particle of the base with one particle of
+acid, with two particles of acid, and with four particles
+of acid, respectively. But further; as we have already
+stated, chemical affinity is not only definite, but reciprocal. The proportions of potassa and soda which form
+neutral salts being 590 and 391 in one case, they are so
+in all cases. These numbers represent proportions of
+weight in which the two bases, potassa and soda, enter
+into analogous combinations; 590 of potassa is equivalent to 391 of soda. These facts with regard to combination are still expressed by the above supposition
+of equal particles, assuming that the weights of a 49 particle of potassa and of soda are in the proportion
+of 590 to 391.
+But we pursue our analysis further. We find that
+potassa is a compound of a metallic base, potassium,
+and of oxygen, in the proportion of 490 to 100; we
+suppose, then, that the particle of potassa consists of
+a particle of potassium and a particle of oxygen; and
+these latter particles, since we see no present need to
+suppose them divided, potassium and oxygen being
+simple bodies, we may call atoms, and assume to be
+indivisible. And by supposing all simple bodies to
+consist of such atoms, and compounds to be formed by
+the union of two, or three, or more of such atoms, we
+explain the occurrence of definite and multiple proportions, and we construct the Atomic Theory.
+2. Hypothesis of Atoms.—So far as the assumption
+of such atoms as we have spoken of serves to express
+those laws of chemical composition which we have
+referred to, it is a clear and useful generalization. But
+if the Atomic Theory be put forwards (and its author,
+Dr. Dalton, appears to have put it forwards with such
+an intention,) as asserting that chemical elements are
+really composed of atoms, that is, of such particles not
+further divisible, we cannot avoid remarking, that for
+such a conclusion, chemical research has not afforded,
+nor can afford, any satisfactory evidence whatever.
+The smallest observable quantities of ingredients, as
+well as the largest, combine according to the laws of
+proportions and equivalence which have been cited
+above. How are we to deduce from such facts any
+inference with regard to the existence of certain smallest possible particles? The Theory, when dogmatically taught as a physical truth, asserts that all observable quantities of elements are composed of proportional numbers of particles which can no further
+be subdivided; but all which observation teaches us is,
+that if there be such particles, they are smaller than
+the smallest observable quantities. In chemical experiment, at least, there is not the slightest positive
+evidence for the existence of such atoms. The assumption of indivisible particles, smaller than the smallest 50 observable, which combine, particle with particle, will
+explain the phenomena; but the assumption of particles bearing this proportion, but not possessing the
+property of indivisibility, will explain the phenomena
+at least equally well. The decision of the question,
+therefore, whether the Atomic Hypothesis be the proper way of conceiving the chemical combinations of
+substances, must depend, not upon chemical facts, but
+upon our conception of Substance. In this sense the
+question is an ancient and curious controversy, and
+we shall hereafter have to make some remarks upon it.
+3. Chemical Difficulties of the Hypothesis.—But
+before doing this, we may observe that there is no
+small difficulty in reconciling this hypothesis with the
+facts of chemistry. According to the theory, all salts,
+compounded of an acid and a base, are analogous in
+their atomic constitution; and the number of atoms in
+one such compound being known or assumed, the
+number of atoms in other salts may be determined.
+But when we proceed in this course of reasoning to
+other bodies, as metals, we find ourselves involved in
+difficulties. The protoxide of iron is a base which,
+according to all analogy, must consist of one atom of
+iron and one of oxygen: but the peroxide of iron is
+also a base, and it appears by the analysis of this substance that it must consist of two-thirds of an atom of
+iron and one atom of oxygen. Here, then, our indivisible atoms must be divisible, even upon chemical
+grounds. And if we attempt to evade this difficulty
+by making the peroxide of iron consist of two atoms of
+iron and three of oxygen, we have to make a corresponding alteration in the theoretical constitution of
+all bodies analogous to the protoxide; and thus we
+overturn the very foundation of the theory. Chemical
+facts, therefore, not only do not prove the Atomic
+Theory as a physical truth, but they are not, according
+to any modification yet devised of the theory, reconcileable with its scheme.
+Nearly the same conclusions result from the attempts to employ the Atomic Hypothesis in expressing another important chemical law;—the law of the 51 combinations of gases according to definite proportions
+of their volumes, experimentally established by Gay
+Lussac40. In order to account for this law, it has been
+very plausibly suggested that all gases, under the same
+pressure, contain an equal number of atoms in the
+same space; and that when they combine, they unite
+atom to atom. Thus one volume of chlorine unites
+with one volume of hydrogen, and forms hydrochloric
+acid41. But then this hydrochloric acid occupies the
+space of the two volumes; and therefore the proper
+number of particles cannot be supplied, and the uniform distribution of atoms in all gases maintained,
+without dividing into two each of the compound particles, constituted of an atom of chlorine and an atom of
+hydrogen. And thus in this case, also, the Atomic
+Theory becomes untenable if it be understood to imply
+the indivisibility of the atoms.</div></body></text></TEI>

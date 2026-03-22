@@ -1,0 +1,305 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="60">CHAPTER VI.
+Problem of Different Modes of Vibration of Bodies in
+General.
+NOT only the objects of which
+we have spoken hitherto, strings and pipes, but almost all bodies are
+capable of vibration. Bells, gongs, tuning-forks, are examples of
+solid bodies; drums and tambourines, of membranes; if we run a wet
+finger along the edge of a glass goblet, we throw the fluid which it
+contains into a regular vibration; and the various character which
+sounds possess according to the room in which they are uttered, shows
+that large masses of air have peculiar modes of vibration. Vibrations
+are generally accompanied by sound, and they may, therefore, be
+considered as acoustical phenomena, especially as the sound is one of
+the most decisive facts in indicating the mode of vibration. Moreover,
+every body of this kind can vibrate in many different ways, the
+vibrating segments being divided by Nodal Lines and Surfaces of
+various form and number. The mode of vibration, selected by the body
+in each case, is determined by the way in which it is held, the way in
+which it is set in vibration, and the like circumstances.
+The general problem of such vibrations includes the discovery and
+classification of the phenomena; the detection of their formal laws;
+and, finally, the explanation of these on mechanical principles. We
+must speak very briefly of what has been done in these ways. The facts
+which indicate Nodal Lines had been remarked by Galileo, on the
+sounding board of a musical instrument; and Hooke had proposed to
+observe the vibrations of a bell by strewing flour upon it. But it was
+Chladni, a German philosopher, who enriched acoustics with the
+discovery of the vast variety of symmetrical figures of Nodal Lines,
+which are exhibited on plates of regular forms, when 42 made to sound. His
+first investigations on this subject, Entdeckungen über die Theorie
+des Klangs, were published 1787; and in 1802 and 1817 he added
+other discoveries. In these works he not only related a vast number of
+new and curious facts, but in some measure reduced some of them to
+order and law. For instance, he has traced all the vibrations of
+square plates to a resemblance with those forms of vibration in which
+Nodal Lines are parallel to one side of the square, and those in which
+they are parallel to another side; and he has established a notation
+for the modes of vibration founded on this classification. Thus,
+5–2 denotes a form in which there are five nodal lines parallel
+to one side, and two to another; or a form which can be traced to a
+disfigurement of such a standard type. Savart pursued this subject
+still further; and traced, by actual observation, the forms of the
+Nodal Surfaces which divide solid bodies, and masses of air, when in a
+state of vibration.
+The dependence of such vibrations upon their physical cause,
+namely, the elasticity of the substance, we can conceive in a general
+way; but the mathematical theory of such cases is, as might be
+supposed, very difficult, even if we confine ourselves to the obvious
+question of the mechanical possibility of these different modes of
+vibration, and leave out of consideration their dependence upon the
+mode of excitation. The transverse vibrations of elastic rods, plates,
+and rings, had been considered by Euler in 1779; but his calculation
+concerning plates had foretold only a small part of the curious
+phenomena observed by Chladni;37 and the several
+notes which, according to his calculation, the same ring ought to
+give, were not in agreement with experiment.38 Indeed,
+researches of this kind, as conducted by Euler, and other authors,39 rather were, and were intended for,
+examples of analytical skill, than explanations of physical facts.
+James Bernoulli, after the publication of Chladni’s experiments in
+1787, attempted to solve the problem for plates, by treating a plate
+as a collection of fibres; but, as Chladni observes, the justice of
+this mode of conception is disproved, by the disagreement of the
+results with experiment.
+37 Fischer, vi. 587.
+38 Ib. vi. 596.
+39 See Chladni, p. 474.
+The Institute of France, which had approved of Chladni’s labours,
+proposed, in 1809, the problem now before us as a prize-question:40—“To give the mathematical theory
+of the vibrations of elastic 43 surfaces, and to compare it with
+experiment.” Only one memoir was sent in as a candidate for the prize;
+and this was not crowned, though honorable mention was made of it.41 The formulæ of James Bernoulli were,
+according to M. Poisson’s statement, defective, in consequence of his
+not taking into account the normal force which acts at the exterior
+boundary of the plate.42 The author of the anonymous memoir
+corrected this error, and calculated the note corresponding to various
+figures of the nodal lines; and he found an agreement with experiment
+sufficient to justify his theory. He had not, however, proved his
+fundamental equation, which M. Poisson demonstrated in a Memoir, read
+in 1814.43 At a more recent period also, MM.
+Poisson and Cauchy (as well as a lady, Mlle. Sophie Germain) have
+applied to this problem the artifices of the most improved analysis.
+M. Poisson44 determined the relation of the notes
+given by the longitudinal and the transverse vibrations of a rod; and
+solved the problem of vibrating circular plates when the nodal lines
+are concentric circles. In both these cases, the numerical agreement
+of his results with experience, seemed to confirm the justice of his
+fundamental views.45 He proceeds upon the hypothesis, that
+elastic bodies are composed of separate particles held together by the
+attractive forces which they exert upon each other, and distended by
+the repulsive force of heat. M. Cauchy46 has also
+calculated the transverse, longitudinal, and rotatory vibrations of
+elastic rods, and has obtained results agreeing closely with
+experiment through a considerable list of comparisons. The combined
+authority of two profound analysts, as MM. Poisson and Cauchy are,
+leads us to believe that, for the simpler cases of the vibrations of
+elastic bodies, Mathematics has executed her task; but most of the
+more complex cases remain as yet unsubdued.
+40 See Chladni, p. 357.
+41 Poisson’s Mém. in Ac. Sc.
+1812, p. 169.
+42 Ib. p. 220.
+43 Ib. 1812, p. 2.
+44 Ib. t. viii. 1829.
+45 An. Chim. tom. xxxvi. 1827,
+p. 90.
+46 Exercices de Mathématique,
+iii. and iv.
+The two brothers, Ernest and William Weber, made many curious
+observations on undulations, which are contained in their
+Wellenlehre, (Doctrine of Waves,) published at Leipsig in 1825.
+They were led to suppose, (as Young had suggested at an earlier
+period,) that Chladni’s figures of nodal lines in plates were to be
+accounted for by the superposition of undulations.47 Mr. Wheatstone48 has undertaken to account for Chladni’s
+figures of vibrating square plates by this 44 superposition of two or
+more simple and obviously allowable modes of nodal division, which
+have the same time of vibration. He assumes, for this purpose, certain
+“primary figures,” containing only parallel nodal lines; and
+by combining these, first in twos, and then in fours, he obtains most
+of Chladni’s observed figures, and accounts for their transitions and
+deviations from regularity.
+47 Wellenlehre, p. 474.
+48 Phil. Trans. 1833, p.
+593.
+The principle of the superposition of vibrations is so solidly
+established as a mechanical truth, that we may consider an acoustical
+problem as satisfactorily disposed of when it is reduced to that
+principle, as well as when it is solved by analytical mechanics: but
+at the same time we may recollect, that the right application and
+limitation of this law involves no small difficulty; and in this case,
+as in all advances in physical science, we cannot but wish to have the
+new ground which has been gained, gone over by some other person in
+some other manner; and thus secured to us as a permanent
+possession.
+Savart’s Laws.—In what has preceded, the vibrations of
+bodies have been referred to certain general classes, the separation
+of which was suggested by observation; for example, the
+transverse, longitudinal, and rotatory,49 vibrations of rods. The transverse
+vibrations, in which the rod goes backwards and forwards across the
+line of its length, were the only ones noticed by the earlier
+acousticians: the others were principally brought into notice by
+Chladni. As we have already seen in the preceding pages, this
+classification serves to express important laws; as, for instance, a
+law obtained by M. Poisson which gives the relation of the notes
+produced by the transverse and longitudinal vibrations of a rod. But
+this distinction was employed by M. Felix Savart to express laws of a
+more general kind; and then, as often happens in the progress of
+science, by pursuing these laws to a higher point of generality, the
+distinction again seemed to vanish. A very few words will explain
+these steps.
+49 Vibrations tournantes.
+It was long ago known that vibrations may be communicated by
+contact. The distinction of transverse and longitudinal vibrations
+being established, Savart found that if one rod touched another
+perpendicularly, the longitudinal vibrations of the first occasion
+transverse vibrations in the second, and vice versâ. This is
+the more remarkable, since the two sets of vibrations are not equal in
+rapidity, and therefore cannot sympathize in any obvious manner.50 Savart found himself 45 able to generalize this
+proposition, and to assert that in any combination of rods, strings,
+and laminæ, at right angles to each other, the longitudinal and
+transverse vibrations affect respectively the rods in the one and
+other direction,51 so that when the horizontal rods, for
+example, vibrate in the one way, the vertical rods vibrate in the
+other.
+50 An. Chim. 1819, tom. xiv. p.
+138.
+51 An. Chim. p. 152.
+This law was thus expressed in terms of that classification of
+vibrations of which we have spoken. Yet we easily see that we may
+express it in a more general manner, without referring to that
+classification, by saying, that vibrations are communicated so as
+always to be parallel to their original direction. And by following it
+out in this shape by means of experiment, M. Savart was led, a short
+time afterwards, to deny that there is any essential distinction in
+these different kinds of vibration. “We are thus led,” he says52 in 1822, “to consider normal
+[transverse] vibrations as only one circumstance in a more general
+motion common to all bodies, analogous to tangential
+[longitudinal and rotatory] vibrations; that is, as produced by small
+molecular oscillations, and differently modified according to
+the direction which it affects, relatively to the dimensions of the
+vibrating body.”
+52 Ib. t. xxv. p. 33.
+These “inductions,” as he properly calls them, are supported by a
+great mass of ingenious experiments; and may be considered as well
+established, when they are limited to molecular oscillations,
+employing this phrase in the sense in which it is understood in the
+above statement; and also when they are confined to bodies in which
+the play of elasticity is not interrupted by parts more rigid than the
+rest, as the sound-post of a violin.53 And before I
+quit the subject, I may notice a consequence which M. Savart has
+deduced from his views, and which, at first sight, appears to overturn
+most of the earlier doctrines respecting vibrating bodies. It was
+formerly held that tense strings and elastic rods could vibrate only
+in a determinate series of modes of division, with no intermediate
+steps. But M. Savart maintains,54 on the contrary,
+that they produce sounds which are gradually transformed into one
+another, by indefinite intermediate degrees. The reader may naturally
+ask, what is the solution of this apparent 46 contradiction between the earliest and the
+latest discoveries in acoustics. And the answer must be, that these
+intermediate modes of vibration are complex in their nature, and
+difficult to produce; and that those which were formerly believed to
+be the only possible vibrating conditions, are so eminent above all
+the rest by their features, their simplicity, and their facility, that
+we may still, for common purposes, consider them as a class apart;
+although for the sake of reaching a general theorem, we may associate
+them with the general mass of cases of molecular vibrations. And thus
+we have no exception here, as we can have none in any case, to our
+maxim, that what formed part of the early discoveries of science,
+forms part of its latest systems.
+53 For the suggestion of the necessity
+of this limitation I am indebted to Mr. Willis.
+54 An. Chim. 1826, t. xxxii. p.
+384.
+We have thus surveyed the progress of the science of sound up to
+recent times, with respect both to the discovery of laws of phenomena,
+and the reduction of these to their mechanical causes. The former
+branch of the science has necessarily been inductively pursued; and
+therefore has been more peculiarly the subject of our attention. And
+this consideration will explain why we have not dwelt more upon the
+deductive labors of the great analysts who have treated of this
+problem.
+To those who are acquainted with the high and deserved fame which
+the labors of D’Alembert, Euler, Lagrange, and others, upon this
+subject, enjoy among mathematicians, it may seem as if we had not
+given them their due prominence in our sketch. But it is to be
+recollected here, as we have already observed in the case of
+hydrodynamics, that even when the general principles are uncontested,
+mere mathematical deductions from them do not belong to the history of
+physical science, except when they point out laws which are
+intermediate between the general principle and the individual facts,
+and which observation may confirm.
+The business of constructing any science may be figured as the task
+of forming a road on which our reason can travel through a certain
+province of the external world. We have to throw a bridge which may
+lead from the chambers of our own thoughts, from our speculative
+principles, to the distant shore of material facts. But in all cases
+the abyss is too wide to be crossed, except we can find some
+intermediate points on which the piers of our structure may rest. Mere
+facts, without connexion or law, are only the rude stones hewn from
+the opposite bank, of which our arches may, at some time, be built.
+But mere hypothetical mathematical calculations are only plans of
+projected structures; and those plans which exhibit only one vast
+47 and single arch,
+or which suppose no support but that which our own position supplies,
+will assuredly never become realities. We must have a firm basis of
+intermediate generalizations in order to frame a continuous and stable
+edifice.
+In the subject before us, we have no want of such points of
+intermediate support, although they are in many instances irregularly
+distributed and obscurely seen. The number of observed laws and
+relations of the phenomena of sound, is already very great; and though
+the time may be distant, there seems to be no reason to despair of one
+day uniting them by clear ideas of mechanical causation, and thus of
+making acoustics a perfect secondary mechanical science.
+The historical sketch just given includes only such parts of
+acoustics as have been in some degree reduced to general laws and
+physical causes; and thus excludes much that is usually treated of
+under that head. Moreover, many of the numerical calculations
+connected with sound belong to its agreeable effect upon the ear; as
+the properties of the various systems of Temperament. These are
+parts of Theoretical Music, not of Acoustics; of the Philosophy of the
+Fine Arts, not of Physical Science; and may be referred to in a future
+portion of this work, so far as they bear upon our object.
+The science of Acoustics may, however, properly consider other
+differences of sound than those of acute and grave,—for
+instance, the articulate differences, or those by which the
+various letters are formed. Some progress has been made in reducing
+this part of the subject to general rules; for though Kempelen’s
+“talking machine” was only a work of art, Mr. Willis’s machine,55 which exhibits the relation among the
+vowels, gives us a law such as forms a step in science. We may,
+however, consider this instrument as a phthongometer, or
+measure of vowel quality; and in that point of view we shall have to
+refer to it again when we come to speak of such measures.
+55 On the Vowel Sounds, and on Reed
+Organ-pipes. Camb. Trans. iii. 237.
+~Additional material in the 3rd
+edition.~
+
+
+BOOK IX.
+
+SECONDARY MECHANICAL SCIENCES.
+(CONTINUED)
+
+HISTORY OF OPTICS,
+FORMAL AND PHYSICAL.
+
+Ω Διὸς ὑψιμέλαθρον ἔχων κράτος αἰὲν ἀτειρὲς
+Ἄστρων, Ἠελίου τε, Σεληναίης τε μέρισμα
+Πανδαμάτωρ, πυρίπνου, πᾶσιν ζωοῖσιν ἔναυσμα
+Ὑψιφάνης ἌIϴΗΡ, κόσμου στοιχεῖον, ἄριστον·
+Ἀγλαὸν ὦ βλάστημα, σελασφόρον, ἀστεροφεγγὲς
+Κικλήσκων λίτομαι σε, κεκραμένον εὔδιον
+εἶναι.
+Orpheus.
+Hymn.  
+
+O thou who fillest the palaces of Jove;
+Who flowest round moon, and sun, and stars
+above;
+Pervading, bright, life-giving element,
+Supernal Ether, fair and
+excellent;
+Fountain of hope and joy, of light and day,
+We own at length thy tranquil, steady sway.
+</div></body></text></TEI>

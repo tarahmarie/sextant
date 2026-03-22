@@ -52,6 +52,11 @@ ensure_nltk_data()
 STOP_WORDS = set(stopwords.words("english"))
 LEMMATIZER = WordNetLemmatizer()
 
+# Use the same regex as load_authors_and_texts.py for consistent chapter extraction
+CHAPTER_PATTERN = re.compile(
+    r'(?:chapter|book|Note|section|part|letter|canto|act|preface|Dedication)_(.+)$'
+)
+
 
 ### Utility Functions
 def remove_combining_characters(text):
@@ -77,7 +82,13 @@ def process_single_file(file_path):
     author = remove_combining_characters(extract_author(body))
     title = file_path.split('/')[4].split('-')[1]
     text = preprocess_text(body)
-    chapter_num = file_path.split('_')[-1]
+
+    # Extract chapter number using the same regex as load_authors_and_texts.py.
+    # Previously used file_path.split('_')[-1] which broke on filenames with
+    # multiple underscores (e.g. letter_165_1-2 -> "1-2" instead of "165_1-2").
+    filename_stem = file_path.split('/')[-1].replace('.xml', '').replace('.txt', '')
+    _m = CHAPTER_PATTERN.search(filename_stem)
+    chapter_num = _m.group(1) if _m else '0'
 
     return (author, title, chapter_num, text)
 
@@ -276,9 +287,11 @@ class AuthorshipAnalyzer:
         )
 
         for key, value in outcomes_dict.items():
-            novel = key.split('-')[0]
+            # Split on first hyphen only. Chapter numbers can contain hyphens
+            # (e.g. "ENG18350-165_1-2" -> novel="ENG18350", chap_num="165_1-2").
+            # Previously split on all hyphens, truncating "165_1-2" to "165_1".
+            novel, chap_num = key.split('-', 1)
             novel = unicodedata.normalize('NFKD', novel)
-            chap_num = key.split('-')[1]
             
             # Build tuple with scores in consistent column order
             scores = tuple(value.get(author, 0.0) for author in sorted_columns)

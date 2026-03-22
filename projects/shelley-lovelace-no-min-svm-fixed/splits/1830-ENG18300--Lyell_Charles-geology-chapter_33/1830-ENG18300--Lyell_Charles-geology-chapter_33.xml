@@ -1,0 +1,546 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Principles of Geology</title><author>Lyell, Charles (1797-1875)</author></titleStmt><publicationStmt><publisher>John Murray</publisher><pubPlace>London</pubPlace><date>1830</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="33">CHAPTER XXXIII.
+CHANGES OF THE ORGANIC WORLD NOW IN PROGRESS.
+Division of the subject—Examination of the question, Whether species have a
+real existence in nature?—Importance of this question in geology—Sketch of
+Lamarck's arguments in favor of the transmutation of species, and his conjectures
+respecting the origin of existing animals and plants—His theory of the transformation
+of the orang-outang into the human species.
+The last book, from chapters fourteen to thirty-three inclusive, was occupied
+with the consideration of the changes brought about on the
+earth's surface, within the period of human observation, by inorganic
+agents; such, for example, as rivers, marine currents, volcanoes, and
+earthquakes. But there is another class of phenomena relating to the
+organic world, which have an equal claim on our attention, if we desire
+to obtain possession of all the preparatory knowledge respecting the existing
+course of nature, which may be available in the interpretation of
+geological monuments. It appeared from our preliminary sketch of the
+progress of the science, that the most lively interest was excited among
+its earlier cultivators, by the discovery of the remains of animals and
+plants in the interior of mountains frequently remote from the sea.
+Much controversy arose respecting the nature of these remains, the
+causes which may have brought them into so singular a position, and the
+want of a specific agreement between them and known animals and
+plants. To qualify ourselves to form just views on these curious questions,
+we must first study the present condition of the animate creation
+on the globe.
+This branch of our inquiry naturally divides itself into two parts: first,
+we may examine the vicissitudes to which species are subject; secondly,
+the processes by which certain individuals of these species occasionally
+become fossil. The first of these divisions will lead us, among other
+topics, to inquire, first, whether species have a real and permanent existence
+in nature? or whether they are capable, as some naturalists pretend,
+of being indefinitely modified in the course of a long series of
+generations? Secondly, whether, if species have a real existence, the
+individuals composing them have been derived originally from many
+similar stocks, or each from one only, the descendants of which have
+spread themselves gradually from a particular point over the habitable
+lands and waters? Thirdly, how far the duration of each species of
+animal and plant is limited by its dependence on certain fluctuating and
+temporary conditions in the state of the animate and inanimate world?
+Fourthly, whether there be proofs of the successive extermination of
+567
+species in the ordinary course of nature, and whether there be any reason
+for conjecturing that new animals and plants are created from time
+to time, to supply their place?
+Whether species have a real existence in nature.—Before we can advance
+a step in our proposed inquiry, we must be able to define precisely
+the meaning which we attach to the term species. This is even
+more necessary in geology than in the ordinary studies of the naturalist;
+for they who deny that such a thing as a species exists, concede nevertheless
+that a botanist or zoologist may reason as if the specific character
+were constant, because they confine their observations to a brief period
+of time. Just as the geographer, in constructing his maps from century
+to century, may proceed as if the apparent places of the fixed stars remained
+absolutely the same, and as if no alteration were brought about
+by the precession of the equinoxes; so, it is said, in the organic world,
+the stability of a species may be taken as absolute, if we do not extend
+our views beyond the narrow period of human history; but let a sufficient
+number of centuries elapse, to allow of important revolutions in
+climate, physical geography, and other circumstances, and the characters,
+say they, of the descendants of common parents may deviate indefinitely
+from their original type.
+Now, if these doctrines be tenable, we are at once presented with a
+principle of incessant change in the organic world; and no degree of
+dissimilarity in the plants and animals which may formerly have existed,
+and are found fossil, would entitle us to conclude that they may not have
+been the prototypes and progenitors of the species now living. Accordingly
+M. Geoffroy St. Hilaire has declared his opinion, that there has
+been an uninterrupted succession in the animal kingdom, effected by
+means of generation, from the earliest ages of the world up to the
+present day, and that the ancient animals whose remains have been
+preserved in the strata, however different, may nevertheless have been
+the ancestors of those now in being. This notion is not very generally
+received, but we are not warranted in assuming the contrary,
+without fully explaining the data and reasoning by which it may be
+refuted.
+I shall begin by stating as concisely as possible all the facts and ingenious
+arguments by which the theory has been supported; and for
+this purpose I cannot do better than offer the reader a rapid sketch of
+Lamarck's statement of the proofs which he regards as confirmatory of
+the doctrine, and which he has derived partly from the works of his
+predecessors and in part from original investigations.
+His proofs and inferences will be best considered in the order in which
+they appear to have influenced his mind, and I shall then point out some
+of the results to which he was led while boldly following out his principles
+to their legitimate consequences.
+Lamarck's arguments in favor of the transmutation of species.—The
+name of species, observes Lamarck, has been usually applied to "every
+collection of similar individuals produced by other individuals like themselves."790
+568
+This definition, he admits, is correct; because every living
+individual bears a very close resemblance to those from which it springs.
+But this is not all which is usually implied by the term species; for the
+majority of naturalists agree with Linnæus in supposing that all the individuals
+propagated from one stock have certain distinguishing characters
+in common, which will never vary, and which have remained the
+same since the creation of each species.
+In order to shake this opinion, Lamarck enters upon the following line
+of argument:—The more we advance in the knowledge of the different
+organized bodies which cover the surface of the globe, the more our embarrassment
+increases, to determine what ought to be regarded as a
+species, and still more how to limit and distinguish genera. In proportion
+as our collections are enriched, we see almost every void filled up,
+and all our lines of separation effaced! We are reduced to arbitrary determinations,
+and are sometimes fain to seize upon the slight differences
+of mere varieties, in order to form characters for what we choose to call
+a species; and sometimes we are induced to pronounce individuals but
+slightly differing, and which others regard as true species, to be varieties.
+The greater the abundance of natural objects assembled together, the
+more do we discover proofs that every thing passes by insensible shades
+into something else; that even the more remarkable differences are
+evanescent, and that nature has, for the most part, left us nothing at our
+disposal for establishing distinctions, save trifling, and, in some respects,
+puerile particularities.
+We find that many genera amongst animals and plants are of such an
+extent, in consequence of the number of species referred to them, that
+the study and determination of these last has become almost impracticable.
+When the species are arranged in a series, and placed near to
+each other, with due regard to their natural affinities, they each differ
+in so minute a degree from those next adjoining, that they almost melt
+into each other, and are in a manner confounded together. If we see
+isolated species, we may presume the absence of some more closely connected,
+and which have not yet been discovered. Already are there
+genera, and even entire orders—nay, whole classes, which present an
+approximation to the state of things here indicated.
+If, when species have been thus placed in a regular series, we select
+one, and then, making a leap over several intermediate ones, we take a
+second, at some distance from the first, these two will, on comparison,
+be seen to be very dissimilar; and it is in this manner that every naturalist
+begins to study the objects which are at his own door. He then
+finds it an easy task to establish generic and specific distinctions; and it
+is only when his experience is enlarged, and when he has made himself
+master of the intermediate links, that his difficulties and ambiguities begin.
+But while we are thus compelled to resort to trifling and minute
+characters in our attempt to separate the species, we find a striking disparity
+569
+between individuals which we know to have descended from a
+common stock; and these newly acquired peculiarities are regularly
+transmitted from one generation to another, constituting what are called
+races.
+From a great number of facts, continues the author, we learn that
+in proportion as the individuals of one of our species change their situation,
+climate, and manner of living, they change also, by little and little,
+the consistence and proportions of their parts, their form, their faculties,
+and even their organization, in such a manner that every thing in them
+comes at last to participate in the mutations to which they have been
+exposed. Even in the same climate, a great difference of situation and
+exposure causes individuals to vary; but if these individuals continue
+to live and to be reproduced under the same difference of circumstances,
+distinctions are brought about in them which become in some degree
+essential to their existence. In a word, at the end of many successive
+generations, these individuals, which originally belonged to another
+species, are transformed into a new and distinct species.791
+Thus, for example, if the seeds of a grass, or any other plant which
+grows naturally in a moist meadow, be accidentally transported, first to
+the slope of some neighboring hill, where the soil, although at a greater
+elevation, is damp enough to allow the plant to live; and if, after having
+lived there, and having been several times regenerated, it reaches by
+degrees the drier and almost arid soil of a mountain declivity, it will
+then, if it succeeds in growing, and perpetuates itself for a series of generations,
+be so changed that botanists who meet with it will regard it as
+a particular species.792 The unfavorable climate in this case, deficiency
+of nourishment, exposure to the winds, and other causes, give rise to a
+stunted and dwarfish race, with some organ more developed than others,
+and having proportions often quite peculiar.
+What nature brings about in a great lapse of time, we occasion suddenly
+by changing the circumstances in which a species has been accustomed
+to live. All are aware that vegetables taken from their birthplace,
+and cultivated in gardens, undergo changes which render them
+no longer recognizable as the same plants. Many which were naturally
+hairy become smooth, or nearly so; a great number of such as were
+creepers and trailed along the ground, rear their stalks and grow erect.
+Others lose their thorns or asperities; others, again, from the ligneous
+state which their stem possessed in hot climates, where they were indigenous,
+pass to the herbaceous; and, among them, some which were
+perennials become mere annuals. So well do botanists know the effects
+of such changes of circumstances, that they are averse to describe species
+from garden specimens, unless they are sure that they have been cultivated
+for a very short period.
+"Is not the cultivated wheat" (Triticum sativum), asks Lamarck, "a
+vegetable brought by man into the state in which we now see it? Let
+570
+any one tell me in what country a similar plant grows wild, unless where
+it has escaped from cultivated fields? Where do we find in nature our
+cabbages, lettuces, and other culinary vegetables, in the state in which
+they appear in our gardens? Is it not the same in regard to a great
+quantity of animals which domesticity has changed or considerably modified?"793
+Our domestic fowls and pigeons are unlike any wild birds.
+Our domestic ducks and geese have lost the faculty of raising themselves
+into the higher regions of the air, and crossing extensive countries
+in their flight, like the wild ducks and wild geese from which they were
+originally derived. A bird which we breed in a cage cannot, when restored
+to liberty, fly like others of the same species which have been
+always free. This small alteration of circumstances, however, has only
+diminished the power of flight, without modifying the form of any part
+of the wings. But when individuals of the same race are retained in
+captivity during a considerable length of time, the form even of their
+parts is gradually made to differ, especially if climate, nourishment, and
+other circumstances be also altered.
+The numerous races of dogs which we have produced by domesticity
+are nowhere to be found in a wild state. In nature we should seek in
+vain for mastiffs, harriers, spaniels, greyhounds, and other races, between
+which the differences are sometimes so great that they would be readily
+admitted as specific between wild animals; "yet all these have sprung
+originally from a single race, at first approaching very near to a wolf,
+if, indeed, the wolf be not the true type which at some period or other
+was domesticated by man."
+Although important changes in the nature of the places which they
+inhabit modify the organization of animals as well as vegetables; yet the
+former, says Lamarck, require more time to complete a considerable
+degree of transmutation; and, consequently, we are less sensible of such
+occurrences. Next to a diversity of the medium in which animals or
+plants may live, the circumstances which have most influence in modifying
+their organs are differences in exposure, climate, the nature of the
+soil, and other local particulars. These circumstances are as varied as
+are the characters of the species, and, like them, pass by insensible shades
+into each other, there being every intermediate gradation between the
+opposite extremes. But each locality remains for a very long time the
+same, and is altered so slowly that we can only become conscious of the
+reality of the change by consulting geological monuments, by which we
+learn that the order of things which how reigns in each place has not
+always prevailed, and by inference anticipate that it will not always continue
+the same.794
+Every considerable alteration in the local circumstances in which each
+race of animals exists causes a change in their wants, and these new
+wants excite them to new actions and habits. These actions require the
+more frequent employment of some parts before but slightly exercised,
+571
+and then greater development follows as a consequence of their more
+frequent use. Other organs no longer in use are impoverished and
+diminished in size, nay, are sometimes entirely annihilated, while in their
+place new parts are insensibly produced for the discharge of new functions.795
+I must here interrupt the author's argument, by observing, that no
+positive fact is cited to exemplify the substitution of some entirely new
+sense, faculty, or organ, in the room of some other suppressed as
+useless. All the instances adduced go only to prove that the dimensions
+and strength of members and the perfection of certain attributes
+may, in a long succession of generations, be lessened and enfeebled by
+disuse; or, on the contrary, be matured and augmented by active exertion;
+just as we know that the power of scent is feeble in the greyhound,
+while its swiftness of pace and its acuteness of sight are remarkable—that
+the harrier and stag-hound, on the contrary, are comparatively
+slow in their movements, but excel in the sense of smelling.
+It was necessary to point out to the reader this important chasm in
+the chain of evidence, because he might otherwise imagine that I had
+merely omitted the illustrations for the sake of brevity; but the plain
+truth is, that there were no examples to be found; and when Lamarck
+talks "of the efforts of internal sentiment," "the influence of subtle
+fluids," and "acts of organization," as causes whereby animals and plants
+may acquire new organs, he substitutes names for things; and, with a
+disregard to the strict rules of induction, resorts to fictions, as ideal as
+the "plastic virtue," and other phantoms of the geologists of the middle
+ages.
+It is evident that, if some well-authenticated facts could have been
+adduced to establish one complete step in the process of transformation,
+such as the appearance, in individuals descending from a common stock,
+of a sense or organ entirely new, and a complete disappearance of some
+other enjoyed by their progenitors, time alone might then be supposed
+sufficient to bring about any amount of metamorphosis. The gratuitous
+assumption, therefore, of a point so vital to the theory of transmutation,
+was unpardonable on the part of its advocate.
+But to proceed with the system: it being assumed as an undoubted
+fact, that a change of external circumstances may cause one organ to
+become entirely obsolete, and a new one to be developed, such as never
+before belonged to the species, the following proposition is announced,
+which, however staggering and absurd it may seem, is logically deduced
+from the assumed premises. It is not the organs, or, in other words,
+the nature and form of the parts of the body of an animal, which have
+given rise to its habits, and its particular faculties; but, on the contrary,
+its habits, its manner of living, and those of its progenitors, have in the
+course of time determined the form of its body, the number and condition
+of its organs—in short, the faculties which it enjoys. Thus otters,
+572
+beavers, waterfowl, turtles, and frogs, were not made web-footed in
+order that they might swim; but their wants having attracted them to
+the water in search of prey, they stretched out the toes of their feet to
+strike the water and move rapidly along its surface. By the repeated
+stretching of their toes, the skin which united them at the base acquired
+a habit of extension, until, in the course of time, the broad membranes
+which now connect their extremities were formed.
+In like manner, the antelope and the gazelle were not endowed with
+light agile forms, in order that they might escape by flight from carnivorous
+animals; but, having been exposed to the danger of being
+devoured by lions, tigers, and other beasts of prey, they were compelled
+to exert themselves in running with great celerity; a habit which, in the
+course of many generations, gave rise to the peculiar slenderness of their
+legs, and the agility and elegance of their forms.
+The camelopard was not gifted with a long flexible neck because it
+was destined to live in the interior of Africa, where the soil was arid
+and devoid of herbage; but, being reduced by the nature of that
+country to support itself on the foliage of lofty trees, it contracted a
+habit of stretching itself up to reach the high boughs, until its neck
+became so elongated that it could raise its head to the height of twenty
+feet above the ground.
+Another line of argument is then entered upon, in farther corroboration
+of the instability of species. In order, it is said, that individuals
+should perpetuate themselves unaltered by generation, those belonging
+to one species ought never to ally themselves to those of
+another; but such sexual unions do take place, both among plants and
+animals; and although the offspring of such irregular connections are
+usually sterile, yet such is not always the case. Hybrids have sometimes
+proved prolific, where the disparity between the species was not
+too great; and by this means alone, says Lamarck, varieties may gradually
+be created by near alliances, which would become races, and in the
+course of time would constitute what we term species.796
+But if the soundness of all these arguments and inferences be admitted,
+we are next to inquire, what were the original types of form,
+organization, and instinct, from which the diversities of character, as
+now exhibited by animals and plants, have been derived? We know
+that individuals which are mere varieties of the same species would, if
+their pedigree could be traced back far enough, terminate in a single
+stock; so, according to the train of reasoning before described, the
+species of a genus, and even the genera of a great family, must have
+had a common point of departure. What, then, was the single stem
+from which so many varieties of form have ramified? Were there
+many of these, or are we to refer the origin of the whole animate
+creation, as the Egyptian priests did that of the universe, to a single
+egg?
+573
+In the absence of any positive data for framing a theory on so obscure
+a subject, the following considerations were deemed of importance to
+guide conjecture.
+In the first place, if we examine the whole series of known animals,
+from one extremity to the other, when they are arranged in the order
+of their natural relations, we find that we may pass progressively, or, at
+least, with very few interruptions, from beings of more simple to those
+of a more compound structure; and, in proportion as the complexity of
+their organization increases, the number and dignity of their faculties
+increase also. Among plants, a similar approximation to a graduated
+scale of being is apparent, Secondly, it appears, from geological observations,
+that plants and animals of more simple organization existed on
+the globe before the appearance of those of more compound structure,
+and the latter were successively formed at more modern periods; each
+new race being more fully developed than the most perfect of the preceding
+era.
+Of the truth of the last-mentioned geological theory, Lamarck seems
+to have been fully persuaded; and he also shows that he was deeply
+impressed with a belief prevalent amongst the older naturalists, that the
+primeval ocean invested the whole planet long after it became the habitation
+of living beings; and thus he was inclined to assert the priority of
+the types of marine animals to those of the terrestrial, so as to fancy, for
+example, that the testacea of the ocean existed first, until some of them,
+by gradual evolution, were improved into those inhabiting the land.
+These speculative views had already been, in a great degree, anticipated
+by Demaillet in his Telliamed, and by several modern writers; so that
+the tables were completely turned on the philosophers of antiquity, with
+whom it was a received maxim, that created things were always most
+perfect when they came first from the hands of their Maker; and that
+there was a tendency to progressive deterioration in sublunary things
+when left to themselves—
+
+
+————omnia fatis
+In pejus ruere, ac retrò sublapsa referri.
+
+
+So deeply was the faith of the ancient schools of philosophy imbued
+with this dóctrine, that, to check this universal proneness to degeneracy,
+nothing less than the reintervention of the Deity was thought adequate;
+and it was held, that thereby the order, excellence, and pristine energy
+of the moral and physical world had been repeatedly restored.
+But when the possibility of the indefinite modification of individuals
+descending from common parents was once assumed, as also the geological
+inference respecting the progressive development of organic life,
+it was natural that the ancient dogma should be rejected, or rather reversed,
+and that the most simple and imperfect forms and faculties should
+be conceived to have been the originals whence all others were developed.
+Accordingly, in conformity to these views, inert matter was supposed to
+have been first endowed with life; until, in the course of ages, sensation
+574
+was superadded to mere vitality: sight, hearing, and the other senses
+were afterwards acquired; then instinct and the mental faculties; until,
+finally, by virtue of the tendency of things to progressive improvement,
+the irrational was developed in the rational.
+The reader, however, will immediately perceive that when all the
+higher orders of plants and animals were thus supposed to be comparatively
+modern, and to have been derived in a long series of generations
+from those of more simple conformation, some farther hypothesis became
+indispensable, in order to explain why, after an indefinite lapse of ages,
+there were still so many beings of the simplest structure. Why have
+the majority of existing creatures remained stationary throughout this
+long succession of epochs, while others have made such prodigious
+advances? Why are there such multitudes of infusoria and polyps, or
+of confervæ and other cryptogamic plants? Why, moreover, has the
+process of development acted with such unequal and irregular force on
+those classes of beings which have been greatly perfected, so that there
+are wide chasms in the series; gaps so enormous, that Lamarck fairly
+admits we can never expect to fill them up by future discoveries?
+The following hypothesis was provided to meet these objections.
+Nature, we are told, is not an intelligence, nor the Deity; but a delegated
+power—a mere instrument—a piece of mechanism acting by
+necessity—an order of things constituted by the Supreme Being, and
+subject to laws which are the expressions of his will. This Nature is
+obliged to proceed gradually in all her operations; she cannot produce
+animals and plants of all classes at once, but must always begin by the
+formation of the most simple kinds, and out of them elaborate the more
+compound, adding to them, successively, different systems of organs, and
+multiplying more and more their number and energy.
+This nature is daily engaged in the formation of the elementary rudiments
+of animal and vegetable existence, which correspond to what the
+ancients termed spontaneous generation. She is always beginning anew,
+day by day, the work of creation, by forming monads, or "rough
+draughts" (ébauches), which are the only living things she gives birth
+to directly.
+There are distinct primary rudiments of plants and animals, and
+probably of each of the great divisions of the animal and vegetable
+kingdoms.797 These are gradually developed into the higher and more
+perfect classes by the slow but unceasing agency of two influential
+principles: first, the tendency to progressive advancement in organization,
+accompanied by greater dignity in instinct, intelligence, &c.; secondly,
+the force of external circumstances, or of variations in the physical condition
+of the earth, or the mutual relations of plants and animals. For,
+as species spread themselves gradually over the globe, they are exposed
+from time to time to variations in climate, and to changes in the quantity
+and quality of their food; they meet with new plants and animals which
+575
+assist or retard their development, by supplying them with nutriment,
+or destroying their foes. The nature, also, of each locality, is in itself
+fluctuating; so that, even if the relation of other animals and plants were
+invariable, the habits and organization of species would be modified by
+the influence of local revolutions.
+Now, if the first of these principles, the tendency to progressive development,
+were left to exert itself with perfect freedom, it would give rise,
+says Lamarck, in the course of ages, to a graduated scale of being,
+where the most insensible transition might be traced from the simplest
+to the most compound structure, from the humblest to the most exalted
+degree of intelligence. But, in consequence of the perpetual interference
+of the external causes before mentioned, this regular order is greatly
+interfered with, and an approximation only to such a state of things is
+exhibited by the animate creation, the progress of some races being
+retarded by unfavorable, and that of others accelerated by favorable,
+combinations of circumstances. Hence, all kinds of anomalies interrupt
+the continuity of the plan; and chasms, into which whole genera or
+families might be inserted, are seen to separate the nearest existing portions
+of the series.
+Lamarck's theory of the transformation of the orang-outang into the
+human species.—Such is the machinery of the Lamarckian system; but
+the reader will hardly, perhaps, be able to form a perfect conception of
+so complicated a piece of mechanism, unless it is exhibited in motion,
+so that we may see in what manner it can work out, under the author's
+guidance, all the extraordinary effects which we behold in the present
+state of the animate creation. I have only space for exhibiting a small
+part of the entire process by which a complete metamorphosis is
+achieved, and shall therefore omit the mode by which, after a countless
+succession of generations, a small gelatinous body is transformed into
+an oak or an ape; passing on at once to the last grand step in the
+progressive scheme, by which the orang-outang, having been already
+evolved out of a monad, is made slowly to attain the attributes and
+dignity of man.
+One of the races of quadrumanous animals which had reached the
+highest state of perfection, lost, by constraint of circumstances (concerning
+the exact nature of which tradition is unfortunately silent), the
+habit of climbing trees, and of hanging on by grasping the boughs with
+their feet as with hands. The individuals of this race being obliged,
+for a long series of generations, to use their feet exclusively for walking,
+and ceasing to employ their hands as feet, were transformed into
+bimanous animals, and what before were thumbs became mere toes, no
+separation being required when their feet were used solely for walking.
+Having acquired a habit of holding themselves upright, their legs and
+feet assumed, insensibly, a conformation fitted to support them in an
+erect attitude, till at last these animals could no longer go on all-fours
+without much inconvenience.
+The Angola orang (Simia troglodytes, Linn.) is the most perfect of
+576
+animals; much more so than the Indian orang (Simia Satyrus), which
+has been called the orang-outang, although both are very inferior to
+man in corporeal powers and intelligence. These animals frequently
+hold themselves upright; but their organization has not yet been sufficiently
+modified to sustain them habitually in this attitude, so that the
+standing posture is very uneasy to them. When the Indian orang is
+compelled to take flight from pressing danger, he immediately falls
+down upon all-fours, showing clearly that this was the original position
+of the animal. Even in man, whose organization, in the course of a
+long series of generations, has advanced so much farther, the upright
+posture is fatiguing, and can be supported only for a limited time, and
+by aid of the contraction of many muscles. If the vertebral column
+formed the axis of the human body, and supported the head and all
+the other parts in equilibrium, then might the upright position be a
+state of repose: but, as the human head does not articulate in the centre
+of gravity, as the chest, belly, and other parts press almost entirely
+forward with their whole weight, and as the vertebral column reposes
+upon an oblique base, a watchful activity is required to prevent the
+body from falling. Children who have large heads and prominent bellies
+can hardly walk at the end even of two years; and their frequent
+tumbles indicate the natural tendency in man to resume the quadrupedal
+state.
+Now, when so much progress had been made by the quadrumanous
+animals before mentioned, that they could hold themselves habitually
+in an erect attitude, and were accustomed to a wide range of vision, and
+ceased to use their jaws for fighting and tearing, or for clipping herbs
+for food, their snout became gradually shorter, their incisor teeth became
+vertical, and the facial angle grew more open.
+Among other ideas which the natural tendency to perfection engendered,
+the desire of ruling suggested itself, and this race succeeded at
+length in getting the better of the other animals, and made themselves
+masters of all those spots on the surface of the globe which best suited
+them. They drove out the animals which approached nearest them in
+organization and intelligence, and which were in a condition to dispute
+with them the good things of this world, forcing them to take refuge in
+deserts, woods, and wildernesses, where their multiplication was checked,
+and the progressive development of their faculties retarded; while, in
+the mean time, the dominant race spread itself in every direction, and
+lived in large companies, where new wants were successively created,
+exciting them to industry, and gradually perfecting their means and
+faculties.
+In the supremacy and increased intelligence acquired by the ruling
+race, we see an illustration of the natural tendency of the organic world
+to grow more perfect; and, in their influence in repressing the advance
+of others, an example of one of those disturbing causes before enumerated,
+that force of external circumstances which causes such wide chasms
+in the regular series of animated being.
+577
+When the individuals of the dominant race became very numerous,
+their ideas greatly increased in number, and they felt the necessity of
+communicating them to each other, and of augmenting and varying the
+signs proper for the communication of ideas. Meanwhile the inferior
+quadrumanous animals, although most of them were gregarious, acquired
+no new ideas, being persecuted and restless in the deserts, and obliged
+to fly and conceal themselves, so that they conceived no new wants.
+Such ideas as they already had remained unaltered, and they could dispense
+with the communication of the greater part of these. To make
+themselves, therefore, understood by their fellows, required merely a
+few movements of the body or limbs—whistling, and the uttering of
+certain cries varied by the inflexions of the voice.
+On the contrary, the individuals of the ascendant race, animated with
+a desire of interchanging their ideas, which became more and more
+numerous, were prompted to multiply the means of communication, and
+were no longer satisfied with mere pantomimic signs, nor even with all
+the possible inflexions of the voice, but made continual efforts to acquire
+the power of uttering articulate sounds, employing a few at first, but
+afterwards varying and perfecting them according to the increase of their
+wants. The habitual exercise of their throat, tongue, and lips, insensibly
+modified the conformation of these organs, until they became fitted for
+the faculty of speech.798
+In effecting this mighty change, "the exigencies of the individuals
+were the sole agents; they gave rise to efforts, and the organs proper
+for articulating sounds were developed by their habitual employment."
+Hence, in this peculiar race, the origin of the admirable faculty of speech;
+hence also the diversity of languages, since the distance of places where
+the individuals composing the race established themselves soon favored
+the corruption of conventional signs.799
+In conclusion, it may be proper to observe that the above sketch of
+the Lamarckian theory is no exaggerated picture, and those passages
+which have probably excited the greatest surprise in the mind of the
+reader are literal translations from the original.
+
+578</div></body></text></TEI>

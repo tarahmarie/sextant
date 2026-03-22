@@ -1,0 +1,571 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="4">CHAPTER III.
+Failure of the Physical Philosophy of the Greek
+Schools.
+
+Sect. 1.—Result of the Greek School
+Philosophy.
+THE methods and forms of
+philosophizing which we have described as employed by the Greek
+Schools, failed altogether in their application to physics. No
+discovery of general laws, no explanation of special phenomena,
+rewarded the acuteness and boldness of these early students of nature.
+Astronomy, which made considerable progress during the existence of
+the sects of Greek philosophers, gained perhaps something by the
+authority with which Plato taught the supremacy and universality of
+mathematical rule and order; and the truths of Harmonics, which had
+probably given rise to the Pythagorean passion for numbers, were
+cultivated with much care by that school. But after these first
+impulses, the sciences owed nothing to the philosophical sects; and
+the vast and complex accumulations and apparatus of the Stagirite do
+not appear to have led to any theoretical physical truths.
+This assertion hardly requires proof, since in the existing body of
+science there are no doctrines for which we are indebted to the
+Aristotelian School. Real truths, when once established, remain to the
+end of time a part of the mental treasure of man, and may be discerned
+through all the additions of later days. But we can point out no
+physical doctrine now received, of which we trace the anticipation in
+Aristotle, in the way in which we see the Copernican system
+anticipated by Aristarchus, the resolution of the heavenly appearances
+into circular motions suggested by Plato, and the numerical relations
+of musical intervals ascribed to Pythagoras. But it may be worth while
+to look at this matter more closely.
+Among the works of Aristotle are thirty-eight chapters of
+“Problems,” which may serve to exemplify the progress he had really
+made in the reduction of phenomena to laws and causes. Of these
+Problems, a large proportion are physiological, and these I here pass
+by, as not illustrative of the state of physical knowledge. But those
+which are properly physical are, for the most part, questions
+concerning such 81
+facts and difficulties as it is the peculiar business of theory to
+explain. Now it may be truly said, that in scarcely any one instance
+are the answers, which Aristotle gives to his questions, of any value.
+For the most part, indeed, he propounds his answer with a degree of
+hesitation or vacillation which of itself shows the absence of all
+scientific distinctness of thought; and the opinions so offered never
+appear to involve any settled or general principle.
+We may take, as examples of this, the problems of the simplest
+kind, where the principles lay nearest at hand—the mechanical
+ones. “Why,” he asks,43 “do small forces move great weights by
+means of a lever, when they have thus to move the lever added to the
+weight? Is it,” he suggests, “because a greater radius moves faster?”
+“Why does a small wedge split great weights?44 Is it because
+the wedge is composed of two opposite levers?” “Why,45 when a man rises from a chair, does he
+bend his leg and his body to acute angles with his thigh? Is it
+because a right angle is connected with equality and rest?” “Why46 can a man throw a stone further with a
+sling than with his hand? Is it that when he throws with his hand he
+moves the stone from rest, but when he uses the sling he throws it
+already in motion?” “Why,47 if a circle be thrown on the ground,
+does it first describe a straight line and then a spiral, as it falls?
+Is it that the air first presses equally on the two sides and supports
+it, and afterwards presses on one side more?” “Why48 is it difficult
+to distinguish a musical note from the octave above? Is it that
+proportion stands in the place of equality?” It must be allowed that
+these are very vague and worthless surmises; for even if we were, as
+some commentators have done, to interpret some of them so as to agree
+with sound philosophy, we should still be unable to point out, in this
+author’s works, any clear or permanent apprehension of the general
+principles which such an interpretation implies.
+43 Mech. Prob. 4.
+44 Ib. 18.
+45 Ib. 31.
+46 Ib. 13.
+47 Περὶ Ἄψυχα. 11.
+48 Περὶ Ἁρμον. 14.
+Thus the Aristotelian physics cannot be considered as otherwise
+than a complete failure. It collected no general laws from facts; and
+consequently, when it tried to explain facts, it had no principles
+which were of any avail.
+The same may be said of the physical speculations of the other
+schools of philosophy. They arrived at no doctrines from which they
+could deduce, by sound reasoning, such facts as they saw; though they
+82 often venture so
+far to trust their principles as to infer from them propositions
+beyond the domain of sense. Thus, the principle that each element
+seeks its own place, led to the doctrine that, the place of
+fire being the highest, there is, above the air, a Sphere of
+Fire—of which doctrine the word Empyrean, used by our
+poets, still conveys a reminiscence. The Pythagorean tenet that ten is
+a perfect number,49 led some persons to assume that the
+heavenly bodies are in number ten; and as nine only were known to
+them, they asserted that there was an antichthon, or
+counter-earth, on the other side of the sun, invisible to us.
+Their opinions respecting numerical ratios, led to various other
+speculations concerning the distances and positions of the heavenly
+bodies: and as they had, in other cases, found a connection between
+proportions of distance and musical notes, they assumed, on this
+suggestion, the music of the spheres.
+49 Arist. Metaph. i. 5.
+Although we shall look in vain in the physical philosophy of the
+Greek Schools for any results more valuable than those just mentioned,
+we shall not be surprised to find, recollecting how much an admiration
+for classical antiquity has possessed the minds of men, that some
+writers estimate their claims much more highly than they are stated
+here. Among such writers we may notice Dutens, who, in 1766, published
+his “Origin of the Discoveries attributed to the Moderns; in which it
+is shown that our most celebrated Philosophers have received the
+greatest part of their knowledge from the Works of the Ancients.” The
+thesis of this work is attempted to be proved, as we might expect, by
+very large interpretations of the general phrases used by the
+ancients. Thus, when Timæus, in Plato’s dialogue, says of the Creator
+of the world,50 “that he infused into it two powers,
+the origins of motions, both of that of the same thing and of that of
+different things;” Dutens51 finds in this a clear indication of the
+projectile and attractive forces of modern science. And in some of the
+common declamation of the Pythagoreans and Platonists concerning the
+general prevalence of numerical relations in the universe, he
+discovers their acquaintance with the law of the inverse square of the
+distance by which gravitation is regulated, though he allows52 that it required all the penetration of
+Newton and his followers to detect this law in the scanty fragments by
+which it is transmitted.
+50 Tim. 96.
+51 3d ed. p. 83.
+52 Ib. p. 88.
+Argument of this kind is palpably insufficient to cover the failure
+of the Greek attempts at a general physical philosophy; or rather we
+83 may say, that
+such arguments, since they are as good as can be brought in favor of
+such an opinion, show more clearly how entire the failure was. I
+proceed now to endeavor to point out its causes.
+Sect. 2.—Cause of the Failure of the Greek
+Physical Philosophy.
+The cause of the failure of so many of the
+attempts of the Greeks to construct physical science is so important,
+that we must endeavor to bring it into view here; though the full
+development of such subjects belongs rather to the Philosophy of
+Induction. The subject must, at present, be treated very briefly.
+I will first notice some errors which may naturally occur to the
+reader’s mind, as possible causes of failure, but which, we shall be
+able to show, were not the real reasons in this case.
+The cause of failure was not the neglect of facts. It is
+often said that the Greeks disregarded experience, and spun their
+philosophy out of their own thoughts alone; and this is supposed by
+many to be their essential error. It is, no doubt, true, that the
+disregard of experience is a phrase which may be so interpreted as to
+express almost any defect of philosophical method; since coincidence
+with experience is requisite to the truth of all theory. But if we fix
+a more precise sense on our terms, I conceive it may be shown that the
+Greek philosophy did, in its opinions, recognize the necessity and
+paramount value of observations; did, in its origin, proceed upon
+observed facts; and did employ itself to no small extent in
+classifying and arranging phenomena. We must endeavor to illustrate
+these assertions, because it is important to show that these steps
+alone do not necessarily lead to science.
+1. The acknowledgment of experience as the main ground of physical
+knowledge is so generally understood to be a distinguishing feature of
+later times, that it may excite surprise to find that Aristotle, and
+other ancient philosophers, not only asserted in the most pointed
+manner that all our knowledge must begin from experience, but also
+stated in language much resembling the habitual phraseology of the
+most modern schools of philosophizing, that particular facts must be
+collected; that from these, general principles must be
+obtained by induction; and that these principles, when of the
+most general kind, are axioms. A few passages will show
+this.
+“The way53 must be the same,” says Aristotle, in
+speaking of the rules of reasoning, “with respect to philosophy, as it
+is with respect to 84 any art or science whatever; we must
+collect the facts, and the things to which the facts happen, in each
+subject, and provide as large a supply of these as possible.” He then
+proceeds to say that “we are not to look at once at all this collected
+mass, but to consider small and definite portions” . . . “And thus it
+is the office of observation to supply principles in each subject; for
+instance, astronomical observation supplies the principles of
+astronomical science. For the phenomena being properly assumed, the
+astronomical demonstrations were from these discovered. And the same
+applies to every art and science. So that if we take the facts (τὰ
+ὑπάρχοντα) belonging to each subject, it is our task to mark
+out clearly the course of the demonstrations. For if in our
+natural history (κατὰ τὴν ἱστορίαν) we have omitted nothing of
+the facts and properties which belong to the subject, we shall learn
+what we can demonstrate and what we cannot.”
+53 Anal. Prior. i. 30.
+These facts, τὰ ὑπάρχοντα, he, at other times, includes in the term
+sensation. Thus, he says,54 “It is obvious
+that if any sensation is wanting, there must be also some knowledge
+wanting which we are thus prevented from having, since we arrive at
+knowledge either by induction or by demonstration. Demonstration
+proceeds from universal propositions, Induction from particulars. But
+we cannot have universal theoretical propositions except from
+induction; and we cannot make inductions without having sensation; for
+sensation has to do with particulars.”
+54 Anal. Post. i. 18.
+In another place,55 after stating that principles must be
+prior to, and better known than conclusions, he distinguishes such
+principles into absolutely prior, and prior relative to us: “The prior
+principles, relative to us, are those which are nearer to the
+sensation; but the principles absolutely prior are those which are
+more remote from the sensation. The most general principles are the
+more remote, the more particular are nearer. The general principles
+which are necessary to knowledge are axioms.”
+55 Ib. i. 2.
+We may add to these passages, that in which he gives an account of
+the way in which Leucippus was led to the doctrine of atoms. After
+describing the opinions of some earlier philosophers, he says,56 “Thus, proceeding in violation of
+sensation, and disregarding it, because, as they held, they must
+follow reason, some came to the conclusion that the universe was one,
+and infinite, and at rest. As it appeared, however, that though this
+ought to be by reasoning, it 85 would go near to madness to hold such
+opinions in practice (for no one was ever so mad as to think fire and
+ice to be one), Leucippus, therefore, pursued a line of reasoning
+which was in accordance with sensation, and which was not
+irreconcilable with the production and decay, the motion and multitude
+of things.” It is obvious that the school to which Leucippus belonged
+(the Eclectic) must have been, at least in its origin, strongly
+impressed with the necessity of bringing its theories into harmony
+with the observed course of nature.
+56 De Gen. et Cor. i. 8.
+2. Nor was this recognition of the fundamental value of experience
+a mere profession. The Greek philosophy did, in its beginning, proceed
+upon observation. Indeed it is obvious that the principles which it
+adopted were, in the first place, assumed in order to account for some
+classes of facts, however imperfectly they might answer their purpose.
+The principle of things seeking their own places, was invented in
+order to account for the falling and floating of bodies. Again,
+Aristotle says, that heat is that which brings together things of the
+same kind, cold is that which brings together things whether of the
+same or of different kinds: it is plain that in this instance he
+intended by his principle to explain some obvious facts, as the
+freezing of moist substances, and the separation of heterogeneous
+things by fusion; for, as he adds, if fire brings together things
+which are akin, it will separate those which are not akin. It would be
+easy to illustrate the remark further, but its truth is evident from
+the nature of the case; for no principles could be accepted for a
+moment, which were the result of an arbitrary caprice of the mind, and
+which were not in some measure plausible, and apparently confirmed by
+facts.
+But the works of Aristotle show, in another way, how unjust it
+would be to accuse him of disregarding facts. Many large treatises of
+his consist almost entirely of collections of facts, as for instance,
+those “On Colors,” “On Sounds,” and the collection of Problems to
+which we have already referred; to say nothing of the numerous
+collection of facts bearing on natural history and physiology, which
+form a great portion of his works, and are even now treasuries of
+information. A moment’s reflection will convince us that the physical
+sciences of our own times, for example. Mechanics and Hydrostatics,
+are founded almost entirely upon facts with which the ancients were as
+familiar as we are. The defect of their philosophy, therefore,
+wherever it may lie, consists neither in the speculative depreciation
+of the value of facts, nor in the practical neglect of their use.
+3. Nor again, should we hit upon the truth, if we were to say that
+86 Aristotle, and
+other ancient philosophers, did indeed collect facts; but that they
+took no steps in classifying and comparing them; and that thus they
+failed to obtain from them any general knowledge. For, in reality, the
+treatises of Aristotle which we have mentioned, are as remarkable for
+the power of classifying and systematizing which they exhibit, as for
+the industry shown in the accumulation. But it is not classification
+of facts merely which can lead us to knowledge, except we adopt that
+special arrangement, which, in each case, brings into view the
+principles of the subject. We may easily show how unprofitable an
+arbitrary or random classification is, however orderly and systematic
+it may be.
+For instance, for a long period all unusual fiery appearances in
+the sky were classed together as meteors. Comets,
+shooting-stars, and globes of fire, and the aurora borealis in all its
+forms, were thus grouped together, and classifications of considerable
+extent and minuteness were proposed with reference to these objects.
+But this classification was of a mixed and arbitrary kind. Figure,
+color, motion, duration, were all combined as characters, and the
+imagination lent its aid, transforming these striking appearances into
+fiery swords and spears, bears and dragons, armies and chariots. The
+facts so classified were, notwithstanding, worthless; and would not
+have been one jot the less so, had they and their classes been ten
+times as numerous as they were. No rule or law that would stand the
+test of observation was or could be thus discovered. Such
+classifications have, therefore, long been neglected and forgotten.
+Even the ancient descriptions of these objects of curiosity are
+unintelligible, or unworthy of trust, because the spectators had no
+steady conception of the usual order of such phenomena. For, however
+much we may fear to be misled by preconceived opinions, the caprices
+of imagination distort our impressions far more than the anticipations
+of reason. In this case men had, indeed we may say with regard to many
+of these meteors, they still have, no science: not for want of facts,
+nor even for want of classification of facts; but because the
+classification was one in which no real principle was contained.
+4. Since, as we have said before, two
+things are requisite to science,—Facts and Ideas; and since, as
+we have seen. Facts were not wanting in the physical speculations of
+the ancients, we are naturally led to ask, Were they then deficient in
+Ideas? Was there a want among them of mental activity, and logical
+connection of thought? But it is so obvious that the answer to this
+inquiry must be in the negative, that we need not dwell upon it. No
+one who knows any thing of the 87 history of the ancient Greek mind, can
+question, that in acuteness, in ingenuity, in the power of close and
+distinct reasoning, they have never been surpassed. The common
+opinion, which considers the defect of their philosophical character
+to reside rather in the exclusive activity of such qualities, than in
+the absence of them, is at least so far just.
+5. We come back again, therefore, to the question, What was the
+radical and fatal defect in the physical speculations of the Greek
+philosophical schools?
+To this I answer: The defect was, that though they had in their
+possession Facts and Ideas, the Ideas were not distinct and
+appropriate to the Facts.
+The peculiar characteristics of scientific ideas, which I have
+endeavored to express by speaking of them as distinct and
+appropriate to the facts, must be more fully and formally set
+forth, when we come to the philosophy of the subject. In the mean
+time, the reader will probably have no difficulty in conceiving that,
+for each class of Facts, there is some special set of Ideas, by means
+of which the facts can be included in general scientific truths; and
+that these Ideas, which may thus be termed appropriate, must be
+possessed with entire distinctness and clearness, in order that they
+may be successfully applied. It was the want of Ideas having this
+reference to material phenomena, which rendered the ancient
+philosophers, with very few exceptions, helpless and unsuccessful
+speculators on physical subjects.
+This must be illustrated by one or two examples. One of the facts
+which Aristotle endeavors to explain is this; that when the sun’s
+light passes through a hole, whatever be the form of the hole, the
+bright image, if formed at any considerable distance from the hole, is
+round, instead of imitating the figure of the hole, as shadows
+resemble their objects in form. We shall easily perceive this
+appearance to be a necessary consequence of the circular figure of the
+sun, if we conceive light to be diffused from the luminary by means of
+straight rays proceeding from every point of the sun’s disk and
+passing through every point within the boundary of the hole. By
+attending to the consequences of this mode of conception, it will be
+seen that each point of the hole will be the vertex of a double cone
+of rays which has the sun’s disk for its base on one side and an image
+of the sun on the other; and the figure of the image of the hole will
+be determined by supposing a series of equal bright circles, images of
+the sun, to be placed along the boundary of an image equal to the hole
+itself. The figure of the image thus determined will partake of the
+form of the hole, and 88 of the circular form of the sun’s image:
+but these circular images become larger and larger as they are further
+from the hole, while the central image of the hole remains always of
+the original size; and thus at a considerable distance from the hole,
+the trace of the hole’s form is nearly obliterated, and the image is
+nearly a perfect circle. Instead of this distinct conception of a cone
+of rays which has the sun’s disk for its basis, Aristotle has the
+following loose conjecture.57 “Is it because light is emitted in a
+conical form; and of a cone, the base is a circle; so that on whatever
+the rays of the sun fall, they appear more circular?” And thus though
+he applies the notion of rays to this problem, he possesses this
+notion so indistinctly that his explanation is of no value.
+He does not introduce into his explanation the consideration of the
+sun’s circular figure, and is thus prevented from giving a true
+account of this very simple optical phenomenon.
+57 Problem. 15, ὁσα μαθηματίκης,
+&c.
+6. Again, to pass to a more extensive failure: why was it that
+Aristotle, knowing the property of the lever, and many other
+mechanical truths, was unable to form them into a science of
+mechanics, as Archimedes afterwards did?
+The reason was, that, instead of considering rest and motion
+directly, and distinctly, with reference to the Idea of Cause, that is
+Force, he wandered in search of reasons among other ideas and notions,
+which could not be brought into steady connection with the
+facts;—the ideas of properties of circles, of proportions of
+velocities,—the notions of “strange” and “common,” of “natural”
+and “unnatural.” Thus, in the Proem to his Mechanical Problems, after
+stating some of the difficulties which he has to attack, he says, “Of
+all such cases, the circle contains the principle of the cause. And
+this is what might be looked for; for it is nothing absurd, if
+something wonderful is derived from something more wonderful
+still. Now the most wonderful thing is, that opposites should be
+combined; and the circle is constituted of such combinations of
+opposites. For it is constructed by a stationary point and a moving
+line, which are contrary to each other in nature; and hence we may the
+less be surprised at the resulting contrarieties. And in the first
+place, the circumference of the circle, though a line without breadth,
+has opposite qualities; for it is both convex and
+concave. In the next place, it has, at the same time, opposite
+motions, for it moves forward and backward at the same time. For the
+circumference, setting out from any point, comes to the same point
+again, so 89 that by
+a continuous progression, the last point becomes the first. So that,
+as was before stated, it is not surprising that the circle should be
+the principle of all wonderful properties.”
+Aristotle afterwards proceeds to explain more specially how he
+applies the properties of the circle in this case. “The reason,” he
+says, in his fourth Problem, “why a force, acting at a greater
+distance from the fulcrum, moves a weight more easily, is, that it
+describes a greater circle.” He had already asserted that when a body
+at the end of a lever is put in motion, it may be considered as having
+two motions; one in the direction of the tangent, and one in the
+direction of the radius; the former motion is, he says, according
+to nature, the latter, contrary to nature. Now in the
+smaller circle, the motion, contrary to nature, is more considerable
+than it is in the larger circle. “Therefore,” he adds, “the mover or
+weight at the larger arm will be transferred further by the same force
+than the weight moved, which is at the extremity of the shorter
+arm.”
+These loose and inappropriate notions of “natural” and “unnatural”
+motions, were unfit to lead to any scientific truths; and, with the
+habits of thought which dictated these speculations a perception of
+the true grounds of mechanical properties was impossible.
+7. Thus, in this instance, the error of Aristotle was the neglect
+of the Idea appropriate to the facts, namely, the Idea of
+Mechanical Cause, which is Force; and the substitution of vague or
+inapplicable notions involving only relations of space or emotions of
+wonder. The errors of those who failed similarly in other instances,
+were of the same kind. To detail or classify these would lead us too
+far into the philosophy of science; since we should have to enumerate
+the Ideas which are appropriate, and the various classes of Facts on
+which the different sciences are founded,—a task not to be now
+lightly undertaken. But it will be perceived, without further
+explanation, that it is necessary, in order to obtain from facts any
+general truth, that we should apply to them that appropriate Idea, by
+which permanent and definite relations are established among them.
+In such Ideas the ancients were very poor, and the stunted and
+deformed growth of their physical science was the result of this
+penury. The Ideas of Space and Time, Number and Motion, they did
+indeed possess distinctly; and so far as these went, their science was
+tolerably healthy. They also caught a glimpse of the Idea of a Medium
+by which the qualities of bodies, as colors and sounds, are perceived.
+But the idea of Substance remained barren in their hands; 90 in speculating about
+elements and qualities, they went the wrong way, assuming that the
+properties of Compounds must resemble those of the Elements
+which determine them; and their loose notions of Contrariety never
+approached the form of those ideas of Polarity, which, in modern
+times, regulate many parts of physics and chemistry.
+If this statement should seem to any one to be technical or
+arbitrary, we must refer, for the justification of it, to the
+Philosophy of Science, of which we hope hereafter to treat. But it
+will appear, even from what has been here said, that there are certain
+Ideas or Forms of mental apprehension, which may be applied to Facts
+in such a manner as to bring into view fundamental principles of
+science; while the same Facts, however arrayed or reasoned about, so
+long as these appropriate ideas are not employed, cannot give rise to
+any exact or substantial knowledge.
+[2d Ed.] This account of the cause of failure in the physical
+speculations of the ancient Greek philosophers has been objected to as
+unsatisfactory. I will offer a few words in explanation of it.
+The mode of accounting for the failure of the Greeks in physics is,
+in substance;—that the Greeks in their physical speculations
+fixed their attention upon the wrong aspects and relations of the
+phenomena; and that the aspects and relations in which phenomena are
+to be viewed in order to arrive at scientific truths may be arranged
+under certain heads, which I have termed Ideas; such as Space,
+Time, Number, Cause, Likeness. In every case, there is an Idea to
+which the phenomena may be referred, so as to bring into view the Laws
+by which they are governed; this Idea I term the appropriate
+Idea in such case; and in order that the reference of the phenomena to
+the Law may be clearly seen, the Idea must be distinctly
+possessed.
+Thus the reason of Aristotle’s failure in his attempts at
+Mechanical Science is, that he did not refer the facts to the
+appropriate Idea, namely Force, the Cause of Motion, but to relations
+of Space and the like; that is, he introduces Geometrical
+instead of Mechanical Ideas. It may be said that we learn
+little by being told that Aristotle’s failure in this and the like
+cases arose from his referring to the wrong class of Ideas; or, as I
+have otherwise expressed it, fixing his attention upon the wrong
+aspects and relations of the facts; since, it may be said, this is
+only to state in other words that he did fail. But this
+criticism is, I think, ill-founded. The account which I have given is
+not only a statement that Aristotle, and others who took a like
+course, did fail; but also, that they failed in one certain point out
+of several 91 which
+are enumerated. They did not fail because they neglected to observe
+facts; they did not fail because they omitted to class facts; they did
+not fail because they had not ideas to reason from; but they failed
+because they did not take the right ideas in each case. And so long as
+they were in the wrong in this point, no industry in collecting facts,
+or ingenuity in classing them and reasoning about them, could lead
+them to solid truth.
+Nor is this account of the nature of their mistake without its
+instruction for us; although we are not to expect to derive from the
+study of their failure any technical rule which shall necessarily
+guide us to scientific discovery. For their failure teaches us that,
+in the formation of science, an Error in the Ideas is as fatal to the
+discovery of Truth as an Error in the Facts; and may as completely
+impede the progress of knowledge. I have in Books ii. to x. of the
+Philosophy, shown historically how large a portion of the
+progress of Science consists in the establishment of Appropriate Ideas
+as the basis of each science. Of the two main processes by which
+science is constructed, as stated in Book xi.
+of that work, namely the Explication of Conceptions and the
+Colligation of Facts, the former must precede the latter. In
+Book xii. chap. 5, of the Philosophy, I
+have stated the maxim concerning appropriate Ideas in this form, that
+the Idea and the Facts must be homogeneous.
+When I say that the failure of the Greeks in physical science arose
+from their not employing appropriate Ideas to connect the
+facts, I do not use the term “appropriate” in a loose popular sense;
+but I employ it as a somewhat technical term, to denote the
+appropriate Idea, out of that series of Ideas which have been made (as
+I have shown in the Philosophy) the foundation of sciences;
+namely, Space, Time, Number, Cause, Likeness, Substance, and the rest.
+It appears to me just to say that Aristotle’s failure in his attempts
+to deal with problems of equilibrium, arose from his referring to
+circles, velocities, notions of natural and unnatural, and the
+like,—conceptions depending upon Ideas of Space, of Nature,
+&c.—which are not appropriate to these problems, and from
+his missing the Idea of Mechanical Force or Pressure, which is the
+appropriate Idea.
+I give this, not as an account of all failures in attempts
+at science, but only as the account of such radical and fundamental
+failures as this of Aristotle; who, with a knowledge of the facts,
+failed to connect them into a really scientific view. If I had to
+compare rival theories of a more complex kind, I should not
+necessarily say that one involved 92 an appropriate Idea and the other did not,
+though I might judge one to be true and the other to be false. For
+instance, in comparing the emissive and the undulatory theory of
+light, we see that both involve the same Idea;—the Idea of a
+Medium acting by certain mechanical properties. The question there is,
+What is the true view of the mechanism of the Medium?
+It may be remarked, however, that the example of Aristotle’s
+failure in physics, given in p. 87, namely,
+his attempted explanation of the round image of a square hole, is a
+specimen rather of indistinct than of inappropriate
+ideas.
+The geometrical explanation of this phenomenon, which I have there
+inserted, was given by Maurolycus, and before him, by Leonardo da
+Vinci.
+We shall, in the next  Book, see the
+influence of the appropriate general Ideas, in the formation of
+various sciences. It need only be observed, before we proceed, that,
+in order to do full justice to the physical knowledge of the Greek
+Schools of philosophy, it is not necessary to study their course after
+the time of their founders. Their fortunes, in respect of such
+acquisitions as we are now considering, were not progressive. The
+later chiefs of the Schools followed the earlier masters; and though
+they varied much, they added little. The Romans adopted the philosophy
+of their Greek subjects; but they were always, and, indeed,
+acknowledged themselves to be, inferior to their teachers. They were
+as arbitrary and loose in their ideas as the Greeks, without
+possessing their invention, acuteness, and spirit of system.
+In addition to the vagueness which was combined with the more
+elevated trains of philosophical speculation among the Greeks, the
+Romans introduced into their treatises a kind of declamatory rhetoric,
+which arose probably from their forensic and political habits, and
+which still further obscured the waning gleams of truth. Yet we may
+also trace in the Roman philosophers to whom this charge mostly
+applies (Lucretius, Pliny, Seneca), the national vigor and ambition.
+There is something Roman in the public spirit and anticipation of
+universal empire which they display, as citizens of the intellectual
+republic. Though they speak sadly or slightingly of the achievements
+of their own generation, they betray a more abiding and vivid belief
+in the dignity and destined advance of human knowledge as a whole,
+than is obvious among the Greeks.
+We must, however, turn back, in order to describe steps
+of more definite value to the progress of science than those which we
+have hitherto noticed.  ~Additional material in the 3rd edition.~
+
+
+BOOK II.
+
+HISTORY
+OF THE
+PHYSICAL
+SCIENCES
+IN
+ANCIENT GREECE.
+
+
+Ναρθηκοπλήρωτον δὲ θηρῶμαι πυρὸς
+Πηγὴν κλοπαίαν, ἣ διδάσκαλος τέχνης
+Πάσης βροτοῖς πεφῆνε καὶ μέγας πόρος.
+Prom. Vinct. 109.
+
+I brought to earth the spark of heavenly
+fire,
+Concealed at first, and small, but spreading
+soon
+Among the sons of men, and burning on,
+Teacher of art and use, and fount of
+power.
+
+</div></body></text></TEI>

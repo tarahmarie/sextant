@@ -1,0 +1,600 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="82">CHAPTER II.
+The Progress of Electrical Theory.
+THE cause of electrical
+phenomena, and the mode of its operation, were naturally at first
+spoken of in an indistinct and wavering manner. It was called the
+electric fire, the electric fluid; its effects were
+attributed to virtues, effluvia, atmospheres.
+When men’s mechanical ideas became somewhat more distinct, the motions
+and tendencies to motion were ascribed to currents, in the same
+manner as the cosmical motions had been in the Cartesian system. This
+doctrine of currents was maintained by Nollet, who ascribed all the
+phenomena of electrized bodies to the contemporaneous afflux and
+efflux of electrical matter. It was an important step towards sound
+theory, to get rid of this notion of moving fluids, and to consider
+attraction and repulsion as statical forces; and this appears to have
+been done by others about the same time. Dufay23 considered that
+he had proved the existence of two electricities, the vitreous and the
+resinous, and conceived each 202 of these to be a fluid which repelled
+its own parts and attracted those of the other: this is, in fact, the
+outline of the theory which recently has been considered as the best
+established; but from various causes it was not at once, or at least
+not generally adopted. The hypothesis of the excess and defect of a
+single fluid is capable of being so treated as to give the same
+results with the hypothesis of two opposite fluids and happened to
+obtain the preference for some time. We have already seen that this
+hypothesis, according to which electric phenomena arose from the
+excess and defect of a generally diffused fluid, suggested itself to
+Watson and Franklin about 1747. Watson found that when an electric
+body was excited, the electricity was not created, but collected; and
+Franklin held, that when the Leyden jar was charged, the quantity of
+electricity was unaltered, though its distribution was changed.
+Symmer24 maintained the existence of two fluids;
+and Cigna supplied the main defect which belonged to this tenet in the
+way in which Dufay held it, by showing that the two opposite
+electricities were usually produced at the same time. Still the
+apparent simplicity of the hypothesis of one fluid procured it many
+supporters. It was that which Franklin adopted, in his explanation of
+the Leyden experiment; and though after the first conception of an
+electrical charge as a disturbance of equilibrium, there was nothing
+in the development or details of Franklin’s views which deserved to
+win for them any peculiar authority, his reputation, and his skill as
+a writer, gave a considerable influence to his opinions. Indeed, for a
+time he was considered, over a large part of Europe, as the creator of
+the science, and the terms25
+Franklinism, Franklinist, Franklinian system,
+occur in almost every page of continental publications on the subject.
+Yet the electrical phenomena to the knowledge of which Franklin added
+least, those of induction, were those by which the progress of the
+theory was most promoted. These, as we have already said, were at
+first explained by the hypothesis of electrical atmospheres. Lord
+Mahon wrote a treatise, in which this hypothesis was mathematically
+treated; yet the hypothesis was very untenable, for it would not
+account for the most obvious cases of induction, such as the Leyden
+jar, except the atmosphere was supposed to penetrate glass.
+23 Ac. Par. 1733, p.
+467.
+24 Phil. Trans. 1759.
+25 Priestley, p. 160.
+The phenomena of electricity by induction, when fairly considered
+by a person of clear notions of the relations of space and force, were
+seen to accommodate themselves very generally to the conception 203 introduced by
+Dufay;26 of two electricities each repelling
+itself and attracting the other. If we suppose that there is only one
+fluid, which repels itself and attracts all other matter, we obtain,
+in many cases, the same general results as if we suppose two fluids;
+thus, if an electrized body, overcharged with the single fluid, act
+upon a ball, it drives the electric fluid in the ball to the further
+side by its repulsion, and then attracts the ball by attracting the
+matter of the ball more than it repels the fluid which is upon the
+ball. If we suppose two fluids, the positively electrized body draws
+the negative fluid to the nearer side of the ball, repels the positive
+fluid to the opposite side, and attracts the ball on the whole,
+because the attracted fluid is nearer than that which is repelled. The
+verification of either of these hypotheses, and the determination of
+their details, depended necessarily upon experiment and calculation.
+It was under the hypothesis of a single fluid that this trial was
+first properly made. Æpinus of Petersburg published, in 1759, his
+Tentamen Theoriæ Electricitatis et Magnetismi; in which he
+traces mathematically the consequences of the hypothesis of an
+electric fluid, attracting all other matter, but repelling itself; the
+law of force of this repulsion and attraction he did not pretend to
+assign precisely, confining himself to the supposition that the mutual
+force of the particles increases as the distance decreases. But it was
+found, that in order to make this theory tenable, an additional
+supposition was required, namely, that the particles of bodies repel
+each other as much as they attract the electric fluid.27 For if two bodies, A and B, be in their
+natural electrical condition, they neither attract nor repel each
+other. Now, in this case, the fluid in A attracts the matter in B and
+repels the fluid in B with equal energy, and thus no tendency to
+motion results from the fluid in A; and if we further suppose that the
+matter in A attracts the fluid in B and repels the
+matter in B with equal energy, we have the resulting mutual
+inactivity of the two bodies explained; but without the latter
+supposition, there would be a mutual attraction: or we may put the
+truth more simply thus; two negatively electrized bodies repel each
+other; if negative electrization were merely the abstraction of the
+fluid which is the repulsive element, this result could not follow
+except there were a repulsion in the bodies themselves, independent of
+the fluid. And thus Æpinus found himself compelled to assume this
+mutual repulsion of material particles; he had, in fact, the 204 alternative of this
+supposition, or that of two fluids, to choose between, for the
+mathematical results of both hypotheses are the same. Wilcke, a Swede,
+who had at first asserted and worked out the Æpinian theory in its
+original form, afterwards inclined to the opinion of Symmer; and
+Coulomb, when, at a later period, he confirmed the theory by his
+experiments and determined the law of force, did not hesitate to
+prefer28 the theory of two fluids, “because,” he
+says, “it appears to me contradictory to admit at the same time, in
+the particles of bodies, an attractive force in the inverse ratio of
+the squares of the distances, which is demonstrated by universal
+gravitation, and a repulsive force in the same inverse ratio of the
+squares of the distances; a force which would necessarily be
+infinitely great relatively to the action of gravitation.” We may add,
+that by forcing us upon this doctrine of the universal repulsion of
+matter, the theory of a single fluid seems quite to lose that
+superiority in the way of simplicity which had originally been its
+principal recommendation.
+26 Mém. A. P. 1733, p.
+467.
+27 Robison, vol. iv. p. 18.
+28 Mém. Ac. P. 1788, p.
+671.
+The mathematical results of the supposition of Æpinus, which are,
+as Coulomb observes,29 the same as of that of the two fluids,
+were traced by the author himself in the work referred to, and shown
+to agree, in a great number of cases, with the observed facts of
+electrical induction, attraction, and repulsion. Apparently this work
+did not make its way very rapidly through Europe; for in 1771, Henry
+Cavendish stated30 the same hypothesis in a paper read
+before the Royal Society; which he prefaces by saying, “Since I first
+wrote the following paper, I find that this way of accounting for the
+phenomena of electricity is not new. Æpinus, in his Tentamen
+Theoriæ Electricitatis et Magnetismi, has made use of the same, or
+nearly the same hypothesis that I have; and the conclusions he draws
+from it agree nearly with mine as far as he goes.”
+29 Ac. P. 1788, p. 672.
+30 Phil. Trans. 1771, vol.
+lxi.
+The confirmation of the theory was, of course, to be found in the
+agreement of its results with experiment; and in particular, in the
+facts of electrical induction, attraction, and repulsion, which
+suggested the theory. Æpinus showed that such a confirmation appeared
+in a number of the most obvious cases; and to these, Cavendish added
+others, which, though not obvious, were of such a nature that the
+calculations, in general difficult or impossible, could in these
+instances be easily performed; as, for example, cases in which there
+are plates or globes at the two extremities of a long wire. In all
+these cases of 205
+electrical action the theory was justified. But in order to give it
+full confirmation, it was to be considered whether any other facts,
+not immediately assumed in the foundation of the theory, were
+explained by it; a circumstance which, as we have seen, gave the final
+stamp of truth to the theories of astronomy and optics. Now we appear
+to have such confirmation, in the effect of points, and in the
+phenomena of the electrical discharge. The theory of neither of these
+was fully understood by Cavendish, but he made an approach to the true
+view of them. If one part of a conducting body be a sphere of small
+radius, the electric fluid upon the surface of this sphere will, it
+appears by calculation, be more dense, and tend to escape more
+energetically, in proportion as the radius of the sphere is smaller;
+and, therefore, if we consider a point as part of the surface of a
+sphere of imperceptible radius, it follows from the theory that the
+effort of the fluid to escape at that place will be enormous; so that
+it may easily be supposed to overcome the resisting causes. And the
+discharge may be explained in nearly the same manner; for when a
+conductor is brought nearer and nearer to an electrized body, the
+opposite electricity is more and more accumulated by attraction on the
+side next to the electrized body; its tension becomes greater by the
+increase of its quantity and the diminution of the distance, and at
+last it is too strong to be contained, and leaps out in the form of a
+spark.
+The light, sound, and mechanical effects produced by the electric
+discharge, made the electric fluid to be not merely considered
+as a mathematical hypothesis, useful for reducing phenomena to formulæ
+(as for a long time the magnetic fluid was), but caused it to be at
+once and universally accepted as a physical reality, of which we learn
+the existence by the common use of the senses, and of which measures
+and calculations are only wanted to teach us the laws.
+The applications of the theory of electricity which I have
+principally considered above, are those which belong to conductors, in
+which the electric fluid is perfectly moveable, and can take that
+distribution which the forces require. In non-conducting or electric
+bodies, the conditions to which the fluid is subject are less easy to
+determine; but by supposing that the fluid moves with great difficulty
+among the particles of such bodies,—that nevertheless it may be
+dislodged and accumulated in parts of the surface of such bodies, by
+friction and other modes of excitement; and that the earth is an
+inexhaustible reservoir of electric matter,—the principal facts
+of excitation and the like receive a tolerably satisfactory
+explanation. 206
+The theory of Æpinus, however, still required to have the law of
+action of the particles of the fluid determined. If we were to call to
+mind how momentous an event in physical astronomy was the
+determination of the law of the cosmical forces, the inverse square of
+the distance, and were to suppose the importance and difficulty of the
+analogous step in this case to be of the same kind, this would be to
+mistake the condition of science at that time. The leading idea, the
+conception of the possibility of explaining natural phenomena by means
+of the action of forces, on rigorously mechanical principles, had
+already been promulgated by Newton, and was, from the first, seen to
+be peculiarly applicable to electrical phenomena; so that the very
+material step of clearly proposing the problem, often more important
+than the solution of it, had already been made. Moreover the
+confirmation of the truth of the assumed cause in the astronomical
+case depended on taking the right law; but the electrical theory could
+be confirmed, in a general manner at least, without this restriction.
+Still it was an important discovery that the law of the inverse square
+prevailed in these as well as in cosmical attractions.
+It was impossible not to conjecture beforehand that it would be so.
+Cavendish had professed in his calculations not to take the exponent
+of the inverse power, on which the force depended, to be strictly 2,
+but to leave it indeterminate between 1 and 3; but in his applications
+of his results, he obviously inclines to the assumption that it is 2.
+Experimenters tried to establish this in various ways. Robison,31 in 1769, had already proved that the
+law of force is very nearly or exactly the inverse square; and Meyer32 had discovered, but not published, the
+same result. The clear and satisfactory establishment of this truth is
+due to Coulomb, and was one of the first steps in his important series
+of researches on this subject. In his first paper33 in the
+Memoirs of the Academy for 1785, he proves this law for small
+globes; in his second Memoir he shows it to be true for globes one and
+two feet in diameter. His invention of the torsion-balance,
+which measures very small forces with great certainty and exactness,
+enabled him to set this question at rest for ever.
+31 Works, iv. p. 68.
+32 Biog. Univ. art.
+Coulumb, by Biot.
+33 Mém. A. P. 1785, pp. 569,
+578.
+The law of force being determined for the particles of the electric
+fluid, it now came to be the business of the experimenter and the
+207 mathematician
+to compare the results of the theory in detail with those of
+experimental measures. Coulomb undertook both portions of the task. He
+examined the electricity of portions of bodies by means of a little
+disk (his tangent plane) which he applied to them and then
+removed, and which thus acted as a sort of electric taster. His
+numerical results (the intensity being still measured by the
+torsion-balance) are the fundamental facts of the theory of the
+electrical fluid. Without entering into detail, we may observe that he
+found the electricity to be entirely collected at the surface of
+conductors (which Beccaria had before shown to be the case), and that
+he examined and recorded the electric intensity at the surface of
+globes, cylinders, and other conducting bodies, placed within each
+other’s influence in various ways.
+The mathematical calculation of the distribution of two fluids, all
+the particles of which attract and repel each other according to the
+above law, was a problem of no ordinary difficulty; as may easily be
+imagined, when it is recollected that the attraction and repulsion
+determine the distribution, and the distribution reciprocally
+determines the attraction and repulsion. The problem was of the same
+nature as that of the figure of the earth; and its rigorous solution
+was beyond the powers of the analysis of Coulomb’s time. He obtained,
+however, approximate solutions with much ingenuity; for instance, in a
+case in which it was obvious that the electric fluid would be most
+accumulated at and near the equator of a certain sphere, he calculated
+the action of the sphere on two suppositions: first, that the fluid
+was all collected precisely at the equator; and next, that it was
+uniformly diffused over the surface; and he then assumed the actual
+case to be intermediate between these two. By such artifices he was
+able to show that the results of his experiments and of his
+calculations gave an agreement sufficiently near to entitle him to
+consider the theory as established on a solid basis.
+Thus, at this period, mathematics was behind experiment; and a
+problem was proposed, in which theoretical numerical results were
+wanted for comparison with observation, but could not be accurately
+obtained; as was the case in astronomy also, till the time of the
+approximate solution of the Problem of Three Bodies, and the
+consequent formation of the Tables of the Moon and Planets on the
+theory of universal gravitation. After some time, electrical theory
+was relieved from this reproach, mainly in consequence of the progress
+which astronomy had occasioned in pure mathematics. About 1801, 208 there appeared in the
+Bulletin des Sciences,34 an exact
+solution of the problem of the distribution of electric fluid on a
+spheroid, obtained by M. Biot, by the application of the peculiar
+methods which Laplace had invented for the problem of the figure of
+the planets. And in 1811, M. Poisson applied Laplace’s artifices to
+the case of two spheres acting upon one another in contact, a case to
+which many of Coulomb’s experiments were referrible; and the agreement
+of the results of theory and observation, thus extricated from
+Coulomb’s numbers, obtained above forty years previously, was very
+striking and convincing.35 It followed also from Poisson’s
+calculations, that when two electrized spheres are brought near each
+other, the accumulation of the opposite electricities on their nearest
+points increases without limit as the spheres approach to contact; so
+that before the contact takes place, the external resistance will be
+overcome, and a spark will pass.
+34 No. li.
+35 Mém. A. P. 1811.
+Though the relations of non-conductors to electricity, and various
+other circumstances, leave many facts imperfectly explained by the
+theory, yet we may venture to say that, as a theory which gives the
+laws of the phenomena, and which determines the distribution of those
+elementary forces, on the surface of electrized bodies, from which
+elementary forces (whether arising from the presence of a fluid or
+not,) the total effects result, the doctrine of Dufay and Coulomb, as
+developed in the analysis of Poisson, is securely and permanently
+established. This part of the subject has been called statical
+electricity. In the establishment of the theory of this branch of
+science, we must, I conceive, allow to Dufay more merit than is
+generally ascribed to him; since he saw clearly, and enunciated in a
+manner which showed that he duly appreciated their capital character,
+the two chief principles,—the conditions of electrical
+attraction and repulsion, and the apparent existence of two kinds of
+electricity. His views of attraction are, indeed, partly expressed in
+terms of the Cartesian hypothesis of vortices, then prevalent in
+France; but, at the time when he wrote, these forms of speech
+indicated scarcely anything besides the power of attraction.
+Franklin’s real merit as a discoverer was, that he was one of the
+first who distinctly conceived the electrical charge as a
+derangement of equilibrium. The great fame which, in his day, he
+enjoyed, arose from the clearness and spirit with which he narrated
+his discoveries; from his dealing with electricity in the imposing
+form of thunder and lightning; and partly, perhaps, from his character
+as an 209 American
+and a politician; for he was already, in 1736, engaged in public
+affairs as clerk to the General Assembly of Pennsylvania, though it
+was not till a later period of his life that his admirers had the
+occasion of saying of him
+
+Eripuit cœlis fulmen sceptrumque tyrannis;
+
+Born to control all lawless force, all fierce and
+baleful sway,
+The thunder’s bolt, the tyrant’s rod, alike he
+wrenched away.
+Æpinus and Coulomb were two of the most eminent physical
+philosophers of the last century, and labored in the way peculiarly
+required by that generation; whose office it was to examine the
+results, in particular subjects, of the general conception of
+attraction and repulsion, as introduced by Newton. The reasonings of
+the Newtonian period had, in some measure, anticipated all possible
+theories resembling the electrical doctrine of Æpinus and Coulomb;
+and, on that account, this doctrine could not be introduced and
+confirmed in a sudden and striking manner, so as to make a great
+epoch. Accordingly, Dufay, Symmer, Watson, Franklin, Æpinus and
+Coulomb, have all a share in the process of induction. With reference
+to these founders of the theory of electricity, Poisson holds the same
+place which Laplace holds with reference to Newton.
+The reception of the Coulombian theory (so we most call
+it, for the Æpinian theory implies one fluid only,) has hitherto not
+been so general as might have been reasonably expected from its very
+beautiful accordance with the facts which it contemplates. This has
+partly been owing to the extreme abstruseness of the mathematical
+reasoning which it employs, and which put it out of the reach of most
+experimenters and writers of works of general circulation. The theory
+of Æpinus was explained by Robison in the Encyclopædia
+Britannica; the analysis of Poisson has recently been presented to
+the public in the Encyclopædia Metropolitana, but is of a kind
+not easily mastered even by most mathematicians. On these accounts
+probably it is, that in English compilations of science, we find, even
+to this day, the two theories of one and of two fluids stated as if
+they were nearly on a par in respect of their experimental evidence.
+Still we may say that the Coulombian theory is probably assented to by
+all who have examined it, at least as giving the laws of phenomena;
+and I have not heard of any denial of it from such a quarter, or of
+any attempt to show it to be erroneous by detailed and measured
+experiments. Mr. Snow Harris 210 has recently36 described some
+important experiments and measures; but his apparatus was of such a
+kind that the comparison of the results with the Coulombian theory was
+not easy; and indeed the mathematical problems which Mr. Harris’s
+combinations offered, require another Poisson for their solution.
+Still the more obvious results are such as agree with the theory, even
+in the cases in which their author considered them to be inexplicable.
+For example, he found that by doubling the quantity of electricity of
+a conductor, it attracted a body with four times the force; but the
+body not being insulated, would have its electricity also doubled by
+induction, and thus the fact was what the theory required.
+36 Phil. Trans. 1834, p.
+2.
+Though it is thus highly probable that the Coulombian theory of
+electricity (or the Æpinian, which is mathematically equivalent) will
+stand as a true representation of the law of the elementary actions,
+we must yet allow that it has not received that complete evidence, by
+means of experiments and calculations added to those of its founders,
+which the precedents of other permanent sciences have led us to look
+for. The experiments of Coulomb, which he used in the establishment of
+the theory, were not very numerous, and they were limited to a
+peculiar form of bodies, namely spheres. In order to form the proper
+sequel to the promulgation of this theory, to give a full
+confirmation, and to ensure its general reception, we
+ought to have experiments more numerous and more varied (such as those
+of Mr. Harris are) shown to agree in all respects with results
+calculated from the theory. This would, as we have said, be a task of
+labor and difficulty; but the person who shall execute it will deserve
+to be considered as one of the real founders of the true doctrine of
+electricity. To show that the coincidence between theory and
+observation, which has already been proved for spherical conductors,
+obtains also for bodies of other forms, will be a step in electricity
+analogous to what was done in astronomy, when it was shown that the
+law of gravitation applied to comets as well as to planets.
+But although we consider the views of Æpinus or Coulomb in a very
+high degree probable as a formal theory, the question is very
+different when we come to examine them as a physical
+theory;—that is, when we inquire whether there really is a
+material electric fluid or fluids.
+Question of One or Two Fluids.—In the first place as
+to the question whether the fluids are one or two;—Coulomb’s
+introduction of 211
+the hypothesis of two fluids has been spoken of as a reform of the
+theory of Æpinus; it would probably have been more safe to have called
+his labors an advance in the calculation, and in the comparison of
+hypothesis with experiment, than to have used language which implied
+that the question, between the rival hypotheses of one or two fluids,
+could be treated as settled. For, in reality, if we assume, as Æpinus
+does, the mutual repulsion of all the particles of matter, in addition
+to the repulsion of the particles of the electric fluid for one
+another and their attraction for the particles of matter, the one
+fluid of Æpinus will give exactly the same results as the two fluids
+of Coulomb. The mathematical formulæ of Coulomb and of Poisson express
+the conditions of the one case as well as of the other; the
+interpretation only being somewhat different. The place of the forces
+of the resinous fluid is supplied by the excess of the forces ascribed
+to the matter above the forces of the fluid, in the parts where the
+electric fluid is deficient.
+The obvious argument against this hypothesis is, that we ascribe to
+the particles of matter a mutual repulsion, in addition to the mutual
+attraction of universal gravitation, and that this appears
+incongruous. Accordingly, Æpinus says, that when he was first driven
+to this proposition it horrified him.37 But we may
+answer it in this way very satisfactorily:—If we suppose the
+mutual repulsion of matter to be somewhat less than the mutual
+attraction of matter and electric fluid, it will follow, as a
+consequence of the hypothesis, that besides all obvious electrical
+action, the particles of matter would attract each other with forces
+varying inversely as the square of the distance. Thus gravitation
+itself becomes an electrical phenomenon, arising from the residual
+excess of attraction over repulsion; and the fact which is urged
+against the hypothesis becomes a confirmation of it. By this
+consideration the prerogative of simplicity passes over to the side of
+the hypothesis of one fluid; and the rival view appears to lose at
+least all its superiority.
+37 Neque diffiteor cum ipsa se mihi
+offerret . . . . me ad ipsam quodammodo  exhorruisse. Tentamen
+Theor. Elect. p. 39.
+Very recently, M. Mosotti38 has calculated
+the results of the Æpinian theory in a far more complete manner than
+had previously been performed; using Laplace’s coefficients, as
+Poisson had done for the 212 Coulombian theory. He finds that, from
+the supposition of a fluid and of particles of matter exercising such
+forces as that theory assumes (with the very allowable additional
+supposition that the particles are small compared with their
+distances), it follows that the particles would exert a force,
+repulsive at the smallest distances, a little further on vanishing,
+afterwards attractive, and at all sensible distances attracting in
+proportion to the inverse square of the distance. Thus there would be
+a position of stable equilibrium for the particles at a very small
+distance from each other, which may be, M. Mosotti suggests, that
+equilibrium on which their physical structure depends. According to
+this view, the resistance of bodies to compression and to extension,
+as well as the phenomena of statical electricity and the mutual
+gravitation of matter, are accounted for by the same hypothesis of a
+single fluid or ether. A theory which offers a prospect of such a
+generalization is worth attention; but a very clear and comprehensive
+view of the doctrines of several sciences is requisite to prepare us
+to estimate its value and probable success.
+38 Sur les Forces qui régissent la
+Constitution Intérieure des Corps. Turin. 1836.
+Question of the Material Reality of the Electric
+Fluid.—At first sight the beautiful accordance of the
+experiments with calculations founded upon the attractions and
+repulsions of the two hypothetical fluids, persuade us that the
+hypotheses must be the real state of things. But we have already
+learned that we must not trust to such evidence too readily. It is a
+curious instance of the mutual influence of the histories of two
+provinces of science, but I think it will be allowed to be just, to
+say that the discovery of the polarization of heat has done much to
+shake the theory of the electric fluids as a physical reality. For the
+doctrine of a material caloric appeared to be proved (from the laws of
+conduction and radiation) by the same kind of mathematical evidence
+(the agreement of laws respecting the elementary actions with those of
+fluids), which we have for the doctrine of material electricity. Yet
+we now seem to see that heat cannot be matter, since its rays have
+sides, in a manner in which a stream of particles of matter
+cannot have sides without inadmissible hypotheses. We see, then, that
+it will not be contrary to precedent, if our electrical theory,
+representing with perfect accuracy the laws of the actions,
+in all their forms, simple and complex, should yet be fallacious as a
+view of the cause of the actions.
+Any true view of electricity must include, or at least be
+consistent with, the other classes of the phenomena, as well as this
+statical electrical action; such as the conditions of excitation and
+retention of 213
+electricity; to which we may add, the connexion of electricity with
+magnetism and with chemistry;—a vast field, as yet dimly seen.
+Now, even with regard to the simplest of these questions, the cause of
+the retention of electricity at the surface of bodies, it appears to
+be impossible to maintain Coulomb’s opinion, that this is effected by
+the resistance of air to the passage of electricity. The other
+questions are such as Coulomb did not attempt to touch; they refer,
+indeed, principally to laws not suspected at his time. How wide and
+profound a theory must be which deals worthily with these, we shall
+obtain some indications in the succeeding part of our history.
+But it may be said on the other side, that we have the evidence of
+our senses for the reality of an electric fluid;—we see it in
+the spark; we hear it in the explosion; we feel it in the shock; and
+it produces the effects of mechanical violence, piercing and tearing
+the bodies through which it passes. And those who are disposed to
+assert a real fluid on such grounds, may appear to be justified in
+doing so, by one of Newton’s “Rules of Philosophizing,” in which he
+directs the philosopher to assume, in his theories, “causes which are
+true.” The usual interpretation of a “vera causa,” has been, that it
+implies causes which, independently of theoretical calculations, are
+known to exist by their mechanical effects; as gravity was familiarly
+known to exist on the earth, before it was extended to the heavens.
+The electric fluid might seem to be such a vera causa.
+To this I should venture to reply, that this reasoning shows how
+delusive the Newtonian rule, so interpreted, may be. For a moment’s
+consideration will satisfy us that none of the circumstances, above
+adduced, can really prove material currents, rather than vibrations,
+or other modes of agency. The spark and shock are quite insufficient
+to supply such a proof. Sound is vibrations,—light is
+vibrations; vibrations may affect our nerves, and may rend a body, as
+when glasses are broken by sounds. Therefore all these supposed
+indications of the reality of the electric fluid are utterly
+fallacious. In truth, this mode of applying Newton’s rule consists in
+elevating our first rude and unscientific impressions into a supremacy
+over the results of calculation, generalization, and systematic
+induction.39
+39 On the subject of this
+Newtonian Rule of Philosophizing, see further Phil. Ind. Sc. B.
+xii. c. 13. I have given an account of the history and evidence of the
+Theory of Electricity in the Reports of the British Association
+for 1835. I may seem there to have spoken more favorably of the Theory
+as a Physical Theory than I have done here. This difference is
+principally due to a consideration of the present aspect of the Theory
+of Heat.
+214 Thus our
+conclusion with regard to this subject is, that if we wish to form a
+stable physical theory of electricity, we must take into account not
+only the laws of statical electricity, which we have been chiefly
+considering, but the laws of other kinds of agency, different from the
+electric, yet connected with it. For the electricity of which we have
+hitherto spoken, and which is commonly excited by friction, is
+identical with galvanic action, which is a result of chemical
+combinations, and belongs to chemical philosophy. The connexion of
+these different kinds of electricity with one another leads us into a
+new domain; but we must, in the first place, consider their mechanical
+laws. We now proceed to another branch of the same subject,
+Magnetism.
+~Additional material in the 3rd
+edition.~
+
+
+BOOK XII.
+
+MECHANICO-CHEMICAL SCIENCES.
+(CONTINUED.)
+
+HISTORY OF MAGNETISM.
+
+Effice, ut interea fera
+munera militiaï
+Per maria ac terras omneis sopita
+quiescant.
+Nam tu sola potes tranquilla pace juvare
+Mortales; quoniam belli fera munera Mavors
+Armipotens regit, in gremium qui sæpe tuum
+se
+Rejicit, æterno devictus vulnere amoris;
+Atque ita suspiciens tereti cervice
+reposta,
+Pascit amore avidos inhians in te, Dea,
+visus,
+Eque tuo pendet resupini spiritus ore.
+Hunc tu, Diva, tuo recubantem corpore
+sancto
+Circumfusa super, suaves ex ore loquelas
+Funde, petens placidam Romanis, incluta,
+pacem.
+Lucret. i.
+31.
+
+O charming Goddess, whose mysterious sway
+The unseen hosts of earth and sky obey;
+To whom, though cold and hard to all
+besides,
+The Iron God by strong affection glides.
+Flings himself eager to thy close embrace,
+And bends his head to gaze upon thy face;
+Do thou, what time thy fondling arms are
+thrown
+Around his form, and he is all thy own,
+Do thou, thy Rome to save, thy power to
+prove,
+Beg him to grant a boon for thy dear love;
+Beg him no more in battle-fields to deal.
+Or crush the nations with his mailed heel.
+But, touched and softened by a worthy
+flame,
+Quit sword and spear, and seek a better
+fame.
+Bid him to make all war and slaughter
+cease,
+And ply his genuine task in arts of peace;
+And by thee guided o’er the trackless
+surge,
+Bear wealth and joy to ocean’s farthest
+verge.
+
+</div></body></text></TEI>

@@ -1,0 +1,86 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="58">CHAPTER IV.
+Problem of different Sounds of the same
+String.
+IT had been observed at an
+early period of acoustical knowledge, that one string might give
+several sounds. Mersenne and others 37 had noticed21 that when a
+string vibrates, one which is in unison with it vibrates without being
+touched. He was also aware that this was true if the second string was
+an octave or a twelfth below the first. This was observed as a new
+fact in England in 1674, and communicated to the Royal Society by
+Wallis.22 But the later observers ascertained
+further, that the longer string divides itself into two, or into three
+equal parts, separated by nodes, or points of rest; this they
+proved by hanging bits of paper on different parts of the string. The
+discovery so modified was again made by Sauveur23 about 1700. The
+sounds thus produced in one string by the vibration of another, have
+been termed Sympathetic Sounds. Similar sounds are often
+produced by performers on stringed instruments, by touching the string
+at one of its aliquot divisions, and are then called the Acute
+harmonics. Such facts were not difficult to explain on Taylor’s
+view of the mechanical condition of the string; but the difficulty was
+increased when it was noticed that a sounding body could produce these
+different notes at the same time. Mersenne had remarked this,
+and the fact was more distinctly observed and pursued by Sauveur. The
+notes thus produced in addition to the genuine note of the string,
+have been called Secondary Notes; those usually heard are, the
+Octave, the Twelfth, and the Seventeenth above the note itself. To
+supply a mode of conceiving distinctly, and explaining mechanically,
+vibrations which should allow of such an effect, was therefore a
+requisite step in acoustics.
+21 Harm. lib. iv. Prop. 28
+(1636).
+22 Ph. Tr. 1677, April.
+23 A. P. 1701.
+This task was performed by Daniel Bernoulli in a memoir published
+in 1755.24 He there stated and proved the
+Principle of the coexistence of small vibrations. It was
+already established, that a string might vibrate either in a single
+swelling (if we use this word to express the curve between two
+nodes which Bernoulli calls a ventre), or in two or three or
+any number of equal swellings with immoveable nodes between. Daniel
+Bernoulli showed further, that these nodes might be combined, each
+taking place as if it were the only one. This appears sufficient to
+explain the coexistence of the harmonic sounds just noticed.
+D’Alembert, indeed, in the article Fundamental in the French
+Encyclopédie, and Lagrange in his Dissertation on Sound
+in the Turin Memoirs,25 offer several
+objections to this explanation; and it cannot be denied that the
+subject has its difficulties; but 38 still these do not deprive Bernoulli of
+the merit of having pointed out the principle of Coexistent
+Vibrations, or divest that principle of its value in physical
+science.
+24 Berlin Mem. 1753, p.
+147.
+25 T. i. pp. 64, 103.
+Daniel Bernoulli’s Memoir, of which we speak, was published at a
+period when the clouds which involve the general analytical treatment
+of the problem of vibrating strings, were thickening about Euler and
+D’Alembert, and darkening into a controversial hue; and as Bernoulli
+ventured to interpose his view, as a solution of these difficulties,
+which, in a mathematical sense, it is not, we can hardly be surprised
+that he met with a rebuff. The further prosecution of the different
+modes of vibration of the same body need not be here considered.
+The sounds which are called Grave Harmonics, have no analogy
+with the Acute Harmonics above-mentioned; nor do they belong to this
+section; for in the case of Grave Harmonics, we have one sound from
+the co-operation of two strings, instead of several sounds from one
+string. These harmonics are, in fact, connected with beats, of which
+we have already spoken; the beats becoming so
+close as to produce a note of definite musical quality. The discovery
+of the Grave Harmonics is usually ascribed to Tartini, who mentions
+them in 1754; but they are first noticed26 in the work of
+Sorge On tuning Organs, 1744. He there expresses this discovery
+in a query. “Whence comes it, that if we tune a fifth (2 : 3), a
+third sound is faintly heard, the octave below the lower of
+the two notes? Nature shows that with 2 : 3, she still requires the
+unity, to perfect the order 1, 2, 3.” The truth is, that these numbers
+express the frequency of the vibrations, and thus there will be
+coincidences of the notes 2 and 3, which are of the frequency 1, and
+consequently give the octave below the sound 2. This is the
+explanation given by Lagrange,27 and is indeed
+obvious.
+26 Chladni. Acoust. p.
+254.
+27 Mem. Tur. i. p. 104.
+</div></body></text></TEI>

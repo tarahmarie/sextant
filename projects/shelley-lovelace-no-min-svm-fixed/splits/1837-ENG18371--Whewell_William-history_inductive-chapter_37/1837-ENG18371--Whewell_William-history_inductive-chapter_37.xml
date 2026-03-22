@@ -1,0 +1,312 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="37">CHAPTER V.
+Discoveries added to the Newtonian
+Theory.
+
+Sect. 1.—Tables of Astronomical
+Refraction.
+WE have travelled over an
+immense field of astronomical and mathematical labor in the last few
+pages, and have yet, at the end of every step, still found ourselves
+under the jurisdiction of the Newtonian laws. We are reminded of the
+universal monarchies, where a man could not escape from the empire
+without quitting the world. We have now to notice some other
+discoveries, in which this reference to the law of universal
+gravitation is less immediate and obvious; I mean the astronomical
+discoveries respecting Light.
+The general truths to which the establishment of the true laws of
+Atmospheric Refraction led astronomers, were the law of Deflection of
+the rays of light, which applies to all refractions, and the real
+structure and size of the Atmosphere, so far as it became known. The
+great discoveries of Römer and Bradley, namely, the Velocity of Light,
+the Aberration of Light, and the Nutation of the earth’s axis, gave a
+new distinctness to the conceptions of the propagation of light in the
+minds of philosophers, and confirmed the doctrines of Copernicus,
+Kepler, and Newton, respecting the motions which belong to the
+earth.
+The true laws of Atmospheric Refraction were slowly discovered.
+Tycho attributed the apparent displacement of the heavenly bodies to
+the low and gross part of the atmosphere only, and hence made it cease
+at a point half-way to the zenith; but Kepler rightly extended it to
+the zenith itself. Dominic Cassini endeavored to discover the law of
+this correction by observation, and gave his result in the form 463 which, as we have
+said, sound science prescribes, a Table to be habitually used for all
+observations. But great difficulties at this time embarrassed this
+investigation, for the parallaxes of the sun and of the planets were
+unknown, and very diverse values had been assigned them by different
+astronomers. To remove some of these difficulties, Richer, in 1762,
+went to observe at the equator; and on his return, Cassini was able to
+confirm and amend his former estimations of parallax and refraction.
+But there were still difficulties. According to La Hire, though the
+phenomena of twilight give an altitude of 34,000 toises to the
+atmosphere,109 those of refraction make it only 2000.
+John Cassini undertook to support and improve the calculations of his
+father Dominic, and took the true supposition, that the light follows
+a curvilinear path through the air. The Royal Society of London had
+already ascertained experimentally the refractive power of air.110 Newton calculated a Table of
+Refractions, which was published under Halley’s name in the Philosophical Transactions for
+1721, without any indication of the method by which it was
+constructed. But M. Biot has recently shown,111 by means of
+the published correspondence of Flamsteed, that Newton had solved the
+problem in a manner nearly corresponding to the most improved methods
+of modern analysis.
+109 Bailly, ii. 612.
+110 Ibid. ii. 607.
+111 Biot, Acad. Sc. Compte
+Rendu, Sept. 5, 1836.
+Dominic Cassini and Picard proved,112 Le Monnier in
+1738 confirmed more fully, the fact that the variations of the
+Thermometer affect the Refraction. Mayer, taking into account both
+these changes, and the changes indicated by the Barometer, formed a
+theory, which Lacaille, with immense labor, applied to the
+construction of a Table of Refractions from observation. But Bradley’s
+Table (published in 1763 by Maskelyne) was more commonly adopted in
+England; and his formula, originally obtained empirically, has been
+shown by Young to result from the most probable suppositions we can
+make respecting the atmosphere. Bessel’s Refraction Tables are now
+considered the best of those which have appeared.
+112 Bailly, iii. 92.
+Sect. 2.—Discovery of the Velocity of
+Light.—Römer.
+The astronomical history of Refraction is
+not marked by any great discoveries, and was, for the most part, a
+work of labor only. The progress of the other portions of our
+knowledge respecting light is 464 more striking. In 1676, a great number
+of observations of eclipses of Jupiter’s satellites were accumulated,
+and could be compared with Cassini’s Tables. Römer, a Danish
+astronomer, whom Picard had brought to Paris, perceived that these
+eclipses happened constantly later than the calculated time at one
+season of the year, and earlier at another season;—a difference
+for which astronomy could offer no account. The error was the same for
+all the satellites; if it had depended on a defect in the Tables of
+Jupiter, it might have affected all, but the effect would have had a
+reference to the velocities of the satellites. The cause, then, was
+something extraneous to Jupiter. Römer had the happy thought of
+comparing the error with the earth’s distance from Jupiter, and it was
+found that the eclipses happened later in proportion as Jupiter was
+further off.113 Thus we see the eclipse later, as it
+is more remote; and thus light, the messenger which brings us
+intelligence of the occurrence, travels over its course in a
+measurable time. By this evidence, light appeared to take about eleven
+minutes in describing the diameter of the earth’s orbit.
+113 Bailly, ii. 17.
+This discovery, like so many others, once made, appears easy and
+inevitable; yet Dominic Cassini had entertained the idea for a
+moment,114 and had rejected it; and Fontenelle
+had congratulated himself publicly on having narrowly escaped this
+seductive error. The objections to the admission of the truth arose
+principally from the inaccuracy of observation, and from the
+persuasion that the motions of the satellites were circular and
+uniform. Their irregularities disguised the fact in question. As these
+irregularities became clearly known, Römer’s discovery was finally
+established, and the “Equation of Light” took its place in the
+Tables.
+114 Ib. ii. 419.
+Sect. 3.—Discovery of
+Aberration.—Bradley.
+Improvements in instruments, and in the art
+of observing, were requisite for making the next great step in tracing
+the effect of the laws of light. It appears clear, on consideration,
+that since light and the spectator on the earth are both in motion,
+the apparent direction of an object will be determined by the
+composition of these motions. But yet the effect of this composition
+of motions was (as is usual in such cases) traced as a fact in
+observation, before it was clearly seen as a consequence of reasoning.
+This fact, the Aberration of Light, the greatest astronomical
+discovery of the eighteenth century, belongs to Bradley, 465 who was then
+Professor of Astronomy at Oxford, and afterwards Astronomer Royal at
+Greenwich. Molyneux and Bradley, in 1725, began a series of
+observations for the purpose of ascertaining, by observations near the
+zenith, the existence of an annual parallax of the fixed stars, which
+Hooke had hoped to detect, and Flamsteed thought he had discovered.
+Bradley115 soon found that the star observed by
+him had a minute apparent motion different from that which the annual
+parallax would produce. He thought of a nutation of the earth’s axis
+as a mode of accounting for this; but found, by comparison of a star
+on the other side of the pole, that this explanation would not apply.
+Bradley and Molyneux then considered for a moment an annual alteration
+of figure in the earth’s atmosphere, such as might affect the
+refractions, but this hypothesis was soon rejected.116 In 1727, Bradley resumed his
+observations, with a new instrument, at Wanstead, and obtained
+empirical rules for the changes of declination of different stars. At
+last, accident turned his thoughts to the direction in which he was to
+find the cause of the variations which he had discovered. Being in a
+boat on the Thames, he observed that the vane on the top of the mast
+gave a different apparent direction to the wind, as the boat sailed
+one way or the other. Here was an image of his case: the boat
+represented the earth moving in different directions at different
+seasons, and the wind represented the light of a star. He had now to
+trace the consequences of this idea; he found that it led to the
+empirical rules, which he had already discovered, and, in 1729, he
+gave his discovery to the Royal Society. His paper is a very happy
+narrative of his labors and his thoughts. His theory was so sound that
+no astronomer ever contested it; and his observations were so
+accurate, that the quantity which he assigned as the greatest amount
+of the change (one nineteenth of a degree) has hardly been corrected
+by more recent astronomers. It must be noticed, however, that he
+considered the effects in declination only; the effects in right
+ascension required a different mode of observation, and a consummate
+goodness in the machinery of clocks, which at that time was hardly
+attained.
+115 Rigaud’s Bradley.
+116 Rigaud, p. xxiii.
+Sect. 4.—Discovery of Nutation.
+When Bradley went to Greenwich as
+Astronomer Royal, he continued with perseverance observations of the
+same kind as those by which he had detected Aberration. The result of
+these was another 466 discovery; namely, that very Nutation
+which he had formerly rejected. This may appear strange, but it is
+easily explained. The aberration is an annual change, and is detected
+by observing a star at different seasons of the year: the Nutation is
+a change of which the cycle is eighteen years; and which, therefore,
+though it does not much change the place of a star in one year, is
+discoverable in the alterations of several successive years. A very
+few years’ observations showed Bradley the effect of this change;117 and long before the half cycle of nine
+years had elapsed, he had connected it in his mind with the true
+cause, the motion of the moon’s nodes. Machin was then Secretary to
+the Royal Society,118 and was “employed in considering the
+theory of gravity, and its consequences with regard to the celestial
+motions:” to him Bradley communicated his conjectures; from him he
+soon received a Table containing the results of his calculations; and
+the law was found to be the same in the Table and in observation,
+though the quantities were somewhat different. It appeared by both,
+that the earth’s pole, besides the motion which the precession of the
+equinoxes gives it, moves, in eighteen years, through a small
+circle;—or rather, as was afterwards found by Bradley, an
+ellipse, of which the axes are nineteen and fourteen seconds.119
+117 Rigaud, lxiv.
+118 Ib. 25.
+119 Ib. lxvi.
+For the rigorous establishment of the mechanical theory of that
+effect of the moon’s attraction from which the phenomena of Nutation
+flow, Bradley rightly and prudently invited the assistance of the
+great mathematicians of his time. D’Alembert, Thomas Simpson, Euler,
+and others, answered this call, and the result was, as we have already
+said in the last chapter (Sect. 7), that this
+investigation added another to the recondite and profound evidences of
+the doctrine of universal gravitation.
+It has been said120 that Bradley’s discoveries “assure him
+the most distinguished place among astronomers after Hipparchus and
+Kepler.” If his discoveries had been made before Newton’s, there could
+have been no hesitation as to placing him on a level with those great
+men. The existence of such suggestions as the Newtonian theory offered
+on all astronomical subjects, may perhaps dim, in our eyes, the
+brilliance of Bradley’s achievements; but this circumstance cannot
+place any other person above the author of such discoveries, and
+therefore we may consider Delambre’s adjudication of precedence as
+well warranted, and deserving to be permanent.
+120 Delambre, Ast. du 18
+Sièc. p. 420. Rigaud, xxxvii. 467
+Sect. 5.—Discovery of the Laws of Double
+Stars.—The two Herschels.
+No truth, then, can be more certainly
+established, than that the law of gravitation prevails to the very
+boundaries of the solar system. But does it hold good further? Do the
+fixed stars also obey this universal sway? The idea, the question, is
+an obvious one—but where are we to find the means of submitting
+it to the test of observation?
+If the Stars were each insulated from the rest, as our Sun appears
+to be from them, we should have been quite unable to answer this
+inquiry. But among the stars, there are some which are called
+Double Stars, and which consist of two stars, so near to each
+other that the telescope alone can separate them. The elder Herschel
+diligently observed and measured the relative positions of the two
+stars in such pairs; and as has so often happened in astronomical
+history, pursuing one object he fell in with another. Supposing such
+pairs to be really unconnected, he wished to learn, from their
+phenomena, something respecting the annual parallax of the earth’s
+orbit. But in the course of twenty years’ observations he made the
+discovery (in 1803) that some of these couples were turning round each
+other with various angular velocities. These revolutions were for the
+most part so slow that he was obliged to leave their complete
+determination as an inheritance to the next generation. His son was
+not careless of the bequest, and after having added an enormous mass
+of observations to those of his father, he applied himself to
+determine the laws of these revolutions. A problem so obvious and so
+tempting was attacked also by others, as Savary and Encke, in 1830 and
+1832, with the resources of analysis. But a problem in which the data
+are so minute and inevitably imperfect, required the mathematician to
+employ much judgment, as well as skill in using and combining these
+data; and Sir John Herschel, by employing positions only of the line
+joining the pair of stars (which can be observed with comparative
+exactness), to the exclusion of their distances (which cannot be
+measured with much correctness), and by inventing a method which
+depended upon the whole body of observations, and not upon selected
+ones only, for the determination of the motion, has made his
+investigations by far the most satisfactory of those which have
+appeared. The result is, that it has been rendered very probable, that
+in several of the double stars the two stars describe ellipses about
+each other; and therefore that here also, at an 468 immeasurable distance
+from our system, the law of attraction according to the inverse square
+of the distance, prevails. And, according to the practice of
+astronomers when a law has been established, Tables have been
+calculated for the future motions; and we have Ephemerides of the
+revolutions of suns round each other, in a region so remote, that the
+whole circle of our earth’s orbit, if placed there, would be
+imperceptible by our strongest telescopes. The permanent comparison of
+the observed with the predicted motions, continued for more than one
+revolution, is the severe and decisive test of the truth of the
+theory; and the result of this test astronomers are now awaiting.
+[2d Ed.] [In calculating the orbits of revolving systems of double
+stars, there is a peculiar difficulty, arising from the plane of the
+orbit being in a position unknown, but probably oblique, to the visual
+ray. Hence it comes to pass that even if the orbit be an ellipse
+described about the focus by the laws of planetary motion, it will
+appear otherwise; and the true orbit will have to be deduced from the
+apparent one.
+With regard to a difficulty which has been mentioned, that the two
+stars, if they are governed by gravity, will not revolve the one about
+the other, but both about their common centre of gravity;—this
+circumstance adds little difficulty to the problem. Newton has shown
+(Princip. lib. i. Prop. 61) in the problem of two
+bodies, the relation between the relative orbits and the orbit
+about the common centre of gravity.
+How many of the apparently double stars have orbitual
+motions? Sir John Herschel in 1833 gave, in his Astronomy
+(Art. 606), a list of nine stars, with periods extending from 43 years
+(η Coronæ) to 1200 years (γ Leonis), which he presented as the chief
+results then obtained in this department. In his work on Double Stars,
+the fruit of his labors in both hemispheres, which the astronomical
+world are looking for with eager expectation, he will, I believe, have
+a few more to add to these.
+Is it well established that such double stars attract each
+other according to the law of the inverse square of the distance?
+The answer to this question must be determined by ascertaining whether
+the above cases are regulated by the laws of elliptical motion. This
+is a matter which it must require a long course of careful observation
+to determine in such a number of cases as to prove the universality of
+the rule. Perhaps the minds of astronomers are still in suspense upon
+the subject. When Sir John Herschel’s work shall appear, it will
+probably 469 be
+found that with regard to some of these stars, and γ Virginis in
+particular, the conformity of the observations with the laws of
+elliptical motion amounts to a degree of exactness which must give
+astronomers a strong conviction of the truth of the law. For since Sir
+W. Herschel’s first measures in 1781, the arc described by one star
+about the other is above 305 degrees; and during this period the
+angular annual motion has been very various, passing through all
+gradations from about 20 minutes to 80 degrees. Yet in the whole of
+this change, the two curves constructed, the one from the
+observations, the other from the elliptical elements, for the purpose
+of comparison, having a total ordinate of 305 parts, do not, in any
+part of their course, deviate from each other so much as two
+such parts.]
+The verification of Newton’s discoveries was sufficient employment
+for the last century; the first step in the extension of them belongs
+to this century. We cannot at present foresee the magnitude of this
+task, but every one must feel that the law of gravitation, before
+verified in all the particles of our own system, and now probably
+extended to the all but infinite distance of the fixed stars, presses
+upon our minds with a strong claim to be accepted as a universal law
+of the whole material creation.
+Thus, in this and the preceding chapter, I have given a brief
+sketch of the history of the verification and extension of Newton’s
+great discovery. By the mass of labor and of skill which this head of
+our subject includes, we may judge of the magnitude of the advance in
+our knowledge which that discovery made. A wonderful amount of talent
+and industry have been requisite for this purpose; but with these,
+external means have co-operated. Wealth, authority, mechanical skill,
+the division of labor, the power of associations and of governments,
+have been largely and worthily applied in bringing astronomy to its
+present high and flourishing condition. We must consider briefly what
+has thus been done. ~Additional material in the 3rd
+edition.~ 470</div></body></text></TEI>

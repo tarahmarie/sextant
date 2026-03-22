@@ -1,0 +1,339 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="119">CHAPTER V.
+Progress towards a Natural System of
+Botany.
+WE have already said, that the
+formation of a Natural System of classification must result from a
+comparison of all the resemblances and differences of the
+things classed; but that, in acting upon this maxim, the naturalist is
+necessarily either guided by an obscure and instinctive feeling, which
+is, in fact, an undeveloped recognition of physiological relations, or
+else acknowledges physiology for his guide, though he is obliged to
+assume arbitrary rules in order to interpret its indications. Thus all
+Natural Classification of organized beings, either begins or soon ends
+in Physiology; and can never advance far without the aid of that
+science. Still, the progress of the Natural Method in botany went to
+such a length before it was grounded entirely on the anatomy of
+plants, that it will be proper, and I hope instructive, to attempt a
+sketch of it here.
+As I have already had occasion to remark, the earlier systems of
+plants were natural; and they only ceased to be so, when it appeared
+that the problem of constructing a system admitted of a very
+useful solution, while the problem of devising a natural system
+remained insoluble. But many botanists did not so easily renounce the
+highest object of their science. In France, especially, a succession
+of extraordinary men labored at it with no inconsiderable success: and
+they were seconded by worthy fellow-laborers in Germany and
+elsewhere.
+The precept of taking into account all the parts of plants
+according to their importance, may be applied according to arbitrary
+rules. We may, for instance, assume that the fruit is the most
+important part; or we may make a long list of parts, and look for
+agreement in the greatest possible number of these, in order to
+construct our natural orders. The former course was followed by
+Gærtner;109 the latter by Adanson. Gærtner’s
+principles, deduced from the dissection of more than a thousand kinds
+of fruits,110 exercised, in the sequel, a great and
+405 permanent
+influence on the formation of natural classes. Adanson’s attempt, bold
+and ingenious, belonged, both in time and character, to a somewhat
+earlier stage of the subject.111 Enthusiastic
+and laborious beyond belief but self-confident, and contemptuous of
+the labors of others, Michael Adanson had collected, during five years
+spent in Senegal, an enormous mass of knowledge and materials; and had
+formed plans for the systems which he conceived himself thus empowered
+to reach, far beyond the strength and the lot of man.112 In his Families of Plants,
+however, all agree that his labors were of real value to the science.
+The method which he followed is thus described by his eloquent and
+philosophical eulogist.113
+109 De Fructibus et Seminibus
+Plantarum. Stuttg. 1788–1791.
+110 Sprengel, ii. 290.
+111 Familles des Plantes,
+1763.
+112 Cuvier’s Eloge.
+113 Cuv. Eloges, tom. i. p.
+282.
+Considering each organ by itself, he formed, by pursuing its
+various modifications, a system of division, in which he arranged all
+known species according to that organ alone. Doing the same for
+another organ, and another, and so for many, he constructed a
+collection of systems of arrangement, each artificial,—each
+founded upon one assumed organ. The species which come together in all
+these systems are, of all, naturally the nearest to each other; those
+which are separated in a few of the systems, but contiguous in the
+greatest number, are naturally near to each other, though less near
+than the former; those which are separated in a greater number, are
+further removed from each other in nature; and they are the more
+removed, the fewer are the systems in which they are associated.
+Thus, by this method, we obtain the means of estimating precisely
+the degree of natural affinity of all the species which our systems
+include, independent of a physiological knowledge of the influence of
+the organs. But the method has, Cuvier adds, the inconvenience of
+presupposing another kind of knowledge, which, though it belongs only
+to descriptive natural history, is no less difficult to
+obtain;—the knowledge, namely, of all species, and of all the
+organs of each. A single one neglected, may lead to relations the most
+false; and Adanson himself, in spite of the immense number of his
+observations, exemplifies this in some instances.
+We may add, that in the division of the structure into organs, and
+in the estimation of the gradations of these in each artificial
+system, there is still room for arbitrary assumption.
+In the mean time, the two Jussieus had presented to the world a
+“Natural Method,” which produced a stronger impression than the 406 “Universal Method” of
+Adanson. The first author of the system was Bernard de Jussieu, who
+applied it in the arrangement of the garden of the Trianon, in 1759,
+though he never published upon it. His nephew, Antoine Laurent de
+Jussieu, in his Treatise of the Arrangement of the Trianon,114 gave an account of the principles and
+orders of his uncle, which he adopted when he succeeded him; and, at a
+later period, published his Genera Plantarum secundum Ordines
+Naturales disposita; a work, says Cuvier, which perhaps forms as
+important an epoch in the sciences of observation, as the
+Chimie of Lavoisier does in the sciences of experiment. The
+object of the Jussieus was to obtain a system which should be governed
+by the natural affinities of the plants, while, at the same time, the
+characters by which the orders were ostensibly determined, should be
+as clear, simple, and precise, as those of the best artificial system.
+The main points in these characters were the number of the cotyledons,
+and the structure of the seed: and subordinate to this, the insertion
+of the stamina, which they distinguished as epigynous,
+perigynous, and hypogynous, according as they were
+inserted over, about, or under, the germen. And the classes which were
+formed by the Jussieus, though they have since been modified by
+succeeding writers, have been so far retained by the most profound
+botanists, notwithstanding all the new care and new light which have
+been bestowed upon the subject, as to show that what was done at
+first, was a real and important step in the solution of the
+problem.
+114 Mém. Ac. P. 1774.
+The merit of the formation of this natural method of plants must be
+divided between the two Jussieus. It has been common to speak of the
+nephew, Antoine Laurent, as only the publisher of his uncle’s work.115 But this appears, from a recent
+statement,116 to be highly unjust. Bernard left
+nothing in writing but the catalogues of the garden of the Trianon,
+which he had arranged according to his own views; but these catalogues
+consist merely of a series of names without explanation or reason
+added. The nephew, in 1773, undertook and executed for himself the
+examination of a natural family, the Ranunculaceæ; and he was
+wont to relate (as his son informs us) that it 407 was this employment
+which first opened his eyes and rendered him a botanist. In the memoir
+which he wrote, he explained fully the relative importance of the
+characters of plants, and the subordination of some to
+others;—an essential consideration, which Adanson’s scheme had
+failed to take account of. The uncle died in 1777; and his nephew, in
+speaking of him, compares his arrangement to the Ordines
+Naturales of Linnæus: “Both these authors,” he says, “have
+satisfied themselves with giving a catalogue of genera which approach
+each other in different points, without explaining the motives which
+induced them to place one order before another, or to arrange a genus
+under a certain order. These two arrangements may be conceived as
+problems which their authors have left for botanists to solve. Linnæus
+published his; that of M. de Jussieu is only known by the manuscript
+catalogues of the garden of the Trianon.”
+115 Prodromus Floræ Penins. Ind.
+Orient. Wight and Walker-Arnott, Introd. p. xxxv.
+116 By Adrien de Jussieu, son of
+Antoine Laurent, in the Annales des Sc. Nat., Nov. 1834.
+It was not till the younger Jussieu had employed himself for
+nineteen years upon botany, that he published, in 1789, his Genera
+Plantarum; and by this time he had so entirely formed his scheme
+in his head, that he began the impression without having written the
+book, and the manuscript was never more than two pages in advance of
+the printer’s type.
+When this work appeared, it was not received with any enthusiasm;
+indeed, at that time, the revolution of states absorbed the thoughts
+of all Europe, and left men little leisure to attend to the
+revolutions of science. The author himself was drawn into the vortex
+of public affairs, and for some years forgot his book. The method made
+its way slowly and with difficulty: it was a long time before it was
+comprehended and adopted in France, although the botanists of that
+country had, a little while before, been so eager in pursuit of a
+natural system. In England and Germany, which had readily received the
+Linnæan method, its progress was still more tardy.
+There is only one point, on which it appears necessary further to
+dwell. A main and fundamental distinction in all natural systems, is
+that of the Monocotyledonous and Dicotyledonous plants; that is,
+plants which unfold themselves from an embryo with two little leaves,
+or with one leaf only. This distinction produces its effects in the
+systems which are regulated by numbers; for the flowers and fruit of
+the monocotyledons are generally referrible to some law in which the
+number three prevails; a type which rarely occurs in
+dicotyledons, these affecting most commonly an arrangement founded on
+the number five. But it appears, when we attempt to rise
+towards a natural 408 method, that this division according to
+the cotyledons is of a higher order than the other divisions according
+to number; and corresponds to a distinction in the general structure
+and organization of the plant. The apprehension of the due rank of
+this distinction has gradually grown clearer. Cuvier117 conceives that he finds such a
+division clearly marked in Lobel, in 1581, and employed by Ray as the
+basis of his classification a century later. This difference has had
+its due place assigned it in more recent systems of arrangement; but
+it is only later still that its full import has been distinctly
+brought into view. Desfontaines discovered118 that the
+ligneous fibre is developed in an opposite manner in vegetables with
+one and with two cotyledons;—towards the inside in the former
+case, and towards the outside in the latter; and hence these two great
+classes have been since termed endogenous and exogenous.
+~Additional material in the 3rd edition.~
+117 Hist. Sc. Nat. ii.
+197.
+118 Hist. Sc. Nat. i. pp.
+196, 290.
+Thus this division, according to the cotyledons, appears to have
+the stamp of reality put upon it, by acquiring a physiological
+meaning. Yet we are not allowed to forget, even at this elevated point
+of generalization, that no one character can be imperative in
+a natural method. Lamarck, who employed his great talents on botany,
+before he devoted himself exclusively to other branches of natural
+history, published his views concerning methods, systems,119 and characters. His main principle is,
+that no single part of a plant, however essential, can be an absolute
+rule for classification; and hence he blames the Jussieuian method, as
+giving this inadmissible authority to the cotyledons. Roscoe120 further urges that some plants, as
+Orchis morio, and Limodorum verecundum, have no visible
+cotyledons. Yet De Candolle, who labored along with Lamarck, in the
+new edition of the Flore Française, has, as we have already
+intimated, been led, by the most careful application of the wisest
+principles, to a system of Natural Orders, of which Jussieu’s may be
+looked upon as the basis; and we shall find the greatest botanists, up
+to the most recent period, recognizing, and employing themselves in
+improving, Jussieu’s Natural Families; so that in the progress of this
+part of our knowledge, vague and perplexing as it is, we have no
+exception to our general aphorism, that no real acquisition in science
+is ever discarded.
+119 Sprengel, ii. 296; and, there
+quoted, Flore Française, t. i. 3, 1778. Mém. Ac. P.
+1785. Journ. Hist. Nat. t. i. For Lamarck’s Méthode
+Analytique, see Dumeril, Sc. Nat. i. Art. 390.
+120 Roscoe, Linn. Tr. vol.
+xi. Cuscuta also has no cotyledons.
+409 The
+reception of the system of Jussieu in this country was not so ready
+and cordial as that of Linnæus. As we have already noticed, the two
+systems were looked upon as rivals. Thus Roscoe, in 1810,121 endeavored to show that Jussieu’s
+system was not more natural than the Linnæan, and was inferior as an
+artificial system: but he argues his points as if Jussieu’s characters
+were the grounds of his distribution; which, as we have said, is to
+mistake the construction of a natural system. In 1803, Salisbury122 had already assailed the machinery of
+the system, maintaining that there are no cases of perigynous stamens,
+as Jussieu assumes; but this he urges with great expressions of
+respect for the author of the method. And the more profound botanists
+of England soon showed that they could appreciate and extend the
+natural method. Robert Brown, who had accompanied Captain Flinders to
+New Holland in 1801, and who, after examining that country, brought
+home, in 1805, nearly four thousand species of plants, was the most
+distinguished example of this. In his preface to the Prodromus
+Floræ Novæ Hollandiæ, he says, that he found himself under the
+necessity of employing the natural method, as the only way of avoiding
+serious error, when he had to deal with so many new genera as occur in
+New Holland; and that he has, therefore, followed the method of
+Jussieu; the greater part of whose orders are truly natural, “although
+their arrangement in classes, as is,” he says, “conceded by their
+author, no less candid than learned, is often artificial, and, as
+appears to me, rests on doubtful grounds.”
+121 Linn. Tr. vol. xi. p.
+50.
+122 Ibid. vol. viii.
+From what has already been said, the reader will, I trust, see what
+an extensive and exact knowledge of the vegetable world, and what
+comprehensive views of affinity, must be requisite in a person who has
+to modify the natural system so as to make it suited to receive and
+arrange a great number of new plants, extremely different from the
+genera on which the arrangement was first formed, as the New Holland
+genera for the most part were. He will also see how impossible it must
+be to convey by extract or description any notion of the nature of
+these modifications: it is enough to say, that they have excited the
+applause of botanists wherever the science is studied, and that they
+have induced M. de Humboldt and his fellow-laborers, themselves
+botanists of the first rank, to dedicate one of their works to him in
+terms of the strongest admiration.123 Mr. Brown has
+also published 410
+special disquisitions on parts of the Natural System; as on Jussieu’s
+Proteaceæ;124 on the Asclepiadeæ, a natural
+family of plants which must be separated from Jussieu’s
+Apocyneæ;125 and other similar labors.
+123 Roberto Brown, Britanniarum
+gloriæ atque ornamento, totam Botanices scientiam ingenio mirifico
+complectenti. &c.
+124 Linn. Tr. vol. x.
+1809.
+125 Mem. of Wernerian N. H.
+Soc. vol. i. 1809.
+We have, I think, been led, by our survey of the history of Botany,
+to this point;—that a Natural Method directs us to the study of
+Physiology, as the only means by which we can reach the object. This
+conviction, which in botany comes at the end of a long series of
+attempts at classification, offers itself at once in the natural
+history of animals, where the physiological signification of the
+resemblances and differences is so much more obvious. I shall not,
+therefore, consider any of these branches of natural history in detail
+as examples of mere classification. They will come before us, if at
+all, more properly when we consider the classifications which depend
+on the functions of organs, and on the corresponding modifications
+which they necessarily undergo; that is, when we trace the results of
+Physiology. But before we proceed to sketch the history of that part
+of our knowledge, there are a few points in the progress of Zoology,
+understood as a mere classificatory science, which appear to me
+sufficiently instructive to make it worth our while to dwell upon
+them.
+[2nd Ed.] [Mr. Lindley’s recent work, The Vegetable Kingdom
+(1846), may be looked upon as containing the best view of the recent
+history of Systematic Botany. In the Introduction to this work, Mr.
+Lindley has given an account of various recent works on the subject;
+as Agardh’s Classes Plantarum (1826); Perleb’s Lehrbuch der
+Naturgeschichte der Pflanzenreich (1826); Dumortier’s Florula
+Belgica (1827); Bartling’s Ordines Naturales Plantarum
+(1830); Hess’s Uebersicht der Phanerogenischen Natürlichen
+Pflanzenfamilien (1832); Schulz’s Natürliches System des
+Pflanzenreich’s (1832); Horaninow’s Primæ Lineæ Systematis
+Naturæ (1834); Fries’s Corpus Florarum provincialium Sueciæ
+(1835); Martins’s Conspectus Regni Vegetablis secundum Characteres
+Morphologicos (1835); Sir Edward F. Bromhead’s System, as
+published in the Edinburgh Journal and other Journals
+(1836–1840); Endlicher’s Genera Plantarum secundum Ordines
+Naturales disposita (1836–1840); Perleb’s Clavis Classicum
+Ordinum et Familiarum (1838); Adolphe Brongniart’s Enumération
+des Genres de Plantes (1843); Meisner’s Plantarum vascularium
+Genera secundum Ordines Naturales digesta (1843); Horaninow’s
+Tetractys Naturæ, seu Systema quinquemembre omnium Naturalium
+411 (1843); Adrien
+de Jussieu’s Cours Elémentaire d’Histoire Naturelle.
+Botanique (1844).
+Mr. Lindley, in this as in all his works, urges strongly the
+superior value of natural as compared with artificial systems; his
+principles being, I think, nearly such as I have attempted to
+establish in the Philosophy of the Sciences, Book viii.,
+Chapter ii. He states that the leading idea which has been kept in
+view in the compilation of his work is this maxim of Fries: “Singula
+sphæra (sectio) ideam quandam exponit, indeque ejus character
+notione simplici optime exprimitur;” and he is hence led to think that
+the true characters of all natural assemblages are extremely
+simple.
+One of the leading features in Mr. Lindley’s system is that he has
+thrown the Natural Orders into groups subordinate to the higher
+divisions of Classes and Sub-classes. He had already attempted this,
+in imitation of Agardh and Bartling, in his Nixus Plantarum
+(1838). The groups of Natural Orders were there called Nixus
+(tendencies); and they were denoted by names ending in ales;
+but these groups were further subordinated to Cohorts. Thus the
+first member of the arrangement was Class 1. Exogenæ. Sub-class 1. Polypetalæ. Cohort 1. Albuminosæ. Nixus 1. Ranales. Natural
+Orders included in this Nixus, Ranunculaceæ, Saraceniceæ,
+Papaveraceæ, &c. In the Vegetable Kingdom, the groups of
+Natural Orders are termed Alliances. In this work, the
+Sub-classes of the Exogens are four: i. Diclinous; ii.
+Hypogynous; iii. Perigynous;  iv. Epigynous; and the Alliances are subordinated to
+these without the intervention of Cohorts.
+Mr. Lindley has also, in this as in other works, given English
+names for the Natural Orders. Thus for Nymphaceæ,
+Ranunculaceæ, Tamaricaceæ, Zygophyllaceæ,
+Eleatrinaceæ, he substitutes Water-Lilies, Crowfoots,
+Tamarisks, Bean-Capers, and Water-Peppers; for Malvaceæ,
+Aurantiaceæ, Gentianaceæ, Primulaceæ,
+Urtiaceæ, Euphorbiaceæ, he employs Mallow-worts,
+Citron-worts, Gentian-worts, Prim-worts, Nettle-worts, Spurge-worts;
+and the terms Orchids, Hippurids, Amaryllids, Irids, Typhads, Arads,
+Cucurbits, are taken as English equivalents for Orchidaceæ,
+Haloragaceæ, Amaryllidaceæ, Iridaceæ,
+Typhaceæ, Araceæ, Cucurbitaceæ. All persons who
+wish success to the study of botany in England must rejoice to see it
+tend to assume this idiomatic shape.] 
+~Additional material in the 3rd edition.~
+412</div></body></text></TEI>

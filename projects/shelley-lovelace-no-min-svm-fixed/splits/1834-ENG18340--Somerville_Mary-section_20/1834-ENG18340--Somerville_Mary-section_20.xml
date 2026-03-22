@@ -1,0 +1,307 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Connexion of the Physical Sciences</title><author>Somerville, Mary (1780-1872)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1834</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="20">
+159
+SECTION XIX.
+
+Constitution of Light according to Sir Isaac Newton—Absorption of Light—Colours
+of Bodies—Constitution of Light according to Sir David
+Brewster—New Colours—Fraunhofer’s Dark Lines—Dispersion of
+Light—The Achromatic Telescope—Homogeneous Light—Accidental
+and Complementary Colours—M. Plateau’s Experiments and Theory
+of Accidental Colours.
+It is impossible thus to trace the path of a sunbeam through our
+atmosphere without feeling a desire to know its nature, by what
+power it traverses the immensity of space, and the various modifications
+it undergoes at the surfaces and in the interior of terrestrial
+substances.
+Sir Isaac Newton proved the compound nature of white light,
+as emitted from the sun, by passing a sunbeam through a glass
+prism (N. 195), which, separating the rays by refraction, formed
+a spectrum or oblong image of the sun, consisting of seven colours,
+red, orange, yellow, green, blue, indigo, and violet—of which the
+red is the least refrangible, and the violet the most. But, when
+he reunited these seven rays by means of a lens, the compound
+beam became pure white as before. He insulated each coloured
+ray, and, finding that it was no longer capable of decomposition
+by refraction, concluded that white light consists of seven kinds
+of homogeneous light, and that to the same colour the same refrangibility
+ever belongs, and to the same refrangibility the same
+colour. Since the discovery of absorbent media, however, it
+appears that this is not the constitution of the solar spectrum.
+We know of no substance that is either perfectly opaque or
+perfectly transparent. Even gold may be beaten so thin as to be
+pervious to light. On the contrary, the clearest crystal, the
+purest air or water, stops or absorbs its rays when transmitted,
+and gradually extinguishes them as they penetrate to greater
+depths. On this account objects cannot be seen at the bottom of
+very deep water, and many more stars are visible to the naked
+eye from the tops of mountains than from the valleys. The
+quantity of light that is incident on any transparent substance is
+160always greater than the sum of the reflected and refracted rays.
+A small quantity is irregularly reflected in all directions by the
+imperfections of the polish by which we are enabled to see the
+surface; but a much greater portion is absorbed by the body.
+Bodies that reflect all the rays appear white, those that absorb
+them all seem black; but most substances, after decomposing the
+white light which falls upon them, reflect some colours and
+absorb the rest. A violet reflects the violet rays alone and
+absorbs the others. Scarlet cloth absorbs almost all the colours
+except red. Yellow cloth reflects the yellow rays most abundantly,
+and blue cloth those that are blue. Consequently colour
+is not a property of matter, but arises from the action of matter
+upon light. In fact, the law of action and reaction obtains in
+light as in every other department of nature, so that light cannot
+be reflected, refracted, much less absorbed, by any medium
+without being reacted upon by it. Thus a white riband reflects
+all the rays, but, when dyed red, the particles of the silk acquire
+the property of reflecting the red rays most abundantly and of
+absorbing the others. Upon this property of unequal absorption
+the colours of transparent media depend; for they also receive
+their colour from their power of stopping or absorbing some of
+the colours of white light, and transmitting others. As, for
+example, black and red inks, though equally homogeneous, absorb
+different kinds of rays; and, when exposed to the sun, they
+become heated in different degrees; while pure water seems to
+transmit all rays equally, and is not sensibly heated by the passing
+light of the sun. The rich dark light transmitted by a smalt-blue
+finger-glass is not a homogeneous colour like the blue or indigo
+of the spectrum, but is a mixture of all the colours of white light
+which the glass has not absorbed. The colours absorbed are such
+as mixed with the blue tint would form white light. When the
+spectrum of seven colours is viewed through a thin plate of this
+glass, they are all visible; and, when the plate is very thick,
+every colour is absorbed between the extreme red and the extreme
+violet, the interval being perfectly black; but, if the spectrum be
+viewed through a certain thickness of the glass intermediate
+between the two, it will be found that the middle of the red
+space, the whole of the orange, a great part of the green, a considerable
+part of the blue, a little of the indigo, and a very little
+of the violet, vanish, being absorbed by the blue glass; and that
+161the yellow rays occupy a larger space, covering part of that formerly
+occupied by the orange on one side and by the green on the
+other: so that the blue glass absorbs the red light, which when
+mixed with the yellow constitutes orange; and also absorbs the
+blue light, which when mixed with the yellow forms the part of
+the green space next to the yellow. Hence, by absorption, green
+light is decomposed into yellow and blue, and orange light into
+yellow and red: consequently the orange and green rays, though
+incapable of decomposition by refraction, can be resolved by
+absorption, and actually consist of two different colours possessing
+the same degree of refrangibility. Difference of colour, therefore,
+is not a test of difference of refrangibility, and the conclusion
+deduced by Newton is no longer admissible as a general truth.
+By this analysis of the spectrum, not only with blue glass but
+with a variety of coloured media, Sir David Brewster, so justly
+celebrated for his optical discoveries, is of opinion that the solar
+spectrum consists of three primary colours, red, yellow, and blue,
+each of which exists throughout its whole extent, but with different
+degrees of intensity in different parts; and that the superposition
+of these three produces all the seven hues according as
+each primary colour is in excess or defect. That since a certain
+portion of red, yellow, and blue rays constitute white light, the
+colour of any point of the spectrum may be considered as consisting
+of the predominating colour at that point mixed with
+white light. Consequently, “by absorbing the excess of any
+colour at any point of the spectrum above what is necessary to
+form white light, such white light will appear at that point as
+never mortal eye looked upon before this experiment, since it
+possesses the remarkable property of remaining the same after
+any number of refractions, and of being capable of decomposition
+by absorption alone.” This analysis of light has been called in
+question by Professor Challis, of Cambridge, who does not admit
+of any resolution by absorbing media different from that by the
+prism, though he admits that a mixture of blue and yellow solar
+light produces green. Professor Stokes, on the contrary, does not
+allow that a mixture of blue and yellow solar light produces
+green, although that mixture produces green when the light is
+from other sources, for he found the gradation from sunlight to
+pass from yellow through diluted yellow, white, diluted blue to
+blue; so he does not admit of Sir David Brewster’s analysis of
+162the spectrum; however, there appears to be still a doubt as to
+the real character of the phenomena presented by certain absorbing
+substances.
+In addition to the seven colours of the Newtonian spectrum,
+Sir John Herschel has discovered a set of very dark red rays
+beyond the red extremity of the spectrum which can only be seen
+when the eye is defended from the glare of the other colours by a
+dark blue cobalt glass. He has also found that beyond the
+extreme violet there are visible rays of a lavender gray colour,
+which may be seen by throwing the spectrum on a sheet of paper
+moistened by the carbonate of soda. The illuminating power of
+the different rays of the spectrum varies with the colour. The
+most intense light is in the mean yellow ray, or, according to M.
+Fraunhofer, at the boundary of the orange and yellow.
+When the prism is very perfect and the sunbeam small, so
+that the spectrum may be received on a sheet of white paper in
+its utmost state of purity, it presents the appearance of a riband
+shaded with all the prismatic colours, having its breadth irregularly
+striped or subdivided by an indefinite number of dark, and
+sometimes black lines. The greater number of these rayless lines
+are so extremely narrow that it is impossible to see them in ordinary
+circumstances. The best method is to receive the spectrum
+on the object-glass of a telescope, so as to magnify them sufficiently
+to render them visible. This experiment may also be
+made, but in an imperfect manner, by viewing a narrow slit
+between two nearly closed window-shutters through a very excellent
+glass prism held close to the eye, with its refracting angle
+parallel to the line of light. The rayless lines in the red portion
+of the spectrum become most visible as the sun approaches the
+horizon, while those in the blue extremity are most obvious in
+the middle of the day. When the spectrum is formed by the
+sun’s rays, either direct or indirect—as from the sky, clouds,
+rainbow, moon, or planets—the black bands are always found to
+be in the same parts of the spectrum, and under all circumstances
+to maintain the same relative positions. Similar dark lines are
+also seen in the light of the stars, in the electric light, and in the
+flame of combustible substances, though differently arranged,
+each star and each flame having a system of dark lines peculiar
+to itself. Dr. Wollaston and M. Fraunhofer, of Munich, discovered
+these lines deficient of rays independently of each other.
+163M. Fraunhofer found that their number extends to nearly six
+hundred, but they are much more numerous. There are bright
+lines in the solar spectrum which also maintain a fixed position.
+Among the dark lines, M. Fraunhofer selected seven of the most
+remarkable, and determined their distances so accurately, that
+they now form standard and invariable points of reference for
+measuring the refractive powers of different media on the rays of
+light, which renders this department of optics as exact as any of
+the physical sciences. These lines are designated by the letters
+of the alphabet, beginning with B, which is in the red near the
+end of the spectrum; C is farther advanced in the red; D is in the
+orange; E in the green; F in the blue; G in the indigo; and H in
+the violet. By means of these fixed points, M. Fraunhofer has
+ascertained from prismatic observation the refrangibility of seven
+of the principal rays in each of ten different substances solid and
+liquid. The refraction increased in all from the red to the violet
+end of the spectrum. The rays that are wanting in the solar
+spectrum, which occasion the dark lines, were supposed to be
+absorbed by the atmosphere of the sun. But the annular eclipse
+which happened on the 15th of May, 1836, afforded Professor
+Forbes the means of proving that the dark lines in question cannot
+be attributed to the absorption of the solar atmosphere; they were
+neither broader nor more numerous in the spectrum formed during
+that phenomenon than at any other time, though the rays came
+only from the circumference of the sun’s disc, and consequently
+had to traverse a greater depth of his atmosphere.
+Sir David Brewster found that in certain states of the atmosphere
+the obscure lines become much broader, and some of
+them deeply black; and he observed also, that, at the time the
+sun was setting in a veil of red light, part of the luminous
+spectrum was absorbed, whence he concluded that the earth’s
+atmosphere had absorbed the rays of light which occupied the
+dark bands. By direct experiments also the atmosphere was
+observed to act powerfully upon the rayless lines.
+When a lens is used along with a prism, longitudinal dark
+lines of different breadths are seen to cross the bands, already
+described, at right angles; these M. Ragona-Scina and M.
+Babinet believe to be lines of interference which exist in light
+that has passed through a convex lens.
+The lines are different both in kind and number in the spectra
+164of gases and flames. In a highly-magnified spectrum from light
+passed through nitrous acid gas, Sir David Brewster counted
+2000 dark bands. In the spectrum of a lamp, and generally of
+all white flames, none of the defective lines are found; so all
+such flames contain rays which do not exist in the light of the
+sun or stars. Brilliant red lines appear in the spectrum produced
+by the combustion of nitre upon charcoal; and in all
+artificial flames dark and bright bands exist, sometimes corresponding
+in position with those in the solar spectrum, and
+sometimes not.
+A sunbeam received on a screen, after passing through a small
+round hole in a window-shutter, appears like a round white spot;
+but when a prism is interposed, the beam no longer occupies the
+same space. It is separated into the prismatic colours, and
+spread over a line of considerable length, while its breadth remains
+the same with that of the white spot. The act of spreading
+or separation is called the dispersion of the coloured rays.
+Dispersion always takes place in the plane of refraction, and is
+greater as the angle of incidence is greater. It varies inversely
+as the length of a wave of light, and directly as its velocity:
+hence towards the blue end of the spectrum, where the undulations
+of the rays are least, the dispersion is greatest. Substances
+have very different dispersive powers; that is to say, the spectra
+formed by two equal prisms of different substances, under precisely
+the same circumstances, are of different lengths. Thus,
+if a prism of flint-glass and one of crown-glass of equal refracting
+angles be presented to two rays of white light at equal angles,
+it will be found that the space over which the coloured rays are
+dispersed by the flint-glass is much greater than the space occupied
+by that produced by the crown-glass: and as the quantity
+of dispersion depends upon the refracting angle of the prism, the
+angles of the two prisms may be made such that, when the
+prisms are placed close together with their edges turned opposite
+ways, they will exactly oppose each other’s action, and will
+refract the coloured rays equally, but in contrary directions, so
+that an exact compensation will be effected, and the light will
+be refracted without colour (N. 195). The achromatic telescope
+is constructed on this principle. It consists of a tube with an
+object-glass or lens at one end to bring the rays to a focus, and
+form an image of the distant object, and a magnifying-glass at
+165the other end to view the image thus formed. Now it is found
+that the object-glass, instead of making the rays converge to
+one point, disperses them, and gives a confused and coloured
+image: but by constructing it of two lenses in contact, one of
+flint and the other of crown-glass of certain forms and proportions,
+the dispersion is counteracted, and a perfectly well-defined
+and colourless image of the object is formed (N. 196). It was
+thought to be impossible to produce refraction without colour,
+till Mr. Hall, a gentleman of Worcestershire, constructed a telescope
+on this principle in the year 1733; and twenty-five years
+afterwards the achromatic telescope was brought to perfection by
+Mr. Dollond, a celebrated optician in London.
+By means of Mr. Fraunhofer’s determination of the refraction
+of the principal rays in substances, their dispersive powers may
+be found (N. 197).
+A perfectly homogeneous colour is very rarely to be found;
+but the tints of all substances are most brilliant when viewed in
+light of their own colour. The red of a wafer is much more
+vivid in red than in white light; whereas, if placed in homogeneous
+yellow light, it can no longer appear red, because there is
+not a ray of red in the yellow light. Were it not that the wafer,
+like all other bodies, whether coloured or not, reflects white light
+at its outer surface, it would appear absolutely black when
+placed in yellow light.
+After looking steadily for a short time at a coloured object,
+such as a red wafer, on turning the eyes to a white substance, a
+green image of the wafer appears, which is called the accidental
+colour of red. All tints have their accidental colours: thus the
+accidental colour of orange is blue; that of yellow is indigo;
+of green, reddish white; of blue, orange-red; of violet, yellow;
+and of white, black; and vice versâ. When the direct and
+accidental colours are of the same intensity, the accidental
+is then called the complementary colour, because any two
+colours are said to be complementary to one another which produce
+white when combined.
+From experiments by M. Plateau of Brussels, it appears that
+two complementary colours from direct impression, which would
+produce white when combined, produce black, or extinguish one
+another, by their union, when accidental; and also that the combination
+of all the tints of the solar spectrum produces white
+166light if they be from a direct impression on the eye, whereas
+blackness results from a union of the same tints if they be accidental;
+and in every case where the real colours produce white
+by their combination, the accidental colours of the same tints
+produce black. When the image of an object is impressed on
+the retina only for a few moments, the picture left is exactly of
+the same colour with the object, but in an extremely short time
+the picture is succeeded by the accidental image. M. Plateau
+attributes this phenomenon to a reaction of the retina after being
+excited by direct vision, so that the accidental impression is of
+an opposite nature to the corresponding direct impression. He
+conceives that when the eye is excited by being fixed for a time
+on a coloured object, and then withdrawn from the excitement,
+it endeavours to return to its state of repose; but in so
+doing, that it passes this point, and spontaneously assumes an
+opposite condition, like a spring which, bent in one direction,
+in returning to its state of rest bends as much the contrary way.
+The accidental image thus results from a particular modification
+of the organ of sight, in virtue of which it spontaneously gives
+us a new sensation after it has been excited by direct vision.
+If the prevailing impression be a very strong white light, its
+accidental image is not black, but a variety of colours in succession.
+According to M. Plateau, the retina offers a resistance to
+the action of light, which increases with the duration of this
+action; whence, after looking intently at an object for a long
+time, it appears to decrease in brilliancy. The imagination has
+a powerful influence on our optical impressions, and has been
+known to revive the images of highly luminous objects months,
+and even years, afterwards.</div></body></text></TEI>

@@ -1,0 +1,150 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Philosophy of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="5">
+
+CHAPTER V.
+Of the Grounds of Necessary Truths.
+
+
+
+1. TO
+the question just stated, I reply, that the necessity
+and universality of the truths which form a part of our
+knowledge, are derived from the Fundamental Ideas
+which those truths involve. These ideas entirely shape and
+circumscribe our knowledge; they regulate the active
+operations of our minds, without which our passive
+sensations do not become knowledge. They govern these
+operations, according to rules which are not only fixed and
+permanent, but which may be expressed in plain and definite
+terms; and these rules, when thus expressed, may be made the
+basis of demonstrations by which the necessary relations
+imparted to our knowledge by our Ideas may be traced to
+their consequences in the most remote ramifications of
+scientific truth.
+These enunciations of the necessary and evident conditions
+imposed upon our knowledge by the Fundamental Ideas which it
+involves, are termed Axioms. Thus the Axioms of
+Geometry express the necessary conditions which result from
+the Idea of Space; the Axioms of Mechanics express the
+necessary conditions which flow from the Ideas of Force and
+Motion; and so on.
+2. It will be the office of several of the succeeding Books
+of this work to establish and illustrate in detail what I
+have thus stated in general terms. I shall there pass in
+review many of the most important fundamental ideas on which
+the existing body of our science depends; and I shall
+endeavour to show, for each such idea in succession, that
+knowledge involves an active as well as a passive element;
+that it is not possible without an act of the mind,
+regulated by certain 70 laws. I shall further attempt to
+enumerate some of the principal fundamental relations which
+each idea thus introduces into our thoughts, and to express
+them by means of definitions and axioms, and other suitable
+forms.
+I will only add a remark or two to illustrate further this
+view of the ideal grounds of our knowledge.
+3. To persons familiar with any of the demonstrative
+sciences, it will be apparent that if we state all the
+Definitions and Axioms which are employed in the
+demonstrations, we state the whole basis on which those
+reasonings rest. For the whole process of demonstrative or
+deductive reasoning in any science, (as in geometry, for
+instance,) consists entirely in combining some of these
+first principles so as to obtain the simplest propositions
+of the science; then combining these so as to obtain other
+propositions of greater complexity; and so on, till we
+advance to the most recondite demonstrable truths; these
+last, however intricate and unexpected, still involving no
+principles except the original definitions and axioms. Thus,
+by combining the Definition of a triangle, and the
+Definitions of equal lines and equal angles, namely, that
+they are such as when applied to each other, coincide, with
+the Axiom respecting straight lines (that two such lines
+cannot inclose a space,) we demonstrate the equality of
+triangles, under certain assumed conditions. Again, by
+combining this result with the Definition of parallelograms,
+and with the Axiom that if equals be taken from equals the
+wholes are equal, we prove the equality of parallelograms
+between the same parallels and upon the same base. From this
+proposition, again, we prove the equality of the square on
+the hypotenuse of a triangle to the squares on the two sides
+containing the right angle. But in all this there is nothing
+contained which is not rigorously the result of our
+geometrical Definitions and Axioms. All the rest of our
+treatises of geometry consists only of terms and phrases of
+reasoning, the object of which is to connect those first
+principles, and to exhibit the effects of their combination
+in the shape of demonstration. 71
+4. This combination of first principles takes place
+according to the forms and rules of Logic. All the
+steps of the demonstration may be stated in the shape in
+which logicians are accustomed to exhibit processes of
+reasoning in order to show their conclusiveness, that is, in
+Syllogisms. Thus our geometrical reasonings might be
+resolved into such steps as the following:—
+ All straight lines drawn from the centre of a circle to its
+circumference are equal:
+ But the straight lines ab, ac, are drawn from the centre of
+a circle to its circumference:
+ Therefore the straight lines ab, ac, are equal.
+Each step of geometrical, and all other demonstrative
+reasoning, may be resolved into three such clauses as these;
+and these three clauses are termed respectively, the
+major premiss, the minor premiss, and the
+conclusion; or, more briefly, the major, the
+minor, and the conclusion.
+The principle which justifies the reasoning when exhibited
+in this syllogistic form, is this:—that a truth which can
+be asserted as generally, or rather as universally true, can
+be asserted as true also in each particular case. The
+minor only asserts a certain particular case to be an
+example of such conditions as are spoken of in the
+major; and hence the conclusion, which is true of the
+major by supposition, is true of the minor by consequence;
+and thus we proceed from syllogism to syllogism, in each one
+employing some general truth in some particular instance.
+Any proof which occurs in geometry, or any other science of
+demonstration, may thus be reduced to a series of processes,
+in each of which we pass from some general proposition to
+the narrower and more special propositions which it
+includes. And this process of deriving truths by the mere
+combination of general principles, applied in particular
+hypothetical cases, is called deduction; being
+opposed to induction, in which, as we have seen
+(chap. i. sect. 3), a new general principle is introduced at
+every step.
+5. Now we have to remark that, this being so, however far we
+follow such deductive reasoning, we can 72 never have, in
+our conclusion any truth which is not virtually included in
+the original principles from which the reasoning started.
+For since at any step we merely take out of a general
+proposition something included in it, while at the preceding
+step we have taken this general proposition out of one more
+general, and so on perpetually, it is manifest that our last
+result was really included in the principle or principles
+with which we began. I say principles, because,
+although our logical conclusion can only exhibit the
+legitimate issue of our first principles, it may,
+nevertheless, contain the result of the combination of
+several such principles, and may thus assume a great degree
+of complexity, and may appear so far removed from the parent
+truths, as to betray at first sight hardly any relationship
+with them. Thus the proposition which has already been
+quoted respecting the squares on the sides of a right-angled
+triangle, contains the results of many elementary
+principles; as, the definitions of parallels, triangle, and
+square; the axioms respecting straight lines, and respecting
+parallels; and, perhaps, others. The conclusion is
+complicated by containing the effects of the combination of
+all these elements; but it contains nothing, and can contain
+nothing, but such elements and their combinations.
+This doctrine, that logical reasoning produces no new
+truths, but only unfolds and brings into view those truths
+which were, in effect, contained in the first principles of
+the reasoning, is assented to by almost all who, in modern
+times, have attended to the science of logic. Such a view is
+admitted both by those who defend, and by those who
+depreciate the value of logic. ‘Whatever is established by
+reasoning, must have been contained and virtually asserted
+in the premises6.’ ‘The only truth which such
+propositions can possess consists in conformity to the
+original principles.’</div></body></text></TEI>

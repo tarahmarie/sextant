@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 138-139</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 138-139.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1840">undated [1840]</date>
+          <note type="place">St. James's Square</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 138-139</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_138-139.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>St. James' Sqre Saturday</p>
+      <p>Dearest William. I read the enclosed, with no surprise. It is exactly what I anticipated would some time be made; &amp; shocking as it all is to reflect on, I have so long in my own mind felt the connection that such things, or something very similar, had been, in</p>
+      <p>my most miserable &amp; unhappy family, that the proofs of the fact come to me as no new or startling thing.--</p>
+      <p>It is tho' a most strange &amp; dreadful history! And to think that my Mother, {then we may say a young girl [double underlined]), &amp; purity &amp; innocence itself, should have been suddenly plunged into the midst of the greatest depths of depravity &amp; crimes, is almost more dreadful than the crimes themselves. I only wonder she has a particle</p>
+      <p>of confidence in anybody whatever. I do indeed wonder she has!--</p>
+      <p>I rather wish you could have seen what I have written to my Mother. But it would lose time to send it to you, &amp; I can repeat most of it when you come.</p>
+      <p>My different affairs go on well on the whole; but the weather is very gloomy, &amp; I am rather dull than otherwise.--</p>
+      <p>I have many little things to tell you when you come,</p>
+      <p>&amp; I think you will approve of the arrangements I contemplate for the dispersal of my various occupations &amp; plans.--</p>
+      <p>Your Birdie</p>
+      <p>Very glad indeed about Parrate's Son.--</p>
+    </div></body>
+  </text>
+</TEI>

@@ -1,0 +1,239 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="25">CHAPTER V.
+Sequel to the epoch of Kepler. Reception,
+Verification, and Extension of the Elliptical Theory.
+
+Sect. 1.—Application of the
+Elliptical Theory to the Planets.
+THE extension of Kepler’s
+discoveries concerning the orbit of Mars to the other planets,
+obviously offered itself as a strong probability, and was confirmed by
+trial. This was made in the first place upon the orbit of Mercury;
+which planet, in consequence of the largeness of its eccentricity,
+exhibits more clearly than the others the circumstances of the
+elliptical motion. These and various other supplementary portions of
+the views to which Kepler’s discoveries had led, appeared in the
+latter part of his Epitome Astronomiæ Copernicanæ, published in
+1622.
+The real verification of the new doctrine concerning the orbits and
+motions of the heavenly bodies was, of course, to be found in the
+construction of tables of those motions, and in the continued
+comparison of such tables with observation. Kepler’s discoveries had
+been founded, as we have seen, principally on Tycho’s observations.
+Longomontanus (so called as being a native of Langberg in Denmark),
+published in 1621, in his Astronomia Danica, tables founded
+upon the theories as well as the observations of his countryman.
+Kepler44 in 1627 published his tables of the
+planets, which he called Rudolphine Tables, the result and
+application of his own theory. In 1633, Lansberg, a Belgian, published
+also Tabulæ Perpetuæ, a work which was ushered into the world
+with considerable pomp and pretension, and in which the author cavils
+very keenly at Kepler and Brahe. We may judge of the impression made
+upon the astronomical world in general by these rival works, from the
+account which our countryman Jeremy Horrox has given of their effect
+on him. He had been seduced by the magnificent promises of Lansberg,
+and the praises of his admirers, which are prefixed to the work, and
+was persuaded that the common opinion which preferred Tycho and Kepler
+to him was a prejudice. In 1636, however, he became acquainted with
+Crabtree, another young 303 astronomer, who lived in the same part
+of Lancashire. By him Horrox was warned that Lansberg was not to be
+depended on; that his hypotheses were vicious, and his observations
+falsified or forced into agreement with his theories. He then read the
+works and adopted the opinions of Kepler; and after some hesitation
+which he felt at the thought of attacking the object of his former
+idolatry, he wrote a dissertation on the points of difference between
+them. It appears that, at one time, he intended to offer himself as
+the umpire who was to adjudge the prize of excellence among the three
+rival theories of Longomontanus, Kepler, and Lansberg; and, in
+allusion to the story of ancient mythology, his work was to have been
+called Paris Astronomicus; we easily see that he would have
+given the golden apple to the Keplerian goddess. Succeeding
+observations confirmed his judgment: and the Rudolphine Tables,
+thus published seventy-six years after the Prutenic, which were
+founded on the doctrines of Copernicus, were for a long time those
+universally used.
+44 Rheticus, Narratio, p.
+98.
+Sect. 2.—Application of the Elliptical Theory to
+the Moon.
+The reduction of the Moon’s motions to rule
+was a harder task than the formation of planetary tables, if accuracy
+was required; for the Moon’s motion is affected by an incredible
+number of different and complex inequalities, which, till their law is
+detected, appear to defy all theory. Still, however, progress was made
+in this work. The most important advances were due to Tycho Brahe. In
+addition to the first and second inequalities of the moon (the
+Equation of the Centre, known very early, and the
+Evection, which Ptolemy had discovered), Tycho proved that
+there was another inequality, which he termed the Variation,45 which depended on the moon’s position
+with respect to the sun, and which at its maximum was forty minutes
+and a half, about a quarter of the evection. He also perceived, though
+not very distinctly, the necessity of another correction of the moon’s
+place depending on the sun’s longitude, which has since been termed
+the Annual Equation.
+45  We have seen (chap. iii.), that Aboul-Wefa, in the tenth
+century, had already noticed this inequality; but his discovery had
+been entirely forgotten long before the time of Tycho, and has only
+recently been brought again into notice.
+These steps concerned the Longitude of the Moon; Tycho also made
+important advances in the knowledge of the Latitude. The Inclination
+of the Orbit had hitherto been assumed to be the same at all 304 times; and the motion
+of the Node had been supposed uniform. He found that the inclination
+increased and diminished by twenty minutes, according to the position
+of the line of nodes; and that the nodes, though they regress upon the
+whole, sometimes go forwards and sometimes go backwards.
+Tycho’s discoveries concerning the moon are given in his
+Progymnasmata, which was published in 1603, two years after the
+author’s death. He represents the Moon’s motion in longitude by means
+of certain combinations of epicycles and eccentrics. But after Kepler
+had shown that such devices are to be banished from the planetary
+system, it was impossible not to think of extending the elliptical
+theory to the moon. Horrox succeeded in doing this; and in 1638 sent
+this essay to his friend Crabtree. It was published in 1673, with the
+numerical elements requisite for its application added by Flamsteed.
+Flamsteed had also (in 1671–2) compared this theory with
+observation, and found that it agreed far more nearly than the
+Philolaic Tables of Bullialdus, or the Carolinian Tables
+of Street (Epilogus ad Tabulas). Moreover Horrox, by making the
+centre of the ellipse revolve in an epicycle, gave an explanation of
+the evection, as well as of the equation of the centre.46
+46 Horrox (Horrockes as he
+himself spelt his name) gave a first sketch of his theory in letters
+to his friend Crabtree in 1638: in which the variation of the
+eccentricity is not alluded to. But in Crabtree’s letter to Gascoigne
+in 1642, he gives Horrox’s rule concerning it; and Flamsteed in his
+Epilogue to the Tables, published by Wallis along with Horrox’s
+works in 1673, gave an explanation of the theory which made it amount
+very nearly to a revolution of the centre of the ellipse in an
+epicycle. Halley afterwards made a slight alteration; but hardly, I
+think, enough to justify Newton’s assertion (Princip. Lib. iii.
+Prop. 35, Schol.), “Halleius centrum ellipseos in epicyclo locavit.”
+See Baily’s Flamsteed, p. 683.
+Modern astronomers, by calculating the effects of the perturbing
+forces of the solar system, and comparing their calculations with
+observation, have added many new corrections or equations to those
+known at the time of Horrox; and since the Motions of the heavenly
+bodies were even then affected by these variations as yet undetected,
+it is clear that the Tables of that time must have shown some errors
+when compared with observation. These errors much perplexed
+astronomers, and naturally gave rise to the question whether the
+motions of the heavenly bodies really were exactly regular, or whether
+they were not affected by accidents as little reducible to rule as
+wind and weather. Kepler had held the opinion of the casualty
+of such errors; but Horrox, far more philosophically, argues against
+this opinion, though he 305 allows that he is much embarrassed by
+the deviations. His arguments show a singularly clear and strong
+apprehension of the features of the case, and their real import. He
+says,47 “these errors of the tables are
+alternately in excess and defect; how could this constant compensation
+happen if they were casual? Moreover, the alternation from excess to
+defect is most rapid in the Moon, most slow in Jupiter and Saturn, in
+which planets the error continues sometimes for years. If the errors
+were casual, why should they not last as long in the Moon as in
+Saturn? But if we suppose the tables to be right in the mean motions,
+but wrong in the equations, these facts are just what must happen;
+since Saturn’s inequalities are of long period, while those of the
+Moon are numerous, and rapidly changing.” It would be impossible, at
+the present moment, to reason better on this subject; and the
+doctrine, that all the apparent irregularities of the celestial
+motions are really regular, was one of great consequence to establish
+at this period of the science.
+47 Astron. Kepler. Proleg. p.
+17.
+Sect. 3.—Causes of the further Progress of
+Astronomy.
+We are now arrived at the time when theory
+and observation sprang forwards with emulous energy. The physical
+theories of Kepler, and the reasonings of other defenders of the
+Copernican theory, led inevitably, after some vagueness and
+perplexity, to a sound science of Mechanics; and this science in time
+gave a new face to Astronomy. But in the mean time, while mechanical
+mathematicians were generalizing from the astronomy already
+established, astronomers were accumulating new facts, which pointed
+the way to new theories and new generalizations. Copernicus, while he
+had established the permanent length of the year, had confirmed the
+motion of the sun’s apogee, and had shown that the eccentricity of the
+earth’s orbit, and the obliquity of the ecliptic, were gradually,
+though slowly, diminishing. Tycho had accumulated a store of excellent
+observations. These, as well as the laws of the motions of the moon
+and planets already explained, were materials on which the Mechanics
+of the Universe was afterwards to employ its most matured powers. In
+the mean time, the telescope had opened other new subjects of notice
+and speculation; not only confirming the Copernican doctrine by the
+phases of Venus, and the analogical examples of Jupiter and Saturn,
+which with their Satellites 306 appeared like models of the Solar
+System; but disclosing unexpected objects, as the Ring of Saturn, and
+the Spots of the Sun. The art of observing made rapid advances, both
+by the use of the telescope, and by the sounder notions of the
+construction of instruments which Tycho introduced. Copernicus had
+laughed at Rheticus, when he was disturbed about single minutes; and
+declared that if he could be sure to ten minutes of space, he should
+be as much delighted as Pythagoras was when he discovered the property
+of the right-angled triangle. But Kepler founded the revolution which
+he introduced on a quantity less than this. “Since,” he says,48 “the Divine Goodness has given us in
+Tycho an observer so exact that this error of eight minutes is
+impossible, we must be thankful to God for this, and turn it to
+account. And these eight minutes, which we must not neglect, will, of
+themselves, enable us to reconstruct the whole of astronomy.” In
+addition to other improvements, the art of numerical calculation made
+an inestimable advance by means of Napier’s invention of Logarithms;
+and the progress of other parts of pure mathematics was proportional
+to the calls which astronomy and physics made upon them.
+48 De Stellâ Martis, c.
+19.
+The exactness which observation had attained enabled astronomers
+both to verify and improve the existing theories, and to study the yet
+unsystematized facts. The science was, therefore, forced along by a
+strong impulse on all sides, and its career assumed a new character.
+Up to this point, the history of European Astronomy was only the
+sequel of the history of Greek Astronomy; for the heliocentric system,
+as we have seen, had had a place among the guesses, at least, of the
+inventive and acute intellects of the Greek philosophers. But the
+discovery of Kepler’s Laws, accompanied, as from the first they were,
+with a conviction that the relations thus brought to light were the
+effects and exponents of physical causes, led rapidly and irresistibly
+to the Mechanical Science of the skies, and collaterally, to the
+Mechanical Science of the other parts of Nature: Sound, and Light, and
+Heat; and Magnetism, and Electricity, and Chemistry. The history of
+these Sciences, thus treated, forms the sequel of the present work,
+and will be the subject of the succeeding volumes. And since, as I
+have said, our main object in this work is to deduce, from the history
+of science, the philosophy of scientific discovery, it may be regarded
+as fortunate for our purpose that the history, after this point, so
+far changes its aspect as to offer new materials for such
+speculations. The details of 307 a history of astronomy, such as the
+history of astronomy since Newton has been, though interesting to the
+special lovers of that science, would be too technical, and the
+features of the narrative too monotonous and unimpressive, to interest
+the general reader, or to suggest a comprehensive philosophy of
+science. But when we pass from the Ideas of Space and Time to the
+Ideas of Force and Matter, of Mediums by which action and sensation
+are produced, and of the Intimate Constitution of material bodies, we
+have new fields of inquiry opened to us. And when we find that in
+these fields, as well as in astronomy, there are large and striking
+trains of unquestioned discovery to be narrated, we may gird ourselves
+afresh to the task of writing, and I hope, of reading, the remaining
+part of the History of the Inductive Sciences, in the trust that it
+will in some measure help us to answer the important questions, What
+is Truth? and, How is it to be discovered?
+
+
+BOOK VI.
+
+THE MECHANICAL SCIENCES.
+
+HISTORY OF
+MECHANICS,
+INCLUDING
+FLUID MECHANICS.
+
+
+ΚΡΑΤΟΣ ΒIΑ ΤΕ, σφῷν μὲν ἐντολὴ Διὸς
+Ἔχει Τέλος δὴ, κ’ οὐδὲν ἐμποδῶν ἔτι
+Æschylus. Prom.
+Vinct. 13.  
+
+You, FORCE and POWER, have done your destined
+task:
+And naught impedes the work of other hands.
+
+</div></body></text></TEI>

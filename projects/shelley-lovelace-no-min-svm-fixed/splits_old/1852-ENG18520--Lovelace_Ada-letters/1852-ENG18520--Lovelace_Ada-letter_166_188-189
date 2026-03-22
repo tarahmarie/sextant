@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 188-189</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 188-189.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1852">undated {1852?]</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 188-189</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_188-189.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>6 o'clock Satdy</p>
+      <p>Much more comfortable. And even if only temporary, this is a .</p>
+      <p>I shall of course write tomorrow night, &amp; I suppose you will send over for it early on Mondy afternoon.</p>
+      <p>Mr Symes is a</p>
+      <p>very quiet, powerful, tall man. He hopes to succeed--</p>
+      <p>I have really [entire line too faint to read] [most of line too faint to read] I value one 1/2 hour of quiet.</p>
+    </div></body>
+  </text>
+</TEI>

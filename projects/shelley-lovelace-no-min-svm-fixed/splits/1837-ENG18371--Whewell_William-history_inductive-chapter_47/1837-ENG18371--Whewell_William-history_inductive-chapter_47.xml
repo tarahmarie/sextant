@@ -1,0 +1,102 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="47">CHAPTER II.
+The Copernican Theory.
+
+The Moon’s Rotation.
+I HAVE said, in page 264, that a confusion of mind produced by
+the double reference of motion to absolute space, and to a centre of
+revolution, often leads persons to dispute whether the Moon, while she
+revolves about the Earth, always turning to it the same face, revolves
+about her axis or not.
+This dispute has been revived very lately, and has been conducted
+in a manner which shows that popular readers and writers have made
+little progress in the clearness of their notions during the last two
+or three centuries; and that they have accepted the Newtonian
+doctrines in words with a very dim apprehension of their real
+import.
+If the Moon were carried round the Earth by a rigid arm revolving
+about the Earth as a centre, being rigidly fastened to this arm, as a
+mimic Moon might be, in a machine constructed to represent her
+motions, this contrivance, while it made her revolve round the Earth
+would make her also turn the same face to the Earth: and if we were to
+make such a machine the standard example of rotation, the Moon might
+be said not to rotate on her axis.
+But we are speedily led to endless confusion by taking this case as
+the standard of rotation. For the selection of the centre of rotation
+in a system which includes several bodies is arbitrary. The Moon turns
+all her faces successively to the Sun, and therefore with regard to
+the Sun, she does rotate on her axis; and yet she revolves round the
+Sun as truly as she revolves round the Earth. And the only really
+simple and consistent mode of speaking of rotation, is to refer the
+motion not to any relative centre, but to absolute space.
+This is the argument merely on the ground of simplicity and
+consistency. But we find physical reasons, as well as mathematical,
+for referring the motion to absolute space. If a cup of water be
+carried round a centre so as to describe a circle, a straw floating on
+the surface 525 of
+the water, if it point to the centre of the circle at first, does not
+continue to do so, but remains parallel to itself during the whole
+revolution. Now there is no cause to make the water (and therefore the
+straw) rotate on its axis; and therefore it is not a clear or
+convenient way of speaking, to say that the water in this case does
+revolve on its axis. But if the water in this case do not revolve on
+its axis, a body in the case of the Moon does revolve on its axis.
+The difficulty, as I have said in the text, is of the same nature
+as that which the Copernicans at first found in the parallel motion of
+the Earth’s axis. In order to make the axis of the Earth’s rotation
+remain parallel to itself while the Earth revolves about the Sun, in a
+mechanical representation, some machinery is needed in
+addition to the machinery which produces the revolution round the
+centre (the Sun): but the simplest way of regarding the parallel
+motion is, to conceive that the axis has no motion except that which
+carries it round the central Sun. And it was seen, when the science of
+Mechanics was established, that no force was needed in nature to
+produce this parallelism of the Earth’s axis. It was therefore the
+only scientific course, to conceive this parallelism as not being a
+rotation: and in like manner we are to conceive the parallelism of a
+revolving body as not being a rotation.
+M. Foucault’s Proofs of the Earth’s Motion.
+It was hardly to be expected that we should
+discover, in our own day, a new physical proof of the earth’s motion,
+yet so it has been. The experiments of M. Foucault have enabled us to
+see the Rotation of the Earth on its axis, as taking place, we may
+say, before our eyes. These experiments are, in fact, a result of what
+has been said in speaking of the Moon’s rotation: namely, That the
+mechanical causes of motion operate with reference to absolute, not
+relative, space; so that where there is no cause operating to change a
+motion, it will retain its direction in absolute space; and
+may on that account seem to change, if regarded relatively in a
+limited space.
+In M. Foucault’s first experiment, the motion employed was that of
+a pendulum. If a pendulum oscillate quite freely, there is no cause
+acting to change the vertical plane of oscillation
+absolutely; for the forces which produce the oscillation are
+in the vertical plane. But if the vertical plane remain the
+same absolutely, at a spot on the surface of the revolving
+Earth, it will change relatively to the spectator. He will
+see the pendulum oscillate in a vertical plane which gradually 526 turns away from its
+first position. Now this is what really happens; and thus the
+revolution of the Earth in absolute space is experimentally
+proved.
+In subsequent experiments, M. Foucault has used the rotation of a
+body to prove the same thing. For when a body rotates freely, acted
+upon by no power, there is nothing to change the position of the axis
+of rotation in absolute space. But if the position of the axis remain
+the same in absolute space, it will, in virtue of its relative motion,
+change as seen by a spectator at any spot on the rotating Earth. By
+taking a heavy disk or globe and making it rotate on its axis rapidly,
+the force of absolute permanence (as compared with the inevitable
+casual disturbances arising from the machinery which supports the
+revolving disk) becomes considerable  and hence the relative motion
+can, in this way also, be made visible.
+Mr. De Morgan has said (Comp. to Brit. Alm. 1836, p. 18)
+that astronomy does not supply any argument for the earth’s motion
+which is absolutely and demonstrably conclusive, till we come to the
+Aberration of Light. But we may now venture to say that the
+experiments of M. Foucault prove the diurnal motion of the Earth in
+the most conclusive manner, by palpable and broad effects, if we
+accept the doctrines of the Science of Mechanics: while Aberration
+proves the annual motion, if we suppose that we can observe the places
+of the fixed stars to the accuracy of a few seconds; and if we accept,
+in addition to the doctrines of Mechanics, the doctrine of the motion
+of light with a certain great velocity.
+</div></body></text></TEI>

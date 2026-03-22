@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 120-123</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 120-123.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1838">undated [1838]</date>
+          <note type="place">St. James's Square</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 120-123</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_120-123.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>St James' Sqre Mondy 9 o'clock</p>
+      <p>Dearest Mate. I am annoyed to think you will soon be returning from your most drenching (if it was like Ockham), day of soldiering, &amp; will be birdless. And yet I feel satisfied with the course I have taken. In my hurry this morning in writing to you, I said I</p>
+      <p>hoped, if I am not vaccinated, we might set off Friday or Satdy. I want Thursday or Friday, but somehow my imagination gallopped like my pen, &amp; I got on a day in advance. In this case, you &amp; children would come here Weddy.--</p>
+      <p>I have not seen Dr Locock yet. As I knew I could not conveniently send George out this evening, besides the delay it would have occassioned, I made a detour by Sqre in coming in, &amp; left a</p>
+      <p>message to be delivered, with a card to certify who it was. Dr L was out, so probably may not return home yet.--</p>
+      <p>Thyer told me George was very much alarmed. I fear this is bad, &amp; it was Thyer's impression that he was more likely to have the monster than any one.--</p>
+      <p>I saw Mr Hasborough just before I came away, (he had not been in to the coachman), about the vaccination; &amp; was sorry to hear from him that it is not unfrequent for</p>
+      <p>persons to take the small-pox of others who have had it, 3 months after their case!--</p>
+      <p>Altogether it is an untoward affair, but it might be worse.-- I think you will like to receive the Avis's cheerful letter, &amp; that before you could by post. But I shall write tomorrow also, which you will get Weddy morning.-- I gave all directions I could think of about the dinner tomorrow, &amp; I desired Thyer to get help in waiting.-- If you think</p>
+      <p>proper, pray make my compliments &amp; excuses to your guests.--</p>
+      <p>I think I never have seen such rain at Ockham as there was today. Surely it must have drenched everything.--</p>
+      <p>I feel very fond of ou, &amp; I hope ou thinks about me, &amp; that ou loves my young.--</p>
+      <p>Will you have the 1st vol of "Woman's Reward &amp; The Wife", looked for. It is one of those I was to have brought today, to return</p>
+      <p>to the library, &amp; I find I have only got the 2nd &amp; 3rd.--</p>
+      <p>Later.-- I am decidedly to be be vaccinated, tomorrow morning, &amp; I find the process is not likely to be so long as I had thought. When the individual has been vaccinated before, it is usually only about 4 days.-- Dr L thinks we may most safely fix our departure for the West for Monday or even Satdy.</p>
+      <p>He is extremely glad I did not ride out on Satdy last, as I had thought of doing after I came from the Downs, in which case I should have been put on horseback &amp; accompanied by the coachman. He says he should then have been in a very great fright about me, as he thinks had I been in contact that number of hours before the eruption appeared, the risk would have been imminent.--</p>
+    </div></body>
+  </text>
+</TEI>

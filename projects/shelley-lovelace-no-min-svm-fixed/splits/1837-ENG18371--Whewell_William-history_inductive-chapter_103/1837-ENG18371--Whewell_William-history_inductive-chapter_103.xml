@@ -1,0 +1,249 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="103">CHAPTER X.
+Transition from the Chemical to the Classificatory
+Sciences.
+IT is the object and the boast
+of chemistry to acquire a knowledge of bodies which is more exact and
+constant than any knowledge borrowed from their sensible qualities can
+be; since it penetrates into their intimate constitution, and
+discloses to us the invariable laws of their composition. But yet it
+will be seen, on a little reflection, that such knowledge could not
+have any existence, if we were not also attentive to their sensible
+qualities.
+The whole fabric of chemistry rests, even at the present day, upon
+the opposition of acids and bases: an acid was certainly at first
+known by its sensible qualities, and how otherwise, even now, do we
+perceive its quality? It was a great discovery of modern times that
+earths and alkalies have for their bases metals: but what are
+metals? or how, except from lustre, hardness, weight, and the
+like, do we recognize a body as a metal? And how, except by such
+characters, even before its analysis, was it known to be an earth or
+an alkali? We must suppose some classification established, before we
+can make any advance by experiment or observation.
+It is easy to see that all attempts to avoid this difficulty by
+referring to processes and analogies, as well as to substances, bring
+us back to the same point in a circle of fallacies. If we say that an
+acid and alkali are known by combining with each other, we still must
+ask, What is the criterion that they have combined? If we say
+that the distinctive qualities of metals and earths are, that metals
+become earths by oxidation, we must still inquire how we recognize the
+process of oxidation? We have seen how important a part
+combustion plays in the history of chemical speculation; and we may
+usefully form such classes of 306 bodies as combustibles and
+supporters of combustion. But even combustion is not
+capable of being infallibly known, for it passes by insensible shades
+into oxidation. We can find no basis for our reasonings, which does
+not assume a classification of obvious facts and qualities.
+But any classification of substances on such grounds, appears, at
+first sight, to involve us in vagueness, ambiguity, and contradiction.
+Do we really take the sensible qualities of an acid as the criterion
+of its being an acid?—for instance, its sourness? Prussic acid,
+arsenious acid, are not sour. “I remember,” says Dr. Paris,100 “a chemist having been exposed to much
+ridicule from speaking of a sweet acid,—why not?” When
+Davy had discovered potassium, it was disputed whether it was a metal;
+for though its lustre and texture are metallic, it is so light as to
+swim on water. And if potassium be allowed to be a metal, is silicium
+one, a body which wants the metallic lustre, and is a non-conductor of
+electricity? It is clear that, at least, the obvious
+application of a classification by physical characters, is attended
+with endless perplexity.
+100 Life of Davy, i.
+263.
+But since we cannot even begin our researches without assuming a
+classification, and since the forms of such a classification which
+first occur, end in apparent confusion, it is clear that we must look
+to our philosophy for a solution of this difficulty; and must avoid
+the embarrassments and contradictions of casual and unreflective
+classification, by obtaining a consistent and philosophical
+arrangement. We must employ external characters and analogies in a
+connected and systematic manner; we must have Classificatory
+Sciences, and these must have a bearing even on Chemistry.
+Accordingly, the most philosophical chemists now proceed upon this
+principle. “The method which I have followed,” says M. Thenard, in his
+Traité de Chimie, published in 1824, “is, to unite in one group
+all analogous bodies; and the advantage of this method, which is that
+employed by naturalists, is very great, especially in the study of the
+metals and their compounds.”101 In this, as
+in all good systems of chemistry, which have appeared since the
+establishment of the phlogistic theory, combustion, and the analogous
+processes, are one great element in the arrangement, while the
+difference of metallic and non-metallic, is another element. Thus
+Thenard, in the first place, speaks of Oxygen; in the next place, of
+the Non-metallic Combustibles, as Hydrogen, Carbon, Sulphur, Chlorine;
+and in the next place, of Metals. But the Metals are again divided
+into six Sections, with reference, 307 principally, to their facility of
+combination with oxygen. Thus, the First Section is the Metals of the
+Earths; the Second, the Metals of the Alkalies; the Third, the Easily
+Oxidable Metals, as Iron; the Fourth, Metals Less Oxidable, as Copper
+and Lead; the Fifth Section contains only Mercury and Osmium; and the
+Sixth, what were at an earlier period termed the Noble Metals,
+Gold, Silver, Platinum, and others.
+101 Pref., p. viii.
+How such principles are to be applied, so as to produce a definite
+and consistent arrangement, will be explained in speaking of the
+philosophy of the Classificatory Sciences; but there are one or two
+peculiarities in the classes of bodies thus recognized by modern
+chemistry, which it may be useful to notice.
+1. The distinction of Metallic and Non-metallic is still employed,
+as of fundamental importance. The discovery of new metals is so much
+connected with the inquiries concerning chemical elements, that we may
+notice the general progress of such discoveries. Gold,
+Silver, Iron, Copper, Quicksilver,
+Lead, Tin, were known from the earliest antiquity. In
+the beginning of the sixteenth century, mine-directors, like George
+Agricola, had advanced so far in practical metallurgy, that they had
+discovered the means of extracting three additional metals,
+Zinc, Bismuth, Antimony. After this, there was no
+new metal discovered for a century, and then such discoveries were
+made by the theoretical chemists, a race of men who had not existed
+before Beccher and Stahl. Thus Arsenic and Cobalt were
+made known by Brandt, in the middle of the eighteenth century, and we
+have a long list of similar discoveries belonging to the same period;
+Nickel, Manganese, and Tungsten, which were
+detected by Cronstedt, Gahn, and Scheele, and Delhuyart, respectively;
+metals of a very different kind, Tellurium and
+Molybdenum, which were brought to light by Müller, Scheele,
+Bergman, and Hielm; Platinum, which was known as early as 1741,
+but with the ore of which, in 1802 and 1803, the English chemists,
+Wollaston and Tennant, found that no less than four other new metals
+(Palladium, Rhodium, Iridium and Osmium)
+were associated. Finally, (omitting some other new metals,) we have
+another period of discovery, opened in 1807, by Davy’s discovery of
+Potassium, and including the resolution of all, or almost all,
+the alkalies and earths into metallic bases.
+[2nd Ed.] [The next few years made some, at least some conjectural,
+additions to the list of simple substances, detected by a more minute
+scrutiny of known substances. Thorium was discovered by
+Berzelius in 1828; and Vanadium by Professor Sefström in 1830.
+A 308 metal named
+Cerium, was discovered in 1803, by Hisinger and Berzelius, in a
+rare Swedish mineral known by the name of Cerit. Mosander more
+recently has found combined with Cerium, other new metals which he has
+called Lanthanium, Didymium, Erbium, and
+Terbium: M. Klaus has found a new metal, Ruthenium, in
+the ore of Platinum; and Rose has discovered in Tantalite two other
+new metals, which he has announced under the names of Pelopium
+and Niobium. Svanberg is said to have discovered a new earth in
+Eudialyt, which is supposed to have, like the rest, a new radical. If
+these last discoveries be confirmed, the number of simple substances
+will be raised to sixty-two.]
+2. Attempts have been made to indicate the classification of
+chemical substances by some peculiarity in the Name; and the Metals,
+for example, have been designated generally by names in um,
+like the Latin names of the ancient metals, aurum,
+ferrum. This artifice is a convenient nomenclature for the
+purpose of marking a recognized difference; and it would be worth the
+while of chemists to agree to make it universal, by writing
+molybdenum and platinum; which is sometimes done, but
+not always.
+3. I am not now to attempt to determine how far this
+class,—Metals,—extends; but where the analogies of the
+class cease to hold there the nomenclature must also change. Thus,
+some chemists, as Dr. Thomson, have conceived that the base of Silica
+is more analogous to Carbon and Boron, which form acids with oxygen,
+than it is to the metals: and he has accordingly associated this base
+with these substances, and has given it the same termination,
+Silicon. But on the validity of this analogy chemists appear
+not to be generally agreed.
+4. There is another class of bodies which have attracted much
+notice among modern chemists, and which have also been assimilated to
+each other in the form of their names; the English writers calling
+them Chlorine, Fluorine, Iodine, Bromine,
+while the French use the terms Chlore, Phtore,
+Iode, Brome. We have already noticed the establishment
+of the doctrine—that muriatic acid is formed of a base,
+chlorine, and of hydrogen,—as a great reform in the oxygen
+theory; with regard to which rival claims were advanced by Davy, and
+by MM. Gay-Lussac and Thenard in 1800. Iodine, a remarkable body
+which, from a dark powder, is converted into a violet-colored gas by
+the application of heat, was also, in 1813, the subject of a similar
+rivalry between the same English and French chemists. Bromine 309 was only discovered
+as late as 1826; and Fluorine, or Phtore, as, from its
+destructive nature, it has been proposed to term it, has not been
+obtained as a separate substance, and is inferred to exist by analogy
+only. The analogies of these bodies (Chlore, Phtore, &c.) are very
+peculiar; for instance, by combination with metals they form salts; by
+combination with hydrogen they form very strong acids; and all, at the
+common temperature of the atmosphere, operate on other bodies in the
+most energetic manner. Berzelius102 proposes to
+call them halogenous bodies, or halogenes.
+102 Chem. i. 262.
+5. The number of Elementary Substances which are at present
+presented in our treatises of chemistry103 is
+fifty-three, [or rather, as we have said above,
+sixty-two.] It is naturally often asked what evidence we
+have, that all these are elementary, and what evidence that
+they are all the elementary bodies;—how we know that
+new elements may not hereafter be discovered, or these supposed simple
+bodies resolved into simpler still? To these questions we can only
+answer, by referring to the history of chemistry;—by pointing
+out what chemists have understood by analysis, according to the
+preceding narrative. They have considered, as the analysis of a
+substance, that elementary constitution of it which gives the only
+intelligible explanation of the results of chemical manipulation, and
+which is proved to be complete as to quantity, by the balance, since
+the whole can only be equal to all its parts. It is impossible to
+maintain that new substances may not hereafter be discovered; for they
+may lurk, even in familiar substances, in doses so minute that they
+have not yet been missed amid the inevitable slight inaccuracies of
+all analysis; in the way in which iodine and bromine remained so long
+undetected in sea-water; and new minerals, or old ones not yet
+sufficiently examined, can hardly fail to add something to our list.
+As to the possibility of a further analysis of our supposed simple
+bodies, we may venture to say that, in regard to such supposed simple
+bodies as compose a numerous and well-characterized class, no such
+step can be made, except through some great change in chemical theory,
+which gives us a new view of all the general relations which chemistry
+has yet discovered. The proper evidence of the reality of any supposed
+new analysis is, that it is more consistent with the known analogies
+of chemistry, to suppose the process analytical than synthetical.
+Thus, as has already been said, chemists admit the existence of
+fluorine, from the analogy of chlorine; and Davy, when it was found
+310 that ammonia
+formed an amalgam with mercury, was tempted to assign to it a metallic
+basis. But then he again hesitates,104 and doubts
+whether the analogies of our knowledge are not better preserved by
+supposing that ammonia, as a compound of hydrogen and another
+principle, is “a type of the composition of the metals.”
+103 Turner, p. 971.
+104 Elem. Chem. Phil. 1812,
+p. 481.
+Our history, which is the history of what we know, has little to do
+with such conjectures. There are, however, some not unimportant
+principles which bear upon them, and which, as they are usually
+employed, belong to the science which next comes under our review,
+Mineralogy.
+~Additional material in the 3rd edition.~
+
+
+BOOK XV.
+
+
+THE ANALYTICO-CLASSIFICATORY SCIENCE.
+
+HISTORY OF MINERALOGY.
+
+Κρύσταλλον φαέθοντα διαυγέα λάζεο χερσὶ,
+Λᾶαν ἀπόῤῥοιαν περιφεγγέος ἀμβρότου αἴγλης,
+Αἰθέρι δ’ ἀθανάτων μέγα τέρπεται ἄφθιτον
+ἦτορ.
+Τόν κ’ εἴπερ μετὰ χειρὰς ἔχων, περὶ νηὸν
+ἵκηαι,
+Οὔτις τοι μακάρων ἀρνήσεται εὐχωλῆσι.
+Orpheus.
+Lithica.
+
+Now, if the bold but pious thought be
+thine,
+To reach our spacious temple’s inner
+shrine,
+Take in thy reverent hands the crystal
+stone,
+Where heavenly light in earthy shroud is
+shown:—
+Where, moulded into measured form, with
+rays
+Complex yet clear, the eternal Ether plays;
+This if thou firmly hold and rightly use,
+Not long the gods thy ardent wish refuse.
+
+</div></body></text></TEI>

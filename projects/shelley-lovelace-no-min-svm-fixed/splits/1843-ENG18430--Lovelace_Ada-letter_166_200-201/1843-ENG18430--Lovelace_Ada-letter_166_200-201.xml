@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 200-201</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 200-201.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1843">undated (estimated from box 166 date range)</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 200-201</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_200-201.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Thursday 4 o'clock</p>
+      <p>Dearest W. Last night I was suddenly taken unwell , &amp; very much indeed so. I am ill with it today, quite in my old way . Dr L-- has been with me, &amp; will come again tomorrow.</p>
+      <p>I suppose there is no hope of any cessation; since</p>
+      <p>everything now seems to be arriving regularly.</p>
+      <p>But as Dr L-- observes, it is a great misfortune, &amp; what will tend to prevent my success in life with everything I may undertake. I am glad you are not in Town; for I am half distracted today.--</p>
+      <p>I do not see how with my particular constitution, I can ever</p>
+      <p>do any good in the world. It seems to be a physical impossibility for me ever to carry on anything continuously .</p>
+      <p>The objects most liked at one time, may be at any moment hated. For instance I detest how both my Harp &amp; my Studies. And dispite the utmost exertions &amp; resolutions on my part, I am forced to own that utter fruitlessness of all hopes of such continuous</p>
+      <p>attention to any subject whatever, as could ensure any great ultimate success. So it is I fear. I am one of those genius's who will merely run to grass; owing to my unfortunate physical termperament.--</p>
+      <p>Pray don't be angry with me.</p>
+    </div></body>
+  </text>
+</TEI>

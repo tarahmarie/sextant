@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 60-61</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 60-61.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1842">undated [5 August 1842]</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 60-61</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_60-61.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Friday</p>
+      <p>Dearest W. I am longing to go down to Ockham; &amp; believe that I shall certainly not delay it beyond Sunday. I want to get to my Harp &amp; my Horses, &amp; the dear little Birds.</p>
+      <p>As a matter of reason &amp; principle more than of mania, I have made up my mind to make the</p>
+      <p>utmost for one year of my Harp; but by no means in an excessive way, or to the exclusion of other things. But I intend to make that the chief; on purpose. Just for that limited time, &amp; avoiding mania. What I wish is to devote a steady unvarying attention to it, just for a period. Not 6 hours one day, 1 the next, &amp; none the 3d; &amp; so forth. I am sure you</p>
+      <p>will approve all this.</p>
+      <p>And I believe that this week in Town has done much toward inclining me to the country still more, &amp; to a steady interest and application to rational &amp; elegant pursuits.--</p>
+      <p>The enclosed must be about L. King surely. It is from the Chronicle But I did not see it. Charlotte sent it to me.</p>
+      <p>Are you not also delighted with the enclosed little Horse. I saw much</p>
+      <p>more about it in yesterday's paper (which you will get tomorrow). The dear little thing was put into a Cab, like a Dog; &amp; carried about also in its master's arms.</p>
+    </div></body>
+  </text>
+</TEI>

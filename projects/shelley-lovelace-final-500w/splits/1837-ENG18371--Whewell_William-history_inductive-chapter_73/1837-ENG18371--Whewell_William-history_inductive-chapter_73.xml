@@ -1,0 +1,291 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="73">CHAPTER XII.
+Sequel to the Epoch of Young and Fresnel. Reception
+of the Undulatory Theory.
+WHEN Young, in 1800, published
+his assertion of the Principle of Interferences, as the true theory of
+optical phenomena, the condition of England was not very favorable to
+a fair appreciation of the value of the new opinion. The men of
+science were strongly pre-occupied in favor of the doctrine of
+emission, not only from a national interest in Newton’s glory, and a
+natural reverence for his authority, but also from deference towards
+the geometers of France, who were looked up to as our masters in the
+application of mathematics to physics, and who were understood to be
+Newtonians in this as in other subjects. A general tendency to an
+atomic philosophy, which had begun to appear from the time of Newton,
+operated powerfully; and 112 the hypothesis of emission was so easily
+conceived, that, when recommended by high authority, it easily became
+popular; while the hypothesis of luminiferous undulations, unavoidably
+difficult to comprehend, even by the aid of steady thought, was
+neglected, and all but forgotten.
+Yet the reception which Young’s opinions met with was more harsh
+than he might have expected, even taking into account all these
+considerations. But there was in England no visible body of men,
+fitted by their knowledge and character to pronounce judgment on such
+a question, or to give the proper impulse and bias to public opinion.
+The Royal Society, for instance, had not, for a long time, by custom
+or institution, possessed or aimed at such functions. The writers of
+“Reviews” alone, self-constituted and secret tribunals, claimed this
+kind of authority. Among these publications, by far the most
+distinguished about this period was the Edinburgh Review; and,
+including among its contributors men of eminent science and great
+talents, employing also a robust and poignant style of writing (often
+certainly in a very unfair manner), it naturally exercised great
+influence. On abstruse doctrines, intelligible to few persons, more
+than on other subjects, the opinions and feelings expressed in a
+Review must be those of the individual reviewer. The criticism on some
+of Young’s early papers on optics was written by Mr. (afterwards Lord)
+Brougham, who, as we have seen, had experimented on diffraction,
+following the Newtonian view, that of inflexion. Mr. Brougham was
+perhaps at this time young enough96 to be somewhat
+intoxicated with the appearance of judicial authority in matters of
+science, which his office of anonymous reviewer gave him: and even in
+middle-life, he was sometimes considered to be prone to indulge
+himself in severe and sarcastic expressions. In January, 1803, was
+published97 his critique on Dr. Young’s Bakerian
+Lecture, On the Theory of Light and Colors, in which lecture
+the doctrine of undulations and the law of interferences was
+maintained. This critique was an uninterrupted strain of blame and
+rebuke. “This paper,” the reviewer said, “contains nothing which
+deserves the name either of experiment or discovery.” He charged the
+writer with “dangerous relaxations of the principles of physical
+logic.” “We wish,” he cried, “to recall philosophers to the strict and
+severe methods of investigation,” describing them as those pointed out
+by Bacon, Newton, and the like. Finally, Dr. Young’s speculations
+113 were spoken of
+as a hypothesis, which is a mere work of fancy; and the critic added,
+“we cannot conclude our review without entreating the attention of the
+Royal Society, which has admitted of late so many hasty and
+unsubstantial papers into its Transactions;” which habit he
+urged them to reform. The same aversion to the undulatory theory
+appears soon after in another article by the same reviewer, on the
+subject of Wollaston’s measures of the refraction of Iceland spar; he
+says, “We are much disappointed to find that so acute and ingenious an
+experimentalist should have adopted the wild optical theory of
+vibrations.” The reviewer showed ignorance as well as prejudice in the
+course of his remarks; and Young drew up an answer, which was ably
+written, but being published separately had little circulation. We can
+hardly doubt that these Edinburgh reviews had their effect in
+confirming the general disposition to reject the undulatory
+theory.
+96 His age was twenty-four.
+97 Edin. Review, vol. i. p.
+450.
+We may add, however, that Young’s mode of presenting his opinions
+was not the most likely to win them favor; for his mathematical
+reasonings placed them out of the reach of popular readers, while the
+want of symmetry and system in his symbolical calculations, deprived
+them of attractiveness for the mathematician. He himself gave a very
+just criticism of his own style of writing, in speaking on another of
+his works:98 “The mathematical reasoning, for want
+of mathematical symbols, was not understood, even by tolerable
+mathematicians. From a dislike of the affectation of algebraical
+formality which he had observed in some foreign authors, he was led
+into something like an affectation of simplicity, which was equally
+inconvenient to a scientific reader.”
+98 See Life of Young, p.
+54.
+Young appears to have been aware of his own deficiency in the power
+of drawing public favor, or even notice, to his discoveries. In 1802,
+Davy writes to a friend, “Have you seen the theory of my colleague,
+Dr. Young, on the undulations of an ethereal medium as the cause of
+light? It is not likely to be a popular hypothesis, after what has
+been said by Newton concerning it. He would be very much flattered if
+you could offer any observations upon it, whether for or against
+it.” Young naturally felt confident in his power of refuting
+objections, and wanted only the opportunity of a public combat.
+Dr. Brewster, who was, at this period, enriching optical knowledge
+with so vast a train of new phenomena and laws, shared the general
+aversion to the undulatory theory, which, indeed, he hardly overcame
+114 thirty years
+later. Dr. Wollaston was a person whose character led him to look long
+at the laws of phenomena, before he attempted to determine their
+causes; and it does not appear that he had decided the claims of the
+rival theories in his own mind. Herschel (I now speak of the son) had
+at first the general mathematical prejudice in favor of the emission
+doctrine. Even when he had himself studied and extended the laws of
+dipolarized phenomena, he translated them into the language of the
+theory of moveable polarization. In 1819, he refers to, and corrects,
+this theory; and says, it is now “relieved from every difficulty, and
+entitled to rank with the fits of easy transmission and reflection as
+a general and simple physical law;” a just judgment, but one which now
+conveys less of praise than he then intended. At a later period, he
+remarked that we cannot be certain that if the theory of emission had
+been as much cultivated as that of undulation, it might not have been
+as successful; an opinion which was certainly untenable after the fair
+trial of the two theories in the case of diffraction, and extravagant
+after Fresnel’s beautiful explanation of double refraction and
+polarization. Even in 1827, in a Treatise on Light, published
+in the Encyclopædia Metropolitana, he gives a section to the
+calculations of the Newtonian theory; and appears to consider the
+rivalry of the theories as still subsisting. But yet he there speaks
+with a proper appreciation of the advantages of the new doctrine.
+After tracing the prelude to it, he says, “But the unpursued
+speculations of Newton, and the opinions of Hooke, however distinct,
+must not be put in competition, and, indeed, ought scarcely to be
+mentioned, with the elegant, simple, and comprehensive theory of
+Young,—a theory which, if not founded in nature, is certainly
+one of the happiest fictions that the genius of man ever invented to
+grasp together natural phenomena, which, at their first discovery,
+seemed in irreconcileable opposition to it. It is, in fact, in all its
+applications and details, one succession of felicities;
+insomuch, that we may almost be induced to say, if it be not true, it
+deserves to be so.”
+In France, Young’s theory was little noticed or known, except
+perhaps by M. Arago, till it was revived by Fresnel. And though
+Fresnel’s assertion of the undulatory theory was not so rudely
+received as Young’s had been, it met with no small opposition from the
+older mathematicians, and made its way slowly to the notice and
+comprehension of men of science. M. Arago would perhaps have at once
+adopted the conception of transverse vibrations, when it was suggested
+by his fellow-laborer, Fresnel, if it had not been that he was a
+member of the 115
+Institute, and had to bear the brunt of the war, in the frequent
+discussions on the undulatory theory; to which theory Laplace, and
+other leading members, were so vehemently opposed, that they would not
+even listen with toleration to the arguments in its favor. I do not
+know how far influences of this kind might operate in producing the
+delays which took place in the publication of Fresnel’s papers. We
+have seen that he arrived at the conception
+of transverse vibrations in 1816, as the true key to the understanding
+of polarization. In 1817 and 1818, in a memoir read to the Institute,
+he analysed and explained the perplexing phenomena of quartz, which he
+ascribed to a circular polarization. This memoir had not been
+printed, nor any extract from it inserted in the scientific journals,
+in 1822, when he confirmed his views by further experiments.99 His remarkable memoir, which solved the
+extraordinary and capital problem of the connexion of double
+refraction and crystallization, though written in 1821, was not
+published till 1827. He appears by this time to have sought other
+channels of publication. In 1822, he gave,100 in the
+Annales de Chimie et de Physique, an explanation of refraction
+on the principles of the undulatory theory; alleging, as the reason
+for doing so, that the theory was still little known. And in
+succeeding years there appeared in the same work, his theory of
+reflection. His memoir on this subject (Mémoire sur la Loi des
+Modifications que la Réflexion imprime à la Lumière Polarisée,)
+was read to the Academy of Sciences in 1823. But the original paper was
+mislaid, and, for a time, supposed to be lost; it has since been
+recovered among the papers of M. Fourier, and printed in the eleventh
+volume of the Memoirs of the Academy.101 Some of the
+speculations to which he refers, as communicated to the Academy, have
+never yet appeared.102
+99 Hersch. Light, p. 539.
+100 Ann. de Chim. 1822, tom.
+xxi. p. 235.
+101 Lloyd. Report on Optics,
+p. 363. (Fourth Rep. of Brit. Ass.)
+102 Ib. p. 316, note.
+Still Fresnel’s labors were, from the first, duly appreciated by
+some of the most eminent of his countrymen. His Memoir on
+Diffraction was, as we have seen, crowned in 1819: and, in 1822, a
+Report upon his Memoir on Double Refraction was drawn up by a
+commission consisting of MM. Ampère, Fourier, and Arago. In this
+report103 Fresnel’s theory is spoken of as
+confirmed by the most delicate tests. The reporters add, respecting
+his “theoretical ideas on the particular kind of undulations which,
+according to him, constitute light,” that “it would be impossible for
+them to pronounce at present a decided 116 judgment,” but that “they have not
+thought it right to delay any longer making known a work of which the
+difficulty is attested by the fruitless efforts of the most skilful
+philosophers, and in which are exhibited in the same brilliant degree,
+the talent for experiment and the spirit of invention.”
+103 Ann. Chim. tom. xx. p.
+343.
+In the meantime, however, a controversy between the theory of
+undulations and the theory of moveable polarization which M. Biot had
+proposed with a view of accounting for the colors produced by
+dipolarizing crystals, had occurred among the French men of science.
+It is clear that in some main features the two theories coincide; the
+intervals of interference in the one theory being represented by the
+intervals of the oscillations in the other. But these intervals in M.
+Biot’s explanations were arbitrary hypotheses, suggested by these very
+facts themselves; in Fresnel’s theory, they were essential parts of
+the general scheme. M. Biot, indeed, does not appear to have been
+averse from a coalition; for he allowed104 to Fresnel
+that “the theory of undulations took the phenomena at a higher point
+and carried them further.” And M. Biot could hardly have dissented
+from M. Arago’s account of the matter, that Fresnel’s views
+“linked together”105 the
+oscillations of moveable polarization. But Fresnel, whose hypothesis
+was all of one piece, could give up no part of it, although he allowed
+the usefulness of M. Biot’s formulæ. Yet M. Biot’s speculations fell
+in better with the views of the leading mathematicians of Paris. We
+may consider as evidence of the favor with which they were looked
+upon, the large space they occupy in the volumes of the Academy for
+1811, 1812, 1817, and 1818. In 1812, the entire volume is filled with
+a memoir of M. Biot’s on the subject of moveable polarization. This
+doctrine also had some advantage in coming early before the world in a
+didactic form, in his Traité de Physique, which was published
+in 1816, and was the most complete treatise on general physics which
+had appeared up to that time. In this and others of this author’s
+writings, he expresses facts so entirely in the terms of his own
+hypothesis, that it is difficult to separate the two. In the sequel M.
+Arago was the most prominent of M. Biot’s opponents; and in his report
+upon Fresnel’s memoir on the colors of crystalline plates, he exposed
+the weaknesses of the theory of moveable polarization with some
+severity. The details of this controversy need not occupy us; but we
+may observe that this may be considered as the last struggle 117 in favor of the
+theory of emission among mathematicians of eminence. After this crisis
+of the war, the theory of moveable polarization lost its ground; and
+the explanations of the undulatory theory, and the calculations
+belonging to it, being published in the Annales de Chimie et de
+Physique, of which M. Arago was one of the conductors, soon
+diffused it over Europe.
+104 Ann. Chim. tom. xvii. p.
+251.
+105 “Nouait”.
+It was probably in consequence of the delays to which we have
+referred, in the publication of Fresnel’s memoirs, that as late as
+December, 1826, the Imperial Academy at St Petersburg proposed, as one
+of their prize-questions for the two following years, this,—“To
+deliver the optical system of waves from all the objections which have
+(as it appears) with justice been urged against it, and to apply it to
+the polarization and double refraction of light.” In the programme to
+this announcement, Fresnel’s researches on the subject are not alluded
+to, though his memoir on diffraction is noticed; they were, therefore,
+probably not known to the Russian Academy.
+Young was always looked upon as a person of marvellous variety of
+attainments and extent of knowledge; but during his life he hardly
+held that elevated place among great discoverers which posterity will
+probably assign him. In 1802, he was constituted Foreign Secretary of
+the Royal Society, an office which he held during life; in 1827 he was
+elected one of the eight Foreign Members of the Institute of France;
+perhaps the greatest honor which men of science usually receive. The
+fortune of his life in some other respects was of a mingled
+complexion. His profession of a physician occupied, sufficiently to
+fetter, without rewarding him; while he was Lecturer at the Royal
+Institution, he was, in his lectures, too profound to be popular; and
+his office of Superintendent of the Nautical Almanac subjected
+him to much minute labor, and many petulant attacks of pamphleteers.
+On the other hand, he had a leading part in the discovery of the
+long-sought key to the Egyptian hieroglyphics; and thus the age which
+was marked by two great discoveries, one in science and one in
+literature, owed them both in a great measure to him. Dr. Young died
+in 1829, when he had scarcely completed his fifty-sixth year. Fresnel
+was snatched from science still more prematurely, dying, in 1827, at
+the early age of thirty-nine.
+We need not say that both these great philosophers possessed, in an
+eminent degree, the leading characteristics of the discoverer’s mind,
+perfect clearness of view, rich fertility of invention, and intense
+love of knowledge. We cannot read without great interest a letter of
+118 Fresnel to
+Young,106 in November, 1824: “For a long time
+that sensibility, or that vanity, which people call love of glory, is
+much blunted in me. I labor much less to catch the suffrages of the
+public, than to obtain an inward approval which has always been the
+sweetest reward of my efforts. Without doubt I have often wanted the
+spur of vanity to excite me to pursue my researches in moments of
+disgust and discouragement. But all the compliments which I have
+received from MM. Arago, De Laplace, or Biot, never gave me so much
+pleasure as the discovery of a theoretical truth, or the confirmation
+of a calculation by experiment.”
+106 I was able to give this, and some
+other extracts, from the then unedited correspondence of Young and
+Fresnel, by the kindness of (the Dean of Ely) Professor Peacock, of
+Trinity College, Cambridge, whose Life of Dr. Young has since been
+published.
+Though Young and Fresnel were in years the contemporaries of many
+who are now alive, we must consider ourselves as standing towards them
+in the relation of posterity. The Epoch of Induction in Optics is
+past; we have now to trace the Verification and Application of the
+true theory.
+</div></body></text></TEI>

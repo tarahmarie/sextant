@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 122-125</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 122-125.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1844">undated [August 1844?]</date>
+          <note type="place">Brighton</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 122-125</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_122-125.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Brighton Thursdy Morg.</p>
+      <p>My Dearest. I think you wish me to visit the G. Kings, &amp; I think you are right in so doing.</p>
+      <p>I propose to pass Sunday Night with them, &amp; to be at Ockham on Monday Afternoon by 3 o'clock or so; (time enough to bathe in the river if possible, after my journey, if you can go there with me that is).</p>
+      <p>I first thought of being at Fryern on Satdy Evening, &amp; staying two nights with them. But this is undesirable I find on further reflection.</p>
+      <p>I wish to pay them the compliment of going to see them, but not to stay there just at this moment. Besides which, I could scarcely be sure of receiving a reply in time from them. Owing to an accident I did not get your letter yesterday until too late to write to the G. Kings last night.</p>
+      <p>As I am to be there only one night, I think you had better not meet me there. It would be tantalizing to us not to be able to converse freely &amp; privately; &amp; yet we ought not to withdraw from our hosts.--</p>
+      <p>Besides this, I rather want to be alone with them. I think they may as well feel &amp; find out</p>
+      <p>what I am when quite alone with them.</p>
+      <p>Let the phaeton (or droski), be at Fryern on Sunday evening then.</p>
+      <p>Should the G. Kings be unable to receive me, I will desire him to send you on a letter to say so; in which case let me have the carriage at Redhill Monday morning, so as to be ready to take me thence about 11 or 12 o'clock.</p>
+      <p>I think all this is</p>
+      <p>clear.--</p>
+      <p>You must not be disappointed to find that for some weeks I shall require you in the water beside me-- just to steady me-- nothing more. I am told that all young swimmers do, especially females; otherwise the exertion is too severe, &amp; injures the lungs sometimes. After a good deal of practise, this becomes quite unnecessary. If I have not</p>
+      <p>this much of aid, I become exhausted after 2 minutes, &amp; suffer for it; &amp; yet the very slightest aid suffices to prevent this, &amp; to enable me to remain in a proper &amp; sufficient time.</p>
+      <p>The three grown up young ladies whom my men resided with a month at Dover, to teach them swimming, were (after the sailors quitted the family) always aided by their</p>
+      <p>father, for about two months longer. He went in with them.--</p>
+      <p>They are now first- -rate swimmers.--</p>
+      <p>I think the attack on you I mentioned as possible, is a very remote chance indeed. But I know that an attack either in person or on character is intended, &amp; am not certain which.</p>
+      <p>You can do nothing to avert it, either way. And it may all turn</p>
+      <p>out smoke &amp; bully, &amp; I suspect will. It is an odd chance it's coming to my ears.</p>
+      <p>Pray tell Wilson what numbers you expect of company, &amp; when &amp;c. [two words crossed out] [entire line crossed out] [one word crossed out]</p>
+    </div></body>
+  </text>
+</TEI>

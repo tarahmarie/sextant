@@ -1,0 +1,142 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="85">CHAPTER I.
+Discovery of Voltaic Electricity.
+WE have given the name of
+mechanico-chemical to the class of sciences now under our
+consideration; for these sciences are concerned with cases in which
+mechanical effects, that is, attractions and repulsions, are produced;
+while the conditions under which these effects occur, depend, as we
+shall hereafter see, on chemical relations. In that branch of these
+sciences which we have just treated of, Magnetism, the mechanical
+phenomena were obvious, but their connexion with chemical causes was
+by no means apparent, and, indeed, has not yet come under our
+notice.
+The subject to which we now proceed, Galvanism, belongs to the same
+group, but, at first sight, exhibits only the other, the chemical,
+portion of the features of the class; for the connexion of galvanic
+phenomena with chemical action was soon made out, but the mechanical
+effects which accompany them were not examined till the examination
+was required by a new train of discovery. It is to be observed, that I
+do not include in the class of mechanical effects the convulsive
+motions in the limbs of animals which are occasioned by galvanic
+action; for these movements are produced, not by attraction and
+repulsion, but by muscular irritability; and though they indicate the
+existence of a peculiar agency, cannot be used to measure its
+intensity and law.
+The various examples of the class of agents which we here
+consider,—magnetism, electricity, galvanism, electro-magnetism,
+thermo-electricity,—differ from each other principally in the
+circumstances by which they are called into action; and these
+differences are in reality of a chemical nature, and will have to be
+considered when we come to treat of the inductive steps by which the
+general principles of chemical theory are established. In the present
+part of our task, therefore, we must take for granted the chemical
+conditions on which the excitation of these various kinds of action
+depends, and trace the history of the discovery of their mechanical
+laws only. This rule will much abridge the account we have here to
+give of the progress of discovery in the provinces to which I have
+just referred. 238
+The first step in this career of discovery was that made by
+Galvani, Professor of Anatomy at Bologna. In 1790, electricity, as an
+experimental science, was nearly stationary. The impulse given to its
+progress by the splendid phenomena of the Leyden phial had almost died
+away; Coulomb was employed in systematizing the theory of the electric
+fluid, as shown by its statical effects; but in all the other parts of
+the subject, no great principle or new result had for some time been
+detected. The first announcement of Galvani’s discovery in 1791
+excited great notice, for it was given forth as a manifestation of
+electricity under a new and remarkable character; namely, as residing
+in the muscles of animals.1 The limbs of a dissected frog were
+observed to move, when touched with pieces of two different metals;
+the agent which produced these motions was conceived to be identified
+with electricity, and was termed animal electricity; and
+Galvani’s experiments were repeated, with various modifications, in
+all parts of Europe, exciting much curiosity, and giving rise to many
+speculations.
+1 De Viribus Electricis in Motu
+Musculari, Comm. Bonon. t. vii. 1792.
+It is our business to determine the character of each great
+discovery which appears in the progress of science. Men are fond of
+repeating that such discoveries are most commonly the result of
+accident; and we have seen reason to reject this opinion, since that
+preparation of thought by which the accident produces discovery is the
+most important of the conditions on which the successful event
+depends. Such accidents are like a spark which discharges a gun
+already loaded and pointed. In the case of Galvani, indeed, the
+discovery may, with more propriety than usual, be said to have been
+casual; but in the form in which it was first noted, it exhibited no
+important novelty. His frog was lying on a table near the conductor of
+an electrical machine, and the convulsions appeared only when a spark
+was taken from the machine. If Galvani had been as good a physicist as
+he was an anatomist, he would probably have seen that the movements so
+occasioned proved only that the muscles or nerves, or the two
+together, formed a very sensitive indicator of electrical action. It
+was when he produced such motions by contact of metals alone, that he
+obtained an important and fundamental fact in science.
+The analysis of this fact into its real and essential conditions
+was the work of Alexander Volta, another Italian professor. Volta,
+indeed, possessed that knowledge of the subject of electricity which
+made a hint like that of Galvani the basis of a new science. Galvani
+appears 239 never
+to have acquired much general knowledge of electricity: Volta, on the
+other hand, had labored at this branch of knowledge from the age of
+eighteen, through a period of nearly thirty years; and had invented an
+electrophorus and an electrical condenser, which showed
+great experimental skill. When he turned his attention to the
+experiments made by Galvani, he observed that the author of them had
+been far more surprised than he needed to be, at those results in
+which an electrical spark was produced; and that it was only in the
+cases in which no such apparatus was employed, that the observations
+could justly be considered as indicating a new law, or a new kind of
+electricity.2 He soon satisfied himself3
+(about 1794) that the essential conditions of this kind of action
+depended on the metals; that it is brought into play most decidedly
+when two different metals touch each other, and are connected by any
+moist body;—and that the parts of animals which had been used
+discharged the office both of such moist bodies, and of very sensitive
+electrometers. The animal electricity of Galvani might, he
+observed, be with more propriety called metallic
+electricity.
+2 Phil. Trans. 1793, p.
+21.
+3 See Fischer, viii. 625.
+The recognition of this agency as a peculiar kind of
+electricity, arose in part perhaps, at first, from the
+confusion made by Galvani between the cases in which his electrical
+machine was, and those in which it was not employed. But the identity
+was confirmed by its being found that the known difference of
+electrical conductors and non-conductors regulated the conduction of
+the new influence. The more exact determination of the new facts to
+those of electricity was a succeeding step of the progress of the
+subject.
+The term “animal electricity” has been superseded by others, of
+which galvanism is perhaps the most familiar. I think it will
+appear from what has been said, that Volta’s office in this discovery
+is of a much higher and more philosophical kind than that of Galvani;
+and it would, on this account, be more fitting to employ the term
+voltaic electricity; which, indeed, is very commonly used,
+especially by our most recent and comprehensive writers.
+Volta more fully still established his claim as the main originator
+of this science by his next step. When some of those who repeated the
+experiments of Galvani had expressed a wish that there was some method
+of multiplying the effect of this electricity, such as the
+Leyden phial supplies for common electricity, they probably thought
+their wishes far from a realization. But the voltaic pile,
+which Volta 240
+described in the Philosophical Transactions for 1800,
+completely satisfies this aspiration; and was, in fact, a more
+important step in the history of electricity than the Leyden jar had
+been. It has since undergone various modifications, of which the most
+important was that introduced by Cruickshanks, who4
+substituted a trough for a pile. But in all cases the principle of the
+instrument was the same;—a continued repetition of the triple
+combination of two metals and a fluid in contact, so as to form a
+circuit which returns into itself.
+4 Fischer, viii. p. 683.
+Such an instrument is capable of causing effects of great
+intensity; as seen both in the production of light and heat, and in
+chemical changes. But the discovery with which we are here concerned,
+is not the details and consequences of the effects, (which belong to
+chemistry,) but the analysis of the conditions under which such
+effects take place; and this we may consider as completed by Volta at
+the epoch of which we speak.
+</div></body></text></TEI>

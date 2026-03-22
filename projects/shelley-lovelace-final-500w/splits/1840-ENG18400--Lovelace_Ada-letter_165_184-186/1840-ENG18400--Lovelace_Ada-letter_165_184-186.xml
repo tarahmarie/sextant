@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 184-186</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 184-186.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1840">undated (estimated from box 165 date range)</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 184-186</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_184-186.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Saturday</p>
+      <p>Dearest W. I am much dismayed at receiving no letter from Hester, forwarded from Ashley. Pray, pray, make enquiries. It left Cambridge on Monday last.--</p>
+      <p>I had but a short while to stay at Esher last evening; for the desired Trains are all altered, &amp;</p>
+      <p>the latest leaves at 1/2 after seven. Botheration!</p>
+      <p>But the glimpse was delightful to all parties.--</p>
+      <p>My Singing Lesson again today has been most satisfactory. Signor Faia is quite delighted; &amp; says that I shall have a beautiful Soprano voice, very flexible , &amp; of a most melodious quality; &amp; that I have unquestionably great talent.-- I fell much benefit from the Singing, to that hysterical</p>
+      <p>affliction of the breath.--</p>
+      <p>I forgot yesterday to tell you that the only thing I can discover against the Artificial Ice, is that I find it is approved by so many Bishops &amp; Clergy.</p>
+      <p>I suppose they mean to cut out the Trinity in- figure upon it. On that they think so much refrigerantintroduction as seems likely to become now universal, may tend to cool the flames of Hell!--</p>
+      <p>I hear that the</p>
+      <p>Queen intends to have it laid down at the Palace &amp; to learn herself to skate.</p>
+      <p>I hope it is so. What a delightful thing for her.</p>
+      <p>I shall be very anxious for your reply appointing a time for going to inspect the Ice, &amp; speaking to Mr Kirk.-- Dearest W--; I hope you like all the Bird's various eager-nesses and enthusiasms.-- The Hen is much pleased about the Singing.--</p>
+      <p>Locock's present plans are</p>
+      <p>I think evidently agreeing.</p>
+      <p>He is a great comfort to me; &amp; is much interested &amp; very kind. I think he will set me all right in time. In fact, tho' there have been various drawbacks at times, yet much has certainly been done towards a right state of things.--</p>
+      <p>London is suiting me much. Better than ever even. Perhaps you will scarcily like to hear this.--</p>
+      <p>I fear it is a London Bird. But something better than a Sparrow too.--</p>
+    </div></body>
+  </text>
+</TEI>

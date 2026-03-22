@@ -1,0 +1,427 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Principles of Geology</title><author>Lyell, Charles (1797-1875)</author></titleStmt><publicationStmt><publisher>John Murray</publisher><pubPlace>London</pubPlace><date>1830</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="35">CHAPTER XXXV.
+WHETHER SPECIES HAVE A REAL EXISTENCE IN NATURE—continued.
+Limits of the variability of species—Species susceptible of modification may be
+altered greatly in a short time, and in a few generations; after which they remain
+stationary—The animals now subject to man had originally an aptitude to
+domesticity—Acquired peculiarities which become hereditary have a close connexion
+with the habits or instincts of the species in a wild state—Some qualities
+in certain animals have been conferred with a view of their relation to man—Wild
+elephant domesticated in a few years, but its faculties incapable of further
+development.]
+Variability of a species compared to that of an individual.—I
+endeavored, in the last chapter, to show, that a belief in the reality
+of species is not inconsistent with the idea of a considerable degree
+of variability in the specific character. This opinion, indeed, is little
+more than an extension of the idea which we must entertain of
+the identity of an individual, throughout the changes which it is capable
+of undergoing.
+If a quadruped, inhabiting a cold northern latitude, and covered
+with a warm coat of hair or wool, be transported to a southern climate,
+it will often, in the course of a few years, shed a considerable portion
+of its coat, which it gradually recovers on being again restored to its
+native country. Even there the same changes are, perhaps, superinduced
+to a certain extent by the return of winter and summer.
+We know that the Alpine hare (Lepus variabilis, Pal.) and the
+ermine, or stoat, (Mustela erminea, Linn.) become white during winter,
+and again obtain their full color during the warmer season; that the
+plumage of the ptarmigan undergoes a like metamorphosis in color
+and quantity, and that the change is equally temporary. We
+are aware that, if we reclaim some wild animal, and modify its habits
+and instincts by domestication, it may, if it escapes, become in a few
+years nearly as wild and untractable as ever; and if the same individual
+be again retaken, it may be reduced to its former tame state. A plant
+is sown in a prepared soil, in order that the petals of its flowers may
+multiply, and their color be heightened or changed: if we then withhold
+our care, the flowers of this same species become again single. In
+these, and innumerable other instances, we must suppose that the
+species was produced with a certain number of qualities; and, in the
+case of animals, with a variety of instincts, some of which may or may
+not be developed according to circumstances, or which, after having
+been called forth, may again become latent when the exciting causes are
+removed.
+592
+Now, the formation of races seems the necessary consequence
+of such a capability in species to vary, if it be a general law that the
+offspring should very closely resemble the parent. But, before
+we can infer that there are no limits to the deviation from an original
+type which may be brought about in the course of an indefinite
+number of generations, we ought to have some proof that, in each
+successive generation, individuals may go on acquiring an equal
+amount of new peculiarities, under the influence of equal changes
+of circumstances. The balance of evidence, however, inclines most
+decidedly on the opposite side; for in all cases we find that the quantity
+of divergence diminishes after a few generations in a very rapid
+ratio.
+Species susceptible of modification may be greatly altered in a few
+generations.—It cannot be objected, that it is out of our power to go
+on varying the circumstances in the same manner as might happen
+in the natural course of events during some great geological cycle.
+For in the first place, where a capacity is given to individuals to adapt
+themselves to new circumstances, it does not generally require a very
+long period for its development: if, indeed, such were the case, it is
+not easy to see how the modification would answer the ends proposed,
+for all the individuals would die before new qualities, habits, or instincts
+were conferred.
+When we have succeeded in naturalizing some tropical plant in
+a temperate climate, nothing prevents us from attempting gradually to
+extend its distribution to higher latitudes, or to greater elevations
+above the level of the sea, allowing equal quantities of time, or an
+equal number of generations, for habituating the species to successive
+increments of cold. But every husbandman and gardener is aware
+that such experiments will fail; and we are more likely to succeed in
+making some plants, in the course of the first two generations, support
+a considerable degree of difference of temperature, than a very small
+difference afterwards, though we persevere for many centuries.
+It is the same if we take any other cause instead of temperature;
+such as the quality of the food, or the kind of dangers to which an
+animal is exposed, or the soil in which a plant lives. The alteration
+in habits, form, or organization, is often rapid during a short period;
+but when the circumstances are made to vary farther, though in ever
+so slight a degree, all modification ceases, and the individual perishes.
+Thus some herbivorous quadrupeds may be made to feed partially on
+fish or flesh; but even these can never be taught to live on some herbs
+which they reject, and which would even poison them, although the
+same may be very nutritious to other species of the same natural order.
+So when man uses force or stratagem against wild animals, the persecuted
+race soon becomes more cautious, watchful, and cunning; new
+instincts seem often to be developed, and to become hereditary in the
+first two or three generations: but let the skill and address of man
+increase, however gradually, no farther variation can take place, no new
+593
+qualities are elicited by the increasing dangers. The alteration of the
+habits of the species has reached a point beyond which no ulterior
+modification is possible, however indefinite the lapse of ages during
+which the new circumstances operate. Extirpation then follows, rather
+than such a transformation as could alone enable the species to perpetuate
+itself under the new state of things.
+Animals now subject to man had originally an aptitude to domesticity.—It
+has been well observed by M. F. Cuvier and M. Dureau de
+la Malle, that unless some animals had manifested in a wild state an
+aptitude to second the efforts of man, their domestication would never
+have been attempted. If they had all resembled the wolf, the fox, and
+the hyæna, the patience of the experimentalist would have been
+exhausted by innumerable failures before he at last succeeded in obtaining
+some imperfect results; so if the first advantages derived from the
+cultivation of plants had been elicited by as tedious and costly a process
+as that by which we now make some slight additional improvements
+in certain races, we should have remained to this day in ignorance
+of the greater number of their useful qualities.
+Acquired instincts of some animals become hereditary.—It is undoubtedly
+true, that many new habits and qualities have not only been
+acquired in recent times by certain races of dogs, but have been transmitted
+to their offspring. But in these cases it will be observed, that
+the new peculiarities have an intimate relation to the habits of the
+animal in a wild state, and therefore do not attest any tendency to
+a departure to an indefinite extent from the original type of the
+species. A race of dogs employed for hunting deer in the platform of
+Sante Fé, in Mexico, affords a beautiful illustration of a new hereditary
+instinct. The mode of attack, observes M. Roulin, which they employ
+consists in seizing the animal by the belly and overturning it by a
+sudden effort, taking advantage of the moment when the body of the
+deer rests only upon the fore-legs. The weight of the animal thus thrown
+over is often six times that of its antagonist. The dog of pure breed
+inherits a disposition to this kind of chase, and never attacks a deer
+from before while running. Even should the deer, not perceiving him,
+come directly upon him, the dog steps aside and makes his assault on
+the flank; whereas other hunting dogs, though of superior strength,
+and general sagacity, which are brought from Europe, are destitute of
+this instinct. For want of similar precautions, they are often killed by
+the deer on the spot, the vertebræ of their neck being dislocated by the
+violence of the shock.817
+A new instinct has also become hereditary in a mongrel race of dogs
+employed by the inhabitants of the banks of the Magdalena almost
+exclusively in hunting the white-lipped pecari. The address of these
+dogs consists in restraining their ardor, and attaching themselves to no
+animal in particular, but keeping the whole herd in check. Now,
+594
+among these dogs some are found, which the very first time they are
+taken to the woods, are acquainted with this mode of attack; whereas,
+a dog of another breed starts forward at once, is surrounded by the
+pecari, and, whatever may be his strength, is destroyed in a moment.
+Some of our countrymen, engaged of late in conducting one of the
+principal mining associations in Mexico, that of Real del Monte, carried
+out with them some English greyhounds of the best breed, to hunt the
+hares which abound in that country. The great platform which is the
+scene of sport is at an elevation of about nine thousand feet above the
+level of the sea, and the mercury in the barometer stands habitually at
+the height of about nineteen inches. It was found that the greyhounds
+could not support the fatigues of a long chase in this attenuated atmosphere,
+and before they could come up with their prey, they lay down
+gasping for breath; but these same animals have produced whelps
+which have grown up, and are not in the least degree incommoded by
+the want of density in the air, but run down the hares with as much
+ease as the fleetest of their race in this country.
+The fixed and deliberate stand of the pointer has with propriety been
+regarded as a mere modification of a habit, which may have been useful
+to a wild race accustomed to wind game, and steal upon it by surprise,
+first pausing for an instant, in order to spring with unerring aim.
+The faculty of the retriever, however, may justly be regarded as more
+inexplicable and less easily referable to the instinctive passions of the
+species. M. Majendie, says a French writer in a recently published
+memoir, having learnt that there was a race of dogs in England which
+stopped and brought back game of their own accord, procured a
+pair, and having obtained a whelp from them, kept it constantly under
+his eyes, until he had an opportunity of assuring himself that, without
+having received any instruction, and on the very first day that it was
+carried to the chase, it brought back game with as much steadiness as
+dogs which had been schooled into the same manœuvre by means of the
+whip and collar.
+Attributes of animals in their relation to man.—Such attainments, as
+well as the habits and dispositions which the shepherd's dog and many
+others inherit, seem to be of a nature and extent which we can hardly
+explain by supposing them to be modifications of instincts necessary
+for the preservation of the species in a wild state. When such remarkable
+habits appear in races of this species we may reasonably
+conjecture that they were given with no other view than for the use of
+man and the preservation of the dog, which thus obtains protection.
+As a general rule, I fully agree with M. F. Cuvier, that, in studying
+the habits of animals, we must attempt, as far as possible, to refer their
+domestic qualities to modifications of instincts which are implanted in
+them in a state of nature; and that writer has successfully pointed out,
+in an admirable essay on the domestication of the mammalia818, the true
+595
+origin of many dispositions which are vulgarly attributed to the influence
+of education alone. But we should go too far if we did not admit
+that some of the qualities of particular animals and plants may have
+been given solely with a view to the connection which it was foreseen
+would exist between them and man—especially when we see that connexion
+to be in many cases so intimate, that the greater number, and
+sometimes, as in the case of the camel, all the individuals of the species
+which exist on the earth are in subjection to the human race.
+We can perceive in a multitude of animals, especially in some of the
+parasitic tribes, that certain instincts and organs are conferred for the
+purpose of defence or attack against some other species. Now if we
+are reluctant to suppose the existence of similar relations between
+man and the instincts of many of the inferior animals, we adopt an
+hypothesis no less violent, though in the opposite extreme to that which
+has led some to imagine the whole animate and inanimate creation to
+have been made solely for the support, gratification, and instruction of
+mankind.
+Many species, most hostile to our persons or property, multiply, in
+spite of our efforts to repress them; others, on the contrary, are
+intentionally augmented many hundred fold in number by our exertions.
+In such instances, we must imagine the relative resources of man, and
+of species friendly or inimical to him, to have been prospectively calculated
+and adjusted. To withhold assent to this supposition, would be
+to refuse what we must grant in respect to the economy of nature in
+every other part of the organic creation; for the various species of
+contemporary plants and animals have obviously their relative forces,
+nicely balanced, and their respective tastes, passions, and instincts so
+contrived, that they are all in perfect harmony with each other. In no
+other manner could it happen that each species, surrounded, as it is, by
+countless dangers, should be enabled to maintain its ground for periods
+of considerable duration.
+The docility of the individuals of some of our domestic species,
+extending, as it does, to attainments foreign to their natural habits and
+faculties, may, perhaps, have been conferred with a view to their association
+with man. But, lest species should be thereby made to vary
+indefinitely, we find that such habits are never transmissible by
+generation.
+A pig has been trained to hunt and point game with great activity
+and steadiness819; and other learned individuals, of the same species,
+have been taught to spell; but such fortuitous acquirements never
+become hereditary, for they have no relation whatever to the exigencies
+of the animal in a wild state, and cannot, therefore, be developments of
+any instinctive propensities.
+Influence of domestication.—An animal in domesticity, says M. F.
+596
+Cuvier, is not essentially in a different situation, in regard to the
+feeling of restraint, from one left to itself. It lives in society without
+constraint, because, without doubt, it was a social animal; and it conforms
+itself to the will of man, because it had a chief, to which, in a
+wild state, it would have yielded obedience. There is nothing in its
+new situation that is not conformable to its propensities; it is satisfying
+its wants by submission to a master, and makes no sacrifice of its
+natural inclinations. All the social animals, when left to themselves,
+form herds more or less numerous; and all the individuals of the
+same herd know each other, are mutually attached, and will not allow
+a strange individual to join them. In a wild state, moreover, they
+obey some individual, which, by its superiority, has become the chief
+of the herd. Our domestic species had, originally, this sociability of
+disposition; and no solitary species, however easy it may be to tame
+it, has yet afforded true domestic races. We merely, therefore, develope,
+to our own advantage, propensities which propel the individuals of
+certain species to draw near to their fellows.
+The sheep which we have reared is induced to follow us, as it
+would be led to follow the flock among which it was brought up; and,
+when individuals of gregarious species have been accustomed to one
+master, it is he alone whom they acknowledge as their chief—he only
+whom they obey. "The elephant allows himself to be directed only
+by the carnac whom he has adopted; the dog itself, reared in solitude
+with its master, manifests a hostile disposition towards all others;
+and every body knows how dangerous it is to be in the midst of a herd
+of cows, in pasturages that are little frequented, when they have not at
+their head the keeper who takes care of them.
+"Every thing, therefore, tends to convince us, that formerly men
+were only with regard to the domestic animals, what those who are
+particularly charged with the care of them still are—namely, members
+of the society which these animals form among themselves; and, that
+they are only distinguished, in the general mass, by the authority
+which they have been enabled to assume from their superiority of intellect.
+Thus, every social animal which recognizes man as a member,
+and as the chief of its herd, is a domestic animal. It might even be
+said, that, from the moment when such an animal admits man as a
+member of its society, it is domesticated, as man could not enter into
+such society without becoming the chief of it."820
+But the ingenious author whose observations I have here cited,
+admits that the obedience which the individuals of many domestic
+species yield indifferently to every person, is without analogy in any
+state of things which could exist previously to their subjugation by
+man. Each troop of wild horses, it is true, has some stallion for its
+chief, who draws after him all the individuals of which the herd is composed;
+but when a domesticated horse has passed from hand to hand,
+597
+and has served several masters, he becomes equally docile towards any
+person, and is subjected to the whole human race. It seems fair to presume
+that the capability in the instinct of the horse to be thus modified,
+was given to enable the species to render greater services to
+man; and, perhaps, the facility with which many other acquired
+characters become hereditary in various races of the horse, may be
+explicable only on a like supposition. The amble, for example, a
+pace to which the domestic races in some parts of Spanish America
+are exclusively trained, has, in the course of several generations, become
+hereditary, and is assumed by all the young colts before they are
+broken in.821
+It seems, also, reasonable to conclude, that the power bestowed on
+the horse, the dog, the ox, the sheep, the cat, and many species of
+domestic fowls, of supporting almost every climate, was given expressly
+to enable them to follow man throughout all parts of the
+globe, in order that we might obtain their services, and they our protection.
+If it be objected that the elephant which, by the union of
+strength, intelligence, and docility, can render the greatest services to
+mankind, is incapable of living in any but the warmest latitudes, we may
+observe that the quantity of vegetable food required by this quadruped
+would render its maintenance in the temperate zones too costly, and in
+the arctic impossible.
+Among the changes superinduced by man, none appear, at first sight,
+more remarkable than the perfect tameness of certain domestic races.
+It is well known that, at however early an age we obtain possession of
+the young of many unreclaimed races, they will retain, throughout life,
+a considerable timidity and apprehensiveness of danger; whereas, after
+one or two generations, the descendants of the same stock will habitually
+place the most implicit confidence in man. There is good reason,
+however, to suspect that such changes are not without analogy in a
+state of nature; or, to speak more correctly, in situations where man
+has not interfered.
+We learn from Mr. Darwin, that in the Galapagos archipelago, placed
+directly under the equator, and nearly 600 miles west of the American
+continent, all the terrestrial birds, as the finches, doves, hawks, and
+others, are so tame, that they may be killed with a switch. One day,
+says this author, "a mocking bird alighted on the edge of a pitcher
+which I held in my hand, and began quietly to sip the water, and
+allowed me to lift it with the vessel from the ground." Yet formerly,
+when the first Europeans landed, and found no inhabitants in these
+islands, the birds were even tamer than now: already they are beginning
+to acquire that salutary dread of man which in countries long
+settled is natural even to young birds which have never received any
+injury. So in the Falkland Islands, both the birds and foxes are entirely
+without fear of man; whereas, in the adjoining mainland of South
+598
+America, many of the same species of birds are extremely wild; for there
+they have for ages been persecuted by the natives.822
+Dr. Richardson informs us, in his able history of the habits of the
+North American animals, that, "in the retired parts of the mountains
+where the hunters had seldom penetrated, there is no difficulty in
+approaching the Rocky Mountain sheep, which there exhibit the simplicity
+of character so remarkable in the domestic species; but where they
+have been often fired at, they are exceedingly wild, alarm their companions,
+on the approach of danger, by a hissing noise, and scale the rocks
+with a speed and agility that baffle pursuit."823
+It is probable, therefore, that as man, in diffusing himself over the
+globe, has tamed many wild races, so, also, he has made many tame
+races wild. Had some of the larger carnivorous beasts, capable of scaling
+the rocks, made their way into the North American mountains
+before our hunters, a similar alteration in the instincts of the sheep
+would doubtless have been brought about.
+Wild elephants domesticated in a few years.—No animal affords a
+more striking illustration of the principal points which I have been endeavouring
+to establish than the elephant; for, in the first place, the
+wonderful sagacity with which he accommodates himself to the society of
+man, and the new habits which he contracts, are not the result of time,
+nor of modifications produced in the course of many generations.
+These animals will breed in captivity, as is now ascertained, in opposition
+to the vulgar opinion of many modern naturalists, and in conformity
+to that of the ancients Ælian and Columella824: yet it has always been the
+custom, as the least expensive mode of obtaining them, to capture wild
+individuals in the forests, usually when full grown; and, in a few years
+after they are taken—sometimes, it is said, in the space of a few months—their
+education is completed.
+Had the whole species been domesticated from an early period in the
+history of man, like the camel, their superior intelligence would, doubtless,
+have been attributed to their long and familiar intercourse with the
+lord of the creation; but we know that a few years is sufficient to bring
+about this wonderful change of habits; and although the same individual
+may continue to receive tuition for a century afterwards, yet it
+makes no farther progress in the general development of its faculties.
+Were it otherwise, indeed, the animal would soon deserve more than the
+poet's epithet of "half-reasoning."
+From the authority of our countrymen employed in the late Burmese
+war, it appears, in corroboration of older accounts, that when elephants
+are required to execute extraordinary tasks, they may be made to understand
+that they will receive unusual rewards. Some favourite dainty is
+shown to them, in the hope of acquiring which the work is done; and
+so perfectly does the nature of the contract appear to be understood,
+599
+that the breach of it, on the part of the master, is often attended with
+danger. In this case, a power has been given to the species to adapt
+their social instincts to new circumstances with surprising rapidity; but
+the extent of this change is defined by strict and arbitrary limits.
+There is no indication of a tendency to continued divergence from
+certain attributes with which the elephant was originally endued—no
+ground whatever for anticipating that, in thousands of centuries, any
+material alteration could ever be effected. All that we can infer from
+analogy is, that some more useful and peculiar races might probably
+be formed, if the experiment were fairly tried; and that some individual
+characteristic, now only casual and temporary, might be perpetuated
+by generation.
+In all cases, therefore, where the domestic qualities exist in animals,
+they seem to require no lengthened process for their developement;
+and they appear to have been wholly denied to some classes, which,
+from their strength and social disposition, might have rendered great
+services to man; as, for example, the greater part of the quadrumana.
+The orang-outang, indeed, which, for its resemblance in form to man,
+and apparently for no other good reason, has been assumed by Lamarck
+to be the most perfect of the inferior animals, has been tamed by the
+savages of Borneo, and made to climb lofty trees, and to bring down
+the fruit. But he is said to yield to his masters an unwilling obedience,
+and to be held in subjection only by severe discipline. We know
+nothing of the faculties of this animal which can suggest the idea that
+it rivals the elephant in intelligence; much less anything which can
+countenance the dreams of those who have fancied that it might have
+been transmuted into the "dominant race." One of the baboons of
+Sumatra (Simia carpolegus) appears to be more docile, and is frequently
+trained by the inhabitants to ascend trees, for the purpose of gathering
+cocoa-nuts; a service in which the animal is very expert. He selects,
+says Sir Stamford Raffles, the ripe nuts, with great judgment, and pulls
+no more than he is ordered.825 The capuchin and cacajao monkeys are,
+according to Humboldt, taught to ascend trees in the same manner,
+and to throw down fruit on the banks of the lower Orinoco.826
+It is for the Lamarckians to explain how it happens that those same
+savages of Borneo have not themselves acquired, by dint of longing, for
+many generations, for the power of climbing trees, the elongated arms
+of the ourang, or even the prehensile tails of some American monkeys:
+Instead of being reduced to the necessity of subjugating stubborn and
+untractable brutes, we should naturally have anticipated "that their
+wants would have excited them to efforts, and that continued efforts
+would have given rise to new organs;" or rather to the re-acquisition
+of organs which, in a manner irreconcileable with the principle of the
+600
+progressive system, have grown obsolete in tribes of men which have
+such constant need of them.
+Recapitulation.—It follows, then, from the different facts which have
+been considered in this chapter, that a short period of time is generally
+sufficient to effect nearly the whole change which an alteration of external
+circumstances can bring about in the habits of a species, and that
+such capacity of accommodation to new circumstances is enjoyed in
+very different degrees, by different species.
+Certain qualities appear to be bestowed exclusively with a view to
+the relations which are destined to exist between different species, and,
+among others, between certain species and man; but these latter are
+always so nearly connected with the original habits and propensities of
+each species in a wild state, that they imply no indefinite capacity of
+varying from the original type. The acquired habits derived from human
+tuition are rarely transmitted to the offspring; and when this happens,
+it is almost universally the case with those merely which have
+some obvious connexion with the attributes of the species when in a
+state of independence.
+</div></body></text></TEI>

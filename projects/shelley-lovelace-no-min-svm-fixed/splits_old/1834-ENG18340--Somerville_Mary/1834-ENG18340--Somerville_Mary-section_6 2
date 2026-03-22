@@ -1,0 +1,407 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Connexion of the Physical Sciences</title><author>Mary Somerville</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1834</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="6">
+34
+SECTION V.
+
+Lunar Theory—Periodic Perturbations of the Moon—Equation of Centre—Evection—Variation—Annual
+Equation—Direct and Indirect
+Action of Planets—The Moon’s Action on the Earth disturbs her own
+Motion—Excentricity and Inclination of Lunar Orbit invariable—Acceleration—Secular
+Variation in Nodes and Perigee—Motion
+of Nodes and Perigee inseparably connected with the Acceleration—Nutation
+of Lunar Orbit—Form and Internal Structure of the Earth
+determined from it—Lunar, Solar, and Planetary Eclipses—Occultations
+and Lunar Distances—Mean Distance of the Sun from the Earth
+obtained from Lunar Theory—Absolute Distances of the Planets, how
+found.
+Our constant companion, the moon, next claims our attention.
+Several circumstances concur to render her motions the most interesting,
+and at the same time the most difficult to investigate,
+of all the bodies of our system. In the solar system, planet
+troubles planet; but, in the lunar theory, the sun is the great
+disturbing cause, his vast distance being compensated by his
+enormous magnitude, so that the motions of the moon are more
+irregular than those of the planets; and, on account of the great
+ellipticity of her orbit, and the size of the sun, the approximations
+to her motions are tedious and difficult, beyond what those unaccustomed
+to such investigations could imagine. The average
+distance of the moon from the centre of the earth is only 238,793
+miles, so that her motion among the stars is perceptible in a few
+hours. She completes a circuit of the heavens in 27d 7h 43m 11s·5,
+moving in an orbit whose excentricity is about 12,985 miles.
+The moon is about four hundred times nearer to the earth than
+the sun. The proximity of the moon to the earth keeps them
+together. For so great is the attraction of the sun, that, if the
+moon were farther from the earth, she would leave it altogether,
+and would revolve as an independent planet about the sun.
+The disturbing action (N. 101) of the sun on the moon is
+equivalent to three forces. The first, acting in the direction of
+the line joining the moon and earth, increases or diminishes her
+gravity to the earth. The second, acting in the direction of a
+35tangent to her orbit, disturbs her motion in longitude. And the
+third, acting perpendicularly to the plane of her orbit, disturbs
+her motion in latitude; that is, it brings her nearer to, or removes
+her farther from, the plane of the ecliptic than she would otherwise
+be. The periodic perturbations in the moon, arising from
+these forces, are perfectly similar to the periodic perturbations of
+the planets. But they are much greater and more numerous;
+because the sun is so large, that many inequalities which are
+quite insensible in the motions of the planets, are of great magnitude
+in those of the moon. Among the innumerable periodic
+inequalities to which the moon’s motion in longitude is liable,
+the most remarkable are, the Equation of the Centre, which is the
+difference between the moon’s mean and true longitude, the
+Evection, the Variation, and the Annual Equation. The disturbing
+force which acts in the line joining the moon and earth
+produces the Evection: it diminishes the excentricity of the lunar
+orbit in conjunction and opposition, thereby making it more
+circular, and augments it in quadrature, which consequently
+renders it more elliptical. The period of this inequality is less
+than thirty-two days. Were the increase and diminution always
+the same, the Evection would only depend upon the distance of
+the moon from the sun; but its absolute value also varies with
+her distance from the perigee (N. 102) of her orbit. Ancient
+astronomers, who observed the moon solely with a view to the
+prediction of eclipses, which can only happen in conjunction and
+opposition, where the excentricity is diminished by the Evection,
+assigned too small a value to the ellipticity of her orbit (N. 103).
+The Evection was discovered by Ptolemy from observation, about
+A.D. 140. The Variation produced by the tangential disturbing
+force, which is at its maximum when the moon is 45° distant
+from the sun, vanishes when that distance amounts to a quadrant,
+and also when the moon is in conjunction and opposition; consequently,
+that inequality never could have been discovered from
+the eclipses: its period is half a lunar month (N. 104). The
+Annual Equation depends upon the sun’s distance from the
+earth: it arises from the moon’s motion being accelerated when
+that of the earth is retarded, and vice versâ—for, when the earth
+is in its perihelion, the lunar orbit is enlarged by the action of
+the sun; therefore, the moon requires more time to perform
+her revolution. But, as the earth approaches its aphelion, the
+36moon’s orbit contracts, and less time is necessary to accomplish
+her motion—its period, consequently, depends upon the time of
+the year. In the eclipses the Annual Equation combines with the
+Equation of the Centre of the terrestrial orbit, so that ancient
+astronomers imagined the earth’s orbit to have a greater excentricity
+than modern astronomers assign to it.
+The planets disturb the motion of the moon both directly and
+indirectly; their action on the earth alters its relative position
+with regard to the sun and moon, and occasions inequalities in
+the moon’s motion, which are more considerable than those
+arising from their direct action; for the same reason the moon,
+by disturbing the earth, indirectly disturbs her own motion.
+Neither the excentricity of the lunar orbit, nor its mean inclination
+to the plane of the ecliptic, have experienced any changes
+from secular inequalities; for, although the mean action of the
+sun on the moon depends upon the inclination of the lunar orbit
+to the ecliptic, and the position of the ecliptic is subject to a
+secular inequality, yet analysis shows that it does not occasion a
+secular variation in the inclination of the lunar orbit, because the
+action of the sun constantly brings the moon’s orbit to the same
+inclination to the ecliptic. The mean motion, the nodes, and the
+perigee, however, are subject to very remarkable variations.
+From the eclipse observed at Babylon, on the 19th of March,
+seven hundred and twenty-one years before the Christian era,
+the place of the moon is known from that of the sun at the
+instant of opposition (N. 83), whence her mean longitude may
+be found. But the comparison of this mean longitude with
+another mean longitude, computed back for the instant of the
+eclipse from modern observations, shows that the moon performs
+her revolution round the earth more rapidly and in a
+shorter time now than she did formerly, and that the acceleration
+in her mean motion has been increasing from age to age as
+the square of the time (N. 105). All ancient and intermediate
+eclipses confirm this result. As the mean motions of the planets
+have no secular inequalities, this seemed to be an unaccountable
+anomaly. It was at one time attributed to the resistance of an
+ethereal medium pervading space, and at another to the successive
+transmission of the gravitating force. But, as La Place
+proved that neither of these causes, even if they exist, have any
+influence on the motions of the lunar perigee (N. 102) or nodes,
+37they could not affect the mean motion; a variation in the mean
+motion from such causes being inseparably connected with variations
+in the motions of the perigee and nodes. That great mathematician,
+in studying the theory of Jupiter’s satellites, perceived
+that the secular variation in the elements of Jupiter’s orbit, from
+the action of the planets, occasions corresponding changes in the
+motions of the satellites, which led him to suspect that the
+acceleration in the mean motion of the moon might be connected
+with the secular variation in the excentricity of the terrestrial
+orbit. Analysis has shown that he assigned the true cause of the
+acceleration.
+It is proved that the greater the excentricity of the terrestrial
+orbit, the greater is the disturbing action of the sun on the moon.
+Now, as the excentricity has been decreasing for ages, the effect
+of the sun in disturbing the moon has been diminishing during
+that time. Consequently the attraction of the earth has had a
+more and more powerful effect on the moon, and has been continually
+diminishing the size of the lunar orbit. So that the
+moon’s velocity has been gradually augmenting for many centuries
+to balance the increase of the earth’s attraction. This
+secular increase in the moon’s velocity is called the Acceleration,
+a name peculiarly appropriate at present, and which will continue
+to be so for a vast number of ages; because, as long as the earth’s
+excentricity diminishes, the moon’s mean motion will be accelerated;
+but when the excentricity has passed its minimum, and
+begins to increase, the mean motion will be retarded from age to
+age. The secular acceleration is now about 11ʺ·9, but its effect
+on the moon’s place increases as the square of the time (N. 106).
+It is remarkable that the action of the planets, thus reflected by
+the sun to the moon, is much more sensible than their direct
+action either on the earth or moon. The secular diminution in
+the excentricity, which has not altered the equation of the centre
+of the sun by eight minutes since the earliest recorded eclipses,
+has produced a variation of about 1° 48ʹ in the moon’s longitude,
+and of 7° 12ʹ in her mean anomaly (N. 107).
+The action of the sun occasions a rapid but variable motion in
+the nodes and perigee of the lunar orbit. Though the nodes
+recede during the greater part of the moon’s revolution, and
+advance during the smaller, they perform their sidereal revolution
+in 6793d 9h 23m 9s·3, or about
+186⁄10
+years; and the
+38perigee accomplishes a revolution, called of the moon’s apsides,
+in 3232d 13h 48m 29s·6, or a little more than nine years, notwithstanding
+its motion is sometimes retrograde and sometimes
+direct: but such is the difference between the disturbing energy
+of the sun and that of all the planets put together, that it
+requires no less than 109,830 years for the greater axis of the
+terrestrial orbit to do the same, moving at the rate of 11ʺ·8
+annually. The form of the earth has no sensible effect either on
+the lunar nodes or apsides. It is evident that the same secular
+variation which changes the sun’s distance from the earth, and
+occasions the acceleration in the moon’s mean motion, must affect
+the nodes and perigee. It consequently appears, from theory as
+well as observation, that both these elements are subject to a
+secular inequality, arising from the variation in the excentricity
+of the earth’s orbit, which connects them with the Acceleration,
+so that both are retarded when the mean motion is anticipated.
+The secular variations in these three elements are in the ratio of
+the numbers 3, 0·735, and 1; whence the three motions of the
+moon, with regard to the sun, to her perigee, and to her nodes,
+are continually accelerated, and their secular equations are as the
+numbers 1, 4·702, and 0·612. A comparison of ancient eclipses
+observed by the Arabs, Greeks, and Chaldeans, imperfect as they
+are, with modern observations, confirms these results of analysis.
+Future ages will develop these great inequalities, which at some
+most distant period will amount to many circumferences (N. 108).
+They are, indeed, periodic; but who shall tell their period? Millions
+of years must elapse before that great cycle is accomplished.
+The moon is so near, that the excess of matter at the earth’s
+equator occasions periodic variations in her longitude, and also
+that remarkable inequality in her latitude, already mentioned as
+a nutation in the lunar orbit, which diminishes its inclination to
+the ecliptic when the moon’s ascending node coincides with the
+equinox of spring, and augments it when that node coincides
+with the equinox of autumn. As the cause must be proportional
+to the effect, a comparison of these inequalities, computed from
+theory, with the same given by observation, shows that the compression
+of the terrestrial spheroid, or the ratio of the difference
+between the polar and the equatorial diameters, to the diameter
+of the equator, is
+1⁄305·05.
+It is proved analytically, that, if a fluid
+mass of homogeneous matter, whose particles attract each other
+39inversely as the squares of the distance, were to revolve about an
+axis as the earth does, it would assume the form of a spheroid
+whose compression is
+1⁄230.
+Since that is not the case, the earth
+cannot be homogeneous, but must decrease in density from its
+centre to its circumference. Thus the moon’s eclipses show the
+earth to be round; and her inequalities not only determine the
+form, but even the internal structure of our planet; results of
+analysis which could not have been anticipated. Similar inequalities
+in the motions of Jupiter’s satellites prove that his
+mass is not homogeneous, and that his compression is
+1⁄13·8.
+His
+equatorial diameter exceeds his polar diameter by about 6000 miles.
+The phases (N. 109) of the moon, which vary from a slender
+silvery crescent soon after conjunction, to a complete circular disc
+of light in opposition, decrease by the same degrees till the moon
+is again enveloped in the morning beams of the sun. These
+changes regulate the returns of the eclipses. Those of the sun
+can only happen in conjunction, when the moon, coming between
+the earth and the sun, intercepts his light. Those of the moon
+are occasioned by the earth intervening between the sun and
+moon when in opposition. As the earth is opaque and nearly
+spherical, it throws a conical shadow on the side of the moon
+opposite to the sun, the axis of which passes through the centres
+of the sun and earth (N. 110). The length of the shadow terminates
+at the point where the apparent diameters (N. 111) of the
+sun and earth would be the same. When the moon is in opposition,
+and at her mean distance, the diameter of the sun would
+be seen from her centre under an angle of 1918ʺ·1. That of the
+earth would appear under an angle of 6908ʺ·3. So that the
+length of the shadow is at least three times and a half greater
+than the distance of the moon from the earth, and the breadth of
+the shadow, where it is traversed by the moon, is about eight-thirds
+of the lunar diameter. Hence the moon would be eclipsed
+every time she is in opposition, were it not for the inclination of
+her orbit to the plane of the ecliptic, in consequence of which the
+moon, when in opposition, is either above or below the cone of
+the earth’s shadow, except when in or near her nodes. Her position
+with regard to them occasions all the varieties in the lunar
+eclipses. Every point of the moon’s surface successively loses
+the light of different parts of the sun’s disc before being eclipsed.
+Her brightness therefore gradually diminishes before she plunges
+40into the earth’s shadow. The breadth of the space occupied by
+the penumbra (N. 112) is equal to the apparent diameter of the
+sun, as seen from the centre of the moon. The mean duration
+of a revolution of the sun, with regard to the node of the lunar
+orbit, is to the duration of a synodic revolution (N. 113) of the
+moon as 223 to 19. So that, after a period of 223 lunar months,
+the sun and moon would return to the same relative position with
+regard to the node of the moon’s orbit, and therefore the eclipses
+would recur in the same order were not the periods altered by
+irregularities in the motions of the sun and moon. In lunar
+eclipses, our atmosphere bends the sun’s rays which pass through
+it all round into the cone of the earth’s shadow. And as the
+horizontal refraction (N. 114) or bending of the rays surpasses
+half the sum of the semidiameters of the sun and moon, divided
+by their mutual distance, the centre of the lunar disc, supposed
+to be in the axis of the shadow, would receive the rays from the
+same point of the sun, round all sides of the earth; so that it
+would be more illuminated than in full moon, if the greater portion
+of the light were not stopped or absorbed by the atmosphere.
+Instances are recorded where this feeble light has been entirely
+absorbed, so that the moon has altogether disappeared in her
+eclipses.
+The sun is eclipsed when the moon intercepts his rays
+(N. 115). The moon, though incomparably smaller than the sun, is
+so much nearer the earth, that her apparent diameter differs but
+little from his, but both are liable to such variations that they
+alternately surpass one another. Were the eye of a spectator
+in the same straight line with the centres of the sun and
+moon, he would see the sun eclipsed. If the apparent diameter
+of the moon surpassed that of the sun, the eclipse would be
+total. If it were less, the observer would see a ring of light
+round the disc of the moon, and the eclipse would be annular,
+as it was on the 17th of May, 1836, and on the 15th of March,
+1858. If the centre of the moon should not be in the straight
+line joining the centres of the sun and the eye of the observer,
+the moon might only eclipse a part of the sun. The
+variation, therefore, in the distances of the sun and moon from
+the centre of the earth, and of the moon from her node at the
+instant of conjunction, occasions great varieties in the solar
+eclipses. Besides, the height of the moon above the horizon
+41changes her apparent diameter, and may augment or diminish
+the apparent distances of the centres of the sun and moon, so that
+an eclipse of the sun may occur to the inhabitants of one country,
+and not to those of another. In this respect the solar eclipses
+differ from the lunar, which are the same for every part of the
+earth where the moon is above the horizon. In solar eclipses,
+the light reflected by the atmosphere diminishes the obscurity
+they produce. Even in total eclipses the higher part of the
+atmosphere is enlightened by a part of the sun’s disc, and reflects
+its rays to the earth. The whole disc of the new moon is frequently
+visible from atmospheric reflection. During the eclipse
+of the 19th of March, 1849, the spots on the lunar disc were distinctly
+visible, and during that of 1856 the moon was like a
+beautiful rose-coloured ball floating in the ether: the colour is
+owing to the refraction of the sun’s light passing through the
+earth’s atmosphere.
+In total solar eclipses the slender luminous arc that is visible
+for a few seconds before the sun vanishes and also before he reappears,
+resembles a string of pearls surrounding the dark edge of
+the moon; it is occasioned by the sun’s rays passing between the
+tops of the lunar mountains: it occurs likewise in annular eclipses.
+A phenomenon altogether unprecedented was seen during the
+total eclipse of the sun which happened on the 8th of July, 1842.
+The moon was like a black patch on the sky surrounded by a faint
+whitish light or corona about the eighth of the moon’s diameter
+in breadth, which is supposed to be the solar atmosphere rendered
+visible by the intervention of the moon. In this whitish
+corona there appeared three rose-coloured flames like the teeth of
+a saw. Similar flames were also seen in the white corona of
+the total eclipse which took place in 1851, and a long rose-coloured
+chain of what appeared to be jagged mountains or sierras
+united at the base by a red band seemed to be raised into the
+corona by mirage; but there is no doubt that the corona and red
+phenomena belong to the sun. This red chain was so bright
+that Mr. Airy saw it illuminate the northern horizon through an
+azimuth of 90° with red light. M. Faye attributes the rose-coloured
+protuberances to the constitution of the sun, which, like
+Sir William Herschel, he conceives to be an incandescent globe,
+consisting of two concentric parts of very unequal density, the
+internal part being a dark spherical mass, the external a very
+42extensive atmosphere, at a certain height in which there is a
+stratum of luminous clouds which constitutes the photosphere of
+the sun; above this rises his real atmosphere, so rare as to be
+only visible as a white aureola or corona during total and annular
+eclipses. M. Faye conceives that from the central mass gaseous
+eruptions issue, which form the spots by dissipating and partly
+extinguishing the luminous clouds, and then rising into the rare
+atmosphere above that they appear as rose-coloured protuberances
+during annular eclipses. He estimates that the volume of these
+vapours sometimes surpasses that of the earth a thousand or even
+two thousand times. Sir William Herschel attributed the spots
+to occasional openings in the luminous coating, which seems to
+be always in motion; but whatever the cause of the spots may
+be, it is certainly periodical. The white corona and beads were
+seen during the eclipse of the 15th March, 1858, but there were
+no rose-coloured appearances, in England at least; but the sky
+was clouded, so that the eclipse was only visible at intervals.
+Planets sometimes eclipse one another. On the 17th of May,
+1737, Mercury was eclipsed by Venus near their inferior conjunction;
+Mars passed over Jupiter on the 9th of January,
+1591; and on the 30th of October, 1825, the moon eclipsed
+Saturn. These phenomena, however, happen very seldom,
+because all the planets, or even a part of them, are very rarely
+seen in conjunction at once; that is, in the same part of the
+heavens at the same time. More than 2500 years before our
+era the five great planets were in conjunction. On the 15th of
+September, 1186, a similar assemblage took place between the
+constellations of Virgo and Libra; and in 1801 the Moon,
+Jupiter, Saturn, and Venus were united in the heart of the Lion.
+These conjunctions are so rare, that Lalande has computed that
+more than seventeen millions of millions of years separate the
+epochs of the contemporaneous conjunctions of the six great
+planets.
+The motions of the moon have now become of more importance
+to the navigator and geographer than those of any other heavenly
+body, from the precision with which terrestrial longitude is
+determined by occultations of stars, and by lunar distances. In
+consequence of the retrograde motion of the nodes of the lunar
+orbit, at the rate of 3ʹ 10ʺ·64 daily, these points make a tour of
+the heavens in a little more than eighteen years and a half.
+43This causes the moon to move round the earth in a kind of
+spiral, so that her disc at different times passes over every point
+in a zone of the heavens extending rather more than 5° 9ʹ on
+each side of the ecliptic. It is therefore evident that at one time
+or other she must eclipse every star and planet she meets with in
+this space. Therefore the occultation of a star by the moon is a
+phenomenon of frequent occurrence. The moon seems to pass
+over the star, which almost instantaneously vanishes at one side
+of her disc, and after a short time as suddenly reappears on the
+other. A lunar distance is the observed distance of the moon
+from the sun, or from a particular star or planet, at any instant.
+The lunar theory is brought to such perfection, that the times of
+these phenomena, observed under any meridian, when compared
+with those computed for that of Greenwich, and given in the
+Nautical Almanac, furnish the longitude of the observer within a
+few miles (N. 95.)
+From the lunar theory, the mean distance of the sun from the
+earth, and thence the whole dimensions of the solar system, are
+known; for the forces which retain the earth and moon in their
+orbits are respectively proportional to the radii vectores of the
+earth and moon, each being divided by the square of its periodic
+time. And, as the lunar theory gives the ratio of the forces, the
+ratio of the distances of the sun and moon from the earth is
+obtained. Hence it appears that the sun’s mean distance from
+the earth is 399·7 or nearly 400 times greater than that of the
+moon. The method of finding the absolute distances of the
+celestial bodies, in miles, is in fact the same with that employed
+in measuring the distances of terrestrial objects. From the extremities
+of a known base (N. 116), the angles which the visual
+rays from the object form with it are measured; their sum subtracted
+from two right angles gives the angle opposite the base;
+therefore, by trigonometry, all the angles and sides of the triangle
+may be computed—consequently the distance of the object is
+found. The angle under which the base of the triangle is seen
+from the object is the parallax of that object. It evidently increases
+and decreases with the distance. Therefore the base must
+be very great indeed to be visible from the celestial bodies. The
+globe itself, whose dimensions are obtained by actual admeasurement,
+furnishes a standard of measures with which we compare the
+distances, masses, densities, and volumes of the sun and planets.</div></body></text></TEI>

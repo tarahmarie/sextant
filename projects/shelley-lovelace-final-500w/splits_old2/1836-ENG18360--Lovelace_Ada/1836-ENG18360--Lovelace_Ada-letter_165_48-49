@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 48-49</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 48-49.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1836">undated [late July 1836]</date>
+          <note type="place">Brighton</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 48-49</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_48-49.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Brighton Mondy. 1/2 pst 7 o'clock</p>
+      <p>My Dearest. I cannot describe how pleased I was to see ou dear letter this morning, which I had quietly resigned myself to as a no-post day. I almost thought at first that it was the ghost of a letter.-- I conclude Postsmouth is the solution of the mystery.</p>
+      <p>Had I known this, I should have written to you on Saturday.-- I am just going down to the pier-- at least as soon as it is dark, to look through a telescope at the stars. I did not tell you of the treat I had a day or two ago in going to hear the Enniskillen regiment band-- a very good one-- which plays on the pier occasionally.--</p>
+      <p>I met Emily today walking. I was in my</p>
+      <p>chair. I stopped &amp; had a parley with her. I thought she seemed in good humour with me. The Hen has asked her to drink tea with her tomorrow or next day.-- The Hen has been sailing today, &amp; also driving to Rotting Dean in the phaeton with Hester.</p>
+      <p>My Dearest, I long to see ou. I am very much in want of my dear Master.--</p>
+      <p>Ou Tame Bird, A.K.</p>
+    </div></body>
+  </text>
+</TEI>

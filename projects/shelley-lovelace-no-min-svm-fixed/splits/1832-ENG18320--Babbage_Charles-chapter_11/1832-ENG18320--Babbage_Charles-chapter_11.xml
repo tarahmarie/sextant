@@ -1,0 +1,1215 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Economy of Machinery and Manufactures</title><author>Babbage, Charles (1791-1871)</author></titleStmt><publicationStmt><publisher>Charles Knight</publisher><pubPlace>London</pubPlace><date>1832</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="11">Chapter 11
+Of Copying
+82. The two last-mentioned sources of excellence in the work
+produced by machinery depend on a principle which pervades a very
+large portion of all manufactures, and is one upon which the
+cheapness of the articles produced seems greatly to depend. The
+principle alluded to is that of copying, taken in its most
+extensive sense. Almost unlimited pains are, in some instances,
+bestowed on the original, from which a series of copies is to be
+produced; and the larger the number of these copies, the more
+care and pains can the manufacturer afford to lavish upon the
+original. It may thus happen, that the instrument or tool
+actually producing the work, shall cost five or even ten thousand
+times the price of each individual specimen of its power.
+As the system of copying is of so much importance, and of
+such extensive use in the arts, it will be convenient to classify
+a considerable number of those processes in which it is employed.
+The following enumeration however is not offered as a complete
+list; and the explanations are restricted to the shortest
+possible detail which is consistent with a due regard to making
+the subject intelligible.
+Operations of copying are effected under the following
+circumstances:
+by printing from cavities          by stamping
+by printing from surface           by punching
+by casting                         with elongation
+by moulding                        with altered dimensions
+Of printing from cavities
+83. The art of printing, in all its numerous departments, is
+essentially an art of copying. Under its two great divisions,
+printing from hollow lines, as in copperplate, and printing from
+surface, as in block printing, are comprised numerous arts.
+84. Copperplate printing. In this instance, the copies are
+made by transferring to paper, by means of pressure, a thick ink,
+from the hollows and lines cut in the copper. An artist will
+sometimes exhaust the labour of one or two years upon engraving a
+plate, which will not, in some cases furnish above five hundred
+copies in a state of perfection.
+85. Engravings on steel. This art is like that of engraving
+on copper, except that the number of copies is far less limited.
+A bank-note engraved as a copperplate, will not give above three
+thousand impressions without a sensible deterioration. Two
+impressions of a bank-note engraved on steel were examined by one
+of our most eminent artists,(1*) who found it difficult to
+pronounce with any confidence, which was the earliest impression.
+One of these was a proof from amongst the first thousand, the
+other was taken after between seventy and eighty thousand had
+been printed off.
+86. Music printing. Music is usually printed from pewter
+plates, on which the characters have been impressed by steel
+punches. The metal being much softer than copper, is liable to
+scratches, which detain a small portion of the ink. This is the
+reason of the dirty appearance of printed music. A new process
+has recently been invented by Mr Cowper, by which this
+inconvenience will be avoided. The improved method, which give
+sharpness to the characters, is still an art of copying; but it
+is effected by surface printing, nearly in the same manner as
+calico-printing from blocks, to be described hereafter, 96. The
+method of printing music from pewter plates, although by far the
+most frequently made use of, is not the only one employed, for
+music is occasionally printed from stone. Sometimes also it is
+printed with moveable type; and occasionally the musical
+characters are printed on the paper, and the lines printed
+afterwards. Specimens of both these latter modes of
+music-printing may be seen in the splendid collection of
+impressions from the types of the press of Bodoni at Parma: but
+notwithstanding the great care bestowed on the execution of that
+work, the perpetual interruption of continuity in the lines,
+arising from the use of moveable types, when the characters and
+lines are printed at the same time, is apparent.
+87. Calico printing from cylinders. Many of the patterns on
+printed calicos are copies by printing from copper cylinders
+about four or five inches in diameter, on which the desired
+pattern has been previously engraved. One portion of the
+cylinders is exposed to the ink, whilst an elastic scraper of
+very thin steel, by being pressed forcibly against another part,
+removes all superfluous ink from the surface previously to its
+reaching the cloth. A piece of calico twenty-eight yards in
+length rolls through this press, and is printed in four or five
+minutes.
+88. Printing from perforated sheets of metal, or stencilling.
+Very thin brass is sometimes perforated in the form of letters,
+usually those of a name; this is placed on any substance which it
+is required to mark, and a brush dipped in some paint is passed
+over the brass. Those parts which are cut away admit the paint.
+and thus a copy of the name appears on the substance below. This
+method, which affords rather a coarse copy, is sometimes used for
+paper with which rooms are covered, and more especially for the
+borders. If a portion be required to match an old pattern, this
+is, perhaps the most economical way of producing it.
+89. Coloured impressions of leaves upon paper may be made by
+a kind of surface printing. Such leaves are chosen as have
+considerable inequalities: the elevated parts of these are
+covered, by means of an inking ball, with a mixture of some
+pigment ground up in linseed oil; the leaf is then placed between
+two sheets of paper, and being gently pressed, the impression
+from the elevated parts on each side appear on the corresponding
+sheets of paper.
+90. The beautiful red cotton handkerchiefs dyed at Glasgow
+have their pattern given to them by a process similar to
+stencilling, except that instead of printing from a pattern, the
+reverse operation that of discharging a part of the colour from a
+cloth already dyed—is performed. A number of handkerchiefs are
+pressed with very great force between two plates of metal, which
+are similarly perforated with round or lozenge-shaped holes,
+according to the intended pattern. The upper plate of metal is
+surrounded by a rim, and a fluid which has the property of
+discharging the red dye is poured upon that plate. This liquid
+passes through the holes in the metal, and also through the
+calico; but, owing to the great pressure opposite all the parts
+of the plates not cut away, it does not spread itself beyond the
+pattern. After this, the handkerchiefs are washed, and the
+pattern of each is a copy of the perforations in the metal-plate
+used in the process.
+Another mode by which a pattern is formed by discharging
+colour from a previously dyed cloth, is to print on it a pattern
+with paste; then, passing it into the dying-vat, it comes out
+dyed of one uniform colour. But the paste has protected the fibres
+of the cotton from the action of the dye or mordant; and when the
+cloth so dyed is well washed, the paste is dissolved, and leaves
+uncoloured all those parts of the cloth to which it was applied.
+Printing from surface
+91. This second department of printing is of more frequent
+application in the arts than that which has just been considered.
+92. Printing from wooden blocks. A block of box wood is, in
+this instance, the substance out of which the pattern is formed:
+the design being sketched upon it, the workman cuts away with
+sharp tools every part except the lines to be represented in the
+impression. This is exactly the reverse of the process of
+engraving on copper, in which every line to be represented is cut
+away. The ink, instead of filling the cavities cut in the wood,
+is spread upon the surface which remains, and is thence
+transferred to the paper.
+93. Printing from moveable types. This is the most important
+in its influence of all the arts of copying. It possesses a
+singular peculiarity, in the immense subdivision of the parts
+that form the pattern. After that pattern has furnished thousands
+of copies, the same individual elements may be arranged again and
+again in other forms, and thus supply multitudes of originals,
+from each of which thousands of their copied impressions may
+flow. It also possesses this advantage, that woodcuts may be used
+along with the letterpress, and impressions taken from both at
+the same operation.
+94. Printing from stereotype. This mode of producing copies
+is very similar to the preceding. There are two modes by which
+stereotype plates are produced. In that most generally adopted a
+mould is taken in plaster from the moveable types, and in this
+the stereotype plate is cast. Another method has been employed in
+France: instead of composing the work in moveable type, it was
+set up in moveable copper matrices; each matrix being in fact a
+piece of copper of the same size as the type, and having the
+impression of the letter sunk into its surface instead of
+projecting in relief. A stereotype plate may, it is evident, be
+obtained at once from this arrangement of matrices. The objection
+to the plan is the great expense of keeping so large a collection
+of matrices.
+As the original composition does not readily admit of change,
+stereotype plates can only be applied with advantage to cases
+where an extraordinary number of copies are demanded, or where
+the work consists of figures, and it is of great importance to
+ensure accuracy. Trifling alterations may, however, be made in it
+from time to time; and thus mathematical tables may, by the
+gradual extirpation of error, at last become perfect. This mode
+of producing copies possesses, in common with that by moveable
+types, the advantage of admitting the use of woodcuts: the copy
+of the woodcut in the stereotype plate being equally perfect.
+with that of the moveable type. This union is of considerable
+importance, and cannot be accomplished with engravings on copper.
+95. Lettering books. The gilt letters on the backs of books
+are formed by placing a piece of gold leaf upon the leather, and
+pressing upon it brass letters previously heated: these cause the
+gold immediately under them to adhere to the leather, whilst the
+rest of the metal is easily brushed away. When a great number of
+copies of the same volume are to be lettered, it is found to be
+cheaper to have a brass pattern cut with the whole of the proper
+title: this is placed in a press, and being kept hot, the covers,
+each having a small bit of leaf-gold placed in the proper
+position, are successively brought under the brass, and stamped.
+The lettering at the back of the volume in the reader's hand was
+executed in this manner.
+96. Calico printing from blocks. This is a mode of copying,
+by surface printing, from the ends of small pieces of copper
+wire, of various forms, fixed into a block of wood. They are all
+of one uniform height, about the eighth part of an inch above the
+surface of the wood, and are arranged by the maker into any
+required pattern. If the block be placed upon a piece of fine
+woollen cloth, on which ink of any colour has been uniformly
+spread, the projecting copper wires receive a portion, which they
+give up when applied to the calico to be printed. By the former
+method of printing on calico, only one colour could be used; but
+by this plan, after the flower of a rose, for example, has been
+printed with one set of blocks, the leaves may be printed of
+another colour by a different set.
+97. Printing oilcloth. After the canvas, which forms the
+basis of oilcloth, has been covered with paint of one uniform
+tint, the remainder of the processes which it passes through, are
+a series of copyings by surface printing, from patterns formed
+upon wooden blocks very similar to those employed by the calico
+printer. Each colour requiring a distinct set of blocks, those
+oilcloths with the greatest variety of colours are most
+expensive.
+There are several other varieties of printing which we shall
+briefly notice as arts of copying; which, although not strictly
+surface printing, yet are more allied to it than that from
+copperplates.
+98. Letter copying. In one of the modes of performing this
+process, a sheet of very thin paper is damped, and placed upon
+the writing to be copied. The two papers are then passed through
+a rolling press, and a portion of the ink from one paper is
+transferred to the other. The writing is, of course, reversed by
+this process; but the paper to which it is transferred being
+thin, the characters are seen through it on the other side, in
+their proper position. Another common mode of copying letters is
+by placing a sheet of paper covered on both sides with a
+substance prepared from lamp-black, between a sheet of thin paper
+and the paper on which the letter to be despatched is to be
+written. If the upper or thin sheet be written upon with any hard
+pointed substance, the word written with this style will be
+impressed from the black paper upon both those adjoining it. The
+translucency of the upper sheet, which is retained by the writer,
+is in this instance necessary to render legible the writing which
+is on the back of the paper. Both these arts are very limited in
+their extent, the former affording two or three, the latter from
+two to perhaps ten or fifteen copies at the same time.
+99. Printing on china. This is an art of copying which is
+carried to a very great extent. As the surfaces to which the
+impression is to be conveyed are often curved, and sometimes even
+fluted, the ink, or paint, is first transferred from the copper
+to some flexible substance, such as paper, or an elastic compound
+of glue and treacle. It is almost immediately conveyed from this
+to the unbaked biscuit, to which it more readily adheres.
+100. Lithographic printing. This is another mode of producing
+copies in almost unlimited number. The original which supplies
+the copies is a drawing made on a stone of a slightly porous
+nature, the ink employed for tracing it is made of such greasy
+materials that when water is poured over the stone it shall not
+wet the lines of the drawing. When a roller covered with printing
+ink, which is of an oily nature, is passed over the stone
+previously wetted, the water prevents this ink from adhering to
+the uncovered portions; whilst the ink used in the drawing is of
+such a nature that the printing ink adheres to it. In this state,
+if a sheet of paper be placed upon the stone, and then passed
+under a press, the printing ink will be transferred to the paper,
+leaving the ink used in the drawing still adhering to the stone.
+101. There is one application of lithographic printing which
+does not appear to have received sufficient attention, and
+perhaps further experiments are necessary to bring it to
+perfection. It is the reprinting of works which have just arrived
+from other countries. A few years ago one of the Paris newspapers
+was reprinted at Brussels as soon as it arrived by means of
+lithography. Whilst the ink is yet fresh, this may easily be
+accomplished: it is only necessary to place one copy of the
+newspaper on a lithographic stone; and by means of great pressure
+applied to it in a rolling press, a sufficient quantity of the
+printing ink will be transferred to the stone. By similar means,
+the other side of the newspaper may be copied on another stone,
+and these stones will then furnish impressions in the usual way.
+If printing from stone could be reduced to the same price per
+thousand as that from moveable types, this process might be
+adopted with great advantage for the supply of works for the use
+of distant countries possessing the same language. For a single
+copy might be printed off with transfer ink, and thus an English
+work, for example, might be published in America from stone,
+whilst the original, printed from moveable types, made its
+appearance on the same day in England.
+102. It is much to be wished that such a method were
+applicable to the reprinting of facsimiles of old and scarce
+books. This, however, would require the sacrifice of two copies,
+since a leaf must be destroyed for each page. Such a method of
+reproducing a small impression of an old work, is peculiarly
+applicable to mathematical tables, the setting up of which in
+type is always expensive and liable to error, but how long ink
+will continue to be transferable to stone, from paper on which it
+has been printed, must be determined by experiment. The
+destruction of the greasy or oily portion of the ink in the
+character of old books, seems to present the greatest impediment;
+if one constituent only of the ink were removed by time, it might
+perhaps be hoped, that chemical means would ultimately be
+discovered for restoring it: but if this be unsuccessful, an
+attempt might be made to discover some substance having a strong
+affinity for the carbon of the ink which remains on the paper,
+and very little for the paper itself.(2*)
+103. Lithographic prints have occasionally been executed in
+colours. In such instances a separate stone seems to have been
+required for each colour, and considerable care, or very good
+mechanism, must have been employed to adjust the paper to each
+stone. If any two kinds of ink should be discovered mutually
+inadhesive, one stone might be employed for two inks; or if the
+inking-roller for the second and subsequent colours had portions
+cut away corresponding to those parts of the stone inked by the
+previous ones, then several colours might be printed from the
+same stone: but these principles do not appear to promise much,
+except for coarse subjects.
+104. Register printing. It is sometimes thought necessary to
+print from a wooden block, or stereotype plate, the same pattern
+reversed upon the opposite side of the paper. The effect of this,
+which is technically called Register printing, is to make it
+appear as if the ink had penetrated through the paper, and
+rendered the pattern visible on the other side. If the subject
+chosen contains many fine lines, it seems at first sight
+extremely difficult to effect so exact a super position of the
+two patterns, on opposite sides of the same piece of paper, that
+it shall be impossible to detect the slightest deviation; yet the
+process is extremely simple. The block which gives the impression
+is always accurately brought down to the same place by means of a
+hinge; this spot is covered by a piece of thin leather stretched
+over it; the block is now inked, and being brought down to its
+place, gives an impression of the pattern to the leather: it is
+then turned back; and being inked a second time, the paper
+intended to be printed is placed upon the leather, when the block
+again descending, the upper surface of the paper is printed from
+the block, and its undersurface takes up the impression from the
+leather. It is evident that the perfection of this mode of
+printing depends in a great measure on finding some soft
+substance like leather, which will take as much ink as it ought
+from the block, and which will give it up most completely to
+paper. Impressions thus obtained are usually fainter on the lower
+side; and in order in some measure to remedy this defect, rather
+more ink is put on the block at the first than at the second
+impression.
+Of copying by casting
+105. The art of casting, by pouring substances in a fluid
+state into a mould which retains them until they become solid, is
+essentially an art of copying; the form of the thing produced
+depending entirely upon that of the pattern from which it was
+formed.
+106. Of casting iron and other metals.—Patterns of wood or
+metal made from drawings are the originals from which the moulds
+for casting are made: so that, in fact, the casting itself is a
+copy of the mould; and the mould is a copy of the pattern. In
+castings of iron and metals for the coarser purposes, and, if
+they are afterwards to be worked even for the finer machines,
+the exact resemblance amongst the things produced, which takes
+place in many of the arts to which we have alluded, is not
+effected in the first instance, nor is this necessary. As the
+metals shrink in cooling, the pattern is made larger than the
+intended copy; and in extricating it from the sand in which it is
+moulded, some little difference will occur in the size of the
+cavity which it leaves. In smaller works where accuracy is more
+requisite, and where few or no after operations are to be
+performed, a mould of metal is employed which has been formed
+with considerable care. Thus, in casting bullets, which ought to
+be perfectly spherical and smooth, an iron instrument is used, in
+which a cavity has been cut and carefully ground; and, in order
+to obviate the contraction in cooling, a jet is left which may
+supply the deficiency of metal arising from that cause, and which
+is afterwards cut off. The leaden toys for children are cast in
+brass moulds which open, and in which have been graved or
+chiselled the figures intended to be produced.
+107. A very beautiful mode of representing small branches of
+the most delicate vegetable productions in bronze has been
+employed by Mr Chantrey. A small strip of a fir-tree, a branch of
+holly, a curled leaf of broccoli, or any other vegetable
+production, is suspended by one end in a small cylinder of paper
+which is placed for support within a similarly formed tin case.
+The finest river silt, carefully separated from all the coarser
+particles, and mixed with water, so as to have the consistency of
+cream, is poured into the paper cylinder by small portions at a
+time, carefully shaking the plant a little after each addition,
+in order that its leaves may be covered, and that no bubbles of
+air may be left. The plant and its mould are now allowed to dry,
+and the yielding nature of the paper allows the loamy coating to
+shrink from the outside.  When this is dry it is surrounded by a
+coarser substance; and, finally, we have the twig with all its
+leaves embedded in a perfect mould. This mould is carefully
+dried, and then gradually heated to a red heat. At the ends of
+some of the leaves or shoots, wires have been left to afford
+airholes by their removal, and in this state of strong ignition a
+stream of air is directed into the hole formed by the end of the
+branch. The consequence is, that the wood and leaves which had
+been turned into charcoal by the fire, are now converted into
+carbonic acid by the current of air; and, after some time, the
+whole of the solid matter of which the plant consisted is
+completely removed, leaving a hollow mould, bearing on its
+interior all the minutest traces of its late vegetable occupant.
+When this process is completed, the mould being still kept at
+nearly a red heat, receives the fluid metal, which, by its
+weight, either drives the very small quantity of air, which at
+that high temperature remains behind, out through the
+airholes, or compresses it into the pores of very porous
+substance of which the mould is formed.
+108. When the form of the object intended to be cast is such
+that the pattern cannot be extricated from its mould of sand or
+plaster, it becomes necessary to make the pattern with wax, or
+some other easily fusible substance. The sand or plaster is
+moulded round this pattern, and, by the application of heat, the
+wax is extricated through an opening left purposely for its
+escape.
+109. It is often desirable to ascertain the form of the
+internal cavities, inhabited by molluscous animals, such as those
+of spiral shells, and of the various corals. This may be
+accomplished by filling them with fusible metal, and dissolving
+the substance of the shell by muriatic acid; thus a metallic
+solid will remain which exactly filled all the cavities. If such
+forms are required in silver, or any other difficulty fusible
+metal, the shells may be filled with wax or resin, then dissolved
+away; and the remaining waxen form may serve as the pattern from
+which a plaster mould may be made for casting the metal. Some
+nicety will be required in these operations; and perhaps the
+minuter cavities can only be filled under an exhausted receiver.
+110. Casting in plaster. This is a mode of copying applied to
+a variety of purposes: to produce accurate representations of the
+human form—of statues—or of rare fossils—to which latter
+purpose it has lately been applied with great advantage. In all
+casting, the first process is to make the mould; and plaster is
+the substance which is almost always employed for the purpose.
+The property which it possesses of remaining for a short time in
+a state of fluidity, renders it admirably adapted to this object,
+and adhesion, even to an original of plaster, is effectually
+prevented by oiling the surface on which it is poured. The mould
+formed round the subject which is copied, removed in separate
+pieces and then reunited, is that in which the copy is cast. This
+process gives additional utility and value to the finest works of
+art. The students of the Academy at Venice are thus enabled to
+admire the sculptured figures of Egina, preserved in the gallery
+at Munich; as well as the marbles of the Parthenon, the pride of
+our own Museum. Casts in plaster of the Elgin marbles adorn many
+of the academies of the Continent; and the liberal employment of
+such presents affords us an inexpensive and permanent source of
+popularity.
+111. Casting in wax. This mode of copying, aided by proper
+colouring, offers the most successful imitations of many objects
+of natural history, and gives an air of reality to them which
+might deceive even the most instructed. Numerous figures of
+remarkable persons, having the face and hands formed in wax, have
+been exhibited at various times; and the resemblances have, in
+some instances been most striking. But whoever would see the art
+of copying in wax carried to the highest perfection, should
+examine the beautiful collection of fruit at the house of the
+Horticultural Society; the model of the magnificent flower of the
+new genus Rafflesia—the waxen models of the internal parts of
+the human body which adorn the anatomical gallery of the Jardin
+des Plantes at Paris, and the Museum at Florence—or the
+collection of morbid anatomy at the University of Bologna. The
+art of imitation by wax does not usually afford the multitude of
+copies which flow from many similar operations. This number is
+checked by the subsequent stages of the process, which, ceasing
+to have the character of copying by a tool or pattern, become
+consequently more expensive. In each individual production, form
+alone is given by casting; the colouring must be the work of the
+pencil, guided by the skill of the artist.
+Of copying by moulding
+112. This method of producing multitudes of individuals
+having an exact resemblance to each other in external shape, is
+adopted very widely in the arts. The substances employed are,
+either naturally or by artificial preparation, in a soft or
+plastic state; they are then compressed by mechanical force,
+sometimes assisted by heat, into a mould of the required form.
+113. Of bricks and tiles. An oblong box of wood fitting upon
+a bottom fixed to the brickmaker's bench, is the mould from which
+every brick is formed. A portion of the plastic mixture of which
+the bricks consist is made ready by less skilful hands: the
+workman first sprinkles a little sand into the mould, and then
+throws the clay into it with some force; at the same time rapidly
+working it with his fingers, so as to make it completely close up
+to the corners. He next scrapes off, with a wetted stick, the
+superfluous clay, and shakes the new-formed brick dexterously out
+of its mould upon a piece of board, on which it is removed by
+another workman to the place appointed for drying it. A very
+skilful moulder has occasionally, in a long summer's day,
+delivered from ten to eleven thousand bricks; but a fair average
+day's work is from five to six thousand. Tiles of various kinds
+and forms are made of finer materials, but by the same system of
+moulding. Among the ruins of the city of Gour, the ancient
+capital of Bengal, bricks are found having projecting ornaments
+in high relief: these appear to have been formed in a mould, and
+subsequently glazed with a coloured glaze. In Germany, also,
+brickwork has been executed with various ornaments. The cornice
+of the church of St Stephano, at Berlin, is made of large blocks
+of brick moulded into the form required by the architect. At the
+establishment of Messrs Cubitt, in Gray's Inn Lane, vases,
+cornices, and highly ornamented capitals of columns are thus
+formed which rival stone itself in elasticity, hardness, and
+durability.
+114. Of embossed china. Many of the forms given to those
+beautiful specimens of earthenware which constitute the equipage
+of our breakfast and our dinner-tables, cannot be executed in the
+lathe of the potter. The embossed ornaments on the edges of the
+plates, their polygonal shape, the fluted surface of many of the
+vases, would all be difficult and costly of execution by the
+hand; but they become easy and comparatively cheap, when made by
+pressing the soft material out of which they are formed into a
+hard mould. The care and skill bestowed on the preparation of
+that mould are repaid by the multitude it produces. In many of
+the works of the china manufactory, one part only of the article
+is moulded; the upper surface of the plate, for example, whilst
+the under side is figured by the lathe. In some instances, the
+handle, or only a few ornaments, are moulded, and the body of the
+work is turned.
+115. Glass seals. The process of engraving upon gems requires
+considerable time and skill. The seals thus produced can
+therefore never become common. Imitations, however, have been
+made of various degrees of resemblance. The colour which is given
+to glass is, perhaps, the most successful part of the imitation.
+A small cylindrical rod of coloured glass is heated in the flame
+of a blowpipe, until the extremity becomes soft. The operator
+then pinches it between the ends of a pair of nippers, which are
+formed of brass, and on one side of which the device intended for
+the seal has been carved in relief. When the mould has been well
+finished and care is taken in heating the glass properly, the
+seals thus produced are not bad imitations; and by this system of
+copying they are so multiplied, that the more ordinary kinds are
+sold at Birmingham for three pence a dozen.
+116. Square glass bottles. The round forms which are usually
+given to vessels of glass are readily produced by the expansion
+of the air with which they are blown. It is, however, necessary
+in many cases to make bottles of a square form, and each capable
+of holding exactly the same quantity of fluid. It is also
+frequently desirable to have imprinted on them the name of the
+maker of the medicine or other liquid they are destined to
+contain. A mould of iron, or of copper, is provided of the
+intended size, on the inside of which are engraved the names
+required. This mould, which is used in a hot state, opens into
+two parts, to allow the insertion of the round, unfinished
+bottle, which is placed in it in a very soft state before it is
+removed from the end of the iron tube with which it was blown.
+The mould is now closed, and the glass is forced against its
+sides, by blowing strongly into the bottle.
+117. Wooden snuff boxes. Snuff boxes ornamented with devices,
+in imitation of carved work or of rose engine turning, are sold
+at a price which proves that they are only imitations. The wood,
+or horn, out of which they are formed, is softened by long
+boiling in water, and whilst in this state it is forced into
+moulds of iron, or steel, on which are cut the requisite
+patterns, where it remains exposed to great pressure until it is
+dry.
+118. Horn knife handles and umbrella handles. The property
+which horn possesses of becoming soft by the action of water and
+of heat, fits it for many useful purposes. It is pressed into
+moulds, and becomes embossed with figures in relief, adapted to
+the objects to which it is to be applied. If curved, it may be
+straightened; or if straight, it may be bent into any forms which
+ornament or utility may require; and by the use of the mould
+these forms may be multiplied in endless variety. The commoner
+sorts of knives, the crooked handles for umbrellas, and a
+multitude of other articles to which horn is applied, attest the
+cheapness which the art of copying gives to the things formed of
+this material.
+119. Moulding tortoise-shell. The same principle is applied
+to things formed out of the shell of the turtle, or the land
+tortoise. From the greatly superior price of the raw material,
+this principle of copying is, however, more rarely employed upon
+it; and the few carvings which are demanded, are usually
+performed by hand.
+120. Tobacco-pipe making. This simple art is almost entirely
+one of copying. The moulds are formed of iron, in two parts, each
+embracing one half of the stem; the line of junction of these
+parts may generally be observed running lengthwise from one end
+of the pipe to the other. The hole passing to the bowl is formed
+by thrusting a long wire through the clay before it is enclosed
+in the mould. Some of the moulds have figures, or names, sunk in
+the inside, which give a corresponding figure in relief upon the
+finished pipe.
+121. Embossing upon calico. Calicoes of one colour, but
+embossed all over with raised patterns, though not much worn in
+this country, are in great demand in several foreign markets.
+This appearance is produced by passing them between rollers, on
+one of which is figured in intaglio the pattern to be transferred
+to the calico. The substance of the cloth is pressed very
+forcibly into the cavities thus formed, and retains its pattern
+after considerable use. The watered appearance in the cover of
+the volume in the reader's hands is produced in a similar manner.
+A cylinder of gun-metal, on which the design of the watering is
+previously cut, is pressed by screws against another cylinder,
+formed out of pieces of brown paper which have been strongly
+compressed together and accurately turned. The two cylinders are
+made to revolve rapidly, the paper one being slightly damped,
+and, after a few minutes, it takes an impression from the upper
+or metal one. The glazed calico is now passed between the
+rollers, its glossy surface being in contact with the metal
+cylinder, which is kept hot by a heated iron enclosed within it.
+Calicoes are sometimes watered by placing two pieces on each
+other in such a position that the longitudinal threads of the one
+are at right angles to those of the other, and compressing them
+in this state between flat rollers. The threads of the one piece
+produce indentations in those of the other, but they are not so
+deep as when produced by the former method.
+122. Embossing upon leather. This art of copying from
+patterns previously engraved on steel rollers is in most respects
+similar to the preceding. The leather is forced into the
+cavities, and the parts which are not opposite to any cavity are
+powerfully condensed between the rollers.
+123. Swaging. This is an art of copying practised by the
+smith. In order to fashion his iron and steel into the various
+forms demanded by his customers, he has small blocks of steel
+into which are sunk cavities of different shapes; these are
+called swages, and are generally in pairs. Thus if he wants a
+round bolt, terminating in a cylindrical head of larger diameter,
+and having one or more projecting rims, he uses a corresponding
+swaging tool; and having heated the end of his iron rod, and
+thickened it by striking the end in the direction of the axis
+(which is technically called upsetting), he places its head upon
+one part of the lage; and whilst an assistant holds the other
+part on the top of the hot iron, he strikes it several times with
+his hammer, occasionally turning the head one quarter round. The
+heated iron is thus forced by the blows to assume the form of the
+mould into which it is impressed.
+124. Engraving by pressure. This is one of the most beautiful
+examples of the art of copying carried to an almost unlimited
+extent; and the delicacy with which it can be executed, and the
+precision with which the finest traces of the graving tool can be
+transferred from steel to copper, or even from hard steel to soft
+steel, is most unexpected. We are indebted to Mr Perkins for most
+of the contrivances which have brought this art at once almost to
+perfection. An engraving is first made upon soft steel, which is
+hardened by a peculiar process without in the least injuring its
+delicacy. A cylinder of soft steel, pressed with great force
+against the hardened steel engraving, is now made to roll very
+slowly backward and forward over it, thus receiving the design,
+but in relief. The cylinder is in its turn hardened without
+injury., and if it be slowly rolled to and fro with strong
+pressure on successive plates of copper, it will imprint on a
+thousand of them a perfect facsimile of the original steel
+engraving from which it was made. Thus the number of copies
+producible from the same design may be multiplied a
+thousand-fold. But even this is very far short of the limits to
+which the process may be extended. The hardened steel roller,
+bearing the design upon it in relief may be employed to make a
+few of its first impressions upon plates of soft steel, and these
+being hardened become the representatives of the original
+engraving, and may in their turn be made the parents of other
+rollers, each generating copperplates like their prototype. The
+possible extent to which facsimiles of one original engraving may
+thus be multiplied, almost confounds the imagination, and appears
+to be for all practical purposes unlimited.
+This beautiful art was first proposed by Mr Perkins for the
+purpose of rendering the forgery of bank notes a matter of great
+difficulty; and there are two principles which peculiarly adapt
+it to that object: first, the perfect identity of all the
+impressions, so that any variation in the minutest line would at
+once cause detection; secondly, that the original plates may be
+formed by the united labours of several artists most eminent in
+their respective departments; for as only one original of each
+design is necessary, the expense, even of the most elaborate
+engraving, will be trifling, compared with the multitude of
+copies produced from it.
+125. It must, however, be admitted that the principle of
+copying itself furnishes an expedient for imitating any engraving
+or printed pattern, however complicated; and thus presents a
+difficulty which none of the schemes devised for the prevention
+of forgery appear to have yet effectually obviated. In attempting
+to imitate the most perfect banknote, the first process would be
+to place it with the printed side downwards upon a stone or other
+substance, on which, by passing it through a rolling-press, it
+might be firmly fixed. The next object would be to discover some
+solvent which should dissolve the paper, but neither affect the
+printing-ink, nor injure the stone or substance to which it is
+attached. Water does not seem to do this effectually, and perhaps
+weak alkaline or acid solutions would be tried. If, however, this
+could be fully accomplished, and if the stone or other substance,
+used to retain the impression, had those properties which enable
+us to print from it, innumerable facsimiles of the note might
+obviously be made, and the imitation would be complete. Porcelain
+biscuit, which has recently been used with a black lead pencil
+for memorandum books, seems in some measure adapted for such
+trials, since its porosity may be diminished to any required
+extent by regulating the dilution of the glazing.
+126. Gold and silver moulding. Many of the mouldings used by
+jewellers consist of thin slips of metal, which have received
+their form by passing between steel rollers, on which the pattern
+is embossed or engraved; thus taking a succession of copies of
+the devices intended.
+127. Ornamental papers. Sheets of paper coloured or covered
+with gold or silver leaf, and embossed with various patterns, are
+used for covering books, and for many ornamental purposes. The
+figures upon these are produced by the same process, that of
+passing the sheets of paper between engraved rollers.
+Of copying by stamping
+128. This mode of copying is extensively employed in the
+arts. It is generally executed by means of large presses worked
+with a screw and heavy flywheel. The materials on which the
+copies are impressed are most frequently metals, and the process
+is sometimes executed when they are hot, and in one case when the
+metal is in a state between solidity and fluidity.
+129. Coins and medals. The whole of the coins which circulate
+as money are produced by this mode of copying. The screw presses
+are either worked by manual labour, by water, or by steam power.
+The mint which was sent a few years since to Calcutta was capable
+of coining 200,000 pieces a day. Medals, which usually have their
+figures in higher relief than coins, are produced by similar
+means; but a single blow is rarely sufficient to bring them to
+perfection, and the compression of the metal which arises from
+the first blow renders it too hard to receive many subsequent
+blows without injury to the die. It is therefore, after being
+struck, removed to a furnace, in which it is carefully heated
+red-hot and annealed, after which operation it is again placed
+between the dies, and receives additional blows. For medals, on
+which the figures are very prominent, these processes must be
+repeated many times. One of the largest medals hitherto struck
+underwent them nearly a hundred times before it was completed.
+130. Ornaments for military accoutrements, and furniture.
+These are usually of brass, and are stamped up out of solid or
+sheet brass by placing it between dies, and allowing a heavy
+weight to drop upon the upper die from a height of from five to
+fifteen feet.
+131. Buttons and nail heads. Buttons embossed with crests or
+other devices are produced by the same means; and some of those
+which are plain receive their hemispherical form from the dies in
+which they are struck. The heads of several kinds of nails which
+are portions of spheres, or polyhedrons, are also formed by these
+means.
+132. Of a process for copying, called in France clichee. This
+curious method of copying by stamping is applied to medals, and
+in some cases to forming stereotype plates. There exists a range
+of temperature previous to the melting point of several of the
+alloys of lead, tin, and antimony, in which the compound is
+neither solid, nor yet fluid. In this kind of pasty state it is
+placed in a box under a die, which descends upon it with
+considerable force. The blow drives the metal into the finest
+lines of the die, and the coldness of the latter immediately
+solidifies the whole mass. A quantity of the half-melted metal is
+scattered in all directions by the blow, and is retained by the
+sides of the box in which the process is carried on. The work
+thus produced is admirable for its sharpness, but has not the
+finished form of a piece just leaving the coining-press: the
+sides are ragged, and it must be trimmed, and its thickness
+equalized in the lathe.
+Of copying by punching
+133. This mode of copying consists in driving a steel punch
+through the substance to be cut, either by a blow or by pressure.
+In some cases the object is to copy the aperture, and the
+substance separated from the plate is rejected; in other cases
+the small pieces cut out are the objects of the workman's labour.
+134. Punching iron plate for boilers. The steel punch used
+for this purpose is from three-eighths to three-quarters of an
+inch in diameter, and drives out a circular disk from a plate of
+iron from one-quarter to five eighths of an inch thick.
+135. Punching tinned iron. The ornamental patterns of open
+work which decorate the tinned and japanned wares in general use,
+are rarely punched by the workman who makes them. In London the
+art of punching out these patterns in screw-presses is carried on
+as a separate trade; and large quantities of sheet tin are thus
+perforated for cullenders, wine-strainers, borders of waiters,
+and other similar purposes. The perfection and the precision to
+which the art has been carried are remarkable. Sheets of copper,
+too, are punched with small holes about the hundredth of an inch
+in diameter, in such multitudes that more of the sheet metal is
+removed than remains behind; and plates of tin have been
+perforated with above three thousand holes in each square inch.
+136. The inlaid plates of brass and rosewood, called buhl
+work, which ornament our furniture, are, in some instances,
+formed by punching; but in this case, both the parts cut out, and
+those which remain, are in many cases employed. In the remaining
+illustrations of the art of copying by punching, the part made
+use of is that which is punched out.
+137. Cards for guns. The substitution of a circular disk of
+thin card instead of paper, for retaining in its place the charge
+of a fowling-piece, is attended with considerable advantage. It
+would, however, be of little avail, unless an easy method was
+contrived of producing an unlimited number of cards, each exactly
+fitting the bore of the barrel. The small steel tool used for
+this purpose cuts out innumerable circles similar to its cutting
+end, each of which precisely fills the barrel for which it was
+designed.
+138. Ornaments of gilt paper. The golden stars, leaves, and
+other devices, sold in shops for the purpose of ornamenting
+articles made of paper and pasteboard, and other fancy works, are
+cut by punches of various forms out of sheets of gilt paper.
+139. Steel chains. The chain used in connecting the
+mainspring and fusee in watches and clocks, is composed of small
+pieces of sheet steel, and it is of great importance that each of
+these pieces should be of exactly the same size. The links are of
+two sorts; one of them consisting of a single oblong piece of
+steel with two holes in it, and the other formed by connecting
+two of the same pieces of steel, placed parallel to each other,
+and at a small distance apart, by two rivets. The two kinds of
+links occur alternately in the chain: each end of the single
+pieces being placed between the ends of two others, and connected
+with them by a rivet passing through all three. If the rivet
+holes in the pieces for the double links are not precisely at
+equal distances, the chain will not be straight, and will,
+consequently, be unfit for its purpose.
+Copying with elongation
+140. In this species of copying there exists but little
+resemblance between the copy and the original. It is the
+cross-section only of the thing produced which is similar to the
+tool through which it passes. When the substances to be operated
+upon are hard, they must frequently pass in succession through
+several holes, and it is in some cases necessary to anneal them
+at intervals.
+141. Wire drawing. The metal to be converted into wire is
+made of a cylindrical form, and drawn forcibly through circular
+holes in plates of steel: at each passage it becomes smaller.
+and, when finished, its section at any point is a precise copy of
+the last hole through which it passed. Upon the larger kinds of
+wire, fine lines may sometimes be traced, running longitudinally.
+these arise from slight imperfections in the holes of the
+draw-plates. For many purposes of the arts, wire, the section of
+which is square or half round, is required: the same method of
+making it is pursued, except that the holes through which it is
+drawn are in such cases themselves square, or half-round, or of
+whatever other form the wire is required to be. A species of wire
+is made, the section of which resembles a star with from six to
+twelve rays; this is called pinion wire, and is used by the
+clockmakers. They file away all the rays from a short piece,
+except from about half an inch near one end: this becomes a
+pinion for a clock; and the leaves or teeth are already burnished
+and finished, from having passed through the draw-plate.
+142. Tube drawing. The art of forming tubes of uniform
+diameter is nearly similar in its mode of execution to wire
+drawing. The sheet brass is bent round and soldered so as to form
+a hollow cylinder; and if the diameter outside is that which is
+required to be uniform, it is drawn through a succession of
+holes, as in wire drawing: If the inside diameter is to be
+uniform, a succession of steel cylinders, called triblets, are
+drawn through the brass tube. In making tubes for telescopes, it
+is necessary that both the inside and outside should be uniform.
+A steel triblet, therefore, is first passed into the tube, which
+is then drawn through a succession of holes, until the outside
+diameter is reduced to the required size. The metal of which the
+tube is formed is condensed between these holes and the steel
+cylinder within; and when the latter is withdrawn the internal
+surface appears polished. The brass tube is considerably extended
+by this process, sometimes even to double its first length.
+143. Leaden pipes. Leaden pipes for the conveyance of water
+were formerly made by casting; but it has been found that they
+can be made both cheaper and better by drawing them through holes
+in the manner last described. A cylinder of lead, of five or six
+inches in diameter and about two feet long, is cast with a small
+hole through its axis, and an iron triblet of about fifteen feet
+in length is forced into the hole. It is then drawn through a
+series of holes, until the lead is extended upon the triblet from
+one end to the other, and is of the proper thickness in
+proportion to the size of the pipe.
+144. Iron rolling. When cylinders of iron of greater
+thickness than wire are required, they are formed by passing
+wrought iron between rollers, each of which has sunk in it a
+semi-cylindrical groove; and as such rollers rarely touch
+accurately, a longitudinal line will usually be observed in the
+cylinders so manufactured. Bar iron is thus shaped into all the
+various forms of round, square, half-round, oval, etc. in which
+it occurs in commerce. A particular species of moulding is thus
+made, which resembles, in its section, that part of the frame of
+a window which separates two adjacent panes of glass. Being much
+stronger than wood, it can be considerably reduced in thickness,
+and consequently offers less obstruction to the light; it is much
+used for skylights.
+145. It is sometimes required that the iron thus produced
+should not be of uniform thickness throughout. This is the case
+in bars for railroads, where greater depth is required towards
+the middle of the rail which is at the greatest distance from the
+supports. This form is produced by cutting the groove in the
+rollers deeper at those parts where additional strength is
+required, so that the hollow which surrounds the roller would, if
+it could be unwound, be a mould of the shape the iron is intended
+to fit.
+146. Vermicelli. The various forms into which this paste is
+made are given by forcing it through holes in tin plate. It
+passes through them, and appears on the other side in long
+strings. The cook makes use of the same method in preparing
+butter and ornamental pastry for the table, and the confectioner
+in forming cylindrical lozenges of various composition.
+Of copying with altered dimensions
+147. Of the pentagraph. This mode of copying is chiefly used
+for drawings or maps: the instrument is simple; and, although
+usually employed in reducing, is capable of enlarging the size of
+the copy. An automaton figure, exhibited in London a short time
+since, which drew profiles of its visitors, was regulated by a
+mechanism on this principle. A small aperture in the wall,
+opposite the seat in which the person is placed whose profile is
+taken, conceals a camera lucida, which is placed in an adjoining
+apartment: and an assistant, by moving a point, connected by a
+pentagraph with the hand of the automaton, over the outline of
+the head, causes the figure to trace a corresponding profile.
+148. By turning. The art of turning might perhaps itself be
+classed amongst the arts of copying. A steel axis, called a
+mandril, having a pulley attached to the middle of it, is
+supported at one end either by a conical point, or by a
+cylindrical collar, and at the other end by another collar,
+through which it passes. The extremity which projects beyond this
+last collar is formed into a screw, by which various instruments,
+called chucks, can be attached to it. These chucks are intended
+to hold the various materials to be submitted to the operation of
+turning, and have a great variety of forms. The mandril with the
+chuck is made to revolve by a strap which passes over the pulley
+that is attached to it, and likewise over a larger wheel moved
+either by the foot, or by its connection with steam or water
+power. All work which is executed on a mandril partakes in some
+measure of the irregularities in the form of that mandril; and
+the perfect circularity of section which ought to exist in every
+part of the work, can only be ensured by an equal accuracy in the
+mandril and its collar.
+149. Rose engine turning. This elegant art depends in a great
+measure on copying. Circular plates of metal called rosettes,
+having various indentations on the surfaces and edges, are fixed
+on the mandril, which admits of a movement either end-wise or
+laterally: a fixed obstacle called the 'touch', against which the
+rosettes are pressed by a spring, obliges the mandril to follow
+their indentations, and thus causes the cutting tool to trace out
+the same pattern on the work. The distance of the cutting tool
+from the centre being usually less than the radius of the
+rosette, causes the copy to be much diminished.
+150. Copying dies. A lathe has been long known in France, and
+recently been used at the English mint for copying dies. A blunt
+point is carried by a very slow spiral movement successively over
+every part of the die to be copied, and is pressed by a weight
+into all the cavities; while a cutting point connected with it by
+the machine traverses the face of a piece of soft steel, in which
+it cuts the device of the original die on the same or on a
+diminished scale. The degree of excellence of the copy increases
+in proportion as it is smaller than the original. The die of a
+crown-piece will furnish by copy a very tolerable die for a
+sixpence. But the chief use to be expected from this lathe is to
+prepare all the coarser parts, and leave only the finer and more
+expressive lines for the skill and genius of the artist.
+151. Shoe-last making engine. An instrument not very unlike
+in principle was proposed for the purpose of making shoe lasts. A
+pattern last of a shoe for the right foot was placed in one part
+of the apparatus, and when the machine was moved, two pieces of
+wood, placed in another part which had been previously adjusted
+by screws, were cut into lasts greater or less than the original,
+as was desired; and although the pattern was for the right foot,
+one of the lasts was for the left, an effect which was produced
+by merely interposing a wheel which reversed the motion between
+the two pieces of wood to be cut into lasts.
+152. Engine for copying busts. Many years since, the late Mr
+Watt amused himself with constructing an engine to produce copies
+of busts or statues, either of the same size as the original, or
+in a diminished proportion. The substances on which he operated
+were various, and some of the results were shewn to his friends,
+but the mechanism by which they were made has never been
+described. More recently, Mr Hawkins, who, nearly at the same
+time, had also contrived a similar machine, has placed it in the
+hands of an artist, who has made copies in ivory from a variety
+of busts. The art of multiplying in different sizes the figures
+of the sculptor, aided by that of rendering their acquisition
+cheap through the art of casting, promises to give additional
+value to his productions, and to diffuse more widely the pleasure
+arising from their possession.
+153. Screw cutting. When this operation is performed in the
+lathe by means of a screw upon the mandril, it is essentially an
+art of copying, but it is only the number of threads in a given
+length which is copied; the form of the thread, and length as
+well as the diameter of the screw to be cut, are entirely
+independent of those from which the copy is made. There is
+another method of cutting screws in a lathe by means of one
+pattern screw, which, being connected by wheels with the mandril,
+guides the cutting point. In this process, unless the time of
+revolution of the mandril is the same as that of the screw which
+guides the cutting point, the number of threads in a given length
+will be different. If the mandril move quicker than the cutting
+point, the screw which is produced will be finer than the
+original; if it move slower, the copy will be more coarse than
+the original. The screw thus generated may be finer or coarser—
+it may be larger or smaller in diameter—it may have the same or
+a greater number of threads than that from which it is copied;
+yet all the defects which exist in the original will be
+accurately transmitted, under the modified circumstances, to
+every individual generated from it.
+154. Printing from copper plates with altered dimensions.
+Some very singular specimens of an art of copying, not yet made
+public, were brought from Paris a few years since. A watchmaker
+in that city, of the name of Gonord, had contrived a method by
+which he could take from the same copperplate impressions of
+different sizes, either larger or smaller than the original
+design. Having procured four impressions of a parrot, surrounded
+by a circle, executed in this manner, I shewed them to the late
+Mr Lowry, an engraver equally distinguished for his skill, and
+for the many mechanical contrivances with which he enriched his
+art. The relative dimensions of the several impressions were 5.5,
+6.3, 8.4, 15.0, so that the largest was nearly three times the
+linear size of the smallest; and Mr Lowry assured me, that he was
+unable to detect any lines in one which had not corresponding
+lines in the others. There appeared to be a difference in the
+quantity of ink, but none in the traces of the engraving; and,
+from the general appearance, it was conjectured that the largest
+but one was the original impression from the copperplate.
+The means by which this singular operation was executed have
+not been published; but two conjectures were formed at the time
+which merit notice. It was supposed that the artist was in
+possession of some method of transferring the ink from the lines
+of a copperplate to the surface of some fluid, and of
+retransferring the impression from the fluid to paper. If this
+could be accomplished, the print would, in the first instance, be
+of exactly the same size as the copper from which it was derived;
+but if the fluid were contained in a vessel having the form of an
+inverted cone, with a small aperture at the bottom, the liquid
+might be lowered or raised in the vessel by gradual abstraction
+or addition through the apex of the cone; in this case, the
+surface to which the printing-ink adhered would diminish or
+enlarge, and in this altered state the impression might be
+retransferred to paper. It must be admitted, that this
+conjectural explanation is liable to very considerable
+difficulties; for, although the converse operation of taking an
+impression from a liquid surface has a parallel in the art of
+marbling paper, the possibility of transferring the ink from the
+copper to the fluid requires to be proved.
+Another and more plausible explanation is founded on the
+elastic nature of the compound of glue and treacle, a substance
+already in use in transferring engravings to earthenware. It is
+conjectured, that an impression from the copperplate is taken
+upon a large sheet of this composition; that this sheet is then
+stretched in both directions, and that the ink thus expanded is
+transferred to paper. If the copy is required to be smaller than
+the original, the elastic substance must first be stretched, and
+then receive the impression from the copperplate: on removing the
+tension it will contract, and thus reduce the size of the design.
+It is possible that one transfer may not in all cases suffice; as
+the extensibility of the composition of glue and treacle,
+although considerable, is still limited. Perhaps sheets of India
+rubber of uniform texture and thickness, may be found to answer
+better than this composition; or possibly the ink might be
+transferred from the copper plate to the surface of a bottle of
+this gum, which bottle might, after being expanded by forcing air
+into it, give up the enlarged impression to paper. As it would
+require considerable time to produce impressions in this manner,
+and there might arise some difficulty in making them all of
+precisely the same size, the process might be rendered more
+certain and expeditious by performing that part of the operation
+which depends on the enlargement or diminution of the design only
+once; and, instead of printing from the soft substance.
+transferring the design from it to stone: thus a considerable
+portion of the work would be reduced to an art already well
+known, that of lithography. This idea receives some confirmation
+from the fact, that in another set of specimens, consisting of a
+map of St Petersburgh, of several sizes, a very short line,
+evidently an accidental defect, occurs in all the impressions of
+one particular size, but not in any of a different size.
+155. Machine to produce engraving from medals. An instrument
+was contrived, a long time ago, and is described in the Manuel de
+Tourneur, by which copperplate engravings are produced from
+medals and other objects in relief. The medal and the copper are
+fixed on two sliding plates at right angles to each other, so
+connected that, when the plate on which the medal is fixed is
+raised vertically by a screw, the slide holding the copperplate
+is advanced by an equal quantity in the horizontal direction. The
+medal is fixed on the vertical slide with its face towards the
+copperplate, and a little above it.
+A bar, terminating at one end in a tracing point, and at the
+other in a short arm, at right angles to the bar, and holding a
+diamond point, is placed horizontally above the copper; so that
+the tracing point shall touch the medal to which the bar is
+perpendicular, and the diamond point shall touch the copperplate
+to which the arm is perpendicular.
+Under this arrangement, the bar being supposed to move
+parallel to itself, and consequently to the copper, if the
+tracing point pass over a flat part of the medal, the diamond
+point will draw a straight line of equal length upon the copper;
+but, if the tracing point pass over any projecting part of the
+medal, the deviation from the straight line by the diamond point,
+will be exactly equal to the elevation of the corresponding point
+of the medal above the rest of the surface. Thus, by the transit
+of this tracing point over any line upon the medal, the diamond
+will draw upon the copper a section of the medal through that
+line.
+A screw is attached to the apparatus, so that if the medal be
+raised a very small quantity by the screw, the copperplate will
+be advanced by the same quantity, and thus a new line of section
+may be drawn: and, by continuing this process, the series of
+sectional lines on the copper produces the representation of the
+medal on a plane: the outline and the form of the figure arising
+from the sinuosities of the lines, and from their greater or less
+proximity. The effect of this kind of engraving is very striking;
+and in some specimens gives a high degree of apparent relief. It
+has been practised on plate glass, and is then additionally
+curious from the circumstance of the fine lines traced by the
+diamond being invisible, except in certain lights.
+From this description, it will have been seen that the
+engraving on copper must be distorted; that is to say, that the
+projection on the copper cannot be the same as that which arises
+from a perpendicular projection of each point of the medal upon a
+plane parallel to itself. The position of the prominent parts
+will be more altered than that of the less elevated; and the
+greater the relief of the medal the more distorted will be its
+engraved representation. Mr John Bate, son of Mr Bate, of the
+Poultry, has contrived an improved machine, for which he has
+taken a patent, in which this source of distortion is remedied.
+The head, in the title page of the present volume, is copied from
+a medal of Roger Bacon, which forms one of a series of medals of
+eminent men, struck at the Royal Mint at Munich, and is the first
+of the published productions of this new art.(3*)
+The inconvenience which arises from too high a relief in the
+medal, or in the bust, might be remedied by some mechanical
+contrivance, by which the deviation of the diamond point from the
+right line (which it would describe when the tracing point
+traverses a plane), would be made proportional not to the
+elevation of the corresponding point above the plane of the
+medal, but to its elevation above some other parallel plane
+removed to a fit distance behind it. Thus busts and statues might
+be reduced to any required degree of relief.
+156. The machine just described naturally suggests other
+views which seem to deserve some consideration, and, perhaps,
+some experiment. If a medal were placed under the tracing point
+of a pentagraph, an engraving tool substituted for the pencil,
+and a copperplate in the place of the paper; and if, by some
+mechanism, the tracing point, which slides in a vertical plane,
+could, as it is carried over the different elevations of the
+medal, increase or diminish the depth of the engraved line
+proportionally to the actual height of the corresponding point on
+the medal, then an engraving would be produced, free at least
+from any distortion, although it might be liable to objections of
+a different kind. If, by any similar contrivance, instead of
+lines, we could make on each point of the copper a dot, varying
+in size or depth with the altitude of the corresponding point of
+the medal above its plane, than a new species of engraving would
+be produced: and the variety of these might again be increased,
+by causing the graving point to describe very small circles, of
+diameters, varying with the height of the point on the medal
+above a given plane; or by making the graving tool consist of
+three equidistant points, whose distance increased or diminished
+according to some determinate law, dependent on the elevation of
+the point represented above the plane of the medal. It would,
+perhaps, be difficult to imagine the effects of some of these
+kinds of engraving; but they would all possess, in common, the
+property of being projections, by parallel lines, of the objects
+represented, and the intensity of the shade of the ink would
+either vary according to some function of the distance of the
+point represented from some given plane, or it would be a little
+modified by the distances from the same plane of a few of the
+immediately contiguous points.
+157. The system of shading maps by means of lines of equal
+altitude above the sea bears some analogy to this mode of
+representing medals, and if applied to them would produce a
+different species of engraved resemblance. The projections on the
+plane of the medal, of the section of an imaginary plane, placed
+at successive distances above it, with the medal itself, would
+produce a likeness of the figure on the medal, in which all the
+inclined parts of it would be dark in proportion to their
+inclination. Other species of engraving might be conceived by
+substituting, instead of the imaginary plane, an imaginary sphere
+or other solid, intersecting the figure in the medal.
+158. Lace made by caterpillars. A most extraordinary species
+of manufacture, which is in a slight degree connected with
+copying, has been contrived by an officer of engineers residing
+at Munich. It consists of lace, and veils, with open patterns in
+them, made entirely by caterpillars. The following is the mode of
+proceeding adopted: he makes a paste of the leaves of the plant,
+which is the usual food of the species of caterpillar(4*) he
+employs, and spreads it thinly over a stone, or other flat
+substance. He then, with a camel-hair pencil dipped in olive oil,
+draws upon the coating of paste the pattern he wishes the insects
+to leave open. This stone is then placed in an inclined position,
+and a number of the caterpillars are placed at the bottom. A
+peculiar species is chosen, which spins a strong web; and the
+animals commencing at the bottom, eat and spin their way up to
+the top, carefully avoiding every part touched by the oil, but
+devouring all the rest of the paste. The extreme lightness of
+these veils, combined with some strength, is truly surprising.
+One of them, measuring twenty-six and a half inches by seventeen
+inches, weighed only 1.51 grains; a degree of lightness which
+will appear more strongly by contrast with other fabrics. One
+square yard of the substance of which these veils are made weighs
+4 1/3 grains, whilst one square yard of silk gauze weighs 137
+grains, and one square yard of the finest patent net weighs 262
+1/2 grains. The ladies' coloured muslin dresses, mentioned in the
+table subjoined, cost ten shillings per dress, and each weigh six
+ounces; the cotton from which they are made weighing nearly six
+and two-ninth ounces avoirdupois weight.
+Weight of one square yard of each of the following articles(5*)
+                                                     Weight of
+
+                                        Weight      cotton used
+
+                             Value    finished of    in waking
+
+                            per yard  one square    one square
+
+ Description of goods       measure     yard            yard
+
+                            s. d.    Troy grains    Troy grains
+ Caterpillar veils           —         4 1/3           —
+ Silk gauze 3-4 wide        1  0         137            —
+ Finest patent net           —       262 1/2           —
+ Fine cambric muslin         —          551            —
+ 6-4ths jaconet muslin      2  0         613           670
+ Ladies' coloured muslin dresses 3 0     788           875
+ 6-4ths cambric             1  2         972          1069
+ 9-8ths calico              0  9         988          1085
+ 1/2-yard nankeen           0  8        2240          2432
+159. This enumeration, which is far from complete, of the
+arts in which copying is the foundation, may be terminated with
+an example which has long been under the eye of the reader;
+although few, perhaps, are aware of the number of repeated
+copyings of which these very pages are the subject.
+1. They are copies, by printing, from stereotype plates.
+2. These stereotype plates are copied, by the art of casting,
+from moulds formed of plaster of Paris.
+3. These moulds are themselves copied by casting the plaster
+in a liquid state upon the moveable types set up by the
+compositor.
+[It is here that the union of the intellectual and the
+mechanical departments takes place. The mysteries, however, of an
+author's copying, form no part of our enquiry, although it may be
+fairly remarked, that, in numerous instances, the mental far
+eclipses the mechanical copyist.]
+4. These moveable types, the obedient messengers of the most
+opposite thoughts, the most conflicting theories, are themselves
+copies by casting from moulds of copper called matrices.
+5. The lower part of those matrices, bearing the impressions
+of the letters or characters, are copies, by punching, from steel
+punches on which the same characters exist in relief.
+6. These steel punches are not themselves entirely exempted
+from the great principle of art. Many of the cavities which exist
+in them, such as those in the middle of the punches for the
+letters a, b, d, e, g, etc., are produced from other steel
+punches in which these parts are in relief.
+We have thus traced through six successive stages of copying
+the mechanical art of printing from stereotype plates: the
+principle of copying contributing in this, as in every other
+department of manufacture, to the uniformity and the cheapness of
+the work produced.
+NOTES:
+1. The late Mr Lowry.
+2. I posses a lithographic reprint of a page of a table, which
+appears, from the from of the type, to have been several years
+old.
+3. The construction of the engraving becomes evident on examining
+it with a lens of sufficient power to show the continuity of the
+lines.
+4. The Phalaena pardilla, which feeds on the Prunus padus.
+5. Some of these weights and measures are calculated from a
+statement in the Report of the Committee of the House of Commons
+on Printed Cotton Goods; and the widths of the pieces there given
+are presumed to be the real widths, not those by which they are
+called in the retail shops.</div></body></text></TEI>

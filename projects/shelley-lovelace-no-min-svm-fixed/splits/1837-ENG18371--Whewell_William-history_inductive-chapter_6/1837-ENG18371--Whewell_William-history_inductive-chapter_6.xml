@@ -1,0 +1,160 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="6">CHAPTER I.
+Earliest Stages of Mechanics and
+Hydrostatics.
+
+Sect. 1.—Mechanics.
+ASTRONOMY is a science so
+ancient that we can hardly ascend to a period when it did not exist;
+Mechanics, on the other hand, is a science which did not begin to be
+till after the time of Aristotle; for Archimedes must be looked upon
+as the author of the first sound knowledge on this subject. What is
+still more curious, and shows remarkably how little the continued
+progress of science follows inevitably from the nature of man, this
+department of knowledge, after the right road had been fairly entered
+upon, remained absolutely stationary for nearly two thousand years; no
+single step was made, in addition to the propositions established by
+Archimedes, till the time of Galileo and Stevinus. This extraordinary
+halt will be a subject of attention hereafter; at present we must
+consider the original advance.
+The great step made by Archimedes in Mechanics was the
+establishing, upon true grounds, the general proposition concerning a
+straight lever, loaded with two heavy bodies, and resting upon a
+fulcrum. The proposition is, that two bodies so circumstanced will
+balance each other, when the distance of the smaller body from the
+fulcrum is greater than the distance of the other, in exactly the same
+proportion in which the weight of the body is less.
+This proposition is proved by Archimedes in a work which is still
+extant, and the proof holds its place in our treatises to this day, as
+the simplest which can be given. The demonstration is made to rest on
+assumptions which amount in effect to such Definitions and Axioms as
+these: That those bodies are of equal weight which balance each other
+at equal arms of a straight lever; and that in every heavy body there
+is a definite point called a Centre of Gravity, in which point
+we may suppose the weight of the body collected.
+The principle, which is really the foundation of the validity of
+the demonstration thus given, and which is the condition of all
+experimental knowledge on the subject, is this: that when two equal
+weights are supported on a lever, they act on the fulcrum of the lever
+with the 97 same
+effect as if they were both together supported immediately at that
+point. Or more generally, we may state the principle to be this: that
+the pressure by which a heavy body is supported continues the same,
+however we alter the form or position of the body, so long as the
+magnitude and material continue the same.
+The experimental truth of this principle is a matter of obvious and
+universal experience. The weight of a basket of stones is not altered
+by shaking the stones into new positions. We cannot make the direct
+burden of a stone less by altering its position in our hands; and if
+we try the effect on a balance or a machine of any kind, we shall see
+still more clearly and exactly that the altered position of one
+weight, or the altered arrangement of several, produces no change in
+their effect, so long as their point of support remains unchanged.
+This general fact is obvious, when we possess in our minds the
+ideas which are requisite to apprehend it clearly. But when we are so
+prepared, the truth appears to be manifest, even independent of
+experience, and is seen to be a rule to which experience must conform.
+What, then, is the leading idea which thus enables us to reason
+effectively upon mechanical subjects? By attention to the course of
+such reasonings, we perceive that it is the idea of Pressure;
+Pressure being conceived as a measurable effect of heavy bodies at
+rest, distinguishable from all other effects, such as motion, change
+of figure, and the like. It is not here necessary to attempt to trace
+the history of this idea in our minds; but it is certain that such an
+idea may be distinctly formed, and that upon it the whole science of
+statics may be built. Pressure, load, weight, are
+names by which this idea is denoted when the effect tends directly
+downwards; but we may have pressure without motion, or dead
+pull, in other cases, as at the critical instant when two
+nicely-matched wrestlers are balanced by the exertion of the utmost
+strength of each.
+Pressure in any direction may thus exist without any motion
+whatever. But the causes which produce such pressure are capable of
+producing motion, and are generally seen producing motion, as in the
+above instance of the wrestlers, or in a pair of scales employed in
+weighing; and thus men come to consider pressure as the exception, and
+motion as the rule: or perhaps they image to themselves the motion
+which might or would take place; for instance, the
+motion which the arms of a lever would have if they did
+move. They turn away from the case really before them, which is that
+of bodies at rest, and balancing each other, and pass to another case,
+which is arbitrarily 98 assumed to represent the first. Now this
+arbitrary and capricious evasion of the question we consider as
+opposed to the introduction of the distinct and proper idea of
+Pressure, by means of which the true principles of this subject can be
+apprehended.
+We have already seen that Aristotle was in the number of those who
+thus evaded the difficulties of the problem of the lever, and
+consequently lost the reward of success. He failed, as has before been
+stated, in consequence of his seeking his principles in notions,
+either vague and loose, as the distinction of natural and unnatural
+motions, or else inappropriate, as the circle which the weight
+would describe, the velocity which it would have if it
+moved; circumstances which are not part of the fact under
+consideration. The influence of such modes of speculation was the main
+hindrance to the prosecution of the true Archimedean form of the
+science of Mechanics.
+The mechanical doctrine of Equilibrium, is Statics. It is to
+be distinguished from the mechanical doctrine of Motion, which is
+termed Dynamics, and which was not successfully treated till
+the time of Galileo.
+Sect. 2.—Hydrostatics.
+Archimedes not only laid the foundations of
+the Statics of solid bodies, but also solved the principal problem of
+Hydrostatics, or the Statics of Fluids; namely, the conditions
+of the floating of bodies. This is the more remarkable, since not only
+did the principles which Archimedes established on this subject remain
+unpursued till the revival of science in modern times, but, when they
+were again put forward, the main proposition was so far from obvious
+that it was termed, and is to this day called, the hydrostatic
+paradox. The true doctrine of Hydrostatics, however, assuming the
+Idea of Pressure, which it involves, in common with the Mechanics of
+solid bodies, requires also a distinct Idea of a Fluid, as a body of
+which the parts are perfectly movable among each other by the
+slightest partial pressure, and in which all pressure exerted on one
+part is transferred to all other parts. From this idea of Fluidity,
+necessarily follows that multiplication of pressure which constitutes
+the hydrostatic paradox; and the notion being seen to be verified in
+nature, the consequences were also realized as facts. This notion of
+Fluidity is expressed in the postulate which stands at the head of
+Archimedes’ “Treatise on Floating Bodies.” And from this principle are
+deduced the solutions, not only of the simple problems of the science,
+but of some problems of considerable complexity. 99
+The difficulty of holding fast this Idea of Fluidity so as to trace
+its consequences with infallible strictness of demonstration, may be
+judged of from the circumstance that, even at the present day, men of
+great talents, not unfamiliar with the subject, sometimes admit into
+their reasonings an oversight or fallacy with regard to this very
+point. The importance of the Idea when clearly apprehended and
+securely held, may be judged of from this, that the whole science of
+Hydrostatics in its most modern form is only the development of the
+Idea. And what kind of attempts at science would be made by persons
+destitute of this Idea, we may see in the speculations of Aristotle
+concerning light and heavy bodies, which we have already quoted;
+where, by considering light and heavy as opposite qualities, residing
+in things themselves, and by an inability to apprehend the effect of
+surrounding fluids in supporting bodies, the subject was made a mass
+of false or frivolous assertions, which the utmost ingenuity could not
+reconcile with facts, and could still less deduce from the asserted
+doctrines any new practical truths.
+In the case of Statics and Hydrostatics, the most important
+condition of their advance was undoubtedly the distinct apprehension
+of these two appropriate Ideas—Statical Pressure,
+and Hydrostatical Pressure as included in the idea of Fluidity.
+For the Ideas being once clearly possessed, the experimental laws
+which they served to express (that the whole pressure of a body
+downwards was always the same; and that water, and the like, were
+fluids according to the above idea of fluidity), were so obvious, that
+there was no doubt nor difficulty about them. These two ideas lie at
+the root of all mechanical science; and the firm possession of them
+is, to this day, the first requisite for a student of the subject.
+After being clearly awakened in the mind of Archimedes, these ideas
+slept for many centuries, till they were again called up in Galileo,
+and more remarkably in Stevinus. This time, they were not destined
+again to slumber; and the results of their activity have been the
+formation of two Sciences, which are as certain and severe in their
+demonstrations as geometry itself and as copious and interesting in
+their conclusions; but which, besides this recommendation, possess one
+of a different order,—that they exhibit the exact impress of the
+laws of the physical world, and unfold a portion of the rules
+according to which the phenomena of nature take place, and must take
+place, till nature herself shall alter. 100</div></body></text></TEI>

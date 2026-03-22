@@ -1,0 +1,167 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Philosophy of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="62">
+
+BOOK IX.
+
+THE PHILOSOPHY OF BIOLOGY.
+
+CHAPTER I.
+Analogy of Biology With Other Sciences.
+
+
+
+1. IN
+the History of the Sciences, after treating of
+the Sciences of Classification, we proceeded to
+what are there termed the Organical Sciences, including
+in this term Physiology and Comparative Anatomy.
+A peculiar feature in this group of sciences is that
+they involve the notion of living things. The notion
+of Life, however vague and obscure it may be in men’s
+minds, is apprehended as a peculiar Idea, not resolvable into any other Ideas, such, for instance, as Matter
+and Motion. The separation between living creatures
+and inert matter, between organized and unorganized
+beings, is conceived as a positive and insurmountable
+barrier. The two classes of objects are considered as
+of a distinct kind, produced and preserved by different
+forces. Whether the Idea of Life is really thus original and fundamental, and whether, if so, it be one
+Idea only, or involve several, it must be the province
+of true philosophy to determine. What we shall here
+offer may be considered as an attempt to contribute
+something to the determination of these questions;
+but we shall perhaps be able to make it appear that
+science is at present only in the course of its progress
+towards a complete solution of such problems.
+Since the main feature of those sciences of which
+we have now to examine the philosophy is, that they 170 involve the Idea of Life, it would be desirable to have
+them designated by a name expressive of that circumstance. The word Physiology, by which they have
+most commonly been described, means the Science of
+Nature; and though it would be easy to explain, by
+reference to history, the train of thought by which the
+word was latterly restricted to Living Nature, it is plain
+that the name is, etymologically speaking, loose and
+improper. The term Biology, which means exactly
+what we wish to express, the Science of Life, has often
+been used, and has of late become not uncommon
+among good winters. I shall therefore venture to employ it, in most cases, rather than the word Physiology.
+2. As I have already intimated, one main inquiry
+belonging to the Philosophy of Biology, is concerning
+the Fundamental Idea or Ideas which the science involves. If we look back at the course and the results
+of our disquisitions respecting other sciences in this
+work, and assume, as we may philosophically do, that
+there will be some general analogy between those
+sciences and this, in their development and progress,
+we shall be enabled to anticipate in some measure the
+nature of the view which we shall now have to take.
+We have seen that in other subjects the Fundamental
+Ideas on which science depended, and the Conceptions
+derived from these, were at first vague, obscure, and
+confused;—that by gradual steps, by a constant union
+of thought and observation, these conceptions become
+more and more clear, more and more definite;—and
+that when they approached complete distinctness and
+precision, there were made great positive discoveries
+into which these conceptions entered; and thus the
+new precision of thought was fixed and perpetuated
+in some conspicuous and lasting truths. Thus we
+have seen how the first confused mechanical conceptions (Force, and the like,) were, from time to time,
+growing clearer, down to the epoch of Newton;—how true conceptions of Genera and of wider classes,
+gradually unfolded themselves among the botanists of
+the sixteenth and seventeenth centuries;—how the
+idea of Substance became steady enough to govern the 171 theories of chemists only at the epoch of Lavoisier;—how the Idea of Polarity, although often used by physicists and chemists, is even now somewhat vague and
+indistinct in the minds of the greater part of speculators. In like manner we may expect to find that the
+Idea of Life, if indeed that be the governing Idea of
+the Science which treats of Living Things, will be
+found to have been gradually approaching towards a
+distinct and definite form among the physiologists of all
+ages up to the present day. And if this be the case, it
+may not be considered superfluous, with reference to
+so interesting a subject, if we employ some space in
+tracing historically the steps of this progress;—the
+changes by which the originally loose notion of Life, or
+of Vital Powers, became more nearly an Idea suited to
+the purposes of science.
+3. But we may safely carry this analogy between
+Biology and other sciences somewhat further. We
+have seen, in other sciences, that while men in their
+speculations were thus tending towards a certain peculiar Idea, but before they as yet saw clearly that it was
+peculiar and independent, they naturally and inevitably clothed their speculations in conceptions borrowed
+from some other extraneous idea. And the unsatisfactoriness of all such attempts, and the necessary consequence of this, a constant alteration and succession
+of such inappropriate hypotheses, were indications and
+aids of the progress which was going on towards a more
+genuine form of the science. For instance, we have
+seen that in chemistry, so long as men refused to recognize a peculiar and distinct kind of power in the
+Affinity which binds together the elements of bodies,
+they framed to themselves a series of hypotheses, each
+constructed according to the prevalent ideas of the
+time, by which they tried to represent the relation of
+the compound to the ingredients:—first, supposing
+that the elements bestowed upon the whole qualities
+resembling their own:—then giving up this supposition, and imagining that the properties of the body
+depended upon the shape of the component particles;—then, as their view expanded, assuming that it was 172 not the shape, but the mechanical forces of the particles which gave the body its attributes;—and finally
+acquiescing in, or rather reluctantly admitting, the
+idea of Affinity, conceived as a peculiar power, different not only from material contact, but from any mechanical or dynamical attraction.
+Now we cannot but think it very natural, if we find
+that the history of Biology offers a series of occurrences
+of the same nature. The notions of Life in general,
+or of any Vital Functions or Vital Forces in particular,
+are obviously very loose and vague as they exist in the
+minds of most men. The discrepancies and controversies respecting the definitions of all such terms,
+which are found in all works on physiology, afford us
+abundant evidence that these notions are not, at least
+not generally, apprehended with complete clearness
+and steadiness. We shall therefore find approaches
+and advances, intermediate steps, gradually leading
+up to the greatest degree of distinctness which has yet
+been attained. And in those stages of imperfect
+apprehension in which the notions of Life and of Vital
+Powers are still too loose and unformed to be applied
+independently, we may expect to find them supported
+and embodied by means of hypotheses borrowed from
+other subjects, and thus, made so distinct and substantial as to supply at least a temporary possibility of
+scientific reasoning upon the laws of life.
+4. For example, if we suppose that men begin to
+speculate upon the properties of living things, not
+acknowledging a peculiar Vital Power, but making
+use successively of the knowledge supplied by the study
+of other subjects, we may easily imagine a series of
+hypotheses along which they would pass.
+They would probably, first, in this as in other
+sciences, have their thoughts occupied by vague and
+mystical notions in which material and spiritual agency,
+natural and supernatural events, were mixed together
+without discrimination, and without any clear notion
+at all. But as they acquired a more genuine perception of the nature of knowledge, they would naturally
+try to explain vital motions and processes by means of 173 such forces as they had learnt the existence of from
+other sciences. They might first have a mechanical
+hypothesis, in which the mechanical Forces of the solids
+and fluids which compose organized bodies should be
+referred to, as the most important influences in the
+process of life. They might then attend to the actions
+which the fluids exercise in virtue of their Affinity,
+and might thus form a chemical theory. When they
+had proved the insufficience of these hypotheses, borrowed from the powers which matter exhibits in other
+cases, they might think themselves authorized to
+assume some peculiar power or agency, still material,
+and thus they would have the hypothesis of a Vital
+Fluid. And if they were driven to reject this, they
+might think that there was no resource but to assume
+an immaterial principle of life, and thus they would
+arrive at the doctrine of an Animal Soul.
+Now, through the cycle of hypotheses which we
+have thus supposed, physiology has actually passed.
+The conclusions to which the most philosophical minds
+have been led by a survey of this progress is, that by
+the failure of all these theories, men have exhausted
+this path of inquiry, and shown that scientific truth is
+to be sought in some other manner. But before I
+proceed further to illustrate this result, it will be
+proper, as I have already stated, to exhibit historically
+the various hypotheses which I have described. In
+doing this I shall principally follow the History of
+Medicine of Sprengel. It is only by taking for my
+guide a physiologist of acknowledged science and judgment, that I can hope, on such a subject, to avoid
+errours of detail. I proceed now to give in succession
+an account of the Mystical, the Iatrochemical, the
+Iatromathematical, and the Vital-Fluid Schools; and
+finally of the Psychical School, who hold the Vital
+Powers to be derived from the Soul (Psyche).</div></body></text></TEI>

@@ -1,0 +1,591 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="102">CHAPTER IX.
+Epoch of Davy and Faraday.
+
+Sect. 1.—Promulgation of the
+Electro-chemical Theory by Davy.
+THE reader will recollect that
+the History of Chemistry, though highly important and instructive in
+itself, has been an interruption of the History of Electro-dynamic
+Research:—a necessary interruption, however; for till we became
+acquainted with Chemistry in general, we could not follow the course
+of Electro-chemistry: we could not estimate its vast yet philosophical
+theories, nor even express its simplest facts. We have now to endeavor
+to show what has thus been done, and by what steps;—to give a
+fitting view of the Epoch of Davy and Faraday.
+This is, doubtless, a task of difficulty and delicacy. We cannot
+execute it at all, except we suppose that the great truths, of which
+the discovery marks this epoch, have already assumed their definite
+and permanent form. For we do not learn the just value and right place
+of imperfect attempts and partial advances in science, except by
+seeing to what they lead. We judge properly of our trials and guesses
+only when we have gained our point and guessed rightly. We might
+personify philosophical theories, and might represent them to
+ourselves as figures, all pressing eagerly onwards in the same 292 direction, whom we
+have to pursue: and it is only in proportion as we ourselves overtake
+those figures in the race, and pass beyond them, that we are enabled
+to look back upon their faces; to discern their real aspects, and to
+catch the true character of their countenances. Except, therefore, I
+were of opinion that the great truths which Davy brought into sight
+have been firmly established and clearly developed by Faraday, I could
+not pretend to give the history of this striking portion of science.
+But I trust, by the view I have to offer of these beautiful trains of
+research and their result, to justify the assumption on which I thus
+proceed.
+I must, however, state, as a further appeal to the reader’s
+indulgence, that, even if the great principles of electro-chemistry
+have now been brought out in their due form and extent, the discovery
+is but a very few years, I might rather say a few months, old, and
+that this novelty adds materially to the difficulty of estimating
+previous attempts from the point of view to which we are thus led. It
+is only slowly and by degrees that the mind becomes sufficiently
+imbued with those new truths, of which the office is, to change the
+face of a science. We have to consider familiar appearances under a
+new aspect; to refer old facts to new principles; and it is not till
+after some time, that the struggle and hesitation which this
+employment occasions, subsides into a tranquil equilibrium. In the
+newly acquired provinces of man’s intellectual empire, the din and
+confusion of conquest pass only gradually into quiet and security. We
+have seen, in the history of all capital discoveries, how hardly they
+have made their way, even among the most intelligent and candid
+philosophers of the antecedent schools: we must, therefore, not expect
+that the metamorphosis of the theoretical views of chemistry which is
+now going on, will be effected without some trouble and delay.
+I shall endeavor to diminish the difficulties of my undertaking, by
+presenting the earlier investigations in the department of which I
+have now to speak, as much as possible according to the most
+deliberate view taken of them by the great discoverers themselves,
+Davy and Faraday; since these philosophers are they who have taught us
+the true import of such investigations.
+There is a further difficulty in my task, to which I might
+refer;—the difficulty of speaking, without error and without
+offence, of men now alive, or who were lately members of social
+circles which exist still around us. But the scientific history in
+which such persons play a part, is so important to my purpose, that I
+do not hesitate to incur 293 the responsibility which the narration
+involves; and I have endeavored earnestly, and I hope not in vain, to
+speak as if I were removed by centuries from the personages of my
+story.
+The phenomena observed in the Voltaic apparatus were naturally the
+subject of many speculations as to their cause, and thus gave rise to
+“Theories of the Pile.” Among these phenomena there was one class
+which led to most important results: it was discovered by Nicholson
+and Carlisle, in 1800, that water was decomposed by the pile
+of Volta; that is, it was found that when the wires of the pile were
+placed with their ends near each other in the fluid, a stream of
+bubbles of air arose from each wire, and these airs were found on
+examination to be oxygen and hydrogen: which, as we have had to
+narrate, had already been found to be the constituents of water. This
+was, as Davy says,53 the true origin of all that has been
+done in electro-chemical science. It was found that other substances
+also suffered a like decomposition under the same circumstances.
+Certain metallic solutions were decomposed, and an alkali was
+separated on the negative plates of the apparatus. Cruickshank, in
+pursuing these experiments, added to them many important new results;
+such as the decomposition of muriates of magnesia, soda, and ammonia
+by the pile; and the general observation that the alkaline matter
+always appeared at the negative, and the acid at the
+positive, pole.
+53 Phil. Trans. 1826, p.
+386.
+Such was the state of the subject when one who was destined to do
+so much for its advance, first contributed his labors to it. Humphry
+Davy was a young man who had been apprenticed to a surgeon at
+Penzance, and having shown an ardent love and a strong aptitude for
+chemical research, was, in 1798, made the superintendent of a
+“Pneumatic Institution,” established at Bristol by Dr. Beddoes, for
+the purpose of discovering medical powers of factitious airs.54 But his main attention was soon drawn
+to galvanism; and when, in consequence of the reputation he had
+acquired, he was, in 1801, appointed lecturer at the Royal Institution
+in London (then recently established), he was soon put in possession
+of a galvanic apparatus of great power; and with this he was not long
+in obtaining the most striking results.
+54 Paris, Life of Davy, i.
+58.
+His first paper on the subject55 is sent from
+Bristol, in September, 1800; and describes experiments, in which he
+had found that the decompositions observed by Nicholson and Carlisle
+go on, although the 294 water, or other substance in which the
+two wires are plunged, be separated into two portions, provided these
+portions are connected by muscular or other fibres. This use of
+muscular fibres was, probably, a remnant of the original disposition,
+or accident, by which galvanism had been connected with physiology, as
+much as with chemistry. Davy, however, soon went on towards the
+conclusion, that the phenomena were altogether chemical in their
+nature. He had already conjectured,56 in 1802, that
+all decompositions might be polar; that is, that in all cases
+of chemical decomposition, the elements might be related to each other
+as electrically positive and negative; a thought which
+it was the peculiar glory of his school to confirm and place in a
+distinct light. At this period such a view was far from obvious; and
+it was contended by many, on the contrary, that the elements which the
+voltaic apparatus brought to view, were not liberated from
+combinations, but generated. In 1806, Davy attempted the solution of
+this question; he showed that the ingredients which had been supposed
+to be produced by electricity, were due to impurities in the water, or
+to the decomposition of the vessel; and thus removed all preliminary
+difficulties. And then he says,57 “referring to
+my experiments of 1800, 1801, and 1802, and to a number of new facts,
+which showed that inflammable substances and oxygen, alkalies and
+acids, and oxidable and noble metals, were in electrical relations of
+positive and negative, I drew the conclusion, that the
+combinations and decompositions by electricity were referrible to the
+law of electrical attractions and repulsions,” and advanced the
+hypothesis, “that chemical and electrical attractions were
+produced by the same cause, acting in the one case on particles, in
+the other on masses; . . . and that the same property, under different
+modifications, was the cause of all the phenomena exhibited by
+different voltaic combinations.”
+55 Nicholson’s Journal, 4to.
+iv. 275.
+56 Phil. Trans. 1826.
+57 Ib. 1826, p. 389.
+Although this is the enunciation, in tolerably precise terms, of
+the great discovery of his epoch, it was, at the period of which we
+speak, conjectured rather than proved; and we shall find that neither
+Davy nor his followers, for a considerable period, apprehended it with
+that distinctness which makes a discovery complete. But in a very
+short time afterwards, Davy drew great additional notice to his
+researches by effecting, in pursuance, as it appeared, of his
+theoretical views, the decomposition of potassa into a metallic base
+and oxygen. This was, as he truly said, in the memorandum written in
+his journal at the 295 instant, “a capital experiment.” This
+discovery was soon followed by that of the decomposition of soda; and
+shortly after, of other bodies of the same kind; and the interest and
+activity of the whole chemical world were turned to the subject in an
+intense degree.
+At this period, there might be noticed three great branches of
+speculation on this subject; the theory of the pile, the
+theory of electrical decomposition, and the theory of the
+identity of chemical and electrical forces; which last doctrine,
+however, was found to include the other two, as might have been
+anticipated from the time of its first suggestion.
+It will not be necessary to say much on the theories of the voltaic
+pile, as separate from other parts of the subject. The
+contact-theory, which ascribed the action to the contact of
+different metals, was maintained by Volta himself; but gradually
+disappeared, as it was proved (by Wollaston58 especially,)
+that the effect of the pile was inseparably connected with oxidation
+or other chemical changes. The theories of electro-chemical
+decomposition were numerous, and especially after the promulgation of
+Davy’s Memoir in 1806; and, whatever might be the defects under
+which these speculations for a long time labored, the subject was
+powerfully urged on in the direction in which truth lay, by Davy’s
+discoveries and views. That there remained something still to be done,
+in order to give full evidence and consistency to the theory, appears
+from this;—that some of the most important parts of Davy’s
+results struck his followers as extraordinary paradoxes;—for
+instance, the fact that the decomposed elements are transferred from
+one part of the circuit to another, in a form which escapes the
+cognizance of our senses, through intervening substances for which
+they have a strong affinity. It was found afterwards that the
+circumstance which appeared to make the process so wonderful, was, in
+fact, the condition of its going on at all. Davy’s expressions often
+seem to indicate the most exact notions: for instance, he says, “It is
+very natural to suppose that the repellent and attractive energies are
+communicated from one particle to another of the same kind, so as to
+establish a conducting chain in the fluid; and that the
+locomotion takes place in consequence;”59 and yet at
+other times he speaks of the element as attracted and
+repelled by the metallic surfaces which form the
+poles;—a different, and, as it appeared afterwards, an
+untenable view. Mr. Faraday, who supplied what was wanting, justly
+notices this vagueness. 296 He says,60 that though, in
+Davy’s celebrated Memoir of 1806, the points established are of the
+utmost value, the mode of action by which the effects take place is
+stated very generally; so generally, indeed, that probably a dozen
+precise schemes of electro-chemical action might be drawn up,
+differing essentially from each other, yet all agreeing with the
+statement there given.” And at a period a little later, being
+reproached by Davy’s brother with injustice in this expression, he
+substantiated his assertion by an enumeration of twelve such schemes
+which had been published.
+58 Phil. Trans. 1801, p.
+427.
+59 Paris, i. 154.
+60 Researches, 482.
+But yet we cannot look upon this Memoir of 1806, otherwise than as
+a great event, perhaps the most important event of the epoch now under
+review. And as such it was recognized at once all over Europe. In
+particular, it received the distinguished honor of being crowned by
+the Institute of France, although that country and England were then
+engaged in fierce hostility. Buonaparte had proposed a prize of sixty
+thousand francs “to the person who by his experiments and discoveries
+should advance the knowledge of electricity and galvanism, as much as
+Franklin and Volta did;” and “of three thousand francs for the best
+experiment which should be made in the course of each year on the
+galvanic fluid;” the latter prize was, by the First Class of the
+Institute, awarded to Davy.
+From this period he rose rapidly to honors and distinctions, and
+reached a height of scientific fame as great as has ever fallen to the
+lot of a discoverer in so short a time. I shall not, however, dwell on
+such circumstances, but confine myself to the progress of my
+subject.
+Sect. 2.—Establishment of the Electro-chemical
+Theory by Faraday.
+The defects of Davy’s
+theoretical views will be seen most clearly by explaining what Faraday
+added to them. Michael Faraday was in every way fitted and led to
+become Davy’s successor in his great career of discovery. In 1812,
+being then a bookseller’s apprentice, he attended the lectures of
+Davy, which at that period excited the highest admiration.61 “My desire to escape from trade,” Mr.
+Faraday says, “which I thought vicious and selfish, and to enter into
+the service of science, which I imagined made its pursuers amiable and
+liberal, induced me at last to take the bold and simple step of
+writing to Sir H. Davy.” He was favorably received, and, in the next
+year, became 297
+Davy’s assistant at the Institution; and afterwards his successor. The
+Institution which produced such researches as those of these two men,
+may well be considered as a great school of exact and philosophical
+chemistry. Mr. Faraday, from the beginning of his course of inquiry,
+appears to have had the consciousness that he was engaged on a great
+connected work. His Experimental Researches, which appeared in
+a series of Memoirs in the Philosophical Transactions, are
+divided into short paragraphs, numbered into a continued order from 1
+up to 1160, at the time at which I write;62 and destined,
+probably, to extend much further. These paragraphs are connected by a
+very rigorous method of investigation and reasoning which runs through
+the whole body of them. Yet this unity of purpose was not at first
+obvious. His first two Memoirs were upon subjects which we have
+already treated of (B. xiii. c. 5 and c. 8), Voltaic Induction, and the evolution of
+Electricity from Magnetism. His “Third Series” has also been already referred to. Its object was, as a
+preparatory step towards further investigation, to show the identity
+of voltaic and animal electricity with that of the electrical machine;
+and as machine electricity differs from other kinds in being
+successively in a state of tension and explosion, instead of a
+continued current, Mr. Faraday succeeded in identifying it with them,
+by causing the electrical discharge to pass through a bad conductor
+into a discharging-train of vast extent; nothing less, indeed, than
+the whole fabric of the metallic gas-pipes and water-pipes of London.
+In this Memoir63 it is easy to see already traces of the
+general theoretical views at which he had arrived; but these are not
+expressly stated till his “Fifth Series;” his intermediate Fourth
+Series being occupied by another subsidiary labor on the conditions of
+conduction. At length, however, in the Fifth Series, which was read to
+the Royal Society in June, 1833, he approaches the theory of
+electro-chemical decomposition. Most preceding theorists, and Davy
+amongst the number, had referred this result to attractive
+powers residing in the poles of the apparatus; and had
+even pretended to compare the intensity of this attraction at
+different distances from the poles. By a number of singularly
+beautiful and skilful experiments, Mr. Faraday shows that the
+phenomena can with no propriety be 298 ascribed to the attraction of the
+poles.64 “As the substances evolved in cases of
+electro-chemical decomposition may be made to appear against air,65 which, according to common language, is
+not a conductor, nor is decomposed; or against water,66 which is a conductor, and can be
+decomposed; as well as against the metal poles, which are excellent
+conductors, but undecomposable; there appears but little reason to
+consider this phenomenon generally as due to the attraction or
+attractive powers of the latter, when used in the ordinary way, since
+similar attractions can hardly be imagined in the former
+instances.”
+61 Paris, ii. 3.
+62 December, 1835. (At present, when
+I am revising the second edition, September, 1846, Dr. Faraday has
+recently published the “Twenty-first Series” of his Researches
+ending with paragraph 2453.)
+63 Phil. Trans. 1833.
+64 Researches, Art. 497
+65 Researches, Arts. 465,
+469.
+66 495.
+Faraday’s opinion, and, indeed, the only way of expressing the
+results of his experiments, was, that the chemical elements, in
+obedience to the direction of the voltaic currents established in the
+decomposing substance, were evolved, or, as he prefers to say,
+ejected at its extremities.67 He afterwards
+states that the influence which is present in the electric current may
+be described68 as an axis of power, having
+[at each point] contrary forces exactly equal in amount in
+contrary directions.
+67 493.
+68 517.
+Having arrived at this point, Faraday rightly wished to reject the
+term poles, and other words which could hardly be used without
+suggesting doctrines now proved to be erroneous. He considered, in the
+case of bodies electrically decomposed, or, as he termed them,
+electrolytes, the elements as travelling in two opposite
+directions; which, with reference to the direction of terrestrial
+magnetism, might be considered as naturally east and west; and he
+conceived elements as, in this way, arriving at the doors or outlets
+at which they finally made their separate appearance. The doors he
+called electrodes, and, separately, the anode and the
+cathode;69 and the elements which thus travel he
+termed the anïon and the catïon (or cathïon).70 By means of this nomenclature he was
+able to express his general results with much more distinctness and
+facility.
+69 663.
+70 The analogy of the Greek
+derivation requires catïon; but to make the relation to
+cathode obvious to the English reader, and to avoid a violation
+of the habits of English pronunciation, I should prefer
+cathïon.
+But this general view of the electrolytical process required to be
+pursued further, in order to explain the nature of the action. The
+identity of electrical and chemical forces, which had been hazarded as
+299 a conjecture by
+Davy, and adopted as the basis of chemistry by Berzelius, could only
+be established by exact measures and rigorous proofs. Faraday had, in
+his proof of the identity of voltaic and electric agency, attempted
+also to devise such a measure as should give him a comparison of their
+quantity; and in this way he proved that71 a voltaic group
+of two small wires of platinum and zinc, placed near each other, and
+immersed in dilute acid for three seconds, yields as much electricity
+as the electrical battery, charged by ten turns of a large machine;
+and this was established both by its momentary electro-magnetic
+effect, and by the amount of its chemical action.72
+71 Researches, Art. 371.
+72 537.
+It was in his “Seventh Series,” that he finally established a
+principle of definite measurement of the amount of electrolytical
+action, and described an instrument which he termed73 a volta-electrometer. In this
+instrument the amount of action was measured by the quantity of water
+decomposed: and it was necessary, in order to give validity to the
+mensuration, to show (as Faraday did show) that neither the size of
+the electrodes, nor the intensity of the current, nor the strength of
+the acid solution which acted on the plates of the pile, disturbed the
+accuracy of this measure. He proved, by experiments upon a great
+variety of substances, of the most different kinds, that the
+electro-chemical action is definite in amount according to the
+measurement of the new instrument.74 He had already,
+at an earlier period,75 asserted, that the chemical power
+of a current of electricity is in direct proportion to the absolute
+quantity of electricity which passes; but the volta-electrometer
+enabled him to fix with more precision the meaning of this general
+proposition, as well as to place it beyond doubt.
+73 739.
+74 Arts. 758, 814.
+75 377.
+The vast importance of this step in chemistry soon came into view.
+By the use of the volta-electrometer, Faraday obtained, for each
+elementary substance, a number which represented the relative amount
+of its decomposition, and which might properly76 be called its
+“electro-chemical equivalent.” And the question naturally occurs,
+whether these numbers bore any relation to any previously established
+chemical measures. The answer is remarkable. They were no other
+than the atomic weights of the Daltonian theory, which formed the
+climax of the previous ascent of chemistry; and thus here, as
+everywhere in 300
+the progress of science, the generalizations of one generation are
+absorbed in the wider generalizations of the next.
+76 792.
+But in order to reach securely this wider generalization, Faraday
+combined the two branches of the subject which we have already
+noticed;—the theory of electrical decomposition with the
+theory of the pile. For his researches on the origin of
+activity of the voltaic circuit (his Eighth Series), led him to see
+more clearly than any one before him, what, as we have said, the most
+sagacious of preceding philosophers had maintained, that the current
+in the pile was due to the mutual chemical action of its elements. He
+was led to consider the processes which go on in the
+exciting-cell and in the decomposing place as of the same kind,
+but opposite in direction. The chemical composition of the
+fluid with the zinc, in the common apparatus, produces, when the
+circuit is completed, a current of electric influence in the wire; and
+this current, if it pass through an electrolyte, manifests itself by
+decomposition, overcoming the chemical affinity which there
+resists it. An electrolyte cannot conduct without being decomposed.
+The forces at the point of composition and the point of decomposition
+are of the same kind, and are opposed to each other by means of the
+conducting-wire; the wire may properly be spoken of77 as conducting chemical affinity:
+it allows two forces of the same kind to oppose one another;78 electricity is only another mode of the
+exertion of chemical forces;79 and we might
+express all the circumstances of the voltaic pile without using any
+other term than chemical affinity, though that of electricity may be
+very convenient.80 Bodies are held together by a definite
+power, which, when it ceases to discharge that office, may be thrown
+into the condition of an electric current.81
+77 Researches Art. 918.
+78 910.
+79 915.
+80 917.
+81 855.
+Thus the great principle of the identity of electrical and chemical
+action was completely established. It was, as Faraday with great
+candor says,82 a confirmation of the general views put
+forth by Davy, in 1806, and might be expressed in his terms, that
+“chemical and electrical attractions are produced by the same cause;”
+but it is easy to see that neither was the full import of these
+expressions understood nor were the quantities to which they refer
+conceived as measurable quantities, nor was the assertion anything but
+a sagacious conjecture, till Faraday gave the interpretation, measure,
+and proof, of which we have spoken. The evidence of the incompleteness
+of the views of his predecessor we have already adduced, in speaking of his vague and
+301 inconsistent
+theoretical account of decomposition. The confirmation of Davy’s
+discoveries by Faraday is of the nature of Newton’s confirmation of
+the views of Borelli and Hooke respecting gravity, or like Young’s
+confirmation of the undulatory theory of Huyghens.
+82 965.
+We must not omit to repeat here the moral which we wish to draw
+from all great discoveries, that they depend upon the combination of
+exact facts with clear ideas. The former of these
+conditions is easily illustrated in the case of Davy and Faraday, both
+admirable and delicate experimenters. Davy’s rapidity and resource in
+experimenting were extraordinary,83 and extreme
+elegance and ingenuity distinguish almost every process of Faraday. He
+had published, in 1829, a work on Chemical Manipulation, in
+which directions are given for performing in the neatest manner all
+chemical processes. Manipulation, as he there truly says, is to the
+chemist like the external senses to the mind;84 and without the
+supply of fit materials which such senses only can give, the mind can
+acquire no real knowledge.
+83 Paris, i. 145.
+84 Pref. p. ii.
+But still the operations of the mind as well as the information of
+the senses, ideas as well as facts, are requisite for the attainment
+of any knowledge; and all great steps in science require a peculiar
+distinctness and vividness of thought in the discoverer. This it is
+difficult to exemplify in any better way than by the discoveries
+themselves. Both Davy and Faraday possessed this vividness of mind;
+and it was a consequence of this endowment, that Davy’s lectures upon
+chemistry, and Faraday’s upon almost any subject of physical
+philosophy, were of the most brilliant and captivating character. In
+discovering the nature of voltaic action, the essential intellectual
+requisite was to have a distinct conception of that which Faraday
+expressed by the remarkable phrase,85 “an axis of
+power having equal and opposite forces;” and the distinctness of
+this idea in Faraday’s mind shines forth in every part of his
+writings. Thus he says, the force which determines the decomposition
+of a body is in the body, not in the poles.86 But for the most part he can of course
+only convey this fundamental idea by illustrations. Thus87 he represents the voltaic circuit by a
+double circle, studded with the elements of the circuit, and shows how
+the anïons travel round it in one direction, and the
+cathïons in the opposite. He considers88 the powers at
+the two places of action as balancing against each other through the
+medium of the conductors, in a manner 302 analogous to that in which mechanical
+forces are balanced against each other by the intervention of the
+lever. It is impossible to him89 to resist the
+idea, that the voltaic current must be preceded by a state of tension
+in its interrupted condition, which is relieved when the circuit is
+completed. He appears to possess the idea of this kind of force with
+the same eminent distinctness with which Archimedes in the ancient,
+and Stevinus in the modern history of science, possessed the idea of
+pressure, and were thus able to found the science of mechanics.90 And when he cannot obtain these
+distinct modes of conception, he is dissatisfied, and conscious of
+defect. Thus in the relation between magnetism and electricity,91 “there appears to be a link in the
+chain of effects, a wheel in the physical mechanism of the action, as
+yet unrecognized.” All this variety of expression shows how deeply
+seated is the thought. This conception of Chemical Affinity as a
+peculiar influence of force, which, acting in opposite directions,
+combines and resolves bodies;—which may be liberated and thrown
+into the form of a voltaic current, and thus be transferred to remote
+points, and applied in various ways; is essential to the
+understanding, as it was to the making, of these discoveries.
+85 Art. 517.
+86 Art. 661.
+87 963.
+88 917.
+89 Art. 950.
+90 990.
+91 1114.
+By those to whom this conception has been conveyed, I venture to
+trust that I shall be held to have given a faithful account of this
+important event in the history of science. We may, before we quit the
+subject, notice one or two of the remarkable subordinate features of
+Faraday’s discoveries.
+Sect. 3.—Consequences of Faraday’s
+Discoveries.
+Faraday’s volta-electrometer,
+in conjunction with the method he had already employed, as we have
+seen, for the comparison of voltaic and common electricity, enabled
+him to measure the actual quantity of electricity which is exhibited,
+in given cases, in the form of chemical affinity. His results appeared
+in numbers of that enormous amount which so often comes before us in
+the expression of natural laws. One grain of water92 will require for its decomposition as
+much electricity as would make a powerful flash of lightning. By
+further calculation, he finds this quantity to be not less than
+800,000 charges of his Leyden battery;93 and this is, by
+his theory of the identity of the combining with the decomposing
+force, the quantity of electricity 303 which is naturally associated with the
+elements of the grain of water, endowing them with their mutual
+affinity.
+92 853.
+93 861.
+Many of the subordinate facts and laws which were brought to light
+by these researches, clearly point to generalizations, not included in
+that which we have had to consider, and not yet discovered: such laws
+do not properly belong to our main plan, which is to make our way
+up to the generalizations. But there is one which so
+evidently promises to have an important bearing on future chemical
+theories, that I will briefly mention it. The class of bodies which
+are capable of electrical decomposition is limited by a very
+remarkable law: they are such binary compounds only as consist of
+single proportionals of their elementary principles. It does
+not belong to us here to speculate on the possible import of this
+curious law; which, if not fully established, Faraday has rendered, at
+least, highly probable:94 but it is impossible not to see how
+closely it connects the Atomic with the Electro-chemical Theory; and
+in the connexion of these two great members of Chemistry, is involved
+the prospect of its reaching wider generalizations, and principles
+more profound than we have yet caught sight of.
+94 Art. 697.
+As another example of this connexion, I will, finally, notice that
+Faraday has employed his discoveries in order to decide, in some
+doubtful cases, what is the true chemical equivalent;95 “I have such conviction,” he says,
+“that the power which governs electro-decomposition and ordinary
+chemical attractions is the same; and such confidence in the
+overruling influence of those natural laws which render the former
+definite, as to feel no hesitation in believing that the latter must
+submit to them too. Such being the case, I can have no doubt that,
+assuming hydrogen as 1, and dismissing small fractions for the
+simplicity of expression, the equivalent number or atomic weight of
+oxygen is 8, of chlorine 36, of bromine 78·4, of lead 103·5, of tin
+59, &c.; notwithstanding that a very high authority doubles
+several of these numbers.”
+95 851.
+Sect. 4.—Reception of the Electro-chemical
+Theory.
+The epoch of establishment of
+the electro-chemical theory, like other great scientific epochs, must
+have its sequel, the period of its reception and confirmation,
+application and extension. In that period we 304 are living, and it must be the task of
+future historians to trace its course.
+We may, however, say a word on the reception which the theory met
+with, in the forms which it assumed, anterior to the labors of
+Faraday. Even before the great discovery of Davy, Grotthuss, in 1805,
+had written upon the theory of electro-chemical decomposition; but he
+and, as we have seen, Davy, and afterwards other writers, as Riffault
+and Chompré, in 1807, referred the effects to the poles.96 But the most important attempt to
+appropriate and employ the generalization which these discoveries
+suggested, was that of Berzelius; who adopted at once the view of the
+identity, or at least the universal connexion, of electrical relations
+with chemical affinity. He considered,97 that in all
+chemical combinations the elements may be considered as
+electro-positive and electro-negative; and made this opposition the
+basis of his chemical doctrines; in which he was followed by a large
+body of the chemists of Germany. He held too that the heat and light,
+evolved during cases of powerful combination, are the consequence of
+the electric discharge which is at that moment taking place: a
+conjecture which Faraday at first spoke of with praise.98 But at a later period he more sagely
+says,99 that the flame which is produced in
+such cases exhibits but a small portion of the electric power which
+really acts. “These therefore may not, cannot, be taken as evidences
+of the nature of the action; but are merely incidental results,
+incomparably small in relation to the forces concerned, and supplying
+no information of the way in which the particles are active on each
+other, or in which their forces are finally arranged.” And comparing
+the evidence which he himself had given of the principle on which
+Berzelius’s speculations rested, with the speculations themselves,
+Faraday justly conceived, that he had transferred the doctrine from
+the domain of what he calls doubtful knowledge, to that of
+inductive certainty.
+96 Faraday (Researches, Art.
+481, 492).
+97 Ann. Chim. lxxxvi. 146, for
+1813.
+98 Researches, Art. 870
+99 960.
+Now that we are arrived at the starting-place, from which this
+well-proved truth, the identity of electric and chemical forces, must
+make its future advances, it would be trifling to dwell longer on the
+details of the diffusion of that doubtful knowledge which preceded
+this more certain science. Our history of chemistry is, therefore,
+here at an end. I have, as far as I could, executed my task; which
+was, to mark all the 305 great steps of its advance, from the
+most unconnected facts and the most imperfect speculations, to the
+highest generalization at which chemical philosophers have yet
+arrived.
+Yet it will appear to our purpose to say a few words on the
+connexion of this science with those of which we are next to treat;
+and that I now proceed to do.
+</div></body></text></TEI>

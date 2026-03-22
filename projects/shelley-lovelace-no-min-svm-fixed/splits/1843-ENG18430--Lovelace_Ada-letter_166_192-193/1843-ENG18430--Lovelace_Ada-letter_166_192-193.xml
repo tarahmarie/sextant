@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 192-193</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 192-193.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to unknown recipient</title>
+          <date when="1843">undated (estimated from box 166 date range)</date>
+          <note type="place">unknown</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 192-193</note>
+          <note type="recipient">unknown</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_192-193.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>6 o'clock. Mondy afternoon</p>
+      <p>Dearest L--</p>
+      <p>I hope you &amp; Byron have recd my 2 letters by this day's post.</p>
+      <p>I have had today the severest possible pain,-- which has quite appalled everyone,</p>
+      <p>(my Mother, Mr Philips &amp;c). With the utmost difficulty we have moderated it; by means of opium,-- Esher [double underline. Dr West came in the middle of it luckily, &amp; I am now much better. I am certainly stronger at presents, but as to pain far worse than of late. This</p>
+      <p>[text on page 3 is written sideways on the page]</p>
+      <p>is curious. Dr West is most attentive &amp; excellent, &amp; desires to be sent to even in the night. He says these frightful pains must be stopped.</p>
+      <p>All Well, in all other aspects. Love to Byron, &amp; tell him I have been suffering somewhat.</p>
+    </div></body>
+  </text>
+</TEI>

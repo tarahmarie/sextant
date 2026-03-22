@@ -1,0 +1,211 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Philosophy of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="40">
+
+CHAPTER IV.
+Of the Measure of Secondary Qualities.
+
+
+Sect. I.—Scales of Qualities in general.
+THE ultimate object of our investigation in each of the
+Secondary Mechanical Sciences, is the nature of the
+processes by which the special impressions of sound, light,
+and heat, are conveyed, and the modifications of which these
+processes are susceptible. And of this investigation, as we
+have seen, the necessary basis is the principle, that these
+impressions are transmitted by means of a medium. But before
+we arrive at this ultimate object, we may find it necessary
+to occupy ourselves with several intermediate objects:
+before we discover the cause, it may be necessary
+to determine the laws of the phenomena. Even if we
+cannot immediately ascertain the mechanism of light or heat,
+it may still be interesting and important to arrange and
+measure the effects which we observe.
+The idea of a Medium affects our proceeding in this research
+also. We cannot measure Secondary qualities in the same
+manner in which we measure Primary qualities, by a mere
+addition of parts. There is this leading and remarkable
+difference, that while both classes of qualities are
+susceptible of changes of magnitude, primary qualities
+increase by addition of extension, secondary, by
+augmentation of intensity. A space is doubled when
+another equal space is placed by its side; one weight joined
+to another makes up the sum of the two. But when one degree
+of warmth is combined with another, or one shade of red
+colour with another, we cannot in like manner talk of the
+sum. The component parts do not evidently retain
+their 334 separate existence; we cannot separate a strong
+green colour into two weaker ones, as we can separate a
+large force into two smaller. The increase is absorbed into
+the previous amount, and is no longer in evidence as a part
+of the whole. And this is the difference which has given
+birth to the two words extended, and intense.
+That is extended which has ‘partes extra partes,’
+parts outside of parts: that is intense which becomes
+stronger by some indirect and unapparent increase of agency,
+like the stretching of the internal springs of a machine, as
+the term intense implies. Extended magnitudes can at
+will be resolved into the parts of which they were
+originally composed, or any other which the nature of their
+extension admits; their proportion is apparent; they are
+directly and at once subject to the relations of number.
+Intensive magnitudes cannot be resolved into smaller
+magnitudes; we can see that they differ, but we cannot tell
+in what proportion; we have no direct measure of their
+quantity. How many times hotter than blood is boiling water?
+The answer cannot be given by the aid of our feelings of
+heat alone.
+The difference, as we have said, is connected with the
+fundamental principle that we do not perceive Secondary
+qualities directly, but through a Medium. We have no natural
+apprehension of light, or sound, or heat, as they exist in
+the bodies from which they proceed, but only as they affect
+our organs. We can only measure them, therefore, by some
+Scale supplied by their effects. And thus while
+extended magnitudes, as space, time, are measurable directly
+and of themselves; intensive magnitudes, as brightness,
+loudness, heat, are measurable only by artificial means and
+conventional scales. Space, time, measure themselves: the
+repetition of a smaller space, or time, while it composes a
+larger one, measures it. But for light and heat we must have
+Photometers and Thermometers, which measure something which
+is assumed to be an indication of the quality in question.
+In the one case, the mode of applying the measure, and the
+meaning of the number resulting, are seen by intuition; in
+the 335 other, they are consequences of assumption and
+reasoning. In the one case, they are Units, of
+which the extension is made up; in the other, they are
+Degrees by which the intensity ascends.
+2. When we discover any property in a sensible quality,
+which at once refers us to number or space, we readily take
+this property as a measure; and thus we make a transition
+from quality to quantity. Thus Ptolemy in the third chapter
+of the First Book of his Harmonics begins thus: ‘As
+to the differences which exist in sounds both in
+quality and in quantity, if we consider
+that difference which refers to the acuteness and graveness,
+we cannot at once tell to which of the above two classes it
+belongs, till we have considered the causes of such
+symptoms.’ But at the end of the chapter, having satisfied
+himself that grave sounds result from the magnitude of the
+string or pipe, other things being equal, he infers, ‘Thus
+the difference of acute and grave appears to be a difference
+of quantity.’
+In the same manner, in order to form Secondary Mechanical
+Sciences respecting any of the other properties of bodies,
+we must reduce these properties to a dependence upon
+quantity, and thus make them subject to measurement. We
+cannot obtain any sciential truths respecting the comparison
+of sensible qualities, till we have discovered measures and
+scales of the qualities which we have to consider; and
+accordingly, some of the most important steps in such
+sciences have been the establishment of such measures and
+scales, and the invention of the requisite instruments.
+The formation of the mathematical sciences which rest upon
+the measures of the intensity of sensible qualities took
+place mainly in the course of the last century. Perhaps we
+may consider Lambert, a mathematician who resided in
+Switzerland, and published about 1750, as the person who
+first clearly felt the importance of establishing such
+sciences. His Photometry, Pyrometry, and Hygrometry, are
+examples of the systematic reduction of sensible qualities
+(light, heat, moisture) to modes of numerical measurement. 336
+We now proceed to speak of such modes of measurement with
+regard to the most obvious properties of bodies.
+Sect. II.—The Musical Scale.
+3. The establishment of the Harmonic Canon, that is,
+of a Scale and Measure of the musical place of notes, in the
+relation of high and low, was the first
+step in the science of Harmonics. The perception of the
+differences and relations of musical sounds is the office of
+the sense of hearing; but these relations are fixed, and
+rendered accurately recognizable by artificial means.
+‘Indeed, in all the senses,’ as Ptolemy truly says in the
+opening of his Harmonics, ‘the sense discovers what is
+approximately true, and receives accuracy from another
+quarter: the reason receives the approximately-true from
+another quarter, and discovers the accurate truth.’ We can
+have no measures of sensible qualities which do not
+ultimately refer to the sense;—whether they do this
+immediately, as when we refer Colours to an assumed
+Standard; or mediately, as when we measure Heat by
+Expansion, having previously found by an appeal to sense
+that the expansion increases with the heat. Such relations
+of sensible qualities cannot be described in words, and can
+only be apprehended by their appropriate faculty. The
+faculty by which the relations of sounds are apprehended is
+a musical ear in the largest acceptation of the term.
+In this signification the faculty is nearly universal among
+men; for all persons have musical ears sufficiently delicate
+to understand and to imitate the modulations corresponding
+to various emotions in speaking; which modulations depend
+upon the succession of acuter and graver tones. These are
+the relations now spoken of, and these are plainly perceived
+by persons who have very imperfect musical ears, according
+to the common use of the phrase. But the relations of tones
+which occur in speaking are somewhat indefinite; and in
+forming that musical scale which is the basis of our science
+upon the subject, we 337 take the most definite and marked
+of such relations of notes; such as occur, not in speaking
+but in singing. Those musical relations of two sounds which
+we call the octave, the fifth, the
+fourth, the third, are recognized after a
+short familiarity with them. These chords or
+intervals are perceived to have each a peculiar
+character, which separates them from the relations of two
+sounds taken at random, and makes it easy to know them when
+sung or played on an instrument; and for most persons, not
+difficult to sing the sounds in succession exactly, or
+nearly correct. These musical relations, or concords,
+then, are the groundwork of our musical series of sounds.
+But how are we to name these indescribable sensible
+characters? how to refer, with unerring accuracy, to a type
+which exists only in our own perceptions? We must have for
+this purpose a Scale and a Standard.
+The Musical Scale is a series of eight notes, ascending by
+certain steps from the first or key-note to the octave above
+it, each of the notes being fixed by such distinguishable
+musical relations as we have spoken of above. We may call
+these notes c, d, e, f, g, a, b, c; and we may then
+say that g is determined by its being a fifth above c; d by
+its being a fourth below g; e by its being a third above c;
+and similarly of the rest. It will be recollected that the
+terms a fifth, a fourth, a third, have
+hitherto been introduced as expressing certain simple and
+indescribable musical relations among sounds, which might
+have been indicated by any other names. Thus we might call
+the fifth the dominant, and the fourth the
+subdominant, as is done in one part of musical
+science. But the names we have used, which are the common
+ones, are in fact derived from the number of notes which
+these intervals include in the scale obtained in the above
+manner. The notes, c, d, e, f, g, being five, the interval
+from c to g is a fifth, and so of the rest. The fixation of
+this scale gave the means of describing exactly any note
+which occurs in the scale, and the method is easily
+applicable to notes above and below this range; for in a
+series of sounds higher or lower by an octave than 338
+this standard series, the ear discovers a recurrence of the
+same relations so exact, that a person may sometimes imagine
+he is producing the same notes as another when he is singing
+the same air an octave higher. Hence the next eight notes
+may be conveniently denoted by a repetition of the same
+letters, as the first; thus, c, d, e, f, g, a, b, c,
+d, e, f, g, a, b;
+and it is easy to devise a continuation of such cycles. And
+other admissible notes are designated by a further
+modification of the standard ones, as by making each note
+flat or sharp; which modification it is not
+necessary here to consider, since our object is only to show
+how a standard is attainable, and how it serves the ends of
+science.
+We may observe, however, that the above is not an exact
+account of the first, or early Greek scale; for that scale
+was founded on a primary division of the interval of two
+octaves (the extreme range which it admitted) into five
+tetrachords, each tetrachord including the interval
+of a fourth. All the notes of this series had different
+names borrowed from this division26; thus mese
+was the middle or key-note; the note below it was
+lichanos mesôn, the next below was parypate
+mesôn, the next lower, hypate mesôn. The fifth
+above mese was nete diazeugmenôn, the octave
+was nete hyperbolæôn.</div></body></text></TEI>

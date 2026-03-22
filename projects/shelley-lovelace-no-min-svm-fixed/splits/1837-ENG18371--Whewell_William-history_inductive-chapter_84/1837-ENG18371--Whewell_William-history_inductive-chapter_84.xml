@@ -1,0 +1,590 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="84">CHAPTER II.
+Progress of Magnetic Theory.
+Theory of Magnetic
+Action.—The assumption of a fluid, as a mode of
+explaining the phenomena, was far less obvious in magnetic than in
+electric cases, yet it was soon arrived at. After the usual philosophy
+of the middle ages, the “forms” of Aquinas, the “efflux” of Cusanus,
+the “vapors” of Costæus, and the like, which are recorded by
+Gilbert,10 we have his own theory, which he also
+expresses by ascribing the effects to a “formal efficiency;”—a
+“form of primary globes; the proper entity and existence of
+their homogeneous parts, which we may call a primary and radical and
+astral form;”—of which forms there is one in the sun, one
+in the moon, one in the earth, the latter being the magnetic
+virtue.
+10 Gilb. lib. ii. c. 3, 4
+Without attempting to analyse the precise import of these
+expressions, we may proceed to Descartes’s explanation of magnetic
+phenomena. The mode in which he presents this subject11 is, perhaps, the 221 most persuasive of
+his physical attempts. If a magnet be placed among iron filings, these
+arrange themselves in curved lines, which proceed from one pole of the
+magnet to the other. It was not difficult to conceive these to be the
+traces of currents of ethereal matter which circulate through the
+magnet, and which are thus rendered sensible even to the eye. When
+phenomena could not be explained by means of one vortex, several were
+introduced. Three Memoirs on Magnetism, written on such principles,
+had the prize adjudged12 by the French Academy of Sciences in
+1746.
+11 Prin. Phil. pars c. iv.
+146.
+12 Coulomb, 1789, p. 482.
+But the Cartesian philosophy gradually declined; and it was not
+difficult to show that the magnetic curves, as well as other
+phenomena, would, in fact, result from the attraction and repulsion of
+two poles. The analogy of magnetism with electricity was so strong and
+clear, that similar theories were naturally proposed for the two sets
+of facts; the distinction of bodies into conductors and electrics in
+the one case, corresponding to the distinction of soft and hard steel,
+in their relations to magnetism. Æpinus published a theory of
+magnetism and electricity at the same time (1759); and the former
+theory, like the latter, explained the phenomena of the opposite poles
+as results of the excess and defect of a magnetic “fluid,” which was
+dislodged and accumulated in the ends of the body, by the repulsion of
+its own particles, and by the attraction of iron or steel, as in the
+case of induced electricity. The Æpinian theory of magnetism, as of
+electricity, was recast by Coulomb, and presented in a new shape, with
+two fluids instead of one. But before this theory was reduced to
+calculation, it was obviously desirable, in the first place, to
+determine the law of force.
+In magnetic, as in electric action, the determination of the law of
+attraction of the particles was attended at first with some
+difficulty, because the action which a finite magnet exerts is a
+compound result of the attractions and repulsions of many points.
+Newton had imagined the attractive force of magnetism to be inversely
+as the cube of the distance; but Mayer in 1760, and Lambert a few
+years later, asserted the law to be, in this as in other forces, the
+inverse square. Coulomb has the merit of having first clearly
+confirmed this law, by the use of his torsion-balance.13 He established, at the same time, other
+very important facts, for instance, “that the directive magnetic
+force, which the earth exerts upon a needle, is a constant quantity,
+parallel 222 to the
+magnetic meridian, and passing through the same point of the needle
+whatever be its position.” This was the more important, because it was
+necessary, in the first place, to allow for the effect of the
+terrestrial force, before the mutual action of the magnets could be
+extricated from the phenomena.14 Coulomb then
+proceeded to correct the theory of magnetism.
+13 Mem. A. P. 1784, 2d Mem. p.
+593.
+14 p. 603.
+Coulomb’s reform of the Æpinian theory, in the case of magnetism,
+as in that of electricity, substituted two fluids (an austral
+and a boreal fluid,) for the single fluid; and in this way
+removed the necessity under which Æpinus found himself, of supposing
+all the particles of iron and steel and other magnetic bodies to have
+a peculiar repulsion for each other, exactly equal to their attraction
+for the magnetic fluid. But in the case of magnetism, another
+modification was necessary. It was impossible to suppose here, as in
+the electrical phenomena, that one of the fluids was accumulated on
+one extremity of a body, and the other fluid on the other extremity;
+for though this might appear, at first sight, to be the case in a
+magnetic needle, it was found that when the needle was cut into two
+halves, the half in which the austral fluid had seemed to predominate,
+acquired immediately a boreal pole opposite to its austral pole, and a
+similar effect followed in the other half. The same is true, into
+however many parts the magnetic body be cut. The way in which Coulomb
+modified the theory so as to reconcile it with such facts, is simple
+and satisfactory. He supposes15 the magnetic
+body to be made up of “molecules or integral parts,” or, as they were
+afterwards called by M. Poisson, “magnetic elements.” In each of these
+elements, (which are extremely minute,) the fluids can be separated,
+so that each element has an austral and a boreal pole; but the austral
+pole of an element which is adjacent to the boreal pole of the next,
+neutralizes, or nearly neutralizes, its effect; so that the sensible
+magnetism appears only towards the extremities of the body, as it
+would do if the fluids could permeate the body freely. We shall have
+exactly the same result, as to sensible magnetic force, on the one
+supposition and on the other, as Coulomb showed.16
+15 Mem. A. P. 1789, p.
+488.
+16 Mem. A. P. p. 492.
+The theory, thus freed from manifest incongruities, was to be
+reduced to calculation, and compared with experiment; this was done in
+Coulomb’s Seventh Memoir.17 The difficulties of calculation in
+this, as in the electric problem, could not be entirely surmounted by
+the analysis of Coulomb; but by various artifices, he obtained
+theoretically the 223 relative amount of magnetism at several
+points of a needle,18 and the proposition that the directive
+force of the earth on similar needles saturated with magnetism, was as
+the cube of their dimensions; conclusions which agreed with
+experiment.
+17 A. P. 1789.
+18 p. 485.
+The agreement thus obtained was sufficient to give a great
+probability to the theory; but an improvement of the methods of
+calculation and a repetition of experiments, was, in this as in other
+cases, desirable, as a confirmation of the labors of the original
+theorist. These requisites, in the course of time, were supplied. The
+researches of Laplace and Legendre on the figure of the earth had (as
+we have already stated,) introduced some very
+peculiar analytical artifices, applicable to the attractions of
+spheroids; and these methods were employed by M. Biot in 1811, to show
+that on an elliptical spheroid, the thickness of the fluid in the
+direction of the radius would be as the distance from the centre.19 But the subject was taken up in a more
+complete manner in 1824 by M. Poisson, who obtained general
+expressions for the attractions or repulsions of a body of any form
+whatever, magnetized by influence, upon a given point; and in the case
+of spherical bodies was able completely to solve the equations which
+determine these forces.20
+19 Bull. des Sc. No. li.
+20 A. P. for 1821 and 2,
+published 1826.
+Previously to these theoretical investigations, Mr. Barlow had made
+a series of experiments on the effect of an iron sphere upon a compass
+needle; and had obtained empirical formulæ for the amount of the
+deviation of the needle, according to its dependence upon the position
+and magnitude of the sphere. He afterwards deduced the same formulæ
+from a theory which was, in fact, identical with that of Coulomb, but
+which he considered as different, in that it supposed the magnetic
+fluids to be entirely collected at the surface of the sphere. He had
+indeed found, by experiment, that the surface was the only part in
+which there was any sensible magnetism; and that a thin shell of iron
+would produce the same effect as a solid ball of the same
+diameter.
+But this was, in fact, a most complete verification of Coulomb’s
+theory. For though that theory did not suppose the magnetism to be
+collected solely at the surface, as Mr. Barlow found it, it followed
+from the theory, that the sensible magnetic intensity assumed
+the same distribution (namely, a surface distribution,) as if the
+fluids could permeate the whole body, instead of the “magnetic
+elements” only. Coulomb, indeed, had not expressly noticed the result,
+that the sensible 224 magnetism would be confined to the
+surface of bodies; but he had found that, in a long needle, the
+magnetic fluid might be supposed to be concentrated very near the
+extremities, just as it is in a long electric body. The theoretical
+confirmation of this rule among the other consequences of the
+theory,—that the sensible magnetism would be collected at the
+surface,—was one of the results of Poisson’s analysis. For it
+appeared that if the sum of the electric elements of the body was
+equal to the whole body, there would be no difference between the
+action of a solid sphere and very thin shell.
+We may, then, consider the Coulombian theory to be fully
+established and verified, as a representation of the laws of
+magnetical phenomena. We may add, as a remarkable and valuable example
+of an ulterior step in the course of sciences, the application of the
+laws of the distribution of magnetism to the purposes of navigation.
+It had been found that the mass of iron which exists in a ship
+produces a deviation in the direction of the compass-needle, which was
+termed “local attraction,” and which rendered the compass an erroneous
+guide. Mr. Barlow proposed to correct this by a plate of iron placed
+near the compass; the plate being of comparatively small mass, but, in
+consequence of its expanded form, and its proximity to the needle, of
+equivalent effect to the disturbing cause.
+[2nd Ed.] [This proposed arrangement was not successful, because as
+the ship turns into different positions, it may be considered as
+revolving round a vertical axis; and as this does not coincide with
+the magnetic axis, the relative magnetic position of the disturbing
+parts of the ship, and of the correcting plate, will be altered, so
+that they will not continue to counteract each other. In high magnetic
+latitudes the correcting plate was used with success.
+But when iron ships became common, a correction of the effect of
+the iron upon the ship’s compass in the general case became necessary.
+Mr. Airy devised the means of making this correction. By placing a
+magnet and a mass of iron in certain positions relative to the
+compass, the effect of the rest of the iron in the ship is completely
+counteracted in all positions.21] ~Additional
+material in the 3rd edition.~
+21 See Phil. Trans.
+1836.
+But we have still to trace the progress of the theory of
+terrestrial magnetism.
+Theory of Terrestrial
+Magnetism.—Gilbert had begun a plausible course of
+speculation on this point. “We must reject,” he says,22 “in 225 the first place, that vulgar opinion of
+recent writers concerning magnetic mountains, or a certain magnetic
+rock, or an imaginary pole at a certain distance from the pole of the
+earth.” For, he adds, “we learn by experience, that there is no such
+fixed pole or term in the earth for the variation.” Gilbert describes
+the whole earth as a magnetic globe, and attributes the variation to
+the irregular form of its protuberances, the solid parts only being
+magnetic. It was not easy to confirm or refute this opinion, but other
+hypotheses were tried by various writers; for instance, Halley had
+imagined, from the forms of the lines of equal variation, that there
+must be four magnetic poles; but Euler23 showed that the
+“Halleian lines” would, for the most part, result from the supposition
+of two magnetic poles, and assigned their position so as to represent
+pretty well the known state of the variation all over the world in
+1744. But the variation was not the only phenomenon which required to
+be taken into account; the dip at different places, and also the
+intensity of the force, were to be considered. We have already mentioned M. de Humboldt’s collection of
+observations of the dip. These were examined by M. Biot, with the view
+of reducing them to the action of two poles in the supposed
+terrestrial magnetic axis. Having, at first, made the distance of
+these poles from the centre of the earth indefinite, he found that his
+formulæ agreed more and more nearly with the observations, as the
+poles were brought nearer; and that fact and theory coincided
+tolerably well when both poles were at the centre. In 1809,24 Krafft simplified this result, by
+showing that, on this supposition, the tangent of the dip was twice
+the tangent of the latitude of the place as measured from the magnetic
+equator. But M. Hansteen, who has devoted to the subject of
+terrestrial magnetism a great amount of labor and skill, has shown
+that, taking together all the observations which we possess, we are
+compelled to suppose four magnetic poles; two near the north pole, and
+two near the south pole, of the terrestrial globe; and that these
+poles, no two of which are exactly opposite each other, are all in
+motion, with different velocities, some moving to the east and some to
+the west. This curious collection of facts awaits the hand of future
+theorists, when the ripeness of time shall invite them to the
+task.
+22 Lib. iv. c. 1. De
+Variatione.
+23 Ac. Berlin, 1757.
+24 Enc. Met. p. 742.
+[2nd Ed.] [I had thus written in the first edition. The theorist
+who was needed to reduce this accumulation of facts to their laws,
+226 had already
+laid his powerful hand upon them; namely, M. Gauss, a mathematician
+not inferior to any of the great men who completed the theory of
+gravitation. And institutions had been established for extending the
+collection of the facts pertaining to it, on a scale which elevates
+Magnetism into a companionship with Astronomy. M. Hansteen’s
+Magnetismus der Erde was published in 1819. His conclusions
+respecting the position of the four magnetic “poles” excited so much
+interest in his own country, that the Norwegian Storthing, or
+parliament, by a unanimous vote, provided funds for a magnetic
+expedition which he was to conduct along the north of Europe and Asia;
+and this they did at the very time when they refused to make a grant
+to the king for building a palace at Christiania. The expedition was
+made in 1828–30, and verified Hansteen’s anticipations as to the
+existence of a region of magnetic convergence in Siberia, which he
+considered as indicating a “pole” to the north of that country. M.
+Erman also travelled round the earth at the same time, making magnetic
+observations.
+About the same time another magnetical phenomenon attracted
+attention. Besides the general motion of the magnetic poles, and the
+diurnal movements of the needle, it was found that small and irregular
+disturbances take place in its position, which M. de Humboldt termed
+magnetic storms. And that which excited a strong interest on
+this subject was the discovery that these magnetic storms, seen only
+by philosophers who watch the needle with microscopic exactness, rage
+simultaneously over large tracts of the surface of our globe. This was
+detected about 1825 by a comparison of the observations of M. Arago at
+Paris with simultaneous observations of M. Kupffer at Kasan in Russia,
+distant more than 47 degrees of longitude.
+At the instance of M. de Humboldt, the Imperial Academy of Russia
+adopted with zeal the prosecution of this inquiry, and formed a chain
+of magnetic stations across the whole of the Russian empire. Magnetic
+observations were established at Petersburg and at Kasan, and
+corresponding observations were made at Moscow, at Nicolaieff in the
+Crimea, and Barnaoul and Nertchinsk in Siberia, at Sitka in Russian
+America, and even at Pekin. To these magnetic stations the Russian
+government afterwards added, Catharineburg in Russia Proper,
+Helsingfors in Finland, Teflis in Georgia. A comparison of the results
+obtained at four of these stations made by MM. de Humboldt and Dove,
+in the year 1830, showed that the magnetic disturbances were
+simultaneous, and were for the most parallel in their progress. 227
+Important steps in the prosecution of this subject were soon after
+made by M. Gauss, the great mathematician of Göttingen. He contrived
+instruments and modes of observation far more perfect than any before
+employed, and organized a system of comparative observations
+throughout Europe. In 1835, stations for this purpose were established
+at Altona, Augsburg, Berlin, Breda, Breslau, Copenhagen, Dublin,
+Freiberg, Göttingen, Greenwich, Hanover, Leipsic, Marburg, Milan,
+Munich, Petersburg, Stockholm, and Upsala. At these places, six times
+in the year, observations were taken simultaneously, at intervals of
+five minutes for 24 hours. The Results of the Magnetic
+Association (Resultaten des Magnetischen Vereins) were published
+by MM. Gauss and Weber, beginning in 1836.
+British physicists did not at first take any leading part in these
+plans. But in 1836, Baron Humboldt, who by his long labors and
+important discoveries in this subject might be considered as
+peculiarly entitled to urge its claims, addressed a letter to the Duke
+of Sussex, then President of the Royal Society, asking for the
+co-operation of this country in so large and hopeful a scheme for the
+promotion of science. The Royal Society willingly entertained this
+appeal; and the progress of the cause was still further promoted when
+it was zealously taken up by the British Association for the
+Advancement of Science, assembled at Newcastle in 1838. The
+Association there expressed its strong interest in the German system
+of magnetic observations; and at the instigation of this body, and of
+the Royal Society, four complete magnetical observatories were
+established by the British government, at Toronto, St. Helena, the
+Cape of Good Hope, and Van Diemen’s Land. The munificence of the
+Directors of the East India Company founded and furnished an equal
+number at Simla (in the Himalayah), Madras, Bombay, and Sincapore. Sir
+Thomas Brisbane added another at his own expense at Kelso, in
+Scotland. Besides this, the government sent out a naval expedition to
+make discoveries (magnetic among others), in the Antarctic regions,
+under the command of Sir James Ross. Other states lent their
+assistance also, and founded or reorganized their magnetic
+observatories. Besides those already mentioned, one was established by
+the French government at Algiers; one by the Belgian, at Brussels; two
+by Austria, at Prague and Milan; one by Prussia, at Breslau; one by
+Bavaria, at Munich; one by Spain, at Cadiz; there are two in the
+United States, at Philadelphia and Cambridge; one at Cairo, founded by
+the Pasha of Egypt; and in India, one at Trevandrum, established by
+the Rajah of Travancore; and one by 228 the King of Oude, at Lucknow. At all
+these distant stations the same plan was followed out, by observations
+strictly simultaneous, made according to the same methods, with the
+same instrumental means. Such a scheme, combining world-wide extent
+with the singleness of action of an individual mind, is hitherto
+without parallel.
+At first, the British stations were established for three years
+only; but it was thought advisable to extend this period three years
+longer, to end in 1845. And when the termination of that period
+arrived, a discussion was held among the magneticians themselves,
+whether it was better to continue the observations still, or to
+examine and compare the vast mass of observations already collected,
+so as to see to what results and improvements of methods they pointed.
+This question was argued at the meeting of the British Association at
+Cambridge in that year; and the conference ended in the magneticians
+requesting to have the observations continued, at some of the
+observatories for an indefinite period, at others, till the year 1848.
+In the mean time the Antarctic expedition had brought back a rich
+store of observations, fitted to disclose the magnetic condition of
+those regions which it had explored. These were discussed,
+and their results exhibited, in the Philosophical Transactions
+for 1843, by Col. Sabine, who had himself at various periods, made
+magnetic observations in the Arctic regions, and in several remote
+parts of the globe, and had always been a zealous laborer in this
+fruitful field. The general mass of the observations was placed under
+the management of Professor Lloyd, of Dublin, who has enriched the
+science of magnetism with several valuable instruments and methods,
+and who, along with Col. Sabine, made a magnetic survey of the British
+Isles in 1835 and 1836.
+I do not dwell upon magnetic surveys of various countries made by
+many excellent observers; as MM. Quetelet, Forbes, Fox, Bache and
+others.
+The facts observed at each station were, the intensity of
+the magnetic force; the declination of the needle from the
+meridian, sometimes called the variation; and its
+inclination to the horizon, the dip;—or at least,
+some elements equivalent to these. The values of these elements at any
+given time, if known, can be expressed by charts of the earth’s
+surface, on which are drawn the isodynamic, isogonal,
+and isoclinal curves. The second of these kinds of charts
+contain the “Halleian lines” spoken of in a previous page. Moreover the magnetic elements at each
+place are to be observed in such a 229 manner as to determine both their
+periodical variations (the changes which occur in the period of
+a day, and of a year), the secular changes, as the gradual
+increase or diminution of the declination at the same place for many
+years; and the irregular fluctuations which, as we have said, are
+simultaneous over a large part, or the whole, of the earth’s
+surface.
+When these Facts have been ascertained over the whole extent of the
+earth’s surface, we shall still have to inquire what is the Cause of
+the changes in the forces which these phenomena disclose. But as a
+basis for all speculation on that subject, we must know the law of the
+phenomena, and of the forces which immediately produce them. I have
+already said that Euler tried to account for
+the Halleian lines by means of two magnetic “poles,” but that
+M. Hansteen conceived it necessary to assume four. But an
+entirely new light has been thrown upon this subject by the beautiful
+investigations of Gauss, in his Theory of Terrestrial
+Magnetism, published in 1839. He remarks that the term “poles,” as
+used by his predecessors, involves an assumption arbitrary, and, as it
+is now found, false; namely, that certain definite points, two, four,
+or more, acting according to the laws of ordinary magnetical poles,
+will explain the phenomena. He starts from a more comprehensive
+assumption, that magnetism is distributed throughout the mass of the
+earth in an unknown manner. On this assumption he obtains a function
+V, by the differentials of which the elements of the magnetic
+force at any point will be expressed. This function V is well
+known in physical astronomy, and is obtained by summing all the
+elements of magnetic force in each particle, each multiplied by the
+reciprocal of its distance; or as we may express it, by taking the sum
+of each element and its proximity jointly. Hence it has been
+proposed25 to term this function the “integral
+proximity” of the attracting mass.26 By using the
+most refined 230
+mathematical artifices for deducing the values of V and its
+differentials in converging series, he is able to derive the
+coefficients of these series from the observed magnetic elements at
+certain places, and hence, to calculate them for all places. The
+comparison of the calculation with the observed results is, of course,
+the test of the truth of the theory.
+25 Quart. Rev. No. 131, p.
+283.
+26 The function V is of constant
+occurrence in investigations respecting attractions. It is introduced
+by Laplace in his investigations respecting the attractions of
+spheroids, Méc. Cél. Livr. iii. Art. 4.
+Mr. Green and Professor Mac Cullagh have proposed to term this
+function the Potential of the system; but this term (though
+suggested, I suppose, by analogy with the substantive
+Exponential), does not appear convenient in its form. On the
+other hand, the term Integral Proximity does not indicate that
+which gives the function its peculiar claim to distinction; namely,
+that its differentials express the power or attraction of the system.
+Perhaps Integral Potentiality, or Integral Attractivity,
+would be a term combining the recommendations of both the
+others.
+The degree of convergence of the series depends upon the unknown
+distribution of magnetism within the earth. “If we could venture to
+assume,” says M. Gauss, “that the members have a sensible influence
+only as far as the fourth order, complete observations from eight
+points would be sufficient, theoretically considered, for the
+determination of the coefficients.” And under certain limitations,
+making this assumption, as the best we can do at present, M. Gauss
+obtains from eight places, 24 coefficients (each supplying three
+elements), and hence calculates the magnetic elements (intensity,
+variation and dip) at 91 places in all parts of the earth. He finds
+his calculations approach the observed values with a degree of
+exactness which appears to be quite convincing as to the general truth
+of his results; especially taking into account how entirely unlimited
+is his original hypothesis.
+It is one of the most curious results of this investigation that
+according to the most simple meaning which we can give to the term
+“pole” the earth has only two magnetic poles; that is, two
+points where the direction of the magnetic force is vertical. And thus
+the isogonal curves may be looked upon as deformations
+of the curves deduced by Euler from the supposition of two poles, the
+deformation arising from this, that the earth does not contain a
+single definite magnet, but irregularly diffused magnetical elements,
+which still have collectively a distinct resemblance to a single
+magnet. And instead of Hansteen’s Siberian pole, we have a Siberian
+region in which the needles converge; but if the apparent convergence
+be pursued it nowhere comes to a point; and the like is the case in
+the Antarctic region. When the 24 Gaussian elements at any time are
+known the magnetic condition of the globe is known, just as the
+mechanical condition of the solar system is known, when we know the
+elements of the orbits of the satellites and planets and the mass of
+each. And the comparison of this magnetic condition of the globe at
+distant periods of time cannot fail to supply materials for future
+researches and speculations with regard to the agencies by which the
+condition of the earth is determined. The condition of which we here
+speak must necessarily be its mechanico-chemical condition,
+being expressed, as it will be, in terms of the mechanico-chemical
+sciences. The 231
+investigations I have been describing belong to the mechanical side of
+the subject: but when philosophers have to consider the causes of the
+secular changes which are found to occur in this mechanical condition,
+they cannot fail to be driven to electrical, that is, chemical
+agencies and laws.
+I can only allude to Gauss’s investigations respecting the
+Absolute Measure of the Earth’s Magnetic Force. To determine
+the ratio of the magnetic force of the earth to that of a known
+magnet, Poisson proposed to observe the time of vibration of a second
+magnet. The method of Gauss, now universally adopted, consists in
+observing the position of equilibrium of the second magnet when
+deflected by the first.
+The manner in which the business of magnetic observation has been
+taken up by the governments of our time makes this by far the greatest
+scientific undertaking which the world has ever seen. The result will
+be that we shall obtain in a few years a knowledge of the magnetic
+constitution of the earth which otherwise it might have required
+centuries to accumulate. The secular magnetic changes must still
+require a long time to reduce to their laws of phenomena, except
+observation be anticipated or assisted by some happy discovery as to
+the cause of these changes. But besides the special gain to magnetic
+science by this great plan of joint action among the nations of the
+earth, there is thereby a beginning made in the recognition and
+execution of the duty of forwarding science in general by national
+exertions. For at most of the magnetic observatories, meteorological
+observations are also carried on; and such observations, being far
+more extensive, systematic, and permanent than those which have
+usually been made, can hardly fail to produce important additions to
+science. But at any rate they do for science that which nations can
+do, and individuals cannot; and they seek for scientific truths in a
+manner suitable to the respect now professed for science and to the
+progress which its methods have made. Nor are we to overlook the
+effect of such observations as means of training men in the pursuit of
+science. “There is amongst us,” says one of the magnetic observers, “a
+growing recognition of the importance, both for science and for
+practical life, of forming exact observers of nature. Hitherto
+astronomy alone has afforded a very partial opportunity for the
+formation of fine observers, of which few could avail themselves.
+Experience has shown that magnetic observations may serve as excellent
+training schools in this respect.”27]
+27 Letter of W. Weber.
+Brit. Assoc. Rep. 1845, p. 17.
+232 The various
+other circumstances which terrestrial magnetism exhibits,—the
+diurnal and annual changes of the position of the
+compass-needle;—the larger secular change which affects it in
+the course of years;—the difference of intensity at different
+places, and other facts, have naturally occupied philosophers with the
+attempt to determine, both the laws of the phenomena and their causes.
+But these attempts necessarily depend, not upon laws of statical
+magnetism, such as they have been explained above; but upon the laws
+by which the production and intensity of magnetism in different cases
+are regulated;—laws which belong to a different province, and
+are related to a different set of principles. Thus, for example, we
+have not attempted to explain the discovery of the laws by which heat
+influences magnetism; and therefore we cannot now give an account of
+those theories of the facts relating to terrestrial magnetism, which
+depend upon the influence of temperature. The conditions of excitation
+of magnetism are best studied by comparing this force with other cases
+where the same effects are produced by very different apparent
+agencies; such as galvanic and thermo-electricity. To the history of
+these we shall presently proceed.
+Conclusion.—The hypothesis of magnetic fluids, as
+physical realities, was never widely or strongly embraced, as that of
+electric fluids was. For though the hypothesis accounted, to a
+remarkable degree of exactness, for large classes of the phenomena,
+the presence of a material fluid was not indicated by facts of a
+different kind, such as the spark, the discharge from points, the
+shock, and its mechanical effects. Thus the belief of a peculiar
+magnetic fluid or fluids was not forced upon men’s minds; and the
+doctrine above stated was probably entertained by most of its
+adherents, chiefly as a means of expressing the laws of phenomena in
+their elementary form.
+One other observation occurs here. We have seen that the
+supposition of a fluid moveable from one part of bodies to another,
+and capable of accumulation in different parts of the surface,
+appeared at first to be as distinctly authorized by magnetic as by
+electric phenomena; and yet that it afterwards appeared, by
+calculation, that this must be considered as a derivative result; no
+real transfer of fluid taking place except within the limits of the
+insensible particles of the body. Without attempting to found a
+formula of philosophizing on this circumstance, we may observe, that
+this occurrence, like the disproof of heat as a material fluid, shows
+the possibility of an hypothesis which shall very exactly satisfy many
+phenomena, and yet be incomplete: it 233 shows, too, the necessity of bringing
+facts of all kinds to bear on the hypothesis; thus, in this case it
+was requisite to take into account the facts of junction and
+separation of magnetic bodies, as well as their attractions and
+repulsions.
+If we have seen reason to doubt the doctrine of electric fluids as
+physical realities, we cannot help pronouncing upon the magnetic
+fluids as having still more insecure claims to a material existence,
+even on the grounds just stated. But we may add considerations still
+more decisive; for at a further stage of discovery, as we shall see,
+magnetic and electric action were found to be connected in the closest
+manner, so as to lead to the persuasion of their being different
+effects of one common cause. After those discoveries, no philosopher
+would dream of assuming electric fluids and magnetic fluids as two
+distinct material agents. Yet even now the nature of the dependence of
+magnetism upon any other cause is extremely difficult to conceive. But
+till we have noticed some of the discoveries to which we have alluded,
+we cannot even speculate about that dependence. We now, therefore,
+proceed to sketch the history of these discoveries. ~Additional
+material in the 3rd edition.~
+
+
+BOOK XIII.
+
+MECHANICO-CHEMICAL SCIENCES.
+(CONTINUED.)
+
+HISTORY OF GALVANISM,
+OR
+VOLTAIC ELECTRICITY.
+
+Percusssæ gelido trepidant sub pectore
+fibræ,
+Et nova desuetis subrepens vita medullis
+Miscetur morti: tunc omnis palpitat artus
+Tenduntur nervi; nec se tellure cadaver
+Paullatim per membra levat; terrâque repulsum
+est
+Erectumque simul.
+Lucan. vi.
+752.
+
+The form which lay before inert and dead,
+Sudden a piercing thrill of change
+o’erspread;
+Returning life gleams in the stony face,
+The fibres quiver and the sinews brace,
+Move the stiff limbs;—nor did the body
+rise
+With tempered strength which genial life
+supplies,
+But upright starting, its full stature
+held,
+As though the earth the supine corse
+repelled.
+
+</div></body></text></TEI>

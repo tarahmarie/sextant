@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 68-69</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 68-69.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1836">9 December [1836]</date>
+          <note type="place">Ockham</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 68-69</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_68-69.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Ockham Thursday Evg. Decr 9</p>
+      <p>My Dearest Mate. A sad disappointment this morning, when I had certainly reckoned on a letter from Exeter!--</p>
+      <p>The house is very vacant without you, though I have no business to complain when the dear kind Hen is here.--</p>
+      <p>There is an enclosure of this morning written on smart pink paper for your mother,</p>
+      <p>and I think the hand is Emily's, but there is not a line for you. I strongly suspect she is affronted.--</p>
+      <p>I am delighted with the progress of the hot-house. miss D'Espourria &amp; I stood in admiration of it today.--</p>
+      <p>The Hen has just brought down a letter for you, which she (naughty bird!) won't let me (poor little thing!) read.-- Do not believe any bad she may have said of me, for I assure you I am a very dear little thing!--</p>
+      <p>The Hen is charmed with</p>
+      <p>Rickman's Architecture, which came by the Cab. She cuts open all the new books she can find.-- I have sent my dressing case to Town to be done the best with which the case admits of.--</p>
+      <p>A leg has just come off one of the hideous screens in the sitting room, and the generous Hen insists on giving me some instead. I am only afraid you may have ordered some.-- I mean to give her a clock for Fordhood Chimney Piece for mine has left a sad</p>
+      <p>gap behind it.--</p>
+      <p>On Sunday we have no general post at Fordhook, but on Monday I expect to hear from you there. How I long to see your hand- writing! I am afraid I am but a silly little bird.</p>
+      <p>Lady George Murray offers to come here on Tuesday or Wednesday next. I have told her I shall then be away, but hope she can come later.-- The little Bird, with its young, chirps at ou, &amp; says Good Bye.</p>
+      <p>Your most affecte A. A. K.</p>
+    </div></body>
+  </text>
+</TEI>

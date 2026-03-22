@@ -1,0 +1,341 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="64">CHAPTER III.
+Discovery of the Law of Dispersion by
+Refraction.
+EARLY attempts were made to
+account for the colors of the rainbow, and various other phenomena in
+which colors are seen to arise from transient and unsubstantial
+combinations of media. Thus Aristotle explains the colors of the
+rainbow by supposing9 that it is light seen through a dark
+medium: “Now,” says he, “the bright seen through the dark appears red,
+as, for instance, the fire of green wood seen through the smoke, and
+the sun through mist. Also10 the weaker is the light, or the visual
+power, and the nearer the color approaches to the black; becoming
+first red, then green, then purple. But11 the 59 vision is strongest in
+the outer circle, because the periphery is greater;—thus we
+shall have a gradation from red, through green, to purple, in passing
+from the outer to the inner circle.” This account would hardly have
+deserved much notice, if it had not been for a strange attempt to
+revive it, or something very like it, in modern times. The same
+doctrine is found in the work of De Dominis.12 According to
+him, light is white: but if we mix with the light something dark, the
+colors arise,—first red, then green, then blue or violet. He
+applies this to explain the colors of the rainbow,13 by means of the
+consideration that, of the rays which come to the eye from the globes
+of water, some go through a larger thickness of the globe than others,
+whence he obtains the gradation of colors just described.
+9 Meteor. iii. 3, p. 373.
+10 Ib. p. 374.
+11 Ib. p. 375.
+12 Cap. iii. p. 9. See also Göthe,
+Farbenl. vol. ii. p. 251.
+13 Göthe, p. 263.
+Descartes came far nearer the true philosophy of the iridal colors.
+He found that a similar series of colors was produced by refraction of
+light bounded by shade, through a prism;14 and he rightly
+inferred that neither the curvature of the surface of the drops of
+water, nor the reflection, nor the repetition of refraction, were
+necessary to the generation of such colors. In further examining the
+course of the rays, he approaches very near to the true conception of
+the case; and we are led to believe that he might have anticipated
+Newton in his discovery of the unequal refrangibility of different
+colors, if it had been possible for him to reason any otherwise than
+in the terms and notions of his preconceived hypotheses. The
+conclusion which he draws is,15 that “the
+particles of the subtile matter which transmit the action of light,
+endeavor to rotate with so great a force and impetus, that they cannot
+move in a straight line (whence comes refraction): and that those
+particles which endeavor to revolve much more strongly produce a red
+color, those which endeavor to move only a little more strongly
+produce yellow.” Here we have a clear perception that colors and
+unequal refraction are connected, though the cause of refraction is
+expressed by a gratuitous hypothesis. And we may add, that he applies
+this notion rightly, so far as he explains himself,16 to account for the colors of the
+rainbow.
+14 Meteor. Sect. viii. p.
+190.
+15 Sect. vii. p. 192.
+16 Meteor. Sect. ix.
+It appears to me that Newton and others have done Descartes
+injustice, in ascribing to De Dominis the true theory of the rainbow.
+There are two main points of this theory, namely, the showing that a
+bright circular band, of a certain definite diameter, arises
+from the 60 great
+intensity of the light returned at a certain angle; and the referring
+the different colors to the different quantity of the
+refraction; and both these steps appear indubitably to be the
+discoveries of Descartes. And he informs us that these discoveries
+were not made without some exertion of thought. “At first,” he says,17 “I doubted whether the iridal colors
+were produced in the same way as those in the prism; but, at last,
+taking my pen, and carefully calculating the course of the rays which
+fell on each part of the drop, I found that many more come at an angle
+of forty-one degrees, than either at a greater or a less angle. So
+that there is a bright bow terminated by a shade; and hence the colors
+are the same as those produced through a prism.”
+17 Sect. ix. p. 193.
+The subject was left nearly in the same state, in the work of
+Grimaldi, Physico-Mathesis, de Lumine, Coloribus et Iride,
+published at Bologna in 1665. There is in this work a constant
+reference to numerous experiments, and a systematic exposition of the
+science in an improved state. The author’s calculations concerning the
+rainbow are put in the same form as those of Descartes; but he is
+further from seizing the true principle on which its coloration
+depends. He rightly groups together a number of experiments in which
+colors arise from refraction;18 and explains
+them by saying that the color is brighter where the light is denser:
+and the light is denser on the side from which the refraction turns
+the ray, because the increments of refraction are greater in the rays
+that are more inclined.19 This way of treating the question might
+be made to give a sort of explanation of most of the facts, but is
+much more erroneous than a developement of Descartes’s view would have
+been.
+18 Prop. 35, p. 254.
+19 Ib. p. 256.
+At length, in 1672, Newton gave20 the true
+explanation of the facts; namely, that light consists of rays of
+different colors and different refrangibility. This now appears to us
+so obvious a mode of interpreting the phenomena, that we can hardly
+understand how they can be conceived in any other manner; but yet the
+impression which this discovery made, both upon Newton and upon his
+contemporaries, shows how remote it was from the then accepted
+opinions. There appears to have been a general persuasion that the
+coloration was produced, not by any peculiarity in the law of
+refraction itself but by some collateral circumstance,—some
+dispersion or variation of density of the light, in addition to the
+refraction. Newton’s discovery consisted in 61 teaching distinctly that the law of
+refraction was to be applied, not to the beam of light in general, but
+to the colors in particular.
+20 Phil. Trans. t. vii. p.
+3075.
+When Newton produced a bright spot on the wall of his chamber, by
+admitting the sun’s light through a small hole in his window-shutter,
+and making it pass through a prism, he expected the image to be round;
+which, of course, it would have been, if the colors had been produced
+by an equal dispersion in all directions; but to his surprise he saw
+the image, or spectrum, five times as long as it was broad. He
+found that no consideration of the different thickness of the glass,
+the possible unevenness of its surface, or the different angles of
+rays proceeding from the two sides of the sun, could be the cause of
+this shape. He found, also, that the rays did not go from the prism to
+the image in curves; he was then convinced that the different colors
+were refracted separately, and at different angles; and he confirmed
+this opinion by transmitting and refracting the rays of each color
+separately.
+The experiments are so easy and common, and Newton’s interpretation
+of them so simple and evident, that we might have expected it to
+receive general assent; indeed, as we have shown, Descartes had
+already been led very near the same point. In fact, Newton’s opinions
+were not long in obtaining general acceptance; but they met with
+enough of cavil and misapprehension to annoy extremely the discoverer,
+whose clear views and quiet temper made him impatient alike of
+stupidity and of contentiousness.
+We need not dwell long on the early objections which were made to
+Newton’s doctrine. A Jesuit, of the name of Ignatius Pardies,
+professor at Clermont, at first attempted to account for the
+elongation of the image by the difference of the angles made by the
+rays from the two edges of the sun, which would produce a difference
+in the amount of refraction of the two borders; but when Newton
+pointed out the calculations which showed the insufficiency of this
+explanation, he withdrew his opposition. Another more pertinacious
+opponent appeared in Francis Linus, a physician of Liege; who
+maintained, that having tried the experiment, he found the sun’s
+image, when the sky was clear, to be round and not oblong; and he
+ascribed the elongation noticed by Newton, to the effect of clouds.
+Newton for some time refused to reply to this contradiction of his
+assertions, though obstinately persisted in; and his answer was at
+last sent, just about the time of Linus’s death, in 1675. But
+Gascoigne, a friend of Linus, still maintained that he and others had
+seen what the Dutch physician had described; and Newton, who was
+pleased with the candor of 62 Gascoigne’s letter, suggested that the
+Dutch experimenters might have taken one of the images reflected from
+the surfaces of the prism, of which there are several, instead of the
+proper refracted one. By the aid of this hint, Lucas of Liege repeated
+Newton’s experiments, and obtained Newton’s result, except that he
+never could obtain a spectrum whose length was more than three and a
+half times its breadth. Newton, on his side, persisted in asserting
+that the image would be five times as long as it was broad, if the
+experiment were properly made. It is curious that he should have been
+so confident of this, as to conceive himself certain that such would
+be the result in all cases. We now know that the dispersion, and
+consequently the length, of the spectrum, is very different for
+different kinds of glass, and it is very probable that the Dutch prism
+was really less dispersive than the English one.21 The erroneous
+assumption which Newton made in this instance, he held by to the last;
+and was thus prevented from making the discovery of which we have next
+to speak.
+21 Brewster’s Newton, p.
+50.
+Newton was attacked by persons of more importance than those we
+have yet mentioned; namely, Hooke and Huyghens. These philosophers,
+however, did not object so much to the laws of refraction of different
+colors, as to some expressions used by Newton, which, they conceived,
+conveyed false notions respecting the composition and nature of light.
+Newton had asserted that all the different colors are of distinct
+kinds, and that, by their composition, they form white light. This is
+true of colors as far as their analysis and composition by refraction
+are concerned; but Hooke maintained that all natural colors are
+produced by various combinations of two primary ones, red and
+violet;22 and Huyghens held a similar doctrine,
+taking, however, yellow and blue for his basis. Newton answers, that
+such compositions as they speak of are not compositions of simple
+colors in his sense of the expressions. These writers also had both of
+them adopted an opinion that light consisted in vibrations; and
+objected to Newton that his language was erroneous, as involving the
+hypothesis that light was a body. Newton appears to have had a horror
+of the word hypothesis, and protests against its being supposed
+that his “theory” rests on such a foundation.
+22 Brewster’s Newton, p. 54.
+Phil. Trans. viii. 5084, 6086.
+The doctrine of the unequal refrangibility of different rays is
+clearly exemplified in the effects of lenses, which produce images
+more or 63 less
+bordered with color, in consequence of this property. The improvement
+of telescopes was, in Newton’s time, the great practical motive for
+aiming at the improvement of theoretical optics. Newton’s theory
+showed why telescopes were imperfect, namely, in consequence of the
+different refraction of different colors, which produces a
+chromatic aberration: and the theory was confirmed by the
+circumstances of such imperfections. The false opinion of which we
+have already spoken, that the dispersion must be the same when the
+refraction is the same, led him to believe that the imperfection was
+insurmountable,—that achromatic refraction could not be
+obtained: and this view made him turn his attention to the
+construction of reflecting instead of refracting telescopes. But the
+rectification of Newton’s error was a further confirmation of the
+general truth of his principles in other respects; and since that
+time, the soundness of the Newtonian law of refraction has hardly been
+questioned among physical philosophers.
+It has, however, in modern times, been very vehemently controverted
+in a quarter from which we might not readily have expected a detailed
+discussion on such a subject. The celebrated Göthe has written a work
+on The Doctrine of Colors, (Farbenlehre; Tübingen,
+1810,) one main purpose of which is, to represent Newton’s opinions,
+and the work in which they are formally published, (his
+Opticks,) as utterly false and mistaken, and capable of being
+assented to only by the most blind and obstinate prejudice. Those who
+are acquainted with the extent to which such an opinion, promulgated
+by Göthe, was likely to be widely adopted in Germany, will not be
+surprised that similar language is used by other writers of that
+nation. Thus Schelling23 says: “Newton’s Opticks is the
+greatest proof of the possibility of a whole structure of fallacies,
+which, in all its parts, is founded upon observation and experiment.”
+Göthe, however, does not concede even so much to Newton’s work. He
+goes over a large portion of it, page by page, quarrelling with the
+experiments, diagrams, reasoning, and language, without intermission;
+and holds that it is not reconcileable with the most simple facts. He
+declares,24 that the first time he looked through a
+prism, he saw the white walls of the room still look white, “and
+though alone, I pronounced, as by an instinct, that the Newtonian
+doctrine is false.” We need not here point out how inconsistent with
+the Newtonian doctrine it was, to expect, as Göthe expected, that the
+wall should be all over colored various colors.
+23 Vorlesungen, p. 270.
+24 Farbenlehre, vol. ii. p.
+678.
+64 Göthe not only
+adopted and strenuously maintained the opinion that the Newtonian
+theory was false, but he framed a system of his own to explain the
+phenomena of color. As a matter of curiosity, it may be worth our
+while to state the nature of this system; although undoubtedly it
+forms no part of the progress of physical science. Göthe’s
+views are, in fact, little different from those of Aristotle and
+Antonio de Dominis, though more completely and systematically
+developed. According to him, colors arise when we see through a dim
+medium (“ein trübes mittel”). Light in itself is colorless; but if it
+be seen through a somewhat dim medium, it appears yellow; if the
+dimness of the medium increases, or if its depth be augmented, we see
+the light gradually assume a yellow-red color, which finally is
+heightened to a ruby-red. On the other hand, if darkness is seen
+through a dim medium which is illuminated by a light falling on it, a
+blue color is seen, which becomes clearer and paler, the more the
+dimness of the medium increases, and darker and fuller, as the medium
+becomes more transparent; and when we come to “the smallest degree of
+the purest dimness,” we see the most perfect violet.25 In addition to this “doctrine of the
+dim medium,” we have a second principle asserted concerning
+refraction. In a vast variety of cases, images are accompanied by
+“accessory images,” as when we see bright objects in a
+looking-glass.26 Now, when an image is displaced by
+refraction, the displacement is not complete, clear and sharp, but
+incomplete, so that there is an accessory image along with the
+principal one.27 From these principles, the colors
+produced by refraction in the image of a bright object on a dark
+ground, are at once derivable. The accessory image is
+semitransparent;28 and hence that border of it which is
+pushed forwards, is drawn from the dark over the bright, and there the
+yellow appears; on the other hand, where the clear border laps over
+the dark ground, the blue is seen;29 and hence we
+easily see that the image must appear red and yellow at one end, and
+blue and violet at the other.
+25 Farbenlehre, § 150, p.
+151.
+26 Ib. § 223.
+27 Ib. § 227.
+28 Ib. § 238.
+29 Ib. § 239.
+We need not explain this system further, or attempt to show how
+vague and loose, as well as baseless, are the notions and modes of
+conception which it introduces. Perhaps it is not difficult to point
+out the peculiarities in Göthe’s intellectual character which led to
+his singularly unphilosophical views on this subject. One important
+65 circumstance is,
+that he appears, like many persons in whom the poetical imagination is
+very active, to have been destitute of the talent and the habit of
+geometrical thought. In all probability, he never apprehended clearly
+and steadily those relations of position on which the Newtonian
+doctrine depends. Another cause of his inability to accept the
+doctrine probably was, that he had conceived the “composition” of
+colors in some way altogether different from that which Newton
+understands by composition. What Göthe expected to see, we cannot
+clearly collect; but we know, from his own statement, that his
+intention of experimenting with a prism arose from his speculations on
+the roles of coloring in pictures; and we can easily see that any
+notion of the composition of colors which such researches would
+suggest, would require to be laid aside, before he could understand
+Newton’s theory of the composition of light.
+Other objections to Newton’s theory, of a kind very different, have
+been recently made by that eminent master of optical science, Sir
+David Brewster. He contests Newton’s opinion, that the colored rays
+into which light is separated by refraction are altogether simple and
+homogeneous, and incapable of being further analysed and modified. For
+he finds that by passing such rays through colored media (as blue
+glass for instance), they are not only absorbed and transmitted in
+very various degrees, but that some of them have their color altered;
+which effect he conceives as a further analysis of the rays, one
+component color being absorbed and the other transmitted.30 And on this subject we can only say, as
+we have before said, that Newton has incontestably and completely
+established his doctrine, so far as analysis and decomposition by
+refraction are concerned; but that with regard to any other
+analysis, which absorbing media or other agents may produce, we have
+no right from his experiments to assert, that the colors of the
+spectrum are incapable of such decomposition. The whole
+subject of the colors of objects, both opake and transparent, is still
+in obscurity. Newton’s conjectures concerning the causes of the colors
+of natural bodies, appear to help us little; and his opinions on that
+subject are to be separated altogether from the important step which
+he made in optical science, by the establishment of the true doctrine
+of refractive dispersion.
+30 This latter fact has, however, been
+denied by other experimenters.
+[2nd Ed.] [After a careful re-consideration of Sir D. Brewster’s
+asserted analysis of the solar light into three colors by means of
+66 absorbing media,
+I cannot consider that he has established his point as an exception to
+Newton’s doctrine. In the first place, the analysis of light into
+three colors appears to be quite arbitrary, granting all his
+experimental facts. I do not see why, using other media, he might not
+just as well have obtained other elementary colors. In the next place,
+this cannot be called an analysis in the same sense as
+Newton’s analysis, except the relation between the two is shown. Is it
+meant that Newton’s experiments prove nothing? Or is Newton’s
+conclusion allowed to be true of light which has not been analysed by
+absorption? And where are we to find such light, since the atmosphere
+absorbs? But, I must add, in the third place, that with a very sincere
+admiration of Sir D. Brewster’s skill as an experimenter, I think his
+experiment requires, not only limitation, but confirmation by other
+experimenters. Mr. Airy repeated the experiments with about thirty
+different absorbing substances, and could not satisfy himself that in
+any case they changed the color of a ray of given refractive power.
+These experiments were described by him at a meeting of the Cambridge
+Philosophical Society.]
+We now proceed to the corrections which the next generation
+introduced into the details of this doctrine.
+</div></body></text></TEI>

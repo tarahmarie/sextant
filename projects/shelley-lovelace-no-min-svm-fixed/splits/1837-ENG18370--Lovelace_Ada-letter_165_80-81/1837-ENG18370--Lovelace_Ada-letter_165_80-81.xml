@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 80-81</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 80-81.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1837">undated [September 1837]</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 80-81</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_80-81.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Thursdy. 1/2 pst 5.--</p>
+      <p>Dearest William. I am a little vexed with you for not attending to my particular request that you would return me Dr Locock's letter, which I wanted this morning to show to Dr Ferguson, who came to make acquaintance with me, as I did not think it at all desirable to defer the awkwardness of the first interview</p>
+      <p>&amp; explanations until I am actually ill.-- I like him very much, and he has placed the contingent attendance on a most liberal footing.--</p>
+      <p>He thinks I shall be very probably not above an hour or two ill.-- He considers that it is very possible I may remain till after the 24th, which would be certainly still the most agreeable to me.--</p>
+      <p>I have had some conversation with Hester today, which has interested me very much, though it has also caused</p>
+      <p>me some pain. I will not give the details, which would be long, until you return, but I have at last with much difficulty got at the cause of the reluctance to come to Ockham, or at least at one very principal cause.--</p>
+      <p>She has not refused to remain on here, &amp; it is left doubtful, but at all events she is not going just yet, &amp; seems to consider it nearly fixed that she should stay for a week or two after my confinement takes place, unless the event should be</p>
+      <p>much deferred.--</p>
+      <p>Further circumstance I have clearly ascertained, &amp; am going to write to Woburn about it, viz: that Hester intends going with your mother, &amp; Charlotte is to remain behind. This seems pretty well settled I think, but I fear there will be a difficulty about getting Charlotte to Ockham during their absence.-- However, I do not despair, especially as I think you have it much in power to remove their objections, as I will explain when I see you.--</p>
+      <p>The Birdie</p>
+    </div></body>
+  </text>
+</TEI>

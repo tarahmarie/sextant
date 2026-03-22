@@ -1,0 +1,66 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Reflections on the Decline of Science in England</title><author>Babbage, Charles (1791-1871)</author></titleStmt><publicationStmt><publisher>B. Fellowes</publisher><pubPlace>London</pubPlace><date>1830</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="21">
+      SECTION 1. OF MINUTE PRECISION.
+    
+
+      No person will deny that the highest degree of attainable accuracy is an
+      object to be desired, and it is generally found that the last advances
+      towards precision require a greater devotion of time, labour, and expense,
+      than those which precede them. The first steps in the path of discovery,
+      and the first approximate measures, are those which add most to the
+      existing knowledge of mankind.
+    
+
+      The extreme accuracy required in some of our modern inquiries has, in some
+      respects, had an unfortunate influence, by favouring the opinion, that no
+      experiments are valuable, unless the measures are most minute, and the
+      accordance amongst them most perfect. It may, perhaps, be of some use to
+      show, that even with large instruments, and most practised observers, this
+      is but rarely the case. The following extract is taken from a
+      representation made by the present Astronomer-Royal, to the Council of the
+      Royal Society, on the advantages to be derived from the employment of two
+      mural circles:—
+    
+
+      "That by observing, with two instruments, the same objects at the same
+      time, and in the same manner, we should be able to estimate how much of
+      that OCCASIONAL DISCORDANCE FROM THE MEAN, which attends EVEN THE MOST
+      CAREFUL OBSERVATIONS, ought to be attributed to irregularity of
+      refraction, and how much to THE IMPERFECTIONS OF INSTRUMENTS."
+    
+
+      In confirmation of this may be adduced the opinion of the late M.
+      Delambre, which is the more important, from the statement it contains
+      relative to the necessity of publishing all the observations which have
+      been made.
+    
+
+      "Mais quelque soit le parti que l'on prefere, il me semble qu'on doit tout
+      publier. Ces irregularites memes sont des faits qu'il importe de
+      connoitre. LES SOINS LES PLUS ATTENTIFS N'EN SAUROIENT PRESERVER LES
+      OBSERVATEURS LES PLUS EXERCES, et celui qui ne produiroit que des angles
+      toujours parfaitment d'accord auroit ete singulierement bien servi par les
+      circonstances ou ne seroit pas bien sincere."—BASE DU SYSTEME
+      METRIQUE, Discours Preliminaire, p. 158.
+    
+
+      This desire for extreme accuracy has called away the attention of
+      experimenters from points of far greater importance, and it seems to have
+      been too much overlooked in the present day, that genius marks its tract,
+      not by the observation of quantities inappreciable to any but the acutest
+      senses, but by placing Nature in such circumstances, that she is forced to
+      record her minutest variations on so magnified a scale, that an observer,
+      possessing ordinary faculties, shall find them legibly written. He who can
+      see portions of matter beyond the ken of the rest of his species, confers
+      an obligation on them, by recording what he sees; but their knowledge
+      depends both on his testimony and on his judgment. He who contrives a
+      method of rendering such atoms visible to ordinary observers, communicates
+      to mankind an instrument of discovery, and stamps his own observations
+      with a character, alike independent of testimony or of judgment.
+    
+
+
+ 
+
+
+
+</div></body></text></TEI>

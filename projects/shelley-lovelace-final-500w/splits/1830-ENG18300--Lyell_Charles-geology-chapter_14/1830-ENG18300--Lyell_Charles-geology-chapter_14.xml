@@ -1,0 +1,862 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Principles of Geology</title><author>Lyell, Charles (1797-1875)</author></titleStmt><publicationStmt><publisher>John Murray</publisher><pubPlace>London</pubPlace><date>1830</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="14">CHAPTER XIV.
+Division of the subject into changes of the organic and inorganic world—Inorganic
+causes of change divided into aqueous and igneous—Aqueous causes first
+considered—Fall of rain—Recent rain-prints in mud—Destroying and transporting
+power of running water—Newly formed valleys in Georgia—Sinuosities
+of rivers—Two streams when united do not occupy a bed of double surface—Inundations
+in Scotland—Floods caused by landslips in the White
+Mountains—Bursting
+of a lake in Switzerland—Devastations caused by the Anio at
+Tivoli—Excavations in the lavas of Etna by Sicilian rivers—Gorge of the
+Simeto—Gradual recession of the cataract of Niagara.
+Division of the subject.—Geology was defined to be the science
+which investigates the former changes that have taken place in the
+organic as well as in the inorganic kingdoms of nature. As vicissitudes
+in the inorganic world are most apparent, and as on them all fluctuations
+in the animate creation must in a great measure depend, they
+may claim our first consideration. The great agents of change in the
+inorganic world may be divided into two principal classes, the aqueous
+and the igneous. To the aqueous belong Rain, Rivers, Torrents,
+Springs, Currents, and Tides; to the igneous, Volcanoes, and Earthquakes.
+Both these classes are instruments of decay as well as of
+reproduction; but they may also be regarded as antagonist forces.
+For the aqueous agents are incessantly laboring to reduce the inequalities
+of the earth's surface to a level; while the igneous are equally
+active in restoring the unevenness of the external crust, partly by heaping
+up new matter in certain localities, and partly by depressing one
+portion, and forcing out another, of the earth's envelope.
+It is difficult, in a scientific arrangement, to give an accurate view
+of the combined effects of so many forces in simultaneous operation;
+because, when we consider them separately, we cannot easily estimate
+either the extent of their efficacy, or the kind of results which they
+produce. We are in danger, therefore, when we attempt to examine
+the influence exerted singly by each, of overlooking the modifications
+which they produce on one another; and these are so complicated,
+that sometimes the igneous and aqueous forces co-operate to produce
+a joint effect, to which neither of them unaided by the other could
+199
+give rise,—as when repeated earthquakes unite with running water
+to widen a valley; or when a thermal spring rises up from a great
+depth, and conveys the mineral ingredients with which it is impregnated
+from the interior of the earth to the surface. Sometimes the
+organic combine with the inorganic causes; as when a reef, composed
+of shells and corals, protects one line of coast from the destroying
+power of tides or currents, and turns them against some other point;
+or when drift timber, floated into a lake, fills a hollow to which the
+stream would not have had sufficient velocity to convey earthy sediment.
+It is necessary, however, to divide our observations on these various
+causes, and to classify them systematically, endeavoring as much as
+possible to keep in view that the effects in nature are mixed and not
+simple, as they may appear in an artificial arrangement.
+In treating, in the first place, of the aqueous causes, we may consider
+them under two divisions; first, those which are connected with
+the circulation of water from the land to the sea, under which are included
+all the phenomena of rain, rivers, glaciers, and springs; secondly,
+those which arise from the movements of water in lakes, seas, and
+the ocean, wherein are comprised the phenomena of waves, tides, and
+currents. In turning our attention to the former division, we find that
+the effects of rivers may be subdivided into, first, those of a destroying
+and transporting, and, secondly, those of a renovating nature; in the
+former are included the erosion of rocks and the transportation of matter
+to lower levels; in the renovating class, the formation of deltas by
+the influx of sediment, and the shallowing of seas; but these processes
+are so intimately related to each other, that it will not always be possible
+to consider them under their separate heads.
+Fall of Rain.—It is well known that the capacity of the atmosphere
+to absorb aqueous vapor, and hold it in suspension, increases with every
+increment of temperature. This capacity is also found to augment in a
+higher ratio than the augmentation of the heat. Hence, as was first
+suggested by the geologist, Dr. Hutton, when two volumes of air, of
+different temperatures, both saturated with moisture, mingle together,
+clouds and rain are produced, for a mean degree of heat having resulted
+from the union of the two moist airs, the excess of vapor previously
+held in suspension by the warmer of the two is given out, and if it be in
+sufficient abundance is precipitated in the form of rain.
+As the temperature of the atmosphere diminishes gradually from the
+equator towards the pole, the evaporation of water and the quantity of
+rain diminish also. According to Humboldt's computation, the average
+annual depth of rain at the equator is 96 inches, while in lat. 45°
+it is only 29 inches, and in lat. 60° not more than 17 inches. But
+there are so many disturbing causes, that the actual discharge, in any
+given locality, may deviate very widely from this rule. In England, for
+example, where the average fall at London is 24½ inches, as ascertained
+at the Greenwich Observatory, there is such irregularity in some districts,
+200
+that while at Whitehaven, in Cumberland, there fell in 1849, 32
+inches, the quantity of rain in Borrowdale, near Keswick (only 15 miles
+to the westward), was no less than 142 inches!262 In like manner, in
+India, Colonel Sykes found by observations made in 1847 and 1848,
+that at places situated between 17° and 18° north lat., on a line drawn
+across the Western Ghauts in the Deccan, the fall of rain varied from
+21 to 219 inches.263 The annual average in Bengal is probably below
+80 inches, yet Dr. G. Hooker witnessed at Churrapoonjee, in the year
+1850, a fall of 30 inches in 24 hours, and in the same place during a
+residence of six months (from June to November) 530 inches! This
+occurred on the south face of the Khasia (or Garrow) mountains in
+Eastern Bengal (see map, Chap. XVIII.), where the depth during the
+whole of the same year probably exceeded 600 inches. So extraordinary
+a discharge of water, which, as we shall presently see, is very local,
+may be thus accounted for. Warm, southerly winds, blowing over
+the Bay of Bengal, and becoming laden with vapor during their passage,
+reach the low level delta of the Ganges and Brahmapootra, where
+the ordinary heat exceeds that of the sea, and where evaporation is constantly
+going on from countless marshes and the arms of the great
+rivers. A mingling of two masses of damp air of different temperatures
+probably causes the fall of 70 or 80 inches of rain, which takes place
+on the plains. The monsoon having crossed the delta, impinges on the
+Khasia mountains, which rise abruptly from the plain to a mean elevation
+of between 4000 and 5000 feet. Here the wind not only encounters
+the cold air of the mountains, but, what is far more effective as a
+refrigerating cause, the aerial current is made to flow upwards, and to
+ascend to a height of several thousand feet above the sea. Both the
+air and the vapor contained in it, being thus relieved of much atmospheric
+pressure, expand suddenly, and are cooled by rarefaction. The
+vapor is condensed, and about 500 inches of rain are thrown down annually,
+nearly twenty times as much as falls in Great Britain in a year,
+and almost all of it poured down in six months. The channel of every
+torrent and river is swollen at this season, and much sandstone horizontally
+stratified, and other rocks are reduced to sand and gravel by the
+flooded streams. So great is the superficial waste (or denudation), that
+what would otherwise be a rich and luxuriantly wooded region, is converted
+into a wild and barren moorland.
+After the current of warm air has been thus drained of a large portion
+of its moisture, it still continues its northerly course to the opposite
+flank of the Khasia range, only 20 miles farther north, and here the
+fall of rain is reduced to 70 inches in the year. The same wind then
+blows northwards across the valley of the Brahmapootra, and at length
+arrives so dry and exhausted at the Bhootan Himalaya (lat. 28° N.), that
+those mountains, up to the height of 5000 feet, are naked and sterile,
+and all their outer valleys arid and dusty. The aerial current still continuing
+201
+its northerly course and ascending to a higher region, becomes
+further cooled, condensation again ensues, and Bhootan, above 5000
+feet, is densely clothed with vegetation.264
+In another part of India, immediately to the westward, similar phenomena
+are repeated. The same warm and humid winds, copiously
+charged with aqueous vapor from the Bay of Bengal, hold their course
+due north for 300 miles across the flat and hot plains of the Ganges,
+till they encounter the lofty Sikkim mountains. (See map, Chap.
+XVIII.) On the southern flank of these they discharge such a deluge
+of rain that the rivers in the rainy season rise twelve feet in as many
+hours. Numerous landslips, some of them extending three or four
+thousand feet along the face of the mountains, composed of granite,
+gneiss, and slate, descend into the beds of streams, and dam them up
+for a time, causing temporary lakes, which soon burst their barriers.
+"Day and night," says Dr. Hooker, "we heard the crashing of falling
+trees, and the sound of boulders thrown violently against each other in
+the beds of torrents. By such wear and tear rocky fragments swept
+down from the hills are in part converted into sand and fine mud; and
+the turbid Ganges, during its annual inundation, derives more of its
+sediment from this source than from the waste of the fine clay of the
+alluvial plains below.265
+On the verge of the tropics a greater quantity of rain falls annually
+than at the equator. Yet parts even of the tropical latitudes are entirely
+destitute of rain: Peru, for example, which owes its vegetation
+solely to rivers and nightly dews. In that country easterly winds prevail,
+blowing from the Pacific, and these being intercepted by the Andes,
+and cooled as they rise, are made to part with all their moisture before
+reaching the low region to the leeward. The desert zone of North
+Africa, between lat. 15° and 30° N., is another instance of a rainless
+region. Five or six consecutive years may pass in Upper Egypt, Nubia,
+and Dongola, or in the Desert of Sahara, without rain.
+From the facts above mentioned, the reader will infer that in the
+course of successive geological periods there will be great variations in
+the quantity of rain falling in one and the same region. At one time
+there may be none whatever during the whole year; at another a fall
+of 100 or 500 inches; and these two last averages may occur on the
+two opposite flanks of a mountain-chain, not more than 20 miles wide.
+While, therefore, the valleys in one district are widened and deepened
+annually, they may remain stationary in another, the superficial soil
+being protected from waste by a dense covering of vegetation. This
+diversity depends on many geographical circumstances, but principally
+on the height of the land above the sea, the direction of the prevailing
+winds, and the relative position, at the time being, of the plains, hills,
+and the ocean, conditions all of which are liable in the course of ages to
+undergo a complete revolution.
+202
+Recent rain-prints.—When examining, in 1842, the extensive mud-flats
+of Nova Scotia, which are exposed at low tide on the borders of
+the Bay of Fundy, I observed not only the foot-prints of birds which
+had recently passed over the mud, but also very distinct impressions of
+rain-drops. A peculiar combination of circumstances renders these
+mud-flats admirably fitted to receive and retain any markings which
+may happen to be made on their surface. The sediment with which
+the waters are charged is extremely fine, being derived from the destruction
+of cliffs of red sandstone and shale, and as the tides rise fifty feet
+and upwards, large areas are laid dry for nearly a fortnight between the
+spring and neap tides. In this interval the mud is baked in summer
+by a hot sun, so that it solidifies and becomes traversed by cracks,
+caused by shrinkage. Portions of the hardened mud between these
+cracks may then be taken up and removed without injury. On examining
+the edges of each slab, we observe numerous layers, formed by
+successive tides, each layer being usually very thin, sometimes only
+one-tenth of an inch thick. When a shower of rain falls, the highest
+portion of the mud-covered flat is usually too hard to receive any impressions;
+while that recently uncovered by the tide near the water's
+edge is too soft. Between these areas a zone occurs, almost as smooth
+and even as a looking-glass, on which every drop forms a cavity of circular
+or oval form, and, if the shower be transient, these pits retain
+their shape permanently, being dried by the sun, and being then too
+firm to be effaced by the action of the succeeding tide, which deposits
+upon them a new layer of mud. Hence we often find, in splitting open
+a slab an inch or more thick, on the upper surface of which the marks
+of recent rain occur, that an inferior layer, deposited during some previous
+rise of the tide, exhibits on its under side perfect casts of rain-prints,
+which stand out in relief, the moulds of the same being seen on
+the layer below. But in some cases, especially in the more sandy
+layers, the markings have been somewhat blunted by the tide, and by
+several rain-prints having been joined into one by a repetition of drops
+falling on the same spot; in which case the casts present a very irregular
+and blistered appearance.
+The finest examples which I have seen of these rain-prints were sent
+to me by Dr. Webster, from Kentville, on the borders of the Bay of
+Mines, in Nova Scotia. They were made by a heavy shower which
+fell on the 21st of July, 1849, when the rise and fall of the tides were
+at their maximum. The impressions (see fig. 13) consist of cup-shaped
+or hemispherical cavities, the average size of which is from one-eighth
+to one-tenth of an inch across, but the largest are fully half an inch in
+diameter, and one-tenth of an inch deep. The depth is chiefly below
+the general surface or plane of stratification, but the walls of the cavity
+consist partly of a prominent rim of sandy mud, formed of the matter
+which has been forcibly expelled from the pit. All the cavities having
+an oval form are deeper at one end, where they have also a higher rim,
+and all the deep ends have the same direction, showing towards which
+203
+quarter the wind was blowing. Two or more drops are sometimes seen
+to have interfered with each other; in which case it is usually possible
+to determine which drop fell last, its rim being unbroken.
+Fig. 13.
+Recent rain-prints, formed July 21, 1849, at Kentville, Bay of Fundy, Nova Scotia.
+The arrow represents the direction of the shower.
+On some of the specimens the winding tubular tracks of worms are
+seen, which have been bored just beneath the surface (see fig. 13, left
+side). They occasionally pass under the middle of a rain-mark, having
+been formed subsequently. Sometimes the worms have dived beneath
+the surface, and then reappeared. All these appearances, both of rain-prints
+and worm-tracks, are of great geological interest, as their exact
+counterparts are seen in rocks of various ages, even in formations of
+very high antiquity.266 Small cavities, often corresponding in size to
+those produced by rain, are also caused by air-bubbles rising up through
+sand or mud; but these differ in character from rain-prints, being usually
+deeper than they are wide, and having their sides steeper. These,
+indeed, are occasionally vertical, or overarching, the opening at the
+top being narrower than the pit below. In their mode, also, of mutual
+interference they are unlike rain-prints.267
+In consequence of the effects of mountains in cooling currents of moist
+air, and causing the condensation of aqueous vapor in the manner above
+described, it follows that in every country, as a general rule, the more
+elevated regions become perpetual reservoirs of water, which descends
+and irrigates the lower valleys and plains. The largest quantity of
+water is first carried to the highest region, and then made to descend
+by steep declivities towards the sea; so that it acquires superior velocity,
+and removes more soil, than it would do if the rain had been distributed
+over the plains and mountains equally in proportion to their relative
+204
+areas. The water is also made by these means to pass over the greatest
+distances before it can regain the sea.
+It has already been observed that in higher latitudes, where the atmosphere
+being colder is capable of holding less water in suspension,
+a diminished fall of rain takes place. Thus at St. Petersburg, the
+amount is only 16 inches, and at Uleaborg in the Gulf of Bothnia (N.
+lat. 65°), only 13½ inches, or less than half the average of England, and
+even this small quantity descends more slowly in the temperate zone,
+and is spread more equally over the year than in tropical climates. But
+in reference to geological changes, frost in the colder latitude acts as a
+compensating power in the disintegration of rocks, and the transportation
+of stones to lower levels.
+Water when converted into ice augments in bulk more than one-twentieth
+of its volume, and owing to this property it widens the minute
+crevices (or joints) of rocks into which it penetrates. Ice also in various
+ways, as will be shown in the next chapter, gives buoyancy to mud and
+sand, even to huge blocks of stone, enabling rivers of moderate size and
+velocity to carry them to a great distance.
+The mechanical force exerted by running water in undermining cliffs,
+and rounding off the angles of hard rock, is mainly due to the intermixture
+of foreign ingredients. Sand and pebbles, when hurried along by
+the violence of the stream, are thrown against every obstacle lying in
+their way, and thus a power of attrition is acquired, capable of wearing
+through the hardest siliceous stones, on which water alone could make
+no impression.
+Newly formed valleys.—When travelling in Georgia and Alabama, in
+1846, I saw in both those States the commencement of hundreds of
+valleys in places where the native forest had recently been removed.
+One of these newly formed gulleys or ravines is represented in the annexed
+woodcut (fig. 14), from a drawing which I made on the spot.
+It occurs three miles and a half due west of Milledgeville, the capital
+of Georgia, and is situated on the farm of Pomona, on the direct road
+to Macon.268
+Twenty years ago, before the land was cleared, it had no existence;
+but when the trees of the forest were cut down, cracks three feet deep
+were caused by the sun's heat in the clay; and, during the rains, a sudden
+rush of water through the principal crack deepened it at its lower
+extremity, from whence the excavating power worked backwards, till,
+in the course of twenty years, a chasm, measuring no less than 55 feet
+in depth, 300 yards in length, and varying in width from 20 to 180
+feet, was the result. The high road has been several times turned to
+avoid this cavity, the enlargement of which is still proceeding, and the
+old line of road may be seen to have held its course directly over what
+is now the wildest part of the ravine. In the perpendicular walls of this
+great chasm appear beds of clay and sand, red, white, yellow, and
+green, produced by the decomposition in situ of hornblendic gneiss, with
+layers and veins of quartz, which remain entire, to prove that the whole
+mass was once solid and crystalline.
+205
+Fig. 14.
+Ravine on the farm of Pomona, near Milledgeville, Georgia, as it appeared January, 1846.
+Excavated in twenty years, 55 feet deep, and 180 feet broad.
+I infer, from the rapidity of the denudation which only began here
+after the removal of the native wood, that this spot, elevated about
+600 feet above the sea, has been always covered with a dense forest,
+from the remote time when it first emerged from the sea. The termination
+of the cavity on the right hand in the foreground is the head
+or upper end of the ravine, and in almost every case, such gulleys are
+lengthened by the streams cutting their way backwards. The depth
+at the upper end is often, as in this case, considerable, and there is
+usually at this point, during floods, a small cascade.
+Sinuosities of rivers.—In proportion as such valleys are widened,
+sinuosities are caused by the deflection of the stream first to one side
+206
+and then to the other. The unequal hardness of the materials through
+which the channel is eroded tends partly to give new directions to the
+lateral force of excavation. When by these, or by accidental shiftings
+of the alluvial matter in the channel, the current is made to cross its
+general line of descent, it eats out a curve in the opposite bank, or in
+the side of the hills bounding the valley, from which curve it is turned
+back again at an equal angle, so that it recrosses the line of descent,
+and gradually hollows out another curve lower down in the opposite
+bank, till the whole sides of the valley, or river bed, present a succession
+of salient and retiring angles. Among the causes of deviation
+from a straight course, by which torrents and rivers tend in mountainous
+regions to widen the valleys through which they flow, may be mentioned
+the confluence of lateral torrents, swollen irregularly at different
+seasons by partial storms, and discharging at different times unequal
+quantities of sand, mud, and pebbles, into the main channel.
+Fig. 15.
+
+When the tortuous flexures of a river are extremely great, as often
+happens in alluvial plains, the aberration from the direct line of descent
+may be restored by the river cutting through the isthmus which separates
+two neighboring curves. Thus in the annexed diagram, the
+extreme sinuosity of the river has caused it to return for a brief space
+in a contrary direction to its main course, so that a peninsula is formed,
+and the isthmus (at a) is consumed on both sides by currents flowing in
+opposite directions. In this case an island is soon formed,—on either
+side of which a portion of the stream usually remains.
+Transporting power of water.—In regard to the transporting power
+of water, we may often be surprised at the facility with which
+streams of a small size, and descending a slight declivity, bear along
+coarse sand and gravel; for we usually estimate the weight of rocks
+in air, and do not reflect on their comparative buoyancy when submerged
+in a denser fluid. The specific gravity of many rocks is not
+more than twice that of water, and very rarely more than thrice, so
+that almost all the fragments propelled by a stream have lost a third,
+and many of them a half, of what we usually term their weight.
+It has been proved by experiment, in contradiction to the theories
+of the earlier writers on hydrostatics, to be a universal law, regulating
+the motion of running water, that the velocity at the bottom of the
+stream is everywhere less than in any part above it, and is greatest at
+the surface. Also that the superficial particles in the middle of the
+stream move swifter than those at the sides. This retardation of the
+lowest and lateral currents is produced by friction; and when the
+velocity is sufficiently great, the soil composing the sides and bottom
+207
+gives way. A velocity of three inches per second at the bottom is
+ascertained to be sufficient to tear up fine clay,—six inches per second,
+fine sand,—twelve inches per second, fine gravel,—and three feet per
+second, stones of the size of an egg.269
+When this mechanical power of running water is considered, we are
+prepared for the transportation before alluded to of large quantities of
+gravel, sand, and mud, by torrents which descend from mountainous
+regions. But a question naturally arises, How the more tranquil rivers
+of the valleys and plains, flowing on comparatively level ground, can
+remove the prodigious burden which is discharged into them by their
+numerous tributaries, and by what means they are enabled to convey
+the whole mass to the sea? If they had not this removing power,
+their channels would be annually choked up, and the valleys of the
+lower country, and plains at the base of mountain-chains, would be
+continually strewed over with fragments of rock and sterile sand. But
+this evil is prevented by a general law regulating the conduct of running
+water,—that two equal streams do not, when united, occupy a
+bed of double surface. Nay, the width of the principal river, after the
+junction of a tributary, sometimes remains the same as before, or is
+even lessened. The cause of this apparent paradox was long ago
+explained by the Italian writers, who had studied the confluence of the
+Po and its feeders in the plains of Lombardy.
+The addition of a smaller river augments the velocity of the main
+stream, often in the same proportion as it does the quantity of water.
+Thus the Venetian branch of the Po swallowed up the Ferranese
+branch and that of Panaro without any enlargement of its own dimensions.
+The cause of the greater velocity is, first, that after the union
+of two rivers the water, in place of the friction of four shores, has
+only that of two to surmount; 2dly, because the main body of the
+stream being farther distant from the banks, flows on with less interruption;
+and lastly, because a greater quantity of water moving more
+swiftly, digs deeper into the river's bed. By this beautiful adjustment,
+the water which drains the interior country is made continually to
+occupy less room as it approaches the sea; and thus the most valuable
+part of our continents, the rich deltas and great alluvial plains, are prevented
+from being constantly under water.
+River floods in Scotland, 1829.—Many remarkable illustrations of
+the power of running water in moving stones and heavy materials were
+afforded by the storm and floods which occurred on the 3d and 4th
+of August, 1829, in Aberdeenshire and other counties in Scotland.
+The elements during this storm assumed all the characters which mark
+the tropical hurricanes; the wind blowing in sudden gusts and whirlwinds,
+the lightning and thunder being such as is rarely witnessed in
+our climate, and heavy rain falling without intermission. The floods
+extended almost simultaneously, and with equal violence over that part
+208
+of the northeast of Scotland which would be cut off by two lines
+drawn from the head of Lochrannoch, one towards Inverness and the
+other to Stonehaven. The united line of the different rivers which
+were flooded, could not be less than from five to six hundred miles in
+length; and the whole of their courses were marked by the destruction
+of bridges, roads, crops, and buildings. Sir T. D. Lauder has
+recorded the destruction of thirty-eight bridges, and the entire obliteration
+of a great number of farms and hamlets. On the Nairn, a fragment
+of sandstone, fourteen feet long by three feet wide and one foot
+thick, was carried above 200 yards down the river. Some new ravines
+were formed on the sides of mountains where no streams had previously
+flowed, and ancient river-channels, which had never been filled from
+time immemorial, gave passage to a copious flood.270
+The bridge over the Dee at Ballater consisted of five arches, having
+upon the whole a water-way of 260 feet. The bed of the river, on which
+the piers rested, was composed of rolled pieces of granite and gneiss.
+The bridge was built of granite, and had stood uninjured for twenty
+years; but the different parts were swept away in succession by the
+flood, and the whole mass of masonry disappeared in the bed of the
+river. "The river Don," observes Mr. Farquharson, in his account of
+the inundations, "has upon my own premises forced a mass of four or
+five hundred tons of stones, many of them two or three hundred pounds'
+weight, up an inclined plane, rising six feet in eight or ten yards, and
+left them in a rectangular heap, about three feet deep on a flat ground:—the
+heap ends abruptly at its lower extremity."271
+The power even of a small rivulet, when swollen by rain, in removing
+heavy bodies, was exemplified in August, 1827, in the College, a
+small stream which flows at a slight declivity from the eastern watershed
+of the Cheviot Hills. Several thousand tons' weight of gravel and
+sand were transported to the plain of the Till, and a bridge, then in
+progress of building, was carried away, some of the arch-stones of
+which, weighing from half to three quarters of a ton each, were propelled
+two miles down the rivulet. On the same occasion, the current
+tore away from the abutment of a mill-dam a large block of greenstone-porphyry,
+weighing nearly two tons, and transported it to the distance
+of a quarter of a mile. Instances are related as occurring repeatedly,
+in which from one to three thousand tons of gravel are, in like manner,
+removed by this streamlet to still greater distances in one day.272
+Floods caused by landslips, 1826.—The power which running water
+may exert in the lapse of ages, in widening and deepening a valley,
+does not so much depend on the volume and velocity of the stream
+usually flowing in it, as on the number and magnitude of the obstructions
+which have, at different periods, opposed its free passage. If a
+torrent, however small, be effectually dammed up, the size of the valley
+209
+above the barrier, and its declivity below, and not the dimensions of
+the torrent, will determine the violence of the débâcle. The most universal
+source of local deluges, are landslips, slides, or avalanches, as
+they are sometimes called, when great masses of rock and soil, or sometimes
+ice and snow, are precipitated into the bed of a river, the boundary
+cliffs of which have been thrown down by the shock of an earthquake,
+or undermined by springs or other causes. Volumes might be
+filled with the enumeration of instances on record of these terrific catastrophes;
+I shall therefore select a few examples of recent occurrence,
+the facts of which are well authenticated.
+Two dry seasons in the White Mountains, in New Hampshire (United
+States), were followed by heavy rains on the 28th August, 1826, when
+from the steep and lofty declivities which rise abruptly on both sides of
+the river Saco, innumerable rocks and stones, many of sufficient size to
+fill a common apartment, were detached, and in their descent swept
+down before them, in one promiscuous and frightful ruin, forests, shrubs,
+and the earth which sustained them. Although there are numerous
+indications on the steep sides of these hills of former slides of the same
+kind, yet no tradition had been handed down of any similar catastrophe
+within the memory of man, and the growth of the forest on the very
+spots now devastated, clearly showed that for a long interval nothing
+similar had occurred. One of these moving masses was afterwards
+found to have slid three miles, with an average breadth of a quarter of
+a mile. The natural excavations commenced generally in a trench a few
+yards in depth and a few rods in width, and descended the mountains,
+widening and deepening till they became vast chasms. At the base of
+these hollow ravines was seen a confused mass of ruins, consisting of
+transported earth, gravel, rocks, and trees. Forests of spruce-fir and
+hemlock, a kind of fir somewhat resembling our yew in foliage, were
+prostrated with as much ease as if they had been fields of grain; for,
+where they disputed the ground, the torrent of mud and rock accumulated
+behind, till it gathered sufficient force to burst the temporary barrier.
+The valleys of the Amonoosuck and Saco presented, for many miles,
+an uninterrupted scene of desolation; all the bridges being carried away,
+as well as those over their tributary streams. In some places, the road
+was excavated to the depth of from fifteen to twenty feet; in others, it
+was covered with earth, rocks, and trees, to as great a height. The
+water flowed for many weeks after the flood, as densely charged with
+earth as it could be without being changed into mud, and marks were
+seen in various localities of its having risen on either side of the valley to
+more than twenty-five feet above its ordinary level. Many sheep and
+cattle were swept away, and the Willey family, nine in number, who in
+alarm had deserted their house, were destroyed on the banks of the
+Saco; seven of their mangled bodies were afterwards found near the
+river, buried beneath drift-wood and mountain ruins.273 Eleven years
+210
+after the event, the deep channels worn by the avalanches of mud and
+stone, and the immense heaps of boulders and blocks of granite in the
+river channel, still formed, says Professor Hubbard, a picturesque feature
+in the scenery.274
+When I visited the country in 1845, eight years after Professor
+Hubbard, I found the signs of devastation still very striking; I also particularly
+remarked that although the surface of the bare granitic rocks
+had been smoothed by the passage over them of so much mud and stone,
+there were no continuous parallel and rectilinear furrows, nor any of the
+fine scratches or striæ which characterize glacial action. The absence
+of these is nowhere more clearly exemplified than in the bare rocks over
+which passed the great "Willey slide" of 1826.275
+But the catastrophes in the White Mountains are insignificant, when
+compared to those which are occasioned by earthquakes, when the
+boundary hills, for miles in length, are thrown down into the hollow of
+a valley. I shall have opportunities of alluding to inundations of this
+kind, when treating expressly of earthquakes, and shall content myself
+at present with selecting an example of a flood due to a different cause.
+Flood in the valley of Bagnes, 1818.—The valley of Bagnes is one of
+the largest of the lateral embranchments of the main valley of the Rhone,
+above the Lake of Geneva. Its upper portion was, in 1818, converted
+into a lake by the damming up of a narrow pass, by avalanches of snow
+and ice, precipitated from an elevated glacier into the bed of the river
+Dranse. In the winter season, during continued frost, scarcely any
+water flows in the bed of this river to preserve an open channel, so that
+the ice barrier remained entire until the melting of the snows in spring,
+when a lake was formed above, about half a league in length, which
+finally attained in some parts a depth of about two hundred feet, and a
+width of about seven hundred feet. To prevent or lessen the mischief
+apprehended from the sudden bursting of the barrier, an artificial gallery,
+seven hundred feet in length, was cut through the ice, before the waters
+had risen to a great height. When at length they accumulated and
+flowed through this tunnel, they dissolved the ice, and thus deepened
+their channel, until nearly half of the whole contents of the lake were
+slowly drained off. But at length, on the approach of the hot season,
+the central portion of the remaining mass of ice gave way with a tremendous
+crash, and the residue of the lake was emptied in half an hour.
+In the course of its descent, the waters encountered several narrow
+gorges, and at each of these they rose to a great height, and then burst
+with new violence into the next basin, sweeping along rocks, forests,
+houses, bridges, and cultivated land. For the greater part of its course
+the flood resembled a moving mass of rock and mud, rather than of
+water. Some fragments of granitic rocks, of enormous magnitude, and
+which from their dimensions, might be compared without exaggeration
+211
+to houses, were torn out of a more ancient alluvion, and borne down
+for a quarter of a mile. One of the fragments moved was sixty paces
+in circumference.276 The velocity of the water, in the first part of its
+course, was thirty-three feet per second, which diminished to six feet
+before it reached the Lake of Geneva, where it arrived in six hours and
+a half, the distance being forty-five miles.277
+This flood left behind it, on the plains of Martigny, thousands of trees
+torn up by the roots, together with the ruins of buildings. Some of the
+houses in that town were filled with mud up to the second story. After
+expanding in the plain of Martigny, it entered the Rhone, and did no
+farther damage; but some bodies of men, who had been drowned above
+Martigny, were afterwards found, at the distance of about thirty miles,
+floating on the farther side of the Lake of Geneva, near Vevay.
+The waters, on escaping from the temporary lake, intermixed with
+mud and rock, swept along, for the first four miles, at the rate of above
+twenty miles an hour; and M. Escher, the engineer, calculated that the
+flood furnished 300,000 cubic feet of water every second—an efflux
+which is five times greater than that of the Rhine below Basle. Now,
+if part of the lake had not been gradually drained off, the flood would
+have been nearly double, approaching in volume to some of the largest
+rivers in Europe. It is evident, therefore, that when we are speculating
+on the excavating force which a river may have exerted in any particular
+valley, the most important question is, not the volume of the existing
+stream, nor the present levels of its channel, nor even the nature of the
+rocks, but the probability of a succession of floods at some period since
+the time when the valley may have been first elevated above the sea.
+For several months after the débâcle of 1818, the Dranse, having no
+settled channel, shifted its position continually from one side to the
+other of the valley, carrying away newly-erected bridges, undermining
+houses, and continuing to be charged with as large a quantity of earthy
+matter as the fluid could hold in suspension. I visited this valley four
+months after the flood, and was witness to the sweeping away of a
+bridge, and the undermining of part of a house. The greater part of
+the ice-barrier was then standing, presenting vertical cliffs 150 feet high,
+like ravines in the lava-currents of Etna or Auvergne, where they are
+intersected by rivers.
+Inundations, precisely similar, are recorded to have occurred at former
+periods in this district, and from the same cause. In 1595, for example,
+a lake burst, and the waters, descending with irresistible fury,
+destroyed the town of Martigny, where from sixty to eighty persons
+perished. In a similar flood, fifty years before, 140 persons were
+drowned.
+Flood at Tivoli, 1826.—I shall conclude with one more example
+derived from a land of classic recollections, the ancient Tibur, and which,
+212
+like all the other inundations above alluded to, occurred within the
+present century. The younger Pliny, it will be remembered, describes
+a flood on the Anio, which destroyed woods, rocks, and houses, with
+the most sumptuous villas and works of arts.278 For four or five centuries
+consecutively, this "headlong stream," as Horace truly called it,
+has often remained within its bounds, and then, after so long an interval
+of rest, has at different periods inundated its banks again, and widened
+its channel. The last of these catastrophes happened 15th Nov. 1826,
+after heavy rains, such as produced the floods before alluded to in Scotland.
+The waters appear also to have been impeded by an artificial
+dike, by which they were separated into two parts, a short distance
+above Tivoli. They broke through this dike; and leaving the left trench
+dry, precipitated themselves, with their whole weight, on the right side.
+Here they undermined, in the course of a few hours, a high cliff, and
+widened the river's channel about fifteen paces. On this height stood
+the church of St. Lucia, and about thirty-six houses of the town of
+Tivoli, which were all carried away, presenting as they sank into the
+roaring flood, a terrific scene of destruction to the spectators on the opposite
+bank. As the foundations were gradually removed, each building,
+some of them edifices of considerable height, was first traversed
+with numerous rents, which soon widened into large fissures, until at
+length the roofs fell in with a crash, and then the walls sunk into the
+river, and were hurled down the cataract below.279
+The destroying agency of the flood came within two hundred yards
+of the precipice on which the beautiful temple of Vesta stands; but
+fortunately this precious relic of antiquity was spared, while the wreck
+of modern structures was hurled down the abyss. Vesta, it will be
+remembered, in the heathen mythology, personified the stability of the
+earth; and when the Samian astronomer, Aristarchus, first taught that
+the earth revolved on its axis, and round the sun, he was publicly accused
+of impiety, "for removing the everlasting Vesta from her place."
+Playfair observed, that when Hutton ascribed instability to the earth's
+surface, and represented the continents which we inhabit as the theatre
+of incessant change and movement, his antagonists, who regarded them
+as unalterable, assailed him in a similar manner with accusations founded
+on religious prejudices.280 We might appeal to the excavating power of
+the Anio as corroborative of one of the most controverted parts of the
+Huttonian theory; and if the days of omens had not gone by, the geologists
+who now worship Vesta might regard the late catastrophe as
+portentous. We may, at least, recommend the modern votaries of the
+goddess to lose no time in making a pilgrimage to her shrine, for the
+next flood may not respect the temple.
+Excavation of rocks by running water.—The rapidity with which
+213
+even the smallest streams hollow out deep channels in soft and destructible
+soils is remarkably exemplified in volcanic countries, where the sand
+and half-consolidated tuffs opposed but a slight resistance to the torrents
+which descend the mountain-side. After the heavy rains which followed
+the eruption of Vesuvius in 1824, the water flowing from the Atrio del
+Cavallo cut, in three days, a new chasm through strata of tuff and
+ejected volcanic matter, to the depth of twenty-five feet. I found the
+old mule-road, in 1828, intersected by this new ravine.
+The gradual erosion of deep chasms through some of the hardest rocks,
+by the constant passage of running water, charged with foreign matter,
+is another phenomenon of which striking examples may be adduced.
+Illustrations of this excavating power are presented by many valleys in
+central France where the channels of rivers have been barred up by
+solid currents of lava, through which the streams have re-excavated a
+passage, to the depth of from twenty to seventy feet and upwards, and
+often of great width. In these cases there are decisive proofs that
+neither the sea, nor any denuding wave or extraordinary body of water,
+has passed over the spot since the melted lava was consolidated. Every
+hypothesis of the intervention of sudden and violent agency is entirely
+excluded, because the cones of loose scoriæ, out of which the lavas
+flowed, are oftentimes at no great elevation above the rivers, and have
+remained undisturbed during the whole period which has been sufficient
+for the hollowing out of such enormous ravines.
+Recent excavation by the Simeto.—But I shall at present confine myself
+to examples derived from events which have happened since the
+time of history.
+Fig. 16.
+Recent excavation of lava at the foot of Etna by the river Simeto.
+At the western base of Etna, a current of lava (A A, fig. 16), descending
+from near the summit of the great volcano, has flowed to the
+distance of five or six miles, and then reached the alluvial plain of the
+Simeto, the largest of the Sicilian rivers, which skirts the base of Etna,
+and falls into the sea a few miles south of Catania. The lava entered
+the river about three miles above the town of Aderno, and not only occupied
+its channel for some distance, but, crossing to the opposite side
+of the valley, accumulated there in a rocky mass. Gemmellaro gives
+the year 1603 as the date of the eruption.281 The appearance of the
+214
+current clearly proves, that it is one of the most modern of those of
+Etna; for it has not been covered or crossed by subsequent streams or
+ejections, and the olives which had been planted on its surface were all
+of small size, when I examined the spot in 1828, yet they were older
+than the natural wood on the same lava. In the course, therefore, of
+about two centuries, the Simeto has eroded a passage from fifty to several
+hundred feet wide, and in some parts from forty to fifty feet deep.
+The portion of lava cut through is in no part porous or scoriaceous,
+but consists of a compact homogeneous mass of hard blue rock, somewhat
+inferior in weight to ordinary basalt, and containing crystals of
+olivine and glassy felspar. The general declivity of this part of the bed
+of the Simeto is not considerable; but, in consequence of the unequal
+waste of the lava, two water-falls occur at Passo Manzanelli, each about
+six feet in height. Here the chasm (B, fig. 16) is about forty feet deep,
+and only fifty broad.
+The sand and pebbles in the river-bed consist chiefly of a brown
+quartzose sandstone, derived from the upper country; but the materials
+of the volcanic rock itself must have greatly assisted the attrition. This
+river, like the Caltabiano on the eastern side of Etna, has not yet cut
+down to the ancient bed of which it was dispossessed, and of which
+the probable position is indicated in the annexed diagram (C, fig. 16).
+On entering the narrow ravine where the water foams down the two
+cataracts, we are entirely shut out from all view of the surrounding
+country; and a geologist who is accustomed to associate the characteristic
+features of the landscape with the relative age of certain rocks, can
+scarcely dissuade himself from the belief that he is contemplating a
+scene in some rocky gorge of a primary district. The external forms of
+the hard blue lava are as massive as any of the most ancient trap-rocks
+of Scotland. The solid surface is in some parts smoothed and almost
+polished by attrition, and covered in others with a white lichen, which
+imparts to it an air of extreme antiquity, so as greatly to heighten the
+delusion. But the moment we reascend the cliff the spell is broken;
+for we scarcely recede a few paces, before the ravine and river disappear,
+and we stand on the black and rugged surface of a vast current of
+lava, which seems unbroken, and which we can trace up nearly to the
+distant summit of that majestic cone which Pindar called "the pillar of
+heaven," and which still continues to send forth a fleecy wreath of vapor,
+reminding us that its fires are not extinct, and that it may again
+give out a rocky stream, wherein other scenes like that now described
+may present themselves to future observers.
+215
+
+
+Fig. 17.
+Lake Erie.
+The Falls.
+ 
+
+
+
+Limestone Shale.
+
+Lewiston.
+Niagara River.
+Queenstown.
+ 
+
+
+Falls of Niagara.—The falls of Niagara afford a magnificent example
+of the progressive excavation of a deep valley in solid rock. That
+river flows over a flat table-land, in a depression of which Lake Erie
+is situated. Where it issues from the lake, it is nearly a mile in width,
+and 330 feet above Lake Ontario, which is about 30 miles distant. For
+the first fifteen miles below Lake Erie the surrounding country, comprising
+Upper Canada on the west, and the state of New York on the
+216
+east, is almost on a level with its banks, and nowhere more than thirty
+or forty feet above them.282 (See fig. 17.) The river being occasionally
+interspersed with low wooded islands, and having sometimes a width of
+three miles, glides along at first with a clear, smooth, and tranquil current,
+falling only fifteen feet in as many miles, and in this part of its
+course resembling an arm of Lake Erie. But its character is afterwards
+entirely changed, on approaching the Rapids, where it begins to rush
+and foam over a rocky and uneven limestone bottom, for the space of
+nearly a mile, till at length it is thrown down perpendicularly 165 feet
+at the Falls. Here the river is divided into two sheets of water by an
+island, the largest cataract being more than a third of a mile broad, the
+smaller one having a breadth of six hundred feet. When the water has
+precipitated itself into an unfathomable pool, it rushes with great velocity
+down the sloping bottom of a narrow chasm, for a distance of
+seven miles. This ravine varies from 200 to 400 yards in width from
+cliff to cliff; contrasting, therefore, strongly in its breadth with that of
+the river above. Its depth is from 200 to 300 feet, and it intersects
+for about seven miles the table-land before described, which terminates
+suddenly at Queenstown in an escarpment or long line of inland cliff
+facing northwards, towards Lake Ontario. The Niagara, on reaching
+the escarpment and issuing from the gorge, enters the flat country,
+which is so nearly on a level with Lake Ontario, that there is only a fall
+of about four feet in the seven additional miles which intervene between
+Queenstown and the shores of that lake.
+It has long been the popular belief that the Niagara once flowed in a
+shallow valley across the whole platform, from the present site of the
+Falls to the escarpment (called the Queenstown heights), where it is
+supposed that the cataract was first situated, and that the river has
+been slowly eating its way backwards through the rocks for the distance
+of seven miles. This hypothesis naturally suggests itself to every
+observer, who sees the narrowness of the gorge at its termination, and
+throughout its whole course, as far up as the Falls, above which
+point the river expands as before stated. The boundary cliffs of the
+ravine are usually perpendicular, and in many places undermined on
+one side by the impetuous stream. The uppermost rock of the table-land
+at the Falls consists of hard limestone (a member of the Silurian
+series), about ninety feet thick, beneath which lie soft shales of
+equal thickness, continually undermined by the action of the spray,
+which rises from the pool into which so large a body of water is projected,
+and is driven violently by gusts of wind against the base of the
+217
+precipice. In consequence of this action, and that of frost, the shale
+disintegrates and crumbles away, and portions of the incumbent rock
+overhang 40 feet, and often when unsupported tumble down, so that
+the Falls do not remain absolutely stationary at the same spot, even for
+half a century. Accounts have come down to us, from the earliest period
+of observation, of the frequent destruction of these rocks, and the
+sudden descent of huge fragments in 1818 and 1828, are said to have
+shaken the adjacent country like an earthquake. The earliest travellers,
+Hennepin and Kalm, who in 1678 and 1751 visited the Falls, and
+published views of them, attest the fact, that the rocks have been suffering
+from dilapidation for more than a century and a half, and that
+some slight changes, even in the scenery of the cataract have been
+brought about within that time. The idea, therefore, of perpetual and
+progressive waste is constantly present to the mind of every beholder;
+and as that part of the chasm, which has been the work of the last
+hundred and fifty years resembles precisely, in depth, width, and character,
+the rest of the gorge which extends seven miles below, it is most
+natural to infer, that the entire ravine has been hollowed out in the same
+manner, by the recession of the cataract.
+It must at least be conceded, that the river supplies an adequate
+cause for executing the whole task thus assigned to it, provided we
+grant sufficient time for its completion. As this part of the country
+was a wilderness till near the end of the last century, we can obtain
+no accurate data for estimating the exact rate at which the cataract has
+been receding. Mr. Bakewell, son of the eminent geologist of that
+name, who visited the Niagara in 1829, made the first attempt to calculate
+from the observations of one who had lived forty years at the
+Falls, and who had been the first settler there, that the cataract had
+during that period gone back about a yard annually. But after the
+most careful inquiries which I was able to make, during my visit to
+the spot in 1841-2, I came to the conclusion that the average of one
+foot a year would be a much more probable conjecture. In that case,
+it would have required thirty-five thousand years for the retreat of the
+Falls, from the escarpment of Queenstown to their present site. It
+seems by no means improbable that such a result would be no exaggeration
+of the truth, although we cannot assume that the retrograde
+movement has been uniform. An examination of the geological structure
+of the district, as laid open in the ravine, shows that at every step
+in the process of excavation, the height of the precipice, the hardness
+of the materials at its base, and the quantity of fallen matter to be
+removed, must have varied. At some points it may have receded much
+faster than at present, but in general its progress was probably slower,
+because the cataract, when it began to recede, must have had nearly
+twice its present height.
+From observations made by me in 1841, when I had the advantage
+of being accompanied by Mr. Hall, state geologist of New York, and
+in 1842, when I re-examined the Niagara district, I obtained
+geological218
+evidence of the former existence of an old river-bed, which, I have
+no doubt, indicates the original channel through which the waters once
+flowed from the Falls to Queenstown, at the height of nearly three
+hundred feet above the bottom of the present gorge. The geological
+monuments alluded to, consist of patches of sand and gravel, forty feet
+thick, containing fluviatile shells of the genera Unio, Cyclas, Melania,
+&c., such as now inhabit the waters of the Niagara above the Falls.
+The identity of the fossil species with the recent is unquestionable, and
+these freshwater deposits occur at the edge of the cliffs bounding the
+ravine, so that they prove the former extension of an elevated shallow
+valley, four miles below the falls, a distinct prolongation of that now
+occupied by the Niagara, in the elevated region intervening between
+Lake Erie and the Falls. Whatever theory be framed for the hollowing
+out of the ravine further down, or for the three miles which intervene
+between the whirlpool and Queenstown, it will always be necessary
+to suppose the former existence of a barrier of rock, not of loose and
+destructible materials, such as those composing the drift in this district,
+somewhere immediately below the whirlpool. By that barrier the
+waters were held back for ages, when the fluviatile deposit, 40 feet in
+thickness, and 250 feet above the present channel of the river, originated.
+If we are led by this evidence to admit that the cataract has
+cut back its way for four miles, we can have little hesitation in referring
+the excavation of the remaining three miles below to a like agency, the
+shape of the chasm being precisely similar.
+There have been many speculations respecting the future recession
+of the Falls, and the deluge that might be occasioned by the sudden
+escape of the waters of Lake Erie, if the ravine should ever be prolonged
+16 miles backwards. But a more accurate knowledge of the
+geological succession of the rocks, brought to light by the State Survey,
+has satisfied every geologist that the Falls would diminish gradually
+in height before they travelled back two miles, and in consequence
+of a gentle dip of the strata to the south, the massive limestone now at
+the top would then be at their base, and would retard, and perhaps put
+an effectual stop to, the excavating process.
+
+219</div></body></text></TEI>

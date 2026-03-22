@@ -1,0 +1,55 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Philosophy of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="23">
+
+CHAPTER XIII.
+The Doctrine of Motion.
+
+
+1. Pure Mechanism.—The doctrine of Motion, of which
+we have here to speak, is that in which motion is considered
+quite independently of its cause, force; for all
+consideration of force belongs to a class of ideas entirely
+different from those with which we are here concerned. In
+this view it may be termed the pure doctrine of
+motion, since it has to do solely with space and time, which
+are the subjects of pure mathematics. (See c. i. of this
+book.) Although the doctrine of motion in connexion with
+force, which is the subject of mechanics, is by far the most
+important form in which the consideration of motion enters
+into the formation of our sciences, the Pure Doctrine of
+Motion, which treats of space, time, and velocity, might be
+followed out so as to give rise to a very considerable and
+curious body of science. Such a science is the science of
+Mechanism, independent of force, and considered as the
+solution of a problem which may be thus enunciated: ‘To
+communicate any given motion from a first mover to a given
+body.’ The science which should have for its object to solve
+all the various cases into which this problem would ramify,
+might be termed Pure Mechanism, in contradistinction
+to Mechanics Proper, or Machinery, in which
+Force is taken into consideration. The greater part of the
+machines which have been constructed for use in manufactures
+have been practical solutions of some of the cases of this
+problem. We have also important contributions to such a
+science in the works of Mathematicians; for example, the
+various investigations and demonstrations which have been
+published respecting the form of the Teeth 157 of Wheels,
+and Mr. Babbage’s memoir15 on the Language of Machinery.
+There are also several works which contain collections of
+the mechanical contrivances which have been invented for the
+purpose of transmitting and modifying motion, and these
+works may be considered as treatises on the science of Pure
+Mechanism. But this science has not yet been reduced to the
+systematic simplicity which is desirable, nor indeed
+generally recognized as a separate science. It has been
+confounded, under the common name of Mechanics, with
+the other science, Mechanics Proper, or Machinery, which
+considers the effect of force transmitted by
+Mechanism from one part of a material combination to
+another. For example, the Mechanical Powers, as they
+are usually termed, (the Lever, the Wheel and Axle, the
+Inclined Plane, the Wedge, and the Screw,) have almost
+always been treated with reference to the relation between
+the Power and the Weight, and not primarily as
+a mode of changing the velocity and kind of the motion. The
+science of pure motion has not generally been separated from
+the science of motion viewed with reference to its causes.</div></body></text></TEI>

@@ -1,0 +1,1435 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Sketch of the Analytical Engine with Notes by the Translator</title><author>Menabrea, Luigi; Lovelace, Ada</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1843</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="9">
+NOTE G.—Page 24.
+It is desirable to guard against the possibility of exaggerated
+ideas that might arise as to the powers of the Analytical Engine. In
+considering any new subject, there is frequently a tendency, first, to
+overrate what we find to be already interesting or remarkable;
+and, secondly, by a sort of natural reaction, to undervalue
+the true state of the case, when we do discover that our notions have
+surpassed those that were really tenable.
+The Analytical Engine has no pretensions whatever to originate
+any thing. It can do whatever we know how to order it to
+perform. It can follow analysis; but it has no power of
+anticipating any analytical relations or truths. Its province
+is to assist us in making available what we are already
+acquainted with. This it is calculated to effect primarily and chiefly
+of course, through its executive faculties; but it is likely to exert
+an indirect and reciprocal influence on science itself in
+another manner. For, in so distributing and combining the truths and
+the formulæ of analysis, that they may become most easily and rapidly
+amenable to the mechanical combinations of the engine, the relations
+and the nature of many subjects in that science are necessarily thrown
+into new lights, and more profoundly investigated. This is a decidedly
+indirect, and a somewhat speculative, consequence of such an
+invention. It is however pretty evident, on general principles, that
+in devising for mathematical truths a new form in which to record and
+throw themselves out for actual use, views are likely to be induced,
+which should again react on the more theoretical phase of the subject.
+There are in all extensions of human power, or additions to human
+[Pg 57]
+knowledge, various collateral influences, besides the main and
+primary object attained.
+To return to the executive faculties of this engine: the question must
+arise in every mind, are they really even able to follow
+analysis in its whole extent? No reply, entirely satisfactory to all
+minds, can be given to this query, excepting the actual existence of
+the engine, and actual experience of its practical results. We will
+however sum up for each reader’s consideration the chief elements with
+which the engine works:—
+1. It performs the four operations of simple arithmetic upon any
+numbers whatever.
+2. By means of certain artifices and arrangements (upon which we
+cannot enter within the restricted space which such a publication
+as the present may admit of), there is no limit either to the
+magnitude of the numbers used, or to the number of
+quantities (either variables or constants) that may be employed.
+3. It can combine these numbers and these quantities either
+algebraically or arithmetically, in relations unlimited as to variety,
+extent, or complexity.
+4. It uses algebraic signs according to their proper laws, and
+developes the logical consequences of these laws.
+5. It can arbitrarily substitute any formula for any other; effacing
+the first from the columns on which it is represented, and making the
+second appear in its stead.
+6. It can provide for singular values. Its power of doing this is
+referred to in M. Menabrea’s memoir, page 20, where he mentions the
+passage of values through zero and infinity. The practicability of
+causing it arbitrarily to change its processes at any moment, on the
+occurrence of any specified contingency (of which its substitution of
+
+for () explained in Note E.,
+is in some degree an illustration), at once secures this point.
+The subject of integration and of differentiation demands some notice.
+The engine can effect these processes in either of two ways:—
+First. We may order it, by means of the Operation and of the
+Variable-cards, to go through the various steps by which the required
+limit can be worked out for whatever function is under
+consideration.
+Secondly. It may (if we know the form of the limit for the function
+in question) effect the integration or differentiation by direct[28]
+substitution. We remarked in Note B., that any set of columns
+[Pg 58]
+on which numbers are inscribed, represents merely a general
+function of the several quantities, until the special function
+have been impressed by means of the Operation and Variable-cards.
+Consequently, if instead of requiring the value of the function, we
+require that of its integral, or of its differential coefficient, we
+have merely to order whatever particular combination of the ingredient
+quantities may constitute that integral or that coefficient. In
+, for instance, instead of the quantities
+
+
+
+
+
+
+
+
+
+
+
+
+
+being ordered to appear on  in the combination
+, they would be ordered to appear in that of
+
+
+They would then stand thus:—
+
+
+
+
+
+
+
+
+
+
+
+
+Similarly, we might have , the integral of
+.
+An interesting example for following out the processes of the engine
+would be such a form as
+
+or any other cases of integration by successive reductions, where an
+integral which contains an operation repeated  times can be made
+to depend upon another which contains the same  or 
+times, and so on until by continued reduction we arrive at a certain
+ultimate form, whose value has then to be determined.
+The methods in Arbogat’s Calcul des Dérivations are peculiarly
+fitted for the notation and the processes of the engine. Likewise the
+whole of the Combinatorial Analysis, which consists first in a purely
+numerical calculation of indices, and secondly in the distribution and
+combination of the quantities according to laws prescribed by these
+indices.
+We will terminate these Notes by following up in detail the steps
+through which the engine could compute the Numbers of Bernoulli, this
+being (in the form in which we shall deduce it) a rather complicated
+example of its powers. The simplest manner of computing those numbers
+would be from the direct expansion of
+[Pg 59]
+which is in fact a particular case of the development of
+
+mentioned in Note E. Or again, we might compute them from the
+well-known form
+
+or from the form
+
+or from many others. As however our object is not simplicity or
+facility of computation, but the illustration of the powers of the
+engine, we prefer selecting the formula below, marked (8.). This is
+derived in the following manner:—
+If in the equation
+
+(in which ,  ..., &c. are the
+Numbers of Bernoulli), we expand the denominator of the first side in
+powers of , and then divide both numerator and denominator by
+, we shall derive
+
+If this latter multiplication be actually performed, we shall have a
+series of the general form
+
+in which we see, first, that all the coefficients of the powers of
+ are severally equal to zero; and secondly, that the general form
+for  the coefficient of the 2()th term
+(that is of  even any power of ), is the
+following:—
+
+[Pg 60]
+Multiplying every term by () we have
+
+which it may be convenient to write under the general form:—
+
+, , &c. being those functions of  which respectively belong to
+, , &c.
+We might have derived a form nearly similar to (8.), from
+ the coefficient of any odd power of
+ in (6.); but the general form is a little different for the
+coefficients of the odd powers, and not quite so convenient.
+On examining (7.) and (8.), we perceive that, when these formulæ
+are isolated from (6.) whence they are derived, and considered in
+themselves separately and independently,  may be any whole
+number whatever; although when (7.) occurs as one of the
+’s in (6.), it is obvious that  is then not
+arbitrary, but is always a certain function of the distance of
+that  from the beginning. If that distance be
+= , then
+
+It is with the independent formula (8.) that we have to do.
+Therefore it must be remembered that the conditions for the value of
+ are now modified, and that  is a perfectly arbitrary
+whole number. This circumstance, combined with the fact (which we may
+easily perceive) that whatever  is, every term of (8.) after the
+()th is = 0, and that the ()th term itself is always
+ enables us
+to find the value (either numerical or algebraical) of any th
+Number of Bernoulli , in terms of all the
+preceding ones, if we but know the values of ,
+ ... . We append to this Note
+a Diagram and Table, containing the details of the computation for
+, (, , 
+being supposed given).
+On attentively considering (8.), we shall likewise perceive that we
+may derive from it the numerical value of every Number of Bernoulli
+in succession, from the very beginning, ad infinitum, by the
+following series of computations:—
+1st Series.—Let , and calculate (8.) for this value of .
+The result is .
+2nd Series.—Let . Calculate (8.) for this value of 
+substituting the value of , just obtained. The result
+is .
+3rd Series.—Let . Calculate (8.) for this value of ,
+substituting the values of ,  before
+obtained. The result is . And so on, to any extent.
+The diagram[30] represents the columns of the engine when just
+[Pg 61]
+prepared for computing , (in the case of );
+while the table beneath them presents a complete simultaneous
+view of all the successive changes which these columns then severally
+pass through in order to perform the computation. (The reader is
+referred to Note D, for explanations respecting the nature and notation
+of such tables.)
+Six numerical data are in this case necessary for making
+the requisite combinations. These data are 1, 2,  (= 4),
+, , . Were  = 5,
+the additional datum , would be needed. Were  = 6,
+the datum , would be needed; and so on. Thus the
+actual number of data needed will always be , for ;
+and out of these  data, () of them
+are successive Numbers of Bernoulli. The reason why the Bernoulli
+Numbers used as data, are nevertheless placed on Result-columns
+in the diagram, is because they may properly be supposed to have
+been previously computed in succession by the engine itself;
+under which circumstances each  will appear as a
+result, previous to being used as a datum for computing
+the succeeding . Here then is an instance (of the kind
+alluded to in Note D.) of the same Variables filling more than one
+office in turn. It is true that if we consider our computation of
+, as a perfectly isolated calculation, we may
+conclude , , , to have
+been arbitrarily placed on the columns; and it would then perhaps be
+more consistent to put them on , ,
+ as data and not results. But we are not taking
+this view. On the contrary, we suppose the engine to be in the
+course of computing the Numbers to an indefinite extent, from the
+very beginning; and that we merely single out, by way of example,
+one amongst the successive but distinct series of computations
+it is thus performing. Where the ’s are fractional, it
+must be understood that they are computed and appear in the notation
+of decimal fractions. Indeed this is a circumstance that
+should be noticed with reference to all calculations. In any of the
+examples already given in the translation and in the Notes, some of
+the data, or of the temporary or permanent results, might be
+fractional, quite as probably as whole numbers. But the arrangements
+are so made, that the nature of the processes would be the same as for
+whole numbers.
+In the above table and diagram we are not considering the signs of any
+of the ’s, merely their numerical magnitude. The engine
+would bring out the sign for each of them correctly of course, but we
+cannot enter on every additional detail of this kind, as we
+might wish to do. The circles for the signs are therefore intentionally
+left blank in the diagram.
+Operation-cards 1, 2, 3, 4, 5, 6 prepare are
+
+Thus, Card 1 multiplies two into , and the three
+Receiving Variable-cards belonging respectively to
+, , , allow the result
+ to be placed on each of these latter columns (this being a
+case in which a triple receipt of the result is needed for subsequent
+purposes); we see that the upper indices of the two Variables used,
+during Operation 1, remain unaltered.
+We shall not go through the details of every operation singly, since
+the table and diagram sufficiently indicate them; we shall merely
+notice some few peculiar cases.
+By Operation 6, a positive quantity is turned into a
+negative quantity, by simply subtracting the quantity from
+a column which has only zero upon it. (The sign at the top of
+[Pg 62]
+ would become—during this process.)
+Operation 7 will be unintelligible, unless it be remembered that if
+we were calculating for  instead of , Operation 6
+would have completed the computation of  itself; in
+which case the engine, instead of continuing its processes, would
+have to put  on ; and then either
+to stop altogether, or to begin Operations 1, 2 ... 7 all over again
+for value of  (= 2), in order to enter on the computation of
+; (having however taken care, previous to this
+recommencement, to make the number on , equal to
+two, by the addition of unity to the former  on that
+column). Now Operation 7 must either bring out a result equal to
+zero (if ); or a result greater than zero, as
+in the present case; and the engine follows the one or the other of
+the two courses just explained, contingently on the one or the other
+result of Operation 7. In order fully to perceive the necessity of
+this experimental operation, it is important to keep in mind
+what was pointed out, that we are not treating a perfectly isolated
+and independent computation, but one out of a series of antecedent and
+prospective computations.
+Cards 8, 9, 10 produce
+.
+In Operation 9 we see an example of an upper index which again
+becomes a value after having passed front preceding values to zero.
+ has successively been ,
+, , ,
+; and, from the nature of the office which
+, performs in the calculation, its index will
+continue to go through further changes of the same description, which,
+if examined, will be found to be regular and periodic.
+Card 12 has to perform the same office as Card 7 did in the preceding
+section; since, if  had been = 2, the 11th operation would have
+completed the computation of .
+Cards 13 to 20 make . Since 
+always consists of  factors,  has three
+factors; and it will be seen that Cards 13, 14, 15, 16 make the second
+of these factors, and then multiply it with the first; and that 17, 18,
+19, 20 make the third factor, and then multiply this with the product
+of the two former factors.
+Card 23 has the office of Cards 11 and 7 to perform, since if 
+were = 3, the 21st and 22nd operations would complete the computation
+of . As our case is , the computation
+will continue one more stage; and we must now direct attention to the
+fact, that in order to compute  it is merely necessary
+precisely to repeat the group of Operations 13 to 20; and then, in
+order to complete the computation of , to repeat
+Operations 21, 22.
+[Pg 63]
+It will be perceived that every unit added to  in
+, entails an additional repetition of operations
+(13 ... 23) for the computation of . Not only
+are all the operations precisely the same however for every
+such repetition, but they require to be respectively supplied with
+numbers from the very same pairs of columns; with only the one
+exception of Operation 21, which will of course need 
+(from ) instead of  (from
+). This identity in the columns which supply
+the requisite numbers, must not be confounded with identity in the
+values these columns have upon them and give out to the mill.
+Most of those values undergo alterations during a performance of the
+operations (13 ... 23), and consequently the columns present a new set
+of values for the next performance of (13 ... 23) to work on.
+At the termination of the repetition of operations (13 ... 23) in computing
+, the alterations in the values on the Variables are, that
+
+
+In this state the only remaining processes are first: to transfer
+the value which is on , to ;
+and secondly to reduce , ,
+ to zero, and to add[30] one to
+, in order that the engine may be ready to commence
+computing . Operations 24 and 25 accomplish these
+purposes. It may be thought anomalous that Operation 25 is represented
+as leaving the upper index of  still = unity. But it
+must be remembered that these indices always begin anew for a separate
+calculation, and that Operation 25 places upon , the
+first value for the new calculation.
+It should be remarked, that when the group (13 ... 23) is repeated,
+changes occur in some of the upper indices during the course
+of the repetition: for example, , would become
+, and .
+We thus see that when , nine Operation-cards are used; that
+when , fourteen Operation-cards are used; and that when
+, twenty-five Operation-cards are used; but that no more
+are needed, however great  may be; and not only this, but that
+these same twenty-five cards suffice for the successive computation
+of all the Numbers from , to ,
+inclusive. With respect to the number of Variable-cards,
+it will be remembered, from the explanations in previous Notes,
+that an average of three such cards to each operation
+(not however to each Operation-card) is the estimate.
+According to this the computation of  will require
+twenty-seven Variable-cards;  forty-two such cards;
+ seventy-five; and for every succeeding 
+after , there would be thirty-three additional
+Variable-cards (since each repetition of the group (13 ... 23) adds
+eleven to the number of operations required for computing the previous
+). But we must now explain, that whenever there is a
+cycle of operations, and if these merely require to be supplied
+with numbers from the same pairs of columns and likewise each
+operation to place its result on the same column for
+every repetition of the whole group, the process then admits of a
+cycle of Variable-cards for effecting its purposes. There is
+obviously much more symmetry and simplicity in the arrangements,
+when cases do admit of repeating the Variable as well as the
+Operation-cards. Our present example is of this nature. The only
+exception to a perfect identity in all the processes and
+columns used, for every repetition of Operations (13 ... 23) is, that
+Operation 21 always requires one of its factors from a new column, and
+Operation 24 always puts its result on a new column. But as these
+[Pg 64]
+variations follow the same law at each repetition, (Operation 21 always
+requiring its factor from a column one in advance of that which it
+used the previous time, and Operation 24 always putting its result on
+the column one in advance of that which received the previous
+result), they are easily provided for in arranging the recurring group
+(or cycle) of Variable-cards.
+We may here remark that the average estimate of three Variable-cards
+coming into use to each operation, is not to be taken as an absolutely
+and literally correct amount for all cases and circumstances. Many
+special circumstances, either in the nature of a problem, or in the
+arrangements of the engine under certain contingencies, influence and
+modify this average to a greater or less extent. But it is a very safe
+and correct general rule to go upon. In the preceding case it
+will give us seventy-five Variable-cards as the total number which will
+be necessary for computing any  after .
+This is very nearly the precise amount really used, but we cannot here
+enter into the minutiæ of the few particular circumstances which occur
+in this example (as indeed at some one stage or other of probably most
+computations) to modify slightly this number.
+It will be obvious that the very same seventy-five
+Variable-cards may be repeated for the computation of every succeeding
+Number, just on the same principle as admits of the repetition of
+the thirty-three Variable-cards of Operations (13 ... 23) in the
+computation of any one Number. Thus there will be a cycle of
+a cycle of Variable-cards.
+If we now apply the notation for cycles, as explained in Note E, we may
+express the operations for computing the Numbers of Bernoulli in the
+following manner:—
+
+Again,
+
+represents the total operations for computing every number in
+succession, from  to  inclusive.
+In this formula we see a varying cycle of the first
+order, and an ordinary cycle of the second order. The latter
+cycle in this case includes in it the varying cycle.
+[Pg 65]
+On inspecting the ten Working-Variables of the diagram, it will be
+perceived, that although the value on any one of them (excepting
+, and ) goes through a series of
+changes, the office which each performs is in this calculation
+fixed and invariable. Thus  always
+prepares the numerators of the factors of any ;
+ the denominators.  always
+receives the ()th factor of , and
+ the ()th.  always decides
+which of two courses the succeeding processes are to follow, by feeling
+for the value of  through means of a subtraction; and so on; but
+we shall not enumerate further. It is desirable in all calculations,
+so to arrange the processes, that the offices performed by the
+Variables may be as uniform and fixed as possible.
+
+Diagram for the computation by the Engine of the Numbers of Bernoulli.
+See Note G. (page 67 et seq.)
+[Pg 66]
+
+
+
+Number of operation.
+Nature of operation.
+Variables acted upon.
+Variables receiving results.
+Indication of change in the value of any Variable.
+Statement of Results.
+Data.
+Working variables.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+1
+2
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+
+
+
+
+
+
+
+
+0
+0
+
+
+
+
+
+
+
+
+
+5
+
+
+
+
+
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+7
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+21
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+22
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+23
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here follows a repetition of Operations thirteen to twenty-three
+
+24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+25
+
+
+
+
+
+
+by a Variable-card.
+
+
+
+
+
+0
+0
+
+
+
+
+
+
+
+
+
+
+
+Number of operation.
+Result Variables.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+0
+
+0
+
+
+
+
+
+
+1
+
+
+
+
+
+2
+
+
+
+
+
+3
+
+
+
+
+
+4
+
+
+
+
+
+5
+
+
+
+
+
+6
+
+
+
+
+
+7
+
+
+
+
+
+8
+
+
+
+
+
+9
+
+
+
+
+
+10
+
+
+
+
+
+11
+
+
+
+
+
+12
+
+
+
+
+
+13
+
+
+
+
+
+14
+
+
+
+
+
+15
+
+
+
+
+
+16
+
+
+
+
+
+17
+
+
+
+
+
+18
+
+
+
+
+
+19
+
+
+
+
+
+20
+
+
+
+
+
+21
+
+
+
+
+
+22
+
+
+
+
+
+23
+
+
+
+
+
+
+
+24
+
+
+
+
+
+25
+
+
+
+
+
+
+
+[Pg 67]
+Supposing that it was desired not only to tabulate ,
+, &c., but , ,
+&c.; we have only then to appoint another series of Variables,
+, , &c., for receiving
+these latter results as they are successively produced upon
+. Or again, we may, instead of this, or in addition
+to this second series of results, wish to tabulate the value of each
+successive total term of the series (8), viz: ,
+, , &c. We have
+then merely to multiply each  with each corresponding
+, as produced; and to place these successive products on
+Result-columns appointed for the purpose.
+The formula (8.) is interesting in another point of view. It is one
+particular case of the general Integral of the following Equation of
+Mixed Differences:—
+
+for certain special suppositions respecting ,  and .
+The general integral itself is of the form,
+
+and it is worthy of remark, that the engine might (in a manner more or
+less similar to the preceding) calculate the value of this formula upon
+most other hypotheses for the functions in the integral, with as
+much, or (in many cases) with more, ease than it can formula (8.).
+A. A. L.
+[Pg 68]
+FOOTNOTES:
+
+
+[16]
+We do not mean to imply that the only use
+made of the Jacquard cards is that of regulating the algebraical
+operations. But we mean to explain that those cards and
+portions of mechanism which regulate these operations, are
+wholly independent of those which are used for other purposes. M.
+Menabrea explains that there are three classes of cards used in
+the engine for three distinct sets of objects, viz. Cards of the
+Operations, Cards of the Variables, and certain Cards of
+Numbers. (See pages 13 and 22.)
+
+
+
+[17]
+In fact such an extension as we allude to, would merely
+constitute a further and more perfected development of any system
+introduced for making the proper combinations of the signs plus and
+minus. How ably M. Menabrea has touched on this restricted case is
+pointed out in Note B.
+
+
+
+[18]
+The machine might have been constructed so as to tabulate
+for a higher value of  than seven. Since, however, every unit
+added to the value of  increases the extent of the mechanism
+requisite, there would on this account be a limit beyond which it
+could not be practically carried. Seven is sufficiently high for the
+calculation of all ordinary tables.
+
+The fact that, in the Analytical Engine, the same extent of mechanism
+suffices for the solution of , whether ,
+, or  = any number whatever, at once suggests how
+entirely distinct must be the nnature of the principles through
+whose application matter has been enabled to become the working agent
+of abstract mental operations in each of these engines respectively;
+and it affords an equally obvious presumption, that in the case of
+the Analytical Engine, not only are those principles in themselves of
+a higher and more comprehensive description, but also such as must
+vastly extend the practical value of the engine whose basis they
+constitute.
+
+
+
+[19]
+This subject is further noticed in Note F.
+
+
+
+[20]
+A fuller account of the manner in which the signs
+are regulated, is given on in Mons. Menabrea’s Memoir, pages 17, 18.
+He himself expresses doubts (in a note of his own at the bottom of
+the latter page) as to his having been likely to hit on the precise
+methods really adopted; his explanation In being merely a conjectural
+one. That it does accord precisely with the fact is a remarkable
+circumstance, and affords a convincing proof how completely Mons.
+Menabrea has been imbued with the true spirit of the invention.
+Indeed the whole of the above Memoir is a striking production, when
+we consider that Mons. Menabrea had had but very slight means for
+obtaining any adequate ideas respecting the Analytical Engine. It
+requires however a considerable acquaintance with the abstruse and
+complicated nature of such a subject, in order fully to appreciate the
+penetration of the writer who could take so just and comprehensive a
+view of it upon such limited opportunity.
+
+
+
+[21]
+This adjustment is done by hand merely.
+
+
+
+[22]
+It is convenient to omit the circles whenever the signs +
+or — can be actually represented.
+
+
+
+[23]
+See the diagram of page 46.
+
+
+
+[24]
+We recommend the reader to trace the successive
+substitutions backwards from (1.) to (4.), in Mons. Menabrea’s Table.
+This he will easily do by means of the upper and lower indices, and it
+is interesting to observe how each  successively ramifies
+(so to speak) into two other ’s in some other column of
+the Table; until at length the ’s of the original data
+are arrived at.
+
+
+
+[25]
+This division would be managed by ordering the number
+two to appear on any separate new column which should be conveniently
+situated for the purpose, and then directing this column (which is
+in the strictest sense a Working-Variable) to divide itself
+successively with , , &c.
+
+
+
+[26]
+It should be observed, that were the rest of the factor
+() taken into account,
+instead of four terms only,  would have
+the additional term ; and
+, the two additional terms, ,
+. This would indeed have been
+the case had even six terms been multiplied.
+
+
+
+[27]
+A cycle that includes  other cycles, successively
+contained one within another, is called a cycle of the th
+order. A cycle may simply include many other cycles, and yet only
+be of the second order. If a series follows a certain law for a certain
+number of terms, and then another law for another number of terms,
+there will be a cycle of operations for every new law; but these cycles
+will not be contained one within another,—they merely follow
+each other. Therefore their number may be infinite without
+influencing the order of a cycle that includes a repetition of
+such a series.
+
+
+
+[28]
+The engine cannot of course compute limits for perfectly
+simple and uncompounded functions, except in this manner.
+It is obvious that it has no power of representing or of manipulating
+with any but finite increments or decrements; and consequently
+that wherever the computation of limits (or of any other functions)
+depends upon the direct introduction of quantities which either
+increase or decrease indefinitely, we are absolutely beyond
+the sphere of its powers. Its nature and arrangements are remarkably
+adapted for taking into account all finite increments or
+decrements (however small or large), and for developing the true and
+logical modifications of form or value dependent upon differences of
+this nature. The engine may indeed be considered as including the
+whole Calculus of Finite Differences; many of whose theorems would be
+especially and beautifully fitted for development by its processes, and
+would offer peculiarly interesting considerations. We may mention, as
+an example, the calculation of the Numbers of Bernoulli by means of the
+Differences of Nothing.
+
+
+
+[29]
+See the diagram at the end of these Notes.
+
+
+
+[30]
+It is interesting to observe, that so complicated a
+case as this calculation of the Bernoullian Numbers, nevertheless,
+presents a remarkable simplicity in one respect; viz., that during the
+processes for the computation of millions of these Numbers, no
+other arbitrary modification would be requisite in the arrangements,
+excepting the above simple and uniform provision for causing one of the
+data periodically to receive the finite increment unity.
+
+
+
+
+Transcriber’s Notes
+“Article XXIX,” extracted from Scientific memoirs, Vol. 3, 1843.
+Translated, with notes, from the Italian original by Ada King, Countess
+of Lovelace, daughter of Byron. She is identified on page 35 as “A. A.
+L.” It was originally published by Luigi Federico Menabrea as ‘Notions
+sur la machine analytique de M. Charles Babbage,’ pp. 352-376 in:
+Bibliothèque Universelle de Génève. Nouvelle Série, Tome 41.
+
+
+
+</div></body></text></TEI>

@@ -1,0 +1,760 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="76">CHAPTER I.
+The Doctrines of Conduction and
+Radiation.
+
+Section 1.—Introduction of the
+Doctrine of Conduction.
+BY conduction is meant
+the propagation of heat from one part to another of a continuous body;
+or from one body to another in contact with it; as when one end of a
+poker stuck in the fire heats the other end, or when this end heats
+the hand which takes hold of it. By radiation is meant the
+diffusion of heat from the surface of a body to points not in contact.
+It is clear in both these cases, that, in proportion as the hot
+portion is hotter, it produces a greater effect in warming the cooler
+portion; that is, it communicates more Heat to it, if
+Heat be the abstract conception of which this effect is the
+measure. The simplest rule which can be proposed is, that the heat
+thus communicated in a given instant is proportional to the excess of
+the heat of the hot body over that of the contiguous bodies; there are
+no obvious phenomena which contradict the supposition that this is the
+true law; and it was thence assumed by Newton as the true law for
+radiation and by other writers for conduction. This assumption was
+confirmed approximately, and afterwards corrected, for the case of
+Radiation; in its application to Conduction, it has been made the
+basis of calculation up to the present time. We may observe that this
+statement takes for granted that we have attained to a measure of heat
+(or of temperature, as heat thus measured is termed),
+corresponding to the law thus assumed; and, in fact, as we shall have
+occasion to explain in speaking of the measures of sensible
+qualities, 140 the
+thermometrical scale of heat according to the expansion of liquids
+(which is the measure of temperature here adopted), was constructed
+with a reference to Newton’s law of radiation of heat; and thus the
+law is necessarily consistent with the scale.
+In any case in which the parts of a body are unequally hot, the
+temperature will vary continuously in passing from one part of
+the body to another; thus, a long bar of iron, of which one end is
+kept red hot, will exhibit a gradual diminution of temperature at
+successive points, proceeding to the other end. The law of temperature
+of the parts of such a bar might be expressed by the ordinates of a
+curve which should run alongside the bar. And, in order to
+trace mathematically the consequences of the assumed law, some of
+those processes would be necessary, by which mathematicians are
+enabled to deal with the properties of curves; as the method of
+infinitesimals, or the differential calculus; and the truth or
+falsehood of the law would be determined, according to the usual rules
+of inductive science, by a comparison of results so deduced from the
+principle, with the observed phenomena.
+It was easily perceived that this comparison was the task which
+physical inquirers had to perform; but the execution of it was delayed
+for some time; partly, perhaps, because the mathematical process
+presented some difficulties. Even in a case so simple as that above
+mentioned, of a linear bar with a stationary temperature at one end,
+partial differentials entered; for there were three variable
+quantities, the time, as well as the place of each point and its
+temperature. And at first, another scruple occurred to M. Biot when,
+about 1804, he undertook this problem.1 “A difficulty,”
+says Laplace,2 in 1809, “presents itself, which has not
+yet been solved. The quantities of heat received and communicated in
+an instant (by any point of the bar) must be infinitely small
+quantities of the same order as the excess of the heat of a slice of
+the body over that of the contiguous slice; therefore the
+excess of the heat received by any slice over the heat
+communicated, is an infinitely small quantity of the second order; and
+the accumulation in a finite time (which depends on this excess)
+cannot be finite.” I conceive that this difficulty arises entirely
+from an arbitrary and unnecessary assumption concerning the relation
+of the infinitesimal parts of the body. Laplace resolved the
+difficulty by further reasoning founded upon the same assumption which
+occasioned 141 it;
+but Fourier, who was the most distinguished of the cultivators of this
+mathematical doctrine of conduction, follows a course of reasoning in
+which the difficulty does not present itself. Indeed it is stated by
+Laplace, in the Memoir above quoted,3 that Fourier had
+already obtained the true fundamental equations by views of his
+own.
+1 Biot, Traité de Phys. iv. p.
+669.
+2 Laplace, Mém. Inst. for 1809,
+p. 332.
+3 Laplace, Mém. Inst. for 1809,
+p. 538.
+The remaining part of the history of the doctrine of conduction is
+principally the history of Fourier’s labors. Attention having been
+drawn to the subject, as we have mentioned, the French Institute, in
+January, 1810, proposed, as their prize question, “To give the
+mathematical theory of the laws of the propagation of heat, and to
+compare this theory with exact observations.” Fourier’s Memoir (the
+sequel of one delivered in 1807,) was sent in September, 1811; and the
+prize (3000 francs) adjudged to it in 1812. In consequence of the
+political confusion which prevailed in France, or of other causes,
+these important Memoirs were not published by the Academy till 1824;
+but extracts had been printed in the Bulletin des Sciences in
+1808, and in the Annales de Chimie in 1816; and Poisson and M.
+Cauchy had consulted the manuscript itself.
+It is not my purpose to give, in this place,4 an account of the
+analytical processes by which Fourier obtained his results. The skill
+displayed in these Memoirs is such as to make them an object of just
+admiration to mathematicians; but they consist entirely of deductions
+from the fundamental principle which I have noticed,—that the
+quantity of heat conducted from a hotter to a colder point is
+proportional to the excess of heat, modified by the
+conductivity, or conducting power of each substance. The
+equations which flow from this principle assume nearly the same forms
+as those which occur in the most general problems of hydrodynamics.
+Besides Fourier’s solution, Laplace, Poisson, and M. Cauchy have also
+exercised their great analytical skill in the management of these
+formulæ. We shall briefly speak of the comparison of the results of
+these reasonings with experiment, and notice some other consequences
+to which they lead. But before we can do this, we must pay some
+attention to the subject of radiation.
+4 I have given an account of Fourier’s
+mathematical results in the Reports of the British Association
+for 1835. 142
+Sect. 2.—Introduction of the Doctrine of
+Radiation.
+A hot body, as a mass of
+incandescent iron, emits heat, as we perceive by our senses when we
+approach it; and by this emission of heat the hot body cools down. The
+first step in our systematic knowledge of the subject was made in the
+Principia. “It was in the destiny of that great work,” says
+Fourier, “to exhibit, or at least to indicate, the causes of the
+principal phenomena of the universe.” Newton assumed, as we have already said, that the rate at which a body
+cools, that is, parts with its heat to surrounding bodies, is
+proportional to its heat; and on this assumption he rested the
+verification of his scale of temperatures. It is an easy deduction
+from this law, that if times of cooling be taken in arithmetical
+progression, the heat will decrease in geometrical progression. Kraft,
+and after him Richman, tried to verify this law by direct experiments
+on the cooling of vessels of warm water; and from these experiments,
+which have since been repeated by others, it appears that for
+differences of temperature which do not exceed 50 degrees (boiling
+water being 100), this geometrical progression represents, with
+tolerable (but not with complete) accuracy, the process of
+cooling.
+This principle of radiation, like that of conduction, required to
+be followed out by mathematical reasoning. But it required also to be
+corrected in the first place, for it was easily seen that the rate of
+cooling depended, not on the absolute temperature of the body, but on
+the excess of its temperature above the surrounding objects to which
+it communicated its heat in cooling. And philosophers were naturally
+led to endeavor to explain or illustrate this process by some physical
+notions. Lambert in 1765 published5 an Essay on
+the Force of Heat, in which he assimilates the communication of
+heat to the flow of a fluid out of one vessel into another by an
+excess of pressure; and mathematically deduces the laws of the process
+on this ground. But some additional facts suggested a different view
+of the subject. It was found that heat is propagated by radiation
+according to straight lines, like light; and that it is, as light is,
+capable of being reflected by mirrors, and thus brought to a focus of
+intenser action. In this manner the radiative effect of a body could
+be more precisely traced. A fact, however, came under notice, which,
+at first sight, appeared to 143 offer some difficulty. It appeared that
+cold was reflected no less than heat. A mass of ice, when its effect
+was concentrated on a thermometer by a system of mirrors, made the
+thermometer fall, just as a vessel of hot water placed in a similar
+situation made it rise. Was cold, then, to be supposed a real
+substance, no less than heat?
+5 Act. Helvet. tom. ii. p.
+172.
+The solution of this and similar difficulties was given by Pierre
+Prevost, professor at Geneva, whose theory of radiant heat was
+proposed about 1790. According to this theory, heat, or
+caloric, is constantly radiating from every point of the
+surface of all bodies in straight lines; and it radiates the more
+copiously, the greater is the quantity of heat which the body
+contains. Hence a constant exchange of heat is going on among
+neighboring bodies; and a body grows hotter or colder, according as it
+receives more caloric than it emits, or the contrary. And thus a body
+is cooled by rectilinear rays from a cold body, because along these
+paths it sends rays of heat in greater abundance than those which
+return the same way. This theory of exchanges is simple and
+satisfactory, and was soon generally adopted; but we must consider it
+rather as the simplest mode of expressing the dependence of the
+communication of heat on the excess of temperature, than as a
+proposition of which the physical truth is clearly established.
+A number of curious researches on the effect of the different kinds
+of surface of the heating and of the heated body, were made by Leslie
+and others. On these I shall not dwell; only observing that the
+relative amount of this radiative and receptive energy may be
+expressed by numbers, for each kind of surface; and that we shall have
+occasion to speak of it under the term exterior conductivity;
+it is thus distinguished from interior conductivity, which is
+the relative rate at which heat is conducted in the interior of
+bodies.6
+6 The term employed by Fourier,
+conductibility or conducibility, suggests expressions
+altogether absurd, as if the bodies could be called
+conductible, or conducible, with respect to heat: I have
+therefore ventured upon a slight alteration of the word, and have used
+the abstract term which analogy would suggest, if we suppose bodies to
+be conductive in this respect.
+Sect. 3.—Verifications of the Doctrines of
+Conduction and Radiation.
+The interior and exterior
+conductivity of bodies are numbers, which enter as elements, or
+coefficients, into the mathematical calculations founded on the
+doctrines of conduction and radiation. These 144 coefficients are to be determined for
+each case by appropriate experiments: when the experimenters had
+obtained these data, as well as the mathematical solutions of the
+problems, they could test the truth of their fundamental principles by
+a comparison of the theoretical and actual results in
+properly-selected cases. This was done for the law of conduction in
+the simple cases of metallic bars heated at one end, by M. Biot,7
+and the accordance with experiment was sufficiently close. In the more
+complex cases of conduction which Fourier considered, it was less easy
+to devise a satisfactory mode of comparison. But some rather curious
+relations which he demonstrated to exist among the temperatures at
+different points of an armille, or ring, afforded a good
+criterion of the value of the calculations, and confirmed their
+correctness.8
+7 Tr. de Phys. iv. 671.
+8 Mém. Inst. 1819, p. 192,
+published 1824.
+We may therefore presume these doctrines of radiation and
+conduction to be sufficiently established; and we may consider their
+application to any remarkable case to be a portion of the history of
+science. We proceed to some such applications.
+Sect. 4.—The Geological and Cosmological
+Application of Thermotics.
+By far the most important
+case to which conclusions from these doctrines have been applied, is
+that of the globe of the earth, and of those laws of climate to which
+the modifications of temperature give rise; and in this way we are led
+to inferences concerning other parts of the universe. If we had any
+means of observing these terrestrial and cosmical phenomena to a
+sufficient extent, they would be valuable facts on which we might
+erect our theories; and they would thus form part, not of the
+corollaries, but of the foundations of our doctrine of heat. In such a
+case, the laws of the propagation of heat, as discovered from
+experiments on smaller bodies, would serve to explain these phenomena
+of the universe, just as the laws of motion explain the celestial
+movements. But since we are almost entirely without any definite
+indications of the condition of the other bodies in the solar system
+as to heat; and since, even with regard to the earth, we know only the
+temperature of the parts at or very near the surface, our knowledge of
+the part which heat plays in the earth and the heavens must be in a
+great measure, not a generalization of observed facts, but a deduction
+from theoretical principles. Still, such knowledge, whether obtained
+145 from
+observation or from theory, must possess great interest and
+importance. The doctrines of this kind which we have to notice refer
+principally to the effect of the sun’s heat on the earth, the laws of
+climate,—the thermotical condition of the interior of the
+earth,—and that of the planetary spaces.
+1. Effect of Solar Heat on the Earth.—That the sun’s
+heat passes into the interior of the earth in a variable manner,
+depending upon the succession of days and nights, summers and winters,
+is an obvious consequence of our first notions on this subject. The
+mode in which it proceeds into the interior, after descending below
+the surface, remained to be gathered, either from the phenomena, or
+from reasoning. Both methods were employed.9 Saussure
+endeavored to trace its course by digging, in 1785, and thus found
+that at the depth of about thirty-one feet, the annual variation of
+temperature is about 1⁄12th what it is at the
+surface. Leslie adopted a better method, sinking the bulbs of
+thermometers deep in the earth, while their stems appeared above the
+surface. In 1813, ’16, and ’17, he observed thus the temperatures at
+the depths of one, two, four, and eight feet, at Abbotshall, in
+Fifeshire. The results showed that the extreme annual oscillations of
+the temperature diminish as we descend. At the depth of one foot, the
+yearly range of oscillation was twenty-five degrees (Fahrenheit); at
+two feet it was twenty degrees; at four feet it was fifteen degrees;
+at eight feet it was only nine degrees and a half. And the time at
+which the heat was greatest was later and later in proceeding to the
+lower points. At one foot, the maximum and minimum were three weeks
+after the solstice of summer and of winter; at two feet, they were
+four or five weeks; at four feet, they were two months; and at eight
+feet, three months. The mean temperature of all the thermometers was
+nearly the same. Similar results were obtained by Ott at Zurich in
+1762, and by Herrenschneider at Strasburg in 1821, ’2, ’3.10
+9 Leslie, art. Climate, Supp.
+Enc. Brit. 179.
+10 Pouillet, Météorol. t. ii.
+p. 643.
+These results had already been explained by Fourier’s theory of
+conduction. He had shown11 that when the surface of a sphere is
+affected by a periodical heat, certain alternations of heat travel
+uniformly into the interior, but that the extent of the alternation
+diminishes in geometrical progression in this descent. This conclusion
+applies to the effect of days and years on the temperature of the
+earth, and shows that such facts as those observed by Leslie are both
+exemplifications of 146 the general circumstances of the earth,
+and are perfectly in accordance with the principles on which Fourier’s
+theory rests.
+11 Mém. Inst. for 1821
+(published 1826), p. 162.
+2. Climate.—The term climate, which means
+inclination, was applied by the ancients to denote that
+inclination of the axis of the terrestrial sphere from which result
+the inequalities of days in different latitudes. This inequality is
+obviously connected also with a difference of thermotical condition.
+Places near the poles are colder, on the whole, than places near the
+equator. It was a natural object of curiosity to determine the law of
+this variation.
+Such a determination, however, involves many difficulties, and the
+settlement of several preliminary points. How is the temperature of
+any place to be estimated? and if we reply, by its mean
+temperature, how are we to learn this mean? The answers to such
+questions require very multiplied observations, exact instruments, and
+judicious generalizations; and cannot be given here. But certain first
+approximations may be obtained without much difficulty; for instance,
+the mean temperature of any place may be taken to be the temperature
+of deep springs, which is probably identical with the temperature of
+the soil below the reach of the annual oscillations. Proceeding on
+such facts, Mayer found that the mean temperature of any place was
+nearly proportional to the square of the cosine of the latitude. This,
+as a law of phenomena, has since been found to require considerable
+correction; and it appears that the mean temperature does not depend
+on the latitude alone, but on the distribution of land and water, and
+on other causes. M. de Humboldt has expressed these deviations12 by his map of isothermal lines,
+and Sir D. Brewster has endeavored to reduce them to a law by assuming
+two poles of maximum cold.
+12 British Assoc. 1833. Prof.
+Forbes’s Report on Meteorology, p. 215.
+The expression which Fourier finds13 for the
+distribution of heat in a homogeneous sphere, is not immediately
+comparable with Mayer’s empirical formula, being obtained on a certain
+hypothesis, namely, that the equator is kept constantly at a fixed
+temperature. But there is still a general agreement; for, according to
+the theory, there is a diminution of heat in proceeding from the
+equator to the poles in such a case; the heat is propagated from the
+equator and the neighboring parts, and radiates out from the poles
+into the surrounding space. And thus, in the case of the earth, the
+solar heat enters in the tropical 147 parts, and constantly flows towards the
+polar regions, by which it is emitted into the planetary spaces.
+13 Fourier. Mém. Inst. tom. v.
+p. 173.
+Climate is affected by many thermotic influences, besides the
+conduction and radiation of the solid mass of the earth. The
+atmosphere, for example, produces upon terrestrial temperatures
+effects which it is easy to see are very great; but these it is not
+yet in the power of calculation to appreciate;14 and it is clear
+that they depend upon other properties of air besides its power to
+transmit heat. We must therefore dismiss them, at least for the
+present.
+14 Mém. Inst. tom. vii. p.
+584
+3. Temperature of the Interior of the Earth.—The
+question of the temperature of the interior of the earth has excited
+great interest, in consequence of its bearing on other branches of
+knowledge. The various facts which have been supposed to indicate the
+fluidity of the central parts of the terrestrial globe, belong, in
+general, to geological science; but so far as they require the light
+of thermotical calculations in order to be rightly reasoned upon, they
+properly come under our notice here.
+The principal problem of this kind which has been treated of is
+this:—If in the globe of the earth there be a certain original
+heat, resulting from its earlier condition, and independent of the
+action of the sun, to what results will this give rise? and how far do
+the observed temperatures of points below the surface lead us to such
+a supposition? It has, for instance, been asserted, that in many parts
+of the world the temperature, as observed in mines and other
+excavations, increases in descending, at the rate of one degree
+(centesimal) in about forty yards. What inference does this
+justify?
+The answer to this question was given by Fourier and by Laplace.
+The former mathematician had already considered the problem of the
+cooling of a large sphere, in his Memoirs of 1807, 1809, and 1811.
+These, however, lay unpublished in the archives of the Institute for
+many years. But in 1820, when the accumulation of observations which
+indicated an increase of the temperature of the earth as we descend,
+had drawn observation to the subject, Fourier gave, in the Bulletin of
+the Philomathic Society,15 a summary of his results, as far as
+they bore on this point. His conclusion was, that such an increase of
+temperature in proceeding towards the centre of the earth, can arise
+from nothing but the remains of a primitive heat;—that the heat
+which the sun’s action would communicate, would, in its final and
+148 permanent
+state, be uniform in the same vertical line, as soon as we get beyond
+the influence of the superficial oscillations of which we have
+spoken;—and that, before the distribution of temperature reaches
+this limit, it will decrease, not increase, in descending. It appeared
+also, by the calculation, that this remaining existence of the
+primitive heat in the interior of the earth’s mass, was quite
+consistent with the absence of all perceptible traces of it at the
+surface; and that the same state of things which produces an increase
+of one degree of heat in descending forty yards, does not make the
+surface a quarter of a degree hotter than it would otherwise be.
+Fourier was led also to some conclusions, though necessarily very
+vague ones, respecting the time which the earth must have taken to
+cool from a supposed original state of incandescence to its present
+condition, which time it appeared must have been very great; and
+respecting the extent of the future cooling of the surface, which it
+was shown must be insensible. Everything tended to prove that, within
+the period which the history of the human race embraces, no
+discoverable change of temperature had taken place from the progress
+of this central cooling. Laplace further calculated the effect16 which any contraction of the globe of
+the earth by cooling would produce on the length of the day. He had
+already shown, by astronomical reasoning, that the day had not become
+shorter by 1⁄200th of a second, since the
+time of Hipparchus; and thus his inferences agreed with those of
+Fourier. As far as regards the smallness of the perceptible effect due
+to the past changes of the earth’s temperature, there can be no doubt
+that all the curious conclusions just stated are deduced in a manner
+quite satisfactory, from the fact of a general increase of heat in
+descending below the surface of the earth; and thus our principles of
+speculative science have a bearing upon the history of the past
+changes of the universe, and give us information concerning the state
+of things in portions of time otherwise quite out of our reach.
+15 Bullet. des Sc. 1820, p.
+58.
+16 Conn. des Tems, 1823.
+4. Heat of the Planetary Spaces.—In the same manner,
+this portion of science is appealed to for information concerning
+parts of space which are utterly inaccessible to observation. The
+doctrine of heat leads to conclusions concerning the temperatures of
+the spaces which surround the earth, and in which the planets of the
+solar system revolve. In his Memoir, published in 1827,17 Fourier states that he conceives it to
+follow from his principles, that these planetary spaces 149 are not absolutely
+cold, but have a “proper heat” independent of the sun and of the
+planets. If there were not such a heat, the cold of the polar regions
+would be much more intense than it is, and the alternations of cold
+and warmth, arising from the influence of the sun, would be far more
+extreme and sudden than we find them. As the cause of this heat in the
+planetary spaces, he assigns the radiation of the innumerable stars
+which are scattered through the universe.
+17 Mém. Inst. tom. vii. p.
+580.
+Fourier says,18 “We conclude from these various
+remarks, and principally from the mathematical examination of the
+question,” that this is so. I am not aware that the mathematical
+calculation which bears peculiarly upon this point has anywhere been
+published. But it is worth notice, that Svanberg has been led19 to the opinion of the same temperature
+in these spaces which Fourier had adopted (50 centigrade below zero),
+by an entirely different course of reasoning, founded on the relation
+of the atmosphere to heat.
+18 Mém. Inst. tom. vii. p.
+581.
+19 Berzel. Jahres Bericht, xi.
+p. 50.
+In speaking of this subject, I have been led to notice incomplete
+and perhaps doubtful applications of the mathematical doctrine of
+conduction and radiation. But this may at least serve to show that
+Thermotics is a science, which, like Mechanics, is to be established
+by experiments on masses capable of manipulation, but which, like
+that, has for its most important office the solution of geological and
+cosmological problems. I now return to the further progress of our
+thermotical knowledge.
+Sect. 5.—Correction of Newton’s Law of
+Cooling.
+In speaking of the
+establishment of Newton’s assumption, that the temperature
+communicated is proportional to the excess of temperature, we stated
+that it was approximately verified, and afterwards corrected (chap.
+i., sect. 1.). This correction was the result of the
+researches of MM. Dulong and Petit in 1817, and the researches by
+which they were led to the true law, are an admirable example both of
+laborious experiment and sagacious induction. They experimented
+through a very great range of temperature (as high as two hundred and
+forty degrees centigrade), which was necessary because the inaccuracy
+of Newton’s law becomes considerable only at high temperatures. They
+removed the effect of the surrounding medium, by making their
+experiments in a vacuum. They selected with great 150 judgment the
+conditions of their experiments and comparisons, making one quantity
+vary while the others remained constant. In this manner they found,
+that the quickness of cooling for a constant excess of temperature,
+increases in geometrical progression, when the temperature of the
+surrounding space increases in arithmetical progression; whereas,
+according to the Newtonian law, this quickness would not have varied
+at all. Again, this variation being left out of the account, it
+appeared that the quickness of cooling, so far as it depends on the
+excess of temperature of the hot body, increases as the terms of a
+geometrical progression diminished by a constant number, when the
+temperature of the hot body increases in arithmetical progression.
+These two laws, with the coefficients requisite for their application
+to particular substances, fully determine the conditions of cooling in
+a vacuum.
+Starting from this determination, MM. Dulong and Petit proceeded to
+ascertain the effect of the medium, in which the hot body is placed,
+upon its rate of cooling; for this effect became a residual
+phenomenon,20 when the cooling in the vacuum was
+taken away. We shall not here follow this train of research; but we
+may briefly state, that they were led to such laws as this;—that
+the rapidity of cooling due to any gaseous medium in which the body is
+placed, is the same, so long as the excess of the body’s temperature
+is the same, although the temperature itself vary;—that the
+cooling power of a gas varies with the elasticity, according to a
+determined law; and other similar rules.
+20 See Phil. Ind. Sciences, B.
+xiii. c. 7, Sect. iv.
+In reference to the process of their induction, it is worthy of
+notice, that they founded their reasonings upon Prevost’s law of
+exchanges; and that, in this way, the second of their laws above
+stated, respecting the quickness of cooling, was a mathematical
+consequence of the first. It may be observed also, that their
+temperatures are measured by means of the air-thermometer, and that if
+they were estimated on another scale, the remarkable simplicity and
+symmetry of their results would disappear. This is a strong argument
+for believing such a measure of temperature to have a natural
+prerogative of simplicity. This belief is confirmed by other
+considerations; but these, depending on the laws of expansion by heat,
+cannot be here referred to; and we must proceed to finish our survey
+of the mathematical theory of heat, as founded on the phenomena of
+radiation and conduction, which alone have as yet been traced up to
+general principles.
+We may observe, before we quit this subject, that this correction
+of 151 Newton’s law
+will materially affect the mathematical calculations on the subject,
+which were made to depend on that law both by Fourier, Laplace, and
+Poisson. Probably, however, the general features of the results will
+be the same as on the old supposition. M. Libri, an Italian
+mathematician, has undertaken one of the problems of this kind, that
+of the armil, with Dulong and Petit’s law for his basis, in a Memoir
+read to the Institute of France in 1825, and since published at
+Florence.21
+21 Mém. de Math. et de Phys.
+1829.
+Sect. 6.—Other Laws of Phenomena with respect to
+Radiation.
+The laws of radiation as
+depending upon the surface of radiating bodies, and as affecting
+screens of various kinds interposed between the hot body and the
+thermometer, were examined by several inquirers. I shall not attempt
+to give an account of the latter course of research, and of the
+different laws which luminous and non-luminous heat have been found to
+follow in reference to bodies, whether transparent or opaque, which
+intercept them. But there are two or three laws of the phenomena,
+depending upon the effects of the surfaces of bodies, which are
+important.
+1. In the first place, the powers of bodies to emit and to
+absorb heat, as far as depends upon their surface, appear to be
+in the same proportion. If we blacken the surface of a canister of hot
+water, it radiates heat more copiously; and in the same measure, it is
+more readily heated by radiation.
+2. In the next place, as the radiative power increases, the power
+of reflection diminishes, and the contrary. A bright metal vessel
+reflects much heat; on this very account it does not emit much; and
+hence a hot fluid which such a vessel contains, remains hot longer
+than it does in an unpolished case.
+3. The heat is emitted from every point of the surface of a hot
+body in all directions; but by no means in all directions with equal
+intensity. The intensity of the heating ray is as the sine of the
+angle which it makes with the surface.
+The last law is entirely, the two former in a great measure, due to
+the researches of Leslie, whose Experimental Inquiry into the
+Nature and Propagation of Heat, published in 1804, contains a
+great number of curious and striking results and speculations. The
+laws now just 152
+stated bear, in a very important manner, upon the formation of the
+theory; and we must now proceed to consider what appears to have been
+done in this respect; taking into account, it must still be borne in
+mind, only the phenomena of conduction and radiation.
+Sect. 7.—Fourier’s Theory of Radiant
+Heat.
+The above laws of phenomena
+being established, it was natural that philosophers should seek to
+acquire some conception of the physical action by which they might
+account, both for these laws, and for the general fundamental facts of
+Thermotics; as, for instance, the fact that all bodies placed in an
+inclosed space assume, in time, the temperature of the inclosure.
+Fourier’s explanation of this class of phenomena must be considered as
+happy and successful; for he has shown that the supposition to which
+we are led by the most simple and general of the facts, will explain,
+moreover, the less obvious laws. It is an obvious and general fact,
+that bodies which are included in the space tend to acquire the same
+temperature. And this identity of temperature of neighboring bodies
+requires an hypothesis, which, it is found, also accounts for Leslie’s
+law of the sine, in radiation.
+This hypothesis is, that the radiation takes place, not from the
+surface alone of the hot body, but from all particles situated within
+a certain small depth of the surface. It is easy to see22 that, on this supposition, a ray
+emitted obliquely from an internal particle, will be less intense than
+one sent forth perpendicular to the surface, because the former will
+be intercepted in a greater degree, having a greater length of path
+within the body; and Fourier shows, that whatever be the law of this
+intercepting power, the result will be, that the radiative intensity
+is as the sine of the angle made by the ray with the surface.
+22 Mém. Inst. t. v. 1821, p.
+204.
+But this law is, as I have said, likewise necessary, in order that
+neighboring bodies may tend to assume the same temperature: for
+instance, in order that a small particle placed within a spherical
+shell, should finally assume the temperature of the shell. If the law
+of the sines did not obtain, the final temperature of such a particle
+would depend upon its place in the inclosure;23 and within a
+shell of ice we should have, at certain points, the temperature of
+boiling water and of melting iron.
+23 An. Chim. iv. 1817, p.
+129.
+This proposition may at first appear strange and unlikely; but it
+may 153 be shown to
+be a necessary consequence of the assumed principle, by very simple
+reasoning, which I shall give in a general form in a Note.24
+24 The following reasoning may show
+the connexion of the law of the sines in radiant heat with the general
+principle of ultimate identity of neighboring temperatures. The
+equilibrium and identity of temperature between an including shell and
+an included body, cannot obtain upon the whole, except it obtain
+between each pair of parts of the two surfaces of the body and of the
+shell; that is, any part of the one surface, in its exchanges with any
+part of the other surface, must give and receive the same quantity of
+heat. Now the quantity exchanged, so far as it depends on the
+receiving surface, will, by geometry, be proportional to the sine of
+the obliquity of that surface: and as, in the exchanges, each may be
+considered as receiving, the quantity transferred must be proportional
+to the sines of the two obliquities; that is, to that of the giving as
+well as of the receiving surface.
+ Nor is this conclusion disturbed by the consideration, that all
+the rays of heat which fall upon a surface are not absorbed, some
+being reflected according to the nature of the surface. For, by the
+other above-mentioned laws of phenomena, we know that, in the same
+measure in which the surface loses the power of admitting, it loses
+the power of emitting, heat; and the superficial parts gain, by
+absorbing their own radiation, as much as they lose by not absorbing
+the incident heat; so that the result of the preceding reasoning
+remains unaltered.
+This reasoning is capable of being
+presented in a manner quite satisfactory, by the use of mathematical
+symbols, and proves that Leslie’s law of the sines is rigorously and
+mathematically true on Fourier’s hypothesis. And thus Fourier’s theory
+of molecular extra-radiation acquires great consistency.
+Sect. 8.—Discovery of the Polarization of
+Heat.
+The laws of which the
+discovery is stated in the preceding Sections of this Chapter, and the
+explanations given of them by the theories of conduction and
+radiation, all tended to make the conception of a material heat, or
+caloric, communicated by an actual flow and emission, familiar
+to men’s minds; and, till lately, had led the greater part of
+thermotical philosophers to entertain such a view, as the most
+probable opinion concerning the nature of heat. But some steps have
+recently been made in thermotics, which appear to be likely to
+overturn this belief, and to make the doctrine of emission as
+untenable with regard to heat, as it had been found to be with regard
+to light. I speak of the discovery of the polarization of heat. It
+being ascertained that rays of heat are polarized in the same manner
+as rays of 154
+light, we cannot retain the doctrine that heat radiates by the
+emanation of material particles, without supposing those particles of
+caloric to have poles; an hypothesis which probably no one would
+embrace; for, besides that the ill fortune which attended that
+hypothesis in the case of light must deter speculators from it, the
+intimate connexion of heat and light would hardly allow us to suppose
+polarization in the two cases to be produced by two different kinds of
+machinery.
+But, without here tracing further the influence which the
+polarization of heat must exercise upon the formation of our theories
+of heat, we must briefly notice this important discovery, as a law of
+phenomena.
+The analogies and connexions between light and heat are so strong,
+that when the polarization of light had been discovered, men were
+naturally led to endeavor to ascertain whether heat possessed any
+corresponding property. But partly from the difficulty of obtaining
+any considerable effect of heat separated from light, and partly from
+the want of a thermometrical apparatus sufficiently delicate, these
+attempts led, for some time, to no decisive result. M. Berard took up
+the subject in 1813. He used Malus’s apparatus, and conceived that he
+found heat to be polarized by reflection at the surface of glass, in
+the same manner as light, and with the same circumstances.25 But when Professor Powell, of Oxford, a
+few years later (1830), repeated these experiments with a similar
+apparatus, he found26 that though the heat which is conveyed
+along with light is, of course, polarizable, “simple radiant heat,” as
+he terms it, did not offer the smallest difference in the two
+rectangular azimuths of the second glass, and thus showed no trace of
+polarization.
+25 Ann. Chim. March,
+1813.
+26 Edin. Journ. of Science,
+1830, vol. ii. p. 303.
+Thus, with the old thermometers, the point remained doubtful. But
+soon after this time, MM. Melloni and Nobili invented an apparatus,
+depending on certain galvanic laws, of which we shall have to speak
+hereafter, which they called a thermomultiplier; and which was
+much more sensitive to changes of temperature than any
+previously-known instrument. Yet even with this instrument, M. Melloni
+failed; and did not, at first, detect any perceptible polarization of
+heat by the tourmaline;27 nor did M. Nobili,28 in repeating M.
+Berard’s experiment. But in this experiment the attempt was made to
+polarize heat by reflection from glass, as light is polarized: and the
+quantity 155
+reflected is so small that the inevitable errors might completely
+disguise the whole difference in the two opposite positions. When
+Prof. Forbes, of Edinburgh, (in 1834,) employed mica in the like
+experiments, he found a very decided polarizing effect; first, when
+the heat was transmitted through several films of mica at a certain
+angle, and afterwards, when it was reflected from them. In this case,
+he found that with non-luminous heat, and even with the heat of water
+below the boiling point, the difference of the heating power in the
+two positions of opposite polarity (parallel and crossed) was
+manifest. He also detected by careful experiments,29 the polarizing effect of tourmaline.
+This important discovery was soon confirmed by M. Melloni. Doubts were
+suggested whether the different effect in the opposite positions might
+not be due to other circumstances; but Professor Forbes easily showed
+that these suppositions were inadmissible; and the property of a
+difference of sides, which at first seemed so strange when
+ascribed to the rays of light, also belongs, it seems to be proved, to
+the rays of heat. Professor Forbes also found, by interposing a plate
+of mica to intercept the ray of heat in an intermediate point, an
+effect was produced in certain positions of the mica analogous to what
+was called depolarization in the case of light; namely, a
+partial destruction of the differences which polarization
+establishes.
+27 Ann. de Chimie, vol.
+lv.
+28 Bibliothèque
+Universelle.
+29 Ed. R. S. Transactions,
+vol. xiv.; and Phil. Mag. 1835, vol. v. p. 209. Ib. vol. vii.
+p. 349.
+Before this discovery, M. Melloni had already proved by experiment
+that heat is refracted by transparent substances as light is.
+In the case of light, the depolarizing effect was afterwards
+found to be really, as we have seen, a dipolarizing effect, the
+ray being divided into two rays by double refraction. We are
+naturally much tempted to put the same interpretation upon the
+dipolarizing effect in the case of heat; but perhaps the assertion of
+the analogy between light and heat to this extent is as yet
+insecure.
+It is the more necessary to be cautious in our attempt to identify
+the laws of light and heat, inasmuch as along with all the
+resemblances of the two agents, there are very important differences.
+The power of transmitting light, the diaphaneity of bodies, is
+very distinct from their power of transmitting heat, which has been
+called diathermancy by M. Melloni. Thus both a plate of alum
+and a plate of rock-salt transmit nearly the whole light; but while
+the first stops nearly the whole heat, the second stops very little of
+it; and a plate of opake 156 quartz, nearly impenetrable by light,
+allows a large portion of the heat to pass. By passing the rays
+through various media, the heat may be, as it were, sifted
+from the light which accompanies it.
+[2nd Ed.] [The diathermancy of bodies is distinct from their
+diaphaneity, in so far that the same bodies do not exercise the same
+powers of selection and suppression of certain rays on heat and on
+light; but it appears to be proved by the investigations of modern
+thermotical philosophers (MM. De la Roche, Powell, Melloni, and
+Forbes), that there is a close analogy between the absorption of
+certain colors by transparent bodies, and the absorption of certain
+kinds of heat by diathermanous bodies. Dark sources of heat emit rays
+which are analogous to blue and violet rays of light; and highly
+luminous sources emit rays which are analogous to red rays. And by
+measuring the angle of total reflection for heat of different kinds,
+it has been shown that the former kind of calorific rays are really
+less refrangible than the latter.30
+30 See Prof. Forbes’s Third Series
+of Researches on Heat, Edinb. R.S. Trans. vol. xiv.
+M. Melloni has assumed this analogy as so completely established,
+that he has proposed for this part of thermotics the name
+Thermochroology (Qu. Chromothermotics?); and along with
+this term, many others derived from the Greek, and founded on the same
+analogy. If it should appear, in the work which he proposes to publish
+on this subject, that the doctrines which he has to state cannot
+easily be made intelligible without the use of the terms he suggests,
+his nomenclature will obtain currency; but so large a mass of
+etymological innovations is in general to be avoided in scientific
+works.
+M. Melloni’s discovery of the extraordinary power of
+rock-salt to transmit heat, and Professor Forbes’s discovery of
+the extraordinary power of mica to polarize and depolarize
+heat, have supplied thermotical inquirers with two new and most
+valuable instruments.31]
+31 For an account of many thermotical
+researches, which I have been obliged to pass unnoticed here, see two
+Reports by Prof. Powell on the present state of our knowledge
+respecting Radiant Heat, in the Reports of the British
+Association for 1832 and 1840.
+Moreover, besides the laws of conduction and radiation, many other
+laws of the phenomena of heat have been discovered by philosophers;
+and these must be taken into account in judging any theory of heat. To
+these other laws we must now turn our attention. 157</div></body></text></TEI>

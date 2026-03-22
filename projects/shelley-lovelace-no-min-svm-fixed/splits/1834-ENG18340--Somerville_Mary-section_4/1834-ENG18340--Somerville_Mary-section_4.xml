@@ -1,0 +1,406 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Connexion of the Physical Sciences</title><author>Somerville, Mary (1780-1872)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1834</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="4">
+13
+SECTION III.
+
+Perturbations, Periodic and Secular—Disturbing Action equivalent to
+three Partial Forces—Tangential Force the cause of the Periodic Inequalities
+in Longitude, and Secular Inequalities in the Form and Position
+of the Orbit in its own Plane—Radial Force the cause of Variations in
+the Planet’s Distance from the Sun—It combines with the Tangential
+Force to produce the Secular Variations in the Form and Position of the
+Orbit in its own Plane—Perpendicular Force the cause of Periodic
+Perturbations in Latitude, and Secular Variations in the Position of the
+Orbit with regard to the Plane of the Ecliptic—Mean Motion and
+Major Axis Invariable—Stability of System—Effects of a Resisting
+Medium—Invariable Plane of the Solar System and of the Universe—Great
+Inequality of Jupiter and Saturn.
+The planets are subject to disturbances of two kinds, both
+resulting from the constant operation of their reciprocal attraction:
+one kind, depending upon their positions with regard to
+each other, begins from zero, increases to a maximum, decreases,
+and becomes zero again, when the planets return to the same
+relative positions. In consequence of these, the disturbed planet
+is sometimes drawn away from the sun, sometimes brought
+nearer to him: sometimes it is accelerated in its motion, and
+sometimes retarded. At one time it is drawn above the plane
+of its orbit, at another time below it, according to the position
+of the disturbing body. All such changes, being accomplished
+in short periods, some in a few months, others in years, or in
+hundreds of years, are denominated periodic inequalities. The
+inequalities of the other kind, though occasioned likewise by the
+disturbing energy of the planets, are entirely independent of
+their relative positions. They depend upon the relative positions
+of the orbits alone, whose forms and places in space are
+altered by very minute quantities, in immense periods of time,
+and are therefore called secular inequalities.
+The periodical perturbations are compensated when the bodies
+return to the same relative positions with regard to one another
+and to the sun: the secular inequalities are compensated when
+14the orbits return to the same positions relatively to one another
+and to the plane of the ecliptic.
+Planetary motion, including both these kinds of disturbance,
+may be represented by a body revolving in an ellipse, and making
+small and transient deviations, now on one side of its path, and
+now on the other, whilst the ellipse itself is slowly, but perpetually,
+changing both in form and position.
+The periodic inequalities are merely transient deviations of a
+planet from its path, the most remarkable of which only lasts
+about 918 years; but, in consequence of the secular disturbances,
+the apsides, or extremities of the major axes of all the orbits,
+have a direct but variable motion in space, excepting those of
+the orbit of Venus, which are retrograde (N. 61), and the lines
+of the nodes move with a variable velocity in a contrary direction.
+Besides these, the inclination and excentricity of every orbit are
+in a state of perpetual but slow change. These effects result
+from the disturbing action of all the planets on each. But, as
+it is only necessary to estimate the disturbing influence of one
+body at a time, what follows may convey some idea of the
+manner in which one planet disturbs the elliptical motion of
+another.
+Suppose two planets moving in ellipses round the sun; if one
+of them attracted the other and the sun with equal intensity,
+and in parallel directions (N. 62), it would have no effect in
+disturbing the elliptical motion. The inequality of this attraction
+is the sole cause of perturbation, and the difference between
+the disturbing planet’s action on the sun and on the disturbed
+planet constitutes the disturbing force, which consequently varies
+in intensity and direction with every change in the relative positions
+of the three bodies. Although both the sun and planet
+are under the influence of the disturbing force, the motion of the
+disturbed planet is referred to the centre of the sun as a fixed
+point, for convenience. The whole force (N. 63) which disturbs
+a planet is equivalent to three partial forces. One of these acts
+on the disturbed planet, in the direction of a tangent to its orbit,
+and is called the tangential force: it occasions secular inequalities
+in the form and position of the orbit in its own plane, and is
+the sole cause of the periodical perturbations in the planet’s
+longitude. Another acts upon the same body in the direction
+of its radius vector, that is, in the line joining the centres of
+15the sun and planet, and is called the radial force: it produces
+periodical changes in the distance of the planet from the sun,
+and affects the form and position of the orbit in its own plane.
+The third, which may be called the perpendicular force, acts at
+right angles to the plane of the orbit, occasions the periodic
+inequalities in the planet’s latitude, and affects the position of
+the orbit with regard to the plane of the ecliptic.
+It has been observed, that the radius vector of a planet,
+moving in a perfectly elliptical orbit, passes over equal spaces
+or areas in equal times; a circumstance which is independent of
+the law of the force, and would be the same whether it varied
+inversely as the square of the distance, or not, provided only
+that it be directed to the centre of the sun. Hence the tangential
+force, not being directed to the centre, occasions an unequable
+description of areas, or, what is the same thing, it disturbs the
+motion of the planet in longitude. The tangential force sometimes
+accelerates the planet’s motion, sometimes retards it, and
+occasionally has no effect at all. Were the orbits of both planets
+circular, a complete compensation would take place at each revolution
+of the two planets, because the arcs in which the accelerations
+and retardations take place would be symmetrical on each
+side of the disturbing force. For it is clear, that if the motion
+be accelerated through a certain space, and then retarded through
+as much, the motion at the end of the time will be the same as
+if no change had taken place. But, as the orbits of the planets
+are ellipses, this symmetry does not hold: for, as the planet
+moves unequably in its orbit, it is in some positions more
+directly, and for a longer time, under the influence of the disturbing
+force than in others. And, although multitudes of
+variations do compensate each other in short periods, there are
+others, depending on peculiar relations among the periodic times
+of the planets, which do not compensate each other till after one,
+or even till after many revolutions of both bodies. A periodical
+inequality of this kind in the motions of Jupiter and Saturn has
+a period of no less than 918 years.
+The radial force, or that part of the disturbing force which
+acts in the direction of the line joining the centres of the sun
+and disturbed planet, has no effect on the areas, but is the cause
+of periodical changes of small extent in the distance of the planet
+from the sun. It has already been shown, that the force producing
+16perfectly elliptical motion varies inversely as the square
+of the distance, and that a force following any other law would
+cause the body to move in a curve of a very different kind.
+Now, the radial disturbing force varies directly as the distance;
+and, as it sometimes combines with and increases the intensity
+of the sun’s attraction for the disturbed body, and at other times
+opposes and consequently diminishes it, in both cases it causes
+the sun’s attraction to deviate from the exact law of gravity,
+and the whole action of this compound central force on the disturbed
+body is either greater or less than what is requisite for
+perfectly elliptical motion. When greater, the curvature of the
+disturbed planet’s path, on leaving its perihelion (N. 64), or
+point nearest the sun, is greater than it would be in the ellipse,
+which brings the planet to its aphelion (N. 65), or point farthest
+from the sun, before it has passed through 180°, as it would do
+if undisturbed. So that in this case the apsides, or extremities
+of the major axis, advance in space. When the central force is
+less than the law of gravity requires, the curvature of the
+planet’s path is less than the curvature of the ellipse. So that
+the planet, on leaving its perihelion, would pass through more
+than 180° before arriving at its aphelion, which causes the apsides
+to recede in space (N. 66). Cases both of advance and recess
+occur during a revolution of the two planets; but those in which
+the apsides advance preponderate. This, however, is not the
+full amount of the motion of the apsides; part arises also from
+the tangential force (N. 63), which alternately accelerates and
+retards the velocity of the disturbed planet. An increase in the
+planet’s tangential velocity diminishes the curvature of its orbit,
+and is equivalent to a decrease of central force. On the contrary,
+a decrease of the tangential velocity, which increases the curvature
+of the orbit, is equivalent to an increase of central force.
+These fluctuations, owing to the tangential force, occasion an
+alternate recess and advance of the apsides, after the manner
+already explained (N. 66). An uncompensated portion of the
+direct motion, arising from this cause, conspires with that already
+impressed by the radial force, and in some cases even nearly
+doubles the direct motion of these points. The motion of the
+apsides may be represented by supposing a planet to move in
+an ellipse, while the ellipse itself is slowly revolving about the
+sun in the same plane (N. 67). This motion of the major axis,
+17which is direct in all the orbits except that of the planet Venus,
+is irregular, and so slow that it requires more than 109,830
+years for the major axis of the earth’s orbit to accomplish a
+sidereal revolution (N. 68), that is, to return to the same stars;
+and 20,984 years to complete its tropical revolution (N. 69), or
+to return to the same equinox. The difference between these
+two periods arises from a retrograde motion in the equinoctial
+point, which meets the advancing axis before it has completed
+its revolution with regard to the stars. The major axis of
+Jupiter’s orbit requires no less than 200,610 years to perform its
+sidereal revolution, and 22,748 years to accomplish its tropical
+revolution from the disturbing action of Saturn alone.
+A variation in the excentricity of the disturbed planet’s orbit
+is an immediate consequence of the deviation from elliptical
+curvature, caused by the action of the disturbing force. When
+the path of the body, in proceeding from its perihelion to its
+aphelion, is more curved than it ought to be from the effect of
+the disturbing forces, it falls within the elliptical orbit, the
+excentricity is diminished, and the orbit becomes more nearly
+circular; when that curvature is less than it ought to be, the
+path of the planet falls without its elliptical orbit (N. 66), and
+the excentricity is increased; during these changes, the length of
+the major axis is not altered, the orbit only bulges out, or
+becomes more flat (N. 70). Thus the variation in the excentricity
+arises from the same cause that occasions the motion of
+the apsides (N. 67). There is an inseparable connection between
+these two elements: they vary simultaneously, and have the
+same period; so that, whilst the major axis revolves in an immense
+period of time, the excentricity increases and decreases by
+very small quantities, and at length returns to its original magnitude
+at each revolution of the apsides. The terrestrial excentricity
+is decreasing at the rate of about 40 miles annually; and,
+if it were to decrease equably, it would be 39,861 years before
+the earth’s orbit became a circle. The mutual action of Jupiter
+and Saturn occasions variations in the excentricity of both orbits,
+the greatest excentricity of Jupiter’s orbit corresponding to the
+least of Saturn’s. The period in which these vicissitudes are
+accomplished is 70,414 years, estimating the action of these two
+planets alone; but, if the action of all the planets were estimated,
+the cycle would extend to millions of years.
+18That part of the disturbing force is now to be considered which
+acts perpendicularly to the plane of the orbit, causing periodic
+perturbations in latitude, secular variations in the inclination of
+the orbit, and a retrograde motion to its nodes on the true plane
+of the ecliptic (N. 71). This force tends to pull the disturbed
+body above, or push (N. 72) it below, the plane of its orbit,
+according to the relative positions of the two planets with regard
+to the sun, considered to be fixed. By this action, it sometimes
+makes the plane of the orbit of the disturbed body tend to coincide
+with the plane of the ecliptic, and sometimes increases its
+inclination to that plane. In consequence of which, its nodes
+alternately recede or advance on the ecliptic (N. 73). When
+the disturbing planet is in the line of the disturbed planet’s nodes
+(N. 74), it neither affects these points, the latitude, nor the
+inclination, because both planets are then in the same plane.
+When it is at right angles to the line of the nodes, and the orbit
+symmetrical on each side of the disturbing force, the average
+motion of these points, after a revolution of the disturbed body,
+is retrograde, and comparatively rapid: but, when the disturbing
+planet is so situated that the orbit of the disturbed planet is not
+symmetrical on each side of the disturbing force, which is most
+frequently the case, every possible variety of action takes place.
+Consequently, the nodes are perpetually advancing or receding
+with unequal velocity; but, as a compensation is not effected,
+their motion is, on the whole, retrograde.
+With regard to the variations in the inclination, it is clear,
+that, when the orbit is symmetrical on each side of the disturbing
+force, all its variations are compensated after a revolution
+of the disturbed body, and are merely periodical perturbations
+in the planet’s latitude; and no secular change is induced
+in the inclination of the orbit. When, on the contrary, that
+orbit is not symmetrical on each side of the disturbing force,
+although many of the variations in latitude are transient or
+periodical, still, after a complete revolution of the disturbed
+body, a portion remains uncompensated, which forms a secular
+change in the inclination of the orbit to the plane of the ecliptic.
+It is true, part of this secular change in the inclination is compensated
+by the revolution of the disturbing body, whose motion
+has not hitherto been taken into the account, so that perturbation
+compensates perturbation; but still a comparatively permanent
+19change is effected in the inclination, which is not compensated
+till the nodes have accomplished a complete revolution.
+The changes in the inclination are extremely minute (N. 75),
+compared with the motion of the nodes, and there is the same
+kind of inseparable connection between their secular changes
+that there is between the variation of the excentricity and the
+motion of the major axis. The nodes and inclinations vary
+simultaneously; their periods are the same, and very great. The
+nodes of Jupiter’s orbit, from the action of Saturn alone, require
+36,261 years to accomplish even a tropical revolution. In what
+precedes, the influence of only one disturbing body has been
+considered; but, when the action and reaction of the whole
+system are taken into account, every planet is acted upon, and
+does itself act, in this manner, on all the others; and the joint
+effect keeps the inclinations and excentricities in a state of perpetual
+variation. It makes the major axes of all the orbits continually
+revolve, and causes, on an average, a retrograde motion
+of the nodes of each orbit upon every other. The ecliptic (N. 71)
+itself is in motion from the mutual action of the earth and
+planets, so that the whole is a compound phenomenon of great
+complexity, extending through unknown ages. At the present
+time the inclinations of all the orbits are decreasing, but so
+slowly, that the inclination of Jupiter’s orbit is only about six
+minutes less than it was in the age of Ptolemy.
+But, in the midst of all these vicissitudes, the length of the
+major axes and the mean motions of the planets remain permanently
+independent of secular changes. They are so connected
+by Kepler’s law, of the squares of the periodic times being proportional
+to the cubes of the mean distances of the planets from
+the sun, that one cannot vary without affecting the other. And
+it is proved, that any variations which do take place are transient,
+and depend only on the relative positions of the bodies.
+It is true that, according to theory, the radial disturbing force
+should permanently alter the dimensions of all the orbits, and
+the periodic times of all the planets, to a certain degree. For
+example, the masses of all the planets revolving within the orbit
+of any one, such as Mars, by adding to the interior mass, increase
+the attracting force of the sun, which, therefore, must contract
+the dimensions of the orbit of that planet, and diminish its
+periodic time; whilst the planets exterior to Mars’s orbit must
+20have the contrary effect. But the mass of the whole of the
+planets and satellites taken together is so small, when compared
+with that of the sun, that these effects are quite insensible, and
+could only have been discovered by theory. And, as it is certain
+that the length of the major axes and the mean motions are
+not permanently changed by any other power whatever, it may
+be concluded that they are invariable.
+With the exception of these two elements, it appears that all
+the bodies are in motion, and every orbit in a state of perpetual
+change. Minute as these changes are, they might be supposed
+to accumulate in the course of ages, sufficiently to derange the
+whole order of nature, to alter the relative positions of the planets,
+to put an end to the vicissitudes of the seasons, and to bring
+about collisions which would involve our whole system, now so
+harmonious, in chaotic confusion. It is natural to inquire, what
+proof exists that nature will be preserved from such a catastrophe?
+Nothing can be known from observation, since the existence of
+the human race has occupied comparatively but a point in duration,
+while these vicissitudes embrace myriads of ages. The
+proof is simple and conclusive. All the variations of the solar
+system, secular as well as periodic, are expressed analytically by
+the sines and cosines of circular arcs (N. 76), which increase
+with the time; and, as a sine or cosine can never exceed the
+radius, but must oscillate between zero and unity, however much
+the time may increase, it follows that when the variations have
+accumulated to a maximum by slow changes, in however long a
+time, they decrease, by the same slow degrees, till they arrive at
+their smallest value, again to begin a new course; thus for ever
+oscillating about a mean value. This circumstance, however,
+would be insufficient, were it not for the small excentricities of
+the planetary orbits, their minute inclinations to the plane of the
+ecliptic, and the revolutions of all the bodies, as well planets as
+satellites, in the same direction. These secure the perpetual
+stability of the solar system (N. 77). However, at the time
+that the stability was proved by La Grange and La Place, the
+telescopic planets between Mars and Jupiter had not been discovered;
+but La Grange, having investigated the subject under a
+very general point of view, showed that, if a planetary system be
+composed of very unequal masses, the whole of the larger would
+maintain an unalterable stability with regard to the form and
+21position of their orbits, while the orbits of the lesser might
+undergo unlimited changes. M. Le Verrier has applied this to the
+solar system, and has found that the orbits of all the larger
+planets will for ever maintain an unalterable stability in form
+and position; for, though liable to mutations of very long periods,
+they return again exactly to what they originally were, oscillating
+between very narrow limits; but he found a zone of instability
+between the orbit of Mars, and twice the mean distance of the
+earth from the sun,[1] or between 1·5 and 2·00; therefore the position
+and form of the orbits of such of the telescopic planets as
+revolve within that zone will be subject to unlimited variations.
+But the orbits of those more remote from the sun than Flora, or
+beyond 2·20, will be stable, so that their excentricities and inclinations
+must always have been, and will always remain, very
+great, since they must have depended upon the primitive conditions
+that prevailed when these planetary atoms were launched
+into space. The 51st of these small bodies, which was discovered,
+and the elements of its orbit determined, by M. Valz, at Nimes,
+has a mean distance of 1·88; so it revolves within the zone
+of instability. It has a shorter periodic time than any of
+those previously discovered, and a greater excentricity, with the
+exception of Nysa. Its orbit cuts that of Mars, and comes
+nearer to the earth than the orbits of either Mars or Venus,
+a circumstance which would be favourable for correcting
+the parallax of the sun, or confirming its accuracy. The
+telescopic planets, numerous as they are, have no influence
+on the motions of the larger planets, for Jupiter has a diameter
+of 90,734 miles, while that of Pallas, his nearest neighbour, is
+only 97 miles, little more than the distance from London to
+Bath. The diameter of Mars, on the other side of the small
+planets, is 4546 miles, and that of the earth
+79251⁄2
+miles, so that
+the telescopic group are too minute to disturb the others. M.
+Le Verrier found another zone of instability between Venus and
+the sun, on the border of which Mercury is revolving, the inclination
+of whose orbit to the plane of the ecliptic is about 7°, which
+is more than that of any of the large planets. Neptune’s
+22orbit is, no doubt, as stable as that of any other of the
+large planets, as the inclination is very small, but he will
+have periodical variations of very long duration from the reciprocal
+attraction between him and Uranus, one especially of
+an enormous duration, similar to those of Jupiter and Saturn,
+and, like them, depending on the time of his revolution round the
+sun, being nearly twice as long as that of Saturn. Mr. Adams
+has computed that Neptune produces a periodical perturbation
+in the motion of Uranus, whose duration is about 6800 years.
+The equilibrium of the system, however, would be deranged
+if the planets moved in a resisting medium (N. 78) sufficiently
+dense to diminish their tangential velocity, for then both the
+excentricities and the major axes of the orbits would vary with
+the time, so that the stability of the system would be ultimately
+destroyed. The existence of an ethereal medium is now proved;
+and, although it is so extremely rare that hitherto its effects on
+the motions of the planets have been altogether insensible, there
+can be no doubt that, in the immensity of time, it will modify
+the forms of the planetary orbits, and may at last even cause the
+destruction of our system, which in itself contains no principle
+of decay, unless a rotatory motion from west to east has been
+given to this medium by the bodies of the solar system, which
+have all been revolving about the sun in that direction for unknown
+ages. This rotation, which seems to be highly probable,
+may even have been coeval with its creation. Such a vortex
+would have no effect on bodies moving with it, but it would
+influence the motions of those revolving in a contrary direction.
+It is possible that the disturbances experienced by comets, which
+have already revealed the existence of this medium, may also, in
+time, disclose its rotatory motion.
+The form and position of the planetary orbits, and the motion
+of the bodies in the same direction, together with the periodicity
+of the terms in which the inequalities are expressed, assure us
+that the variations of the system are confined within very
+narrow limits, and that, although we do not know the extent of
+the limits, nor the period of that grand cycle which probably
+embraces millions of years, yet they never will exceed what is
+requisite for the stability and harmony of the whole; for the
+preservation of which every circumstance is so beautifully and
+wonderfully adapted.
+23The plane of the ecliptic itself, though assumed to be fixed at
+a given epoch for the convenience of astronomical computation, is
+subject to a minute secular variation of 45ʺ·7, occasioned by the
+reciprocal action of the planets. But, as this is also periodical,
+and cannot exceed 2° 42ʹ, the terrestrial equator, which is inclined
+to it at an angle[2] of 23° 27ʹ 28ʺ·29, will never coincide with the
+plane of the ecliptic: so there never can be perpetual spring
+(N. 79). The rotation of the earth is uniform; therefore day
+and night, summer and winter, will continue their vicissitudes
+while the system endures, or is undisturbed by foreign causes.</div></body></text></TEI>

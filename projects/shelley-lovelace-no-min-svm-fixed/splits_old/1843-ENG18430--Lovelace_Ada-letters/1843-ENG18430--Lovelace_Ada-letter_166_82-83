@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 82-83</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 82-83.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1843">undated [15 October 1843]</date>
+          <note type="place">Clifton</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 82-83</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_82-83.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Clifton Sunday. 5 o'clock</p>
+      <p>I cannot bear not to send you a line, my Dear.</p>
+      <p>Tomorrow I shall reply to Herr Kraemer. I have much to say to him in reply; on both the subjects.</p>
+      <p>I have misgivings as to his possessing the art of exerting real moral control; &amp; where that is</p>
+      <p>not in the power of the instructor, then obedience can only be enforced by a system of continual warfare &amp; punishments; a mode of education I consider fatal, &amp; likewise very wretched for unfortunate children.</p>
+      <p>I am now going to the Moravian Meeting. I should have gone yesterday to the Jews' Synagogue, had I not been away. I intend in</p>
+      <p>Town to go to all kinds of places of worship.</p>
+      <p>I am for seeing &amp; knowing all that is possible. What worlds there are in London, yet unknown to me!--</p>
+      <p>Certainly my time never need be wasted there!--</p>
+      <p>Return me De la Rive's letter; for in truth I have not yet managed to decipher the whole of it. It is most interesting Can you send the address</p>
+      <p>where I am to send the pamphlet? We cannot.--</p>
+      <p>Do you see much after the children? You might as well have a little private talk I think with Miss B-- sometimes about them.</p>
+    </div></body>
+  </text>
+</TEI>

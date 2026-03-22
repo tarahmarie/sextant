@@ -1,0 +1,264 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="144">GENERAL REMARKS.
+ELECTRICITY in the form in
+which it was originally studied—Franklinic, frictional, or
+statical electricity—has been so completely identified with
+electricity in its more comprehensive form—Voltaic, chemical, or
+dynamical electricity—that any additions we might have to make
+to the history of the earlier form of the subject are included in the
+later science.
+There are, however, several subjects which may still be regarded
+rather as branches of Electricity than of the Cognate Sciences. Such
+are, for instance, Atmospheric Electricity, with all that belongs to
+Thunderstorms and Lightning Conductors. The observation of Atmospheric
+Electricity has been prosecuted with great zeal at various
+meteorological observatories; and especially at the Observatory
+established by the British Association at Kew. The Aurora Borealis,
+again, is plainly an electrical phenomenon; but probably belonging
+rather to dynamical than to statical electricity. For it strongly
+affects the magnetic needle, and its position has reference to the
+direction of magnetism; but it has not been observed to affect the
+electroscope. The general features of this phenomenon have been
+described by M. de Humboldt, and more recently by M. de Bravais; and
+theories of the mode of its production have been propounded by MM.
+Biot, De la Rive, Kaemtz, and others.
+Again, there are several fishes which have the power of giving an
+electrical shock:—the torpedo, the gymnotus, and the silurus.
+The agency of these creatures has been identified with electricity in
+the most general sense. The peculiar energy of the animal has been
+made to produce the effects which are produced by an electrical
+discharge or a voltaic current:—not only to destroy life in
+small animals, but to 611 deflect a magnet, to make a magnet, to
+decompose water, and to produce a spark.
+Dr. Faraday’s Views of Statical Electric Induction.
+According to the theories of electricity of Æpinus and Coulomb,
+which in this Book of our History are regarded as constituting a main
+part of the progress of this portion of science, the particles of the
+electric fluid or fluids exert forces, attractive and repulsive, upon
+each other in straight lines at a distance, in the same way in which,
+in the Newtonian theory of the universe, the particles of matter are
+conceived as exerting attractive forces upon each other. An electrized
+body presented a conducting body of any form, determines a new
+arrangement of the electric fluids in the conductor, attracting the
+like fluid to its own side, and repelling the opposite fluid to the
+opposite side. This is Electrical Induction. And as, by the
+theory, the attraction is greater at the smaller distances, the
+distribution of the fluid upon the conductor in virtue of this
+Induction will not be symmetrical, but will be governed by laws which
+it will require a complex and difficult calculation to
+determine—as we have seen was the case in the investigations of
+Coulomb, Poisson, and others.
+Instead of this action at a distance. Dr. Faraday has been led to
+conceive Electrical Induction to be the result of an action taking
+place between the electrized body and the conductor through lines of
+contiguous particles in the mass of the intermediate body, which he
+calls the Dielectric. And the irregularities of the
+distribution of the electricity in these cases of Induction, and
+indeed the existence of an action in points protected from direct
+action by the protuberant sides of the conductor, are the causes, I
+conceive, which lead him to the conclusion that Induction takes place
+in curved lines17 of such contiguous particles.
+17 Researches, 1165,
+&c.
+With reference to this, I may remark that, as I have said, the
+distribution of electricity on a conductor in the presence of an
+electrized body is so complex a mathematical problem that I do not
+conceive any merely popular way of regarding the result can entitle us
+to say, that the distribution which we find cannot be explained by the
+Coulombian theory, and must force us upon the assumption of an action
+in curved lines:—which is, indeed, itself a theory, and so vague
+a one 612 that it
+requires to be made much more precise before we can say what
+consequences it does or does not lead to. Professor W. Thomson has
+arrived at a mathematical proof that the effect of induction on the
+view of Coulomb and of Faraday must, under certain conditions, be
+necessarily and universally the same.
+With regard to the influence of different Dielectrics upon
+Induction, the inquiry appears to be of the highest importance; and
+may certainly necessitate some addition to the theory.
+
+
+BOOK XII.
+
+MAGNETISM.
+
+Recent Progress of Terrestrial Magnetism.
+IN Chapter II., I have noticed the history of Terrestrial Magnetism;
+Hansteen’s map published in 1819; the discovery of “magnetic storms”
+about 1825; the chain of associated magnetic observations, suggested
+by M. de Humboldt, and promoted by the British Association and the
+Royal Society; the demand for the continuation of these till 1848; the
+magnetic observations made in several voyages; the magnetic surveys of
+various countries. And I have spoken also of Gauss’s theory of
+Terrestrial Magnetism, and his directions and requirements concerning
+the observations to be made. I may add a few words with regard to the
+more recent progress of the subject.
+The magnetic observations made over large portions of the Earth’s
+surface by various persons, and on the Ocean by British officers, have
+been transmitted to Woolwich, where they have been employed by General
+Sabine in constructing magnetic maps of the Earth for the year 1840.18 Following the course of inquiry
+described in the part of the history referred to, these maps exhibit
+the declination, inclination, and intensity of the magnetic force at
+every point of the earth’s surface. The curves which mark equal
+amounts of each of these three elements (the lines of equal
+declination, inclination, and force:—the
+isogonal, the isoclinal, and the isodynamic
+lines,) are, in their general form, complex and irregular; and it has
+been made a matter of question (the facts being agreed upon) whether
+it be more proper to say that they indicate four poles, as Halley and
+as Hansteen said, or only two poles, as Gauss asserts. The matter
+appears to become more clear if we draw magnetic meridians;
+that is, lines obtained by following the directions, or pointings, of
+the magnetic needle to the north or to 614 the south, till we arrive at the points
+of convergence of all their directions; for there are only two such
+poles, one in the Arctic and one in the Antarctic region. But in
+consequence of the irregularity of the magnetic constitution of the
+earth, if we follow the inclination of the magnetic force round the
+earth on any parallel of latitude, we find that it has two
+maxima and two minima, as if there were four magnetic
+poles. The isodynamic map is a new presentation of the facts of this
+subject; the first having been constructed by Colonel Sabine in
+1837.
+18 These maps are published in Mr.
+Keith Johnstone’s Physical Atlas.
+I have stated also that the magnetic elements at each place are to
+be observed in such a manner as to bring into view both their
+periodical, their secular, and their irregular or
+occasional changes. The observations made at Toronto in Canada,
+and at Hobart Town in Van Diemen’s Land, two stations at equal
+distances from the two poles of the earth, and also at St Helena, a
+station within the tropics, have been discussed by General Sabine with
+great care, and with an amount of labor approaching to that employed
+upon reductions of astronomical observations. And the results have
+been curious and unexpected.
+The declination was first examined.19 This magnetical
+element is, as we have already seen (p. 232),
+liable both to a diurnal and to an annual inequality; and also to
+irregular perturbations which have been termed magnetic storms. Now it
+was found that all these inequalities went on increasing gradually and
+steadily from 1843 to 1848, so as to become, at the end of that time,
+above twice as large as they were at the beginning of it. A new
+periodical change in all these elements appeared to be clearly
+established by this examination. M. Lamont, of Munich, had already
+remarked indications of a decennial period in the diurnal variation of
+the declination of the needle. The duration of the period from minimum
+to maximum being about five years, and therefore the whole period
+about ten years. The same conclusion was found to follow still more
+decidedly from the observations of the dip and intensity.
+19 Phil. Trans. 1852 and
+1856.
+This period of ten years had no familiar meaning in astronomy; and
+if none such had been found for it, its occurrence as a magnetic
+period must have been regarded, as General Sabine says,20 in the light of a fragmentary fact. But
+it happened about this time that the scientific world was made aware
+of the existence of a like period in a 615 phenomenon which no one would have
+guessed to be connected with terrestrial magnetism, namely, the spots
+in the Sun. M. Schwabe, of Dessau, had observed the Sun’s disk with
+immense perseverance for 24 years:—often examining it more than
+300 days in the year; and had found that the spots had, as to their
+quantity and frequency, a periodical character. The years of maximum
+are 1828, 1838, 1848, in which there were respectively 225,21 282, 330 groups of spots. The minimum
+years, 1833, 1843, had only 33 and 34 such groups. This curious fact22 was first made public by M. de
+Humboldt, in the third volume of his Kosmos (1850). The
+coincidence of the periods and epochs of these two classes of facts
+was pointed out by General Sabine in a Memoir presented to the Royal
+Society in March, 1852.
+20 Phil. Trans. 1856, p.
+382.
+21 In 1837 there were 333.
+22 The observations up to 1844 were
+published in Poggendorf’s Annalen.
+Of course it was natural to suppose, even before this discovery,
+that the diurnal and annual inequalities of the magnetic element at
+each place depend upon the action of the sun, in some way or
+other.
+Dr. Faraday had endeavored to point out how the effect of the solar
+heat upon the atmosphere would, according to the known relations of
+heat and magnetism, explain many of the phenomena. But this new
+feature of the phenomena, their quinquennial increase and decrease,
+makes us doubt whether such an explanation can really be the true
+one.
+Of the secular changes in the magnetic elements, not much
+more is known than was known some years ago. These changes go on, but
+their laws are imperfectly known, and their causes not even
+conjectured. M. Hansteen, in a recent memoir,23 says that the
+decrease of the inclination goes on progressively diminishing. With us
+this rate of decrease appears to be at present nearly uniform. We
+cannot help conjecturing that the sun, which has so plain a connexion
+with the diurnal, annual, and occasional movements of the needle, must
+also have some connexion with its secular movements.
+23 See K. Johnstone’s Physical
+Atlas.
+In 1840 the observations made at various places had to a great
+extent enabled Gauss, in connexion with W. Weber, to apply his Theory
+to the actual condition of the Earth;24  and he
+calculated the Declination, Inclination, and Intensity at above 100
+places, and found 616 the agreement, as he says, far beyond
+his hopes. They show, he says, that the Theory comes near to the
+Truth.
+24 Atlas des Erdmagnetismus nach
+den Elementen der Theorie Entworfen. See Preface.
+Correction of Ship’s Compasses.
+The magnetic needle had become of importance when it was found that
+it always pointed to the North. Since that time the history of
+magnetism has had its events reflected in the history of navigation.
+The change of the declination arising from a change of place terrified
+the companions of Columbus. The determination of the laws of this
+change was the object of the voyage of Halley; and has been pursued
+with the utmost energy in the Arctic and Antarctic regions by
+navigators up to the present time. Probably the dependence of the
+magnetic declination upon place is now known well enough for the
+purposes of navigation. But a new source of difficulty has in the
+meantime come into view; the effect of the iron in the ship upon the
+Compass. And this has gone on increasing as guns, cables, stays,
+knees, have been made of iron; then steam-engines with funnels,
+wheels, and screws, have been added; and finally the whole ship has
+been made of iron. How can the compass be trusted in such cases?
+I have already said in the history that
+Mr. Barlow proposed to correct the error of the compass by placing
+near to the compass an iron plate, which from its proximity to the
+compass might counterbalance magnetically the whole effect of the
+ship’s iron upon the compass. This correction was not effectual,
+because the magnetic forces of the plate and of the ship do not change
+their direction and value according to the same law, with the change
+of position. I have further stated that Mr. Airy devised other means
+of correcting the error. I may add a few words on the subject; for the
+subject has been further examined by Mr. Airy25 and by
+others.
+25 Phil. Trans. 1856.
+It appears, by mathematical reasoning, that the magnetic effect of
+the iron in a ship may be regarded as producing two kinds of deviation
+which are added together;—a “polar-magnet deviation,” which
+changes from positive to negative as the direction of the ship’s keel,
+in a horizontal revolution, passes from semicircle to semicircle; and
+a “quadrantal deviation,” which changes from positive to negative as
+the keel turns from quadrant to quadrant. The latter deviation may be
+remedied completely by a mass of unmagnetized iron placed on a level
+617 with the
+compass, either in the athwartship line or in the fore-and-aft line,
+according to circumstances. “The polar-magnet-deviation” may be
+corrected at any given place by a magnet or magnets, but the
+magnets thus applied at one place will not always correct the
+deviation in another magnetic latitude. For it appears that this
+deviation arises partly from a magnetism inherent in the materials of
+the ship, not changing with the change of magnetic position, and
+partly from the effect of terrestrial magnetism upon the ship’s iron.
+But the errors arising from both sources may be remedied by adjusting,
+at a new locality, the positions of the corrective magnets.
+The inherent magnetism of the ship, of which I have spoken, may be
+much affected by the position in which the ship was built; and may
+change from time to time; for instance, by the effect of the battering
+of the waves, and other causes. Hence it is called by Mr. Airy
+“sub-permanent magnetism.”
+Another method of correcting the errors of a ship’s compass has
+been proposed, and is used to some extent; namely, by swinging
+the ship round (in harbor) to all points of azimuth, and thus
+constructing a Table of Compass Errors for that particular
+ship. But to this method it is objected that the Table loses its value
+in a new magnetic latitude much more than the correction by magnets
+does; besides the inconveniences of steering a ship by a Table.
+
+
+BOOK XIII.
+
+VOLTAIC ELECTRICITY.
+</div></body></text></TEI>

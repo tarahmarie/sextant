@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 3-5</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 3-5.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1835">28 June [1835]</date>
+          <note type="place">Fordhook</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 3-5</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_3-5.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Fordhook Sunday Afternoon 28th June</p>
+      <p>I think I had better begin writing to you today, as I may not perhaps have much time after I get your letter tomorrow, particularly as my harp mistress is coming to me. Sir George Philips &amp; Mr. Philips &amp; our uncle have just been here. We were all of us very shy, except Sir George; so you may imagine that we were rather a foolish party. However I like Lord Ebrington very much, &amp; I am sure his manners to me were very cordial through his shyness, which was fortunately transparent. It is agreed that he is to meet us at Weston. Mama has asked him to our wedding, which I am glad of. He said something about your Mother intending to come here on Wednesday.</p>
+      <p>Do you know anything of this? Sir George was at Mr. Babbage's last night, &amp; says we (that is you &amp; I) were well talked over by the philosophers &amp;c; but I was happy to hear from a friend who was in Town yesterday that many persons had not yet heard of our engagement. They may probably know it by this time, but we are in none of the papers, not even the Court Journal.-- Mr Wharton dined with us yesterday &amp; stayed the evening. All the law seems to be going on beautifully.-- I have been this morning to Hanwell Church, which is small enough &amp; countrified enough, &amp; where moreover the singing is sufficiently rustic &amp; bad, for me almost to fancy I was at Ockham. I hope you remember telling me all about your church in the middle of one of our quadrilles, for this was one of the things which made a particular impression upon me. I thought to myself how few young men whom one meets at balls would talk with so much feeling about their country church, &amp; I admired you very much in consequence.--</p>
+      <p>I either was not told, or else forget, which</p>
+      <p>of your sisters was to be with you at Ockham, but I fancy it is the youngest. I am glad you are not there alone. Somehow it does not appear to me that you are made to be alone anywhere, &amp; I do not think I shall trust you much out of my sight. Sir George Philips seemed to think that I must be quite lost without you till Wednesday.-- What a happiness it is to feel towards any one what I do towards you, &amp; to feel too that it is reciprocal!-- I do not think there can be any earthly pleasure equal to that of reposing perfect trust &amp; confidence in another, more especially when that other is to be one's husband. I hope, my dear William, that I shall make you a very affectionate &amp; a very conscientious wife, &amp; shall fulfil all my duties towards you &amp; towards your family in such a manner as to make you the only return I can make for all I owe you, &amp; of which I am so sure that I shall never be reminded by you, that I must take care to keep the remembrance of it in my head.-- Now do not be angry with me, because I have only just spoken the truth-- neither more nor less.--</p>
+      <p>Your sister is at this moment a very</p>
+      <p>enviable person in my opinion. I dare say she is talking with you or walking with you &amp; perhaps thinking about her youngest sister that is to be.-- I am a very impertinent young lady-- am I not?--</p>
+      <p>Monday. 1/2 pst 2 o'clock. I have but a quarter of an hour to write to you, my dear,-- as I expected. Many thanks for your letter this morning, which was brought to me in the middle of my harp lesson, &amp; a very welcome interruption it was too.</p>
+      <p>Do not expect any letter from me on Wednesday, for it strikes me you may have left Ockham before the post arrives. I do not know at what time that is, but at all events I am in hopes of seeing you early in the day; &amp; I hope you will have written to me today to say what time you are to be expected.--</p>
+      <p>We are in the Morning Post &amp; Morning Herald this morning-- only a slight notice-- nothing that need annoy us.-- Their Majesties have sent their congratulations to Mama. The King particularly says "he is very glad, for that he has never hear anything but good of Lord King."-- So that I do not</p>
+      <p>think you are out of favour at Court, though this is of very little consequence to us.--</p>
+      <p>My love to your Sister, if still with you; &amp; tell her I have been seeing about Duetes for Harp &amp; Piano-forte.-- And now, my Dearest, Good Bye. How annoyed you must be at having so much time taken up in reading my stupid letter!--</p>
+      <p>Very Affecy Yours A. Ada. Byron</p>
+    </div></body>
+  </text>
+</TEI>

@@ -1,0 +1,145 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Economy of Machinery and Manufactures</title><author>Babbage, Charles (1791-1871)</author></titleStmt><publicationStmt><publisher>Charles Knight</publisher><pubPlace>London</pubPlace><date>1832</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="12">Chapter 12
+On the Method of Observing Manufactories
+160. Having now reviewed the mechanical principles which
+regulate the successful application of mechanical science to
+great establishments for the production of manufactured goods, it
+remains for us to suggest a few enquiries, and to offer a few
+observations, to those whom an enlightened curiosity may lead to
+examine the factories of this or of other countries.
+The remark—that it is important to commit to writing all
+information as soon as possible after it is received, especially
+when numbers are concerned—applies to almost all enquiries. It
+is frequently impossible to do this at the time of visiting an
+establishment, although not the slightest jealousy may exist; the
+mere act of writing information as it is communicated orally, is
+a great interruption to the examination of machinery. In such
+cases, therefore, it is advisable to have prepared beforehand the
+questions to be asked, and to leave blanks for the answers, which
+may be quickly inserted, as, in a multitude of cases, they are
+merely numbers. Those who have not tried this plan will be
+surprised at the quantity of information which may, through its
+means, be acquired, even by a short examination. Each manufacture
+requires its own list of questions, which will be better drawn up
+after the first visit. The following outline, which is very
+generally applicable, may suffice for an illustration; and to
+save time, it may be convenient to have it printed; and to bind
+up, in the form of a pocket-book, a hundred copies of the
+skeleton forms for processes, with about twenty of the general
+enquiries.
+GENERAL ENQUIRIES
+Outlines of a description of any of the mechanical arts ought to
+contain information on the following points
+Brief sketch of its history, particularly the date of its
+invention, and of its introduction into England.
+Short reference to the previous states through which the
+material employed has passed: the places whence it is procured:
+the price of a given quantity.
+[The various processes must now be described successively
+according to the plan which will be given in (161); after which
+the following information should be given.]
+Are various kinds of the same article made in one establishment,
+or at different ones, and are there differences in the processes?
+To what defects are the goods liable?
+What substitutes or adulterations are used?
+What waste is allowed by the master?
+What tests are there of the goodness of the manufactured
+articles?
+The weight of a given quantity, or number, and a comparison
+with that of the raw material?
+The wholesale price at the manufactory? (L  s. d.) per (  )
+The usual retail price? (L  s. d.)
+Who provide tools? Master, or men? Who repair tools? Master,
+or men?
+What is the expense of the machinery?
+What is the annual wear and tear, and what its duration?
+Is there any particular trade for making it? Where?
+Is it made and repaired at the manufactory?
+In any manufactory visited, state the number ( ) of
+processes; and of the persons employed in each process; and the
+quantity of manufactured produce.
+What quantity is made annually in Great Britain?
+Is the capital invested in manufactories large or small?
+Mention the principal seats of this manufacture in England;
+and if it flourishes abroad, the places where it is established.
+The duty, excise. or bounty, if any, should be stated, and
+any alterations in past years; and also the amount exported or
+imported for a series of years.
+Whether the same article, but of superior, equal, or inferior
+make, is imported?
+Does the manufacturer export, or sell, to a middleman, who
+supplies the merchant?
+To what countries is it chiefly sent? and in what goods are
+the returns made?
+161. Each process requires a separate skeleton, and the
+following outline will be sufficient for many different
+manufactories:
+  Process ( ) Manufacture ( )
+
+    Place ( ) Name ( )
+
+         date    183
+
+The mode of executing it, with sketches of the tools or
+machine if necessary.
+The number of persons necessary to attend the machine. Are
+the operatives, men ( ) women, ( ) or children? ( ) If mixed,
+what are the proportions?
+What is the pay of each? (s. d.) (s. d. ) (s. d.) per ( )
+What number ( ) of hours do they work per day?
+Is it usual, or necessary, to work night and day without
+stopping? Is the labour performed by piece—or by day-work?
+Who provide tools? Master, or men? Who repair tools? Master,
+or men? What degree of skill is required, and how many years' ( )
+apprenticeship?
+The number of times ( ) the operation is repeated per day or
+per hour?
+The number of failures ( ) in a thousand?
+Whether the workmen or the master loses by the broken or
+damaged articles?
+What is done with them?
+If the same process is repeated several times, state the
+diminution or increase of measure, and the loss, if any, at each
+repetition.
+162. In this skeleton, the answers to the questions are in
+some cases printed, as "Who repair the tools?—Masters, Men"; in
+order that the proper answer may be underlined with a pencil. In
+filling up the answers which require numbers, some care should be
+taken: for instance, if the observer stands with his watch in his
+hand before a person heading a pin, the workman will almost
+certainly increase his speed, and the estimate will be too large.
+A much better average will result from enquiring what quantity is
+considered a fair day's work. When this cannot be ascertained,
+the number of operations performed in a given time may frequently
+be counted when the workman is quite unconscious that any person
+is observing him. Thus the sound made by the motion of a loom may
+enable the observer to count the number of strokes per minute,
+even though he is outside the building in which it is contained.
+M. Coulomb, who had great experience in making such observations,
+cautions those who may repeat his experiments against being
+deceived by such circumstances: 'Je prie' (says he) 'ceux qui
+voudront les repeter, s'ils n'ont pas le temps de mesurer les
+resultats apres plusiers jours d'un travail continu, d'observer
+les ouvriers a differentes reprises dans la journee, sans qu'ils
+sachent qu'ils sont observes. L'on ne peut trop avertir combien
+l'on risque de se tromper en calculant, soit la vitesse, soit le
+temps effectif du travail, d'apres une observation de quelques
+minutes.' Memoires de l'Institut. vol. II, p. 247. It frequently
+happens, that in a series of answers to such questions, there are
+some which, although given directly, may also be deduced by a
+short calculation from others that are given or known; and
+advantage should always be taken of these verifications, in order
+to confirm the accuracy of the statements; or, in case they are
+discordant, to correct the apparent anomalies. In putting lists
+of questions into the hands of a person undertaking to give
+information upon any subject, it is in some cases desirable to
+have an estimate of the soundness of his judgement. The questions
+can frequently be so shaped, that some of them may indirectly
+depend on others; and one or two may be inserted whose answers
+can be obtained by other methods: nor is this process without its
+advantages in enabling us to determine the value of our own
+judgement. The habit of forming an estimate of the magnitude of
+any object or the frequency of any occurrence, immediately
+previous to our applying to it measure or number, tends
+materially to fix the attention and to improve the judgement.
+Section II
+On the domestic and political economy of manufactures</div></body></text></TEI>

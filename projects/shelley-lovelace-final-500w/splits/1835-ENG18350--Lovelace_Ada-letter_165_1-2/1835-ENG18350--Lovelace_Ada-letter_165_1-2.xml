@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 1-2</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 1-2.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to William King</title>
+          <date when="1835">8 June [1835]</date>
+          <note type="place">Fordhook</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 1-2</note>
+          <note type="recipient">William King</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_1-2.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Fordhook Acton Monday. 8th June.</p>
+      <p>My dear Lord King,</p>
+      <p>Your letter has been an unexpected happiness to me this morning; but I cannot allow you even to mention such a thing as my "repenting" of anything that has passed between us. I do not know when I have been in so calm &amp; peaceful, &amp; I hope I may add with truth, so</p>
+      <p>grateful a state of mind, as since Thursday last.--</p>
+      <p>I am pretty well; but hot weather never does suit me, &amp; to me the heat here is almost suffocating. The comfort is however that it particularly agrees with Mama. She desires me too to assure you of her kindest regard.</p>
+      <p>I am going this evening to my friend Mrs. Somerville's to stay the night. She has kindly offered to take me to a Concert, which my love of</p>
+      <p>music cannot resist. Sir George Philips &amp; I intend having a tete-a-tete ride tomorrow before my return By the bye, it will be just one week since our ride from Chelsea last Tuesday, &amp; of which it is possible you may have some recollection.--</p>
+      <p>Four more "long days" must pass before Friday Morning will arrive, &amp; so both until then &amp; for ever afterwards, you must believe me, with the most sincere Attachment &amp; Gratitude</p>
+      <p>Yours, A. Ada. Byron</p>
+    </div></body>
+  </text>
+</TEI>

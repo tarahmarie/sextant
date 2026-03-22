@@ -1,0 +1,19 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Philosophy of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="33">
+
+CHAPTER VIII.
+Of the Paradox of Universal Propositions obtained from
+Experience.
+
+
+
+1. IT
+was formerly stated38 that experience cannot
+establish any universal or necessary truths. The number of
+trials which we can make of any proposition is necessarily
+limited, and observation alone cannot give us any ground of
+extending the inference to untried cases. Observed facts
+have no visible bond of necessary connexion, and no exercise
+of our senses can enable us to discover such connexion. We
+can never acquire from a mere observation of facts, the
+right to assert that a proposition is true in all cases, and
+that it could not be otherwise than we find it to be.</div></body></text></TEI>

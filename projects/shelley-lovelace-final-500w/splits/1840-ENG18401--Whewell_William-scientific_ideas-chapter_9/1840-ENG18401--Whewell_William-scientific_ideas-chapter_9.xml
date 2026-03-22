@@ -1,0 +1,37 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Philosophy of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="9">
+
+BOOK II.
+
+
+THE PHILOSOPHY OF THE PURE SCIENCES.
+
+[The principal question discussed in the last Book was this
+(see chaps. v. and vi.): How are necessary and
+universal truths possible? And the answer then
+given was: that the necessity and universality of truths are
+derived from the Fundamental Ideas which they
+involve. And we proceed in this Book to exemplify this
+doctrine in the case of the truths of Geometry and
+Arithmetic, which derive their necessity and universality
+from the Fundamental Ideas of Space, and Time, or Number.
+The question thus examined is that which Kant undertook to
+deal with in his celebrated work, Kritik der reinen
+Vernunft (Examination of the Pure Reason): and
+our solution of the Problem, so far as the Ideas of Space
+and Time are concerned, agrees in the main with his. The
+arguments contained in chapters ii. and vii. of this Book,
+are the leading arguments respecting Space and Time, in
+Kant’s Kritik. Kant, however, instead of calling
+Space and Time Ideas, calls them the necessary
+Forms of our experience, as I have stated in the
+text.
+But though I have adopted Kant’s arguments as to Space and
+Time, all that follows in the succeeding Books, with regard
+to other Ideas, has no resemblance to any doctrines of Kant
+or his school (with the exception, perhaps, of some of the
+views on the Idea of Cause). The nature and character
+of the other Scientific Ideas which I have examined, in the
+succeeding Books, have been established by an analysis of
+the history of the several Sciences to which those Ideas are
+essential, and an examination of the writings of the
+principal discoverers in those Sciences.]</div></body></text></TEI>

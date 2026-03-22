@@ -1,0 +1,342 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="81">CHAPTER 1.
+Discovery of Laws of Electric Phenomena.
+WE have already seen what was
+the state of this branch of knowledge at the beginning of the
+seventeenth century; and the advances made by Gilbert. We must now
+notice the additions which it subsequently received, and especially
+those which led to the discovery of general laws, and the
+establishment of the theory; events of this kind being those of which
+we have more peculiarly to trace the conditions and causes. Among the
+facts which we have thus especially to attend to, are the electric
+attractions of small bodies by amber and other substances when rubbed.
+Boyle, who repeated and extended the experiments of Gilbert, does not
+appear to have arrived at any new general notions; but Otto Guericke
+of Magdeburg, about the same time, made a very material step, by
+discovering that there was an electric force of repulsion as well as
+of attraction. He found that when a globe of sulphur had attracted a
+feather, it afterwards repelled it, till the feather had been in
+contact with some other body. This, when verified under a due
+generality of circumstances, forms a capital fact in our present
+subject. Hawkesbee, who wrote in 1709 (Physico-Mechanical
+Experiments) also observed various of the effects of attraction
+and repulsion upon threads hanging loosely. But the person who appears
+to have first fully seized the general law of these facts, is 194 Dufay, whose
+experiments appear in the Memoirs of the French Academy, in 1733,
+1734, and 1737.5 “I discovered,” he says, “a very simple
+principle, which accounts for a great part of the irregularities, and,
+if I may use the term, the caprices that seem to accompany most of the
+experiments in electricity. This principle is, that electric bodies
+attract all those that are not so, and repel them as soon as they are
+become electric by the vicinity or contact of the electric body. . . .
+Upon applying this principle to various experiments of electricity,
+any one will be surprised at the number of obscure and puzzling facts
+which it clears up.” By the help of this principle, he endeavors to
+explain several of Hawkesbee’s experiments.
+5 Priestley’s History of
+Electricity, p. 45, and the Memoirs quoted.
+A little anterior to Dufay’s experiments were those of Grey, who,
+in 1729, discovered the properties of conductors. He found that
+the attraction and repulsion which appear in electric bodies are
+exhibited also by other bodies in contact with the electric. In this
+manner he found that an ivory ball, connected with a glass tube by a
+stick, a wire, or a packthread, attracted and repelled a feather, as
+the glass itself would have done. He was then led to try to extend
+this communication to considerable distances, first by ascending to an
+upper window and hanging down his ball, and, afterwards, by carrying
+the string horizontally supported on loops. As his success was
+complete in the former case, he was perplexed by failure in the
+latter; but when he supported the string by loops of silk instead of
+hempen cords, he found it again become a conductor of electricity.
+This he ascribed at first to the smaller thickness of the silk, which
+did not carry off so much of the electric virtue; but from this
+explanation he was again driven, by finding that wires of brass still
+thinner than the silk destroyed the effect. Thus Grey perceived that
+the efficacy of the support depended on its being silk, and he soon
+found other substances which answered the same purpose. The
+difference, in fact, depended on the supporting substance being
+electric, and therefore not itself a conductor; for it soon appeared
+from such experiments, and especially6 from those made
+by Dufay, that substances might be divided into electrics per
+se, and non-electrics, or conductors. These terms
+were introduced by Desaguliers,7 and gave a
+permanent currency to the results of the labors of Grey and
+others.
+6 Mém. Acad. Par. 1734.
+7 Priestley, p. 66.
+Another very important discovery belonging to this period is, that
+195 of the two
+kinds of electricity. This also was made by Dufay. “Chance,” says he,
+“has thrown in my way another principle more universal and remarkable
+than the preceding one, and which casts a new light upon the subject
+of electricity. The principle is, that there are two distinct kinds of
+electricity, very different from one another; one of which I call
+vitreous, the other resinous, electricity. The first is
+that of glass, gems, hair, wool, &c.; the second is that of amber,
+gum-lac, silk, &c. The characteristic of these two electricities
+is, that they repel themselves and attract each other.” This discovery
+does not, however, appear to have drawn so much attention as it
+deserved. It was published in 1735; (in the Memoirs of the Academy
+for 1733;) and yet in 1747, Franklin and his friends at
+Philadelphia, who had been supplied with electrical apparatus and
+information by persons in England well acquainted with the then
+present state of the subject, imagined that they were making
+observations unknown to European science, when they were led to assert
+two conditions of bodies, which were in fact the opposite
+electricities of Dufay, though the American experimenters referred
+them to a single element, of which electrized bodies might have either
+excess or defect. “Hence,” Franklin says, “have arisen some new terms
+among us: we say B,” who receives a spark from glass, “and bodies in
+like circumstances, is electrized positively; A,” who
+communicates his electricity to glass, “negatively; or rather B
+is electrized plus, A minus.” Dr. (afterwards Sir
+William) Watson had, about the same time, arrived at the same
+conclusions, which he expresses by saying that the electricity of A
+was more rare, and that of B more dense, than it
+naturally would have been.8 But that which gave the main importance
+to this doctrine was its application to some remarkable experiments,
+of which we must now speak.
+8 Priestley, p. 115.
+Electric action is accompanied, in many cases, by light and a
+crackling sound. Otto Guericke9 observes that his
+sulphur-globe, when rubbed in a dark place, gave faint flashes, such
+as take place when sugar is crushed. And shortly after, a light was
+observed at the surface of the mercury in the barometer, when shaken,
+which was explained at first by Bernoulli, on the then prevalent
+Cartesian principles; but, afterwards, more truly by Hawkesbee, as an
+electrical phenomenon. Wall, in 1708, found sparks produced by rubbing
+amber, and Hawkesbee observed the light and the snapping, as he
+calls it, under various modifications. But the electric spark from a
+living body, which, as 196 Priestley says,10 “makes a
+principal part of the diversion of gentlemen and ladies who come to
+see experiments in electricity,” was first observed by Dufay and the
+Abbé Nollet. Nollet says11 he “shall never forget the surprise
+which the first electric spark ever drawn from the human body excited,
+both in M. Dufay and in himself.” The drawing of a spark from the
+human body was practised in various forms, one of which was familiarly
+known as the “electrical kiss.” Other exhibitions of electrical light
+were the electrical star, electrical rain, and the like.
+9 Experimenta Magdeburgica,
+1672, lib. iv. cap. 15.
+10 P. p. 47.
+11 Priestley, p. 47. Nollet,
+Leçons de Physique, vol.  vi. p. 408.
+As electricians determined more exactly the conditions of
+electrical action, they succeeded in rendering more intense those
+sudden actions which the spark accompanies, and thus produced the
+electric shock. This was especially done in the Leyden
+phial. This apparatus received its name, while the discovery of
+its property was attributed to Cunæus, a native of Leyden, who, in
+1746, handling a vessel containing water in communication with the
+electrical machine, and happening thus to bring the inside and the
+outside into connexion, received a sudden shock in his arms and
+breast. It appears, however,12 that a shock
+had been received under nearly the same circumstances in 1746, by Von
+Kleist, a German prelate, at Camin, in Pomerania. The strangeness of
+this occurrence, and the suddenness of the blow, much exaggerated the
+estimate which men formed of its force. Muschenbroek, after taking one
+shock, declared he would not take a second for the kingdom of France;
+though Boze, with a more magnanimous spirit, wished13 that he might die by such a stroke, and
+have the circumstances of the experiment recorded in the Memoirs of
+the Academy. But we may easily imagine what a new fame and interest
+this discovery gave to the subject of electricity. It was repeated in
+all parts of the world, with various modifications: and the shock was
+passed through a line of several persons holding hands; Nollet, in the
+presence of the king of France, sent it through a circle of 180 men of
+the guards, and along a line of men and wires of 900 toises;14 and experiments of the same kind were
+made in England, principally under the direction of Watson, on a scale
+so large as to excite the admiration of Muschenbroek; who says, in a
+letter to Watson, “Magnificentissimis tuis experimentis superasti
+conatus omnium.” The result was, that the transmission of electricity
+through a length of 12,000 feet was, to sense, instantaneous.
+12 Fischer, v. 490.
+13 Fischer, p. 84.
+14 Ibid. v. 512.
+197 The
+essential circumstances of the electric shock were gradually
+unravelled. Watson found that it did not increase in proportion either
+to the contents of the phial or the size of the globe by which the
+electricity was excited; that the outside coating of the glass (which,
+in the first form of the experiment, was only a film of water), and
+its contents, might be varied in different ways. To Franklin is due
+the merit of clearly pointing out most of the circumstances on which
+the efficacy of the Leyden phial depends. He showed, in 1747,15 that the inside of the bottle is
+electrized positively, the outside negatively; and that the shock is
+produced by the restoration of the equilibrium, when the outside and
+inside are brought into communication suddenly. But in order to
+complete this discovery, it remained to be shown that the electric
+matter was collected entirely at the surface of the glass, and that
+the opposite electricities on the two opposite sides of the glass were
+accumulated by their mutual attraction. Monnier the younger discovered
+that the electricity which bodies can receive, depends upon their
+surface rather than their mass, and Franklin16 soon found that
+“the whole force of the bottle, and power of giving a shock, is in the
+glass itself.” This they proved by decanting the water out of an
+electrized into another bottle, when it appeared that the second
+bottle did not become electric, but the first remained so. Thus it was
+found “that the non-electrics, in contact with the glass, served only
+to unite the force of the several parts.”
+15 Letters, p. 13.
+16 Letters, iv. Sect.
+16.
+So far as the effect of the coating of the Leyden phial is
+concerned, this was satisfactory and complete: but Franklin was not
+equally successful in tracing the action of the electric matter upon
+itself, in virtue of which it is accumulated in the phial; indeed, he
+appears to have ascribed the effect to some property of the glass. The
+mode of describing this action varied, accordingly as two electric
+fluids were supposed (with Dufay,) or one, which was the view
+taken by Franklin. On this latter supposition the parts of the
+electric fluid repel each other, and the excess in one surface of the
+glass expels the fluid from the other surface. This kind of action,
+however, came into much clearer view in the experiments of Canton,
+Wilcke, and Æpinus. It was principally manifested in the attractions
+and repulsions which objects exert when they are in the neighborhood
+of electrized bodies; or in the electrical atmosphere, using
+the phraseology of the time. At present we say that bodies are
+electrized by induction, when they are 198 thus made electric by the electric
+attraction and repulsion of other bodies. Canton’s experiments were
+communicated to the Royal Society in 1753, and show that the
+electricity on each body acts upon the electricity of another body, at
+a distance, with a repulsive energy. Wilcke, in like manner, showed
+that parts of non-electrics, plunged in electric atmospheres, acquire
+an electricity opposite to that of such atmospheres. And Æpinus
+devised a method of examining the nature of the electricity at any
+part of the surface of a body, by means of which he ascertained its
+distribution, and found that it agreed with such a law of
+self-repulsion. His attempt to give mathematical precision to this
+induction was one of the most important steps towards electrical
+theory, and must be spoken of shortly, in that point of view. But in
+the mean time we may observe, that this doctrine was applied to the
+explanation of the Leyden jar; and the explanation was confirmed by
+charging a plate of air, and obtaining a shock from it, in a manner
+which the theory pointed out.
+Before we proceed to the history of the theory, we must mention
+some other of the laws of phenomena which were noticed, and which
+theory was expected to explain. Among the most celebrated of these,
+were the effect of sharp points in conductors, and the phenomena of
+electricity in the atmosphere. The former of these circumstances was
+one of the first which Franklin observed as remarkable. It was found
+that the points of needles and the like throw off and draw off the
+electric virtue; thus a bodkin, directed towards an electrized ball,
+at six or eight inches’ distance, destroyed its electric action. The
+latter subject, involving the consideration of thunder and lightning,
+and of many other meteorological phenomena, excited great interest.
+The comparison of the electric spark to lightning had very early been
+made; but it was only when the discharge had been rendered more
+powerful in the Leyden jar, that the comparison of the effects became
+very plausible. Franklin, about 1750, had offered a few somewhat vague
+conjectures17 respecting the existence of electricity
+in the clouds; but it was not till Wilcke and Æpinus had obtained
+clear notions of the effect of electric matter at a distance, that the
+real condition of the clouds could be well understood. In 1752,
+however,18 D’Alibard, and other French
+philosophers, were desirous of verifying Franklin’s conjecture of the
+analogy of thunder and electricity. This they did by erecting a
+pointed iron rod, forty feet high, 199 at Marli: the rod was found capable of
+giving out electrical sparks when a thunder-cloud passed over the
+place. This was repeated in various parts of Europe, and Franklin
+suggested that a communication with the clouds might be formed by
+means of a kite. By these, and similar means, the electricity of the
+atmosphere was studied by Canton in England, Mazeas in France,
+Beccaria in Italy, and others elsewhere. These essays soon led to a
+fatal accident, the death of Richman at Petersburg, while he was, on
+Aug. 6th, 1753, observing the electricity collected from an
+approaching thunder-cloud, by means of a rod which he called an
+electrical gnomon: a globe of blue fire was seen to leap from the rod
+to the head of the unfortunate professor, who was thus struck
+dead.
+17 Letter v.
+18 Franklin, p. 107.
+[2nd Ed.] [As an important application of the doctrines of
+electricity, I may mention the contrivances employed to protect ships
+from the effects of lightning. The use of conductors in such cases is
+attended with peculiar difficulties. In 1780 the French began to turn
+their attention to this subject, and Le Roi was sent to Brest and the
+various sea-ports of France for that purpose. Chains temporarily
+applied in the rigging had been previously suggested, but he
+endeavored to place, he says, such conductors in ships as might be
+fixed and durable. He devised certain long linked rods, which led from
+a point in the mast-head along a part of the rigging, or in divided
+stages along the masts, and were fixed to plates of metal in the
+ship’s sides communicating with the sea. But these were either unable
+to stand the working of the rigging, or otherwise inconvenient, and
+were finally abandoned.19
+19 See Le Roi’s Memoir in the
+Hist. Acad. Sc. for 1790.
+The conductor commonly used in the English Navy, till recently,
+consisted of a flexible copper chain, tied, when occasion required, to
+the mast-head, and reaching down into the sea; a contrivance
+recommended by Dr. Watson in 1762. But notwithstanding this
+precaution, the shipping suffered greatly from the effects of
+lightning.
+Mr. Snow Harris (now Sir William Snow Harris), whose electrical
+labors are noticed above, proposed to the
+Admiralty, in 1820, a plan which combined the conditions of
+ship-conductors, so desirable, yet so difficult to
+secure:—namely, that they should be permanently fixed, and
+sufficiently large, and yet should in no way interfere with the motion
+of the rigging, or with the sliding masts. The method which he
+proposed was to make the masts themselves conductors of electricity,
+200 by
+incorporating with them, in a peculiar way, two laminæ of
+sheet-copper, uniting these with the metallic masses in the hull by
+other laminæ, and giving the whole a free communication with the sea.
+This method was tried experimentally, both on models and to a large
+extent in the navy itself; and a Commission appointed to examine the
+result reported themselves highly satisfied with Mr. Harris’s plan,
+and strongly recommended that it should be fully carried out in the
+Navy.20]
+20 See Mr. Snow Harris’s paper in
+Phil. Mag. March, 1841.
+It is not here necessary to trace the study of atmospheric
+electricity any further: and we must now endeavor to see how these
+phenomena and laws of phenomena which we have related, were worked up
+into consistent theories; for though many experimental observations
+and measures were made after this time, they were guided by the
+theory, and may be considered as having rather discharged the office
+of confirming than of suggesting it.
+We may observe also that we have now described the period of most
+extensive activity and interest in electrical researches. These
+naturally occurred while the general notions and laws of the phenomena
+were becoming, and were not yet become, fixed and clear. At such a
+period, a large and popular circle of spectators and amateurs feel
+themselves nearly upon a level, in the value of their trials and
+speculations, with more profound thinkers: at a later period, when the
+subject is become a science, that is, a study in which all must be
+left far behind who do not come to it with disciplined, informed, and
+logical minds, the cultivators are far more few, and the shout of
+applause less tumultuous and less loud. We may add, too, that the
+experiments, which are the most striking to the senses, lose much of
+their impressiveness with their novelty. Electricity, to be now
+studied rightly, must be reasoned upon mathematically; how slowly such
+a mode of study makes its way, we shall see in the progress of the
+theory, which we must now proceed to narrate.
+[2nd Ed.] [A new mode of producing electricity has excited much
+notice lately. In October, 1840, one of the workmen in attendance upon
+a boiler belonging to the Newcastle and Durham Railway, reported that
+the boiler was full of fire; the fact  being, that when he placed his
+hand near it an electrical spark was given out. This drew the
+attention of Mr. Armstrong and Mr. Pattinson, who made the
+circumstance publicly known.21 Mr. Armstrong
+pursued the investigation 201 with great zeal, and after various
+conjectures was able to announce22 that the
+electricity was excited at the point where the steam is subject to
+friction in its emission. He found too that he could produce a like
+effect by the emission of condensed air. Following out his views, he
+was able to construct, for the Polytechnic Institution in London, a
+“Hydro-electric Machine,” of greater power than any electrical machine
+previously made. Dr. Faraday took up the investigation as the subject
+of the Eighteenth Series of his Researches, sent to the Royal
+Society, Jan. 26, 1842; and in this he illustrated, with his usual
+command of copious and luminous experiments, a like view;—that
+the electricity is produced by the friction of the particles of the
+water carried along by the steam. And thus this is a new manifestation of
+that electricity, which, to distinguish it from voltaic electricity,
+is sometimes called Friction Electricity or Machine
+Electricity. Dr. Faraday has, however, in the course of this
+investigation, brought to light several new electrical relations of
+bodies.]
+21 Phil. Mag. Oct 1840.
+22 Phil. Mag. Jan. 1848, dated
+Dec. 9, 1841.
+</div></body></text></TEI>

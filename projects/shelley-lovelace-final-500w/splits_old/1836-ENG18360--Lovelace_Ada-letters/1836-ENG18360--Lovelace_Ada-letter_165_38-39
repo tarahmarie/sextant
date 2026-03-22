@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 38-39</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 38-39.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1836">28 April [1836]</date>
+          <note type="place">St. James's Square</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 38-39</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_38-39.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>St. James's Sqre 5 o'clock. Thursdy Afternn. 28th April.</p>
+      <p>My Dearest William. You are not to be alarmed at seeing pencil instead of ink. I am only a little tired after driving, &amp; think it better to be down, and you know ink &amp; recumbency are quite incompatible. I was very glad of your dear little letter this morning, but am afraid the weather promises little for you.-- I enclose you a hideous little note of Babbages, which I have read.-- Hester</p>
+      <p>&amp; I have been calling on Madme Tricoupe, who seems to have much affection for you. How very handsome she is, but she speaks no English, so I had to stammer forth French as I best might.-- She has given us some pamphlets containing a funeral address delivered by Monsieur Tricoupe on my father's death.--</p>
+      <p>I have seen the Philips's today in Mount St. Sir George will enquire about butlers. He said he thought Tubbs would be no loss. Hester seems very doubtful about the capabilities</p>
+      <p>of Locke's man, though she thinks he is clever &amp; would soon learn his business. I am averse to having a man to teach, &amp; think it would be much better to take one who had already filled the situation.</p>
+      <p>I have been with Mr. Lauzelle the dentist both yesterday &amp; today, &amp; am to go again on Tuesday. He has tied two of my teeth together as tight as he can, to my great annoyance, &amp; so they are to remain for two or three weeks.</p>
+      <p>I had a lesson this morning from Miss D'Espourria.--</p>
+      <p>Hester is a great comfort, &amp; her little room is really very nice.-- She was called for last night to go to a party at Lady Philips's. Your mother &amp; Charlotte come to us on Wednesday Evening. The former sent a very gracious message.</p>
+      <p>Lord Courtenay called yesterday, &amp; was very friendly.</p>
+      <p>Your Birdie longs to give ou a kiss, &amp; to peck at ou. Think of it a great deal, &amp; believe it is ou very tender &amp; affectionate little mate, A. A. K.</p>
+    </div></body>
+  </text>
+</TEI>

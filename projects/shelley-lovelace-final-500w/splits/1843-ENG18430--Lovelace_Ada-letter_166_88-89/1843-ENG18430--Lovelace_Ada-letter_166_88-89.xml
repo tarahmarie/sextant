@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 88-89</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 88-89.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1843">undated [20 October 1843]</date>
+          <note type="place">Clifton</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 88-89</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_88-89.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Clifton Friday Evg.</p>
+      <p>Is not the enclosed a nice letter? What a contrast to E.N's reply, (altho' to the very same words from me, since E. N forwarded the unlucky P.S to its rightful owner)! The modesty of Mrs Joanna, whose own reputation would give her a right to treat me as a literary nobody, is ridiculously diverse from the arrogant &amp; condescending tone of his reply.</p>
+      <p>I think that (tho' I would rather drop the disagreeable correspondence) there are some reasons why I ought to reply,</p>
+      <p>but briefly &amp; in a few very explicit lines. You are not aware of his violent previous bitterness &amp; intemperate vituperations against both you &amp; me; &amp; I consider that I should not now leave things between us on an indefinite footing; just that he may have the satisfaction of turning his back on me the first time we may accidentally meet.</p>
+      <p>I think that I ought to settle on what footing we are to be, &amp; also the true ground of my alienation from &amp; contempt for him, viz (his ungrateful &amp; ungentlemanlike tone of mind).</p>
+      <p>The Hen admired my yesterday's letter to Kraemer very much.</p>
+      <p>I hope you may equally have</p>
+      <p>liked it.</p>
+      <p>Surely the Crosses must be a resource to you in the evenings.</p>
+      <p>The Hen is a poor wretched creature still, &amp; much in status quo.</p>
+    </div></body>
+  </text>
+</TEI>

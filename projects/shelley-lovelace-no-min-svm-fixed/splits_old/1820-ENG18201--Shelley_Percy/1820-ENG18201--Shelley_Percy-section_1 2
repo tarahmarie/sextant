@@ -1,0 +1,152 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Prometheus Unbound</title><author>Percy Bysshe Shelley</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1820</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="1">PREFACE.
+The Greek tragic writers, in selecting as their subject any portion of
+their national history or mythology, employed in their treatment of it
+a certain arbitrary discretion. They by no means conceived themselves
+bound to adhere to the common interpretation or to imitate in story as
+in title their rivals and predecessors. Such a system would have
+amounted to a resignation of those claims to preference over their
+competitors which incited the composition. The Agamemnonian story was
+exhibited on the Athenian theatre with as many variations as dramas.
+I have presumed to employ a similar license. The “Prometheus Unbound”
+of Aeschylus supposed the reconciliation of Jupiter with his victim as
+the price of the disclosure of the danger threatened to his empire by
+the consummation of his marriage with Thetis. Thetis, according to
+this view of the subject, was given in marriage to Peleus, and
+Prometheus, by the permission of Jupiter, delivered from his captivity
+by Hercules. Had I framed my story on this model, I should have done
+no more than have attempted to restore the lost drama of Aeschylus; an
+ambition which, if my preference to this mode of treating the subject
+had incited me to cherish, the recollection of the high comparison
+such an attempt would challenge might well abate. But, in truth, I was
+averse from a catastrophe so feeble as that of reconciling the
+Champion with the Oppressor of mankind. The moral interest of the
+fable, which is so powerfully sustained by the sufferings and
+endurance of Prometheus, would be annihilated if we could conceive of
+him as unsaying his high language and quailing before his successful
+and perfidious adversary. The only imaginary being resembling in any
+degree Prometheus, is Satan; and Prometheus is, in my judgement, a
+more poetical character than Satan, because, in addition to courage,
+and majesty, and firm and patient opposition to omnipotent force, he
+is susceptible of being described as exempt from the taints of
+ambition, envy, revenge, and a desire for personal aggrandisement,
+which, in the Hero of “Paradise Lost”, interfere with the interest.
+The character of Satan engenders in the mind a pernicious casuistry
+which leads us to weigh his faults with his wrongs, and to excuse the
+former because the latter exceed all measure. In the minds of those
+who consider that magnificent fiction with a religious feeling it
+engenders something worse. But Prometheus is, as it were, the type of
+the highest perfection of moral and intellectual nature, impelled by
+the purest and the truest motives to the best and noblest ends.
+This Poem was chiefly written upon the mountainous ruins of the Baths
+of Caracalla, among the flowery glades, and thickets of odoriferous
+blossoming trees, which are extended in ever winding labyrinths upon
+its immense platforms and dizzy arches suspended in the air. The
+bright blue sky of Rome, and the effect of the vigorous awakening
+spring in that divinest climate, and the new life with which it
+drenches the spirits even to intoxication, were the inspiration of
+this drama.
+The imagery which I have employed will be found, in many instances, to
+have been drawn from the operations of the human mind, or from those
+external actions by which they are expressed. This is unusual in
+modern poetry, although Dante and Shakespeare are full of instances of
+the same kind: Dante indeed more than any other poet, and with greater
+success. But the Greek poets, as writers to whom no resource of
+awakening the sympathy of their contemporaries was unknown, were in
+the habitual use of this power; and it is the study of their works
+(since a higher merit would probably be denied me) to which I am
+willing that my readers should impute this singularity.
+One word is due in candour to the degree in which the study of
+contemporary writings may have tinged my composition, for such has
+been a topic of censure with regard to poems far more popular, and
+indeed more deservedly popular, than mine. It is impossible that any
+one who inhabits the same age with such writers as those who stand in
+the foremost ranks of our own, can conscientiously assure himself that
+his language and tone of thought may not have been modified by the
+study of the productions of those extraordinary intellects. It is
+true, that, not the spirit of their genius, but the forms in which it
+has manifested itself, are due less to the peculiarities of their own
+minds than to the peculiarity of the moral and intellectual condition
+of the minds among which they have been produced. Thus a number of
+writers possess the form, whilst they want the spirit of those whom,
+it is alleged, they imitate; because the former is the endowment of
+the age in which they live, and the latter must be the uncommunicated
+lightning of their own mind.
+The peculiar style of intense and comprehensive imagery which
+distinguishes the modern literature of England has not been, as a
+general power, the product of the imitation of any particular writer.
+The mass of capabilities remains at every period materially the same;
+the circumstances which awaken it to action perpetually change. If
+England were divided into forty republics, each equal in population
+and extent to Athens, there is no reason to suppose but that, under
+institutions not more perfect than those of Athens, each would produce
+philosophers and poets equal to those who (if we except Shakespeare)
+have never been surpassed. We owe the great writers of the golden age
+of our literature to that fervid awakening of the public mind which
+shook to dust the oldest and most oppressive form of the Christian
+religion. We owe Milton to the progress and development of the same
+spirit: the sacred Milton was, let it ever be remembered, a
+republican, and a bold inquirer into morals and religion. The great
+writers of our own age are, we have reason to suppose, the companions
+and forerunners of some unimagined change in our social condition or
+the opinions which cement it. The cloud of mind is discharging its
+collected lightning, and the equilibrium between institutions and
+opinions is now restoring, or is about to be restored.
+As to imitation, poetry is a mimetic art. It creates, but it creates
+by combination and representation. Poetical abstractions are beautiful
+and new, not because the portions of which they are composed had no
+previous existence in the mind of man or in nature, but because the
+whole produced by their combination has some intelligible and
+beautiful analogy with those sources of emotion and thought, and with
+the contemporary condition of them: one great poet is a masterpiece of
+nature which another not only ought to study but must study. He might
+as wisely and as easily determine that his mind should no longer be
+the mirror of all that is lovely in the visible universe as exclude
+from his contemplation the beautiful which exists in the writings of a
+great contemporary. The pretence of doing it would be a presumption in
+any but the greatest; the effect, even in him, would be strained,
+unnatural and ineffectual. A poet is the combined product of such
+internal powers as modify the nature of others; and of such external
+influences as excite and sustain these powers; he is not one, but
+both. Every man’s mind is, in this respect, modified by all the
+objects of nature and art; by every word and every suggestion which he
+ever admitted to act upon his consciousness; it is the mirror upon
+which all forms are reflected, and in which they compose one form.
+Poets, not otherwise than philosophers, painters, sculptors and
+musicians, are, in one sense, the creators, and, in another, the
+creations, of their age. From this subjection the loftiest do not
+escape. There is a similarity between Homer and Hesiod, between
+Aeschylus and Euripides, between Virgil and Horace, between Dante and
+Petrarch, between Shakespeare and Fletcher, between Dryden and Pope;
+each has a generic resemblance under which their specific distinctions
+are arranged. If this similarity be the result of imitation, I am
+willing to confess that I have imitated.
+Let this opportunity be conceded to me of acknowledging that I have,
+what a Scotch philosopher characteristically terms, ‘a passion for
+reforming the world:’ what passion incited him to write and publish
+his book, he omits to explain. For my part I had rather be damned with
+Plato and Lord Bacon, than go to Heaven with Paley and Malthus. But it
+is a mistake to suppose that I dedicate my poetical compositions
+solely to the direct enforcement of reform, or that I consider them in
+any degree as containing a reasoned system on the theory of human
+life. Didactic poetry is my abhorrence; nothing can be equally well
+expressed in prose that is not tedious and supererogatory in verse. My
+purpose has hitherto been simply to familiarise the highly refined
+imagination of the more select classes of poetical readers with
+beautiful idealisms of moral excellence; aware that until the mind can
+love, and admire, and trust, and hope, and endure, reasoned principles
+of moral conduct are seeds cast upon the highway of life which the
+unconscious passenger tramples into dust, although they would bear the
+harvest of his happiness. Should I live to accomplish what I purpose,
+that is, produce a systematical history of what appear to me to be the
+genuine elements of human society, let not the advocates of injustice
+and superstition flatter themselves that I should take Aeschylus
+rather than Plato as my model.
+The having spoken of myself with unaffected freedom will need little
+apology with the candid; and let the uncandid consider that they
+injure me less than their own hearts and minds by misrepresentation.
+Whatever talents a person may possess to amuse and instruct others, be
+they ever so inconsiderable, he is yet bound to exert them: if his
+attempt be ineffectual, let the punishment of an unaccomplished
+purpose have been sufficient; let none trouble themselves to heap the
+dust of oblivion upon his efforts; the pile they raise will betray his
+grave which might otherwise have been unknown.</div></body></text></TEI>

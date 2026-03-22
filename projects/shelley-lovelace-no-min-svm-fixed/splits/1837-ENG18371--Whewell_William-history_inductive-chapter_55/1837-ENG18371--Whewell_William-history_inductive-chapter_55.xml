@@ -1,0 +1,151 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="55">CHAPTER I.
+Prelude to the Solution of Problems in
+Acoustics.
+IN some measure the true
+theory of sound was guessed by very early speculators on the subject;
+though undoubtedly conceived in a very vague and wavering manner. That
+sound is caused by some motion of the sounding body, and conveyed by
+some motion of the air to the ear, is an opinion which we trace to the
+earliest times of physical philosophy. We may take Aristotle as the
+best expounder of this stage of opinion. In his Treatise On Sound
+and Hearing, he says, “Sound takes place when bodies strike the
+air, not by the air having a form impressed upon it
+(σχηματίζομενον), as some think, but by its being moved in a
+corresponding manner; (probably he means in a manner corresponding to
+the impulse;) the air being contracted, and expanded, and overtaken,
+and again struck by the impulses of the breath and of the strings. For
+when the breath falls upon and strikes the air which is next it, the
+air is carried forwards with an impetus, and that which is contiguous
+to the first is carried onwards; so that the same voice spreads every
+way as far as the motion of the air takes place.”
+As is the case with all such specimens of ancient physics,
+different persons would find in such a statement very different
+measures of truth and distinctness. The admirers of antiquity might
+easily, by pressing the language closely, and using the light of
+modern discovery, detect in this passage an exact account of the
+production and propagation of sound: while others might maintain that
+in Aristotle’s own mind, there were only vague notions, and verbal
+generalizations. This 25 latter opinion is very emphatically
+expressed by Bacon.1 “The collision or thrusting of air,
+which they will have to be the cause of sound, neither denotes the
+form nor the latent process of sound; but is a term of
+ignorance and of superficial contemplation.” Nor can it be justly
+denied, that an exact and distinct apprehension of the kind of motion
+of the air by which sound is diffused, was beyond the reach of the
+ancient philosophers, and made its way into the world long afterwards.
+It was by no means easy to reconcile the nature of such motion with
+obvious phenomena. For the process is not evident as motion; since, as
+Bacon also observes,2 it does not visibly agitate the flame of
+a candle, or a feather, or any light floating substance, by which the
+slightest motions of the air are betrayed. Still, the persuasion that
+sound is some motion of the air, continued to keep hold of men’s
+minds, and acquired additional distinctness. The illustration employed
+by Vitruvius, in the following passage, is even now one of the best we
+can offer.3 “Voice is breath, flowing, and made
+sensible to the hearing by striking the air. It moves in infinite
+circumferences of circles, as when, by throwing a stone into still
+water, you produce innumerable circles of waves, increasing from the
+centre and spreading outwards, till the boundary of the space, or some
+obstacle, prevents their outlines from going further. In the same
+manner the voice makes its motion in circles. But in water the circle
+moves breadthways upon a level plain; the voice proceeds in breadth,
+and also successively ascends in height.”
+1 Hist. Son. et Aud. vol. ix. p.
+68.
+2 Ibid.
+3 De Arch. v. 3.
+Both the comparison, and the notice of the difference of the two
+cases, prove the architect to have had very clear notions on the
+subject; which he further shows by comparing the resonance of the
+walls of a building to the disturbance of the outline of the waves of
+water when they meet with a boundary, and are thrown back. “Therefore,
+as in the outlines of waves in water, so in the voice, if no obstacle
+interrupt the foremost, it does not disturb the second and the
+following ones, so that all come to the ears of persons, whether high
+up or low down, without resonance. But when they strike against
+obstacles, the foremost, being thrown back, disturb the lines of those
+which follow.” Similar analogies were employed by the ancients in
+order to explain the occurrence of Echoes. Aristotle says,4
+“An Echo takes place, when the air, being as one body in consequence
+of the vessel which bounds it, and being prevented from being thrust
+forwards, is reflected 26 back like a ball.” Nothing material was
+added to such views till modern times.
+4 De Animâ, ii. 8.
+Thus the first conjectures of those who philosophized concerning
+sound, led them to an opinion concerning its causes and laws, which
+only required to be distinctly understood, and traced to mechanical
+principles, in order to form a genuine science of Acoustics. It was,
+no doubt, a work which required a long time and sagacious reasoners,
+to supply what was thus wanting; but still, in consequence of this
+peculiar circumstance in the early condition of the prevalent doctrine
+concerning sound, the history of Acoustics assumes a peculiar form.
+Instead of containing, like the history of Astronomy or of Optics, a
+series of generalizations, each including and rising above preceding
+generalizations; in this case, the highest generalization is in view
+from the first; and the object of the philosopher is to determine its
+precise meaning and circumstances in each example. Instead of having a
+series of inductive Truths, successively dawning on men’s minds, we
+have a series of Explanations, in which certain experimental facts and
+laws are reconciled, as to their mechanical principles and their
+measures, with the general doctrine already in our possession. Instead
+of having to travel gradually towards a great discovery, like
+Universal Gravitation, or Luminiferous Undulations, we take our stand
+upon acknowledged truths, the production and propagation of sound by
+the motion of bodies and of air; and we connect these with other
+truths, the laws of motion and the known properties of bodies, as, for
+instance, their elasticity. Instead of Epochs of Discovery, we
+have Solutions of Problems; and to these we must now
+proceed.
+We must, however, in the first place, notice that these Problems
+include other subjects than the mere production and propagation of
+sound generally. For such questions as these obviously
+occur:—what are the laws and cause of the differences of
+sounds;—of acute and grave, loud and low, continued and
+instantaneous;—and, again, of the differences of articulate
+sounds, and of the quality of different voices and different
+instruments? The first of these questions, in particular, the real
+nature of the difference of acute and grave sounds, could not help
+attracting attention; since the difference of notes in this respect
+was the foundation of one of the most remarkable mathematical sciences
+of antiquity. Accordingly, we find attempts to explain this difference
+in the ancient writers on music. In Ptolemy’s Harmonics, the
+third Chapter of the first Book is entitled, “How the 27 acuteness and graveness
+of notes is produced;” and in this, after noting generally the
+difference of sounds, and the causes of difference (which he states to
+be the force of the striking body, the physical constitution of the
+body struck, and other causes), he comes to the conclusion, that “the
+things which produce acuteness in sounds, are a greater density and a
+smaller size; the things which produce graveness, are a greater rarity
+and a bulkier form.” He afterwards explains this so as to include a
+considerable portion of truth. Thus he says, “That in strings, and in
+pipes, other things remaining the same, those which are stopped at the
+smaller distance from the bridge give the most acute note; and in
+pipes, those notes which come through holes nearest to the mouth-hole
+are most acute.” He even attempts a further generalization, and says
+that the greater acuteness arises, in fact, from the body being more
+tense; and that thus “hardness may counteract the effect of greater
+density, as we see that brass produces a more acute sound than lead.”
+But this author’s notions of tension, since they were applied so
+generally as to include both the tension of a string, and the tension
+of a piece of solid brass, must necessarily have been very vague. And
+he seems to have been destitute of any knowledge of the precise nature
+of the motion or impulse by which sound is produced; and, of course,
+still more ignorant of the mechanical principles by which these
+motions are explained. The notion of vibrations of the parts
+of sounding bodies, does not appear to have been dwelt upon as an
+essential circumstance; though in some cases, as in sounding strings,
+the fact is very obvious. And the notion of vibrations of the air does
+not at all appear in ancient writers, except so far as it may be
+conceived to be implied in the comparison of aërial and watery waves,
+which we have quoted from Vitruvius. It is however, very unlikely
+that, even in the case of water, the motions of the particles were
+distinctly conceived, for such conception is far from obvious.
+The attempts to apprehend distinctly, and to explain mechanically,
+the phenomena of sound, gave rise to a series of Problems, of which we
+most now give a brief history. The questions which more peculiarly
+constitute the Science of Acoustics, are the questions concerning
+those motions or affections of the air by which it is the medium of
+hearing. But the motions of sounding bodies have both so much
+connexion with those of the medium, and so much resemblance to them,
+that we shall include in our survey researches on that subject also.
+28</div></body></text></TEI>

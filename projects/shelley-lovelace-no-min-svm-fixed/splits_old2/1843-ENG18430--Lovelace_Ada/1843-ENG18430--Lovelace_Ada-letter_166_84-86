@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 84-86</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 84-86.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1843">undated [18 October 1843]</date>
+          <note type="place">Clifton</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 84-86</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_84-86.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Clifton Weddy. Evg</p>
+      <p>Dearest W. We were so hurried yesterday, that neither the Hen nor I could give all the explanations requisite about the E. Noel correspondence.</p>
+      <p>My "proposed answer" (if it goes at all) would be in part superseded at any rate, by what the</p>
+      <p>Hen told you she had herself written to him last night, in order to save the necessity of my immediately replying further previously to receiving your wishes &amp; advice on the subject.</p>
+      <p>I think the tone of his letters, &amp; of Fanny's also, odious &amp; insolent.--</p>
+      <p>I am glad you have retained De la Rive's letter for Crosse.</p>
+      <p>Your letters are to me the greatest pleasure.</p>
+      <p>You can scarcely estimate how much I think, &amp; how anxiously I look for them.</p>
+      <p>I have been to Bath today, to look for accomodation, but found nothing I approved. The Hen is ill, &amp; has had on leeches. An attack of the chest.</p>
+      <p>Altho' her strength is certainly vastly increased, yet I see symptoms on a more intimate observation, that I by no means like.</p>
+      <p>I do not think her life</p>
+      <p>is likely to be a very lengthened one. Still, with care, I trust 10 or even 15 years may be possible, if not probable.</p>
+      <p>Paralysis is the danger, I feel no doubt; but I think it would probably be of the kind which affects the motive powers only, &amp; not the intellect.</p>
+      <p>Tell Mr. Crosse that, (great as is the disappointment to me), I think he has decided wisely both as regards you, &amp; himself. Tell his son how I regret to miss</p>
+      <p>the opportunity of improving my acquaintance too, with himself.--</p>
+      <p>Beg Miss Boutell to write to me, &amp; to tell me how she thinks the chidlren going on altogether. Tell Annabella I am pleased with her letter, &amp; tell Byron to write.</p>
+    </div></body>
+  </text>
+</TEI>

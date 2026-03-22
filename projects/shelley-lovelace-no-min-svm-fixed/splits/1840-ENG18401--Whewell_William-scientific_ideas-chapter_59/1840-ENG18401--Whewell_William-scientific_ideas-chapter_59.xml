@@ -1,0 +1,202 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Philosophy of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="59">
+
+CHAPTER III.
+Application of the Natural History Method to Mineralogy.
+
+
+
+1. THE
+philosophy of the Sciences of Classification has had great light thrown upon it by
+discussions concerning the methods which are used in
+Botany: for that science is one of the most complete
+examples which can be conceived of the consistent and
+successful application of the principles and ideas of
+Classification; and this application has been made in
+general without giving rise to any very startling paradoxes, or disclosing any insurmountable difficulties.
+But the discussions concerning methods of Mineralogical Classification have been instructive for quite a
+different reason: they have brought into view the
+boundaries and the difficulties of the process of Classification; and have presented examples in which every
+possible mode of classifying appeared to involve inextricable contradictions. I will notice some of the points
+of this kind which demand our attention, referring to
+the works published recently by several mineralogists.
+In the History of Mineralogy we noticed the attempt made by Mohs and other Germans to apply to
+minerals a method of arrangement similar to that
+which has been so successfully employed for plants.
+The survey which we have now taken of the grounds
+of that method will point out some of the reasons of
+the very imperfect success of this attempt. We have
+already said that the Terminology of Mineralogy was
+materially reformed by Werner; and including in this
+branch of the subject (as we must do) the Crystallography of later writers, it may be considered as to a
+great extent complete. Of the attempts at a Natural
+arrangement, that of Mohs appears to proceed by the 139 method of blind trial, the undefinable perception of
+relationship, by which the earliest attempts at a Natural Arrangement of plants were made. Breithaupt
+however, has made (though I do not know that he has
+published) an essay in a mode which corresponds very
+nearly to Adanson’s process of multiplied comparisons.
+Having ascertained the specific gravity and hardness
+of all the species of minerals, he arranged them in a
+table, representing by two lines at right angles to each
+other these two numerical quantities. Thus all minerals were distributed according to two co-ordinates
+representing specific gravity and hardness. He conceived that the groups which were thus brought together were natural groups. On both these methods, and
+on all similar ones, we might observe, that in minerals
+as in plants, the mere general notion of Likeness cannot lead us to a real arrangement: this notion requires
+to have precision and aim given it by some other relation;—by the relation of Chemical Composition in
+minerals, as by the relation of Organic Function in
+vegetables. The physical and crystallographical properties of minerals must be studied with reference to
+their constitution; and they must be arranged into
+Groups which have some common Chemical Character,
+before we can consider any advance as made towards a
+Natural Arrangement.
+In reality, it happens in Mineralogy as it happened
+in Botany, that those speculators are regulated by
+an obscure perception of this ulterior relation, who
+do not profess to be regulated by it. Several of the
+Orders of Mohs have really great unity of chemical
+character, and thus have good evidence of their being
+really Natural Orders.
+2. Supposing the Diataxis of minerals thus obtained, Mohs attempted the Diagnosis; and his Characteristick of the Mineral Kingdom, published in
+Dresden, in 1820, was the first public indication of his
+having constructed a system. From the nature of a
+Characteristick, it is necessarily brief, and without any
+ostensible principle; but its importance was duly appreciated by the author’s countrymen. Since that 140 time, many attempts have been made at improved
+arrangements of minerals, but none, I think, (except
+perhaps that of Breithaupt,) professing to proceed
+rigorously on the principles of Natural History;—to
+arrange by means of external characters, neglecting
+altogether, or rather postponing, the consideration of
+chemical properties. By relaxing from this rigour,
+however, and by combining physical and chemical considerations, arrangements have been obtained (for
+example, that of Naumann,) which appear more likely
+than the one of Mohs to be approximations to an ultimate really natural system. Naumann’s Classes are
+Hydrolytes, Haloides, Silicides, Metal Oxides, Metals,
+Sulphurides, Anthracides, with subdivisions of Orders,
+as Anhydrous unmetallic Silicides. It may be remarked
+that the designations of these are mostly chemical. As
+we have observed already, Chemistry, and Mineralogy
+in its largest sense, are each the necessary supplement
+of the other. If Chemistry furnish the Nomenclature,
+Mineralogy must supply the Physiography: if the
+Arrangement be founded on External Characters and
+the Names be independent of Chemistry, the chemical
+composition of each species is an important scientific
+Truth respecting it.
+3. The inquiry may actually occur, whether any
+subordination of groups in the mineral kingdom has
+really been made out. The ancient chemical arrangements, for instance, that of Haüy, though professing
+to distribute minerals according to Classes, Orders,
+Genera, and Species, were not only arbitrary, but inapplicable; for the first postulate of any method, that
+the species should have constant characters of unity
+and difference, was not satisfied. It was not ascertained
+that carbonate of lime was really distinguishable in all
+cases from carbonate of magnesia, or of iron; yet these
+species were placed in remote parts of the system: and
+the above carbonates made just so many species; although, if they were distinct from one another at all,
+they were further distinguishable into additional species. Even now, we may, perhaps, say that the limits
+of mineralogical species, and their laws of fixity, are 141 not yet clearly seen. For the discoveries of the isomorphous relations and of the optical properties of
+minerals have rather shown us in what direction the
+object lies, than led us to the goal. It is clear that, in
+the mineral kingdom, the Definition of Species, borrowed from the laws of the continuation of the kind,
+which holds throughout the organic world, fails us
+altogether, and must be replaced by some other condition: nor is it difficult to see that the definite atomic
+relations of the chemical constituents, and the definite
+crystalline angle, must supply the principles of the
+Specific Identity for minerals. Yet the exact limits of
+definiteness in both these cases (when we admit the
+effect of mechanical mixtures, &c.) have not yet been
+completely disentangled. Moreover, any arbitrary assumption (as the allowance of a certain per-centage of
+mixture, or a certain small deviation in the angle,) is
+altogether contrary to the philosophy of the Natural
+System, and can lead to no stable views. It is only
+by laborious, extensive, and minute research, that we
+can hope to attain to any solid basis of arrangement.
+4. Still, though there are many doubts respecting
+mineralogical species, a large number of such species
+are so far fixed that they may be supposed capable of
+being united under the higher divisions of a system
+with approximate truth. Of these higher divisions,
+those which have been termed Orders appear to tend
+to something like a fixed chemical character. Thus
+the Haloids of Naumann, and mostly those of Mohs,
+are combinations of an oxide with an acid, and thus
+resemble Salts, whence their name. The Silicides
+contain most of Mohs’s Spaths: and the Orders Pyrites, Glance, and Blende, are common to Naumann
+and Mohs; being established by the latter on a difference of external character, which difference is, indeed,
+very manifest; and being included by the former in
+one chemical Class, Sulphurides. The distinctions of
+Hydrous and Anhydrous, Metallic and Unmetallic,
+are, of course, chemical distinctions, but occur as the
+differences of Orders in Naumann’s mixed system. 142
+We may observe that some French writers, following Haüy’s last edition, use, instead of metallic and
+unmetallic, autopside metallic and heteropside metallic;
+meaning by this phraseology to acknowledge the discovery that earths, etc., are metallic, though they do
+not appear to be so, while metals both are and appear
+metallic. But this seems to be a refinement not only
+useless but absurd. For what is gained by adding the
+word metallic, which is common to all, and therefore
+makes no distinction? If certain metals are distinguished by their appearing to be metals, this appearance is a reason for giving them the peculiar name,
+metals. Nothing is gained by first bringing earths and
+metals together, and then immediately separating
+them again by new and inconvenient names. No proposition can be expressed better by calling earths, heteropside metallic substances, and therefore such nomenclature is to be rejected.
+Granting, then, that the Orders of the best recent
+mineralogical systems approximate to natural groups,
+we are led to ask whether the same can be said of the
+Genera of the Natural History systems, such as those
+of Mohs and Breithaupt. And here I must confess
+that I see no principle in these Genera; I have failed
+to apprehend the conceptions by the application of
+which they have been constructed: I shall therefore
+not pass any further judgment upon them. The subordination of Mineralogical Species to Orders is a
+manifest gain to science: in the interposition of Genera
+I see nothing but a source of confusion.
+5. In Mineralogy, as in other branches of natural
+history, a reformed arrangement ought to give rise to
+a reformed Nomenclature; and for this, there is more
+occasion at present in Mineralogy than there was in
+Botany at the worst period, at least as far as the extent of the subject allows. The characters of minerals
+are much more dimly and unfrequently developed
+than those of plants; hence arbitrary chemical arrangements, which could not lead to any natural groups,
+and therefore not to any good names, prevailed till
+recently; and this state of things produced an anarchy 143 in which every man did what seemed right in his own
+eyes,—proposed species without any ascertained distinction, and without a thought of subordination, and
+gave them arbitrary names; and thus with only about
+two or three hundred known species, we have thousands upon thousands of names, of anomalous form
+and uncertain application.
+Mohs has attempted to reform the Nomenclature of
+the subject in a mode consistent with his attempt to
+reform the System. In doing this, he has fatally transgressed a rule always insisted upon by the legislators
+of Botany, of altering usual names as little as possible;
+and his names are both so novel and so cumbrous,
+that they appear to have little chance of permanent
+currency. They are, perhaps, more unwieldy than
+they need to be, by referring, as we have said, to three
+of the steps of his classification, the Species, Genus,
+and Order. We may, however, assert confidently, from
+the whole analogy of natural history, that no good
+names can be found which do not refer to at least two
+terms of the arrangement. This rule has been practically adopted to a great extent by Naumann, who
+gives to most of his Haloids the name Spar, as Calc
+spar, Iron spar, &c.; to all his Oxides the terminal
+word Erz (Ore); and to the species of the orders Kies
+(Pyrites), Glance, and Blende, these names. It has
+also been theoretically assented to by Beudant, who
+proposes that we should say silicate stilbite, silicate
+chabasie; carbonate calcaire, carbonate witherite; sulphate couperose, &c. One great difficulty in this case
+would arise from the great number of silicides; it is
+not likely that any names would obtain a footing which
+tacked the term silicide to another word for each of
+these species. The artifice which I have proposed, in
+order to obviate this difficulty, is that we should
+make the names of the silicides, and those alone, end
+in ite or lite, which a large proportion of them do
+already.
+By this and a few similar contrivances, we might,
+I conceive, without any inconvenient change, introduce
+into Mineralogy a systematic nomenclature. 144
+6. I shall now proceed to make a few remarks on
+a work on Mineralogy more recent than those which I
+have above noticed, and written with express reference
+to such difficulties as I have been discussing. I allude
+to the treatise of M. Necker, Le Règne Mineral ramené
+aux Methods d’Histoire Naturelle44, which also contains various dissertations on the Philosophy of Classification in general, and its application to Mineralogy
+in particular.</div></body></text></TEI>

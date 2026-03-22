@@ -1,0 +1,111 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Philosophy of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="13">
+
+CHAPTER IV.
+Of the Definitions and Axioms which relate to Space.
+
+
+
+1. THE
+relations of space have been apprehended with
+peculiar distinctness and clearness from the very first
+unfolding of man’s speculative powers. This was a
+consequence of the circumstance which we have just noticed,
+that the simplest of these relations, and those on which the
+others depend, are seen by intuition. Hence, as soon as men
+were led to speculate concerning the relations of space,
+they assumed just principles, and obtained true results. It
+is said that the science of geometry had its origin
+in Egypt, before the dawn of the Greek philosophy: but the
+knowledge of the early Egyptians (exclusive of their
+mythology) appears to have been purely practical; and,
+probably, their geometry consisted only in some maxims of
+land-measuring, which is what the term implies. The
+Greeks of the time of Plato, had, however, not only
+possessed themselves of many of the most remarkable
+elementary theorems of the science; but had, in several
+instances, reached the boundary of the science in its
+elementary form; as when they proposed to themselves the
+problems of doubling the cube and squaring the circle.
+But the deduction of these theorems by a systematic process,
+and the primary exhibition of the simplest principles
+involved in the idea of space, which such a deduction
+requires, did not take place, so far as we are aware, till a
+period somewhat later. The Elements of Geometry of
+Euclid, in which this task was performed, are to this day
+the standard work on the subject: the author of this work
+taught mathematics with great applause at Alexandria, in the
+reign of Ptolemy Lagus, 99 about 280 years before Christ.
+The principles which Euclid makes the basis of his system
+have been very little simplified since his time; and all the
+essays and controversies which bear upon these principles,
+have had a reference to the form in which they are stated by
+him.
+2. Definitions.—The first principles of Euclid’s
+geometry are, as the first principles of any system of
+geometry must be, definitions and axioms respecting the
+various ideal conceptions which he introduces; as straight
+lines, parallel lines, angles, circles, and the like. But it
+is to be observed that these definitions and axioms are very
+far from being arbitrary hypotheses and assumptions. They
+have their origin in the idea of space, and are merely modes
+of exhibiting that idea in such a manner as to make it
+afford grounds of deductive reasoning. The axioms are
+necessary consequences of the conceptions respecting which
+they are asserted; and the definitions are no less necessary
+limitations of conceptions; not requisite in order to arrive
+at this or that consequence; but necessary in order that it
+may be possible to draw any consequences, and to establish
+any general truths.
+For example, if we rest the end of one straight staff upon
+the middle of another straight staff, and move the first
+staff into various positions, we, by so doing, alter the
+angles which the first staff makes with the other to the
+right hand and to the left. But if we place the staff in
+that special position in which these two angles are equal,
+each of them is a right angle, according to Euclid; and this
+is the definition of a right angle, except that
+Euclid employs the abstract conception of straight lines,
+instead of speaking, as we have done, of staves. But this
+selection of the case in which the two angles are equal is
+not a mere act of caprice; as it might have been if he had
+selected a case in which these angles are unequal in any
+proportion. For the consequences which can be drawn
+concerning the cases of unequal angles, do not lead to
+general truths, without some reference to that peculiar case
+in which the angles are equal: and thus it becomes necessary
+to 100 single out and define that special case, marking it
+by a special phrase. And this definition not only gives
+complete and distinct knowledge what a right angle is, to
+any one who can form the conception of an angle in general;
+but also supplies a principle from which all the properties
+of right angles may be deduced.
+3. Axioms.—With regard to other conceptions also, as
+circles, squares, and the like, it is possible to lay down
+definitions which are a sufficient basis for our reasoning,
+so far as such figures are concerned. But, besides these
+definitions, it has been found necessary to introduce
+certain axioms among the fundamental principles of geometry.
+These are of the simplest character; for instance, that two
+straight lines cannot cut each other in more than one point,
+and an axiom concerning parallel lines. Like the
+definitions, these axioms flow from the Idea of Space, and
+present that idea under various aspects. They are different
+from the definitions; nor can the definitions be made to
+take the place of the axioms in the reasoning by which
+elementary geometrical properties are established. For
+example, the definition of parallel straight lines is, that
+they are such as, however far continued, can never meet:
+but, in order to reason concerning such lines, we must
+further adopt some axiom respecting them: for example, we
+may very conveniently take this axiom; that two straight
+lines which cut one another are not both of them parallel to
+a third straight line1. The definition and the axiom are
+seen to be inseparably connected by our intuition of the
+properties of space; but the axiom cannot be proved from the
+definition, by any rigorous deductive demonstration. And if
+we were to take any other definition of two parallel
+straight lines, (as that they are both perpendicular to a
+third straight line,) we should still, at some point or
+other of our progress, fall in with the same difficulty of
+demonstratively establishing their properties without some
+further assumption.</div></body></text></TEI>

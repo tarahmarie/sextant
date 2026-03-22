@@ -1,0 +1,474 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Chemical History of a Candle</title><author>Faraday, Michael (1791-1867)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1848</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="lecture" n="5">LECTURE V.
+OXYGEN PRESENT IN THE AIR—NATURE OF THE ATMOSPHERE—ITS PROPERTIES—OTHER
+PRODUCTS FROM THE CANDLE—CARBONIC ACID—ITS PROPERTIES.
+We have now seen that we can produce hydrogen and oxygen from the water
+that we obtained from the candle. Hydrogen, you know, comes from the
+candle, and oxygen, you believe, comes from the air. But then you have a
+right to ask me, “How is it that the air and the oxygen do not equally
+well burn the candle?” If you remember what happened when I put a jar of
+oxygen over a piece of candle, you recollect there was a very different
+kind of combustion to that which took place in the air. Now, why is this?
+It is a very important question, and one I shall endeavour to make you
+understand: it relates most intimately to the nature of the atmosphere,
+and is most important to us.
+We have several tests for oxygen besides the mere burning of bodies. You
+have seen a candle burnt in oxygen, or in the air; you have seen
+phosphorus burnt in the air, or in oxygen; and you have seen iron-filings
+burnt in oxygen. But we have other tests besides these, and I am about to
+refer to one or two of them for the purpose of carrying your conviction
+and your experience further. Here we have a vessel of oxygen. I will shew
+its presence to you: if I take a little spark and put it into that oxygen,
+you know, by the experience you gained the last time we met, what will
+happen; if I put that spark into the jar, it will tell you whether we have
+oxygen here or not. Yes! We have proved it by combustion; and now here is
+another test for oxygen, which is a very curious and useful one. I have
+here two jars full of gas, with a plate between them to prevent their
+mixing; I take the plate away, and the gases are creeping one into the
+other. “What happens?” say you: “they together produce no such combustion
+as was seen in the case of the candle.” But see how the presence of oxygen
+is told by its association with this other substance[14]. What a
+beautifully coloured gas I have obtained in this way, shewing me the
+presence of the oxygen! In the same way we can try this experiment by
+mixing common air with this test-gas. Here is a jar containing air—such
+air as the candle would burn in—and here is a jar or bottle containing
+the test-gas. I let them come together over water, and you see the result:
+the contents of the test-bottle are flowing into the jar of air, and you
+see I obtain exactly the same kind of action as before, and that shews me
+that there is oxygen in the air—the very same substance that has been
+already obtained by us from the water produced by the candle. But then,
+beyond that, how is it that the candle does not burn in air as well as in
+oxygen? We will come to that point at once. I have here two jars; they are
+filled to the same height with gas, and the appearance to the eye is alike
+in both, and I really do not know at present which of these jars contains
+oxygen and which contains air, although I know they have previously been
+filled with these gases. But here is our test-gas, and I am going to work
+with the two jars, in order to examine whether there is any difference
+between them in the quality of reddening this gas. I am now going to turn
+this test-gas into one of the jars, and observe what happens. There is
+reddening, you see; there is then oxygen present. We will now test the
+other jar; but you see this is not so distinctly red as the first: and,
+further, this curious thing happens,—if I take these two gases and shake
+them well together with water, we shall absorb the red gas; and then, if I
+put in more of this test-gas and shake again, we shall absorb more; and I
+can go on as long as there be any oxygen present to produce that effect.
+If I let in air, it will not matter; but the moment I introduce water, the
+red gas disappears; and I may go on in this way, putting in more and more
+of the test-gas, until I come to something left behind which will not
+redden any longer by the use of that particular body that rendered the air
+and the oxygen red. Why is that? You see in a moment it is because there
+is, besides oxygen, something else present which is left behind. I will
+let a little more air into the jar, and if it turns red you will know that
+some of that reddening gas is still present, and that consequently it was
+not for the want of this producing body that that air was left behind.
+Now, you will begin to understand what I am about to say. You saw that
+when I burnt phosphorus in a jar, as the smoke produced by the phosphorus
+and the oxygen of the air condensed, it left a good deal of gas unburnt,
+just as this red gas left something untouched,—there was, in fact, this
+gas left behind, which the phosphorus cannot touch, which the reddening
+gas cannot touch, and this something is not oxygen, and yet is part of the
+atmosphere.
+So that is one way of opening out air into the two things of which it is
+composed—oxygen, which burns our candles, our phosphorus, or anything
+else; and this other substance—nitrogen—which will not burn them. This
+other part of the air is by far the larger proportion, and it is a very
+curious body, when we come to examine it; it is remarkably curious, and
+yet you say, perhaps, that it is very uninteresting. It is uninteresting
+in some respects because of this—that it shews no brilliant effects of
+combustion.  If I test it with a taper as I do oxygen and hydrogen, it
+does not burn like hydrogen, nor does it make the taper burn like oxygen.
+Try it in any way I will, it does neither the one thing nor the other: it
+will not take fire; it will not let the taper burn; it puts out the
+combustion of everything. There is nothing that will burn in it in common
+circumstances. It has no smell; it is not sour; it does not dissolve in
+water; it is neither an acid nor an alkali; it is as indifferent to all
+our organs as it is possible for a thing to be. And you might say, “It is
+nothing; it is not worth chemical attention; what does it do in the air?”
+Ah! then come our beautiful and fine results shewn us by an observant
+philosophy.  Suppose, in place of having nitrogen, or nitrogen and oxygen,
+we had pure oxygen as our atmosphere; what would become of us? You know
+very well that a piece of iron lit in a jar of oxygen goes on burning to
+the end. When you see a fire in an iron grate, imagine where the grate
+would go to if the whole of the atmosphere were oxygen. The grate would
+burn up more powerfully than the coals—for the iron of the grate itself
+is even more combustible than the coals which we burn in it. A fire put
+into the middle of a locomotive would be a fire in a magazine of fuel, if
+the atmosphere were oxygen. The nitrogen lowers it down and makes it
+moderate and useful for us, and then, with all that, it takes away with it
+the fumes that you have seen produced from the candle, disperses them
+throughout the whole of the atmosphere, and carries them away to places
+where they are wanted to perform a great and glorious purpose of good to
+man, for the sustenance of vegetation; and thus does a most wonderful
+work, although you say, on examining it, “Why, it is a perfectly
+indifferent thing.” This nitrogen in its ordinary state is an inactive
+element; no action short of the most intense electric force, and then in
+the most infinitely small degree, can cause the nitrogen to combine
+directly with the other element of the atmosphere, or with other things
+round about it; it is a perfectly indifferent, and therefore to say, a
+safe substance.
+But before I take you to that result, I must tell you about the atmosphere
+itself. I have written on this diagram the composition of one hundred
+parts of atmospheric air:—
+                   Bulk.  Weight.
+
+ Oxygen, . . . . .   20    22.3
+
+ Nitrogen, . . . .   80    77.7
+
+                    ———   —————
+
+                    100   100.0
+
+It is a true analysis of the atmosphere, so far as regards the quantity of
+oxygen and the quantity of nitrogen present. By our analysis, we find that
+5 pints of the atmosphere contain only 1 pint of oxygen, and 4 pints, or 4
+parts, of nitrogen by bulk. That is our analysis of the atmosphere. It
+requires all that quantity of nitrogen to reduce the oxygen down, so as to
+be able to supply the candle properly with fuel, so as to supply us with
+an atmosphere which our lungs can healthily and safely breathe; for it is
+just as important to make the oxygen right for us to breathe, as it is to
+make the atmosphere right for the burning of the fire and the candle.
+But now for this atmosphere. First of all, let me tell you the weight of
+these gases. A pint of nitrogen weighs 10⁴⁄₁₀ grains, or a cubic foot
+weighs 1⅙ ounce. That is the weight of the nitrogen. The oxygen is
+heavier: a pint of it weighs 11⁹⁄₁₀ grains, and a cubic foot weighs 1¾
+ounce. A pint of air weighs about 10⁷⁄₁₀ grains, and a cubic foot 1⅕
+ounce.
+[Illustration: Fig. 25.]
+You have asked me several times, and I am very glad you have, “How do you
+weigh gases?” I will shew you; it is very simple, and easily done. Here is
+a balance, and here a copper bottle, made as light as we can consistent
+with due strength, turned very nicely in the lathe, and made perfectly
+air-tight, with a stop-cock, which we can open and shut, which at present
+is open, and therefore allows the bottle to be full of air. I have here a
+nicely-adjusted balance, in which I think the bottle, in its present
+condition, will be balanced by the weight on the other side. And here is a
+pump by which we can force the air into this bottle, and with it we will
+force in a certain number of volumes of air, as measured by the pump.
+[Twenty measures were pumped in.] We will shut that in and put it in the
+balance. See how it sinks: it is much heavier than it was. By what?  By
+the air that we have forced into it by the pump. There is not a greater
+bulk of air, but there is the same bulk of heavier air, because we
+have forced in air upon it. And that you may have a fair notion in your
+mind as to how much this air measures, here is a jar full of water. We
+will open that copper vessel into this jar, and let the air return to its
+former state. All I have to do now is to screw them tightly together, and
+to turn the taps, when there, you see, is the bulk of the twenty pumps of
+air which I forced into the bottle; and to make sure that we have been
+quite correct in what we have been doing, we will take the bottle again to
+the balance, and, if it is now counterpoised by the original weight, we
+shall be quite sure we have made our experiment correctly.
+[Illustration: Fig. 26.]
+It is balanced; so, you see, we can find out the weight of the extra
+volumes of air forced in, in that way, and by that means we are able to
+ascertain that a cubic foot of air weighs 1⅕ ounce. But that small
+experiment will by no means convey to your mind the whole literal truth of
+this matter. It is wonderful how it accumulates when you come to larger
+volumes. This bulk of air [a cubic foot] weighs 1⅕ ounce. What do you
+think of the contents of that box above there, which I have had made for
+the purpose? The air which is within that box weighs one pound—a full
+pound; and I have calculated the weight of the air in this room,—you
+would hardly imagine it, but it is above a ton. So rapidly do the weights
+rise up, and so important is the presence of the atmosphere, and of the
+oxygen and the nitrogen in it, and the use it performs in conveying things
+to and fro from place to place, and carrying bad vapours to places where
+they will do good instead of harm.
+Having given you that little illustration with respect to the weight of
+the air, let me shew you certain consequences of it. You have a right to
+them, because you would not understand so much without it. Do you remember
+this kind of experiment? Have you ever seen it? Suppose I take a pump
+somewhat similar to the one I had a little while ago to force air into the
+bottle, and suppose I place it in such a manner that by certain
+arrangements I can apply my hand to it: my hand moves about in the air so
+easily that it seems to feel nothing, and I can hardly get velocity enough
+by any motion of my own in the atmosphere to make sure that there is much
+resistance to it.
+[Illustration: Fig. 27.]
+But, when I put my hand here [on the air-pump receiver, which was
+afterwards exhausted], you see what happens. Why is my hand fastened to
+this place, and why am I able to pull this pump about? And see! how is it
+that I can hardly get my hand away? Why is this? It is the weight of the
+air—the weight of the air that is above. I have another experiment here,
+which I think will explain to you more about it. When the air is pumped
+from underneath the bladder which is stretched over this glass, you will
+see the effect in another shape: the top is quite flat at present, but I
+will make a very little motion with the pump, and now look at it—see how
+it has gone down, see how it is bent in. You will see the bladder go in
+more and more, until at last I expect it will be driven in and broken by
+the force of the atmosphere pressing upon it.
+[Illustration: Fig. 28.]
+[The bladder at last broke with a loud report.] Now, that was done
+entirely by the weight of the air pressing on it, and you can easily
+understand how that is. The particles that are piled up in the atmosphere
+stand upon each other, as these five cubes do. You can easily conceive
+that four of these five cubes are resting upon the bottom one, and if I
+take that away, the others will all sink down. So it is with the
+atmosphere: the air that is above is sustained by the air that is beneath;
+and when the air is pumped away from beneath them, the change occurs which
+you saw when I placed my hand on the air-pump, and which you saw in the
+case of the bladder, and which you shall see better here. I have tied over
+this jar a piece of sheet india-rubber, and I am now about to take away
+the air from the inside of the jar; and if you will watch the
+india-rubber—which acts as a partition between the air below and the air
+above—you will see, when I pump, how the pressure shews itself. See where
+it is going to—I can actually put my hand into the jar; and yet this
+result is only caused by the great and powerful action of the air above.
+How beautifully it shews this curious circumstance!
+Here is something that you can have a pull at, when I have finished
+to-day. It is a little apparatus of two hollow brass hemispheres, closely
+fitted together, and having connected with it a pipe and a cock, through
+which we can exhaust the air from the inside; and although the two halves
+are so easily taken apart, while the air is left within, yet you will see,
+when we exhaust it by-and-by, no power of any two of you will be able to
+pull them apart. Every square inch of surface that is contained in the
+area of that vessel sustains fifteen pounds by weight, or nearly so, when
+the air is taken out; and you may try your strength presently in seeing
+whether you can overcome that pressure of the atmosphere.
+Here is another very pretty thing—the boys’ sucker, only refined by the
+philosopher. We young ones have a perfect right to take toys, and make
+them into philosophy, inasmuch as now-a-days we are turning philosophy
+into toys. Here is a sucker, only it is made of india-rubber: if I clap it
+upon the table, you see at once it holds. Why does it hold? I can slip it
+about, and yet if I try to pull it up, it seems as if it would pull the
+table with it I can easily make it slip about from place to place; but
+only when I bring it to the edge of the table can I get it off. It is only
+kept down by the pressure of the atmosphere above. We have a couple of
+them; and if you take these two and press them together, you will see how
+firmly they stick. And, indeed, we may use them as they are proposed to be
+used, to stick against windows, or against walls, where they will adhere
+for an evening, and serve to hang anything on that you want. I think,
+however, that you boys ought to be shewn experiments that you can make at
+home; and so here is a very pretty experiment in illustration of the
+pressure of the atmosphere. Here is a tumbler of water. Suppose I were to
+ask you to turn that tumbler upside-down, so that the water should not
+fall out, and yet not be kept in by your hand, but merely by using the
+pressure of the atmosphere. Could you do that? Take a wine-glass, either
+quite full or half-full of water, and put a flat card on the top, turn it
+upside-down, and then see what becomes of the card and of the water. The
+air cannot get in because the water by its capillary attraction round the
+edge keeps it out.
+I think this will give you a correct notion of what you may call the
+materiality of the air; and when I tell you that the box holds a pound of
+it, and this room more than a ton, you will begin to think that air is
+something very serious. I will make another experiment, to convince you of
+this positive resistance. There is that beautiful experiment of the
+popgun, made so well and so easily, you know, out of a quill, or a tube,
+or anything of that kind,—where we take a slice of potato, for instance,
+or an apple, and take the tube and cut out a pellet, as I have now done,
+and push it to one end. I have made that end tight; and now I take another
+piece and put it in: it will confine the air that is within the tube
+perfectly and completely for our purpose; and I shall now find it
+absolutely impossible by any force of mine to drive that little pellet
+close up to the other. It cannot be done. I may press the air to a certain
+extent, but if I go on pressing, long before it comes to the second, the
+confined air will drive the front one out with a force something like that
+of gunpowder; for gunpowder is in part dependent upon the same action that
+you see here exemplified.
+I saw the other day an experiment which pleased me much, as I thought it
+would serve our purpose here. (I ought to have held my tongue for four or
+five minutes before beginning this experiment, because it depends upon my
+lungs for success.) By the proper application of air I expect to be able
+to drive this egg out of one cup into the other by the force of my breath;
+but if I fail, it is in a good cause; and I do not promise success,
+because I have been talking more than I ought to do to make the experiment
+succeed.
+[The Lecturer here tried the experiment, and succeeded in blowing the egg
+from one egg-cup to the other.]
+You see that the air which I blow goes downwards between the egg and the
+cup, and makes a blast under the egg, and is thus able to lift a heavy
+thing—for a full egg is a very heavy thing for air to lift. If you want
+to make the experiment, you had better boil the egg quite hard first, and
+then you may very safely try to blow it from one cup to the other, with a
+little care.
+I have now kept you long enough upon this property of the weight of the
+air, but there is another thing I should like to mention. You saw the way
+in which, in this popgun, I was able to drive the second piece of potato
+half or two-thirds of an inch before the first piece started, by virtue of
+the elasticity of the air—just as I pressed into the copper bottle the
+particles of air by means of the pump. Now, this depends upon a wonderful
+property in the air, namely, its elasticity; and I should like to give you
+a good illustration of this. If I take anything that confines the air
+properly, as this membrane, which also is able to contract and expand so
+as to give us a measure of the elasticity of the air, and confine in this
+bladder a certain portion of air; and then, if we take the atmosphere off
+from the outside of it, just as in these cases we put the pressure on—if
+we take the pressure off, you will see how it will then go on expanding
+and expanding, larger and larger, until it will fill the whole of this
+bell-jar, shewing you that wonderful property of the air, its elasticity,
+its compressibility, and expansibility, to an exceedingly large extent,
+and which is very essential for the purposes and services it performs in
+the economy of creation.
+We will now turn to another very important part of our subject,
+remembering that we have examined the candle in its burning, and have
+found that it gives rise to various products. We have the products, you
+know, of soot, of water, and of something else which you have not yet
+examined. We have collected the water, but have allowed the other things
+to go into the air. Let us now examine some of these other products.
+Here is an experiment which I think will help you in part in this way. We
+will put our candle there, and place over it a chimney, thus. I think my
+candle will go on burning, because the air-passage is open at the bottom
+and the top. In the first place, you see the moisture appearing—that you
+know about. It is water produced from the candle by the action of the air
+upon its hydrogen. But, besides that, something is going out at the top:
+it is not moisture—it is not water—it is not condensable; and yet, after
+all, it has very singular properties. You will find that the air coming
+out of the top of our chimney is nearly sufficient to blow the light out I
+am holding to it; and if I put the light fairly opposed to the current, it
+will blow it quite out. You will say that is as it should be; and I am
+supposing that you think it ought to do so, because the nitrogen does not
+support combustion, and ought to put the candle out, since the candle will
+not burn in nitrogen.
+[Illustration: Fig. 29.]
+But is there nothing else there than nitrogen? I must now anticipate—that
+is to say, I must use my own knowledge to supply you with the means that
+we adopt for the purpose of ascertaining these things, and examining such
+gases as these. I will take an empty bottle—here is one—and if I hold it
+over this chimney, I shall get the combustion of the candle below sending
+its results into the bottle above; and we shall soon find that this bottle
+contains, not merely an air that is bad as regards the combustion of a
+taper put into it, but having other properties.
+Let me take a little quick-lime and pour some common water on to it—the
+commonest water will do. I will stir it a moment, then pour it upon a
+piece of filtering paper in a funnel, and we shall very quickly have a
+clear water proceeding to the bottle below, as I have here. I have plenty
+of this water in another bottle; but, nevertheless, I should like to use
+the lime-water that was prepared before you, so that you may see what its
+uses are. If I take some of this beautiful clear lime-water, and pour it
+into this jar, which has collected the air from the candle, you will see a
+change coming about. Do you see that the water has become quite milky?
+Observe, that will not happen with air merely. Here is a bottle filled
+with air; and if I put a little lime-water into it, neither the oxygen nor
+the nitrogen, nor anything else that is in that quantity of air, will make
+any change in the lime-water. It remains perfectly clear, and no shaking
+of that quantity of lime-water with that quantity of air in its common
+state will cause any change; but if I take this bottle with the
+lime-water, and hold it so as to get the general products of the candle in
+contact with it, in a very short time we shall have it milky. There is the
+chalk, consisting of the lime which we used in making the lime-water,
+combined with something that came from the candle—that other product
+which we are in search of, and which I want to tell you about to-day. This
+is a substance made visible to us by its action, which is not the action
+of the lime-water either upon the oxygen or upon the nitrogen, nor upon
+the water itself, but it is something new to us from the candle. And then
+we find this white powder, produced by the lime-water and the vapour from
+the candle, appears to us very much like whitening or chalk, and, when
+examined, it does prove to be exactly the same substance as whitening or
+chalk. So we are led, or have been led, to observe upon the various
+circumstances of this experiment, and to trace this production of chalk to
+its various causes, to give us the true knowledge of the nature of this
+combustion of the candle—to find that this substance, issuing from the
+candle, is exactly the same as that substance which would issue from a
+retort, if I were to put some chalk into it with a little moisture, and
+make it red-hot: you would then find that exactly the same substance would
+issue from it as from the candle.
+But we have a better means of getting this substance, and in greater
+quantity, so as to ascertain what its general characters are. We find this
+substance in very great abundance in a multitude of cases where you would
+least expect it. All limestones contain a great deal of this gas which
+issues from the candle, and which we call carbonic acid. All chalks, all
+shells, all corals contain a great quantity of this curious air. We find
+it fixed in these stones; for which reason Dr. Black called it “fixed
+air”—finding it in these fixed things like marble and chalk. He called it
+fixed air, because it lost its quality of air, and assumed the condition
+of a solid body. We can easily get this air from marble.  Here is a jar
+containing a little muriatic acid, and here is a taper which, if I put it
+into that jar, will shew only the presence of common air. There is, you
+see, pure air down to the bottom; the jar is full of it  Here is a
+substance—marble[17], a very beautiful and superior marble—and if I put
+these pieces of marble into the jar, a great boiling apparently goes on.
+That, however, is not steam—it is a gas that is rising up; and if I now
+search the jar by a candle, I shall have exactly the same effect produced
+upon the taper as I had from the air which issued from the end of the
+chimney over the burning candle. It is exactly the same action, and caused
+by the very same substance that issued from the candle; and in this way we
+can get carbonic acid in great abundance—we have already nearly filled
+the jar.  We also find that this gas is not merely contained in marble.
+Here is a vessel in which I have put some common whitening—chalk, which
+has been washed in water and deprived of its coarser particles, and so
+supplied to the plasterer as whitening.  Here is a large jar containing
+this whitening and water, and I have here some strong sulphuric acid,
+which is the acid you might have to use if you were to make these
+experiments (only, in using this acid with limestone, the body that is
+produced is an insoluble substance, whereas the muriatic acid produces a
+soluble substance that does not so much thicken the water). And you will
+seek out a reason why I take this kind of apparatus for the purpose of
+shewing this experiment. I do it because you may repeat in a small way
+what I am about to do in a large one. You will have here just the same
+kind of action; and I am evolving in this large jar carbonic acid, exactly
+the same in its nature and properties as the gas which we obtained from
+the combustion of the candle in the atmosphere. And no matter how
+different the two methods by which we prepare this carbonic acid, you will
+see, when we get to the end of our subject, that it is all exactly the
+same, whether prepared in the one way or in the other.
+We will now proceed to the next experiment with regard to this gas. What
+is its nature? Here is one of the vessels full, and we will try it, as we
+have done so many other gases, by combustion. You see it is not
+combustible, nor does it support combustion. Neither, as we know, does it
+dissolve much in water, because we collect it over water very easily.
+Then, you know that it has an effect, and becomes white in contact with
+lime-water; and when it does become white in that way, it becomes one of
+the constituents to make carbonate of lime or limestone.
+The next thing I must shew you is, that it really does dissolve a little
+in water, and  therefore that it is unlike oxygen and hydrogen in that
+respect I have here an apparatus by which we can produce this solution. In
+the lower part of this apparatus is marble and acid, and in the upper part
+cold water. The valves are so arranged that the gas can get from one to
+the other. I will set it in action now, and you can see the gas bubbling
+up through the water, as it has been doing all night long, and by this
+time we shall find that we have this substance dissolved in the water. If
+I take a glass and draw off some of the water, I find that it tastes a
+little acid to the mouth: it is impregnated with carbonic acid; and if I
+now apply a little lime-water to it, that will give us a test of its
+presence. This water will make the lime-water turbid and white, which is
+proof of the presence of carbonic acid.
+Then it is a very weighty gas—it is heavier than the atmosphere. I have
+put their respective weights at the lower part of this table, along with,
+for comparison, the weights of the other gases we have been examining:—
+                       Pint.      Cubic Foot.
+
+Hydrogen, .  .  .  .  ¾ grains. ¹⁄₁₂ ounce.
+
+Oxygen,   .  .  .  .  11⁹⁄₁₀ „   1½  „
+
+Nitrogen, .  .  .  .  10⅒ „   1¼  „
+
+Air,.  .  .  .  .  .  10⁷⁄₁₆ „   1⅜  „
+
+Carbonic acid,  .  .  16⅓  „   1⁹⁄₁₀ „
+
+A pint of it weighs 16⅓ grains, and a cubic foot weighs 1⁹⁄₁₀ ounce,
+almost two ounces. You can see by many experiments that this is a heavy
+gas. Suppose I take a glass containing nothing else but air, and from this
+vessel containing the carbonic acid I attempt to pour a little of this gas
+into that glass; I wonder whether any has gone in or not. I cannot tell by
+the appearance, but I can in this way [introducing the taper]. Yes, there
+it is, you see; and if I were to examine it by lime-water, I should find
+it by that test also. I will take this little bucket, and put it down into
+the well of carbonic acid—indeed, we too often have real wells of
+carbonic acid—and now, if there is any carbonic acid, I must have got to
+it by this time, and it will be in this bucket, which we will examine with
+a taper. There it is, you see; it is full of carbonic acid.
+[Illustration: Fig. 30.]
+There is another experiment by which I will shew you its weight. I have
+here a jar suspended at one end of a balance—it is now equipoised; but
+when I pour this carbonic acid into the jar on the one side which now
+contains air, you will see it sink down at once, because of the carbonic
+acid that I pour into it. And now, if I examine this jar with the lighted
+taper, I shall find that the carbonic acid has fallen into it, and it no
+longer has any power of supporting the combustion. If I blow a
+soap-bubble, which of course will be filled with air, and let it fall into
+this jar of carbonic acid, it will float.
+[Illustration: Fig. 31.]
+But I shall first of all take one of these little balloons filled with
+air.  I am not quite sure where the carbonic acid is; we will just try the
+depth, and see whereabouts is its level. There, you see, we have this
+bladder floating on the carbonic acid; and if I evolve some more of the
+carbonic acid, the bladder will be lifted up higher. There it goes—the
+jar is nearly full; and now I will see whether I can blow a soap-bubble on
+that, and float it in the same way. [The Lecturer here blew a soap-bubble,
+and allowed it to fall into the jar of carbonic acid, when it floated in
+it midway.] It is floating, as the balloon floated, by virtue of the
+greater weight of the carbonic acid than of the air. And now, having so
+far given you the history of the carbonic acid—as to its sources in the
+candle, as to its physical properties and weight—when we next meet I
+shall shew you of what it is composed, and where it gets its elements
+from.</div></body></text></TEI>

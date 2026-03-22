@@ -1,0 +1,455 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An Essay Concerning Human Understanding</title><author>Locke, John (1632-1704)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1690</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="41">
+
+CHAPTER XXXII.
+OF TRUE AND FALSE IDEAS.
+
+1. Truth and Falsehood properly belong to Propositions, not to Ideas.
+
+
+Though truth and falsehood belong, in propriety of speech, only to
+PROPOSITIONS: yet IDEAS are oftentimes termed true or false (as what words are
+there that are not used with great latitude, and with some deviation from their
+strict and proper significations?) Though I think that when ideas themselves
+are termed true or false, there is still some secret or tacit proposition,
+which is the foundation of that denomination: as we shall see, if we examine
+the particular occasions wherein they come to be called true or false. In all
+which we shall find some kind of affirmation or negation, which is the reason
+of that denomination. For our ideas, being nothing but bare APPEARANCES, or
+perceptions in our minds, cannot properly and simply in themselves be said to
+be true or false, no more than a single name of anything can be said to be true
+or false.
+
+
+2. Ideas and words may be said to be true, inasmuch as they really are ideas
+and words.
+
+
+Indeed both ideas and words may be said to be true, in a metaphysical sense of
+the word truth; as all other things that any way exist are said to be true,
+i.e. really to be such as they exist. Though in things called true, even in
+that sense, there is perhaps a secret reference to our ideas, looked upon as
+the standards of that truth; which amounts to a mental proposition, though it
+be usually not taken notice of.
+
+
+3. No Idea, as an Appearance in the Mind, either true or false.
+
+
+But it is not in that metaphysical sense of truth which we inquire here, when
+we examine, whether our ideas are capable of being true or false, but in the
+more ordinary acceptation of those words: and so I say that the ideas in our
+minds, being only so many perceptions or appearances there, none of them are
+false; the idea of a centaur having no more falsehood in it when it appears in
+our minds, than the name centaur has falsehood in it, when it is pronounced by
+our mouths, or written on paper. For truth or falsehood lying always in some
+affirmation or negation, mental or verbal, our ideas are not capable, any of
+them, of being false, till the mind passes some judgment on them; that is,
+affirms or denies something of them.
+
+
+4. Ideas referred to anything extraneous to them may be true or false.
+
+
+Whenever the mind refers any of its ideas to anything extraneous to them, they
+are then capable to be called true or false. Because the mind, in such a
+reference, makes a tacit supposition of their conformity to that thing; which
+supposition, as it happens to be true or false, so the ideas themselves come to
+be denominated. The most usual cases wherein this happens, are these following:
+
+
+5. Other Men’s Ideas; real Existence; and supposed real Essences, are what Men
+usually refer their Ideas to.
+
+
+First, when the mind supposes any idea it has CONFORMABLE to that in OTHER
+MEN’S MINDS, called by the same common name; v.g. when the mind intends or
+judges its ideas of justice, temperance, religion, to be the same with what
+other men give those names to.
+
+
+Secondly, when the mind supposes any idea it has in itself to be CONFORMABLE to
+some REAL EXISTENCE. Thus the two ideas of a man and a centaur, supposed to be
+the ideas of real substances, are the one true and the other false; the one
+having a conformity to what has really existed, the other not. Thirdly, when
+the mind REFERS any of its ideas to that REAL constitution and ESSENCE of
+anything, whereon all its properties depend: and thus the greatest part, if not
+all our ideas of substances, are false.
+
+
+6. The cause of such Reference.
+
+
+These suppositions the mind is very apt tacitly to make concerning its own
+ideas. But yet, if we will examine it, we shall find it is chiefly, if not
+only, concerning its ABSTRACT complex ideas. For the natural tendency of the
+mind being towards knowledge; and finding that, if it should proceed by and
+dwell upon only particular things, its progress would be very slow, and its
+work endless; therefore, to shorten its way to knowledge, and make each
+perception more comprehensive, the first thing it does, as the foundation of
+the easier enlarging its knowledge, either by contemplation of the things
+themselves that it would know, or conference with others about them, is to bind
+them into bundles, and rank them so into sorts, that what knowledge it gets of
+any of them it may thereby with assurance extend to all of that sort; and so
+advance by larger steps in that which is its great business, knowledge. This,
+as I have elsewhere shown, is the reason why we collect things under
+comprehensive ideas, with names annexed to them, into genera and species; i.e.
+into kinds and sorts.
+
+
+7. Names of things supposed to carry in them knowledge of their essences.
+
+
+If therefore we will warily attend to the motions of the mind, and observe what
+course it usually takes in its way to knowledge, we shall I think find, that
+the mind having got an idea which it thinks it may have use of either in
+contemplation or discourse, the first thing it does is to abstract it, and then
+get a name to it; and so lay it up in its storehouse, the memory, as containing
+the essence of a sort of things, of which that name is always to be the mark.
+Hence it is, that we may often observe that, when any one sees a new thing of a
+kind that he knows not, he presently asks, what it is; meaning by that inquiry
+nothing but the name. As if the name carried with it the knowledge of the
+species, or the essence of it; whereof it is indeed used as the mark, and is
+generally supposed annexed to it.
+
+
+8. How men suppose that their ideas must correspond to things, and to the
+customary meanings of names.
+
+
+But this ABSTRACT IDEA, being something in the mind, between the thing that
+exists, and the name that is given to it; it is in our ideas that both the
+rightness of our knowledge, and the propriety and intelligibleness of our
+speaking, consists. And hence it is that men are so forward to suppose, that
+the abstract ideas they have in their minds are such as agree to the things
+existing without them, to which they are referred; and are the same also to
+which the names they give them do by the use and propriety of that language
+belong. For without this double conformity of their ideas, they find they
+should both think amiss of things in themselves, and talk of them
+unintelligibly to others.
+
+
+9. Simple Ideas may be false, in reference to others of the same Name, but are
+least liable to be so.
+
+
+First, then, I say, that when the truth of our ideas is judged of by the
+conformity they have to the ideas which other men have, and commonly signify by
+the same name, they may be any of them false. But yet SIMPLE IDEAS are least of
+all liable to be so mistaken. Because a man, by his senses and every day’s
+observation, may easily satisfy himself what the simple ideas are which their
+several names that are in common use stand for; they being but few in number,
+and such as, if he doubts or mistakes in, he may easily rectify by the objects
+they are to be found in. Therefore it is seldom that any one mistakes in his
+names of simple ideas, or applies the name red to the idea green, or the name
+sweet to the idea bitter: much less are men apt to confound the names of ideas
+belonging to different senses, and call a colour by the name of a taste,
+&c. Whereby it is evident that the simple ideas they call by any name are
+commonly the same that others have and mean when they use the same names.
+
+
+10. Ideas of mixed Modes most liable to be false in this Sense.
+
+
+Complex ideas are much more liable to be false in this respect; and the complex
+ideas of MIXED MODES, much more than those of substances; because in substances
+(especially those which the common and unborrowed names of any language are
+applied to) some remarkable sensible qualities, serving ordinarily to
+distinguish one sort from another, easily preserve those who take any care in
+the use of their words, from applying them to sorts of substances to which they
+do not at all belong. But in mixed modes we are much more uncertain; it being
+not so easy to determine of several actions, whether they are to be called
+JUSTICE or CRUELTY, LIBERALITY or PRODIGALITY. And so in referring our ideas to
+those of other men, called by the same names, ours may be false; and the idea
+in our minds, which we express by the word JUSTICE, may perhaps be that which
+ought to have another name.
+
+
+11. Or at least to be thought false.
+
+
+But whether or no our ideas of mixed modes are more liable than any sort to be
+different from those of other men, which are marked by the same names, this at
+least is certain. That this sort of falsehood is much more familiarly
+attributed to our ideas of mixed modes than to any other. When a man is thought
+to have a false idea of JUSTICE, or GRATITUDE, or GLORY, it is for no other
+reason, but that his agrees not with the ideas which each of those names are
+the signs of in other men.
+
+
+12. And why.
+
+
+The reason whereof seems to me to be this: That the abstract ideas of mixed
+modes, being men’s voluntary combinations of such a precise collection of
+simple ideas, and so the essence of each species being made by men alone,
+whereof we have no other sensible standard existing anywhere but the name
+itself, or the definition of that name; we having nothing else to refer these
+our ideas of mixed modes to, as a standard to which we would conform them, but
+the ideas of those who are thought to use those names in their most proper
+significations; and, so as our ideas conform or differ from THEM, they pass for
+true or false. And thus much concerning the truth and falsehood of our ideas,
+in reference to their names.
+
+
+13. As referred to Real Existence, none of our Ideas can be false but those of
+Substances.
+
+
+Secondly, as to the truth and falsehood of our ideas, in reference to the real
+existence of things. When that is made the standard of their truth, none of
+them can be termed false but only our complex ideas of substances.
+
+
+14. First, Simple Ideas in this Sense not false and why.
+
+
+First, our simple ideas, being barely such perceptions as God has fitted us to
+receive, and given power to external objects to produce in us by established
+laws and ways, suitable to his wisdom and goodness, though incomprehensible to
+us, their truth consists in nothing else but in such appearances as are
+produced in us, and must be suitable to those powers he has placed in external
+objects or else they could not be produced in us: and thus answering those
+powers, they are what they should be, true ideas. Nor do they become liable to
+any imputation of falsehood, if the mind (as in most men I believe it does)
+judges these ideas to be in the things themselves. For God in his wisdom having
+set them as marks of distinction in things, whereby we may be able to discern
+one thing from another, and so choose any of them for our uses as we have
+occasion; it alters not the nature of our simple idea, whether we think that
+the idea of blue be in the violet itself, or in our mind only; and only the
+power of producing it by the texture of its parts, reflecting the particles of
+light after a certain manner, to be in the violet itself. For that texture in
+the object, by a regular and constant operation producing the same idea of blue
+in us, it serves us to distinguish, by our eyes, that from any other thing;
+whether that distinguishing mark, as it is really in the violet, be only a
+peculiar texture of parts, or else that very colour, the idea whereof (which is
+in us) is the exact resemblance. And it is equally from that appearance to be
+denominated blue, whether it be that real colour, or only a peculiar texture in
+it, that causes in us that idea: since the name, BLUE, notes properly nothing
+but that mark of distinction that is in a violet, discernible only by our eyes,
+whatever it consists in; that being beyond our capacities distinctly to know,
+and perhaps would be of less use to us, if we had faculties to discern.
+
+
+15. Though one Man’s Idea of Blue should be different from another’s.
+
+
+Neither would it carry any imputation of falsehood to our simple ideas, if by
+the different structure of our organs it were so ordered, that THE SAME OBJECT
+SHOULD PRODUCE IN SEVERAL MEN’S MINDS DIFFERENT IDEAS at the same time; v.g. if
+the idea that a violet produced in one man’s mind by his eyes were the same
+that a marigold produced in another man’s, and vice versa. For, since this
+could never be known, because one man’s mind could not pass into another man’s
+body, to perceive what appearances were produced by those organs; neither the
+ideas hereby, nor the names, would be at all confounded, or any falsehood be in
+either. For all things that had the texture of a violet, producing constantly
+the idea that he called blue, and those which had the texture of a marigold,
+producing constantly the idea which he as constantly called yellow, whatever
+those appearances were in his mind; he would be able as regularly to
+distinguish things for his use by those appearances, and understand and signify
+those distinctions marked by the name blue and yellow, as if the appearances or
+ideas in his mind received from those two flowers were exactly the same with
+the ideas in other men’s minds. I am nevertheless very apt to think that the
+sensible ideas produced by any object in different men’s minds, are most
+commonly very near and undiscernibly alike. For which opinion, I think, there
+might be many reasons offered: but that being besides my present business, I
+shall not trouble my reader with them; but only mind him, that the contrary
+supposition, if it could be proved, is of little use, either for the
+improvement of our knowledge, or conveniency of life, and so we need not
+trouble ourselves to examine it.
+
+
+16. Simple Ideas can none of them be false in respect of real existence.
+
+
+From what has been said concerning our simple ideas, I think it evident that
+our simple ideas can none of them be false in respect of things existing
+without us. For the truth of these appearances or perceptions in our minds
+consisting, as has been said, only in their being answerable to the powers in
+external objects to produce by our senses such appearances in us, and each of
+them being in the mind such as it is, suitable to the power that produced it,
+and which alone it represents, it cannot upon that account, or as referred to
+such a pattern, be false. Blue and yellow, bitter or sweet, can never be false
+ideas: these perceptions in the mind are just such as they are there, answering
+the powers appointed by God to produce them; and so are truly what they are,
+and are intended to be. Indeed the names may be misapplied, but that in this
+respect makes no falsehood in the ideas; as if a man ignorant in the English
+tongue should call purple scarlet.
+
+
+17. Secondly, Modes not false cannot be false in reference to essences of
+things.
+
+
+Secondly, neither can our complex ideas of modes, in reference to the essence
+of anything really existing, be false; because whatever complex ideas I have of
+any mode, it hath no reference to any pattern existing, and made by nature; it
+is not supposed to contain in it any other ideas than what it hath; nor to
+represent anything but such a complication of ideas as it does. Thus, when I
+have the idea of such an action of a man who forbears to afford himself such
+meat, drink, and clothing, and other conveniences of life, as his riches and
+estate will be sufficient to supply and his station requires, I have no false
+idea; but such an one as represents an action, either as I find or imagine it,
+and so is capable of neither truth nor falsehood. But when I give the name
+FRUGALITY or VIRTUE to this action, then it may be called a false idea, if
+thereby it be supposed to agree with that idea to which, in propriety of
+speech, the name of frugality doth belong, or to be conformable to that law
+which is the standard of virtue and vice.
+
+
+18. Thirdly, Ideas of Substances may be false in reference to existing things.
+
+
+Thirdly, our complex ideas of substances, being all referred to patterns in
+things themselves, may be false. That they are all false, when looked upon as
+the representations of the unknown essences of things, is so evident that there
+needs nothing to be said of it. I shall therefore pass over that chimerical
+supposition, and consider them as collections of simple ideas in the mind,
+taken from combinations of simple ideas existing together constantly in things,
+of which patterns they are the supposed copies; and in this reference of them
+to the existence of things, they are false ideas:—(1) When they put
+together simple ideas, which in the real existence of things have no union; as
+when to the shape and size that exist together in a horse, is joined in the
+same complex idea the power of barking like a dog: which three ideas, however
+put together into one in the mind, were never united in nature; and this,
+therefore, may be called a false idea of a horse. (2) Ideas of substances are,
+in this respect, also false, when, from any collection of simple ideas that do
+always exist together, there is separated, by a direct negation, any other
+simple idea which is constantly joined with them. Thus, if to extension,
+solidity, fusibility, the peculiar weightiness, and yellow colour of gold, any
+one join in his thoughts the negation of a greater degree of fixedness than is
+in lead or copper, he may be said to have a false complex idea, as well as when
+he joins to those other simple ones the idea of perfect absolute fixedness. For
+either way, the complex idea of gold being made up of such simple ones as have
+no union in nature, may be termed false. But, if he leaves out of this his
+complex idea that of fixedness quite, without either actually joining to or
+separating it from the rest in his mind, it is, I think, to be looked on as an
+inadequate and imperfect idea, rather than a false one; since, though it
+contains not all the simple ideas that are united in nature, yet it puts none
+together but what do really exist together.
+
+
+19. Truth or Falsehood always supposes Affirmation or Negation.
+
+
+Though, in compliance with the ordinary way of speaking, I have shown in what
+sense and upon what ground our ideas may be sometimes called true or false; yet
+if we will look a little nearer into the matter, in all cases where any idea is
+called true or false, it is from some JUDGMENT that the mind makes, or is
+supposed to make, that is true or false. For truth or falsehood, being never
+without some affirmation or negation, express or tacit, it is not to be found
+but where signs are joined or separated, according to the agreement or
+disagreement of the things they stand for. The signs we chiefly use are either
+ideas or words; wherewith we make either mental or verbal propositions. Truth
+lies in so joining or separating these representatives, as the things they
+stand for do in themselves agree or disagree; and falsehood in the contrary, as
+shall be more fully shown hereafter.
+
+
+20. Ideas in themselves neither true nor false.
+
+
+Any idea, then, which we have in our minds, whether conformable or not to the
+existence of things, or to any idea in the minds of other men, cannot properly
+for this alone be called false. For these representations, if they have nothing
+in them but what is really existing in things without, cannot be thought false,
+being exact representations of something: nor yet if they have anything in them
+differing from the reality of things, can they properly be said to be false
+representations, or ideas of things they do not represent. But the mistake and
+falsehood is:
+
+
+21. But are false—1. When judged agreeable to another Man’s Idea, without
+being so.
+
+
+First, when the mind having any idea, it JUDGES and concludes it the same that
+is in other men’s minds, signified by the same name; or that it is conformable
+to the ordinary received signification or definition of that word, when indeed
+it is not: which is the most usual mistake in mixed modes, though other ideas
+also are liable to it.
+
+
+22. Secondly, When judged to agree to real Existence, when they do not.
+
+
+(2) When it having a complex idea made up of such a collection of simple ones
+as nature never puts together, it JUDGES it to agree to a species of creatures
+really existing; as when it joins the weight of tin to the colour, fusibility,
+and fixedness of gold.
+
+
+23. Thirdly, When judged adequate, without being so.
+
+
+(3) When in its complex idea it has united a certain number of simple ideas
+that do really exist together in some sort of creatures, but has also left out
+others as much inseparable, it JUDGES this to be a perfect complete idea of a
+sort of things which really it is not; v.g. having joined the ideas of
+substance, yellow, malleable, most heavy, and fusible, it takes that complex
+idea to be the complete idea of gold, when yet its peculiar fixedness, and
+solubility in AQUA REGIA, are as inseparable from those other ideas, or
+qualities, of that body as they are one from another.
+
+
+24. Fourthly, When judged to represent the real Essence.
+
+
+(4) The mistake is yet greater, when I JUDGE that this complex idea contains in
+it the real essence of any body existing; when at least it contains but some
+few of those properties which flow from its real essence and constitution. I
+say only some few of those properties; for those properties consisting mostly
+in the active and passive powers it has in reference to other things, all that
+are vulgarly known of any one body, of which the complex idea of that kind of
+things is usually made, are but a very few, in comparison of what a man that
+has several ways tried and examined it knows of that one sort of things; and
+all that the most expert man knows are but a few, in comparison of what are
+really in that body, and depend on its internal or essential constitution. The
+essence of a triangle lies in a very little compass, consists in a very few
+ideas: three lines including a space make up that essence: but the properties
+that flow from this essence are more than can be easily known or enumerated. So
+I imagine it is in substances; their real essences lie in a little compass,
+though the properties flowing from that internal constitution are endless.
+
+
+25. Ideas, when called false.
+
+
+To conclude, a man having no notion of anything without him, but by the idea he
+has of it in his mind, (which idea he has a power to call by what name he
+pleases,) he may indeed make an idea neither answering the reason of things,
+nor agreeing to the idea commonly signified by other people’s words; but cannot
+make a wrong or false idea of a thing which is no otherwise known to him but by
+the idea he has of it: v.g. when I frame an idea of the legs, arms, and body of
+a man, and join to this a horse’s head and neck, I do not make a false idea of
+anything; because it represents nothing without me. But when I call it a MAN or
+TARTAR, and imagine it to represent some real being without me, or to be the
+same idea that others call by the same name; in either of these cases I may
+err. And upon this account it is that it comes to be termed a false idea;
+though indeed the falsehood lies not in the idea, but in that tacit mental
+proposition, wherein a conformity and resemblance is attributed to it which it
+has not. But yet, if, having framed such an idea in my mind, without thinking
+either that existence, or the name MAN or TARTAR, belongs to it, I will call it
+MAN or TARTAR, I may be justly thought fantastical in the naming; but not
+erroneous in my judgment; nor the idea any way false.
+
+
+26. More properly to be called right or wrong.
+
+
+Upon the whole matter, I think that our ideas, as they are considered by the
+mind,—either in reference to the proper signification of their names; or
+in reference to the reality of things,—may very fitly be called RIGHT or
+WRONG ideas, according as they agree or disagree to those patterns to which
+they are referred. But if any one had rather call them true or false, it is fit
+he use a liberty, which every one has, to call things by those names he thinks
+best; though, in propriety of speech, TRUTH or FALSEHOOD will, I think, scarce
+agree to them, but as they, some way or other, virtually contain in them some
+mental proposition. The ideas that are in a man’s mind, simply considered,
+cannot be wrong; unless complex ones, wherein inconsistent parts are jumbled
+together. All other ideas are in themselves right, and the knowledge about them
+right and true knowledge; but when we come to refer them to anything, as to
+their patterns and archetypes then they are capable of being wrong, as far as
+they disagree with such archetypes.
+
+
+</div></body></text></TEI>

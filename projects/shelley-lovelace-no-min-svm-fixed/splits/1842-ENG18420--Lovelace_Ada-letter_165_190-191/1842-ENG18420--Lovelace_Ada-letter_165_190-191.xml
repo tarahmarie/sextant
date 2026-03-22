@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 190-191</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 190-191.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1842">undated [February 1842]</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 190-191</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_190-191.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>{Transcription Lovelace Byron 165 folios 190-191]</p>
+      <p>Saturday. 4 o'clock</p>
+      <p>I have posted your letter to the Hen. You have blundered about her stay in Town, which I wonder at, as I sent you her letters to me about it.</p>
+      <p>I did not forget about the Medallion. Wyon is the man to take my likeness; but he has</p>
+      <p>of late declined all private commissions. Wheatstone thinks however that when he has been introduced to me, &amp; knows that I am the lady in question, he will not object. Wheatstone only mentioned a lady. There is no one, Wheatstone says, at all to compare with him for medallion likenesses.-- Then the subsequent -typing is quite a separate</p>
+      <p>affair. But really I don't think I am pretty enough to be medallioned at all.</p>
+      <p>So Emily is in Town; She left her Card here yesterday. I enclose it.</p>
+      <p>Wedding-cake has arrived from Mr &amp; Mrs Kay Shuttleworth.</p>
+      <p>The Miss Neville who is to be your Aunt John is no relation whatever of the Neville Grenvilles.</p>
+      <p>I wonder who this</p>
+      <p>chance Miss Neville is therefore.--</p>
+    </div></body>
+  </text>
+</TEI>

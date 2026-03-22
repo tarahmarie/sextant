@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 168, folios 85</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 168, folios 85.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to Joanna Baillee</title>
+          <date when="1826">5 October 1826</date>
+          <note type="place">Ouchy</note>
+          <note type="shelfmark">Lovelace Byron 168, folios 85</note>
+          <note type="recipient">Joanna Baillee</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_168_folios_85.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>5th October, Wednesday 1826, at Ouchy</p>
+      <p>My der Mrs Joanna, Your letter gave me great pleasure. [last word is partially obscured by folded corner] I never had so nice a one before I think. I hope you are getting better. Our journey has pleased me much particularly the Swiss part of it, but of all the places I have yet seen none has pleased me so much as Heidelberg for the beauty of its scenery and every thing else, my favorite places are these though some of them go very far back indeed. Bonn, St. Goar, Darmstadt, Heidelberg, Baden, Berne, Brientz, Meyrengen, Lauterbrun, Grindelwald and Ouchy. I enjoy the thoughts of crossing the Simplon very much. it is now the 5th of October and it was only yesterday that we felt the want of a fire for the first time, we have at present very disagreeable, damp, rainy, thick, days which they say will probably last a week and perhaps a fortnight, though till yesterday we have had beautiful weather. Puff is very well I sometimes get a letter from her and message if not that-- I hear she is a spoilt cat. there is no snow likely to fall this year till the end of October. The Swiss style of house I think very pretty and I particularly like the roofs projecting over in some I have even seen it so far as two or three yards, and their wooden balconies also there is scarcely the honest cottage which has not its wooden balcony. The rocks on the opposite shores are very fine indeed and frequently on a fine day at sunset they are a deep rose colour, I am very fond of tracing the deep valleys between the mountains, and the valley of the Rhone as far as I can. There is no view of Mont Blanc from here and the view I believe to be had in the lake is from Geneva. Good bye</p>
+      <p>Yours affectionately A Ada Byron.</p>
+      <p>[page 2 consists of intergral address panel and notation written in a different (adult) hand, with postmark stamps and wax seal:</p>
+      <p>Angleterre Mrs Joanna Baillee Hampstead London</p>
+      <p>I am prevented enclosing this to Col Doyle by hearing that he has left Town with his sick daughter.]</p>
+    </div></body>
+  </text>
+</TEI>

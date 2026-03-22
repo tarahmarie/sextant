@@ -1,0 +1,1088 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Novum Organon Renovatum</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="10">
+CHAPTER V.
+Of Certain Characteristics of Scientific Induction.
+Aphorism X.
+The process of scientific discovery is cautious and rigorous,
+not by abstaining from hypotheses, but by rigorously comparing
+hypotheses with facts, and by resolutely rejecting all
+which the comparison does not confirm.
+Aphorism XI.
+Hypotheses may be useful, though involving much that is
+superfluous, and even erroneous: for they may supply the
+true bond of connexion of the facts; and the superfluity and
+errour may afterwards be pared away.
+Aphorism XII.
+It is a test of true theories not only to account for, but to
+predict phenomena.
+Aphorism XIII.
+Induction is a term applied to describe the process of a
+true Colligation of Facts by means of an exact and appropriate
+Conception. An Induction is also employed to denote
+the proposition which results from this process.
+Aphorism XIV.
+The Consilience of Inductions takes place when an
+Induction, obtained from one class of facts, coincides with
+an Induction, obtained from another different class. This 71
+Consilience is a test of the truth of the Theory in which it
+occurs.
+Aphorism XV.
+An Induction is not the mere sum of the Facts which are
+colligated. The Facts are not only brought together, but seen
+in a new point of view. A new mental Element is superinduced;
+and a peculiar constitution and discipline of mind
+are requisite in order to make this Induction.
+Aphorism XVI.
+Although in Every Induction a new conception is superinduced
+upon the Facts; yet this once effectually done, the
+novelty of the conception is overlooked, and the conception is
+considered as a part of the fact.
+Sect. I.—Invention a part of Induction.
+1. THE
+two operations spoken of in the preceding
+chapters,—the Explication of the Conceptions
+of our own minds, and the Colligation of observed Facts
+by the aid of such Conceptions,—are, as we have just
+said, inseparably connected with each other. When
+united, and employed in collecting knowledge from the
+phenomena which the world presents to us, they constitute
+the mental process of Induction; which is usually and
+justly spoken of as the genuine source of all
+our real general knowledge respecting the external
+world. And we see, from the preceding analysis of
+this process into its two constituents, from what origin
+it derives each of its characters. It is real, because it
+arises from the combination of Real Facts, but it is
+general, because it implies the possession of General
+Ideas. Without the former, it would not be knowledge of the
+External World; without the latter, it
+would not be Knowledge at all. When Ideas and
+Facts are separated from each other, the neglect of
+Facts gives rise to empty speculations, idle subtleties,
+visionary inventions, false opinions concerning the laws
+of phenomena, disregard of the true aspect of nature: 72
+while the want of Ideas leaves the mind overwhelmed,
+bewildered, and stupified by particular sensations, with
+no means of connecting the past with the future, the
+absent with the present, the example with the rule;
+open to the impression of all appearances, but capable
+of appropriating none. Ideas are the Form, facts the
+Material, of our structure. Knowledge does not
+consist in the empty mould, or in the brute mass of matter,
+but in the rightly-moulded substance. Induction
+gathers general truths from particular facts;—and in
+her harvest, the corn and the reaper, the solid ears and
+the binding band, are alike requisite. All our knowledge
+of nature is obtained by Induction; the term
+being understood according to the explanation we have
+now given. And our knowledge is then most complete, then
+most truly deserves the name of Science,
+when both its elements are most perfect;—when the
+Ideas which have been concerned in its formation have,
+at every step, been clear and consistent; and when
+they have, at every step also, been employed in binding
+together real and certain Facts. Of such Induction,
+I have already given so many examples and illustrations
+in the two preceding chapters, that I need not
+now dwell further upon the subject.
+2. Induction is familiarly spoken of as the process
+by which we collect a General Proposition from a number
+of Particular Cases: and it appears to be frequently
+imagined that the general proposition results
+from a mere juxta-position of the cases, or at most, from
+merely conjoining and extending them. But if we
+consider the process more closely, as exhibited in the
+cases lately spoken of, we shall perceive that this is an
+inadequate account of the matter. The particular
+facts are not merely brought together, but there is a
+New Element added to the combination by the very
+act of thought by which they are combined. There is
+a Conception of the mind introduced in the general
+proposition, which did not exist in any of the observed
+facts. When the Greeks, after long observing the
+motions of the planets, saw that these motions might
+be rightly considered as produced by the motion of one 73
+wheel revolving in the inside of another wheel, these
+Wheels were Creations of their minds, added to the
+Facts which they perceived by sense. And even if the
+wheels were no longer supposed to be material, but
+were reduced to mere geometrical spheres or circles,
+they were not the less products of the mind alone,—something
+additional to the facts observed. The same
+is the case in all other discoveries. The facts are
+known, but they are insulated and unconnected, till
+the discoverer supplies from his own stores a Principle
+of Connexion. The pearls are there, but they will not
+hang together till some one provides the String. The
+distances and periods of the planets were all so many
+separate facts; by Kepler’s Third Law they are connected
+into a single truth: but the Conceptions which
+this law involves were supplied by Kepler’s mind, and
+without these, the facts were of no avail. The planets
+described ellipses round the sun, in the contemplation
+of others as well as of Newton; but Newton conceived
+the deflection from the tangent in these elliptical
+motions in a new light,—as the effect of a Central Force
+following a certain law; and then it was, that such a
+force was discovered truly to exist.
+Thus5
+in each inference made by Induction, there is
+introduced some General Conception, which is given,
+not by the phenomena, but by the mind. The conclusion
+is not contained in the premises, but includes
+them by the introduction of a New Generality. In
+order to obtain our inference, we travel beyond the
+cases which we have before us; we consider them as
+mere exemplifications of some Ideal Case in which the
+relations are complete and intelligible. We take a
+Standard, and measure the facts by it; and this
+Standard is constructed by us, not offered by Nature.
+We assert, for example, that a body left to itself will
+move on with unaltered velocity; not because our
+senses ever disclosed to us a body doing this, but
+because (taking this as our Ideal Case) we find that all 74
+actual cases are intelligible and explicable by means of
+the Conception of Forces, causing change and motion,
+and exerted by surrounding bodies. In like manner,
+we see bodies striking each other, and thus moving and
+stopping, accelerating and retarding each other: but
+in all this, we do not perceive by our senses that
+abstract quantity, Momentum, which is always lost by
+one body as it is gained by another. This Momentum
+is a creation of the mind, brought in among the facts,
+in order to convert their apparent confusion into order,
+their seeming chance into certainty, their perplexing
+variety into simplicity. This the Conception of Momentum
+gained and lost does: and in like manner, in
+any other case in which a truth is established by Induction,
+some Conception is introduced, some Idea is
+applied, as the means of binding together the facts,
+and thus producing the truth.
+5
+I repeat here remarks made at the end of the Mechanical Euclid, p. 178.
+3. Hence in every inference by Induction, there is
+some Conception superinduced upon the Facts: and
+we may henceforth conceive this to be the peculiar
+import of the term Induction. I am not to be understood
+as asserting that the term was originally or
+anciently employed with this notion of its meaning;
+for the peculiar feature just pointed out in Induction
+has generally been overlooked. This appears by the
+accounts generally given of Induction. ‘Induction,’
+says Aristotle6,
+‘is when by means of one extreme
+term7 we
+infer the other extreme term to be true of
+the middle term.’ Thus, (to take such exemplifications
+as belong to our subject,) from knowing that Mercury,
+Venus, Mars, describe ellipses about the Sun, we infer
+that all Planets describe ellipses about the Sun. In
+making this inference syllogistically, we assume that
+the evident proposition, ‘Mercury, Venus, Mars, do
+what all Planets do,’ may be taken conversely, ‘All 75
+Planets do what Mercury, Venus, Mars, do.’ But we
+may remark that, in this passage, Aristotle (as was
+natural in his line of discussion) turns his attention
+entirely to the evidence of the inference; and overlooks
+a step which is of far more importance to our knowledge,
+namely, the invention of the second extreme
+term. In the above instance, the particular luminaries,
+Mercury, Venus, Mars, are one logical Extreme; the
+general designation Planets is the Middle Term; but
+having these before us, how do we come to think of
+description of ellipses, which is the other Extreme
+of the syllogism? When we have once invented this
+‘second Extreme Term,’ we may, or may not, be satisfied
+with the evidence of the syllogism; we may, or
+may not, be convinced that, so far as this property
+goes, the extremes are co-extensive with the middle
+term8;
+but the statement of the syllogism is the
+important step in science. We know how long Kepler
+laboured, how hard he fought, how many devices he
+tried, before he hit upon this Term, the Elliptical
+Motion. He rejected, as we know, many other ‘second
+extreme Terms,’ for example, various combinations of
+epicyclical constructions, because they did not represent
+with sufficient accuracy the special facts of observation.
+When he had established his premiss, that ‘Mars
+does describe an Ellipse about the Sun,’ he does not
+hesitate to guess at least that, in this respect, he might
+convert the other premiss, and assert that ‘All the
+Planets do what Mars does.’ But the main business
+was, the inventing and verifying the proposition
+respecting the Ellipse. The Invention of the Conception
+was the great step in the discovery; the Verification of
+the Proposition was the great step in the proof of the
+discovery. If Logic consists in pointing out the conditions
+of proof, the Logic of Induction must consist in
+showing what are the conditions of proof, in such
+inferences as this: but this subject must be pursued in the
+next chapter; I now speak principally of the act of 76
+Invention, which is requisite in every inductive inference.
+6
+Analyt. Prior. lib. ii. c. xxiii. Περὶ τῆς ἐπαγωγῆς.
+7 The syllogism here alluded to would
+be this:—
+  Mercury, Venus, Mars, describe ellipses about the Sun;
+  All Planets do what Mercury, Venus, Mars, do;
+  Therefore all Planets describe ellipses about the Sun.
+8
+Εἰ οὖν ἀντιστρέφει τὸ Γ τῷ Β καὶ μὴ ὑπερτείνει τὸ μέσον.—Aristot. Ibid.
+4. Although in every inductive inference, an act of
+invention is requisite, the act soon slips out of notice.
+Although we bind together facts by superinducing
+upon them a new Conception, this Conception, once
+introduced and applied, is looked upon as inseparably
+connected with the facts, and necessarily implied in
+them. Having once had the phenomena bound together in
+their minds in virtue of the Conception, men
+can no longer easily restore them back to the detached
+and incoherent condition in which they were before
+they were thus combined. The pearls once strung,
+they seem to form a chain by their nature. Induction
+has given them a unity which it is so far from costing
+us an effort to preserve, that it requires an effort to
+imagine it dissolved. For instance, we usually represent
+to ourselves the Earth as round, the Earth and
+the Planets as revolving about the Sun, and as drawn
+to the Sun by a Central Force; we can hardly understand
+how it could cost the Greeks, and Copernicus,
+and Newton, so much pains and trouble to arrive at a
+view which to us is so familiar. These are no longer
+to us Conceptions caught hold of and kept hold of by
+a severe struggle; they are the simplest modes of
+conceiving the facts: they are really Facts. We are
+willing to own our obligation to those discoverers, but we
+hardly feel it: for in what other manner (we ask in
+our thoughts) could we represent the facts to ourselves?
+Thus we see why it is that this step of which we
+now speak, the Invention of a new Conception in
+every inductive inference, is so generally overlooked
+that it has hardly been noticed by preceding philosophers.
+When once performed by the discoverer, it
+takes a fixed and permanent place in the understanding
+of every one. It is a thought which, once breathed
+forth, permeates all men’s minds. All fancy they
+nearly or quite knew it before. It oft was thought, or
+almost thought, though never till now expressed. Men
+accept it and retain it, and know it cannot be taken 77
+from them, and look upon it as their own. They will not
+and cannot part with it, even though they may deem
+it trivial and obvious. It is a secret, which once
+uttered, cannot be recalled, even though it be despised
+by those to whom it is imparted. As soon as the leading
+term of a new theory has been pronounced and
+understood, all the phenomena change their aspect.
+There is a standard to which we cannot help referring
+them. We cannot fall back into the helpless and
+bewildered state in which we gazed at them when we
+possessed no principle which gave them unity. Eclipses
+arrive in mysterious confusion: the notion of a Cycle
+dispels the mystery. The Planets perform a tangled
+and mazy dance; but Epicycles reduce the maze to
+order. The Epicycles themselves run into confusion;
+the conception of an Ellipse makes all clear and simple.
+And thus from stage to stage, new elements of intelligible
+order are introduced. But this intelligible order
+is so completely adopted by the human understanding,
+as to seem part of its texture. Men ask Whether
+Eclipses follow a Cycle; Whether the Planets describe
+Ellipses; and they imagine that so long as they do not
+answer such questions rashly, they take nothing for
+granted. They do not recollect how much they assume
+in asking the question:—how far the conceptions of
+Cycles and of Ellipses are beyond the visible surface of
+the celestial phenomena:—how many ages elapsed,
+how much thought, how much observation, were
+needed, before men’s thoughts were fashioned into the
+words which they now so familiarly use. And thus
+they treat the subject, as we have seen Aristotle treating
+it; as if it were a question, not of invention, but
+of proof; not of substance, but of form: as if the main
+thing were not what we assert, but how we assert it.
+But for our purpose, it is requisite to bear in mind the
+feature which we have thus attempted to mark; and
+to recollect that, in every inference by induction, there
+is a Conception supplied by the mind and superinduced
+upon the Facts.
+5. In collecting scientific truths by Induction, we
+often find (as has already been observed) a Definition 78
+and a Proposition established at the same time,—introduced
+together, and mutually dependent on each
+other. The combination of the two constitutes the
+Inductive act; and we may consider the Definition as
+representing the superinduced Conception, and the
+Proposition as exhibiting the Colligation of Facts.
+Sect. II.—Use of Hypotheses.
+6. To discover a Conception of the mind which will
+justly represent a train of observed facts is, in some
+measure, a process of conjecture, as I have stated already;
+and as I then observed, the business of conjecture is
+commonly conducted by calling up before our
+minds several suppositions, and selecting that one which
+most agrees with what we know of the observed facts.
+Hence he who has to discover the laws of nature may
+have to invent many suppositions before he hits upon
+the right one; and among the endowments which lead
+to his success, we must reckon that fertility of invention
+which ministers to him such imaginary schemes,
+till at last he finds the one which conforms to the true
+order of nature. A facility in devising hypotheses,
+therefore, is so far from being a fault in the intellectual
+character of a discoverer, that it is, in truth, a
+faculty indispensable to his task. It is, for his purposes,
+much better that he should be too ready in contriving,
+too eager in pursuing systems which promise
+to introduce law and order among a mass of unarranged
+facts, than that he should be barren of such inventions
+and hopeless of such success. Accordingly, as we have
+already noticed, great discoverers have often invented
+hypotheses which would not answer to all the facts, as
+well as those which would; and have fancied themselves
+to have discovered laws, which a more careful
+examination of the facts overturned.
+The tendencies of our speculative
+nature9,
+carrying 79
+us onwards in pursuit of symmetry and rule, and thus
+producing all true theories, perpetually show their
+vigour by overshooting the mark. They obtain something,
+by aiming at much more. They detect the order
+and connexion which exist, by conceiving imaginary
+relations of order and connexion which have no existence.
+Real discoveries are thus mixed with baseless
+assumptions; profound sagacity is combined with fanciful
+conjecture; not rarely, or in peculiar instances,
+but commonly, and in most cases; probably in all, if we
+could read the thoughts of discoverers as we read the
+books of Kepler. To try wrong guesses is, with most
+persons, the only way to hit upon right ones. The
+character of the true philosopher is, not that he never
+conjectures hazardously, but that his conjectures are
+clearly conceived, and brought into rigid contact with
+facts. He sees and compares distinctly the Ideas and
+the Things;—the relations of his notions to each other
+and to phenomena. Under these conditions, it is not
+only excusable, but necessary for him, to snatch at
+every semblance of general rule,—to try all promising
+forms of simplicity and symmetry.
+9
+I here take the liberty of characterizing inventive
+minds in general in the same phraseology which, in the History
+of Science, I have employed in reference to particular examples.
+These expressions are what I have used in speaking of the
+discoveries of Copernicus.—Hist. Ind. Sc. b. v. c. ii.
+Hence advances in
+knowledge10
+are not commonly
+made without the previous exercise of some boldness
+and license in guessing. The discovery of new truths
+requires, undoubtedly, minds careful and scrupulous in
+examining what is suggested; but it requires, no less,
+such as are quick and fertile in suggesting. What is
+Invention, except the talent of rapidly calling before us
+the many possibilities, and selecting the appropriate
+one? It is true, that when we have rejected all the
+inadmissible suppositions, they are often quickly forgotten;
+and few think it necessary to dwell on these
+discarded hypotheses, and on the process by which they
+were condemned. But all who discover truths, must
+have reasoned upon many errours to obtain each truth; 80
+every accepted doctrine must have been one chosen
+out of many candidates. If many of the guesses of
+philosophers of bygone times now appear fanciful and
+absurd, because time and observation have refuted them,
+others, which were at the time equally gratuitous, have
+been conformed in a manner which makes them appear
+marvellously sagacious. To form hypotheses, and then
+to employ much labour and skill in refuting them, if
+they do not succeed in establishing them, is a part of
+the usual process of inventive minds. Such a proceeding
+belongs to the rule of the genius of discovery,
+rather than (as has often been taught in modern times)
+to the exception.
+10
+These observations are made on occasion of
+Kepler’s speculations, and are illustrated by reference to his
+discoveries.—Hist. Ind. Sc. b. v. c. iv. sect. 1.
+7. But if it be an advantage for the discoverer of
+truth that he be ingenious and fertile in inventing
+hypotheses which may connect the phenomena of nature,
+it is indispensably requisite that he be diligent
+and careful in comparing his hypotheses with the facts,
+and ready to abandon his invention as soon as it appears
+that it does not agree with the course of actual
+occurrences. This constant comparison of his own
+conceptions and supposition with observed facts under
+all aspects, forms the leading employment of the
+discoverer: this candid and simple love of truth, which
+makes him willing to suppress the most favourite
+production of his own ingenuity as soon as it appears to
+be at variance with realities, constitutes the first
+characteristic of his temper. He must have neither the
+blindness which cannot, nor the obstinacy which will
+not, perceive the discrepancy of his fancies and his
+facts. He must allow no indolence, or partial views,
+or self-complacency, or delight in seeming demonstration,
+to make him tenacious of the schemes which he
+devises, any further than they are confirmed by their
+accordance with nature. The framing of hypotheses
+is, for the inquirer after truth, not the end, but the
+beginning of his work. Each of his systems is invented,
+not that he may admire it and follow it into
+all its consistent consequences, but that he may make
+it the occasion of a course of active experiment and
+observation. And if the results of this process
+81 contradict
+his fundamental assumptions, however ingenious,
+however symmetrical, however elegant his system may
+be, he rejects it without hesitation. He allows no
+natural yearning for the offspring of his own mind to
+draw him aside from the higher duty of loyalty to his
+sovereign, Truth: to her he not only gives his
+affections and his wishes, but strenuous labour and
+scrupulous minuteness of attention.
+We may refer to what we have said of Kepler, Newton,
+and other eminent philosophers, for illustrations
+of this character. In Kepler we have
+remarked11 the
+courage and perseverance with which he undertook and
+executed the task of computing his own hypotheses:
+and, as a still more admirable characteristic, that he
+never allowed the labour he had spent upon any conjecture
+to produce any reluctance in abandoning the
+hypothesis, as soon as he had evidence of its inaccuracy.
+And in the history of Newton’s discovery
+that the moon is retained in her orbit by the force of
+gravity, we have noticed the same moderation in maintaining
+the hypothesis, after it had once occurred to
+the author’s mind. The hypothesis required that the
+moon should fall from the tangent of her orbit every
+second through a space of sixteen feet; but according
+to his first calculations it appeared that in fact she only
+fell through a space of thirteen feet in that time. The
+difference seems small, the approximation encouraging,
+the theory plausible; a man in love with his own fancies
+would readily have discovered or invented some
+probable cause of the difference. But Newton acquiesced
+in it as a disproof of his conjecture, and ‘laid
+aside at that time any further thoughts of this
+matter12.’
+11
+Hist. Ind. Sc. b. v. c. iv. sect. 1.
+12
+Hist. Ind. Sc. b. vii. c. ii. sect. 3.
+8. It has often happened that those who have undertaken
+to instruct mankind have not possessed this pure
+love of truth and comparative indifference to the
+maintenance of their own inventions. Men have frequently
+adhered with great tenacity and vehemence to the hypotheses
+which they have once framed; and in their 82
+affection for these, have been prone to overlook, to
+distort, and to misinterpret facts. In this manner, Hypotheses
+have so often been prejudicial to the genuine
+pursuit of truth, that they have fallen into a kind of
+obloquy; and have been considered as dangerous temptations
+and fallacious guides. Many warnings have
+been uttered against the fabrication of hypotheses, by
+those who profess to teach philosophy; many disclaimers
+of such a course by those who cultivate science.
+Thus we shall find Bacon frequently discommending
+this habit, under the name of ‘anticipation of the mind,’
+and Newton thinks it necessary to say emphatically
+‘hypotheses non fingo.’ It has been constantly urged
+that the inductions by which sciences are formed must
+be cautious and rigorous; and the various imaginations
+which passed through Kepler’s brain, and to which he
+has given utterance, have been blamed or pitied, as
+lamentable instances of an unphilosophical frame of
+mind. Yet it has appeared in the preceding remarks
+that hypotheses rightly used are among the helps, far
+more than the dangers, of science;—that scientific
+induction is not a ‘cautious’ or a ‘rigorous’ process in
+the sense of abstaining from such suppositions, but in
+not adhering to them till they are confirmed by fact, and
+in carefully seeking from facts confirmation or refutation.
+Kepler’s distinctive character was, not that he was
+peculiarly given to the construction of hypotheses, but
+that he narrated with extraordinary copiousness and
+candour the course of his thoughts, his labours, and
+his feelings. In the minds of most persons, as we have
+said, the inadmissible suppositions, when rejected, are
+soon forgotten: and thus the trace of them vanishes
+from the thoughts, and the successful hypothesis alone
+holds its place in our memory. But in reality, many
+other transient suppositions must have been made by
+all discoverers;—hypotheses which are not afterwards
+asserted as true systems, but entertained for an
+instant;—‘tentative hypotheses,’ as they have been
+called. Each of these hypotheses is followed by its
+corresponding train of observations, from which it
+derives its power of leading to truth. The hypothesis is 83
+like the captain, and the observations like the soldiers
+of an army: while he appears to command them, and
+in this way to work his own will, he does in fact derive
+all his power of conquest from their obedience, and
+becomes helpless and useless if they mutiny.
+Since the discoverer has thus constantly to work his
+way onwards by means of hypotheses, false and true,
+it is highly important for him to possess talents and
+means for rapidly testing each supposition as it offers
+itself. In this as in other parts of the work of discovery,
+success has in general been mainly owing to the
+native ingenuity and sagacity of the discoverer’s mind.
+Yet some Rules tending to further this object have
+been delivered by eminent philosophers, and some
+others may perhaps be suggested. Of these we shall
+here notice only some of the most general, leaving for
+a future chapter the consideration of some more
+limited and detailed processes by which, in certain
+cases, the discovery of the laws of nature may be
+materially assisted.
+Sect. III.—Tests of Hypotheses.
+9. A maxim which it may be useful to recollect is
+this;—that hypotheses may often be of service to science,
+when they involve a certain portion of incompleteness,
+and even of errour. The object of such inventions is to
+bind together facts which without them are loose and
+detached; and if they do this, they may lead the way
+to a perception of the true rule by which the phenomena
+are associated together, even if they themselves
+somewhat misstate the matter. The imagined arrangement
+enables us to contemplate, as a whole, a collection
+of special cases which perplex and overload our minds
+when they are considered in succession; and if our
+scheme has so much of truth in it as to conjoin what is
+really connected, we may afterwards duly correct or
+limit the mechanism of this connexion. If our hypothesis
+renders a reason for the agreement of cases
+really similar, we may afterwards find this reason to be 84
+false, but we shall be able to translate it into the
+language of truth.
+A conspicuous example of such an hypothesis,—one
+which was of the highest value to science, though very
+incomplete, and as a representation of nature altogether
+false,—is seen in the Doctrine of epicycles by
+which the ancient astronomers explained the motions
+of the sun, moon, and planets. This doctrine connected the
+places and velocities of these bodies at particular times
+in a manner which was, in its general
+features, agreeable to nature. Yet this doctrine was
+erroneous in its assertion of the circular nature of all
+the celestial motions, and in making the heavenly
+bodies revolve round the earth. It was, however, of
+immense value to the progress of astronomical science;
+for it enabled men to express and reason upon many
+important truths which they discovered respecting the
+motion of the stars, up to the time of Kepler. Indeed
+we can hardly imagine that astronomy could, in its
+outset, have made so great a progress under any other
+form, as it did in consequence of being cultivated in
+this shape of the incomplete and false epicyclical hypothesis.
+We may notice another instance of an exploded
+hypothesis, which is generally mentioned only to be
+ridiculed, and which undoubtedly is both false in the
+extent of its assertion, and unphilosophical in its
+expression; but which still, in its day, was not without
+merit. I mean the doctrine of Nature’s horrour
+of a vacuum (fuga vacui), by which the action of
+siphons and pumps and many other phenomena were
+explained, till Mersenne and Pascal taught a truer
+doctrine. This hypothesis was of real service; for it
+brought together many facts which really belong to
+the same class, although they are very different in their
+first aspect. A scientific writer of modern
+times13
+appears to wonder that men did not at once divine the
+weight of the air, from which the phenomena formerly
+ascribed to the fuga vacui really result. ‘Loaded, 85
+compressed by the atmosphere,’ he says, ‘they did not
+recognize its action. In vain all nature testified that
+air was elastic and heavy; they shut their eyes to her
+testimony. The water rose in pumps and flowed in
+siphons at that time, as it does at this day. They
+could not separate the boards of a pair of bellows of
+which the holes were stopped; and they could not
+bring together the same boards without difficulty, if
+they were at first separated. Infants sucked the milk
+of their mothers; air entered rapidly into the lungs
+of animals at every inspiration; cupping-glasses produced
+tumours on the skin; and in spite of all these
+striking proofs of the weight and elasticity of the air,
+the ancient philosophers maintained resolutely that air
+was light, and explained all these phenomena by the
+horrour which they said nature had for a vacuum.’
+It is curious that it should not have occurred to the
+author while writing this, that if these facts, so
+numerous and various, can all be accounted for by one
+principle, there is a strong presumption that the
+principle is not altogether baseless. And in reality is it
+not true that nature does abhor a vacuum, and does all
+she can to avoid it? No doubt this power is not unlimited;
+and moreover we can trace it to a mechanical
+cause, the pressure of the circumambient air. But the
+tendency, arising from this pressure, which the bodies
+surrounding a space void of air have to rush into it,
+may be expressed, in no extravagant or unintelligible
+manner, by saying that nature has a repugnance to a
+vacuum.
+13
+ Deluc, Modifications de l’Atmosphère, Partie 1.
+That imperfect and false hypotheses, though they
+may thus explain some phenomena, and may be useful
+in the progress of science, cannot explain all phenomena;—and
+that we are never to rest in our labours
+or acquiesce in our results, till we have found some
+view of the subject which is consistent with all the
+observed facts;—will of course be understood. We shall
+afterwards have to speak of the other steps of such a
+progress.
+10. Thus the hypotheses which we accept ought to
+explain phenomena which we have observed. But they 86
+ought to do more than this: our hypotheses ought to
+foretel phenomena which have not yet been observed;
+at least all phenomena of the same kind as those which
+the hypothesis was invented to explain. For our assent
+to the hypothesis implies that it is held to be true of all
+particular instances. That these cases belong to past or
+to future times, that they have or have not already
+occurred, makes no difference in the applicability of the
+rule to them. Because the rule prevails, it includes all
+cases; and will determine them all, if we can only calculate
+its real consequences. Hence it will predict the
+results of new combinations, as well as explain the
+appearances which have occurred in old ones. And that
+it does this with certainty and correctness, is one mode
+in which the hypothesis is to be verified as right and
+useful.
+The scientific doctrines which have at various periods
+been established have been verified in this manner.
+For example, the Epicyclical Theory of the heavens
+was confirmed by its predicting truly eclipses of the
+sun and moon, configurations of the planets, and other
+celestial phenomena; and by its leading to the construction
+of Tables by which the places of the heavenly
+bodies were given at every moment of time. The truth
+and accuracy of these predictions were a proof that the
+hypothesis was valuable, and, at least to a great extent,
+true; although, as was afterwards found, it involved a
+false representation of the structure of the heavens.
+In like manner, the discovery of the Laws of Refraction
+enabled mathematicians to predict, by calculation,
+what would be the effect of any new form or combination of
+transparent lenses. Newton’s hypothesis of
+Fits of Easy Transmission and Easy Reflection in the
+particles of light, although not confirmed by other
+kinds of facts, involved a true statement of the law of
+the phenomena which it was framed to include, and
+served to predict the forms and colours of thin plates
+for a wide range of given cases. The hypothesis that
+Light operates by Undulations and Interferences,
+afforded the means of predicting results under a still
+larger extent of conditions. In like manner in the 87
+progress of chemical knowledge, the doctrine of Phlogiston
+supplied the means of foreseeing the consequence
+of many combinations of elements, even before they
+were tried; but the Oxygen Theory, besides affording
+predictions, at least equally exact, with regard to the
+general results of chemical operations, included all the
+facts concerning the relations of weight of the elements
+and their compounds, and enabled chemists to foresee
+such facts in untried cases. And the Theory of Electromagnetic
+Forces, as soon as it was rightly understood,
+enabled those who had mastered it to predict motions
+such as had not been before observed, which were
+accordingly found to take place.
+Men cannot help believing that the laws laid down
+by discoverers must be in a great measure identical
+with the real laws of nature, when the discoverers thus
+determine effects beforehand in the same manner in
+which nature herself determines them when the occasion
+occurs. Those who can do this, must, to a considerable
+extent, have detected nature’s secret;—must
+have fixed upon the conditions to which she attends,
+and must have seized the rules by which she applies
+them. Such a coincidence of untried facts with speculative
+assertions cannot be the work of chance, but implies some
+large portion of truth in the principles on
+which the reasoning is founded. To trace order and
+law in that which has been observed, may be considered
+as interpreting what nature has written down for us,
+and will commonly prove that we understand her
+alphabet. But to predict what has not been observed,
+is to attempt ourselves to use the legislative phrases of
+nature; and when she responds plainly and precisely
+to that which we thus utter, we cannot but suppose
+that we have in a great measure made ourselves masters
+of the meaning and structure of her language. The
+prediction of results, even of the same kind as those
+which have been observed, in new cases, is a proof of
+real success in our inductive processes.
+11. We have here spoken of the prediction of
+facts of the same kind as those from which our rule
+was collected. But the evidence in favour of our 88
+induction is of a much higher and more forcible character
+when it enables us to explain and determine
+cases of a kind different from those which were contemplated
+in the formation of our hypothesis. The
+instances in which this has occurred, indeed, impress
+us with a conviction that the truth of our hypothesis
+is certain. No accident could give rise to such an
+extraordinary coincidence. No false supposition could,
+after being adjusted to one class of phenomena, exactly
+represent a different class, where the agreement was
+unforeseen and uncontemplated. That rules springing
+from remote and unconnected quarters should thus
+leap to the same point, can only arise from that being
+the point where truth resides.
+Accordingly the cases in which inductions from
+classes of facts altogether different have thus jumped
+together, belong only to the best established theories
+which the history of science contains. And as I shall
+have occasion to refer to this peculiar feature in their
+evidence, I will take the liberty of describing it by a
+particular phrase; and will term it the Consilience of
+Inductions.
+It is exemplified principally in some of the greatest
+discoveries. Thus it was found by Newton that the
+doctrine of the Attraction of the Sun varying according
+to the Inverse Square of this distance, which explained
+Kepler’s Third Law, of the proportionality of
+the cubes of the distances to the squares of the periodic
+times of the planets, explained also his First and
+Second Laws, of the elliptical motion of each planet;
+although no connexion of these laws had been visible
+before. Again, it appeared that the force of universal
+Gravitation, which had been inferred from the Perturbations
+of the moon and planets by the sun and by
+each other, also accounted for the fact, apparently
+altogether dissimilar and remote, of the Precession of
+the equinoxes. Here was a most striking and surprising
+coincidence, which gave to the theory a stamp
+of truth beyond the power of ingenuity to counterfeit.
+In like manner in Optics; the hypothesis of alternate
+Fits of easy Transmission and Reflection would explain 89
+the colours of thin plates, and indeed was devised and
+adjusted for that very purpose; but it could give no
+account of the phenomena of the fringes of shadows.
+But the doctrine of Interferences, constructed at first
+with reference to phenomena of the nature of the
+Fringes, explained also the Colours of thin plates better
+than the supposition of the Fits invented for that very
+purpose. And we have in Physical Optics another
+example of the same kind, which is quite as striking
+as the explanation of Precession by inferences from the
+facts of Perturbation. The doctrine of Undulations
+propagated in a Spheroidal Form was contrived at first
+by Huyghens, with a view to explain the laws of
+Double Refraction in calc-spar; and was pursued with
+the same view by Fresnel. But in the course of the
+investigation it appeared, in a most unexpected and
+wonderful manner, that this same doctrine of spheroidal
+undulations, when it was so modified as to
+account for the directions of the two refracted rays,
+accounted also for the positions of their Planes of
+Polarization14,
+a phenomenon which, taken by itself,
+it had perplexed previous mathematicians, even to
+represent.
+14
+ Hist. Ind. Sc. b. ix. c. xi. sect. 4.
+The Theory of Universal Gravitation, and of the
+Undulatory Theory of Light, are, indeed, full of examples
+of this Consilience of Inductions. With regard to
+the latter, it has been justly asserted by Herschel, that
+the history of the undulatory theory was a succession
+of felicities15.
+And it is precisely the unexpected
+coincidences of results drawn from distant parts of the
+subject which are properly thus described. Thus the
+Laws of the Modification of polarization to which
+Fresnel was led by his general views, accounted for
+the Rule respecting the Angle at which light is polarized,
+discovered by Sir D.
+Brewster16.
+The conceptions of the
+theory pointed out peculiar Modifications
+of the phenomena when Newton’s rings were produced
+by polarised light, which modifications were 90 ascertained
+to take place in fact, by Arago and
+Airy17.
+When the beautiful phenomena of Dipolarized light
+were discovered by Arago and Biot, Young was able
+to declare that they were reducible to the general laws
+of Interference which he had already
+established18.
+And what was no less striking a confirmation of the
+truth of the theory, Measures of the same element
+deduced from various classes of facts were found to
+coincide. Thus the Length of a luminiferous undulation,
+calculated by Young from the measurement of
+Fringes of shadows, was found to agree very nearly
+with the previous calculation from the colours of Thin
+plates19.
+15
+See Hist. Ind. Sc. b. ix. c. xii.
+16
+Ib. c. xi. sect. 4.
+17
+See Hist. Ind. Sc. b. ix. c. xiii. sect. 6.
+18
+Ib. c. xi. sect. 5.
+19
+Ib. c. xi. sect. 2.
+No example can be pointed out, in the whole history of science,
+so far as I am aware, in which this
+Consilience of Inductions has given testimony in
+favour of an hypothesis afterwards discovered to be
+false. If we take one class of facts only, knowing the
+law which they follow, we may construct an hypothesis,
+or perhaps several, which may represent them:
+and as new circumstances are discovered, we may often
+adjust the hypothesis so as to correspond to these also.
+But when the hypothesis, of itself and without adjustment
+for the purpose, gives us the rule and reason of a
+class of facts not contemplated in its construction, we
+have a criterion of its reality, which has never yet
+been produced in favour of falsehood.
+12. In the preceding Article I have spoken of the
+hypothesis with which we compare our facts as being
+framed all at once, each of its parts being included in
+the original scheme. In reality, however, it often happens
+that the various suppositions which our system
+contains are added upon occasion of different researches.
+Thus in the Ptolemaic doctrine of the heavens, new epicycles
+and eccentrics were added as new
+inequalities of the motions of the heavenly bodies were
+discovered; and in the Newtonian doctrine of material
+rays of light, the supposition that these rays had 91
+‘fits,’ was added to explain the colours of thin plates;
+and the supposition that they had ‘sides’ was introduced
+on occasion of the phenomena of polarization.
+In like manner other theories have been built up of
+parts devised at different times.
+This being the mode in which theories are often
+framed, we have to notice a distinction which is found
+to prevail in the progress of true and false theories.
+In the former class all the additional suppositions tend
+to simplicity and harmony; the new suppositions resolve
+themselves into the old ones, or at least require
+only some easy modification of the hypothesis first
+assumed: the system becomes more coherent as it is
+further extended. The elements which we require for
+explaining a new class of facts are already contained
+in our system. Different members of the theory run
+together, and we have thus a constant convergence to
+unity. In false theories, the contrary is the case. The
+new suppositions are something altogether additional;—not
+suggested by the original scheme; perhaps difficult to
+reconcile with it. Every such addition adds to
+the complexity of the hypothetical system, which at
+last becomes unmanageable, and is compelled to surrender
+its place to some simpler explanation.
+Such a false theory, for example, was the ancient
+doctrine of eccentrics and epicycles. It explained the
+general succession of the Places of the Sun, Moon,
+and Planets; it would not have explained the proportion
+of their Magnitudes at different times, if these
+could have been accurately observed; but this the ancient
+astronomers were unable to do. When, however,
+Tycho and other astronomers came to be able to observe
+the planets accurately in all positions, it was
+found that no combination of equable circular motions
+would exactly represent all the observations. We may
+see, in Kepler’s works, the many new modifications of
+the epicyclical hypothesis which offered themselves to
+him; some of which would have agreed with the phenomena
+with a certain degree of accuracy, but not with
+so great a degree as Kepler, fortunately for the progress
+of science, insisted upon obtaining. After these 92
+epicycles had been thus accumulated, they all disappeared
+and gave way to the simpler conception of an
+elliptical motion. In like manner, the discovery of new
+inequalities in the Moon’s motions encumbered her
+system more and more with new machinery, which was
+at last rejected all at once in favour of the elliptical
+theory. Astronomers could not but suppose themselves in
+a wrong path, when the prospect grew darker
+and more entangled at every step.
+Again; the Cartesian system of Vortices might be
+said to explain the primary phenomena of the revolutions
+of planets about the sun, and satellites about
+planets. But the elliptical form of the orbits required
+new suppositions. Bernoulli ascribed this curve to the
+shape of the planet, operating on the stream of the
+vortex in a manner similar to the rudder of a boat.
+But then the motions of the aphelia, and of the nodes,—the
+perturbations,—even the action of gravity towards the
+earth,—could not be accounted for without
+new and independent suppositions. Here was none of
+the simplicity of truth. The theory of Gravitation,
+on the other hand, became more simple as the facts to
+be explained became more numerous. The attraction
+of the sun accounted for the motions of the planets;
+the attraction of the planets was the cause of the motion
+of the satellites. But this being assumed, the
+perturbations, and the motions of the nodes and aphelia,
+only made it requisite to extend the attraction of the
+sun to the satellites, and that of the planets to each
+other:—the tides, the spheroidal form of the earth,
+the precession, still required nothing more than that
+the moon and sun should attract the parts of the earth,
+and that these should attract each other;—so that
+all the suppositions resolved themselves into the single
+one, of the universal gravitation of all matter. It is
+difficult to imagine a more convincing manifestation of
+simplicity and unity.
+Again, to take an example from another science;—the
+doctrine of Phlogiston brought together many facts
+in a very plausible manner,—combustion, acidification,
+and others,—and very naturally prevailed for a while. 93
+But the balance came to be used in chemical operations,
+and the facts of weight as well as of combination
+were to be accounted for. On the phlogistic theory, it
+appeared that this could not be done without a new
+supposition, and that, a very strange one;—that
+phlogiston was an element not only not heavy, but
+absolutely light, so that it diminished the weight of the
+compounds into which it entered. Some chemists for a
+time adopted this extravagant view, but the wiser of
+them saw, in the necessity of such a supposition to the
+defence of the theory, an evidence that the hypothesis
+of an element phlogiston was erroneous. And the
+opposite hypothesis, which taught that oxygen was
+subtracted, and not phlogiston added, was accepted
+because it required no such novel and inadmissible
+assumption.
+Again, we find the same evidence of truth in the
+progress of the Undulatory Theory of light, in the
+course of its application from one class of facts to another.
+Thus we explain Reflection and Refraction by
+undulations; when we come to Thin Plates, the requisite
+‘fits’ are already involved in our fundamental
+hypothesis, for they are the length of an undulation:
+the phenomena of Diffraction also require such intervals;
+and the intervals thus required agree exactly
+with the others in magnitude, so that no new property
+is needed. Polarization for a moment appears to require
+some new hypothesis; yet this is hardly the case;
+for the direction of our vibrations is hitherto arbitrary:—we
+allow polarization to decide it, and we suppose
+the undulations to be transverse. Having done this
+for the sake of Polarization, we turn to the phenomena
+of Double Refraction, and inquire what new hypothesis
+they require. But the answer is, that they require
+none: the supposition of transverse vibrations, which
+we have made in order to explain Polarization, gives
+us also the law of Double Refraction. Truth may give
+rise to such a coincidence; falsehood cannot. Again,
+the facts of Dipolarization come into view. But they
+hardly require any new assumption; for the difference
+of optical elasticity of crystals in different directions, 94
+which is already assumed in uniaxal
+crystals20,
+is extended to biaxal exactly according to the law of symmetry;
+and this being done, the laws of the phenomena, curious and
+complex as they are, are fully
+explained. The phenomena of Circular Polarization
+by internal reflection, instead of requiring a new hypothesis,
+are found to be given by an interpretation of
+an apparently inexplicable result of an old hypothesis.
+The Circular Polarization of Quartz and the Double
+Refraction does indeed appear to require a new assumption,
+but still not one which at all disturbs the form
+of the theory; and in short, the whole history of this
+theory is a progress, constant and steady, often striking
+and startling, from one degree of evidence and consistence
+to another of a higher order.
+20
+Hist. Ind. Sc. b. ix. c. xi. sect. 5.
+In the Emission Theory, on the other hand, as in
+the theory of solid epicycles, we see what we may
+consider as the natural course of things in the career
+of a false theory. Such a theory may, to a certain
+extent, explain the phenomena which it was at first
+contrived to meet; but every new class of facts requires
+a new supposition—an addition to the machinery: and
+as observation goes on, these incoherent appendages
+accumulate, till they overwhelm and upset the original
+frame-work. Such has been the hypothesis of the
+Material Emission of light. In its original form, it
+explained Reflection and Refraction: but the colours
+of Thin Plates added to it the Fits of easy Transmission and
+Reflection; the phenomena of Diffraction
+further invested the emitted particles with complex
+laws of Attraction and Repulsion; Polarization gave
+them Sides: Double Refraction subjected them to
+peculiar Forces emanating from the axes of the crystal:
+Finally, Dipolarization loaded them with the complex
+and unconnected contrivance of Moveable Polarization:
+and even when all this had been done, additional
+mechanism was wanting. There is here no unexpected
+success, no happy coincidence, no convergence of
+principles from remote quarters. The philosopher builds 95
+the machine, but its parts do not fit. They hold
+together only while he presses them. This is not the
+character of truth.
+As another example of the application of the Maxim
+now under consideration, I may perhaps be allowed to
+refer to the judgment which, in the History of Thermotics,
+I have ventured to give respecting Laplace’s
+Theory of Gases. I have stated21,
+that we cannot help
+forming an unfavourable judgment of this theory, by
+looking for that great characteristic of true theory;
+namely, that the hypotheses which were assumed to
+account for one class of facts are found to explain
+another class of a different nature. Thus Laplace’s first
+suppositions explain the connexion of Compression
+with Density, (the law of Boyle and Mariotte,) and
+the connexion of Elasticity with Heat, (the law of
+Dalton and Gay Lussac). But the theory requires
+other assumptions when we come to Latent Heat; and
+yet these new assumptions produce no effect upon the
+calculations in any application of the theory. When
+the hypothesis, constructed with reference to the Elasticity
+and Temperature, is applied to another class of
+facts, those of Latent Heat, we have no Simplification
+of the Hypothesis, and therefore no evidence of the
+truth of the theory.
+21
+Hist. Ind. Sc. b. x. c. iv.
+13. The last two sections of this chapter direct our
+attention to two circumstances, which tend to prove, in
+a manner which we may term irresistible, the truth of
+the theories which they characterize:—the Consilience
+of Inductions from different and separate classes of
+facts;—and the progressive Simplification of the Theory
+as it is extended to new cases. These two Characters
+are, in fact, hardly different; they are exemplified by
+the same cases. For if these Inductions, collected from
+one class of facts, supply an unexpected explanation of
+a new class, which is the case first spoken of, there
+will be no need for new machinery in the hypothesis
+to apply it to the newly-contemplated facts; and thus,
+we have a case in which the system does not become 96
+more complex when its application is extended to a
+wider field, which was the character of true theory
+in its second aspect. The Consiliences of our Inductions
+give rise to a constant Convergence of our Theory
+towards Simplicity and Unity.
+But, moreover, both these cases of the extension of
+the theory, without difficulty or new suppositions, to a
+wider range and to new classes of phenomena, may be
+conveniently considered in yet another point of view;
+namely, as successive steps by which we gradually
+ascend in our speculative views to a higher and higher
+point of generality. For when the theory, either by
+the concurrence of two indications, or by an extension
+without complication, has included a new range of
+phenomena, we have, in fact, a new induction of a
+more general kind, to which the inductions formerly
+obtained are subordinate, as particular cases to a general
+proposition. We have in such examples, in short,
+an instance of successive generalization. This is a
+subject of great importance, and deserving of being well
+illustrated; it will come under our notice in the next
+chapter.
+</div></body></text></TEI>

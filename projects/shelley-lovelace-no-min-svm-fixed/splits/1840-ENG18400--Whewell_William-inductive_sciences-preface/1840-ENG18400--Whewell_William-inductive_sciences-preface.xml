@@ -1,0 +1,38 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Novum Organon Renovatum</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="4">
+NOVUM ORGANON RENOVATUM.
+The name Organon was applied to the works of
+Aristotle which treated of Logic, that is, of the method
+of establishing and proving knowledge, and of refuting
+errour, by means of Syllogisms. Francis Bacon, holding
+that this method was insufficient and futile for
+the augmentation of real and useful knowledge, published
+his Novum Organon, in which he proposed for
+that purpose methods from which he promised a better
+success. Since his time real and useful knowledge has
+made great progress, and many Sciences have been
+greatly extended or newly constructed; so that even
+if Bacon’s method had been the right one, and had
+been complete as far as the progress of Science up to
+his time could direct it, there would be room for the
+revision and improvement of the methods of arriving
+at scientific knowledge.
+Inasmuch as we have gone through the Histories
+of the principal Sciences, from the earliest up to the
+present time, in a previous work, and have also traced
+the History of Scientific Ideas in another work, it
+may perhaps be regarded as not too presumptuous if
+we attempt this revision and improvement of the
+methods by which Sciences must rise and grow.
+This 4
+is our task in the present volume; and to mark the
+reference of this undertaking to the work of Bacon, we
+name our book Novum Organon Renovatum.
+Bacon has delivered his precepts in Aphorisms,
+some of them stated nakedly, others expanded into
+dissertations. The general results at which we have
+arrived by tracing the history of Scientific Ideas are
+the groundwork of such Precepts as we have to give:
+and I shall therefore begin by summing up these
+results in Aphorisms, referring to the former work
+for the historical proof that these Aphorisms are true.
+</div></body></text></TEI>

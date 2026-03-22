@@ -1,0 +1,349 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Novum Organon Renovatum</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="8">
+CHAPTER III.
+Of Facts as the Materials of Science.
+Aphorism IV.
+Facts are the materials of science, but all Facts involve
+Ideas. Since in observing Facts, we cannot exclude Ideas,
+we must, for the purposes of science, take care that the Ideas
+are clear and rigorously applied.
+Aphorism V.
+The last Aphorism leads to such Rules as the following:—That
+Facts, for the purposes of material science, must involve
+Conceptions of the Intellect only, and not Emotions:—That
+Facts must be observed with reference to our most exact conceptions,
+Number, Place, Figure, Motion:—That they must
+also be observed with reference to any other exact conceptions
+which the phenomena suggest, as Force, in mechanical phenomena,
+Concord, in musical.
+Aphorism VI.
+The resolution of complex Facts into precise and measured
+partial Facts, we call the Decomposition of Facts. This
+process is requisite for the progress of science, but does not
+necessarily lead to progress.
+1. WE
+have now to examine how Science is built
+up by the combination of Facts. In doing this,
+we suppose that we have already attained a supply of
+definite and certain Facts, free from obscurity and doubt.
+We must, therefore, first consider under what conditions
+Facts can assume this character.
+When we inquire what Facts are to be made the
+materials of Science, perhaps the answer which we 51
+should most commonly receive would be, that they
+must be True Facts, as distinguished from any mere
+inferences or opinions of our own. We should probably be told
+that we must be careful in such a case to
+consider as Facts, only what we really observe;—that
+we must assert only what we see; and believe nothing
+except upon the testimony of our senses.
+But such maxims are far from being easy to apply,
+as a little examination will convince us.
+2. It has been explained, in preceding works,
+that all perception of external objects and occurrences
+involves an active as well as a passive process
+of the mind;—includes not only Sensations, but also
+Ideas by which Sensations are bound together, and
+have a unity given to them. From this it follows, that
+there is a difficulty in separating in our perceptions
+what we receive from without, and what we ourselves
+contribute from within;—what we perceive, and what
+we infer. In many cases, this difficulty is obvious to
+all: as, for example, when we witness the performances
+of a juggler or a ventriloquist. In these instances, we
+imagine ourselves to see and to hear what certainly we
+do not see and hear. The performer takes advantage
+of the habits by which our minds supply interruptions
+and infer connexions; and by giving us fallacious
+indications, he leads us to perceive as an actual fact, what
+does not happen at all. In these cases, it is evident
+that we ourselves assist in making the fact; for we
+make one which does not really exist. In other cases,
+though the fact which we perceive be true, we can
+easily see that a large portion of the perception is our
+own act; as when, from the sight of a bird of prey we
+infer a carcase, or when we read a half-obliterated inscription.
+In the latter case, the mind supplies the
+meaning, and perhaps half the letters; yet we do not
+hesitate to say that we actually read the inscription.
+Thus, in many cases, our own inferences and interpretations
+enter into our facts. But this happens in
+many instances in which it is at first sight less obvious.
+When any one has seen an oak-tree blown down by a
+strong gust of wind, he does not think of the occurrence 52
+any otherwise than as a Fact of which he is assured by
+his senses. Yet by what sense does he perceive the
+Force which he thus supposes the wind to exert? By
+what sense does he distinguish an Oak-tree from all
+other trees? It is clear upon reflexion, that in such
+a case, his own mind supplies the conception of extraneous
+impulse and pressure, by which he thus interprets the motions
+observed, and the distinction of
+different kinds of trees, according to which he thus
+names the one under his notice. The Idea of Force,
+and the idea of definite Resemblances and Differences,
+are thus combined with the impressions on our senses,
+and form an undistinguished portion of that which we
+consider as the Fact. And it is evident that we can in
+no other way perceive Force, than by seeing motion;
+and cannot give a Name to any object, without not
+only seeing a difference of single objects, but supposing
+a difference of classes of objects. When we speak as
+if we saw impulse and attraction, things and classes,
+we really see only objects of various forms and colours,
+more or less numerous, variously combined. But do
+we really perceive so much as this? When we see the
+form, the size, the number, the motion of objects, are
+these really mere impressions on our senses, unmodified
+by any contribution or operation of the mind
+itself? A very little attention will suffice to convince
+us that this is not the case. When we see a windmill
+turning, it may happen, as we have elsewhere
+noticed3,
+that we mistake the direction in which the sails turn:
+when we look at certain diagrams, they may appear
+either convex or concave: when we see the moon first
+in the horizon and afterwards high up in the sky, we
+judge her to be much larger in the former than in the
+latter position, although to the eye she subtends the
+same angle. And in these cases and the like, it has
+been seen that the errour and confusion which we thus
+incur arise from the mixture of acts of the mind itself
+with impressions on the senses. But such acts are, as
+we have also seen, inseparable portions of the process 53
+of perception. A certain activity of the mind is involved,
+not only in seeing objects erroneously, but in
+seeing them at all. With regard to solid objects, this
+is generally acknowledged. When we seem to see an
+edifice occupying space in all dimensions, we really see
+only a representation of it as it appears referred by
+perspective to a surface. The inference of the solid
+form is an operation of our own, alike when we look at
+a reality and when we look at a picture. But we may
+go further. Is plane Figure really a mere Sensation?
+If we look at a decagon, do we see at once that it has
+ten sides, or is it not necessary for us to count them:
+and is not counting an act of the mind? All objects
+are seen in space; all objects are seen as one or many:
+but are not the Idea of Space and the Idea of Number
+requisite in order that we may thus apprehend what
+we see? That these Ideas of Space and Number involve a
+connexion derived from the mind, and not from
+the senses, appears, as we have already seen, from this,
+that those Ideas afford us the materials of universal
+and necessary truths:—such truths as the senses cannot
+possibly supply. And thus, even the perception of
+such facts as the size, shape, and number of objects,
+cannot be said to be impressions of sense, distinct from
+all acts of mind, and cannot be expected to be free
+from errour on the ground of their being mere observed
+Facts.
+3 History of Ideas, B. ii. c. vi. s. 6.
+Thus the difficulty which we have been illustrating,
+of distinguishing Facts from inferences and from
+interpretations of facts, is not only great, but amounts to an
+impossibility. The separation at which we aimed in
+the outset of this discussion, and which was supposed
+to be necessary in order to obtain a firm groundwork
+for science, is found to be unattainable. We cannot
+obtain a sure basis of Facts, by rejecting all inferences
+and judgments of our own, for such inferences and
+judgments form an unavoidable element in all Facts.
+We cannot exclude our Ideas from our Perceptions,
+for our Perceptions involve our Ideas.
+3. But still, it cannot be doubted that in selecting
+the Facts which are to form the foundation of Science, 54
+we must reduce them to their most simple and certain
+form; and must reject everything from which doubt or
+errour may arise. Now since this, it appears, cannot
+be done, by rejecting the Ideas which all Facts involve,
+in what manner are we to conform to the obvious maxim,
+that the Facts which form the basis of
+Science must be perfectly definite and certain?
+The analysis of facts into Ideas and Sensations,
+which we have so often referred to, suggests the answer
+to this inquiry. We are not able, nor need we
+endeavour, to exclude Ideas from our Facts; but we
+may be able to discern, with perfect distinctness, the
+Ideas which we include. We cannot observe any phenomena
+without applying to them such Ideas as Space
+and Number, Cause and Resemblance, and usually,
+several others; but we may avoid applying these Ideas
+in a wavering or obscure manner, and confounding
+Ideas with one another. We cannot read any of the
+inscriptions which nature presents to us, without
+interpreting them by means of some language which we
+ourselves are accustomed to speak; but we may make
+it our business to acquaint ourselves perfectly with the
+language which we thus employ, and to interpret it
+according to the rigorous rules of grammar and analogy.
+This maxim, that when Facts are employed as the
+basis of Science, we must distinguish clearly the Ideas
+which they involve, and must apply these in a distinct
+and rigorous manner, will be found to be a more precise
+guide than we might perhaps at first expect. We
+may notice one or two Rules which flow from it.
+4. In the first place. Facts, when used as the materials
+of physical Science, must be referred to Conceptions
+of the Intellect only, all emotions of fear, admiration,
+and the like, being rejected or subdued. Thus,
+the observations of phenomena which are related as
+portents and prodigies, striking terrour and boding
+evil, are of no value for purposes of science. The tales
+of armies seen warring in the sky, the sound of arms
+heard from the clouds, fiery dragons, chariots, swords
+seen in the air, may refer to meteorological phenomena;
+but the records of phenomena observed in the 55
+state of mind which these descriptions imply can be
+of no scientific value. We cannot make the poets our
+observers.
+Armorum sonitum toto Germania cœlo
+Audiit; insolitis tremuerunt motibus Alpes.
+Vox quoque per lucos vulgo exaudita silentes
+Ingens; et simulacra modis pallentia miris
+Visa sub obscurum noctis: pecudesque locutæ.
+The mixture of fancy and emotion with the observation
+of facts has often disfigured them to an extent which
+is too familiar to all to need illustration. We have an
+example of this result, in the manner in which Comets
+are described in the treatises of the middle ages. In
+such works, these bodies are regularly distributed into
+several classes, accordingly as they assume the form of
+a sword, of a spear, of a cross, and so on. When such
+resemblances had become matters of interest, the
+impressions of the senses were governed, not by the
+rigorous conceptions of form and colour, but by these
+assumed images; and under these circumstances, we can
+attach little value to the statement of what was seen.
+In all such phenomena, the reference of the objects
+to the exact Ideas of Space, Number, Position, Motion,
+and the like, is the first step of Science: and accordingly,
+this reference was established at an early period
+in those sciences which made an early progress, as, for
+instance, Astronomy. Yet even in astronomy there
+appears to have been a period when the predominant
+conceptions of men in regarding the heavens and the
+stars pointed to mythical story and supernatural influence,
+rather than to mere relations of space, time,
+and motion: and of this primeval condition of those
+who gazed at the stars, we seem to have remnants in
+the Constellations, in the mythological Names of the
+Planets, and in the early prevalence of Astrology. It
+was only at a later period, when men had begun to
+measure the places, or at least to count the revolutions
+of the stars, that Astronomy had its birth.
+5. And thus we are led to another Rule:—that in
+collecting Facts which are to be made the basis of 56
+Science, the Facts are to be observed, as far as possible,
+with reference to place, figure,
+number, motion, and the
+like Conceptions; which, depending upon the Ideas of
+Space and Time, are the most universal, exact, and
+simple of our conceptions. It was by early attention to
+these relations in the case of the heavenly bodies, that
+the ancients formed the science of Astronomy: it was
+by not making precise observations of this kind in the
+case of terrestrial bodies, that they failed in framing a
+science of the Mechanics of Motion. They succeeded
+in Optics as far as they made observations of this nature;
+but when they ceased to trace the geometrical
+paths of rays in the actual experiment, they ceased to
+go forwards in the knowledge of this subject.
+6. But we may state a further Rule:—that though
+these relations of Time and Space are highly important
+in almost all Facts, we are not to confine ourselves to
+these: but are to consider the phenomena with reference
+to other Conceptions also: it being always understood
+that these conceptions are to be made as exact and
+rigorous as those of geometry and number. Thus the
+science of Harmonics arose from considering sounds
+with reference to Concords and Discords; the science
+of Mechanics arose from not only observing motions as
+they take place in Time and Space, but further, referring
+them to Force as their Cause. And in like manner, other
+sciences depend upon other Ideas, which, as
+I have endeavoured to show, are not less fundamental
+than those of Time and Space; and like them, capable
+of leading to rigorous consequences.
+7. Thus the Facts which we assume as the basis of
+Science are to be freed from all the mists which
+imagination and passion throw round them; and to be
+separated into those elementary Facts which exhibit
+simple and evident relations of Time, or Space, or
+Cause, or some other Ideas equally clear. We resolve
+the complex appearances which nature offers to us,
+and the mixed and manifold modes of looking at these
+appearances which rise in our thoughts, into limited,
+definite, and clearly-understood portions. This process
+we may term the Decomposition of Facts. It is the 57
+beginning of exact knowledge,—the first step in the
+formation of all Science. This Decomposition of Facts
+into Elementary Facts, clearly understood and surely
+ascertained, must precede all discovery of the laws of
+nature.
+8. But though this step is necessary, it is not infallibly
+sufficient. It by no means follows that when we
+have thus decomposed Facts into Elementary Truths
+of observation, we shall soon be able to combine these,
+so as to obtain Truths of a higher and more speculative
+kind. We have examples which show us how
+far this is from being a necessary consequence of the
+former step. Observations of the weather, made and
+recorded for many years, have not led to any general
+truths, forming a science of Meteorology: and although
+great numerical precision has been given to such
+observations by means of barometers, thermometers, and
+other instruments, still, no general laws regulating the
+cycles of change of such phenomena have yet been
+discovered. In like manner the faces of crystals, and
+the sides of the polygons which these crystals form,
+were counted, and thus numerical facts were obtained,
+perfectly true and definite, but still of no value for
+purposes of science. And when it was discovered
+what Element of the form of crystals it was important
+to observe and measure, namely, the Angle made by
+two faces with each other, this discovery was a step of
+a higher order, and did not belong to that department,
+of mere exact observation of manifest Facts,
+with which we are here concerned.
+9. When the Complex Facts which nature offers to
+us are thus decomposed into Simple Facts, the
+decomposition, in general, leads to the introduction of Terms
+and Phrases, more or less technical, by which these
+Simple Facts are described. When Astronomy was
+thus made a science of measurement, the things measured
+were soon described as Hours, and Days, and
+Cycles, Altitude and Declination,
+Phases and Aspects.
+In the same manner, in Music, the concords had names
+assigned them, as Diapente, Diatessaron, Diapason; in
+studying Optics, the Rays of light were spoken of as 58
+having their course altered by Reflexion and Refraction;
+and when useful observations began to be made
+in Mechanics, the observers spoke of Force, Pressure,
+Momentum, Inertia, and the like.
+10. When we take phenomena in which the leading Idea is
+Resemblance, and resolve them into precise
+component Facts, we obtain some kind of Classification;
+as, for instance, when we lay down certain Rules
+by which particular trees, or particular animals are to
+be known. This is the earliest form of Natural History;
+and the Classification which it involves is that
+which corresponds, nearly or exactly, with the usual
+Names of the objects thus classified.
+11. Thus the first attempts to render observation
+certain and exact, lead to a decomposition of the obvious
+facts into Elementary Facts, connected by the
+Ideas of Space, Time, Number, Cause, Likeness, and
+others: and into a Classification of the Simple Facts;
+a classification more or less just, and marked by Names
+either common or technical. Elementary Facts, and
+Individual Objects, thus observed and classified, form
+the materials of Science; and any improvement in
+Classification or Nomenclature, or any discovery of a
+Connexion among the materials thus accumulated,
+leads us fairly within the precincts of Science. We
+must now, therefore, consider the manner in which
+Science is built up of such materials;—the process by
+which they are brought into their places, and the
+texture of the bond which unites and cements them.
+</div></body></text></TEI>

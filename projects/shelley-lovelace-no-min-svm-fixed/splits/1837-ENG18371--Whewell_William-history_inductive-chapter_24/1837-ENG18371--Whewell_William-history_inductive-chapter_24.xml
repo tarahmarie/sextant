@@ -1,0 +1,491 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="24">CHAPTER IV.
+Inductive Epoch of Kepler.
+
+Sect. 1.—Intellectual Character of
+Kepler.
+SEVERAL persons,30 especially in recent times, who have
+taken a view of the discoveries of Kepler, appear to have been
+surprised and somewhat discontented that conjectures, apparently so
+fanciful and arbitrary as his, should have led to important
+discoveries. They seem to have been alarmed at the Moral that
+their readers might draw, from the tale of a Quest of Knowledge, in
+which the Hero, though fantastical and self-willed, and violating in
+his conduct, as they conceived, all right rule and sound philosophy,
+is rewarded with the most signal triumphs. Perhaps one or two
+reflections may in some measure reconcile us to this result.
+30 Laplace, Précis de l’Hist.
+d’Ast. p. 94. “Il est affligeant pour l’esprit humain de voir ce
+grand homme, même dans ses derniers ouvrages, se complaire avec
+délices dans ses chimériques spéculations, et les regarder comme l’âme
+et la vie de l’astronomie.”
+ Hist. of Ast., L. U. K., p. 53. “This success [of Kepler]
+may well inspire with dismay those who are accustomed to consider
+experiment and rigorous induction as the only means to interrogate
+nature with success.”
+ Life of Kepler, L. U. K., p. 14, “Bad philosophy.” P. 15,
+“Kepler’s miraculous good fortune in seizing truths across the wildest
+and most absurd theories.” P. 54, “The danger of attempting to follow
+his method in the pursuit of truth.”
+291 In the first
+place, we may observe that the leading thought which suggested and
+animated all Kepler’s attempts was true, and we may add, sagacious and
+philosophical; namely, that there must be some numerical or
+geometrical relations among the times, distances, and velocities of
+the revolving bodies of the solar system. This settled and constant
+conviction of an important truth regulated all the conjectures,
+apparently so capricious and fanciful, which he made and examined,
+respecting particular relations in the system.
+In the next place, we may venture to say, that advances in
+knowledge are not commonly made without the previous exercise of some
+boldness and license in guessing. The discovery of new truths
+requires, undoubtedly, minds careful and scrupulous in examining what
+is suggested; but it requires, no less, such as are quick and fertile
+in suggesting. What is Invention, except the talent of rapidly calling
+before us many possibilities, and selecting the appropriate one? It is
+true, that when we have rejected all the inadmissible suppositions,
+they are quickly forgotten by most persons; and few think it necessary
+to dwell on these discarded hypotheses, and on the process by which
+they were condemned, as Kepler has done. But all who discover truths
+must have reasoned upon many errors, to obtain each truth; every
+accepted doctrine must have been one selected out of many candidates.
+In making many conjectures, which on trial proved erroneous, Kepler
+was no more fanciful or unphilosophical than other discoverers have
+been. Discovery is not a “cautious” or “rigorous” process, in the
+sense of abstaining from such suppositions. But there are great
+differences in different cases, in the facility with which guesses are
+proved to be errors, and in the degree of attention with which the
+error and the proof are afterwards dwelt on. Kepler certainly was
+remarkable for the labor which he gave to such self-refutations, and
+for the candor and copiousness with which he narrated them; his works
+are in this way extremely curious and amusing; and are a very
+instructive exhibition of the mental process of discovery. But in this
+respect, I venture to believe, they exhibit to us the usual process
+(somewhat caricatured) of inventive minds: they rather exemplify the
+rule of genius than (as has generally been hitherto taught)
+the exception. We may add, that if many of Kepler’s guesses
+now appear fanciful and absurd, because time and observation have
+refuted them, others, which were at the time equally gratuitous, have
+been confirmed by succeeding discoveries in a manner which makes them
+appear marvellously sagacious; as, for instance, his assertion of the
+rotation of 292 the
+sun on his axis, before the invention of the telescope, and his
+opinion that the obliquity of the ecliptic was decreasing, but would,
+after a long-continued diminution, stop, and then increase again.31 Nothing can be more just, as well as
+more poetically happy, than Kepler’s picture of the philosopher’s
+pursuit of scientific truth, conveyed by means of an allusion to
+Virgil’s shepherd and shepherdess:
+
+
+Malo me Galatea petit, lasciva puella
+Et fugit ad salices et se cupit ante
+videri.
+Coy yet inviting, Galatea loves
+To sport in sight, then plunge into the
+groves;
+The challenge given, she darts along the
+green,
+Will not be caught, yet would not run
+unseen.
+
+31 Bailly, A. M. iii.
+175.
+We may notice as another peculiarity of Kepler’s reasonings, the
+length and laboriousness of the processes by which he discovered the
+errors of his first guesses. One of the most important talents
+requisite for a discoverer, is the ingenuity and skill which devises
+means for rapidly testing false suppositions as they offer themselves.
+This talent Kepler did not possess: he was not even a good
+arithmetical calculator, often making mistakes, some of which he
+detected and laments, while others escaped him to the last. But his
+defects in this respect were compensated by his courage and
+perseverance in undertaking and executing such tasks; and, what was
+still more admirable, he never allowed the labor he had spent upon any
+conjecture to produce any reluctance in abandoning the hypothesis, as
+soon as he had evidence of its inaccuracy. The only way in which he
+rewarded himself for his trouble, was by describing to the world, in
+his lively manner, his schemes, exertions, and feelings.
+The mystical parts of Kepler’s opinions, as his belief in
+astrology, his persuasion that the earth was an animal, and many of
+the loose moral and spiritual as well as sensible analyses by which he
+represented to himself the powers which he supposed to prevail in the
+universe, do not appear to have interfered with his discovery, but
+rather to have stimulated his invention, and animated his exertions.
+Indeed, where there are clear scientific ideas on one subject in the
+mind, it does not appear that mysticism on others is at all
+unfavorable to the successful prosecution of research.
+I conceive, then, that we may consider Kepler’s character as
+containing the general features of the character of a scientific
+discoverer, 293
+though some of the features are exaggerated, and some too feebly
+marked. His spirit of invention was undoubtedly very fertile and
+ready, and this and his perseverance served to remedy his deficiency
+in mathematical artifice and method. But the peculiar physiognomy is
+given to his intellectual aspect by his dwelling in a most prominent
+manner on those erroneous trains of thought which other persons
+conceal from the world, and often themselves forget, because they find
+means of stopping them at the outset. In the beginning of his book
+(Argumenta Capitum) he says, “if Christopher Columbus, if
+Magellan, if the Portuguese, when they narrate their wanderings, are
+not only excused, but if we do not wish these passages omitted, and
+should lose much pleasure if they were, let no one blame me for doing
+the same.” Kepler’s talents were a kindly and fertile soil, which he
+cultivated with abundant toil and vigor; but with great scantiness of
+agricultural skill and implements. Weeds and the grain throve and
+flourished side by side almost undistinguished; and he gave a peculiar
+appearance to his harvest, by gathering and preserving the one class
+of plants with as much care and diligence as the other.
+Sect. 2.—Kepler’s Discovery of his
+Third Law.
+I shall now give some account of Kepler’s
+speculations and discoveries. The first discovery which he attempted,
+the relation among the successive distances of the planets from the
+sun, was a failure; his doctrine being without any solid foundation,
+although propounded by him with great triumph, in a work which he
+called Mysterium Cosmographicum, and which was published in
+1596. The account which he gives of the train of his thoughts on this
+subject, namely, the various suppositions assumed, examined, and
+rejected, is curious and instructive, for the reasons just stated; but
+we shall not dwell upon these essays, since they led only to an
+opinion now entirely abandoned. The doctrine which professed to give
+the true relation of the orbits of the different planets, was thus
+delivered:32 “The orbit of the earth is a circle:
+round the sphere to which this circle belongs, describe a
+dodecahedron; the sphere including this will give the orbit of Mars.
+Round Mars describe a tetrahedron; the circle including this will be
+the orbit of Jupiter. Describe a cube round Jupiter’s orbit; the
+circle including this will be the orbit of Saturn. Now inscribe in the
+Earth’s orbit an icosahedron; the circle inscribed in it will be the
+orbit of Venus. 294
+Inscribe an octahedron in the orbit of Venus; the circle inscribed in
+it will be Mercury’s orbit. This is the reason of the number of the
+planets.” The five kinds of polyhedral bodies here mentioned are the
+only “Regular Solids.”
+32 L. U. K. Kepler, 6.
+But though this part of the Mysterium Cosmographicum was a
+failure, the same researches continued to occupy Kepler’s mind; and
+twenty-two years later led him to one of the important rules known to
+us as “Kepler’s Laws;” namely, to the rule connecting the mean
+distances of the planets from the sun with the times of their
+revolutions. This rule is expressed in mathematical terms, by saying
+that the squares of the periodic times are in the same proportion as
+the cubes of the distances; and was of great importance to Newton in
+leading him to the law of the sun’s attractive force. We may properly
+consider this discovery as the sequel of the train of thought already
+noticed. In the beginning of the Mysterium, Kepler had said,
+“In the year 1595, I brooded with the whole energy of my mind on the
+subject of the Copernican system. There were three things in
+particular of which I pertinaciously sought the causes why they are
+not other than they are; the number, the size, and the motion of the
+orbits.” We have seen the nature of his attempt to account for the two
+first of these points. He had also made some essays to connect the
+motions of the planets with their distances, but with his success in
+this respect he was not himself completely satisfied. But in the fifth
+book of the Harmonice Mundi, published in 1619, he says, “What
+I prophesied two-and-twenty years ago as soon as I had discovered the
+Five Solids among the Heavenly Bodies; what I firmly believed before I
+had seen the Harmonics of Ptolemy; what I promised my friends
+in the title of this book (On the most perfect Harmony of the
+Celestial Motions) which I named before I was sure of my
+discovery; what sixteen years ago I regarded as a thing to be sought;
+that for which I joined Tycho Brahe, for which I settled in Prague,
+for which I have devoted the best part of my life to astronomical
+contemplations; at length I have brought to light, and have recognized
+its truth beyond my most sanguine expectations.”
+The rule thus referred to is stated in the third Chapter of this
+fifth Book. “It is,” he says, “a most certain and exact thing that the
+proportion which exists between the periodic times of any two planets
+is precisely the sesquiplicate of the proportion of their mean
+distances; that is, of the radii of the orbits. Thus, the period of
+the earth is one year, that of Saturn thirty years; if any one trisect
+the proportion, that 295 is, take the cube root of it, and double
+the proportion so found, that is, square it, he will find the exact
+proportion of the distances of the Earth and of Saturn from the sun.
+For the cube root of 1 is 1, and the square of this is 1; and the cube
+root of 30 is greater than 3, and therefore the square of it is
+greater than 9. And Saturn at his mean distance from the sun is at a
+little more than 9 times the mean distance of the Earth.”
+When we now look back at the time and exertions which the
+establishment of this law cost Kepler, we are tempted to imagine that
+he was strangely blind in not seeing it sooner. His object, we might
+reason, was to discover a law connecting the distances and the
+periodic times. What law of connection could be more simple and
+obvious, we might say, than that one of these quantities should vary
+as some power of the other, or as some root; or as
+some combination of the two, which in a more general view, may still
+be called a power? And if the problem had been viewed in this
+way, the question must have occurred, to what power of the
+periodic times are the distances proportional? And the answer must
+have been, the trial being made, that they are proportional to the
+square of the cube root. This ex-post-facto obviousness of
+discoveries is a delusion to which we are liable with regard to many
+of the most important principles. In the case of Kepler, we may
+observe, that the process of connecting two classes of quantities by
+comparing their powers, is obvious only to those who are
+familiar with general algebraical views; and that in Kepler’s time,
+algebra had not taken the place of geometry, as the most usual vehicle
+of mathematical reasoning. It may be added, also, that Kepler always
+sought his formal laws by means of physical
+reasonings; and these, though vague or erroneous, determined the
+nature of the mathematical connection which he assumed. Thus in the
+Mysterium he had been led by his notions of moving virtue of
+the sun to this conjecture, among others—that, in the planets,
+the increase of the periods will be double of the difference of the
+distances; which supposition he found to give him an approach to the
+actual proportion of the distances, but one not sufficiently close to
+satisfy him.
+The greater part of the fifth Book of the Harmonics of the
+Universe consists in attempts to explain various relations among
+the distances, times, and eccentricities of the planets, by means of
+the ratios which belong to certain concords and discords. This portion
+of the work is so complex and laborious, that probably few modern
+readers have had courage to go through it. Delambre acknowledged that
+his patience 296
+often failed him during the task;33 and subscribes
+to the judgment of Bailly: “After this sublime effort, Kepler
+replunges himself in the relations of music to the motions, the
+distance, and the eccentricities of the planets. In all these harmonic
+ratios there is not one true relation; in a crowd of ideas there is
+not one truth: he becomes a man after being a spirit of light.”
+Certainly these speculations are of no value, but we may look on them
+with toleration, when we recollect that Newton has sought for
+analogies between the spaces occupied by the prismatic colors and the
+notes of the gamut.34 The numerical relations of Concords are
+so peculiar that we can easily suppose them to have other bearings
+than those which first offer themselves.
+33 A. M. a. 358.
+34 Optics, b. ii. p. iv. Obs.
+5.
+It does not belong to my present purpose to speak at length of the
+speculations concerning the forces producing the celestial motions by
+which Kepler was led to this celebrated law, or of those which he
+deduced from it, and which are found in the Epitome Astronomiæ
+Copernicanæ, published in 1622. In that work also (p. 554), he
+extended this law, though in a loose manner, to the satellites of
+Jupiter. These physical speculations were only a vague and
+distant prelude to Newton’s discoveries; and the law, as a
+formal rule, was complete in itself. We must now attend to
+the history of the other two laws with which Kepler’s name is
+associated.
+Sect. 3.—Kepler’s Discovery of his First and
+Second Laws.—Elliptical Theory of the Planets.
+The propositions designated as Kepler’s
+First and Second Laws are these: That the orbits of the planets are
+elliptical; and, That the areas described, or swept, by lines
+drawn from the sun to the planet, are proportional to the times
+employed in the motion.
+The occasion of the discovery of these laws was the attempt to
+reconcile the theory of Mars to the theory of eccentrics and
+epicycles; the event of it was the complete overthrow of that theory,
+and the establishment, in its stead, of the Elliptical Theory of the
+planets. Astronomy was now ripe for such a change. As soon as
+Copernicus had taught men that the orbits of the planets were to be
+referred to the sun, it obviously became a question, what was the true
+form of these orbits, and the rule of motion of each planet in its own
+orbit. Copernicus represented the motions in longitude by means of
+297 eccentrics and
+epicycles, as we have already said; and the motions in latitude by
+certain librations, or alternate elevations and depressions of
+epicycles. If a mathematician had obtained a collection of true
+positions of a planet, the form of the orbit and the motion of the
+star would have been determined with reference to the sun as well as
+to the earth; but this was not possible, for though the
+geocentric position, or the direction in which the planet was
+seen, could be observed, its distance from the earth was not known.
+Hence, when Kepler attempted to determine the orbit of a planet, he
+combined the observed geocentric places with successive modifications
+of the theory of epicycles, till at last he was led, by one step after
+another, to change the epicyclical into the elliptical theory. We may
+observe, moreover, that at every step he endeavored to support his new
+suppositions by what he called, in his fanciful phraseology, “sending
+into the field a reserve of new physical reasonings on the rout and
+dispersion of the veterans;”35 that is, by
+connecting his astronomical hypotheses with new imaginations, when the
+old ones became untenable. We find, indeed, that this is the spirit in
+which the pursuit of knowledge is generally carried on with success;
+those men arrive at truth who eagerly endeavor to connect remote
+points of their knowledge, not those who stop cautiously at each point
+till something compels them to go beyond it.
+35 I will insert this passage, as a
+specimen of Kepler’s fanciful mode of narrating the defeats which he
+received in the war which he carried on with Mars. “Dum in hunc modum
+de Martis motibus triumpho, eique ut planè devicto tabularum carceres
+et equationum compedes necto, diversis nuntiatur locis, futilem
+victoriam ut bellam totâ mole recrudescere. Nam domi quidam hostis ut
+captivus contemptus, rupit omnia equationum vincula, carceresque
+tabularum effregit. Foris speculatores profligerunt meas causarum
+physicarum arcessitas copias earumque jugum excusserunt resumtà
+libertate. Jamque parum abfuit quia hostis fugitivus sese cum
+rebellibus suis conjungeret meque in desperationem adigeret: nisi
+raptim, nova rationum physicarum subsidia, fusis et palantibus
+veteribus, submisissem, et qua se captivus proripuisset, omni
+diligentia, edoctus vestigiis ipsius nullâ morâ interpositâ
+inhæsisserem.”
+Kepler joined Tycho Brahe at Prague in 1600, and found him and
+Longomontanus busily employed in correcting the theory of Mars; and he
+also then entered upon that train of researches which he published in
+1609 in his extraordinary work On the Motions of Mars. In this
+work, as in others, he gives an account, not only of his success, but
+of his failures, explaining, at length, the various suppositions which
+he had made, the notions by which he had been led to invent or to
+entertain them, the processes by which he had proved their 298 falsehood, and the
+alternations of hope and sorrow, of vexation and triumph, through
+which he had gone. It will not be necessary for us to cite many
+passages of these kinds, curious and amusing as they are.
+One of the most important truths contained in the motions of Man is
+the discovery that the plane of the orbit of the planet should be
+considered with reference to the sun itself, instead of referring it
+to any of the other centres of motion which the eccentric hypothesis
+introduced: and that, when so considered, it had none of the
+librations which Ptolemy and Copernicus had attributed to it. The
+fourteenth chapter of the second part asserts, “Plana eccentricorum
+esse ἀτάλαντα;” that the planes are unlibrating; retaining
+always the same inclination to the ecliptic, and the same line of
+nodes. With this step Kepler appears to have been justly
+delighted. “Copernicus,” he says, “not knowing the value of what he
+possessed (his system), undertook to represent Ptolemy, rather than
+nature, to which, however, he had approached more nearly than any
+other person. For being rejoiced that the quantity of the latitude of
+each planet was increased by the approach of the earth to the planet,
+according to his theory, he did not venture to reject the rest of
+Ptolemy’s increase of latitude, but in order to express it, devised
+librations of the planes of the eccentric, depending not upon its own
+eccentric, but (most improbably) upon the orbit of the earth, which
+has nothing to do with it. I always fought against this impertinent
+tying together of two orbits, even before I saw the observations of
+Tycho; and I therefore rejoice much that in this, as in others of my
+preconceived opinions, the observations were found to be on my side.”
+Kepler established his point by a fair and laborious calculation of
+the results of observations of Mars made by himself and Tycho Brahe;
+and had a right to exult when the result of these calculations
+confirmed his views of the symmetry and simplicity of nature.
+We may judge of the difficulty of casting off the theory of
+eccentrics and epicycles, by recollecting that Copernicus did not do
+it at all, and that Kepler only did it after repeated struggles; the
+history of which occupies thirty-nine Chapters of his book. At the end
+of them he says, “This prolix disputation was necessary, in order to
+prepare the way to the natural form of the equations, of which I am
+now to treat.36 My first error was, that the path of a
+planet is a perfect circle;—an opinion which was a more
+mischievous thief of my time, 299 in proportion as it was supported by the
+authority of all philosophers, and apparently agreeable to
+metaphysics.” But before he attempts to correct this erroneous part of
+his hypothesis, he sets about discovering the law according to which
+the different parts of the orbit are described in the case of the
+earth, in which case the eccentricity is so small that the effect of
+the oval form is insensible. The result of this inquiry was37 the Rule, that the time of describing
+any arc of the orbit is proportional to the area intercepted between
+the curve and two lines drawn from the sun to the extremities of the
+arc. It is to be observed that this rule, at first, though it had the
+recommendation of being selected after the unavoidable abandonment of
+many, which were suggested by the notions of those times, was far from
+being adopted upon any very rigid or cautious grounds. A rule had been
+proved at the apsides of the orbit, by calculation from observations,
+and had then been extended by conjecture to other parts of the orbit;
+and the rule of the areas was only an approximate and inaccurate mode
+of representing this rule, employed for the purpose of brevity and
+convenience, in consequence of the difficulty of applying,
+geometrically, that which Kepler now conceived to be the true rule,
+and which required him to find the sum of the lines drawn from the sun
+to every point of the orbit. When he proceeded to apply this
+rule to Mars, in whose orbit the oval form is much more marked,
+additional difficulties came in his way; and here again the true
+supposition, that the oval is of that special kind called
+ellipse, was adopted at first only in order to simplify
+calculation,38 and the deviation from exactness in the
+result was attributed to the inaccuracy of those approximate
+processes. The supposition of the oval had already been forced upon
+Purbach in the case of Mercury, and upon Reinhold in the case of the
+Moon. The centre of the epicycle was made to describe an egg-shaped
+figure in the former case, and a lenticular figure in the latter.39
+36 De Stellâ Martis, iii.
+40.
+37 De Stellâ Martis, p.
+194.
+38 Ib. iv. c. 47.
+39 L. U. K. Kepler, p. 30.
+It may serve to show the kind of labor by which Kepler was led to
+his result, if we here enumerate, as he does in his forty-seventh
+Chapter,40 six hypotheses, on which he calculated
+the longitude of Mars, in order to see which best agreed with
+observation.
+40 De Stellâ Martis, p.
+228.
+1. The simple eccentricity.
+2. The bisection of the eccentricity, and the duplication of the
+superior part of the equation. 300
+3. The bisection of the eccentricity, and a stationary point of
+equations, after the manner of Ptolemy.
+4. The vicarious hypothesis by a free section of the eccentricity
+made to agree as nearly as possible with the truth.
+5. The physical hypothesis on the supposition of a perfect
+circle.
+6. The physical hypothesis on the supposition of a perfect
+ellipse.
+By the physical hypothesis, he meant the doctrine that the time of
+a planet’s describing any part of its orbit is proportional to the
+distance of the planet from the sun, for which supposition, as we have
+said, he conceived that he had assigned physical reasons.
+The two last hypotheses came the nearest to the truth, and differed
+from it only by about eight minutes, the one in excess and the other
+in defect. And, after being much perplexed by this remaining error, it
+at last occurred to him41 that he might take another ellipsis,
+exactly intermediate between the former one and the circle, and that
+this must give the path and the motion of the planet. Making this
+assumption, and taking the areas to represent the times, he now saw42 that both the longitude and the
+distances of Mars would agree with observation to the requisite degree
+of accuracy. The rectification of the former hypothesis, when thus
+stated, may, perhaps, appear obvious. And Kepler informs us that he
+had nearly been anticipated in this step (c. 55). “David Fabricius, to
+whom I had communicated my hypothesis of cap. 45, was able, by his
+observations, to show that it erred in making the distances too short
+at mean longitudes; of which he informed me by letter while I was
+laboring, by repeated efforts, to discover the true hypothesis. So
+nearly did he get the start of me in detecting the truth.” But this
+was less easy than it might seem. When Kepler’s first hypothesis was
+enveloped in the complex construction requisite in order to apply it
+to each point of the orbit, it was far more difficult to see where the
+error lay, and Kepler hit upon it only by noticing the coincidences of
+certain numbers, which, as he says, raised him as if from sleep, and
+gave him a new light. We may observe, also, that he was perplexed to
+reconcile this new view, according to which the planet described an
+exact ellipse, with his former opinion, which represented the motion
+by means of libration in an epicycle. “This,” he says, “was my
+greatest trouble, that, though I considered and reflected till I was
+almost mad, I could not find why the planet to which, with so much
+probability, and with such an exact 301 accordance of the distances, libration
+in the diameter of the epicycle was attributed, should, according to
+the indication of the equations, go in an elliptical path. What an
+absurdity on my part! as if libration in the diameter might not be a
+way to the ellipse!”
+41 De Stellâ Martis, c.
+58.
+42 Ibid. p. 235.
+Another scruple respecting this theory arose from the impossibility
+of solving, by any geometrical construction, the problem to which
+Kepler was thus led, namely, “To divide the area of a semicircle in a
+given ratio, by a line drawn from any point of the diameter.” This is
+still termed “Kepler’s Problem,” and is, in fact, incapable of exact
+geometrical solution. As, however, the calculation can be performed,
+and, indeed, was performed by Kepler himself, with a sufficient degree
+of accuracy to show that the elliptical hypothesis is true, the
+insolubility of this problem is a mere mathematical difficulty in the
+deductive process, to which Kepler’s induction gave rise.
+Of Kepler’s physical reasonings we shall speak more at length on
+another occasion. His numerous and fanciful
+hypotheses had discharged their office, when they had suggested to him
+his many lines of laborious calculation, and encouraged him under the
+exertions and disappointments to which these led. The result of this
+work was the formal laws of the motion of Mars, established by a clear
+induction, since they represented, with sufficient accuracy, the best
+observations. And we may allow that Kepler was entitled to the praise
+which he claims in the motto on his first leaf. Ramus had said that if
+any one would construct an astronomy without hypothesis, he would be
+ready to resign to him his professorship in the University of Paris.
+Kepler quotes this passage, and adds, “it is well, Ramus, that you
+have run from this pledge, by quitting life and your professorship;43 if you held it still, I should, with
+justice, claim it.” This was not saying too much, since he had
+entirely overturned the hypothesis of eccentrics and epicycles, and
+had obtained a theory which was a mere representation of the motions
+and distances as they were observed.
+43 Ramus perished in the Massacre of
+St. Bartholomew.  302</div></body></text></TEI>

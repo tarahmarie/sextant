@@ -1,0 +1,199 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title></title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1833</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="30">
+CHAPTER XI.
+
+The Laws of Motion.
+
+We shall now make a few remarks on the general
+Laws of Motion by which all mechanical 
+effects take place. Are we to consider these as instituted
+laws? and if so, can we point out any of the reasons
+which we may suppose to have led to the selection
+of those laws which really exist?
+The observations formerly made concerning the
+inevitable narrowness and imperfection of our conclusions
+on such subjects, apply here, even more
+strongly than in the case of the law of gravitation.
+We can hardly conceive matter divested of these
+laws; and we cannot perceive or trace a millionth
+part of the effects which they produce. We cannot,
+therefore, expect to go far in pointing out the advantages
+of these laws such as they now obtain.
+It would be easy to show that the fundamental
+laws of motion, in whatever form we state them,
+possess a very preeminent simplicity, compared with
+almost all others, which we might imagine as existing.
+This simplicity has indeed produced an effect
+on men’s minds which, though delusive, appears to[179]
+be very natural; several writers have treated these
+laws as self-evident, and necessarily flowing from
+the nature of our conceptions. We conceive that
+this is an erroneous view, and that these laws are
+known to us to be what they are, by experience
+only; that they might, so far as we can discern,
+have been any others. They appear therefore to be
+selected for their fitness to answer their purposes;
+and we may, perhaps, be able to point out some instances
+in which this fitness is apparent to us.
+Newton, and many English philosophers, teach the
+existence of three separate fundamental laws of motion,
+while most of the eminent mathematicians of
+France reduce these to two, the law of inertia and
+the law that force is proportioned to velocity. As
+an example of the views which we wish to illustrate,
+we may take the law of inertia, which is identical
+with Newton’s first Law of Motion. This law asserts,
+that a body at rest continues at rest, and that
+a body in motion goes on moving with its velocity
+and direction unchanged, except so far as it is acted
+on by extraneous forces.[24]
+We conceive that this law, simple and universal
+as it is, cannot be shown to be necessarily true. It
+might be difficult to discuss this point in general
+terms with any clearness; but let us take the only
+example which we know of a motion absolutely uniform,
+in consequence of the absence of any force to
+accelerate or retard it;—this motion is the rotation
+of the earth on its axis.
+1. It is scarcely possible that discussions on such[180]
+subjects should not have a repulsive and scholastic
+aspect, and appear like disputes about words rather
+than things. For mechanical writers have exercised
+all their ingenuity so to circumscribe their notions
+and so to define their terms that these fundamental
+truths should be expressed in the simplest manner:
+the consequence of which has been, that they have
+been made to assume the appearance rather of identical
+assertions than of general facts of experience.
+But in order to avoid this inconvenience, as far as
+may be, let us take the first law of motion as exemplified
+in a particular case, the rotation of the earth.
+Of all the motions with which we are acquainted
+this is alone invariable. Each day, measured by the
+passages of the stars, is so precisely of the same
+length that, according to Laplace’s calculations, it is
+impossible that a difference of hundredth of a second
+of time should have obtained between the length of
+the day in the earliest ages and at the present time.
+Now why is this? How is this very remarkable uniformity
+preserved in this particular phenomenon,
+while all the other motions of the system are subject
+to inequalities? How is it that in the celestial machine
+no retardation takes place by the lapse of time,
+as would be the case in any machine which it would
+be possible for human powers to construct? The answer
+is, that in the earth’s revolution on her axis no
+cause operates to retard the speed, like the imperfection
+of materials, the friction of supports, the resistance
+of the ambient medium; impediments which
+cannot, in any human mechanism, however perfect,
+be completely annihilated. But here we are led to
+ask again, why should the speed continue the same
+when not affected by an extraneous cause? Why
+should it not languish and decay of itself by the mere
+lapse of time? That it might do so, involves no contradiction,
+for it was the common, though erroneous,
+belief of all mechanical speculators, to the time of
+Galileo. We can conceive velocity to diminish in
+proceeding from a certain point of time, as easily as[181]
+we can conceive force to diminish in proceeding
+from a certain point of space, which in attractive
+forces really occurs. But, it is sometimes said, the
+motion (that is the velocity) must continue the same
+from one instant to another, for there is nothing to
+change it. This appears to be taking refuge in
+words. We may call the velocity, that is the speed
+of a body, its motion; but we cannot, by giving it
+this name, make it a thing which has any à priori
+claim to permanence, much less any self-evident constancy.
+Why must the speed of a body, left to itself,
+continue the same, any more than its temperature?
+Hot bodies grow cooler of themselves, why should
+not quick bodies go slower of themselves? Why must
+a body describe one thousand feet in the next second
+because it has described one thousand feet in the
+last? Nothing but experience, under proper circumstances,
+can inform us whether bodies, abstracting
+from external agency, do move according to such a
+rule. We find that they do so, we learn that all
+diminution of their speed which ever takes place, can
+be traced to external causes. Contrary to all that
+men had guessed, motion appears to be of itself endless
+and unwearied. In order to account for the unalterable
+permanence of the length of our day, all
+that is requisite is to show that there is no let or
+hindrance in the way of the earth’s rotation;—no resisting
+medium or alteration of size,—she “spinning
+sleeps” on her axle, as the poet expresses it, and may
+go on sleeping with the same regularity for ever, so
+far as the experimental properties of motion are concerned.
+Such is the necessary consequence of the first law
+of motion; but the law itself has no necessary existence,
+so far as we can see. It was discovered only
+after various perplexities and false conjectures of
+speculators on mechanics. We have learnt that it
+is so, but we have not learnt, nor can any one undertake
+to teach us, that it must have been so. For
+aught we can tell, it is one among a thousand equally[182]
+possible laws, which might have regulated the motions
+of bodies.
+2. But though we have thus no reason to consider
+this as the only possible law, we have good reason
+to consider it as the best, or at least as possessing all
+that we can conceive of advantage. It is the simplest
+conceivable of such laws. If the velocity had
+been compelled to change with the time, there must
+have been a law of the change, and the kind and
+amount of this change must have been determined
+by its dependence on the time and other conditions.
+This, though quite supposable, would undoubtedly
+have been more complex than the present state of
+things. And though complexity does not appear to
+embarrass the operations of the laws of nature, and
+is admitted, without scruple, when there is reason for
+it, simplicity is the usual character of such laws, and
+appears to have been a ground of selection in the
+formation of the universe, as it is a mark of beauty
+to us in our contemplation of it.
+But there is a still stronger apparent reason for the
+selection of this law of the preservation of motion.
+If the case had been otherwise, the universe must
+necessarily in the course of ages have been reduced
+to a state of rest, or at least to a state not sensibly
+differing from it. If the earth’s motion, round its
+axis, had slackened by a very small quantity, for instance,
+by a hundredth of a second in a revolution,
+and in this proportion continued, the day would have
+been already lengthened by six hours in the six
+thousand years which have elapsed since the history
+of the world began; and if we suppose a longer period
+to precede or to follow, the day might be increased
+to a month or to any length. All the adaptations
+which depend on the length of the day would
+consequently be deranged. But this would not be
+all; for the same law of motion is equally requisite
+for the preservation of the annual motion of the
+earth. If her motion were retarded by the establishment
+of any other law instead of the existing one,[183]
+she would wheel nearer and nearer to the sun at
+every revolution, and at last reach the centre, like a
+falling hoop. The same would happen to the other
+planets; and the whole solar system would, in the
+course of a certain period, be gathered into a heap
+of matter without life or motion. In the present
+state of things on the other hand, the system, as we
+have already explained, is, by a combination of remarkable
+provisions, calculated for an almost indefinite
+existence, of undiminished fitness for its purposes.
+There are, therefore, manifest reasons, why, of all
+laws which could occupy the place of the first law
+of motion, the one which now obtains is the only one
+consistent with the durability and uniformity of the
+system;—the one, therefore, which we may naturally
+conceive to be selected by a wise contriver. And as,
+along with this, it has appeared that we have no sort
+of right to attribute the establishment of this law to
+any thing but selection, we have here a striking evidence,
+to lead us to a perception of that Divine
+mind, by which means so simple are made to answer
+purposes so extensive and so beneficial.
+</div></body></text></TEI>

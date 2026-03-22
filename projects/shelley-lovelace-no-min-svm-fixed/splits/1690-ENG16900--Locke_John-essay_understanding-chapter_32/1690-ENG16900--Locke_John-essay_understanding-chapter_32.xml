@@ -1,0 +1,875 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An Essay Concerning Human Understanding</title><author>Locke, John (1632-1704)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1690</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="32">
+
+CHAPTER XXIII.
+OF OUR COMPLEX IDEAS OF SUBSTANCES.
+
+The mind being, as I have declared, furnished with a great number of the simple
+ideas, conveyed in by the senses as they are found in exterior things, or by
+reflection on its own operations, takes notice also that a certain number of
+these simple ideas go constantly together; which being presumed to belong to
+one thing, and words being suited to common apprehensions, and made use of for
+quick dispatch are called, so united in one subject, by one name; which, by
+inadvertency, we are apt afterward to talk of and consider as one simple idea,
+which indeed is a complication of many ideas together: because, as I have said,
+not imagining how these simple ideas CAN subsist by themselves, we accustom
+ourselves to suppose some SUBSTRATUM wherein they do subsist, and from which
+they do result, which therefore we call SUBSTANCE.
+
+
+2. Our obscure Idea of Substance in general.
+
+
+So that if any one will examine himself concerning his notion of pure substance
+in general, he will find he has no other idea of it at all, but only a
+supposition of he knows not what SUPPORT of such qualities which are capable of
+producing simple ideas in us; which qualities are commonly called accidents. If
+any one should be asked, what is the subject wherein colour or weight inheres,
+he would have nothing to say, but the solid extended parts; and if he were
+demanded, what is it that solidity and extension adhere in, he would not be in
+a much better case than the Indian before mentioned who, saying that the world
+was supported by a great elephant, was asked what the elephant rested on; to
+which his answer was—a great tortoise: but being again pressed to know
+what gave support to the broad-backed tortoise, replied—SOMETHING, HE
+KNEW NOT WHAT. And thus here, as in all other cases where we use words without
+having clear and distinct ideas, we talk like children: who, being questioned
+what such a thing is, which they know not, readily give this satisfactory
+answer, that it is SOMETHING: which in truth signifies no more, when so used,
+either by children or men, but that they know not what; and that the thing they
+pretend to know, and talk of, is what they have no distinct idea of at all, and
+so are perfectly ignorant of it, and in the dark. The idea then we have, to
+which we give the GENERAL name substance, being nothing but the supposed, but
+unknown, support of those qualities we find existing, which we imagine cannot
+subsist SINE RE SUBSTANTE, without something to support them, we call that
+support SUBSTANTIA; which, according to the true import of the word, is, in
+plain English, standing under or upholding.
+
+
+3. Of the Sorts of Substances.
+
+
+An obscure and relative idea of SUBSTANCE IN GENERAL being thus made we come to
+have the ideas of PARTICULAR SORTS OF SUBSTANCES, by collecting SUCH
+combinations of simple ideas as are, by experience and observation of men’s
+senses, taken notice of to exist together; and are therefore supposed to flow
+from the particular internal constitution, or unknown essence of that
+substance. Thus we come to have the ideas of a man, horse, gold, water,
+&c.; of which substances, whether any one has any other CLEAR idea, further
+than of certain simple ideas co-existent together, I appeal to every one’s own
+experience. It is the ordinary qualities observable in iron, or a diamond, put
+together, that make the true complex idea of those substances, which a smith or
+a jeweller commonly knows better than a philosopher; who, whatever SUBSTANTIAL
+FORMS he may talk of, has no other idea of those substances, than what is
+framed by a collection of those simple ideas which are to be found in them:
+only we must take notice, that our complex ideas of substances, besides all
+those simple ideas they are made up of, have always the confused idea of
+something to which they belong, and in which they subsist: and therefore when
+we speak of any sort of substance, we say it is a thing having such or such
+qualities; as body is a thing that is extended, figured, and capable of motion;
+spirit, a thing capable of thinking; and so hardness, friability, and power to
+draw iron, we say, are qualities to be found in a loadstone. These, and the
+like fashions of speaking, intimate that the substance is supposed always
+SOMETHING BESIDES the extension, figure, solidity, motion, thinking, or other
+observable ideas, though we know not what it is.
+
+
+4. No clear or distinct idea of Substance in general.
+
+
+Hence, when we talk or think of any particular sort of corporeal substances, as
+horse, stone, &c., though the idea we have of either of them be but the
+complication or collection of those several simple ideas of sensible qualities,
+which we used to find united in the thing called horse or stone; yet, BECAUSE
+WE CANNOT CONCEIVE HOW THEY SHOULD SUBSIST ALONE, NOR ONE IN ANOTHER, we
+suppose them existing in and supported by some common subject; which support we
+denote by the name substance, though it be certain we have no clear or distinct
+idea of that thing we suppose a support.
+
+
+5. As clear an Idea of spiritual substance as of corporeal substance.
+
+
+The same happens concerning the operations of the mind, viz. thinking,
+reasoning, fearing, &c., which we concluding not to subsist of themselves,
+nor apprehending how they can belong to body, or be produced by it, we are apt
+to think these the actions of some other SUBSTANCE, which we call SPIRIT;
+whereby yet it is evident that, having no other idea or notion of matter, but
+something wherein those many sensible qualities which affect our senses do
+subsist; by supposing a substance wherein thinking, knowing, doubting, and a
+power of moving, &c., do subsist, we have as clear a notion of the
+substance of spirit, as we have of body; the one being supposed to be (without
+knowing what it is) the SUBSTRATUM to those simple ideas we have from without;
+and the other supposed (with a like ignorance of what it is) to be the
+SUBSTRATUM to those operations we experiment in ourselves within. It is plain
+then, that the idea of CORPOREAL SUBSTANCE in matter is as remote from our
+conceptions and apprehensions, as that of SPIRITUAL SUBSTANCE, or spirit: and
+therefore, from our not having any notion of the substance of spirit, we can no
+more conclude its non-existence, than we can, for the same reason, deny the
+existence of body; it being as rational to affirm there is no body, because we
+have no clear and distinct idea of the substance of matter, as to say there is
+no spirit, because we have no clear and distinct idea of the substance of a
+spirit.
+
+
+6. Our ideas of particular Sorts of Substances.
+
+
+Whatever therefore be the secret abstract nature of substance in general, all
+the ideas we have of particular distinct sorts of substances are nothing but
+several combinations of simple ideas, co-existing in such, though unknown,
+cause of their union, as makes the whole subsist of itself. It is by such
+combinations of simple ideas, and nothing else, that we represent particular
+sorts of substances to ourselves; such are the ideas we have of their several
+species in our minds; and such only do we, by their specific names, signify to
+others, v.g. man, horse, sun, water, iron: upon hearing which words, every one
+who understands the language, frames in his mind a combination of those several
+simple ideas which he has usually observed, or fancied to exist together under
+that denomination; all which he supposes to rest in and be, as it were,
+adherent to that unknown common subject, which inheres not in anything else.
+Though, in the meantime, it be manifest, and every one, upon inquiry into his
+own thoughts, will find, that he has no other idea of any substance, v.g. let
+it be gold, horse, iron, man, vitriol, bread, but what he has barely of those
+sensible qualities, which he supposes to inhere; with a supposition of such a
+substratum as gives, as it were, a support to those qualities or simple ideas,
+which he has observed to exist united together. Thus, the idea of the
+sun,—what is it but an aggregate of those several simple ideas, bright,
+hot, roundish, having a constant regular motion, at a certain distance from us,
+and perhaps some other: as he who thinks and discourses of the sun has been
+more or less accurate in observing those sensible qualities, ideas, or
+properties, which are in that thing which he calls the sun.
+
+
+7. Their active and passive Powers a great part of our complex Ideas of
+Substances.
+
+
+For he has the perfectest idea of any of the particular sorts of substances,
+who has gathered, and put together, most of those simple ideas which do exist
+in it; among which are to be reckoned its active powers, and passive
+capacities, which, though not simple ideas, yet in this respect, for brevity’s
+sake, may conveniently enough be reckoned amongst them. Thus, the power of
+drawing iron is one of the ideas of the complex one of that substance we call a
+loadstone; and a power to be so drawn is a part of the complex one we call
+iron: which powers pass for inherent qualities in those subjects. Because every
+substance, being as apt, by the powers we observe in it, to change some
+sensible qualities in other subjects, as it is to produce in us those simple
+ideas which we receive immediately from it, does, by those new sensible
+qualities introduced into other subjects, discover to us those powers which do
+thereby mediately affect our senses, as regularly as its sensible qualities do
+it immediately: v. g. we immediately by our senses perceive in fire its heat
+and colour; which are, if rightly considered, nothing but powers in it to
+produce those ideas in US: we also by our senses perceive the colour and
+brittleness of charcoal, whereby we come by the knowledge of another power in
+fire, which it has to change the colour and consistency of WOOD. By the former,
+fire immediately, by the latter, it mediately discovers to us these several
+powers; which therefore we look upon to be a part of the qualities of fire, and
+so make them a part of the complex idea of it. For all those powers that we
+take cognizance of, terminating only in the alteration of some sensible
+qualities in those subjects on which they operate, and so making them exhibit
+to us new sensible ideas, therefore it is that I have reckoned these powers
+amongst the simple ideas which make the complex ones of the sorts of
+substances; though these powers considered in themselves, are truly complex
+ideas. And in this looser sense I crave leave to be understood, when I name any
+of these POTENTIALITIES among the simple ideas which we recollect in our minds
+when we think of PARTICULAR SUBSTANCES. For the powers that are severally in
+them are necessary to be considered, if we will have true distinct notions of
+the several sorts of substances.
+
+
+8. And why.
+
+
+Nor are we to wonder that powers make a great part of our complex ideas of
+substances; since their secondary qualities are those which in most of them
+serve principally to distinguish substances one from another, and commonly make
+a considerable part of the complex idea of the several sorts of them. For, our
+senses failing us in the discovery of the bulk, texture, and figure of the
+minute parts of bodies, on which their real constitutions and differences
+depend, we are fain to make use of their secondary qualities as the
+characteristical notes and marks whereby to frame ideas of them in our minds,
+and distinguish them one from another: all which secondary qualities, as has
+been shown, are nothing but bare powers. For the colour and taste of opium are,
+as well as its soporific or anodyne virtues, mere powers, depending on its
+primary qualities, whereby it is fitted to produce different operations on
+different parts of our bodies.
+
+
+9. Three sorts of Ideas make our complex ones of Corporeal Substances.
+
+
+The ideas that make our complex ones of corporeal substances, are of these
+three sorts. First, the ideas of the primary qualities of things, which are
+discovered by our senses, and are in them even when we perceive them not; such
+are the bulk, figure, number, situation, and motion of the parts of bodies;
+which are really in them, whether we take notice of them or not. Secondly, the
+sensible secondary qualities, which, depending on these, are nothing but the
+powers those substances have to produce several ideas in us by our senses;
+which ideas are not in the things themselves, otherwise than as anything is in
+its cause. Thirdly, the aptness we consider in any substance, to give or
+receive such alterations of primary qualities, as that the substance so altered
+should produce in us different ideas from what it did before; these are called
+active and passive powers: all which powers, as far as we have any notice or
+notion of them, terminate only in sensible simple ideas. For whatever
+alteration a loadstone has the power to make in the minute particles of iron,
+we should have no notion of any power it had at all to operate on iron, did not
+its sensible motion discover it: and I doubt not, but there are a thousand
+changes, that bodies we daily handle have a power to cause in one another,
+which we never suspect, because they never appear in sensible effects.
+
+
+10. Powers thus make a great Part of our complex Ideas of particular
+Substances.
+
+
+POWERS therefore justly make a great part of our complex ideas of substances.
+He that will examine his complex idea of gold, will find several of its ideas
+that make it up to be only powers; as the power of being melted, but of not
+spending itself in the fire; of being dissolved in AQUA REGIA, are ideas as
+necessary to make up our complex idea of gold, as its colour and weight: which,
+if duly considered, are also nothing but different powers. For, to speak truly,
+yellowness is not actually in gold, but is a power in gold to produce that idea
+in us by our eyes, when placed in a due light: and the heat, which we cannot
+leave out of our ideas of the sun, is no more really in the sun, than the white
+colour it introduces into wax. These are both equally powers in the sun,
+operating, by the motion and figure of its sensible parts, so on a man, as to
+make him have the idea of heat; and so on wax, as to make it capable to produce
+in a man the idea of white.
+
+
+11. The now secondary Qualities of Bodies would disappear, if we could discover
+the primary ones of their minute Parts.
+
+
+Had we senses acute enough to discern the minute particles of bodies, and the
+real constitution on which their sensible qualities depend, I doubt not but
+they would produce quite different ideas in us: and that which is now the
+yellow colour of gold, would then disappear, and instead of it we should see an
+admirable texture of parts, of a certain size and figure. This microscopes
+plainly discover to us; for what to our naked eyes produces a certain colour,
+is, by thus augmenting the acuteness of our senses, discovered to be quite a
+different thing; and the thus altering, as it were, the proportion of the bulk
+of the minute parts of a coloured object to our usual sight, produces different
+ideas from what it did before. Thus, sand or pounded glass, which is opaque,
+and white to the naked eye, is pellucid in a microscope; and a hair seen in
+this way, loses its former colour, and is, in a great measure, pellucid, with a
+mixture of some bright sparkling colours, such as appear from the refraction of
+diamonds, and other pellucid bodies. Blood, to the naked eye, appears all red;
+but by a good microscope, wherein its lesser parts appear, shows only some few
+globules of red, swimming in a pellucid liquor, and how these red globules
+would appear, if glasses could be found that could yet magnify them a thousand
+or ten thousand times more, is uncertain.
+
+
+12. Our Faculties for Discovery of the Qualities and powers of Substances
+suited to our State.
+
+
+The infinite wise Contriver of us, and all things about us, hath fitted our
+senses, faculties, and organs, to the conveniences of life, and the business we
+have to do here. We are able, by our senses, to know and distinguish things:
+and to examine them so far as to apply them to our uses, and several ways to
+accommodate the exigences of this life. We have insight enough into their
+admirable contrivances and wonderful effects, to admire and magnify the wisdom,
+power and goodness of their Author. Such a knowledge as this which is suited to
+our present condition, we want not faculties to attain. But it appears not that
+God intended we should have a perfect, clear, and adequate knowledge of them:
+that perhaps is not in the comprehension of any finite being. We are furnished
+with faculties (dull and weak as they are) to discover enough in the creatures
+to lead us to the knowledge of the Creator, and the knowledge of our duty; and
+we are fitted well enough with abilities to provide for the conveniences of
+living: these are our business in this world. But were our senses altered, and
+made much quicker and acuter, the appearance and outward scheme of things would
+have quite another face to us; and, I am apt to think, would be inconsistent
+with our being, or at least wellbeing, in the part of the universe which we
+inhabit. He that considers how little our constitution is able to bear a remove
+into part of this air, not much higher than that we commonly breathe in, will
+have reason to be satisfied, that in this globe of earth allotted for our
+mansion, the all-wise Architect has suited our organs, and the bodies that are
+to affect them, one to another. If our sense of hearing were but a thousand
+times quicker than it is, how would a perpetual noise distract us. And we
+should in the quietest retirement be less able to sleep or meditate than in the
+middle of a sea-fight. Nay, if that most instructive of our senses, seeing,
+were in any man a thousand or a hundred thousand times more acute than it is by
+the best microscope, things several millions of times less than the smallest
+object of his sight now would then be visible to his naked eyes, and so he
+would come nearer to the discovery of the texture and motion of the minute
+parts of corporeal things; and in many of them, probably get ideas of their
+internal constitutions: but then he would be in a quite different world from
+other people: nothing would appear the same to him and others: the visible
+ideas of everything would be different. So that I doubt, whether he and the
+rest of men could discourse concerning the objects of sight, or have any
+communication about colours, their appearances being so wholly different. And
+perhaps such a quickness and tenderness of sight could not endure bright
+sunshine, or so much as open daylight; nor take in but a very small part of any
+object at once, and that too only at a very near distance. And if by the help
+of such MICROSCOPICAL EYES (if I may so call them) a man could penetrate
+further than ordinary into the secret composition and radical texture of
+bodies, he would not make any great advantage by the change, if such an acute
+sight would not serve to conduct him to the market and exchange; if he could
+not see things he was to avoid, at a convenient distance; nor distinguish
+things he had to do with by those sensible qualities others do. He that was
+sharp-sighted enough to see the configuration of the minute particles of the
+spring of a clock, and observe upon what peculiar structure and impulse its
+elastic motion depends, would no doubt discover something very admirable: but
+if eyes so framed could not view at once the hand, and the characters of the
+hour-plate, and thereby at a distance see what o’clock it was, their owner
+could not be much benefited by that acuteness; which, whilst it discovered the
+secret contrivance of the parts of the machine, made him lose its use.
+
+
+13. Conjecture about the corporeal organs of some Spirits.
+
+
+And here give me leave to propose an extravagant conjecture of mine, viz. That
+since we have some reason (if there be any credit to be given to the report of
+things that our philosophy cannot account for) to imagine, that Spirits can
+assume to themselves bodies of different bulk, figure, and conformation of
+parts—whether one great advantage some of them have over us may not lie
+in this, that they can so frame and shape to themselves organs of sensation or
+perception, as to suit them to their present design, and the circumstances of
+the object they would consider. For how much would that man exceed all others
+in knowledge, who had but the faculty so to alter the structure of his eyes,
+that one sense, as to make it capable of all the several degrees of vision
+which the assistance of glasses (casually at first lighted on) has taught us to
+conceive? What wonders would he discover, who could so fit his eyes to all
+sorts of objects, as to see when he pleased the figure and motion of the minute
+particles in the blood, and other juices of animals, as distinctly as he does,
+at other times, the shape and motion of the animals themselves? But to us, in
+our present state, unalterable organs, so contrived as to discover the figure
+and motion of the minute parts of bodies, whereon depend those sensible
+qualities we now observe in them, would perhaps be of no advantage. God has no
+doubt made them so as is best for us in our present condition. He hath fitted
+us for the neighbourhood of the bodies that surround us, and we have to do
+with; and though we cannot, by the faculties we have, attain to a perfect
+knowledge of things, yet they will serve us well enough for those ends
+above-mentioned, which are our great concernment. I beg my reader’s pardon for
+laying before him so wild a fancy concerning the ways of perception of beings
+above us; but how extravagant soever it be, I doubt whether we can imagine
+anything about the knowledge of angels but after this manner, some way or other
+in proportion to what we find and observe in ourselves. And though we cannot
+but allow that the infinite power and wisdom of God may frame creatures with a
+thousand other faculties and ways of perceiving things without them than what
+we have, yet our thoughts can go no further than our own: so impossible it is
+for us to enlarge our very guesses beyond the ideas received from our own
+sensation and reflection. The supposition, at least, that angels do sometimes
+assume bodies, needs not startle us; since some of the most ancient and most
+learned Fathers of the church seemed to believe that they had bodies: and this
+is certain, that their state and way of existence is unknown to us.
+
+
+14. Our specific Ideas of Substances.
+
+
+But to return to the matter in hand,—the ideas we have of substances, and
+the ways we come by them. I say, our SPECIFIC ideas of substances are nothing
+else but A COLLECTION OF CERTAIN NUMBER OF SIMPLE IDEAS, CONSIDERED AS UNITED
+IN ONE THING. These ideas of substances, though they are commonly simple
+apprehensions, and the names of them simple terms, yet in effect are complex
+and compounded. Thus the idea which an Englishman signifies by the name swan,
+is white colour, long neck, red beak, black legs, and whole feet, and all these
+of a certain size, with a power of swimming in the water, and making a certain
+kind of noise, and perhaps, to a man who has long observed this kind of birds,
+some other properties: which all terminate in sensible simple ideas, all united
+in one common subject.
+
+
+15. Our Ideas of spiritual Substances, as clear as of bodily Substances.
+
+
+Besides the complex ideas we have of material sensible substances, of which I
+have last spoken,—by the simple ideas we have taken from those operations
+of our own minds, which we experiment daily in ourselves, as thinking,
+understanding, willing, knowing, and power of beginning motion, &c.,
+co-existing in some substance, we are able to frame the COMPLEX IDEA OF AN
+IMMATERIAL SPIRIT. And thus, by putting together the ideas of thinking,
+perceiving, liberty, and power of moving themselves and other things, we have
+as clear a perception and notion of immaterial substances as we have of
+material. For putting together the ideas of thinking and willing, or the power
+of moving or quieting corporeal motion, joined to substance, of which we have
+no distinct idea, we have the idea of an immaterial spirit; and by putting
+together the ideas of coherent solid parts, and a power of being moved joined
+with substance, of which likewise we have no positive idea, we have the idea of
+matter. The one is as clear and distinct an idea as the other: the idea of
+thinking, and moving a body, being as clear and distinct ideas as the ideas of
+extension, solidity, and being moved. For our idea of substance is equally
+obscure, or none at all, in both: it is but a supposed I know not what, to
+support those ideas we call accidents. It is for want of reflection that we are
+apt to think that our senses show us nothing but material things. Every act of
+sensation, when duly considered, gives us an equal view of both parts of
+nature, the corporeal and spiritual. For whilst I know, by seeing or hearing,
+&c., that there is some corporeal being without me, the object of that
+sensation, I do more certainly know, that there is some spiritual being within
+me that sees and hears. This, I must be convinced, cannot be the action of bare
+insensible matter; nor ever could be, without an immaterial thinking being.
+
+
+16. No Idea of abstract Substance either in Body or Spirit.
+
+
+By the complex idea of extended, figured, coloured, and all other sensible
+qualities, which is all that we know of it, we are as far from the idea of the
+substance of body, as if we knew nothing at all: nor after all the acquaintance
+and familiarity which we imagine we have with matter, and the many qualities
+men assure themselves they perceive and know in bodies, will it perhaps upon
+examination be found, that they have any more or clearer primary ideas
+belonging to body, than they have belonging to immaterial spirit.
+
+
+17. Cohesion of solid parts and Impulse, the primary ideas peculiar to Body.
+
+
+The primary ideas we have PECULIAR TO BODY, as contradistinguished to spirit,
+are the COHESION OF SOLID, AND CONSEQUENTLY SEPARABLE, PARTS, and a POWER OF
+COMMUNICATING MOTION BY IMPULSE. These, I think, are the original ideas proper
+and peculiar to body; for figure is but the consequence of finite extension.
+
+
+18. Thinking and Motivity
+
+
+The ideas we have belonging and PECULIAR TO SPIRIT, are THINKING, and WILL, or
+A POWER OF PUTTING BODY INTO MOTION BY THOUGHT, AND, WHICH IS CONSEQUENT TO IT,
+LIBERTY. For, as body cannot but communicate its motion by impulse to another
+body, which it meets with at rest, so the mind can put bodies into motion, or
+forbear to do so, as it pleases. The ideas of EXISTENCE, DURATION, and
+MOBILITY, are common to them both.
+
+
+19. Spirits capable of Motion.
+
+
+There is no reason why it should be thought strange that I make mobility belong
+to spirit; for having no other idea of motion, but change of distance with
+other beings that are considered as at rest; and finding that spirits, as well
+as bodies, cannot operate but where they are; and that spirits do operate at
+several times in several places, I cannot but attribute change of place to all
+finite spirits: (for of the Infinite Spirit I speak not here). For my soul,
+being a real being as well as my body, is certainly as capable of changing
+distance with any other body, or being, as body itself; and so is capable of
+motion. And if a mathematician can consider a certain distance, or a change of
+that distance between two points, one may certainly conceive a distance and a
+change of distance, between two spirits; and so conceive their motion, their
+approach or removal, one from another.
+
+
+20. Proof of this.
+
+
+Every one finds in himself that his soul can think, will, and operate on his
+body in the place where that is, but cannot operate on a body, or in a place,
+an hundred miles distant from it. Nobody can imagine that his soul can think or
+move a body at Oxford, whilst he is at London; and cannot but know, that, being
+united to his body, it constantly changes place all the whole journey between
+Oxford and London, as the coach or horse does that carries him, and I think may
+be said to be truly all that while in motion or if that will not be allowed to
+afford us a clear idea enough of its motion, its being separated from the body
+in death, I think, will; for to consider it as going out of the body, or
+leaving it, and yet to have no idea of its motion, seems to me impossible.
+
+
+21. God immoveable because infinite.
+
+
+If it be said by any one that it cannot change place, because it hath none, for
+the spirits are not IN LOCO, but UBI; I suppose that way of talking will not
+now be of much weight to many, in an age that is not much disposed to admire,
+or suffer themselves to be deceived by such unintelligible ways of speaking.
+But if any one thinks there is any sense in that distinction, and that it is
+applicable to our present purpose, I desire him to put it into intelligible
+English; and then from thence draw a reason to show that immaterial spirits are
+not capable of motion. Indeed motion cannot be attributed to God; not because
+he is an immaterial, but because he is an infinite spirit.
+
+
+22. Our complex idea of an immaterial Spirit and our complex idea of Body
+compared.
+
+
+Let us compare, then, our complex idea of an immaterial spirit with our complex
+idea of body, and see whether there be any more obscurity in one than in the
+other, and in which most. Our idea of BODY, as I think, is AN EXTENDED SOLID
+SUBSTANCE, CAPABLE OF COMMUNICATING MOTION BY IMPULSE: and our idea of SOUL, AS
+AN IMMATERIAL SPIRIT, is of A SUBSTANCE THAT THINKS, AND HAS A POWER OF
+EXCITING MOTION IN BODY, BY WILLING, OR THOUGHT. These, I think, are our
+complex ideas of soul and body, as contradistinguished; and now let us examine
+which has most obscurity in it, and difficulty to be apprehended. I know that
+people whose thoughts are immersed in matter, and have so subjected their minds
+to their senses that they seldom reflect on anything beyond them, are apt to
+say, they cannot comprehend a THINKING thing which perhaps is true: but I
+affirm, when they consider it well, they can no more comprehend an EXTENDED
+thing.
+
+
+23. Cohesion of solid Parts in Body as hard to be conceived as thinking in a
+Soul.
+
+
+If any one says he knows not what it is thinks in him, he means he knows not
+what the substance is of that thinking thing: No more, say I, knows he what the
+substance is of that solid thing. Further, if he says he knows not how he
+thinks, I answer, Neither knows he how he is extended, how the solid parts of
+body are united or cohere together to make extension. For though the pressure
+of the particles of air may account for the cohesion of several parts of matter
+that are grosser than the particles of air, and have pores less than the
+corpuscles of air, yet the weight or pressure of the air will not explain, nor
+can be a cause of the coherence of the particles of air themselves. And if the
+pressure of the aether, or any subtiler matter than the air, may unite, and
+hold fast together, the parts of a particle of air, as well as other bodies,
+yet it cannot make bonds for ITSELF, and hold together the parts that make up
+every the least corpuscle of that MATERIA SUBTILIS. So that that hypothesis,
+how ingeniously soever explained, by showing that the parts of sensible bodies
+are held together by the pressure of other external insensible bodies, reaches
+not the parts of the aether itself; and by how much the more evident it proves,
+that the parts of other bodies are held together by the external pressure of
+the aether, and can have no other conceivable cause of their cohesion and
+union, by so much the more it leaves us in the dark concerning the cohesion of
+the parts of the corpuscles of the aether itself: which we can neither conceive
+without parts, they being bodies, and divisible, nor yet how their parts
+cohere, they wanting that cause of cohesion which is given of the cohesion of
+the parts of all other bodies.
+
+
+24. Not explained by an ambient fluid.
+
+
+But, in truth, the pressure of any ambient fluid, how great soever, can be no
+intelligible cause of the cohesion of the solid parts of matter. For, though
+such a pressure may hinder the avulsion of two polished superficies, one from
+another, in a line perpendicular to them, as in the experiment of two polished
+marbles; yet it can never in the least hinder the separation by a motion, in a
+line parallel to those surfaces. Because the ambient fluid, having a full
+liberty to succeed in each point of space, deserted by a lateral motion,
+resists such a motion of bodies, so joined, no more than it would resist the
+motion of that body were it on all sides environed by that fluid, and touched
+no other body; and therefore, if there were no other cause of cohesion, all
+parts of bodies must be easily separable by such a lateral sliding motion. For
+if the pressure of the aether be the adequate cause of cohesion, wherever that
+cause operates not, there can be no cohesion. And since it cannot operate
+against a lateral separation, (as has been shown,) therefore in every imaginary
+plane, intersecting any mass of matter, there could be no more cohesion than of
+two polished surfaces, which will always, notwithstanding any imaginable
+pressure of a fluid, easily slide one from another. So that perhaps, how clear
+an idea soever we think we have of the extension of body, which is nothing but
+the cohesion of solid parts, he that shall well consider it in his mind, may
+have reason to conclude, That it is as easy for him to have a clear idea how
+the soul thinks as how body is extended. For, since body is no further, nor
+otherwise, extended, than by the union and cohesion of its solid parts, we
+shall very ill comprehend the extension of body, without understanding wherein
+consists the union and cohesion of its parts; which seems to me as
+incomprehensible as the manner of thinking, and how it is performed.
+
+
+We can as little understand how the parts cohere in extension as how our
+spirits perceive or move.
+
+
+25. I allow it is usual for most people to wonder how any one should find a
+difficulty in what they think they every day observe. Do we not see (will they
+be ready to say) the parts of bodies stick firmly together? Is there anything
+more common? And what doubt can there be made of it? And the like, I say,
+concerning thinking and voluntary motion. Do we not every moment experiment it
+in ourselves, and therefore can it be doubted? The matter of fact is clear, I
+confess; but when we would a little nearer look into it, both in the one and
+the other; and can as little understand how the parts of body cohere, as how we
+ourselves perceive or move. I would have any one intelligibly explain to me how
+the parts of gold, or brass, (that but now in fusion were as loose from one
+another as the particles of water, or the sands of an hour-glass,) come in a
+few moments to be so united, and adhere so strongly one to another, that the
+utmost force of men’s arms cannot separate them? A considering man will, I
+suppose, be here at a loss to satisfy his own, or another man’s understanding.
+
+
+26. The cause of coherence of atoms in extended substances incomprehensible.
+
+
+The little bodies that compose that fluid we call water are so extremely small,
+that I have never heard of any one who, by a microscope, (and yet I have heard
+of some that have magnified to ten thousand; nay, to much above a hundred
+thousand times,) pretended to perceive their distinct bulk, figure, or motion;
+and the particles of water are also so perfectly loose one from another, that
+the least force sensibly separates them. Nay, if we consider their perpetual
+motion, we must allow them to have no cohesion one with another; and yet let
+but a sharp cold come, and they unite, they consolidate; these little atoms
+cohere, and are not, without great force, separable. He that could find the
+bonds that tie these heaps of loose little bodies together so firmly; he that
+could make known the cement that makes them stick so fast one to another, would
+discover a great and yet unknown secret: and yet when that was done, would he
+be far enough from making the extension of body (which is the cohesion of its
+solid parts) intelligible, till he could show wherein consisted the union, or
+consolidation of the parts of those bonds or of that cement, or of the least
+particle of matter that exists. Whereby it appears that this primary and
+supposed obvious quality of body will be found, when examined, to be as
+incomprehensible as anything belonging to our minds, and a solid extended
+substance as hard to be conceived as a thinking immaterial one, whatever
+difficulties some would raise against it.
+
+
+27. The supposed pressure [*dropped word] explain cohesion is unintelligible.
+
+
+For, to extend our thoughts a little further, the pressure which is brought to
+explain the cohesion of bodies [*dropped line] considered, as no doubt it is,
+finite, let any one send his contemplation to the extremities of the universe,
+and there see what conceivable hoops, what bond he can imagine to hold this
+mass of matter in so close a pressure together; from whence steel has its
+firmness, and the parts of a diamond their hardness and indissolubility. If
+matter be finite, it must have its extremes; and there must be something to
+hinder it from scattering asunder. If, to avoid this difficulty, any one will
+throw himself into the supposition and abyss of infinite matter, let him
+consider what light he thereby brings to the cohesion of body, and whether he
+be ever the nearer making it intelligible, by resolving it into a supposition
+the most absurd and most incomprehensible of all other: so far is our extension
+of body (which is nothing but the cohesion of solid parts) from being clearer,
+or more distinct, when we would inquire into the nature, cause, or manner of
+it, than the idea of thinking.
+
+
+28. Communication of Motion by Impulse, or by Thought, equally unintelligible.
+
+
+Another idea we have of body is, THE POWER OF COMMUNICATION OF MOTION BY
+IMPULSE; and of our souls, THE POWER OF EXCITING MOTION BY THOUGHT. These
+ideas, the one of body, the other of our minds, every day’s experience clearly
+furnishes us with: but if here again we inquire how this is done, we are
+equally in the dark. For, in the communication of motion by impulse, wherein as
+much motion is lost to one body as is got to the other, which is the
+ordinariest case, we can have no other conception, but of the passing of motion
+out of one body into another; which, I think, is as obscure and inconceivable
+as how our minds move or stop our bodies by thought, which we every moment find
+they do. The increase of motion by impulse, which is observed or believed
+sometimes to happen, is yet harder to be understood. We have by daily
+experience clear evidence of motion produced both by impulse and by thought;
+but the manner how, hardly comes within our comprehension: we are equally at a
+loss in both. So that, however we consider motion, and its communication,
+either from body or spirit, the idea which belongs to spirit is at least as
+clear as that which belongs to body. And if we consider the active power of
+moving, or, as I may call it, motivity, it is much clearer in spirit than body;
+since two bodies, placed by one another at rest, will never afford us the idea
+of a power in the one to move the other, but by a borrowed motion: whereas the
+mind every day affords us ideas of an active power of moving of bodies; and
+therefore it is worth our consideration, whether active power be not the proper
+attribute of spirits, and passive power of matter. Hence may be conjectured
+that created spirits are not totally separate from matter, because they are
+both active and passive. Pure spirit, viz. God, is only active; pure matter is
+only passive; those beings that are both active and passive, we may judge to
+partake of both. But be that as it will, I think, we have as many and as clear
+ideas belonging to spirit as we have belonging to body, the substance of each
+being equally unknown to us; and the idea of thinking in spirit, as clear as of
+extension in body; and the communication of motion by thought, which we
+attribute to spirit, is as evident as that by impulse, which we ascribe to
+body. Constant experience makes us sensible of both these, though our narrow
+understandings can comprehend neither. For, when the mind would look beyond
+those original ideas we have from sensation or reflection, and penetrate into
+their causes, and manner of production, we find still it discovers nothing but
+its own short-sightedness.
+
+
+29. Summary.
+
+
+To conclude. Sensation convinces us that there are solid extended substances;
+and reflection, that there are thinking ones: experience assures us of the
+existence of such beings, and that the one hath a power to move body by
+impulse, the other by thought; this we cannot doubt of. Experience, I say,
+every moment furnishes us with the clear ideas both of the one and the other.
+But beyond these ideas, as received from their proper sources, our faculties
+will not reach. If we would inquire further into their nature, causes, and
+manner, we perceive not the nature of extension clearer than we do of thinking.
+If we would explain them any further, one is as easy as the other; and there is
+no more difficulty to conceive how A SUBSTANCE WE KNOW NOT should, by thought,
+set body into motion, than how A SUBSTANCE WE KNOW NOT should, by impulse, set
+body into motion. So that we are no more able to discover wherein the ideas
+belonging to body consist, than those belonging to spirit. From whence it seems
+probable to me, that the simple ideas we receive from sensation and reflection
+are the boundaries of our thoughts; beyond which the mind, whatever efforts it
+would make, is not able to advance one jot; nor can it make any discoveries,
+when it would pry into the nature and hidden causes of those ideas.
+
+
+30. Our idea of Spirit and our idea of Body compared.
+
+
+So that, in short, the idea we have of spirit, compared with the idea we have
+of body, stands thus: the substance of spirits is unknown to us; and so is the
+substance of body equally unknown to us. Two primary qualities or properties of
+body, viz. solid coherent parts and impulse, we have distinct clear ideas of:
+so likewise we know, and have distinct clear ideas, of two primary qualities or
+properties of spirit, viz. thinking, and a power of action; i.e. a power of
+beginning or stopping several thoughts or motions. We have also the ideas of
+several qualities inherent in bodies, and have the clear distinct ideas of
+them; which qualities are but the various modifications of the extension of
+cohering solid parts, and their motion. We have likewise the ideas of the
+several modes of thinking viz. believing, doubting, intending, fearing, hoping;
+all which are but the several modes of thinking. We have also the ideas of
+willing, and moving the body consequent to it, and with the body itself too;
+for, as has been shown, spirit is capable of motion.
+
+
+31. The Notion of Spirit involves no more Difficulty in it than that of Body.
+
+
+Lastly, if this notion of immaterial spirit may have, perhaps, some
+difficulties in it not easily to be explained, we have therefore no more reason
+to deny or doubt the existence of such spirits, than we have to deny or doubt
+the existence of body; because the notion of body is cumbered with some
+difficulties very hard, and perhaps impossible to be explained or understood by
+us. For I would fain have instanced anything in our notion of spirit more
+perplexed, or nearer a contradiction, than the very notion of body includes in
+it; the divisibility IN INFINITUM of any finite extension involving us, whether
+we grant or deny it, in consequences impossible to be explicated or made in our
+apprehensions consistent; consequences that carry greater difficulty, and more
+apparent absurdity, than anything can follow from the notion of an immaterial
+knowing substance.
+
+
+32. We know nothing of things beyond our simple Ideas of them.
+
+
+Which we are not at all to wonder at, since we having but some few superficial
+ideas of things, discovered to us only by the senses from without, or by the
+mind, reflecting on what it experiments in itself within, have no knowledge
+beyond that, much less of the internal constitution, and true nature of things,
+being destitute of faculties to attain it. And therefore experimenting and
+discovering in ourselves knowledge, and the power of voluntary motion, as
+certainly as we experiment, or discover in things without us, the cohesion and
+separation of solid parts, which is the extension and motion of bodies; we have
+as much reason to be satisfied with our notion of immaterial spirit, as with
+our notion of body, and the existence of the one as well as the other. For it
+being no more a contradiction that thinking should exist separate and
+independent from solidity, than it is a contradiction that solidity should
+exist separate and independent from thinking, they being both but simple ideas,
+independent one from another and having as clear and distinct ideas in us of
+thinking as of solidity, I know not why we may not as well allow a thinking
+thing without solidity, i.e. immaterial, to exist, as a solid thing without
+thinking, i.e. matter, to exist; especially since it is not harder to conceive
+how thinking should exist without matter, than how matter should think. For
+whensoever we would proceed beyond these simple ideas we have from sensation
+and reflection and dive further into the nature of things, we fall presently
+into darkness and obscurity, perplexedness and difficulties, and can discover
+nothing further but our own blindness and ignorance. But whichever of these
+complex ideas be clearest, that of body, or immaterial spirit, this is evident,
+that the simple ideas that make them up are no other than what we have received
+from sensation or reflection: and so is it of all our other ideas of
+substances, even of God himself.
+
+
+33. Our complex idea of God.
+
+
+For if we examine the idea we have of the incomprehensible Supreme Being, we
+shall find that we come by it the same way; and that the complex ideas we have
+both of God, and separate spirits, are made of the simple ideas we receive from
+reflection; v.g. having, from what we experiment in ourselves, got the ideas of
+existence and duration; of knowledge and power; of pleasure and happiness; and
+of several other qualities and powers, which it is better to have than to be
+without; when we would frame an idea the most suitable we can to the Supreme
+Being, we enlarge every one of these with our idea of infinity; and so putting
+them together, make our complex idea of God. For that the mind has such a power
+of enlarging some of its ideas, received from sensation and reflection, has
+been already shown.
+
+
+34. Our complex idea of God as infinite.
+
+
+If I find that I know some few things, and some of them, or all, perhaps
+imperfectly, I can frame an idea of knowing twice as many; which I can double
+again, as often as I can add to number; and thus enlarge my idea of knowledge,
+by extending its comprehension to all things existing, or possible. The same
+also I can do of knowing them more perfectly; i.e. all their qualities, powers,
+causes, consequences, and relations, &c., till all be perfectly known that
+is in them, or can any way relate to them: and thus frame the idea of infinite
+or boundless knowledge. The same may also be done of power, till we come to
+that we call infinite; and also of the duration of existence, without beginning
+or end, and so frame the idea of an eternal being. The degrees or extent
+wherein we ascribe existence, power, wisdom, and all other perfections (which
+we can have any ideas of) to that sovereign Being, which we call G-d, being all
+boundless and infinite, we frame the best idea of him our minds are capable of:
+all which is done, I say, by enlarging those simple ideas we have taken from
+the operations of our own minds, by reflection; or by our senses, from exterior
+things, to that vastness to which infinity can extend them.
+
+
+35. God in his own essence incognisable.
+
+
+For it is infinity, which, joined to our ideas of existence, power, knowledge,
+&c., makes that complex idea, whereby we represent to ourselves, the best
+we can, the Supreme Being. For, though in his own essence (which certainly we
+do not know, not knowing the real essence of a pebble, or a fly, or of our own
+selves) God be simple and uncompounded; yet I think I may say we have no other
+idea of him, but a complex one of existence, knowledge, power, happiness,
+&c., infinite and eternal: which are all distinct ideas, and some of them,
+being relative, are again compounded of others: all which being, as has been
+shown, originally got from sensation and reflection, go to make up the idea or
+notion we have of God.
+
+
+36. No Ideas in our complex ideas of Spirits, but those got from Sensation or
+Reflection.
+
+
+This further is to be observed, that there is no idea we attribute to God,
+bating infinity, which is not also a part of our complex idea of other spirits.
+Because, being capable of no other simple ideas, belonging to anything but
+body, but those which by reflection we receive from the operation of our own
+minds, we can attribute to spirits no other but what we receive from thence:
+and all the difference we can put between them, in our contemplation of
+spirits, is only in the several extents and degrees of their knowledge, power,
+duration, happiness, &c. For that in our ideas, as well of spirits as of
+other things, we are restrained to THOSE WE RECEIVE FROM SENSATION AND
+REFLECTION, is evident from hence,—That, in our ideas of spirits, how
+much soever advanced in perfection beyond those of bodies, even to that of
+infinite, we cannot yet have any idea of the manner wherein they discover their
+thoughts one to another: though we must necessarily conclude that separate
+spirits, which are beings that have perfecter knowledge and greater happiness
+than we, must needs have also a perfecter way of communicating their thoughts
+than we have, who are fain to make use of corporeal signs, and particular
+sounds; which are therefore of most general use, as being the best and quickest
+we are capable of. But of immediate communication having no experiment in
+ourselves, and consequently no notion of it at all, we have no idea how
+spirits, which use not words, can with quickness; or much less how spirits that
+have no bodies can be masters of their own thoughts, and communicate or conceal
+them at pleasure, though we cannot but necessarily suppose they have such a
+power.
+
+
+37. Recapitulation.
+
+
+And thus we have seen what kind of ideas we have of SUBSTANCES OF ALL KINDS,
+wherein they consist, and how we came by them. From whence, I think, it is very
+evident,
+
+
+First, That all our ideas of the several SORTS of substances are nothing but
+collections of simple ideas: with a supposition of SOMETHING to which they
+belong, and in which they subsist; though of this supposed something we have no
+clear distinct idea at all.
+
+
+Secondly, That all the simple ideas, that thus united in one common SUBSTRATUM,
+make up our complex ideas of several SORTS of substances, are no other but such
+as we have received from sensation or reflection. So that even in those which
+we think we are most intimately acquainted with, and that come nearest the
+comprehension of our most enlarged conceptions, we cannot go beyond those
+simple ideas. And even in those which seem most remote from all we have to do
+with, and do infinitely surpass anything we can perceive in ourselves by
+reflection; or discover by sensation in other things, we can attain to nothing
+but those simple ideas, which we originally received from sensation or
+reflection; as is evident in the complex ideas we have of angels, and
+particularly of God himself.
+
+
+Thirdly, That most of the simple ideas that make up our complex ideas of
+substances, when truly considered, are only POWERS, however we are apt to take
+them for positive qualities; v.g. the greatest part of the ideas that make our
+complex idea of GOLD are yellowness, great weight, ductility, fusibility, and
+solubility in AQUA REGIA, &c., all united together in an unknown
+SUBSTRATUM: all which ideas are nothing else but so many relations to other
+substances; and are not really in the gold, considered barely in itself, though
+they depend on those real and primary qualities of its internal constitution,
+whereby it has a fitness differently to operate, and be operated on by several
+other substances.
+
+
+</div></body></text></TEI>

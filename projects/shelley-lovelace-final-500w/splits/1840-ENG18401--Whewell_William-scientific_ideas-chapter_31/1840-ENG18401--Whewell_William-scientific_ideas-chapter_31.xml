@@ -1,0 +1,344 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Philosophy of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="31">
+
+CHAPTER VI.
+Of the Establishment of the Principles of Statics.
+
+
+1. Object of the Chapter.—In the present and the
+succeeding chapters we have to show how the general axioms
+of Causation enable us to construct the science of
+Mechanics. We have to consider these axioms as moulding
+themselves, in the first place, into certain fundamental
+mechanical principles, which are of evident and necessary
+truth in virtue of their dependence upon the general axioms
+of Causation; and thus as forming a foundation for the whole
+structure of the science;—a system of truths no less
+necessary than the fundamental principles, because derived
+from these by rigorous demonstration.
+This account of the construction of the science of
+Mechanics, however generally treated, cannot be otherwise
+than technical in its details, and will probably be
+imperfectly understood by any one not acquainted with
+Mechanics as a mathematical science.
+I cannot omit this portion of my survey without rendering my
+work incomplete; but I may remark that the main purpose of
+it is to prove, in a more particular manner, what I have
+already declared in general, that there are, in Mechanics no
+less than in Geometry, fundamental principles of axiomatic
+evidence and necessity;—that these principles derive their
+axiomatic character from the Idea which they involve,
+namely, the Idea of Cause;—and that through the combination
+of principles of this kind, the whole science of Mechanics,
+including its most complex and remote results, exists as a
+body of solid and universal truths. 213
+2. Statics and Dynamics.—We must first turn our
+attention to a technical distinction of Mechanics into two
+portions, according as the forces about which we reason
+produce rest, or motion; the former portion is termed
+Statics, the latter Dynamics. If a stone fall,
+or a weight put a machine in motion, the problem belongs to
+Dynamics; but if the stone rest upon the ground, or a weight
+be merely supported by a machine, without being raised
+higher, the question is one of Statics.
+3. Equilibrium.—In Statics, forces balance
+each other, or keep each other in equilibrium. And
+forces which directly balance each other, or keep each other
+in equilibrium, are necessarily and manifestly equal. If we
+see two boys pull at two ends of a rope so that neither of
+them in the smallest degree prevails over the other, we have
+a case in which two forces are in equilibrium. The two
+forces are evidently equal, and are a statical
+exemplification of action and reaction, such as are spoken
+of in the third axiom concerning causes. Now the same
+exemplification occurs in every case of equilibrium. No
+point or body can be kept at rest except in virtue of
+opposing forces acting upon it; and these forces must always
+be equal in their opposite effect. When a stone lies on the
+floor, the weight of the stone downwards is opposed and
+balanced by an equal pressure of the floor upwards. If the
+stone rests on a slope, its tendency to slide is
+counteracted by some equal and opposite force, arising, it
+may be, from the resistance which the sloping ground opposes
+to any motion along its surface. Every case of rest is a
+case of equilibrium: every case of equilibrium is a case of
+equal and opposite forces.
+The most complex frame-work on which weights are supported,
+as the roof of a building, or the cordage of a machine, are
+still examples of equilibrium. In such cases we may have
+many forces all combining to balance each other; and the
+equilibrium will depend on various conditions of direction
+and magnitude among the forces. And in order to understand
+what are these conditions, we must ask, in the first place,
+what 214 we understand by the magnitude of such
+forces;—what is the measure of statical forces.
+4. Measure of Statical Forces.—At first we might
+expect, perhaps, that since statical forces come under the
+general notion of Cause, the mode of measuring them would be
+derived from the second axiom of Causation, that causes are
+measured by their effects. But we find that the application
+of this axiom is controlled by the limitation which we
+noticed, after stating that axiom; namely, the condition
+that the causes shall be capable of addition. Further, as we
+have seen, a statical force produces no other effect than
+this, that it balances some other statical force; and hence
+the measure of statical forces is necessarily dependent upon
+their balancing, that is, upon the equality of action and
+reaction.
+That statical forces are capable of addition is
+involved in our conception of such forces. When two men pull
+at a rope in the same direction, the forces which they exert
+are added together. When two heavy bodies are put into a
+basket suspended by a string, their weights are added, and
+the sum is supported by the string.
+Combining these considerations, it will appear that the
+measure of statical forces is necessarily given at once by
+the fundamental principle of the equality of action and
+reaction. Since two opposite forces which balance each other
+are equal, each force is measured by that which it balances;
+and since forces are capable of addition, a force of any
+magnitude is measured by adding together a proper number of
+such equal forces. Thus a heavy body which, appended to some
+certain elastic branch of a tree, would bend it down through
+one inch, may be taken as a unit of weight. Then if we
+remove this first body, and find a second heavy body which
+will also bend the branch through the same space, this is
+also a unit of weight; and in like manner we might go on to
+a third and a fourth equal body; and adding together the
+two, or the three, or the four heavy bodies, we have a force
+twice, or three times, or four times the unit of weight. And
+with 215 such a collection of heavy bodies, or
+weights, we can readily measure all other forces; for
+the same principle of the equality of action and reaction
+leads at once to this maxim, that any statical force is
+measured by the weight which it would support.
+As has been said, it might at first have been supposed that
+we should have to apply, in this case, the axiom that causes
+are measured by their effects in another manner; that thus,
+if that body were a unit of weight which bent the bough of a
+tree through one inch, that body would be
+two units which bent it through two
+inches, and so on. But, as we have already stated, the
+measures of weight must be subject to this condition, that
+they are susceptible of being added: and therefore we cannot
+take the deflexion of the bough for our measure, till we
+have ascertained, that which experience alone can teach us,
+that under the burden of two equal weights, the deflexion
+will be twice as great as it is with one weight, which is
+not true, or at least is neither obviously nor necessarily
+true. In this, as in all other cases, although causes must
+be measured by their effects, we learn from experience only
+how the effects are to be interpreted, so as to give a true
+and consistent measure.
+With regard, however, to the measure of statical force, and
+of weight, no difficulty really occurred to philosophers
+from the time when they first began to speculate on such
+subjects; for it was easily seen that if we take any uniform
+material, as wood, or stone, or iron, portions of this which
+are geometrically equal, must also be equal in statical
+effect; since this was implied in the very hypothesis of a
+uniform material And a body ten times as large as another of
+the same substance, will be of ten times the weight. But
+before men could establish by reasoning the conditions under
+which weights would be in equilibrium, some other principles
+were needed in addition to the mere measure of forces. The
+principles introduced for this purpose still resulted from
+the conception of equal action and reaction; but it required
+no small clearness of thought to select them rightly, and to
+employ them 216 successfully. This, however, was done, to
+a certain extent, by the Greeks; and the treatise of
+Archimedes On the Center of Gravity, is founded on
+principles which may still be considered as the genuine
+basis of statical reasoning. I shall make a few remarks on
+the most important principle among those which Archimedes
+thus employs.
+5. The Center of Gravity.—The most important of the
+principles which enter into the demonstration of Archimedes
+is this: that “Every body has a center of gravity;” meaning
+by the center of gravity, a point at which the whole matter
+of the body may be supposed to be collected, to all intents
+and purposes of statical reasoning. This principle has been
+put in various forms by succeeding writers: for instance, it
+has been thought sufficient to assume a case much simpler
+than the general one; and to assert that two equal
+bodies have their center of gravity in the point midway
+between them. It is to be observed, that this assertion not
+only implies that the two bodies will balance upon a
+support placed at that midway point, but also, that they
+will exercise, upon such a support, a pressure equal to
+their sum; for this point being the center of gravity,
+the whole matter of the two bodies may be conceived to be
+collected there, and therefore the whole weight will press
+there. And thus the principle in question amounts to this,
+that when two equal heavy bodies are supported on the
+middle point between them, the pressure upon the support is
+equal to the sum of the weights of the bodies.
+A clear understanding of the nature and grounds of this
+principle is of great consequence: for in it we have the
+foundation of a large portion of the science of Mechanics.
+And if this principle can be shown to be necessarily true,
+in virtue of our Fundamental Ideas, we can hardly doubt that
+there exist many other truths of the same kind, and that no
+sound view of the evidence and extent of human knowledge can
+be obtained, so long as we mistake the nature of these, its
+first principles. 217
+The above principle, that the pressure on the support is
+equal to the sum of the bodies supported, is often stated as
+an axiom in the outset of books on Mechanics. And this
+appears to be the true place and character of this
+principle, in accordance with the reasonings which we have
+already urged. The axiom depends upon our conception of
+action and reaction. That the two weights are supported,
+implies that the supporting force must be equal to the force
+or weight supported.
+In order further to show the foundation of this principle,
+we may ask the question:—If it be not an axiom, deriving
+its truth from the fundamental conception of equal action
+and reaction, which equilibrium always implies, what is the
+origin of its certainty? The principle is never for an
+instant denied or questioned: it is taken for granted, even
+before it is stated. No one will doubt that it is not only
+true, but true with the same rigour and universality as the
+axioms of Geometry. Will it be said, that it is borrowed
+from experience? Experience could never prove a principle to
+be universally and rigorously true. Moreover, when from
+experience we prove a proposition to possess great exactness
+and generality, we approach by degrees to this proof: the
+conviction becomes stronger, the truth more secure, as we
+accumulate trials. But nothing of this kind is the case in
+the instance before us. There is no gradation from less to
+greater certainty;—no hesitation which precedes confidence.
+From the first, we know that the axiom is exactly and
+certainly true. In order to be convinced of it, we do not
+require many trials, but merely a clear understanding of the
+assertion itself.
+But in fact, not only are trials not necessary to the proof,
+but they do not strengthen it. Probably no one ever made a
+trial for the purpose of showing that the pressure upon the
+support is equal to the sum of the two weights. Certainly no
+person with clear mechanical conceptions ever wanted such a
+trial to convince him of the truth; or thought the truth
+clearer after the trial had been made. If to such a person,
+an 218 experiment were shown which seemed to contradict
+the principle, his conclusion would be, not that the
+principle was doubtful, but that the apparatus was out of
+order. Nothing can be less like collecting truth from
+experience than this.
+We maintain, then, that this equality of mechanical action
+and reaction, is one of the principles which do not flow
+from, but regulate our experience. To this principle, the
+facts which we observe must conform; and we cannot help
+interpreting them in such a manner that they shall be
+exemplifications of the principle. A mechanical pressure not
+accompanied by an equal and opposite pressure, can no more
+be given by experience, than two unequal right angles. With
+the supposition of such inequalities, space ceases to be
+space, force ceases to be force, matter ceases to be matter.
+And this equality of action and reaction, considered in the
+case in which two bodies are connected so as to act on a
+single support, leads to the axiom which we have stated
+above, and which is one of the main foundations of the
+science of Mechanics.
+[2d ed.] [To the doctrine that mechanical principles, such
+as the one here under consideration (that the pressure on
+the point of support is equal to the sum of the weights),
+are derived from our Ideas, and do not flow from but
+regulate our experience, objections are naturally made by
+those who assert all our knowledge to be derived from
+experience. How, they ask, can we know the properties of
+pressures, levers and the like, except from experience? What
+but experience can possibly inform us that a force applied
+transversely to a lever will have any tendency to turn the
+lever on its center? This cannot be, except we suppose in
+the lever tenacity, rigidity and the like, which are
+qualities known only by experience. And it is obvious that
+this line of argument might be carried on through the whole
+subject.
+My answer to this objection is a remark of the same kind as
+one which I have made respecting the Ideas of Space, Time,
+and Number, in the last Book. The mind, in apprehending
+events as causes 219 and effects, is governed by Laws of
+its own Activity; and these Laws govern the results of the
+mind’s action; and make these results conform to the Axioms
+of Causation. But this activity of the mind is awakened and
+developed by being exercised; and in dealing with the
+examples of cause and effect here spoken of, (namely,
+pressure and resistance, force and motion,) the mind’s
+activity is necessarily governed also by the bodily powers
+of perception and action. We are human beings only in so far
+as we have existed in space and time; and of our human
+faculties, developed by our existence in space and time,
+space and time are necessary conditions. In like manner, we
+are human beings only in so far as we have bodies, and
+bodily organs; and our bodies necessarily imply material
+objects external to us. And hence our human faculties,
+developed by our bodily existence in a material world, have
+the conditions of matter for their necessary Laws. I have
+already said (chap. v.) that our conception of Force arises
+with our consciousness of our own muscular exertions;—that
+Force cannot be conceived without Resistance to exercise
+itself upon;—and that this resistance is supplied by
+Matter. And thus the conception of Matter, and of the most
+general modes in which Matter receives, resists, and
+transmits force, are parts of our constitution which, though
+awakened and unfolded by our being in a material world, are
+not distinguishable from the original structure of the mind.
+I do not ascribe to the mind innate Ideas—Ideas
+which it would have, even if it had no intercourse with the
+world of space, time, and matter; because we cannot imagine
+a mind in such a state. But I attempt to point out and
+classify those Conditions of all Experience, to which the
+intercourse of all minds with the material world has
+necessarily given rise in all. Truths thus
+necessarily acquired in the course of all experience, cannot
+be said to be learnt from experience, in the same
+sense in which particular facts, at definite times, are
+learnt from experience—learnt by some persons and not by
+others—learnt with more or less of certainty. These latter
+special truths of 220 experience will be
+very important subjects of our consideration; but our whole
+chance of discussing them with any profit depends upon our
+keeping them distinct from the necessary and universal
+conditions of experience. Here, as everywhere, we must
+keep in view the fundamental antithesis of Ideas and Facts.]
+6. Oblique Forces.—By the aid of the above axiom and
+a few others, the Greeks made some progress in the science
+of Statics. But after a short advance, they arrived at
+another difficulty, that of Oblique Forces, which they never
+overcame; and which no mathematician mastered till modern
+times. The unpublished manuscripts of Leonardo da Vinci,
+written in the fifteenth century, and the works of Stevinus
+and Galileo, in the sixteenth, are the places in which we
+find the first solid grounds of reasoning on the subject of
+forces acting obliquely to each other. And from that period,
+mathematicians, having thus become possessed of all the
+mechanical principles which are requisite in problems
+respecting equilibrium, soon framed a complete science of
+Statics. Succeeding writers presented this science in forms
+variously modified; for it was found, in Mechanics as in
+Geometry, that various propositions might be taken as the
+starting points; and that the collection of truths which it
+was the mechanician’s business to include in his course,
+might thus be traversed by various routes, each path
+offering a series of satisfactory demonstrations. The
+fundamental conceptions of force and resistance, like those
+of space and number, could be contemplated under different
+aspects, each of which might be made the basis of axioms, or
+of principles employed as axioms. Hence the grounds of the
+truth of Statics may be stated in various ways; and it would
+be a task of some length to examine all these completely,
+and to trace them to their Fundamental Ideas. This I shall
+not undertake here to do; but the philosophical importance
+of the subject makes it proper to offer a few remarks on
+some of the main principles involved in the different modes
+of presenting Statics as a rigorously demonstrated science. 221
+7. A Force may be supposed to act at any Point of its
+Direction.—It has been stated in the history of
+Mechanics12, that Leonardo da Vinci and Galileo obtained
+the true measure of the effect of oblique forces, by
+reasonings which were, in substance, the same. The principle
+of these reasonings is that expressed at the head of this
+paragraph; and when we have a little accustomed ourselves to
+contemplate our conceptions of force, and its action on
+matter, in an abstract manner, we shall have no difficulty
+in assenting to the principle in this general form. But it
+may, perhaps, be more obvious at first in a special case.</div></body></text></TEI>

@@ -1,0 +1,173 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Philosophy of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="3">
+
+CHAPTER III.
+Of Necessary Truths.
+
+
+
+1. EVERY
+ advance in human knowledge consists, as we have
+seen, in adapting new ideal conceptions to ascertained
+facts, and thus in superinducing the Form upon the Matter,
+the active upon the passive processes of our minds. Every
+such step introduces into our knowledge an additional
+portion of the ideal element, and of those relations which
+flow from the nature of Ideas. It is, therefore, important
+for our purpose to examine more closely this element, and to
+learn what the relations are which may thus come to form
+part of our knowledge. An inquiry into those Ideas which
+form the foundations of our sciences;—into the reality,
+independence, extent, and principal heads of the knowledge
+which we thus acquire; is a task on which we must now enter,
+and which will employ us for several of the succeeding
+Books.
+In this inquiry our object will be to pass in review all the
+most important Fundamental Ideas which our sciences involve;
+and to prove more distinctly in reference to each, what we
+have already asserted with regard to all, that there are
+everywhere involved in our knowledge acts of the mind as
+well as impressions of sense; and that our knowledge
+derives, from these acts, a generality, certainty, and
+evidence which the senses could in no degree have supplied.
+But before I proceed to do this in particular cases, I will
+give some account of the argument in its general form.
+We have already considered the separation of our knowledge
+into its two elements,—Impressions of Sense and Ideas,—as
+evidently indicated by this; that all knowledge possesses
+characters which neither of these 58 elements alone could
+bestow. Without our ideas, our sensations could have no
+connexion; without external impressions, our ideas would
+have no reality; and thus both ingredients of our knowledge
+must exist.
+2. There is another mode in which the distinction of the two
+elements of knowledge appears, as I have already said (c. i.
+sect. 2): namely in the distinction of necessary, and
+contingent or experiential, truths. For of
+these two classes of truths, the difference arises from
+this;—that the one class derives its nature from the one,
+and the other from the other, of the two elements of
+knowledge. I have already stated briefly the difference of
+these two kinds of truths:—namely, that the former are
+truths which, we see, must be true:—the latter are true,
+but so far as we can see, might be otherwise. The former are
+true necessarily and universally: the latter are learnt from
+experience and limited by experience. Now with regard to the
+former kind of truths, I wish to show that the universality
+and necessity which distinguish them can by no means be
+derived from experience; that these characters do in reality
+flow from the ideas which these truths involve; and that
+when the necessity of the truth is exhibited in the way of
+logical demonstration, it is found to depend upon certain
+fundamental principles, (Definitions and Axioms,) which may
+thus be considered as expressing, in some measure, the
+essential characters of our ideas. These fundamental
+principles I shall afterwards proceed to discuss and to
+exhibit in each of the principal departments of science.
+I shall begin by considering Necessary Truths more fully
+than I have yet done. As I have already said, necessary
+truths are those in which we not only learn, that the
+proposition is true, but see that it must
+be true; in which the negation of the truth is not only
+false, but impossible; in which we cannot, even by an effort
+of imagination, or in a supposition, conceive the reverse of
+that which is asserted.
+3. That there are such truths cannot be doubted. We may
+take, for example, all relations of number. Three and Two
+added together make Five. We cannot 59 conceive it to be
+otherwise. We cannot, by any freak of thought, imagine Three
+and Two to make Seven.
+It may be said that this assertion merely expresses what we
+mean by our words; that it is a matter of definition; that
+the proposition is an identical one.
+But this is by no means so. The definition of Five is not
+Three and Two, but Four and One. How does it appear that
+Three and Two is the same number as Four and One? It is
+evident that it is so; but why is it evident?—not
+because the proposition is identical; for if that were the
+reason, all numerical propositions must be evident for the
+same reason. If it be a matter of definition that 3 and 2
+make 5, it must be a matter of definition that 39 and 27
+make 66. But who will say that the definition of 66 is 39
+and 27? Yet the magnitude of the numbers can make no
+difference in the ground of the truth. How do we know that
+the product of 13 and 17 is 4 less than the product of 15
+and 15? We see that it is so, if we perform certain
+operations by the rules of arithmetic; but how do we know
+the truth of the rules of arithmetic? If we divide 123375 by
+987 according to the process taught us at school, how are we
+assured that the result is correct, and that the number 125
+thus obtained is really the number of times one number is
+contained in the other?
+The correctness of the rule, it may be replied, can be
+rigorously demonstrated. It can be shown that the process
+must inevitably give the true quotient.
+Certainly this can be shown to be the case. And precisely
+because it can be shown that the result must be true, we
+have here an example of a necessary truth; and this truth,
+it appears, is not therefore necessary because it
+is itself evidently identical, however it may be possible to
+prove it by reducing it to evidently identical propositions.
+And the same is the case with all other numerical
+propositions; for, as we have said, the nature of all of
+them is the same.
+Here, then, we have instances of truths which are not only
+true, but demonstrably and necessarily true. Now such truths
+are, in this respect at least, altogether 60 different
+from truths, which, however certain they may be, are learnt
+to be so only by the evidence of observation, interpreted,
+as observation must be interpreted, by our own mental
+faculties. There is no difficulty in finding examples of
+these merely observed truths. We find that sugar dissolves
+in water, and forms a transparent fluid, but no one will say
+that we can see any reason beforehand why the result
+must be so. We find that all animals which chew the
+cud have also the divided hoof; but could any one have
+predicted that this would be universally the case? or
+supposing the truth of the rule to be known, can any one say
+that he cannot conceive the facts as occurring otherwise?
+Water expands when it crystallizes, some other substances
+contract in the same circumstances; but can any one know
+that this will be so otherwise than by observation? We have
+here propositions rigorously true, (we will
+assume,) but can any one say they are necessarily
+true? These, and the great mass of the doctrines established
+by induction, are actual, but so far as we can see,
+accidental laws; results determined by some unknown
+selection, not demonstrable consequences of the essence of
+things, inevitable and perceived to be inevitable. According
+to the phraseology which has been frequently used by
+philosophical writers, they are contingent, not
+necessary truths.
+It is requisite to insist upon this opposition, because no
+insight can be obtained into the true nature of knowledge,
+and the mode of arriving at it, by any one who does not
+clearly appreciate the distinction. The separation of truths
+which are learnt by observation, and truths which can be
+seen to be true by a pure act of thought, is one of the
+first and most essential steps in our examination of the
+nature of truth, and the mode of its discovery. If any one
+does not clearly comprehend this distinction of necessary
+and contingent truths, he will not be able to go along with
+us in our researches into the foundations of human
+knowledge; nor, indeed, to pursue with success any
+speculation on the subject. But, in fact, this distinction
+is one that can hardly fail to be at once understood. It
+61 is insisted upon by almost all the best modern, as well
+as ancient, metaphysicians5, as of primary importance.
+And if any person does not fully apprehend, at first, the
+different kinds of truth thus pointed out, let him study, to
+some extent, those sciences which have necessary truth for
+their subject, as geometry, or the properties of numbers, so
+as to obtain a familiar acquaintance with such truth; and he
+will then hardly fail to see how different the evidence of
+the propositions which occur in these sciences, is from the
+evidence of the facts which are merely learnt from
+experience. That the year goes through its course in 365
+days, can only be known by observation of the sun or stars:
+that 365 days is 52 weeks and a day, it requires no
+experience, but only a little thought to perceive. That bees
+build their cells in the form of hexagons, we cannot know
+without looking at them; that regular hexagons may be
+arranged so as to fill space, may be proved with the utmost
+rigour, even if there were not in existence such a thing as
+a material hexagon.</div></body></text></TEI>

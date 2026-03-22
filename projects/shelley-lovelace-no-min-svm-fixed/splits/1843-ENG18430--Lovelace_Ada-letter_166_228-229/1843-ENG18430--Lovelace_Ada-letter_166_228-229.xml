@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 228-229</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 228-229.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1843">undated (estimated from box 166 date range)</date>
+          <note type="place">St. James' Square</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 228-229</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_228-229.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>St James' Sqre 4 o'clock Tuesday Afternoon</p>
+      <p>I lose no time in letting you know, Dearest Mate, that (to my infinite annoyance) I am obliged to remain in Town till Friday certainly; &amp; possibly till Satdy; on account of my teeth. Lauzelle says he cannot possibly finish before Thursdy at the earliest, &amp; that it is of great importance; for he has found ample mischief as the</p>
+      <p>cause of the pain I have suffered.</p>
+      <p>I have written to let Harmes &amp; the Coach-man know for Friday, when I do hope we may go. I suppose the man at Bridgwater will have the sense to stop for us.-- I cannot write to him, for I don't know how to address him.</p>
+      <p>It's a deuce of a plague; but it can't be helped.-- Don't be angry with the poor Avis, my dear Exiguus Mus.</p>
+    </div></body>
+  </text>
+</TEI>

@@ -1,0 +1,207 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="77">CHAPTER II.
+The Laws of Changes occasioned by Heat.
+
+Sect. 1.—Expansion by Heat.—The
+Law of Dalton and Gay-Lussac for Gases.
+ALMOST all bodies expand by
+heat; solids, as metals, in a small degree; fluids, as water, oil,
+alcohol, mercury, in a greater degree. This was one of the facts first
+examined by those who studied the nature of heat, because this
+property was used for the measure of heat. In the Philosophy of the
+Inductive Sciences, Book iv., Chap. iv., I have stated that
+secondary qualities, such as Heat, must be measured by their effects:
+and in Sect. 4 of that Chapter I have given an account of the
+successive attempts which have been made to obtain measures of heat. I
+have there also spoken of the results which were obtained by comparing
+the rate at which the expansion of different substances went on, under
+the same degrees of heat; or as it was called, the different
+thermometrical march of each substance. Mercury appears to be
+the liquid which is most uniform in its thermometrical march; and it
+has been taken as the most common material of our thermometers; but
+the expansion of mercury is not proportional to the heat. De Luc was
+led, by his experiments, to conclude “that the dilatations of mercury
+follow an accelerated march for equal augmentations of heat.” Dalton
+conjectured that water and mercury both expand as the square of the
+real temperature from the point of greatest contraction: the
+real temperature being measured so as to lead to such a result. But
+none of the rules thus laid down for the expansion of solids and
+fluids appear to have led, as yet, to any certain general laws.
+With regard to gases, thermotical inquirers have been more
+successful. Gases expand by heat; and their expansion is governed by a
+law which applies alike to all degrees of heat, and to all gaseous
+fluids. The law is this: that for equal increments of temperature
+they expand by the same fraction of their own bulk; which fraction
+is three-eights 158 in proceeding from freezing to boiling
+water. This law was discovered by Dalton and M. Gay-Lussac
+independently of each other;32 and is usually
+called by both their names, the law of Dalton and Gay-Lussac.
+The latter says,33 “The experiments which I have
+described, and which have been made with great care, prove
+incontestably that oxygen, hydrogen, azotic acid, nitrous acid,
+ammoniacal acid, muriatic acid, sulphurous acid, carbonic acid, gases,
+expand equally by equal increments of heat.” “Therefore,” he adds with
+a proper inductive generalization, “the result does not depend upon
+physical properties, and I collect that all gases expand equally by
+heat.” He then extends this to vapors, as ether. This must be one
+of the most important foundation-stones of any sound theory of
+heat.
+32 Manch. Mem. vol. v. 1802;
+and Ann. Chim. xliii. p. 137.
+33 Ib. p. 272.
+[2nd Ed.] Yet MM. Magnus and Regnault conceive that they have
+overthrown this law of Dalton and Gay-Lussac, and shown that the
+different gases do not expand alike for the same increment of heat.
+Magnus found the ratio to be for atmospheric air, 1∙366; for hydrogen,
+1∙365; for carbonic acid, 1∙369; for sulphurous-acid gas, 1∙385. But
+these differences are not greater than the differences obtained for
+the same substances by different observers; and as this law is
+referred to in Laplace’s hypothesis, hereafter to be discussed, I do not treat
+the law as disproved.
+Yet that the rate of expansion of gas in certain circumstances is
+different for different substances, must be deemed very probable,
+after Dr. Faraday’s recent investigations On the Liquefaction and
+Solidification of Bodies generally existing as Gases,34 by which it appears that the elasticity
+of vapors in contact with their fluids increases at different
+rates in different substances. “That the force,” he says, “of vapor
+increases in a geometrical ratio for equal increments of heat is true
+for all bodies, but the ratio is not the same for all. . . . For an
+increase of pressure from two to six atmospheres, the following number
+of degrees require to be added to the bodies named:—water 69°,
+sulphureous acid 63°, cyanogen 64°∙5, ammonia 60°, arseniuretted
+hydrogen 54°, sulphuretted hydrogen 56°∙5, muriatic acid 43°, carbonic
+acid 32°∙5, nitrous oxide 30°.”]
+34 Phil. Trans. 1845, Pt.
+1.
+We have already seen that the opinion that
+the air-thermometer is a true measure of heat, is strongly
+countenanced by the symmetry which, by using it, we introduce into the
+laws of radiation. If we 159 accept the law of Dalton and Gay-Lussac,
+it follows that this result is independent of any peculiar properties
+in the air employed; and thus this measure has an additional character
+of generality and simplicity which make it still more probable that it
+is the true standard. This opinion is further supported by the
+attempts to include such facts in a theory; but before we can treat of
+such theories, we must speak of some other doctrines which have been
+introduced.
+Sect. 2.—Specific Heat.—Change of
+Consistence.
+In the attempts to obtain
+measures of heat, it was found that bodies had different capacities
+for heat; for the same quantity of heat, however measured, would
+raise, in different degrees, the temperature of different substances.
+The notion of different capacities for heat was thus introduced, and
+each body was thus assumed to have a specific capacity for
+heat, according to the quantity of heat which it required to raise
+it through a given scale of heat.35 The term
+“capacity for heat” was introduced by Dr. Irvine, a pupil of Dr.
+Black. For this term, Wilcke, the Swedish physicist, substituted
+“specific heat;” in analogy with “specific gravity.”
+35 See Crawford, On Heat, for
+the History of Specific Heat.
+It was found, also, that the capacity of the same substance was
+different in the same substance at different temperatures. It appears
+from experiments of MM. Dulong and Petit, that, in general, the
+capacity of liquids and solids increases as we ascend in the scale of
+temperature.
+But one of the most important thermotic facts is, that by the
+sudden contraction of any mass, its temperature is increased. This is
+peculiarly observable in gases, as, for example, common air. The
+amount of the increase of temperature by sudden condensation, or of
+the cold produced by sudden rarefaction, is an important datum,
+determining the velocity of sound, as we have already seen, and affecting many points of
+meteorology. The coefficient which enters the calculation in the
+former case depends on the ratio of two specific heats of air under
+different conditions; one belonging to it when, varying in density,
+the pressure is constant by which the air is contained; the other,
+when, varying in density, it is contained in a constant space.
+A leading fact, also, with regard to the operation of heat on
+bodies 160 is, that
+it changes their form, as it is often called, that is, their
+condition as solid, liquid, or air. Since the term “form” is employed
+in too many and various senses to be immediately understood when it is
+intended to convey this peculiar meaning, I shall use, instead of it,
+the term consistence, and shall hope to be excused, even when I
+apply this word to gases, though I must acknowledge such phraseology
+to be unusual. Thus there is a change of consistence when solids
+become liquid, or liquids gaseous; and the laws of such changes must
+be fundamental facts of our thermotical theories. We are still in the
+dark as to many of the laws which belong to this change; but one of
+them, of great importance, has been discovered, and to that we must
+now proceed.
+Sect. 3.—The Doctrine of Latent Heat.
+The Doctrine of Latent Heat
+refers to such changes of consistence as we have just spoken of. It is
+to this effect; that during the conversion of solids into liquids, or
+of liquids into vapors, there is communicated to the body heat which
+is not indicated by the thermometer. The heat is absorbed, or becomes
+latent; and, on the other hand, on the condensation of the
+vapor to a liquid, or the liquid to a solid consistency, this heat is
+again given out and becomes sensible. Thus a pound of ice requires
+twenty times as long a time, in a warm room, to raise its temperature
+seven degrees, as a pound of ice-cold water does. A kettle placed on a
+fire, in four minutes had its temperature raised to the boiling point,
+212°: and this temperature continued stationary for twenty minutes,
+when the whole was boiled away. Dr. Black inferred from these facts
+that a large quantity of heat is absorbed by the ice in becoming
+water, and by the water in becoming steam. He reckoned from the above
+experiments, that ice, in melting, absorbs as much heat as would raise
+ice-cold water through 140° of temperature: and that water, in
+evaporating, absorbs as much heat as would raise it through 940°.
+That snow requires a great quantity of heat to melt it; that water
+requires a great quantity of heat to convert it into steam; and that
+this heat is not indicated by a rise in the thermometer, are facts
+which it is not difficult to observe; but to separate these from all
+extraneous conditions, to group the cases together, and to seize upon
+the general law by which they are connected, was an effort of
+inductive insight, which has been considered, and deservedly, as one
+of the most striking 161 events in the modern history of physics.
+Of this step the principal merit appears to belong to Black.
+[2nd Ed.] [In the first edition I had mentioned the names of De Luc
+and of Wilcke, in connexion with the discovery of Latent Heat, along
+with the name of Black. De Luc had observed, in 1755, that ice, in
+melting, did not rise above the freezing-point of temperature till the
+whole was melted. De Luc has been charged with plagiarizing Black’s
+discovery, but, I think, without any just ground. In his Idées sur
+la Météorologique (1787), he spoke of Dr. Black as “the first who
+had attempted the determinations of the quantities of latent heat.”
+And when Mr. Watt pointed out to him that from this expression it
+might be supposed that Black had not discovered the fact itself, he
+acquiesced, and redressed the equivocal expression in an Appendix to
+the volume.36
+36 See his Letter to the
+Editors of the Edinburgh Review, No. xii. p. 502, of the
+Review.
+Black never published his own account of the doctrine of Latent
+Heat: but he delivered it every year after 1760 in his Lectures. In
+1770, a surreptitious publication of his Lectures was made by a London
+bookseller, and this gave a view of the leading points of Dr. Black’s
+doctrine. In 1772, Wilcke, of Stockholm, read a paper to the Royal
+Society of that city, in which the absorption of heat by melting ice
+is described; and in the same year, De Luc of Geneva published his
+Recherches sur les Modifications de l’Atmosphère, which has
+been alleged to contain the doctrine of latent heat, and which the
+author asserts to have been written in ignorance of what Black had
+done. At a later period, De Luc, adopting, in part. Black’s
+expression, gave the name of latent fire to the heat
+absorbed.37
+37 See Ed. Rev. No. vi. p.
+20.
+It appears that Cavendish determined the amount of heat produced by
+condensing steam, and by thawing snow, as early as 1765. He had
+perhaps already heard something of Black’s investigations, but did not
+accept his term “latent heat”.38]
+38 See Mr. V. Harcourt’s
+Address to the Brit. Assoc. in 1839, and the
+Appendix.
+The consequences of Black’s principle are very important, for upon
+it is founded the whole doctrine of evaporation; besides which, the
+principle of latent heat has other applications. But the relations of
+aqueous vapor to air are so important, and have been so long a 162 subject of
+speculation, that we may with advantage dwell a little upon them. The
+part of science in which this is done may be called, as we have said,
+Atmology; and to that division of Thermotics the following chapters
+belong.
+
+
+ATMOLOGY.
+</div></body></text></TEI>

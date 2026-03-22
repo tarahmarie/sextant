@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 157-158</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 157-158.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1844">25 November [24 November 1844]</date>
+          <note type="place">Bromfield</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 157-158</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_157-158.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Bromfield Sunday. 25th Novr.</p>
+      <p>Dearest Crow. This is certainly a most extraordinary domicile to visit at. It appears to me to be the most unorganized domestic system I ever saw.--</p>
+      <p>All seems to happen by chance in a manner. Two members of the family also are particularly little agreeable, &amp; have what I term a bar sinister about them;-- a something or other of a deep &amp; sinister reserve which is withering, viz: Miss Crosse, &amp; Mr Robert Crosse-- the 2nd son.</p>
+      <p>All this is just so much of a novel field for observation &amp;</p>
+      <p>analysis of the human atom; and as the interests of my avocations will doubtless oblige me at times to be more or less a guest in this dwelling, I am obliged to study how to fall into the circumstances for the time-being, in the most easy &amp; agreeable manner.</p>
+      <p>There is at least one very unusual &amp; agreeable circumstance. I am treated without let or hindrance, &amp; left to do exactly as I like.</p>
+      <p>Nobody thinks anything of me, or puts themselves out of their way concerning me.</p>
+      <p>This is just what I want. [two words crossed out] I am a nobody here; altho' treated with all proper &amp; necessary respect.</p>
+      <p>The eldest son is a frank &amp; cordial person; &amp; we</p>
+      <p>take to each other I think.</p>
+      <p>He has a mine of reading &amp; references in him, to me quite invaluable. Me he evidently regards more as he would a young man than as a fine lady. I do not mean to say that he is wanting in any point of manners due to a woman. Far from it; but the lady &amp; the woman are quite merged in his simple consciousness of the intellect &amp; pursuits. He addresses them, not Lady Lovelace.--</p>
+      <p>I have not much time to write, but I thought you would like to have what little I can.</p>
+      <p>I have been very unwell for 24 hours; but am better.</p>
+      <p>It was not of a kind that</p>
+      <p>signified, however, excepting to my own consciousness &amp; feelings, &amp; only temporary I believe.</p>
+      <p>The cold is quite deadening to all my activities, &amp; to all comfort of sensation.</p>
+      <p>It really takes away from me three parts of efficiency, &amp; of happiness.--</p>
+      <p>There is in Crosse the most utter lack of system, even in his Science. At least so it strikes me. I may be mistaken. Perhaps I don't see enough, as yet, to discover his system. He says himself that he is in unusual confusion &amp; transition-state.</p>
+      <p>I have quite a difficulty to get him to show me what I want. Nothing is ever ready. All chaos &amp; chance.--</p>
+    </div></body>
+  </text>
+</TEI>

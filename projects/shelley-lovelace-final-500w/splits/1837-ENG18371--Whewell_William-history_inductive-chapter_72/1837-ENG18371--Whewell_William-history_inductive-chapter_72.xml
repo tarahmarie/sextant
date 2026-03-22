@@ -1,0 +1,798 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="72">CHAPTER XI.
+Epoch of Young and Fresnel.
+
+Sect. 1.—Introduction.
+THE man whose name must occupy
+the most distinguished place in the history of Physical Optics, in
+consequence of what he did in reviving and establishing the undulatory
+theory of light, is Dr. Thomas Young. He was born in 1773, at
+Milverton in Somersetshire, of Quaker parents; and after
+distinguishing himself during youth by the variety and accuracy of his
+attainments, he settled in London as a physician in 1801; but
+continued to give much of his attention to general science. His
+optical theory, for a long time, made few proselytes; and several
+years afterwards, Auguste Fresnel, an eminent French mathematician, an
+engineer officer, took up similar views, proved their truth, and
+traced their consequences, by a series of labors almost independent of
+those of Dr. Young. It was not till the theory was thus re-echoed from
+another land, that it was able to take any strong hold on the
+attention of the countrymen of its earlier promulgator.
+The theory of undulations, like that of universal gravitation, may
+be divided into several successive steps of generalization. In both
+cases, all these steps were made by the same persons; but there is
+this difference:—all the parts of the law of universal
+gravitation were worked out in one burst of inspiration by its author,
+and published at one time;—in the doctrine of light, on the
+other hand, the different steps of the advance were made and published
+at separate times, with intervals between. We see the theory in a
+narrower form, and in detached portions, before the widest
+generalizations and principles of unity are reached; we see the
+authors struggling with the difficulties before we see them
+successful. They appear to us as men like ourselves, liable to
+perplexity and failure, instead of coming before us, as Newton does in
+the history of Physical Astronomy, as the irresistible and almost
+supernatural hero of a philosophical romance. 93
+The main subdivisions of the great advance in physical optics, of
+which we have now to give an account, are the following:—
+1. The explanation of the periodical colors of thin plates,
+thick plates, fringed shadows, striated surfaces, and other phenomena
+of the same kind, by means of the doctrine of the interference
+of undulations.
+2. The explanation of the phenomena of double refraction by
+the propagation of undulations in a medium of which the optical
+elasticity is different in different directions.
+3. The conception of polarization as the result of the
+vibrations being transverse; and the consequent explanation of
+the production of polarization, and the necessary connexion between
+polarization and double refraction, on mechanical principles.
+4. The explanation of the phenomena of dipolarization, by
+means of the interference of the resolved parts of the
+vibrations after double refraction.
+The history of each of these discoveries will be given separately
+to a certain extent; by which means the force of proof arising from
+their combination will be more apparent.
+Sect. 2.—Explanation of the
+Periodical Colors of Thin Plates and Shadows by the Undulatory
+Theory.
+The explanation of periodical
+colors by the principle of interference of vibrations, was the first
+step which Young made in his confirmation of the undulatory theory. In
+a paper on Sound and Light, dated Emmanuel College, Cambridge, 9th
+July, 1799, and read before the Royal Society in January following, he
+appears to incline strongly to the Huyghenian theory; not however
+offering any new facts or calculations in its favor, but pointing out
+the great difficulties of the Newtonian hypothesis. But in a paper
+read before the Royal Society, November 12, 1801, he says, “A further
+consideration of the colors of thin plates has converted that
+prepossession which I before entertained for the undulatory theory of
+light, into a very strong conviction of its truth and efficiency; a
+conviction which has since been most strikingly confirmed by an
+analysis of the colors of striated surfaces.” He here states the
+general principle of interferences in the form of a proposition.
+(Prop. viii.) “When two undulations from different origins coincide
+either perfectly or very nearly in direction, their joint effect is a
+combination of the motions belonging to them.” He explains, by the
+help of this proposition, the colors which were observed in Coventry’s
+94 micrometers, in
+which instrument lines were drawn on glass at a distance of 1⁄500th of
+an inch. The interference of the undulations of the rays reflected
+from the two sides of these fine lines, produced periodical colors. In
+the same manner, he accounts for the colors of thin plates, by the
+interference of the light partially reflected from the two surfaces of
+the plates. We have already seen that Hooke
+had long before suggested the same explanation; and Young says at the
+end of his paper, “It was not till I had satisfied myself respecting
+all these phenomena, that I found in Hooke’s Micrographia a
+passage which might have led me earlier to a similar opinion.” He also
+quotes from Newton many passages which assume the existence of an
+ether; of which, as we have already seen,
+Newton suggests the necessity in these very phenomena, though he would
+apply it in combination with the emission of material light. In July,
+1802, Young explained, on the same principle, some facts in indistinct
+vision, and other similar appearances. And in 1803,75 he speaks more positively still. “In
+making,” he says, “some experiments on the fringes of colors
+accompanying shadows, I have found so simple and so demonstrative a
+proof of the general law of interference of two portions of light,
+which I have already endeavored to establish, that I think it right to
+lay before the Royal Society a short statement of the facts which
+appear to me to be thus decisive.” The two papers just mentioned
+certainly ought to have convinced all scientific men of the truth of
+the doctrine thus urged; for the number and exactness of the
+explanations is very remarkable. They include the colored fringes
+which are seen with the shadows of fibres; the colors produced by a
+dew between two pieces of glass, which, according to the theory,
+should appear when the thickness of the plate is six times
+that of thin plates, and which do so; the changes resulting from the
+employment of other fluids than water; the effect of inclining the
+plates; also the fringes and bands which accompany shadows, the
+phenomena observed by Grimaldi, Newton, Maraldi, and others, and
+hitherto never at all reduced to rule. Young observes, very justly,
+“whatever may be thought of the theory, we have got a simple and
+general law” of the phenomena. He moreover calculated the length of an
+undulation from the measurements of fringes of shadows, as he had done
+before from the colors of thin plates; and found a very close
+accordance of the results of the various cases with one another.
+75 Phil. Trans. Memoir, read
+Nov. 24.
+95 There is one
+difficulty, and one inaccuracy, in Young’s views at this period, which
+it may be proper to note. The difficulty was, that he found it
+necessary to suppose that light, when reflected at a rarer medium, is
+retarded by half an undulation. This assumption, though often urged at
+a later period as an argument against the theory, was fully justified
+as the mechanical principles of the subject were unfolded; and the
+necessity of it was clear to Young from the first. On the strength of
+this, says he, “I ventured to predict, that if the reflections were of
+the same kind, made at the surfaces of a thin plate, of a density
+intermediate between the densities of the mediums surrounding it, the
+central spot would be white; and I have now the pleasure of stating,
+that I have fully verified this prediction by interposing a drop of
+oil of sassafras between a prism of flint-glass and a lens of
+crown-glass.”
+The inaccuracy of his calculations consisted in his considering the
+external fringe of shadows to be produced by the interference of a ray
+reflected from the edge of the object, with a ray
+which passes clear of it; instead of supposing all the parts
+of the wave of light to corroborate or interfere with one another. The
+mathematical treatment of the question on the latter hypothesis was by
+no means easy. Young was a mathematician of considerable power in the
+solution of the problems which came before him: though his methods
+possessed none of the analytical elegance which, in his time, had
+become general in France. But it does not appear that he ever solved
+the problem of undulations as applied to fringes, with its true
+conditions. He did, however, rectify his conceptions of the nature of
+the interference; and we may add, that the numerical error of the
+consequences of the defective hypothesis is not such as to prevent
+their confirming the undulatory theory.76
+76 I may mention, in addition to the
+applications which Young made of the principle of interferences, his
+Eriometer, an instrument invented for the purpose of measuring
+the thickness of the fibres of wood; and the explanation of the
+supernumerary bands of the rainbow. These explanations involve
+calculations founded on the length of an undulation of light, and were
+confirmed by experiment, as far as experiment went.
+But though this theory was thus so powerfully recommended by
+experiment and calculation, it met with little favor in the scientific
+world. Perhaps this will be in some measure accounted for, when we
+come, in the next chapter, to speak of the mode
+of its reception by 96 the supposed judges of science and
+letters. Its author went on laboring at the completion and application
+of the theory in other parts of the subject; but his extraordinary
+success in unravelling the complex phenomena of which we have been
+speaking, appears to have excited none of the notice and admiration
+which properly belonged to it, till Fresnel’s Memoir On
+Diffraction was delivered to the Institute, in October, 1815.
+MM. Arago and Poinsot were commissioned to make a report upon this
+Memoir; and the former of these philosophers threw himself upon the
+subject with a zeal and intelligence which peculiarly belonged to him.
+He verified the laws announced by Fresnel: “laws,” he says, “which
+appear to be destined to make an epoch in science.” He then cast a
+rapid glance at the history of the subject, and recognized, at once,
+the place which Young occupied in it. Grimaldi, Newton, Maraldi, he
+states, had observed the facts, and tried in vain to reduce them to
+rule or cause. “Such77 was the state of our knowledge on this
+difficult question, when Dr. Thomas Young made the very remarkable
+experiment which is described in the Philosophical Transactions
+for 1803;” namely, that to obliterate all the bands within the shadow,
+we need only stop the ray which is going to graze, or has grazed, one
+border of the object. To this, Arago added the important observation,
+that the same obliteration takes place, if we stop the ray, with a
+transparent plate; except the plate be very thin, in which case the
+bands are displaced, and not extinguished. “Fresnel,” says he,
+“guessed the effect which a thin plate would produce, when I had told
+him of the effect of a thick glass.” Fresnel himself declares78 that he was not, at the time, aware of
+Young’s previous labors. After stating nearly the same reasonings
+concerning fringes which Young had put forward in 1801, he adds, “it
+is therefore the meeting, the actual crossing of the rays, which
+produces the fringes. This consequence, which is only, so to speak,
+the translation of the phenomena, seems to me entirely opposed to the
+hypothesis of emission, and confirms the system which makes light
+consist in the vibrations of a peculiar fluid.” And thus the Principle
+of Interferences, and the theory of undulations, so far as that
+principle depends upon the theory, was a second time established by
+Fresnel in France, fourteen years after it had been discovered, fully
+proved, and repeatedly published by Young in England.
+77 An. Chim. 1815, Febr.
+78 Ib. tom. xvii. p. 402.
+97 In this Memoir
+of Fresnel’s, he takes very nearly the same course as Young had done;
+considering the interference of the direct light with that reflected
+at the edge, as the cause of the external fringes; and he observes,
+that in this reflection it is necessary to suppose half an undulation
+lost: but a few years later, he considered the propagation of
+undulations in a more true and general manner, and obtained the
+solution of this difficulty of the half-undulation. His more complete
+Memoir on Diffraction was delivered to the Institute of France,
+July 29, 1818; and had the prize awarded it in 1819:79 but by the delays which at that period
+occurred in the publication of the Parisian Academical
+Transactions, it was not published80 till 1826, when
+the theory was no longer generally doubtful or unknown in the
+scientific world. In this Memoir, Fresnel observes, that we must
+consider the effect of every portion of a wave of light upon
+a distant point, and must, on this principle, find the illumination
+produced by any number of such waves together. Hence, in general, the
+process of integration is requisite; and though the integrals which
+here offer themselves are of a new and difficult kind, he succeeded in
+making the calculation for the cases in which he experimented. His
+Table of the Correspondences of Theory and Observation,81 is very remarkable for the closeness of
+the agreement; the errors being generally less than one hundredth of
+the whole, in the distances of the black bands. He justly adds, “A
+more striking agreement could not be expected between experiment and
+theory. If we compare the smallness of the differences with the extent
+of the breadths measured; and if we remark the great variations which
+a and b (the distance of the object from the luminous
+point and from the screen) have received in the different
+observations, we shall find it difficult not to regard the integral
+which has led us to these results as the faithful expression of the
+law of the phenomena.”
+79 Ann. Chim. May, 1819.
+80 Mém. Inst. for
+1821–2.
+81 Mém. Inst. p.
+420–424.
+A mathematical theory, applied, with this success, to a variety of
+cases of very different kinds, could not now fail to take strong hold
+of the attention of mathematicians; and accordingly, from this time,
+the undulatory doctrine of diffraction has been generally assented to,
+and the mathematical difficulties which it involves, have been duly
+studied and struggled with.
+Among the remarkable applications of the undulatory doctrine to
+diffraction, we may notice those of Joseph Fraunhofer, a 98 mathematical optician
+of Munich. He made a great number of experiments on the shadows
+produced by small holes, and groups of small holes, very near each
+other. These were published82 in his New Modifications of
+Light, in 1823. The greater part of this Memoir is employed in
+tracing the laws of phenomena of the extremely complex and splendid
+appearances which he obtained; but at the conclusion he observes, “It
+is remarkable that the laws of the reciprocal influence and of the
+diffraction of the rays, can be deduced from the principles of the
+undulatory theory: knowing the conditions, we may, by means of an
+extremely simple equation, determine the extent of a luminous wave for
+each of the different colors; and in every case, the calculation
+corresponds with observation.” This mention of “an extremely simple
+equation,” appears to imply that he employed only Young’s and
+Fresnel’s earlier mode of calculating interferences, by considering
+two portions of light, and not the method of integration. Both from
+the late period at which they were published, and from the absence of
+mathematical details, Fraunhofer’s labors had not any strong influence
+on the establishment of the undulatory theory; although they are
+excellent verifications of it, both from the goodness of the
+observations, and the complexity and beauty of the phenomena.
+82 In Schumacher’s Astronomische
+Abhandlungen, in French; earlier in German.
+We have now to consider the progress of the undulatory theory in
+another of its departments, according to the division already
+stated.
+Sect. 3.—Explanation of Double Refraction by the
+Undulatory Theory.
+We have traced the history of
+the undulatory theory applied to diffraction, into the period when
+Young came to have Fresnel for his fellow-laborer. But in the mean
+time, Young had considered the theory in its reference to other
+phenomena, and especially to those of double refraction.
+In this case, indeed, Huyghens’s explanation of the facts of
+Iceland spar, by means of spheroidal undulations, was so complete, and
+had been so fully confirmed by the measurements of Haüy and Wollaston,
+that little remained to be done, except to connect the Huyghenian
+hypothesis with the mechanical views belonging to the theory, and to
+extend his law to other cases. The former part of this task Young
+executed, by remarking that we may conceive the elasticity of
+the 99 crystal, on
+which the velocity of propagation of the luminiferous undulation
+depends, to be different, in the direction of the crystallographic
+axis, and in the direction of the planes at right angles to this axis;
+and from such a difference, he deduces the existence of spheroidal
+undulations. This suggestion appeared in the Quarterly Review
+for November, 1809, in a critique upon an attempt of Laplace to
+account for the same phenomena. Laplace had proposed to reduce the
+double refraction of such crystals as Iceland spar, to his favorite
+machinery of forces which are sensible at small distances only. The
+peculiar forces which produce the effect in this case, he conceives to
+emanate from the crystallographic axis: so that the velocity of light
+within the crystal will depend only on the situation of the ray with
+respect to this axis. But the establishment of this condition is, as
+Young observes, the main difficulty of the problem. How are we to
+conceive refracting forces, independent of the surface of the
+refracting medium, and regulated only by a certain internal line?
+Moreover, the law of force which Laplace was obliged to assume,
+namely, that it varied as the square of the sine of the angle which
+the ray made with the axis, could hardly be reconciled with mechanical
+principles. In the critique just mentioned, Young appears to feel that
+the undulatory theory, and perhaps he himself, had not received
+justice at the hands of men of science; he complains that a person so
+eminent in the world of science as Laplace then was, should employ his
+influence in propagating error, and should disregard the extraordinary
+confirmations which the Huyghenian theory had recently received.
+The extension of this view, of the different elasticity of crystals
+in different directions, to other than uniaxal crystals, was a more
+complex and difficult problem. The general notion was perhaps obvious,
+after what Young had done; but its application and verification
+involved mathematical calculations of great generality, and required
+also very exact experiments. In fact, this application was not made
+till Fresnel, a pupil of the Polytechnic School, brought the resources
+of the modern analysis to bear upon the problem;—till the
+phenomena of dipolarized light presented the properties of biaxal
+crystals in a vast variety of forms;—and till the theory
+received its grand impulse by the combination of the explanation of
+polarization with the explanation of double refraction. To the history
+of this last-mentioned great step we now proceed. 100
+Sect. 4.—Explanation of Polarization by the
+Undulatory Theory.
+Even while the only phenomena
+of polarization which were known were those which affect the
+two images in Iceland spar, the difficulty which these facts seemed at
+first to throw in the way of the undulatory theory was felt and
+acknowledged by Young. Malus’s discovery of polarization by reflection
+increased the difficulty, and this Young did not attempt to conceal.
+In his review of the papers containing this discovery83 he says, “The discovery related in
+these papers appears to us to be by far the most important and
+interesting which has been made in France concerning the properties of
+light, at least since the time of Huyghens; and it is so much the more
+deserving of notice, as it greatly influences the general balance of
+evidence in the comparison of the undulatory and projectile theories
+of the nature of light.” He then proceeds to point out the main
+features in this comparison, claiming justly a great advantage for the
+theory of undulations on the two points we have been considering, the
+phenomena of diffraction and of double refraction. And he adds, with
+reference to the embarrassment introduced by polarization, that we are
+not to expect the course of scientific discovery to run smooth and
+uninterrupted; but that we are to lay our account with partial
+obscurity and seeming contradiction, which we may hope that time and
+enlarged research will dissipate. And thus he steadfastly held, with
+no blind prejudice, but with unshaken confidence, his great
+philosophical trust, the fortunes of the undulatory theory. It is
+here, after the difficulties of polarization had come into view, and
+before their solution had been discovered, that we may place the
+darkest time of the history of the theory; and at this period Young
+was alone in the field.
+83 Quart. Rev. May, 1810.
+It does not appear that the light dawned upon him for some years.
+In the mean time, Young found that his theory would explain
+dipolarized colors; and he had the satisfaction to see Fresnel
+re-discover, and M. Arago adopt, his views on diffraction. He became
+engaged in friendly intercourse with the latter philosopher, who
+visited him in England in 1816. On January the 12th, 1817, in writing
+to this gentleman, among other remarks on the subject of optics, he
+says, “I have also been reflecting on the possibility of giving an
+imperfect explanation of the affection of light which constitutes
+polarization, 101
+without departing from the genuine doctrine of undulation.” He then
+proceeds to suggest the possibility of “a transverse
+vibration, propagated in the direction of the radius, the motions of
+the particles being in a certain constant direction with respect to
+that radius; and this,” he adds, “is polarization.” From his
+further explanation of his views, it appears that he conceived the
+motions of the particles to be oblique to the direction of the ray,
+and not perpendicular, as the theory was afterwards framed; but still,
+here was the essential condition for the explanation of the facts of
+polarization,—the transverse nature of the vibrations. This idea
+at once made it possible to conceive how the rays of light could have
+sides; for the direction in which the vibration was transverse
+to the ray, might be marked by peculiar properties. And after the idea
+was once started, it was comparatively easy for men like Young and
+Fresnel to pursue and modify it till it assumed its true and distinct
+form.
+We may judge of the difficulty of taking firmly hold of the
+conception of transverse vibrations of the ether, as those which
+constitute light, by observing how long the great philosophers of whom
+we are speaking lingered within reach of it, before they ventured to
+grasp it. Fresnel says, in 1821, “When M. Arago and I had remarked (in
+1816) that two rays polarized at right angles always give the same
+quantity of light by their union, I thought this might be explained by
+supposing the vibrations to be transverse, and to be at right angles
+when the rays are polarized at right angles. But this supposition was
+so contrary to the received ideas on the nature of the vibrations of
+elastic fluids,” that Fresnel hesitated to adopt it till he could
+reconcile it better to his mechanical notions. “Mr. Young, more bold
+in his conjectures, and less confiding in the views of geometers,
+published it before me, though perhaps he thought it after me.” And M.
+Arago was afterwards wont to relate84 that when he and
+Fresnel had obtained their joint experimental results of the
+non-interference of oppositely-polarized pencils, and when Fresnel
+pointed out that transverse vibrations were the only possible
+translation of this fact into the undulatory theory, he himself
+protested that he had not courage to publish such a conception; and
+accordingly, the second part of the Memoir was published in Fresnel’s
+name alone. What renders this more remarkable is, that it occurred
+when M. Arago had in his possession the very letter of Young, in which
+he proposed the same suggestion.
+84 I take the liberty of stating this
+from personal knowledge.
+102 Young’s
+first published statement of the doctrine of transverse vibrations was
+given in the explanation of the phenomena of dipolarization, of which
+we shall have to speak in the next Section. But
+the primary and immense value of this conception, as a step in the
+progress of the undulatory theory, was the connexion which it
+established between polarization and double refraction; for it held
+forth a promise of accounting for polarization, if any conditions
+could be found which might determine what was the direction of the
+transverse vibrations. The analysis of these conditions is, in a great
+measure, the work of Fresnel; a task performed with profound
+philosophical sagacity and great mathematical skill.
+Since the double refraction of uniaxal crystals could be explained
+by undulations of the form of a spheroid, it was perhaps not difficult
+to conjecture that the undulations of biaxal crystals would be
+accounted for by undulations of the form of an ellipsoid, which
+differs from the spheroid in having its three axes unequal, instead of
+two only; and consequently has that very relation to the other, in
+respect of symmetry, which the crystalline and optical phenomena have.
+Or, again, instead of supposing two different degrees of elasticity in
+different directions, we may suppose three such different degrees in
+directions at right angles to each other. This kind of generalization
+was tolerably obvious to a practised mathematician.
+But what shall call into play all these elasticities at once, and
+produce waves governed by each of them? And what shall explain the
+different polarization of the rays which these separate waves carry
+with them? These were difficult questions, to the solution of which
+mathematical calculation had hitherto been unable to offer any
+aid.
+It was here that the conception of transverse vibrations came in,
+like a beam of sunlight, to disclose the possibility of a mechanical
+connexion of all these facts. If transverse vibrations, travelling
+through a uniform medium, come to a medium not uniform, but
+constituted so that the elasticity shall be different in different
+directions, in the manner we have described, what will be the course
+and condition of the waves in the second medium? Will the effects of
+such waves agree with the phenomena of doubly-refracted light in
+biaxal crystals? Here was a problem, striking to the mathematician for
+its generality and difficulty, and of deep interest to the physical
+philosopher, because the fate of a great theory depended upon its
+solution.
+The solution, obtained by great mathematical skill, was laid before
+the French Institute by Fresnel in November, 1821, and was carried
+103 further in two
+Memoirs presented in 1822. Its import is very curious. The undulations
+which, coming from a distant centre, fall upon such a medium as we
+have described, are, it appears from the principles of mechanics,
+propagated in a manner quite different from anything which had been
+anticipated. The “surface of the waves” (that is, the surface which
+would bound undulations diverging from a point), is a very complex,
+yet symmetrical curve surface; which, in the case of uniaxal crystals,
+resolves itself into a sphere and a spheroid; but which, in general,
+forms a continuous double envelope of the central point to which it
+belongs, intersecting itself and returning into itself. The directions
+of the rays are determined by this curve surface in biaxal crystals,
+as in uniaxal crystals they are determined by the sphere and the
+spheroid; and the result is, that in biaxal crystals, both
+rays suffer extraordinary refraction according to determinate
+laws. And the positions of the planes of polarization of the two rays
+follow from the same investigation; the plane of polarization in every
+case being supposed to be that which is perpendicular to the
+transverse vibrations. Now it appeared that the polarization of the
+two rays, as determined by Fresnel’s theory, would be in directions,
+not indeed exactly accordant with the law deduced by M. Biot from
+experiment, but deviating so little from those directions, that there
+could be small doubt that the empirical formula was wrong, and the
+theoretical one right.
+The theory was further confirmed by an experiment showing that, in
+a biaxal crystal (topaz), neither of the rays was refracted according
+to the ordinary law, though it had hitherto been supposed that one of
+them was so; a natural inaccuracy, since the error was small.85 Thus this beautiful theory corrected,
+while it explained, the best of the observations which had previously
+been made; and offered itself to mathematicians with an almost
+irresistible power of conviction. The explanation of laws so strange
+and diverse as those of double refraction and polarization, by the
+same general and symmetrical theory, could not result from anything
+but the truth of the theory.
+85 An. Ch. xxviii. p.
+264.
+“Long,” says Fresnel,86 “before I had conceived this theory, I
+had convinced myself by a pure contemplation of the facts, that it was
+not possible to discover the true explanation of double refraction,
+without explaining, at the same time, the phenomena of polarization,
+which always goes along with it; and accordingly, it was after having
+found 104 what mode
+of vibration constituted polarization, that I caught sight of the
+mechanical causes of double refraction.”
+86 Sur la Double Réf., Mém.
+Inst. 1826, p. 174.
+Having thus got possession of the principle of the mechanism of
+polarization, Fresnel proceeded to apply it to the other cases of
+polarized light, with a rapidity and sagacity which reminds us of the
+spirit in which Newton traced out the consequences of the principle of
+universal gravitation. In the execution of his task, indeed, Fresnel
+was forced upon several precarious assumptions, which make, even yet,
+a wide difference between the theory of gravitation and that of light.
+But the mode in which these were confirmed by experiment, compels us
+to admire the happy apparent boldness of the calculator.
+The subject of polarization by reflection was one of those
+which seemed most untractable; but, by means of various artifices and
+conjectures, it was broken up and subdued. Fresnel began with the
+simplest case, the reflection of light polarized in the plane of
+reflection; which he solved by means of the laws of collision of
+elastic bodies. He then took the reflection of light polarized
+perpendicularly to this plane; and here, adding to the general
+mechanical principles a hypothetical assumption, that the
+communication of the resolved motion parallel to the refracting
+surface, takes place according to the laws of elastic bodies, he
+obtains his formula. These results were capable of comparison with
+experiment; and the comparison, when made by M. Arago, confirmed the
+formulæ. They accounted, too, for Sir D. Brewster’s law concerning the
+polarizing angle (see Chap. vi.); and this
+could not but be looked upon as a striking evidence of their having
+some real foundation. Another artifice which MM. Fresnel and Arago
+employed, in order to trace the effect of reflection upon common
+light, was to use a ray polarized in a plane making half a right angle
+with the plane of reflection; for the quantities of the oppositely87 polarized light in such an incident ray
+are equal, as they are in common light; but the relative quantities of
+the oppositely polarized light in the reflected ray are indicated by
+the new plane of polarization; and thus these relative quantities
+become known for the case of common light. The results thus obtained
+were also confirmed by facts; and in this manner, all that was
+doubtful in the process of Fresnel’s reasoning, seemed to be
+authorized by its application to real cases.
+87 It will be recollected all along,
+that oppositely polarized rays are those which are polarized
+in two planes perpendicular to each other. See above, chap. vi.
+105 These
+investigations were published88 in 1821. In
+succeeding years, Fresnel undertook to extend the application of his
+formulæ to a case in which they ceased to have a meaning, or, in the
+language of mathematicians, became imaginary; namely, to the
+case of internal reflection at the surface of a transparent body. It
+may seem strange to those who are not mathematicians, but it is
+undoubtedly true, that in many cases in which the solution of a
+problem directs impossible arithmetical or algebraical operations to
+be performed, these directions may be so interpreted as to point out a
+true solution of the question. Such an interpretation Fresnel
+attempted89 in the case of which we now speak; and
+the result at which he arrived was, that the reflection of light
+through a rhomb of glass of a certain form (since called Fresnel’s
+rhomb, would produce a polarization of a kind altogether different
+from those which his theory had previously considered, namely, that
+kind which we have spoken of as circular polarization. The
+complete confirmation of this curious and unexpected result by trial,
+is another of the extraordinary triumphs which have distinguished the
+history of the theory at every step since the commencement of
+Fresnel’s labors.
+88 An. Chim. t. xvii.
+89 Bullet. des Sc. Feb.
+1823.
+But anything further which has been done in this way, may be
+treated of more properly in relating the verification of the theory.
+And we have still to speak of the most numerous and varied class of
+facts to which rival theories of light were applied, and of the
+establishment of the undulatory doctrine in reference to that
+department; I mean the phenomena of depolarized, or rather, as I have
+already said, dipolarized light.
+Sect. 5.—Explanation of
+Dipolarization by the Undulatory Theory.
+When Arago, in 1811, had
+discovered the colors produced by polarized light passing through
+certain crystals,90 it was natural that attempts should be
+made to reduce them to theory. M. Biot, animated by the success of
+Malus in detecting the laws of double refraction, and Young, knowing
+the resources of his own theory, were the first persons to enter upon
+this undertaking. M. Biot’s theory, though in the end displaced by its
+rival, is well worth notice in the history of the subject. It was what
+he called the doctrine of moveable polarization. He conceived
+that when the molecules of light pass through 106 thin crystalline plates, the plane of
+polarization undergoes an oscillation which carries it backwards and
+forwards through a certain angle, namely, twice the angle contained
+between the original plane of polarization and the principal section
+of the crystal. The intervals which this oscillation occupies are
+lengths of the path of the ray, very minute, and different for
+different colors, like Newton’s fits of easy transmission; on which
+model, indeed, the new theory was evidently framed.91 The colors produced in the phenomena of
+dipolarization really do depend, in a periodical manner, on the length
+of the path of the light through the crystal, and a theory such as M.
+Biot’s was capable of being modified, and was modified, so as to
+include the leading features of the facts as then known; but many of
+its conditions being founded on special circumstances in the
+experiments, and not on the real conditions of nature, there were in
+it several incongruities, as well as the general defect of its being
+an arbitrary and unconnected hypothesis.
+90 See chap.
+ix.
+91 See MM. Arago and Biot’s Memoirs,
+Mém. Inst. for 1811; the whole volume for 1812 is a Memoir of
+M. Biot’s (published 1814); also Mém. Inst. for 1817; M. Biot’s
+Mem. read in 1818, published in 1819 and for 1818.
+Young’s mode of accounting for the brilliant phenomena of
+dipolarization appeared in the Quarterly Review for 1814. After
+noticing the discoveries of MM. Arago, Brewster, and Biot, he adds,
+“We have no doubt that the surprise of these gentlemen will be as
+great as our own satisfaction in finding that they are perfectly
+reducible, like other causes of recurrent colors, to the general laws
+of the interference of light which have been established in this
+country;” giving a reference to his former statements. The results are
+then explained by the interference of the ordinary and extraordinary
+ray. But, as M. Arago properly observes, in his account of this
+matter,92 “It must, however, be added that Dr.
+Young had not explained either in what circumstances the interference
+of the rays can take place, nor why we see no colors unless the
+crystallized plates are exposed to light previously polarized.” The
+explanation of these circumstances depends on the laws of interference
+of polarized light which MM. Arago and Fresnel established in 1816.
+They then proved, by direct experiment, that when polarized light was
+treated so as to bring into view the most marked phenomena of
+interference, namely, the bands of shadows; pencils of light which
+have a common origin, and which are polarized in the parallel planes,
+interfere completely, while those which are 107 polarized in opposite (that is,
+perpendicular,) planes do not interfere at all.93 Taking these
+principles into the account, Fresnel explained very completely, by
+means of the interference of undulations, all the circumstances of
+colors produced by crystallized plates; showing the necessity of the
+polarization in the first instance; the dipolarizing
+effect of the crystal; and the office of the analysing plate,
+by which certain portions of each of the two rays in the crystal are
+made to interfere and produce color. This he did, as he says,94 without being aware, till Arago told
+him, that Young had, to some extent, anticipated him.
+92 Enc. Brit. Supp. art.
+Polarization.
+93 Ann. Chim. tom. x.
+94 Ib. tom. xvii. p. 402.
+When we look at the history of the emission-theory of light, we see
+exactly what we may consider as the natural course of things in the
+career of a false theory. Such a theory may, to a certain extent,
+explain the phenomena which it was at first contrived to meet; but
+every new class of facts requires a new supposition,—an addition
+to the machinery; and as observation goes on, these incoherent
+appendages accumulate, till they overwhelm and upset the original
+frame-work. Such was the history of the hypothesis of solid epicycles;
+such has been the history of the hypothesis of the material emission
+of light. In its simple form, it explained reflection and refraction;
+but the colors of thin plates added to it the hypothesis of fits of
+easy transmission and reflection; the phenomena of diffraction further
+invested the particles with complex hypothetical laws of attraction
+and repulsion; polarization gave them sides; double refraction
+subjected them to peculiar forces emanating from the axes of crystals;
+finally, dipolarization loaded them with the complex and unconnected
+contrivance of moveable polarization; and even when all this had been
+assumed, additional mechanism was wanting. There is here no unexpected
+success, no happy coincidence, no convergence of principles from
+remote quarters; the philosopher builds the machine, but its parts do
+not fit; they hold together only while he presses them: this is not
+the character of truth.
+In the undulatory theory, on the other hand, all tends to unity and
+simplicity. We explain reflection and refraction by undulations; when
+we come to thin plates, the requisite “fits” are already involved in
+our fundamental hypothesis, for they are the length of an undulation;
+the phenomena of diffraction also require such intervals; and the
+intervals thus required agree exactly with the others in magnitude,
+108 so that no new
+property is needed. Polarization for a moment checks us; but not long;
+for the direction of our vibrations is hitherto arbitrary;—we
+allow polarization to decide it. Having done this for the sake of
+polarization, we find that it also answers an entirely different
+purpose, that of giving the law of double refraction. Truth may give
+rise to such a coincidence; falsehood cannot. But the phenomena become
+more numerous, more various, more strange; no matter: the Theory is
+equal to them all. It makes not a single new physical hypothesis; but
+out of its original stock of principles it educes the counterpart of
+all that observation shows. It accounts for, explains, simplifies, the
+most entangled cases; corrects known laws and facts; predicts and
+discloses unknown ones; becomes the guide of its former teacher,
+Observation; and, enlightened by mechanical conceptions, acquires an
+insight which pierces through shape and color to force and cause.
+We thus reach the philosophical moral of this history, so
+important in reference to our purpose; and here we shall close the
+account of the discovery and promulgation of the undulatory theory.
+Any further steps in its development and extension, may with propriety
+be noticed in the ensuing chapters, respecting its reception and
+verification.
+[2nd Ed.] [In the Philosophy of the Inductive Sciences, B.
+xi. ch. iii. Sect. 11, I have spoken of the Consilience of
+Inductions as one of the characters of scientific truth. We have
+several striking instances of such consilience in the history of the
+undulatory theory. The phenomena of fringes of shadows and colored
+bands in crystals jump together in the Theory of Vibrations.
+The phenomena of polarization and double refraction jump
+together in the Theory of Crystalline Vibrations. The phenomena
+of polarization and of the interference of polarized rays jump
+together in the Theory of Transverse Vibrations.
+The proof of what is above said of the undulatory theory is
+contained in the previous history. This theory has “accounted for,
+explained, and simplified the most entangled cases;” as the cases of
+fringes of shadows; shadows of gratings; colored bands in biaxal
+crystals, and in quartz. There are no optical phenomena more entangled
+than these. It has “corrected experimental laws,” as in the case of M.
+Biot’s law of the direction of polarization in biaxal crystals. It has
+done this, “without making any new physical hypothesis;” for the
+transverse direction of vibrations, the different optical elasticities
+of crystals in different directions, and (if it be adopted) the
+hypothesis of finite 109 intervals of the particles (see chap. x. and hereafter, chap.
+xiii.), are only limitations of what was indefinite in the earlier
+form of the hypothesis. And so far as the properties of visible
+radiant light are concerned, I do not think it at all too much to say,
+as M. Schwerd has said, that “the undulation theory accounts for the
+phenomena as completely as the theory of gravitation does for the
+facts of the solar system.”
+This we might say, even if some facts were not yet fully explained;
+for there were till very lately, if there are not still, such
+unexplained facts with regard to the theory of gravitation, presented
+to us by the solar system. With regard to the undulatory theory, these
+exceptions are, I think, disappearing quite as rapidly and as
+completely as in the case of gravitation. It is to be observed that no
+presumption against the theory can with any show of reason be
+collected from the cases in which classes of phenomena remain
+unexplained, the theory having never been applied to them by any
+mathematician capable of tracing its results correctly. The history of
+the theory of gravitation may show us abundantly how necessary it is
+to bear in mind this caution; and the results of the undulatory theory
+cannot be traced without great mathematical skill and great labor, any
+more than those of gravitation.
+This remark applies to such cases as that of the transverse
+fringes of grooved surfaces. The general phenomena of these cases
+are perfectly explained by the theory. But there is an interruption in
+the light in an oblique direction, which has not yet been explained;
+but looking at what has been done in other cases, it is impossible to
+doubt that this phenomenon depends upon the results of certain
+integrations, and would be explained if these were rightly
+performed.
+The phenomena of crystallized surfaces, and especially their
+effects upon the plane of polarization, were examined by Sir D.
+Brewster, and laws of the phenomena made out by him with his usual
+skill and sagacity. For a time these were unexplained by the theory.
+But recently Mr. Mac Cullagh has traced the consequences of the theory
+in this case,95 and obtained a law which represents
+with much exactness, Sir D. Brewster’s observation.
+95 Prof. Lloyd’s Report, Brit.
+Assoc. 1834, p. 374.
+The phenomena which Sir D. Brewster, in 1837, called a new
+property of light, (certain appearances of the spectrum when the
+pupil of the eye is half covered with a thin glass or crystal,) have
+been explained by Mr. Airy in the Phil. Trans. for 1840.
+Mr. Airy’s explanation of the phenomena termed by Sir D. 110 Brewster a new
+property of light, is completed in the Philosophical
+Magazine for November, 1846. It is there shown that a dependence
+of the breadth of the bands upon the aperture of the pupil, which had
+been supposed to result from the theory, and which does not appear in
+the experiment, did really result from certain limited conditions of
+the hypothesis, which conditions do not belong to the experiment; and
+that when the problem is solved without those limitations, the
+discrepance of theory and observation vanishes; so that, as Mr. Airy
+says, “this very remarkable experiment, which long appeared
+inexplicable, seems destined to give one of the strongest
+confirmations to the Undulatory Theory.”
+I may remark also that there is no force in the objection which has
+been urged against the admirers of the undulatory theory, that by the
+fulness of their assent to it, they discourage further researches
+which may contradict or confirm it. We must, in this point of view
+also, look at the course of the theory of gravitation and its results.
+The acceptance of that theory did not prevent mathematicians and
+observers from attending to the apparent exceptions, but on the
+contrary, stimulated them to calculate and to observe with additional
+zeal, and still does so. The acceleration of the Moon, the mutual
+disturbances of Jupiter and Saturn, the motions of Jupiter’s
+Satellites, the effect of the Earth’s oblateness on the Moon’s motion,
+the motions of the Moon about her own centre, and many other
+phenomena, were studied with the greater attention, because
+the general theory was deemed so convincing: and the same cause makes
+the remaining exceptions objects of intense interest to astronomers
+and mathematicians. The mathematicians and optical experimenters who
+accept the undulatory theory, will of course follow out their
+conviction in the same manner. Accordingly, this has been done and is
+still doing, as in Mr. Airy’s mathematical investigation of the effect
+of an annular aperture; Mr. Earnshaw’s, of the effect of a triangular
+aperture; Mr. Talbot’s explanation of the effect of interposing a film
+of mica between a part of the pupil and the pure spectrum, so nearly
+approaching to the phenomena which have been spoken of as a new
+Polarity of Light; besides other labors of eminent mathematicians,
+elsewhere mentioned in these pages.
+The phenomena of the absorption of light have no especial
+bearing upon the undulatory theory. There is not much difficulty in
+explaining the possibility of absorption upon the theory.
+When the light is absorbed, it ceases to belong to the theory. 111
+For, as I have said, the theory professes only to explain the
+phenomena of radiant visible light. We know very well that
+light has other bearings and properties. It produces chemical effects.
+The optical polarity of crystals is connected with the chemical
+polarity of their constitution. The natural colors of bodies, too, are
+connected with their chemical constitution. Light is also connected
+with heat. The undulatory theory does not undertake to explain these
+properties and their connexion. If it did, it would be a Theory of
+Heat and of Chemical Composition, as well as a Theory of Light.
+Dr. Faraday’s recent experiments have shown that the magnetic
+polarity is directly connected with that optical polarity by which the
+plane of polarization is affected. When the lines of magnetic force
+pass through certain transparent bodies, they communicate to them a
+certain kind of circular polarizing power; yet different from the
+circular polarizing power of quartz, and certain fluids mentioned in
+chapter ix.
+Perhaps I may be allowed to refer to this discovery as a further
+illustration of the views I have offered in the Philosophy of the
+Inductive Sciences respecting the Connexion of Co-existent
+Polarities. (B. v. Chap. ii.)]
+</div></body></text></TEI>

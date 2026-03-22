@@ -1,0 +1,79 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Philosophy of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="54">
+
+CHAPTER II.
+Application of the Idea of Symmetry to Crystals.
+
+
+
+1. MINERALS and other bodies of definite chemical composition often exhibit that marked
+regularity of form and structure which we designate
+by terming them Crystals; and in such crystals, when
+we duly study them, we perceive the various kinds of
+symmetry of which we have spoken in the previous
+chapter. And the different kinds of symmetry which
+we have there described are now usually distinguished
+from each other, by writers on crystallography. Indeed
+it is mainly to such writers that we are indebted for
+a sound and consistent classification of the kinds and
+degrees of symmetry of which forms are capable. But
+this classification was by no means invented as soon as
+mineralogists applied themselves to the study of crystals. These first attempts to arrange crystalline forms
+were very imperfect; those, for example, of Linnæus,
+Werner, Romé de Lisle, and Haüy. The essays of
+these writers implied a classification at once defective
+and superfluous. They reduced all crystals to one or
+other of certain fundamental forms; and this procedure might have been a perfectly good method of
+dividing crystalline forms into classes, if the fundamental forms had been selected so as to exemplify the
+different kinds of symmetry. But this was not the
+case. Haüy’s fundamental or ‘primitive’ forms, were,
+for instance, the following: the parallelepiped, the
+octahedron, the tetrahedron, the regular hexagonal
+prism, the rhombic dodecahedron, and the double hexagonal pyramid. Of these, the octahedron, the tetrahedron, the rhombic dodecahedron, all belong to the 76 same kind of symmetry (the tessular systems); also
+the hexagonal prism and the hexagonal pyramid both
+belong to the rhombic system; while the parallelepiped
+is so employed as to include all kinds of symmetry.
+It is, however, to be recollected that Haüy, in his
+selection of primitive forms, not only had an eye to
+the external form of the crystal and to its degree and
+kind of regularity, but also made his classification
+with an especial reference to the cleavage of the mineral, which he considered as a primary element in
+crystalline analysis. There can be no doubt that the
+cleavage of a crystal is one of its most important characters: it is a relation of form belonging to the
+interior, which is to be attended to no less than the
+form of the exterior. But still, the cleavage is to be
+regarded only as determining the degree of geometrical
+symmetry of the body, and not as defining a special
+geometrical figure to which the body must be referred.
+To have looked upon it in the latter light, was a mistake of the earlier crystallographic speculators, on
+which we shall shortly have to remark.
+2. I have said that the reference of crystals to Primitive Forms might have been well employed as a
+mode of expressing a just classification of them. This
+follows as a consequence from the application of the
+Principle stated in the last chapter, that all symmetrical members are alike affected. Thus we may take an
+upright triangular prism as the representative of the
+rhombic system, and if we then suppose one of the
+upper edges to be cut off, or truncated, we must, by
+the Principle of Symmetry, suppose the other two
+upper edges to be truncated in precisely the same
+manner. By this truncation we may obtain the upper
+part of a rhombohedron; and by truncations of the
+same kind, symmetrically affecting all the analogous
+parts of the figure, we may obtain any other form
+possessing three-membered symmetry. And the same
+is true of any of the other kinds of symmetry, provided we make a proper selection of a fundamental
+form. And this was really the method employed
+by Demeste, Werner, and Romé de Lisle. They 77 assumed a Primitive Form, and then conceived other
+forms, such as they found in nature, to be derived
+from the Primitive Form by truncation of the edges,
+acumination of the corners, and the like processes.
+This mode of conception was a perfectly just and legitimate expression of the general Idea of Symmetry.
+3. The true view of the degrees of symmetry was,
+as I have already said, impeded by the attempts which
+Haüy and others made to arrive at primitive forms by
+the light which cleavage was supposed to throw upon
+the structure of minerals. At last, however, in Germany, as I have narrated in the History of Mineralogy4,
+Weiss and Mohs introduced a classification of forms
+implying a more philosophical principle, dividing the
+forms into Systems; which, employing the terms of
+the latter writer, we shall call the tessular, the pyramidal or square pyramidal, the prismatic or oblong,
+and the rhombohedral systems.</div></body></text></TEI>

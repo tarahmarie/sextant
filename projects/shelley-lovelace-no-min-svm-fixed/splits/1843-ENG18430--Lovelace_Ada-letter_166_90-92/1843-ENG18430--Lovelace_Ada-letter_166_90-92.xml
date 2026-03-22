@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 90-92</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 90-92.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1843">undated [21 October 1843]</date>
+          <note type="place">Clifton</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 90-92</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_90-92.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Clifton Satdy Evening 7 o'clock</p>
+      <p>Dearest W. I did not write yesterday, as the Hen did, &amp; as I was much occupied. I suppose I shall hear from Kraemer tomorrow. I shall not send him my second letter, until I get his first.</p>
+      <p>I am doing well on the whole. The period has suddenly returned today, after having entirely disappeared during 2 days. In one respect this is (I fancy) a good sign. It</p>
+      <p>may be only coincidence, but whenever there have been these sudden returns at times for 8 or 10 days after its regular duration, I have always noticed that I am free for several months afterwards. Last time, at Ashley, when it occurred 3 or 4 weeks ago, there was no such irregular return. This may be accidental; but it is worth observing.</p>
+      <p>My dear, I am charmed with a fine expedition we have had today, &amp; from which I have but just returned. The only drawback was that we longed for our corvus the crow. However as it is ordained that corvus must &amp; shall see it all, I had all the more pleasure in exploring &amp;</p>
+      <p>in getting the scenery-lesson by heart for his benefit. We must stop at Clevedon Station &amp; take up the next train at Nailsea. The district in question lies between those two points, &amp; about 2 miles inland from the Rail, all around Brackley &amp; Cleve. The various coup-d'oeils are very striking, &amp; embrace a greater variety of simultaneous beauties &amp; remarkable points of view, than even I (who am no tyro in scenery) could have conceived. It is too, wholly unlike all I have been used to in the West. More of the Matlock genus. Great grey limestone Tors. Three hours walking between Clevedon &amp; Nailsee will be, my</p>
+      <p>dear, a delight to ou.</p>
+      <p>You must also see Redcliffe Church at Bristol. Luckily it is near the station. I have, I think, seldom admired architecture to such a degree; &amp; I find it is considered the finest (or one of the finest) specimens of ancient parochial church architecture in England. Unhappily the steeple was destroyed some time ago. They talk however of restoring it, if they had funds.</p>
+      <p>I have much still to see. We talk of Tintern Abbey &amp; Chepstow, too.</p>
+      <p>The Hen has engaged me (if you do not fear my joining the grouse, &amp; being no more heard of) to take me to the</p>
+      <p>Scotch Highlands next year, the end of Sepr.</p>
+      <p>She seems delighted with my hearty spirit of enterprise, activity, &amp;c, &amp; the delight I take in everything.</p>
+      <p>We think you might come with us perhaps to Scotland, &amp; return in a week or two, leaving me to be a wild wandering avis for a longer time, if you did not like remaining away long.</p>
+      <p>The Hen is too tired to write, she desires me to say.</p>
+      <p>The Bird is let out of her cage every morning my Dear, &amp; is often turned out to shift for herself, &amp; to pick up crumbs &amp;c as she best may, until dark. The Hen always feels sure that the</p>
+      <p>little creature will return sooner or later, or that if not it would only be that she had found her way back to her mate. She is very tame, altho' of a species inclined to flights &amp; migration.</p>
+      <p>The enclosed is a disappointment to me, altho' on your account I am very glad indeed. Pray keep the Crosses as long as you possibly can persuade them to stay.</p>
+      <p>I will send you De la Rive's letter tomorrow.</p>
+      <p>Pray send me some more bird-diagrams &amp; addresses. I delight in them.</p>
+    </div></body>
+  </text>
+</TEI>

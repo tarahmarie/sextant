@@ -1,0 +1,180 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="8">CHAPTER III.
+Earliest Stages of Harmonics.
+AMONG the ancients, the
+science of Music was an application of Arithmetic, as Optics and
+Mechanics were of Geometry. The story which is told concerning the
+origin of their arithmetical music, is the following, as it stands in
+the Arithmetical Treatise of Nicomachus.
+Pythagoras, walking one day, meditating on the means of measuring
+musical notes, happened to pass near a blacksmith’s shop, and had his
+attention arrested by hearing the hammers, as they struck the anvil,
+produce the sounds which had a musical relation to each other. On
+listening further, he found that the intervals were a Fourth, a Fifth,
+and an Octave; and on weighing the hammers, it appeared that the one
+which gave the Octave was one-half the heaviest, the one which
+gave the Fifth was two-thirds, and the one which gave the
+Fourth was three-quarters. He returned home, reflected upon
+this phenomenon, made trials, and finally discovered, that if he
+stretched musical strings of equal lengths, by weights which have the
+proportion of one-half, two-thirds, and three-fourths, they produced
+intervals which were an Octave, a Fifth, and a Fourth. This
+observation gave an arithmetical measure of the principal Musical
+Intervals, and made Music an arithmetical subject of speculation.
+This story, if not entirely a philosophical fable, is undoubtedly
+inaccurate; for the musical intervals thus spoken of would not be
+produced by striking with hammers of the weights there stated. But it
+is true that the notes of strings have a definite relation to the
+forces which stretch them; and this truth is still the groundwork of
+the theory of musical concords and discords.
+Nicomachus says that Pythagoras found the weights to be, as I have
+mentioned, in the proportion of 12, 6, 8, 9; and the intervals, an
+Octave, corresponding to the proportion 12 to 6, or 2 to 1; a Fifth,
+corresponding to the proportion 12 to 8, or 3 to 2; and a Fourth,
+corresponding to the proportion 12 to 9, or 4 to 3. There is no doubt
+that this statement of the ancient writer is inexact as to the
+physical fact, for the rate of vibration of a string, on which its
+note depends, is, 106 other things being equal, not as the
+weight, but as the square root of the weight. But he is right as to
+the essential point, that those ratios of 2 to 1, 3 to 2, and 4 to 3,
+are the characteristic ratios of the Octave, Fifth, and Fourth. In
+order to produce these intervals, the appended weights must be, not as
+12, 9, 8, and 6, but as 12, 6¾, 5⅓, and 3.
+The numerical relations of the other intervals of the musical
+scale, as well as of the Octave, Fifth, and Fourth, were discovered by
+the Greeks. Thus they found that the proportion in a Major Third was 5
+to 4; in a Minor Third, 6 to 5; in a Major Tone, 9 to 8; in a Semitone
+or Diesis, 16 to 15. They even went so far as to determine the
+Comma, in which the interval of two notes is so small that they
+are in the proportion of 81 to 80. This is the interval between two
+notes, each of which may be called the Seventeenth above the
+key-note;—the one note being obtained by ascending a Fifth four
+times over; the other being obtained by ascending through two Octaves
+and a Major Third. The want of exact coincidence between these two
+notes is an inherent arithmetical imperfection in the musical scale,
+of which the consequences are very extensive.
+The numerical properties of the musical scale were worked out to a
+very great extent by the Greeks, and many of their Treatises on this
+subject remain to us. The principal ones are the seven authors
+published by Meibomius.2 These arithmetical elements of Music are
+to the present day important and fundamental portions of the Science
+of Harmonics.
+2 Antiquæ Musicæ Scriptores
+septem, 1652.
+It may at first appear that the truth, or even the possibility of
+this history, by referring the discovery to accident, disproves our
+doctrine, that this, like all other fundamental discoveries, required
+a distinct and well-pondered Idea as its condition. In this, however,
+as in all cases of supposed accidental discoveries in science, it will
+be found, that it was exactly the possession of such an Idea which
+made the accident possible.
+Pythagoras, assuming the truth of the tradition, must have had an
+exact and ready apprehension of those relations of musical sounds,
+which are called respectively an Octave, a Fifth, and a Fourth. If he
+had not been able to conceive distinctly this relation, and to
+apprehend it when heard, the sounds of the anvil would have struck his
+ears to no more purpose than they did those of the smiths themselves.
+He 107 must have
+had, too, a ready familiarity with numerical ratios; and, moreover
+(that in which, probably, his superiority most consisted), a
+disposition to connect one notion with the other—the musical
+relation with the arithmetical, if it were found possible. When the
+connection was once suggested, it was easy to devise experiments by
+which it might be confirmed.
+“The philosophers of the Pythagorean School,3 and in particular,
+Lasus of Hermione, and Hippasus of Metapontum, made many such
+experiments upon strings; varying both their lengths and the weights
+which stretched them; and also upon vessels filled with water, in a
+greater or less degree.” And thus was established that connection of
+the Idea with the Fact, which this Science, like all others,
+requires.
+3 Montucla, iii. 10.
+
+I shall quit the Physical Sciences of Ancient Greece, with the
+above brief statement of the discovery of the fundamental principles
+which they involved; not only because such initial steps must always
+be the most important in the progress of science, but because, in
+reality, the Greeks made no advances beyond these. There took place
+among them no additional inductive processes, by which new facts were
+brought under the dominion of principles, or by which principles were
+presented in a more comprehensive shape than before. Their advance
+terminated in a single stride. Archimedes had stirred the intellectual
+world, but had not put it in progressive motion: the science of
+Mechanics stopped where he left it. And though, in some objects, as in
+Harmonics, much was written, the works thus produced consisted of
+deductions from the fundamental principles, by means of arithmetical
+calculations; occasionally modified, indeed, by reference to the
+pleasures which music, as an art, affords, but not enriched by any new
+scientific truths.
+[3d Ed.] We should, however, quit the philosophy of the ancient
+Greeks without a due sense of the obligations which Physical Science
+in all succeeding ages owes to the acute and penetrating spirit in
+which their inquiries in that region of human knowledge were
+conducted, and to the large and lofty aspirations which were
+displayed, even in their failure, if we did not bear in mind both the
+multifarious and comprehensive character of their attempts, and some
+of the causes which limited their progress in positive science. They
+speculated and 108
+theorized under a lively persuasion that a Science of every part of
+nature was possible, and was a fit object for the exercise of man’s
+best faculties; and they were speedily led to the conviction that such
+a science must clothe its conclusions in the language of mathematics.
+This conviction is eminently conspicuous in the writings of Plato. In
+the Republic, in the Epinomis, and above all in the
+Timæus, this conviction makes him return, again and again, to a
+discussion of the laws which had been established or conjectured in
+his time, respecting Harmonics and Optics, such as we have seen, and
+still more, respecting Astronomy, such as we shall see in the next
+Book. Probably no succeeding step in the discovery of the Laws of
+Nature was of so much importance as the full adoption of this
+pervading conviction, that there must be Mathematical Laws of Nature,
+and that it is the business of Philosophy to discover these Laws. This
+conviction continues, through all the succeeding ages of the history
+of science, to be the animating and supporting principle of scientific
+investigation and discovery. And, especially in Astronomy, many of the
+erroneous guesses which the Greeks made, contain, if not the germ, at
+least the vivifying life-blood, of great truths, reserved for future
+ages.
+Moreover, the Greeks not only sought such theories of special parts
+of nature, but a general Theory of the Universe. An essay at such a
+theory is the Timæus of Plato; too wide and too ambitious an
+attempt to succeed at that time; or, indeed, on the scale on which he
+unfolds it, even in our time; but a vigorous and instructive example
+of the claim which man’s Intellect feels that it may make to
+understand the universal frame of things, and to render a reason for
+all that is presented to it by the outward senses.
+Further; we see in Plato, that one of the grounds of
+the failure in this attempt, was the assumption that the reason
+why every thing is what it is and as it is, must be that so it is
+best, according to some view of better or worse attainable by
+man. Socrates, in his dying conversation, as given in the
+Phædo, declares this to have been what he sought in the
+philosophy of his time; and tells his friends that he turned away from
+the speculations of Anaxagoras because they did not give him such
+reasons for the constitution of the world; and Plato’s Timæus
+is, in reality, an attempt to supply this deficiency, and to present a
+Theory of the Universe, in which every thing is accounted for by such
+reasons. Though this is a failure, it is a noble as well as an
+instructive failure.   ~Additional material in the 3rd edition.~ 
+
+
+BOOK III.
+
+HISTORY
+OF
+GREEK ASTRONOMY.
+
+Τόδε δὲ μηδείς ποτε φοβηθῇ τῶν Ἑλλήνων, ὡς οὐ χρὴ περὶ τὰ θεῖα ποτὲ
+πραγματεύεσθαι θνητοὺς ὄντας· πᾶν δε τούτου διανοηθῆναι τοὐναντίον, ὡς
+οὔτε ἄφρον ἔστι ποτὲ τὸ θεῖον, οὔτε ἀγνοεῖ που τὴν ἀνθρωπίνην φυσιν·
+ἀλλ’ οἶδεν ὅτι, διδάσκοντος αὐτοῦ, ξυνακολουθήσει καὶ μαθήσεται τὰ
+διδάσκομενα.—Plato, Epinomis, p.
+988.
+Nor should any Greek have any misgiving of this kind; that it is
+not fitting for us to inquire narrowly into the operations of Superior
+Powers, such as those by which the motions of the heavenly bodies are
+produced: but, on the contrary, men should consider that the Divine
+Powers never act without purpose, and that they know the nature of
+man: they know that by their guidance and aid, man may follow and
+comprehend the lessons which are vouchsafed him on such
+subjects.
+</div></body></text></TEI>

@@ -1,0 +1,1162 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Zoonomia Vol II</title><author>Darwin, Erasmus (1731-1802)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1796</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="5">ZOONOMI� AUCTORI
+S.P.D.
+AMICUS.
+
+
+CURRUS TRIUMPHALIS MEDICIN�.
+
+
+
+
+Currus it Hygei�, Medicus movet arma triumphans,
+Undique victa fugit lurida turma mali.——
+Laurea dum Phœbi viridis tua tempora cingit,
+Nec mortale sonans Fama coronat opus;
+Post equitat trepidans, repetitque Senectus in aurem,
+Voce canens stridul�, "sis memor ipse mori!"
+
+
+
+
+
+INDEX OF THE CLASSES.
+
+
+A.
+
+
+Abortion, i. 2. 1. 14.
+—— from fear, iv. 3. 1. 7.
+—— not from epilepsy, iii. 1. 1. 7.
+—— not from hepatitis, ii. 1. 2. 12.
+Absorption of solids, i. 2. 2. 14.
+—— of matter, ii. 1. 6. 2. and 6.
+—— cellular, iv. 1. 1. 6.
+—— from the lungs, iv. 3. 1. 5. Suppl. i. 8. 6.
+Abstinence of young ladies, ii. 2. 2. 1.
+Accumulation of feces, ii. 2. 2. 7.
+Acupuncture, iii. 1. 1. 8.
+Adipsia, ii. 2. 2. 2.
+�gritudo ventriculi, i. 2. 4. 4.
+—— See Sickness.
+Agrypnia. See Vigilia.
+Ague-cakes, Suppl. i. 2. 3.
+Alum in ulcers of the mouth, ii. 1. 3. 1.
+Ambition, iii. 1. 2. 9.
+Amaurosis, i. 2. 5. 5.
+Anasarca of the lungs, i. 2. 3. 16.
+Anger, iii. 1. 2. 17.
+Anger, tremor of, iv. 2. 3. 4.
+—— blush of, iv. 2. 3. 5.
+Angina. See Tonsillitis.
+—— pectoris. See Asthma painful.
+Anhelitus, ii. 1. 1. 4.
+Anhelatio spasmodica, i. 3. 3. 3.
+Annulus repens, ii. 1. 5. 10.
+Anorexia, ii. 2. 2. 1.
+—— maniacalis, Suppl. i. 14. 3.
+—— epileptica, ii. 2. 2. 1. iii. 1. 1. 7.
+Apepsia, i. 3. 1. 3. Suppl. i. 8. 11.
+Aphtha, ii. 1. 3. 17.
+Apoplexy, iii. 2. 1. 16.
+Appetite defective, ii. 2. 2. 1.
+—— depraved, iii. 1. 2. 19.
+—— from abstinence, ii. 2. 2. 1.
+—— destroyed, iii. 1. 2. 20.
+—— from epilepsy, ii. 2. 2. 1.
+Arm, pain of, iv. 2. 2. 13.
+—— palsy of, iii. 2. 1. 4.
+Arsenic in tooth-ach, i. 2. 4. 12.
+—— in head-ach, i. 2. 4. 11.
+Arthrocele, ii. 1. 4. 17.
+Arthropuosis, ii. 1. 4. 18.
+Arthritis. See Gout.
+Ascarides, i. 1. 4. 12. iv. 1. 2. 9.
+Ascites, i. 2. 3. 13.
+Associations affected four ways, iv. 1. 1. G.
+—— how produced, iv. 1. 1. H.
+—— distinct from catenations, iv. 1. 1. A.
+—— three kinds of, iv. 1. 1. B.
+—— tertian, iv. 1. 1. K.
+—— of the fauces and pubis, iv. 1. 2. 7.
+—— sensitive, a law of, iv. 2. 2. 2.
+—— sensitive iv. 2. 1.
+—— accumulates, Suppl. i. 8. 3. i. 11. 4.
+Asthma humoral, ii. 1. 1. 7. i. 3. 2. 8.
+—— of infants, i. 1. 3. 4.
+—— convulsive, iii. 1. 1. 10.
+—— painful, iii. 1. 1. 11.
+Auditus acrior, i. 1. 5. 2.
+—— imminutus, i. 2. 5. 6.
+Azote, Suppl. i. 9. 3. i. 11. 6.
+
+
+B.
+
+
+Bandages, ill effect of, ii. 1. 1. 12.
+—— promote absorption, i. 1. 3. 13.
+Bath, cold, i. 2. 2. 1.
+—— warm, Addit. vii.
+Beauty, iii. 1. 2. 4.
+—— loss of, iii. 1. 2. 12.
+Bile-duct, pain of, iv. 2. 2. 4.
+Bile crystalized, i. 1. 3. 8.
+Bitter taste, i. 1. 3. 1.
+—— not from bile, i. 1. 3. 1.
+Bleeding. See H�morrhage.
+Bladder, distention of, ii. 2. 2. 6.
+—— stone of, i. 1. 3. 10.
+—— catarrh of, ii. 1. 4. 11.
+Blindness, i. 2. 5. 5.
+Blush of anger, iv. 2. 3. 5. Suppl. i. 12. 7.
+—— of guilt, iv. 2. 3. 6. Suppl. i. 12. 7.
+Bones, innutrition of, i. 2. 2. 14.
+—— caries of, ii. 1. 4. 19.
+Borborigmus, i. 3. 1. 9.
+Bougies, ii. 1. 4. 11.
+Brachiorum paralysis, iii. 2. 1. 4.
+Brain stimulated, Suppl. i. 16. 9.
+Bronchocele, i. 2. 3. 20.
+Burns, i. 1. 3. 13.
+Butterflies, experiment on, i. 1. 2. 3.
+
+
+C.
+
+
+Cacositia, iii. 1. 2. 20.
+Calculi productio, i. 1. 3. 9. ii. 1. 2. 14.
+—— renis, i. 1. 3. 9. iv. 2. 3. 3.
+—— vesic�, i. 1. 3. 10. iv. 2. 2. 2.
+Callico shirts, i. 1. 2. 3.
+Callus, i. 2. 2. 12.
+Canities. See Hair grey.
+Calor febrilis, i. 1. 2. 1.
+Calves fed on gruel, i. 1. 2. 5.
+—— hydatides of, i. 2. 5. 4.
+Cancer, ii. 1. 4. 16. ii. 1. 6. 13.
+Cantharides, large dose of, iv. 2. 2. 2.
+Carbonic acid gas, Suppl. i. 9. 3.
+Cardialgia, i. 2. 4. 5.
+Carcinoma, ii. 1. 4. 16. ii. 1. 6. 13.
+Caries ossium, ii. 1. 4. 19.
+Cataract, i. 2. 2. 13.
+Catarrh, warm, i. 1. 2. 7.
+—— cold, i. 2. 3. 3.
+—— lymphatic, i. 3. 2. 1.
+—— sensitive, ii. 1. 3. 5.
+—— epidemic, ii. 1. 3. 6.
+—— of dogs and horses, ii. 1. 3. 6.
+—— from cold skin, iv. 1. 1. 5.
+—— periodic, iv. 3. 4. 1.
+Catamenia, i. 2. 1. 11. iv. 2. 4. 7.
+Catalepsis, iii. 2. 1. 9.
+Cats, mumps of, ii. 1. 3. 4.
+Cephal�a frigida, i. 2. 4. 11. iv. 2. 2. 7.
+Charcoal tooth-powder, i. 2. 4. 12.
+Cheek, torpor of, iv. 2. 2. 1.
+Chicken pox, ii. 1. 3. 15.
+Chin-cough, ii. 1. 3. 8.
+Child-bed fever, ii. 1. 6. 16.
+Children, new born, ii. 1. 1. 12.
+—— gripes and purging of, i. 1. 2. 5.
+Chlorosis, i. 2. 3. 10. Suppl. i. 8. 11.
+Chorea St. Viti, iv. 2. 3. 2.
+Citta, iii. 1. 2. 19.
+Clamor, iii. 1. 1. 3.
+Clavicular animals, ii. 1. 2. 6.
+Clavus hystericus, iv. 2. 2. 8.
+Claudicatio coxaria, i. 2. 2. 17.
+Cold in the head. See Catarrh.
+Colic, flatulent, i. 2. 4. 7.
+—— from lead, i. 2. 4. 8.
+—— hysteric, i. 2. 4. 7. iii. 1. 1. 8.
+Cold air in fevers, iii. 2. 1. 12. iv. 2. 4. 11.
+—— effects of, iii. 2. 1. 17.
+—— how to be used, iv. 1. 1. 4.
+Compassion, iii. 1. 2. 24.
+Consumption, ii. 1. 6. 7.
+Convulsion, iii. 1. 1. 5.
+—— weak, iii. 1. 1. 5.
+—— from bad air, iii. 1. 1. 5.
+—— painful, iii. 1. 1. 6. iv. 2. 4. 5.
+Consternation, i. 1. 5. 11.
+Constipation, i. 1. 3. 5. ii. 2. 2. 7.
+Contagious matter of two kinds, ii. 1. 3.
+—— is oxygenated, ii. 1. 5.
+—— produces fever, how, Suppl. i. 16. 7.
+Cornea to perforate, i. 1. 3. 14.
+—— scars of seen on milk, i. 1. 3. 14.
+Corpulency, i. 2. 3. 17.
+Coryza. See Catarrh.
+Costiveness, i. 1. 3. 5. ii. 2. 2. 7.
+Cough of drunkards, ii. 1. 1. 5.
+—— hooping, ii. 1. 3. 8.
+—— hepatic, iv. 2. 1. 8.
+—— gouty, iv. 2. 1. 9.
+—— periodic, iv. 2. 4. 6. iv. 3. 4. 2.
+—— from cold feet, iv. 2. 1. 7.
+Cows, pestilence of, ii. 1. 3. 13.
+—— bloody urine of, ii. 1. 3. 13.
+Cramp, iii. 1. 1. 13.
+—— painful, iii. 1. 1. 14.
+—— in diarrhœa, iv. 1. 2. 10.
+Crab-lice, i. 1. 4. 14.
+Credulity, iii. 2. 2. 3.
+Crines novi, i. 1. 2. 15.
+Croup, i. 1. 3. 4. ii. 1. 2. 4. ii. 1. 3. 3.
+Crusta lactea, ii. 1. 5. 12.
+Cutis arida, i. 1. 3. 6.
+Cynanche. See Tonsillitis.
+—— parotid�a. See Parotitis.
+
+
+D.
+
+
+Darkness in fevers, i. 2. 5. 3.
+Deafness, two kinds of, i. 2. 5. 6.
+Debility, three kinds of, i. 2. 1.
+—— and strength metaphors, i. 2. 1.
+Decussation of nerves, iii. 2. 1. 10.
+Deglutition, ii. 1. 1. 1.
+—— involuntary, iv. 1. 3. 1.
+Dentition, i. 1. 4. 5.
+Dentium dolor a stridore, iv. 1. 2. 3.
+Descent of the uterus, i. 1. 4. 8.
+Diabetes, i. 3. 2. 6.
+—— foul tongue in, i. 1. 3. 1.
+—— irritative, iv. 3. 1. 1.
+—— from fear, iv. 3. 1. 3.
+Diarrhœa warm, i. 1. 2. 5.
+—— of infants, i. 1. 2. 5.
+—— lymphatic, i. 3. 2. 4.
+—— chyliferous, i. 3. 2. 5.
+—— cold, i. 2. 3. 6.
+—— rheumatic, iv. 1. 2. 16.
+—— from fear, iv. 3. 1. 4.
+—— from toothing, iv. 2. 2. 14.
+—— in fevers, Suppl. i. 2. 4.
+—— cure of, iv. 1. 1. f.
+Digestion increased by cold, iv. 1. 1. 4.
+—— decreased by cold, iv. 2. 1. 6.
+Dilirium febrile, ii. 1. 7. 1.
+—— of drunkenness, ii. 1. 7. 3.
+—— maniacal, ii. 1. 7. 2.
+—— in parotitis, iv. 1. 2. 19.
+Diluents, use of, ii. 1. 2. 1.
+Distention of the nipples, ii. 1. 7. 10. iv. 1. 2. 7.
+Diuretics useless in dropsy, i. 1. 3. 7.
+Dizziness. See Vertigo.
+Dogs, catarrh of, ii. 1. 3. 6.
+Dolor digiti sympathet, iv. 2. 2. 12.
+—— ductus choledochi, iv. 2. 2. 4.
+—— humeri in hepatitide, iv. 2. 2. 9.
+—— pharyngis ab acido, iv. 2. 2. 5.
+—— testium nephriticus, iv. 2. 2. 11.
+—— urens, i. 1. 5. 10.
+Dracunculus, i. 1. 4. 13.
+Dreams, ii. 1. 7. 4.
+Dropsy of the brain, i. 2. 3. 12.
+—— of the belly, i. 2. 3. 13.
+—— of the chest, i. 2. 3. 14.
+—— of the ovary, i. 2. 3. 15.
+—— of the lungs, i. 2. 3. 16.
+—— of the scrotum, i. 2. 3. 11.
+Dysentery, ii. 1. 3. 18.
+Dysmenorrhagia, i. 2. 1. 12.
+Dyspnœa from cold bath, iv. 2. 1. 5.
+—— rheumatica, iv. 1. 2. 16.
+Dyspepsia, i. 3. 1. 3.
+—— a frigore, iv. 2. 1. 6.
+Dysuria insensitiva, ii. 2. 2. 6.
+
+
+E.
+
+
+Ears, discharge behind, i. 1. 2. 9.
+—— noise in them, iv. 2. 1. 15.
+Ear-ach, iv. 2. 2. 8.
+Ebrietas, i. 1. 1. 2.
+Education, iii. 2. 1. 8. iii. 1. 2. 24.
+—— heroic, iii. 1. 2. 25.
+Egg boiled for inflamed eyes, ii. 1. 4. 1.
+—— boiled soonest, Suppl. i. 7.
+—— life of, iv. 1. 4. 1.
+Electric shocks, iv. 1. 4. 5.
+Electrized zinc and silver, i. 2. 5. 5.
+—— in paralysis, ii. 1. 1. 9.
+—— in scrophula, i. 2. 3. 21.
+—— in hoarseness, iii. 2. 1. 5.
+Empyema, ii. 1. 6. 4.
+Enteralgia rheumatica, iv. 1. 2. 16.
+Enteritis, ii. 1. 2. 11.
+—— superficialis, ii. 1. 3. 20.
+Epilepsy, iii. 1. 1. 7. iv. 3. 1. 6.
+—— painful, iii. 1. 1. 8. iv. 2. 4. 4.
+—— terminates with sleep, iii. 1. 1.
+—— in parturition, iii. 1. 1. 7.
+—— with indigestion, ii. 2. 2. 1.
+Epistaxis. See H�morraghia.
+Epoulosis. See Cicatrix.
+Erotomania, iii. 1. 2. 4.
+Eructation, voluntary, iv. 3. 3. 3.
+Eruption of small-pox, iv. 1. 2. 12. iv. 2. 2. 10.
+Erysipelas, iv. 1. 2. 17. ii. 1. 3. 2. iv. 2. 4. 10.
+—— seldom suppurates, why, ii. 1. 3. 2.
+Esuries, i. 2. 4. 2.
+Evil, i. 2. 3. 21.
+Expectoration, warm, i. 1. 2. 8.
+—— solid, i. 1. 3. 4.
+—— cold, i. 2. 3. 4.
+Exsudation behind the ears, i. 1. 2. 9.
+Eyes, blue under the, i. 2. 2. 2. ii. 1. 4. 4.
+Eyelid inverted, cure of, ii. 1. 1. 8.
+—— coloured with antimony, ii. 1. 4. 3.
+
+
+F.
+
+
+Face, pimpled, ii. 1. 4. 6.
+—— red after meals, Suppl. i. 12. 7.
+—— flushed after dinner, iv. 1. 1. 1.
+Fat people why short breathed, ii. 1. 1. 4.
+Fear, syncope from, i. 2. 1. 4.
+—— abortion from, iv. 3. 1. 7.
+—— produces absorption, ii. 1. 6. 4.
+—— paleness in, iv. 3. 1. 5.
+—— of death, iii. 1. 2. 14.
+—— of hell, iii. 1. 2. 15.
+—— of poverty, iii. 1. 2. 13.
+Feet cold produces heartburn. Suppl. i. 8. 5.
+—— fetid, i. 1. 2. 14.
+—— cold in small-pox, iv. 2. 2. 10.
+Fevers, five kinds, ii. 1. 2. Suppl. i. 1. 2.
+—— irritative, i. 1. 1. 1. iv. 1. 1. 8.
+—— inirritative, i. 2. 1. 1. iv. 2. 1. 19. Suppl. i. 1. 2.
+—— sensitive, ii. 1. 6. 1.
+—— sensitive irritated, ii. 1. 2. 1.
+—— sensitive inirritated, ii. 1. 3. 1.
+—— intermit, why, Suppl. i.
+—— continue, why, Suppl. i.
+—— periods of, iv. 2. 4. 11.
+—— simple, Suppl. i. 1.
+—— compound, Suppl. i. 2.
+—— termination of cold fit, Suppl. i. 3.
+—— return of cold fit, Suppl. i. 4.
+—— sensation in, Suppl. i. 5.
+—— circles of motions in, Suppl. i. 6.
+—— cold and hot fits, Suppl. i. 7.
+—— continued, Suppl. i. 8.
+—— torpor of lungs in, Suppl. i. 9. 1.
+—— not determinable in cold fit, i. 1. 1. 1.
+—— frequency of pulse in, i. 1. 1. 1.
+—— not an effort to cure, i. 1. 2. 3.
+—— puerperal, ii. 1. 6. 16. i. 2. 4. 9.
+—— from inclosed matter, ii. 1. 6. 2.
+—— from aerated matter, ii. 1. 6. 6.
+—— from contagious matter, ii. 1. 6. 11.
+—— from contagious sanies, ii. 1. 6. 15.
+—— torpor of the stomach, Suppl. i. 12.
+—— case of, Suppl. i. 13.
+—— termination of, Suppl. i. 14.
+—— inflammation excited, Suppl. i. 15.
+—— returns of, Suppl. i. 4.
+—— when cold air in, Suppl. i. 2. 2.
+—— sympathetic, theory of, Suppl. i.
+—— duration of explained, Suppl. i. 2. 5.
+Fingers, playing with, iv. 1. 3. 4.
+—— pain of, iv. 2. 2. 12.
+Fish live longer with injured brain, i. 2. 5. 10.
+Fistula in ano, ii. 1. 4. 10.
+—— lacrymalis, ii. 1. 4. 9.
+—— urethra, ii. 1. 4. 11.
+Flannel shirt in diarrhœa, iv. 1. 1. 3.
+—— injurious in summer, i. 1. 2. 3.
+Fluor albus warm, i. 1. 2. 11.
+—— cold, i. 2. 3. 7.
+Frigus febrile, i. 2. 2. 1.
+—— chronicum, i. 2. 2. 1.
+
+
+G.
+
+
+Gall-stone, i. 1. 3. 8.
+Gangreen, ii. 1. 6. 17.
+Gargles, ii. 1. 3. 3.
+Gastritis, ii. 1. 2. 10.
+—— superficialis, ii. 1. 3. 19.
+Genu tumor albus, i. 2. 3. 19.
+Gleet. See Gonorrhœa.
+Globus hystericus, i. 3. 1. 7.
+Gonorrhœa warm, i. 1. 2. 10.
+—— cold, i. 2. 3. 8.
+Gout, iv. 1. 2. 15. iv. 2. 4. 9.
+—— of the liver, ii. 1. 1. 7.
+—— cases of, iv. 1. 2. 15.
+—— cough, iv. 2. 1. 9.
+—— of the stomach, i. 2. 4. 6.
+—— h�morrhage in, i. 1. 1. 4.
+Grace defined, iii. 1. 2. 4.
+Gravel distinguished from salts, i. 1. 3. 10.
+Gravitation, iv. 2. 4.
+Green-sickness. See Chlorosis.
+Grief, iii. 1. 2. 10.
+Gripes of children, i. 1. 2. 5. iv. 2. 1. 3.
+Gustus acrior, i. 1. 5. 4.
+—— imminutus, i. 2. 5. 8.
+Gutta rosea, ii. 1. 4. 6. iv. 1. 2. 13. and 14.
+—— serena, i. 2. 5. 5.
+
+
+H.
+
+
+H�morrhage arterial, i. 1. 1. 3.
+—— of the lungs, i. 1. 1. 4.
+—— of the nose, i. 1. 1. 5.
+—— venous, i. 2. 1. 5.
+—— of the rectum, i. 2. 1. 6.
+—— of the kidnies, i. 2. 1. 7.
+—— of the liver, i. 2. 1. 8.
+H�moptoe arterial, i. 1. 1. 4.
+—— venous, i. 2. 1. 9.
+H�morrhois cruenta, i. 2. 1. 6. iv. 2. 4. 8.
+—— alba, i. 1. 2. 12.
+Hair, grey, i. 2. 2. 11.
+—— new, i. 1. 2. 15.
+—— white by uterine pressure, Addit. i.
+Hallucination of sight, ii. 1. 7. 5.
+—— of hearing, ii. 1. 7. 6.
+—— maniacal, iii. 1. 2. 1.
+—— studiosa, iii. 1. 2. 2.
+Harrogate water fact, i. 1. 4. 12.
+Head-ach. See Hemicrania and Cephal�a.
+Hearing acuter, i. 1. 5. 2.
+—— diminished, i. 2. 5. 6.
+Heart-burn, i. 2. 4. 5.
+Heart stimulated, Suppl. i. 11. 7. i. 16. 9.
+Heat, animal, i. 1. 2. 1. i. 1. 2. 3.
+—— sense of acuter, i. 1. 5. 6.
+—— elemental, iv. 2. 4.
+—— hectic lessened by swinging, iv. 2. 1. 10.
+—— not perceived by the lungs, iii. 1. 1. 10.
+—— not estimated by thermometers, Suppl. i. 7.
+—— of the breath, Suppl. i. 2. 2.
+Hemicrania, iv. 2. 2. 8. iv. 2. 4. 3.
+—— relieved by mercury, iv. 2. 2. 8.
+Hemiplegia, iii. 2. 1. 10.
+Hepatis tumor, i. 2. 3. 9.
+Hepatitis, ii. 1. 2. 12.
+—— chronica, ii. 1. 4. 12.
+Herpes, ii. 1. 5. 8.
+—— nephritica, iv. 1. 2. 11.
+Hiccough, ii. 1. 1. 6. iv. 1. 1. 7.
+Hip-joint injured, i. 2. 2. 17.
+Hoarseness, ii. 1. 3. 5. iii. 2. 1. 5.
+Horses, broken wind of, i. 2. 4. 9.
+Humectation of the body, iv. 1. 4. 7.
+Hunger, i. 2. 4. 2.
+Hydatides in calves, i. 2. 5. 4.
+Hydrocele, i. 2. 3. 11.
+Hydrocephalus inter, i. 2. 3. 12. i. 2. 5. 4. iii. 2. 1. 10.
+—— from inflammation, Addit. ii.
+Hydrogene gas. Suppl. i. 9. 3. i. 11. 6.
+—— in fevers, Suppl. i. 11. 6. i. 16. 9.
+Hydrothorax, i. 2. 3. 14. case of, iv. 2. 2. 13.
+Hydro-carbonate gas, Suppl. i. 9. 1. Suppl. i. 15. 3.
+Hydrops ovarii, i. 2. 3. 15.
+Hydrophobia, i. 3. 1. 11. iii. 1. 1. 15. iv. 1. 2. 7.
+Hypochondriasis, i. 2. 4. 10.
+Hysteralgia frigida, i. 2. 4. 17.
+Hysteria, i. 3. 1. 10. Suppl. i. 8. 11.
+—— from fear, iv. 3. 1. 8.
+—— from cold, iv. 3. 4. 3.
+—— convulsions in, iii. 1. 1. 5.
+—— laughter in, iii. 1. 1. 5.
+Hysteritis, ii. 1. 2. 16.
+
+
+I.
+
+
+Jactitatio, iii. 1. 1. 1.
+Jaundice, i. 1. 3. 8. i. 2. 4. 19.
+Icterus, i. 1. 3. 8. i. 2. 4. 19.
+Ileus, i. 3. 1. 6. ii. 1. 2. 11.
+Impotentia, ii. 2. 2. 3.
+Indigestion, i. 3. 1. 3.
+—— See Anorexia and Apepsia.
+—— from cold feet, iv. 2. 1. 6. Sup. i. 8. 5.
+Incubus, iii. 2. 1. 13.
+Infants, green stools of, i. 1. 2. 5.
+—— new born, ii. 1. 1. 12.
+Inflammation of the eye, ii. 1. 2. 2.
+—— superficial, ii. 1. 4. 1.
+—— of the brain, ii. 1. 2. 3.
+—— of the lungs, ii. 1. 2. 4.
+—— superficial, ii. 1. 3. 7.
+—— of the pleura, ii. 1. 2. 5.
+—— of the diaphragm, ii. 1. 2. 6.
+—— of the heart, ii. 1. 2. 7.
+—— of the peritoneum, ii. 1. 2. 8.
+—— of the mesentery, ii. 1. 2. 9.
+—— of the stomach, ii. 1. 2. 10.
+—— superficial, ii. 1. 3. 19.
+—— of the bowels, ii. 1. 2. 11.
+—— superficial, ii. 1. 3. 20.
+—— of the liver, ii. 1. 2. 12.
+—— chronical, ii. 1. 4. 12.
+—— of the spleen, ii. 1. 2. 13. Sup. i. 16. 6.
+—— of the kidnies, ii. 1. 2. 14.
+—— of the bladder, ii. 1. 2. 15.
+—— of the womb, ii. 1. 2. 16.
+—— of the tonsils, ii. 1. 3. 3.
+—— of the parotis, ii. 1. 3. 4.
+Inirritability of lacteals, i. 2. 3. 26.
+—— of lymphatics, i. 2. 3. 27.
+—— of the gall-bladder, i. 2. 4. 19.
+—— of the kidney, i. 2. 4. 20.
+—— of the spleen, Suppl. i. 16. 6.
+—— vicissitudes of, i. 1. 1.
+Inoculation, ii. 1. 3. 9.
+Innutrition of bones, i. 2. 2. 14.
+Insanity, quick pulse in, iii. 1. 1.
+—— from parturition, iii. 1. 2.
+—— with fever, iii. 1. 2.
+—— cure of, iii. 1. 2.
+—— confinement in, iii. 1. 2.
+Insensibility, ii. 2. 1. 1.
+Ira, iii. 1. 2. 17.
+Ischias, ii. 1. 2. 18. i. 2. 4. 15.
+Issues, use of, i. 1. 2. 9. iii. 1. 1. 11.
+Itch, ii. 1. 5. 6.
+Itching, i. 1. 5. 9.
+—— of the nose, iv. 2. 2. 6.
+
+
+L.
+
+
+Lacrymarum fluxus sym. iv. 1. 2. 1.
+Lameness of the hip, i. 2. 2. 17.
+Lassitude, iii. 2. 1. 1.
+Laughter, iv. 2. 3. 3. iii. 1. 1. 4. iv. 1. 3. 3.
+—— See Risus.
+Leg, one shorter, i. 2. 2. 17.
+Lepra, ii. 1. 5. 3.
+Lethargus, iii. 2. 1. 14.
+Lethi timor, iii. 1. 2. 14.
+Lice, i. 1. 4. 15.
+Lientery, i. 2. 3. 6.
+Light debilitates in fevers, i. 2. 5. 3.
+Lingua arida, i. 1. 3. 1. iv. 2. 4. 11.
+Liver, torpor of, i. 2. 2. 6.
+—— tumor of, i. 2. 3. 9.
+—— inflamed, ii. 1. 2. 12.
+Lochia nimia, i. 2. 1. 13.
+Locked jaw, iii. 1. 1. 13.
+Love, sentimental, iii. 1. 2. 4.
+Lues venerea, ii. 1. 5. 2.
+—— imaginaria, iii. 1. 2. 21.
+Lumbago, ii. 1. 2. 17. iii. 1. 1. 1.
+—— cold, i. 2. 4. 16.
+Lumbricus, i. 1. 4. 10.
+Lunar influence on the solids, i. 2. 1. 11.
+Lungs, adhesions of, ii. 1. 2. 5.
+—— not sensible to heat, iii. 1. 1. 10.
+Lusus digitorum invitus, iv. 1. 3. 4.
+
+
+M.
+
+
+Macul� vultus, i. 2. 2. 10.
+Madness, mutable, iii. 1. 2. 1.
+Mammarum tumor, iv. 1. 2. 19.
+Mammularum tensio, iv. 1. 2. 6. i. 1. 4. 7.
+Mania mutabilis, iii. 1. 2. 1.
+Matter variolous, ii. 1. 3. 9.
+—— contagious, ii. 1. 3. ii. 1. 6. 11.
+—— inclosed, ii. 1. 6. 2.
+—— oxygenated, ii. 1. 6. 6.
+—— sanious, ii. 1. 6. 15.
+Measles, ii. 1. 3. 10.
+Membranes, what, iv. 1. 2.
+Menorrhagia, i. 2. 1. 11.
+Mercury crude, as a clyster, i. 3. 1. 6.
+—— in all contagions, Suppl. i. 16. 7.
+—— in vertigo, iv. 2. 1. 11.
+Miliaria, ii. 1. 3. 12.
+Milk new, for children, i. 1. 2. 5.
+—— old, induces costiveness, ii. 2. 2. 7.
+Milk-crust, ii. 1. 5. 12.
+Miscarriage. See Abortion.
+M�ror, iii. 1. 2. 10.
+Mobility, iv. 1. 2.
+—— of the skin, Suppl. i. 7.
+Mollities ossium, i. 2. 2. 14.
+Moon, effect of, iv. 2. 4.
+Morbilli. See Rubeola.
+Mortification, ii. 1. 6. 17.
+Morpiones, i. 1. 4. 14.
+Mucus diminished, i. 2. 2. 4.
+—— of the throat cold, i. 2. 3. 1.
+—— of the bowels, i. 2. 3. 6. i. 1. 2. 12.
+—— of the lungs, i. 1. 3. 4.
+—— forms stones, i. 1. 3. 9.
+—— distinguished from pus, ii. 1. 6. 6.
+Mumps, ii. 1. 3. 4.
+Murmur aurium, iv. 2. 1. 15.
+Musc� volitantes, i. 2. 5. 3.
+
+
+N.
+
+
+Nails, biting of, iv. 1. 3. 5.
+Nares aridi, i. 1. 3. 3.
+Nausea, dry, i. 2. 4. 3.
+—— humid, i. 3. 2. 3.
+—— ideal, iv. 3. 2. 1.
+—— from conception, iv. 3. 2. 2.
+Navel-string of infants, ii. 1. 1. 12.
+—— cut too soon, ii. 1. 1. 12.
+Neck thickens at puberty, iv. 1. 2. 7.
+Neck-swing, i. 2. 2. 16.
+Nephritis, ii. 1. 2. 14. i. 1. 3. 9. iii. 2. 1. 14.
+Nerves decussate, iii. 2. 1. 10.
+Nictitation irritative, i. 1. 4. 1.
+—— sensitive, ii. 1. 1. 8.
+—— involuntary, iv. 1. 3. 2.
+Night-mare, iii. 2. 1. 13.
+Nipples, tension of, i. 1. 4. 7. iv. 1. 2. 6.
+Nostalgia, iii. 1. 2. 6.
+Nostrils, dry, i. 1. 3. 3.
+
+
+O.
+
+
+Obesitas, i. 2. 3. 17.
+Odontitis, ii. 1. 4. 7.
+Odontalgia, i. 2. 4. 12.
+Œsophagi schirrus, i. 2. 3. 25.
+Olfactus acrior, i. 1. 5. 3.
+—— imminutus, i. 2. 5. 7.
+Oil destroys insects, i. 1. 4. 14.
+—— essential of animals, i. 1. 2. 14.
+—— why injurious in erysipelas, ii. 1. 3. 2.
+Opium in catarrh, i. 2. 3. 3.
+—— in diaphragmitis, ii. 1. 2. 6.
+Ophthalmy, internal, ii. 1. 2. 2.
+—— superficial, ii. 1. 4. 1.
+Orci timor, iii. 1. 2. 15.
+Oscitatio, ii. 1. 1. 9.
+Ossium innutritio, i. 2. 2. 14.
+Otitis, ii. 1. 4. 8.
+Otalgia, i. 2. 4. 13. iv. 2. 2. 8.
+Otopuosis, ii. 1. 4. 8.
+Ovary, dropsy of, i. 2. 3. 15.
+—— exsection of, i. 2. 3. 15.
+Oxygenation of blood, iv. 1. 4. 6.
+Oxygen gas, Suppl. i. 9. 3.
+—— in fevers, Suppl. i. 11. 7. i. 16. 9.
+
+
+P.
+
+
+Pain exhausts sensorial power, iv. 2. 2.
+—— greater prevents less, iv. 2. 2. 2.
+—— nervous, i. 2. 4.
+—— of the little finger, symptom, iv. 2. 2. 12.
+—— of arm in hydrothorax, iv. 2. 2. 13.
+—— of the bile-duct, iv. 2. 2. 4.
+—— of the shoulder, iv. 2. 2. 9.
+—— of the pharynx, iv. 2. 2. 5.
+—— of the testis, iv. 2. 2. 11.
+—— smarting, i. 1. 5. 10.
+—— of the side, i. 2. 4. 14. iv. 1. 2. 16.
+—— of menstruation, i. 2. 1. 12.
+—— use of, iii. 1. 1. 11. i. 1. 2. 9.
+—— of the uterus, i. 2. 4. 17.
+Paint, white, dangerous, ii. 1. 4. 6.
+Palate, defect of, i. 2. 2. 20.
+Paleness, i. 2. 2. 2.
+—— from fear, iv. 3. 1. 5.
+—— from sickness, iv. 2. 1. 4.
+—— of urine after dinner, iv. 2. 1. 2.
+—— from cold skin, iv. 2. 1. 1.
+Palpitation of heart, i. 3. 3. 2. i. 2. 1. 10.
+—— from fear, iv. 3. 1. 6.
+—— relieved by arsenic, iv. 2. 1. 18.
+Pancreas, torpor of, i. 2. 2. 7.
+Pandiculatio, ii. 1. 1. 9.
+Panting, ii. 1. 1. 4. i. 3. 3. 3.
+Paracentesis at the navel, i. 2. 3. 13.
+Paralysis, iii. 2. 1. 10.
+—— of the bladder, iii. 2. 1. 6.
+—— of the rectum, iii. 2. 1. 7.
+—— of the hands, iii. 2. 1. 4.
+—— cure of, iii. 2. 1. 4.
+Paraplegia, iii. 2. 1. 11.
+Paresis inirritativa, i. 2. 1. 2. Suppl. i. 8. 10.
+—— sensitiva, ii. 2. 1. 3.
+—— voluntaria, iii. 2. 1. 8.
+Paronychia internal, ii. 1. 2. 19.
+—— superficial, ii. 1. 4. 5.
+Parturition, ii. 1. 1. 12. ii. 1. 2. 16.
+—— more fatal in high life, ii. 1. 1. 12.
+—— with convulsion, iii. 1. 1. iii. 1. 1. 7.
+Parotitis, ii. 1. 3. 4.
+Passions depressing and exciting, iv. 3. 1. 5.
+Paupertatis timor, iii. 1. 2. 13.
+Pediculus, i. 1. 4. 15.
+Pemphigus, ii. 1. 3. 14.
+Penetration of animal bodies, iv. 1. 4. 7.
+Peripneumony, ii. 1. 2. 4.
+—— tracheal, ii. 1. 2. 4.
+—— superficial, ii. 1. 3. 7.
+—— inirritated, ii. 1. 2. 4.
+Peritonitis, ii. 1. 2. 8.
+Perspiration not an excrement, i. 1. 2. 14.
+—— greatest in the hot fit, i. 1. 2. 3.
+—— fetid, i. 1. 2. 14.
+Pertussis, ii. 1. 3. 8.
+Pestis, ii. 1. 3. 13.
+Petechi�, i. 2. 1. 17.
+—— cure of, Suppl. i. 2. 7.
+Pharynx, pain of, iv. 2. 2. 5.
+Phthisis, pulmonary, ii. 1. 6. 7.
+Pimples on the face, ii. 1. 4. 6.
+Piles, bleeding, i. 2. 1. 6.
+—— white, i. 1. 2. 12.
+Placenta, ii. 1. 1. 12. ii. 1. 2. 16.
+Plague, ii. 1. 3. 13.
+Plasters, why moist, i. 1. 3. 6.
+Pleurisy, ii. 1. 2. 5.
+Pleurodyne chronica, i. 2. 4. 14.
+—— rheumatica, iv. 1. 2. 16.
+Podagra, iv. 1. 2. 15. iv. 2. 4. 9.
+Polypus of the lungs, i. 1. 3. 4.
+—— of the nose from worms, iv. 1. 2. 9.
+Pregnancy, ii. 1. 1. 12.
+Priapismus, i. 1. 4. 6. ii. 1. 7. 9.
+Proctalgia, i. 2. 4. 18.
+Prolapsus ani, i. 1. 4. 9.
+Pruritus, i. 1. 5. 9.
+—— narium a vermibus, iv. 2. 2. 6.
+Psora, ii. 1. 5. 6.
+—— imaginaria, iii. 1. 2. 22.
+Ptyalismus. See Salivatio.
+Pubis and throat sympathize, iv. 1. 2. 7.
+Puerperal fever, i. 2. 4. 9. ii. 1. 6. 16. Add. 8.
+—— insanity, iii. 1. 2. 1.
+Pulchritudinis desiderium, iii. 1. 2. 12.
+Pullulation of trees, iv. 1. 4. 3.
+Pulse full, why, i. 1. 1. 1.
+—— strong, how determined, i. 1. 1. 1. Suppl. i. 16. 10.
+—— soft in vomiting, iv. 2. 1. 17.
+—— intermittent, iv. 2. 1. 18.
+—— quick from paucity of blood, Suppl. i. 11. 4.
+—— quick sometimes in sleep, iii. 2. 1. 12.
+—— quick in weak people, iii. 2. 1. Sup. i. 11. 4.
+—— slower by swinging, iv. 2. 1. 10.
+—— quick in chlorosis, i. 2. 3. 10.
+Punct� mucos� vult�s, i. 2. 2. 9.
+Purging. See Diarrhœa.
+Pus diminished, i. 2. 2. 3.
+—— distinguished from mucus, ii. 1. 6. 6.
+
+
+R.
+
+
+Rabies, iii. 1. 2. 18.
+Rachitis, i. 2. 2. 15.
+Raucedo catarrhal, ii. 1. 3. 5.
+—— paralytic, iii. 2. 1. 5.
+Recollection, loss of, iii. 2. 2. 1.
+Recti paralysis, iii. 2. 1. 7.
+—— schirrus, i. 2. 3. 23.
+Red-gum, ii. 1. 3. 12. i. 1. 2. 3.
+Redness from heat, ii. 1. 7. 7.
+—— of joy, ii. 1. 7. 8.
+—— after dinner, iv. 1. 1. 1.
+—— of anger, iv. 2. 3. 5.
+—— of guilt, iv. 2. 3. 6.
+—— of modesty, iv. 2. 3. 6.
+Respiration, ii. 1. 1. 2.
+—— quick in exercise, ii. 1. 1. 4.
+—— in softness of bones, i. 2. 2. 14.
+Restlessness, iii. 1. 1. 1.
+Reverie, iii. 1. 2. 2. iv. 2. 4. 2.
+Rhaphania, iii. 1. 1. 6.
+Rheumatism, iv. 1. 2. 16.
+—— of the joints, iv. 1. 2. 16.
+—— of the bowels, iv. 1. 2. 16.
+—— of the pleura, iv. 1. 2. 16.
+—— suppurating, iv. 1. 2. 16.
+—— from sympathy, iv. 2. 2. 13.
+—— chronical, i. 1. 3. 12. iii. 1. 1. 6.
+Rickets, i. 2. 2. 15.
+Ring-worm, ii. 1. 5. 10.
+Risus, iii. 1. 1. 4. iv. 2. 3. 3.
+—— sardonicus, iv. 1. 2. 4.
+—— invitus, iv. 1. 3. 3.
+Rubeola, ii. 1. 3. 10.
+Rubor a calore, ii. 1. 7. 7.
+—— jucunditatis, ii. 1. 7. 8.
+—— pransorum, iv. 1. 1. 1.
+Ructus, i. 3. 1. 2.
+Ruminatio, i. 3. 1. 1. iv. 3. 3. 1.
+
+
+S.
+
+
+Sailing in phthisis, ii. 1. 6. 7.
+Salivation warm, i. 1. 2. 6.
+—— lymphatic, i. 3. 2. 2.
+—— sympathetic, iv. 1. 2. 5.
+—— in low fevers, i. 1. 2. 6.
+Salt of urine, i. 1. 2. 4. i. 1. 3. 9.
+Satyriasis, iii. 1. 2. 16.
+Scabies. See Psora.
+Scarlatina, ii. 1. 3. 11.
+Scarlet fever, ii. 1. 3. 11.
+Scald-head, ii. 1. 5. 11.
+Sciatica frigida, i. 2. 4. 15.
+Schirrus, i. 2. 3. 22.
+—— suppurans, ii. 1. 4. 15.
+—— of the rectum, i. 2. 3. 23.
+—— of the urethra, i. 2. 3. 24.
+—— of the œsophagus, i. 2. 3. 25.
+Scorbutus, i. 2. 1. 15.
+—— suppurans, ii. 1. 4. 14.
+Scrophula, i. 2. 3. 21.
+—— suppurating, ii. 1. 4. 14.
+—— produces insanity, iii. 1. 2.
+Scurvy, i. 2. 1. 15.
+—— suppurating, ii. 1. 4. 14.
+Scurf of the head, i. 1. 3. 6.
+—— of the tongue, i. 1. 3. 1.
+Sea air in phthisis, ii. 1. 6. 7.
+Seat, descent of, i. 1. 4. 9.
+Seed, ejection of, ii. 1. 1. 11.
+Sea-sickness, iv. 2. 1. 10. Suppl. i. 8. 3.
+See-saw of old people, iii. 2. 1. 2.
+Sensitive association, law of, iv. 2. 2. 2.
+Sensation inert, Suppl. i. 6. 4.
+Setons, ii. 1. 6. 6.
+Shingles, ii. 1. 5. 9.
+Shoulder, pain of, iv. 2. 2. 9.
+Shrieking, iii. 1. 1. 3.
+Sickness, i. 2. 4. 4. i. 3. 2. 3.
+—— cured by a blister, iv. 1. 1. 3.
+—— by warm skin, iv. 1. 1. 2. Suppl. i. 11. 4.
+—— by whirling, i. 1. 1. 4.
+—— by swinging, Suppl. i. 15. 3.
+—— by hydrocarbonate gas, Suppl. i. 15. 3.
+—— See Nausea.
+Sight acuter, i. 1. 5. 1.
+—— impaired, i. 2. 5. 2.
+Side, chronical pain of, i. 2. 4. 14.
+Sighing and sobbing, iii. 1. 2. 10.
+Sitis calida, i. 2. 4. 1.
+—— frigida, i. 2. 4. 1.
+—— defectus, ii. 2. 2. 2.
+Skin pale in old age, i. 2. 2. 2.
+—— from cold, i. 2. 2. 2.
+—— dry, i. 1. 3. 6.
+—— yellowish, i. 2. 2. 2.
+—— bluish and shrunk, i. 2. 1. 1.
+—— reddish, ii. 1. 3. 1.
+—— cold after meals, iv. 2. 1. 1.
+Sleep, iii. 2. 1. 12.
+—— interrupted, i. 2. 1. 3.
+—— periods in, iv. 2. 4. 1.
+—— with quick pulse, iii. 2. 1. 12.
+—— disturbed by digestion, iii. 2. 1. 12.
+Sleep-walkers, iii. 1. 1. 9.
+Small-pox, ii. 1. 3. 9.
+—— why distinct and confluent, Sup. i. 15. 2.
+—— secondary fever of, ii. 1. 6. 12.
+—— eruption of, iv. 1. 2. 12.
+Smarting, i. 1. 5. 10.
+Smell acuter, i. 1. 5. 3.
+—— impaired, i. 2. 5. 7.
+Sneezing, ii. 1. 1. 3. iv. 1. 2. 2.
+Snow in scrophula, i. 2. 3. 21.
+—— in paralysis, iii. 2. 1. 4.
+Snuff in hydrocephalus, i. 2. 3. 12.
+Somnambulism, iii. 1. 1. 9.
+Somnium, ii. 1. 7. 4.
+Somnus, iii. 2. 1. 12. iv. 2. 4. 1.
+—— interruptus, i. 2. 1. 3.
+Softness of bones, i. 2. 2. 14.
+Spasm of diaphragm, iii. 1. 1. 11.
+—— of the heart, iii. 1. 1. 11.
+Spine distorted, i. 2. 2. 16.
+—— protuberant, i. 2. 2. 18.
+—— bifid, i. 2. 2. 19.
+Spitting blood, i. 1. 1. 4. i. 2. 1. 9.
+Spleen swelled, i. 2. 3. 18. Suppl. i. 16. 6.
+Splenitis, ii. 1. 2. 13.
+Spots on the face, i. 2. 2. 9.
+Spots seen on bed-clothes, i. 2. 5. 3.
+Squinting, i. 2. 5. 4.
+—— in hydrocephalus, i. 2. 5. 4.
+Stammering, iv. 2. 3. 1.
+Stays tight, injurious, ii. 1. 1. 12.
+Sterility, ii. 2. 2. 4.
+Sternutatio, ii. 1. 1. 3. iv. 1. 2. 2.
+—— a lumine, iv. 1. 2. 2.
+Stimulants, their twofold effect, ii. 1. 2. 6.
+Stocks for children dangerous, i. 2. 2. 17.
+Stomach, torpor of, Suppl. i. 10. i. 16. 6.
+—— inflammation of, ii. 1. 2. 10. ii. 1. 3. 19.
+—— its association, iv. 1. 1.
+—— cause of fever, Suppl. i. 8. 8.
+Stones in the bladder, See Calculi.
+—— in horses, i. 1. 3. 5. i. 1. 3. 10.
+Strabismus, i. 2. 5. 4.
+Strangury, ii. 1. 1. 11. iv. 2. 2. 2.
+—— convulsive, iv. 2. 2. 3.
+Strength and debility metaphors, i. 2. 1.
+Stridor dentium, iii. 1. 1. 12.
+Studium inane, iii. 1. 2. 2. iv. 2. 4. 2.
+Stultitia inirritabilis, i. 2. 5. 1.
+—— insensibilis, ii. 2. 1. 1.
+—— voluntaria, iii. 2. 2. 2.
+Stupor, i. 2. 5. 10. Suppl. i. 15.
+Subsultus tendinum, iii. 1. 1. 5.
+Sudor. See Sweats.
+Suggestion, slow,
+Surprise, i. 1. 5. 11.
+Sweats, warm, i. 1. 2. 3.
+—— cold, i. 2. 3. 2.
+—— lymphatic, i. 3. 2. 7.
+—— asthmatic, i. 3. 2. 8. iv. 3. 1. 2.
+—— covered in bed, iv. 1. 1. 2.  Suppl. i. 11. 6
+—— in fever fits, why, i. 1. 2. 5.
+—— from exercise, i. 1. 2. 3.
+—— from heat, i. 1. 2. 3.
+—— from medicines, i. 1. 2. 3.
+Sweaty hands cured, i. 3. 2. 7.
+Swinging, ii. 1. 6. 7.
+—— makes the pulse slower, iv. 2. 1. 10.
+Swing centrifugal, Suppl. i. 15 and 3.
+Sympathy direct and reverse, iv. 1. 1. f.
+—— with others, iii. 1. 2. 24.
+—— of various parts, Suppl. i. 11. 5.
+—— reverse of lacteals and lymphatics, Suppl. i. 11. 5
+—— of capillaries, Suppl. i. 11. 5.
+—— direct of stomach and heart, Sup. i. 11. 5.
+—— of throat and pubis, iv. 1. 2. 7.
+Syncope, i. 2. 1. 4.
+—— epileptic, iii. 2. 1. 15.
+Syngultus, ii. 1. 1. 6.
+—— nephriticus, iv. 1. 1. 7.
+Syphilis, ii. 1. 5. 2.
+—— imaginaria, iii. 1. 2. 21.
+Syphon capillary of cloth, ii. 1. 3. 1.
+
+
+T.
+
+
+Tactus acrior, i. 1. 5. 5.
+—— imminutus, i. 2. 5. 6.
+Tape-worm, i. 1. 4. 11.
+Tapping at the navel, i. 2. 3. 13.
+Taste. See Gustus.
+—— bitter, not from bile, i. 1. 3. 1.
+T�dium vit�, ii. 2. 1. 2.
+T�nia, i. 1. 4. 11.
+Tears sympathetic, iv. 1. 2. 1. iii. 1. 2. 10.
+Teeth, to preserve, i. 1. 4. 5.
+—— fall out whole, ii. 1. 4. 7.
+Tenesmus, ii. 1. 1. 10.
+—— calculosus, iv. 1. 2. 8.
+Testium dolor nephriticus, iv. 2. 2. 11.
+—— tumor in gonorrhœa, iv. 1. 2. 18.
+—— tumor in parotitide, iv. 1. 2. 19.
+Tetanus trismus, iii. 1. 1. 13.
+—— doloroficus, iii. 1. 1. 14.
+Thirst. See Sitis and Adipsia.
+Thread-worm, i. 1. 4. 12.
+Throat swelled, i. 2. 3. 20.
+—— thickens at puberty, iv. 2. 1. 7.
+—— grown up, i. 2. 3. 25.
+Thrush, ii. 1. 3. 17.
+Tickling, i. 1. 5. 8.
+Timor orci, iii. 1. 2. 15.
+—— lethi, iii. 1. 2. 14.
+—— paupertatis, iii. 1. 2. 13.
+Tinea, ii. 1. 5. 11.
+Tinnitus aurium, iv. 2. 1. 15.
+Titillatio, i. 1. 5. 8.
+Titubatio lingu�, iv. 2. 3. 1.
+Tobacco, smoke of in piles, i. 2. 1. 6.
+Tongue dry, i. 1. 3. 1. Suppl. i. 2.
+—— coloured mucus, i. 1. 3. 1.
+Tonsillitis, ii. 1. 3. 3.
+Tonsils swelled from bad teeth, i. 2. 3. 21. ii. 1. 3. 3.
+Torpor of the liver, i. 2. 2. 6.
+—— of the pancreas, i. 2. 2. 7.
+—— of the lungs, Suppl. 1. 9.
+—— of the stomach, Suppl. i. 10.
+—— of the heart, Suppl. i. 10.
+Tooth-ach, i. 2. 4. 12. ii. 1. 4. 7.
+Tooth-edge, iv. 1. 2. 3.
+Toothing, i. 1. 4. 5.
+Tooth-powder, i. 1. 4. 5.
+Touch. See Tactus.
+—— deceived three ways, i. 2. 5. 9. iv. 2. 1. 10.
+Transfusion of blood, i. 2. 3. 25. Suppl. i. 14. 4.
+Translation of matter, i. 3. 2. 9.
+—— of milk, i. 3. 2. 10.
+—— of urine, i. 3. 2. 11.
+Transparency of cornea, i. 1. 4. 1.
+—— of crystalline, i. 2. 2. 13.
+—— of air before rain, i. 1. 4. 1.
+Tremor of old age, iii. 2. 1. 3.
+—— of fever, iii. 1. 1. 2.
+—— of anger, iv. 2. 3. 4.
+—— of fear, iv. 3. 1. 5.
+Tussis ebriorum, ii. 1. 1. 5.
+—— convulsiva, ii. 1. 3. 8.
+—— hepatica, iv. 2. 1. 8.
+—— arthritica, iv. 2. 1. 9.
+—— periodica, iv. 3. 4. 2.
+—— a pedibus frigidis, iv. 2. 1. 7.
+Tympany, i. 2. 4. 9.
+
+
+U.
+
+
+Ulcers, healing of, i. 1. 3. 13.
+—— of the cornea, i. 1. 3. 14.
+—— from burns, i. 1. 3. 13.
+—— scrophulous, ii. 1. 4. 13.
+—— of the throat, ii. 1. 3. 3. ii. 1. 3. 11.
+—— of the legs, ii. 1. 4. 14.
+Unguium morsiuncula, iv. 1. 3. 5.
+Urethra, scirrhus of, i. 2. 3. 24.
+—— fistula of, ii. 1. 4. 11.
+Urine copious, coloured, i. 1. 2. 4.
+—— copious, pale, i. 2. 3. 5.
+—— diminished, coloured, i. 1. 3. 7.
+—— diminished, pale, i. 2. 2. 5.
+—— its mucus, salts, Prussian blue, i. 1. 2. 4.
+—— why less and coloured in dropsies, i. 1. 3. 7.
+—— translation of, i. 3. 2. 11.
+—— difficulty of, iii. 2. 1. 6.
+—— not secreted, i. 2. 2. 8.
+—— pale after meals, iv. 2. 1. 2.
+—— pale from cold skin, iv. 2. 1. 3.
+—— sediment in fevers, Suppl. i. 2. 3.
+—— pale in fevers, Suppl. i. 2. 3. and 5.
+Urticaria, ii. 1. 3. 16.
+Uteri descensus, i. 1. 4. 8.
+
+
+V.
+
+
+Vacillatio senilis, iii. 2. 1. 2.
+Varicella, ii. 1. 3. 15.
+Variola, ii. 1. 3. 9.
+—— eruption of, iv. 1. 2. 12.
+Vasorum capil retrogressio, i. 3. 3. 1.
+Venereal orgasm, iv. 1. 4. 4.
+—— disease, ii. 1. 5. 2.
+—— imaginary, iii. 1. 2. 21.
+Ventriculi �gritudo, i. 2. 4. 4.
+—— vesicatorio sanata, iv. 1. 1. 3.
+Vermes, i. 1. 4. 10.
+Vertigo rotatory, iv. 2. 1. 10.
+—— of sight, iv. 2. 1. 11.
+—— inebriate, iv. 2. 1. 12.
+—— of fever, iv. 2. 1. 13.
+—— from the brain, iv. 2. 1. 14.
+—— of the ears, iv. 2. 1. 15.
+—— of the touch, Addit. iii.
+—— of the touch, taste and smell, iv. 2. 1. 16.
+—— with vomiting, iv. 3. 2. 3.
+—— produces slow pulse, iv. 2. 1. 10.
+—— of blind men, iv. 2. 1. 10.
+—— use of mercurials in it, iv. 2. 1. 11.
+—— from ideas, Addit. iii.
+Vibices, i. 2. 1. 16. Suppl. i. 2. 7.
+Vigilia, iii. 1. 2. 3. iv. 1. 3. 6.
+Vision acuter, i. 1. 5. 1.
+—— diminished, i. 2. 5. 2.
+—— expends much sensorial power, i. 2. 5. 3.
+Vita ovi, iv. 1. 4. 1.
+—— hiemi-dormientium, iv. 1. 4. 2.
+Vitus's dance, iv. 2. 3. 2.
+Volition, three degrees of, iii. 2. 1. 12.
+—— lessens fever, iii. 2. 1. 12. Suppl. i. 11. 6.
+—— produces fever, iii. 2. 1. 12.
+—— without deliberation, iv. 1. 3. 2. Addit. iv.
+Vomica, ii. 1. 6. 3.
+Vomitus, i. 3. 1. 4.
+Vomendi conamen inane, i. 3. 1. 8.
+Vomiting stopped, iv. 1. 1. 3. iv. 1. 1. f.
+—— voluntary, iv. 3. 3. 2.
+—— how acquired, iv. 1. 1. 2.
+—— vertiginous, iv. 3. 2. 3.
+—— from stone in ureter, iv. 3. 2. 4.
+—— from paralytic stroke, iv. 3. 2. 5.
+—— from tickling the throat, iv. 3. 2. 6.
+—— sympathizes with the skin, iv. 3. 2. 7.
+—— in h�moptoe, i. 1. 1. 4.
+—— from defect of association, iv. 2. 1. 10.
+Vulnerum cicatrix, i. 1. 3. 13.
+
+
+W.
+
+
+Watchfulness, iii. 1. 2. 3. iv. 1. 3. 6.
+Water-qualm, i. 3. 1. 3.
+Weakness, three kinds of, i. 2. 1.
+Whirling-chair, Suppl. i. 15. 3.
+Whirling-bed, Suppl. i. 15. 7.
+White swelling of the knee, i. 2. 3. 19.
+Winking, ii. 1. 1. 8. i. 1. 4. 1. iv. 1. 3. 2.
+Wine in fevers, ii. 1. 3. 1. iv. 2. 1. 12.
+Winter-sleeping animals, iv. 1. 4. 2.
+Witlow, superficial, ii. 1. 4. 5.
+—— internal, ii. 1. 2. 19.
+Womb, descent of, i. 1. 4. 8.
+—— inflammation of, ii. 1. 2. 16.
+Worms, i. 1. 4. 10.
+—— mucus counterfeits, i. 1. 3. 4.
+—— in sheep, i. 2. 3. 9.
+Wounds, healing of, i. 1. 3. 13.
+
+
+Y.
+
+
+Yawning, ii. 1. 1. 9.
+Yaws, ii. 1. 5. 5.
+
+
+Z.
+
+
+Zona ignea, ii. 1. 5. 9. iv. 1. 2. 11. ii. 1. 2. 14.
+
+
+
+</div></body></text></TEI>

@@ -1,0 +1,805 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Zoonomia Vol I</title><author>Darwin, Erasmus (1731-1802)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1794</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="42">INDEX TO THE SECTIONS OF PART FIRST.
+
+
+
+
+A.
+
+
+Abortion from fear, xxxix. 6. 5.
+Absorbent vessels, xxiii. 3. xxix. 1.
+—— regurgitate their fluids, xxix. 2.
+—— their valves, xxix. 2.
+—— communicate with vena portarum, xxvii. 2.
+Absorption of solids, xxxiii. 3. 1. xxxvii.
+—— of fluids in anasarca, xxxv. 1. 3.
+Accumulation of sensorial power, iv. 2. xii. 5. 2.
+Activity of system too great, cure of, xii. 6.
+—— too small, cure of, xii. 7.
+Age, old, xii. 3. 1. xxxvii. 4.
+Ague-fit, xii. 7. 1. xxxii. 3. 4. xxxii. 9.
+—— how cured by bark, xii. 3. 4.
+—— periods, how occasioned, xii. 2. 3. xxxii. 3. 4.
+Ague cakes, xxxii. 7. xxxii. 9.
+Air, sense of fresh, xiv. 8.
+—— injures ulcers, xxviii. 2.
+—— injected into veins, xxxii. 5.
+Alcohol deleterious, xxx. 3.
+Alliterations, why agreeable, xxii. 2.
+Aloes in lessened doses, xii. 3. 1.
+American natives indolent, xxxi. 2.
+—— narrow shouldered, xxxi. 1.
+Analogy intuitive, xvii. 3. 7.
+Animals less liable to madness, xxxiii. 1.
+—— less liable to contagion, xxxiii. 1.
+—— how to teach, xxii. 3. 2.
+—— their similarity to each other, xxxix. 4. 8.
+—— their changes after nativity, xxxix. 4. 8.
+—— their changes before nativity, xxxix. 4. 8.
+—— less liable to contagious diseases, why, xxxiii. 1. 5.
+—— less liable to delirium and insanity, why, xxxiii. 1. 5.
+—— easier to preserve than to reproduce, xxxvii.
+—— food, distaste of, xxviii. 1.
+—— appetency, xxxix. 4. 7.
+Antipathy, x. 2. 2.
+Aphth�, xxviii.
+Apoplexy, xxxiv. 1. 7.
+—— not from deficient irritation, xxxii. 2. 1.
+Appetites, xi. 2. 2. xiv. 8.
+Architecture, xxii. 2. xvi. 10.
+Arts, fine, xxii. 2.
+Asparagus, its smell in urine, xxix.
+Association defined, ii. 2. 11. iv. 7. v. 2.
+—— associate motions, x.
+—— stronger than irritative ones, xxiv. 2. 8.
+—— formed before nativity, xi. 3.
+—— with irritative ones, xxiv. 2. 8.
+—— with retrograde ones, xxv. 7. xxv. 10. xxv. 15.
+—— diseases from, xxxv.
+Asthma, xviii. 15.
+Attention, language of, xvi. 8. 6.
+Atrophy, xxviii.
+Aversion, origin of, xi. 2. 3.
+
+
+B.
+
+
+Balance ourselves by vision, xx. 1.
+Bandage increases absorption, xxxiii. 3. 2.
+Barrenness, xxxvi. 2. 3.
+Battement of sounds, xx. 7.
+Bath, cold.  See Cold Bath.
+Beauty, sense of, xvi. 6. xxii. 2.
+Bile-ducts, xxx.
+—— stones, xxx. 1. 3.
+—— regurgitates into the blood, xxiv. 2. 7.
+—— vomiting of, xxx. 1. 3.
+Birds of passage, xvi. 12.
+—— nests of, xvi. 13.
+—— colour of their eggs, xxxix. 5.
+Biting in pain, xxxiv. 1. 3.
+—— of mad animals, xxxiv. 1. 3.
+Black spots on dice appear red, xl. 3.
+Bladder, communication of with the intestines, xxix. 3.
+—— of fish, xxiv. 1. 4.
+Blood, transfusion of in nervous fevers, xxxii. 4.
+—— deficiency of, xxxii. 2. and 4.
+—— from the vena portarum into the intestines, xxvii. 2.
+—— its momentum, xxxii. 5. 2.
+—— momentum increased by venesection, xxxii. 5. 4.
+—— drawn in nervous pains, xxxii. 5. 4.
+—— its oxygenation, xxxviii.
+Breasts of men, xiv. 8.
+Breathing, how learnt, xvi. 4.
+Brutes differ from men, xi. 2. 3. xvi. 17.
+Brutes. See Animals.
+Buxton bath, why it feels warm, xii. 2. 1. xxxii. 3. 3.
+
+
+C.
+
+
+Capillary vessels are glands, xxvi. 1.
+Catalepsy, xxxiv. 1. 5.
+Catarrh from cold skin, xxxv. 1. 3. xxxv. 2. 3.
+—— from thin caps in sleep, xviii. 15.
+Catenation of motions defined, ii. 2. 11. iv. 7.
+—— cause of them, xvii. 1. 3.
+—— described, xvii.
+—— continue some time after their production, xvii. 1. 3.
+—— voluntary ones dissevered in sleep, xvii. 1. 12. xvii. 3. 7.
+Cathartics, external, their operation, xxix. 7. 6.
+Causation, animal, defined, ii. 2. 11. iv. 7.
+Cause of causes, xxxix. 4. 8.
+Causes inert and efficient, xxxix. 8. 2.
+—— active and passive, xxxix. 8. 3.
+—— proximate and remote, xxxix. 8. 4.
+Chick in the egg, oxygenation of, xxxviii. 2.
+Child riding on a stick, xxxiv. 2. 6.
+Chilness after meals, xxi. 3. xxxv. 1. 1.
+Cholera, case of, xxv. 13.
+Circulation in the eye visible, xl. 10. 4.
+Cold in the head, xii. 6. 5.
+—— perceived by the teeth, xxxii. 3. 1. xiv. 6.
+—— air, uses of in fevers, xxxii. 3. 3.
+—— feet, produces coryza, xxxv. 2. 3. xxxv. 1. 3.
+—— bath, why it strengthens, xxxii. 3. 2.
+—— short and cold breathing in it, xxxii. 3. 2.
+—— produces a fever-fit, xxxii. 3. 2.
+—— fit of fever the consequence of hot fit, xxxii. 9. 3.
+—— bathing in pulmonary h�morrhage, xxvii. 1.
+—— fits of fever, xxxii. 4. xxxii. 9. xvii. 3. 3.
+Colours of animals, efficient cause of, xxxix. 5. 1.
+—— of eggs from female imagination, xxxix. 5. 1.
+—— of the choroid coat of the eye, xxxix. 5. 1.
+—— of birds nests, xvi. 13.
+Comparing ideas, xv. 3.
+Consciousness, xv. 3. 4.
+—— in dreams, xviii. 13.
+Consent of parts. See Sympathy.
+Consumption, its temperament, xxxi. 1. and 2.
+—— of dark-eyed patients, xxvii. 2.
+—— of light-eyed patients, xxviii. 2.
+—— is contagious, xxxiii. 2. 7.
+Contagion, xii. 3. 6. xix. 9. xxxiii. 2. 6. and 8. xxii. 3. 3.
+—— does not enter the blood, xxxiii. 2. 10. xxii. 3. 3.
+Contraction and attraction, iv. 1.
+—— of fibres produces sensation, iv. 5. xii. 1. 6.
+—— continues some time, xii. 1. 5.
+—— alternates with relaxation, xii. 1. 3.
+Convulsion, xvii. 1. 8. xxxiv. 1. 1. and 4. iii. 5. 8.
+—— of particular muscles, xvii. 1. 8.
+—— periods of, xxxvi. 3. 9.
+Coryza. See Catarrh.
+Cough, nervous, periods of, xxxvi. 3. 9.
+Cramp, xviii. 15. xxxiv. 1. 7.
+Critical days from lunations, xxxvi. 4.
+
+
+D.
+
+
+Darkish room, why we see well in it, xii. 2. 1.
+Debility sensorial and stimulatory, xii. 2. 1.
+—— direct and indirect of Dr. Brown, xii. 2. 1. xxxii. 3. 2.
+—— See Weakness.
+—— from drinking spirits, cure of, xii. 7. 8.
+—— in fevers, cure of, xii. 7. 8.
+Deliberation, what, xxxiv. 1.
+Delirium, two kinds of, xxxiii. 1. 4. xxxiv. 2. 2.
+—— cases of, iii. 5. 8.
+—— prevented by dreams, xviii. 2.
+Desire, origin of, xi. 2. 3.
+Diabetes explained, xxix. 4.
+—— with bloody urine, xxvii. 2.
+—— in the night, xviii. 15.
+Diarrhœa, xxix. 4.
+Digestion, xxxiii. 1. xxxvii.
+—— strengthened by emetics, xxxv. 1. 3.
+—— strengthened by regular hours, why, xxxvi. 2. 1.
+Digitalis, use of in dropsy, xxix. 5. 2.
+Distention acts as a stimulus, xxxii. 4.
+—— See Extension.
+Distinguishing, xv. 3.
+Diurnal circle of actions, xxv. 4.
+Doubting, xv. 3.
+Dreams, viii. 1. 2. xiv. 2. 5.
+—— their inconsistency, xviii. 17.
+—— no surprise in them, xviii. 17.
+—— much novelty of combination, xviii. 9.
+Dropsies explained, xxix. 5. 1.
+Dropsy cured by insanity, xxxiv. 2. 7.
+—— cure of, xxix. 5. 2.
+Drunkards weak till next day, xvii. 1. 7.
+—— stammer, and stagger, and weep, xii. 4. 1. xxi. 4.
+—— see objects double, why, xxi. 7.
+—— become delirious, sleepy, stupid, xxi. 5.
+Drunkenness. See Intoxication, xxi.
+—— diminished by attention, xxi. 8.
+Dyspnœa in cold bath, xxxii. 3. 2.
+
+
+E.
+
+
+Ear, a good one, xvi. 10.
+—— noise in, xx. 7.
+Eggs of frogs, fish, fowl, xxxix. 2.
+—— of birds, why spotted, xxxix. 5.
+—— with double yolk, xxxix. 4. 4.
+Electricity, xii. 1. xiv. 9.
+—— jaundice cured by it, xxx. 1. 2.
+Embryon produced by the male, xxxix. 2.
+—— consists of a living fibre, xxxix. 4.
+—— absorbs nutriment, receives oxygen, xxxix. 1.
+—— its actions and sensations, xvi. 2.
+Emetic. See Vomiting.
+Emotions, xi. 2. 2.
+Ennui, or t�dium vit�, xxxiv. 2. 3. xxxiii. 1. 1. xxxix. 6.
+Epileptic fits explained, xxxiv. 1. 4. xxvii. 2.
+—— in sleep, why, xviii. 14. & 15.
+Equinoxial lunations, xxxii. 6.
+Excitability perpetually varies, xii. 1. 7.
+—— synonymous to quantity of sensorial power, xii. 1. 7.
+Exercise, its use, xxxii. 5. 3.
+Exertion of sensorial power defined, xii. 2. 1.
+Existence in space, xiv. 2. 5.
+Extension, sense of, xiv. 7.
+Eyes become black in some epilepsies, xxvii. 2.
+
+
+F.
+
+
+Face, flushing of after dinner, xxxv. 1. 1.
+—— why first affected in small-pox, xxxv. 1. 1.
+—— red from inflamed liver, xxxv. 2. 2.
+Fainting fits, xii. 7. 1. xiv. 7.
+Fear, language of, xvi. 8. 1.
+—— a cause of fever, xxxii. 8.
+—— cause of, xvii. 3. 7.
+Fetus.  See Embryon, xvi. 2. xxxix. 1.
+Fevers, irritative, xxxii. 1.
+—— intermittent, xxxii. 1. xxxii. 3.
+—— sensitive, xxxiii. 1.
+—— not an effort of nature for relief, xxxii. 10.
+—— paroxysms of, xii. 7. 1. xii. 2. 3. xii. 3. 5.
+—— why some intermit and not others, xxxvi. 1.
+—— cold fits of, xxxii. 4. xxxii. 9. xvii. 3. 3.
+—— periods of, xxxvi. 3.
+—— have solar or lunar periods, xxxii. 6.
+—— source of the symptoms of, xxxii. 1.
+—— prostration of strength in, xii. 4. 1. xxxii. 3. 2.
+—— cure of, xii. 6. 1.
+—— how cured by the bark, xii. 3. 4.
+—— cured by increased volition, xii. 2. 4. xxxiv. 2. 8.
+—— best quantity of stimulus in, xii. 7. 8.
+Fibres. See Muscles.
+Fibres, their mobility, xii. 1. 7. xii. 1. 1.
+—— contractions of, vi. xii. 1. 1.
+—— four classes of their motions, vi.
+—— their motions distinguished from sensorial ones, v. 3.
+Figure, xiv. 2. 2. iii. 1.
+Fish, their knowledge, xvi. 14.
+Foxglove, its use in dropsies, xxix. 5. 2.
+—— overdose of, xxv. 17.
+Free-will, xv. 3. 7.
+
+
+G.
+
+
+Gall-stone, xxv. 17.
+—— See Bile-stones.
+Generation, xxxiii. 1. xxxix.
+Gills of fish, xxxviii. 2.
+Glands, xxiii. 2.
+—— conglobate glands, xxiii. 3.
+—— have their peculiar stimulus, xi. 1.
+—— their senses, xiv. 9. xxxix. 6.
+—— invert their motions, xxv. 7.
+—— increase their motions, xxv. 7.
+Golden rule for exhibiting wine, xii. 7. 8.
+—— for leaving off wine, xii. 7. 8.
+Gout from inflamed liver, xxxv. 2. 2. xviii. 16. xxiv. 2. 8.
+—— in the stomach, xxiv. 2. 8. xxv. 17.
+—— why it returns after evacuations, xxxii. 4.
+—— owing to vinous spirit only, xxi. 10.
+—— periods of, xxxvi. 3. 6.
+Grinning in pain, xxxiv. 1. 3.
+Gyration on one foot, xx. 5. and 6.
+
+
+H.
+
+
+Habit defined, ii. 2. 11. iv. 7.
+H�morrhages, periods of, xxxvi. 3. 11.
+—— from paralysis of veins, xxvii. 1. and 2.
+Hair and nails, xxxix. 3. 2.
+—— colour of, xxxix. 5. 1.
+Harmony, xxii. 2.
+Head-achs, xxxv. 2. 1.
+Hearing, xiv. 4.
+Heat, sense of, xiv. 6. xxxii. 3. 1.
+—— produced by the glands, xxxii. 3.
+—— external and internal, xxxii. 3. 1.
+—— atmosphere of heat, xxxii. 3. 1.
+—— increases during sleep, xviii. 15.
+Hemicrania, xxxv. 2. 1.
+—— from decaying teeth, xxxv. 2. 1.
+Hepatitis, cause of, xxxv. 2. 3.
+Hereditary diseases, xxxix. 7. 6.
+Hermaphrodite insects, xxxix. 5.
+Herpes, xxviii. 2.
+—— from inflamed kidney, xxxv. 2. 2.
+Hilarity from diurnal fever, xxxvi. 3. 1.
+Hunger, sense of, xiv. 8.
+Hydrophobia, xxii. 3. 3.
+Hypochondriacism, xxxiii. 1. 1. xxxiv. 2. 3.
+
+
+I.
+
+
+Ideas defined, ii. 2. 7.
+—— are motions of the organs of sense, iii. 4. xviii. 5. xviii. 10. xviii. 6.
+—— analogous to muscular motions, iii. 5.
+—— continue some time, xx. 6.
+—— new ones cannot be invented, iii. 6. 1.
+—— abstracted ones, iii. 6. 4.
+—— inconsistent trains of, xviii. 17.
+—— perish with the organ of sense, iii. 4. 4.
+—— painful from inflammation of the organ, iii. 5. 5.
+—— irritative ones, vii. 1. 4. vii. 3. 2. xv. 2. xx. 7.
+—— of resemblance, contiguity, causation, viii. 3. 2. x. 3. 3.
+—— resemble the figure and other properties of bodies, xiv. 2. 2.
+—— received in tribes, xv. 1.
+—— of the same sense easier combined, xv. 1. 1.
+—— of reflection, xv. 1. 6. ii. 2. 12.
+Ideal presence, xv. 1. 7.
+Identity, xv. 3. 5. xviii. 13.
+Iliac passion, xxv. 15.
+Imagination, viii. 1. 2. xv. 1. 7. xv. 2. 2.
+—— of the male forms the sex, xxxix. 6.
+Imitation, origin of, xii. 3. 3. xxxix. 5. xxii. 3. xvi. 7.
+Immaterial beings, xiv. 1. xiv. 2. 4.
+Impediment of speech, xvii. 1. 10. xvii. 2. 10.
+Infection. See Contagion.
+Inflammation, xii. 2. 3. xxxiii. 2. 2.
+—— great vascular exertion in, xii. 2. 1.
+—— not from pains from defect of stimulus, xxxiii. 2. 3.
+—— of parts previously insensible, xii. 3. 7.
+—— often distant from its cause, xxiv. 2. 8.
+—— observes solar days, xxxii. 6.
+—— of the eye, xxxiii. 3. 1.
+—— of the bowels prevented by their continued action in sleep, xviii. 2.
+Inoculation with blood, xxxiii. 2. 10.
+Insane people, their great strength, xii. 2. 1.
+Insanity (see Madness) pleasurable one, xxxiv. 2. 6.
+Insects, their knowledge, xvi. 15. and 16.
+—— in the heads of calves, xxxix. 1.
+—— class of, xxxix. 4. 8.
+Instinctive actions defined, xvi. 1.
+Intestines, xxv. 3.
+Intoxication relieves pain, why, xxi. 3.
+—— from food after fatigue, xxi. 2.
+—— diseases from it, xxi. 10.
+—— See Drunkenness.
+Intuitive analogy, xvii. 3. 7.
+Invention, xv. 3. 3.
+Irritability increases during sleep, xviii. 15.
+Itching, xiv. 9.
+
+
+J.
+
+
+Jaundice from paralysis of the liver, xxx. 1. 2.
+—— cured by electricity, xxx. 1. 2.
+Jaw-locked, xxxiv. 1. 5.
+Judgment, xv. 3.
+
+
+K.
+
+
+Knowledge of various animals, xvi. 11.
+
+
+L.
+
+
+Lachrymal sack, xvi. 8. xxiv. 2. 2. and 7.
+Lacteals, paralysis of, xxviii.
+—— See Absorbents.
+Lady playing on the harpsichord, xvii. 2.
+—— distressed for her dying bird, xvii. 2. 10.
+Language, natural, its origin, xvi. 7. & 8.
+—— of various passions described, xvi. 8.
+—— artificial, of various animals, xvi. 9.
+—— theory of, xxxix. 8. 3.
+Lapping of puppies, xvi. 4.
+Laughter explained, xxxiv. 1. 4.
+—— from tickling, xvii. 3. 5. xxxiv. 1. 4.
+—— from frivolous ideas, xxxiv. 1. 4. xviii. 12.
+Life, long, art of producing, xxxvii.
+Light has no momentum, iii. 3. 1.
+Liquor amnii, xvi. 2. xxxviii. 2.
+—— is nutritious, xxxviii. 3.
+—— frozen, xxxviii. 3.
+Liver, paralysis of, xxx. 1. 4.
+—— large of geese, xxx. 1. 6.
+Love, sentimental, its origin, xvi. 6.
+—— animal, xiv. 8. xvi. 5.
+Lunar periods affect diseases, xxxii. 6.
+Lust, xiv. 8. xvi. 5.
+Lymphatics, paralysis of, xxviii.
+—— See Absorbents.
+
+
+M.
+
+
+Mad-dog, bite of, xxii. 3. 3.
+Madness, xxxiv. 2. 1. xii. 2. 1.
+Magnetism, xii. 1. 1.
+Magnifying objects, new way of, xl. 10. 5.
+Male animals have teats, xxxix. 4. 8.
+—— pigeons give milk, xxxix. 4. 8.
+Man distinguished from brutes, xi. 2. 3. xvi. 17.
+Material world, xiv. 1. xiv. 2. 5. xviii. 7.
+Matter, penetrability of, xiv. 2. 3.
+—— purulent, xxxiii. 2. 4.
+Measles, xxxiii. 2. 9.
+Membranes, xxvi. 2.
+Memory defined, ii. 2. 10. xv. 1. 7. xv. 3.
+Menstruation by lunar periods, xxxii. 6.
+Miscarriage from fear, xxxix. 6. 5.
+Mobility of fibres, xii. 1. 7.
+Momentum of the blood, xxxii. 5. 2.
+—— sometimes increased by venesection, xxxii. 5. 4.
+Monsters, xxxix. 4. 4. and 5. 2.
+—— without heads, xxxviii. 3.
+Moon and sun, their influence, xxxii. 6.
+Mortification, xxxiii. 3. 3.
+Motion is either cause or effect, i. xiv. 2. 2.
+—— primary and secondary, i.
+—— animal, i. iii. 1.
+—— propensity to, xxii. 1.
+—— animal, continue some time after their production, xvii. 1. 3.
+—— defined, a variation of figure, iii. 1. xiv. 2. 2. xxxix. 8.
+Mucus, experiments on, xxvi. 1.
+—— secretion of, xxvi. 2.
+Mules, xxxix. 4. 5. and 6. xxxix. 5. 2.
+Mule plants, xxxix. 2.
+Musc� volitantes, xl. 2.
+Muscles constitute an organ of sense, xiv. 7. ii. 2. 4.
+—— stimulated by extension, xi. 1. xiv. 7.
+—— contract by spirit of animation, xii. 1. 1. and 3.
+Music, xvi. 10. xxii. 2.
+Musical time, why agreeable, xii. 3. 3.
+
+
+N.
+
+
+Nausea, xxv. 6.
+Nerves and brain, ii. 2. 3.
+—— extremities of form the whole system, xxxvii. 3.
+—— are not changed with age, xxxvii. 4.
+Nervous pains defined, xxxiv. 1. 1.
+Number defined, xiv. 2. 2.
+Nutriment for the embryon, xxxix. 5. 2.
+Nutrition owing to stimulus, xxxvii. 3.
+—— by animal selection, xxxvii. 3.
+—— when the fibres are elongated, xxxvii. 3.
+—— like inflammation, xxxvii. 3.
+
+
+O.
+
+
+Objects long viewed become faint, iii. 3. 2.
+Ocular spectra, xl.
+Oil externally in diab�tes, xxix. 4.
+Old age from inirritability, xxxvii.
+Opium is stimulant, xxxii. 2. 2.
+—— promotes absorption after evacuation, xxxiii. 3. 1.
+—— in increasing doses, xii. 3. 1.
+Organs of sense, ii. 2. 5. and 6.
+Organs when destroyed cease to produce ideas, iii. 4. 4.
+Organic particles of Buffon, xxxvii. 3. xxxix. 3. 3.
+Organ-pipes, xx. 7.
+Oxygenation of the blood, xxxviii.
+
+
+P.
+
+
+Pain from excess and defect of motion, iv. 5. xii. 5. 3. xxxiv. 1. xxxv. 2. 1.
+—— not felt during exertion, xxxiv. 1. 2.
+—— from greater contraction of fibres, xii. 1. 6.
+—— from accumulation of sensorial power, xii. 5. 3.
+—— from light, pressure, heat, caustics, xiv. 9.
+—— in epilepsy, xxxv. 2. 1.
+—— distant from its cause, xxiv. 2. 8.
+—— from stone in the bladder, xxxv. 2. 1.
+—— of head and back from defect, xxxii. 3.
+—— from a gall-stone, xxxv. 2. 1. xxv. 17.
+—— of the stomach in gout, xxv. 17.
+—— of shoulder in hepatitis, xxxv. 2. 4.
+—— produces volition, iv. 6.
+Paleness in cold fit, xxxii. 3. 2.
+Palsies explained, xxxiv. 1. 7.
+Paralytic limbs stretch from irritation, vii. 1. 3.
+—— patients move their sound limb much, xii. 5. 1.
+Paralysis from great exertion, xii. 4. 6.
+—— from less exertion, xii. 5. 6.
+—— of the lacteals, xxviii.
+—— of the liver, xxx. 1. 4.
+—— of the right arm, why, xxxiv. 1. 7.
+—— of the veins, xxvii. 2.
+Particles of matter will not approach, xii. 1. 1.
+Passions, xi. 2. 2.
+—— connate, xvi. 1.
+Pecking of chickens, xvi. 4.
+Perception defined, ii. 2. 8. xv. 3. 1.
+Periods of agues, how formed, xxxii. 3. 4.
+—— of diseases, xxxvi.
+—— of natural actions and of diseased actions, xxxvi.
+Perspiration in fever-fits, xxxii. 9. See Sweat.
+Petechi�, xxvii. 2.
+Pigeons secrete milk in their stomachs, xxxix. 4. 8.
+Piles, xxvii. 2.
+Placenta a pulmonary organ, xxxviii. 2.
+Pleasure of life, xxxiii. 1. xxxix. 5.
+—— from greater fibrous contractions, xii. 1. 6.
+—— what kind causes laughter, xxxiv. 1. 4.
+—— what kind causes sleep, xxxiv. 1. 4.
+Pleurisy, periods of, xxxvi. 3. 7.
+—— cause of, xxxv. 2. 3.
+Prometheus, story of, xxx. 3.
+Prostration of strength in fevers, xii. 4. 1.
+Pupils of the eyes large, xxxi. 1.
+Pulse quick in fevers with debility, xii. 1. 4. xii. 5. 4. xxxii. 2. 1.
+—— in fevers with strength, xxxii. 2.
+—— from defect of blood, xxxii. 2. 3. xii. 1. 4.
+—— weak from emetics, xxv. 17.
+
+
+Q.
+
+
+Quack advertisements injurious. Preface.
+Quadrupeds have no sanguiferous lochia, xxxviii. 2.
+—— have nothing similar to the yolk of egg, xxxix. 1.
+
+
+R.
+
+
+Rhaphania, periods of, xxxvi. 3. 9.
+Reason, ix. 1. 2. xv. 3.
+Reasoning, xv. 3.
+Recollection, ii. 2. 10. ix. 1. 2. xv. 2. 3.
+Relaxation and bracing, xxxii. 3. 2.
+Repetition, why agreeable, xii. 3. 3. xxii. 2.
+Respiration affected by attention, xxxvi. 2. 1.
+Restlessness in fevers, xxxiv. 1. 2.
+Retrograde motions, xii. 5. 5. xxv. 6. xxix. 11.
+—— of the stomach, xxv. 6.
+—— of the skin, xxv. 9.
+—— of fluids, how distinguished, xxix. 8.
+—— how caused, xxix. 11. 5.
+—— vegetable motions, xxix. 9.
+Retina is fibrous, iii. 2. xl. 1.
+—— is active in vision, iii. 3. xl. 1.
+—— excited into spasmodic motions, xl. 7.
+—— is sensible during sleep, xviii. 5. xix. 8.
+Reverie, xix. 1. xxxiv. 3.
+—— case of a sleep-walker, xix. 2.
+—— is an epileptic disease, xix. 9.
+Rhymes in poetry, why agreeable, xxii. 2.
+Rheumatism, three kinds of, xxvi. 3.
+Rocking young children, xxi. 3.
+Ruminating animals, xxv. 1.
+
+
+S.
+
+
+Saliva produced by mercury, xxiv. 1.
+—— by food, xxiv. 1. 1.
+—— by ideas, xxiv. 1. 2. and 5.
+—— by disordered volition, xxiv. 1. 7.
+Schirrous tumours revive, xii. 2. 2.
+Screaming in pain, xxxiv. 1. 3.
+Scrophula, its temperament, xxxi. 1.
+—— xxviii. 2. xxxix. 4. 5.
+Scurvy of the lungs, xxvii. 2.
+Sea-sickness, xx. 4.
+—— stopped by attention, xx. 5.
+Secretion, xxxiii. 1. xxxvii.
+—— increased during sleep, xviii. 16.
+Seeds require oxygenation, xxxviii. 2.
+Sensation defined, ii. 2. 9. v. 2. xxxix. 8. 4.
+—— diseases of, xxxiii.
+—— from fibrous contractions, iv. 5. xii. 1. 6.
+—— in an amputated limb, iii. 6. 3.
+—— affects the whole sensorium, xi. 2.
+—— produces volition, iv. 6.
+Sensibility increases during sleep, xviii. 15.
+Sensitive motions, viii. xxxiii. 2. xxxiv. 1.
+—— fevers of two kinds, xxxiii. 1. 2.
+—— ideas, xv. 2. 2.
+Sensorium defined, ii. 2. 1.
+Senses correct one another, xviii. 7.
+—— distinguished from appetites, xxxiv. 1. 1.
+Sensorial power. See Spirit of Animation.
+—— great expence of in the vital motions, xxxii. 3. 2.
+—— two kinds of excited in sensitive fevers, xxxiii. 1. 3.
+—— powers defined, v. 1.
+—— motions distinguished from fibrous motions, v. 3.
+—— not much, accumulated in sleep, xviii. 2.
+—— powers, accumulation of, xii. 5. 1.
+—— exhaustion of, xii. 4. 1.
+—— wasted below natural in hot fits, xxxii. 9. 3.
+—— less exertion of produces pain, xii. 5. 3.
+—— less quantity of it, xii. 5. 4.
+Sensual motions distinguished from muscular, ii. 2. 7.
+Sex owing to the imagination of the father, xxxix. 7. 6. xxxix. 6. 3. xxxix. 6. 7. xxxix. 5.
+Shingles from inflamed kidney, xxxv. 2. 2.
+Shoulders broad, xxxi. 1. xxxix. 7. 6.
+Shuddering from cold, xxxiv. 1. 1. and 2.
+Sight, its accuracy in men, xvi. 6.
+Skin, skurf on it, xxvi. 1.
+Sleep suspends volition, xviii. 1.
+—— defined, xviii. 21.
+—— remote causes, xviii. 20.
+—— sensation continues in it, xviii. 2.
+—— from food, xxi. 1.
+—— from rocking, uniform sounds, xxi. 1.
+—— from wine and opium, xxi. 3.
+—— why it invigorates, xii. 5. 1.
+—— pulse slower and fuller, xxxii. 2. 2.
+—— interrupted, xxvii. 2.
+—— from breathing less oxygene, xviii. 20.
+—— from being whirled on a millstone, xviii. 20.
+—— from application of cold, xviii. 20.
+—— induced by regular hours, xxxvi. 2. 2.
+Sleeping animals, xii. 2. 2.
+Sleep-walkers. See Reverie, xix. 1.
+Small-pox, xxxiii. 2. 6. xxxix. 6. 1.
+—— eruption first on the face, why, xxxv. 1. 1. xxxiii. 2. 10.
+—— the blood will not infect, xxxiii. 2. 10.
+—— obeys lunations, xxxvi. 4.
+Smell, xiv. 5. xvi. 5.
+Smiling, origin of, xvi. 8. 4.
+Solidity, xiv. 2. 1.
+Somnambulation. See Reverie, xix. 1.
+Space, xiv. 2. 2.
+Spasm, doctrine of, xxxii. 10.
+Spectra, ocular, xl.
+—— mistaken for spectres, xl. 2.
+—— vary from long inspection, iii. 3. 5.
+Spirit of animation. See Sensorial Power.
+—— of animation causes fibrous contraction, iv. 2. ii. 2. 1. xiv. 2. 4.
+—— possesses solidity, figure, and other properties of matter, xiv. 2. 4.
+Spirits and angels, xiv. 2. 4.
+Stammering explained, xvii. 1. 10. xvii. 2. 10.
+Stimulus defined, ii. 2. 13. iv. 4. xii. 2. 1.
+—— of various kinds, xi. 1.
+—— with lessened effect, xii. 3. 1.
+—— with greater effect, xii. 3. 3.
+—— ceases to produce sensation, xii. 3. 6.
+Stomach and intestines, xxv.
+—— inverted by great stimulus, xxv. 6.
+—— its actions decreased in vomiting, xxxv. 1. 3.
+—— a blow on it occasions death, xxv. 17.
+Stools black, xxvii. 2.
+Strangury, xxxv. 2. 1.
+Sucking before nativity, xvi. 4.
+Suckling children, sense of, xiv. 8.
+Suggestion defined, ii. 2. 10. xv. 2. 4.
+Sun and moon, their influence, xxxii. 6.
+Surprise, xvii. 3. 7. xviii. 17.
+Suspicion attends madness, xxxiv. 2. 4.
+Swallowing, act of, xxv. 1. xvi. 4.
+Sweat, cold, xxv. 9. xxix. 6.
+—— in hot fit of fever, xxxii. 9.
+—— in a morning, why, xviii. 15.
+Sweaty hands cured by lime, xxix. 4. 9.
+Swinging and rocking, why agreeable, xxi. 3.
+Sympathy, xxxv. 1.
+Syncope, xii. 7. 1. xxxiv. 1. 6.
+
+
+T.
+
+
+T�dium vit�. See Ennui.
+Tape-worm, xxxix. 2. 3.
+Taste, sense of, xiv. 5.
+Tears, secretion of, xxiv.
+—— from grief, xvi. 8. 2.
+—— from tender pleasure, xvi. 8. 3.
+—— from stimulus of nasal duct, xvi. 8. xxiv. 2. 4.
+—— by volition, xxiv. 2. 6.
+Teeth decaying cause headachs, xxxv. 2. 1.
+Temperaments, xxxi.
+Theory of medicine, wanted. Preface.
+Thirst, sense of, xiv. 8.
+—— why in dropsies, xxix. 5.
+Tickle themselves, children cannot, xvii. 3. 5.
+Tickling, xiv. 9.
+Time, xiv. 2. 2. xviii. 12.
+—— lapse of, xv. 3. 6.
+—— poetic and musical, why agreeable, xxii. 2.
+—— dramatic, xviii. 12.
+Tooth-edge, xvi. 10. iii. 4. 3. xxii. 3. 3.
+Touch, sense of, xiv. 2. 1.
+—— liable to vertigo, xxi. 9.
+—— of various animals, xvi. 6.
+Trains of motions inverted, xii. 5. 5.
+Transfusion of blood in nervous fever, xxxii. 4.
+Translations of matter, xxix. 7.
+Typhus, best quantity of stimulus in, xii. 7. 8.
+—— periods of observe lunar days, xxxii. 6.
+
+
+U.
+
+
+Ulcers, art of healing, xxxiii. 3. 2.
+—— of the lungs, why difficult to heal, xxviii. 2.
+Uniformity in the fine arts, why agreeable, xxii. 2.
+Urine pale in intoxication, xxi. 6.
+—— paucity of in anasarca, why, xxix. 5.
+—— its passage from intestines to bladder, xxix. 3.
+—— copious during sleep, xviii. 15.
+
+
+V.
+
+
+Variation, perpetual, of irritability, xii. 2. 1.
+Vegetable buds are inferior animals, xiii. 1.
+—— exactly resemble their parents, xxxix.
+—— possess sensation and volition, xiii. 2.
+—— have associate and retrograde motions, xiii. 4. xxix. 9.
+—— their anthers and stigmas are alive, xiii. 5.
+—— have organs of sense and ideas, xiii. 5.
+—— contend for light and air, xxxix. 4. 8.
+—— duplicature of their flowers, xxxix. 4. 4.
+Veins are absorbents, xxvii. 1.
+—— paralysis of, xxvii. 1.
+Venereal orgasm of brutes, xxxii. 6.
+Venesection in nervous pains, xxxii. 5. 4.
+Verbs of three kinds, xv. 3. 4.
+Verses, their measure, xxii. 2.
+Vertigo, xx.
+—— defined, xx. 11.
+—— in looking from a tower, xx. 1.
+—— in a ship at sea, xx. 4.
+—— of all the senses, xxi. 9.
+—— by intoxication, xxxv. 1. 2.
+Vibratory motions perceived after sailing, xx. 5. xx. 10.
+Vinegar makes the lips pale, xxvii. 1.
+Vis medicatrix of nature, xxxix. 4. 7.
+Vision, sense of, xiv. 3.
+Volition defined, v. 2. xxxiv. 1.
+—— affects the whole sensorium, xi. 2.
+—— diseases of, xxxiv.
+Voluntarity, xi. 2. 4.
+Voluntary motions, ix. xxxiv. 1.
+Voluntary ideas, xv. 2. 3.
+—— criterion of, xi. 2. 3. xxxiv. 1.
+Vomiting from vertigo, xx. 8.
+—— from drunkenness, xx. 8. xxi. 6.
+—— by intervals, xxv. 8.
+—— by voluntary efforts, xxv. 6.
+—— of two kinds, xxxv. 1. 3.
+—— in cold fit of fever, xxxii. 9. 1.
+—— stopped by quicksilver, xxv. 16.
+—— weakens the pulse, xxv. 17.
+
+
+W.
+
+
+Waking, how, xviii. 14.
+Walking, how learnt, xvi. 3.
+Warmth in sleep, why, xviii. 15.
+Weakness defined, xii. 1. 3. xii. 2. 1. xxxii. 3. 2.
+—— cure of, xii. 7. 8.
+—— See Debility.
+Wit producing laughter, xxxiv. 1. 4.
+World generated, xxxix. 4. 8.
+
+
+
+
+END OF THE FIRST VOLUME.
+</div></body></text></TEI>

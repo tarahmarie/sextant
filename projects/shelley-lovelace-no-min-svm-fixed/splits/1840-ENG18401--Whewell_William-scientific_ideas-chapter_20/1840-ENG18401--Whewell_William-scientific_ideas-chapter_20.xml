@@ -1,0 +1,71 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Philosophy of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="20">
+
+NOTE TO CHAPTER X.
+
+
+I have in the last ten chapters described Space, Time, and
+Number by various expressions, all intended to point out
+their office as exemplifying the Ideal Element of human
+knowledge. I have called them Fundamental Ideas;
+Forms of Perception; Forms of Intuition; and
+perhaps other names. I might add yet other phrases. I might
+say that the properties of Space, Time, and Number are
+Laws of the Mind’s Activity in apprehending what is.
+For the mind cannot apprehend any thing or event except
+conformably to the properties of space, time, and number. It
+is not only that it does not, but it can not: and this
+impossibility shows that the law is a law of the mind, and
+not of objects extraneous to the mind.
+It is usual for some of those who reject the doctrines here
+presented to say that the axioms of geometry, and of other
+sciences, are obtained by Induction from facts constantly
+presented by experience. But I do not see how Induction can
+prove that a proposition must be true. The only
+intelligible usage of the word Induction appears to
+me to be, that in which it is applied to a proposition
+which, being separable from the facts in our apprehension,
+and being compared with them, is seen to agree with them.
+But in the cases now spoken of, the proposition is not
+separable from the facts. We cannot infer by induction that
+two straight lines cannot inclose a space, because we cannot
+contemplate special cases of two lines inclosing a space, in
+which it remains to be determined whether or not the
+proposition, that both are straight, is true.
+I do not deny that the activity of the mind by which it
+perceives objects and events as related according to the
+laws of space, time, and number, is awakened and developed
+by being constantly exercised; and that we cannot imagine a
+stage of human existence in which the powers have not been
+awakened and 146 developed by such exercise. In this way,
+experience and observation are necessary conditions and
+prerequisites of our apprehension of geometrical (and other)
+axioms. We cannot see the truth of these axioms without some
+experience, because we cannot see any thing, or be human
+beings, without some experience. This might be expressed by
+saying that such truths are acquired necessarily in the
+course of all experience; but I think it is very
+undesirable to apply, to such a case, the word
+Induction, of which it is so important to us to keep
+the scientific meaning free from confusion. Induction cannot
+give demonstrative proofs, as I have already stated in Book
+1. C. i. sect. 3, and therefore cannot be the ground of
+necessary truths.
+Another expression which may be used to describe the
+Fundamental Ideas here spoken of is suggested by the
+language of a very profound and acute Review of the former
+edition. The Reviewer holds that we pass from special
+experiences to universal truths in virtue of ‘the inductive
+propensity—the irresistible impulse of the mind to
+generalize ad infinitum.’ I have already given
+reasons why I cannot adopt the former expression; but I do
+not see why space, time, number, cause, and the rest, may
+not be termed different forms of the impulse of
+the mind to generalize. But if we put together all the
+Fundamental Ideas as results of the Generalizing Impulse, we
+must still separate them as different modes of action of
+that Impulse, showing themselves in various characteristic
+ways in the axioms and modes of reasoning which belong to
+different sciences. The Generalizing Impulse in one case
+proceeds according to the Idea of Space; in another,
+according to the Idea of Mechanical Cause; and so in other
+subjects.</div></body></text></TEI>

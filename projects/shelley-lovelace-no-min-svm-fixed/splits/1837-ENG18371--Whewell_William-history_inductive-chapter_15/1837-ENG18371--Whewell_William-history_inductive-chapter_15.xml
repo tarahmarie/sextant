@@ -1,0 +1,672 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="15">CHAPTER I.
+On the Indistinctness of Ideas of the Middle
+Ages.
+THAT firm and entire
+possession of certain clear and distinct general ideas which is
+necessary to sound science, was the character of the minds of those
+among the ancients who created the several sciences which arose among
+them. It was indispensable that such inventors should have a luminous
+and steadfast apprehension of certain general relations, such as those
+of space and number, order and cause; and should be able to apply
+these notions with perfect readiness and precision to special facts
+and cases. It is necessary that such scientific notions should be more
+definite and precise than those which common language conveys; and in
+this state of unusual clearness, they must be so familiar to the
+philosopher, that they are the language in which he thinks. The
+discoverer is thus led to doctrines which other men adopt and follow
+out, in proportion as they seize the fundamental ideas, and become
+acquainted with the leading facts. Thus Hipparchus, conceiving clearly
+the motions and combinations of motion which enter into his theory,
+saw that the relative lengths of the seasons were sufficient data for
+determining the form of the sun’s orbit; thus Archimedes, possessing a
+steady notion of mechanical pressure, was able, not only to deduce the
+properties of the lever and of the centre of gravity, but also to see
+the truth of those principles respecting the distribution of pressure
+in fluids, on which the science of hydrostatics depends.
+With the progress of such distinct ideas, the inductive sciences
+rise and flourish; with the decay and loss of such distinct ideas,
+these sciences become stationary, languid, and retrograde. When men
+merely repeat the terms of science, without attaching to them any
+clear conceptions;—when their apprehensions become vague and
+dim;—when they assent to scientific doctrines as a matter of
+tradition, rather than of conviction, on trust rather than on
+sight;—when science is considered as a collection of opinions,
+rather than a record of laws by which the universe is really
+governed;—it must inevitably happen, that men will lose their
+hold on the knowledge which the great discoverers who preceded them
+have brought to light. They are not able to push forwards the truths
+on which they lay so 187 feeble and irresolute a hand; probably
+they cannot even prevent their sliding back towards the obscurity from
+which they had been drawn, or from being lost altogether. Such
+indistinctness and vacillation of thought appear to have prevailed in
+the stationary period, and to be, in fact, intimately connected with
+its stationary character. I shall point out some indications of the
+intellectual peculiarity of which I speak.
+1. Collections of Opinions.—The fact, that mere
+Collections of the opinions of physical philosophers came to hold a
+prominent place in literature, already indicated a tendency to an
+indistinct and wandering apprehension of such opinions. I speak of
+such works as Plutarch’s five Books “on the Opinions of Philosophers,”
+or the physical opinions which Diogenes Laërtius gives in his “Lives
+of the Philosophers.” At an earlier period still, books of this kind
+appear; as for instance, a large portion of Pliny’s Natural History, a
+work which has very appropriately been called the Encyclopædia of
+Antiquity; even Aristotle himself is much in the habit of enumerating
+the opinions of those who had preceded him. To present such statements
+as an important part of physical philosophy, shows an erroneous and
+loose apprehension of its nature. For the only proof of which its
+doctrines admit, is the possibility of applying the general theory to
+each particular case; the authority of great men, which in moral and
+practical matters may or must have its weight, is here of no force;
+and the technical precision of ideas which the terms of a sound
+physical theory usually demand, renders a mere statement of the
+doctrines very imperfectly intelligible to readers familiar with
+common notions only. To dwell upon such collections of opinions,
+therefore, both implies, and produces, in writers and readers, an
+obscure and inadequate apprehension of the full meaning of the
+doctrines thus collected; supposing there be among them any which
+really possess such a clearness, solidity, and reality, as to make
+them important in the history of science. Such diversities of opinion
+convey no truth; such a multiplicity of statements of what has been
+said, in no degree teaches us what is; such
+accumulations of indistinct notions, however vast and varied, do not
+make up one distinct idea. On the contrary, the habit of dwelling upon
+the verbal expressions of the views of other persons, and of being
+content with such an apprehension of doctrines as a transient notice
+can give us, is fatal to firm and clear thought: it indicates wavering
+and feeble conceptions, which are inconsistent with speculation. 188
+We may, therefore, consider the prevalence of Collections of the
+kind just referred to, as indicating a deficiency of philosophical
+talent in the ages now under review. As evidence of the same
+character, we may add the long train of publishers of Abstracts,
+Epitomes, Bibliographical Notices, and similar writers. All such
+writers are worthless for all purposes of science, and their
+labors may be considered as dead works; they have in them no principle
+of philosophical vitality; they draw their origin and nutriment from
+the death of true physical knowledge; and resemble the swarms of
+insects that are born from the perishing carcass of some noble
+animal.
+2. Indistinctness of Ideas in Mechanics.—But the
+indistinctness of thought which is so fatal a feature in the intellect
+of the stationary period, may be traced more directly in the works,
+even of the best authors, of those times. We find that they did not
+retain steadily the ideas on which the scientific success of the
+previous period had depended. For instance, it is a remarkable
+circumstance in the history of the science of Mechanics, that it did
+not make any advance from the time of Archimedes to that of Stevinus
+and Galileo. Archimedes had established the doctrine of the lever;
+several persons tried, in the intermediate time, to prove the property
+of the inclined plane, and none of them succeeded. But let us look to
+the attempts; for example, that of Pappus, in the eighth Book of his
+Mathematical Collections, and we may see the reason of the failure.
+His Problem shows, in the very terms in which it is propounded, the
+want of a clear apprehension of the subject. “Having given the power
+which will draw a given weight along the horizontal plane, to find the
+additional power which will draw the same weight along a given
+inclined plane.” This is proposed without previously defining how
+Powers, producing such effects, are to be measured; and as if the
+speed with which the body were drawn, and the nature of the surface of
+the plane, were of no consequence. The proper elementary Problem is,
+To find the force which will support a body on a smooth
+inclined plane; and no doubt the solution of Pappus has more reference
+to this problem than to his own. His reasoning is, however, totally at
+variance with mechanical ideas on any view of the problem. He supposes
+the weight to be formed into a sphere; and this sphere being placed in
+contact with the inclined plane, he assumes that the effect will be
+the same as if the weight were supported on a horizontal lever, the
+fulcrum being the point of contact of the sphere with the plane, and
+the power acting at the circumference of the sphere. Such an
+assumption implies an entire 189 absence of those distinct ideas of force
+and mechanical pressure, on which our perception of the identity or
+difference of different modes of action must depend;—of those
+ideas by the help of which Archimedes had been able to demonstrate the
+properties of the lever, and Stevinus afterwards discovered the true
+solution of the problem of the inclined plane. The motive to Pappus’s
+assumption was probably no more than this;—he perceived that the
+additional power, which he thus obtained, vanished when the plane
+became horizontal, and increased as the inclination became greater.
+Thus his views were vague; he had no clear conception of mechanical
+action, and he tried a geometrical conjecture. This is not the way to
+real knowledge.
+Pappus (who lived about a. d. 400) was one
+of the best mathematicians of the Alexandrian school; and, on subjects
+where his ideas were so indistinct, it is not likely that any much
+clearer were to be found in the minds of his contemporaries.
+Accordingly, on all subjects of speculative mechanics, there appears
+to have been an entire confusion and obscurity of thought till modern
+times. Men’s minds were busy in endeavoring to systematize the
+distinctions and subtleties of the Aristotelian school, concerning
+Motion and Power; and, being thus employed among doctrines in which
+there was involved no definite meaning capable of real
+exemplification, they, of course, could not acquire sound physical
+knowledge. We have already seen that the physical opinions of
+Aristotle, even as they came from him, had no proper scientific
+precision. His followers, in their endeavors to perfect and develop
+his statements, never attempted to introduce clearer ideas than those
+of their master; and as they never referred, in any steady manner, to
+facts, the vagueness of their notions was not corrected by any
+collision with observation. The physical doctrines which they
+extracted from Aristotle were, in the course of time, built up into a
+regular system; and though these doctrines could not be followed into
+a practical application without introducing distinctions and changes,
+such as deprived the terms of all steady signification, the dogmas
+continued to be repeated, till the world was persuaded that they were
+self-evident; and when, at a later period, experimental philosophers,
+such as Galileo and Boyle, ventured to contradict these current
+maxims, their new principles sounded in men’s ears as strange as they
+now sound familiar. Thus Boyle promulgated his opinions on the
+mechanics of fluids, as “Hydrostatical Paradoxes, proved and
+illustrated by experiments.” And the opinions which he there opposes,
+are those which the Aristotelian philosophers habitually propounded as
+certain 190 and
+indisputable; such, for instance, as that “in fluids the upper parts
+do not gravitate on the lower;” that “a lighter fluid will not
+gravitate on a heavier;” that “levity is a positive quality of bodies
+as well as gravity.” So long as these assertions were left uncontested
+and untried, men heard and repeated them, without perceiving the
+incongruities which they involved: and thus they long evaded
+refutation, amid the vague notions and undoubting habits of the
+stationary period. But when the controversies of Galileo’s time had
+made men think with more acuteness and steadiness, it was discovered
+that many of these doctrines were inconsistent with themselves, as
+well as with experiment. We have an example of the confusion of
+thought to which the Aristotelians were liable, in their doctrine
+concerning falling bodies. “Heavy bodies,” said they, “must fall
+quicker than light ones; for weight is the cause of their fall, and
+the weight of the greater bodies is greater.” They did not perceive
+that, if they considered the weight of the body as a power acting to
+produce motion, they must consider the body itself as offering a
+resistance to motion; and that the effect must depend on the
+proportion of the power to the resistance; in short, they had no clear
+idea of accelerating force. This defect runs through all
+their mechanical speculations, and renders them entirely
+valueless.
+We may exemplify the same confusion of thought on mechanical
+subjects in writers of a less technical character. Thus, if men had
+any distinct idea of mechanical action, they could not have accepted
+for a moment the fable of the Echineis or Remora, a little fish which
+was said to be able to stop a large ship merely by sticking to it.1
+Lucan refers to this legend in a poetical manner, and notices this
+creature only in bringing together a collection of monstrosities; but
+Pliny relates the tale gravely, and moralizes upon it after his
+manner. “What,” he cries,2 “is more violent than the sea and the
+winds? what a greater work of art than a ship? Yet one little fish
+(the Echineis) can hold back all these when they all strain the same
+way. The winds may 191 blow, the waves may rage; but this small
+creature controls their fury, and stops a vessel, when chains and
+anchors would not hold it: and this it does, not by hard labor, but
+merely by adhering to it. Alas, for human vanity! when the turreted
+ships which man has built, that he may fight from castle-walls, at sea
+as well as at land, are held captive and motionless by a fish a foot
+and a half long! Such a fish is said to have stopped the admiral’s
+ship at the battle of Actium, and compelled Antony to go into another.
+And in our own memory, one of these animals held fast the ship of
+Caius, the emperor, when he was sailing from Astura to Antium. The
+stopping of this ship, when all the rest of the fleet went on, caused
+surprise; but this did not last long, for some of the men jumped into
+the water to look for the fish, and found it sticking to the rudder;
+they showed it to Caius, who was indignant that this animal should
+interpose its prohibition to his progress, when impelled by four
+hundred rowers. It was like a slug; and had no power, after it was
+taken into the ship.”
+1 Lucan is describing one of the
+poetical compounds produced in incantations.
+
+
+Huc quicquid fœtu genuit Natura sinistro
+Miscetur: non spuma canum quibus unda timori
+est,
+Viscera non lyncis, non duræ nodus hyænæ
+Defuit, et cervi pasti serpente medullæ;
+Non puppes retinens, Euro tendente rudentes
+In mediis Echineis aquis, oculique
+draconum.
+Etc.
+          
+Pharsalia, vi. 670.
+
+
+2 Plin. Hist. N. xxxii. 5.
+A very little advance in the power of thinking clearly on the force
+which it exerted in pulling, would have enabled the Romans to see that
+the ship and its rowers must pull the adhering fish by the hold the
+oars had upon the water; and that, except the fish had a hold equally
+strong on some external body, it could not resist this force.
+3. Indistinctness of Ideas shown in
+Architecture.—Perhaps it may serve to illustrate still
+further the extent to which, under the Roman empire, men’s notions of
+mechanical relations became faint, wavered, and disappeared, if we
+observe the change which took place in architecture. All architecture,
+to possess genuine beauty, must be mechanically consistent. The
+decorative members must represent a structure which has in it a
+principle of support and stability. Thus the Grecian colonnade was a
+straight horizontal beam, resting on vertical props; and the pediment
+imitated a frame like a roof, where oppositely inclined beams support
+each other. These forms of building were, therefore, proper models of
+art, because they implied supporting forces. But to be content with
+colonnades and pediments, which, though they imitated the forms of the
+Grecian ones, were destitute of their mechanical truth, belonged to
+the decline of art; and showed that men had lost the idea of force,
+and retained only that of shape. Yet this was what the architects of
+the Roman empire did. Under their hands, the pediment was severed at
+its vertex, and divided into separate halves, so that it was no longer
+a mechanical possibility. The entablature no longer lay straight from
+pillar to pillar, but, projecting over each 192 column, turned back to the wall, and
+adhered to it in the intervening space. The splendid remains of
+Palmyra, Balbec, Petra, exhibit endless examples of this kind of
+perverse inventiveness; and show us, very instructively, how the decay
+of art and of science alike accompany this indistinctness of ideas
+which we are now endeavoring to illustrate.
+4. Indistinctness of Ideas in Astronomy.—Returning to
+the sciences, it may be supposed, at first sight, that, with regard to
+astronomy, we have not the same ground for charging the stationary
+period with indistinctness of ideas on that subject, since they were
+able to acquire and verify, and, in some measure, to apply, the
+doctrines previously established. And, undoubtedly, it must be
+confessed that men’s notions of the relations of space and number are
+never very indistinct. It appears to be impossible for these chains of
+elementary perception ever to be much entangled. The later Greeks, the
+Arabians, and the earliest modern astronomers, must have conceived the
+hypotheses of the Ptolemaic system with tolerable completeness. And
+yet, we may assert, that during the stationary period, men did not
+possess the notions, even of space and number, in that vivid and
+vigorous manner which enables them to discover new truths. If they had
+perceived distinctly that the astronomical theorist had merely to do
+with relative motions, they must have been led to see the
+possibility, at least, of the Copernican system; as the Greeks, at an
+earlier period, had already perceived it. We find no trace of this.
+Indeed, the mode in which the Arabian mathematicians present the
+solutions of their problems, does not indicate that clear apprehension
+of the relations of space, and that delight in the contemplation of
+them, which the Greek geometrical speculations imply. The Arabs are in
+the habit of giving conclusions without demonstrations, precepts
+without the investigations by which they are obtained; as if their
+main object were practical rather than speculative,—the
+calculation of results rather than the exposition of theory.
+Delambre3 has been obliged to exercise great
+ingenuity, in order to discover the method by which Ibn Iounis proved
+his solution of certain difficult problems.
+3 Delamb. M. A. p.
+125–8.
+5. Indistinctness of Ideas shown by Skeptics.—The same
+unsteadiness of ideas which prevents men from obtaining clear views,
+and steady and just convictions, on special subjects, may lead them to
+despair of or deny the possibility of acquiring certainty at all, and
+may thus make them skeptics with regard to all knowledge. Such
+skeptics 193 are
+themselves men of indistinct views, for they could not otherwise avoid
+assenting to the demonstrated truths of science; and, so far as they
+may be taken as specimens of their contemporaries, they prove that
+indistinct ideas prevail in the age in which they appear. In the
+stationary period, moreover, the indefinite speculations and
+unprofitable subtleties of the schools might further impel a man of
+bold and acute mind to this universal skepticism, because they offered
+nothing which could fix or satisfy him. And thus the skeptical spirit
+may deserve our notice as indicative of the defects of a system of
+doctrine too feeble in demonstration to control such resistance.
+The most remarkable of these philosophical skeptics is Sextus
+Empiricus; so called, from his belonging to that medical sect which
+was termed the empirical, in contradistinction to the
+rational and methodical sects. His works contain a
+series of treatises, directed against all the divisions of the science
+of his time. He has chapters against the Geometers, against the
+Arithmeticians, against the Astrologers, against the Musicians, as
+well as against Grammarians, Rhetoricians, and Logicians; and, in
+short, as a modern writer has said, his skepticism is employed as a
+sort of frame-work which embraces an encyclopedical view of human
+knowledge. It must be stated, however, that his objections are rather
+to the metaphysical grounds, than to the details of the sciences; he
+rather denies the possibility of speculative truth in general, than
+the experimental truths which had been then obtained. Thus his
+objections to geometry and arithmetic are founded on abstract cavils
+concerning the nature of points, letters, unities, &c. And when he
+comes to speak against astrology, he says, “I am not going to consider
+that perfect science which rests upon geometry and arithmetic; for I
+have already shown the weakness of those sciences: nor that faculty of
+prediction (of the motions of the heavens) which belongs to the pupils
+of Eudoxus, and Hipparchus, and the rest, which some call Astronomy;
+for that is an observation of phenomena, like agriculture or
+navigation: but against the Art of Prediction from the time of birth,
+which the Chaldeans exercise.” Sextus, therefore, though a skeptic by
+profession, was not insensible to the difference between experimental
+knowledge and mystical dogmas, though even the former had nothing
+which excited his admiration.
+The skepticism which denies the evidence of the truths of which the
+best established physical sciences consist, must necessarily involve a
+very indistinct apprehension of those truths; for such truths,
+properly exhibited, contain their own evidence, and are the best
+antidote 194 to
+this skepticism. But an incredulity or contempt towards the asserted
+truths of physical science may arise also from the attention being
+mainly directed to the certainty and importance of religious truths. A
+veneration for revealed religion may thus assume the aspect of a
+skepticism with regard to natural knowledge. Such appears to be the
+case with Algazel or Algezeli, who is adduced by Degerando4
+as an example of an Arabian skeptic. He was a celebrated teacher at
+Bagdad in the eleventh century, and he declared himself the enemy, not
+only of the mixed Peripatetic and Platonic philosophy of the time, but
+of Aristotle himself. His work entitled The Destructions of the
+Philosophers, is known to us by the refutation of it which
+Averrhoes published, under the title of Destruction of Algazel’s
+Destructions of the Philosophers. It appears that he contested the
+fundamental principles both of the Platonic and of the Aristotelian
+schools, and denied the possibility of a known connection between
+cause and effect; thus making a prelude, says Degerando, to the
+celebrated argumentation of Hume.
+4 Degerando, Hist. Comp. de
+Systèmes, iv. 224.
+[2d Ed.] Since the publication of my first edition, an account of
+Algazel or Algazzali and his works has been published under the title
+of Essai sur les Ecoles Philosophiques chez les Arabes, et
+notamment sur la Doctrine d’Algazzali, par August Schmölders.
+Paris. 1842. From this book it appears that Degerando’s account of
+Algazzali is correct, when he says5 that “his
+skepticism seems to have essentially for its object to destroy all
+systems of merely rational theology, in order to open an indefinite
+career, not only to faith guided by revelation, but also to the free
+exaltation of a mystical enthusiasm.” It is remarked by Dr.
+Schmölders, following M. de Hammer-Purgstall, that the title of the
+work referred to in the text ought rather to be Mutual Refutation
+of the Philosophers: and that its object is to show that
+Philosophy consists of a mass of systems, each of which overturns the
+others. The work of Algazzali which Dr. Schmölders has published,
+On the Errors of Sects, &c., contains a kind of
+autobiographical account of the way in which the author was led to his
+views. He does not reject the truths of science, but he condemns the
+mental habits which are caused by laying too much stress upon science.
+Religious men, he says, are, by such a course, led to reject all
+science, even what relates to eclipses of the moon and sun; and men of
+science are led to hate religion.6
+5 Hist. Comp. iv. p. 227.
+6 Essai, p. 33.
+195 6.
+Neglect of Physical Reasoning in Christendom.—If the
+Arabians, who, during the ages of which we are speaking, were the most
+eminent cultivators of science, entertained only such comparatively
+feeble and servile notions of its doctrines, it will easily be
+supposed, that in the Christendom of that period, where physical
+knowledge was comparatively neglected, there was still less
+distinctness and vividness in the prevalent ideas on such subjects.
+Indeed, during a considerable period of the history of the Christian
+Church, and by many of its principal authorities, the study of natural
+philosophy was not only disregarded but discommended. The great
+practical doctrines which were presented to men’s minds, and the
+serious tasks, of the regulation of the will and affections, which
+religion impressed upon them, made inquiries of mere curiosity seem to
+be a reprehensible misapplication of human powers; and many of the
+fathers of the Church revived, in a still more peremptory form, the
+opinion of Socrates, that the only valuable philosophy is that which
+teaches us our moral duties and religious hopes.7 Thus Eusebius
+says,8 “It is not through ignorance of the
+things admired by them, but through contempt of their useless labor,
+that we think little of these matters, turning our souls to the
+exercise of better things.” When the thoughts were thus intentionally
+averted from those ideas which natural philosophy involves, the ideas
+inevitably became very indistinct in their minds; and they could not
+conceive that any other persons could find, on such subjects, grounds
+of clear conviction and certainty. They held the whole of their
+philosophy to be, as Lactantius9 asserts it to be,
+“empty and false.” “To search,” says he, “for the causes of natural
+things; to inquire whether the sun be as large as he seems, whether
+the moon is convex or concave, whether the stars are fixed in the sky
+or float freely in the air; of what size and of what material are the
+heavens; whether they be at rest or in motion; what is the magnitude
+of the earth; on what foundations it is suspended and
+balanced;—to dispute and conjecture on such matters, is just as
+if we chose to discuss what we think of a city in a remote country, of
+which we never heard but the name.” It is impossible to express more
+forcibly that absence of any definite notions on physical subjects
+which led to this tone of thought.
+7 Brucker, iii. 317.
+8 Præp. Ev. xv. 61.
+9 Inst. 1. iii. init.
+7. Question of Antipodes.—With such habits of thought,
+we are not to be surprised if the relations resulting from the best
+established theories were apprehended in an imperfect and incongruous
+manner. 196 We have
+some remarkable examples of this; and a very notable one is the
+celebrated question of the existence of Antipodes, or persons
+inhabiting the opposite side of the globe of the earth, and
+consequently having the soles of their feet directly opposed to ours.
+The doctrine of the globular form of the earth results, as we have
+seen, by a geometrical necessity, from a clear conception of the
+various points of knowledge which we obtain, bearing upon that
+subject. This doctrine was held distinctly by the Greeks; it was
+adopted by all astronomers, Arabian and European, who followed them;
+and was, in fact, an inevitable part of every system of astronomy
+which gave a consistent and intelligible representation of phenomena.
+But those who did not call before their minds any distinct
+representation at all, and who referred the whole question to other
+relations than those of space, might still deny this doctrine; and
+they did so. The existence of inhabitants on the opposite side of the
+terraqueous globe, was a fact of which experience alone could teach
+the truth or falsehood; but the religious relations, which extend
+alike to all mankind, were supposed to give the Christian philosopher
+grounds for deciding against the possibility of such a race of men.
+Lactantius,10 in the fourth century, argues this
+matter in a way very illustrative of that impatience of such
+speculations, and consequent confusion of thought, which we have
+mentioned. “Is it possible,” he says, “that men can be so absurd as to
+believe that the crops and trees on the other side of the earth hang
+downwards, and that men there have their feet higher than their heads?
+If you ask of them how they defend these monstrosities—how
+things do not fall away from the earth on that side—they reply,
+that the nature of things is such that heavy bodies tend towards the
+centre, like the spokes of a wheel, while light bodies, as clouds,
+smoke, fire, tend from the centre towards the heavens on all sides.
+Now I am really at a loss what to say of those who, when they have
+once gone wrong, steadily persevere in their folly, and defend one
+absurd opinion by another.” It is obvious that so long as the writer
+refused to admit into his thoughts the fundamental conception of their
+theory, he must needs be at a loss what to say to their arguments
+without being on that account in any degree convinced of their
+doctrines.
+10 Inst. 1. iii. 23.
+In the sixth century, indeed, in the reign of Justinian, we find a
+writer (Cosmas Indicopleustes11) who does not
+rest in this obscurity of 197 representation; but in this case, the
+distinctness of the pictures only serves to show his want of any clear
+conception as to what suppositions would explain the phenomena. He
+describes the earth as an oblong floor, surrounded by upright walls,
+and covered by a vault, below which the heavenly bodies perform their
+revolutions, going round a certain high mountain, which occupies the
+northern parts of the earth, and makes night by intercepting the light
+of the sun. In Augustin12 (who flourished a.
+d. 400) the opinion is treated on other grounds; and without
+denying the globular form of the earth, it is asserted that there are
+no inhabitants on the opposite side, because no such race is recorded
+by Scripture among the descendants of Adam.13 Considerations
+of the same kind operated in the well-known instance of Virgil, Bishop
+of Salzburg, in the eighth century. When he was reported to Boniface,
+Archbishop of Mentz, as holding the existence of Antipodes, the
+prelate was shocked at the assumption, as it seemed to him, of a world
+of human beings, out of the reach of the conditions of salvation; and
+application was made to Pope Zachary for a censure of the holder of
+this dangerous doctrine. It does not, however, appear that this led to
+any severity; and the story of the deposition of Virgil from his
+bishopric, which is circulated by Kepler and by more modern writers,
+is undoubtedly altogether false. The same scruples continued to
+prevail among Christian writers to a later period; and Tostatus14 notes the opinion of the rotundity of
+the earth as an “unsafe” doctrine, only a few years before Columbus
+visited the other hemisphere.
+11 Montfaucon, Collectio Nova
+Patrum, t. ii. p. 113. Cosmas Indicopleustes. Christianorum
+Opiniones de Mundo, sive Topographia Christiana.
+12 Civ. D. xvi. 9.
+13 It appears, however, that
+scriptural arguments were found on the other side. St. Jerome says
+(Comm. in Ezech. i. 6), speaking of the two cherubims with four
+faces, seen by the prophet, and the interpretation of the vision:
+“Alii vero qui philosophorum stultam sequuntur sapientiam, duo
+hemispheria in duobus templi cherubim, nos et antipodes, quasi supinos
+et cadentes homines suspicantur.”
+14 Montfauc. Patr. t. ii.
+8. Intellectual Condition of the Religious Orders.—It
+must be recollected, however, that though these were the views and
+tenets of many religious writers, and though they may be taken as
+indications of the prevalent and characteristic temper of the times of
+which we speak, they never were universal. Such a confusion of thought
+affects the minds of many persons, even in the most enlightened times;
+and in what we call the Dark Ages, though clear views on such subjects
+might be more rare, those who gave their minds to science, entertained
+the true opinion of the figure of the earth. Thus Boëthius15 (in the sixth century) urges the
+smallness of the globe of the earth, 198 compared with the heavens, as a reason
+to repress our love of glory. This work, it will be recollected, was
+translated into the Anglo-Saxon by our own Alfred. It was also
+commented on by Bede, who, in what he says on this passage, assents to
+the doctrine, and shows an acquaintance with Ptolemy and his
+commentators, both Arabian and Greek. Gerbert, in the tenth century,
+went from France to Spain to study astronomy with the Arabians, and
+soon surpassed his masters. He is reported to have fabricated clocks,
+and an astrolabe of peculiar construction. Gerbert afterwards (in the
+last year of the first thousand from the birth of Christ) became pope,
+by the name of Sylvester II. Among other cultivators of the sciences,
+some of whom, from their proficiency, must have possessed with
+considerable clearness and steadiness the elementary ideas on which it
+depends, we may here mention, after Montucla,16 Adelbold, whose
+work On the Sphere was addressed to Pope Sylvester, and whose
+geometrical reasonings are, according to Montucla,17 vague and
+chimerical; Hermann Contractus, a monk of St Gall, who, in 1050,
+published astronomical works; William of Hirsaugen, who followed his
+example in 1080; Robert of Lorraine, who was made Bishop of Hereford
+by William the Conqueror, in consequence of his astronomical
+knowledge. In the next century, Adelhard Goth, an Englishman,
+travelled among the Arabs for purposes of study, as Gerbert had done
+in the preceding age; and on his return, translated the Elements of
+Euclid, which he had brought from Spain or Egypt. Robert Grostête,
+Bishop of Lincoln, was the author of an Epitome on the Sphere; Roger
+Bacon, in his youth the contemporary of Robert, and of his brother
+Adam Marsh, praises very highly their knowledge in mathematics.
+15 Boëthius, Cons. ii. pr.
+7.
+16 Mont. i. 502.
+17 Ib. i. 503.
+“And here,” says the French historian of mathematics, whom I have
+followed in the preceding relation, “it is impossible not to reflect
+that all those men who, if they did not augment the treasure of the
+sciences, at least served to transmit it, were monks, or had been such
+originally. Convents were, during these stormy ages, the asylum of
+sciences and letters. Without these religious men, who, in the silence
+of their monasteries, occupied themselves in transcribing, in
+studying, and in imitating the works of the ancients, well or ill,
+those works would have perished; perhaps not one of them would have
+come down to us. The thread which connects us with the Greeks and
+Romans would have been snapt asunder; the precious productions of
+199 ancient
+literature would no more exist for us, than the works, if any there
+were, published before the catastrophe that annihilated that highly
+scientific nation, which, according to Bailly, existed in remote ages
+in the centre of Tartary, or at the roots of Caucasus. In the sciences
+we should have had all to create; and at the moment when the human
+mind should have emerged from its stupor and shaken off its slumbers,
+we should have been no more advanced than the Greeks were after the
+taking of Troy.” He adds, that this consideration inspires feelings
+towards the religious orders very different from those which, when he
+wrote, were prevalent among his countrymen.
+Except so far as their religious opinions interfered, it was
+natural that men who lived a life of quiet and study, and were
+necessarily in a great measure removed from the absorbing and blinding
+interests with which practical life occupies the thoughts, should
+cultivate science more successfully than others, precisely because
+their ideas on speculative subjects had time and opportunity to become
+clear and steady. The studies which were cultivated under the name of
+the Seven Liberal Arts, necessarily tended to favor this effect. The
+Trivium,18 indeed, which consisted of Grammar,
+Logic, and Rhetoric, had no direct bearing upon those ideas with which
+physical science is concerned; but the Quadrivium, Music,
+Arithmetic, Geometry, Astronomy, could not be pursued with any
+attention, without a corresponding improvement of the mind for the
+purposes of sound knowledge.19
+18 Bruck. iii. 597.
+19 Roger Bacon, in his Specula
+Mathematica, cap. i., says “Harum scientiarum porta et clavis est
+mathematica, quam sancti a principio mundi invenerunt, etc. Cujus
+negligentia jam per triginta vel quadraginta annos destruxit
+totum studium Latinorum.” I do not know on what occasion this neglect
+took place.
+9. Popular Opinions.—That, even in the best
+intellects, something was wanting to fit them for scientific progress
+and discovery, is obvious from the fact that science was so long
+absolutely stationary. And I have endeavored to show that one part of
+this deficiency was the want of the requisite clearness and vigor of
+the fundamental scientific ideas. If these were wanting, even in the
+most powerful and most cultivated minds, we may easily conceive that
+still greater confusion and obscurity prevailed in the common class of
+mankind. They actually adopted the belief, however crude and
+inconsistent, that the form of the earth and heavens really is what at
+any place it appears to be; that the earth is flat, and the waters of
+the sky sustained above a material floor, through which in showers
+they descend. Yet the true doctrines of 200 astronomy appear to have had some
+popular circulation. For instance, a French poem of the time of Edward
+the Second, called Ymage du Monde, contains a metrical account
+of the earth and heavens, according to the Ptolemaic views; and in a
+manuscript of this poem, preserved in the library of the University of
+Cambridge, there are representations, in accordance with the text, of
+a spherical earth, with men standing upright upon it on every side;
+and by way of illustrating the tendency of all things to the centre,
+perforations of the earth, entirely through its mass, are described
+and depicted; and figures are exhibited dropping balls down each of
+these holes, so as to meet in the interior. And, as bearing upon the
+perplexity which attends the motions of up and down,
+when applied to the globular earth, and the change of the direction of
+gravity which would occur in passing the centre, the readers of Dante
+will recollect the extraordinary manner in which the poet and his
+guide emerge from the bottom of the abyss; and the explanation which
+Virgil imparts to him of what he there sees. After they have crept
+through the aperture in which Lucifer is placed, the poet says,
+
+
+“Io levai gli occhi e credetti vedere
+Lucifero com’ io l’ avea lasciato,
+E vidile le gambe in su tenere.”
+.  .  .  .  “Questi come è
+fitto
+Si sottasopra!” .  .  .  . 
+.
+“Quando mi volsi, tu passast’ il punto
+Al qual si traggon d’ ogni parte i pesi.”
+Inferno, xxxiv. 
+
+ .  .  .  . “I raised mine
+eyes,
+Believing that I Lucifer should see
+Where he was lately left, but saw him now
+With legs held upward.” .  .  . .
+
+“How standeth he in posture thus reversed?”
+.  .  .  .  .  . 
+.  .  .  .  .  .  .  .
+“Thou wast on the other side so long as I
+Descended; when I turned, thou didst
+o’erpass
+That point to which from every part is
+dragged
+All heavy substance.” Cary.      
+
+This is more philosophical than Milton’s representation, in a more
+scientific age, of Uriel sliding to the earth on a sunbeam, and
+sliding back again, when the sun had sunk below the horizon.
+
+
+.  .  .  .  .  “Uriel to his
+charge
+Returned on that bright beam whose point now
+raised,
+Bore him slope downward to the sun, now
+fallen
+Beneath the Azores.”  Par. Lost, B.
+iv.    201
+The philosophical notions of up and down are too much at variance
+with the obvious suggestions of our senses, to be held steadily and
+justly by minds undisciplined in science. Perhaps it was some
+misunderstood statement of the curved surface of the ocean, which gave
+rise to the tradition of there being a part of the sea directly over
+the earth, from which at times an object has been known to fall or an
+anchor to be let down. Even such whimsical fancies are not without
+instruction, and may serve to show the reader what that vagueness and
+obscurity of ideas is, of which I have been endeavoring to trace the
+prevalence in the dark ages.
+We now proceed to another of the features which appears to me to
+mark, in a very prominent manner, the character of the stationary
+period.
+</div></body></text></TEI>

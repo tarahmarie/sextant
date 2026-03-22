@@ -1,0 +1,403 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Novum Organon Renovatum</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="9">
+CHAPTER IV.
+Of the Colligation of Facts.
+Aphorism VII.
+Science begins with common observation of facts; but
+even at this stage, requires that the observations be precise.
+Hence the sciences which depend upon space and number
+were the earliest formed. After common observation, come
+Scientific Observation and Experiment.
+Aphorism VIII.
+The Conceptions by which Facts are bound together, are
+suggested by the sagacity of discoverers. This sagacity cannot
+be taught. It commonly succeeds by guessing; and this
+success seems to consist in framing several tentative
+hypotheses and selecting the right one. But a supply of
+appropriate hypotheses cannot be constructed by rule, nor without
+inventive talent.
+Aphorism IX.
+The truth of tentative hypotheses must be tested by their
+application to facts. The discoverer must be ready, carefully
+to try his hypotheses in this manner, and to reject
+them if they will not bear the test, in spite of indolence and
+vanity.
+1. FACTS
+such as the last Chapter speaks of are, by
+means of such Conceptions as are described in
+the preceding Chapter, bound together so as to give
+rise to those general Propositions of which Science
+consists. Thus the Facts that the planets revolve 60
+about the sun in certain periodic times and at certain
+distances, are included and connected in Kepler’s Law,
+by means of such Conceptions as the squares of numbers,
+the cubes of distances, and the proportionality of
+these quantities. Again the existence of this proportion
+in the motions of any two planets, forms a set of
+Facts which may all be combined by means of the
+Conception of a certain central accelerating force, as
+was proved by Newton. The whole of our physical
+knowledge consists in the establishment of such
+propositions; and in all such cases, Facts are bound
+together by the aid of suitable Conceptions. This part
+of the formation of our knowledge I have called the
+Colligation of Facts: and we may apply this term to
+every case in which, by an act of the intellect, we
+establish a precise connexion among the phenomena
+which are presented to our senses. The knowledge of
+such connexions, accumulated and systematized, is
+Science. On the steps by which science is thus collected
+from phenomena we shall proceed now to make
+a few remarks.
+2. Science begins with Common Observation of
+facts, in which we are not conscious of any peculiar
+discipline or habit of thought exercised in observing.
+Thus the common perceptions of the appearances and
+recurrences of the celestial luminaries, were the first
+steps of Astronomy: the obvious cases in which bodies
+fall or are supported, were the beginning of Mechanics;
+the familiar aspects of visible things, were the origin
+of Optics; the usual distinctions of well-known plants,
+first gave rise to Botany. Facts belonging to such
+parts of our knowledge are noticed by us, and accumulated
+in our memories, in the common course of our
+habits, almost without our being aware that we are
+observing and collecting facts. Yet such facts may
+lead to many scientific truths; for instance, in the first
+stages of Astronomy (as we have shown in the History)
+such facts led to Methods of Intercalation and Rules
+of the Recurrence of Eclipses. In succeeding stages
+of science, more especial attention and preparation on
+the part of the observer, and a selection of certain 61
+kinds of facts, becomes necessary; but there is an early
+period in the progress of knowledge at which man is
+a physical philosopher, without seeking to be so, or
+being aware that he is so.
+3. But in all stages of the progress, even in that
+early one of which we have just spoken, it is necessary,
+in order that the facts may be fit materials of
+any knowledge, that they should be decomposed into
+Elementary Facts, and that these should be observed
+with precision. Thus, in the first infancy of astronomy,
+the recurrence of phases of the moon, of places
+of the sun’s rising and setting, of planets, of eclipses,
+was observed to take place at intervals of certain definite
+numbers of days, and in a certain exact order;
+and thus it was, that the observations became portions
+of astronomical science. In other cases, although the
+facts were equally numerous, and their general aspect
+equally familiar, they led to no science, because their
+exact circumstances were not apprehended. A vague
+and loose mode of looking at facts very easily observable,
+left men for a long time under the belief that a
+body, ten times as heavy as another, falls ten times as
+fast;—that objects immersed in water are always magnified,
+without regard to the form of the surface;—that
+the magnet exerts an irresistible force;—that
+crystal is always found associated with ice;—and the
+like. These and many others are examples how blind
+and careless men can be, even in observation of the
+plainest and commonest appearances; and they show
+us that the mere faculties of perception, although
+constantly exercised upon innumerable objects, may long
+fail in leading to any exact knowledge.
+4. If we further inquire what was the favourable
+condition through which some special classes of facts
+were, from the first, fitted to become portions of science,
+we shall find it to have been principally this;—that
+these facts were considered with reference to the
+Ideas of Time, Number, and Space, which are Ideas
+possessing peculiar definiteness and precision; so that
+with regard to them, confusion and indistinctness are
+hardly possible. The interval from new moon to new 62
+moon was always a particular number of days: the
+sun in his yearly course rose and set near to a known
+succession of distant objects: the moon’s path passed
+among the stars in a certain order:—these are observations
+in which mistake and obscurity are not likely
+to occur, if the smallest degree of attention is bestowed
+upon the task. To count a number is, from the first
+opening of man’s mental faculties, an operation which
+no science can render more precise. The relations of
+space are nearest to those of number in obvious and
+universal evidence. Sciences depending upon these
+Ideas arise with the first dawn of intellectual civilization.
+But few of the other Ideas which man employs
+in the acquisition of knowledge possess this clearness
+in their common use. The Idea of Resemblance may
+be noticed, as coming next to those of Space and Number
+in original precision; and the Idea of Cause, in a
+certain vague and general mode of application, sufficient
+for the purposes of common life, but not for the
+ends of science, exercises a very extensive influence
+over men’s thoughts. But the other Ideas on which
+science depends, with the Conceptions which arise out
+of them, are not unfolded till a much later period of
+intellectual progress; and therefore, except in such
+limited cases as I have noticed, the observations of
+common spectators and uncultivated nations, however
+numerous or varied, are of little or no effect in giving
+rise to Science.
+5. Let us now suppose that, besides common everyday
+perception of facts, we turn our attention to some
+other occurrences and appearances, with a design of
+obtaining from them speculative knowledge. This
+process is more peculiarly called Observation, or, when
+we ourselves occasion the facts, Experiment. But the
+same remark which we have already made, still holds
+good here. These facts can be of no value, except
+they are resolved into those exact Conceptions which
+contain the essential circumstances of the case. They
+must be determined, not indeed necessarily, as has
+sometimes been said, ‘according to Number, Weight,
+and Measure;’ for, as we have endeavoured to show 63
+in the preceding Books4,
+there are many other
+Conceptions to which phenomena may be subordinated,
+quite different from these, and yet not at all less
+definite and precise. But in order that the facts obtained
+by observation and experiment may be capable of
+being used in furtherance of our exact and solid knowledge,
+they must be apprehended and analysed according to some
+Conceptions which, applied for this purpose, give distinct
+and definite results, such as can be
+steadily taken hold of and reasoned from; that is, the
+facts must be referred to Clear and Appropriate Ideas,
+according to the manner in which we have already explained
+this condition of the derivation of our knowledge. The
+phenomena of light, when they are such
+as to indicate sides in the ray, must be referred to the
+Conception of polarization; the phenomena of mixture,
+when there is an alteration of qualities as well
+as quantities, must be combined by a Conception of
+elementary composition. And thus, when mere position,
+and number, and resemblance, will no longer answer the
+purpose of enabling us to connect the facts,
+we call in other Ideas, in such cases more efficacious,
+though less obvious.
+4
+Hist. of Sci. Id. Bs. v. vi. vii. viii. ix. x.
+6. But how are we, in these cases, to discover such
+Ideas, and to judge which will be efficacious, in leading
+to a scientific combination of our experimental data?
+To this question, we must in the first place answer,
+that the first and great instrument by which facts, so
+observed with a view to the formation of exact knowledge,
+are combined into important and permanent
+truths, is that peculiar Sagacity which belongs to the
+genius of a Discoverer; and which, while it supplies
+those distinct and appropriate Conceptions which lead
+to its success, cannot be limited by rules, or expressed
+in definitions. It would be difficult or impossible to
+describe in words the habits of thought which led Archimedes
+to refer the conditions of equilibrium on the
+Lever to the Conception of pressure, while Aristotle
+could not see in them anything more than the results 64
+of the strangeness of the properties of the circle;—or
+which impelled Pascal to explain by means of the
+Conception of the weight of air, the facts which his
+predecessors had connected by the notion of nature’s
+horrour of a vacuum;—or which caused Vitello and
+Roger Bacon to refer the magnifying power of a convex lens
+to the bending of the rays of light towards
+the perpendicular by refraction, while others conceived
+the effect to result from the matter of medium, with
+no consideration of its form. These are what are commonly
+spoken of as felicitous and inexplicable strokes
+of inventive talent; and such, no doubt, they are. No
+rules can ensure to us similar success in new cases; or
+can enable men who do not possess similar endowments,
+to make like advances in knowledge.
+7. Yet still, we may do something in tracing the
+process by which such discoveries are made; and this
+it is here our business to do. We may observe that
+these, and the like discoveries, are not improperly
+described as happy Guesses; and that Guesses, in these
+as in other instances, imply various suppositions made,
+of which some one turns out to be the right one. We
+may, in such cases, conceive the discoverer as inventing
+and trying many conjectures, till he finds one
+which answers the purpose of combining the scattered
+facts into a single rule. The discovery of general
+truths from special facts is performed, commonly at
+least, and more commonly than at first appears, by
+the use of a series of Suppositions, or Hypotheses,
+which are looked at in quick succession, and of which
+the one which really leads to truth is rapidly detected,
+and when caught sight of, firmly held, verified, and
+followed to its consequences. In the minds of most
+discoverers, this process of invention, trial, and
+acceptance or rejection of the hypothesis, goes on so rapidly
+that we cannot trace it in its successive steps. But in
+some instances, we can do so; and we can also see that
+the other examples of discovery do not differ essentially
+from these. The same intellectual operations
+take place in other cases, although this often happens
+so instantaneously that we lose the trace of the 65
+progression. In the discoveries made by Kepler, we have
+a curious and memorable exhibition of this process in
+its details. Thanks to his communicative disposition,
+we know that he made nineteen hypotheses with regard
+to the motion of Mars, and calculated the results
+of each, before he established the true doctrine, that
+the planet’s path is an ellipse. We know, in like manner,
+that Galileo made wrong suppositions respecting
+the laws of falling bodies, and Mariotte, concerning
+the motion of water in a siphon, before they hit upon
+the correct view of these cases.
+8. But it has very often happened in the history of
+science, that the erroneous hypotheses which preceded
+the discovery of the truth have been made, not by the
+discoverer himself, but by his precursors; to whom he
+thus owed the service, often an important one in such
+cases, of exhausting the most tempting forms of errour.
+Thus the various fruitless suppositions by which Kepler
+endeavoured to discover the law of reflection, led
+the way to its real detection by Snell; Kepler’s numerous
+imaginations concerning the forces by which the
+celestial motions are produced,—his ‘physical reasonings’
+as he termed them,—were a natural prelude to
+the truer physical reasonings of Newton. The various
+hypotheses by which the suspension of vapour in air
+had been explained, and their failure, left the field
+open for Dalton with his doctrine of the mechanical
+mixture of gases. In most cases, if we could truly
+analyze the operation of the thoughts of those who
+make, or who endeavour to make discoveries in science,
+we should find that many more suppositions pass
+through their minds than those which are expressed
+in words; many a possible combination of conceptions
+is formed and soon rejected. There is a constant
+invention and activity, a perpetual creating and selecting
+power at work, of which the last results only are
+exhibited to us. Trains of hypotheses are called up and
+pass rapidly in review; and the judgment makes its
+choice from the varied group.
+9. It would, however, be a great mistake to suppose
+that the hypotheses, among which our choice thus 66
+lies, are constructed by an enumeration of obvious
+cases, or by a wanton alteration of relations which
+occur in some first hypothesis. It may, indeed, sometimes
+happen that the proposition which is finally
+established is such as may be formed, by some slight
+alteration, from those which are justly rejected. Thus
+Kepler’s elliptical theory of Mars’s motions, involved
+relations of lines and angles much of the same nature
+as his previous false suppositions: and the true law of
+refraction so much resembles those erroneous ones
+which Kepler tried, that we cannot help wondering
+how he chanced to miss it. But it more frequently
+happens that new truths are brought into view by the
+application of new Ideas, not by new modifications of
+old ones. The cause of the properties of the Lever
+was learnt, not by introducing any new geometrical
+combination of lines and circles, but by referring the
+properties to genuine mechanical Conceptions. When
+the Motions of the Planets were to be explained, this
+was done, not by merely improving the previous notions,
+of cycles of time, but by introducing the new
+conception of epicycles in space. The doctrine of the
+Four Simple Elements was expelled, not by forming
+any new scheme of elements which should impart,
+according to new rules, their sensible qualities to their
+compounds, but by considering the elements of bodies
+as neutralizing each other. The Fringes of Shadows
+could not be explained by ascribing new properties to
+the single rays of light, but were reduced to law by
+referring them to the interference of several rays.
+Since the true supposition is thus very frequently
+something altogether diverse from all the obvious
+conjectures and combinations, we see here how far we are
+from being able to reduce discovery to rule, or to give
+any precepts by which the want of real invention and
+sagacity shall be supplied. We may warn and encourage
+these faculties when they exist, but we cannot
+create them, or make great discoveries when they are
+absent.
+10. The Conceptions which a true theory requires
+are very often clothed in a Hypothesis which connects 67
+with them several superfluous and irrelevant circumstances.
+Thus the Conception of the Polarization of
+Light was originally represented under the image of
+particles of light having their poles all turned in the
+same direction. The Laws of Heat may be made out
+perhaps most conveniently by conceiving Heat to be
+a Fluid. The Attraction of Gravitation might have
+been successfully applied to the explanation of facts, if
+Newton had throughout treated Attraction as the result of
+an Ether diffused through space; a supposition
+which he has noticed as a possibility. The doctrine of
+Definite and Multiple Proportions may be conveniently
+expressed by the hypothesis of Atoms. In such cases,
+the Hypothesis may serve at first to facilitate the
+introduction of a new Conception. Thus a pervading
+Ether might for a time remove a difficulty, which some
+persons find considerable, of imagining a body to exert
+force at a distance. A Particle with Poles is more
+easily conceived than Polarization in the abstract.
+And if hypotheses thus employed will really explain
+the facts by means of a few simple assumptions, the
+laws so obtained may afterwards be reduced to a simpler
+form than that in which they were first suggested.
+The general laws of Heat, of Attraction, of Polarization,
+of Multiple Proportions, are now certain, whatever image
+we may form to ourselves of their ultimate causes.
+11. In order, then, to discover scientific truths,
+suppositions consisting either of new Conceptions, or of
+new Combinations of old ones, are to be made, till we
+find one supposition which succeeds in binding together
+the Facts. But how are we to find this? How is the
+trial to be made? What is meant by ‘success’ in these
+cases? To this we reply, that our inquiry must be,
+whether the Facts have the same relation in the Hypothesis
+which they have in reality;—whether the results
+of our suppositions agree with the phenomena which
+nature presents to us. For this purpose, we must
+both carefully observe the phenomena, and steadily
+trace the consequences of our assumptions, till we can 68
+bring the two into comparison. The Conceptions which
+our hypotheses involve, being derived from certain
+Fundamental Ideas, afford a basis of rigorous reasoning,
+as we have shown in the Books of the History of those
+Ideas. And the results to which this reasoning leads,
+will be susceptible of being verified or contradicted by
+observation of the facts. Thus the Epicyclical Theory
+of the Moon, once assumed, determined what the
+moon’s place among the stars ought to be at any given
+time, and could therefore be tested by actually observing
+the moon’s places. The doctrine that musical
+strings of the same length, stretched with weights of
+1, 4, 9, 16, would give the musical intervals of an octave,
+a fifth, a fourth, in succession, could be put to the
+trial by any one whose ear was capable of appreciating
+those intervals: and the inference which follows from
+this doctrine by numerical reasoning,—that there must
+be certain imperfections in the concords of every musical
+scale,—could in like manner be confirmed by trying
+various modes of Temperament. In like manner
+all received theories in science, up to the present time,
+have been established by taking up some supposition,
+and comparing it, directly or by means of its remoter
+consequences, with the facts it was intended to embrace.
+Its agreement, under certain cautions and conditions,
+of which we may hereafter speak, is held to be the
+evidence of its truth. It answers its genuine purpose,
+the Colligation of Facts.
+12. When we have, in any subject, succeeded in one
+attempt of this kind, and obtained some true Bond of
+Unity by which the phenomena are held together, the
+subject is open to further prosecution; which ulterior
+process may, for the most part, be conducted in a more
+formal and technical manner. The first great outline
+of the subject is drawn; and the finishing of the
+resemblance of nature demands a more minute pencilling,
+but perhaps requires less of genius in the master. In
+the pursuance of this task, rules and precepts may be
+given, and features and leading circumstances pointed
+out, of which it may often be useful to the inquirer to
+be aware. 69
+Before proceeding further, I shall speak of some
+characteristic marks which belong to such scientific
+processes as are now the subject of our consideration,
+and which may sometimes aid us in determining when
+the task has been rightly executed.
+</div></body></text></TEI>

@@ -1,0 +1,144 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="83">CHAPTER I.
+Discovery of Laws of Magnetic Phenomena.
+THE history of Magnetism is in
+a great degree similar to that of Electricity, and many of the same
+persons were employed in the two trains of research. The general fact,
+that the magnet attracts iron, was nearly all that was known to the
+ancients, and is frequently mentioned and referred to; for instance,
+by Pliny, who wonders and declaims concerning it, in his usual
+exaggerated style.1 The writers of the Stationary Period, in
+this subject as in others, employed themselves in collecting and
+adorning a number of extravagant tales, which the slightest reference
+to experiment would have disproved; as, for example, that a magnet,
+when it has lost its virtue, has it restored by goat’s blood. Gilbert,
+whose work De Magnete we have already
+mentioned, speaks with becoming indignation and pity of this bookish
+folly, and repeatedly asserts the paramount value of experiments. He
+himself, no doubt, acted up to his own precepts; for his work contains
+all the fundamental facts of the science, so fully examined indeed,
+that even at this day we have little to add to them. Thus, in his
+first Book, the subjects of the third, fourth, and fifth Chapters
+are,—that the magnet has poles,—that we may call these
+poles the north and the south pole,—that in two magnets the
+north pole of each attracts the south pole and repels the north pole
+of the other. This is, indeed, the cardinal fact on which our
+generalizations rest; and the reader will perceive at once its
+resemblance to the leading phenomena of statical electricity.
+1 Hist. Nat. lib. xxxvi. c.
+25.
+But the doctrines of magnetism, like those of heat, have an
+additional claim on our notice from the manner in which they are
+exemplified in the globe of the earth. The subject of terrestrial
+magnetism forms a very important addition to the general facts of
+magnetic attraction and repulsion. The property of the magnet by which
+it directs its poles exactly or nearly north and south, when once
+discovered, was of immense importance to the mariner. It does not
+218 appear easy to
+trace with certainty the period of this discovery. Passing over
+certain legends of the Chinese, as at any rate not bearing upon the
+progress of European science,2 the earliest
+notice of this property appears to be contained in the Poem of Guyot
+de Provence, who describes the needle as being magnetized, and then
+placed in or on a straw, (floating on water, as I presume:)
+
+Puis se torne la pointe toute
+Contre l’estoile sans doute;
+that is, it turns towards the pole-star. This account
+would make the knowledge of this property in Europe anterior to 1200.
+It was afterwards found3 that the needle does not point exactly
+towards the north. Gilbert was aware of this deviation, which he calls
+the variation, and also, that it is different in different
+places.4 He maintained on theoretical principles
+also,5 that at the same place the variation is
+constant; probably in his time there were not any recorded
+observations by which the truth of this assertion could be tested; it
+was afterwards found to be false. The alteration of the variation in
+proceeding from one place to another was, it will be recollected, one
+of the circumstances which most alarmed the companions of Columbus in
+1492. Gilbert says,6 “Other learned men have, in long
+navigations, observed the differences of magnetic variations, as
+Thomas Hariot, Robert Hues, Edward Wright, Abraham Kendall, all
+Englishmen: others have invented magnetic instruments and convenient
+modes of observation, such as are requisite for those who take long
+voyages, as William Borough in his Book concerning the variation of
+the compass, William Barlo in his supplement, William Norman in his
+New Attractive. This is that Robert Norman (a good seaman and
+an ingenious artificer,) who first discovered the dip of
+magnetic iron.” This important discovery was made7 in 1576. From the
+time when the difference of the variation of the compass in different
+places became known, it was important to mariners to register the
+variation in all parts of the world. Halley was appointed to the
+command of a ship in the Royal Navy by the Government of William and
+Mary, with orders “to seek by observation the discovery of the rule
+for the variation of the compass.” He published Magnetic Charts, which
+219 have been since
+corrected and improved by various persons. The most recent are those
+of Mr. Yates in 1817, and of M. Hansteen. The dip, as well as the
+variation, was found to be different in different places. M. Humboldt,
+in the course of his travels, collected many such observations. And
+both the observations of variation and of dip seemed to indicate that
+the earth, as to its effect on the magnetic needle, may, approximately
+at least, be considered as a magnet, the poles of which are not far
+removed from the earth’s poles of rotation. Thus we have a magnetic
+equator, in which the needle has no dip, and which does not
+deviate far from the earth’s equator; although, from the best
+observations, it appears to be by no means a regular circle. And the
+phenomena, both of the dip and of the variation, in high northern
+latitudes, appear to indicate the existence of a pole below the
+surface of the earth to the north of Hudson’s Bay. In his second
+remarkable expedition into those regions, Captain Ross is supposed to
+have reached the place of this pole; the dipping-needle there pointing
+vertically downwards, and the variation-compass turning towards this
+point in the adjacent regions. We shall hereafter have to consider the more complete
+and connected views which have been taken of terrestrial
+magnetism.
+2 Enc. Met. art.
+Magnetism, p. 736.
+3 Before 1269. Enc. Met. p.
+737.
+4 De Magnete, lib. iv. c.
+1.
+5 c. 3.
+6 Lib. i. c. 1.
+7 Enc. Met. p. 738.
+In 1633, Gellibrand discovered that the variation is not constant,
+as Gilbert imagined, but that at London it had diminished from eleven
+degrees east in 1580, to four degrees in 1633. Since that time the
+variation has become more and more westerly; it is now about
+twenty-five degrees west, and the needle is supposed to have begun to
+travel eastward again.
+The next important fact which appeared with respect to terrestrial
+magnetism was, that the position of the needle is subject to a small
+diurnal variation: this was discovered in 1722, by Graham, a
+philosophical instrument-maker, of London. The daily variation was
+established by one thousand observations of Graham, and confirmed by
+four thousand more made by Canton, and is now considered to be out of
+dispute. It appeared also, by Canton’s researches, that the diurnal
+variation undergoes an annual inequality, being nearly a quarter of a
+degree in June and July, and only half that quantity in December and
+January.
+Having thus noticed the principal facts which belong to terrestrial
+magnetism, we must return to the consideration of those phenomena
+which gradually led to a consistent magnetic theory. Gilbert observed
+that both smelted iron and hammered iron have the magnetic virtue,
+220 though in a
+weaker degree than the magnet itself,8 and he asserted
+distinctly that the magnet is merely an ore of iron, (lib. i. c. 16,
+Quod magnes et vena ferri idem sunt.) He also noted the increased
+energy which magnets acquire by being armed; that is, fitted
+with a cap of polished iron at each pole.9 But we do not
+find till a later period any notice of the distinction which exists
+between the magnetical properties of soft iron and of hard
+steel;—the latter being susceptible of being formed into
+artificial magnets, with permanent poles; while soft iron is
+only passively magnetic, receiving a temporary polarity from
+the action of a magnet near it, but losing this property when the
+magnet is removed. About the middle of the last century, various
+methods were devised of making artificial magnets, which exceeded in
+power all magnetic bodies previously known.
+8 Lib. i. c. 9–13.
+9 Lib. ii. c. 17.
+The remaining experimental researches had so close an historical
+connexion with the theory, that they will be best considered along
+with it, and to that, therefore, we now proceed.
+</div></body></text></TEI>

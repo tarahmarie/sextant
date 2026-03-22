@@ -1,0 +1,477 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An Essay Concerning Human Understanding</title><author>Locke, John (1632-1704)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1690</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="37">
+
+CHAPTER XXVIII.
+OF OTHER RELATIONS.
+
+1. Ideas of Proportional relations.
+
+
+BESIDES the before-mentioned occasions of time, place, and causality of
+comparing or referring things one to another, there are, as I have said,
+infinite others, some whereof I shall mention.
+
+
+First, The first I shall name is some one simple idea, which, being capable of
+parts or degrees, affords an occasion of comparing the subjects wherein it is
+to one another, in respect of that simple idea, v.g. whiter, sweeter, equal,
+more, &c. These relations depending on the equality and excess of the same
+simple idea, in several subjects, may be called, if one will, PROPORTIONAL; and
+that these are only conversant about those simple ideas received from sensation
+or reflection is so evident that nothing need be said to evince it.
+
+
+2. Natural relation.
+
+
+Secondly, Another occasion of comparing things together, or considering one
+thing, so as to include in that consideration some other thing, is the
+circumstances of their origin or beginning; which being not afterwards to be
+altered, make the relations depending thereon as lasting as the subjects to
+which they belong, v.g. father and son, brothers, cousin-germans, &c.,
+which have their relations by one community of blood, wherein they partake in
+several degrees: countrymen, i.e. those who were born in the same country or
+tract of ground; and these I call NATURAL RELATIONS: wherein we may observe,
+that mankind have fitted their notions and words to the use of common life, and
+not to the truth and extent of things. For it is certain, that, in reality, the
+relation is the same betwixt the begetter and the begotten, in the several
+races of other animals as well as men; but yet it is seldom said, this bull is
+the grandfather of such a calf, or that two pigeons are cousin-germans. It is
+very convenient that, by distinct names, these relations should be observed and
+marked out in mankind, there being occasion, both in laws and other
+communications one with another, to mention and take notice of men under these
+relations: from whence also arise the obligations of several duties amongst
+men: whereas, in brutes, men having very little or no cause to mind these
+relations, they have not thought fit to give them distinct and peculiar names.
+This, by the way, may give us some light into the different state and growth of
+languages; which being suited only to the convenience of communication, are
+proportioned to the notions men have, and the commerce of thoughts familiar
+amongst them; and not to the reality or extent of things, nor to the various
+respects might be found among them; nor the different abstract considerations
+might be framed about them. Where they had no philosophical notions, there they
+had no terms to express them: and it is no wonder men should have framed no
+names for those things they found no occasion to discourse of. From whence it
+is easy to imagine why, as in some countries, they may have not so much as the
+name for a horse; and in others, where they are more careful of the pedigrees
+of their horses, than of their own, that there they may have not only names for
+particular horses, but also of their several relations of kindred one to
+another.
+
+
+3. Ideas of Instituted or Voluntary relations.
+
+
+Thirdly, Sometimes the foundation of considering things with reference to one
+another, is some act whereby any one comes by a moral right, power, or
+obligation to do something. Thus, a general is one that hath power to command
+an army, and an army under a general is a collection of armed men obliged to
+obey one man. A citizen, or a burgher, is one who has a right to certain
+privileges in this or that place. All this sort depending upon men’s wills, or
+agreement in society, I call INSTITUTED, or VOLUNTARY; and may be distinguished
+from the natural, in that they are most, if not all of them, some way or other
+alterable, and separable from the persons to whom they have sometimes belonged,
+though neither of the substances, so related, be destroyed. Now, though these
+are all reciprocal, as well as the rest, and contain in them a reference of two
+things one to the other; yet, because one of the two things often wants a
+relative name, importing that reference, men usually take no notice of it, and
+the relation is commonly overlooked: v. g. a patron and client are easily
+allowed to be relations, but a constable or dictator are not so readily at
+first hearing considered as such. Because there is no peculiar name for those
+who are under the command of a dictator or constable, expressing a relation to
+either of them; though it be certain that either of them hath a certain power
+over some others, and so is so far related to them, as well as a patron is to
+his client, or general to his army.
+
+
+4. Ideas of Moral relations.
+
+
+Fourthly, There is another sort of relation, which is the conformity or
+disagreement men’s VOLUNTARY ACTIONS have to a RULE to which they are referred,
+and by which they are judged of; which, I think, may be called MORAL RELATION,
+as being that which denominates our moral actions, and deserves well to be
+examined; there being no part of knowledge wherein we should be more careful to
+get determined ideas, and avoid, as much as may be, obscurity and confusion.
+Human actions, when with their various ends, objects, manners, and
+circumstances, they are framed into distinct complex ideas, are, as has been
+shown, so many MIXED MODES, a great part whereof have names annexed to them.
+Thus, supposing gratitude to be a readiness to acknowledge and return kindness
+received; polygamy to be the having more wives than one at once: when we frame
+these notions thus in our minds, we have there so many determined ideas of
+mixed modes. But this is not all that concerns our actions: it is not enough to
+have determined ideas of them, and to know what names belong to such and such
+combinations of ideas. We have a further and greater concernment, and that is,
+to know whether such actions, so made up, are morally good or bad.
+
+
+5. Moral Good and Evil.
+
+
+Good and evil, as hath been shown, (B. II. chap. xx. Section 2, and chap. xxi.
+Section 43,) are nothing but pleasure or pain, or that which occasions or
+procures pleasure or pain to us. MORAL GOOD AND EVIL, then, is only THE
+CONFORMITY OR DISAGREEMENT OF OUR VOLUNTARY ACTIONS TO SOME LAW, WHEREBY GOOD
+OR EVIL IS DRAWN ON US, FROM THE WILL AND POWER OF THE LAW-MAKER; which good
+and evil, pleasure or pain, attending our observance or breach of the law by
+the decree of the law-maker, is that we call REWARD and PUNISHMENT.
+
+
+6. Moral Rules.
+
+
+Of these moral rules or laws, to which men generally refer, and by which they
+judge of the rectitude or gravity of their actions, there seem to me to be
+THREE SORTS, with their three different enforcements, or rewards and
+punishments. For, since it would be utterly in vain to suppose a rule set to
+the free actions of men, without annexing to it some enforcement of good and
+evil to determine his will, we must, wherever we suppose a law, suppose also
+some reward or punishment annexed to that law. It would be in vain for one
+intelligent being to set a rule to the actions of another, if he had it not in
+his power to reward the compliance with, and punish deviation from his rule, by
+some good and evil, that is not the natural product and consequence of the
+action itself. For that, being a natural convenience or inconvenience, would
+operate of itself, without a law. This, if I mistake not, is the true nature of
+all law, properly so called.
+
+
+7. Laws.
+
+
+The laws that men generally refer their actions to, to judge of their rectitude
+or obliquity, seem to me to be these three:—1. The DIVINE law. 2. The
+CIVIL law. 3. The law of OPINION or REPUTATION, if I may so call it. By the
+relation they bear to the first of these, men judge whether their actions are
+sins or duties; by the second, whether they be criminal or innocent; and by the
+third, whether they be virtues or vices.
+
+
+8. Divine Law the Measure of Sin and Duty.
+
+
+First, the DIVINE LAW, whereby that law which God has set to the actions of
+men,—whether promulgated to them by the light of nature, or the voice of
+revelation. That God has given a rule whereby men should govern themselves, I
+think there is nobody so brutish as to deny. He has a right to do it; we are
+his creatures: he has goodness and wisdom to direct our actions to that which
+is best: and he has power to enforce it by rewards and punishments of infinite
+weight and duration in another life; for nobody can take us out of his hands.
+This is the only true touchstone of moral rectitude; and, by comparing them to
+this law, it is that men judge of the most considerable moral good or evil of
+their actions; that is, whether, as duties or sins, they are like to procure
+them happiness or misery from the hands of the ALMIGHTY.
+
+
+9. Civil Law the Measure of Crimes and Innocence.
+
+
+Secondly, the CIVIL LAW—the rule set by the commonwealth to the actions
+of those who belong to it—is another rule to which men refer their
+actions; to judge whether they be criminal or no. This law nobody overlooks:
+the rewards and punishments that enforce it being ready at hand, and suitable
+to the power that makes it: which is the force of the Commonwealth, engaged to
+protect the lives, liberties, and possessions of those who live according to
+its laws, and has power to take away life, liberty, or goods, from him who
+disobeys; which is the punishment of offences committed against his law.
+
+
+10. Philosophical Law the Measure of Virtue and Vice.
+
+
+Thirdly, the LAW OF OPINION OR REPUTATION. Virtue and vice are names pretended
+and supposed everywhere to stand for actions in their own nature right and
+wrong: and as far as they really are so applied, they so far are coincident
+with the divine law above mentioned. But yet, whatever is pretended, this is
+visible, that these names, virtue and vice, in the particular instances of
+their application, through the several nations and societies of men in the
+world, are constantly attributed only to such actions as in each country and
+society are in reputation or discredit. Nor is it to be thought strange, that
+men everywhere should give the name of virtue to those actions, which amongst
+them are judged praiseworthy; and call that vice, which they account blamable:
+since otherwise they would condemn themselves, if they should think anything
+right, to which they allowed not commendation, anything wrong, which they let
+pass without blame. Thus the measure of what is everywhere called and esteemed
+virtue and vice is this approbation or dislike, praise or blame, which, by a
+secret and tacit consent, establishes itself in the several societies, tribes,
+and clubs of men in the world: whereby several actions come to find credit or
+disgrace amongst them, according to the judgment, maxims, or fashion of that
+place. For, though men uniting into politic societies, have resigned up to the
+public the disposing of all their force, so that they cannot employ it against
+any fellow-citizens any further than the law of the country directs: yet they
+retain still the power of thinking well or ill, approving or disapproving of
+the actions of those whom they live amongst, and converse with: and by this
+approbation and dislike they establish amongst themselves what they will call
+virtue and vice.
+
+
+11. The Measure that Man commonly apply to determine what they call Virtue and
+Vice.
+
+
+That this is the common MEASURE of virtue and vice, will appear to any one who
+considers, that, though that passes for vice in one country which is counted a
+virtue, or at least not vice, in another, yet everywhere virtue and praise,
+vice and blame, go together. Virtue is everywhere, that which is thought
+praiseworthy; and nothing else but that which has the allowance of public
+esteem is called virtue. Virtue and praise are so united, that they are called
+often by the same name. Sunt sua praemia laudi, says Virgil; and so Cicero,
+Nihil habet natura praestantius, quam honestatem, quam laudem, quam dignitatem,
+quam decus, which he tells you are all names for the same thing. This is the
+language of the heathen philosophers, who well understood wherein their notions
+of virtue and vice consisted. And though perhaps, by the different temper,
+education, fashion, maxims, or interest of different sorts of men, it fell out,
+that what was thought praiseworthy in one place, escaped not censure in
+another; and so in different societies, virtues and vices were changed; yet, as
+to the main, they for the most part kept the same everywhere. For, since
+nothing can be more natural than to encourage with esteem and reputation that
+wherein every one finds his advantage, and to blame and discountenance the
+contrary; it is no wonder that esteem and discredit, virtue and vice, should,
+in a great measure, everywhere correspond with the unchangeable rule of right
+and wrong, which the law of God hath established; there being nothing that so
+directly and visibly secures and advances the general good of mankind in this
+world, as obedience to the laws he had set them, and nothing that breeds such
+mischiefs and confusion, as the neglect of them. And therefore men, without
+renouncing all sense and reason, and their own interest, which they are so
+constantly true to, could not generally mistake, in placing their commendation
+and blame on that side that really deserved it not. Nay, even those men whose
+practice was otherwise, failed not to give their approbation right, few being
+depraved to that degree as not to condemn, at least in others, the faults they
+themselves were guilty of; whereby, even in the corruption of manners, the true
+boundaries of the law of nature, which ought to be the rule of virtue and vice,
+were pretty well preferred. So that even the exhortations of inspired teachers,
+have not feared to appeal to common repute: ‘Whatsoever is lovely, whatsoever
+is of good report, if there be any virtue, if there be any praise,’ &c.
+(Phil. iv. 8.)
+
+
+12. Its Inforcement is Commendation and Discredit.
+
+
+If any one shall imagine that I have forgot my own notion of a law, when I make
+the law, whereby men judge of virtue and vice, to be nothing else but the
+consent of private men, who have not authority enough to make a law: especially
+wanting that which is so necessary and essential to a law, a power to enforce
+it: I think I may say, that he who imagines commendation and disgrace not to be
+strong motives to men to accommodate themselves to the opinions and rules of
+those with whom they converse, seems little skilled in the nature or history of
+mankind: the greatest part whereof we shall find to govern themselves chiefly,
+if not solely, by this LAW OF FASHION; and so they do that which keeps them in
+reputation with their company, little regard the laws of God, or the
+magistrate. The penalties that attend the breach of God’s laws some, nay
+perhaps most men, seldom seriously reflect on: and amongst those that do, many,
+whilst they break the law, entertain thoughts of future reconciliation, and
+making their peace for such breaches. And as to the punishments due from the
+laws of the commonwealth, they frequently flatter themselves with the hopes of
+impunity. But no man escapes the punishment of their censure and dislike, who
+offends against the fashion and opinion of the company he keeps, and would
+recommend himself to. Nor is there one of ten thousand, who is stiff and
+insensible enough, to bear up under the constant dislike and condemnation of
+his own club. He must be of a strange and unusual constitution, who can content
+himself to live in constant disgrace and disrepute with his own particular
+society. Solitude many men have sought, and been reconciled to: but nobody that
+has the least thought or sense of a man about him, can live in society under
+the constant dislike and ill opinion of his familiars, and those he converses
+with. This is a burden too heavy for human sufferance: and he must be made up
+of irreconcileable contradictions, who can take pleasure in company, and yet be
+insensible of contempt and disgrace from his companions.
+
+
+13. These three Laws the Rules of moral Good and Evil.
+
+
+These three then, first, the law of God; secondly, the law of politic
+societies; thirdly, the law of fashion, or private censure, are those to which
+men variously compare their actions: and it is by their conformity to one of
+these laws that they take their measures, when they would judge of their moral
+rectitude, and denominate their actions good or bad.
+
+
+14. Morality is the Relation of Voluntary Actions to these Rules.
+
+
+Whether the rule to which, as to a touchstone, we bring our voluntary actions,
+to examine them by, and try their goodness, and accordingly to name them, which
+is, as it were, the mark of the value we set upon them: whether, I say, we take
+that rule from the fashion of the country, or the will of a law-maker, the mind
+is easily able to observe the relation any action hath to it, and to judge
+whether the action agrees or disagrees with the rule; and so hath a notion of
+moral goodness or evil, which is either conformity or not conformity of any
+action to that rule: and therefore is often called moral rectitude. This rule
+being nothing but a collection of several simple ideas, the conformity thereto
+is but so ordering the action, that the simple ideas belonging to it may
+correspond to those which the law requires. And thus we see how moral beings
+and notions are founded on, and terminated in, these simple ideas we have
+received from sensation or reflection. For example: let us consider the complex
+idea we signify by the word murder: and when we have taken it asunder, and
+examined all the particulars, we shall find them to amount to a collection of
+simple ideas derived from reflection or sensation, viz. First, from REFLECTION
+on the operations of our own minds, we have the ideas of willing, considering,
+purposing beforehand, malice, or wishing ill to another; and also of life, or
+perception, and self-motion. Secondly, from SENSATION we have the collection of
+those simple sensible ideas which are to be found in a man, and of some action,
+whereby we put an end to perception and motion in the man; all which simple
+ideas are comprehended in the word murder. This collection of simple ideas,
+being found by me to agree or disagree with the esteem of the country I have
+been bred in, and to be held by most men there worthy praise or blame, I call
+the action virtuous or vicious: if I have the will of a supreme invisible
+Lawgiver for my rule, then, as I supposed the action commanded or forbidden by
+God, I call it good or evil, sin or duty: and if I compare it to the civil law,
+the rule made by the legislative power of the country, I call it lawful or
+unlawful, a crime or no crime. So that whencesoever we take the rule of moral
+actions; or by what standard soever we frame in our minds the ideas of virtues
+or vices, they consist only, and are made up of collections of simple ideas,
+which we originally received from sense or reflection: and their rectitude or
+obliquity consists in the agreement or disagreement with those patterns
+prescribed by some law.
+
+
+15. Moral actions may be regarded either absolutely, or as ideas of relation.
+
+
+To conceive rightly of moral actions, we must take notice of them under this
+two-fold consideration. First, as they are in themselves, each made up of such
+a collection of simple ideas. Thus drunkenness, or lying, signify such or such
+a collection of simple ideas, which I call mixed modes: and in this sense they
+are as much POSITIVE ABSOLUTE ideas, as the drinking of a horse, or speaking of
+a parrot. Secondly, our actions are considered as good, bad, or indifferent;
+and in this respect they are RELATIVE, it being their conformity to, or
+disagreement with some rule that makes them to be regular or irregular, good or
+bad; and so, as far as they are compared with a rule, and thereupon
+denominated, they come under relation. Thus the challenging and fighting with a
+man, as it is a certain positive mode, or particular sort of action, by
+particular ideas, distinguished from all others, is called DUELLING: which,
+when considered in relation to the law of God, will deserve the name of sin; to
+the law of fashion, in some countries, valour and virtue; and to the municipal
+laws of some governments, a capital crime. In this case, when the positive mode
+has one name, and another name as it stands in relation to the law, the
+distinction may as easily be observed as it is in substances, where one name,
+v.g. MAN, is used to signify the thing; another, v.g. FATHER, to signify the
+relation.
+
+
+16. The Denominations of Actions often mislead us.
+
+
+But because very frequently the positive idea of the action, and its moral
+relation, are comprehended together under one name, and the same word made use
+of to express both the mode or action, and its moral rectitude or obliquity:
+therefore the relation itself is less taken notice of; and there is often no
+distinction made between the positive idea of the action, and the reference it
+has to a rule. By which confusion of these two distinct considerations under
+one term, those who yield too easily to the impressions of sounds, and are
+forward to take names for things, are often misled in their judgment of
+actions. Thus, the taking from another what is his, without his knowledge or
+allowance, is properly called STEALING: but that name, being commonly
+understood to signify also the moral gravity of the action, and to denote its
+contrariety to the law, men are apt to condemn whatever they hear called
+stealing, as an ill action, disagreeing with the rule of right. And yet the
+private taking away his sword from a madman, to prevent his doing mischief,
+though it be properly denominated stealing, as the name of such a mixed mode;
+yet when compared to the law of God, and considered in its relation to that
+supreme rule, it is no sin or transgression, though the name stealing
+ordinarily carries such an intimation with it.
+
+
+17. Relations innumerable, and only the most considerable here mentioned.
+
+
+And thus much for the relation of human actions to a law, which, therefore, I
+call MORAL RELATIONS.
+
+
+It would make a volume to go over all sorts of RELATIONS: it is not, therefore,
+to be expected that I should here mention them all. It suffices to our present
+purpose to show by these, what the ideas are we have of this comprehensive
+consideration called RELATION. Which is so various, and the occasions of it so
+many, (as many as there can be of comparing things one to another,) that it is
+not very easy to reduce it to rules, or under just heads. Those I have
+mentioned, I think, are some of the most considerable; and such as may serve to
+let us see from whence we get our ideas of relations, and wherein they are
+founded. But before I quit this argument, from what has been said give me leave
+to observe:
+
+
+18. All Relations terminate in simple Ideas.
+
+
+First, That it is evident, that all relation terminates in, and is ultimately
+founded on, those simple ideas we have got from sensation or reflection: so
+that all we have in our thoughts ourselves, (if we think of anything, or have
+any meaning,) or would signify to others, when we use words standing for
+relations, is nothing but some simple ideas, or collections of simple ideas,
+compared one with another. This is so manifest in that sort called
+proportional, that nothing can be more. For when a man says ‘honey is sweeter
+than wax,’ it is plain that his thoughts in this relation terminate in this
+simple idea, sweetness; which is equally true of all the rest: though, where
+they are compounded, or decompounded, the simple ideas they are made up of,
+are, perhaps, seldom taken notice of: v.g. when the word father is mentioned:
+first, there is meant that particular species, or collective idea, signified by
+the word man; secondly, those sensible simple ideas, signified by the word
+generation; and, thirdly, the effects of it, and all the simple ideas signified
+by the word child. So the word friend, being taken for a man who loves and is
+ready to do good to another, has all these following ideas to the making of it
+up: first, all the simple ideas, comprehended in the word man, or intelligent
+being; secondly, the idea of love; thirdly, the idea of readiness or
+disposition; fourthly, the idea of action, which is any kind of thought or
+motion; fifthly, the idea of good, which signifies anything that may advance
+his happiness, and terminates at last, if examined, in particular simple ideas,
+of which the word good in general signifies any one; but, if removed from all
+simple ideas quite, it signifies nothing at all. And thus also all moral words
+terminate at last, though perhaps more remotely, in a collection of simple
+ideas: the immediate signification of relative words, being very often other
+supposed known relations; which, if traced one to another, still end in simple
+ideas.
+
+
+19. We have ordinarily as clear a Notion of the Relation, as of the simple
+ideas in things on which it is founded.
+
+
+Secondly, That in relations, we have for the most part, if not always, as clear
+a notion of THE RELATION as we have of THOSE SIMPLE IDEAS WHEREIN IT IS
+FOUNDED: agreement or disagreement, whereon relation depends, being things
+whereof we have commonly as clear ideas as of any other whatsoever; it being
+but the distinguishing simple ideas, or their degrees one from another, without
+which we could have no distinct knowledge at all. For, if I have a clear idea
+of sweetness, light, or extension, I have, too, of equal, or more, or less, of
+each of these: if I know what it is for one man to be born of a woman, viz.
+Sempronia, I know what it is for another man to be born of the same woman
+Sempronia; and so have as clear a notion of brothers as of births, and perhaps
+clearer. For if I believed that Sempronia digged Titus out of the parsley-bed,
+(as they used to tell children,) and thereby became his mother; and that
+afterwards, in the same manner, she digged Caius out of the parsley-bed, I had
+as clear a notion of the relation of brothers between them, as if I had all the
+skill of a midwife: the notion that the same woman contributed, as mother,
+equally to their births, (though I were ignorant or mistaken in the manner of
+it,) being that on which I grounded the relation; and that they agreed in the
+circumstance of birth, let it be what it will. The comparing them then in their
+descent from the same person, without knowing the particular circumstances of
+that descent, is enough to found my notion of their having, or not having, the
+relation of brothers. But though the ideas of PARTICULAR RELATIONS are capable
+of being as clear and distinct in the minds of those who will duly consider
+them as those of mixed modes, and more determinate than those of substances:
+yet the names belonging to relation are often of as doubtful and uncertain
+signification as those of substances or mixed modes; and much more than those
+of simple ideas. Because relative words, being the marks of this comparison,
+which is made only by men’s thoughts, and is an idea only in men’s minds, men
+frequently apply them to different comparisons of things, according to their
+own imaginations; which do not always correspond with those of others using the
+same name.
+
+
+20. The Notion of Relation is the same, whether the Rule any Action is compared
+to be true or false.
+
+
+Thirdly, That in these I call MORAL RELATIONS, I have a true notion of
+relation, by comparing the action with the rule, whether the rule be true or
+false. For if I measure anything by a yard, I know whether the thing I measure
+be longer or shorter than that supposed yard, though perhaps the yard I measure
+by be not exactly the standard: which indeed is another inquiry. For though the
+rule be erroneous, and I mistaken in it; yet the agreement or disagreement
+observable in that which I compare with, makes me perceive the relation.
+Though, measuring by a wrong rule, I shall thereby be brought to judge amiss of
+its moral rectitude; because I have tried it by that which is not the true
+rule: yet I am not mistaken in the relation which that action bears to that
+rule I compare it to, which is agreement or disagreement.
+
+
+</div></body></text></TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 135-136</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 135-136.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1844">undated [1844]</date>
+          <note type="place">St. James's Square</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 135-136</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_135-136.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>St James' Sqre Satdy. 2 o'clock</p>
+      <p>The Hen is arrived. I am going on very well. I have a message to give you from Dr. Locock, who would write to you himself, only that he is much oppressed by business, &amp; thinks I can report quite as well.</p>
+      <p>He feels quite satisfied, I am to tell you, that he understands perfectly the state of the case, &amp; that a recurrence of those seizures is not to be apprehended, (by proper measures). But I am to tell you that he thinks it necessary for me to remain 2 or 3 days here, in</p>
+      <p>order that he may watch the effects of the treatment he is prescribing, this being very different in some respects from the plans heretofore; &amp; he says he must see me in order to judge properly how it works.</p>
+      <p>I certainly feel more satisfied here at present than elsewhere. I shall send you down a parcel by the morning coach on Monday, to say what I shall then do. I may return on Monday, but I think not before Tuesday probably.</p>
+      <p>Will you have the parcel on Monday, asked for.</p>
+      <p>I have nothing much to tell you, my Dear. I feel satisfied &amp; tolerably hopeful about myself.--</p>
+      <p>The Bird</p>
+      <p>P.S. The explanation Locock gives of those seizures is that [two words crossed out] they have nothing to do with the vascular system, &amp; are not the result of fullness in the sense of too full of blood; but that it is a sudden tension which takes place in the nervous cords; I fancy of the cataleptic nature. He says that (altho' I am rather deficient in blood than otherwise), it is yet very requisite to lower [two words crossed out] me notwithstanding; because that the action of my nervous system becomes too powerful &amp; excited, when the body is even in an average state of fullness. It is a very curious case. He anticipates that the treatment requisite will sadly take down my powers of</p>
+      <p>exercise &amp; exertion in all probability (not however for study, which will rather increase very likely); but he says there is no help for this &amp; that I must consent to such diminution. He allows me no wine at all; excepting one very small glass of claret with water; &amp; that he only allows me because it is too weak to act much as a stimulant.</p>
+      <p>The food also is kept very short. You can understand that he thinks it requisite to watch how these changes affect my strength, not to speak of some medicines he is trying. He expects it will take 3 days at least, merely to get rid of the excitement consequent on such a seizure in itself considered.</p>
+    </div></body>
+  </text>
+</TEI>

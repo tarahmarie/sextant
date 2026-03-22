@@ -1,0 +1,211 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="112">CHAPTER VIII.
+Attempts at the Classification of
+Minerals.
+
+Sect. 1.—Proper object of
+Classification.
+THE fixity of the crystalline
+and other physical properties of minerals is turned to account by
+being made the means of classifying such objects. To use the language
+of Aristotle,39 Classification is the
+architectonic science, to which Crystallography and the
+Doctrine of External Characters are subordinate and ministerial, as
+the art of the bricklayer and carpenter are to that of the architect.
+But classification itself is useful only as subservient to an ulterior
+science, which shall furnish us with knowledge concerning things so
+classified. To classify is to divide and to name; and the value of the
+Divisions which we thus make, and of the names which we give them, is
+this;—that they render exact knowledge and general propositions
+possible. Now the knowledge which we principally seek concerning
+minerals is a knowledge of their chemical composition; the general
+propositions to which we hope to be led are such as assert relations
+between their intimate constitution and their external attributes.
+Thus our Mineralogical Classification must always have an eye turned
+towards Chemistry. We cannot get rid of the fundamental conviction,
+that the elementary composition of bodies, since it fixes their
+essence, must determine their properties. Hence all mineralogical
+arrangements, whether they profess it or not, must be, in effect,
+chemical; they must have it for their object to bring into view a set
+of relations, which, whatever else they may be, are at least chemical
+relations. We may begin with the outside, but it is only in order to
+reach the inner 340
+structure. We may classify without reference to chemistry; but if we
+do so, it is only that we may assert chemical propositions with
+reference to our classification.
+39 Eth. Nicom. i. 2.
+But, as we have already attempted to show,
+we not only may, but we must classify, by other than chemical
+characters, in order to be able to make our classification the basis
+of chemical knowledge. In order to assert chemical truths concerning
+bodies, we must have the bodies known by some tests not chemical. The
+chemist cannot assert that Arragonite does or does not contain
+Strontia, except the mineralogist can tell him whether any given
+specimen is or is not Arragonite. If chemistry be called upon
+to supply the definitions as well as the doctrines
+of mineralogy, the science can only consist of identical
+propositions.
+Yet chemistry has been much employed in mineralogical
+classifications, and, it is generally believed, with advantage to the
+science: How is this consistent with what has been said?
+To this the answer is, that when this has been done with
+advantage, the authority of external characters, as well as of
+chemical constitution, has really been brought into play. We have two
+sets of properties to compare, chemical and physical; to exhibit the
+connexion of these is the object of scientific mineralogy. And though
+this connexion would be most distinctly asserted, if we could keep the
+two sets of properties distinct, yet it may be brought into view in a
+great degree, by classifications in which both are referred to as
+guides. Since the governing principle of the attempts at
+classification is the conviction that the chemical constitution and
+the physical properties have a definite relation to each other, we
+appear entitled to use both kinds of evidence, in proportion as we can
+best obtain each; and then the general consistency and convenience of
+our system will be the security for its containing substantial
+knowledge, though this be not presented in a rigorously logical or
+systematic form.
+Such mixed systems of classification, resting partly on
+chemical and partly on physical characters, naturally appeared as the
+earliest attempts in this way, before the two members of the subject
+had been clearly separated in men’s minds; and these systems,
+therefore, we must first give an account of.
+Sect. 2.—Mixed Systems of Classification.
+Early Systems.—The first attempts at classifying
+minerals went upon the ground of those differences of general aspect
+which had been 341
+recognized in the formation of common language; as earths,
+stones, metals. But such arrangements were manifestly
+vague and confused; and when chemistry had advanced to power and
+honor, her aid was naturally called in to introduce a better order.
+“Hiarne and Bromell were, as far as I know,” says40 Cronstedt, “the
+first who founded any mineral system upon chemical principles; to them
+we owe the three known divisions of the most simple mineral bodies;
+viz., the calcarei, vitrescentes, and apyri.” But
+Cronstedt’s own Essay towards a System of Mineralogy, published
+in Swedish in 1758, had perhaps more influence than any other, upon
+succeeding systems. In this, the distinction of earths and stones, and
+also of vitrescent and non-vitrescent earths (apyri), is
+rejected. The earths are classed as calcareous,
+siliceous, argillaceous, and the like. Again, calcareous
+earth is pure (calc spar), or united with acid of vitriol
+(gypsum), or united with the muriatic add (sal
+ammoniac), and the like. It is easy to see that this is the
+method, which, in its general principle, has been continued to our own
+time. In such methods, it is supposed that we can recognize the
+substance by its general appearance, and on this assumption, its place
+in the system conveys to us chemical knowledge concerning it.
+40 Mineralogy, Pref. p.
+viii.
+But as the other branches of Natural History, and especially
+Botany, assumed a systematic form, many mineralogists became
+dissatisfied with this casual and superficial mode of taking account
+of external characters; they became convinced, that in Mineralogy as
+in other sciences, classification must have its system and its rules.
+The views which Werner ascribes to his teacher, Pabst van Ohain,41 show the rise of those opinions which
+led through Werner to Mohs: “He was of opinion that a natural mineral
+system must be constructed by chemical determinations, and external
+characters at the same time (methodus mixta); but that along
+with this, mineralogists ought also to construct and employ what he
+called an artificial system, which might serve us as a guide
+(loco indicis) how to introduce newly-discovered fossils into
+the system, and how to find easily and quickly those already known and
+introduced.” Such an artificial system, containing not the grounds of
+classification, but marks for recognition, was afterwards attempted by
+Mohs, and termed by him the Characteristic of his system.
+41 Frisch. Werner’s Leben, p.
+15.
+Werner’s System.—But, in the mean time, Werner’s
+classification had an extensive reign, and this was still a mixed
+system. Werner himself, indeed, never published a system of
+mineralogy. “We might 342 almost imagine,” Cuvier says,42 “that when he had produced his
+nomenclature of external characters, he was affrighted with his own
+creation; and that the reason of his writing so little after his first
+essay, was to avoid the shackles which he had imposed upon others.”
+His system was, indeed, made known both in and out of Germany, by his
+pupils; but in consequence of Werner’s unwillingness to give it on his
+own authority, it assumed, in its published forms, the appearance of
+an extorted secret imperfectly told. A Notice of the Mineralogical
+Cabinet of Mine-Director Pabst von Ohain, was, in 1792, published
+by Karsten and Hoffman, under Werner’s direction; and conveyed by
+example, his views of mineralogical arrangement; and43 in 1816 his Doctrine of
+Classification was surreptitiously copied from his manuscript, and
+published in a German Journal, termed The Hesperus. But it was
+only in 1817, after his death, that there appeared Werner’s Last
+Mineral System, edited from his papers by Breithaupt and Köhler:
+and by this time, as we shall soon see, other systems were coming
+forwards on the stage.
+42 Cuv. El. ii. 314.
+43 Frisch. p. 52.
+A very slight notice of Werner’s arrangement will suffice to show
+that it was, as we have termed it, a Mixed System. He makes four great
+Classes of fossils, Earthy, Saline, Combustible,
+Metallic: the earthy fossils are in eight Genera—Diamond,
+Zircon, Silica, Alumina, Talc, Lime, Baryta, Hallites. It is clear
+that these genera are in the main chemical, for chemistry alone can
+definitely distinguish the different Earths which characterize them.
+Yet the Wernerian arrangement supposed the distinctions to be
+practically made by reference to those external characters which the
+teacher himself could employ with such surpassing skill. And though it
+cannot be doubted, that the chemical views which prevailed around him
+had a latent influence on his classification in some cases, he
+resolutely refused to bend his system to the authority of chemistry.
+Thus,44 when he was blamed for having, in
+opposition to the chemists, placed diamond among the earthy fossils,
+he persisted in declaring that, mineralogically considered, it was a
+stone, and could not be treated as anything else.
+44 Frisch. p. 62.
+This was an indication to that tendency, which, under his
+successor, led to a complete separation of the two grounds of
+classification. But before we proceed to this, we must notice what was
+doing at this period in other parts of Europe.
+Haüy’s System.—Though Werner, on his own principles,
+ought to 343 have
+been the first person to see the immense value of the most marked of
+external characters, crystalline form, he did not, in fact, attach
+much importance to it. Perhaps he was in some measure fascinated by a
+fondness for those characters which he had himself systematized, and
+the study of which did not direct him to look for geometrical
+relations. However this may be, the glory of giving to Crystallography
+its just importance in Mineralogy is due to France: and the Treatise
+of Haüy, published in 1801, is the basis of the best succeeding works
+of mineralogy. In this work, the arrangement is professedly chemical;
+and the classification thus established is employed as the means of
+enunciating crystallographic and other properties. “The principal
+object of this Treatise,” says the author,45 “is the
+exposition and development of a method founded on certain principles,
+which may serve as a frame-work for all the knowledge which Mineralogy
+can supply, aided by the different sciences which can join hands with
+her and march on the same line.” It is worthy of notice, as characteristic of this
+period of Mixed Systems, that the classification of Haüy, though
+founded on principles so different from the Wernerian ones, deviates
+little from it in the general character of the divisions. Thus, the
+first Order of the first Class of Haüy is Acidiferous Earthy
+Substances; the first genus is Lime; the species are,
+Carbonate of Lime, Phosphate of Lime, Fluate of
+Lime, Sulphate of Lime, and so on.
+45 Disc. Prél. p. xvii.
+Other Systems.—Such mixed methods were introduced also
+into this country, and have prevailed, we may say, up to the present
+time. The Mineralogy of William Phillips, which was published
+in 1824, and which was an extraordinary treasure of crystallographic
+facts, was arranged by such a mixed system; that is, by a system
+professedly chemical; but, inasmuch as a rigid chemical system is
+impossible, and the assumption of such a one leads into glaring
+absurdities, the system was, in this and other attempts of the same
+kind, corrected by the most arbitrary and lax application of other
+considerations.
+It is a curious example of the difference of national intellectual
+character, that the manifest inconsistencies of the prevalent systems,
+which led in Germany, as we shall see, to bold and sweeping attempts
+at reform, produced in England a sort of contemptuous despair with
+regard to systems in general;—a belief that no system could be
+consistent or useful;—and a persuasion that the only valuable
+knowledge is the accumulation of particular facts. This is not the
+place to 344
+explain how erroneous and unphilosophical such an opinion is. But we
+may notice that while such a temper prevails among us, our place in
+this science can never be found in advance of that position which we
+are now considering as exemplified in the period of Werner and Haüy.
+So long as we entertain such views respecting the objects of
+Mineralogy, we can have no share in the fortunes of the succeeding
+period of its history, to which I now proceed.
+</div></body></text></TEI>

@@ -1,0 +1,1118 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="13">CHAPTER IV.
+Sequel to the Inductive Epoch of
+Hipparchus.
+
+Sect. 1.—Researches which verified
+the Theory.
+THE discovery of the leading
+Laws of the Solar and Lunar Motions, and the detection of the
+Precession, may be considered as the great positive steps in the
+Hipparchian astronomy;—the parent discoveries, from which many
+minor improvements proceeded. The task of pursuing the collateral and
+consequent researches which now offered themselves,—of bringing
+the other parts of astronomy up to the level of its most improved
+portions,—was prosecuted by a succession of zealous observers
+and calculators, first, in the school of Alexandria, and afterwards in
+other parts of the world. We must notice the various labors of this
+series of astronomers; but we shall do so very briefly; for the
+ulterior development of doctrines once established is not so important
+an object of contemplation for our present purpose, as the first
+conception and proof of those fundamental truths on which systematic
+doctrines are founded. Yet Periods of Verification, as well as Epochs
+of Induction, deserve to be attended to; and they can nowhere be
+studied with so much advantage as in the history of astronomy.
+In truth, however, Hipparchus did not leave to his successors the
+task of pursuing into detail those views of the heavens to which his
+discoveries led him. He examined with scrupulous care almost every
+part of the subject. We must briefly mention some of the principal
+points which were thus settled by him.
+The verification of the laws of the changes which he assigned to
+the skies, implied that the condition of the heavens was constant,
+except so far as it was affected by those changes. Thus, the doctrine
+that the changes of position of the stars were rightly represented by
+the precession of the equinoxes, supposed that the stars were fixed
+with regard to each other; and the doctrine that the unequal number of
+days, in certain subdivisions of months and years, was adequately
+explained by the theory of epicycles, assumed that years and days were
+always of constant lengths. But Hipparchus was not content with
+assuming these bases of his theory, he endeavored to prove them. 158
+1. Fixity of the Stars.—The question necessarily arose
+after the discovery of the precession, even if such a question had
+never suggested itself before, whether the stars which were called
+fixed, and to which the motions of the other luminaries are
+referred, do really retain constantly the same relative position. In
+order to determine this fundamental question, Hipparchus undertook to
+construct a Map of the heavens; for though the result of his
+survey was expressed in words, we may give this name to his Catalogue
+of the positions of the most conspicuous stars. These positions are
+described by means of alineations; that is, three or more such
+stars are selected as can be touched by an apparent straight line
+drawn in the heavens. Thus Hipparchus observed that the southern claw
+of Cancer, the bright star in the same constellation which precedes
+the head of the Hydra, and the bright star Procyon, were nearly in the
+same line. Ptolemy quotes this and many other of the configurations
+which Hipparchus had noted, in order to show that the positions of the
+stars had not changed in the intermediate time; a truth which the
+catalogue of Hipparchus thus gave astronomers the means of
+ascertaining. It contained 1080 stars.
+The construction of this catalogue of the stars by Hipparchus is an
+event of great celebrity in the history of astronomy. Pliny,77 who speaks of it with admiration as a
+wonderful and superhuman task (“ausus rem etiam Deo improbam,
+annumerare posteris stellas”), asserts the undertaking to have been
+suggested by a remarkable astronomical event, the appearance of a new
+star; “novam stellam et alium in ævo suo genitam deprehendit; ejusque
+motu, qua die fulsit, ad dubitationem est adductus anne hoc sæpius
+fieret, moverenturque et eæ quas putamus affixas.” There is nothing
+inherently improbable in this tradition, but we may observe, with
+Delambre,78 that we are not informed whether this
+new star remained in the sky, or soon disappeared again. Ptolemy makes
+no mention of the star or the story; and his catalogue contains no
+bright star which is not found in the “Catasterisms” of
+Eratosthenes. These Catasterisms were an enumeration of 475 of the
+principal stars, according to the constellations in which they are,
+and were published about sixty years before Hipparchus.
+77 Nat. Hist. lib. ii.
+(xxvi.)
+78 A. A. i. 290.
+2. Constant Length of Years.—Hipparchus also attempted
+to ascertain whether successive years are all of the same length; and
+though, with his scrupulous love of accuracy,79 he does not
+appear to have 159
+thought himself justified in asserting that the years were always
+exactly equal, he showed, both by observations of the time when the
+sun passed the equinoxes, and by eclipses, that the difference of
+successive years, if there were any difference, must be extremely
+slight. The observations of succeeding astronomers, and especially of
+Ptolemy, confirmed this opinion, and proved, with certainty, that
+there is no progressive increase or diminution in the duration of the
+year.
+79 Ptolem. Synt. iii. 2.
+3. Constant Length of Days. Equation of Time.—The
+equality of days was more difficult to ascertain than that of years;
+for the year is measured, as on a natural scale, by the number of days
+which it contains; but the day can be subdivided into hours only by
+artificial means; and the mechanical skill of the ancients did not
+enable them to attain any considerable accuracy in the measure of such
+portions of time; though clepsydras and similar instruments were used
+by astronomers. The equality of days could only be proved, therefore,
+by the consequences of such a supposition; and in this manner it
+appears to have been assumed, as the fact really is, that the apparent
+revolution of the stars is accurately uniform, never becoming either
+quicker or slower. It followed, as a consequence of this, that the
+solar days (or rather the nycthemers, compounded of a night and
+a day) would be unequal, in consequence of the sun’s unequal motion,
+thus giving rise to what we now call the Equation of
+Time,—the interval by which the time, as marked on a dial,
+is before or after the time, as indicated by the accurate timepieces
+which modern skill can produce. This inequality was fully taken
+account of by the ancient astronomers; and they thus in fact assumed
+the equality of the sidereal days.
+Sect. 2.—Researches which did not verify the
+Theory.
+Some of the researches of Hipparchus and
+his followers fell upon the weak parts of his theory; and if the
+observations had been sufficiently exact, must have led to its being
+corrected or rejected.
+Among these we may notice the researches which were made concerning
+the Parallax of the heavenly bodies, that is, their apparent
+displacement by the alteration of position of the observer from one
+part of the earth’s surface to the other. This subject is treated of
+at length by Ptolemy; and there can be no doubt that it was well
+examined by Hipparchus, who invented a parallactic instrument
+for that purpose. The idea of parallax, as a geometrical possibility,
+was indeed too obvious to be overlooked by geometers at any time; and
+when the doctrine of the sphere was established, it must have appeared
+strange 160 to the
+student, that every place on the earth’s surface might alike be
+considered as the centre of the celestial motions. But if this was
+true with respect to the motions of the fixed stars, was it also true
+with regard to those of the sun and moon? The displacement of the sun
+by parallax is so small, that the best observers among the ancients
+could never be sure of its existence; but with respect to the moon,
+the case is different. She may be displaced by this cause to the
+amount of twice her own breadth, a quantity easily noticed by the
+rudest process of instrumental observation. The law of the
+displacement thus produced is easily obtained by theory, the globular
+form of the earth being supposed known; but the amount of the
+displacement depends upon the distance of the moon from the earth, and
+requires at least one good observation to determine it. Ptolemy has
+given a table of the effects of parallax, calculated according to the
+apparent altitude of the moon, assuming certain supposed distances;
+these distances, however, do not follow the real law of the moon’s
+distances, in consequence of their being founded upon the Hypothesis
+of the Eccentric and Epicycle.
+In fact this Hypothesis, though a very close representation of the
+truth, so far as the positions of the luminaries are
+concerned, fails altogether when we apply it to their
+distances. The radius of the epicycle, or the eccentricity of
+the eccentric, are determined so as to satisfy the observations of the
+apparent motions of the bodies; but, inasmuch as the
+hypothetical motions are different altogether from the real motions,
+the Hypothesis does not, at the same time, satisfy the observations of
+the distances of the bodies, if we are able to make any such
+observations.
+Parallax is one method by which the distances of the moon, at
+different times, may be compared; her Apparent Diameters afford
+another method. Neither of these modes, however, is easily capable of
+such accuracy as to overturn at once the Hypothesis of epicycles; and,
+accordingly, the Hypothesis continued to be entertained in spite of
+such measures; the measures being, indeed, in some degree falsified in
+consequence of the reigning opinion. In fact, however, the
+imperfection of the methods of measuring parallax and magnitude, which
+were in use at this period, was such, their results could not lead to
+any degree of conviction deserving to be set in opposition to a theory
+which was so satisfactory with regard to the more certain
+observations, namely, those of the motions.
+The Eccentricity, or the Radius of the Epicycle, which would
+satisfy 161 the
+inequality of the motions of the moon, would, in fact, double
+the inequality of the distances. The Eccentricity of the
+moon’s orbit is determined by Ptolemy as 1⁄12 of the radius of the
+orbit; but its real amount is only half as great; this difference is a
+necessary consequence of the supposition of uniform circular motions,
+on which the Epicyclic Hypothesis proceeds.
+We see, therefore, that this part of the Hipparchian theory carries
+in itself the germ of its own destruction. As soon as the art of
+celestial measurement was so far perfected, that astronomers could be
+sure of the apparent diameter of the moon within 1⁄30 or
+1⁄40
+of the whole, the inconsistency of the theory with itself would become
+manifest. We shall see, hereafter, the way in which this inconsistency
+operated; in reality a very long period elapsed before the methods of
+observing were sufficiently good to bring it clearly into view.
+Sect. 3.—Methods of Observation of the Greek
+Astronomers.
+We must now say a word concerning the
+Methods above spoken of. Since one of the most important tasks of
+verification is to ascertain with accuracy the magnitude of the
+quantities which enter, as elements, into the theory which occupies
+men during the period; the improvement of instruments, and the methods
+of observing and experimenting, are principal features in such
+periods. We shall, therefore, mention some of the facts which bear
+upon this point.
+The estimation of distances among the stars by the eye, is an
+extremely inexact process. In some of the ancient observations,
+however, this appears to have been the method employed; and stars are
+described as being a cubit or two cubits from other
+stars. We may form some notion of the scale of this kind of
+measurement, from what Cleomedes remarks,80 that the sun
+appears to be about a foot broad; an opinion which he confutes at
+length.
+80 Del. A. A. i. 222.
+A method of determining the positions of the stars, susceptible of
+a little more exactness than the former, is the use of
+alineations, already noticed in
+speaking of Hipparchus’s catalogue. Thus, a straight line passing
+through two stars of the Great Bear passes also through the pole-star;
+this is, indeed, even now a method usually employed to enable us
+readily to fix on the pole-star; and the two stars β and α of Ursa
+Major, are hence often called “the pointers.” 162
+But nothing like accurate measurements of any portions of the sky
+were obtained, till astronomers adopted the method of making visual
+coincidences of the objects with the instruments, either by means of
+shadows or of sights.
+Probably the oldest and most obvious measurements of the positions
+of the heavenly bodies were those in which the elevation of the sun
+was determined by comparing the length of the shadow of an upright
+staff or gnomon, with the length of the staff itself. It
+appears,81 from a memoir of Gautil, first printed
+in the Connaissance des Temps for 1809, that, at the lower town
+of Loyang, now called Hon-anfou, Tchon-kong found the length of the
+shadow of the gnomon, at the summer solstice, equal to one foot and a
+half, the gnomon itself being eight feet in length. This was about
+1100 b. c. The Greeks, at an early period,
+used the same method. Strabo says82 that “Byzantium
+and Marseilles are on the same parallel of latitude, because the
+shadows at those places have the same proportion to the gnomon,
+according to the statement of Hipparchus, who follows Pytheas.”
+81 Lib. U. K. Hist. Ast. p.
+5.
+82 Del. A. A. i. 257.
+But the relations of position which astronomy considers, are, for
+the most part, angular distances; and these are most simply expressed
+by the intercepted portion of a circumference described about the
+angular point. The use of the gnomon might lead to the determination
+of the angle by the graphical methods of geometry; but the numerical
+expression of the circumference required some progress in
+trigonometry; for instance, a table of the tangents of angles.
+Instruments were soon invented for measuring angles, by means of
+circles, which had a border or limb, divided into equal parts.
+The whole circumference was divided into 360 degrees: perhaps
+because the circles, first so divided, were those which represented
+the sun’s annual path; one such degree would be the sun’s daily
+advance, more nearly than any other convenient aliquot part which
+could be taken. The position of the sun was determined by means of the
+shadow of one part of the instrument upon the other. The most ancient
+instrument of this kind appears to be the Hemisphere of
+Berosus. A hollow hemisphere was placed with its rim horizontal,
+and a style was erected in such a manner that the extremity of the
+style was exactly at the centre of the sphere. The shadow of this
+extremity, on the concave surface, had the same position with regard
+to the lowest point of the sphere which the sun had with regard to the
+highest point of the heavens. 163 But this instrument was in fact used
+rather for dividing the day into portions of time than for determining
+position.
+Eratosthenes83 observed the amount of the obliquity of
+the sun’s path to the equator: we are not informed what instruments he
+used for this purpose; but he is said to have obtained, from the
+munificence of Ptolemy Euergetes, two Armils, or instruments
+composed of circles, which were placed in the portico at Alexandria,
+and long used for observations. If a circular rim or hoop were placed
+so as to coincide with the plane of the equator, the inner concave
+edge would be enlightened by the sun’s rays which came under the front
+edge, when the sun was south of the equator, and by the rays which
+came over the front edge, when the sun was north of the equator: the
+moment of the transition would be the time of the equinox. Such an
+instrument appears to be referred to by Hipparchus, as quoted by
+Ptolemy.84 “The circle of copper, which stands at
+Alexandria in what is called the Square Porch, appears to mark, as the
+day of the equinox, that on which the concave surface begins to be
+enlightened from the other side.” Such an instrument was called an
+equinoctial armil.
+83 Delambre, A. A. i. 86.
+84 Ptol. Synt. iii. 2.
+A solstitial armil is described by Ptolemy, consisting of
+two circular rims, one sliding round within the other, and the inner
+one furnished with two pegs standing out from its surface at right
+angles, and diametrically opposite to each other. These circles being
+fixed in the plane of the meridian, and the inner one turned, till, at
+noon, the shadow of the peg in front falls upon the peg behind, the
+position of the sun at noon would be determined by the degrees on the
+outer circle.
+In calculation, the degree was conceived to be divided into 60
+minutes, the minute into 60 seconds, and so on. But in
+practice it was impossible to divide the limb of the instrument into
+parts so small. The armils of Alexandria were divided into no parts
+smaller than sixths of degrees, or divisions of 10 minutes.
+The angles, observed by means of these divisions, were expressed as
+a fraction of the circumference. Thus Eratosthenes stated the interval
+between the tropics to be  11⁄83 of the circumference.85
+85 Delambre, A. A. i. 87. It is
+probable that his observation gave him 47⅔ degrees. The fraction 47⅔⁄360 =
+143⁄1080 = 11∙13⁄1080  = 11⁄831⁄13,
+which is very nearly  11⁄83.
+It was soon remarked that the whole circumference of the circle
+164 was not wanted
+for such observations. Ptolemy86 says that he
+found it more convenient to observe altitudes by means of a square
+flat piece of stone or wood, with a quadrant of a circle
+described on one of its flat faces, about a centre near one of the
+angles. A peg was placed at the centre, and one of the extreme radii
+of the quadrant being perpendicular to the horizon, the elevation of
+the sun above the horizon was determined by observing the point of the
+arc of the quadrant on which the shadow of the peg fell.
+86 Synt. i. 1.
+As the necessity of accuracy in the observations was more and more
+felt, various adjustments of such instruments were practised. The
+instruments were placed in the meridian by means of a meridian
+line drawn by astronomical methods on the floor on which they
+stood. The plane of the instrument was made vertical by means of a
+plumb-line: the bounding radius, from which angles were measured, was
+also adjusted by the plumb-line.87
+87 The curvature of the plane of the
+circle, by warping, was noticed. Ptol. iii. 2. p. 155, observes that
+his equatorial circle was illuminated on the hollow side twice in the
+same day. (He did not know that this might arise from
+refraction.)
+In this manner, the places of the sun and of the moon could be
+observed by means of the shadows which they cast. In order to observe
+the stars,88 the observer looked along the face of
+the circle of the armil, so as to see its two edges apparently brought
+together, and the star apparently touching them.89
+88 Delamb. A. A. i. 185.
+89 Ptol. Synt. i. 1. Ὥσπερ
+κεκολλήμενος ἀμφοτέραις αὐτῶν ταῖς ἐπιφανείαις ὁ ἀστὴρ ἐν τῷ δι’ αὐτῶν
+ἐπιπέδῳ διοπτεύηται.
+It was afterwards found important to ascertain the position of the
+sun with regard to the ecliptic: and, for this purpose, an instrument,
+called an astrolabe, was invented, of which we have a
+description in Ptolemy.90 This also consisted of circular rims,
+movable within one another, or about poles; and contained circles
+which were to be brought into the position of the ecliptic, and of a
+plane passing through the sun and the poles of the ecliptic. The
+position of the moon with regard to the ecliptic, and its position in
+longitude with regard to the sun or a star, were thus determined.
+90 Synt. v. 1.
+The astrolabe continued long in use, but not so long as the
+quadrant described by Ptolemy; this, in a larger form, is the mural
+quadrant, which has been used up to the most recent times.
+It may be considered surprising,91 that Hipparchus,
+after having 165
+observed, for some time, right ascensions and declinations, quitted
+equatorial armils for the astrolabe, which immediately refers the
+stars to the ecliptic. He probably did this because, after the
+discovery of precession, he found the latitudes of the stars constant,
+and wanted to ascertain their motion in longitude.
+91 Del. A. A. 181.
+To the above instruments, may be added the dioptra, and the
+parallactic instrument of Hipparchus and Ptolemy. In the
+latter, the distance of a star from the zenith was observed by looking
+through two sights fixed in a rule, this being annexed to another
+rule, which was kept in a vertical position by a plumb-line; and the
+angle between the two rules was measured.
+The following example of an observation, taken from Ptolemy, may
+serve to show the form in which the results of the instruments, just
+described, were usually stated.92
+92 Del. A. A. ii. 248.
+“In the 2d year of Antoninus, the 9th day of Pharmouthi, the sun
+being near setting, the last division of Taurus being on the meridian
+(that is, 5½ equinoctial hours after noon), the moon was in 3 degrees
+of Pisces, by her distance from the sun (which was 92 degrees, 8
+minutes); and half an hour after, the sun being set, and the quarter
+of Gemini on the meridian, Regulus appeared, by the other circle of
+the astrolabe, 57½ degrees more forwards than the moon in longitude.”
+From these data the longitude of Regulus is calculated.
+From what has been said respecting the observations of the
+Alexandrian astronomers, it will have been seen that their
+instrumental observations could not be depended on for any close
+accuracy. This defect, after the general reception of the Hipparchian
+theory, operated very unfavorably on the progress of the science. If
+they could have traced the moon’s place distinctly from day to day,
+they must soon have discovered all the inequalities which were known
+to Tycho Brahe; and if they could have measured her parallax or her
+diameter with any considerable accuracy, they must have obtained a
+confutation of the epicycloidal form of her orbit. By the badness of
+their observations, and the imperfect agreement of these with
+calculation, they not only were prevented making such steps, but were
+led to receive the theory with a servile assent and an indistinct
+apprehension, instead of that rational conviction and intuitive
+clearness which would have given a progressive impulse to their
+knowledge. 166
+Sect. 4.—Period from Hipparchus to
+Ptolemy.
+We have now to speak of the cultivators of
+astronomy from the time of Hipparchus to that of Ptolemy, the next
+great name which occurs in the history of this science; though even he
+holds place only among those who verified, developed, and extended the
+theory of Hipparchus. The astronomers who lived in the intermediate
+time, indeed, did little, even in this way; though it might have been
+supposed that their studies were carried on under considerable
+advantages, inasmuch as they all enjoyed the liberal patronage of the
+kings of Egypt.93 The “divine school of Alexandria,” as
+it is called by Synesius, in the fourth century, appears to have
+produced few persons capable of carrying forwards, or even of
+verifying, the labors of its great astronomical teacher. The
+mathematicians of the school wrote much, and apparently they observed
+sometimes; but their observations are of little value; and their books
+are expositions of the theory and its geometrical consequences,
+without any attempt to compare it with observation. For instance, it
+does not appear that any one verified the remarkable discovery of the
+precession, till the time of Ptolemy, 250 years after; nor does the
+statement of this motion of the heavens appear in the treatises of the
+intermediate writers; nor does Ptolemy quote a single observation of
+any person made in this long interval of time; while his references to
+those of Hipparchus are perpetual; and to those of Aristyllus and
+Timocharis, and of others, as Conon, who preceded Hipparchus, are not
+unfrequent.
+93 Delamb. A. A. ii. 240.
+This Alexandrian period, so inactive and barren in the history of
+science, was prosperous, civilized, and literary; and many of the
+works which belong to it are come down to us, though those of
+Hipparchus are lost. We have the “Uranologion” of Geminus,94 a systematic treatise on Astronomy,
+expounding correctly the Hipparchian Theories and their consequences,
+and containing a good account of the use of the various Cycles, which
+ended in the adoption of the Calippic Period. We have likewise “The
+Circular Theory of the Celestial Bodies” of Cleomedes,95 of which the principal part is a
+development of the doctrine of the sphere, including the consequences
+of the globular form of the earth. We have also another work on
+“Spherics” by Theodosius of Bithynia,96 which contains
+some of the most important propositions of the subject, and has been
+used as a book of 167 instruction even in modern times.
+Another writer on the same subject is Menelaus, who lived somewhat
+later, and whose Three Books on Spherics still remain.
+94 b. c.
+70.
+95 b. c.
+60.
+96 b. c.
+50.
+One of the most important kinds of deduction from a geometrical
+theory, such as that of the doctrine of the sphere, or that of
+epicycles, is the calculation of its numerical results in particular
+cases. With regard to the latter theory, this was done in the
+construction of Solar and Lunar Tables, as we have already seen; and
+this process required the formation of a Trigonometry, or
+system of rules for calculating the relations between the sides and
+angles of triangles. Such a science had been formed by Hipparchus, who
+appears to be the author of every great step in ancient astronomy.97 He wrote a work in twelve books, “On
+the Construction of the Tables of Chords of Arcs;” such a table being
+the means by which the Greeks solved their triangles. The Doctrine of
+the Sphere required, in like manner, a Spherical Trigonometry,
+in order to enable mathematicians to calculate its results; and this
+branch of science also appears to have been formed by Hipparchus,98 who gives results that imply the
+possession of such a method. Hypsicles, who was a contemporary of
+Ptolemy, also made some attempts at the solution of such problems: but
+it is extraordinary that the writers whom we have mentioned as coming
+after Hipparchus, namely, Theodosius, Cleomedes, and Menelaus, do not
+even mention the calculation of triangles,99 either plain or
+spherical; though the latter writer100 is said to
+have written on “the Table of Chords,” a work which is now lost.
+97 Delamb. A. A. ii. 37.
+98 A. A. i. 117.
+99 A. A. i. 249.
+100 A. A. ii. 37.
+We shall see, hereafter, how prevalent a disposition in literary
+ages is that which induces authors to become commentators. This
+tendency showed itself at an early period in the school of Alexandria.
+Aratus,101 who lived 270 b.
+c. at the court of Antigonus, king of Macedonia, described the
+celestial constellations in two poems, entitled “Phænomena,” and
+“Prognostics.” These poems were little more than a versification of
+the treatise of Eudoxus on the acronycal and heliacal risings and
+settings of the stars. The work was the subject of a comment by
+Hipparchus, who perhaps found this the easiest way of giving
+connection and circulation to his knowledge. Three Latin translations
+of this poem gave the Romans the means of becoming acquainted with it:
+the first is by Cicero, of which we have numerous fragments 168 extant;102 Germanicus Cæsar, one of the
+sons-in-law of Augustus, also translated the poem, and this
+translation remains almost entire. Finally, we have a complete
+translation by Avienus.103 The “Astronomica” of Manilius, the
+“Poeticon Astronomicon” of Hyginus, both belonging to the time of
+Augustus, are, like the work of Aratus, poems which combine
+mythological ornament with elementary astronomical exposition; but
+have no value in the history of science. We may pass nearly the same
+judgment upon the explanations and declamations of Cicero, Seneca, and
+Pliny, for they do not apprise us of any additions to astronomical
+knowledge; and they do not always indicate a very clear apprehension
+of the doctrines which the writers adopt.
+101 A. A. i. 74.
+102 Two copies of this translation,
+illustrated by drawings of different ages, one set Roman, and the
+other Saxon, according to Mr. Ottley, are described in the
+Archæologia, vol. xviii.
+103 Montucla, i. 221.
+Perhaps the most remarkable feature in the two last-named writers,
+is the declamatory expression of their admiration for the discoverers
+of physical knowledge; and in one of them, Seneca, the persuasion of a
+boundless progress in science to which man was destined. Though this
+belief was no more than a vague and arbitrary conjecture, it suggested
+other conjectures in detail, some of which, having been verified, have
+attracted much notice. For instance, in speaking of comets,104 Seneca says, “The time will come when
+those things which are now hidden shall be brought to light by time
+and persevering diligence. Our posterity will wonder that we should be
+ignorant of what is so obvious.” “The motions of the planets,” he
+adds, “complex and seemingly confused, have been reduced to rule; and
+some one will come hereafter, who will reveal to us the paths of
+comets.” Such convictions and conjectures are not to be admired for
+their wisdom; for Seneca was led rather by enthusiasm, than by any
+solid reasons, to entertain this opinion; nor, again, are they to be
+considered as merely lucky guesses, implying no merit; they are
+remarkable as showing how the persuasion of the universality of law,
+and the belief of the probability of its discovery by man, grow up in
+men’s minds, when speculative knowledge becomes a prominent object of
+attention.
+104 Seneca, Qu. N. vii.
+25.
+An important practical application of astronomical knowledge was
+made by Julius Cæsar, in his correction of the calendar, which we have
+already noticed; and this was strictly due
+to the Alexandrian School: Sosigenes, an astronomer belonging to that
+school, came from Egypt to Rome for the purpose. 169
+Sect. 5.—Measures of the Earth.
+There were, as we have said, few attempts
+made, at the period of which we are speaking, to improve the accuracy
+of any of the determinations of the early Alexandrian astronomers. One
+question naturally excited much attention at all times, the
+magnitude of the earth, its figure being universally
+acknowledged to be a globe. The Chaldeans, at an earlier period, had
+asserted that a man, walking without stopping, might go round the
+circuit of the earth in a year; but this might be a mere fancy, or a
+mere guess. The attempt of Eratosthenes to decide this question went
+upon principles entirely correct. Syene was situated on the tropic;
+for there, on the day of the solstice, at noon, objects cast no
+shadow; and a well was enlightened to the bottom by the sun’s rays. At
+Alexandria, on the same day, the sun was, at noon, distant from the
+zenith by a fiftieth part of the circumference. Those two cities were
+north and south from each other: and the distance had been determined,
+by the royal overseers of the roads, to be 5000 stadia. This gave a
+circumference of 250,000 stadia to the earth, and a radius of about
+40,000. Aristotle105 says that the mathematicians make the
+circumference 400,000 stadia. Hipparchus conceived that the measure of
+Eratosthenes ought to be increased by about one-tenth.106 Posidonius, the friend of Cicero, made
+another attempt of the same kind. At Rhodes, the star Canopus but just
+appeared above the horizon; at Alexandria, the same star rose to an
+altitude of  1⁄48th of the circumference;
+the direct distance on the meridian was 5000 stadia, which gave
+240,000 for the whole circuit. We cannot look upon these measures as
+very precise; the stadium employed is not certainly known; and no
+peculiar care appears to have been bestowed on the measure of the
+direct distance.
+105 De Cœlo, ii. ad fin.
+106 Plin. ii. (cviii.)
+When the Arabians, in the ninth century, came to be the principal
+cultivators of astronomy, they repeated this observation in a manner
+more suited to its real importance and capacity of exactness. Under
+the Caliph Almamon,107 the vast plain of Singiar, in
+Mesopotamia, was the scene of this undertaking. The Arabian
+astronomers there divided themselves into two bands, one under the
+direction of Chalid ben Abdolmalic, and the other having at its head
+Alis ben Isa. These two parties proceeded, the one north, the other
+south, determining the distance by the actual application of their
+measuring-rods to the ground, 170 till each was found, by astronomical
+observation, to be a degree from the place at which they started. It
+then appeared that these terrestrial degrees were respectively 56
+miles, and 56 miles and two-thirds, the mile being 4000 cubits. In
+order to remove all doubt concerning the scale of this measure, we are
+informed that the cubit is that called the black cubit, which consists
+of 27 inches, each inch being the thickness of six grains of
+barley.
+107 Montu. 357.
+Sect. 6.—Ptolemy’s Discovery of Evection.
+By referring, in this place, to the
+last-mentioned measure of the earth, we include the labors of the
+Arabian as well as the Alexandrian astronomers, in the period of mere
+detail, which forms the sequel to the great astronomical revolution of
+the Hipparchian epoch. And this period of verification is rightly
+extended to those later times; not merely because astronomers were
+then still employed in determining the magnitude of the earth, and the
+amount of other elements of the theory,—for these are some of
+their employments to the present day,—but because no great
+intervening discovery marks a new epoch, and begins a new
+period;—because no great revolution in the theory added to the
+objects of investigation, or presented them in a new point of view.
+This being the case, it will be more instructive for our purpose to
+consider the general character and broad intellectual features of this
+period, than to offer a useless catalogue of obscure and worthless
+writers, and of opinions either borrowed or unsound. But before we do
+this, there is one writer whom we cannot leave undistinguished in the
+crowd; since his name is more celebrated even than that of Hipparchus;
+his works contain ninety-nine hundredths of what we know of the Greek
+astronomy; and though he was not the author of a new theory, he made
+some very remarkable steps in the verification, correction, and
+extension of the theory which he received. I speak of Ptolemy, whose
+work, “The Mathematical Construction” (of the heavens), contains a
+complete exposition of the state of astronomy in his time, the reigns
+of Adrian and Antonine. This book is familiarly known to us by a term
+which contains the record of our having received our first knowledge
+of it from the Arabic writers. The “Megiste Syntaxis,” or Great
+Construction, gave rise, among them, to the title Al Magisti,
+or Almagest, by which the work is commonly described. As a
+mathematical exposition of the Theory of Epicycles and Eccentrics, of
+the observations and calculations which were employed in 171 order to apply this
+theory to the sun, moon, and planets, and of the other calculations
+which are requisite, in order to deduce the consequences of this
+theory, the work is a splendid and lasting monument of diligence,
+skill, and judgment. Indeed, all the other astronomical works of the
+ancients hardly add any thing whatever to the information we obtain
+from the Almagest; and the knowledge which the student possesses of
+the ancient astronomy must depend mainly upon his acquaintance with
+Ptolemy. Among other merits, Ptolemy has that of giving us a very
+copious account of the manner in which Hipparchus established the main
+points of his theories; an account the more agreeable, in consequence
+of the admiration and enthusiasm with which this author everywhere
+speaks of the great master of the astronomical school.
+In our present survey of the writings of Ptolemy, we are concerned
+less with his exposition of what had been done before him, than with
+his own original labors. In most of the branches of the subject, he
+gave additional exactness to what Hipparchus had done; but our main
+business, at present, is with those parts of the Almagest which
+contain new steps in the application of the Hipparchian hypothesis.
+There are two such cases, both very remarkable,—that of the
+moon’s Evection, and that of the Planetary Motions.
+The law of the moon’s anomaly, that is, of the leading and obvious
+inequality of her motion, could be represented, as we have seen,
+either by an eccentric or an epicycle; and the amount of this
+inequality had been collected by observations of eclipses. But though
+the hypothesis of an epicycle, for instance, would bring the moon to
+her proper place, so far as eclipses could show it, that is, at new
+and full moon, this hypothesis did not rightly represent her motions
+at other points of her course. This appeared, when Ptolemy set about
+measuring her distances from the sun at different times. “These,” he108 says, “sometimes agreed, and sometimes
+disagreed.” But by further attention to the facts, a rule was detected
+in these differences. “As my knowledge became more complete and more
+connected, so as to show the order of this new inequality, I perceived
+that this difference was small, or nothing, at new and full moon; and
+that at both the dichotomies (when the moon is half
+illuminated) it was small, or nothing, if the moon was at the apogee
+or perigee of the epicycle, and was greatest when she was in the
+middle of the interval, and therefore when the first 172 inequality was
+greatest also.” He then adds some further remarks on the circumstances
+according to which the moon’s place, as affected by this new
+inequality, is before or behind the place, as given by the epicyclical
+hypothesis.
+108 Synth. v. 2.
+Such is the announcement of the celebrated discovery of the moon’s
+second inequality, afterwards called (by Bullialdus) the
+Evection. Ptolemy soon proceeded to represent this inequality
+by a combination of circular motions, uniting, for this purpose, the
+hypothesis of an epicycle, already employed to explain the first
+inequality, with the hypothesis of an eccentric, in the circumference
+of which the centre of the epicycle was supposed to move. The mode of
+combining these was somewhat complex; more complex we may, perhaps,
+say, than was absolutely requisite;109 the apogee of
+the eccentric moved backwards, or contrary to the order of the signs,
+and the centre of the epicycle moved forwards nearly twice as fast
+upon the circumference of the eccentric, so as to reach a place
+nearly, but not exactly, the same, as if it had moved in a concentric
+instead of an eccentric path. Thus the centre of the epicycle went
+twice round the eccentric in the course of one month: and in this
+manner it satisfied the condition that it should vanish at new and
+full moon, and be greatest when the moon was in the quarters of her
+monthly course.110
+109 If Ptolemy had used the
+hypothesis of an eccentric instead of an epicycle for the first
+inequality of the moon, an epicycle would have represented the second
+inequality more simply than his method did.
+110 I will insert here the
+explanation which my German translator, the late distinguished
+astronomer Littrow, has given of this point. The Rule of this
+Inequality, the Evection, may be most simply expressed thus. If
+a denote the excess of the Moon’s Longitude over the Sun’s, and
+b the Anomaly of the Moon reckoned from her Perigee, the
+Evection is equal to 1°. 3.sin
+(2a − b). At New and Full Moon, a is
+0 or 180°, and thus the Evection is − 1°.3.sin b. At both quarters, or
+dichotomies, a is 90° or 270°, and consequently the Evection is
++ 1°.3.sin b. The
+Moon’s Elliptical Equation of the centre is at all points of her orbit
+equal to 6°.3.sin b.
+The Greek Astronomers before Ptolemy observed the moon only at the
+time of eclipses; and hence they necessarily found for the sum of
+these two greatest inequalities of the moon’s motion the quantity
+6°.3.sin b − 1°.3.sin
+b, or 5°.sin
+b: and as they took this for the moon’s equation of the
+centre, which depends upon the eccentricity of the moon’s orbit, we
+obtain from this too small equation of the centre, an eccentricity
+also smaller than the truth. Ptolemy, who first observed the moon in
+her quarters, found for the sum of those Inequalities at those points
+the quantity 6°.3.sin b
++ 1°.3.sin b, or 7°.6.sin b; and thus made the eccentricity of
+the moon as much too great at the quarters as the observers of
+eclipses had made it too small. He hence concluded that the
+eccentricity of the Moon’s orbit is variable, which is not the
+case.
+The discovery of the Evection, and the reduction of it to the
+173 epicyclical
+theory, was, for several reasons, an important step in astronomy; some
+of these reasons may be stated.
+1. It obviously suggested, or confirmed, the suspicion that the
+motions of the heavenly bodies might be subject to many
+inequalities:—that when one set of anomalies had been discovered
+and reduced to rule, another set might come into view;—that the
+discovery of a rule was a step to the discovery of deviations from the
+rule, which would require to be expressed in other rules;—that
+in the application of theory to observation, we find, not only the
+stated phenomena, for which the theory does account, but also
+residual phenomena, which remain unaccounted for, and stand
+out beyond the calculation;—that thus nature is not simple and
+regular, by conforming to the simplicity and regularity of our
+hypotheses, but leads us forwards to apparent complexity, and to an
+accumulation of rules and relations. A fact like the Evection,
+explained by an Hypothesis like Ptolemy’s, tended altogether to
+discourage any disposition to guess at the laws of nature from mere
+ideal views, or from a few phenomena.
+2. The discovery of Evection had an importance which did not come
+into view till long afterwards, in being the first of a numerous
+series of inequalities of the moon, which results from the
+Disturbing Force of the sun. These inequalities were
+successfully discovered; and led finally to the establishment of the
+law of universal gravitation. The moon’s first inequality arises from
+a different cause;—from the same cause as the inequality of the
+sun’s motion;—from the motion in an ellipse, so far as the
+central attraction is undisturbed by any other. This first inequality
+is called the Elliptic Inequality, or, more usually, the Equation
+of the Centre.111 All the planets have such
+inequalities, but the Evection is peculiar to the moon. The discovery
+of other inequalities of the moon’s motion, the Variation and Annual
+Equation, made an immediate sequel in the order of the subject to
+174 the discoveries
+of Ptolemy, although separated by a long interval of time; for these
+discoveries were only made by Tycho Brahe in the sixteenth century.
+The imperfection of astronomical instruments was the great cause of
+this long delay.
+111 The Equation of the Centre is the
+difference between the place of the Planet in its elliptical orbit,
+and that place which a Planet would have, which revolved uniformly
+round the Sun as a centre in a circular orbit in the same time. An
+imaginary Planet moving in the manner last described, is called the
+mean Planet, while the actual Planet which moves in the ellipse
+is called the true Planet. The Longitude of the mean Planet at
+a given time is easily found, because its motion is uniform. By adding
+to it the Equation of the Centre, we find the Longitude of the true
+Planet, and thus, its place in its orbit.—Littrow’s
+Note.
+ I may add that the word Equation, used in such cases,
+denotes in general a quantity which must be added to or subtracted
+from a mean quantity, to make it equal to the true quantity;
+or rather, a quantity which must be added to or subtracted from a
+variably increasing quantity to make it increase
+equably.
+3. The Epicyclical Hypothesis was found capable of accommodating
+itself to such new discoveries. These new inequalities could be
+represented by new combinations of eccentrics and epicycles: all the
+real and imaginary discoveries by astronomers, up to Copernicus, were
+actually embodied in these hypotheses; Copernicus, as we have said,
+did not reject such hypotheses; the lunar inequalities which Tycho
+detected might have been similarly exhibited; and even Newton112 represents the motion of the moon’s
+apogee by means of an epicycle. As a mode of expressing the law of the
+irregularity, and of calculating its results in particular cases, the
+epicyclical theory was capable of continuing to render great service
+to astronomy, however extensive the progress of the science might be.
+It was, in fact, as we have already said, the modern process of
+representing the motion by means of a series of circular
+functions.
+112 Principia, lib. iii. prop.
+xxxv.
+4. But though the doctrine of eccentrics and epicycles was thus
+admissible as an Hypothesis, and convenient as a means of expressing
+the laws of the heavenly motions, the successive occasions on which it
+was called into use, gave no countenance to it as a Theory; that is,
+as a true view of the nature of these motions, and their causes. By
+the steps of the progress of this Hypothesis, it became more and more
+complex, instead of becoming more simple, which, as we shall see, was
+the course of the true Theory. The notions concerning the position and
+connection of the heavenly bodies, which were suggested by one set of
+phenomena, were not confirmed by the indications of another set of
+phenomena; for instance, those relations of the epicycles which were
+adopted to account for the Motions of the heavenly bodies, were not
+found to fall in with the consequences of their apparent Diameters and
+Parallaxes. In reality, as we have said, if the relative distances of
+the sun and moon at different times could have been accurately
+determined, the Theory of Epicycles must have been forthwith
+overturned. The insecurity of such measurements alone maintained the
+theory to later times.113
+113 The alteration of the apparent
+diameter of the moon is so great that it cannot escape us, even with
+very moderate instruments. This apparent diameter contains, when the
+moon is nearest the earth, 2010 seconds; when she is furthest off 1762
+seconds; that is, 248 seconds, or 4 minutes 8 seconds, less than in
+the former case. [The two quantities are in the proportion of 8 to 7,
+nearly.]—Littrow’s Note. 175
+Sect. 7.—Conclusion of the History of
+Greek Astronomy.
+I might now proceed to give an account of
+Ptolemy’s other great step, the determination of the Planetary Orbits;
+but as this, though in itself very curious, would not illustrate any
+point beyond those already noticed, I shall refer to it very briefly.
+The planets all move in ellipses about the sun, as the moon moves
+about the earth; and as the sun apparently moves about the earth. They
+will therefore each have an Elliptic Inequality or Equation of the
+centre, for the same reason that the sun and moon have such
+inequalities. And this inequality may be represented, in the cases of
+the planets, just as in the other two, by means of an eccentric; the
+epicycle, it will be recollected, had already been used in order to
+represent the more obvious changes of the planetary motions. To
+determine the amount of the Eccentricities and the places of the
+Apogees of the planetary orbits, was the task which Ptolemy undertook;
+Hipparchus, as we have seen, having been destitute of the observations
+which such a process required. The determination of the Eccentricities
+in these cases involved some peculiarities which might not at first
+sight occur to the reader. The elliptical motion of the planets takes place
+about the sun; but Ptolemy considered their movements as altogether
+independent of the sun, and referred them to the earth alone; and thus
+the apparent eccentricities which he had to account for, were the
+compound result of the Eccentricity of the earth’s orbit, and of the
+proper eccentricity of the orbit of the Planet. He explained this
+result by the received mechanism of an eccentric Deferent,
+carrying an Epicycle; but the motion in the Deferent is uniform, not
+about the centre of the circle, but about another point, the
+Equant. Without going further into detail, it may be sufficient
+to state that, by a combination of Eccentrics and Epicycles, he did
+account for the leading features of these motions; and by using his
+own observations, compared with more ancient ones (for instance, those
+of Timocharis for Venus), he was able to determine the Dimensions and
+Positions of the orbits.114
+114 Ptolemy determined the Radius and
+the Periodic Time of his two circles for each Planet in the following
+manner: For the inferior Planets, that is, Mercury and Venus,
+he took the Radius of the Deferent equal to the Radius of the Earth’s
+orbit, and the Radius of the Epicycle equal to that of the Planet’s
+orbit. For these Planets, according to his assumption, the Periodic
+Time of the Planet in its Epicycle was to the Periodic Time of the
+Epicyclical Centre on the Deferent, as the synodical Revolution
+of the Planet to the tropical Revolution of the Earth above the
+Sun. For the three superior Planets, Mars, Jupiter, and Saturn,
+the Radius of the Deferent was equal to the Radius of the Planet’s
+orbit, and the Radius of the Epicycle was equal to the Radius of the
+Earth’s orbit; the Periodic Time on the Planet in its Epicycle was to
+the Periodic Time of the Epicyclical Centre on the Deferent, as the
+synodical Revolution of the Planet to the tropical
+Revolution of the same Planet.
+ Ptolemy might obviously have made the geometrical motions of all
+the Planets correspond with the observations by one of these two modes
+of construction; but he appears to have adopted this double form of
+the theory, in order that in the inferior, as well as in the superior
+Planets, he might give the smaller of the two Radii to the Epicycle:
+that is, in order that he might make the smaller circle move round the
+larger, not vice versâ.—Littrow’s Notes.
+176 I shall here
+close my account of the astronomical progress of the Greek School. My
+purpose is only to illustrate the principles on which the progress of
+science depends, and therefore I have not at all pretended to touch
+upon every part of the subject. Some portion of the ancient theories,
+as, for instance, the mode of accounting for the motions of the moon
+and planets in latitude, are sufficiently analogous to what has been
+explained, not to require any more especial notice. Other parts of
+Greek astronomical knowledge, as, for instance, their acquaintance
+with refraction, did not assume any clear or definite form, and can
+only be considered as the prelude to modern discoveries on the same
+subject. And before we can with propriety pass on to these, there is a
+long and remarkable, though unproductive interval, of which some
+account must be given.
+Sect. 8.—Arabian Astronomy.
+The interval to which I have just alluded
+may be considered as extending from Ptolemy to Copernicus; we have no
+advance in Greek astronomy after the former; no signs of a revival of
+the power of discovery till the latter. During this interval of 1350
+years,115 the principal cultivators of astronomy
+were the Arabians, who adopted this science from the Greeks whom they
+conquered, and from whom the conquerors of western Europe again
+received back their treasure, when the love of science and the
+capacity for it had been awakened in their minds. In the intervening
+time, the precious deposit had undergone little change. The Arab
+astronomer had been the scrupulous but unprofitable servant, who kept
+his talent without apparent danger of loss, but also without prospect
+of increase. There is little in 177 Arabic literature which bears upon the
+progress of astronomy; but as the little that there is must
+be considered as a sequel to the Greek science, I shall notice one or
+two points before I treat of the stationary period in general.
+115 Ptolemy died about a. d. 150. Copernicus was living a.
+d. 1500.
+When the sceptre of western Asia had passed into the hands of the
+Abasside caliphs,116 Bagdad, “the city of peace,” rose to
+splendor and refinement, and became the metropolis of science under
+the successors of Almansor the Victorious, as Alexandria had been
+under the successors of Alexander the Great. Astronomy attracted
+peculiarly the favor of the powerful as well as the learned; and
+almost all the culture which was bestowed upon the science, appears to
+have had its source in the patronage, often also in the personal
+studies, of Saracen princes. Under such encouragement, much was done,
+in those scientific labors which money and rank can command.
+Translations of Greek works were made, large instruments were erected,
+observers were maintained; and accordingly as observation showed the
+defects and imperfection of the extant tables of the celestial
+motions, new ones were constructed. Thus under Almansor, the Grecian
+works of science were collected from all quarters, and many of them
+translated into Arabic.117 The translation of the “Megiste
+Syntaxis” of Ptolemy, which thus became the Almagest, is ascribed to
+Isaac ben Homain in this reign.
+116 Gibbon, x. 31.
+117 Id. x. 36.
+The greatest of the Arabian Astronomers comes half a century later.
+This is Albategnius, as he is commonly called; or more exactly,
+Mohammed ben Geber Albatani, the last appellation indicating that he
+was born at Batan, a city of Mesopotamia.118 He was a
+Syrian prince, whose residence was at Aracte or Racha in Mesopotamia:
+a part of his observations were made at Antioch. His work still
+remains to us in Latin. “After having read,” he says, “the Syntaxis of
+Ptolemy, and learnt the methods of calculation employed by the Greeks,
+his observations led him to conceive that some improvements might be
+made in their results. He found it necessary to add to Ptolemy’s
+observations as Ptolemy had added to those of Abrachis” (Hipparchus).
+He then published Tables of the motions of the sun, moon, and planets,
+which long maintained a high reputation.
+118 Del. Astronomie du Moyen
+Age, 4.
+These, however, did not prevent the publication of others. Under
+the Caliph Hakem (about a. d. 1000) Ebon
+Iounis published Tables of the Sun, Moon, and Planets, which were
+hence called the Hakemite Tables. Not long after, Arzachel of
+Toledo published the Toletan 178 Tables. In the 13th century, Nasir Eddin
+published Tables of the Stars, dedicated to Ilchan, a Tartar prince,
+and hence termed the Ilchanic Tables. Two centuries later,
+Ulugh Beigh, the grandson of Tamerlane, and prince of the countries
+beyond the Oxus, was a zealous practical astronomer; and his Tables,
+which were published in Europe by Hyde in 1665, are referred to as
+important authority by modern astronomers. The series of Astronomical
+Tables which we have thus noticed, in which, however, many are
+omitted, leads us to the Alphonsine Tables, which were put
+forth in 1488, and in succeeding years, under the auspices of
+Alphonso, king of Castile; and thus brings us to the verge of modern
+astronomy.
+For all these Tables, the Ptolemaic hypotheses were employed; and,
+for the most part, without alteration. The Arabs sometimes felt the
+extreme complexity and difficulty of the doctrine which they studied;
+but their minds did not possess that kind of invention and energy by
+which the philosophers of Europe, at a later period, won their way
+into a simpler and better system.
+Thus Alpetragius states, in the outset of his “Planetarum
+Theorica,” that he was at first astonished and stupefied with this
+complexity, but that afterwards “God was pleased to open to him the
+occult secret in the theory of his orbs, and to make known to him the
+truth of their essence and the rectitude of the quality of their
+motion.” His system consists, according to Delambre,119 in attributing to the planets a spiral
+motion from east to west, an idea already refuted by Ptolemy. Geber of
+Seville criticises Ptolemy very severely,120 but without
+introducing any essential alteration into his system. The Arabian
+observations are in many cases valuable; both because they were made
+with more skill and with better instruments than those of the Greeks;
+and also because they illustrate the permanence or variability of
+important elements, such as the obliquity of the ecliptic and the
+inclination of the moon’s orbit.
+119 Delambre, M. A. p.
+7.
+120 M. A. p. 180,
+&c.
+We must, however, notice one or two peculiar Arabian doctrines. The
+most important of these is the discovery of the Motion of the Son’s
+Apogee by Albategnius. He found the Apogee to be in longitude 82
+degrees; Ptolemy had placed it in longitude 65 degrees. The difference
+of 17 degrees was beyond all limit of probable error of calculation,
+though the process is not capable of great precision; and the
+inference of the Motion of the Apogee was so obvious, that we cannot
+179 agree with
+Delambre, in doubting or extenuating the claim of Albategnius to this
+discovery, on the ground of his not having expressly stated it.
+In detecting this motion, the Arabian astronomers reasoned rightly
+from facts well observed: they were not always so fortunate. Arzachel,
+in the 11th century, found the apogee of the sun to be less advanced
+than Albategnius had found it, by some degrees; he inferred that it
+had receded in the intermediate time; but we now know, from an
+acquaintance with its real rate of moving, that the true inference
+would have been, that Albategnius, whose method was less trustworthy
+than that of Arzachel, had made an error to the amount of the
+difference thus arising. A curious, but utterly false hypothesis was
+founded on observations thus erroneously appreciated; namely, the
+Trepidation of the fixed stars. Arzachel conceived that a
+uniform Precession of the equinoctial points would not account for the
+apparent changes of position of the stars, and that for this purpose,
+it was necessary to conceive two circles of about eight degrees radius
+described round the equinoctial points of the immovable sphere, and to
+suppose the first points of Aries and Libra to describe the
+circumference of these circles in about 800 years. This would produce,
+at one time a progression, and at another a regression, of the
+apparent equinoxes, and would moreover change the latitude of the
+stars. Such a motion is entirely visionary; but the doctrine made a
+sect among astronomers, and was adopted in the first edition of the
+Alphonsine Tables, though afterwards rejected.
+An important exception to the general unprogressive character of
+Arabian science has been pointed out recently by M. Sedillot.121 It appears that Mohammed-Aboul
+Wefa-al-Bouzdjani, an Arabian astronomer of the tenth century, who
+resided at Cairo, and observed at Bagdad in 975, discovered a third
+inequality of the moon, in addition to the two expounded by Ptolemy,
+the Equation of the Centre, and the Evection. This third inequality,
+the Variation, is usually supposed to have been discovered by
+Tycho Brahe, six centuries later. It is an inequality of the moon’s
+motion, in virtue of which she moves quickest when she is at new or
+full, and slowest at the first and third quarter; in consequence of
+this, from the first quarter to the full, she is behind her mean
+place; at the full, she does not differ from her mean place; from the
+full to the third quarter, she is before her true 180 place; and so on; and
+the greatest effect of the inequality is in the octants, or
+points half-way between the four quarters. In an Almagest of Aboul
+Wefa, a part of which exists in the Royal Library at Paris, after
+describing the two inequalities of the moon, he has a Section ix., “Of
+the Third Anomaly of the moon called Muhazal or
+Prosneusis.” He there says, that taking cases when the moon was
+in apogee or perigee, and when, consequently, the effect of the two
+first inequalities vanishes, he found, by observation of the
+moon, when she was nearly in trine and in sextile
+with the sun, that she was a degree and a quarter from her calculated
+place. “And hence,” he adds, “I perceived that this anomaly exists
+independently of the two first: and this can only take place by a
+declination of the diameter of the epicycle with respect to the centre
+of the zodiac.”
+121 Sedillot, Nouvelles Rech. sur
+l’Hist. de l’Astron. chez les Arabes. Nouveau Journal
+Asiatique. 1836.
+We may remark that we have here this inequality of the moon made
+out in a really philosophical manner; a residual quantity in the
+moon’s longitude being detected by observation, and the cases in which
+it occurs selected and grouped by an inductive effort of the mind. The
+advance is not great; for Aboul Wefa appears only to have detected the
+existence, and not to have fixed the law or the exact quantity of the
+inequality; but still it places the scientific capacity of the Arabs
+in a more favorable point of view than any circumstance with which we
+were previously acquainted.
+But this discovery of Aboul Wefa appears to have excited no notice
+among his contemporaries and followers: at least it had been long
+quite forgotten when Tycho Brahe rediscovered the same lunar
+inequality. We can hardly help looking upon this circumstance as an
+evidence of a servility of intellect belonging to the Arabian period.
+The learned Arabians were so little in the habit of considering
+science as progressive, and looking with pride and confidence at
+examples of its progress, that they had not the courage to believe in
+a discovery which they themselves had made, and were dragged back by
+the chain of authority, even when they had advanced beyond their Greek
+masters.
+As the Arabians took the whole of their theory (with such slight
+exceptions as we have been noticing) from the Greeks, they took from
+them also the mathematical processes by which the consequences of the
+theory were obtained. Arithmetic and Trigonometry, two main branches
+of these processes, received considerable improvements at their hands.
+In the former, especially, they rendered a service to the world which
+it is difficult to estimate too highly, in abolishing the 181 cumbrous Sexagesimal
+Arithmetic of the Greeks, and introducing the notation by means of the
+digits 1, 2, 3, 4, 5, 6, 7, 8, 9, 0, which we now employ.122 These numerals appear to be of Indian
+origin, as is acknowledged by the Arabs themselves; and thus form no
+exception to the sterility of the Arabian genius as to great
+scientific inventions. Another improvement, of a subordinate kind, but
+of great utility, was Arabian, being made by Albategnius. He
+introduced into calculation the sine, or half-chord of the
+double arc, instead of the chord of the arc itself, which had been
+employed by the Greek astronomers. There have been various conjectures
+concerning the origin of the word sine; the most probable
+appears to be that sinus is the Latin translation of the Arabic
+word gib, which signifies a fold, the two halves of the chord
+being conceived to be folded together.
+122 Mont. i. 376.
+The great obligation which Science owes to the Arabians, is to have
+preserved it during a period of darkness and desolation, so that
+Europe might receive it back again when the evil days were past. We
+shall see hereafter how differently the European intellect dealt with
+this hereditary treasure when once recovered.
+Before quitting the subject, we may observe that Astronomy brought
+back, from her sojourn among the Arabs, a few terms which may still be
+perceived in her phraseology. Such are the zenith, and the
+opposite imaginary point, the nadir;—the circles of the
+sphere termed almacantars and azimuth circles. The
+alidad of an instrument is its index, which possesses an
+angular motion. Some of the stars still retain their Arabic names;
+Aldebran, Rigel, Fomalhaut; many others were
+known by such appellations a little while ago. Perhaps the word
+almanac is the most familiar vestige of the Arabian period of
+astronomy.
+
+It is foreign to my purpose to note any efforts of the intellectual
+faculties among other nations, which may have taken place
+independently of the great system of progressive European culture,
+from which all our existing science is derived. Otherwise I might
+speak of the astronomy of some of the Orientals, for example, the
+Chinese, who are said, by Montucla (i. 465), to have discovered the
+first equation of the moon, and the proper motion of the fixed stars
+(the Precession), in the third century of our era. The Greeks had made
+these discoveries 500 years earlier.
+
+
+BOOK IV.
+
+
+HISTORY
+OF
+PHYSICAL SCIENCE IN THE MIDDLE AGES;
+OR,
+VIEW OF THE STATIONARY PERIOD
+OF
+INDUCTIVE SCIENCE.
+
+
+In vain, in vain! the all-composing
+hour
+Resistless falls  .  .  . 
+.
+.  .  .  . 
+. . . . .
+As one by one, at dread Medea’s strain,
+The sickening stars fade off th’ ethereal
+plain;
+As Argus’ eyes, by Hermes’ wand opprest,
+Closed one by one to everlasting rest;
+Thus at her felt approach and secret
+might,
+Art after art goes out, and all is night.
+See skulking Truth to her old cavern
+fled,
+Mountains of casuistry heaped on her
+head;
+Philosophy, that reached the heavens
+before,
+Shrinks to her hidden cause, and is no
+more.
+Physic of Metaphysic begs defence,
+And Metaphysic calls for aid to Sense:
+See Mystery to Mathematics fly!
+In vain! they gaze, turn giddy, rave, and
+die.
+Dunciad, B. iv.  
+</div></body></text></TEI>

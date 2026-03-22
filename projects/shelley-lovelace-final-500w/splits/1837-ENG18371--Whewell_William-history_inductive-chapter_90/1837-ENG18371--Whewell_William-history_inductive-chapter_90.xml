@@ -1,0 +1,187 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="90">CHAPTER VI.
+Theory of Electrodynamical Action.
+AMPÈRE’S Theory.—Nothing
+can show in a more striking manner the advanced condition of physical
+speculation in 1820, than the reduction of the strange and complex
+phenomena of electromagnetism to a simple and general theory as soon
+as they were published. Instead of a gradual establishment of laws of
+phenomena, and of theories more and more perfect, occupying ages, as
+in the case of astronomy, or generations, as in the instances of
+magnetism and electricity, a few months sufficed for the whole process
+of generalization; and the experiments made at Copenhagen were
+announced at Paris and London, almost at the same time with the
+skilful analysis and comprehensive inductions of Ampère.
+Yet we should err if we should suppose, from the celerity with
+which the task was executed, that it was an easy one. There were
+required in the author of such a theory, not only those clear
+conceptions of the relations of space and force, which are the first
+conditions of all sound theory, and a full possession of the
+experiments; but also a masterly command of the mathematical arms by
+which alone the victory could be gained, and a sagacious selection of
+proper experiments which might decide the fate of the proposed
+hypothesis.
+It is true, that the nature of the requisite hypothesis was not
+difficult to see in a certain vague and limited way. The
+conducting-wire and the magnetic needle had a tendency to arrange
+themselves at right angles to one another. This might be represented
+by supposing the wire to be made up of transverse magnetic needles, or
+by supposing the needle to be made up of transverse conducting-wires;
+for it was easy to conceive forces which should bring corresponding
+elements, either magnetic or voltaic, into parallel positions; and
+then the 247
+general phenomena above stated would be accounted for. And the choice
+between the two modes of conception, appeared at first sight a matter
+of indifference. The majority of philosophers at first adopted, or at
+least employed, the former method, as Oersted in Germany, Berzelius in
+Sweden, Wollaston in England.
+Ampère adopted the other view, according to which the magnet is
+made up of conducting-wires in a transverse position. But he did for
+his hypothesis what no one did or could do for the other: he showed
+that it was the only one which would account, without additional and
+arbitrary suppositions, for the facts of continued motion in
+electromagnetic cases. And he further elevated his theory to a higher
+rank of generality, by showing that it explained,—not only the
+action of a conducting-wire upon a magnet, but also two other classes
+of facts, already spoken of in this history,—the action of magnets upon each other,—and the
+action of conducting-wires upon each
+other.
+The deduction of such particular cases from the theory, required,
+as may easily be imagined, some complex calculations: but the
+deduction being satisfactory, it will be seen that Ampère’s theory
+conformed to that description which we have repeatedly had to point
+out as the usual character of a true and stable theory; namely, that
+besides accounting for the class of phenomena which suggested it, it
+supplies an unforeseen explanation of other known facts. For the
+mutual action of magnets, which was supposed to be already reduced to
+a satisfactory theoretical form by Coulomb, was not contemplated by
+Ampère in the formation of his hypothesis; and the mutual action of
+voltaic currents, though tried only in consequence of the suggestion
+of the theory, was clearly a fact distinct from electromagnetic
+action; yet all these facts flowed alike from the theory. And thus
+Ampère brought into view a class of forces for which the term
+“electromagnetic” was too limited, and which he designated14 by the appropriate term
+electrodynamic; distinguishing them by this expression, as the
+forces of an electric current, from the statical
+effects of electricity which we had formerly to treat of. This term
+has passed into common use among scientific writers, and remains the
+record and stamp of the success of the Amperian induction.
+14 Ann. de Chim., tom. xx. p.
+60 (1822).
+The first promulgation of Ampère’s views was by a communication to
+the French Academy of Sciences, September the 18th, 1820; Oersted’s
+discoveries having reached Paris only in the preceding July. 248 At almost every
+meeting of the Academy during the remainder of that year and the
+beginning of the following one, he had new developements or new
+confirmations of his theory to announce. The most hypothetical part of
+his theory,—the proposition that magnets might be considered in
+their effects as identical with spiral voltaic wires,—he
+asserted from the very first. The mutual attraction and repulsion of
+voltaic wires,—the laws of this action,—the deduction of
+the observed facts from it by calculation,—the determination, by
+new experiments, of the constant quantities which entered into his
+formulæ,—followed in rapid succession. The theory must be
+briefly stated. It had already been seen that parallel voltaic
+currents attracted each other; when, instead of being parallel, they
+were situate in any directions, they still exerted attractive and
+repulsive forces depending on the distance, and on the directions of
+each element of both currents. Add to this doctrine the hypothetical
+constitution of magnets, namely, that a voltaic current runs round the
+axis of each particle, and we have the means of calculating a vast
+variety of results which may be compared with experiment. But the laws
+of the elementary forces required further fixation. What
+functions are the forces of the distance and the directions
+of the elements?
+To extract from experiment an answer to this inquiry was far from
+easy, for the elementary forces were mathematically connected with the
+observed facts, by a double mathematical integration;—a long,
+and, while the constant coefficients remained undefined, hardly a
+possible operation. Ampère made some trials in this way, but his
+happier genius suggested to him a better path. It occurred to him,
+that if his integrals, without being specially found, could be shown
+to vanish upon the whole, under certain conditions of the problem,
+this circumstance would correspond to arrangements of his apparatus in
+which a state of equilibrium was preserved, however the form of some
+of the parts might be changed. He found two such cases, which were of
+great importance to the theory. The first of these cases proved that
+the force exerted by any element of the voltaic wire might be resolved
+into other forces by a theorem resembling the well-known proposition
+of the parallelogram of forces. This was proved by showing that the
+action of a straight wire is the same with that of another wire which
+joins the same extremities, but is bent and contorted in any way
+whatever. But it still remained necessary to determine two fundamental
+quantities; one which expressed the power of the distance
+according to which the force varied; the other, the 249 degree in which the
+force is affected by the obliquity of the elements. One of
+the general causes of equilibrium, of which we have spoken, gave a
+relation between these two quantities;15 and as the
+power was naturally, and, as it afterwards appeared, rightly
+conjectured to be the inverse square, the other quantity also was
+determined; and the general problem of electrodynamical action was
+fully solved.
+15 Communication to the Acad. Sc.,
+June 10, 1822. See Ampère, Recueil, p. 292.
+If Ampère had not been an accomplished analyst, he would not have
+been able to discover the condition on which the nullity of the
+integral in this case depended.16 And throughout
+his labors, we find reason to admire, both his mathematical skill, and
+his steadiness of thought; although these excellences are by no means
+accompanied throughout with corresponding clearness and elegance of
+exposition in his writings.
+16 Recueil, p. 314.
+Reception of Ampère’s Theory.—Clear mathematical
+conceptions, and some familiarity with mathematical operations, were
+needed by readers also, in order to appreciate the evidence of the
+theory; and, therefore, we need not feel any surprise if it was, on
+its publication and establishment, hailed with far less enthusiasm
+than so remarkable a triumph of generalizing power might appear to
+deserve. For some time, indeed, the greater portion of the public were
+naturally held in suspense by the opposing weight of rival names. The
+Amperian theory did not make its way without contention and
+competition. The electro-magnetic experiments, from their first
+appearance, gave a clear promise of some new and wide generalization;
+and held out a prize of honor and fame to him who should be first in
+giving the right interpretation of the riddle. In France, the
+emulation for such reputation is perhaps more vigilant and anxious
+than it is elsewhere; and we see, on this as on other occasions, the
+scientific host of Paris springing upon a new subject with an
+impetuosity which, in a short time, runs into controversies for
+priority or for victory. In this case, M. Biot, as well as Ampère,
+endeavored to reduce the electro-magnetic phenomena to general laws.
+The discussion between him and Ampère turned on some points which are
+curious. M. Biot was disposed to consider as an elementary action, the
+force which an element of a voltaic wire exerts upon a magnetic
+particle, and which is, as we have seen, at right angles to their
+mutual distance; and he conceived that 250 the equal reaction which necessarily
+accompanies this action acts oppositely to the action, not in the same
+line, but in a parallel line, at the other extremity of the distance;
+thus forming a primitive couple, to use a technical expression
+borrowed from mechanics. To this Ampère objected,17 that the
+direct opposition of all elementary action and reaction was a
+universal and necessary mechanical law. He showed too that such a
+couple as had been assumed, would follow as a derivative
+result from his theory. And in comparing his own theory with that in
+which the voltaic wire is assimilated to a collection of transverse
+magnets, he was also able to prove that no such assemblage of forces
+acting to and from fixed points, as the forces of magnets do act,
+could produce a continued motion like that discovered by Faraday.
+This, indeed, was only the well-known demonstration of the
+impossibility of a perpetual motion. If, instead of a collection of
+magnets, the adverse theorists had spoken of a magnetic
+current, they might probably interpret their expressions so as
+to explain the facts; that is, if they considered every element of
+such a current as a magnet, and consequently, every point of it as
+being a north and a south point at the same instant. But to introduce
+such a conception of a magnetic current was to abandon all the laws of
+magnetic action hitherto established; and consequently to lose all
+that gave the hypothesis its value. The idea of an electric current,
+on the other hand, was so far from being a new and hazardous
+assumption, that it had already been forced upon philosophers from the
+time of Volta; and in this current, the relation of preceding
+and succeeding, which necessarily existed between the
+extremities of any element, introduced that relative polarity on which
+the success of the explanations of the facts depended. And thus in
+this controversy, the theory of Ampère has a great and undeniable
+superiority over the rival hypotheses.
+17 Ampère, Théorie, p.
+154.
+</div></body></text></TEI>

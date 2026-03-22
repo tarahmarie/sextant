@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 182-185</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 182-185.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1852">undated [1852?]</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 182-185</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_182-185.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Tuesdy</p>
+      <p>Dearest L--</p>
+      <p>I [recd yrs?] this morn. I have written to my mother today, but not exactly to the effect yr proposed. However it is what I feel to be best, &amp; I hope it will at least do no harm. I have kept</p>
+      <p>a copy.</p>
+      <p>Tho' I slept well, yet I have had a very bad day;-- great distress in my head, &amp; some very queer sensations.</p>
+      <p>As I slept well, I am surprised at this. I had a dreadful paroxysm of pain at midnight, but when I got rid of it I slept very well,-- so that</p>
+      <p>I did not expect to be ill today.</p>
+      <p>I have just made an arrangement, (only experimentally &amp; by the week)-- which will I expect conduce much to my comfort. I have enjoyed instead of the Nurse Miss Boutell , at a guinea a week,-- (the same as I give the Nurse). Miss B-- can do fifty things for</p>
+      <p>me which the nurse cannot, &amp; the only difference is there she must just breakfast &amp; dine with the , which is no inconvenience whatever. The Nurse has a herself, &amp; so must Miss B--; &amp; as to everything it is the same. It will be a great comfort to me, I believe; &amp; in</p>
+      <p>2/ but give it up, if it don't do. Miss B-- is so very anxious to succeed, that I doubt not but it will do. My nurse is only useful to me for night-work [double underline}; nothing else. Miss B--, &amp; my maid, will divide that between them.</p>
+      <p>I find my present nurse very deaf , rather stupid, &amp; not a little vulgar. The</p>
+      <p>last one was forward &amp; impertinent; &amp; in fact of course an educated person is a great advantage, if on the same pecuniary terms.</p>
+      <p>These common women are unpleasant, to go on with . You cannot conceive how overwhelmed with joy is Miss B--. She says the one need of her</p>
+      <p>life is to be near me ; &amp; however menial, she will do anything !-- And I believe it. She is good, true,-- &amp; very unobtrusive. And it is too good a chance for me to refuse trying,-- since it has offered itself to me. I may have to give it up, &amp; indeed I was far from grumbling hitherto,-- but here is a</p>
+      <p>good thing actually thrown at my feet, worth trying.</p>
+    </div></body>
+  </text>
+</TEI>

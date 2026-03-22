@@ -1,0 +1,379 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An Essay Concerning Human Understanding</title><author>Locke, John (1632-1704)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1690</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="38">
+
+CHAPTER XXIX.
+OF CLEAR AND OBSCURE, DISTINCT AND CONFUSED IDEAS.
+
+1. Ideas, some clear and distinct, others obscure and confused.
+
+
+Having shown the original of our ideas, and taken a view of their several
+sorts; considered the difference between the simple and the complex; and
+observed how the complex ones are divided into those of modes, substances, and
+relations—all which, I think, is necessary to be done by any one who
+would acquaint himself thoroughly with the progress of the mind, in its
+apprehension and knowledge of things—it will, perhaps, be thought I have
+dwelt long enough upon the examination of IDEAS. I must, nevertheless, crave
+leave to offer some few other considerations concerning them.
+
+
+The first is, that some are CLEAR and others OBSCURE; some DISTINCT and others
+CONFUSED.
+
+
+2. Clear and obscure explained by Sight.
+
+
+The perception of the mind being most aptly explained by words relating to the
+sight, we shall best understand what is meant by CLEAR and OBSCURE in our
+ideas, by reflecting on what we call clear and obscure in the objects of sight.
+Light being that which discovers to us visible objects, we give the name of
+OBSCURE to that which is not placed in a light sufficient to discover minutely
+to us the figure and colours which are observable in it, and which, in a better
+light, would be discernible. In like manner, our simple ideas are CLEAR, when
+they are such as the objects themselves from whence they were taken did or
+might, in a well-ordered sensation or perception, present them. Whilst the
+memory retains them thus, and can produce them to the mind whenever it has
+occasion to consider them, they are clear ideas. So far as they either want
+anything of the original exactness, or have lost any of their first freshness,
+and are, as it were, faded or tarnished by time, so far are they obscure.
+Complex ideas, as they are made up of simple ones, so they are clear, when the
+ideas that go to their composition are clear, and the number and order of those
+simple ideas that are the ingredients of any complex one is determinate and
+certain.
+
+
+3. Causes of Obscurity.
+
+
+The causes of obscurity, in simple ideas, seem to be either dull organs; or
+very slight and transient impressions made by the objects; or else a weakness
+in the memory, not able to retain them as received. For to return again to
+visible objects, to help us to apprehend this matter. If the organs, or
+faculties of perception, like wax over-hardened with cold, will not receive the
+impression of the seal, from the usual impulse wont to imprint it; or, like wax
+of a temper too soft, will not hold it well, when well imprinted; or else
+supposing the wax of a temper fit, but the seal not applied with a sufficient
+force to make a clear impression: in any of these cases, the print left by the
+seal will be obscure. This, I suppose, needs no application to make it plainer.
+
+
+4. Distinct and confused, what.
+
+
+As a clear idea is that whereof the mind has such a full and evident
+perception, as it does receive from an outward object operating duly on a
+well-disposed organ, so a DISTINCT idea is that wherein the mind perceives a
+difference from all other; and a CONFUSED idea is such an one as is not
+sufficiently distinguishable from another, from which it ought to be different.
+
+
+5. Objection.
+
+
+If no idea be confused, but such as is not sufficiently distinguishable from
+another from which it should be different, it will be hard, may any one say, to
+find anywhere a CONFUSED idea. For, let any idea be as it will, it can be no
+other but such as the mind perceives it to be; and that very perception
+sufficiently distinguishes it from all other ideas, which cannot be other, i.e.
+different, without being perceived to be so. No idea, therefore, can be
+undistinguishable from another from which it ought to be different, unless you
+would have it different from itself: for from all other it is evidently
+different.
+
+
+6. Confusion of Ideas is in Reference to their Names.
+
+
+To remove this difficulty, and to help us to conceive aright what it is that
+makes the confusion ideas are at any time chargeable with, we must consider,
+that things ranked under distinct names are supposed different enough to be
+distinguished, that so each sort by its peculiar name may be marked, and
+discoursed of apart upon any occasion: and there is nothing more evident, than
+that the greatest part of different names are supposed to stand for different
+things. Now every idea a man has, being visibly what it is, and distinct from
+all other ideas but itself; that which makes it confused, is, when it is such
+that it may as well be called by another name as that which it is expressed by;
+the difference which keeps the things (to be ranked under those two different
+names) distinct, and makes some of them belong rather to the one and some of
+them to the other of those names, being left out; and so the distinction, which
+was intended to be kept up by those different names, is quite lost.
+
+
+7. Defaults which make this Confusion.
+
+
+The defaults which usually occasion this confusion, I think, are chiefly these
+following:
+
+
+First, complex ideas made up of too few simple ones.
+
+
+First, when any complex idea (for it is complex ideas that are most liable to
+confusion) is made up of too small a number of simple ideas, and such only as
+are common to other things, whereby the differences that make it deserve a
+different name, are left out. Thus, he that has an idea made up of barely the
+simple ones of a beast with spots, has but a confused idea of a leopard; it not
+being thereby sufficiently distinguished from a lynx, and several other sorts
+of beasts that are spotted. So that such an idea, though it hath the peculiar
+name leopard, is not distinguishable from those designed by the names lynx or
+panther, and may as well come under the name lynx as leopard. How much the
+custom of defining of words by general terms contributes to make the ideas we
+would express by them confused and undetermined, I leave others to consider.
+This is evident, that confused ideas are such as render the use of words
+uncertain, and take away the benefit of distinct names. When the ideas, for
+which we use different terms, have not a difference answerable to their
+distinct names, and so cannot be distinguished by them, there it is that they
+are truly confused.
+
+
+8. Secondly, or their simple ones jumbled disorderly together.
+
+
+Secondly, Another fault which makes our ideas confused is, when, though the
+particulars that make up any idea are in number enough, yet they are so jumbled
+together, that it is not easily discernible whether it more belongs to the name
+that is given it than to any other. There is nothing properer to make us
+conceive this confusion than a sort of pictures, usually shown as surprising
+pieces of art, wherein the colours, as they are laid by the pencil on the table
+itself, mark out very odd and unusual figures, and have no discernible order in
+their position. This draught, thus made up of parts wherein no symmetry nor
+order appears, is in itself no more a confused thing, than the picture of a
+cloudy sky; wherein, though there be as little order of colours or figures to
+be found, yet nobody thinks it a confused picture. What is it, then, that makes
+it be thought confused, since the want of symmetry does not? As it is plain it
+does not: for another draught made barely in imitation of this could not be
+called confused. I answer, That which makes it be thought confused is, the
+applying it to some name to which it does no more discernibly belong than to
+some other: v.g. when it is said to be the picture of a man, or Caesar, then
+any one with reason counts it confused; because it is not discernible in that
+state to belong more to the name man, or Caesar, than to the name baboon, or
+Pompey: which are supposed to stand for different ideas from those signified by
+man, or Caesar. But when a cylindrical mirror, placed right, had reduced those
+irregular lines on the table into their due order and proportion, then the
+confusion ceases, and the eye presently sees that it is a man, or Caesar; i.e.
+that it belongs to those names; and that it is sufficiently distinguishable
+from a baboon, or Pompey; i.e. from the ideas signified by those names. Just
+thus it is with our ideas, which are as it were the pictures of things. No one
+of these mental draughts, however the parts are put together, can be called
+confused (for they are plainly discernible as they are) till it be ranked under
+some ordinary name to which it cannot be discerned to belong, any more than it
+does to some other name of an allowed different signification.
+
+
+9. Thirdly, or their simple ones mutable and undetermined.
+
+
+Thirdly, A third defect that frequently gives the name of confused to our
+ideas, is, when any one of them is uncertain and undetermined. Thus we may
+observe men who, not forbearing to use the ordinary words of their language
+till they have learned their precise signification, change the idea they make
+this or that term stand for, almost as often as they use it. He that does this
+out of uncertainty of what he should leave out, or put into his idea of CHURCH,
+or IDOLATRY, every time he thinks of either, and holds not steady to any one
+precise combination of ideas that makes it up, is said to have a confused idea
+of idolatry or the church: though this be still for the same reason as the
+former, viz. because a mutable idea (if we will allow it to be one idea) cannot
+belong to one name rather than another, and so loses the distinction that
+distinct names are designed for.
+
+
+10. Confusion without Reference to Names, hardly conceivable.
+
+
+By what has been said, we may observe how much NAMES, as supposed steady signs
+of things, and by their difference to stand for, and keep things distinct that
+in themselves are different, are the occasion of denominating ideas distinct or
+confused, by a secret and unobserved reference the mind makes of its ideas to
+such names. This perhaps will be fuller understood, after what I say of Words
+in the third Book has been read and considered. But without taking notice of
+such a reference of ideas to distinct names, as the signs of distinct things,
+it will be hard to say what a confused idea is. And therefore when a man
+designs, by any name, a sort of things, or any one particular thing, distinct
+from all others, the complex idea he annexes to that name is the more distinct,
+the more particular the ideas are, and the greater and more determinate the
+number and order of them is, whereof it is made up. For, the more it has of
+these, the more it has still of the perceivable differences, whereby it is kept
+separate and distinct from all ideas belonging to other names, even those that
+approach nearest to it, and thereby all confusion with them is avoided.
+
+
+11. Confusion concerns always two Ideas.
+
+
+Confusion making it a difficulty to separate two things that should be
+separated, concerns always two ideas; and those most which most approach one
+another. Whenever, therefore, we suspect any idea to be confused, we must
+examine what other it is in danger to be confounded with, or which it cannot
+easily be separated from; and that will always be found an idea belonging to
+another name, and so should be a different thing, from which yet it is not
+sufficiently distinct: being either the same with it, or making a part of it,
+or at least as properly called by that name as the other it is ranked under;
+and so keeps not that difference from that other idea which the different names
+import.
+
+
+12. Causes of confused Ideas.
+
+
+This, I think, is the confusion proper to ideas; which still carries with it a
+secret reference to names. At least, if there be any other confusion of ideas,
+this is that which most of all disorders men’s thoughts and discourses: ideas,
+as ranked under names, being those that for the most part men reason of within
+themselves, and always those which they commune about with others. And
+therefore where there are supposed two different ideas, marked by two different
+names, which are not as distinguishable as the sounds that stand for them,
+there never fails to be confusion; and where any ideas are distinct as the
+ideas of those two sounds they are marked by, there can be between them no
+confusion. The way to prevent it is to collect and unite into one complex idea,
+as precisely as is possible, all those ingredients whereby it is differenced
+from others; and to them, so united in a determinate number and order, apply
+steadily the same name. But this neither accommodating men’s ease or vanity,
+nor serving any design but that of naked truth, which is not always the thing
+aimed at, such exactness is rather to be wished than hoped for. And since the
+loose application of names, to undetermined, variable, and almost no ideas,
+serves both to cover our own ignorance, as well as to perplex and confound
+others, which goes for learning and superiority in knowledge, it is no wonder
+that most men should use it themselves, whilst they complain of it in others.
+Though I think no small part of the confusion to be found in the notions of men
+might, by care and ingenuity, be avoided, yet I am far from concluding it
+everywhere wilful. Some ideas are so complex, and made up of so many parts,
+that the memory does not easily retain the very same precise combination of
+simple ideas under one name: much less are we able constantly to divine for
+what precise complex idea such a name stands in another man’s use of it. From
+the first of these, follows confusion in a man’s own reasonings and opinions
+within himself; from the latter, frequent confusion in discoursing and arguing
+with others. But having more at large treated of Words, their defects, and
+abuses, in the following Book, I shall here say no more of it.
+
+
+13. Complex Ideas may be distinct in one Part, and confused in another.
+
+
+Our complex ideas, being made up of collections, and so variety of simple ones,
+may accordingly be very clear and distinct in one part, and very obscure and
+confused in another. In a man who speaks of a chiliaedron, or a body of a
+thousand sides, the ideas of the figure may be very confused, though that of
+the number be very distinct; so that he being able to discourse and demonstrate
+concerning that part of his complex idea which depends upon the number of
+thousand, he is apt to think he has a distinct idea of a chiliaedron; though it
+be plain he has no precise idea of its figure, so as to distinguish it, by
+that, from one that has but 999 sides: the not observing whereof causes no
+small error in men’s thoughts, and confusion in their discourses.
+
+
+14. This, if not heeded, causes Confusion in our Arguings.
+
+
+He that thinks he has a distinct idea of the figure of a chiliaedron, let him
+for trial sake take another parcel of the same uniform matter, viz. gold or wax
+of an equal bulk, and make it into a figure of 999 sides. He will, I doubt not,
+be able to distinguish these two ideas one from another, by the number of
+sides; and reason and argue distinctly about them, whilst he keeps his thoughts
+and reasoning to that part only of these ideas which is contained in their
+numbers; as that the sides of the one could be divided into two equal numbers,
+and of the others not, &c. But when he goes about to distinguish them by
+their figure, he will there be presently at a loss, and not be able, I think,
+to frame in his mind two ideas, one of them distinct from the other, by the
+bare figure of these two pieces of gold; as he could, if the same parcels of
+gold were made one into a cube, the other a figure of five sides. In which
+incomplete ideas, we are very apt to impose on ourselves, and wrangle with
+others, especially where they have particular and familiar names. For, being
+satisfied in that part of the idea which we have clear; and the name which is
+familiar to us, being applied to the whole, containing that part also which is
+imperfect and obscure, we are apt to use it for that confused part, and draw
+deductions from it in the obscure part of its signification, as confidently as
+we do from the other.
+
+
+15. Instance in Eternity.
+
+
+Having frequently in our mouths the name Eternity, we are apt to think we have
+a positive comprehensive idea of it, which is as much as to say, that there is
+no part of that duration which is not clearly contained in our idea. It is true
+that he that thinks so may have a clear idea of duration; he may also have a
+clear idea of a very great length of duration; he may also have a clear idea of
+the comparison of that great one with still a greater: but it not being
+possible for him to include in his idea of any duration, let it be as great as
+it will, the WHOLE EXTENT TOGETHER OF A DURATION, WHERE HE SUPPOSES NO END,
+that part of his idea, which is still beyond the bounds of that large duration
+he represents to his own thoughts, is very obscure and undetermined. And hence
+it is that in disputes and reasonings concerning eternity, or any other
+infinite, we are very apt to blunder, and involve ourselves in manifest
+absurdities.
+
+
+16. Infinite Divisibility of Matter.
+
+
+In matter, we have no clear ideas of the smallness of parts much beyond the
+smallest that occur to any of our senses: and therefore, when we talk of the
+divisibility of matter IN INFINITUM, though we have clear ideas of division and
+divisibility, and have also clear ideas of parts made out of a whole by
+division; yet we have but very obscure and confused ideas of corpuscles, or
+minute bodies, so to be divided, when, by former divisions, they are reduced to
+a smallness much exceeding the perception of any of our senses; and so all that
+we have clear and distinct ideas of is of what division in general or
+abstractedly is, and the relation of TOTUM and PARS: but of the bulk of the
+body, to be thus infinitely divided after certain progressions, I think, we
+have no clear nor distinct idea at all. For I ask any one, whether, taking the
+smallest atom of dust he ever saw, he has any distinct idea (bating still the
+number, which concerns not extension) betwixt the 100,000th and the 1,000,000th
+part of it. Or if he think he can refine his ideas to that degree, without
+losing sight of them, let him add ten cyphers to each of those numbers. Such a
+degree of smallness is not unreasonable to be supposed; since a division
+carried on so far brings it no nearer the end of infinite division, than the
+first division into two halves does. I must confess, for my part, I have no
+clear distinct ideas of the different bulk or extension of those bodies, having
+but a very obscure one of either of them. So that, I think, when we talk of
+division of bodies in infinitum, our idea of their distinct bulks, which is the
+subject and foundation of division, comes, after a little progression, to be
+confounded, and almost lost in obscurity. For that idea which is to represent
+only bigness must be very obscure and confused, which we cannot distinguish
+from one ten times as big, but only by number: so that we have clear distinct
+ideas, we may say, of ten and one, but no distinct ideas of two such
+extensions. It is plain from hence, that, when we talk of infinite divisibility
+of body or extension, our distinct and clear ideas are only of numbers: but the
+clear distinct ideas of extension, after some progress of division, are quite
+lost; and of such minute parts we have no distinct ideas at all; but it
+returns, as all our ideas of infinite do, at last to that of NUMBER ALWAYS TO
+BE ADDED; but thereby never amounts to any distinct idea of ACTUAL INFINITE
+PARTS. We have, it is true, a clear idea of division, as often as we think of
+it; but thereby we have no more a clear idea of infinite parts in matter, than
+we have a clear idea of an infinite number, by being able still to add new
+numbers to any assigned numbers we have: endless divisibility giving us no more
+a clear and distinct idea of actually infinite parts, than endless addibility
+(if I may so speak) gives us a clear and distinct idea of an actually infinite
+number: they both being only in a power still of increasing the number, be it
+already as great as it will. So that of what remains to be added (WHEREIN
+CONSISTS THE INFINITY) we have but an obscure, imperfect, and confused idea;
+from or about which we can argue or reason with no certainty or clearness, no
+more than we can in arithmetic, about a number of which we have no such
+distinct idea as we have of 4 or 100; but only this relative obscure one, that,
+compared to any other, it is still bigger: and we have no more a clear positive
+idea of it, when we [dropped line*] than if we should say it is bigger than 40
+or 4: 400,000,000 having no nearer a proportion to the end of addition or
+number than 4. For he that adds only 4 to 4, and so proceeds, shall as soon
+come to the end of all addition, as he that adds 400,000,000 to 400,000,000.
+And so likewise in eternity; he that has an idea of but four years, has as much
+a positive complete idea of eternity, as he that has one of 400,000,000 of
+years: for what remains of eternity beyond either of these two numbers of
+years, is as clear to the one as the other; i.e. neither of them has any clear
+positive idea of it at all. For he that adds only 4 years to 4, and so on,
+shall as soon reach eternity as he that adds 400,000,000 of years, and so on;
+or, if he please, doubles the increase as often as he will: the remaining abyss
+being still as far beyond the end of all these progressions as it is from the
+length of a day or an hour. For nothing finite bears any proportion to
+infinite; and therefore our ideas, which are all finite, cannot bear any. Thus
+it is also in our idea of extension, when we increase it by addition, as well
+as when we diminish it by division, and would enlarge our thoughts to infinite
+space. After a few doublings of those ideas of extension, which are the largest
+we are accustomed to have, we lose the clear distinct idea of that space: it
+becomes a confusedly great one, with a surplus of still greater; about which,
+when we would argue or reason, we shall always find ourselves at a loss;
+confused ideas, in our arguings and deductions from that part of them which is
+confused, always leading us into confusion.
+
+
+</div></body></text></TEI>

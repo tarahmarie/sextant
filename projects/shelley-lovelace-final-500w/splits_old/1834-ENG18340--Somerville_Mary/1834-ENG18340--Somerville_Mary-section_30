@@ -1,0 +1,564 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Connexion of the Physical Sciences</title><author>Mary Somerville</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1834</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="30">
+297
+SECTION XXIX.
+
+Voltaic Electricity—The Voltaic Battery—Intensity—Quantity—Static
+Electricity, and Electricity in Motion—Luminous Effects—Mr.
+Grove on the Electric Arc and Light—Decomposition of Water—Formation
+of Crystals by Voltaic Electricity—Photo-galvanic Engraving—Conduction—Heat
+of Voltaic Electricity—Electric Fish.
+Voltaic or Dynamic electricity is elicited by the force of chemical
+action. It is connected with some of the most brilliant
+periods of British science, from the splendid discoveries to which
+it led Sir Humphry Davy and Dr. Faraday.
+In 1790, while Galvani, Professor of Anatomy in Bologna, was
+making experiments on electricity, he was surprised to see convulsive
+motions in the limbs of a dead frog accidentally lying
+near the machine during an electrical discharge. Though a
+similar action had been noticed long before his time, he was so
+much struck with this singular phenomenon, that he examined all
+the circumstances carefully, and at length found that convulsions
+take place when the nerve and muscle of a frog are connected by
+a metallic conductor. This excited the attention of all Europe;
+and it was not long before Volta, Professor at Pavia, showed that
+the mere contact of different bodies is sufficient to disturb electrical
+equilibrium, and that a current of electricity flows in one
+direction through a circuit of three conducting substances. From
+this he was led, by acute reasoning and experiment, to the construction
+of the Voltaic pile, which, in its early form, consisted
+of alternate discs of zinc and copper, separated by pieces of wet
+cloth, the extremities being connected by wires. This simple
+apparatus, perhaps the most wonderful instrument that has been
+invented by the ingenuity of man, by divesting electricity of its
+sudden and uncontrollable violence, and giving in a continued
+stream a greater quantity at a diminished intensity, has exhibited
+that force under a new and manageable form, possessing powers
+the most astonishing and unexpected. The expression current has
+no relation to a fluid, which is now considered to be as inconsistent
+with the phenomena of dynamic as with static electricity.
+298It was shown by Grotthus that the transmission of Voltaic electricity
+through liquids consists of a series of chemical affinities
+acting in definite directions; and Mr. Grove, from an examination
+of its action on the various kinds of matter, has come to the same
+conclusion. Indeed it is now the generally received opinion that
+a current of electricity is merely a continuous transmission of
+chemical affinity from particle to particle of the substance through
+which it is passing, and consequently that it is a continuous
+transmission of force. As the Voltaic battery has become one of
+the most important engines of physical research, some account
+of its present condition may not be out of place.
+The disturbance of electric equilibrium, and a development of
+electricity, invariably accompany the chemical action of a fluid on
+metallic substances, and the electricity is most plentiful when
+that action occasions oxidation. Metals vary in the quantity of
+electricity afforded by their combination with oxygen. But the
+greatest abundance is developed by the oxidation of zinc by weak
+sulphuric acid. And, in conformity with the law that one kind of
+electricity cannot be evolved without an equal quantity of the
+other being brought into activity, it is found that the acid is
+positively, and the zinc negatively electric. It has not yet been
+ascertained why equilibrium is not restored by the contact of
+these two substances, which are both conductors, and in opposite
+electrical states. However, the electrical and chemical changes
+are so connected, that, unless equilibrium be restored, the action
+of the acid will go on languidly, or stop as soon as a certain
+quantity of electricity is accumulated in it. Equilibrium, nevertheless,
+will be restored, and the action of the acid will be continuous,
+if a plate of copper be placed in contact with the zinc,
+both being immersed in the fluid; for the copper, not being
+acted upon by the acid, will serve as a conductor to convey the
+positive electricity from the acid to the zinc, and will at every
+instant restore the equilibrium, and then the oxidation of the
+zinc will go on rapidly. Thus three substances are concerned in
+forming a Voltaic circuit, but it is indispensable that one of them
+should be a fluid. The electricity so obtained will be very
+feeble in overcoming resistances offered by imperfect conductors
+interposed in the circuit, or by very long wires, but it may be
+augmented by increasing the number of plates. In the common
+Voltaic battery, the electricity which the fluid has acquired from
+299the first plate of zinc exposed to its action is taken up by the
+copper plate belonging to the second pair, and transferred to the
+second zinc plate, with which it is connected. The second plate
+of zinc, possessing equal powers, and acting in conformity with
+the first, having thus acquired a larger portion of electricity than
+its natural share, communicates a larger quantity to the fluid in
+the second cell. This increased quantity is again transferred to
+the next pair of plates; and thus every succeeding alternation is
+productive of a further increase in the quantity of the electricity
+developed. This action, however, would stop unless a vent were
+given to the accumulated electricity, by establishing a communication
+between the positive and negative poles of the battery by
+means of wires attached to the extreme plate at each end. When
+the wires are brought into contact, the Voltaic circuit is completed,
+the electricities meet and neutralize each other, producing
+the shock and other electrical phenomena; and then the electric
+current continues to flow uninterruptedly in the circuit, as long
+as the chemical action lasts. The stream of positive electricity
+flows from the zinc to the copper. The construction and power
+of the Voltaic battery have been much improved of late years, but
+the most valuable improvement is the constant battery of Professor
+Daniell. In all batteries of the ordinary construction,
+the power, however energetic at first, rapidly diminishes, and
+ultimately becomes very feeble. Professor Daniell found that
+this diminution of power is occasioned by the adhesion of the
+evolved hydrogen to the surface of the copper, and by the precipitation
+of the sulphate formed by the action of the acid on the
+zinc. He prevents the latter by interposing between the copper
+and the zinc, in the cell containing the liquid, a membrane which,
+without impeding the electric current, prevents the transfer of
+the salt; and the former, by placing between the copper and the
+membrane solution of sulphate of copper, which being reduced
+by the hydrogen prevents the adhesion of this gas to the metallic
+surface. Each element of the battery consists of a hollow cylinder
+of copper, in the axis of which is placed a cylindrical rod of zinc;
+between the zinc and the copper a membranous bag is placed,
+which divides the cell into two portions, the inner of which is
+filled with dilute acid, and the one nearer the copper is supplied
+with crystals of the sulphate of that metal. The battery consists
+of several of these elementary cells connected together by metallic
+wires, the zinc rod of one with the copper cylinder of that
+300next to it. The zinc rods are amalgamated, so that local action,
+which, in ordinary cases, is so destructive of the zinc, does not
+take place, and no chemical action is manifested unless the
+circuit be completed. The rods are easily detached, and others
+substituted for them when worn out. This battery, which possesses
+considerable power, and is constant in its effects for a very
+long time, is greatly superior to all former arrangements, either
+as an instrument of research, or for exhibiting the ordinary phenomena
+of Voltaic electricity.
+A battery charged with water alone, instead of acid, is constant
+in its action, but the quantity of electricity it develops is comparatively
+very small. Mr. Cross, of Broomfield in Somersetshire,
+kept a battery of this kind in full force during twelve
+months. M. Becquerel had invented an instrument for comparing
+the intensities of the different kinds of electricity by means
+of weights; but, as it is impossible to make the comparison with
+Voltaic electricity produced by the ordinary batteries, on account
+of the perpetual variation to which the intensity of the current is
+liable, he has constructed a battery which affords a continued
+stream of electricity of uniform power, but it is also of very
+feeble force. The current is produced by the chemical combination
+of an acid with an alkali.
+Metallic contact is not necessary for the production of Voltaic
+electricity, which is entirely due to chemical action. The intensity
+of the Voltaic electricity is in proportion to the intensity of
+the affinities concerned in its production, and the quantity
+produced is in proportion to the quantity of matter which has
+been chemically active during its evolution. Dr. Faraday considers
+this definite production to be one of the strongest proofs
+that electricity is of chemical origin.
+Galvanic or Voltaic electricity is manifested by two continuous
+forces or currents passing in opposite directions through the
+circuit: the zinc is the positive end or pole of the battery, and
+the copper the negative.
+Voltaic electricity is distinguished by two marked characters.
+Its intensity increases with the number of plates, its quantity
+with the extent of their surfaces. The most intense concentration
+of force is displayed by a numerous series of large plates: light
+and heat are copiously evolved, and chemical decomposition is
+accomplished with extraordinary energy; whereas the electricity
+from one pair of plates, whatever their size may be, is so feeble
+301that it gives no sign either of attraction or repulsion. Common
+or static electricity is of greater intensity and has a greater
+power of overcoming resistance than Voltaic electricity, but it
+acts upon a smaller quantity of matter. However, by diminishing
+the size of the plates, and increasing their number, the intensity
+of a battery may be increased till it becomes equal to that
+of the electrical machine.
+The action of Voltaic electricity differs in some respects
+materially from that of the ordinary kind. When a quantity of
+common electricity is accumulated, the restoration of equilibrium
+is attended by an instantaneous violent explosion, accompanied
+by the development of light, heat, and sound. The concentrated
+power of the electricity forces its way through every obstacle, disrupting
+and destroying the cohesion of the particles of the bodies
+through which it passes, and occasionally increasing its destructive
+effects by the conversion of fluids into steam from the intensity
+of the momentary heat, as when trees are torn to pieces by a
+stroke of lightning. Even the vivid light which marks the path
+of the electricity is probably owing in part to the sudden compression
+of the air and the rapidity of its passage. But the
+instant equilibrium is restored by this energetic action the whole
+is at an end. On the contrary, when an accumulation takes
+place in a Voltaic battery, equilibrium is restored the moment
+the circuit is completed. But so far is the electric stream from
+being exhausted, that it continues to flow silently and invisibly
+in an uninterrupted current supplied by a perpetual reproduction.
+And, although its action on bodies is neither so sudden nor so
+intense as that of common electricity, yet it acquires such power
+from constant accumulation and continued action, that it ultimately
+surpasses the energy of the other. The two kinds of
+electricity differ in no circumstance more than in the development
+of heat. Instead of a momentary evolution, the circulation of
+the Voltaic electricity is accompanied by a continued development
+of heat, lasting as long as the circuit is complete, without
+producing either light or sound. Its intensity from a very powerful
+battery is greater than that of any heat that can be obtained
+by artificial means, so that it fuses substances which resist
+the action of the most powerful furnaces. The temperature
+of every part of a Voltaic battery itself is raised during its
+activity. With the greater number of metals Mr. Grove
+302found that the positive terminal or pole is hotter than the
+negative.
+According to Mr. Joule, the quantity of heat generated in a
+unit of time is proportional to the strength of the current, and
+when a galvanic current is employed in chemical analysis, the
+heat in the entire circuit generated in a unit of time is equal to
+the work expended in producing it, minus that employed in the
+analysis. In fact, a current of electricity cannot pass through a
+homogeneous conductor without generating heat in overcoming
+resistance, an effect proved by Mr. Joule to be proportional to
+the square of the force of the current, and the same in whatever
+direction the current may be flowing. Any other thermal action
+that can take place must depend upon the heterogeneousness of
+the circuit, and must be reversible with the current. For example,
+if a semicircle of bismuth be joined to a semicircle of antimony,
+an electric current in passing through it produces cold
+where it passes from the bismuth to the antimony by absorption,
+and heat where it passes from the antimony to the bismuth.
+The transit of the electricity from pole to pole is accompanied
+by light, and in consequence of the continuous current sparks
+occur every time the contact of the wires is either broken or renewed;
+but considerable intensity is requisite to enable the
+electricity to force its way through atmospheric air or gas. Both
+its length and colour are affected by the density of the medium
+through which it passes. If the medium be gradually rarefied
+the discharge increases from a spark to a luminous glow, differing
+in colour in different gases, but white in air. When very
+much attenuated a discharge may be made to pass across 6 or 7
+feet of space, while in air of the ordinary density it will not pass
+through an inch. In rarefied gas it resembles the Aurora by its
+continuous flashes. When the battery is powerful the luminous
+effects are very brilliant.
+The most splendid artificial light known is produced by
+fixing pencils of charcoal at the extremities of the wires, and
+bringing them into contact. This light is the more remarkable
+as it is independent of combustion, since the charcoal
+suffers no apparent change, and, likewise, because it is
+equally vivid in such gases as do not contain oxygen. It
+depends upon the molecular arrangement of the charcoal; for
+Mr. Grove observes that “carbon in a transparent crystalline
+303state, as diamond, is as perfect a non-conductor as we know, while
+in an opaque amorphous state, as graphite or charcoal, it is one
+of the best conductors: thus in one state it transmits light and
+stops electricity, in the other it transmits electricity and stops
+light. It is a circumstance worthy of remark, that the arrangement
+of molecules which renders a solid body capable of transmitting
+light is most unfavourable to the transmission of electricity,
+transparent solids being very imperfect conductors of
+electricity; so all gases readily transmit light, but are amongst
+the worst conductors of electricity, if indeed they can be said to
+conduct it at all. The fact that the molecular structure or
+arrangement of a body influences, indeed I may say determines,
+its conducting power, is by no means explained by the theory of
+a fluid; but if electricity be only a transmission of force or
+motion, the influence of the molecular state is just what would
+be expected.”
+Professor Wheatstone, by fixing metallic points at the extremities
+of the wires or poles, has found that the appearance of the
+spectrum of the voltaic arc or vivid flame that is seen between
+the terminals of a battery, depends, as in static electricity, upon
+the metal from whence it is taken. The spectrum of that from
+mercury consists of seven definite rays, separated from each other
+by dark intervals; these visible rays are two orange lines close
+together, a bright green line, two blueish-green lines near each
+other, a very bright purple line, and, lastly, a blue line. It is
+the same when it passes through carbonic acid gas, oxygen gas,
+air, or vacuum. The light from zinc, cadmium, tin, bismuth,
+and lead, in a melted state, gives similar results; but the number,
+position, and colour of the lines vary so much in each case, and the
+appearances are so different, that the metals may easily be distinguished
+from one another by this mode of investigation. The
+electric spark is considered by M. Angström to be the overlapping
+of two spectra, one of which belongs to the metal, and the other
+to the gas through which the spark passes, and that the bright
+lines vary with the gas as well as with the metal. In an oxygen
+spectrum the greatest number of bright lines occur in the blue
+and violet, in nitrogen in the green and yellow, and in hydrogen
+in the red. These effects must necessarily be connected with
+the chemical and thermal properties of the gases.
+Mr. Grove considers that the colour of the voltaic arc, or flame,
+304which appears between the poles of a very powerful battery,
+depends upon the substance of the metal from whence it proceeds
+and on the medium through which it passes. The spark from
+zinc is blue, from silver it is green, from iron it is red and scintillating—precisely
+the colours afforded by these metals in their
+ordinary combustion. But the colour varies also with the
+medium through which the light passes, for when the medium is
+changed a change takes place in the colour, showing an affection
+of the intervening matter. A portion of the metal terminals or
+poles is actually transmitted with every electrical or Voltaic discharge,
+whence Mr. Grove concludes that the electrical discharge
+arises, at least in part, from an actual repulsion and severance of
+the electrified matter itself, which flies off at the points of least
+resistance. He observes that “the phenomena attending the
+electric spark or Voltaic arc tends to modify considerably our
+previous idea of the nature of the electric force as a producer of
+ignition and combustion. The Voltaic arc is perhaps, strictly
+speaking, neither ignition nor combustion. It is not simply
+ignition; because the matter of the terminals is not merely
+brought to a state of incandescence, but is physically separated,
+and partially transferred from one terminal to another,
+much of it being dissipated in a vaporous state. It is not combustion;
+for the phenomena will take place independently of
+atmospheric air, oxygen gas, or any of the bodies usually called
+supporters of combustion; combustion being in fact chemical
+union attended with heat and light. In the Voltaic arc we may
+have no chemical union, for if the experiment be performed in an
+exhausted receiver, or in nitrogen, the substance forming the
+terminals is condensed and precipitated upon the interior of the
+vessel, in, chemically speaking, an unaltered state. Thus, to
+take a very striking example, if the Voltaic discharge be taken
+between zinc terminals in an exhausted receiver, a fine black
+powder of zinc is deposited on the sides of the receiver; this can
+be collected, and takes fire readily in air by being touched with
+a match, or ignited wire, instantly burning into white oxide of
+zinc. To an ordinary observer the zinc would appear to be burned
+twice—first in the receiver, where the phenomenon presents all
+the appearance of combustion, and, secondly, in the real combustion
+in air. With iron the experiment is equally instructive. Iron
+is volatilized by the Voltaic arc in nitrogen, or in an exhausted
+305receiver; and when a scarcely perceptible film has lined the
+receiver, if it be washed with an acid, it then gives, with
+ferrocyanide of potassium, the Prussian-blue precipitate. In this
+case we readily distil iron, a metal by ordinary means fusible
+only at a very high temperature.”
+Another strong evidence that the Voltaic discharge consists of
+the material itself of which the terminals are composed, is the
+peculiar rotation which is observed in the light when iron is
+employed, the magnetic character of this metal causing its particles
+to rotate by the influence of the Voltaic current. In short,
+Mr. Grove concludes that, although it would be hasty to assert
+that the electrical disruptive discharge can in no case take place
+without the terminals being affected, yet he had met with no
+instance of such a result, provided the discharge had been sufficiently
+prolonged, and the terminals in such a state as could be
+expected to render manifest slight changes![15]
+Some years ago Mr. Grove discovered that the electrical discharge
+possesses certain phases or fits of an alternate character,
+forming rings of alternate oxidation and deoxidation on metallic
+surfaces. A highly polished silver plate in an air-pump was
+connected with the pole of a powerful inductive battery, while a
+fine metallic wire, or even a common sewing needle, was fixed at
+the other pole, and so arranged as to be perpendicular to the
+silver plate, and very near, but not touching it. By means of
+this apparatus the electrical discharge could be sent through any
+kind of rarefied media. In some of the experiments a series of
+concentric coloured rings of oxide alternating with rings of
+polished or unoxidated silver were formed on the plate under the
+point of the needle or wire. When the plate was previously
+coated with a film of oxide, the oxide was removed in concentric
+spaces by the discharge, and increased on the alternate ones,
+showing an alternate positive and negative electricity, or electricity
+of an opposite character in the same discharge.
+When the silver plate was polished the centre of the rings
+formed on it was yellow-green surrounded by blue-green; then a
+ring of polished silver, followed by a crimson ring with a slight
+orange tint on the inner side and deep purple on the outer;
+306lastly the indication of a polished one. When the air-pump was
+filled with attenuated olefiant gas the rings were precisely the
+same with those seen in thin plates; hence the effect is the same
+as that produced by the interference of light. In these experiments
+the luminous appearance extended from three quarters of
+an inch to an inch round the point of the needle or wire.
+When the silver plate was connected with the negative pole of
+the battery a polished point appeared upon it opposite the needle,
+surrounded by a dusky ill-defined areola of a brown colour tinged
+with purple when viewed in one direction, and greenish-white
+when seen in another.
+In the present year Mr. Gassiot, Vice-President of the Royal
+Society, has shown that the stratified character of the electric
+discharge is remarkably developed in the Torricellian vacuum.
+Among the various experiments made by that gentleman two
+may be selected as strongly illustrative of this new and singular
+property of electrical light.
+In a closed glass tube about an inch internal diameter and 38
+inches long, in which a vacuum had been made, two platinum
+wires were hermetically sealed, 32 inches apart, and connected
+with the poles of an inductive battery. The luminous appearance
+at the two poles was very different when electricity passed
+through the wires. A glow surrounded the negative pole, and in
+close approximation to the glow a well-defined dark space appeared,
+while from the positive pole or wire the light proceeded in a
+stream; but unless the charge be great or the tube short, the
+stream will not extend to the black band, which is totally different
+from the intervening space. When discharges of electricity
+were sent through this vacuum tube a series of bands or
+stratifications were formed which were concave towards the positive
+pole; and as in the changes in making and breaking the
+circuit the electricity emanates from the different terminals or
+wires, their concavities were in opposite directions.
+When instead of platinum wires narrow tinfoil coatings were
+placed round the exterior of the glass tube and connected with
+the wires of the battery, brilliant stratifications filled the interior
+of the tube between the foil coatings, but no dark band appeared.
+At present Mr. Gassiot is inclined to believe that the dark band is
+due to interference; but that the stratifications arise from pulsations
+or impulses of a force acting in a highly attenuated but
+307resisting medium, for even with the best air-pumps it is impossible
+to make a perfect void; he is still occupied with experiments on
+this new subject, and no doubt will obtain very remarkable
+results, of which none can be more extraordinary than his discovery
+of the powerful influence of the magnet on this electric
+light. The stratifications are formed in rapid succession in the
+tube with platinum wires and are turned different ways, but they
+can be separated at any part of the tube by the pole of a magnet
+round which the whole stratifications have a tendency to revolve.
+In the second experiment, where the tinfoil was used, the discharge
+was divided in two by the pole of a magnet, and the two parts had
+a tendency to rotate round the magnet in opposite directions.
+Voltaic electricity is a powerful agent in chemical analysis.
+When transmitted through conducting fluids, it separates them
+into their constituent parts, which it conveys in an invisible
+state through a considerable space or quantity of liquid to the
+poles, where they come into evidence. Numerous instances
+might be given, but the decomposition of water is perhaps the
+most simple and elegant. Suppose a glass tube filled with water,
+and corked at both ends; if one of the wires of an active Voltaic
+battery be made to pass through one cork, and the other through
+the other cork, into the water, so that the extremities of the two
+wires shall be opposite and about a quarter of an inch asunder,
+chemical action will immediately take place, and gas will continue
+to rise from the extremities of both wires till the water has
+vanished. If an electric spark be then sent through the tube,
+the water will reappear. By arranging the experiment so as to
+have the gas given out by each wire separately, it is found that
+water consists of two volumes of hydrogen and one of oxygen.
+The hydrogen is given out at the positive wire of the battery,
+and the oxygen at the negative. The oxides are also decomposed;
+the oxygen appears at the positive pole, and the metal at the
+negative. The decomposition of the alkalies and earths by Sir
+Humphry Davy formed a remarkable era in the history of science.
+Soda, potash, lime, magnesia, and other substances heretofore
+considered to be simple bodies incapable of decomposition, were
+resolved by electric agency into their constituent parts, and
+proved to be metallic oxides, by that illustrious philosopher. All
+chemical changes produced by electricity are accomplished on
+the same principle; and it appears that, in general, combustible
+308substances, metals, and alkalies go to the negative wire, while
+acids and oxygen are evolved at the positive. The transfer of
+these substances to the poles is not the least wonderful effect of
+the Voltaic battery. Though the poles be at a considerable distance
+from one another, nay, even in separate vessels, if a communication
+be only established by a quantity of wet thread, as
+the decomposition proceeds the component parts pass through
+the thread in an invisible state, and arrange themselves at their
+respective poles. According to Dr. Faraday, electro-chemical
+decomposition is simply a case of the preponderance of one set
+of chemical affinities more powerful in their nature over another
+set which are less powerful. And in electro-chemical action of
+any kind produced by a continuous current, the amount of action
+in a given time is nearly, if not rigorously, proportional to the
+strength of the current. The great efficacy of Voltaic electricity
+in chemical decomposition arises not from its tension, but from
+the quantity set in motion and the continuance of its action. Its
+agency appears to be most exerted on fluids and substances
+which by conveying the electricity partially and imperfectly
+impede its progress. But it is now proved to be as efficacious
+in the composition as in the decomposition or analysis of bodies.
+It had been observed that, when metallic solutions are subjected
+to galvanic action, a deposition of metal, sometimes in the
+form of minute crystals, takes place on the negative wire. By
+extending this principle, and employing a very feeble Voltaic
+action, M. Becquerel has succeeded in forming crystals of a great
+proportion of the mineral substances, precisely similar to those
+produced by nature. The electric state of metallic veins makes
+it possible that many natural crystals may have taken their form
+from the action of electricity bringing their ultimate particles,
+when in solution, within the narrow sphere of molecular attraction.
+Both light and motion favour crystallization. Crystals
+which form in different liquids are generally more abundant on
+the side of the jar exposed to the light; and it is well known
+that still water, cooled below 32°, starts into crystals of ice the
+instant it is agitated. A feeble action is alone necessary, provided
+it be continued for a sufficient time. Crystals formed
+rapidly are generally imperfect and soft, and M. Becquerel found
+that even years of constant Voltaic action were necessary for the
+309crystallization of some of the hard substances. If this law be
+general, how many ages may be required for the formation of a
+diamond!
+The deposition of metal from a metallic solution by galvanic
+electricity has been most successfully applied to the arts of plating
+and gilding, as well as to the more delicate process of copying
+medals and copper plates. Indeed, not medals only, but any
+object of art or nature, may be coated with precipitated metal,
+provided it be first covered with the thinnest film of plumbago,
+which renders a non-conductor sufficiently conducting to receive
+the metal. Photo-galvanic engraving depends upon this. Gelatine
+mixed with bichromate of potash, nitrate of silver, and iodide of
+potassium, is spread over a plate of glass, and when dry a positive
+print is laid upon it with its face downwards, which, when exposed
+to the sun, leaves its impression. When soaked in water the
+gelatine swells around all those parts where the light had fallen,
+thus forming an intaglio, a cast of which is taken in gutta-percha,
+which is then coated with copper by the electro process, whence a
+copper plate in relief is obtained.
+Static electricity, on account of its high tension, passes through
+water and other liquids as soon as it is formed, whatever the
+length of its course may be. Voltaic electricity, on the contrary,
+is weakened by the distance it has to traverse. Pure water is a
+very bad conductor; but ice absolutely stops a current of Voltaic
+electricity altogether, whatever be the power of the battery,
+although static or common electricity has sufficient power to
+overcome its resistance. Dr. Faraday has discovered that this
+property is not peculiar to ice; that, with a few exceptions,
+bodies which do not conduct electricity when solid acquire that
+property, and are immediately decomposed, when they become
+fluid, and, in general, that decomposition takes place as soon as
+the solution acquires the capacity of conduction, which has led
+him to suspect that the power of conduction may be only a consequence
+of decomposition.
+Heat increases the conducting power of some substances for
+Voltaic electricity, and of the gases for both kinds. Dr. Faraday
+has given a new proof of the connexion between heat and electricity,
+by showing that, in general, when a solid, which is not a
+metal, becomes fluid, it almost entirely loses its power of conducting
+310heat, while it acquires a capacity for conducting electricity
+in a high degree. M. Becquerel regards the production
+of heat and that of electricity to be concomitant; their dependence
+being such, that when one is increased the other diminishes,
+and vice versâ, so that one may altogether disappear with the
+increase of the other. For instance, when electricity circulates
+in a metallic wire, the greater the heat produced, the less the
+quantity of electricity which passes, and the contrary, so that
+the affair proceeds as if electricity were converted into heat, and
+heat into electricity. Again, in a closed galvanic circuit the
+sum of the heat produced in the chemical action of the acidulated
+water upon the zinc and in the conducting wire is constant, so
+that the quantity of heat disengaged in the reaction is greater in
+proportion as less electricity passes through the wire. These,
+and other circumstances, prove such an intimate connexion between
+the production of heat and electricity, that in the change
+of condition of substances the electrical effects might disappear
+or be annulled by the calorific effects.
+The galvanic current affects all the senses: nothing can be
+more disagreeable than the shock, which may even be fatal if the
+battery be very powerful. A bright flash of light is perceived
+with the eyes shut, when one of the wires touches the face, and
+the other the hand. By touching the ear with one wire, and
+holding the other, strange noises are heard; and an acid taste is
+perceived when the positive wire is applied to the tip of the
+tongue, and the negative wire touches some other part of it.
+By reversing the poles the taste becomes alkaline. It renders
+the pale light of the glow-worm more intense. Dead animals
+are roused by it, as if they started again into life, and it may
+ultimately prove to be the cause of muscular action in the
+living.
+Several fish possess the faculty of producing electrical effects.
+The most remarkable are the gymnotus electricus, found in South
+America; and the torpedo, a genus of ray, frequent in the
+Mediterranean. The electrical action of the torpedo depends
+upon an apparatus apparently analogous to the Voltaic pile,
+which the animal has the power of charging at will, consisting of
+membranous columns filled throughout with laminæ, separated
+from one another by a fluid. The absolute quantity of electricity
+brought into circulation by the torpedo is so great, that it effects
+311the decomposition of water, has power sufficient to make magnets,
+gives very severe shocks and the electric spark. It is identical
+in kind with that of the galvanic battery, the electricity of the
+under surface of the fish being the same with the negative pole,
+and that in the upper surface the same with the positive pole.
+Its manner of action is, however, somewhat different; for,
+although the evolution of the electricity is continued for a sensible
+time, it is interrupted, being communicated by a succession
+of discharges.</div></body></text></TEI>

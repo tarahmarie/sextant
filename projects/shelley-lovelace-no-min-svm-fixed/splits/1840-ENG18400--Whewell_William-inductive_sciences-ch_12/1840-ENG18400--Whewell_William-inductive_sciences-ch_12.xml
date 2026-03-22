@@ -1,0 +1,338 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Novum Organon Renovatum</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="21">
+CHAPTER V.
+Analysis of the Process of Induction.
+Aphorism XXXIV.
+The Process of Induction may be resolved into three steps;
+the Selection of the Idea, the Construction of the Conception,
+and the Determination of the Magnitudes.
+Aphorism XXXV.
+These three steps correspond to the determination of the
+Independent Variable, the Formula, and the Coefficients,
+in mathematical investigations; or to the Argument, the
+Law, and the Numerical Data, in a Table of an astronomical
+or other Inequality.
+Aphorism XXXVI.
+The Selection of the Idea depends mainly upon inventive
+sagacity: which operates by suggesting and trying various
+hypotheses. Some inquirers try erroneous hypotheses; and
+thus, exhausting the forms of errour, form the Prelude to
+Discovery.
+Aphorism XXXVII.
+The following Rules may be given, in order to the selection
+of the Idea for purposes of Induction:—the Idea and the
+Facts must be homogeneous; and the Rule must be tested
+by the Facts.
+Sect. I.—The Three Steps of Induction.
+1. WHEN
+facts have been decomposed and phenomena measured,
+the philosopher endeavours to combine them into general laws,
+by the aid of 187 Ideas and Conceptions; these being
+illustrated and regulated by such means as we have spoken of in the last
+two chapters. In this task, of gathering laws of nature
+from observed facts, as we have already
+said24, the natural
+sagacity of gifted minds is the power by which
+the greater part of the successful results have been
+obtained; and this power will probably always be more
+efficacious than any Method can be. Still there are
+certain methods of procedure which may, in such investigations,
+give us no inconsiderable aid, and these I
+shall endeavour to expound.
+24 B. ii. c. vi.
+2. For this purpose, I remark that the Colligation
+of ascertained Facts into general Propositions may be
+considered as containing three steps, which I shall
+term the Selection of the Idea, the Construction of the
+Conception, and the Determination of the Magnitudes.
+It will be recollected that by the word Idea,
+(or Fundamental Idea,) used in a peculiar sense, I mean certain
+wide and general fields of intelligible relation, such as
+Space, Number, Cause, Likeness; while by Conception
+I denote more special modifications of these ideas, as a
+circle, a square number, a uniform force, a like form of
+flower. Now in order to establish any law by reference
+to facts, we must select the true Idea and the true
+Conception. For example; when Hipparchus
+found25
+that the distance of the bright star Spica Virginis from
+the equinoxial point had increased by two degrees in
+about two hundred years, and desired to reduce this
+change to a law, he had first to assign, if possible, the
+idea on which it depended;—whether it was regulated
+for instance, by space, or by time; whether it was determined
+by the positions of other stars at each moment, or went on
+progressively with the lapse of ages.
+And when there was found reason to select time as the
+regulative idea of this change, it was then to be determined
+how the change went on with the time;—whether uniformly,
+or in some other manner: the conception, or the rule
+of the progression, was to be 188 rightly constructed.
+Finally, it being ascertained that
+the change did go on uniformly, the question then
+occurred what was its amount:—whether exactly a
+degree in a century, or more, or less, and how much:
+and thus the determination of the magnitude completed
+the discovery of the law of phenomena respecting this star.
+25 Hist. Ind. Sc. b. iii. c. iv. sect. 3.
+3. Steps similar to these three may be discerned
+in all other discoveries of laws of nature. Thus, in
+investigating the laws of the motions of the sun, moon
+or planets, we find that these motions may be resolved,
+besides a uniform motion, into a series of partial motions,
+or Inequalities; and for each of these Inequalities,
+we have to learn upon what it directly depends, whether
+upon the progress of time only, or upon some configuration
+of the heavenly bodies in space; then, we have
+to ascertain its law; and finally, we have to determine
+what is its amount. In the case of such Inequalities,
+the fundamental element on which the Inequality depends,
+is called by mathematicians the Argument. And
+when the Inequality has been fully reduced to known
+rules, and expressed in the form of a Table, the Argument
+is the fundamental Series of Numbers which
+stands in the margin of the Table, and by means of
+which we refer to the other Numbers which express
+the Inequality. Thus, in order to obtain from a Solar
+Table the Inequality of the sun’s annual motion, the
+Argument is the Number which expresses the day of
+the year; the Inequalities for each day being (in the
+Table) ranged in a line corresponding to the days.
+Moreover, the Argument of an Inequality being assumed
+to be known, we must, in order to calculate the
+Table, that is, in order to exhibit the law of nature,
+know also the Law of the Inequality, and its Amount.
+And the investigation of these three things, the Argument,
+the Law, and the Amount of the Inequality,
+represents the three steps above described, the
+Selection of the Idea, the Construction of the Conception,
+and the Determination of the Magnitude.
+4. In a great body of cases, mathematical language
+and calculation are used to express the
+connexion 189 between
+the general law and the special facts. And when
+this is done, the three steps above described may be
+spoken of as the Selection of the Independent Variable,
+the Construction of the Formula, and the Determination
+of the Coefficients. It may be worth our while to
+attend to an exemplification of this. Suppose then,
+that, in such observations as we have just spoken of,
+namely, the shifting of a star from its place in the
+heavens by an unknown law, astronomers had, at the
+end of three successive years, found that the star had
+removed by 3, by 8, and by 15 minutes from its original place.
+Suppose it to be ascertained also, by
+methods of which we shall hereafter treat, that this
+change depends upon the time; we must then take the
+time, (which we may denote by the symbol t,) for the
+independent variable. But though the star changes
+its place with the time, the change is not proportional
+to the time; for its motion which is only 3 minutes in
+the first year, is 5 minutes in the second year, and 7
+in the third. But it is not difficult for a person a little
+versed in mathematics to perceive that the series 3, 8,
+15, may be obtained by means of two terms, one of
+which is proportional to the time, and the other to the
+square of the time; that is, it is expressed by the formula at + btt.
+The question then occurs, what are the
+values of the coefficients a and b;
+and a little examination of the case shows us that a must be 2,
+and b, 1: so that the formula is 2t + tt.
+Indeed if we add together the series 2, 4, 6, which expresses a change
+proportional to the time, and 1, 4, 9, which is proportional
+to the square of the time, we obtain the series
+3, 8, 15, which is the series of numbers given by observation.
+And thus the three steps which give us the
+Idea, the Conception, and the Magnitudes; or the
+Argument, the Law, and the Amount, of the change;
+give us the Independent Variable, the Formula, and
+the Coefficients, respectively.
+We now proceed to offer some suggestions of methods
+by which each of these steps may be in some degree
+promoted. 190
+Sect. II.—Of the
+Selection of the Fundamental Idea.
+5. When we turn our thoughts upon any assemblage of
+facts, with a view of collecting from them
+some connexion or law, the most important step, and
+at the same time that in which rules can least aid us, is
+the Selection of the Idea by which they are to be
+collected. So long as this idea has not been detected,
+all seems to be hopeless confusion or insulated facts;
+when the connecting idea has been caught sight of, we
+constantly regard the facts with reference to their
+connexion, and wonder that it should be possible for
+any one to consider them in any other point of view.
+Thus the different seasons, and the various aspects
+of the heavenly bodies, might at first appear to be
+direct manifestations from some superior power, which
+man could not even understand: but it was soon found
+that the ideas of time and space, of motion and recurrence,
+would give coherency to many of the phenomena. Yet this
+took place by successive steps. Eclipses,
+for a long period, seemed to follow no law; and being
+very remarkable events, continued to be deemed the
+indications of a supernatural will, after the common
+motions of the heavens were seen to be governed by
+relations of time and space. At length, however, the
+Chaldeans discovered that, after a period of eighteen
+years, similar sets of eclipses recur; and, thus selecting
+the idea of time, simply, as that to which these events
+were to be referred, they were able to reduce them to
+rule; and from that time, eclipses were recognized as
+parts of a regular order of things. We may, in the
+same manner, consider any other course of events, and
+may enquire by what idea they are bound together.
+For example, if we take the weather, years peculiarly
+wet or dry, hot and cold, productive and unproductive,
+follow each other in a manner which, at first sight at
+least, seems utterly lawless and irregular. Now can we
+in any way discover some rule and order in these
+occurrences? Is there, for example, in these events,
+as in eclipses, a certain cycle of years, after which like 191
+seasons come round again? or does the weather depend
+upon the force of some extraneous body—for instance,
+the moon—and follow in some way her aspects? or
+would the most proper way of investigating this subject
+be to consider the effect of the moisture and heat of
+various tracts of the earth’s surface upon the ambient
+air? It is at our choice to try these and other modes
+of obtaining a science of the weather: that is, we may
+refer the phenomena to the idea of time, introducing
+the conception of a cycle;—or to the idea of external
+force, by the conception of the moon’s action;—or to the
+idea of mutual action, introducing the conceptions of
+thermotical and atmological agencies, operating between
+different regions of earth, water, and air.
+6. It may be asked, How are we to decide in such
+alternatives? How are we to select the one right idea
+out of several conceivable ones? To which we can only
+reply, that this must be done by trying which will
+succeed. If there really exist a cycle of the weather, as
+well as of eclipses, this must be established by comparing
+the asserted cycle with a good register of the seasons,
+of sufficient extent. Or if the moon really influence
+the meteorological conditions of the air, the asserted
+influence must be compared with the observed facts,
+and so accepted or rejected. When Hipparchus had
+observed the increase of longitude of the stars, the idea
+of a motion of the celestial sphere suggested itself as
+the explanation of the change; but this thought was
+verified only by observing several stars.
+It was conceivable that each star should have an independent
+motion, governed by time only, or by other circumstances,
+instead of being regulated by its place in the
+sphere; and this possibility could be rejected by trial
+alone. In like manner, the original opinion of the
+composition of bodies supposed the compounds to derive
+their properties from the elements according to the law
+of likeness; but this opinion was overturned by a
+thousand facts; and thus the really applicable Idea
+of Chemical Composition was introduced in modern
+times. In what has already been said on the History
+of Ideas, we have seen how each science was in a state 192
+of confusion and darkness till the right idea was introduced.
+7. No general method of evolving such ideas can be
+given. Such events appear to result from a peculiar
+sagacity and felicity of mind;—never without labour,
+never without preparation;—yet with no constant dependence
+upon preparation, or upon labour, or even
+entirely upon personal endowments. Newton explained
+the colours which refraction produces, by referring
+each colour to a peculiar angle of refraction,
+thus introducing the right idea. But when the same philosopher
+tried to explain the colours produced by diffraction, he
+erred, by attempting to apply the same idea, (the course
+of a single ray,) instead of applying the truer idea, of
+the interference of two rays. Newton gave a wrong
+rule for the double refraction of Iceland spar, by
+making the refraction depend on the edges of the rhombohedron:
+Huyghens, more happy, introduced the
+idea of the axis of symmetry of the solid, and thus was
+able to give the true law of the phenomena.
+8. Although the selected idea is proved to be the
+right one, only when the true law of nature is established
+by means of it, yet it often happens that there
+prevails a settled conviction respecting the relation
+which must afford the key to the phenomena, before
+the selection has been confirmed by the laws to which
+it leads. Even before the empirical laws of the tides
+were made out, it was not doubtful that these laws
+depended upon the places and motions of the sun and
+moon. We know that the crystalline form of a body
+must depend upon its chemical composition, though
+we are as yet unable to assign the law of this dependence.
+Indeed in most cases of great discoveries, the right
+idea to which the facts were to be referred, was selected
+by many philosophers, before the decisive demonstration
+that it was the right idea, was given by the
+discoverer. Thus Newton showed that the motions of
+the planets might be explained by means of a central
+force in the sun: but though he established, he did not
+first select the idea involved in the conception of a 193
+central force. The idea had already been sufficiently
+pointed out, dimly by Kepler, more clearly by Borelli,
+Huyghens, Wren, and Hooke. Indeed this anticipation of
+the true idea is always a principal part of that
+which, in the History of the Sciences, we have termed
+the Prelude of a Discovery. The two steps of proposing
+a philosophical problem, and of solving it, are, as
+we have elsewhere said, both important, and are often
+performed by different persons. The former step is, in
+fact, the Selection of the Idea. In explaining any
+change, we have to discover first the Argument, and
+then the Law of the change. The selection of the
+Argument is the step of which we here speak; and is
+that in which inventiveness of mind and justness of
+thought are mainly shown.
+9. Although, as we have said, we can give few precise directions
+for this cardinal process, the Selection of
+the Idea, in speculating on phenomena, yet there is
+one Rule which may have its use: it is this:—The idea
+and the facts must be homogeneous: the elementary
+Conceptions, into which the facts have been decomposed,
+must be of the same nature as the Idea by
+which we attempt to collect them into laws. Thus, if
+facts have been observed and measured by reference to
+space, they must be bound together by the idea of
+space: if we would obtain a knowledge of mechanical
+forces in the solar system, we must observe mechanical
+phenomena. Kepler erred against this rule in his
+attempts at obtaining physical laws of the system; for
+the facts which he took were the velocities, not the
+changes of velocity, which are really the mechanical
+facts. Again, there has been a transgression of this
+Rule committed by all chemical philosophers who have
+attempted to assign the relative position of the elementary
+particles of bodies in their component molecules. For their
+purpose has been to discover the
+relations of the particles in space; and yet they have
+neglected the only facts in the constitution of bodies
+which have a reference to space—namely, crystalline
+form, and optical properties. No progress can be made
+in the theory of the elementary structure of bodies, 194
+without making these classes of facts the main basis of
+our speculations.
+10. The only other Rule which I have to offer on
+this subject, is that which I have already given:—the
+Idea must be tested by the facts. It must be tried by
+applying to the facts the conceptions which are derived
+from the idea, and not accepted till some of these succeed
+in giving the law of the phenomena. The justice
+of the suggestion cannot be known otherwise than by
+making the trial. If we can discover a true law by
+employing any conceptions, the idea from which these
+conceptions are derived is the right one; nor can there
+be any proof of its rightness so complete and satisfactory,
+as that we are by it led to a solid and permanent
+truth.
+This, however, can hardly be termed a Rule; for
+when we would know, to conjecture and to try the
+truth of our conjecture by a comparison with the facts,
+is the natural and obvious dictate of common sense.
+Supposing the Idea which we adopt, or which we
+would try, to be now fixed upon, we still have before
+us the range of many Conceptions derived from it;
+many Formulæ may be devised depending on the same
+Independent Variable, and we must now consider how
+our selection among these is to be made.
+</div></body></text></TEI>

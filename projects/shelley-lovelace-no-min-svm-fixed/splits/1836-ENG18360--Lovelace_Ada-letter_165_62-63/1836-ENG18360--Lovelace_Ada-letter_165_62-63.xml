@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 62-63</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 62-63.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1836">undated [early August 1836?]</date>
+          <note type="place">Brighton</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 62-63</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_62-63.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Brighton Friday Afternoon</p>
+      <p>My Dearest Mate. The 75..0..0 is safe. I believe my stay here will have cost very little, which is just as well.--</p>
+      <p>I find there is a report that I am going to Jersey for the recovery of my health, so you had best go there straight from Ashley, instead of coming here.--</p>
+      <p>The heat today is extreme, so</p>
+      <p>that I can scarcely write.--</p>
+      <p>1/2 pst 5 o'clock. I was interrupted in the above by the entrance of Dr King-- since which I have been to pay a visit in the Hen's phaeton, &amp; to call also on Miss Fortescue with the Hen, who wished to make her acquaintance.-- The Hen thinks Emily's present game is not to see either her or me. E has not yet returned Mama's card, which I call rude. Mama thinks E's object is to make out that we cut her, which she might</p>
+      <p>easily do by suppressing the fact of our repeatedly leaving cards &amp; finding her out of the house. I intend however to baffle her, if this is her plan. I must make haste however, as I find from Aunt Lucy that E means to go to Town. This looks very like keeping out of our way.-- No time for more,</p>
+      <p>Ou Birdie A. K.</p>
+      <p>The bird is become as strong as a horse!-- and the little bird promises to resist the various modes of destructive kindness which the Education of past ages have devised--</p>
+    </div></body>
+  </text>
+</TEI>

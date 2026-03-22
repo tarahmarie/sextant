@@ -1,0 +1,485 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="45">CHAPTER V.
+Progress in the Middle Ages.
+
+Thomas Aquinas.
+Aquinas wrote (besides the
+Summa mentioned in the text) a Commentary
+on the Physics of Aristotle: Commentaria in Aristotelis Libros
+Physicorum, Venice, 1492. This work is of course of no scientific
+value; and the commentary consists of empty permutations of abstract
+terms, similar to those which constitute the main substance of the
+text in Aristotle’s physical speculations. There is, however, an
+attempt to give a more technical form to the propositions and their
+demonstrations. As specimens of these, I may mention that in Book vi.
+c. 2, we have a demonstration that when bodies move, the time and the
+magnitude (that is, the space described), are divided similarly; with
+many like propositions. And in Book viii. we have such propositions as
+this (c. 10): “Demonstration that a finite mover (movens)
+cannot move anything in an infinite time.” This is illustrated by a
+diagram in which two hands are represented as engaged in moving a
+whole sphere, and one hand in moving a hemisphere.
+This mode of representing force, in diagrams illustrative of
+mechanical reasonings, by human hands pushing, pulling, and the like,
+is still employed in elementary books. Probably this is the first
+example of such a mode of representation.
+Roger Bacon.
+This writer, a contemporary of Thomas
+Aquinas, exhibits to us a kind of knowledge, speculation, and opinion,
+so different from that of any known person near his time, that he
+deserves especial notice here; 513 and I shall transfer to this place the
+account which I have given of him in the Philosophy. I do this
+the more willingly because I regard the existence of such a work as
+the Opus Majus at that period as a problem which has never yet
+been solved. Also I may add, that the scheme of the Contents of this
+work which I have given, deserves, as I conceive, more notice than it
+has yet received.
+“Roger Bacon was born in 1214, near Ilchester, in Somersetshire, of
+an old family. In his youth he was a student at Oxford, and made
+extraordinary progress in all branches of learning. He then went to
+the University of Paris, as was at that time the custom of learned
+Englishmen, and there received the degree of Doctor of Theology. At
+the persuasion of Robert Grostête, bishop of Lincoln, he entered the
+brotherhood of Franciscans in Oxford, and gave himself up to study
+with extraordinary fervor. He was termed by his brother monks
+Doctor Mirabilis. We know from his own works, as well as from
+the traditions concerning him, that he possessed an intimate
+acquaintance with all the science of his time which could be acquired
+from books; and that he had made many remarkable advances by means of
+his own experimental labors. He was acquainted with Arabic, as well as
+with the other languages common in his time. In the title of his
+works, we find the whole range of science and philosophy, Mathematics
+and Mechanics, Optics, Astronomy, Geography, Chronology, Chemistry,
+Magic, Music, Medicine, Grammar, Logics, Metaphysics, Ethics, and
+Theology; and judging from those which are published, these works are
+full of sound and exact knowledge. He is, with good reason, supposed
+to have discovered, or to have had some knowledge of, several of the
+most remarkable inventions which were made generally known soon
+afterwards; as gunpowder, lenses, burning specula, telescopes, clocks,
+the correction of the calendar, and the explanation of the
+rainbow.
+“Thus possessing, in the acquirements and habits of his own mind,
+abundant examples of the nature of knowledge and of the process of
+invention, Roger Bacon felt also a deep interest in the growth and
+progress of science, a spirit of inquiry respecting the causes which
+produced or prevented its advance, and a fervent hope and trust in its
+future destinies; and these feelings impelled him to speculate
+worthily and wisely respecting a Reform of the Method of
+Philosophizing. The manuscripts of his works have existed for nearly
+six hundred years in many of the libraries of Europe, and especially
+in those of England; and for a long period the very imperfect portions
+of them which were 514 generally known, left the character and
+attainments of the author shrouded in a kind of mysterious obscurity.
+About a century ago, however, his Opus Majus was published5
+by Dr. S. Jebb, principally from a manuscript in the library of
+Trinity College, Dublin; and this contained most or all of the
+separate works which were previously known to the public, along with
+others still more peculiar and characteristic. We are thus able to
+judge of Roger Bacon’s knowledge and of his views, and they are in
+every way well worthy our attention.
+5 Fratris Rogeri Bacon Ordinis
+Minorum Opus Majus ad Clementem Quartum, Pontificem Romanum, ex
+MS. Codice Dubliniensi cum aliis quibusdam collato nunc primum
+edidit S. Jebb, M.D. Londini, 1733.
+“The Opus Majus is addressed to Pope Clement the Fourth,
+whom Bacon had known when he was legate in England as Cardinal-bishop
+of Sabina, and who admired the talents of the monk, and pitied him for
+the persecutions to which he was exposed. On his elevation to the
+papal chair, this account of Bacon’s labours and views was sent, at
+the earnest request of the pontiff. Besides the Opus Majus, he
+wrote two others, the Opus Minus and Opus Tertium; which
+were also sent to the pope, as the author says,6 ‘on account of the
+danger of roads, and the possible loss of the work.’ These works still
+exist unpublished, in the Cottonian and other libraries.
+6 Opus Majus, Præf.
+“The Opus Majus is a work equally wonderful with regard to
+its general scheme, and to the special treatises with which the
+outlines of the plan are filled up. The professed object of the work
+is to urge the necessity of a reform in the mode of philosophizing, to
+set forth the reasons why knowledge had not made a greater progress,
+to draw back attention to the sources of knowledge which had been
+unwisely neglected, to discover other sources which were yet almost
+untouched, and to animate men in the undertaking, by a prospect of the
+vast advantages which it offered. In the developement of this plan,
+all the leading portions of science are expounded in the most complete
+shape which they had at that time assumed; and improvements of a very
+wide and striking kind are proposed in some of the principal of these
+departments. Even if the work had had no leading purpose, it would
+have been highly valuable as a treasure of the most solid knowledge
+and soundest speculations of the time; even if it had contained no
+such details, it would have been a work most remarkable for its
+general views and scope. It may be considered as, at the same time,
+the Encyclopedia and the Novum Organon of the thirteenth
+century. 515
+“Since this work is thus so important in the history of Inductive
+Philosophy I shall give, in a Note, a view7 of its divisions
+and contents. But I must now endeavor to point out more especially the
+way in which the various principles, which the reform of scientific
+method involved, are here brought into view.
+7 Contents of Roger Bacon’s Opus
+Majus:
+
+
+
+
+
+
+
+Part I.
+On the four causes of human
+ignorance:—Authority, Custom, Popular Opinion, and the Pride of
+supposed Knowledge.
+Part II.
+On the source of perfect wisdom in the
+Sacred Scripture.
+Part III.
+On the Usefulness of Grammar.
+Part IV. On the Usefulness
+of Mathematics.
+(1.) The Necessity of
+Mathematics in Human Things (published separately as the Specula
+Mathematica).
+(2.) The Necessity of
+Mathematics in Divine Things.—1°. This study has occupied holy
+men: 2°. Geography: 3°. Chronology: 4°. Cycles; the Golden Number,
+&c.: 5°. Natural Phenomena, as the Rainbow: 6°. Arithmetic: 7°.
+Music.
+(3.) The Necessity of
+Mathematics in Ecclesiastical Things. 1°. The Certification of Faith:
+2°. The Correction of the Calendar.
+(4.) The Necessity of
+Mathematics in the State.—1°. Of Climates: 2°. Hydrography: 3°.
+Geography: 4°. Astrology.
+Part V. On Perspective
+(published separately as Perspectiva).
+(1.) The organs of vision.
+(2.) Vision in straight lines.
+(3.) Vision reflected and
+refracted.
+(4.) De multiplicatione
+specierum (on the propagation of the impressions of light, heat,
+&c.)
+Part VI. On Experimental
+Science.
+“One of the first points to be noticed for this purpose, is the
+resistance to authority; and at the stage of philosophical history
+with which we here have to do, this means resistance to the authority
+of Aristotle, as adopted and interpreted by the Doctors of the
+Schools. Bacon’s work8 is divided into Six Parts; and of these
+Parts, the First is, Of the four universal Causes of all Human
+Ignorance. The causes thus enumerated9 are:—the
+force of unworthy authority;—traditionary habit;—the
+imperfection of the undisciplined senses;—and the disposition to
+conceal our ignorance and to make an ostentatious show of our
+knowledge. These influences involve every man, occupy every condition.
+They prevent our obtaining the most useful and large and fair
+doctrines of wisdom, the secrets of all sciences and arts. He then
+proceeds to argue, from the testimony of philosophers themselves, that
+the authority of antiquity, and especially of Aristotle, is not
+infallible. ‘We find10 their books full of doubts,
+obscurities, and perplexities. They 516 scarce agree with each other in one
+empty question or one worthless sophism, or one operation of science,
+as one man agrees with another in the practical operations of
+medicine, surgery, and the like arts of secular men. Indeed,’ he
+adds,11 ‘not only the philosophers, but the
+saints have fallen into errors which they have afterwards retracted,’
+and this he instances in Augustin, Jerome, and others. He gives an
+admirable sketch of the progress of philosophy from the Ionic School
+to Aristotle; of whom he speaks with great applause. ‘Yet,’ he adds,
+‘those who came after him corrected him in some things, and added many
+things to his works, and shall go on adding to the end of the world.’
+Aristotle, he adds, is now called peculiarly12 the Philosopher,
+‘yet there was a time when his philosophy was silent and unregarded,
+either on account of the rarity of copies of his works, or their
+difficulty, or from envy; till after the time of Mahomet, when
+Avicenna and Averroes, and others, recalled this philosophy into the
+full light of exposition. And although the Logic and some other works
+were translated by Boethius from the Greek, yet the philosophy of
+Aristotle first received a quick increase among the Latins at the time
+of Michael Scot; who, in the year of our Lord 1230, appeared, bringing
+with him portions of the books of Aristotle on Natural Philosophy and
+Mathematics. And yet a small part only of the works of this author is
+translated, and a still smaller part is in the hands of common
+students.’ He adds further13 (in the Third Part of the Opus
+Majus, which is a Dissertation on Language) that the translations
+which are current of these writings, are very bad and imperfect. With
+these views, he is moved to express himself somewhat impatiently14 respecting these works: ‘If I had,’ he
+says, ‘power over the works of Aristotle, I would have them all burnt;
+for it is only a loss of time to study in them, and a course of error,
+and a multiplication of ignorance beyond expression.’ ‘The common herd
+of students,’ he says, ‘with their heads, have no principle by which
+they can be excited to any worthy employment; and hence they mope and
+make asses of themselves over their bad translations, and lose their
+time, and trouble, and money.’
+8 Op. Maj. p. 1.
+9 Ib. p. 2.
+10 Ib. p. 10.
+11 Op. Maj. p. 36.
+12 Autonomaticè.
+13 Op. Maj. p. 46.
+14 See Pref. to Jebb’s edition.
+The passages there quoted, however, are not extracts from the Opus
+Majus, but (apparently) from the Opus Minus (MS.
+Cott. Tib. c. 5). “Si haberem potestatem supra libros Aristotelis,
+ego facerem omnes cremari; quia non est nisi temporis amissio studere
+in illis, et causa erroris, et multiplicatio ignorantiæ ultra id quod
+valeat explicari. . . . Vulgus studentum cum capitibus suis non habet
+unde excitetur ad aliquid dignum, et ideo languet et asininat
+circa male translata, et tempus et studium amittit in omnibus et
+expensas.”
+517 “The
+remedies which he recommends for these evils, are, in the first place,
+the study of that only perfect wisdom which is to be found in the
+Sacred Scripture;15 in the next place, the study of
+mathematics and the use of experiment.16 By the aid of
+these methods, Bacon anticipates the most splendid progress for human
+knowledge. He takes up the strain of hope and confidence which we have
+noticed as so peculiar in the Roman writers; and quotes some of the
+passages of Seneca which we adduced in illustration of
+this:—that the attempts in science were at first rude and
+imperfect, and were afterwards improved;—that the day will come,
+when what is still unknown shall be brought to light by the progress
+of time and the labors of a longer period;—that one age does not
+suffice for inquiries so wide and various;—that the people of
+future times shall know many things unknown to us;—and that the
+time shall arrive when posterity will wonder that we overlooked what
+was so obvious. Bacon himself adds anticipations more peculiarly in
+the spirit of his own time. ‘We have seen,’ he says, at the end of the
+work, ‘how Aristotle, by the ways which wisdom teaches, could give to
+Alexander the empire of the world. And this the Church ought to take
+into consideration against the infidels and rebels, that there may be
+a sparing of Christian blood, and especially on account of the
+troubles that shall come to pass in the days of Antichrist; which by
+the grace of God it would be easy to obviate, if prelates and princes
+would encourage study, and join in searching out the secrets of nature
+and art.’
+15 Part ii.
+16 Parts iv. v. and vi.
+“It may not be improper to observe here that this belief in the
+appointed progress of knowledge, is not combined with any overweening
+belief in the unbounded and independent power of the human intellect.
+On the contrary, one of the lessons which Bacon draws from the state
+and prospects of knowledge, is the duty of faith and humility. ‘To
+him,’ he says,17 ‘who denies the truth of the faith
+because he is unable to understand it, I will propose in reply the
+course of nature, and as we have seen it in examples.’ And after
+giving some instances, he adds, ‘These, and the like, ought to move
+men and to excite them to the reception of divine truths. For if, in
+the vilest objects of creation, truths are found, before which the
+inward pride of man must bow, and believe though it cannot understand,
+how much more should man humble his mind before the glorious truths of
+God!’ He had before said:18 ‘Man is incapable of perfect wisdom in
+this life; it is hard for 518 him to ascend towards perfection, easy
+to glide downwards to falsehoods and vanities: let him then not boast
+of his wisdom, or extol his knowledge. What he knows is little and
+worthless, in respect of that which he believes without knowing; and
+still less, in respect of that which he is ignorant of. He is mad who
+thinks highly of his wisdom; he most mad, who exhibits it as something
+to be wondered at.’ He adds, as another reason for humility, that he
+has proved by trial, he could teach in one year, to a poor boy, the
+marrow of all that the most diligent person could acquire in forty
+years’ laborious and expensive study.
+17 Op. Maj. p. 476.
+18 Ib. p. 15.
+“To proceed somewhat more in detail with regard to Roger Bacon’s
+views of a Reform in Scientific Inquiry, we may observe that by making
+Mathematics and Experiment the two great points of his recommendation,
+he directed his improvement to the two essential parts of all
+knowledge, Ideas and Facts, and thus took the course which the most
+enlightened philosophy would have suggested. He did not urge the
+prosecution of experiment, to the comparative neglect of the existing
+mathematical sciences and conceptions; a fault which there is some
+ground for ascribing to his great namesake and successor Francis
+Bacon: still less did he content himself with a mere protest against
+the authority of the schools, and a vague demand for change, which was
+almost all that was done by those who put themselves forward as
+reformers in the intermediate time. Roger Bacon holds his way steadily
+between the two poles of human knowledge; which, as we have seen, it
+is far from easy to do. ‘There are two modes of knowing,’ says he;19 ‘by argument, and by experiment.
+Argument concludes a question; but it does not make us feel certain,
+or acquiesce in the contemplation of truth, except the truth be also
+found to be so by experience.’ It is not easy to express more
+decidedly the clearly-seen union of exact conceptions with certain
+facts, which, as we have explained, constitutes real knowledge.
+19 Op. Maj. p. 445; see also p.
+448. “Scientiæ aliæ sciunt sua principia invenire per experimenta, sed
+conclusiones per argumenta facta ex principiis inventis. Si vero
+debeant habere experientiam conclusionum suarum particularem et
+completam, tunc oportet quod habeant per adjutorium istius scientiæ
+nobilis (experimentalis).”
+“One large division of the Opus Majus is ‘On the Usefulness
+of Mathematics,’ which is shown by a copious enumeration of existing
+branches of knowledge, as Chronology, Geography, the Calendar and (in
+a separate Part) Optics. There is a chapter,20 in which it is
+proved 519 by
+reason, that all science requires mathematics. And the arguments which
+are used to establish this doctrine, show a most just appreciation of
+the office of mathematics in science. They are such as
+follows:—That other sciences use examples taken from mathematics
+as the most evident:—That mathematical knowledge is, as it were,
+innate to us, on which point he refers to the well-known dialogue of
+Plato, as quoted by Cicero:—That this science, being the
+easiest, offers the best introduction to the more
+difficult:—That in mathematics, things as known to us are
+identical with things as known to nature:—That we can here
+entirely avoid doubt and error, and obtain certainty and
+truth:—That mathematics is prior to other sciences in nature,
+because it takes cognizance of quantity, which is apprehended by
+intuition (intuitu intellectus). ‘Moreover,’ he adds,21 ‘there have been found famous men, as
+Robert, bishop of Lincoln, and Brother Adam Marshman (de Marisco), and
+many others, who by the power of mathematics have been able to explain
+the causes of things; as may be seen in the writings of these men, for
+instance, concerning the Rainbow and Comets, and the generation of
+heat, and climates, and the celestial bodies.’
+20 Ib. p. 60.
+21 Op. Maj. p. 64.
+“But undoubtedly the most remarkable portion of the Opus
+Majus is the Sixth and last Part, which is entitled ‘De Scientia
+experimentali.’ It is indeed an extraordinary circumstance to find a
+writer of the thirteenth century, not only recognizing experiment as
+one source of knowledge, but urging its claims as something far more
+important than men had yet been aware of, exemplifying its value by
+striking and just examples, and speaking of its authority with a
+dignity of diction which sounds like a foremurmur of the Baconian
+sentences uttered nearly four hundred years later. Yet this is the
+character of what we here find.22 ‘Experimental
+science, the sole mistress of speculative sciences, has three great
+Prerogatives among other parts of knowledge: First she tests by
+experiment the noblest conclusions of all other sciences: Next she
+discovers respecting the notions which other sciences deal with,
+magnificent truths to which these sciences of themselves can by no
+means attain: her Third dignity is, that she by her own power and
+without respect of other sciences, investigates the secrets of
+nature.’
+22 “Veritates magnificas in terminis
+aliarum scientiarum in quas per nullam viam possunt illæ scientiæ, hæc
+sola scientiarum domina speculativarum, potest dare.”—Op.
+Maj. p. 465.
+520 “The
+examples which Bacon gives of these ‘Prerogatives’ are very curious,
+exhibiting, among some error and credulity, sound and clear views. His
+leading example of the First Prerogative is the Rainbow, of which the
+cause, as given by Aristotle, is tested by reference to experiment
+with a skill which is, even to us now, truly admirable. The examples
+of the Second Prerogative are three—first, the art of
+making an artificial sphere which shall move with the heavens by
+natural influences, which Bacon trusts may be done, though astronomy
+herself cannot do it—’et tunc,’ he says, ‘thesaurum unius regis
+valeret hoc instrumentum;’—secondly, the art of
+prolonging life, which experiment may teach, though medicine has no
+means of securing it except by regimen;23—thirdly, the art of making
+gold finer than fine gold, which goes beyond the power of alchemy. The
+Third Prerogative of experimental science, arts independent of the
+received sciences, is exemplified in many curious examples, many of
+them whimsical traditions. Thus it is said that the character of a
+people may be altered by altering the air.24 Alexander, it
+seems, applied to Aristotle to know whether he should exterminate
+certain nations which he had discovered, as being irreclaimably
+barbarous; to which the philosopher replied, ‘If you can alter their
+air, permit them to live; if not, put them to death.’ In this part, we
+find the suggestion that the fire-works made by children, of
+saltpetre, might lead to the invention of a formidable military
+weapon.
+23 One of the ingredients of a
+preparation here mentioned, is the flesh of a dragon, which, it
+appears, is used as food by the Ethiopians. The mode of preparing this
+food cannot fail to amuse the reader. “Where there are good flying
+dragons, by the art which they possess, they draw them out of their
+dens, and have bridles and saddles in readiness, and they ride upon
+them, and make them bound about in the air in a violent manner, that
+the hardness and toughness of the flesh may be reduced, as boars are
+hunted and bulls are baited before they are killed for
+eating.”—Op. Maj. p. 470.
+24 Op. Maj. p. 472.
+“It could not be expected that Roger Bacon, at a time when
+experimental science hardly existed, could give any precepts
+for the discovery of truth by experiment. But nothing can be a better
+example of the method of such investigation, than his inquiry
+concerning the cause of the Rainbow. Neither Aristotle, nor Avicenna,
+nor Seneca, he says, have given us any clear knowledge of this matter,
+but experimental science can do so. Let the experimenter
+(experimentator) consider the cases in which he finds the same
+colors, as the hexagonal crystals from Ireland and India; by looking
+into these he will see colors like those of the rainbow. Many think
+that this arises from some 521 special virtue of these stones and their
+hexagonal figure; let therefore the experimenter go on, and he will
+find the same in other transparent stones, in dark ones as well as in
+light-colored. He will find the same effect also in other forms than
+the hexagon, if they be furrowed in the surface, as the Irish crystals
+are. Let him consider too, that he sees the same colors in the drops
+which are dashed from oars in the sunshine;—and in the spray
+thrown by a mill wheel;—and in the dew drops which lie on the
+grass in a meadow on a summer morning;—and if a man takes water
+in his mouth and projects it on one side into a sunbeam;—and if
+in an oil lamp hanging in the air, the rays fall in certain positions
+upon the surface of the oil;—and in many other ways, are colors
+produced. We have here a collection of instances, which are almost all
+examples of the same kind as the phenomenon under consideration; and
+by the help of a principle collected by induction from these facts,
+the colors of the rainbow were afterwards really explained.
+“With regard to the form and other circumstances of the bow he is
+still more precise. He bids us measure the height of the bow and of
+the sun, to show that the centre of the bow is exactly opposite to the
+sun. He explains the circular form of the bow,—its being
+independent of the form of the cloud, its moving when we move, its
+flying when we follow,—by its consisting of the reflections from
+a vast number of minute drops. He does not, indeed, trace the course
+of the rays through the drop, or account for the precise magnitude
+which the bow assumes; but he approaches to the verge of this part of
+the explanation; and must be considered as having given a most happy
+example of experimental inquiry into nature, at a time when such
+examples were exceedingly scanty. In this respect, he was more
+fortunate than Francis Bacon, as we shall hereafter see.
+“We know but little of the biography of Roger Bacon, but we have
+every reason to believe that his influence upon his age was not great.
+He was suspected of magic, and is said to have been put into close
+confinement in consequence of this charge. In his work he speaks of
+Astrology, as a science well worth cultivating. ‘But,’ says he,
+‘Theologians and Decretists, not being learned in such matters, and
+seeing that evil as well as good may be done, neglect and abhor such
+things, and reckon them among Magic Arts.’ We have already seen, that
+at the very time when Bacon was thus raising his voice against the
+habit of blindly following authority, and seeking for all science in
+Aristotle, Thomas Aquinas was employed in fashioning Aristotle’s
+tenets into that fixed form in which they became the great impediment
+to the 522 progress
+of knowledge. It would seem, indeed, that something of a struggle
+between the progressive and stationary powers of the human mind was
+going on at this time. Bacon himself says,25 ‘Never was there
+so great an appearance of wisdom, nor so much exercise of study in so
+many Faculties, in so many regions, as for this last forty years.
+Doctors are dispersed everywhere, in every castle, in every burgh, and
+especially by the students of two Orders, (he means the Franciscans
+and Dominicans, who were almost the only religious orders that
+distinguished themselves by an application to study,26) which has not happened except for
+about forty years. And yet there was never so much ignorance, so much
+error.’ And in the part of his work which refers to Mathematics, he
+says of that study,27 that it is the door and the key of the
+sciences; and that the neglect of it for thirty or forty years has
+entirely ruined the studies of the Latins. According to these
+statements, some change, disastrous to the fortunes of science, must
+have taken place about 1230, soon after the foundation of the
+Dominican and Franciscan Orders.28 Nor can we doubt
+that the adoption of the Aristotelian philosophy by these two Orders,
+in the form in which the Angelical Doctor had systematized it, was one
+of the events which most tended to defer, for three centuries, the
+reform which Roger Bacon urged as a matter of crying necessity in his
+own time.”
+25 Quoted by Jebb, Pref. to Op.
+Maj.
+26 Mosheim, Hist. iii.
+161.
+27 Op. Maj. p. 57.
+28 Mosheim, iii. 161.
+It is worthy of remark that in the Opus Majus of Roger
+Bacon, as afterwards in the Novum Organon of Francis Bacon, we
+have certain features of experimental research pointed out
+conspicuously as Prærogativæ: although in the former, this term
+is employed to designate the superiority of experimental science in
+general to the science of the schools; in the latter work, the term is
+applied to certain classes of experiments as superior to others.
+
+
+BOOK V.
+
+FORMAL ASTRONOMY.
+</div></body></text></TEI>

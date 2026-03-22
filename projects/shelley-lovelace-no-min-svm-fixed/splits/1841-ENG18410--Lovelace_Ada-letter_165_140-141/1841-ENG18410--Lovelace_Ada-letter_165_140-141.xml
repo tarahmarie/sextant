@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 140-141</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 140-141.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1841">8 April [1841]</date>
+          <note type="place">22 Place Vendome, Paris</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 140-141</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_140-141.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>22. Place Vendome [accent mark over the o] Paris Satdy Morg 8th April</p>
+      <p>Dearest William. I am very comfortably &amp; happily established here with my dear Hen,-- who seems much pleased with Avis in all respects. I see a good deal of Medora, by my own desire &amp; choice I mean, for so scrupulous is the Hen that she has placed her in an appartement quite in a separate wing of the house in order that she may be in no way forced either on myself or any other of the Hen's visitors. I therefore go there whenever I choose, &amp; she does not come into the other apartments. I have formed a very favorable opinion of her. She impresses me with the idea of principle very strongly, &amp; I find from the Hen, (who</p>
+      <p>has now communicated to me everything), that her sincerity &amp; perfect truthfulness have been tested very completely.-- I have heard altogether a history most shocking. The whole of it must be made known to you, but this can be done only in conversation.</p>
+      <p>As for the ruin of Medora, it was effected by the united efforts of the Mother; the Sister-- Mrs T [double underlined]; and Mr T himself; &amp; by means of drugging the victim, who found herself ruined on coming to her senses.-- Under these circumstances, Medora herself (who always particularly hated Mr T) must be considered absolutely guiltless. She emancipated herself as soon as possible from Mr T, but owing to the cruel conspiracy against her, she was in a manner forced to remain in his power during 2 or 3 years. The story is altogether a very horrible one; &amp; yet Alas! it is nothing to what I have heard of circumstances now many years passed away!-- So iniquitous</p>
+      <p>&amp; villainous a tale could never have entered into the imagination of any but the wretched actors themselves.--</p>
+      <p>How comes it that my Mother is not either dead, mad, or depraved? This is the question that must suggest itself as most obvious.</p>
+      <p>A new language is requisite to furnish terms strong enough to express my horror &amp; amazement at the appalling facts! That viper-- Mrs L-- crowned all by suppressing letters of my Mother's to my Father when he was abroad after the separation, &amp; forging others in their place! She-Monster!!</p>
+      <p>As far as I can make out, my Mother will be in England this summer, but spend the winter abroad again. There is no doubt how very materially better in health she is out of England during the latter season.</p>
+      <p>I have never seen her so well; &amp; she shines most brightly on the Avis.--</p>
+      <p>There is a little dog here, of whom I am</p>
+      <p>very fond. He is a sweet little creature, &amp; sits in my lap, looking up in my face just as the poor mare does with you.</p>
+      <p>I am very glad I have come here, &amp; my journey has not in the least fatigued or troubled me. The illness in crossing, tho' very distressing, was quite temporary. The Hen says she expected I should be ill, just as I was.--</p>
+      <p>You have better come by Havre; &amp; if you get into the diligence for Paris at Havre, you will be here under 36 hours from your leaving Town. I believe I had better have come that way after all. However I have done very well as it was.--</p>
+      <p>The affectionate Avis</p>
+    </div></body>
+  </text>
+</TEI>

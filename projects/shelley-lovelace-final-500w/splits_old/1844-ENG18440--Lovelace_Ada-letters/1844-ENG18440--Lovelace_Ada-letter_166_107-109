@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 107-109</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 107-109.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1844">undated [15 August 1844?]</date>
+          <note type="place">Brighton</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 107-109</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_107-109.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Brighton Thursdy Night</p>
+      <p>Your long letter is delightful, &amp; contains all I hoped &amp; wanted.</p>
+      <p>About the ropes: I do not think the plan of having ropes lengthened can possibly be either very safe or very economical. I have the bill for them, &amp; I forget exactly what it is, but I know they are very cheap. What a pity therefore to spoil them for the place they already fit (in Town), &amp; to make but a patch-work job of it after all for Ockham. My idea was that if they would do for either, then I would avoid getting a double set for Town and Country. Otherwise I never</p>
+      <p>should have brought down the ropes to the country at all.</p>
+      <p>Do let me get a proper set, since you have had that nice beam &amp;c arranged on purpose, which is the main expense &amp; trouble. I very much regret, dear, that my unfortunate unwellness, (&amp; broken nose &amp;c) prevented my being what I call alacritous in attending to the matter when we left Town. It is always best to strike when the iron is hot, certainly.</p>
+      <p>This reminds me of the swimming. I begin I think to have a real idea of it now. It appears it was my dress (too much petticoat), that made me fail so before. Dr. King says that any but a close dress is exceedingly dangerous, &amp; in fact makes anything like swimming impossible.</p>
+      <p>I had a narrow escape today from a female monkey. (This will I fear not augment your preference for that race, whom I always consider you view so unjustly, &amp; must still defend). She flew at me in some public gardens, &amp; fastened savagely on my arm. She was with difficulty made to loose it, &amp; has pinched it badly, &amp; injured the skin despite of many thick folds of warm sleeves &amp;c, with which I was most fortunately protected.</p>
+      <p>She appeared determined to tear my arm to pieces, if she could. This is decidedly my year of accidents. I have had more hurts &amp; bruizes than I ever recollect.--</p>
+      <p>My arm is in pain at moments, &amp; is swelled. Dr King</p>
+      <p>says it is better than could have been expected, &amp; will not be troublesome.</p>
+      <p>What shall I do about the enclosed? It is an impertinent request, &amp; yet I don't quite like to leave the thing wholly unanswered. Do you think the enclosed might do? Pray don't send it unless you fully like it.--</p>
+      <p>I think of you often, &amp; anticipate Ashley with delight owing to the swimming; only sometimes I fear the rocky &amp; stony bottom may prove an impediment. I quite delight in being in the water now, even twice in the day sometimes. It is so invigorating &amp; delicious; if one is a little (but not too much) fatigued especially.</p>
+      <p>P.S. I would have my subjoined note to Lady Murray copied I think, (by Miss Cooper or some one). I do not fancy having it stuck in Miss Murray's autograph book. What Lady Murray can it be?-- You can alter my note in any way you like.</p>
+      <p>Friday Morg. The most lovely, still, &amp; sunny of fine days, at last! What a delight. I only fear it may'nt last. I must enjoy it while it does.</p>
+      <p>I improve now much in health &amp; comfort. I believe the immersions in the sea are everything to me.</p>
+    </div></body>
+  </text>
+</TEI>

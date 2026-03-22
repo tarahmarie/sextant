@@ -1,0 +1,1070 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Novum Organon Renovatum</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="28">
+FURTHER ILLUSTRATIONS OF THE APHORISMS
+ON SCIENTIFIC LANGUAGE, FROM THE
+RECENT COURSE OF SCIENCES.
+1. Botany.
+The nomenclature of Botany as rescued from confusion
+by Linnæus, has in modern times been in some
+danger of relapsing into disorder or becoming intolerably
+extensive, in consequence of the multiplication of
+genera by the separation of one old genus into several
+new ones, and the like subdivisions of the higher groups,
+as subclasses and classes. This inconvenience, and the
+origin of it, have been so well pointed out by Mr. G.
+Bentham65,
+that I shall venture to adopt his judgment
+as an Aphorism, and give his reasons for it.
+65 Linnæan Society’s Proceedings, vol. ii. p. 30 (June, 1857).
+Aphorism XXIII.
+It is of the greatest importance that the Groups which
+give their substantive names to every included species should
+remain large.
+It will be recollected that according to the Linnæan
+nomenclature, the genus is marked by a substantive, (as
+Rosa), and the species designated by an adjective added
+to this substantive, (as Rosa Alpina); while the natural
+orders are described by adjectives taken substantively,
+(as Rosaceæ), But this rule, though it has been
+universally assented to in theory, has often been deviated
+from in practice. The number of known species
+having much increased, and the language of Linnæus
+and the principles of Jussieu having much augmented
+the facilities for the study of affinities, botanists have
+become aware that the species of a genus and the genera
+of an order can be collected into intermediate groups 347
+as natural and as well defined as the genera and orders
+themselves, and names are required for these subordinate
+groups as much as for the genera and orders.
+Now two courses have been followed in providing
+names for these subordinate groups.
+1. The original genera (considering the case of genera
+in the first place) have been preserved, (if well founded);
+and the lower groups have been called subgenera, sections,
+subsections, divisions, &c.: and the original names
+of the genera have been maintained for the purpose of
+nomenclature, in order to retain a convenient and stable
+language. But when these subordinate groups are so
+well defined and so natural, that except for the convenience
+of language, they might be made good genera,
+there are given also to these subordinate groups,
+substantive or substantively-taken adjective names. When
+these subordinate groups are less defined or less natural,
+either no names at all are given, and they are distinguished
+by figures or signs such as *, **, or § 1, § 2,
+&c. or there are given them mere adjective names.
+Or, 2, To regard these intermediate groups between
+species and the original genera, as so many independent
+genera; and to give them substantive names, to be used
+in ordinary botanical nomenclature.
+Now the second course is that which has produced
+the intolerable multiplication of genera in modern
+times; and the first course is the only one which can
+save botanical nomenclature from replunging into the
+chaos in which Linnæus found it. It was strongly
+advocated by the elder De Candolle; although in the
+latter years of his life, seeing how general was the
+disposition to convert his subgenera and sections into
+genera, he himself more or less gave in to the general
+practice. The same principle was adopted by Endlichen,
+but he again was disposed to go far in giving
+substantive names to purely technical or ill-defined
+subsections of genera.
+The multiplication of genera has been much too
+common. Botanists have a natural pride in establishing
+new genera (or orders); and besides this, it is felt
+how useful it is, in the study of affinities, to define and 348
+name all natural groups in every grade, however numerous
+they may be: and in the immense variety of language
+it is found easy to coin names indefinitely.
+But the arguments on the other side much preponderate.
+In attempting to introduce all these new
+names into ordinary botanical language, the memory is
+taxed beyond the capabilities of any mind, and the original
+and legitimate object of the Linnæan nomenclature is
+wholly lost sight of. In a purely scientific view
+it matters little if the Orders are converted into Classes
+or Alliances, the Genera into Orders, and the Sections
+or Subsections into Genera: their relative importance
+does not depend on the names given to them, but on
+their height in the scale of comprehensiveness. But
+for language, the great implement without which science
+cannot work, it is of the greatest importance, as our
+Aphorism declares, That the groups which give their
+substantive names to every species which they include,
+should remain large. If, independently of the inevitable
+increase of Genera by new discoveries, such old
+ones as Ficus, Begonia, Arum, Erica, &c. are divided
+into 10, 20, 30, or 40 independent Genera, with names
+and characters which are to be recollected before any
+one species can be spoken of;—if Genera are to be
+reckoned by tens of thousands instead of by thousands;—the
+range of any individual botanist will be limited
+to a small portion of the whole field of the sciences.
+And in like manner with regard to Orders, so long
+as the number of Orders can be kept within, or not
+much beyond a couple of hundred, it may reasonably
+be expected that a botanist of ordinary capacity shall
+obtain a sufficient general idea of their nature and
+characters to call them at any time individually to his mind
+for the purpose of comparison: but if we double the
+number of Orders, all is confusion.
+The inevitable confusion and the necessity of maintaining
+in some way the larger groups, have been perceived
+by those even who have gone the furthest in
+lowering the scale of Orders and Genera. As a remedy
+for this confusion, they propose to erect the old genera
+into independent orders, and the old orders into classes 349
+or divisions. But this is but an incomplete resumption
+of the old principles, without the advantage of the old
+nomenclature.
+And it will not be asserted, with regard to these new
+genera, formed by cutting up the old ones, that the new
+group is better defined than the group above it: on the
+contrary, it is frequently less so. It is not pretended
+that Urostigma or Phannacosyce, new genera formed
+out of the old genus Ficus, are better defined than the
+genus Ficus: or that the new genera which have lately
+been cut out of the old genus Begonia, form more natural
+groups than Begonia itself does. The principle
+which seems to be adopted in such subdivisions of old
+genera is this: that the lowest definable group above a
+species is a genus. If we were to go a step further,
+every species becomes a genus with a substantive name.
+It ought always to be recollected that though the
+analytical process carried to the uttermost, and
+separating groups by observation of differences, is necessary for
+the purpose of ascertaining the facts upon which botany
+or any other classificatory science is based, it is
+a judicious synthesis alone, associating individuals by the ties
+of language, which can enable the human mind to take
+a comprehensive view of these facts, to deduce from
+them the principles of the science, or to communicate
+to others either facts or principles.
+2. Comparative Anatomy.
+The Language of Botany, as framed by Linnæus, and
+regulated by his Canons, is still the most notable and
+successful example of scientific terminology which has
+obtained general reception among naturalists. But the
+Language of Anatomy, and especially of the Comparative
+Anatomy of the skeleton, has of late been an object
+of great attention to physiologists; and especially to
+Mr. Owen; and the collection of terms which he has
+proposed are selected with so much thought and care,
+that they may minister valuable lessons to us in this
+part of our subject.
+There is, at first sight, this broad difference between
+the descriptive language of Botany and of Comparative 350
+Anatomy; that in the former science, we have comparatively
+few parts to describe, (calyx, corolla, stamen,
+pistil, pericarp, seed, &c.): while each of these parts is
+susceptible of many forms, for describing which with
+precision many terms must be provided: in Comparative
+Anatomy, on the other hand, the skeletons of many animals
+are to be regarded as modifications of a common
+type, and the terms by which their parts are described
+are to mark this community of type. The terminology
+of Botany has for its object description; the language
+of Comparative Anatomy must have for its basis morphology.
+Accordingly, Mr. Owen’s terms are selected
+so as to express the analogies, or, as he calls them, the
+homologies of the skeleton; those parts of the skeleton
+being termed homologues, which have the same place in
+the general type, and therefore ought to have the same
+name.
+Yet this distinction of the basis of botanical and
+anatomical terminology is not to be pushed too far.
+The primary definitions in botany, as given by Linnæus,
+are founded on morphological views; and imply
+a general type of the structure of plants. These are his
+definitions (Phil. Bot. Art. 86).
+ Calyx, Cortex plantæ in Fructificatione præsens.
+ Corolla, Liber plantæ in Flora præsens.
+ Stamen, Viscus pro Pollinis præparatione.
+ Pistillum, Viscus fructui adherens pro Pollinis receptione.
+ Pericarpium, Viscus gravidum seminibus, quæ matura dimittit.
+But in what follows these leading definitions, the
+terms are descriptive merely. Now in Comparative
+Anatomy, an important object of terms is, to express
+what part of the type each bone represents—to answer
+the question, what is it? before we proceed, assuming
+that we know what it is, to describe its shape. The
+difficulty of this previous question is very great when
+we come to the bones of the head; and when we assume,
+as morphology leads us to do, that the heads of all
+vertebrated animals, including even fishes, are
+composed of homologous bones. And, as I have already 351
+said in the History (b. xvii. c. 7), speaking of Animal
+Morphology, the best physiologists are now agreed that
+the heads of vertebrates may be resolved into a series
+of vertebræ, homologically repeated and modified in
+different animals. This doctrine has been gradually
+making its way among anatomists, through a great
+variety of views respecting details; and hence, with
+great discrepancies in the language by which it has
+been expressed. Mr. Owen has proposed a complete
+series of terms for the bones of the head of all vertebrates;
+and these names are supported by reasons which
+are full of interest and instruction to the physiologist,
+on account of the comprehensive and precise knowledge
+of comparative osteology which they involve; but they
+are also, as I have said, interesting and instructive to
+us, as exemplifying the reasons which may be given for
+the adoption of words in scientific language. The reasons
+thus given agree with several of the aphorisms
+which I have laid down, and may perhaps suggest a
+few others. Mr. Owen has done me the great honour
+to quote with approval some of these aphorisms. The
+terms which he has proposed belong, as I have already
+said, to the Terminology, not to the Nomenclature of
+Zoology. In the latter subject, the Nomenclature (the
+names of species) the binary nomenclature established
+by Linnæus remains, in its principle, unshaken, simple
+and sufficient.
+I shall best derive from Mr. Owen’s labours and reflexions
+some of the instruction which they supply with
+reference to the Language of Science, by making
+remarks on his terminology with reference to such
+aphorisms as I have propounded on the subject, and others
+of a like kind.
+Mr. Owen, in his Homologies of the Vertebrate
+Skeleton, has given in a Tabular Form his views of
+the homology of the bones of the head of vertebrates,
+and the names which he consequently proposes for each
+bone, with the synonyms as they occur in the writings
+of some of the most celebrated anatomical philosophers,
+Cuvier, Geoffroy, Hallmann, Meckel and Wagner,
+Agassiz and Soemmering. And he has added to this
+Table his reasons for dissenting from his predecessors 352
+to the extent to which he has done so. He has done
+this, he says, only where nature seemed clearly to refuse
+her sanction to them; acting upon the maxim (our
+Aphorism X.) that new terms and changes of terms
+which are not needed in order to express truth, are to
+be avoided. The illustrations which I have there given,
+however, of this maxim, apply rather to the changes in
+nomenclature than in terminology; and though many
+considerations apply equally to these two subjects, there
+are some points in which the reasons differ in the two
+cases: especially in this point:—the names, both of
+genera and of species, in a system of nomenclature, may
+be derived from casual or arbitrary circumstances, as I
+have said in Aphorism XIII. But the terms of a scientific
+terminology ought to cohere as a system, and therefore
+should not commonly be derived from anything
+casual or arbitrary, but from some analogy or connexion.
+Hence it seems unadvisable to apply to bones
+terms derived from the names of persons, as ossa
+wormiana; or even from an accident in anatomical
+history, as os innominatum.
+It is further desirable that in establishing such a
+terminology, each bone should be designated by a single
+word, and not by a descriptive phrase, consisting of
+substantive and adjective. On this ground Mr. Owen
+proposes presphenoid for sphenöide anterieur. So also
+prefrontal is preferred to anterior frontal,
+and postfrontal to posterior frontal.
+And the reason which he
+gives for this is worthy of being stated as an Aphorism,
+among those which should regulate this subject.
+I shall therefore state it thus:
+Aphorism XXIV.
+It is advisable to substitute definite single names
+for descriptive phrases as better instruments of thought.
+It will be recollected by the reader that in the case of
+the Linnæan reform of the botanical nomenclature of
+species, this was one of the great improvements which
+was introduced.
+Again: some of the first of the terms which Mr. Owen
+proposes illustrate, and confirm by their manifest claim 353
+to acceptance, a maxim which we stated as Aphorism
+XXII.: namely,
+When alterations in technical terms become necessary,
+it is desirable that the new term should contain
+in its form some memorial of the old one.
+Thus for ‘basilaire,’ which Cuvier exclusively applies
+to the ‘pars basilaris’ of the occiput, and which
+Geoffroy as exclusively applies (in birds) to the
+‘pars basilaris’ of the sphenoid, Mr. Owen substitutes the term
+basioccipital.
+Again: for the term ‘suroccipital’ of Geoffroy, Mr.
+Owen proposes paroccipital, to avoid confusion and false
+suggestion: and with reference to this word, he makes
+a remark in agreement with what we have said in the
+discussion of Aphorism XXI.: namely, that the combination
+of different languages in the derivation of words,
+though to be avoided in general, is in some cases admissible.
+He says, ‘If the purists who are distressed by
+such harmless hybrids as “mineralogy,” “terminology,”
+and “mammalogy,” should protest against the combination
+of the Greek prefix to the Latin noun, I can
+only plead that servility to a particular source of the
+fluctuating sounds of vocal language is a matter of taste:
+and that it seems no unreasonable privilege to use such
+elements as the servants of thought; and in the interests
+of science to combine them, even though they come
+from different countries, when the required duty is best
+and most expeditiously performed by their combination.’
+So again we have illustrations of our Aphorism XII.,
+that if terms are systematically good they are not to be
+rejected because they are etymologically inaccurate. In
+reference to that bone of the skull which has commonly
+been called vomer, the ploughshare: a term which
+Geoffroy rejected, but which Mr. Owen retains, he says,
+‘When Geoffrey was induced to reject the term vomer
+as being applicable only to the peculiar form of the bone
+in a small portion of the vertebrata, he appears not to
+have considered that the old term, in its wider application,
+would be used without reference to its primary
+allusion to the ploughshare, and that becoming, as it 354
+has, a purely arbitrary term, it is superior and preferable
+to any partially descriptive one.’
+Another condition which I have mentioned in Aphorism XX.,
+as valuable in technical terms is, that they
+should be susceptible of such grammatical relations as
+their scientific use requires.
+This is, in fact, one of the grounds of the Aphorism
+which we have already borrowed from Mr. Owen, that
+we are to prefer single substantives to descriptive
+phrases. For from such substantives we can derive
+adjectives, and other forms; and thus the term becomes,
+as Mr. Owen says, a better instrument of thought.
+Hence, he most consistently mentions it as a recommendation
+of his system of names, that by them the
+results of a long series of investigations into the special
+homologies of the bones of the head are expressed
+in simple and definite terms, capable of every requisite
+inflection to express the proportion of the parts.
+I may also, in reference to this same passage in Mr.
+Owen’s appeal in behalf of his terminology, repeat what
+I have said under Aphorism X.: that the persons who
+may most properly propose new scientific terms, are those
+who have much new knowledge to communicate: so
+that the vehicle is commended to general reception by
+the value of what it contains. It is only to eminent
+discoverers and profound philosophers that the authority
+is conceded of introducing a new system of terms; just
+as it is only the highest authority in the state which has
+the power of putting a new coinage into circulation.
+The long series of investigations of which the results are
+contained in Mr. Owen’s table of synonyms, and the
+philosophical spirit of his generalizations, entitles him to a
+most respectful hearing when he appeals to the Professors
+and Demonstrators of Human Anatomy for an unbiassed
+consideration of the advantages of the terms
+proposed by him, as likely to remedy the conflicting
+and unsettled synonymy which has hitherto pervaded
+the subject.
+There is another remark which is suggested by the
+works on Comparative Anatomy, which I am now considering.
+I have said in various places that Technical 355
+Terms are a necessary condition of the progress of a science.
+But we may say much more than this: and the
+remark is so important, that it deserves to be stated as
+one of our Aphorisms, as follows:
+Aphorism XXV.
+In an advanced Science, the history of the Language of
+the Science is the history of the Science itself.
+I have already stated in previous Aphorisms (VIII.
+and XI.) that Terms must be constructed so as to
+be fitted to enunciate general propositions, and that
+Terms which imply theoretical views are admissible for
+this purpose. And hence it happens that the history of
+Terms in any science which has gone through several
+speculative stages, is really the history of the
+generalizations and theories which have had currency
+among the cultivators of the science.
+This appears in Comparative Anatomy from what we
+have been saying. The recent progress of that science
+is involved in the rise and currency of the Terms which
+have been used by the anatomists whose synonyms Mr.
+Owen has to discuss; and the reasons for selecting among
+these, or inventing others, include those truths and
+generalizations which are the important recent steps of the
+science. The terms which are given by Mr. Owen in his
+table to denote the bones of the head are good terms, if
+they are good terms, because their adoption and use is
+the only complete way of expressing the truths of homology:
+namely, of that Special Homology, according to
+which all vertebrate skeletons are referred to the human
+skeleton as their type, and have their parts designated
+accordingly.
+But further: there is another kind of homology which
+Mr. Owen calls General Homology, according to which
+the primary type of a vertebrate animal is merely a series
+of vertebræ; and all limbs and other appendages are
+only developements of the parts of one or another of the
+vertebræ. And in order to express this view, and in
+proportion as the doctrine has become current amongst 356
+anatomists, the parts of vertebræ have been described by
+terms of a degree of generality which admit of such an
+interpretation. And here, also, Mr. Owen has proposed
+a terminology for the parts of the vertebræ, which
+seems to convey more systematically and comprehensively
+than those of preceding writers the truths to
+which they have been tending. Each vertebra is composed
+of a centrum, neurapophysis, parapophysis,
+pleurapophysis, hæmaphysis, neural spine and
+hæmal spine, with certain exogenous parts.
+The opinion that the head, as well as the other parts
+of the frame of vertebrates, is composed of vertebræ, is
+now generally accepted among philosophical anatomists.
+In the History (Hist. I. S. b. xvii. c. 7, sect. 1), I have
+mentioned this opinion as proposed by some writers;
+and I have stated that Oken, in 1807 published a ‘Program’
+On the signification of the bones of the Skull, in
+which he maintained, that these bones are equivalent to
+four vertebræ: while Meckel, Spix, and Geoffroy took
+views somewhat different. Cuvier and Agassiz opposed
+this doctrine, but Mr. Owen has in his Archetype and
+Homologies of the Vertebrate Skeleton (1848), accepted
+the views of Oken, and argued at length against the
+objections of Cuvier, and also those of Mr. Agassiz.
+As I have noted in the last edition of the History of
+the Inductive Sciences (b. xvii. c. 7), he gives a Table in
+which the Bones of the Head are resolved into four vertebræ,
+which he terms the Occipital, Parietal, Frontal
+and Nasal Vertebræ respectively: the neural arches of
+which agree with what Oken called the Ear-vertebra, the
+Jaw-vertebra, the Eye-vertebra, and the Nose-vertebra.
+Besides these doctrines of Special Homology by which
+the bones of all vertebrates are referred to their
+corresponding bones in the human skeleton, and of General
+Homology, by which the bones are referred to the parts
+of vertebræ which they represent, Mr. Owen treats of
+Serial Homology, the recognition of the same elements
+throughout the series of segments of the same skeleton;
+as when we shew in what manner the arms correspond
+to the legs. And thus, he says, in the head also, the
+basioccipital, basisphenoid,
+presphenoid and vomer are 357
+homotypes with the centrums of all succeeding vertebræ.
+The excoccipitals, alisphenoids, orbitosphenoids,
+and prefrontals, are homotypes with the neurapophyses
+of all the succeeding vertebræ. The paroccipitals,
+mactoids and postfrontals, with the transverse processes
+of all the succeeding vertebræ: and so on. Perhaps
+these examples may exemplify sufficiently for the general
+reader both Mr. Owen’s terminology, and the intimate
+manner in which it is connected with the widest
+generalizations to which anatomical philosophy has yet been
+led.
+The same doctrine, that the history of the Language
+of a Science is the history of the Science, appears also
+in the recent progress of Chemistry; but we shall be
+better able to illustrate our Aphorism in this case by
+putting forward previously one or two other Aphorisms
+bearing upon the history of that Science.
+Aphorism XXVI.
+In the Terminology of Science it may be necessary to
+employ letters, numbers, and algebraical symbols.
+1. Mineralogy.
+I have already said, in Aphorism XV., that
+symbols have been found requisite as a part of the
+terminology of Mineralogy. The names proposed by
+Haüy, borrowed from the crystalline laws, were so
+inadequate and unsystematic that they could not be
+retained. He himself proposed a notation for crystalline forms,
+founded upon his principle of the derivation of such forms
+from a primitive form, by decrements, on its edges
+or its angles. To denote this derivation he took
+the first letters of the three syllables to
+mark the faces of the PriMiTive form, P, M, T; the
+vowels A, E, I, O to mark the angles; the consonants
+B, C, D, &c. to mark the edges; and numerical
+exponents, annexed in various positions to these letters,
+represented the law and manner of derivation. Thus
+when the primitive form was a cube, 1B
+represented the result of a derivation by a
+decrement of one row 358
+on an edge; that is, a rhombic octahedron;
+and 1BP represented
+the combination of this octahedron with
+the primitive cube. In this way the pentagonal
+dodecahedron, produced by decrements of 2 to 1
+on half the edges of the cube, was represented by
+B² ½C G² ²G
+Not only, however, was the hypothesis of primitive
+forms and decrements untenable, but this notation
+was too unsystematic to stand long. And when Weiss
+and Mohs established the distinction of Systems of
+Crystallography66,
+they naturally founded upon that
+distinction a notation for crystalline forms. Mohs had
+several followers; but his algebraical notation so
+barbarously violated all algebraical meaning, that it was
+not likely to last. Thus, from a primitive rhombohedron
+which he designated by R, he derived, by a
+certain process, a series of other rhombohedrons, which
+he denoted by R + 1,
+R + 2,
+R − 1, &c.; and then, by
+another mode of derivation from them, he obtained
+forms which he marked as (R + 2)²,
+(R + 2)³, &c. In
+doing this he used the algebraical marks of addition
+and involution without the smallest ground; besides
+many other proposals no less transgressing mathematical
+analogy and simplicity.
+66
+Hist. Ind. Sc. b. xv. c. 4.
+But this notation might easily suggest a better. If
+we take a primitive form, we can generally, by two
+steps of derivation, each capable of numerical measure,
+obtain any possible face; and therefore any crystalline
+form bounded by such faces. Hence all that we need
+indicate in our crystalline laws is the primitive form,
+and two numerical exponents; and rejecting all
+superfluity in our symbols, instead of (R + 2)³
+we might write 2 R 3. Nearly of this kind is the notation of
+Naumann. The systems of crystallization, the octahedral
+or tessular, the rhombic, and the prismatic, are
+marked by the letters O, R, P; and from these are
+derived, by certain laws, such symbols as
+3 O ½, ∞ R 2, ½ P 2,  359
+which have their definite signification flowing from
+the rules of the notation.
+But Professor Miller, who has treated the subject
+of Crystallography in the most general and symmetrical
+manner, adopts the plan of marking each crystalline
+plane by three numerical indices. Thus in the
+Octahedral System, the cube is {100}; the octahedron
+is {111}; the rhombic dodecahedron is {011}; the
+pentagonal dodecahedron is π {012}; where π indicates
+that the form is not holohedral but hemihedral,
+only half the number of faces being taken which the
+law of derivation would give. This system is the
+most mathematically consistent, and affords the best
+means of calculation, as Professor Miller has shown;
+but there appears to be in it this defect, that though
+an essential part of the scheme is the division of
+crystalline forms into Systems,—the Octahedral,
+Pyramidal, Rhombohedral and Prismatic,—this division
+does not at all appear in the notation.
+But whatever be the notation which the crystallographer
+adopts, it is evident that he must employ
+some notation; and that, without it, he will be unable
+to express the forms and relations of forms with which
+he has to deal.
+2. Chemistry.
+The same has long been the case in Chemistry.
+As I have stated elsewhere67,
+the chemical nomenclature
+of the oxygen theory was for a time very useful
+and effective. But yet it had defects which could not
+be overlooked, as I have already stated under Aphorism II.
+The relations of elements were too numerous, and their
+numerical properties too important, to
+be expressed by terminations and other modifications
+of words. Thus the compounds of Nitrogen and
+Oxygen are the Protoxide, the Deutoxide, Nitrous
+Acid, Peroxide of Nitrogen, Nitric Acid. The systematic
+nomenclature here, even thus loosely extended,
+does not express our knowledge. And the Atomic
+Theory, when established, brought to view numerical 360
+relations which it was very important to keep in
+sight. If N represents Nitrogen and O Oxygen, the
+compounds of the two elements just mentioned might
+be denoted by N + O, N + 2O,
+N + 3O, N + 4O, N + 5O.
+And by adopting a letter for each of the elementary
+substances, all the combinations of them might be expressed in this manner.
+67
+Hist. Ind. Sc. b. xiv. c. 6.
+But in chemistry there are different orders of combination.
+A salt, for instance, is a compound of a
+base and an acid, each of which is already compound.
+If Fe be iron and C be carbon, Fe + O
+will be the protoxide of iron, and C + 2O will be carbonic acid; and
+the carbonate of iron (more properly carbonate of
+protoxide of iron), may be represented by
+(Fe + O) + (C + 2O)
+where the brackets indicate the first stage of composition.
+But these brackets and signs of addition, in complex
+cases, would cumber the page in an inconvenient degree;
+and oxygen is of such very wide occurrence, that
+it seems desirable to abridge the notation so far as it
+is concerned. Hence Berzelius
+proposed68
+that in the first stage of composition the oxygen should be expressed
+by dots over the letter; and thus the carbonate of iron
+would be Ḟe + C̈. But Berzelius
+further introduced into his notation indexes such as
+in algebra denote involution to the square, cube, &c.
+Thus Cu being copper, the sulphate of copper is represented
+by S⃛²C̈u. This notation, when first proposed,
+was strongly condemned by English chemists, and
+Berzelius’s reply to them may be taken as stating the
+reasons in favour of such notation. He
+says69, ‘We
+answer to the opponents, that undoubtedly the matter
+may be looked at in various lights. The use
+of Formulæ has always, for a person who has not
+accustomed himself to them, something repulsive; but
+this is easy to overcome. I agree with my opponent, 361
+who says that nothing can be understood in a Formula
+which cannot be expressed in words; and that if the
+words express it as easily as the Formula, the use of
+the latter would be a folly. But there are cases in
+which this is not so; in which the Formula says in a
+glance what it would take many lines to express in
+words; and in which the expression of the Formula is
+clearer and more easily apprehended by the reader
+than the longer description in words. Let us examine
+such a Formula, and compare it with the equivalent
+description in words. Take, for example, crystallized
+sulphate of copper, of which the Formula is
+C̈uS⃛² + 10H² O.
+Now this Formula expresses the following propositions:
+ ‘That the salt consists of one atom of copper-oxide
+combined with 2 atoms of sulphuric acid and with 10
+atoms of water; that the copper-oxide contains two
+atoms of oxygen; and that the sulphuric acid contains
+3 atoms of oxygen for one atom of sulphur; that its
+oxygen is three times as much as that of the oxide;
+and that the number of atoms of oxygen in the acid is
+6; and that the number of atoms of oxygen in the
+water is 10; that is, 5 times the number in the oxide;
+and that finally the salt contains, of simple atoms, 1
+copper, 2 sulphur, 20 hydrogen, and 18 oxygen.
+68
+System of Mineralogy, 1816.
+69
+Jahresbericht, 1824, p. 119.
+‘Since so much is expressed in this brief Formula,
+how very long would the explanation be for a more
+composite body, for example, Alum; for which the
+Formula is
+K̈ S⃛² + 2A⃛l S⃛³
++ 48H² O.
+It would take half a page to express all which this
+Formula contains.
+‘Perhaps it may be objected that it is seldom that
+any one wants to know all this at once. But it might
+reasonably be said in reply, that the peculiar value of
+the Formula consists in this, that it contains answers
+to all the questions which can be asked with regard
+to the composition of the body. 362
+‘But these Formulæ have also another application,
+of which I have sometimes had occasion to make use.
+Experiments sometimes bring before us combinations
+which cannot be foreseen from the nomenclature, and
+for which it is not always easy to find a consistent
+and appropriate name. In writing, the Formula may
+be applied instead of a Name: and the reader understands
+it better than if one made a new name. In
+my treatise upon the sulphuretted alkalies I found
+Degrees of Sulphur-combination, for which Nomenclature
+has no name. I expressed them, for example,
+by KS6, KS8, KS10 and I believed
+that every one understood what was thereby meant. Moreover, I found
+another class of bodies in which an electro-negative
+sulphuretted metal played the part of an Acid with
+respect to an electro-positive sulphuretted metal, for
+which a whole new nomenclature was needed; while
+yet it were not prudent to construct such a nomenclature,
+till more is known on the subject. Instead of
+new names I used formulas; for example,
+KS² + 2As S³,
+instead of saying the combination of 2 atoms of Sulphuret
+of Arsenic containing 3 atoms of Sulphur,
+with one atom of Sulphuret of Potassium (Kali) with
+the least dose of sulphur.’
+Berzelius goes on to say that the English chemists
+had found themselves unable to find any substitutes
+for his formulæ when they translated his papers.
+Our English chemists have not generally adopted
+the notation of oxygen by dots; but have employed
+commas or full stops and symbols (, or . and +), to
+denote various degrees of union, and numerical indices.
+Thus the double sulphate of copper and potash
+is Cu O, SO3 + KO, SO3.
+What has been said is applicable mainly to inorganic
+bodies (as salts and
+minerals)70.
+In these bodies there
+is (at least according to the views of many intelligent
+chemists) a binary plan of combination, union taking 363
+place between pairs of elements, and the compounds
+so produced again uniting themselves to other compound
+bodies in the same manner. Thus, in the above
+example, copper and oxygen combine into oxide of
+copper, potassium and oxygen into potash, sulphur
+and oxygen into sulphuric acid; sulphuric acid in its
+turn combines both with oxide of copper and oxide
+of potassium, generating a pair of salts which are
+capable of uniting to form the double compound
+Cu O, SO3 + KO, SO3.
+70
+Fownes’s Chemistry. Part iii.
+The most complicated products of inorganic chemistry
+may be thus shown to be built up by this
+repeated pairing on the part of their constituents.
+But with organic bodies the case is remarkably different;
+no such arrangement can here be traced. In
+sugar, which is C12 H11 O11,
+or morphia71, which is
+C35 H20 NO6, the elements are
+as it were bound together into a single whole, which can enter
+into combination with other substances, and be thence discharged
+with properties unaltered; the elements not being
+obviously arranged in any subordinate groups. Hence
+the symbols for those substances are such as I have
+given above, no marks of combination being used.
+71
+Fownes’s Chemistry, p. 354.
+It is perhaps a consequence of this peculiarity that
+organic compounds are unstable in comparison with
+inorganic. In unorganic substances generally the elements
+are combined in such a way that the most
+powerful affinities are
+satisfied72,
+and hence arises a
+state of very considerable permanence and durability.
+But in an organic substance containing three
+or four elements, there are often opposing affinities
+nearly balanced, and when one of these tendencies by
+some accident obtains a preponderance and the equilibrium
+is destroyed, then the organic body breaks up
+into two or more new bodies of simpler and more permanent constitution.
+72
+See Hist. Ind. Sc. b. xiv. c. 3.
+There is another property of many organic substances which
+is called the Law of Substitution. The 364
+Hydrogen of the organic substance may often be replaced
+by Chlorine, Bromine, Iodine, or some other
+elements, without the destruction of the primitive
+type or constitution of the compound so modified.
+And this substitution may take place by several successive
+steps, giving rise to a series of substitution-compounds,
+which depart more and more in properties
+from the original substance. This Law also gives rise
+to a special notation. Thus a certain compound called
+Dutch liquid has the elements
+C4 H4 Cl2:
+but this substance is affected by chlorine (Cl) in obedience to the
+law of substitution; one and two equivalents of hydrogen being
+successively removed by the prolonged
+action of chlorine gas aided by sunshine. The successive
+products may be thus written
+C4 H4 Cl2;
+C4 { H3Cl }  Cl2;
+C4 { H2Cl2 } Cl2.
+Perhaps at a future period, chemical symbols, and
+especially those of organic bodies, may be made more
+systematic and more significant than they at present
+are.
+Aphorism XXVII.
+In using algebraical symbols as a part of scientific
+language, violations of algebraical analogy are to be avoided,
+but may be admitted when necessary.
+As we must in scientific language conform to etymology,
+so must we to algebra; and as we are not to
+make ourselves the slaves of the former, so also, not to
+the latter. Hence we reject such crystallographical
+notation as that of Mohs; and in chemistry we use
+C2, O3 rather
+than C2, O3, which
+signify the square
+of C and the cube of O. But we may use, as we have
+said, both the comma and the sign of addition, for
+chemical combination, for the sake of brevity, though
+both steps of combination are really addition. 365
+Aphorism XXVIII.
+In a complex science, which is in a state of transition,
+capricious and detached derivations of terms are common;
+but are not satisfactory.
+In this remark I have especial reference to Chemistry;
+in which the discoveries made, especially in organic
+chemistry, and the difficulty of reducing them to a
+system, have broken up in several instances the old
+nomenclature, without its being possible at present to
+construct a new set of terms systematically connected.
+Hence it has come to pass that chemists have constructed
+words in a capricious and detached way: as
+by taking fragments of words, and the like. I shall
+give some examples of such derivations, and also of
+some attempts which have more of a systematic character.
+I have mentioned (Aph. XX.
+sect. 7) the word Ellagic
+(acid), made by inverting the word Galle. Several
+words have recently been formed by chemists by
+taking syllables from two or more different words.
+Thus Chevreul discovered a substance to which he gave
+the name Ethal, from the first syllables of the words
+ether and alcohol, because of its analogy to those liquids
+in point of composition73.
+So Liebig has the word
+chloral74.
+73
+Turner’s Chemistry, 1834, p. 955
+74
+Berzelius’ Jahresbericht, xv. p. 372.
+Liebig, examining the product of distillation of alcohol,
+sulphuric acid and amber, found a substance which
+he termed Aldehyd, from the words Alcohol
+dehydrogenated75.
+This mode of making Words has been
+strongly objected to by Mr.
+Dumas76.
+Still more has
+he objected to the word Mercaptan (of Zeise), which 366
+he says rests upon a mere play of words; for it means
+both mercurium captans and mercurio aptum.
+75
+Ibid. xvi. p. 308.
+76
+Leçons de Chimie, p. 354.
+Dumas and Peligot, working on pyroligneous acids,
+found reason to believe the existence of a
+substance77
+which they called methylene, deriving the name from
+methy, a spirituous fluid, and hyle, wood. Berzelius
+remarks that the name should rather be methyl, and
+that ὕλη may be taken in its signification of matter, to
+imply the Radical of Wine: and he proposes that the
+older Æther-Radical,
+C4 H10
+shall be called Æthyl,
+the newer,  C2 H6, Methyl.
+77
+Berzelius’ Jahresbericht, xv. (1836).
+This notion of marking by the termination yl the
+hypothetical compound radical of a series of chemical
+compounds has been generally adopted; and, as we see
+from the above reference, it must be regarded as representing
+the Greek word ὕλη: and such hypothetical
+radicals of bases have been termed in general basyls.
+Bunsen obtained from Cadet’s fuming liquid a substance
+which he called Alkarsin (alkali-arsenic?): and
+the substance produced from this by oxidation he
+called Alkargen78.
+Berzelius was of opinion, that the
+true view of its composition was that it contained a
+compound ternary radical =
+C6 H12
+As2, after the manner
+of organic bodies; and he proposed for this the
+name79 Kakodyl.
+Alkarsin is Kakodyl-oxyd, K̇d,
+Alkargen is Kakodyl-acid, K̈̇d.
+78
+Ibid. xviii. p. 497.
+79
+Ibid. xx. p. 527.
+The discovery of Kakodyl was the first instance of
+the insulation of an organic metallic
+basyl80.
+80
+Miller’s Chemistry, iii. 220.
+The first of the Hydrocarbon Radicals of the Alcohols was
+the radical of Tetrylic alcohol obtained by
+Kolbe from Valerate of Potash, and hence called Valyl
+C16 H18.
+Chloroform is perchloride of formyl,
+the hypothetical radical of formic
+acid81.
+81
+Dumas, Leçons sur la Phil. Chim. p. 356.
+367
+The discovery of such bases goes back to 1815.
+The substance formerly called Prussiate of Mercury,
+being treated in a particular manner, was resolved into
+metallic mercury and Cyanogen. This substance, Cyanogen,
+is, according to the older nomenclature, Bicarburet
+of Nitrogen; but chemists are agreed that its
+most convenient name is Cyanogen, proposed by its
+discoverer, Gay-Lussac, in
+181582.
+The importance
+of the discovery consists in this; that this substance
+was the first compound body which was distinctly
+proved to enter into combination with elementary substances
+in a manner similar to that in which they
+combine with each other.
+82
+Turner’s Chemistry (1834), p. 420. Miller’s Chemistry, ii. 66.
+The truth of our Aphorism (XXV.) that in such a
+science as chemistry, the history of the scientific nomenclature
+is the history of the science, appears from this;
+that the controversies with respect to chemical theories
+and their application take the form of objections to the
+common systematic names and proposals of new names
+instead. Thus a certain compound of potassa, sulphur,
+hydrogen, and oxygen, may be regarded either as Hydrosulphate
+of Potassa, or as Sulphide of Potassium in
+solution, according to different
+views83. In some cases
+indeed, changes are made merely for the sake of clearness.
+Instead of Hydrochloric and Hydrocyanic acid,
+many French writers, following Thenard, transpose the
+elements of these terms; they speak of Chlorhydric and
+Cyanhydric acid; by this means they avoid any ambiguity
+which might arise from the use of the prefix
+Hydro, which has sometimes been applied to compounds
+which contain water84.
+83
+Miller’s Chemistry, vol. ii. p. 583.
+84
+Ibid. ii. 433.
+An incompleteness in chemical nomenclature was
+further felt, when it appeared, from the properties of
+various substances, that mere identity in chemical
+composition is not sufficient to produce identity of
+chemical character or
+properties85.
+The doctrine of 368
+the existence of compounds identical in ultimate composition,
+but different in chemical properties, was
+termed Isomerism. Thus chemists enumerate the following
+compounds, all of which contain carbon and
+hydrogen in the proportion of single equivalents of
+each86;—Methylene,
+Olefiant gas, Propylene, Oil gas,
+Amylene, Caproylene, Naphthene, Eleene, Peramylene,
+Cetylene, Cerotylene, Melissine.
+85
+Ibid. ii. 653.
+86
+Miller’s Chemistry, ii. p. 654.
+I will, in the last place, propound an Aphorism
+which has already offered itself in considering the
+history of Chemistry87
+as having a special bearing upon
+that Science, but which may be regarded as the supreme
+and ultimate rule with regard to the language
+of Science.
+87
+Hist. Ind. Sc. b. xiv. c. 1.
+Aphorism XXIX.
+In learning the meaning of Scientific Terms, the history of
+science is our Dictionary: the steps of scientific induction are
+our Definitions.
+It is usual for unscientific readers to complain that
+the technical terms which they meet with in books of
+science are not accompanied by plain definitions such as
+they can understand. But such definitions cannot be
+given. For definitions must consist of words; and, in
+the case of scientific terms, must consist of words which
+require again to be defined: and so on, without limit.
+Elementary substances in chemistry, for instance, what
+are they? The substances into which bodies can be
+analysed, and by the junction of which they are composed.
+But what is analysis? what is composition? We
+have seen that it required long and laborious courses of
+experiment to answer these questions; and that finally
+the balance decided among rival answers. And so it
+is in other cases. In entering upon each science, we
+come upon a new set of words. And how are we to learn 369
+the meaning of this collection of words? In what other
+language shall it be explained? In what terms shall we
+define these new expressions? To this we are compelled
+to reply, that we cannot translate these terms into any
+ordinary or familiar language. Here, as in all other
+branches of knowledge, the meaning of words is to be
+sought in the progress of thought. It is only by going
+back through the successful researches of men respecting
+the composition and elements of bodies, that we can
+learn in what sense such terms can be understood, so as
+to convey real knowledge. In order that they may have
+a meaning for us, we must inquire what meaning they
+had in the minds of the authors of our discoveries. And
+the same is the case in other subjects. To take the instance
+of Morphology. When the beginner is told that
+every group of animals may be reduced to an Archetype,
+he will seek for a definition of Archetype. Such a definition
+has been offered, to this effect: the Archetype of
+a group of animals is a diagram embodying all the organs
+and parts which are found in the group in such a relative
+position as they would have had if none had attained
+an excessive development. But, then, we are led
+further to ask, How are we in each case to become
+acquainted with the diagram; to know of what parts it
+consists, and how they are related; and further;
+What is the standard of excess? It is by a wide
+examination of particular species, and by several successive
+generalizations of observed facts, that we are led
+to a diagram of an animal form of a certain kind, (for
+example, a vertebrate;) and of the various ways,
+excessive and defective, in which the parts may be developed.
+This craving for definitions, as we have already said,
+arises in a great degree from the acquaintance with geometry
+which most persons acquire at an early age.
+The definitions of geometry are easily intelligible by a
+beginner, because the idea of space, of which they are
+modifications, is clearly possessed without any special
+culture. But this is not and cannot be the case in other
+sciences founded upon a wide and exact observation of
+facts. 370
+It was formerly said that there was no Royal Road
+to Geometry: in modern times we have occasion often
+to repeat that there is no Popular Road—no road easy,
+pleasant, offering no difficulty and demanding no toil,—to
+Comparative Anatomy, Chemistry or any other of
+the Inductive Sciences.
+THE END.
+CAMBRIDGE: PRINTED BY C. J. CLAY, M.A. AT THE UNIVERSITY PRESS.
+Transcriber’s Notes
+Whewell published the
+first edition of the Philosophy of the Inductive Sciences in
+1840 in two volumes, as a companion to the 1837 History of the
+Inductive Sciences. Revised second editions of both works
+appeared in 1847. The third editions saw a major reshaping of the
+Philosophy: a two volume History of Scientific Ideas
+(1858 – in Project Gutenberg as #69093), Novum Organon
+Renovatum (1858 – the present text, relying upon resources
+kindly provided by the Internet Archive), and On the Philosophy
+of Discovery: chapters historical and critical (1860 –
+long since in Project Gutenberg’s collection: #5155). (The third
+edition of the History of the Inductive Sciences is available in PG as #68693.)
+Adaptations in this text
+In the present text footnotes are numbered by Book and are placed
+after the paragraph to which they attach; in the original, notes
+were numbered by chapter. Page numbers appear in colour; where a
+word was hyphenated across pages the number has been placed before
+the word. Fractions have been transcribed as numerator ⁄  denominator;
+the original usually has numerator over a line with denominator
+below.
+Some unusual symbols occur. On pages 357 and 358, there are
+italic letters with a number written above them. On two occasions
+B  has a 1 above it, and once C has ½ above it. On page 364
+a formula is written with two entries containing H on a line above
+Cl. These superpositions have all been transcribed by superscripting the first
+and subscripting the second item (with the result that the letters are printed
+smaller than in the original). The other oddities have been captured in Unicode.
+On pages 152 and 197  Whewell uses
+a raised dot as a decimal point and in
+footnote 26 of Book III. a comma. These have been replaced by a mid
+dot.
+Inductive Charts
+At the end of Book II. (p. 140), Whewell included two very large inserts,
+described in some detail in the Book itself. They were not captured by the scans
+available in the Internet Archive. I was kindly provided with photographs of them.
+Those charts were four times as wide as the normal page and a quarter as long.
+In the html version they have been fairly accurately represented via tables;
+but with up to 25 columns these tables will be very difficult to decipher on
+small screens. In the text version, coded structure diagrams have been used,
+which again utilise the full 70 spaces Project Gutenberg allows.
+Corrections
+Corrections are comparatively few. Apart from the silent ones,
+they have been marked by dotted red underline, on mouse-over
+revealing the nature of the change. Given the various editions, some
+of the internal cross-references turn out to be obsolete or
+erroneous:  note 11 in Book III.
+The text reads B. viii. c. iii. but it refers actually to Book viii.
+c. ii. article 3 in earlier editions and in the History of Scientific Ideas, cf. Aphorism
+88 in Book I. of the present volume. Compare also Aphorism 19 in this volume’s Book IV.  notes 58 and 59 in Book III. refer to Book v.
+c. i. For the present third edition they should have been aimed at
+that chapter of the History of Scientific Ideas.
+ On page 252 we are told that the Work is about to conclude, as
+the first edition did in a way (all the aphorisms were gathered
+after Book XIII. [= our Book III.], followed by various appendices).
+But we have Book IV. yet to come, plus some extra illustrations
+regarding language and symbols in science.
+(I might add that I have not checked the many references to Whewell’s
+other related works. The errors here suggest one might need to take
+them with a pinch of salt, and help from the browser’s search function.)
+ There
+are some inconsistencies, notably in spelling, which have in
+general not been adjusted; nor have Whewell’s unbalanced quotation
+marks and positioning of footnote anchors been modernized.
+</div></body></text></TEI>

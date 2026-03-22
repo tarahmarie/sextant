@@ -1,0 +1,870 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="23">CHAPTER III.
+Sequel to Copernicus.—The Reception and
+Development of the Copernican Theory.
+
+Sect. 1.—First Reception of the
+Copernican Theory.
+THE theories of Copernicus
+made their way among astronomers, in the manner in which true
+astronomical theories always obtain the assent of competent judges.
+They led to the construction of Tables of the motion of the sun, moon,
+and planets, as the theories of Hipparchus and Ptolemy had done; and
+the verification of the doctrines was to be looked for, from the
+agreement of these Tables with observation, through a sufficient
+course of time. The work De Revolutionibus contains such
+Tables. In 1551 Reinhold improved and republished Tables founded on
+the principles of Copernicus. “We owe,” he says in his preface, “great
+obligations to Copernicus, both for his laborious 270 observations, and for
+restoring the doctrine of the Motions. But though his geometry is
+perfect, the good old man appears to have been, at times, careless in
+his numerical calculations. I have, therefore, recalculated the whole,
+from a comparison of his observations with those of Ptolemy and
+others, following nothing but the general plan of Copernicus’s
+demonstrations.” These “Prutenic Tables” were republished in 1571 and
+1585, and continued in repute for some time; till superseded by the
+Rudolphine Tables of Kepler in 1627. The name Prutenic, or
+Prussian, was employed by the author as a mark of gratitude to his
+benefactor Albert, Markgrave of Brandenbourg. The discoveries of
+Copernicus had inspired neighboring nations with the ambition of
+claiming a place in the literary community of Europe. In something of
+the same spirit, Rheticus wrote an Encomium Borussiæ, which was
+published along with his Narratio.
+The Tables founded upon the Copernican system were, at first, much
+more generally adopted than the heliocentric doctrine on which they
+were founded. Thus Magini published at Venice, in 1587, New
+Theories of the Celestial Orbits, agreeing with the Observations of
+Nicholas Copernicus. But in the preface, after praising
+Copernicus, he says, “Since, however, he, either for the sake of
+showing his talents, or induced by his own reasons, has revived the
+opinion of Nicetas, Aristarchus, and others, concerning the motion of
+the earth, and has disturbed the established constitution of the
+world, which was a reason why many rejected, or received with dislike,
+his hypothesis, I have thought it worth while, that, rejecting the
+suppositions of Copernicus, I should accommodate other causes to his
+observations, and to the Prutenic Tables.”
+This doctrine, however, was, as we have shown, received with favor
+by many persons, even before its general publication. The doctrine of
+the motion of the earth was first publicly maintained at Rome by
+Widmanstadt,16 who professed to have received it from
+Copernicus, and explained the System before the Pope and the
+Cardinals, but did not teach it to the public.
+16  See Venturi, Essai sur les
+Ouvrages Physico-Mathématiques de Leonard da Vinci, avec des Fragmens
+tirés de ses Manuscrits apportés d’Italie. Paris, 1797; and, as
+there quoted, Marini Archiatri Pontificii, tom. ii. p.
+251.
+Leonardo da Vinci, who was an eminent mathematician, as well as
+painter, about 1510, explained how a body, by describing a kind of
+spiral, might descend towards a revolving globe, so that its apparent
+motion relative to a point in the surface of the globe, might be in a
+271 straight line
+leading to the centre. He thus showed that he had entertained in his
+thoughts the hypothesis of the earth’s rotation, and was employed in
+removing the difficulties which accompanied this supposition, by means
+of the consideration of the composition of motions.
+In like manner we find the question stirred by other eminent men.
+Thus John Muller of Konigsberg, a celebrated astronomer who died in
+1476, better known by the name of Regiomontanus, wrote a dissertation
+on the subject “Whether the earth be in motion or at rest,” in which
+he decides ex professo17 against the
+motion. Yet such discussions must have made generally known the
+arguments for the heliocentric theory.
+17 Schoneri Opera, part ii. p.
+129.
+We have already seen the enthusiasm with which Rheticus, who was
+Copernicus’s pupil in the latter years of his life, speaks of him.
+“Thus,” says he, “God has given to my excellent preceptor a reign
+without end; which may He vouchsafe to guide, govern, and increase, to
+the restoration of astronomical truth. Amen.”
+Of the immediate converts of the Copernican system, who adopted it
+before the controversy on the subject had attracted attention, I shall
+only add Mæstlin, and his pupil, Kepler. Mæstlin
+published in 1588 an Epitome Astronomiæ, in which the
+immobility of the earth is asserted; but in 1596 he edited Kepler’s
+Mysterium Cosmographicum, and the Narratio of Rheticus:
+and in an epistle of his own, which he inserts, he defends the
+Copernican system by those physical reasonings which we shall shortly
+have to mention, as the usual arguments in this dispute. Kepler
+himself, in the outset of the work just named, says, “When I was at
+Tübingen, attending to Michael Mæstlin, being disturbed by the
+manifold inconveniences of the usual opinion concerning the world, I
+was so delighted with Copernicus, of whom he made great mention in his
+lectures, that I not only defended his opinions in our disputations of
+the candidates, but wrote a thesis concerning the First Motion which
+is produced by the revolution of the earth.” This must have been in
+1590.
+The differences of opinion respecting the Copernican system, of
+which we thus see traces, led to a controversy of some length and
+extent. This controversy turned principally upon physical
+considerations, which were much more distinctly dealt with by Kepler,
+and others of the followers of Copernicus, than they had been by the
+272 discoverer
+himself. I shall, therefore, give a separate consideration to this
+part of the subject. It may be proper, however, in the first place, to
+make a few observations on the progress of the doctrine, independently
+of these physical speculations.
+Sect. 2.—Diffusion of the Copernican
+Theory.
+The diffusion of the Copernican opinions in
+the world did not take place rapidly at first. Indeed, it was
+necessarily some time before the progress of observation and of
+theoretical mechanics gave the heliocentric doctrine that superiority
+in argument, which now makes us wonder that men should have hesitated
+when it was presented to them. Yet there were some speculators of this
+kind, who were attracted at once by the enlarged views of the universe
+which it opened to them. Among these was the unfortunate Giordano
+Bruno of Nola, who was burnt as a heretic at Rome in 1600. The
+heresies which led to his unhappy fate were, however, not his
+astronomical opinions, but a work which he published in England, and
+dedicated to Sir Philip Sydney, under the title of Spaccio della
+Bestia Trionfante, and which is understood to contain a bitter
+satire of religion and the papal government. Montucla conceives that,
+by his rashness in visiting Italy after putting forth such a work, he
+compelled the government to act against him. Bruno embraced the
+Copernican opinions at an early period, and connected with them the
+belief in innumerable worlds besides that which we inhabit; as also
+certain metaphysical or theological doctrines which he called the
+Nolan philosophy. In 1591 he published De innumerabilibus, immenso,
+et infigurabili, seu de Universo et Mundis, in which he maintains
+that each star is a sun, about which revolve planets like our earth;
+but this opinion is mixed up with a large mass of baseless verbal
+speculations.
+Giordano Bruno is a disciple of Copernicus on whom we may look with
+peculiar interest, since he probably had a considerable share in
+introducing the new opinions into England;18 although other
+persons, as Recorde, Field, Dee, had adopted it nearly thirty years
+earlier; and Thomas Digges ten years before, much more expressly.
+Bruno visited this country in the reign of Queen Elizabeth, and speaks
+of her and of her councillors in terms of praise, which appear to show
+that 273 his book
+was intended for English readers; though he describes the mob which
+was usually to be met with in the streets of London with expressions
+of great disgust: “Una plebe la quale in essere irrespettevole,
+incivile, rozza, rustica, selvatica, et male allevata, non cede ad
+altra che pascer possa la terra nel suo seno.”19 The work to
+which I refer is La Cena de le Cenere, and narrates what took
+place at a supper held on the evening of Ash Wednesday (about 1583,
+see p. 145 of the book), at the house of Sir Fulk Greville, in order
+to give “Il Nolano” an opportunity of defending his peculiar opinions.
+His principal antagonists are two “Dottori d’ Oxonia,” whom Bruno
+calls Nundinio and Torquato. The subject is not treated in any very
+masterly manner on either side; but the author makes himself have
+greatly the advantage not only in argument, but in temper and
+courtesy: and in support of his representations of “pedantesca,
+ostinatissima ignoranza et presunzione, mista con una rustica
+incivilità, che farebbe prevaricar la pazienza di Giobbe,” in his
+opponents, he refers to a public disputation which he had held at
+Oxford with these doctors of theology, in presence of Prince Alasco,
+and many of the English nobility.20  ~Additional
+material in the 3rd edition.~
+18 See Burton’s Anat. Mel.
+Pref. “Some prodigious tenet or paradox of the earth’s motion,”
+&c. “Bruno,” &c.
+19 Opere di Giordano Bruno,
+vol. i. p. 146.
+20 Ib. vol. i. p. 179.
+Among the evidences of the difficulties which still lay in the way
+of the reception of the Copernican system, we may notice Bacon, who,
+as is well known, never gave a full assent to it. It is to be
+observed, however, that he does not reject the opinion of the earth’s
+motion in so peremptory and dogmatical a manner as he is sometimes
+accused of doing: thus in the Thema Cœli he says, “The earth,
+then, being supposed to be at rest (for that now appears to us the
+more true opinion).” And in his tract On the Cause of the
+Tides, he says, “If the tide of the sea be the extreme and
+diminished limit of the diurnal motion of the heavens, it will follow
+that the earth is immovable; or at least that it moves with a much
+slower motion than the water.” In the Descriptio Globi
+Intellectualis he gives his reasons for not accepting the
+heliocentric theory. “In the system of Copernicus there are many and
+grave difficulties: for the threefold motion with which he encumbers
+the earth is a serious inconvenience; and the separation of the sun
+from the planets, with which he has so many affections in common, is
+likewise a harsh step; and the introduction of so many immovable
+bodies into nature, as when he makes the sun and the stars immovable,
+the bodies which are peculiarly lucid and radiant; and his making the
+moon adhere to the earth in a sort of epicycle; and some 274 other things which he
+assumes, are proceedings which mark a man who thinks nothing of
+introducing fictions of any kind into nature, provided his
+calculations turn out well.” We have already explained that, in
+attributing three motions to the earth, Copernicus had
+presented his system encumbered with a complexity not really belonging
+to it. But it will be seen shortly, that Bacon’s fundamental objection
+to this system was his wish for a system which could be supported by
+sound physical considerations; and it must be allowed, that at the
+period of which we are speaking, this had not yet been done in favor
+of the Copernican hypothesis. We may add, however, that it is not
+quite clear that Bacon was in full possession of the details of the
+astronomical systems which that of Copernicus was intended to
+supersede; and that thus he, perhaps, did not see how much less harsh
+were these fictions, as he called them, than those which were the
+inevitable alternatives. Perhaps he might even be liable to a little
+of that indistinctness, with respect to strictly geometrical
+conceptions, which we have remarked in Aristotle. We can hardly
+otherwise account for his not seeing any use in resolving the
+apparently irregular motion of a planet into separate regular motions.
+Yet he speaks slightingly of this important step.21 “The motion of
+planets, which is constantly talked of as the motion of regression, or
+renitency, from west to east, and which is ascribed to the planets as
+a proper motion, is not true; but only arises from appearance, from
+the greater advance of the starry heavens towards the west, by which
+the planets are left behind to the east.” Undoubtedly those who spoke
+of such a motion of regression were aware of this; but they saw
+how the motion was simplified by this way of conceiving it, which
+Bacon seems not to have seen. Though, therefore, we may admire Bacon
+for the steadfastness with which he looked forward to physical
+astronomy as the great and proper object of philosophical interest, we
+cannot give him credit for seeing the full value and meaning of what
+had been done, up to his time, in Formal Astronomy.
+21 Thema Cœli, p. 246.
+Bacon’s contemporary, Gilbert, whom he frequently praises as a
+philosopher, was much more disposed to adopt the Copernican opinions,
+though even he does not appear to have made up his mind to assent to
+the whole of the system. In his work. De Magnete (printed
+1600), he gives the principal arguments in favor of the Copernican
+system, and decides that the earth revolves on its axis.22 He connects 275 this opinion with his magnetic
+doctrines; and especially endeavors by that means to account for the
+precession of the equinoxes. But he does not seem to have been equally
+confident of its annual motion. In a posthumous work, published in
+1661 (De Mundo Nostra Sublunari Philosophia Nova) he appears to
+hesitate between the systems of Tycho and Copernicus.23 Indeed, it is probable that at this
+period many persons were in a state of doubt on such subjects. Milton,
+at a period somewhat later, appears to have been still undecided. In
+the opening of the eighth book of the Paradise Lost, he makes
+Adam state the difficulties of the Ptolemaic hypothesis, to which the
+archangel Raphael opposes the usual answers; but afterwards suggests
+to his pupil the newer system:
+
+
+.  .  . .  What if seventh to
+these
+The planet earth, so steadfast though she
+seem,
+Insensibly three different motions move?
+Par. Lost, b.
+viii.   
+22 Lib. vi. cap. 3, 4.
+23 Lib. ii. cap. 20.
+Milton’s leaning, however, seems to have been for the new system;
+we can hardly believe that he would otherwise have conceived so
+distinctly, and described with such obvious pleasure, the motion of
+the earth:
+
+
+Or she from west her silent course advance
+With inoffensive pace, that spinning
+sleeps
+On her soft axle, while she paces even,
+And bears thee soft with the smooth air
+along.
+Par. Lost, b.
+viii.   
+Perhaps the works of the celebrated Bishop Wilkins tended more than
+any others to the diffusion of the Copernican system in England, since
+even their extravagances drew a stronger attention to them. In 1638,
+when he was only twenty-four years old, he published a book entitled
+The Discovery of a New World; or a Discourse tending to prove that
+it is probable there may be another habitable World in the Moon; with
+a Discourse concerning the possibility of a passage thither. The
+latter part of his subject was, of course, an obvious mark for the
+sneers and witticisms of critics. Two years afterwards, in 1640,
+appeared his Discourse concerning a new Planet; tending to prove
+that it is probable our Earth is one of the Planets: in which he
+urged the reasons in favor of the heliocentric system; and explained
+away the opposite arguments, especially those drawn from the 276 supposed declarations
+of Scripture. Probably a good deal was done for the establishment of
+those opinions by Thomas Salusbury, who was a warm admirer of Galileo,
+and published, in 1661, a translation of several of his works bearing
+upon this subject. The mathematicians of this country, in the
+seventeenth century, as Napier and Briggs, Horrox and Crabtree,
+Oughtred and Seth Ward, Wallis and Wren, were probably all decided
+Copernicans. Kepler dedicates one of his works to Napier, and Ward
+invented an approximate method of solving Kepler’s problem, still
+known as “the simple elliptical hypothesis.” Horrox wrote, and wrote
+well, in defence of the Copernican opinion, in his Keplerian
+Astronomy defended and promoted, composed (in Latin) probably
+about 1635, but not published till 1673, the author having died at the
+age of twenty-two, and his papers having been lost. But Salusbury’s
+work was calculated for another circle of readers. “The book,” he says
+in the introductory address, “being, for subject and design, intended
+chiefly for gentlemen, I have been as careless of using a studied
+pedantry in my style, as careful in contriving a pleasant and
+beautiful impression.” In order, however, to judge of the advantage
+under which the Copernican system now came forward, we must consider
+the additional evidence for it which was brought to light by Galileo’s
+astronomical discoveries.
+Sect. 3.—The Heliocentric Theory confirmed by
+Facts.—Galileo’s Astronomical Discoveries.
+The long interval which elapsed between the
+last great discoveries made by the ancients and the first made by the
+moderns, had afforded ample time for the development of all the
+important consequences of the ancient doctrines. But when the human
+mind had been thoroughly roused again into activity, this was no
+longer the course of events. Discoveries crowded on each other; one
+wide field of speculation was only just opened, when a richer promise
+tempted the laborers away into another quarter. Hence the history of
+this period contains the beginnings of many sciences, but exhibits
+none fully worked out into a complete or final form. Thus the science
+of Statics, soon after its revival, was eclipsed and overlaid by that
+of Dynamics; and the Copernican system, considered merely with
+reference to the views of its author, was absorbed in the commanding
+interest of Physical Astronomy.
+Still, advances were made which had an important bearing on the
+277 heliocentric
+theory, in other ways than by throwing light upon its physical
+principles. I speak of the new views of the heavens which the
+Telescope gave; the visible inequalities of the moon’s surface; the
+moon-like phases of the planet Venus; the discovery of the Satellites
+of Jupiter, and of the Ring of Saturn. These discoveries excited at
+the time the strongest interest; both from the novelty and beauty of
+the objects they presented to the sense; from the way in which they
+seemed to gratify man’s curiosity with regard to the remote parts of
+the universe; and also from that of which we have here to speak, their
+bearing upon the conflict of the old and the new philosophy, the
+heliocentric and geocentric theories. It may be true, as Lagrange and
+Montucla say, that the laws which Galileo discovered in Mechanics
+implied a profounder genius than the novelties he detected in the sky:
+but the latter naturally attracted the greater share of the attention
+of the world, and were matter of keener discussion.
+It is not to our purpose to speak here of the details and of the
+occasion of the invention of the Telescope; it is well known that
+Galileo constructed his about 1609, and proceeded immediately to apply
+it to the heavens. The discovery of the Satellites of Jupiter was
+almost immediately the reward of his activity; and these were
+announced in his Nuncius Sidereus, published at Venice in 1610.
+The title of this work will best convey an idea of the claim it made
+to public notice: “The Sidereal Messenger, announcing great and
+very wonderful spectacles, and offering them to the consideration of
+every one, but especially of philosophers and astronomers; which have
+been observed by Galileo Galilei, &c. &c., by the
+assistance of a perspective glass lately invented by him; namely, in
+the face of the moon, in innumerable fixed stars in the milky-way, in
+nebulous stars, but especially in four planets which revolve round
+Jupiter at different intervals and periods with a wonderful celerity;
+which, hitherto not known to any one, the author has recently been the
+first to detect, and has decreed to call the Medicean
+stars.”
+The interest this discovery excited was intense: and men were at
+this period so little habituated to accommodate their convictions on
+matters of science to newly observed facts, that several of the
+“paper-philosophers,” as Galileo termed them, appear to have thought
+they could get rid of these new objects by writing books against them.
+The effect which the discovery had upon the reception of the
+Copernican system was immediately very considerable. It showed that
+the real universe was very different from that which ancient
+philosophers had imagined, 278 and suggested at once the thought that
+it contained mechanism more various and more vast than had yet been
+conjectured. And when the system of the planet Jupiter thus offered to
+the bodily eye a model or image of the solar system according to the
+views of Copernicus, it supported the belief of such an arrangement of
+the planets, by an analogy all but irresistible. It thus, as a
+writer24 of our own times has said, “gave the
+holding turn to the opinions of mankind respecting the
+Copernican system.” We may trace this effect in Bacon, even though he
+does not assent to the motion of the earth. “We affirm,” he says,25 “the sun-following arrangement
+(solisequium) of Venus and Mercury; since it has been found by Galileo
+that Jupiter also has attendants.”
+24 Sir J. Herschel.
+25 Thema Cœli, ix. p.
+253.
+The Nuncius Sidereus contained other discoveries which had
+the same tendency in other ways. The examination of the moon showed,
+or at least seemed to show, that she was a solid body, with a surface
+extremely rugged and irregular. This, though perhaps not bearing
+directly upon the question of the heliocentric theory, was yet a blow
+to the Aristotelians, who had, in their philosophy, made the moon a
+body of a kind altogether different from this, and had given an
+abundant quantity of reasons for the visible marks on her surface, all
+proceeding on these preconceived views. Others of his discoveries
+produced the same effect; for instance, the new stars invisible to the
+naked eye, and those extraordinary appearances called Nebulæ.
+But before the end of the year, Galileo had new information to
+communicate, bearing more decidedly on the Copernican controversy.
+This intelligence was indeed decisive with regard to the motion of
+Venus about the sun; for he found that that planet, in the course of
+her revolution, assumes the same succession of phases which the moon
+exhibits in the course of a month. This he expressed by a Latin
+verse:
+
+
+Cynthiæ figuras æmulatur mater amorum:
+The Queen of Love like Cynthia shapes her
+forms:
+
+transposing the letters of this line in the published
+account, according to the practice of the age; which thus showed the
+ancient love for combining verbal puzzles with scientific discoveries,
+while it betrayed the newer feeling, of jealousy respecting the
+priority of discovery of physical facts.
+It had always been a formidable objection to the Copernican theory
+that this appearance of the planets had not been observed. The author
+279 of that theory
+had endeavored to account for this, by supposing that the rays of the
+sun passed freely through the body of the planet; and Galileo takes
+occasion to praise him for not being deterred from adopting the system
+which, on the whole, appeared to agree best with the phenomena, by
+meeting with some appearances which it did not enable him to
+explain.26 Yet while the fate of the theory was
+yet undecided, this could not but be looked upon as a weak point in
+its defences.
+26 Drinkwater-Bethune, Life of
+Galileo, p. 35.
+The objection, in another form also, was embarrassing alike to the
+Ptolemaic and Copernican systems. Why, it was asked, did not Venus
+appear four times as large when nearest to the earth, as when furthest
+from it? The author of the Epistle prefixed to Copernicus’s work had
+taken refuge in this argument from the danger of being supposed to
+believe in the reality of the system; and Bruno had attempted to
+answer it by saying, that luminous bodies were not governed by the
+same laws of perspective as opake ones. But a more satisfactory answer
+now readily offered itself. Venus does not appear four times as large
+when she is four times as near, because her bright part is
+not four times as large, though her visible diameter is; and
+as she is too small for us to see her shape with the naked eye, we
+judge of her size only by the quantity of light.
+The other great discoveries made in the heavens by means of
+telescopes, as that of Saturn’s ring and his satellites, the spots in
+the sun, and others, belong to the further progress of astronomy. But
+we may here observe, that this doctrine of the motion of Mercury and
+Venus about the sun was further confirmed by Kepler’s observation of
+the transit of the former planet over the sun in 1631. Our countryman
+Horrox was the first person who, in 1639, had the satisfaction of
+seeing a transit of Venus.
+These events are a remarkable instance of the way in which a
+discovery in art (for at this period, the making of telescopes must be
+mainly so considered) may influence the progress of science. We shall
+soon have to notice a still more remarkable example of the way in
+which two sciences (Astronomy and Mechanics) may influence and promote
+the progress of each other. 280
+Sect. 4.—The Copernican System opposed on
+Theological Grounds.
+The doctrine of the Earth’s motion round
+the Sun, when it was asserted and promulgated by Copernicus, soon
+after 1500, excited no visible alarm among the theologians of his own
+time. Indeed, it was received with favor by the most intelligent
+ecclesiastics; and lectures in support of the heliocentric doctrine
+were delivered in the ecclesiastical colleges. But the assertion and
+confirmation of this doctrine by Galileo, about a century later,
+excited a storm of controversy, and was visited with severe
+condemnation. Galileo’s own behavior appears to have provoked the
+interference of the ecclesiastical authorities; but there must have
+been a great change in the temper of the times to make it possible for
+his adversaries to bring down the sentence of the Inquisition upon
+opinions which had been so long current without giving any serious
+offence.
+[2d Ed.] [It appears to me that the different degree of toleration
+accorded to the heliocentric theory in the time of Copernicus and of
+Galileo, must be ascribed in a great measure to the controversies and
+alarms which had in the mean time arisen out of the Reformation in
+religion, and which had rendered the Romish Church more jealous of
+innovations in received opinions than it had previously been. It
+appears too that the discussion of such novel doctrines was, at that
+time at least, less freely tolerated in Italy than in other countries.
+In 1597, Kepler writes to Galileo thus: “Confide Galilæe et
+progredere. Si bene conjecto, pauci de præcipuis Europæ Mathematicis a
+nobis secedere volent; tanta vis est veritatis. Si tibi Italia minus
+est idonea ad publicationem et si aliqua habitures es impedimenta,
+forsan Germania nobis hanc libertatem concedet.”—Venturi,
+Mem. di Galileo, vol. i. p. 19.
+I would not however be understood to assert the condemnation of new
+doctrines in science to be either a general or a characteristic
+practice of the Romish Church. Certainly the intelligent and
+cultivated minds of Italy, and many of the most eminent of her
+ecclesiastics among them, have always been the foremost in promoting
+and welcoming the progress of science: and, as I have stated, there
+were found among the Italian ecclesiastics of Galileo’s time many of
+the earliest and most enlightened adherents of the Copernican system.
+The condemnation of the doctrine of the earth’s motion, is, so far as
+I am aware, the only instance in which the Papal authority has
+pronounced a decree upon a point of science. And the most candid of
+the 281 adherents
+of the Romish Church condemn the assumption of authority in such
+matters, which in this one instance, at least, was made by the
+ecclesiastical tribunals. The author of the Ages of Faith (book
+viii. p. 248) says, “A congregation, it is to be lamented, declared
+the new system to be opposed to Scripture, and therefore heretical.”
+In more recent times, as I have elsewhere remarked,27 the Church of Authority and the Church
+of Private Judgment have each its peculiar temptations and dangers,
+when there appears to be a discrepance between Scripture and
+Philosophy.
+27 Phil. Ind. Sci. book x.
+chap. 4.
+But though we may acquit the popes and cardinals in Galileo’s time
+of stupidity and perverseness in rejecting manifest scientific truths,
+I do not see how we can acquit them of dissimulation and duplicity.
+Those persons appear to me to defend in a very strange manner the
+conduct of the ecclesiastical authorities of that period, who boast of
+the liberality with which Copernican professors were placed by them in
+important offices, at the very time when the motion of the earth had
+been declared by the same authorities contrary to Scripture. Such
+merits cannot make us approve of their conduct in demanding from
+Galileo a public recantation of the system which they thus favored in
+other ways, and which they had repeatedly told Galileo he might hold
+as much as he pleased. Nor can any one, reading the plain language of
+the Sentence passed upon Galileo, and of the Abjuration forced from
+him, find any value in the plea which has been urged, that the opinion
+was denominated a heresy only in a wide, improper, and
+technical sense.
+But if we are thus unable to excuse the conduct of Galileo’s
+judges, I do not see how we can give our unconditional admiration to
+the philosopher himself. Perhaps the conventional decorum which, as we
+have seen, was required in treating of the Copernican system, may
+excuse or explain the furtive mode of insinuating his doctrines which
+he often employs, and which some of his historians admire as subtle
+irony, while others blame it as insincerity. But I do not see with
+what propriety Galileo can be looked upon as a “Martyr of Science.”
+Undoubtedly he was very desirous of promoting what he conceived to be
+the cause of philosophical truth; but it would seem that, while he was
+restless and eager in urging his opinions, he was always ready to make
+such submissions as the spiritual tribunals required. He would really
+have acted as a martyr, if he had uttered 282 his “E pur si muove,” in the place of
+his abjuration, not after it. But even in this case he would have been
+a martyr to a cause of which the merit was of a mingled scientific
+character; for his own special and favorite share in the reasonings by
+which the Copernican system was supported, was the argument drawn from
+the flux and reflux of the sea, which argument is altogether false. He
+considered this as supplying a mechanical ground of belief, without
+which the mere astronomical reasons were quite insufficient; but in
+this case he was deserted by the mechanical sagacity which appeared in
+his other speculations.]
+The heliocentric doctrine had for a century been making its way
+into the minds of thoughtful men, on the general ground of its
+simplicity and symmetry. Galileo appears to have thought that now,
+when these original recommendations of the system had been reinforced
+by his own discoveries and reasonings, it ought to be universally
+acknowledged as a truth and a reality. And when arguments against the
+fixity of the sun and the motion of the earth were adduced from the
+expressions of Scripture, he could not be satisfied without
+maintaining his favorite opinion to be conformable to Scripture as
+well as to Philosophy; and he was very eager in his attempts to obtain
+from authority a declaration to this effect. The ecclesiastical
+authorities were naturally averse to express themselves in favor of a
+novel opinion, startling to the common mind, and contrary to the most
+obvious meaning of the words of the Bible; and when they were
+compelled to pronounce, they decided against Galileo and his
+doctrines. He was accused before the Inquisition in 1615; but at that
+period the result was that he was merely recommended to confine
+himself to the mathematical reasonings upon the system, and to abstain
+from meddling with the Scripture. Galileo’s zeal for his opinions soon
+led him again to bring the question under the notice of the Pope, and
+the result was a declaration of the Inquisition that the doctrine of
+the earth’s motion appeared to be contrary to the Sacred Scripture.
+Galileo was prohibited from defending and teaching this doctrine in
+any manner, and promised obedience to this injunction. But in 1632 he
+published his “Dialogo delli due Massimi Sistemi del Mondo,
+Tolemaico e Copernicano:” and in this he defended the heliocentric
+system by all the strongest arguments which its admirers used. Not
+only so, but he introduced into this Dialogue a character under
+the name of Simplicius, in whose mouth was put the defence of all the
+ancient dogmas, and who was represented as defeated at all points in
+the discussion; 283
+and he prefixed to the Dialogue a Notice, To the Discreet
+Reader, in which, in a vein of transparent irony, he assigned his
+reasons for the publication. “Some years ago,” he says, “a wholesome
+edict was promulgated at Rome, which, in order to check the perilous
+scandals of the present age, imposed silence upon the Pythagorean
+opinion of the motion of the earth. There were not wanting,” he adds,
+“persons who rashly asserted that this decree was the result, not of a
+judicious inquiry, but of a passion ill-informed; and complaints were
+heard that counsellors, utterly unacquainted with astronomical
+observations, ought not to be allowed, with their undue prohibitions,
+to clip the wings of speculative intellects. At the hearing of rash
+lamentations like these, my zeal could not keep silence.” And he then
+goes on to say that he wishes, by the publication of his
+Dialogue to show that the subject had been fully examined at
+Rome. The result of this was that Galileo was condemned for his
+infraction of the injunction laid upon him in 1616; his
+Dialogue was prohibited; he himself was commanded to abjure on
+his knees the doctrine which he had taught; and this abjuration he
+performed.
+This celebrated event must be looked upon rather as a question of
+decorum than a struggle in which the interests of truth and free
+inquiry were deeply concerned. The general acceptance of the
+Copernican System was no longer a matter of doubt. Several persons in
+the highest positions, including the Pope himself, looked upon the
+doctrine with favorable eyes; and had shown their interest in Galileo
+and his discoveries. They had tried to prevent his involving himself
+in trouble by discussing the question on scriptural grounds. It is
+probable that his knowledge of those favorable dispositions towards
+himself and his opinions led him to suppose that the slightest color
+of professed submission to the Church in his belief, would enable his
+arguments in favor of the system to pass unvisited: the notice which I
+have quoted, in which the irony is quite transparent and the sarcasm
+glaringly obvious, was deemed too flimsy a veil for the purpose of
+decency, and indeed must have aggravated the offence. But it is not to
+be supposed that the inquisitors believed Galileo’s abjuration to be
+sincere, or even that they wished it to be so. It is stated that when
+Galileo had made his renunciation of the earth’s motion, he rose from
+his knees, and stamping on the earth with his foot, said, E pur si
+muove—“And yet it does move.” This is sometimes
+represented as the heroic soliloquy of a mind cherishing its
+conviction of the truth in spite of persecution; I think we may more
+naturally conceive it uttered as a playful 284 epigram in the ear of a cardinal’s
+secretary, with a full knowledge that it would be immediately repeated
+to his master.
+[2d Ed.] [Throughout the course of the proceedings against him,
+Galileo was treated with great courtesy and indulgence. He was
+condemned to a formal imprisonment and a very light discipline. “Te
+damnamus ad formalem carcerem hujus S. Officii ad tempus arbitrio
+nostro limitandum; et titulo pœnitentiæ salutaris præcipimus ut tribus
+annis futuris recites semel in hebdomadâ septem psalmos
+penitentiales.” But this confinement was reduced to his being placed
+under some slight restrictions, first at the house of Nicolini, the
+ambassador of his own sovereign, and afterwards at the country seat of
+Archbishop Piccolomini, one of his own warmest friends.
+It has sometimes been asserted or insinuated that Galileo was
+subjected to bodily torture. An argument has been drawn from the
+expressions used in his sentence: “Cum vero nobis videretur non esse a
+te integram veritatem pronunciatam circa tuam intentionem; judicavimus
+necesse esse venire ad rigorosum examen tui, in quo respondisti
+catholicè.” It has been argued by M. Libri (Hist. des Sciences
+Mathématiques en Italie, vol. iv. p. 259),
+and M. Quinet (L’Ultramontanisme, iv.
+Leçon, p. 104), that the rigorosum examen necessarily implies
+bodily torture, notwithstanding that no such thing is mentioned by
+Galileo and his contemporaries, and notwithstanding the consideration
+with which he was treated in all other respects: but M. Biot more
+justly remarks (Biogr. Univ. Art. Galileo), that such a
+procedure is incredible.
+To the opinion of M. Biot, we may add that of Delambre, who rejects
+the notion of Galileo’s having been put to the torture, as
+inconsistent with the general conduct of the authorities towards him,
+and as irreconcilable with the accounts of the trial given by Galileo
+himself, and by a servant of his, who never quitted him for an
+instant. He adds also, that it is inconsistent with the words of his
+sentence, “ne tuus iste gravis et perniciosus error ac transgressio
+remaneat omnino impunitus;” for the error would have been
+already very far from impunity, if Galileo had been previously
+subjected to the rack. He adds, very reasonably, “il ne faut noircir
+personne sans preuve, pas même l’Inquisition;”—we must not
+calumniate even the Inquisition.]
+The ecclesiastical authorities having once declared the doctrine of
+the earth’s motion to be contrary to Scripture and heretical, long
+adhered in form to this declaration, and did not allow the Copernican
+system to be taught in any other way than as an “hypothesis.” The
+285 Padua edition
+of Galileo’s works, published in 1744, contains the Dialogue
+which now, the editors say, “Esce finalmente a pubblico libero uso
+colle debite licenze,” is now at last freely published with the
+requisite license; but they add, “quanto alla Quistione principale del
+moto della terra, anche noi ci conformiamo alla ritrazione et protesta
+dell’ Autore, dichiarando nella piu solenne forma, che non può, nè dee
+ammetersi se non come pura Ipotesi Mathematice, che serve a spiegare
+piu agevolamento certi fenomeni;” “neither can nor ought to be
+admitted except as a convenient hypothesis.” And in the edition of
+Newton’s Principia, published in 1760, by Le Sueur and
+Jacquier, of the Order of Minims, the editors prefix to the Third Book
+their Declaratio, that though Newton assumes the hypothesis of
+the motion of the earth, and therefore they had used similar language,
+they were, in doing this, assuming a character which did not belong to
+them. “Hinc alienam coacti sumus gerere personam.” They add, “Cæterum
+latis a summis Pontificibus contra telluris motum Decretis, nos
+obsequi profitemur.”
+By thus making decrees against a doctrine which in the course of
+time was established as an indisputable scientific truth, the See of
+Rome was guilty of an unwise and unfortunate stretch of ecclesiastical
+authority. But though we do not hesitate to pronounce such a judgment
+on this case, we may add that there is a question of no small real
+difficulty, which the progress of science often brings into notice, as
+it did then. The Revelation on which our religion is founded, seems to
+declare, or to take for granted, opinions on points on which Science
+also gives her decision; and we then come to this dilemma,—that
+doctrines, established by a scientific use of reason, may seem to
+contradict the declarations of Revelation, according to our view of
+its meaning;—and yet, that we cannot, in consistency with our
+religious views, make reason a judge of the truth of revealed
+doctrines. In the case of Astronomy, on which Galileo was called in
+question, the general sense of cultivated and sober-minded men has
+long ago drawn that distinction between religious and physical tenets,
+which is necessary to resolve this dilemma. On this point, it is
+reasonably held, that the phrases which are employed in Scripture
+respecting astronomical facts, are not to be made use of to guide our
+scientific opinions; they may be supposed to answer their end if they
+fall in with common notions, and are thus effectually subservient to
+the moral and religions import of Revelation. But the establishment of
+this distinction was not accomplished without long and distressing
+controversies. Nor, if we wish to 286 include all cases in which the same
+dilemma may again come into play is it easy to lay down an adequate
+canon for the purpose. For we can hardly foresee, beforehand, what
+part of the past history of the universe may eventually be found to
+come within the domain of science; or what bearing the tenets, which
+science establishes, may have upon our view of the providential and
+revealed government of the world. But without attempting here to
+generalize on this subject, there are two reflections which may be
+worth our notice: they are supported by what took place in reference
+to Astronomy on the occasion of which we are speaking; and may, at
+other periods, be applicable to other sciences.
+In the first place, the meaning which any generation puts upon the
+phrases of Scripture, depends, more than is at first sight supposed
+upon the received philosophy of the time. Hence, while men imagine
+that they are contending for Revelation, they are, in fact, contending
+for their own interpretation of Revelation, unconsciously adapted to
+what they believe to be rationally probable. And the new
+interpretation, which the new philosophy requires, and which appears
+to the older school to be a fatal violence done to the authority of
+religion, is accepted by their successors without the dangerous
+results which were apprehended. When the language of Scripture,
+invested with its new meaning, has become familiar to men, it is found
+that the ideas which it calls up, are quite as reconcilable as the
+former ones were with the soundest religious views. And the world then
+looks back with surprise at the error of those who thought that the
+essence of Revelation was involved in their own arbitrary version of
+some collateral circumstance. At the present day we can hardly
+conceive how reasonable men should have imagined that religious
+reflections on the stability of the earth, and the beauty and use of
+the luminaries which revolve round it, would be interfered with by its
+being acknowledged that this rest and motion are apparent only.
+In the next place, we may observe that those who thus adhere
+tenaciously to the traditionary or arbitrary mode of understanding
+Scriptural expressions of physical events, are always strongly
+condemned by succeeding generations. They are looked upon with
+contempt by the world at large, who cannot enter into the obsolete
+difficulties with which they encumbered themselves; and with pity by
+the more considerate and serious, who know how much sagacity and
+rightmindedness are requisite for the conduct of philosophers and
+religious men on such occasions; but who know also how weak and vain
+is the attempt 287
+to get rid of the difficulty by merely denouncing the new tenets as
+inconsistent with religious belief, and by visiting the promulgators
+of them with severity such as the state of opinions and institutions
+may allow. The prosecutors of Galileo are still up to the scorn and
+aversion of mankind: although, as we have seen, they did not act till
+it seemed that their position compelled them to do so, and then
+proceeded with all the gentleness and moderation which were compatible
+with judicial forms.
+Sect. 5.—The Heliocentric Theory confirmed on
+Physical considerations.—(Prelude to Kepler’s
+Astronomical Discoveries.)
+By physical views, I mean, as I have
+already said, those which depend on the causes of the motions of
+matter, as, for instance, the consideration of the nature and laws of
+the force by which bodies fall downwards. Such considerations were
+necessarily and immediately brought under notice by the examination of
+the Copernican theory; but the loose and inaccurate notions which
+prevailed respecting the nature and laws of force, prevented, for some
+time, all distinct reasoning on this subject, and gave truth little
+advantage over error. The formation of a new Science, the Science of
+Motion and its Causes, was requisite, before the heliocentric system
+could have justice done it with regard to this part of the
+subject.
+This discussion was at first carried on, as was to be expected, in
+terms of the received, that is, the Aristotelian doctrines. Thus,
+Copernicus says that terrestrial things appear to be at rest when they
+have a motion according to nature, that is, a circular motion; and
+ascend or descend when they have, in addition to this, a rectilinear
+motion by which they endeavor to get into their own place. But his
+disciples soon began to question the Aristotelian dogmas, and to seek
+for sounder views by the use of their own reason. “The great argument
+against this system,” says Mæstlin, “is that heavy bodies are said to
+move to the centre of the universe, and light bodies from the centre.
+But I would ask, where do we get this experience of heavy and light
+bodies? and how is our knowledge on these subjects extended so far
+that we can reason with certainty concerning the centre of the whole
+universe? Is not the only residence and home of all the things which
+are heavy and light to us, the earth and the air which surrounds it?
+and what is the earth and the ambient air, with respect to the
+immensity of the universe? It is a point, a punctule, or something, if
+there be any thing, still less. As our light and heavy bodies tend to
+288 the centre of
+our earth, it is credible that the sun, the moon, and the other
+lights, have a similar affection, by which they remain round as we see
+them; but none of these centres is necessarily the centre of the
+universe.”
+The most obvious and important physical difficulty attendant upon
+the supposition of the motion of the earth was thus stated: If the
+earth move, how is it that a stone, dropped from the top of a high
+tower, falls exactly at the foot of the tower? since the tower being
+carried from west to east by the diurnal revolution of the earth, the
+stone must be left behind to the west of the place from which it was
+let fall. The proper answer to this was, that the motion which the
+falling body received from its tendency downwards was
+compounded with the motion which, before it fell, it had in
+virtue of the earth’s rotation: but this answer could not be clearly
+made or apprehended, till Galileo and his pupils had established the
+laws of such Compositions of motion arising from different forces.
+Rothman, Kepler, and other defenders of the Copernican system, gave
+their reply somewhat at a venture, when they asserted that the motion
+of the earth was communicated to bodies at its surface. Still, the
+facts which indicate and establish this truth are obvious, when the
+subject is steadily considered; and the Copernicans soon found that
+they had the superiority of argument on this point as well as others.
+The attacks upon the Copernican system by Durret, Morin, Riccioli, and
+the defence of it by Galileo, Lansberg, Gassendi,28 left on all
+candid reasoners a clear impression in favour of the system. Morin
+attempted to stop the motion of the earth, which he called breaking
+its wings; his Alæ Terræ Fractæ was published in 1643, and
+answered by Gassendi. And Riccioli, as late as 1653, in his
+Almagestum Novum, enumerated fifty-seven Copernican arguments,
+and pretended to refute them all: but such reasonings now made no
+converts; and by this time the mechanical objections to the motion of
+the earth were generally seen to be baseless, as we shall relate when
+we come to speak of the progress of Mechanics as a distinct science.
+In the mean time, the beauty and simplicity of the heliocentric theory
+were perpetually winning the admiration even of those who, from one
+cause or other, refused their assent to it. Thus Riccioli, the last of
+its considerable opponents, allows its superiority in these respects;
+and acknowledges (in 1653) that the Copernican belief appears rather
+to increase than diminish under the condemnation of the decrees of the
+Cardinals. He applies to it the lines of Horace:29
+
+
+Per damna per cædes, ab ipso
+Sumit opes animumque ferro.
+Untamed its pride, unchecked its course,
+From foes and wounds it gathers force.
+
+28 Del. A. M. vol. i. p.
+594.
+29 Almag. Nov. p. 102.
+289 We have
+spoken of the influence of the motion of the earth on the motions of
+bodies at its surface; but the notion of a physical connection among
+the parts of the universe was taken up by Kepler in another point of
+view, which would probably have been considered as highly fantastical,
+if the result had not been, that it led to by far the most magnificent
+and most certain train of truths which the whole expanse of human
+knowledge can show. I speak of the persuasion of the existence of
+numerical and geometrical laws connecting the distances, times, and
+forces of the bodies which revolve about the central sun. That steady
+and intense conviction of this governing principle, which made its
+development and verification the leading employment of Kepler’s most
+active and busy life, cannot be considered otherwise than as an
+example of profound sagacity. That it was connected, though dimly and
+obscurely, with the notion of a central agency or influence of some
+sort, emanating from the sun, cannot be doubted. Kepler, in his first
+essay of this kind, the Mysterium Cosmographicum, says, “The
+motion of the earth, which Copernicus had proved by
+mathematical reasons, I wanted to prove by physical,
+or, if you prefer it, metaphysical.” In the twentieth chapter of that
+work, he endeavors to make out some relation between the distances of
+the Planets from the Sun and their velocities. The inveterate yet
+vague notions of forces which preside in this attempt, may be judged
+of by such passages as the following:—“We must suppose one of
+two things; either that the moving spirits, in proportion as they are
+more removed from the sun, are more feeble; or that there is one
+moving spirit in the centre of all the orbits, namely, in the sun,
+which urges each body the more vehemently in proportion as it is
+nearer; but in more distant spaces languishes in consequence of the
+remoteness and attenuation of its virtue.”
+We must not forget, in reading such passages, that they were
+written under a belief that force was requisite to keep up, as well as
+to change the motion of each planet; and that a body, moving in a
+circle, would stop when the force of the central point
+ceased, instead of moving off in a tangent to the circle, as we now
+know it would do. The force which Kepler supposes is a tangential
+force, in the direction of the body’s motion, and nearly perpendicular
+to the radius; the 290 force which modern philosophy has
+established, is in the direction of the radius, and nearly
+perpendicular to the body’s path. Kepler was right no further than in
+his suspicion of a connection between the cause of motion and the
+distance from the centre; not only was his knowledge imperfect in all
+particulars, but his most general conception of the mode of action of
+a cause of motion was erroneous.
+With these general convictions and these physical notions in his
+mind, Kepler endeavored to detect numerical and geometrical relations
+among the parts of the solar system. After extraordinary labor,
+perseverance, and ingenuity, he was eminently successful in
+discovering such relations; but the glory and merit of interpreting
+them according to their physical meaning, was reserved for his greater
+successor, Newton.  ~Additional material in the 3rd edition.~
+</div></body></text></TEI>

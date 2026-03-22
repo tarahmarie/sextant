@@ -1,0 +1,274 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Connexion of the Physical Sciences</title><author>Somerville, Mary (1780-1872)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1834</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="22">
+179
+SECTION XXI.
+
+Polarization of Light—Defined—Polarization by Refraction—Properties
+of the Tourmaline—Double Refraction—All doubly Refracted Light is
+Polarized—Properties of Iceland Spar—Tourmaline absorbs one of the
+two Refracted Rays—Undulations of Natural Light—Undulations of
+Polarized Light—The Optic Axes of Crystals—M. Fresnel’s Discoveries
+on the Rays passing along the Optic Axis—Polarization by Reflection.
+In giving a sketch of the constitution of light, it is impossible to
+omit the extraordinary property of its polarization, “the phenomena
+of which,” Sir John Herschel says, “are so singular and
+various, that to one who has only studied the common branches
+of physical optics it is like entering into a new world, so splendid
+as to render it one of the most delightful branches of experimental
+inquiry, and so fertile in the views it lays open of the
+constitution of natural bodies, and the minuter mechanism of the
+universe, as to place it in the very first rank of the physico-mathematical
+sciences, which it maintains by the rigorous application
+of geometrical reasoning its nature admits and requires.”
+Light is said to be polarized, which, by being once reflected or
+refracted, is rendered incapable of being again reflected or refracted
+at certain angles. In general, when a ray of light is
+reflected from a pane of plate-glass, or any other substance, it
+may be reflected a second time from another surface, and it will
+also pass freely through transparent bodies. But, if a ray of
+light be reflected from a pane of plate-glass at an angle of 57°,
+it is rendered totally incapable of reflection at the surface of
+another pane of glass in certain definite positions, but it will be
+completely reflected by the second pane in other positions. It
+likewise loses the property of penetrating transparent bodies in
+particular positions, whilst it is freely transmitted by them in
+others. Light, so modified as to be incapable of reflection and
+transmission in certain directions, is said to be polarized.
+Light may be polarized by reflection from any polished surface,
+and the same property is also imparted by refraction. It is proposed
+to explain these methods of polarizing light, to give a short
+180account of its most remarkable properties, and to endeavour to
+describe a few of the splendid phenomena it exhibits.
+If a brown tourmaline, which is a mineral generally crystallized
+in the form of a long prism, be cut longitudinally, that is,
+parallel to the axis of the prism, into plates about the thirtieth
+of an inch in thickness, and the surfaces polished, luminous
+objects may be seen through them, as through plates of coloured
+glass. The axis of each plate is in its longitudinal section parallel
+to the axis of the prism whence it was cut (N. 204). If one of
+these plates be held perpendicularly between the eye and a
+candle, and turned slowly round in its own plane, no change will
+take place in the image of the candle. But if the plate be held
+in a fixed position, with its axis or longitudinal section vertical,
+when a second plate of tourmaline is interposed between it and
+the eye, parallel to the first, and turned slowly round in its own
+plane, a remarkable change will be found to have taken place in
+the nature of the light. For the image of the candle will vanish
+and appear alternately at every quarter revolution of the plate,
+varying through all degrees of brightness down to total or almost
+total evanescence, and then increasing again by the same degrees
+as it had before decreased. These changes depend upon the relative
+positions of the plates. When the longitudinal sections of
+the two plates are parallel, the brightness of the image is at its
+maximum; and, when the axes of the sections cross at right
+angles, the image of the candle vanishes. Thus the light, in
+passing through the first plate of tourmaline, has acquired a
+property totally different from the direct light of the candle.
+The direct light would have penetrated the second plate equally
+well in all directions, whereas the refracted ray will only pass
+through it in particular positions, and is altogether incapable of
+penetrating it in others. The refracted ray is polarized in its
+passage through the first tourmaline, and experience shows that
+it never loses that property, unless when acted upon by a new
+substance. Thus, one of the properties of polarized light is the
+incapability of passing through a plate of tourmaline perpendicular
+to it, in certain positions, and its ready transmission in other
+positions at right angles to the former.
+Many other substances have the property of polarizing light.
+If a ray of light falls upon a transparent medium, which has the
+same temperature, density, and structure throughout every part,
+181as fluids, gases, glass, &c., and a few regularly crystallized
+minerals, it is refracted into a single pencil of light by the laws
+of ordinary refraction, according to which the ray, passing through
+the refracting surface from the object to the eye, never quits a
+plane perpendicular to that surface. Almost all other bodies,
+such as the greater number of crystallized minerals, animal and
+vegetable substances, gums, resins, jellies, and all solid bodies
+having unequal tensions, whether from unequal temperature or
+pressure, possess the property of doubling the image or appearance
+of an object seen through them in certain directions;
+because a ray of natural light falling upon them is refracted into
+two pencils which move with different velocities, and are more or
+less separated, according to the nature of the body and the direction
+of the incident ray. Whenever a ray of natural light is thus
+divided into two pencils in its passage through a substance, both
+of the transmitted rays are polarized. Iceland spar, a carbonate
+of lime, which by its natural cleavage may be split into the
+form of a rhombohedron, possesses the property of double refraction
+in an eminent degree, as may be seen by pasting a piece of
+paper, with a large pin-hole in it, on the side of the spar farthest
+from the eye. The hole will appear double when held to the
+light (N. 205). One of these pencils is refracted according to the
+same law as in glass or water, never quitting the plane perpendicular
+to the refracting surface, and is therefore called the ordinary
+ray. But the other does quit the plane, being refracted
+according to a different and much more complicated law, and on
+that account is called the extraordinary ray. For the same
+reason one image is called the ordinary, and the other the extraordinary
+image. When the spar is turned round in the same
+plane, the extraordinary image of the hole revolves about the
+ordinary image, which remains fixed, both being equally bright.
+But if the spar be kept in one position, and viewed through a
+plate of tourmaline, it will be found that, as the tourmaline
+revolves, the images vary in their relative brightness—one increases
+in intensity till it arrives at a maximum, at the same
+time that the other diminishes till it vanishes, and so on alternately
+at each quarter revolution, proving both rays to be
+polarized. For in one position the tourmaline transmits the
+ordinary ray, and reflects the extraordinary; and, after revolving
+90°, the extraordinary ray is transmitted, and the ordinary ray is
+182reflected. Thus another property of polarized light is, that it
+cannot be divided into two equal pencils by double refraction, in
+positions of the doubly refracting bodies in which a ray of common
+light would be so divided.
+Were tourmaline like other doubly refracting bodies, each of
+the transmitted rays would be double; but that mineral, when of
+a certain thickness, after separating the light into two polarized
+pencils, absorbs that which undergoes ordinary refraction, and
+consequently shows only one image of an object. On this account
+tourmaline is peculiarly fitted for analyzing polarized light, which
+shows nothing remarkable till viewed through it or something
+equivalent.
+The pencils of light, on leaving a double refracting substance,
+are parallel; and it is clear, from the preceding experiments,
+that they are polarized in planes at right angles to each other
+(N. 206). But that will be better understood by considering the
+change produced in common light by the action of the polarizing
+body. It has been shown that the undulations of ether, which
+produce the sensation of common light, are performed in every
+possible plane, at right angles to the direction in which the ray
+is moving. But the case is very different after the ray has passed
+through a doubly refracting substance, like Iceland spar. The
+light then proceeds in two parallel pencils, whose undulations
+are still indeed transverse to the direction of the rays, but they
+are accomplished in planes at right angles to one another, analogous
+to two parallel stretched cords, one of which performs its
+undulations only in a horizontal plane, and the other in a vertical
+or upright plane (N. 206). Thus the polarizing action of Iceland
+spar and of all doubly refracting substances is to separate a ray
+of common light, whose waves or undulations are in every plane,
+into two parallel rays, whose waves or undulations lie in planes
+at right angles to each other. By a simple mechanical law each
+vibratory motion of the first is resolved into two vibratory
+motions at right angles to one another. The ray of common
+light may be assimilated to a round rod, whereas the two polarized
+rays are like two parallel long flat rulers, one of which is
+laid horizontally on its broad surface, and the other horizontally
+on its edge. The alternate transmission and obstruction of one
+of these flattened beams by the tourmaline is similar to the
+facility with which a card may be passed between the bars of a
+183grating or wires of a cage, if presented edgeways, and the impossibility
+of its passing in a transverse direction.
+Although it generally happens that a ray of light, in passing
+through Iceland spar, is separated into two polarized rays, yet
+there is one direction along which it is refracted in one ray only,
+and that according to the ordinary law. This direction is called
+the optic axis (N. 207). Many crystals and other substances
+have two optic axes, inclined to each other, along which a ray of
+light is transmitted in one pencil by the law of ordinary refraction.
+The extraordinary ray is sometimes refracted towards the
+optic axis, as in quartz, zircon, ice, &c., which are therefore said
+to be positive crystals; but when it is bent from the optic axis,
+as in Iceland spar, tourmaline, emerald, beryl, &c., the crystals
+are negative, which is the most numerous class. The ordinary
+ray moves with uniform velocity within a doubly refracting substance,
+but the velocity of the extraordinary ray varies with the
+position of the ray relatively to the optic axis, being a maximum
+when its motion within the crystal is at right angles to the
+optic axis, and a minimum when parallel to it. Between these
+extremes its velocity varies according to a determinate law.
+It had been inferred, from the action of Iceland spar on light,
+that in all doubly refracting substances one only of two rays is
+turned aside from the plane of ordinary refraction, while the
+other follows the ordinary law; and the great difficulty of
+observing the phenomena tended to confirm that opinion. M.
+Fresnel, however, proved by a most profound mathematical
+inquiry, à priori, that the extraordinary ray must be wanting in
+glass and other uncrystallized substances, and that it must
+necessarily exist in carbonate of lime, quartz, and other bodies
+having one optic axis, but that in a numerous class of substances,
+which possess two optic axes, both rays must undergo extraordinary
+refraction, and consequently that both must deviate from
+their original plane; and these results have been perfectly confirmed
+by subsequent experiments. This theory of refraction,
+which for generalization is perhaps only inferior to the law of
+gravitation, has enrolled the name of Fresnel among those which
+pass not away, and makes his early loss a subject of deep regret
+to all who take an interest in the higher paths of scientific
+research.
+When a beam of common light is partly reflected at, and
+184partly transmitted through a transparent surface, the reflected
+and refracted pencils contain equal quantities of polarized light,
+and their planes of polarization are at right angles to one
+another: hence, a pile of panes of glass will give a polarized
+beam by refraction. For, if a ray of common light pass through
+them, part of it will be polarized by the first plate, the second
+plate will polarize a part of what passes through it, and the rest
+will do the same in succession, till the whole beam is polarized,
+except what is lost by reflection at the different surfaces, or by
+absorption. This beam is polarized in a plane at right angles to
+the plane of reflection, that is, at right angles to the plane passing
+through the incident and reflected ray (N. 208).
+By far the most convenient way of polarizing light is by
+reflection. A plane of plate-glass laid upon a piece of black
+cloth, on a table at an open window, will appear of a uniform
+brightness from the reflection of the sky or clouds. But if it be
+viewed through a plate of tourmaline, having its axis vertical,
+instead of being illuminated as before, it will be obscured by a
+large cloudy spot, having its centre quite dark, which will
+readily be found by elevating or depressing the eye, and will
+only be visible when the angle of incidence is 57°, that is, when
+the line from the eye to the centre of the black spot makes an
+angle of 33° with the surface of the reflector (N. 209). When
+the tourmaline is turned round in its own plane, the dark cloud
+will diminish, and entirely vanish when the axis of the tourmaline
+is horizontal, and then every part of the surface of the glass
+will be equally illuminated. As the tourmaline revolves, the
+cloudy spot will appear and vanish alternately at every quarter
+revolution. Thus, when a ray of light is incident on a pane of
+plate-glass at an angle of 57°, the reflected ray is rendered
+incapable of penetrating a plate of tourmaline whose axis is in
+the plane of incidence. Consequently it has acquired the same
+character as if it had been polarized by transmission through a
+plate of tourmaline, with its axis at right angles to the plane of
+reflection. It is found by experience that this polarized ray is
+incapable of a second reflection at certain angles and in certain
+positions of the incident plane. For if another pane of plate-glass,
+having one surface blackened, be so placed as to make an
+angle of 33° with the reflected ray, the image of the first pane
+will be reflected in its surface, and will be alternately illuminated
+185and obscured at every quarter revolution of the blackened pane,
+according as the plane of reflection is parallel or perpendicular to
+the plane of polarization. Since this happens by whatever means
+the light has been polarized, it evinces another general property
+of polarized light, which is, that it is incapable of reflection in a
+plane at right angles to the plane of polarization.
+All reflecting surfaces are capable of polarizing light, but the
+angle of incidence at which it is completely polarized is different
+in each substance (N. 210). It appears that the angle for plate-glass
+is 57°; in crown-glass it is 56° 55ʹ, and no ray will be
+completely polarized by water unless the angle of incidence be
+53° 11ʹ. The angles at which different substances polarize light
+are determined by a very simple and elegant law, discovered by
+Sir David Brewster, “That the tangent of the polarizing angle
+for any medium is equal to the sine of the angle of incidence
+divided by the sine of the angle of refraction of that medium.”
+Whence also the refractive power even of an opaque body is
+known when its polarizing angle has been determined.
+If a ray, polarized by refraction or by reflection from any
+substance not metallic, be viewed through a piece of Iceland
+spar, each image will alternately vanish and reappear at every
+quarter revolution of the spar, whether it revolves from right to
+left or from left to right; which shows that the properties of
+the polarized ray are symmetrical on each side of the plane of
+polarization.
+Although there be only one angle in each substance at which
+light is completely polarized by one reflection, yet it may be
+polarized at any angle of incidence by a sufficient number of
+reflections. For, if a ray falls upon the upper surface of a pile of
+plates of glass at an angle greater or less than a polarizing angle,
+a part only of the reflected ray will be polarized, but a part of
+what is transmitted will be polarized by reflection at the surface
+of the second plate, part at the third, and so on till the whole is
+polarized. This is the best apparatus; but one plate of glass
+having its inferior surface blackened, or even a polished table,
+will answer the purpose.</div></body></text></TEI>

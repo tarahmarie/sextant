@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 146-147</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 146-147.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1841">11 April [1841]</date>
+          <note type="place">22. Place Vendome, Paris</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 146-147</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_146-147.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>22. Place Vendome [accent mark over the o] Paris Tuesdy Morg 11th April</p>
+      <p>Dearest William. I suppose this will still find you (judging by your two last accounts).</p>
+      <p>I am going this morning with Dr Mojin to the Observatory to meet Arago; &amp; later in the day with Madme de Meulan to the Chamber of Deputies.-- I have but very few moments that are idle. There is so much to be done. Last night Miss Montgomery &amp; I went to the Theatre [accent mark over the a] Francais.--</p>
+      <p>I believe I am to be presented at Court and the Hen intends giving the Bird plumage for the purpose, but we propose waiting for this till you come, as you should go too.</p>
+      <p>The Bird receives much kindness &amp; attention</p>
+      <p>and is very well &amp; happy.--</p>
+      <p>Will you tell Hester to be so kind as get me at Isidore's in Bentwich St, one of the little gum-brushes for putting gum on my hair. I am in great distress for one, mine having come to pieces; &amp; I cannot find one here.-- You can bring this. It is a very tiny thing.--</p>
+      <p>I continue from all I see &amp; hear to have a favorable opinion of Medora's character. But there is at this moment a cruel conspiracy against her,-- her Mother the instigator. I believe the affair will come into Court. I see no alternative.</p>
+      <p>Imagine our momentary amazement when my Mother was enquiring of M the other day as to who was one of the actors of a very infamous transaction that had occurred, at being answered-- Hester King! Mrs L had a maid of that name.--</p>
+      <p>Think of Mrs L sending word to Mr T that [three words crossed out] her other daughter Emily is ready for him whenever he chooses to come to England for her; which being outlawed, he luckily cannot do!--</p>
+      <p>What a monster of iniquity! And how her wretched children, who are all her victims in one way or other, are to be deeply pitied.-- I hope you burn these letters.</p>
+      <p>The affectionate Bird</p>
+    </div></body>
+  </text>
+</TEI>

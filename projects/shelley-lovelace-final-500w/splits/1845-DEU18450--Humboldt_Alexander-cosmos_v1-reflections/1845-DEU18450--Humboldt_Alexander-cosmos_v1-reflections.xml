@@ -1,0 +1,1351 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Cosmos: A Sketch of the Physical Description of the Universe, Vol. 1</title><author>Humboldt, Alexander von (1769-1859)</author></titleStmt><publicationStmt><publisher>Henry G. Bohn</publisher><pubPlace>London</pubPlace><date>1845</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="3">
+In attempting, after a long absence from my native country, to develop the
+physical phenomena of the globe, and the simultaneous action of the forces
+that pervade the regions of space, I experience a two-fold cause of anxiety.
+ The subject before me is so inexhaustible and so varied, that I fear either
+to fall into the superficiality of the encyclopedist, or to weary the mind
+of my reader by aphorisms consisting of mere generalities clothed in dry and
+dogmatical forms.  Undue conciseness often checks the flow of expression,
+while diffuseness is alike detrimental to a clear and precise exposition of
+our ideas.  Nature is a free domain, and the profound conceptions and
+enjoyments she awakens within us can only be vividly delineated by thought
+clothed in exalted forms of speech, worthy of bearing witness to the majesty
+and greatness of the creation.
+In considering the study of physical phenomena, not merely in its bearings
+on the material wants of life, but in its general influence on the
+intellectual advancement of mankind, we find its noblest and most important
+result to be a knowledge of the chain of connection, by which all natural
+forces are linked together, and made mutually dependent upon each other; and
+it is the perception of these relations that exalts our views and ennobles
+our enjoyments.  Such a result can, however, only be reaped as the fruit of
+observation and intellect, combined with the spirit of the age, in which are
+reflected all the varied phases of thought.  He who can trace, through
+by-gone times, the stream of our knowledge to its primitive source, will
+learn from history how, for thousands of years, man has labored, amid the
+ever-recurring changes of form, to recognize the invariability of natural
+laws, and has thus, by the force of mind, gradually subdued a great portion
+of the physical world to his dominion.  In interrogating the history of the
+past, we trace the mysterious course of ideas yielding the first glimmering
+perception of the same image of
+p 24
+a Cosmos, or harmoniously ordered whole, which, dimly shadowed forth to the
+human mind in the primitive ages of the world, is now fully revealed to the
+maturer intellect of mankind as the result of long and laborious observation.
+Each of these epochs of the contemplation of the external world — the
+earliest dawn of thought and the advanced stage of civilization — has its
+own source of enjoyment.  In the former, this enjoyment, in accordance with
+the simplicity of the primitive ages, flowed from an intuitive feeling of
+the order that was proclaimed by the invariable and successive reappearance
+of the heavenly bodies, and by the progressive development of organized
+beings; while in the latter, this sense of enjoyment springs from a definite
+knowledge of the phenomena of nature.  When man began to interrogate nature,
+and, not content with observing, learned to evoke phenomena under definite
+conditions; when once he sought to collect and record facts, in order that
+the fruit of his labors might aid investigation after his own brief
+existence had passed away, the 'philosophy of Nature' cast aside the vague
+and poetic garb in which she had been enveloped from her origin, and, having
+assumed a severer aspect, she now weighs the value of observations, and
+substitutes induction and reasoning for conjecture and assumption.  The
+dogmas of former ages survive now only in the superstitions of the people
+and the prejudices of the ignorant, or are perpetuated in a few systems,
+which, conscious of their weakness, shroud themselves in a vail of mystery.
+We may also trace the same primitive intuitions in languages exuberant in
+figurative expressions; and a few of the best chosen symbols engendered by
+the happy inspiration of the earliest ages, having by degrees lost their
+vagueness through a better mode of interpretation, are still preserved among
+our scientific terms.
+Nature considered 'rationally', that is to say, submitted to the process of
+thought, is a unity in diversity of phenomena; a harmony blending together
+all created things, however dissimilar in form and attributes; one great
+whole ([Greek words]) animated by the breath of life.  The most important
+result of a rational inquiry into nature is, therefore, to establish the
+unity and harmony of this stupendous mass of force and matter, to determine
+with impartial justice what is due to the discoveries of the past and to
+those of the present, and to analyze the individual parts of natural
+phenomena without succumbing beneath the weight of the whole.  Thus, and
+thus alone, is it permitted to man, while mindful of the high destiny
+p 25
+of his race, to comprehend nature, to lift the vail that shrouds her
+phenomena, and as it were, submit the results of observation to the test of
+reason and of intellect.
+In reflecting upon the different degrees of enjoyment presented to us in the
+contemplation of nature, we find that the first place must be assigned to a
+sensation, which is wholly independent of an intimate acquaintance with the
+physical phenomena presented to our view, or of the peculiar character of
+the region surrounding us.  In the uniform plain bounded only by a distant
+horizon, where the lowly heather, the cistus, or waving grasses, deck the
+soil; on the ocean shore, where the waves, softly rippling over the beach,
+leave a track, green with the weeds of the sea; every where, the mind is
+penetrated by the same sense of the grandeur and vast expanse of nature,
+revealing to the soul, by a mysterious inspiration, the existence of laws
+that regulate the forces of the universe.  Mere communion with nature, mere
+contact with the free air, exercise a soothing yet strengthening influence
+on the wearied spirit, calm the storm of passion, and soften the heart when
+shaken by sorrow to its inmost depths.  Every where, in every region of the
+globe, in every stage of intellectual culture, the same sources of enjoyment
+are alike vouchsafed to man.  The earnest and solemn thoughts awakened by a
+communion with nature intuitively arise from a presentiment of the order and
+harmony pervading the whole universe, and from the contrast we draw between
+the narrow limits of our own existence and the image of infinity revealed on
+every side, whether we look upward to the starry vault of heaven, scan the
+far-stretching plain before us, or seek to trace the dim horizon across the
+vast expanse of ocean.
+The contemplation of the individual characteristics of the landscape, and of
+the conformation of the land in any definite region of the earth, gives rise
+to a different source of enjoyment, awakening impressions that are more
+vivid, better defined, and more congenial to certain phases of the mind,
+than those of which we have already spoken.  At one time the heart is
+stirred by a sense of the grandeur of the face of nature, by the strife of
+the elements, or, as in Northern Asia by the aspect of the dreary barrenness
+of the far-stretching steppes; at another time, softer emotions are excited
+by the contemplation of rich harvests wrested by the hand of man from the
+wild fertility of nature, or by the sight of human habitations raised beside
+some wild and foaming torrent.  Here I regard less the degree of intensity
+than the difference existing in the
+p 26
+various sensations that derive their charm and permanence from the peculiar
+character of the scene.
+If I might be allowed to abandon myself to the recollections of my own
+distant travels, I would instance, among the most striking scenes of nature,
+the calm sublimity of a tropical night, when the stars, not sparkling, as in
+our northern skies, shed their soft and planetary light over the
+gently-heaving ocean; or I would recall the deep valleys of the Cordilleras,
+where the tall and slender palms pierce the leafy vail around them, and
+waving on high their feathery and arrow-like branches for, as it were, "a
+forest above a forest;"* or I would describe the summit of the Peak of
+Teneriffe, when a horizontal layer of clouds, dazzling in whiteness, has
+separated the cone of cinders from the plain below, and suddenly the
+ascending current pierces the cloudy vail, so that the eye of the traveler
+may range from the brink of the crater, along the vine-clad slopes of
+Orotava, to the orange gardens and banana groves that skirt the shore.  In
+scenes like these, it is not the peaceful charm uniformly spread over the
+face of nature that moves the heart, but rather the peculiar physiognomy and
+conformation of the land, the features of the landscape, the ever varying
+outline of the clouds, and their blending with the horizon of the sea,
+whether it lies spread before us like a smooth and shining mirror, or is
+dimly seen through the morning mist.  All that the senses can but
+imperfectly comprehend, all that is most awful in such romantic scenes of
+nature, may become a source of enjoyment to man, by opening a wide field to
+the creative powers of his imagination.  Impressions change with the varying
+movements of the mind, and we are led by a happy illusion to believe that we
+receive from the external world that with which we have ourselves invested
+it.
+[footnote] *This expression is taken from a beautiful description of
+tropical forest scenery in 'Paul and Virginia', by Bernardia de Saint Pierre.
+When far from our native country, after a long voyage, we tread for the
+first time the soil of a tropical land, we experience a certain feeling of
+surprise and gratification in recognizing, in the rocks that surround us,
+the same inclined schistose strata, and the same columnar basalt covered
+with cellular amygdaloids, that we had left in Europe, and whose identity of
+character, in latitudes so widely different, reminds us that the
+solidification of the earth's crust is altogether independent of climatic
+influences.  But these rocky masses of schist and of basalt are covered with
+vegetation of a character with which we are unacquainted, and of a
+physiognomy wholly
+p 27
+unknown to us; and it is then, amid the colossal and majestic forms of an
+exotic flora, that we feel how wonderfully the flexibility of our nature
+fits us to receive new impressions, linked together by a certain secret
+analogy.  We so readily perceive the affinity existing among all the forms
+of organic life, that although the sight of a vegetation similar to that of
+our native country might at first be most welcome to the eye, as the sweet
+familiar sounds of our mother tongue are to the ear, we nevertheless, by
+degrees, and almost imperceptibly, become familiarized with a new home and a
+new climate.  As a true citizen of the world, man every where habituates
+himself to that which surrounds him; yet fearful, as it were, of breaking
+the links of association that bind him to the home of his childhood, the
+colonist applies to some few plants in a far-distant clime the names he had
+been familiar with in his native land; and by the mysterious relations
+existing among all types of organization, the forms of exotic vegetation
+present themselves to his mind as nobler and more perfect developments of
+those he had loved in earlier days.  Thus do the spontaneous impressions of
+the untutored mind lead, like the laborious deductions of cultivated
+intellect, to the same intimate persuasion, that one sole and indissoluble
+chain binds together all nature.
+It may seem a rash attempt to endeavor to separate, into its different
+elements, the magic power exercised upon our minds by the physical world,
+since the character of the landscape, and of every imposing scene in nature,
+depends so materially upon the mutual relation of the ideas and sentiments
+simultaneously excited in the mind of the observer.
+The powerful effect exercised by nature springs, as it were, from the
+connection and unity of the impressions and emotions produced; and we can
+only trace their different sources by analyzing the individuality of objects
+and the diversity of forces.
+The richest and most varied elements for pursuing an analysis of this nature
+present themselves to the eyes of the traveler in the scenery of Southern
+Asia, in the Great Indian Archipelago, and more especially, too, in the New
+Continent, where the summits of the lofty Cordilleras penetrate the confines
+of the aerial ocean surrounding our globe, and where the same subterranean
+forces that once raised these mountain chains still shake them to their
+foundation and threaten their downfall.
+Graphic delineations of nature, arranged according to systematic views, are
+not only suited to please the imagination,
+p 28
+but may also, when properly considered, indicate the grades of the
+impressions of which I have spoken, from the uniformity of the sea-shore, or
+the barren steppes of Siberia, to the inexhaustible fertility of the torrid
+zone.  If we were even to picture to ourselves Mount Pilatus placed on the
+Schreckhorn,* or the Schneekoppe of Silesia on Mont Blanc, we should
+p 29
+not have attained to the height of that great Colossus of the Andes, the
+Chimborazo, whose height is twice that of Mont Aetna; and we must pile the
+Righi, or Mount Athos, on the summit of the Chimborazo, in order to form a
+just estimate of the elevation of the Dhawalagiri, the highest point of the
+Himalaya.
+[footnote] *These comparisons are only approximative.  The several
+elevations above the level of the sea are, in accurate numbers, as follows:
+The Schneekoppe or Riesenkoppe, in Silesia about 5270 feet, according to
+Hallaschka.  The Righi, 5902 feet, taking the height of the Lake of Lucerne
+at 1426 feet, according to Eschman.  (See 'Compte Rendu des Mesures
+Trigonometriques en Suisse', 1840, p. 230.)  Mount Athos, 6775 feet,
+according to Captain Gaultier; Mount Pilatus, 7546 feet; Mount Aetna, 10,871
+feet, according to Captain Smyth; or 10,874 feet, according to the
+barometrical measurement made by Sir John Herschel, and communicated to me
+in writing in 1825, and 10,899 feet, according to angles of altitude taken
+by Cacciatore at Palermo (calculated by assuming the terrestrial refraction
+to be 0.076); the Schreckhorn, 12,383 feet; the Jungfrau, 13,720 feet,
+according to Tralles; Mount Blanc, 15,775 feet, according to the different
+measurements considered by Roger ('Bibl. Univ.', May, 1828, 0. 24-53),
+15,733 feet, according to the measurements taken from Mount Columbier by
+Carlini in 1821, and 15,748 feet, as measured by the Austrian engineers from
+Trelod and the Glacier d'Ambin.
+[footnote continued]
+The actual height of the Swiss mountains fluctuates, according to Eschman's
+observations, as much as 25 English feet, owing to the varying thickness of
+the stratum of snow that covers the summits.  Chimborazo is, according to my
+trigonometrical measurements, 21,421 feet (see Humboldt, 'Recueil d'Obs.
+Astr.', tome i., p. 73), and Dhawalagiri, 28,074 feet.  As there is a
+difference of 445 feet between the determinations of Blake and Webb, the
+elevation assigned to the Dhawalagiri (or white mountain, from the Sanscrit
+'dhawala', white, and 'giri', mountain) can not be received with the same
+confidence as that of the Jawahir, 25,749 feet, since the latter rests on a
+complete trigonomietrical measurement (see Herbert and Hodgson in the
+'Asiat. Res.', vol. xiv., p. 189, and Suppl. to 'Encycl. Brit.', vol. iv.,
+p. 643).  I have shown elsewhere ('Ann. des Sciences Naturelles', Mars,
+1825) that the height of the Dhawalagiri (28,074 feet) depends on several
+elements that have not been ascertained with certainty, as azimuths and
+latitudes (Humboldt, 'Asie Centrale', t. iii., p. 282).  It has been
+believed, but without foundation, that in the Tartaric chain, north of
+Thibet, opposite to the chain of Kuen-lun, there are several snowy summits,
+whose elevation is about 30,000 English feet (almost twice that of Mont
+Blanc), or, at any rate, 29,000 feet (see Captain Alexander Gerard's and
+John Gerard's 'Journey to the Boorendo Pass', 1840, vol. i., p. 143 and
+311).  Chimborazo is spoken of in the text only as 'one' of the highest
+summits of the chain of the Andes; for in the year 1827, the learned and
+highly-gifted traveler, Pentland, in his memorable expedition to Upper Peru
+(Bolivia), measured the elevation of two mountains situated to the east of
+Lake Titicaca, viz., the Sorata, 25,200 feet, and the Illimani, 24,000 feet,
+both greatly exceeding the height of Chimborazo, which is only 21,421 feet,
+and being nearly equal in elevation to the Jawahir, which is the highest
+mountain in the Himalaya that has as yet been accurately measured.  Thus
+Mont Blanc is 5646 feet below Chimborazo; Chimborazo, 3779 feet below the
+Sorata; the Sorata, 549 feet below the Jawahir, and probably about 2880 feet
+below the Dhawalagiri.  According to a new measurement of the Illimani, by
+Pentland, in 1838, the elevation of this mountain is given at 23,868 feet,
+varying only 133 feet from the measurement taken in 1827.  The elevations
+have been given in this note with minute exactness, as erroneous numbers
+have been introduced into many maps and tables recently published, owing to
+incorrect reductions of the measurements.
+[In the preceding note, taken from those appended to the Introduction in the
+French translation, rewritten by Humboldt himself, the measurements are
+given in meters, but these have been converted into English feet, for the
+greater convenience of the general reader.] — 'Tr.'
+But although the mountains of India greatly surpass the Cordilleras of South
+America by their astonishing elevation (which, after being long contested,
+has at last been confirmed by accurate measurements), they can not, from
+their geographical position, present the same inexhaustible variety of
+phenomena by which the latter are characterized.  The impression produced by
+the grander aspects of nature dies not depend exclusively on height.  The
+chain of the Himalaya is placed far beyond the limits of the torrid zone,
+and scarcely is a solitary palm-tree to be found in the beautiful valleys of
+Kumaoun and Garhwal.*
+[Footnote] *The absence of palms and tree-ferns on the temperate slopes of
+the Himalaya is shown in Don's 'Flora Nepalensis', 1825, and in the
+remarkable series of lithographs of Wallich's 'Flora Indica', whose
+catalogue contains the enormous number of 7683 Himalaya species, almost all
+phanerogamic plants, which have as yet been but imperfectly classified.  In
+Nepaul (lat. 26 1/2 degrees to 27 1/4 degrees) there has hitherto been
+observed only one species of palm, Chamaerops martiana, Wall. ('Plantae
+Asiat.', lib. iii., p. 5,211), which is found at the height of 5250 English
+feet above the level of the sea, in the shady valley of Bunipa.  The
+magnificent tree-fern, Alsophila brunoniana, Wall. (of which a stem 48 feet
+long has been in the possession of the British Museum since 1831), does not
+grow in Nepaul, but is found on the mountains of Silhet, to the northwest of
+Calcutta, in lat. 24 degrees 50 minutes.  The Nepaul fern, Paranema
+cyathoides, Don, formerly known as Sphaeroptera barbata, Wall. ('Plantae
+Asiat.', lib. i., p. 42, 48), is indeed, nearly related to Cyathea, a
+species of which I have seen in the South American Missions of Caripe,
+measuring 33 feet in height; this is not, however, properly speaking a tree.
+On the southern slope of the ancient Paropamisus, in the latitudes of 28
+degrees and 34 degrees, nature no longer displays the same abundance of
+tree-ferns and arborescent grasses, heliconias and orchideous plants, which
+in tropical
+p 30
+regions are to be found even on the highest plateaux of the mountains.  On
+the slope of the Himalaya, under the shade of the Deodora and the
+broad-leaved oak, peculiar to these Indian Alps, the rocks of granite and of
+mica schist are covered with vegetable forms almost similar to those which
+characterize Europe and Northern Asia.  The species are not identical, but
+closely analogous in aspect and physiognomy, as, marsh parnassia, and the
+prickly species of Ribes.*  The chain of the Himalaya is also wanting in the
+imposing phenomena of volcanoes, which in the Andes and in the Indian
+Archipelago often reveal to the inhabitants, under the most terrific forms,
+the existence of the forces pervading the interior of our planet.
+[footnote]  *Ribes nubicola, R. glaciale, R. grossularia.  The species which
+compose the vegetation of the Himalaya are four pines, notwithstanding the
+assertion of the ancients regarding Eastern Asia (Strabo, lib. 11, p. 510,
+Cas.), twenty-five oaks, four birches, two chestnuts, seven maples, twelve
+willows, fourteen roses, three species of strawberry, seven species of
+Alpine roses ('rhododendra'), one of which attains a height of 20 feet, and
+many other northern genera.  Large white apes, having black faces, inhabit
+the wild chestnut-tree of Kashmir, which grows to a height of 100 feet, in
+lat. 33 degrees (see Carl von Hugel's 'Kaschmir', 1840, 2d pt. 249).  Among
+the Coniferae, we find the Pinus deodwara, or deodara (in Sanscrit,
+'dewa-daru', the timber of the gods), which is nearly allied to Pinus
+cedrus.  Near the limit of perpetual snow flourish the large and showy
+flowers of the Gentiana venusta, G. Moorcroftiana, Swertia purpurescens, S.
+speciosa, Parnassia armata, P. nubicola, Poenia Emode, Tulipa stellata; and
+besides varieties of European genera peculiar to these Indian mountains,
+true European species as Leontodon taraxacum, Prunella vulgaris, Galium
+aparine, and Thlaspi arvense.  The heath mentioned by Saunders, in Turner's
+'Travels', and which had been confounded with Calluna vulgaris, is an
+Andromeda, a fact of the greatest importance in the geography of Asiatic
+plants.  If I have made use, in this work, of the unphilosophical
+expressions of European genera, 'European' special, 'growing wild in Asia',
+etc., it has been in consequence of the old botanical language, which,
+instead of the idea of a large dissemination, or, rather, of the coexistence
+of organic productions, has dogmatically substituted the false hypothesis of
+a migration, which, from predilection for Europe, is further assumed to have
+been from west to east.
+Moreover, on the southern declivity of the Himalaya, where the ascending
+current deposits the exhalations rising from a vigorous Indian vegetation,
+the region of perpetual snow begins at an elevation of 11,000 or 12,000 feet
+above the level of the sea,* thus setting a limit to the development of
+organic
+p 31
+life in a zone that is nearly 3000 feet lower than that to which it attains
+in the equinoctial region of the Cordilleras.
+[footnote] *On the southern declivity of the Himalaya, the limit of
+perpetual snow is 12,978 feet above the level of the sea; on the northern
+declivity, or, rather, on the peaks which rise above the Thibet, or
+Tartarian plateau, this limit is at 16,625 feet from 30 1/2 degrees to 32
+degrees of latitude, while at the equator, in the Andes of Quito, it is
+15,790 feet.  Such is the result I have deduced from the combination of
+numerous data furnished by Webb, Gerard, Herbert, and Moorcroft.  (See my
+two memoirs on the mountains of India, in 1816 and 1820, in the 'Ann. de
+Chimie et de Physique', t. iii., p. 303; t. xiv., p. 6, 22, 50.)  The
+greater elevation to which the limit of perpetual snow recedes on the
+Tartarian declivity is owing to the radiation of heat from the neighboring
+elevated plains, to the purity of the atmosphere, and to the infrequent
+formation of snow in an air which is both very cold and very dry.
+(Humboldt, 'Asie Centrale', t. iii., p. 281-326.)  My opinion on the
+difference of height of the snow-line on the two sides of the Himalaya has
+the high authority of Colebrooke in its favor.  He wrote to me in June,
+1824, as follows:  "I also find, from the data in my possession, that the
+elevation of the line of perpetual snow is 13,000 feet.  On the southern
+declivity, and at latitude 31 degrees, Webb's measurements give me 13,500
+feet, consequently 500 feet more than the height deduced from Captain
+Hodgson's observations.  Gerard's measurements fully confirm your opinion
+that the line of snow is higher on the northern than on the southern side."
+It was not until the present year (1840) that we obtained the complete and
+collected journal of the brothers Gerard, published under the supervision of
+Mr. Lloyd.  ('Narrative of a Journey from Cawnpoor to the Boorendo Pass, in
+the Himalaya, by Captain Alexander Gerard and John Gerard, edited by George
+Lloyd', vol. i., p. 292, 311, 320, 327 and 341.)  Many interesting details
+regarding some localities may be found in the narrative of 'A Visit to the
+Shatool, for the Purpose of determining the Line of Perpetual Snow on the
+southern face of the Himalaya, in August', 1822.  Unfortunately, however,
+these travelers always confound the elevation at which sporadic snow falls
+with the maximum of the height that the snow-line attains on the Thibetian
+plateau.  Captain Gerard distinguishes between the summits that rise in the
+middle of the plateau, where he states the elevation of the snow-line to be
+between 18,000 and 19,000 feet, and the northern slopes of the chain of the
+Himalaya, which border on the defile of the Sutledge, and can radiate but
+little heat, owing to the deep ravines with which they are intersected.  The
+elevation of the village of Tangno is given at only 9300 feet, while that of
+the plateau surrounding the sacred lake of Maqasa is 17,000 feet.  Captain
+Gerard finds the snow-line 500 feet lower on the northern slopes, where the
+chain of the Himalaya is broken through, than toward the southern
+declivities facing Hindostan, and he there estimates the line of perpetual
+snow at 15,000 feet.  The most striking differences are presented between
+the vegetation on the Thibetian plateau and that characteristic of the
+southern slopes of the Himalaya.  On the latter the cultivation of grain is
+arrested at 9974 feet and even there the corn has often to be cut when the
+blades are still green.  The extreme limit of forests of tall oaks and
+deodars is 11,960 feet; that of dwarf birches, 12,983 feet.  On the plains,
+Captain Gerard found pastures up to the height of 17,000 feet; the cereals
+will grow at 14,100 feet, or even at 18,540 feet; birches with tall stems at
+14,100 feet, and copse or brush wood applicable for fuel is found at an
+elevation of upward of 17,000 feet, that is to say, 1280 feet and above the
+lower limits of the snow-line at the equator, in the province of Quito.  It
+is very desirable that the 'mean' elevation of the Thibetian plateau, which
+I have estimated at only about 8200 feet between the Himalaya and the
+Kuen-lun, and the difference in the height of the line of perpetual snow on
+the southern and on the northern slopes of the Himalaya, should be again
+investigated by travelers who are accustomed to judge of the general
+conformation of the land.  Hitherto simple calculations have too often been
+confounded with actual measurements, and the elevations of isolated summits
+with that of the surrounding plateau.  (Compare Carl Zimmerman's excellent
+Hypsometrical Remarks in his 'Geographischen Analyse der Karte von Inner
+Asien', 1841, s. 98.)  Lord draws attention to the difference presented by
+the two faces of the Himalaya and those of the Alpine chain of Hindoo-Coosh,
+with respect to the limits of the snow-line.  "The latter chain," he says,
+"has the table-land to the south, in consequence of which the snow-line is
+higher on the southern side, contrary to what we find to be the case with
+respect to the Himalaya, which is bounded on the south by sheltered plains,
+as Hindoo-Coosh is on the north."  It must, however, be admitted that the
+hypsometrical data on which these statements are based require a critical
+revision with regard to several of their details; but still they suffice to
+establish the main fact, that the remarkable configuration of the land in
+Central Asia affords man all that is essential to the maintenance of life,
+as habitation, food, and fuel, at an elevation above the level of the sea
+which in almost all other parts of the globe is covered with perpetual ice.
+We must except the very dry districts of Bolivia, where snow is so rarely
+met with, and where Pentland (in 1838) fixed the snow-line at 15,667 feet,
+between 16 degrees and 17 3/4 degrees south latitude.  The opinion that I
+had advanced regarding the difference in the snow-line on the two faces of
+the Himalaya has been most fully confirmed by the barometrical observations
+of Victor Jacquemont, who fell an early sacrifice to his noble and unwearied
+ardor.  (See his 'Correspondance pendant son Voyage dans l'Inde', 1828 'a'
+1832, liv. 23, p. 290, 296, 299.)  "Perpetual snow," says Jacquemont,
+"descends lower on the southern than on the northern slopes of the Himalaya,
+and the limit constantly rises as we advance to the north of the chain
+bordering on India.  On the Kionbrong, about 18,317 feet in elevation,
+according to Captain Gerard, I was still considerably below the limit of
+perpetual snow which I believe to be 19,690 feet in this part of Hindostan."
+ (This estimate I consider much too high.)
+[Footnote continues]  The same traveler says, "To whatever height we rise on
+the southern declivity of the Himalaya, the climate retains the same
+character, and the same division of the seasons as in the plains of India;
+the summer solstice being every year marked by the same prevalence of rain
+which continues to fall without intermission until the autumnal equinox.
+But a new, a totally different climate begins at Kashmir, whose elevation I
+estimate to be 5350 feet, nearly equal to that of the cities of Mexico and
+Popayan" ('Correspond. de Jacquemont', t. ii., p. 58 et 74).  The warm and
+humid air of the sea, as Leopold von Buch well observes, is carried by the
+monsoons across the plains of India to the skirts of the Himalaya which
+arrest its course, and hinder it from diverging to the Thibetian districts
+of Ladak and Lassa.  Carl von Hugel estimates the elevation of the Valley of
+Kashmir above the level of the sea at 5818 feet, and bases his observation
+on the determination of the boiling point of water (see theil 11, s. 155,
+and 'Journal of Geog. Soc.', vol. vi., p. 215).  In this valley, where the
+atmosphere is scarcely ever agitated by storms, and in 34 degrees 7 minutes
+lat., snow is found, several feet in thickness, from December to March.
+p 32
+But the countries bordering on the equator possess another advantage, to
+which sufficient attention has not hitherto been
+p 33
+directed.  This portion of the surface of the globe affords in the smallest
+space the greatest possible variety of impressions from the contemplation of
+nature.  Among the colossal mountains of Cundinamarea, of Quito, and of
+Peru, furrowed by deep ravines, man is enabled to contemplate alike all the
+families of plants, and all the stars of the firmament.  There, at a single
+glance, the eye surveys majestic palms, humid forests of bambusa, and the
+varied species of Musaceae, while above these forms of tropical vegetation
+appear oaks, medlars, the sweet-brier, and umbelliferous plants, as in our
+European homes.  There as the traveler turns his eyes to the vault of
+heaven, a single glance embraces the constellation of the Southern Cross,
+the Magellanic clouds, and the guiding stars of the constellation of the
+Bear, as they circle round the arctic pole.  There the depths of the earth
+and the vaults of heaven display all the richness of their forms and the
+variety of their phenomena.  There the different climates are ranged the one
+above the other, stage by stage, like the vegetable zones, whose succession
+they limit; and there the observer may readily trace the laws that regulate
+the diminution of heat, as they stand indelibly inscribed on the rocky walls
+and abrupt declivities of the Cordilleras.
+Not to weary the reader with the details of the phenomena which I long since
+endeavored graphically to represent,* I will here limit myself to the
+consideration of a few of the general results whose combination constitutes
+the 'physical delineation of the torrid zone.'  That which, in the vagueness
+of our
+p 34
+impressions, loses all distinctness of form, like some distant mountain
+shrouded from view by a vail of mist, is clearly revealed by the light of
+mind, which, by its scrutiny into the causes of phenomena, learns to resolve
+and analyze their different elements, assigning to each its individual
+character.  Thus, in the sphere of natural investigation, as in poetry and
+painting, the delineation of that which appeals most strongly to the
+imagination, derives its collective interest from the vivid truthfulness
+with which the individual features are portrayed.
+[footnote]  *See, generally my 'Essai sur la Geographie des Plantes, et le
+Tableau physique des Regions Equinoxiales', 1807, p. 80-88.  On the diurnal
+and nocturnal variations of temperature, see Plate 9 of my 'Atlas Geogr. et
+Phys. du Nouveau Continent'; and the Tables in my work, entitled 'De
+distributione Geographica Plantarum, secundum coeli tempriem, et altitudinem
+Montium', 1817, p. 90-116; the meteorological portion of my 'Asie Centrale',
+t. iii., p. 212, 224; and, finally, the more recent and far more exact
+exposition of the variations of temperature experienced in correspondence
+with the increase of altitude on the chain of the Andes, given in
+Boussingault's Memoir, 'Sur la profondeur a laquelle on trouve, sous les
+Tropiques, la couche de Temperature Invariable.'  (Ann. de Chimie et de
+Physique, 1833, t. liii., p. 225-247.)  This treatise contains the
+elevations of 128 points, included between the level of the sea and the
+declivity of the Antisana (17,900 feet), as well as the mean temperature of
+the atmosphere, which varies with the height between 81 degrees and 35
+degrees F.
+The regions of the torrid zone not only give rise to the most powerful
+impressions by their organic richness and their abundant fertility, but they
+likewise afford the inestimable advantage of revealing to man, by the
+uniformity of the variations of the atmosphere and the development of vital
+forces, and by the contrasts of climate and vegetation exhibited at the
+different elevations, the invariability of the laws that regulate the course
+of the heavenly bodies, reflected, as it were, in terrestrial phenomena.
+Let us dwell, then, for a few moments, on the proofs of this regularity,
+which is such that it may be submitted to numerical calculation and
+computation.
+In the burning plains that rise but little above the level of the sea, reign
+the families of the banana, the cycas, and the palm, of which the number of
+species comprised in the flora of tropical regions has been so wonderfully
+increased in the present day by the zeal of botanical travelers.  To these
+groups succeed, in the Alpine valleys, and the humid and shaded clefts on
+the slopes of the Cordilleras, the tree-ferns, whose thick cylindrical
+trunks and delicate lace-like foliage stand out in bold relief against the
+azure of the sky, and the cinchona, from which we derive the febrifuge bark.
+ The medicinal strength of this bark is said to increase in proportion to
+the degree of moisture imparted to the foliage of the tree by the light
+mists which form the upper surface of the clouds resting over the plains.
+Every where around, the confines of the forest are encircled by broad bands
+of social plants, as the delicate aralia, the thibaudia, and the
+myrtle-leaved Andromeda, while the Alpine rose, the magnificent befaria,
+weaves a purple girdle round the spiry peaks.  In the cold regions of the
+Paramos, which is continually exposed to the fury of storms and winds, we
+find that flowering shrubs and herbaceous plants, bearing large and
+variegated blossoms, have given place to monocotyledons, whose slender
+spikes constitute the sole covering of the soil.  This is the zone of the
+p 35
+grasses, one vast savannah extending over the immense mountain plateaux, and
+reflecting a yellow, almost golden tinge, to the slopes of the Cordilleras,
+on which graze the lama and the cattle domesticated by the European
+colonist.  Where the naked trachyte rock pierces the grassy turf, and
+penetrates into those higher strata of air which are supposed to be less
+charged with carbonic acid, we meet only with plants of an inferior
+organization, as lichens, lecideas, and the brightly-colored, dust-like
+lepraria, scattered around in circular patches.  Islets of fresh-fallen
+snow, varying in form and extent, arrest the last feeble traces of vegetable
+development, and to these succeeds the region of perpetual snow, whose
+elevation undergoes but little change, and may be easily determined.  It is
+but rarely that the elastic forces at work within the interior of our globe
+have succeeded in breaking through the spiral domes, which, resplendent in
+the brightness of eternal snow, crown the summits of the Cordilleras; and
+even where these subterranean forces have opened a permanent communication
+with the atmosphere, through circular craters or long fissures, they rarely
+send forth currents of lava, but merely eject ignited scoriae, steam,
+sulphureted hydrogen gas, and jets of carbonic acid.
+In the earliest stages of civilization, the grand and imposing spectacle
+presented to the minds of the inhabitants of the tropics could only awaken
+feelings of astonishment and awe.  It might, perhaps, be supposed, as we
+have already said, that the periodical return of the same phenomena, and the
+uniform manner in which they arrange themselves in successive groups, would
+have enabled man more readily to attain to a knowledge of the laws of
+nature; but, as far as tradition and history guide us, we do not find that
+any application was made of the advantages presented by these favored
+regions.  Recent researches have rendered it very doubtful whether the
+primitive seat of Hindoo civilization — one of the most remarkable phases
+in the progress of mankind — was actually within the tropics.  Airyana
+Vaedjo, the ancient cradle of the Zend, was situated to the northwest of the
+upper Indus, and after the great religious schism, that is to say, after the
+separation of the Iranians from the Brahminical institution, the language
+that had previously been common to them and to the Hindoos assumed among the
+latter people (together with the literature, habits, and conditions of
+society) an individual form in the Magodha of Madhya Desa,* a district that
+is bounded by the great chain
+p 36
+of Himalaya and the smaller range of the Vindhya.
+[footnote] *See, on the Madhjadeca, properly so called, Lassen's excellent
+work, entitled 'Indische Alterthumskunde', bd. i., s. 92.  The Chinese give
+the name of Mo-kie-thi to the southern Bahar, situated to the south of the
+Ganges (see 'Foe-Koue-Ki' by, 'Chy-Fa-Hian', 1836, p. 256).  Djambu-dwipa is
+the name given to the whole of India; but the words also indicate one of the
+four Buddhist continents.
+In less ancient times the Sanscrit language and civilization advanced toward
+the southeast, penetrating further within the torrid zone, as my brother
+Wilhelm von Humboldt has shown in his great work on the Kavi and other
+languages of analogous structure.*
+[Footnote] *'Ueber die Kawi Sprache auf der Insel Java, nebst einer
+
+Einleitung uber die Verschiedenheit des menschlichen Sprachbaues und ihren
+
+Ein fluss auf die geistige Entwickelung des Menschengrshlecht's' von Wilhelm
+
+v. Humboldt, 1836, bd. i., s. 50519.
+Notwithstanding the obstacles opposed in northern latitudes to the discovery
+of the laws of nature, owing to the excessive complication of phenomena, and
+the perpetual local variations and the distribution of organic forms, it is
+to the inhabitants of a small section of the temperate zone that the rest of
+mankind owe the earliest revelation of an intimate and rational acquaintance
+with the forces governing the physical world.  Moreover, it is from the same
+zone (which is apparently more favorable to the progress of reason, the
+softening of manners, and the security of public liberty) that the germs of
+civilization have been carried to the regions of the tropics, as much by the
+migratory movement of races as by the establishment of colonies, differing
+widely in their institution from those of the Phoenicians or Greeks.
+In speaking of the influence exercised by the succession of phenomena on the
+greater or lesser facility of recognizing the causes producing them, I have
+touched upon that important stage of our communion with the external world,
+when the enjoyment arising from a knowledge of the laws, and the mutual
+connection of phenomena, associates itself with the charm of a simple
+contemplation of nature.  That which for a long time remains merely an
+object of vague intuition, by degrees acquires the certainty of positive
+truth; and man, as an immortal poet has said, in our own tongue — Amid
+ceaseless change seeks the unchanging pole.*
+[Footnote]  *This verse occurs in a poem of Schiller, entitled 'Der
+
+Spaziergang' which first appeared in 1795, in the 'Horen.'
+In order to trace to its primitive source the enjoyment derived from the
+exercise of thought, it is sufficient to cast a rapid glance on the earliest
+dawnings of the philosophy of nature, or of the ancient doctrine of the
+'Cosmos.'  We find even
+p 37
+among the most savage nations (as my own travels enable me to attest) a
+certain vague, terror-stricken sense of the all-powerful unity of natural
+forces, and of the existence of an invisible, spiritual essence manifested
+in these forces, whether in unfolding the flower and maturing the fruit of
+the nutrient tree, in upheaving the soil of the forest, or in rending the
+clouds with the might of the storm.  We may here trace the revelation of a
+bond of union, linking together the visible world and that higher spiritual
+world which escapes the grasp of the senses.  The two become unconsciously
+blended together, developing in the mind of man, as a simple product of
+ideal conception and independently of the aid of observation, the first germ
+of a 'Philosophy of Nature.'
+Among nations least advanced in civilization, the imagination revels in
+strange and fantastic creations, and, by its predilection for symbols, alike
+influences ideas and language.  Instead of examining, men are led to
+conjecture, dogmatize, and interpret supposed facts that have never been
+observed.  The inner world of thought and of feeling does not reflect the
+image of the external world in its primitive purity.  That which in some
+regions of the earth manifested itself as the rudiments of natural
+philosophy, only to a small number of persons endowed with superior
+intelligence, appears in other regions, and among entire races of men, to be
+the result of mystic tendencies and instinctive intuitions.  An intimate
+communion with nature, and the vivid and deep emotions thus awakened, are
+likewise the source from which have sprung the first impulses toward the
+worship and deification of the destroying and preserving forces of the
+universe.  But by degrees, as man, after having passed through the different
+gradations of intellectual development, arrives at the free enjoyment of the
+regulating power of reflection, and learns by gradual progress, as it were,
+to separate the world of ideas from that of sensations, he no longer rests
+satisfied merely with a vague presentiment of the harmonious unity of
+natural forces; thought begins to fulfill its noble mission; and
+observation, aided by reason, endeavors to trace phenomena to the causes
+from which they spring.
+The history of science teaches us the difficulties that have opposed the
+progress of this active spirit of inquiry.  Inaccurate and imperfect
+observations have led, by false inductions, to the great number of physical
+views that have been perpetuated as popular prejudices among all classes of
+society.  Thus by the side of a solid and scientific knowledge of natural
+phenomena there has been preserved a system of the pretended
+p 38
+results of observation, which is so much the more difficult to shake, as it
+denies the validity of the facts by which it may be refuted.  This
+empiricism, the melancholy heritage transmitted to us from former times,
+invariably contends for the truth of its axioms with the arrogance of a
+narrow-minded spirit.  Physical philosophy, on the other hand, when based
+upon science, doubts because it seeks to investigate, distinguishes between
+that which is certain and that which is merely probable, and strives
+incessantly to perfect theory by extending the circle of observation.
+This assemblage of imperfect dogmas, bequeathed by one age to another —
+this physical philosophy, which is composed of popular prejudices — is not
+only injurious because it perpetuates error with the obstinacy engendered by
+the evidence of ill-observed facts, but also because it hinders the mind
+from attaining to higher views of nature.  Instead of seeking to discover
+the 'mean'  or 'medium' point, around which oscillate, in apparent
+independence of forces, all the phenomena of the external world, this system
+delights in multiplying exceptions to the law, and seeks, amid phenomena and
+in organic forms for something beyond the marvel of a regular succession,
+and an internal and progressive development.  Ever inclined to believe that
+the order of nature is disturbed, it refuses to recognize in the present any
+analogy with the past, and guided by its own varying hypotheses, seeks at
+hazard, either in the interior of the globe or in the regions of space, for
+the cause of these pretended perturbations.
+It is the special object of the present work to combat those errors which
+derive their source from a vicious empiricism and from imperfect inductions.
+ The higher enjoyments yielded by the study of nature depend upon the
+correctness and the depth of our views, and upon the extent of the subjects
+that may be comprehended in a single glance.  Increased mental cultivation
+has given rise, in all classes of society, to an increased desire of
+embellishing life by augmenting the mass of ideas, and by multiplying means
+for their generalization; and this sentiment fully refutes the vague
+accusations advanced against the age in which we live, showing that other
+interests, besides the material wants of life, occupy the minds of men.
+It is almost with reluctance that I am about to speak of a sentiment, which
+appears to arise from narrow-minded views, or from a certain weak and morbid
+sentimentality — I allude to the 'fear' entertained by some persons, that
+nature may by degrees lose a portion of the charm and magic of her power,
+p 39
+as we learn more and more how to unvail her secrets, comprehend the
+mechanism of the movements of the heavenly bodies, and estimate numerically
+the intensity of natural forces.  It is true that, properly speaking, the
+forces of nature can only exercise a magical power over us as long as their
+action is shrouded in mystery and darkness, and does not admit of being
+classed among the conditions with which experience has made us acquainted.
+The effect of such a power is, therefore, to excite the imagination, but
+that, assuredly, is not the faculty of mind we would evoke to preside over
+the laborious and elaborate observations by which we strive to attain to a
+knowledge of the greatness and excellence of the laws of the universe.
+The astronomer who, by the aid of the heliometer or a double-refracting
+prism,* determines the diameter of planetary bodies; who measures patiently
+year after year, the meridian altitude and the relative distances of stars,
+or who seeks a telescopic comet in a group of nebulae, does not feel his
+imagination more excited — and this is the very guarantee of the precision
+of his labors — than the botanist who counts the divisions of the calyx, or
+the number of stamens in a flower, or examines the connected or the separate
+teeth of the peristoma surrounding the capsule of a moss.  Yet the
+multiplied angular measurements on the one hand, and the detail of organic
+relations on the other, alike aid in preparing the way for the attainment of
+higher views of the laws of the universe.
+[Footnote]  *Arago's ocular micrometer, a happy improvement upon Rochon's
+prismatic or double-refraction micrometer.  See M. Mathieu's note in
+Delambre's 'Histoire de l'Astronomie au dix-huitieme Siecle', 1827.
+We must not confound the disposition of mind in the observer at the time he
+is pursuing his labors, with the ulterior greatness of the views resulting
+from investigation and the exercise of thought.  The physical philosopher
+measures with admirable sagacity the waves of light of unequal length which
+by interference mutually strengthen or destroy each other, even with respect
+to their chemical actions; the astronomer, armed with powerful telescopes,
+penetrates the regions of space, contemplates, on the extremest confines of
+our solar system, the satellites of Uranus, or decomposes faintly sparkling
+points into double stars differing in color.  The botanist discovers the
+constancy of the gyratory motion of the chara in the greater number of
+vegetable cells, and recognizes in the genera and natural families of plants
+the intimate relations or organic forms.  The vault of heaven, studded with
+nebulae
+p 40
+and stars, and the rich vegetable mantle that covers the soil in the climate
+of palms, can not surely fail to produce on the minds of these laborious
+observers of nature an impression more imposing and more worthy of the
+majesty of creation than on those who are unaccustomed to investigate the
+great mutual relations of phenomena.  I can not, therefore, agree with Burke
+when he says, "it is our ignorance of natural things that causes all our
+admiration and chiefly excites our passions."
+While the illusion of the senses would make the stars stationary in the
+vault of heaven, Astronomy, by her aspiring labors, has assigned indefinite
+bounds to space; and if she have set limits to the great nebula to which our
+solar system belongs, it has only been to show us in those remote regions of
+our optic powers, islet on islet of scattered nebulae.  The feeling of the
+sublime, so far as it arises from a contemplation of the distance of the
+stars, of their greatness and physical extent, reflects itself in the
+feeling of the infinite, which belongs to another sphere of ideas included
+in the domain of mind.  The solemn and imposing impressions excited by this
+sentiment are owing to the combination of which we have spoken, and to the
+analogous character of the enjoyment and emotions awakened in us, whether we
+float on the surface of the great deep, stand on some lonely mountain summit
+enveloped in the half-transparent vapory vail of the atmosphere, or by the
+aid of powerful optical instruments scan the regions of space, and see the
+remote nebulous mass resolve itself into worlds of stars.
+The mere accumulation of unconnected observations of details, devoid of
+generalization of ideas, may doubtlessly have tended to create and foster
+the deeply-rooted prejudice, that the study of the exact sciences must
+necessarily chill the feelings, and diminish the nobler enjoyments attendant
+upon a contemplation of nature.  Those who still cherish such erroneous
+views in the present age, and amid the progress of public opinion, and the
+advancement of all branches of knowledge, fail in duly appreciating the
+value of every enlargement of the sphere of intellect, and the importance of
+the detail of isolated facts in leading us on to general results.  The fear
+of sacrificing the free enjoyment of nature, under the influence of
+scientific reasoning, is often associated with an apprehension that every
+mind may not be capable of grasping the truths of the philosophy of nature.
+It is certainly true that in the midst of the universal fluctuation of
+phenomena and vital
+p 41
+forces — in that inextricable net-work of organisms by turns developed and
+destroyed — each step that we make in the more intimate knowledge of nature
+leads us to the entrance of new labyrinths; but the excitement produced by a
+presentiment of discovery, the vague intuition of the mysteries to be
+unfolded, and the multiplicity of the paths before us, all tend to stimulate
+the exercise of thought in every stage of knowledge.  The discovery of each
+separate law of nature leads to the establishment of some other more general
+law, or at least indicates to the intelligent observer its existence.
+Nature, as a celebrated physiologist* has defined it, and as the word was
+interpreted by the Greeks and Romans, is "that which is ever growing and
+ever unfolding itself in new forms."
+[Footnote] *Carus, 'Von den Urtheilen des Knochen und Schalen Gerustes',
+1828 6.
+The series of organic types becomes extended or perfected in proportion as
+hitherto unknown regions are laid open to our view by the labors and
+researches of travelers and observers; as living organisms are compared with
+those which have disappeared in the great revolutions of our planet; and as
+microscopes are made more perfect, and are more extensively and efficiently
+employed.  In the midst of this immense variety, and this periodic
+transformation of animal and vegetable productions, we see incessantly
+revealed the primordial mystery of all organic development, that same great
+problem of 'metamorphosis' which Göthe has treated with more than common
+sagacity, and to the solution of which man is urged by his desire of
+reducing vital forms to the smallest number of fundamental types.  As men
+contemplate the riches of nature, and see the mass of observations
+incessantly increasing before them, they become impressed with the intimate
+conviction that the surface and the interior of the earth, the depths of the
+ocean, and the regions of air will still, when thousands and thousands of
+years have passed away, open to the scientific observer untrodden paths of
+discovery.  The regret of Alexander can not be applied to the progress of
+observation and intelligence.*
+[footnote] * Plut., in 'Vita Alex. Magni', cap. 7
+General considerations, whether they treat of the agglomeration of matter in
+the heavenly bodies, or of the geographical distribution of terrestrial
+organisms, are not only in themselves more attractive than special studies,
+but they also afford superior advantages to those who are unable to devote
+much time to occupations of this nature.  The different branches of the
+study of natural history are only accessible in certain positions of social
+life, and do not, at every season
+p 42
+and in every climate, present like enjoyments.  Thus, in the dreary regions
+of the north, man is deprived for a long period of the year of the spectacle
+presented by the activity of the productive forces of organic nature; and if
+the mind be directed to one sole class of objects, the most animated
+narratives of voyages in distant lands will fail to interest and attract us,
+if they do not touch upon the subjects to which we are most partial.
+As the history of nations — if it were always able to trace events to their
+true causes — might solve the ever-recurring enigma of the oscillations
+experienced by the alternately progressive and retrograde movement of human
+society, so might also the physical description of the world, the science of
+the 'Cosmos', if it were grasped by a powerful intellect, and based upon a
+knowledge of all the results of discovery up to a given period, succeed in
+dispelling a portion of the contradictions which, at first sight, appear to
+arise from the complication or phenomena and the multitude of the
+perturbations simultaneously manifested.
+The knowledge of the laws of nature, whether we can trace them in the
+alternate ebb and flow of the ocean, in the measured path of comets, or in
+the mutual attractions of multiple stars, alike increases our sense of the
+calm of nature, while the chimera so long cherished by the human mind in its
+early and intuitive contemplations, the belief in a "discord of the
+elements," seems gradually to vanish in proportion as science extends her
+empire.  General views lead us habitually to consider each organism as a
+part of the entire creation, and to recognize in the plant or the animal not
+merely an isolated species, but a form linked in the chain of being to other
+forms either living or extinct.  They aid us in comprehending the relations
+that exist between the most recent discoveries and those which have prepared
+the way for them.  Although fixed to one point of space, we eagerly grasp at
+a knowledge of that which has been observed in different and far-distant
+regions.  We delight in tracking the course of the bold mariner through seas
+of polar ice, or in following him to the summit of that volcano of the
+antarctic pole, whose fires may be seen from afar, even at mid-day.  It is
+by an acquaintance with the results of distant voyages that we may learn to
+comprehend some of the marvels of terrestrial magnetism, and be thus led to
+appreciate the importance of the establishments of the numerous
+observatories which in the present day cover both hemispheres, and are
+designed to note
+p 43
+the simultaneous occurrence of perturbations, and the frequency and duration
+of 'magnetic storms.'
+Let me be permitted here to touch upon a few points connected with
+discoveries, whose importance can only be estimated by those who have
+devoted themselves to the study of the physical sciences generally.
+Examples chosen from among the phenomena to which special attention has been
+directed in recent times, will throw additional light upon the preceding
+considerations.  Without a preliminary knowledge of the orbits of comets, we
+should be unable duly to appreciate the importance attached to the discovery
+of one of these bodies, whose elliptical orbit is included in the narrow
+limits of our solar system, and which has revealed the existence of an
+ethereal fluid, tending to diminish its centrifugal force and the period of
+its revolution.
+The superficial half-knowledge, so characteristic of the present day, which
+leads to the introduction of vaguely comprehended scientific views into
+general conversation, also gives rise, under various forms, to the
+expression of alarm at the supposed danger of a collision between the
+celestial bodies, or of disturbance in the climatic relations of our globe.
+These phantoms of the imagination are so much the more injurious as they
+derive their source from dogmatic pretensions to true science.  The history
+of the atmosphere, and of the annual variations of its temperature, extends
+already sufficiently far back to show the recurrence of slight disturbances
+in the mean temperature of any given place, and thus affords sufficient
+guarantee against the exaggerated apprehension of a general and progressive
+deterioration of the climates of Europe.  Encke's comet, which is one of the
+three 'interior comets', completes its course in 1200 days, but from the
+form and position of its orbit it is as little dangerous to the earth as
+Halley's great comet, whose revolution is not completed in less than
+seventy-six years (and which appeared less brilliant in 1835 than it had
+done in 1759):  the interior comet of Biela intersects the earth's orbit, it
+is true, but it can only approach our globe when its proximity to the sun
+coincides with our winter solstice.
+The quantity of heat received by a planet, and whose unequal distribution
+determines the meteorological variations of its atmosphere, depends alike
+upon the light-engendering force of the sun; that is to say, upon the
+condition of its gaseous coverings, and upon the relative position of the
+planet and the central body.
+p 44
+There are variations, it is true, which, in obedience to the laws of
+universal gravitation, affect the form of the earth's orbit and the
+inclination of the ecliptic, that is, the angle which the axis of the earth
+makes with the plane of its orbit; but these periodical variations are so
+slow, and are restricted within such narrow limits, that their thermic
+effects would hardly be appreciable by our instruments in many thousands of
+years.  The astronomical causes of a refrigeration of our globe, and of the
+diminution of moisture at its surface, and the nature and frequency of
+certain epidemics — phenomena which are often discussed in the present day
+according to the benighted views of the Middle Ages — ought to be
+considered as beyond the range of our experience in physics and chemistry.
+Physical astronomy presents us with other phenomena, which can not be fully
+comprehended in all their vastness without a previous acquirement of general
+views regarding the forces that govern the universe.  Such, for instance,
+are the innumerable double stars, or rather suns, which revolve round one
+common center of gravity, and thus reveal in distant worlds the existence of
+the Newtonian law; the larger or smaller number of spots upon the sun, that
+is to say, the openings formed through the luminous and opaque atmosphere
+surrounding the solid nucleus; and the regular appearance about the 13th of
+November and the 11th of August, of shooting stars, which probably form part
+of a belt of asteroids, intersecting the earth's orbit, and moving with
+planetary velocity.
+Descending from the celestial regions to the earth, we would fain inquire
+into the relations that exist between the oscillations of the pendulum in
+air (the theory of which has been perfected by Bessel) and the density of
+our planet; and how the pendulum, acting the part of a plummet, can, to a
+certain extent, throw light upon the geological constitution of strata at
+great depths?  By means of this instrument we are enabled to trace the
+striking analogy which exists between the formation of the granular rocks
+composing the lava currents ejected from active volcanoes, and those
+endogenous masses of granite, porphyry, and serpentine, which, issuing from
+the interior of the earth, have broken, as eruptive rocks, through the
+secondary strata, and modified them by contact, either in rendering them
+harder by the introduction of silex, or reducing them into dolomite, or,
+finally, by inducing within them the formation of crystals of the most
+varied composition.  The elevation of sporadic islands, of
+p 45
+domes of trachyte, and cones of basalt, by the elastic forces emanating from
+the fluid interior of our globe, has led one of the first geologists of the
+age, Leopold von Buch, to the theory of the elevation of continents, and of
+mountain chains generally.  This action of subterranean forces in breaking
+through and elevating strata of sedimentary rocks, of which the coast of
+Chili, in consequence of a great earthquake, furnished a recent example,
+leads to the assumption that the pelagic shells found by M. Bonpland and
+myself on the ridge of the Andes, at an elevation of more than 15,000
+English feet, may have been conveyed to so extraordinary a position, not by
+a rising of the ocean, but by the agency of volcanic forces capable of
+elevating into ridges the softened crust of the earth.
+I apply the term 'volcanic', in the widest sense of the word, to every
+action exercised by the interior of a planet on its external crust.  The
+surface of our globe, and that of the moon, manifest traces of this action,
+which in the former, at least, has varied during the course of ages.  Those
+who are ignorant of the fact that the internal heat of the earth increases
+so rapidly with the increase of depth that granite is in a state of fusion
+about twenty or thirty geographical miles below the surface,* can not have a
+clear conception of the causes, and the simultaneous occurrence of volcanic
+eruptions at places widely removed from one another, or of the extent and
+intersection of 'circles of commotion' in earthquakes, or of the uniformity
+of temperature, and equality of chemical composition observed in thermal
+springs during a long course of years.
+[Footnote]  * The determinations usually given of the point of fusion are in
+general much too high for refracting substances.  According to the very
+accurate researches of Mitscherlich, the melting point of granite can hardly
+exceed 2372 degrees F.
+[Dr. Mantell states in 'The Wonders of Geology', 1848, vol. i., p. 34, that
+this increase of temperature amounts to 1 degree of Fahrenheit for every
+fifty-four feet of vertical depth.] — Tr.
+The quantity of heat peculiar to a planet is, however, a matter of such
+importance — being the result of its primitive condensation, and varying
+according to the nature and duration of the radiation — that the study of
+this subject may throw some degree of light on the history of the
+atmosphere, and the distribution of the organic bodies imbedded in the solid
+crust of the earth.  This study enables us to understand how a tropical
+temperature, independent of latitude (that is, of the distance from the
+poles), may have been produced by deep fissures remaining open, and exhaling
+heat from the interior
+p 46
+of the globe, at a period when the earth's crust was still furrowed and
+rent, and only in a state of semi-solidification; and a primordial condition
+is thus revealed to us, in which the temperature of the atmosphere, and
+climates generally, were owing rather to a liberation of caloric and of
+different gaseous emanations (that is to say, rather to the energetic
+reaction of the interior on the exterior) than to the position of the earth
+with respect to the central body, the sun.
+The cold regions of the earth contain, deposited in sedimentary strata, the
+products of tropical climates; thus, in the coal formations, we find the
+trunks of palms standing upright amid coniferae, tree ferns, goniatites, and
+fishes having rhomboidal osseous scales;* in the Jura limestone, colossal
+skeletons of crocodiles, plesiosauri, planulites, and stems of the cycadeae;
+in the chalk formations, small polythalmia and bryozoa, whose species still
+exist in our seas; in tripoli, or polishing slate, in the semi-opal and the
+farina-like opal or mountain meal, agglomerations of siliceous infusoria,
+which have been brought to light by the powerful microscope of Ehrenberg;**
+and, lastly, in transported soils, and in certain caves, the bones of
+elephants, hyenas, and lions.
+[Footnote] *See the classical work on the fishes of the Old World by
+Agassiz, 'Rech. sur les Poissons Fossiles', 1834, vol. i., p. 38; vol. ii.,
+p. 3, 28, 34, App., p. 6.  The whole genus of Amblypterus, Ag., nearly
+allied to Palaeoniscus (called also Palaeothrissum), lies buried beneath the
+Jura formations in the old carboniferous strata.  Scales which, in some
+fishes, as in the family of Lepidoides (order of Ganoides), are formed like
+teeth, and covered in certain parts with enamel, belong, after the
+Placoides, to the oldest forms of fossil fishes; their living
+representatives are still found in two genera, the 'Bichir' of the Nile and
+Senegal, and the 'Lepidosteus' of the Ohio.
+[Footnote] **[The 'polishing slate' of Bilin is stated by M. Ehrenberg to
+form a 'series' of strata fourteen feet in thickness, entirely made up of
+the siliceous shells of 'Gaillonellae', of such extreme minuteness that a
+cubic inch of the stone contains forty-one thousand millions!  The
+'Bergmehl' ('mountain meal' or 'fossil farina') of San Fiora, in Tuscany, is
+one mass of animalculites.  See the interesting work of G. A. Mantell, 'On
+the Medals of Creation', vol. i., p. 233.] — Tr.
+An intimate acquaintance with the physical phenomena of the universe leads
+us to regard the products of warm latitudes that are thus found in a fossil
+condition in northern regions not merely as incentives to barren curiosity,
+but as subjects awakening deep reflection, and opening new sources of study.
+The number and the variety of the objects I have alluded to give rise to the
+question whether general considerations of physical phenomena can be made
+sufficiently clear to persons who have not acquired a detailed and special
+knowledge of
+p 47
+descriptive natural history, geology, or mathematical astronomy?  I think we
+ought to distinguish here between him whose task it is to collect the
+individual details of various observations, and study the mutual relations
+existing among them, and him to whom these relations are to be revealed,
+under the form of general results.  The former should be acquainted with the
+specialities of phenomena, that he may arrive at a generalization of ideas
+as the result, at least in part, of his own observations, experiments, and
+calculations.  It can not be denied, that where there is an absence of
+positive knowledge of physical phenomena, the general results which impart
+so great a charm to the study of nature can not all be made equally clear
+and intelligible to the reader, but still I venture to hope, that in the
+work which I am now preparing on the physical laws of the universe, the
+greater part of the facts advanced can be made manifest without the
+necessity of appealing to fundamental views and principles.  The picture of
+nature thus drawn, notwithstanding the want of distinctness of some of its
+outlines, will not be the less able to enrich the intellect, enlarge the
+sphere of ideas, and nourish and vivify the imagination.
+There is, perhaps, some truth in the accusation advanced against many German
+scientific works, that they lessen the value of general views by an
+accumulation of detail, and do not sufficiently distinguish between those
+great results which form, as it were, the beacon lights of science, and the
+long series of means by which they have been attained.  This method of
+treating scientific subjects led the most illustrious of our poets* to
+exclaim with impatience, "The Germans have the art of making science
+inaccessible."  An edifice can not produce a striking effect until the
+scaffolding is removed, that had of necessity been used during its erection.
+[Footnote]  *Gothe, in 'Die Aphorismen uber Naturwissenschaft', bd. I., s.
+155 ('Werke kleine Ausgabe','von' 1833.)
+Thus the uniformity of figure observed in the distribution of continental
+masses, which all terminate toward the south in a pyramidal form, and expand
+toward the north (a law that determines the nature of climates, the
+direction of currents in the ocean and the atmosphere, and the transition of
+certain types of tropical vegetation toward the southern temperate zone),
+may be clearly apprehended without any knowledge of the geodesical and
+astronomical operations by means of which these pyramidal forms of
+continents have been determined.  In like manner, physical geography teaches
+us by how many leagues
+p 48
+the equatorial axis exceeds the polar axis of the globe, and shows us the
+mean equality of the flattening of the two hemispheres, without entailing on
+us the necessity of giving the detail of the measurement of the degrees in
+the meridian, or the observations on the pendulum, which have led us to know
+that the true figure of our globe is not exactly that of a regular ellipsoid
+of revolution, and that this irregularity is reflected in the corresponding
+irregularity of the movements of the moon.
+The views of comparative geography have been specially enlarged by that
+admirable work, 'Erdkunde im Verhältniss zur Natur und sur Geschichte', in
+which Carl Ritter so ably delineates the physiognomy of our globe, and shows
+the influence of its external configuration on the physical phenomena on its
+surface, on the migrations, laws, and manners of nations, and on all the
+principal historical events enacted upon the face of the earth.
+France possesses an immortal work, 'L'Exposition du Système du Monde', in
+which the author has combined the results of the highest astronomical and
+mathematical labors, and presented them to his readers free from all
+processes of demonstration.  The structure of the heavens is here reduced to
+the simple solution of a great problem in mechanics; yet Laplace's work has
+never yet been accused of incompleteness and want of profundity.
+The distinction between dissimilar subjects, and the separation of the
+general from the special, are not only conducive to the attainment of
+perspicuity in the composition of a physical history of the universe, but
+are also the means by which a character of greater elevation may be imparted
+to the study of nature.  By the suppression of all unnecessary detail, the
+great masses are better seen, and the reasoning faculty is enabled to grasp
+all that might otherwise escape the limited range of the senses.
+The exposition of general results has, it must be owned, been singularly
+facilitated by the happy revolution experienced since the close of the last
+century, in the condition of all the special sciences, more particularly of
+geology, chemistry, and descriptive natural history.  In proportion as laws
+admit of more general application, and as sciences mutually enrich each
+other, and by their extension become connected together in more numerous and
+more intimate relations, the development of general truths may be given with
+conciseness devoid of superficiality.  On being first examined, all
+phenomena appear to be
+p 49
+isolated, and it is only by the result of a multiplicity of observations,
+combined by reason, that we are able to trace the mutual relations existing
+between them.  If, however, in the present age, which is so strongly
+characterized by a brilliant course of scientific discoveries, we perceive a
+want of connection in the phenomena of certain sciences, we may anticipate
+the revelation of new facts, whose importance will probably be commensurate
+with the attention directed to these branches of study.  Expectations of
+this nature may be entertained with regard to meteorology, several parts of
+optics, and to radiating heat, and electro-magnetism, since the admirable
+discoveries of Melloni and Faraday.  A fertile field is here opened to
+discovery, although the voltaic pile has already taught us the intimate
+connection existing between electric, magnetic, and chemical phenomena.  Who
+will venture to affirm that we have any precise knowledge, in the present
+day, of that part of the atmosphere which is not oxygen, or that thousands
+of gaseous substances affecting our organs may not be mixed with the
+nitrogen, or, finally, that we have even discovered the whole number of the
+forces which pervade the universe?
+It is not the purpose of this essay on the physical history of the world to
+reduce all sensible phenomena to a small number of abstract principles,
+based on reason only.  The physical history of the universe, whose
+exposition I attempt to develop, does not pretend to rise to the perilous
+abstractions of a purely rational science of nature, and is simply a
+'physical geography, combined with a description of the regions of space and
+the bodies occupying them.'  Devoid of the profoundness of a purely
+speculative philosophy, my essay on the 'Cosmos' treats of the contemplation
+of the universe, and is based upon a rational empiricism, that is to say,
+upon the results of the facts registered by science, and tested by the
+operations of the intellect.  It is within these limits alone that the work,
+which I now venture to undertake, appertains to the sphere of labor to which
+I have devoted myself throughout the course of my long scientific career.
+The path of inquiry is not unknown to me, although it may be pursued by
+others with greater success.  The unity which I seek to attain in the
+development of the great phenomena of the universe, is analogous to that
+which historical composition is capable of acquiring.  All points relating
+to the accidental individualities, and the essential variations of the
+actual, whether in the form and arrangement of natural objects in the
+struggle of man against the elements, or of nations against nations, do not
+admit of being
+p 50
+based only on a 'rational foundation' — that is to say, of being deduced
+from ideas alone.
+It seems to me that a like degree of empiricism attaches to the Description
+of the Universe and to Civil History; but in reflecting upon physical
+phenomena and events, and tracing their causes by the process of reason, we
+become more and more convinced of the truth of the ancient doctrine, that
+the forces inherent in matter, and those which govern the moral necessity,
+and in accordance with movements occurring periodically after longer or
+shorter intervals.
+It is this necessity, this occult but permanent connection, this periodical
+recurrence in the progressive development of forms, phenomena, and events,
+which constitute 'nature', obedient to the first impulse imparted to it.
+Physics, as the term signifies, is limited to the explanation of the
+phenomena of the material world by the properties of matter.  The ultimate
+object of the experimental sciences is, therefore, to discover laws, and to
+trace their progressive generalization.  All that exceeds this goes beyond
+the province of the physical description of the universe, and appertains to
+a range of higher speculative views.
+Emmanuel Kant, one of the few philosophers who have escaped the imputation
+of impiety, has defined with rare sagacity the limits of physical
+explanations, in his celebrated essay 'On the Theory and Structure of the
+Heavens', published at Konigsberg in 1755.
+The study of a science that promises to lead us through the vast range of
+creation may be compared to a journey in a far-distant land.  Before we set
+forth, we consider, and often with distrust, our own strength, and that of
+the guide we have chosen.  But the apprehensions which have originated in
+the abundance and the difficulties attached to the subjects we would
+embrace, recede from view as we remember that with the increase of
+observations in the present day there has also arisen a more intimate
+knowledge of the connection existing among all phenomena.  It has not
+unfrequently happened, that the researches made at remote distances have
+often and unexpectedly thrown light upon subjects which had long resisted
+the attempts made to explain them within the narrow limits of our own sphere
+of observation.  Organic forms that had long remained isolated, both in the
+animal and vegetable kingdom, have been connected by the discovery of
+intermediate links or stages of transition.  The geography of beings endowed
+p 51
+with life attains completeness as we see the species, genera, and entire
+families belonging to one hemisphere, reflected as it were, in analogous
+animal and vegetable forms in the opposite hemisphere.  There are, so to
+speak, the 'equivalents' which mutually personate and replace one another in
+the great series of organisms.  These connecting links and stages of
+transition may be traced, alternately, in a deficiency or an excess of
+development of certain parts, in the mode of junction of distinct organs, in
+the differences in the balance of forces, or in a resemblance to
+intermediate forms which are not permanent, but merely characteristic of
+certain phases of normal development.  Passing from the consideration of
+beings endowed with life to that of inorganic bodies, we find many striking
+illustrations of the high state of advancement to which modern geology has
+attained.  We thus see, according to the grand views of Elie de Beaumont,
+how chains of mountains dividing different climates and floras and different
+races of men, reveal to us their 'relative age', both by the character of
+the sedimentary strata they have uplifted, and by the directions which they
+follow over the long fissures and which the earth's crust is furrowed.
+Relations of superposition of trachyte and of syenitic porphyry, of diorite
+and of serpentine, which remain in the rich platinum districts of the Oural,
+and on the south-western declivity of the Siberian Alti, are elucidated by
+the observations that have been made on the plateaux of Mexico and
+Antioquia, and in the unhealthy ravines of Choco.  The most important facts
+on which the physical history of the world has been based in modern times,
+have not been accumulated by chance.  It has at length been fully
+acknowledged, and the conviction is characteristic of the age, that the
+narratives of distant travels, too long occupied in the mere recital of
+hazardous adventures, can only be made a source of instruction where the
+traveler is acquainted with the condition of the science he would enlarge,
+and is guided by reason in his researches.
+It is by this tendency to generalization, which is only dangerous in its
+abuse, that a great portion of the physical knowledge already acquired may
+be made the common property of all classes of society; but, in order to
+render the instruction impaired by these means commensurate with the
+importance of the subject, it is desirable to deviate as widely as possible
+from the imperfect compilations designated, till the close of the eighteenth
+century, by the inappropriate term of 'popular
+p 52
+knowledge.'  I take pleasure in persuading myself that scientific subjects
+may be treated of in language at once dignified, grave, and animated, and
+that those who are restricted within the circumscribed limits of ordinary
+life, and have long remained strangers to an intimate communion with nature,
+may thus have opened to them one of the richest sources of enjoyment, by
+which the mind is invigorated by the acquisition of new ideas.  Communion
+with nature awakens within us perceptive faculties that had long lain
+dormant; and we thus comprehend at a single glance the influence exercised
+by physical discoveries on the enlargement of the sphere of intellect, and
+perceive how a judicious application of mechanics, chemistry, and other
+sciences may be made conducive to national prosperity.
+A more accurate knowledge of the connection of physical phenomena will also
+tend to remove the prevalent error that all branches of natural science are
+not equally important in relation to general cultivation and industrial
+progress.  An arbitrary distinction is frequently made between the various
+degrees of importance appertaining to mathematical sciences, to the study of
+organized beings, the knowledge of electro-magnetism, and investigations of
+the general properties of matter in its different conditions of molecular
+aggregation; and it is not uncommon presumptuously to affix a supposed
+stigma upon researches of this nature, by terming them "purely theoretical,"
+forgetting , although the fact has been long attested, that in the
+observation of a phenomenon, which at first sight appears to be wholly
+isolated, may be concealed the germ of a great discovery.  When Aloysio
+Galvani first stimulated the nervous fiber by the accidental contact of two
+heterogeneous metals, his contemporaries could never have anticipated that
+the action of the voltaic pile would discover to us, in the alkalies, metals
+of a silvery luster, so light as to swim on water, and eminently
+inflammable; or that it would become a powerful instrument of chemical
+analysis, and at the same time a thermoscope and a magnet.  When Hygens
+first observed, in 1678, the phenomenon of the polarization of light,
+exhibited in the difference between the two rays into which a pencil of
+light divides itself in passing through a doubly refracting crystal, it
+could not have been foreseen that, a century and a half later, the great
+philosopher Arago would, by his discovery of 'chromatic polarization', be
+led to discern, by means of a small fragment of Iceland spar, whether solar
+light emanates from a solid body or a gaseous covering, or
+p 53
+whether comets transmit light directly or merely by reflection.*
+[Footnote]  *Arago's Discoveries in the year 1811. — Delambro's 'Histoire
+de l'Ast.', p. 652.  (Passage already quoted.)
+An equal appreciation of all branches of the mathematical, physical, and
+natural sciences is a special requirement of the present age, in which the
+material wealth and the growing prosperity of nations are principally based
+upon a more enlightened employment of the products and forces of nature.
+The most superficial glance at the present condition of Europe shows that a
+diminution, or even a total annihilation of national prosperity, must be the
+award of those states who shrink with slothful indifference from the great
+struggle of rival nations in the career of the industrial arts.  It is with
+nations as with nature, which, according to a happy expression of Göthe,*
+"knows no pause in progress and development, and attaches her curse on all
+inaction."
+[Footnote]  *Gothe, in 'Die Aphorismen uber Naturwissenschaft.' — 'Werke',
+bd. 1., s. 4
+The propagation of an earnest and sound knowledge of science can therefore
+alone avert the dangers of which I have spoken.  Man can not act upon
+nature, or appropriate her forces to his own use, without comprehending
+their full extent, and having an intimate acquaintance with the laws of the
+physical world.  Bacon has said that, in human societies, knowledge is
+power.  Both must rise and sink together.  But the knowledge that results
+from the free action of thought is at once the delight and the
+indestructible prerogative of man; and in forming part of the wealth of
+mankind, it not unfrequently serves as a substitute for the natural riches,
+which are but sparingly scattered over the earth.  Those states which take
+no active part in the general industrial movement, in the choice and
+preparation of natural substances, or in the application of mechanics and
+chemistry, and among whom this activity is not appreciated by all classes of
+society, will infallibly see their prosperity diminish in proportion as
+neighboring countries become strengthened and invigorated under the genial
+influence of arts and sciences.
+As in nobler spheres of thought and sentiment, in philosophy, poetry, and
+the fine arts, the object at which we aim ought to be an inward one — an
+ennoblement of the intellect — so ought we likewise in our pursuit of
+science, to strive after a knowledge of the laws and the principles of unity
+that pervade the vital forces of the universe; and it is by such a course
+that
+p 54
+physical studies may be made subservient to the progress of industry, which
+is a conquest of mind over matter.  By a happy connection of causes and
+effects, we often see the useful linked to the beautiful and the exalted.
+The improvement of agriculture in the hands of freemen, and on properties of
+a moderate extent — the flourishing state of the mechanical arts freed from
+the trammels of municipal restrictions — the increased impetus imparted to
+commerce by the multiplied means of the intellectual progress of mankind,
+and of the amelioration of political institutions, in which this progress is
+reflected.  The picture presented by modern history ought to convince those
+who are tardy in awakening to the truth of the lesson it teaches.
+Nor let it be feared that the marked predilection for the study of nature,
+and for industrial progress, which is so characteristic of the present age,
+should necessarily have a tendency to retard the noble exertions of the
+intellect in the domains of philosophy, classical history, and antiquity, or
+to deprive the arts by which life is embellished of the vivifying breath of
+imagination.  Where all the germs of civilization are developed beneath the
+aegis of free institutions and wise legislation, there is no cause for
+apprehending that any one branch of knowledge should be cultivated to the
+prejudice of others.  All afford the state precious fruits, whether they
+yield nourishment to man and constitute his physical wealth, or whether,
+more permanent in their nature, they transmit in the works of mind the glory
+of nations to remotest posterity.  The Spartans, notwithstanding their Doric
+austerity, prayed the gods to grant them "the beautiful with the good."*
+[Footnote]  *Pseudo-Plato, — 'Alcib.', xi., p. 184, ed. Steph.; Plut.,
+
+'Instituta Laconica', p. 253, ed. Hatten.
+I will no longer dwell upon the considerations of the influence exercised by
+the mathematical and physical sciences on all that appertains to the
+material wants of social life, for the vast extent of the course on which I
+am entering forbids me to insist further upon the utility of these
+applications.  Accustomed to distant excursions, I may, perhaps, have erred
+in describing the path before us as more smooth and pleasant than it really
+is, for such is wont to be the practice of those who delight in guiding
+others to the summits of lofty mountains:  they praise the view even when
+great part of the distant plains lie hidden by clouds, knowing that this
+half-transparent vapory vail imparts to the scene a certain charm from
+p 55
+the power exercised by the imagination over the domain of the senses.  In
+like manner, from the height occupied by the physical history of the world,
+all parts of the horizon will not appear equally clear and well defined.
+This indistinctness will not, however, be wholly owing to the present
+imperfect state of some of the sciences, but in part, likewise, to the
+unskillfulness of the guide who has imprudently ventured to ascend these
+lofty summits.
+The object of this introductory notice is not, however, solely to draw
+attention to the importance and greatness of the physical history of the
+universe, for in the present day these are too well understood to be
+contested, but likewise to prove how, without detriment to the stability of
+special studies, we may be enabled to generalize our ideas by concentrating
+them in one common focus, and thus arrive at a point of view from which all
+the organisms and forces of nature may be seen as one living active whole,
+animated by one sole impulse.  "Nature," as Schelling remarks in his poetic
+discourse on art, "is not an inert mass; and to him who can comprehend her
+vast sublimity, she reveals herself as the creative force of the universe —
+before all time, eternal, ever active, she calls to life all things, whether
+perishable or imperishable."
+By uniting, under one point of view, both the phenomena of our own globe and
+those presented in the regions of space, we embrace the limits of the
+science of the 'Cosmos', and convert the physical history of the globe into
+the physical history of the universe, the one term being modeled upon that
+of the other.  This science of the Cosmos is not, however, to be regarded as
+a mere encyclopedic aggregation of the most important and general results
+that have been collected together from special branches of knowledge.  These
+results are nothing more than the materials for a vast edifice, and their
+combination can not constitute the physical history of the world, whose
+exalted part it is to show the simultaneous action and the connecting links
+of the forces which pervade the universe.  The distribution of organic types
+in different climates and at different elevations — that is to say, the
+geography of plants and animals — differs as widely from botany and
+descriptive zoology as geology does from mineralogy, properly so called.
+The physical history of the universe must not, therefore, be confounded with
+the 'Encyclopedias of the Natural Sciences', as they have hitherto been
+compiled, and whose title is as vague as their limits are ill defined.  In
+the work before us, partial facts will be considered only in relation to the
+whole.
+p 56
+The higher the point of view, the greater is the necessity for a systematic
+mode of treating the subject in language at once animated and picturesque.
+But thought and language have ever been most intimately allied.  If
+language, by its originality of structure and its native richness, can, in
+its delineations, interpret thought with grace and clearness, and if, by its
+happy flexibility, it can paint with vivid truthfulness the objects of the
+external world, it reacts at the same time upon thought, and animates it, as
+it were, with the breath of life.  It is this mutual reaction which makes
+words more than mere signs and forms of thought; and the beneficent
+influence of a language is most strikingly manifested on its native soil,
+where it has sprung spontaneously from the minds of the people, whose
+character it embodies.  Proud of a country that seeks to concentrate her
+strength in intellectual unity, the writer recalls with delight the
+advantages he has enjoyed in being permitted to express his thoughts in his
+native language; and truly happy is he who, in attempting to give a lucid
+exposition of the great phenomena of the universe, is able to draw from the
+depths of a language, which, through the free exercise of thought, and by
+the effusions of creative fancy, has for centuries past exercised so
+powerful an influence over the destinies of man.
+This material taken from pages 56 to 78
+COSMOS: A Sketch of the Physical Description of the Universe, Vol. 1
+by Alexander von Humboldt
+Translated by E C Otte
+from the 1858 Harper & Brothers edition of Cosmos, volume 1
+—————————————————————————
+p 56
+</div></body></text></TEI>

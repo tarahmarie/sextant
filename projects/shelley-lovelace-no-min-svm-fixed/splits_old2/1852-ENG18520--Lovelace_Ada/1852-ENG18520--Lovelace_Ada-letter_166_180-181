@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 180-181</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 180-181.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1852">undated [1852?]</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 180-181</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_180-181.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Satdy</p>
+      <p>I think there is no doubt now of a decisive improvement. I wrote you two letters yesterdy to Waverly, which I hope you have recd.-- The second was but a very hurried P.S, containing Dr Locock's opinion.</p>
+      <p>My impression from his</p>
+      <p>manner is that he finds more local improvement than he expected. He almost clapped his hands, &amp; he was so pleased that he ran into the next room quite eagerly, to tell Mrs Greig.--</p>
+      <p>At the same time, I shall feel no confidence at present;-- especially</p>
+      <p>until the next Period is over. I dread that epoch particularly.</p>
+      <p>I have been walking round the Crescent, for about 8 minutes today.</p>
+      <p>I am very much stronger, &amp; I have had no pain (since 4 o'clock this morg), which is a very long interval. I have</p>
+      <p>no doubt the leeches were the right thing. They are to be repeated next week I believe.</p>
+      <p>Wilkinson is in Town, &amp; Crosse has returned.</p>
+      <p>Altogether I think we may begin to hold our heads up again a little about my prospects, &amp; I am in very good spirits, &amp; quite pleased.</p>
+    </div></body>
+  </text>
+</TEI>

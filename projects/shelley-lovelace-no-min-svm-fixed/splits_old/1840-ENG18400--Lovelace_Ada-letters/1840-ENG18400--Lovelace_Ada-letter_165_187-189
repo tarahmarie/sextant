@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 187-189</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 187-189.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1840">undated (estimated from box 165 date range)</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 187-189</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_187-189.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Thursday 1/2 past 4 o'clock</p>
+      <p>Dearest Mate. I am as careful as you can wish, to burn your letters, but they would be quite safe at any rate, for there is trouble enough to make them out even for me; &amp; I am sure no servant could by any possibility do so. Now don't, dear Old Crow,</p>
+      <p>fancy that a saucy Thrush is insulting ou, &amp; revenge yourself by not writing. You know how I like to have your letters, &amp; how I admire your hand-writing.</p>
+      <p>But tho' very pretty, it never is very legible.</p>
+      <p>In consequence of the enclosed from the Hen, I went myself in the Chariot to meet her; which pleased her, &amp; was more than she expected.</p>
+      <p>I left her at Lord Byrons &amp; went on to the Royal Institution to a Lecture, sending the carriage back to her for her use this afternoon. So you see the Bird does not neglect that nice Old Gentleman the Hen!--</p>
+      <p>Today I had my Singing- Lesson at 10 o'clock, for an hour &amp; a half. Then Wheatstone for 2 hours; then to the Railway; then the Lecture. And now I must set to work</p>
+      <p>to practise my Harp for 4 or 5 hours at least. I have no time for the Theatre tonight, nor have had now scarely for a week. Perhaps tomorrow I may get to one. But you see I attend to my business in real good earnest; despite of there being very special Theatrical attractions just now too.--</p>
+      <p>Faija is delighted with my progress, &amp; I am</p>
+      <p>now to begin one or two little Songs; Duetts with him.--</p>
+      <p>I am well &amp; happy; &amp; I hope doing my duty, &amp; getting on in everything.</p>
+      <p>It is to Miss Neville that your Uncle is to be married. Hester has had a letter from Lady C. Fellowes; who approves of her Brother's choice in Miss N--; &amp; who also speaks enthusiastically of Lady Fortescue.--</p>
+    </div></body>
+  </text>
+</TEI>

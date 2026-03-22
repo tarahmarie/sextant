@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 214-217</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 214-217.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1840">undated (estimated from box 165 date range)</date>
+          <note type="place">Ockham</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 214-217</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_214-217.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Ockham 7 o'clock</p>
+      <p>Dearest of the Birdie's heart!</p>
+      <p>I reached here about an hour ago. I am much better today, though pulled down, but I was equal to the journey, on the coach. I fear it has brought on a rather abundant &amp; most sanguinary return, but perhaps it would have come at any</p>
+      <p>rate. My strength must be kept up. I have received from Dr Locock this morning, directions of various kinds for the course to be pursued these ensuing months.--</p>
+      <p>He very much wishes these matters may be stopped before long, as he says it is possible the birth of another child might produce a change at least in some degree, so that I should suffer less at these times.</p>
+      <p>The bairns are very nice, but it appears the</p>
+      <p>baby had a slight attack of croup a few nights since &amp; they say she must not be exposed to damp. I think Green considers Ashley very damp, &amp; fears it will disagree with Annabella. It certainly is a very misty climate.--</p>
+      <p>I fear you have had a sad rainy rendezvous this afternoon. Ou letter this morning was sunshine to a little lonely avis, I hope I shall receive one tomorrow. By the bye, you said nothing to me</p>
+      <p>about returning here on Satdy night, &amp; passing Sunday, but I expect you &amp; shall be sadly grieved if you do not.-- Even if you are obliged to be at Guildford on Sunday Morg, you might ride or drive there after breakfast, &amp; roost with ou poor little thing, the previous night.</p>
+      <p>Oh! pray spare a few hours for ou little bird!</p>
+      <p>I hope to drive &amp; see you tomorrow afternoon. What a pleasure it would be!-- Think what a</p>
+      <p>load I read yesterday:-- a whole vol of Mrs Nortons book, in which there are clever &amp; beautiful things; a quantity of Sir W Scott's life; &amp; a little of the Letters from Palmyra,-- the last most entertaining.</p>
+      <p>I am tired, so must give over.</p>
+      <p>Ou Birdie</p>
+      <p>Since the above was written I have dined, &amp; feel better though more pulled down than I have been for</p>
+      <p>long. I was obliged to stop writing before, from a sudden eye attack, the result of exhaustion. There suddenly came blank spots in my vision, in which I could see nothing.-- I am low &amp; miserable, &amp; my circulation much below the average, so that I am obliged to take wine in some quantity to keep it up at all.-- But never mind,-- I shall be well &amp;</p>
+      <p>chirping again in a few days, &amp; I may be thankful I am strong enough to be capable of being restored. I shall endeavour to be out as much as possible, &amp; hope the weather will favour me.</p>
+      <p>Your letter left here for me was given me during dinner. It was a comfort,-- a great comfort.</p>
+      <p>Oh! at this moment perhaps ou is laughing &amp; in spirits, while ou little bird sits &amp; none to soothe her</p>
+      <p>in her mateless nest.--</p>
+      <p>Thyer wishes me to say he cannot, after much diligent search, find the cards you left a message about.--</p>
+    </div></body>
+  </text>
+</TEI>

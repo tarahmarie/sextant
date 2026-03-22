@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 21-22</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 21-22.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1835">1 December 1835</date>
+          <note type="place">Fordhook</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 21-22</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_21-22.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Fordhook. Tuesday, 3 o'clock 1st Decr. 1835</p>
+      <p>My Mate. I have so much to say that I really do not know where or how to begin. I am sadly disappointed to have received no twopenny from you this morning. It has however occurred to me that you may have written to me to Ockham by the cab &amp; I am living in hopes of finding it.</p>
+      <p>I must leave off, &amp; finish at Ockham, for the carriage is ready.-- I am longing to relate to you an adventure I escaped yesterday.--</p>
+      <p>Hen does not return with me today.--</p>
+      <p>Ockham. Tuesday Evg</p>
+      <p>Birdie has just arrived, &amp; is disappointed to find nothing from her mate. I suppose you had not time. However the boy says you set out in the mail at 1/4 pst 8 last night, &amp; this is better than</p>
+      <p>hearing nothing. Charlotte is not here, nor any tiding of her.--</p>
+      <p>Now for the misfortunes of yesterday! The chesnut mare, for no imaginable cause, kicked for half an hour incessantly, as soon as she was put into the carriage. At last she threw herself down, &amp; they were then able to get her unharnessed. Luckily she is not blemished.</p>
+      <p>There is a large hole in the carriage, made by her heels, &amp; the marks of her feet in the yard were fearful. I took post horses, &amp; went in</p>
+      <p>the Britska. All, from the Hen down to the stable men, concur in saying that the mare must on no account ever be put into a carriage again, and that we had better get rid of her as soon as possible. I find she is slightly lame in the hind legs, but only what such violent kicking must produce.-- How fortunate that I was not in the carriage.</p>
+      <p>The jolting alone might have caused a miscarriage. This reminds me that I have today been speaking to Dr. Scott of Barnes, by Mama's wish. He thinks it impossible for any one to be in a better</p>
+    </div></body>
+  </text>
+</TEI>

@@ -1,0 +1,272 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="71">CHAPTER X.
+Prelude to the Epoch of Young and
+Fresnel.
+BY Physical Optics we
+mean, as has already been stated, the theories which explain optical
+phenomena on mechanical principles. No such explanation could be given
+till true mechanical principles had been obtained; and, accordingly,
+we must date the commencement of the essays towards physical optics
+from Descartes, the founder of the modern mechanical philosophy. His
+hypothesis concerning light is, that it consists of small particles
+emitted by the luminous body. He compares these particles to balls,
+and endeavors to explain, by means of this comparison, the laws of
+reflection and refraction.62 In order to account for the production
+of colors by refraction, he ascribes to these balls an alternating
+rotatory motion.63 This form of the emission
+theory, was, like most of the physical speculations of its author,
+hasty and gratuitous; but was extensively accepted, like the rest of
+the Cartesian doctrines, in consequence of the love which men have for
+sweeping and simple dogmas, and deductive reasonings from them. In a
+short time, however, the rival optical theory of undulations
+made its appearance. Hooke in his Micrographia (1664) propounds
+it, upon occasion of his observations, already noticed, (chap. vii.,) on the colors of thin plates. He there
+asserts64 light to consist in a “quick, short,
+vibrating motion,” and that it is propagated in a homogeneous medium,
+in such a way that “every pulse or vibration of the luminous body will
+generate a sphere, which will continually increase and grow bigger,
+just after the same manner (though indefinitely swifter) as the waves
+or rings on the surface of water do swell into bigger and bigger
+circles about a point in it.”65 He applies this
+to the explanation of refraction, 86 by supposing that the rays in a denser
+medium move more easily, and hence that the pulses become oblique; a
+far less satisfactory and consistent hypothesis than that of Huyghens,
+of which we shall next have to speak. But Hooke has the merit of
+having also combined with his theory, though somewhat obscurely, the
+Principle of Interferences, in the application which he makes
+of it to the colors of thin plates. Thus66 he supposes the
+light to be reflected at the first surface of such plates; and he
+adds, “after two refractions and one reflection (from the second
+surface) there is propagated a kind of fainter ray,” which comes
+behind the other reflected pulse; “so that hereby (the surfaces ab and ef being so near
+together that the eye cannot discriminate them from one), this
+compound or duplicated pulse does produce on the retina the sensation
+of a yellow.” The reason for the production of this particular color,
+in the case of which he here speaks, depends on his views concerning
+the kind of pulses appropriate to each color; and, for the same
+reason, when the thickness is different, he finds that the result will
+be a red or a green. This is a very remarkable anticipation of the
+explanation ultimately given of these colors; and we may observe that
+if Hooke could have measured the thickness of his thin plates, he
+could hardly have avoided making considerable progress in the doctrine
+of interferences.
+62 Diopt. c. ii. 4.
+63 Meteor. c. viii. 6.
+64 Micrographia, p. 56.
+65 Micrographia, p. 57.
+66 Micrographia, p. 66.
+But the person who is generally, and with justice, looked upon as
+the great author of the undulatory theory, at the period now under
+notice, is Huyghens, whose Traité de la Lumière, containing a
+developement of his theory, was written in 1678, though not published
+till 1690. In this work he maintained, as Hooke had done, that light
+consists in undulations, and expands itself spherically, nearly in the
+same manner as sound does; and he referred to the observations of
+Römer on Jupiter’s satellites, both to prove that this difference
+takes place successively, and to show its exceeding swiftness. In
+order to trace the effect of an undulation, Huyghens considers that
+every point of a wave diffuses its motion in all directions; and hence
+he draws the conclusion, so long looked upon as the turning-point of
+the combat between the rival theories, that the light will not be
+diffused beyond the rectilinear space, when it passes through
+an aperture; “for,” says he,67 “although the
+partial waves, produced by the particles comprised in the
+aperture, do diffuse themselves beyond the rectilinear space, these
+waves do not concur anywhere except in front of the 87 aperture.” He rightly
+considers this observation as of the most essential value. “This,” he
+says, “was not known by those who began to consider the waves of
+light, among whom are Mr. Hooke in his Micrography, and Father
+Pardies; who, in a treatise of which he showed me a part, and which he
+did not live to finish, had undertaken to prove, by these waves, the
+effects of reflection and refraction. But the principal foundation,
+which consists in the remark I have just made, was wanting in his
+demonstrations.”
+67 Tracts on Optics, p.
+209.
+By the help of this view, Huyghens gave a perfectly satisfactory
+and correct explanation of the laws of reflection and refraction; and
+he also applied the same theory, as we have seen, to the double
+refraction of Iceland spar with great sagacity and success. He
+conceived that in this crystal, besides the spherical waves, there
+might be others of a spheroidal form, the axis of the spheroid being
+symmetrically disposed with regard to the faces of the rhombohedron,
+for to these faces the optical phenomena are symmetrically related. He
+found68 that the position of the refracted ray,
+determined by such spheroidal undulations, would give an oblique
+refraction, which would coincide in its laws with the refraction
+observed in Iceland spar; and, as we have stated, this coincidence was long after fully
+confirmed by other observers.
+68 Tracts on Optics, 237.
+Since Huyghens, at this early period, expounded the undulatory
+theory with so much distinctness, and applied it with so much skill,
+it may be asked why we do not hold him up as the great Author of the
+induction of undulations of light;—the person who marks the
+epoch of the theory? To this we reply, that though Huyghens discovered
+strong presumptions in favor of the undulatory theory, it was not
+established till a later era, when the fringes of shadows,
+rightly understood, made the waves visible, and when the hypothesis
+which had been assumed to account for double refraction, was found to
+contain also an explanation of polarization. It is then that
+this theory of light assumes its commanding form; and the persons who
+gave it this form, we must make the great names of our narrative;
+without, however, denying the genius and merit of Huyghens, who is,
+undoubtedly, the leading character in the prelude to the
+discovery.
+The undulatory theory, from this time to our own,
+was unfortunate in its career. It was by no means destitute of
+defenders, but these were not experimenters; and none of them thought
+of applying it to 88
+Grimaldi’s experiments on fringes, of which we have spoken a little while ago. And the great
+authority of the period, Newton, adopted the opposite hypothesis, that
+of emission, and gave it a currency among his followers which kept
+down the sounder theory for above a century.
+Newton’s first disposition appears to have been by no means averse
+to the assumption of an ether as the vehicle of luminiferous
+undulations. When Hooke brought against his prismatic analysis of
+light some objections, founded on his own hypothetical notions,
+Newton, in his reply, said,69 “The hypothesis has a much greater
+affinity with his own hypothesis than he seems to be aware of; the
+vibrations of the ether being as useful and necessary in this as in
+his.” This was in 1672; and we might produce, from Newton’s writing,
+passages of the same kind, of a much later date. Indeed it would seem
+that, to the last, Newton considered the assumption of an ether as
+highly probable, and its vibrations important parts of the phenomena
+of light; but he also introduced into his system the hypothesis of
+emission, and having followed this hypothesis into mathematical
+detail, while he has left all that concerns the ether in the form of
+queries and conjectures, the emission theory has naturally been
+treated as the leading part of his optical doctrines.
+69 Phil. Trans. vii.
+5087.
+The principal propositions of the Principia which bear upon
+the question of optical theory are those of the fourteenth Section of
+the first Book,70 in which the law of the sines in
+refraction is proved on the hypothesis that the particles of bodies
+act on light only at very small distances; and the proposition of the
+eighth Section of the second Book;71 in which it is
+pretended to be demonstrated that the motion propagated in a fluid
+must diverge when it has passed through an aperture. The former
+proposition shows that the law of refraction, an optical truth which
+mainly affected the choice of a theory, (for about reflection there is
+no difficulty on any mechanical hypothesis,) follows from the theory
+of emission: the latter proposition was intended to prove the
+inadmissibility of the rival hypothesis, that of undulations. As to
+the former point,—the hypothetical explanation of refraction, on
+the assumptions there made,—the conclusion is quite
+satisfactory; but the reasoning in the latter case, (respecting the
+propagation of undulations,) is certainly inconclusive and vague; and
+something better might the more reasonably have been expected, since
+Huyghens had at least 89 endeavored to prove the opposite
+proposition. But supposing we leave these properties, the rectilinear
+course, the reflection, and the refraction of light, as problems in
+which neither theory has a decided advantage, what is the next
+material point? The colors of thin plates. Now, how does Newton’s
+theory explain these? By a new and special supposition;—that of
+fits of easy transmission and reflection: a supposition which,
+though it truly expresses these facts, is not borne out by any other
+phenomena. But, passing over this, when we come to the peculiar laws
+of polarization in Iceland spar, how does Newton’s meet this? Again by
+a special and new supposition;—that the rays of light have
+sides. Thus we find no fresh evidence in favor of the emission
+hypothesis springing out of the fresh demands made upon it. It may be
+urged, in reply, that the same is true of the undulatory theory; and
+it must be allowed that, at the time of which we now speak, its
+superiority in this respect was not manifested; though Hooke, as we
+have seen, had caught a glimpse of the
+explanation, which this theory supplies, of the colors of thin
+plates.
+70 Principia, Prop. 94, et
+seq.
+71 Ib. Prop. 42.
+At a later period, Newton certainly seems to have been strongly
+disinclined to believe light to consist in undulations merely. “Are
+not,” he says, in Question twenty-eight of the Opticks, “all
+hypotheses erroneous, in which light is supposed to consist in
+pression or motion propagated through a fluid medium?” The arguments
+which most weighed with him to produce this conviction, appear to have
+been the one already mentioned,—that, on the undulatory
+hypothesis, undulations passing through an aperture would be diffused;
+and again,—his conviction, that the properties of light,
+developed in various optical phenomena, “depend not upon new
+modifications, but upon the original and unchangeable properties of
+the rays.” (Question twenty-seven.)
+But yet, even in this state of his views, he was very far from
+abandoning the machinery of vibrations altogether. He is disposed to
+use such machinery to produce his “fits of easy transmission.” In his
+seventeenth Query, he says,72 “when a ray of light falls upon the
+surface of any pellucid body, and is there refracted or reflected; may
+not waves of vibrations or tremors be thereby excited in the
+refracting or reflecting medium at the point of incidence? . . . . and
+do not these vibrations overtake the rays of light, and by overtaking
+them successively, do they not put them into the fits of easy
+reflection and easy 90 transmission described above?” Several of
+the other queries imply the same persuasion, of the necessity for the
+assumption of an ether and its vibrations. And it might have been
+asked, whether any good reason could be given for the hypothesis of an
+ether as a part of the mechanism of light, which would not be
+equally valid in favor of this being the whole of the
+mechanism, especially if it could be shown that nothing more was
+wanted to produce the results.
+72 Opticks, p. 322.
+The emission theory was, however, embraced in the most strenuous
+manner by the disciples of Newton. That propositions existed in the
+Principia which proceeded on this hypothesis, was, with many of
+these persons, ground enough for adopting the doctrine; and it had
+also the advantage of being more ready of conception, for though the
+propagation of a wave is not very difficult to conceive, at least by a
+mathematician, the motion of a particle is still easier.
+On the other hand, the undulation theory was maintained by no less
+a person than Euler; and the war between the two opinions was carried
+on with great earnestness. The arguments on one side and on the other
+soon became trite and familiar, for no person explained any new class
+of facts by either theory. Thus it was urged by Euler against the
+system of emission,73—that the perpetual emanation of
+light from the sun must have diminished the mass;—that the
+stream of matter thus constantly flowing must affect the motions of
+the planets and comets; that the rays must disturb each
+other;—that the passage of light through transparent bodies is,
+on this system, inconceivable: all such arguments were answered by
+representations of the exceeding minuteness and velocity of the matter
+of light. On the other hand, there was urged against the theory of
+waves, the favorite Newtonian argument, that on this theory the light
+passing through an aperture ought to be diffused, as sound is. It is
+curious that Euler does not make to this argument the reply which
+Huyghens had made before. The fact really was, that he was not aware
+of the true ground of the difference of the result in the cases of
+sound and light; namely, that any ordinary aperture bears an immense
+ratio to the length of an undulation of light, but does not bear a
+very great ratio to the length of an undulation of sound. The
+demonstrable consequence of this difference is, that light darts
+through such an orifice in straight rays, while sound is diffused in
+all directions. Euler, not perceiving this difference, rested his
+answer mainly upon a circumstance by no means 91 unimportant, that the partitions usually
+employed are not impermeable to sound, as opake bodies are to light.
+He observes that the sound does not all come through the aperture; for
+we hear, though the aperture be stopped. These were the main original
+points of attack and defence, and they continued nearly the same for
+the whole of the last century; the same difficulties were over and
+over again proposed, and the same solutions given, much in the manner
+of the disputations of the schoolmen of the middle ages.
+73 Fischer, iv. 449.
+The struggle being thus apparently balanced, the scale was
+naturally turned by the general ascendancy of the Newtonian doctrines:
+and the emission theory was the one most generally adopted. It was
+still more firmly established, in consequence of the turn generally
+taken by the scientific activity of the latter half of the eighteenth
+century: for while nothing was added to our knowledge of optical laws,
+the chemical effects of light were studied to a considerable extent by
+various inquirers;74 and the opinions at which these persons
+arrived, they found that they could express most readily, in
+consistency with the reigning chemical views, by assuming the
+materiality of light. It is, however, clear, that no reasonings of the
+inevitably vague and doubtful character which belong to these portions
+of chemistry, ought to be allowed to interfere with the steady and
+regular progress of induction and generalization, founded on relations
+of space and number, by which procedure the mechanical sciences are
+formed. We reject, therefore, all these chemical speculations, as
+belonging to other subjects; and consider the history of optical
+theory as a blank, till we arrive at some very different events, of
+which we have now to speak.
+74 As Scheele, Selle, Lavoisier, De
+Luc, Richter, Leonhardi, Gren, Girtanner, Link, Hagen, Voigt, De la
+Metherie, Scherer, Dizé, Brugnatelli. See Fischer, vii. p. 20.
+92</div></body></text></TEI>

@@ -1,0 +1,17 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An Essay Concerning Human Understanding</title><author>Locke, John (1632-1704)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1690</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="14">
+
+CHAPTER V.
+OF SIMPLE IDEAS OF DIVERS SENSES.
+
+Ideas received both by seeing and touching.
+
+
+The ideas we get by more than one sense are, of SPACE or EXTENSION, FIGURE,
+REST, and MOTION. For these make perceivable impressions, both on the eyes and
+touch; and we can receive and convey into our minds the ideas of the extension,
+figure, motion, and rest of bodies, both by seeing and feeling. But having
+occasion to speak more at large of these in another place, I here only
+enumerate them.
+
+
+</div></body></text></TEI>

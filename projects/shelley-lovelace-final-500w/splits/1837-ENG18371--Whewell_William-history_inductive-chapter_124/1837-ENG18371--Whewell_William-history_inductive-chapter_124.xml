@@ -1,0 +1,304 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="124">CHAPTER II.
+Discovery of the Circulation of the
+Blood.
+
+Sect. 1.—Prelude to the
+Discovery.
+THE blood-vessels, the veins
+and arteries, are as evident and peculiar in their appearance as the
+muscles; but their function is by no means so obvious. Hippocrates20 did not discriminate Veins and
+Arteries; both are called by the same name (φλέβες) and the word from
+which artery comes (ἀρτηρίη) means, in his works, the windpipe.
+Aristotle, scanty as was his knowledge of the vessels of the body, has
+yet the merit of having traced the origin of all the veins to the
+heart. He expressly contradicts those of his predecessors who had
+derived the veins from the head;21 and refers to
+dissection for the proof. If the book On the Breath be genuine
+(which is doubted), Aristotle was aware of the distinction between
+veins and arteries. “Every artery,” 445 it is there asserted, “is accompanied by
+a vein; the former are filled only with breath or air.”22 But whether or no this passage be
+Aristotle’s, he held opinions equally erroneous; as, that the windpipe
+conveys air into the heart.23 Galen24 was far from having views respecting
+the blood-vessels, as sound as those which he entertained concerning
+the muscles. He held the liver to be the origin of the veins, and the
+heart of the arteries. He was, however, acquainted with their
+junctions, or anastomoses. But we find no material advance in
+the knowledge of this subject, till we overleap the blank of the
+middle ages, and reach the dawn of modern science.
+20 Sprengel, i. 383.
+21 Hist. Animal. iii. 3.
+22 De Spiritu, v. 1078.
+23 Spr. i. 501.
+24 Ib. ii. 152.
+The father of modern anatomy is held to be Mondino,25 who dissected and taught at Bologna in
+1315. Some writers have traced in him the rudiments of the doctrine of
+the circulation of the blood; for he says that the heart transmits
+blood to the lungs. But it is allowed, that he afterwards destroys the
+merit of his remark, by repeating the old assertion that the left
+ventricle ought to contain spirit or air, which it generates from the
+blood.
+25 Encyc. Brit. 692.
+Anatomy.
+Anatomy was cultivated with great diligence and talent in Italy by
+Achillini, Carpa, and Messa, and in France by Sylvius and Stephanus
+(Dubois and Etienne). Yet still these empty assumptions respecting the
+heart and blood-vessels kept their ground. Vesalius, a native of
+Brussels, has been termed the founder of human anatomy, and his great
+work De Humani Corporis Fabricâ is, even yet, a splendid
+monument of art, as well as science. It is said that his figures were
+designed by Titian; and if this be not exactly true, says Cuvier,26 they must, at least, be from the pencil
+of one of the most distinguished pupils of the great painter; for to
+this day, though we have more finished drawings, we have no designs
+that are more artist-like. Fallopius, who succeeded Vesalius at Padua,
+made some additions to the researches of his predecessor; but in his
+treatise De Principio Venarum, it is clearly seen27 that the circulation of the blood was
+unknown to him. Eustachius also, whom Cuvier groups with Vesalius and
+Fallopius, as the three great founders of modern anatomy, wrote a
+treatise on the vein azygos28 which is a
+little treatise on comparative anatomy; but the discovery of the
+functions of the veins came from a different quarter.
+26 Leçons sur l’Hist. des Sc.
+Nat. p. 21.
+27 Cuv. Sc. Nat. p. 32.
+28 Ib. p. 34.
+446 The
+unfortunate Servetus, who was burnt at Geneva as a heretic in 1553, is
+the first person who speaks distinctly of the small circulation, or
+that which carries the blood from the heart to the lungs, and back
+again to the heart. His work entitled Christianismi Restitutio
+was also burnt; and only two copies are known to have escaped the
+flames. It is in this work that he asserts the doctrine in question,
+as a collateral argument or illustration of his subject. “The
+communication between the right and left ventricle of the heart, is
+made,” he says, “not as is commonly believed, through the partition of
+the heart, but by a remarkable artifice (magno artificio) the
+blood is carried from the right ventricle by a long circuit through
+the lungs; is elaborated by the lungs, made yellow, and transfused
+from the vena arteriosa into the arteria venosa.” This
+truth is, however, mixed with various of the traditional fancies
+concerning the “vital spirit, which has its origin in the left
+ventricle.” It may be doubted, also, how far Servetus formed his
+opinion upon conjecture, and on a hypothetical view of the formation
+of this vital spirit. And we may, perhaps, more justly ascribe the
+real establishment of the pulmonary circulation as an inductive truth,
+to Realdus Columbus, a pupil and successor of Vesalius at Padua, who
+published a work De Re Anatomicâ in 1559, in which he claims
+this discovery as his own.29
+29 Encyc. Brit.
+Andrew Cæsalpinus, who has already come under our notice as one of
+the fathers of modern inductive science, both by his metaphysical and
+his physical speculations, described the pulmonary circulation still
+more completely in his Quæstiones Peripateticæ, and even seemed
+to be on the eve of discovering the great circulation; for he remarked
+the swelling of veins below ligatures, and inferred from it a refluent
+motion of blood in these vessels.30 But another
+discovery of structure was needed, to prepare the way for this
+discovery of function; and this was made by Fabricius of
+Acquapendente, who succeeded in the grand list of great professors at
+Padua, and taught there for fifty years.31 Sylvius had
+discovered the existence of the valves of the veins; but Fabricius
+remarked that they are all turned towards the heart. Combining this
+disposition with that of the valves of the heart, and with the absence
+of valves in the arteries, he might have come to the conclusion32 that the blood moves in a different
+direction in the arteries and in the veins, and might thus have
+discovered the circulation: but this glory was reserved for William
+Harvey: so true 447
+is it, observes Cuvier, that we are often on the brink of a discovery
+without suspecting that we are so;—so true is it, we may add,
+that a certain succession of time and of persons is generally
+necessary to familiarize men with one thought, before they can advance
+to that which is the next in order.
+30 Ib.
+31 Cuv. p. 44.
+32 p. 45.
+Sect. 2.—The Discovery of the Circulation made by
+Harvey.
+William Harvey was born in
+1578, at Folkestone in Kent.33 He first
+studied at Cambridge: he afterwards went to Padua, where the celebrity
+of Fabricius of Acquapendente attracted from all parts those who
+wished to be instructed in anatomy and physiology. In this city,
+excited by the discovery of the valves of the veins, which his master
+had recently made, and reflecting on the direction of the valves which
+are at the entrance of the veins into the heart, and at the exit of
+the arteries from it, he conceived the idea of making experiments, in
+order to determine what is the course of the blood in its vessels. He
+found that when he tied up veins in various animals, they swelled
+below the ligature, or in the part furthest from the heart; while
+arteries, with a like ligature, swelled on the side next the heart.
+Combining these facts with the direction of the valves, he came to the
+conclusion that the blood is impelled, by the left side of the heart,
+in the arteries to the extremities, and thence returns by the veins
+into the right side of the heart. He showed, too, how this was
+confirmed by the phenomena of the pulse, and by the results of opening
+the vessels. He proved, also, that the circulation of the lungs is a
+continuation of the larger circulation; and thus the whole doctrine of
+the double circulation was established.
+33 Cuv. p. 51.
+Harvey’s experiments had been made in 1616 and 1618; it is commonly
+said that he first promulgated his opinion in 1619; but the manuscript
+of the lectures, delivered by him as lecturer to the College of
+Physicians, is extant in the British Museum, and, containing the
+propositions on which the doctrine is founded, refers them to April,
+1616. It was not till 1628 that he published, at Frankfort, his
+Exercitatio Anatomica de Motu Cordis et Sanguinis; but he there
+observes that he had for above nine years confirmed and illustrated
+his opinion in his lectures, by arguments grounded upon ocular
+demonstrations. 448
+Sect. 3.—Reception of the Discovery.
+Without dwelling long upon
+the circumstances of the general reception of this doctrine, we may
+observe that it was, for the most part, readily accepted by his
+countrymen, but that abroad it had to encounter considerable
+opposition. Although, as we have seen, his predecessors had approached
+so near to the discovery, men’s minds were by no means as yet prepared
+to receive it. Several physicians denied the truth of the opinion,
+among whom the most eminent was Riolan, professor at the Collège de
+France. Other writers, as usually happens in the case of great
+discoveries, asserted that the doctrine was ancient, and even that it
+was known to Hippocrates. Harvey defended his opinion with spirit and
+temper; yet he appears to have retained a lively recollection of the
+disagreeable nature of the struggles in which he was thus involved. At
+a later period of his life, Ent,34 one of his
+admirers, who visited him, and urged him to publish the researches on
+generation, on which he had long been engaged, gives this account of
+the manner in which he received the proposal: “And would you then
+advise me, (smilingly replies the doctor,) to quit the tranquillity of
+this haven, wherein I now calmly spend my days, and again commit
+myself to the unfaithful ocean? You are not ignorant how great
+troubles my lucubrations, formerly published, have raised. Better it
+is, certainly, at some time, to endeavor to grow wise at home in
+private, than by the hasty divulgation of such things to the knowledge
+whereof you have attained with vast labor, to stir up tempests that
+may deprive you of your leisure and quiet for the future.”
+34 Epist. Dedic. to Anatom.
+Exercit.
+His merits were, however, soon generally recognized. He was35 made physician to James the First, and
+afterwards to Charles the First, and attended that unfortunate monarch
+in the civil war. He had the permission of the parliament to accompany
+the king on his leaving London; but this did not protect him from
+having his house plundered in his absence, not only of its furniture,
+but, which he felt more, of the records of his experiments. In 1652,
+his brethren of the College of Physicians placed a marble bust of him
+in their hall, with an inscription recording his discoveries; and two
+years later, he was nominated to the office of President of the
+College, which however he 449 declined in consequence of his age and
+infirmities. His doctrine soon acquired popular currency; it was, for
+instance, taken by Descartes36 as the basis of
+his physiology in his work On Man; and Harvey had the pleasure,
+which is often denied to discoverers, of seeing his discovery
+generally adopted during his lifetime.
+35 Biog. Brit.
+36 Cuv. 53.
+Sect. 4.—Bearing of the Discovery on the Progress
+of Physiology.
+In considering the
+intellectual processes by which Harvey’s discoveries were made, it is
+impossible not to notice, that the recognition of a creative purpose,
+which, as we have said, appears in all sound physiological reasonings,
+prevails eminently here. “I remember,” says Boyle, “that when I asked
+our famous Harvey what were the things that induced him to think of a
+circulation of the blood, he answered me, that when he took notice
+that the valves in the veins of so many parts of the body were so
+placed, that they gave a free passage to the blood towards the heart,
+but opposed the passage of the venal blood the contrary way; he was
+incited to imagine that so provident a cause as Nature had not placed
+so many valves without design; and no design seemed more probable than
+that the blood should be sent through the arteries, and return through
+the veins, whose valves did not oppose its course that way.”
+We may notice further, that this discovery implied the usual
+conditions, distinct general notions, careful observation of many
+facts, and the mental act of bringing together these elements of
+truth. Harvey must have possessed clear views of the motions and
+pressures of a fluid circulating in ramifying tubes, to enable him to
+see how the position of valves, the pulsation of the heart, the
+effects of ligatures, of bleeding, and of other circumstances, ought
+to manifest themselves in order to confirm his view. That he referred
+to a multiplied and varied experience for the evidence that it was so
+confirmed, we have already said. Like all the best philosophers of his
+time, he insists rigidly upon the necessity of such experience. “In
+every science,” he says,37 “be it what it will, a diligent
+observation is requisite, and sense itself must be frequently
+consulted. We must not rely upon other men’s experience, but our own,
+without which no man is a proper disciple of any part of natural
+knowledge.” And by publishing his experiments, he trusts, he adds,
+that he has enabled his reader “to be an equitable 450 umpire between
+Aristotle and Galen;” or rather, he might have said, to see how, in
+the promotion of science, sense and reason, observation and invention,
+have a mutual need of each other.
+37 Generation of Animals,
+Pref.
+We may observe further, that though Harvey’s glory, in the case now
+before us, rested upon his having proved the reality of certain
+mechanical movements and actions in the blood, this discovery, and all
+other physiological truths, necessarily involved the assumption of
+some peculiar agency belonging to living things, different both from
+mechanical agency, and from chemical; and in short, something
+vital, and not physical merely. For when it was seen that the
+pulsation of the heart, its systole and diastole, caused
+the circulation of the blood, it might still be asked, what force
+caused this constantly-recurring contraction and expansion. And again,
+circulation is closely connected with respiration; the blood is, by
+the circulation, carried to the lungs, and is there, according to the
+expression of Columbus and Harvey, mixed with air. But by what
+mechanism does this mixture take place, and what is the real
+nature of it? And when succeeding researches had enabled physiologists
+to give an answer to this question, as far as chemical relations go,
+and to say, that the change consists in the abstraction of the carbon
+from the blood by means of the oxygen of the atmosphere; they were
+still only led to ask further, how this chemical change was effected,
+and how such a change of the blood fitted it for its uses. Every
+function of which we explain the course, the mechanism, or the
+chemistry, is connected with other functions,—is subservient to
+them, and they to it; and all together are parts of the general vital
+system of the animal, ministering to its life, but deriving their
+activity from the life. Life is not a collection of forces, or
+polarities, or affinities, such as any of the physical or chemical
+sciences contemplate; it has powers of its own, which often supersede
+those subordinate relations; and in the cases where men have traced
+such agents in the animal frame, they have always seen, and usually
+acknowledged, that these agents were ministerial to some higher
+agency, more difficult to trace than these, but more truly the cause
+of the phenomena.
+The discovery of the mechanical and chemical conditions of the
+vital functions, as a step in physiology, may be compared to the
+discovery of the laws of phenomena in the heavens by Kepler and his
+predecessors, while the discovery of the force by which they were
+produced was still reserved in mystery for Newton to bring to light.
+The subordinate relation of the facts, their dependence on space and time,
+their reduction to order and cycle, had been fully performed; but the
+451 reference of
+them to distinct ideas of causation, their interpretation as the
+results of mechanical force, was omitted or attempted in vain. The
+very notion of such Force, and of the manner in which motions were
+determined by it, was in the highest degree vague and vacillating; and
+a century was requisite, as we have seen, to give to the notion that
+clearness and fixity which made the Mechanics of the Heavens a
+possible science. In like manner, the notion of Life, and of Vital
+Forces, is still too obscure to be steadily held. We cannot connect it
+distinctly with severe inductions from facts. We can trace the motions
+of the animal fluids as Kepler traced the motions of the planets; but
+when we seek to render a reason for these motions, like him, we recur
+to terms of a wide and profound, but mysterious import; to Virtues,
+Influences, undefined Powers. Yet we are not on this account to
+despair. The very instance to which I am referring shows us how rich
+is the promise of the future. Why, says Cuvier,38 may not Natural
+History one day have its Newton? The idea of the vital forces may
+gradually become so clear and definite as to be available in science;
+and future generations may include, in their physiology, propositions
+elevated as far above the circulation of the blood, as the doctrine of
+universal gravitation goes beyond the explanation of the heavenly
+motions by epicycles.
+38 Ossem. Foss. Introd.
+If, by what has been said, I have exemplified sufficiently the
+nature of those steps in physiology, which, like the discovery of the
+Circulation, give an explanation of the process of some of the animal
+functions, it is not necessary for me to dwell longer on the subject;
+for to write a history, or even a sketch of the history of Physiology,
+would suit neither my powers nor my purpose. Some further analysis of
+the general views which have been promulgated by the most eminent
+physiologists, may perhaps be attempted in treating of the Philosophy
+of Inductive Science; but the estimation of the value of recent
+speculations and investigations must be left to those who have made
+this vast subject the study of their lives. A few brief notices may,
+however, be here introduced. 452</div></body></text></TEI>

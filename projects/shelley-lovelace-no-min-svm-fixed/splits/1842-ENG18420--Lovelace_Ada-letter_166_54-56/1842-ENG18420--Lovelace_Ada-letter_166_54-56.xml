@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 54-56</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 54-56.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1842">undated [2 August 1842]</date>
+          <note type="place">Hakes' Hotel</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 54-56</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_54-56.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Hakes' Hotel Tuesday 4 o'clock</p>
+      <p>Dearest W. I am amazingly amused about Master Locke. How cunning of him so artfully &amp; insidiously to throw the whole onus of a non-reconciliation upon you. And I have no doubt that he does just similarly with the family, who thus make long faces &amp; shake their heads over</p>
+      <p>unforgiving hardened brothers. Were Locke really sorry &amp; really anxious, he would come forward at once with a handsome apology; or ask you frankly &amp; kindly for an explanation on those points where he thinks you have erred, which he perhaps sincerely does imagine.</p>
+      <p>Locock has changed his tactics, &amp; my mother has just been bled with 12 leeches &amp; cupping-glasses afterwards. I believe about 6 ounces have been</p>
+      <p>taken. She is certainly relieved considerably by this &amp; not in the smallest degree lowered. Pulse very full &amp; strong, altho' she has besides been taking very lowering medicines, &amp; eaten barely anything. I hope this bleeding may be effectual; but I doubt whether it ought not to have been double. At any rate things are far more comfortable &amp; hopeful.</p>
+      <p>I can say nothing as yet about returning to Ockham. I cannot say</p>
+      <p>that the remaining in this way in Town is by any means a temptation to me. I cannot even attend to my own useful &amp; necessary objects. And I could do more in one day that I came up on purpose, between breakfast &amp; dinner, than I can in a week under present circumstances. Not that this is any annoyance to me. I cam up entirely for the Hen, &amp; that object is answered.</p>
+      <p>Think of my great disappointment when I went</p>
+      <p>after the Thrushes on Saturday (after I had finished my letters), to find the cages removed, &amp; that no one knew anything of the people, or if they would come again. And I have in vain looked every day for them. I am dying for a pair of thrushes.</p>
+      <p>I like your account of everything very much indeed.</p>
+    </div></body>
+  </text>
+</TEI>

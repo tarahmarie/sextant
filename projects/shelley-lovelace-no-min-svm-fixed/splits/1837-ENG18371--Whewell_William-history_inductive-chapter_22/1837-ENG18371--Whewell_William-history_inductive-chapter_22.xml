@@ -1,0 +1,309 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="22">CHAPTER II.
+Induction of Copernicus.—The Heliocentric
+Theory asserted on formal grounds.
+IT will be recollected that
+the formal are opposed to the physical grounds of a
+theory; the former term indicating that it gives a satisfactory
+account of the relations of the phenomena in Space and Time, that is,
+of the Motions themselves; while the latter expression implies further
+that we include in our explanation the Causes of the motions, the laws
+of Force and Matter. The strongest of the considerations by which
+Copernicus was led to invent and adopt his system of the universe were
+of the former kind. He was dissatisfied, he says, in his Preface
+addressed to the Pope, with the want of symmetry in the Eccentric
+Theory, as it prevailed in his days; and weary of the uncertainty of
+the mathematical traditions. He then sought through all the works of
+philosophers, whether any had held opinions concerning the motions of
+the world, different from those received in the established
+mathematical schools. He found, in ancient authors, accounts of
+Philolaus and others, who had asserted the motion of the earth.
+“Then,” he adds, “I, too, began to meditate concerning the motion of
+the earth; and though it appeared an absurd opinion, yet since I knew
+that, in previous times, others had been allowed the privilege of
+feigning what circles they chose, in order to explain the phenomena, I
+conceived that I also might take the liberty of trying whether, on the
+supposition of the earth’s motion, it was possible to find better
+explanations than the ancient ones, of the revolutions of the
+celestial orbs.
+“Having then assumed the motions of the earth, which are hereafter
+explained, by laborious and long observation I at length found, that
+if the motions of the other planets be compared with the revolution of
+the earth, not only their phenomena follow from the suppositions, but
+also that the several orbs, and the whole system, are so connected in
+order and magnitude, that no one part can be transposed without
+disturbing the rest, and introducing confusion into the whole
+universe.”
+Thus the satisfactory explanation of the apparent motions of the
+planets, and the simplicity and symmetry of the system, were the 263 grounds on which
+Copernicus adopted his theory; as the craving for these qualities was
+the feeling which led him to seek for a new theory. It is manifest
+that in this, as in other cases of discovery, a clear and steady
+possession of abstract Ideas, and an aptitude in comprehending real
+Facts under these general conceptions, must have been leading
+characters in the discoverer’s mind. He must have had a good
+geometrical head, and great astronomical knowledge. He must have seen,
+with peculiar distinctness, the consequences which flowed from his
+suppositions as to the relations of space and time,—the apparent
+motions which resulted from the assumed real ones; and he must also
+have known well all the irregularities of the apparent motions for
+which he had to account. We find indications of these qualities in his
+expressions. A steady and calm contemplation of the theory is what he
+asks for, as the main requisite to its reception. If you suppose the
+earth to revolve and the heaven to be at rest, you will find, he says,
+“si serio animadvertas,” if you think steadily, that the
+apparent diurnal motion will follow. And after alleging his reasons
+for his system, he says,7 “We are, therefore, not ashamed to
+confess, that the whole of the space within the orbit of the moon,
+along with the centre of the earth, moves round the sun in a year
+among the other planets; the magnitude of the world being so great,
+that the distance of the earth from the sun has no apparent magnitude
+when compared with the sphere of the fixed stars.” “All which things,
+though they be difficult and almost inconceivable, and against the
+opinion of the majority, yet, in the sequel, by God’s favor, we will
+make clearer than the sun, at least to those who are not ignorant of
+mathematics.”
+7 Nicolai Copernici Torinensis de
+Revolutionibus Orbium Cœlestium Libri VI. Norimbergæ, m.d.xliii. p. 9.
+It will easily be understood, that since the ancient geocentric
+hypothesis ascribed to the planets those motions which were apparent
+only, and which really arose from the motion of the earth round the
+sun in the new hypothesis, the latter scheme must much simplify the
+planetary theory. Kepler8 enumerates eleven motions of the
+Ptolemaic system, which are at once exterminated and rendered
+unnecessary by the new system. Still, as the real motions, both of the
+earth and the planets, are unequable, it was requisite to have some
+mode of representing their inequalities; and, accordingly, the ancient
+theory of eccentrics and epicycles was retained, so far as was
+requisite for this purpose. The planets revolved round the sun by
+means of a Deferent, and a 264 great and small Epicycle; or else by
+means of an Eccentric and Epicycle, modified from Ptolemy’s, for
+reasons which we shall shortly mention. This mode of representing the
+motions of the planets continued in use, until it was expelled by the
+discoveries of Kepler.
+8 Myst. Cosm. cap. 1.
+Besides the daily rotation of the earth on its axis, and its annual
+circuit about the sun, Copernicus attributed to the axis a “motion of
+declination,” by which, during the whole annual revolution, the pole
+was constantly directed towards the same part of the heavens. This
+constancy in the absolute direction of the axis, or its moving
+parallel to itself, may be more correctly viewed as not indicating any
+separate motion. The axis continues in the same direction, because
+there is nothing to make it change its direction; just as a straw,
+lying on the surface of a cup of water, continues to point nearly in
+the same direction when the cup is carried round a room. And this was
+noticed by Copernicus’s adherent, Rothman,9 a few years after
+the publication of the work De Revolutionibus. “There is no
+occasion,” he says, in a letter to Tycho Brahe, “for the triple motion
+of the earth: the annual and diurnal motions suffice.” This error of
+Copernicus, if it be looked upon as an error, arose from his referring
+the position of the axis to a limited space, which he conceived to be
+carried round the sun along with the earth, instead of referring it to
+fixed or absolute space. When, in a Planetarium (a machine in which
+the motions of the planets are imitated), the earth is carried round
+the sun by being fastened to a material radius, it is requisite to
+give a motion to the axis by additional machinery, in order
+to enable it to preserve its parallelism. A similar confusion
+of geometrical conception, produced by a double reference to absolute
+space and to the centre of revolution, often leads persons to dispute
+whether the moon, which revolves about the earth, always turning to it
+the same face, revolves about her axis or not.
+9 Tycho. Epist. i. p. 184, a. d. 1590.
+It is also to be noticed that the precession of the equinoxes made
+it necessary to suppose the axis of the earth to be not
+exactly parallel to itself, but to deviate from that position
+by a slight annual difference. Copernicus erroneously supposes the
+precession to be unequable; and his method of explaining this change,
+which is simpler than that of the ancients, becomes more simple still,
+when applied to the true state of the facts.
+The tendencies of our speculative nature, which carry us onwards in
+265 pursuit of
+symmetry and rule, and which thus produced the theory of Copernicus,
+as they produce all theories, perpetually show their vigor by
+overshooting their mark. They obtain something by aiming at much more.
+They detect the order and connection which exist, by imagining
+relations of order and connection which have no existence. Real
+discoveries are thus mixed with baseless assumptions; profound
+sagacity is combined with fanciful conjecture; not rarely, or in
+peculiar instances, but commonly, and in most cases; probably in all,
+if we could read the thoughts of the discoverers as we read the books
+of Kepler. To try wrong guesses is apparently the only way to hit upon
+right ones. The character of the true philosopher is, not that he
+never conjectures hazardously, but that his conjectures are clearly
+conceived and brought into rigid contact with facts. He sees and
+compares distinctly the ideas and the things,—the relations of
+his notions to each other and to phenomena. Under these conditions it
+is not only excusable, but necessary for him, to snatch at every
+semblance of general rule;—to try all promising forms of
+simplicity and symmetry.
+Copernicus is not exempt from giving us, in his work, an example of
+this character of the inventive spirit. The axiom that the celestial
+motions must be circular and uniform, appeared to him to
+have strong claims to acceptation; and his theory of the inequalities
+of the planetary motions is fashioned upon it. His great desire was to
+apply it more rigidly than Ptolemy had done. The time did not come for
+rejecting this axiom, till the observations of Tycho Brahe and the
+calculations of Kepler had been made.
+I shall not attempt to explain, in detail, Copernicus’s system of
+the planetary inequalities. He retained epicycles and eccentrics,
+altering their centres of motion; that is, he retained what was
+true in the old system, translating it into his own.
+The peculiarities of his method consisted in making such a combination
+of epicycles as to supply the place of the equant,10 and to make all the motions equable
+about the centres of motion. This device was admired for a time, till
+Kepler’s elliptic theory expelled it, with all other forms of the
+theory of epicycles: but we must observe that Copernicus was aware of
+some of the discrepancies which belonged to that theory as it had, up
+to that time, been propounded. In the case of Mercury’s orbit, which
+is more eccentric than that of the other planets, he makes
+suppositions which are complex indeed, but which show his perception
+of the imperfection of 266 the common theory; and he proposes a new
+theory of the moon, for the very reason which did at last overturn the
+doctrine of epicycles, namely, that the ratio of their distances from
+the earth at different times was inconsistent with the circular
+hypothesis.11
+10 See B. iii. Chap. iv. Sect. 7.
+11 De Rev. iv. c. 2.
+It is obvious, that, along with his mathematical clearness of view,
+and his astronomical knowledge, Copernicus must have had great
+intellectual boldness and vigor, to conceive and fully develop a
+theory so different as his was from all received doctrines. His pupil
+and expositor, Rheticus, says to Schener, “I beg you to have this
+opinion concerning that learned man, my Preceptor; that he was an
+ardent admirer and follower of Ptolemy; but when he was compelled by
+phenomena and demonstration, he thought he did well to aim at the same
+mark at which Ptolemy had aimed, though with a bow and shafts of a
+very different material from his. We must recollect what Ptolemy says,
+Δεῖ δ’ ἐλευθέρον εἶναι τῇ γνώμῃ τὸν μέλλοντα φιλοσοφεῖν. ‘He who is to
+follow philosophy must be a freeman in mind.’” Rheticus then goes on
+to defend his master from the charge of disrespect to the ancients:
+“That temper,” he says, “is alien from the disposition of every good
+man, and most especially from the spirit of philosophy, and from no
+one more utterly than from my Preceptor. He was very far from rashly
+rejecting the opinions of ancient philosophers, except for weighty
+reasons and irresistible facts, through any love of novelty. His
+years, his gravity of character, his excellent learning, his
+magnanimity and nobleness of spirit, are very far from having any
+liability to such a temper, which belongs either to youth, or to
+ardent and light minds, or to those τῶν μέγα φρονούντων ἐπὶ θεωρίᾳ
+μικρῂ, ‘who think much of themselves and know little,’ as Aristotle
+says.” Undoubtedly this deference for the great men of the past,
+joined with the talent of seizing the spirit of their methods when the
+letter of their theories is no longer tenable, is the true
+mental constitution of discoverers.
+Besides the intellectual energy which was requisite in order to
+construct a system of doctrines so novel as those of Copernicus, some
+courage was necessary to the publication of such opinions; certain, as
+they were, to be met, to a great extent, by rejection and dispute, and
+perhaps by charges of heresy and mischievous tendency. This last
+danger, however, must not be judged so great as we might infer from
+the angry controversies and acts of authority which occurred in 267 Galileo’s time. The
+Dogmatism of the stationary period, which identified the cause of
+philosophical and religious truth, had not yet distinctly felt itself
+attacked by the advance of physical knowledge; and therefore had not
+begun to look with alarm on such movements. Still, the claims of
+Scripture and of ecclesiastical authority were asserted as paramount
+on all subjects; and it was obvious that many persons would be
+disquieted or offended with the new interpretation of many scriptural
+expressions, which the true theory would make necessary. This evil
+Copernicus appears to have foreseen; and this and other causes long
+withheld him from publication. He was himself an ecclesiastic; and, by
+the patronage of his maternal uncle, was prebendary of the church of
+St. John at Thorn, and a canon of the church of Frauenburg, in the
+diocese of Ermeland.12 He had been a student at Bologna, and
+had taught mathematics at Rome in the year 1500; and he afterwards
+pursued his studies and observations at his residence near the mouth
+of the Vistula.13 His discovery of his system must have
+occurred before 1507, for in 1543 he informs Pope Paulus the Third, in
+his dedication, that he had kept his book by him for four times the
+nine years recommended by Horace, and then only published it at the
+earnest entreaty of his friend Cardinal Schomberg, whose letter is
+prefixed to the work. “Though I know,” he says, “that the thoughts of
+a philosopher do not depend on the judgment of the many, his study
+being to seek out truth in all things as far as that is permitted by
+God to human reason: yet when I considered,” he adds, “how absurd my
+doctrine would appear, I long hesitated whether I should publish my
+book, or whether it were not better to follow the example of the
+Pythagoreans and others, who delivered their doctrines only by
+tradition and to friends.” It will be observed that he speaks here of
+the opposition of the established school of Astronomers, not of
+Divines. The latter, indeed, he appears to consider as a less
+formidable danger. “If perchance,” he says at the end of his preface,
+“there be ματαιολόγοι, vain babblers, who knowing nothing of
+mathematics, yet assume the right of judging on account of some place
+of Scripture perversely wrested to their purpose, and who blame and
+attack my undertaking; I heed them not, and look upon their judgments
+as rash and contemptible.” He then goes on to show that the globular
+figure of the earth (which was, of course, at that time, an undisputed
+point among astronomers), had been opposed on similar grounds by
+Lactantius, who, 268 though a writer of credit in other
+respects, had spoken very childishly in that matter. In another
+epistle prefixed to the work (by Andreas Osiander), the reader is
+reminded that the hypotheses of astronomers are not necessarily
+asserted to be true, by those who propose them, but only to be a way
+of representing facts. We may observe that, in the time of
+Copernicus, when the motion of the earth had not been connected with
+the physical laws of matter and motion, it could not be considered so
+distinctly real as it necessarily was held to be in after times.
+12 Rheticus, Nar. p. 94.
+13 Riccioli.
+The delay of the publication of Copernicus’s work brought it to the
+end of his life; he died in the year 1543, in which it was published.
+It was entitled De Revolutionibus Orbium Cœlestium Libri VI. He
+received the only copy he ever saw on the day of his death, and never
+opened it: he had then, says Gassendi, his biographer, other cares.
+His system was, however, to a certain extent, promulgated, and his
+fame diffused before that time. Cardinal Schomberg, in his letter of
+1536, which has been already mentioned, says, “Some years ago, when I
+heard tidings of your merit by the constant report of all persons, my
+affection for you was augmented, and I congratulated the men of our
+time, among whom you flourish in so much honor. For I had understood
+that you were not only acquainted with the discoveries of ancient
+mathematicians, but also had formed a new system of the world, in
+which you teach that the Earth moves, the Sun occupies the lowest, and
+consequently, the middle place, the sphere of the fixed stars remains
+immovable and fixed, and the Moon, along with the elements included in
+her sphere, placed between the orbits (cœlum) of Mars and
+Venus, travels round the sun in a yearly
+revolution.”14
+The writer goes on to say that he has
+heard that Copernicus has written a book (Commentarios), in
+which this system is applied to the construction of Tables of the
+Planetary Motions (erraticarum stellarum). He then proceeds to
+entreat him earnestly to publish his lucubrations.
+14 This passage has so important a
+place in the history, that I will give it in the
+original:—“Intellexeram te non modo veterum mathematicorum
+inventa egregie callere sed etiam novam mundi rationem constituisse:
+Qua doceas terram moveri: solem imum mundi, atque medium locum
+obtinere: cœlum octavum immotum atque fixum perpetuo manere: Lunam se
+una cum inclusis suæ spheræ elementis, inter Martis et Veneris cœlum
+sitam, anniversario cursu circum solem convertere. Atque de hac tota
+astronomiæ ratione commentarios a te confectos esse, ac erraticarum
+stellarum motus calculis subductos tabulis te contulisse, maxima
+omnium cum admiratione. Quamobrem vir doctissime, nisi tibi molestus
+sum, te etiam atque etiam oro vehementer ut hoc tuum inventum
+studiosis communices, et tuas de mundi sphæra lucubrationes, una cum
+Tabulis et si quid habes præterea quod ad eandem rem pertineat primo
+quoque tempore ad me mittas.”
+269 This letter
+is dated 1536, and implies that the work of Copernicus was then
+written, and known to persons who studied astronomy. Delambre says
+that Achilles Gassarus of Lindau, in a letter dated 1540, sends to his
+friend George Vogelin of Constance, the book De Revolutionibus.
+But Mr. De Morgan15 has pointed out that the printed work
+which Gassarus sent to Vogelin was the Narratio by Rheticus of
+Feldkirch, a eulogium of Copernicus and his system prefixed to the
+second edition of the De Revolutionibus, which appeared in
+1566. In this Narration, Rheticus speaks of the work of Copernicus as
+a Palingenesia, or New Birth of astronomy. Rheticus, it appears, had
+gone to Copernicus for the purpose of getting knowledge about
+triangles and trigonometrical tables, and had had his attention called
+to the heliocentric theory, of which he became an ardent admirer. He
+speaks of his “Preceptor” with strong admiration, as we have seen. “He
+appears to me,” says he, “more to resemble Ptolemy than any other
+astronomers.” This, it must be recollected, was selecting the highest
+known subject of comparison.  ~Additional material in the 3rd edition.~
+15 Ast. Mod. i. p. 138. I owe
+this and many other corrections to the personal kindness of Mr. De
+Morgan.
+</div></body></text></TEI>

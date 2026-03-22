@@ -1,0 +1,1184 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="10">CHAPTER I.
+Earliest Stages of Astronomy.
+
+Sect. 1.—Formation of the Notion of a
+Year.
+THE notion of a Day is
+early and obviously impressed upon man in almost any condition in
+which we can imagine him. The recurrence of light and darkness, of
+comparative warmth and cold, of noise and silence, of the activity and
+repose of animals;—the rising, mounting, descending, and setting
+of the sun;—the varying colors of the clouds, generally,
+notwithstanding their variety, marked by a daily progression of
+appearances;—the calls of the desire of food and of sleep in man
+himself, either exactly adjusted to the period of this change, or at
+least readily capable of being accommodated to it;—the
+recurrence of these circumstances at intervals, equal, so far as our
+obvious judgment of the passage of time can decide; and these
+intervals so short that the repetition is noticed with no effort of
+attention or memory;—this assemblage of suggestions makes the
+notion of a Day necessarily occur to man, if we suppose him to have
+the conception of Time, and of Recurrence. He naturally marks by a
+term such a portion of time, and such a cycle of recurrence; he calls
+each portion of time, in which this series of appearances and
+occurrences come round, a Day; and such a group of particulars
+are considered as appearing or happening in the same day.
+A Year is a notion formed in the same manner; implying in
+the same way the notion of recurring facts; and also the faculty of
+arranging facts in time, and of appreciating their recurrence. But the
+notion of a Year, though undoubtedly very obvious, is, on many
+accounts, less so than that of a Day. The repetition of similar
+circumstances, at equal intervals, is less manifest in this case, and
+the intervals being much longer, some exertion of memory becomes
+requisite in order that the recurrence may be perceived. A child might
+easily be persuaded that successive years were of unequal length; or,
+if the summer were cold, and the spring and autumn warm, might be made
+to believe, if all who spoke in its hearing agreed to support the
+delusion, that one year was two. It would be impossible to practise
+such a deception with regard to the day, without the use of some
+artifice beyond mere words. 113
+Still, the recurrence of the appearances which suggest the notion
+of a Year is so obvious, that we can hardly conceive man without it.
+But though, in all climes and times, there would be a recurrence, and
+at the same interval in all, the recurring appearances would be
+extremely different in different countries; and the contrasts and
+resemblances of the seasons would be widely varied. In some places the
+winter utterly alters the face of the country, converting grassy
+hills, deep leafy woods of various hues of green, and running waters,
+into snowy and icy wastes, and bare snow-laden branches; while in
+others, the field retains its herbage, and the tree its leaves, all
+the year; and the rains and the sunshine alone, or various
+agricultural employments quite different from ours, mark the passing
+seasons. Yet in all parts of the world the yearly cycle of changes has
+been singled out from all others, and designated by a peculiar name.
+The inhabitant of the equatorial regions has the sun vertically over
+him at the end of every period of six months, and similar trains of
+celestial phenomena fill up each of these intervals, yet we do not
+find years of six months among such nations. The Arabs alone,1
+who practise neither agriculture nor navigation, have a year depending
+upon the moon only; and borrow the word from other languages, when
+they speak of the solar year.
+1 Ideler, Berl. Trans. 1813, p.
+51.
+In general, nations have marked this portion of time by some word
+which has a reference to the returning circle of seasons and
+employments. Thus the Latin annus signified a ring, as we see
+in the derivative annulus: the Greek term ἐνιαυτὸς implies
+something which returns into itself: and the word as it exists
+in Teutonic languages, of which our word year is an example, is
+said to have its origin in the word yra which means a ring in
+Swedish, and is perhaps connected with the Latin gyrus.
+Sect. 2.—Fixation of the Civil Year.
+The year, considered as a recurring cycle
+of seasons and of general appearances, must attract the notice of man
+as soon as his attention and memory suffice to bind together the parts
+of a succession of the length of several years. But to make the same
+term imply a certain fixed number of days, we must know how many days
+the cycle of the seasons occupies; a knowledge which requires
+faculties and artifices beyond what we have already mentioned. For
+instance, men cannot reckon as far as any number at all approaching
+the number of days in the year, without possessing a system of numeral
+terms, and methods 114 of practical numeration on which such a
+system of terms is always founded.2 The South American
+Indians, the Koussa Caffres and Hottentots, and the natives of New
+Holland, all of whom are said to be unable to reckon further than the
+fingers of their hands and feet,3 cannot, as we do,
+include in their notion of a year the fact of its consisting of 365
+days. This fact is not likely to be known to any nation except those
+which have advanced far beyond that which may be considered as the
+earliest scientific process which we can trace in the history of the
+human race, the formation of a method of designating the successive
+numbers to an indefinite extent, by means of names, framed according
+to the decimal, quinary, or vigenary scale.
+2 Arithmetic in Encyc.
+Metrop. (by Dr. Peacock), Art. 8.
+3 Ibid. Art. 32.
+But even if we suppose men to have the habit of recording the
+passage of each day, and of counting the score thus recorded, it would
+be by no means easy for them to determine the exact number of days in
+which the cycle of the seasons recurs; for the indefiniteness of the
+appearances which mark the same season of the year, and the changes to
+which they are subject as the seasons are early or late, would leave
+much uncertainty respecting the duration of the year. They would not
+obtain any accuracy on this head, till they had attended for a
+considerable time to the motions and places of the sun; circumstances
+which require more precision of notice than the general facts of the
+degrees of heat and light. The motions of the sun, the succession of
+the places of his rising and setting at different times of the year,
+the greatest heights which he reaches, the proportion of the length of
+day and night, would all exhibit several cycles. The turning back of
+the sun, when he had reached the greatest distance to the south or to
+the north, as shown either by his rising or by his height at noon,
+would perhaps be the most observable of such circumstances.
+Accordingly the τροπαὶ ἠελίοιο, the turnings of the sun, are used
+repeatedly by Hesiod as a mark from which he reckons the seasons of
+various employments. “Fifty days,” he says, “after the turning of the
+sun, is a seasonable time for beginning a voyage.”4
+4
+
+
+Ἤματα πεντήκοντα μετὰ τροπὰς ἠελίοιο 
+Ἐς τέλος ἐλθόντος θέρεος.—Op. et
+Dies, 661.
+
+
+The phenomena would be different
+in different climates, but the recurrence would be common to all. Any
+one of these kinds of phenomena, noted with moderate care for a year,
+would show what was the number of days of which a year consisted; and
+if several years 115 were included in the interval through
+which the scrutiny extended, the knowledge of the length of the year
+so acquired would be proportionally more exact.
+Besides those notices of the sun which offered exact indications of
+the seasons, other more indefinite natural occurrences were used; as
+the arrival of the swallow (χελιδών) and the kite (ἰκτίν), The birds,
+in Aristophanes’ play of that name, mention it as one of their offices
+to mark the seasons; Hesiod similarly notices the cry of the crane as
+an indication of the departure of winter.5
+5 Ideler, i. 240.
+Among the Greeks the seasons were at first only summer and winter
+(θέρος and χειμών), the latter including all the rainy and cold
+portion of the year. The winter was then subdivided into the χειμών
+and ἔαρ (winter proper and spring), and the summer, less definitely,
+into θέρος and ὀπώρα (summer and autumn). Tacitus says that the
+Germans knew neither the blessings nor the name of autumn, “Autumni
+perinde nomen ac bona ignorantur.” Yet harvest, herbst,
+is certainly an old German word.6
+6 Ib. i. 243.
+In the same period in which the sun goes through his cycle of
+positions, the stars also go through a cycle of appearances belonging
+to them; and these appearances were perhaps employed at as early a
+period as those of the sun, in determining the exact length of the
+year. Many of the groups of fixed stars are readily recognized, as
+exhibiting always the same configuration; and particular bright stars
+are singled out as objects of attention. These are observed, at
+particular seasons, to appear in the west after sunset; but it is
+noted that when they do this, they are found nearer and nearer to the
+sun every successive evening, and at last disappear in his light. It
+is observed also, that at a certain interval after this, they rise
+visibly before the dawn of day renders the stars invisible; and after
+they are seen to do this, they rise every day at a longer interval
+before the sun. The risings and settings of the stars under these
+circumstances, or under others which are easily recognized, were, in
+countries where the sky is usually clear, employed at an early period
+to mark the seasons of the year. Eschylus7 makes Prometheus
+mention this among the benefits of which 116 he, the teacher of arts to the earliest
+race of men, was the communicator.
+7 
+
+Οὔκ ἤν γαρ αὐτοῖς οὔτε χείματος τέκμαρ,
+Οὔτ’ ἀνθεμώδους ἦρος, οὔδε καρπίμου
+Θέρους βέβαιον· ἀλλ’ ἄτερ γνώμης τὸ πᾶν
+Ἔπρασσον, ἔστε δή σφιν ἀνατολὰς ἐγὼ
+Ἄστρων ἔδειξα, τάς τε δυσκρίτους
+δύσεις.—Prom. V. 454.
+ Thus, for instance, the rising8
+of the Pleiades in the evening was a mark of the approach of winter.
+The rising of the waters of the Nile in Egypt coincided with the
+heliacal rising of Sirius, which star the Egyptians called Sothis.
+Even without any artificial measure of time or position, it was not
+difficult to carry observations of this kind to such a degree of
+accuracy as to learn from them the number of days which compose the
+year; and to fix the precise season from the appearance of the
+stars.
+8 Ideler (Chronol. i. 242) says that
+this rising of the Pleiades took place at a time of the year
+which corresponds to our 11th May, and the setting to the 20th
+October; but this does not agree with the forty days of their being
+“concealed,” which, from the context, must mean, I conceive, the
+interval between their setting and rising. Pliny, however, says,
+“Vergiliarum exortu æstas incipit, occasu hiems; semestri
+spatio intra se messes vindemiasque et omnium maturitatem complexæ.”
+(H. N. xviii. 69.)
+ The autumn of the Greeks, ὀπώρα, was earlier than our autumn,
+for Homer calls Sirius ἀστὴρ ὀπωρινός, which rose at the end of
+July.
+A knowledge concerning the stars appears to have been first
+cultivated with the last-mentioned view, and makes its first
+appearance in literature with this for its object. Thus Hesiod directs
+the husbandman when to reap by the rising, and when to plough by the
+setting of the Pleiades.9 In like manner Sirius,10 Arcturus,11 the Hyades and
+Orion,12 are noticed.
+9 
+
+Πληίαδων Ἀτλαγενέων ἐπιτελλομενάων.
+Ἄρχεσθ’ ἀμητοῦ· ἀρότοιο δὲ, δυσομενάων.
+Αἵ δή τοι νύκτας τε καὶ ἤματα τεσσεράκοντα
+Κεκρύφαται, αὔτις δὲ περιπλομένου ἐνιαυτοῦ
+Φαίνονται. Op. et
+Dies, l. 381. 
+
+10 Ib. l. 413.
+11
+
+Εὖτ’ ἂν δ’ ἑξήκοντα μετὰ τροπὰς ἠελίοιο
+Χειμέρι’, ἐκτελέσῃ Ζεὺς ἤματα, δή ῥα τότ’
+ἀστὴρ
+Ἀρκτοῦρος, προλιπὼν ἱερὸν ῥόον Ὠκεανοῖο
+Πρῶτον παμφαίνων ἐπιτέλλεται ἀκροκνέφαιος.
+ Op. et
+Dies, l. 562.
+ 
+ Εὖτ’ ἂν δ’ Ὠρίων καὶ Σείριος ἐς μέσον
+ἔλθῃ
+Οὐρανὸν, Ἀρκτοῦρον δ’ ἐσὶδῃ ῥοδοδάκτυλος
+ἠὼς.
+            Ib. 607.
+12
+
+
+
+. . . . . . .  αὐτὰρ ἐπὴν
+δὴ
+Πληϊάδες Ὑάδες τε τὸ τε σθένος Ὠρίωνος
+Δύνωσιν. Ib.
+612.  
+ These methods were
+employed to a late period, because the Greek months, being lunar, did
+not correspond to the seasons. Tables of such motions were called
+παραπήγματα.—Ideler, Hist. Untersuchungen, p. 209.
+117 By such
+means it was determined that the year consisted, at least, nearly, of
+365 days. The Egyptians, as we learn from Herodotus,13 claimed the honor of this discovery.
+The priests informed him, he says, “that the Egyptians were the first
+men who discovered the year, dividing it into twelve equal parts; and
+this they asserted that they discovered from the stars.” Each of these
+parts or months consisted of 30 days, and they added 5 days more at
+the end of the year, “and thus the circle of the seasons come round.”
+It seems, also, that the Jews, at an early period, had a similar
+reckoning of time, for the Deluge which continued 150 days (Gen. vii.
+24), is stated to have lasted from the 17th day of the second month
+(Gen. vii. 11) to the 17th day of the seventh month (Gen. viii. 4),
+that is, 5 months of 30 days.
+13 Ib. ii. 4.
+A year thus settled as a period of a certain number of days is
+called a Civil Year. It is one of the earliest discoverable
+institutions of States possessing any germ of civilization; and one of
+the earliest portions of human systematic knowledge is the discovery
+of the length of the civil year, so that it should agree with the
+natural year, or year of the seasons.
+Sect. 3.—Correction of the Civil Year.
+(Julian Calendar.)
+In reality, by such a mode of reckoning as
+we have described, the circle of the seasons would not come round
+exactly. The real length of the year is very nearly 365 days and a
+quarter. If a year of 365 days were used, in four years the year would
+begin a day too soon, when considered with reference to the sun and
+stars; and in 60 years it would begin 15 days too soon: a quantity
+perceptible to the loosest degree of attention. The civil year would
+be found not to coincide with the year of the seasons; the beginning
+of the former would take place at different periods of the latter; it
+would wander into various seasons, instead of remaining fixed
+to the same season; the term year, and any number of years,
+would become ambiguous: some correction, at least some comparison,
+would be requisite.
+We do not know by whom the insufficiency of the year of 365 days
+was first discovered;14 we find this knowledge diffused among
+all civilized nations, and various artifices used in making the
+correction. The method which we employ, and which consists in
+reckoning an 118
+additional day at the end of February every fourth or leap
+year, is an example of the principle of intercalation, by which
+the correction was most commonly made. Methods of intercalation for
+the same purpose were found to exist in the new world. The Mexicans
+added 13 days at the end of every 52 years. The method of the Greeks
+was more complex (by means of the octaëteris or cycle of 8
+years); but it had the additional object of accommodating itself to
+the motions of the moon, and therefore must be treated of hereafter.
+The Egyptians, on the other hand, knowingly permitted their civil year
+to wander, at least so far as their religious observances were
+concerned. “They do not wish,” says Geminus,15 “the same
+sacrifices of the gods to be made perpetually at the same time of the
+year, but that they should go through all the seasons, so that the
+same feast may happen in summer and winter, in spring and autumn.” The
+period in which any festival would thus pass through all the seasons
+of the year is 1461 years; for 1460 years of 365¼ days are equal to
+1461 years of 365 days. This period of 1461 years is called the
+Sothic Period, from Sothis, the name of the Dog-star, by which
+their fixed year was determined; and for the same reason it
+is called the Canicular Period.16
+14 Syncellus (Chronographia, p.
+123) says that according to the legend, it was King Aseth who first
+added the 5 additional days to 360, for the year, in the eighteenth
+century, b. c.
+15 Uranol. p. 33.
+16 Censorinus de Die Natali, c.
+18.
+Other nations did not regulate their civil year by intercalation at
+short intervals, but rectified it by a reform when this
+became necessary. The Persians are said to have added a month of 30
+days every 120 years. The Roman calendar, at first very rude in its
+structure, was reformed by Numa, and was directed to be kept in order
+by the perpetual interposition of the augurs. This, however, was, from
+various causes, not properly done; and the consequence was, that the
+reckoning fell into utter disorder, in which state it was found by
+Julius Cæsar, when he became dictator. By the advice of Sosigenes, he
+adopted the mode of intercalation of one day in 4 years, which we
+still retain; and in order to correct the derangement which had
+already been produced, he added 90 days to a year of the usual length,
+which thus became what was called the year of confusion. The
+Julian Calendar, thus reformed, came into use, January 1, b. c. 45.
+Sect. 4.—Attempts at the Fixation of the
+Month.
+The circle of changes through which the
+moon passes in about thirty days, is marked, in the earliest stages of
+language, by a word which implies the space of time which one such
+circle occupies; just 119 as the circle of changes of the seasons
+is designated by the word year. The lunar changes are, indeed,
+more obvious to the sense, and strike a more careless person, than the
+annual; the moon, when the sun is absent, is almost the sole natural
+object which attracts our notice; and we look at her with a far more
+tranquil and agreeable attention than we bestow on any other celestial
+object. Her changes of form and place are definite and striking to all
+eyes; they are uninterrupted, and the duration of their cycle is so
+short as to require no effort of memory to embrace it. Hence it
+appears to be more easy, and in earlier stages of civilization more
+common, to count time by moons than by years.
+The words by which this period of time is designated in various
+languages, seem to refer us to the early history of language. Our word
+month is connected with the word moon, and a similar
+connection is noticeable in the other branches of the Teutonic. The
+Greek word μὴν in like manner is related to μήνη, which though not the
+common word for the moon, is found in Homer with that signification.
+The Latin word mensis is probably connected with the same
+group.17
+17 Cicero derives this word from the
+verb to measure: “quia mensa spatia conficiunt,
+menses nominantur;” and other etymologists, with similar views,
+connect the above-mentioned words with the Hebrew manah, to
+measure (with which the Arabic word almanach is connected).
+Such a derivation would have some analogy with that of annus,
+&c., noticed above: but if we are to
+attempt to ascend to the earliest condition of language, we must
+conceive it probable that men would have a name for a most conspicuous
+visible object, the moon, before they would have a verb
+denoting the very abstract and general notion, to
+measure.
+The month is not any exact number of days, being more than 29, and
+less than 30. The latter number was first tried, for men more readily
+select numbers possessing some distinction of regularity. It existed
+for a long period in many countries. A very few months of 30 days,
+however, would suffice to derange the agreement between the days of
+the months and the moon’s appearance. A little further trial would
+show that months of 29 and 30 days alternately, would preserve, for a
+considerable period, this agreement.
+The Greeks adopted this calendar, and, in consequence, considered
+the days of their month as representing the changes of the moon: the
+last day of the month was called ἔνη καὶ νέα, “the old and new” as
+belonging to both the waning and the reappearing moon:18 and their 120 festivals and sacrifices, as determined
+by the calendar, were conceived to be necessarily connected with the
+same periods of the cycles of the sun and moon. “The laws and the
+oracles,” says Geminus, “which directed that they should in sacrifices
+observe three things, months, days, years, were so understood.” With
+this persuasion, a correct system of intercalation became a religious
+duty.
+18 Aratus says of the moon, in a
+passage quoted by Geminus, p. 33:
+
+Αἴει δ’ ἄλλοθεν ἄλλα παρακλίνουσα
+μετωπὰ
+Εἴρῃ, ὁποσταίη μήνος περιτέλλεται ἡὼς
+As still her shifting visage changing
+turns,
+By her we count the monthly round of
+morns.
+The above rule of alternate months of 29 and 30 days, supposes the
+length of the months 29 days and a half, which is not exactly the
+length of a lunar month. Accordingly the Months and the Moon were soon
+at variance. Aristophanes, in “The Clouds,” makes the Moon complain of
+the disorder when the calendar was deranged.
+
+
+       Οὐκ ἄγειν τὰς
+ἡμέρας
+Οὐδὲν ὀρθῶς, ἀλλ’ ἀνω τε καὶ κάτω
+κυδοιδοπᾶν
+ Ὥστ’ ἀπειλεῖν φησὶν αὐτῇ τοὐς θεοὺς
+ἑκάστοτε
+ Ἡνίκ’ ἂν ψευσθῶσι δείπνου κἀπίωσιν οἴκαδε
+ Τῆς ἑορτῆς μὴ τυχόντες κατὰ λόγον τῶν
+ἡμερῶν.
+Nubes, 615–19.
+Chorus of Clouds.
+
+
+The Moon by us to you her greeting
+sends,
+But bids us say that she’s an ill-used
+moon,
+And takes it much amiss that you should
+still
+Shuffle her days, and turn them
+topsy-turvy:
+And that the gods (who know their feast-days
+well)
+By your false count are sent home
+supperless,
+And scold and storm at her for your neglect.19
+19 This passage is supposed by the
+commentators to be intended as a satire upon those who had introduced
+the cycle of Meton (spoken of in Sect. 5),
+which had been done at Athens a few years before “The Clouds” was
+acted.
+The correction of this inaccuracy, however, was not pursued
+separately, but was combined with another object, the securing a
+correspondence between the lunar and solar years, the main purpose of
+all early cycles.
+Sect. 5.—Invention of Lunisolar Years.
+There are 12 complete lunations in a year;
+which according to the above rule (of 29½ days to a lunation) would
+make 354 days, leaving 12¼ days of difference between such a lunar
+year and a solar year. It is said that, at an early period, this was
+attempted to be corrected by interpolating a month of 30 days every
+alternate year; and Herodotus20 relates a
+conversation of Solon, implying a still ruder mode of 121 intercalation. This
+can hardly be considered as an improvement in the Greek calendar
+already described.
+20 B. i. c. 15.
+The first cycle which produced any near correspondence of the
+reckoning of the moon and the sun, was the Octaëteris, or
+period of 8 years: 8 years of 354 days, together with 3 months of 30
+days each, making up (in 99 lunations) 2922 days; which is exactly the
+amount of 8 years of 365¼ days each. Hence this period would answer
+its purpose, so far as the above lengths of the lunar and solar cycles
+are exact; and it might assume various forms, according to the manner
+in which the three intercalary months were distributed. The customary
+method was to add a thirteenth month at the end of the third, fifth,
+and eighth year of the cycle. This period is ascribed to various
+persons and times; probably different persons proposed different forms
+of it. Dodwell places its introduction in the 59th Olympiad, or in the
+6th century, b. c.: but Ideler thinks the
+astronomical knowledge of the Greeks of that age was too limited to
+allow of such a discovery.
+This cycle, however, was imperfect. The duration of 99 lunations is
+something more than 2922 days; it is more nearly 2923½; hence in 16
+years there was a deficiency of 3 days, with regard to the motions of
+the moon. This cycle of 16 years (Heccædecaëteris), with 3
+interpolated days at the end, was used, it is said, to bring the
+calculation right with regard to the moon; but in this way the origin
+of the year was displaced with regard to the sun. After 10 revolutions
+of this cycle, or 160 years, the interpolated days would amount to 30,
+and hence the end of the lunar year would be a month in advance of the
+end of the solar. By terminating the lunar year at the end of the
+preceding month, the two years would again be brought into agreement:
+and we have thus a cycle of 160 years.21
+21 Geminus. Ideler.
+This cycle of 160 years, however, was calculated from the cycle of
+16 years; and it was probably never used in civil reckoning; which the
+others, or at least that of 8 years, appear to have been.
+The cycles of 16 and 160 years were corrections of
+the cycle of 8 years; and were readily suggested, when the length of
+the solar and lunar periods became known with accuracy. But a much
+more exact cycle, independent of these, was discovered and introduced
+by Meton,22 432 years b. c.
+This cycle consisted of 19 years, and is so correct and convenient,
+that it is in use among ourselves to this day. The time occupied by 19
+years, and by 235 lunations, is very nearly the same; 122 (the former time is
+less than 6940 days by 9½ hours, the latter, by 7½ hours). Hence, if
+the 19 years be divided into 235 months, so as to agree with the
+changes of the moon, at the end of that period the same succession may
+begin again with great exactness.
+22 Ideler, Hist. Unters. p.
+208.
+In order that 235 months, of 30 and 29 days, may make up 6940 days,
+we must have 125 of the former, which were called full months,
+and 110 of the latter, which were termed hollow. An artifice
+was used in order to distribute 110 hollow months among 6940 days. It
+will be found that there is a hollow month for each 63 days nearly.
+Hence if we reckon 30 days to every month, but at every 63d day leap
+over a day in the reckoning, we shall, in the 19 years, omit 110 days;
+and this accordingly was done. Thus the 3d day of the 3d month, the
+6th day of the 5th month, the 9th day of the 7th, must be omitted, so
+as to make these months “hollow.” Of the 19 years, seven must consist
+of 13 months; and it does not appear to be known according to what
+order these seven years were selected. Some say they were the 3d, 6th,
+8th, 11th, 14th, 17th, and 19th; others, the 3d, 5th, 8th, 11th, 13th,
+16th, and 19th.
+The near coincidence of the solar and lunar periods in this cycle
+of 19 years, was undoubtedly a considerable discovery at the time when
+it was first accomplished. It is not easy to trace the way in which
+such a discovery was made at that time; for we do not even know the
+manner in which men then recorded the agreement or difference between
+the calendar day and the celestial phenomenon which ought to
+correspond to it. It is most probable that the length of the month was
+obtained with some exactness by the observation of eclipses, at
+considerable intervals of time from each other; for eclipses are very
+noticeable phenomena, and must have been very soon observed to occur
+only at new and full moon.23
+23 Thucyd. vii. 50. Ἡ σελήνη ἐκλείπει·
+ἐτύγχανε γὰρ πανσέληνος οὖσα. iv. 52, Τοῦ
+ἡλίου ἐκλιπές τι ἐγένετο περὶ νουμηνίαν. ii.
+28. Νουμηνίᾳ κατὰ σελήνην (ὥσπερ καὶ μόνον
+δοκεῖ εἶναι γίγνεσθαι δυνατὸν) ὁ ἡλίος ἐξέλιπε μετὰ μεσημβρίαν καὶ
+πάλιν ἀν ἐπληρώθη, γενόμενος μηνοειδὴς καὶ ἀστέρων τινῶν
+ἐκφανέντων.
+The exact length of a certain number of months being thus known,
+the discovery of a cycle which should regulate the calendar with
+sufficient accuracy would be a business of arithmetical skill, and
+would depend, in part, on the existing knowledge of arithmetical
+methods; but in making the discovery, a natural arithmetical sagacity
+was probably more efficacious than method. It is very possible that
+the Cycle of Meton is correct more nearly than its author was
+aware, and 123
+nearly than he could ascertain from any evidence and calculation known
+to him. It is so exact that it is still used in calculating the new
+moon for the time of Easter; and the Golden Number, which is
+spoken of in stating such rules, is the number of this Cycle
+corresponding to the current year.24
+24 The same cycle of 19 years has been
+used by the Chinese for a very great length of time; their civil year
+consisting, like that of the Greeks, of months of 29 and 30 days. The
+Siamese also have this period. (Astron. Lib. U. K.)
+Meton’s Cycle was corrected a hundred years later (330 b. c.), by Calippus, who discovered the error of it
+by observing an eclipse of the moon six years before the death of
+Alexander.25 In this corrected period, four cycles
+of 19 years were taken, and a day left out at the end of the 76 years,
+in order to make allowance for the hours by which, as already
+observed, 6940 days are greater than 19 years, and than 235 lunations:
+and this Calippic period is used in Ptolemy’s Almagest, in
+stating observations of eclipses.
+25 Delamb. A. A. p. 17.
+The Metonic and Calippic periods undoubtedly imply a very
+considerable degree of accuracy in the knowledge which the
+astronomers, to whom they are due, had of the length of the month; and
+the first is a very happy invention for bringing the solar and lunar
+calendars into agreement.
+The Roman Calendar, from which our own is derived, appears to have
+been a much less skilful contrivance than the Greek; though scholars
+are not agreed on the subject of its construction, we can hardly doubt
+that months, in this as in other cases, were intended originally to
+have a reference to the moon. In whatever manner the solar and lunar
+motions were intended to be reconciled, the attempt seems altogether
+to have failed, and to have been soon abandoned. The Roman months,
+both before and after the Julian correction, were portions of the
+year, having no reference to full and new moons; and we, having
+adopted this division of the year, have thus, in our common calendar,
+the traces of one of the early attempts of mankind to seize the law of
+the succession of celestial phenomena, in a case where the attempt was
+a complete failure.
+Considered as a part of the progress of our astronomical knowledge,
+improvements in the calendar do not offer many points to our
+observation, but they exhibit a few very important steps. Calendars
+which, belonging apparently to unscientific ages and nations, possess
+a great degree of accordance with the true motions of the sun and moon
+(like 124 the solar
+calendar of the Mexicans, and the lunar calendar of the Greeks),
+contain the only record now extant of discoveries which must have
+required a great deal of observation, of thought, and probably of
+time. The later improvements in calendars, which take place when
+astronomical observation has been attentively pursued, are of little
+consequence to the history of science; for they are generally founded
+on astronomical determinations, and are posterior in time, and
+inferior in accuracy, to the knowledge on which they depend. But
+cycles of correction, which are both short and close to exactness,
+like that of Meton, may perhaps be the original form of the knowledge
+which they imply; and certainly require both accurate facts and
+sagacious arithmetical reasonings. The discovery of such a cycle must
+always have the appearance of a happy guess, like other discoveries of
+laws of nature. Beyond this point, the interest of the study of
+calendars, as bearing on our subject, ceases: they may be considered
+as belonging rather to Art than to Science; rather as an application
+of a part of our knowledge to the uses of life, than a means or an
+evidence of its extension.
+Sect. 6.—The Constellations.
+Some tendency to consider the stars as
+formed into groups, is inevitable when men begin to attend to them;
+but how men were led to the fanciful system of names of Stars and of
+Constellations, which we find to have prevailed in early times, it is
+very difficult to determine. Single stars, and very close groups, as
+the Pleiades, were named in the time of Homer and Hesiod, and at a
+still earlier period, as we find in the book of Job.26
+26 Job xxxviii. 31. “Canst thou bind
+the sweet influences of Chima (the Pleiades), or loose the bands of
+Kesil (Orion)? Canst thou bring forth Mazzaroth (Sirius) in his
+season? or canst thou guide Ash (or Aisch) (Arcturus) with his
+sons?”
+ And ix. 9. “Which maketh Arcturus, Orion, and Pleiades, and the
+chambers of the south.”
+ Dupuis, vi. 545, thinks that Aisch was αἴξ, the goat and kids.
+See Hyde, Ulughbeigh.
+Two remarkable circumstances with respect to the Constellations
+are, first, that they appear in most cases to be arbitrary
+combinations; the artificial figures which are made to include the
+stars, not having any resemblance to their obvious configurations; and
+second, that these figures, in different countries, are so far
+similar, as to imply some communication. The arbitrary nature of these
+figures shows that they 125 were rather the work of the imaginative
+and mythological tendencies of man, than of mere convenience and love
+of arrangement. “The constellations,” says an astronomer of our own
+time,27 “seem to have been almost purposely
+named and delineated to cause as much confusion and inconvenience as
+possible. Innumerable snakes twine through long and contorted areas of
+the heavens, where no memory can follow them: bears, lions, and
+fishes, large and small, northern and southern, confuse all
+nomenclature. A better system of constellations might have been a
+material help as an artificial memory.” When men indicate the stars by
+figures, borrowed from obvious resemblances, they are led to
+combinations quite different from the received constellations. Thus
+the common people in our own country find a wain or wagon, or a
+plough, in a portion of the great bear.28
+27 Sir J. Herschel.
+28 So also the Greeks, Homer,
+Il. xviii. 487.
+
+
+Ἄρκτον ἢν καὶ ἄμαξαν ἐπίκλησιν
+καλέουσιν.
+The Northern Bear which oft the Wain they
+call.
+Ἄρκτος was the traditional name; ἄμαξα, that suggested by the
+form.
+The similarity of the constellations recognized in different
+countries is very remarkable. The Chaldean, the Egyptian, and the
+Grecian skies have a resemblance which cannot be overlooked. Some have
+conceived that this resemblance may be traced also in the Indian and
+Arabic constellations, at least in those of the zodiac.29 But while the figures are the same, the
+names and traditions connected with them are different, according to
+the histories and localities of each country;30 the river among
+the stars which the Greeks called the Eridanus, the Egyptians asserted
+to be the Nile. Some conceive that the Signs of the Zodiac, or
+path along which the sun and moon pass, had its divisions marked by
+signs which had a reference to the course of the seasons, to the
+motion of the sun, or the employments of the husbandman. If we take
+the position of the heavens, which, from the knowledge we now possess,
+we are sure they must have had 15,000 years ago, the significance of
+the signs of the zodiac, in which the sun was, as referred to the
+Egyptian year, becomes very marked,31 and has led some
+to suppose that the zodiac was invented at such a period. Others have
+rejected this as an improbably great antiquity, and have thought it
+more likely that the constellation assigned to each season was that
+which, at that season, rose at the beginning of the night: 126 thus the balance
+(which is conceived to designate the equality of days and nights) was
+placed among the stars which rose in the evening when the spring
+began: this would fix the origin of these signs 2500 years before our
+era.
+29 Dupuis, vi. 548. The Indian zodiac
+contains, in the place of our Capricorn, a ram and a fish,
+which proves the resemblance without chance of mistake. Bailly, i. p.
+157.
+30 Dupuis, vi. 549.
+31 Laplace, Hist. Astron. p.
+8.
+It is clear, as has already been said, that Fancy, and probably
+Superstition, had a share in forming the collection of constellations.
+It is certain that, at an early period, superstitious notions were
+associated with the stars.32 Astrology is of very high antiquity in
+the East. The stars were supposed to influence the character and
+destiny of man, and to be in some way connected with superior natures
+and powers.
+32 Dupuis, vi. 546.
+We may, I conceive, look upon the formation of the constellations,
+and the notions thus connected with them, as a very early attempt to
+find a meaning in the relations of the stars; and as an utter failure.
+The first effort to associate the appearances and motions of the skies
+by conceptions implying unity and connection, was made in a wrong
+direction, as may very easily be supposed. Instead of considering the
+appearances only with reference to space, time, number, in a manner
+purely rational, a number of other elements, imagination, tradition,
+hope, fear, awe of the supernatural, belief in destiny, were called
+into action. Man, still young, as a philosopher at least, had yet to
+learn what notions his successful guesses on these subjects must
+involve, and what they must exclude. At that period, nothing could be
+more natural or excusable than this ignorance; but it is curious to
+see how long and how obstinately the belief lingered (if indeed it be
+yet extinct) that the motions of the stars, and the dispositions and
+fortunes of men, may come under some common conceptions and laws, by
+which a connection between the one and the other may be
+established.
+We cannot, therefore, agree with those who consider Astrology in
+the early ages as “only a degraded Astronomy, the abuse of a more
+ancient science.”33 It was the first step to astronomy by
+leading to habits and means of grouping phenomena; and, after a while,
+by showing that pictorial and mythological relations among the stars
+had no very obvious value. From that time, the inductive process went
+on steadily in the true road, under the guidance of ideas of space,
+time, and number.
+33 Ib. vi. 546.
+Sect. 7.—The Planets.
+While men were becoming familiar with the
+fixed stars, the planets must have attracted their notice. Venus, from
+her brightness, and 127 from her accompanying the sun at no
+great distance, and thus appearing as the morning and evening star,
+was very conspicuous. Pythagoras is said to have maintained that the
+evening and morning star are the same body, which certainly must have
+been one of the earliest discoveries on this subject; and indeed we
+can hardly conceive men noticing the stars for a year or two without
+coming to this conclusion.
+Jupiter and Mars, sometimes still brighter than Venus, were also
+very noticeable. Saturn and Mercury were less so, but in fine climates
+they and their motion would soon be detected by persons observant of
+the heavens. To reduce to any rule the movements of these luminaries
+must have taken time and thought; probably before this was done,
+certainly very early, these heavenly bodies were brought more
+peculiarly under those views which we have noticed as leading to
+astrology.
+At a time beyond the reach of certain history, the planets, along
+with the sun and moon, had been arranged in a certain recognized order
+by the Egyptians or some other ancient nation. Probably this
+arrangement had been made according to the slowness of their motions
+among the stars; for though the motion of each is very variable, the
+gradation of their velocities is, on the whole, very manifest; and the
+different rate of travelling of the different planets, and probably
+other circumstances of difference, led, in the ready fancy of early
+times, to the attribution of a peculiar character to each luminary.
+Thus Saturn was held to be of a cold and gelid nature; Jupiter, who,
+from his more rapid motion, was supposed to be lower in place, was
+temperate; Mars, fiery, and the like.34
+34 Achilles Tatius (Uranol. pp.
+135, 136), gives the Grecian and Egyptian names of the planets.
+
+
+
+ Egyptian.
+ Greek.
+
+
+
+Saturn 
+Νεμεσέως
+Κρόνου ἀστὴρ
+φαίνων
+
+
+Jupiter 
+Ὀσίριδος
+Δῖος
+φαέθων
+MarsἩρακλεοῦςἈρέοςπυρόεις
+VenusἈφροδίτηςἑώσφορος
+MercuryἈπόλλωνοςἙρμοῦστίλβων
+
+
+It is not necessary to dwell on the details of these speculations,
+but we may notice a very remarkable evidence of their antiquity and
+generality in the structure of one of the most familiar of our
+measures of time, the Week. This distribution of time according
+to periods of seven days, comes down to us, as we learn from the
+Jewish scriptures, from the beginning of man’s existence on the earth.
+The same usage is found over all the East; it existed among the
+Arabians, Assyrians, 128 Egyptians.35 The same week is
+found in India among the Bramins; it has there, also, its days marked
+by those of the heavenly bodies; and it has been ascertained that the
+same day has, in that country, the name corresponding with its
+designation in other nations.
+35 Laplace, Hist. Astron. p.
+16.
+The notion which led to the usual designations of the days of the
+week is not easily unravelled. The days each correspond to one of the
+heavenly bodies, which were, in the earliest systems of the world,
+conceived to be the following, enumerating them in the order of their
+remoteness from the earth:36 Saturn, Jupiter, Mars, the Sun, Venus,
+Mercury, the Moon. At a later period, the received systems placed the
+seven luminaries in the seven spheres. The knowledge which was
+implied in this view, and the time when it was obtained, we must
+consider hereafter. The order in which the
+names are assigned to the days of the week (beginning with Saturday)
+is, Saturn, the Sun, the Moon, Mars, Mercury, Jupiter, Venus; and
+various accounts are given of the manner in which one of these orders
+is obtained from the other; all the methods proceeding upon certain
+arbitrary arithmetical processes, connected in some way with
+astrological views. It is perhaps not worth our while here to examine
+further the steps of this process; it would be difficult to determine
+with certainty why the former order of the planets was adopted, and
+how and why the latter was deduced from it. But there is something
+very remarkable in the universality of the notions, apparently so
+fantastic, which have produced this result; and we may probably
+consider the Week, with Laplace,37 as “the most
+ancient monument of astronomical knowledge.” This period has gone on
+without interruption or irregularity from the earliest recorded times
+to our own days, traversing the extent of ages and the revolutions of
+empires; the names of the ancient deities which were associated with
+the stars have been replaced by those of the objects of the worship of
+our Teutonic ancestors, according to their views of the correspondence
+of the two mythologies; and the Quakers, in rejecting these names of
+days, have cast aside the most ancient existing relic of astrological
+as well as idolatrous superstition.
+36 Philol. Mus. No. 1.
+37 Hist. Ast. p. 17.
+Sect. 8.—The Circles of the Sphere.
+The inventions hitherto noticed, though
+undoubtedly they were steps in astronomical knowledge, can hardly be
+considered as purely abstract and scientific speculations; for the
+exact reckoning of time is one of 129 the wants, even of the least civilized
+nations. But the distribution of the places and motions of the
+heavenly bodies by means of a celestial sphere with imaginary lines
+drawn upon it, is a step in speculative astronomy, and was
+occasioned and rendered important by the scientific propensities of
+man.
+It is not easy to say with whom this notion originated. Some parts
+of it are obvious. The appearance of the sky naturally suggests the
+idea of a concave Sphere, with the stars fixed on its surface. Their
+motions during any one night, it would be readily seen, might be
+represented by supposing this Sphere to turn round a Pole or Axis; for
+there is a conspicuous star in the heavens which apparently stands
+still (the Pole-star); all the others travel round this in circles,
+and keep the same positions with respect to each other. This
+stationary star is every night the same, and in the same place; the
+other stars also have the same relative position; but their general
+position at the same time of night varies gradually from night to
+night, so as to go through its cycle of appearances once a year. All
+this would obviously agree with the supposition that the sky is a
+concave sphere or dome, that the stars have fixed places on this
+sphere, and that it revolves perpetually and uniformly about the Pole
+or fixed point.
+But this supposition does not at all explain the way in which the
+appearances of different nights succeed each other. This, however, may
+be explained, it appears, by supposing the sun also to
+move among the stars on the surface of the concave sphere. The
+sun by his brightness makes the stars invisible which are on his side
+of the heavens: this we can easily believe; for the moon, when bright,
+also puts out all but the largest stars; and we see the stars
+appearing in the evening, each in its place, according to their degree
+of splendor, as fast as the declining light of day allows them to
+become visible. And as the sun brings day, and his absence night, if
+he move through the circuit of the stars in a year, we shall have, in
+the course of that time, every part of the starry sphere in succession
+presented to us as our nocturnal sky.
+This notion, that the sun moves round among the stars in a
+year, is the basis of astronomy, and a considerable part of the
+science is only the development and particularization of this general
+conception. It is not easy to ascertain either the exact method by
+which the path of the sun among the stars was determined, or the
+author and date of the discovery. That there is some difficulty in
+tracing the course of the sun among the stars will be clearly seen,
+when it is considered that no 130 star can ever be seen at the same time
+with the sun. If the whole circuit of the sky be divided into twelve
+parts or signs, it is estimated by Autolycus, the oldest writer
+on these subjects whose works remain to us,38 that the stars
+which occupy one of these parts are absorbed by the solar rays, so
+that they cannot be seen. Hence the stars which are seen nearest to
+the place of the setting and the rising sun in the evening and in the
+morning, are distant from him by the half of a sign: the evening stars
+being to the west, and the morning stars to the east of him. If the
+observer had previously obtained a knowledge of the places of all the
+principal stars, he might in this way determine the position of the
+sun each night, and thus trace his path in a year.
+38 Delamb. A. A. p. xiii.
+In this, or some such way, the sun’s path was determined by the
+early astronomers of Egypt. Thales, who is mentioned as the father of
+Greek astronomy, probably learnt among the Egyptians the results of
+such speculations, and introduced them into his own country. His
+knowledge, indeed, must have been a great deal more advanced than that
+which we are now describing, if it be true, as is asserted, that he
+predicted an eclipse. But his having done so is not very consistent
+with what we are told of the steps which his successors had still to
+make.
+The Circle of the Signs, in which the sun moves among the stars, is
+obliquely situated with regard to the circles in which the stars move
+about the poles. Pliny39 states that Anaximander,40 a scholar of Thales, was the first
+person who pointed out this obliquity, and thus, as he says, “opened
+the gate of nature.” Certainly, the person who first had a clear view
+of the nature of the sun’s path in the celestial sphere, made that
+step which led to all the rest; but it is difficult to conceive that
+the Egyptians and Chaldeans had not already advanced so far.
+39 Lib. ii. c. (viii.)
+40 Plutarch, De Plac. Phil.
+lib. ii. cap. xii. says Pythagoras was the author of this
+discovery.
+The diurnal motion of the celestial sphere, and the motion of the
+moon in the circle of the signs, gave rise to a mathematical science,
+the Doctrine of the Sphere, which was one of the earliest
+branches of applied mathematics. A number of technical conceptions and
+terms were soon introduced. The Sphere of the heavens was
+conceived to be complete, though we see but a part of it; it was
+supposed to turn about the visible pole and another pole
+opposite to this, and these poles were connected by an imaginary
+Axis. The circle which divided the sphere exactly midway
+between these poles was called the Equator (ἰσημέρινος). 131 The two circles
+parallel to this which bounded the sun’s path among the stars were
+called Tropics (τροπικαί), because the sun turns back
+again towards the equator when he reaches them. The stars which never
+set are bounded by a circle called the Arctic Circle (ἄρκτικος,
+from ἄρκτος, the Bear, the constellation to which some of the
+principal stars within that circle belong.) A circle about the
+opposite pole is called Antarctic, and the stars which are
+within it can never rise to us.41 The sun’s path
+or circle of the signs is called the Zodiac, or circle of
+animals; the points where this circle meets the equator are the
+Equinoctial Points, the days and nights being equal when the
+sun is in them; the Solstitial Points are those where the sun’s
+path touches the tropics; his motion to the south or to the north
+ceases when he is there, and he appears in that respect to stand
+still. The Colures (κόλουροι, mutilated) are circles which pass
+through the poles and through the equinoctial and solstitial points;
+they have their name because they are only visible in part, a portion
+of them being below the horizon.
+41 The Arctic and Antarctic Circles of
+modern astronomers are different from these.
+The Horizon (ὁρίζων) is commonly understood as the boundary
+of the visible earth and heaven. In the doctrine of the sphere, this
+boundary is a great circle, that is, a circle of which the
+plane passes through the centre of the sphere; and, therefore, an
+entire hemisphere is always above the horizon. The term occurs for the
+first time in the work of Euclid, called Phænomena (Φαινόμενα).
+We possess two treatises written by Autolycus42 (who lived about
+300 b. c.) which trace deductively the
+results of the doctrine of the sphere. Supposing its diurnal motion to
+be uniform, in a work entitled Περὶ Κινουμένης Σφαῖρας, “On the Moving
+Sphere,” he demonstrates various properties of the diurnal risings,
+settings, and motions of the stars. In another work, Περὶ Ἐπιτολῶν καὶ
+Δύσεων, “On Risings and Settings,”43 tacitly
+assuming the sun’s motion in his circle to be uniform, he proves
+certain propositions, with regard to those risings and settings of the
+stars, which take place at the same time when the sun rises and
+sets,44 or vice versâ;45 and also their apparent risings
+and settings when they cease to be visible after sunset, or begin to
+be visible after sunrise.46 132 Several of the propositions contained in
+the former of these treatises are still necessary to be understood, as
+fundamental parts of astronomy.
+42 Delambre, Astron. Ancienne,
+p. 19.
+43 Delambre, Astron. Anc. p.
+25.
+44 Cosmical rising and
+setting.
+45 Acronycal rising and
+setting; (ἀκρονυκίος, happening at the extremity of the night.)
+46 Heliacal rising and
+setting.
+The work of Euclid, just mentioned, is of the same kind. Delambre47 finds in it evidence that Euclid was
+merely a book-astronomer, who had never observed the heavens.
+47 Ast. Anc. p. 53.
+We may here remark the first instance of that which we shall find
+abundantly illustrated in every part of the history of science; that
+man is prone to become a deductive reasoner;—that as
+soon as he obtains principles which can be traced to details by
+logical consequence, he sets about forming a body of science, by
+making a system of such reasonings. Geometry has always been a
+favorite mode of exercising this propensity: and that science, along
+with Trigonometry, Plane and Spherical, to which the early problems of
+astronomy gave rise, have, up to the present day, been a constant
+field for the exercise of mathematical ingenuity; a few simple
+astronomical truths being assumed as the basis of the reasoning.
+Sect. 9.—The Globular Form of the Earth.
+The establishment of the globular form of
+the earth is an important step in astronomy, for it is the first of
+those convictions, directly opposed to the apparent evidence of the
+senses, which astronomy irresistibly proves. To make men believe that
+up and down are different directions in different
+places; that the sea, which seems so level, is, in fact, convex; that
+the earth, which appears to rest on a solid foundation, is, in fact,
+not supported at all; are great triumphs both of the power of
+discovering and the power of convincing. We may readily allow this,
+when we recollect how recently the doctrine of the antipodes,
+or the existence of inhabitants of the earth, who stand on the
+opposite side of it, with their feet turned towards ours, was
+considered both monstrous and heretical.
+Yet the different positions of the horizon at different places,
+necessarily led the student of spherical astronomy towards this notion
+of the earth as a round body. Anaximander48 is said by some
+to have held the earth to be globular, and to be detached or
+suspended; he is also stated to have constructed a sphere, on which
+were shown the extent of land and water. As, however, we do not know
+the arguments upon which he maintained the earth’s globular form, we
+cannot judge of the 133 value of his opinion; it may have been
+no better founded than a different opinion ascribed to him by
+Laertius, that the earth had the shape of a pillar. Probably, the
+authors of the doctrine of the globular form of the earth were led to
+it, as we have said, by observing the different height of the pole at
+different places. They would find that the space which they passed
+over from north to south on the earth, was proportional to the change
+of place of the horizon in the celestial sphere; and as the horizon
+is, at every place, in the direction of the earth’s apparently level
+surface, this observation would naturally suggest to them the opinion
+that the earth is placed within the celestial sphere, as a small globe
+in the middle of a much larger one.
+48 See Brucker, Hist. Phil.
+vol. i. p. 486.
+We find this doctrine so distinctly insisted on by Aristotle, that
+we may almost look on him as the establisher of it.49 “As to the figure of the earth, it must
+necessarily be spherical.” This he proves, first by the tendency of
+things, in all places, downwards. He then adds,50 “And, moreover,
+from the phenomena according to the sense: for if it were not so, the
+eclipses of the moon would not have such sections as they have. For in
+the configurations in the course of a month, the deficient part takes
+all different shapes; it is straight, and concave, and convex; but in
+eclipses it always has the line of division convex; wherefore, since
+the moon is eclipsed in consequence of the interposition of the earth,
+the periphery of the earth must be the cause of this by having a
+spherical form. And again, from the appearances of the stars, it is
+clear, not only that the earth is round, but that its size is not very
+large: for when we make a small removal to the south or the north, the
+circle of the horizon becomes palpably different, so that the stars
+overhead undergo a great change, and are not the same to those that
+travel to the north and to the south. For some stars are seen in Egypt
+or at Cyprus, but are not seen in the countries to the north of these;
+and the stars that in the north are visible while they make a complete
+circuit, there undergo a setting. So that from this it is manifest,
+not only that the form of the earth is round, but also that it is a
+part of not a very large sphere: for otherwise the difference would
+not be so obvious to persons making so small a change of place.
+Wherefore we may judge that those persons who connect the region
+in the neighborhood of the pillars of Hercules with that towards
+India, and who assert that in this way the sea is one, do not assert things very improbable. They
+confirm this conjecture moreover by the 134 elephants, which are said to be of the
+same species (γένος) towards each extreme; as if this circumstance was
+a consequence of the conjunction of the extremes. The mathematicians,
+who try to calculate the measure of the circumference, make it amount
+to 400,000 stadia; whence we collect that the earth is not only
+spherical, but is not large compared with the magnitude of the other
+stars.”
+49 Arist. de Cœlo, lib. ii.
+cap. xiv. ed. Casaub. p. 290.
+50 p. 291 C.
+When this notion was once suggested, it was defended and confirmed
+by such arguments as we find in later writers: for instance,51 that the tendency of all things was to
+fall to the place of heavy bodies, and that this place being the
+centre of the earth, the whole earth had no such tendency; that the
+inequalities on the surface were so small as not materially to affect
+the shape of so vast a mass; that drops of water naturally form
+themselves into figures with a convex surface; that the end of the
+ocean would fall if it were not rounded off; that we see ships, when
+they go out to sea, disappearing downwards, which shows the surface to
+be convex. These are the arguments still employed in impressing the
+doctrines of astronomy upon the student of our own days; and thus we
+find that, even at the early period of which we are now speaking,
+truths had begun to accumulate which form a part of our present
+treasures.  ~Additional material in the 3rd
+edition.~
+51 Pliny, Nat. Hist. ii. lxv.
+Sect. 10.—The Phases of the Moon.
+When men had formed a steady notion of the
+Moon as a solid body, revolving about the earth, they had only further
+to conceive it spherical, and to suppose the sun to be beyond the
+region of the moon, and they would find that they had obtained an
+explanation of the varying forms which the bright part of the moon
+assumes in the course of a month. For the convex side of the
+crescent-moon, and her full edge when she is gibbous, are always
+turned towards the sun. And this explanation, once suggested, would be
+confirmed, the more it was examined. For instance, if there be near us
+a spherical stone, on which the sun is shining, and if we place
+ourselves so that this stone and the moon are seen in the same
+direction (the moon appearing just over the top of the stone), we
+shall find that the visible part of the stone, which is then
+illuminated by the sun, is exactly similar in form to the moon, at
+whatever period of her changes she may be. The stone and the moon
+being in the same position with respect to us, and both being
+enlightened by the sun, the bright parts are the same in figure; 135 the only difference
+is, that the dark part of the moon is usually not visible at all.
+This doctrine is ascribed to Anaximander. Aristotle was fully aware
+of it.52 It could not well escape the Chaldeans
+and Egyptians, if they speculated at all about the causes of the
+appearances in the heavens.
+52 Probl. Cap. xv. Art. 7.
+Sect. 11.—Eclipses.
+Eclipses of the sun and moon were from the
+earliest tunes regarded with a peculiar interest. The notions of
+superhuman influences and relations, which, as we have seen, were
+associated with the luminaries of the sky, made men look with alarm at
+any sudden and striking change in those objects; and as the constant
+and steady course of the celestial revolutions was contemplated with a
+feeling of admiration and awe, any marked interruption and deviation
+in this course, was regarded with surprise and terror. This appears to
+be the case with all nations at an early stage of their
+civilization.
+This impression would cause Eclipses to be noted and remembered;
+and accordingly we find that the records of Eclipses are the earliest
+astronomical information which we possess. When men had discovered
+some of the laws of succession of other astronomical phenomena, for
+instance, of the usual appearances of the moon and sun, it might then
+occur to them that these unusual appearances also might probably be
+governed by some rule.
+The search after this rule was successful at an early period. The
+Chaldeans were able to predict Eclipses of the Moon. This they did,
+probably, by means of their Cycle of 223 months, or about 18 years;
+for at the end of this time, the eclipses of the moon begin to return,
+at the same intervals and in the same order as at the beginning.53 Probably this was the first instance of
+the prediction of peculiar astronomical phenomena. The Chinese have,
+indeed, a legend, in which it is related that a solar eclipse happened
+in the reign of Tchongkang, above 2000 years before Christ, and that
+the emperor was so much irritated against two great officers of state,
+who had neglected to predict this eclipse, that he put them to death.
+But this cannot be accepted as a real event: for, during the next ten
+centuries, we find no single observation or fact connected with
+astronomy in the Chinese 136 histories; and their astronomy has never
+advanced beyond a very rude and imperfect condition.
+53 The eclipses of the sun are more
+difficult to calculate; since they depend upon the place of the
+spectator on the earth.
+We can only conjecture the mode in which the Chaldeans discovered
+their Period of 18 years; and we may make very different suppositions
+with regard to the degree of science by which they were led to it. We
+may suppose, with Delambre,54 that they carefully recorded the
+eclipses which happened, and then, by the inspection of their
+registers, discovered that those of the moon recurred after a certain
+period. Or we may suppose, with other authors, that they sedulously
+determined the motions of the moon, and having obtained these with
+considerable accuracy, sought and found a period which should include
+cycles of these motions. This latter mode of proceeding would imply a
+considerable degree of knowledge.
+54 A. A. p. 212.
+It appears probable rather that such a period was discovered by
+noticing the recurrence of eclipses, than by studying the
+moon’s motions. After 6585⅓ days, or 223 lunations, the same
+eclipses nearly will recur. It is not contested that the Chaldeans
+were acquainted with this period, which they called Saros; or
+that they calculated eclipses by means of it.
+Sect. 12.—Sequel to the Early Stages of
+Astronomy.
+Every stage of science has its train of
+practical applications and systematic inferences, arising both from
+the demands of convenience and curiosity, and from the pleasure which,
+as we have already said, ingenuous and active-minded men feel in
+exercising the process of deduction. The earliest condition of
+astronomy, in which it can be looked upon as a science, exhibits
+several examples of such applications and inferences, of which we may
+mention a few.
+Prediction of Eclipses.—The Cycles which served to
+keep in order the Calendar of the early nations of antiquity, in some
+instances enabled them also, as has just been stated, to predict
+Eclipses; and this application of knowledge necessarily excited great
+notice. Cleomedes, in the time of Augustus, says, “We never see an
+eclipse happen which has not been predicted by those who made use of
+the Tables.” (ὑπὸ τῶν κανονικῶν.)
+Terrestrial Zones.—The globular form of the earth
+being assented to, the doctrine of the sphere was applied to the earth
+as well as the heavens; and the earth’s surface was divided by various
+imaginary 137
+circles; among the rest, the equator, the tropics, and circles, at the
+same distance from the poles as the tropics are from the equator. One
+of the curious consequences of this division was the
+assumption that there must be some marked difference in the
+stripes or zones into which the earth’s surface was thus divided. In
+going to the south, Europeans found countries hotter and hotter, in
+going to the north, colder and colder; and it was supposed that the
+space between the tropical circles must be uninhabitable from heat,
+and that within the polar circles, again, uninhabitable from cold.
+This fancy was, as we now know, entirely unfounded. But the principle
+of the globular form of the earth, when dealt with by means of
+spherical geometry, led to many true and important propositions
+concerning the lengths of days and nights at different places. These
+propositions still form a part of our Elementary Astronomy.
+Gnomonic.—Another important result of the doctrine of
+the sphere was Gnomonic or Dialling. Anaximenes is said
+by Pliny to have first taught this art in Greece; and both he and
+Anaximander are reported to have erected the first dial at Lacedemon.
+Many of the ancient dials remain to us; some of these are of complex
+forms, and must have required great ingenuity and considerable
+geometrical knowledge in their construction.
+Measure of the Sun’s Distance.—The explanation of the
+phases of the moon led to no result so remarkable as the attempt of
+Aristarchus of Samos to obtain from this doctrine a measure of the
+Distance of the Sun as compared with that of the Moon. If the moon was
+a perfectly smooth sphere, when she was exactly midway between the new
+and full in position (that is, a quadrant from the sun), she would be
+somewhat more than a half moon; and the place when she was
+dichotomized, that is, was an exact semicircle, the bright part
+being bounded by a straight line, would depend upon the sun’s distance
+from the earth. Aristarchus endeavored to fix the exact place of this
+Dichotomy; but the irregularity of the edge which bounds the bright
+part of the moon, and the difficulty of measuring with accuracy, by
+means then in use, either the precise time when the boundary was most
+nearly a straight line, or the exact distance of the moon from the sun
+at that time, rendered his conclusion false and valueless. He
+collected that the sun is at 18 times the distance of the moon from
+us; we now know that he is at 400 times the moon’s distance.
+It would be easy to dwell longer on subjects of this kind; but we
+have already perhaps entered too much in detail. We have been 138 tempted to do this by
+the interest which the mathematical spirit of the Greeks gave to the
+earliest astronomical discoveries, when these were the subjects of
+their reasonings; but we must now proceed to contemplate them engaged
+in a worthier employment, namely, in adding to these discoveries.
+~Additional material in the 3rd
+edition.~
+</div></body></text></TEI>

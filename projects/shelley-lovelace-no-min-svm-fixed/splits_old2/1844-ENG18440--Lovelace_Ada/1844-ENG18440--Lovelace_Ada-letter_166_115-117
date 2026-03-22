@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 115-117</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 115-117.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1844">undated [August 1844?]</date>
+          <note type="place">Brighton</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 115-117</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_115-117.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Brighton Monday Night</p>
+      <p>Dearest W. I forgot to say in my yesterday's that I feel very sure I did send you my notion of the reply to Lady Murray. It was on the half of a note-sheet, &amp; inscribed at the top "To be copied".</p>
+      <p>I distinctly remember putting it into the envelope, &amp; I certainly can</p>
+      <p>find it nowhere here.</p>
+      <p>What a good mate you are about writing to me. Your few words (when you are hurried) are so valued, &amp; so preferable to none.</p>
+      <p>I want you my Dear to consider more about a splashing place for your Bird, in the house at Ockham. (You know all caged Birds require a large saucer to dip into). You expressed yourself not averse to it</p>
+      <p>when I once before named it, but thought there would be some difficulty about the water. Surely on the ground floor that might be managed. I mean a bath 10 or 12 feet long (or even 8 would do), 5 or 6 broad, &amp; 5 or 6 deep. I think it of consequence to all of us, &amp; to me especially. I find that at moments when I feel done up &amp; when I can't arrange to bathe in the sea owing</p>
+      <p>to various circumstances, if I get a cold bath for 5 or 10 minutes at the baths close bye, I am at once renovated. They suspend a rope over the bath, &amp; I plunge &amp; dive under the water from the rope, some 6 or 8 times.</p>
+      <p>In this way I have once or twice been made fit for company, when I seemed only fit for bed. And there are many times when from bad weather, from distance,</p>
+      <p>or other things, it would be impossible to go out to bathe, &amp; this would be an invaluable subsitute.</p>
+      <p>I know you always like to contrive things of this sort, when you can. So here is a problem for your Constructiveness to work on.</p>
+      <p>I much like Lady Cosway, as well as her daughters.</p>
+    </div></body>
+  </text>
+</TEI>

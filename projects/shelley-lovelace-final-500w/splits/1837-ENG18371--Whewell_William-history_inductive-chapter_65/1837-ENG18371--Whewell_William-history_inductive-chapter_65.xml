@@ -1,0 +1,120 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="65">CHAPTER IV.
+Discovery of Achromatism.
+THE discovery that the laws of
+refractive dispersion of different substances were such as to allow of
+combinations which neutralised the dispersion without neutralizing the
+refraction, is one which has hitherto been of more value to art than
+to science. The property has no definite bearing, which has yet been
+satisfactorily explained, upon the theory of light; but it is
+of the greatest importance in its application to the construction of
+telescopes; and it excited the more notice, in consequence of the
+prejudices and difficulties which for a time retarded the
+discovery.
+Newton conceived that he had proved by experiment,31 that light 67 is white after refraction, when the
+emergent rays are parallel to the incident, and in no other case. If
+this were so, the production of colorless images by refracting media
+would be impossible; and such, in deference to Newton’s great
+authority, was for some time the general persuasion. Euler32 observed, that a combination of lenses
+which does not color the image must be possible, since we have an
+example of such a combination in the human eye; and he investigated
+mathematically the conditions requisite for such a result.
+Klingenstierna,33 a Swedish mathematician, also showed
+that Newton’s rule could not be universally true. Finally, John
+Dollond,34 in 1757, repeated Newton’s experiment,
+and obtained an opposite result. He found that when an object was seen
+through two prisms, one of glass and one of water, of such angles that
+it did not appear displaced by refraction, it was colored. Hence it
+followed that, without being colored, the rays might be made to
+undergo refraction; and that thus, substituting lenses for prisms, a
+combination might be formed, which should produce an image without
+coloring it, and make the construction of an achromatic
+telescope possible.
+31 Opticks, B. i. p. ii. Prop.
+3.
+32 Ac. Berlin. 1747.
+33 Swedish Trans. 1754.
+34 Phil. Trans. 1758.
+Euler at first hesitated to confide in Dollond’s experiments; but
+he was assured of their correctness by Clairaut, who had throughout
+paid great attention to the subject; and those two great
+mathematicians, as well as D’Alembert, proceeded to investigate
+mathematical formulæ which might be useful in the application of the
+discovery. The remainder of the deductions, which were founded upon
+the laws of dispersion of various refractive substances, belongs
+rather to the history of art than of science. Dollond used at first,
+for his achromatic object-glass, a lens of crown-glass, and one of
+flint-glass. He afterwards employed two lenses of the former
+substance, including between them one of the latter, adjusting the
+curvatures of his lenses in such a way as to correct the imperfections
+arising from the spherical form of the glasses, as well as the fault
+of color. Afterwards, Blair used fluid media along with glass lenses,
+in order to produce improved object-glasses. This has more recently
+been done in another form by Mr. Barlow. The inductive laws of
+refraction being established, their results have been deduced by
+various mathematicians, as Sir J. Herschel and Professor Airy among
+ourselves, who have simplified and extended the investigation of the
+formulæ which determine the best combination of lenses in the
+object-glasses and eye-glasses of 68 telescopes, both with reference to
+spherical and to chromatic aberrations.
+According to Dollond’s discovery, the colored spectra produced by
+prisms of two substances, as flint-glass and crown-glass, would be of
+the same length when the refraction was different. But a question then
+occurred: When the whole distance from the red to the violet in one
+spectrum was the same as the whole distance in the other, were the
+intermediate colors, yellow, green, &c., in corresponding places
+in the two? This point also could not be determined any otherwise than
+by experiment. It appeared that such a correspondence did not exist;
+and, therefore, when the extreme colors were corrected by combinations
+of the different media, there still remained an uncorrected residue of
+color arising from the rest of the spectrum. This defect was a
+consequence of the property, that the spectra belonging to different
+media were not divided in the same ratio by the same colors,
+and was hence termed the irrationality of the spectrum. By
+using three prisms, or three lenses, three colors may be made to
+coincide instead of two, and the effects of this irrationality greatly
+diminished.
+For the reasons already mentioned, we do not pursue this subject
+further,35 but turn to those optical facts which
+finally led to a great and comprehensive theory.
+35 The discovery of the fixed
+lines in the spectrum, by Wollaston and Fraunhofer, has more
+recently supplied the means of determining, with extreme accuracy, the
+corresponding portions of the spectrum in different refracting
+substances.
+[2nd Ed.] [Mr. Chester More Hall, of More Hall, in Essex, is said
+to have been led by the study of the human eye, which he conceived to
+be achromatic, to construct achromatic telescopes as early as 1729.
+Mr. Hall, however, kept his invention a secret. David Gregory, in his
+Catoptrics (1713), had suggested that it would perhaps be an
+improvement of telescopes, if, in imitation of the human eye, the
+object-glass were composed of different media. Encyc. Brit.
+art. Optics.
+It is said that Clairaut first discovered the irrationality of the
+colored spaces in the spectrum. In consequence of this irrationality,
+it follows that when two refracting media are so combined as to
+correct each other’s extreme dispersion, (the separation of the red
+and violet rays,) this first step of correction still leaves a residue
+of 69 coloration
+arising from the unequal dispersion of the intermediate rays (the
+green, &c.). These outstanding colors, as they were termed
+by Professor Robison, form the residual, or secondary
+spectrum.
+Dr. Blair, by very ingenious devices, succeeded in producing an
+object-glass, corrected by a fluid lens, in which this aberration of
+color was completely corrected, and which performed wonderfully
+well.
+The dispersion produced by a prism may be corrected by another
+prism of the same substance and of a different angle. In this
+case also there is an irrationality in the colored spaces, which
+prevents the correction of color from being complete; and hence, a new
+residuary spectrum, which has been called the tertiary
+spectrum, by Sir David Brewster, who first noticed it.
+I have omitted, in the notice of discoveries respecting the
+spectrum, many remarkable trains of experimental research, and
+especially the investigations respecting the power of various media to
+absorb the light of different parts of the spectrum, prosecuted by Sir
+David Brewster with extraordinary skill and sagacity. The observations
+are referred to in chapter iii. Sir John
+Herschel, Prof. Miller, Mr. Daniel, Dr. Faraday, and Mr. Talbot, have
+also contributed to this part of our knowledge.]
+</div></body></text></TEI>

@@ -1,0 +1,125 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="91">CHAPTER VII.
+Consequences of the Electrodynamic
+Theory.
+IT is not necessary to state
+the various applications which were soon made of the electro-magnetic
+discoveries. But we may notice one 251 of the most important,—the
+Galvanometer, an instrument which, by enabling the philosopher
+to detect and to measure extremely minute electrodynamic actions, gave
+an impulse to the subject similar to that which it received from the
+invention of the Leyden Phial, or the Voltaic Pile. The strength of
+the voltaic current was measured, in this instrument, by the
+deflection produced in a compass-needle; and its sensibility was
+multiplied by making the wire pass repeatedly above and below the
+needle. Schweigger, of Halle, was one of the first devisers of this
+apparatus.
+The substitution of electro-magnets, that is, of spiral tubes
+composed of voltaic wires, for common magnets, gave rise to a variety
+of curious apparatus and speculations, some of which I shall hereafter
+mention.
+[2nd Ed.] [When a voltaic apparatus is in action, there may be
+conceived to be a current of electricity running through its various
+elements, as stated in the text. The force of this current in various
+parts of the circuit has been made the subject of mathematical
+investigation by M. Ohm.18 The problem is in every respect similar
+to that of the flow of heat through a body, and taken generally, leads
+to complex calculations of the same kind. But Dr. Ohm, by limiting the
+problem in the first place by conditions which the usual nature and
+form of voltaic apparatus suggest, has been able to give great
+simplicity to his reasonings. These conditions are, the linear form of
+the conductors (wires) and the steadiness of the electric state. For
+this part of the problem Dr. Ohm’s reasonings are as simple and as
+demonstrative as the elementary propositions of Mechanics. The formulæ
+for the electric force of a voltaic current to which he is led have
+been experimentally verified by others, especially Fechner,19 Gauss,20 Lenz, Jacobi,
+Poggendorf, and Pouillet.
+18 Die Galvanische Kette
+Mathematisch bearbeitet von Dr. G. S. Ohm, Berlin, 1827.
+19 Mass-bestimmungen über
+die Galvanische Kette. Leipzig, 1831.
+20 Results of the Magnetic
+Association.
+Among ourselves, Mr. Wheatstone has confirmed and applied the views
+of M. Ohm, in a Memoir21 On New Instruments and Processes for
+determining the Constants of a Voltaic Circuit. He there remarks
+that the clear ideas of electromotive forces and resistances,
+substituted by Ohm for the vague notions of quantity and intensity
+which have long been prevalent, give satisfactory explanations of the
+most important difficulties, and express the laws of a vast number of
+phenomena 252 in
+formulæ of remarkable simplicity and generality. In this Memoir,
+Professor Wheatstone describes an instrument which he terms
+Rheostat, because it brings to a common standard the voltaic
+currents which are compared by it. He generalizes the language of the
+subject by employing the term rheomotor for any apparatus which
+originates an electric current (whether voltaic or thermoelectric,
+&c.) and rheometer for any instrument to measure the force
+of such a current. It appears that the idea of constructing an
+instrument of the nature of the Rheostat had occurred also to Prof.
+Jacobi, of St Petersburg.]
+21 Phil. Trans. 1843. Pt.
+11.
+The galvanometer led to the discovery of another class of cases in
+which the electrodynamical action was called into play, namely, those
+in which a circuit, composed of two metals only, became
+electro-magnetic by heating one part of it. This discovery of
+thermo-electricity was made by Professor Seebeck of Berlin, in
+1822, and prosecuted by various persons; especially by Prof. Cumming22 of Cambridge, who, early in 1823,
+extended the examination of this property to most of the metals, and
+determined their thermo-electric order. But as these investigations
+exhibited no new mechanical effects of electromotive forces, they do
+not now further concern us; and we pass on, at present, to a case in
+which such forces act in a manner different from any of those already
+described.
+22 Camb. Trans. vol. ii. p.
+62. On the Development of Electro-Magnetism by Heat.
+Discovery of
+Diamagnetism.
+[2nd Ed.] [By the discoveries just related, a cylindrical spiral of
+wire through which an electric current is passing is identified with a
+magnet; and the effect of such a spiral is increased by placing in it
+a core of soft iron. By the use of such a combination under the
+influence of a voltaic battery, magnets are constructed far more
+powerful than those which depend upon the permanent magnetism of iron.
+The electro-magnet employed by Dr. Faraday in some of his experiments
+would sustain a hundred-weight at either end.
+By the use of such magnets Dr. Faraday discovered that, besides
+iron, nickel and cobalt, which possess magnetism in a high degree,
+many bodies are magnetic in a slight degree. And he made the further
+very important discovery, that of those substances which are not
+magnetic, many, perhaps all, possess an opposite property, in virtue
+of which he terms them diamagnetic. The opposition is of this
+253
+kind;—that magnetic bodies in the form of bars or needles, if
+free to move, arrange themselves in the axial line joining
+the poles; diamagnetic bodies under the same circumstances arrange
+themselves in an equatorial position, perpendicular to the
+axial line. And this tendency he conceives to be the result of one
+more general; that whereas magnetic bodies are attracted to the poles
+of a magnet, diamagnetic bodies are repelled from the poles. The list
+of diamagnetic bodies includes all kinds of substances; not only
+metals, as antimony, bismuth, gold, silver, lead, tin, zinc, but many
+crystals, glass, phosphorus, sulphur, sugar, gum, wood, ivory; and
+even flesh and fruit.
+It appears that M. le Bailli had shown, in 1829, that both bismuth
+and antimony and bismuth repelled the magnetic needle; and as Dr.
+Faraday remarks, it is astonishing that such an experiment should have
+remained so long without further results. M. Becquerel in 1827
+observed, and quoted Coulomb as having also observed, that a needle of
+wood under certain conditions pointed across the magnetic curves; and
+also stated that he had found a needle of wood place itself parallel
+to the wires of a galvanometer. This he referred to a magnetism
+transverse to the length. But he does not refer the phenomena to
+elementary repulsive action, nor show that they are common to an
+immense class of bodies, nor distinguish this diamagnetic from the
+magnetic class, as Faraday has taught us to do.
+I do not dwell upon the peculiar phenomena of copper which, in the
+same series of researches, are traced by Dr. Faraday to the combined
+effect of its diamagnetic character, and the electric currents excited
+in it by the electro-magnet; nor to the optical phenomena manifested
+by certain transparent diamagnetic substances under electric action;
+as already stated in Book ix.23] ~Additional material in the 3rd edition.~
+23 See the Twentieth Series of
+Experimental Researches in Electricity, read to the Royal Society,
+Dec. 18, 1845.
+</div></body></text></TEI>

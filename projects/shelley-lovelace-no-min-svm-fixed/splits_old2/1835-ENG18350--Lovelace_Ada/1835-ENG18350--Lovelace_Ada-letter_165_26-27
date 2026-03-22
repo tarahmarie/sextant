@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 26-27</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 26-27.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1835">4 December [1835]</date>
+          <note type="place">Ockham</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 26-27</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_26-27.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Ockham. Friday Evg. 4th Decr.</p>
+      <p>My Dearest Mate. The long-wished for letter came this morning, &amp; I think you would have liked to have seen the poor Bird chirping &amp; fluttering over her little treasure.-- Tomorrow we shall set out for Fordhook at 1/2 pst one, in Mama's carriage. The two bay horses take us to Ditton, where Mama's are to meet us. I shall stop at</p>
+      <p>a shop in Richmond in our way, to hire a harp, for I should not like to be without one at Fordhook now that I am getting on so nicely. Miss D'Espourria has given me a new piece to learn, which is very pretty.-- Today we have been to Lady Moore's. My horses took us in Mama's carriage. Yesterday the animals rested. In the beginning of next week, Keys will have the use of them, since they will be left here.-- Tomorrow (Saturday) I cannot write to you, of course. I do not understand why your</p>
+      <p>Exeter letter did not reach mere yesterday.--</p>
+      <p>The Hen is delighted with Mac Intosh's Life, &amp; thinks it a very valuable book. She has great pleasure in poking about the books here.--</p>
+      <p>How beautifully your letter is written.-- I feel the want of your caresses sadly, &amp; without the Hen I should be quite lost. I hope I shall never be left in absolute solitude. I am sure you must want the soft downy little Bird to warm ou nose upon.--</p>
+      <p>The American birds are beautiful</p>
+      <p>and I like much to know more of my kind.--</p>
+      <p>I am vexed to hear of the rents, but I suppose it is not unexpected to you.--</p>
+      <p>I did not tell you of my turning one of your nice black pigs out of your territories the other day by mistake. He has strayed down to the new lodge, &amp; I, taking him for an intruder, had him turned out. I no sooner returned than I discovered my blunder, &amp; was obliged to muster as much gravity as I could, &amp; desire Tubbs would send after him. So you see the Bird pecked, not at 2 children &amp; a dog, but at a pig.--</p>
+      <p>Yours most affecy A.A.S.</p>
+    </div></body>
+  </text>
+</TEI>

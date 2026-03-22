@@ -1,0 +1,424 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Novum Organon Renovatum</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="12">
+CHAPTER VII.
+Of Laws of Phenomena and of Causes.
+Aphorism XXIV.
+Inductive truths are of two kinds, Laws of Phenomena,
+and Theories of Causes. It is necessary to begin in every
+science with the Laws of Phenomena; but it is impossible that
+we should be satisfied to stop short of a Theory of Causes. In
+Physical Astronomy, Physical Optics, Geology, and other
+sciences, we have instances showing that we can make a great
+advance in inquiries after true Theories of Causes.
+1. IN
+the first attempts at acquiring an exact and
+connected knowledge of the appearances and operations
+which nature presents, men went no further
+than to learn what takes place, not why it occurs.
+They discovered an Order which the phenomena follow,
+Rules which they obey; but they did not come in
+sight of the Powers by which these rules are determined,
+the Causes of which this order is the effect.
+Thus, for example, they found that many of the celestial
+motions took place as if the sun and stars were
+carried round by the revolutions of certain celestial
+spheres; but what causes kept these spheres in constant
+motion, they were never able to explain. In
+like manner in modern times, Kepler discovered that
+the planets describe ellipses, before Newton explained
+why they select this particular curve, and describe it
+in a particular manner. The laws of reflection, refraction,
+dispersion, and other properties of light have
+long been known; the causes of these laws are at
+present under discussion. And the same might be 119
+said of many other sciences. The discovery of the
+Laws of Phenomena is, in all cases, the first step in
+exact knowledge; these Laws may often for a long
+period constitute the whole of our science; and it is
+always a matter requiring great talents and great efforts,
+to advance to a knowledge of the Causes of the
+phenomena.
+Hence the larger part of our knowledge of nature,
+at least of the certain portion of it, consists of the
+knowledge of the Laws of Phenomena. In Astronomy
+indeed, besides knowing the rules which guide the appearances,
+and resolving them into the real motions
+from which they arise, we can refer these motions to
+the forces which produce them. In Optics, we have
+become acquainted with a vast number of laws by
+which varied and beautiful phenomena are governed;
+and perhaps we may assume, since the evidence of the
+Undulatory Theory has been so fully developed, that
+we know also the Causes of the Phenomena. But in
+a large class of sciences, while we have learnt many
+Laws of Phenomena, the causes by which these are
+produced are still unknown or disputed. Are we to
+ascribe to the operation of a fluid or fluids, and if so,
+in what manner, the facts of heat, magnetism, electricity,
+galvanism? What are the forces by which the
+elements of chemical compounds are held together?
+What are the forces, of a higher order, as we cannot
+help believing, by which the course of vital action in
+organized bodies is kept up? In these and other cases,
+we have extensive departments of science; but we are
+as yet unable to trace the effects to their causes; and
+our science, so far as it is positive and certain, consists
+entirely of the laws of phenomena.
+2. In those cases in which we have a division of
+the science which teaches us the doctrine of the causes,
+as well as one which states the rules which the effects
+follow, I have, in the History, distinguished the two
+portions of the science by certain terms. I have thus
+spoken of Formal Astronomy and Physical Astronomy.
+The latter phrase has long been commonly employed to
+describe that department of Astronomy which deals with 120
+those forces by which the heavenly bodies are guided in
+their motions; the former adjective appears well suited
+to describe a collection of rules depending on those ideas
+of space, time, position, number, which are, as we have
+already said, the forms of our apprehension of phenomena.
+The laws of phenomena may be considered as
+formulæ, expressing results in terms of those ideas.
+In like manner, I have spoken of Formal Optics and
+Physical Optics; the latter division including all
+speculations concerning the machinery by which the
+effects are produced. Formal Acoustics and Physical
+Acoustics may be distinguished in like manner, although
+these two portions of science have been a good
+deal mixed together by most of those who have treated
+of them. Formal Thermotics, the knowledge of the
+laws of the phenomena of heat, ought in like manner
+to lead to Physical Thermotics, or the Theory of Heat
+with reference to the cause by which its effects are
+produced;—a branch of science which as yet can hardly
+be said to exist.
+3. What kinds of cause are we to admit in science?
+This is an important, and by no means an easy question.
+In order to answer it, we must consider in what
+manner our progress in the knowledge of causes has
+hitherto been made. By far the most conspicuous instance
+of success in such researches, is the discovery
+of the causes of the motions of the heavenly bodies.
+In this case, after the formal laws of the motions,—their
+conditions as to space and time,—had become
+known, men were enabled to go a step further; to reduce
+them to the familiar and general cause of motion—mechanical
+force; and to determine the laws which
+this force follows. That this was a step in addition to
+the knowledge previously possessed, and that it was a
+real and peculiar truth, will not be contested. And a
+step in any other subject which should be analogous to
+this in astronomy;—a discovery of causes and forces
+as certain and clear as the discovery of universal
+gravitation;—would undoubtedly be a vast advance upon
+a body of science consisting only of the laws of phenomena. 121
+4. But although physical astronomy may well be
+taken as a standard in estimating the value and magnitude
+of the advance from the knowledge of phenomena to the
+knowledge of causes; the peculiar features
+of the transition from formal to physical science in
+that subject must not be allowed to limit too narrowly
+our views of the nature of this transition in other
+cases. We are not, for example, to consider that the
+step which leads us to the knowledge of causes in any
+province of nature must necessarily consist in the
+discovery of centers of forces, and collections of
+such centers, by which the effects are produced. The discovery
+of the causes of phenomena may imply the detection
+of a fluid by whose undulations, or other operations,
+the results are occasioned. The phenomena of acoustics
+are, we know, produced in this manner by the air;
+and in the cases of light, heat, magnetism, and others,
+even if we reject all the theories of such fluids which
+have hitherto been proposed, we still cannot deny that
+such theories are intelligible and possible, as the
+discussions concerning them have shown. Nor can it be
+doubted that if the assumption of such a fluid, in any
+case, were as well evidenced as the doctrine of universal
+gravitation is, it must be considered as a highly
+valuable theory.
+5. But again; not only must we, in aiming at the
+formation of a Causal Section in each Science of Phenomena,
+consider Fluids and their various modes of
+operation admissible, as well as centers of mechanical
+force; but we must be prepared, if it be necessary, to
+consider the forces, or powers to which we refer the
+phenomena, under still more general aspects, and invested
+with characters different from mere mechanical
+force. For example; the forces by which the chemical
+elements of bodies are bound together, and from which
+arise, both their sensible texture, their crystalline form,
+and their chemical composition, are certainly forces of
+a very different nature from the mere attraction of
+matter according to its mass. The powers of assimilation
+and reproduction in plants and animals are obviously
+still more removed from mere mechanism; yet 122
+these powers are not on that account less real, nor a
+less fit and worthy subject of scientific inquiry.
+6. In fact, these forces—mechanical, chemical and
+vital,—as we advance from one to the other, each bring
+into our consideration new characters; and what these
+characters are, has appeared in the historical survey
+which we made of the Fundamental Ideas of the various
+sciences. It was then shown that the forces by which
+chemical effects are produced necessarily involve the
+Idea of Polarity,—they are polar forces; the particles
+tend together in virtue of opposite properties which in
+the combination neutralize each other. Hence, in attempting
+to advance to a theory of Causes in chemistry,
+our task is by no means to invent laws of mechanical
+force, and collections of forces, by which the effects
+may be produced. We know beforehand that no such
+attempt can succeed. Our aim must be to conceive
+such new kinds of force, including Polarity among
+their characters, as may best render the results intelligible.
+7. Thus in advancing to a Science of Cause in any
+subject, the labour and the struggle is, not to analyse
+the phenomena according to any preconceived and
+already familiar ideas, but to form distinctly new
+conceptions, such as do really carry us to a more intimate
+view of the processes of nature. Thus in the case of
+astronomy, the obstacle which deferred the discovery
+of the true causes from the time of Kepler to that of
+Newton, was the difficulty of taking hold of mechanical
+conceptions and axioms with sufficient clearness and
+steadiness; which, during the whole of that interval,
+mathematicians were learning to do. In the question
+of causation which now lies most immediately in the
+path of science, that of the causes of electrical and
+chemical phenomena, the business of rightly fixing and
+limiting the conception of polarity, is the proper object
+of the efforts of discoverers. Accordingly a large portion
+of Mr Faraday’s recent
+labours23
+is directed, not to 123
+the attempt at discovering new laws of phenomena, but
+to the task of throwing light upon the conception of
+polarity, and of showing how it must be understood, so
+that it shall include electrical induction and other phenomena,
+which have commonly been ascribed to forces
+acting mechanically at a distance. He is by no means
+content, nor would it answer the ends of science that
+he should be, with stating the results of his experiments;
+he is constantly, in every page, pointing out
+the interpretation of his experiments, and showing how
+the conception of Polar Forces enters into this interpretation.
+‘I shall,’ he says24,
+‘use every opportunity
+which presents itself of returning to that strong test of
+truth, experiment; but,’ he adds, ‘I shall necessarily
+have occasion to speak theoretically, and even hypothetically.’
+His hypothesis that electrical inductive
+action always takes place by means of a continuous line
+of polarized particles, and not by attraction and repulsion
+at a distance, if established, cannot fail to be a
+great step on our way towards a knowledge of causes,
+as well as phenomena, in the subjects under his consideration.
+23 Eleventh, Twelfth,
+and Thirteenth Series of Researches, Phil. Trans. 1837 and 8.
+24 Art. 1318.
+8. The process of obtaining new conceptions is, to
+most minds, far more unwelcome than any labour in
+employing old ideas. The effort is indeed painful and
+oppressive; it is feeling in the dark for an object which
+we cannot find. Hence it is not surprising that we
+should far more willingly proceed to seek for new causes
+by applying conceptions borrowed from old ones. Men
+were familiar with solid frames, and with whirlpools of
+fluid, when they had not learnt to form any clear conception
+of attraction at a distance. Hence they at
+first imagined the heavenly motions to be caused by
+Crystalline Spheres, and by Vortices. At length they
+were taught to conceive Central Forces, and then they
+reduced the solar system to these. But having done
+this, they fancied that all the rest of the machinery of
+nature must be central forces. We find Newton 124
+expressing this conviction25,
+and the mathematicians of
+the last century acted upon it very extensively. We
+may especially remark Laplace’s labours in this field.
+Having explained, by such forces, the phenomena of
+capillary attraction, he attempted to apply the same
+kind of explanation to the reflection, refraction, and
+double refraction of light;—to the constitution of
+gases;—to the operation of heat. It was soon seen that
+the explanation of refraction was arbitrary, and that
+of double refraction illusory; while polarization entirely
+eluded the grasp of this machinery. Centers of force
+would no longer represent the modes of causation
+which belonged to the phenomena. Polarization required
+some other contrivance, such as the undulatory
+theory supplied. No theory of light can be of any
+avail in which the fundamental idea of Polarity is not
+clearly exhibited.
+25
+Multa me movent, &c.,—Pref. to the Principia, already quoted in the
+History.
+9. The sciences of magnetism and electricity have
+given rise to theories in which this relation of polarity
+is exhibited by means of two opposite
+fluids26;—a
+positive and a negative fluid, or a vitreous and a resinous,
+for electricity, and a boreal and an austral fluid
+for magnetism. The hypothesis of such fluids gives
+results agreeing in a remarkable manner with the
+facts and their measures, as Coulomb and others have
+shown. It may be asked how far we may, in such a
+case, suppose that we have discovered the true cause of
+the phenomena, and whether it is sufficiently proved
+that these fluids really exist. The right answer seems
+to be, that the hypothesis certainly represents the
+truth so far as regards the polar relation of the two
+energies, and the laws of the attractive and repulsive
+forces of the particles in which these energies reside;
+but that we are not entitled to assume that the vehicles
+of these energies possess other attributes of material
+fluids, or that the forces thus ascribed to the
+particles are the primary elementary forces from which 125
+the action originates. We are the more bound to
+place this cautious limit to our acceptance of the Coulombian
+theory, since in electricity Faraday has in
+vain endeavoured to bring into view one of the polar
+fluids without the other: whereas such a result ought
+to be possible if there were two separable fluids. The
+impossibility of this separate exhibition of one fluid
+appears to show that the fluids are real only so far as
+they are polar. And Faraday’s view above mentioned,
+according to which the attractions at a distance are
+resolved into the action of lines of polarized particles
+of air, appears still further to show that the conceptions
+hitherto entertained of electrical forces, according
+to the Coulombian theory, do not penetrate to the real
+and intimate nature of the causation belonging to this
+case.
+26
+Hist. Ind. Sc. b. xi. c. ii.
+10. Since it is thus difficult to know when we have
+seized the true cause of the phenomena in any department
+of science, it may appear to some persons that
+physical inquirers are imprudent and unphilosophical
+in undertaking this Research of Causes; and that it
+would be safer and wiser to confine ourselves to the
+investigation of the laws of phenomena, in which field
+the knowledge which we obtain is definite and certain.
+Hence there have not been wanting those who have
+laid it down as a maxim that ‘science must study only
+the laws of phenomena, and never the mode of
+production27.’
+But it is easy to see that such a maxim would
+confine the breadth and depth of scientific inquiries to
+a most scanty and miserable limit. Indeed, such a
+rule would defeat its own object; for the laws of phenomena,
+in many cases, cannot be even expressed or
+understood without some hypothesis respecting their
+mode of production. How could the phenomena of
+polarization have been conceived or reasoned upon,
+except by imagining a polar arrangement of particles,
+or transverse vibrations, or some equivalent hypothesis?
+The doctrines of fits of easy transmission, the doctrine
+of moveable polarization, and the like, even when 126
+erroneous as representing the whole of the phenomena,
+were still useful in combining some of them into laws;
+and without some such hypotheses the facts could not
+have been followed out. The doctrine of a fluid caloric
+may be false; but without imagining such a fluid, how
+could the movement of heat from one part of a body to
+another be conceived? It may be replied that Fourier,
+Laplace, Poisson, who have principally cultivated the
+Theory of Heat, have not conceived it as a fluid, but
+have referred conduction to the radiation of the molecules
+of bodies, which they suppose to be separate points.
+But this molecular constitution of bodies is itself an
+assumption of the mode in which the phenomena are
+produced; and the radiation of heat suggests inquiries
+concerning a fluid emanation, no less than its conduction
+does. In like manner, the attempts to connect
+the laws of phenomena of heat and of gases, have led
+to hypotheses respecting the constitution of gases, and
+the combination of their particles with those of caloric,
+which hypotheses may be false, but are probably the
+best means of discovering the truth.
+27
+ Comte, Philosophie Positive.
+To debar science from inquiries like these, on the
+ground that it is her business to inquire into facts,
+and not to speculate about causes, is a curious example
+of that barren caution which hopes for truth without
+daring to venture upon the quest of it. This temper
+would have stopped with Kepler’s discoveries, and
+would have refused to go on with Newton to inquire
+into the mode in which the phenomena are produced.
+It would have stopped with Newton’s optical facts,
+and would have refused to go on with him and his
+successors to inquire into the mode in which these
+phenomena are produced. And, as we have abundantly
+shown, it would, on that very account, have failed in
+seeing what the phenomena really are.
+In many subjects the attempt to study the laws of
+phenomena, independently of any speculations respecting
+the causes which have produced them, is neither
+possible for human intelligence nor for human temper.
+Men cannot contemplate the phenomena without
+clothing them in terms of some hypothesis, and will 127
+not be schooled to suppress the questionings which at
+every moment rise up within them concerning the
+causes of the phenomena. Who can attend to the
+appearances which come under the notice of the geologist;—strata
+regularly bedded, full of the remains of
+animals such as now live in the depths of the ocean,
+raised to the tops of mountains, broken, contorted,
+mixed with rocks such as still flow from the mouths of
+volcanos,—who can see phenomena like these, and
+imagine that he best promotes the progress of our
+knowledge of the earth’s history, by noting down the
+facts, and abstaining from all inquiry whether these
+are really proof of past states of the earth and of
+subterraneous forces, or merely an accidental imitation of
+the effects of such causes? In this and similar cases,
+to proscribe the inquiry into causes would be to annihilate the science.
+Finally, this caution does not even gain its own
+single end, the escape from hypotheses. For, as we
+have said, those who will not seek for new and appropriate
+causes of newly-studied phenomena, are almost
+inevitably led to ascribe the facts to modifications of
+causes already familiar. They may declare that they
+will not hear of such causes as vital powers, elective
+affinities, electric, or calorific, or luminiferous ethers or
+fluids; but they will not the less on that account
+assume hypotheses equally unauthorized;—for instance—universal
+mechanical forces; a molecular constitution of bodies;
+solid, hard, inert matter;—and will
+apply these hypotheses in a manner which is arbitrary
+in itself as well as quite insufficient for its purpose.
+11. It appears, then, to be required, both by the
+analogy of the most successful efforts of science in past
+times and by the irrepressible speculative powers of
+the human mind, that we should attempt to discover
+both the laws of phenomena, and their causes. In every
+department of science, when prosecuted far enough,
+these two great steps of investigation must succeed
+each other. The laws of phenomena must be known
+before we can speculate concerning causes; the causes
+must be inquired into when the phenomena have been 128
+reduced to rule. In both these speculations the suppositions
+and conceptions which occur must be constantly tested by
+reference to observation and experiment. In both we must,
+as far as possible, devise
+hypotheses which, when we thus test them, display
+those characters of truth of which we have already
+spoken;—an agreement with facts such as will stand
+the most patient and rigid inquiry; a provision for
+predicting truly the results of untried cases; a consilience
+of inductions from various classes of facts; and
+a progressive tendency of the scheme to simplicity and
+unity.
+We shall attempt hereafter to give several rules of a
+more precise and detailed kind for the discovery of the
+causes, and still more, of the laws of phenomena. But
+it will be useful in the first place to point out the
+Classification of the Sciences which results from the
+principles already established in this
+work. And for
+this purpose we must previously decide the question,
+whether the practical Arts, as Medicine and Engineering,
+must be included in our list of Sciences.
+</div></body></text></TEI>

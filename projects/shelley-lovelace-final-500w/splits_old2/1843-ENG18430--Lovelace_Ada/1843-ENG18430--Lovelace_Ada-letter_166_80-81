@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 80-81</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 80-81.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1843">12 October 1843</date>
+          <note type="place">Long's Royal Hotel</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 80-81</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_80-81.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Long's Royal Hotel Thursdy Evg. 12th Octr 1843</p>
+      <p>Dearest. I send you Browne's letter. I am quite sorry, on your account. You should have some companion for your evenings. Cannot you ask some one?</p>
+      <p>Answer Browne, will you, as you think best, about his coming to us later.--</p>
+      <p>My mother fully approves of the enclosed that I have written to Mr Kraemer. Indeed she seems to think it excellent.</p>
+      <p>It has robbed you, my dear,</p>
+      <p>of somewhat very interesting that I was going to write you this evening; but, my dear, as you chose to have nasty young at all, you must not grumble when the little unfledged wretches rob you of a fraction of my pen &amp; attention.</p>
+      <p>I am doing as well as can be expected. I have put myself on a very rigid system, of diet, exercise, &amp;c; determined to abide all present discomforts therefrom, &amp; to await the results with hope &amp; patience. I trust I shall return to you a slim young bird again; or at least on the way to it.</p>
+      <p>This place agrees with me much I think. It is very</p>
+      <p>bracing, free from damp &amp; the neighbourhood full of the picturesque &amp; of motive for long rambles, on foot or otherwise.</p>
+      <p>There is much you would be interested in. I shall write to you tomorrow an account of Blaize Castle &amp; its unique woodlands &amp; grounds; the residence of J. S. Harford Esqre.</p>
+      <p>My dear, the Bird has also a little hoard here in a drawer, to which she brings home curious or pretty mineral specimens in her beak.--</p>
+      <p>Really, your account of young Wilbraham is doleful; &amp; of the walk to the Point [she wrote "point" with lowercase "p" but added and circled "^ insert great P" below with arrow pointing to the "p"] absolutely lugubrious &amp; I am</p>
+      <p>happy to say that the Hen &amp; I entirely agree about medical matters as regards me; &amp; also about habits, pursuits &amp;c.</p>
+    </div></body>
+  </text>
+</TEI>

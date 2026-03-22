@@ -1,0 +1,94 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="51">CHAPTER  III.
+The Principia.
+
+Sect. 2.—Reception of the Principia.
+LORD BROUGHAM has very
+recently (Analytical View of Sir Isaac Newton’s Principia,
+1855) shown a strong disposition still to maintain, what he says has
+frequently been alleged, that the reception of the work was not, even
+in this country, “such as might have been expected.” He says, in
+explanation of the facts which I have adduced, showing the high
+estimation in which Newton was held immediately after the publication
+of the Principia, that Newton’s previous fame was great by
+former discoveries. This is true; but the effect of this was precisely
+what was most honorable to Newton’s countrymen, that they received
+with immediate acclamations this new and greater discovery. Lord
+Brougham adds, “after its appearance the Principia was more
+admired than studied;” which is probably true of the Principia
+still, and of all great works of like novelty and difficulty at all
+times. But, says Lord Brougham, “there is no getting over the
+inference on this head which arises from the dates of the two first
+editions. There elapsed an interval of no less than twenty-seven years
+between them; and although Cotes [in his Preface] speaks of the copies
+having become scarce and in very great demand when the second edition
+appeared in 1713, yet had this urgent demand been of many years’
+continuance, the reprinting could never have been so long delayed.”
+But Lord Brougham might have learnt from Sir David Brewster’s Life
+of Newton (vol. i. p. 312), which he extols so emphatically, that
+already in 1691 (only four years after the publication), a copy of the
+Principia could hardly be procured, and that even at that 549 time an improved
+edition was in contemplation; that Newton had been pressed by his
+friends to undertake it, and had refused.
+When Bentley had induced Newton to consent that a new edition
+should be printed, he announces his success with obvious exultation to
+Cotes, who was to superintend the work. And in the mean time the
+Astronomy of David Gregory, published in 1702, showed in every
+page how familiar the Newtonian doctrines were to English
+philosophers, and tended to make them more so, as the sermons of
+Bentley himself had done in 1692.
+Newton’s Cambridge contemporaries were among those who took a part
+in bringing the Principia before the world. The manuscript
+draft of it was conveyed to the Royal Society (April 28, 1686) by Dr.
+Vincent, Fellow of Clare Hall, who was the tutor of Whiston, Newton’s
+deputy in his professorship; and he, in presenting the work, spoke of
+the novelty and dignity of the subject. There exists in the library of
+the University of Cambridge a manuscript containing the early
+Propositions of the Principia as far as Prop. xxxiii. (which is
+a part of Section vii., about Falling Bodies). This appears to have
+been a transcript of Newton’s Lectures, delivered as Lucasian
+Professor: it is dated October, 1684.
+Is Gravitation proportional to Quantity of Matter?
+It was a portion of Newton’s assertion in his great discovery, that
+all the bodies of the universe attract each other with forces which
+are as the quantity of matter in each: that is, for instance,
+the sun attracts the satellites of any planet just as much as he
+attracts the planet itself, in proportion to the quantity of matter in
+each; and the planets attract one another just as much as they attract
+the sun, according to the quantity of matter.
+To prove this part of the law exactly is a matter which
+requires careful experiments; and though proved experimentally by
+Newton, has been considered in our time worthy of re-examination by
+the great astronomer Bessel. There was some ground for doubt; for the
+mass of Jupiter, as deduced from the perturbations of Saturn, was only
+1⁄1070 of the mass of the sun;
+the mass of the same planet as deduced from the perturbations of Juno
+and Pallas was  1⁄1045 of that of the Sun. If
+this difference were to be confirmed by accurate observations and
+calculations, it would follow that the attractive power exercised by
+Jupiter upon the minor planets was greater than that exercised upon
+550 Saturn. And in
+the same way, if the attraction of the Earth had any specific
+relation to different kinds of matter, the time of oscillation of a
+pendulum of equal length composed wholly or in part of the two
+substances would be different. If, for instance, it were more intense
+for magnetized iron than for stone, the iron pendulum would oscillate
+more quickly. Bessel showed47 that it was possible to assume
+hypothetically a constitution of the sun, planets, and their
+appendages, such that the attraction of the Sun on the Planets and
+Satellites should be proportional to the quantity of matter in each;
+but that the attraction of the Planets on one another would not be on
+the same scale.
+47 Berlin Mem. 1824.
+Newton had made experiments (described in the Principia,
+Book iii., Prop. vi.) by which it was shown that there could be no
+considerable or palpable amount of such specific difference among
+terrestrial bodies, but his experiments could not be regarded as exact
+enough for the requirements of modern science. Bessel instituted a
+laborious series of experiments (presented to the Berlin Academy in
+1832) which completely disproved the conjecture of such a difference;
+every substance examined having given exactly the same coefficient of
+gravitating intensity as compared with inertia. Among the substances
+examined were metallic and stony masses of meteoric origin, which
+might be supposed, if any bodies could, to come from other parts of
+the solar system.
+</div></body></text></TEI>

@@ -1,0 +1,290 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="49">CHAPTER III.
+Principles and Problems.
+
+Significance of Analytical Mechanics.
+IN the text, page 372, I have stated that Lagrange, near the
+end of his life, expressed his sorrow that the methods of
+approximation employed in Physical Astronomy rested on arbitrary
+processes, and not on any insight into the results of mechanical
+action. From the recent biography of Gauss, the greatest physical
+mathematician of modern times, we learn that he congratulated himself
+on having escaped this error. He remarked35 that many of the
+most celebrated mathematicians, Euler very often, Lagrange sometimes,
+had trusted too much to the symbolical calculation of their problems,
+and would not have been able to give an account of the meaning of each
+successive step of their investigation. He said that he himself, on
+the other hand, could assert that at every step which he took, he
+always had the aim and purpose of his operations before his eyes
+without ever turning aside from the way. The same, he remarked, might
+be said of Newton.
+35 Gauss, Zum Gedächtniss, von W.
+Sartorius v. Waltershausen, p. 80.
+Engineering Mechanics.
+The principles of the science of Mechanics were discovered by
+observations made upon bodies within the reach of men; as we have seen
+in speaking of the discoveries of Stevinus, Galileo, and others, up to
+the time of Newton. And when there arose the controversy about vis
+viva (Chap. v. Sect. 2 of this
+Book);—namely, whether the “living force” of a body is measured
+by the product of the weight into the 537 velocity, or of the weight into the
+square of the velocity;—still the examples taken were cases of
+action in machines and the like terrestrial objects. But Newton’s
+discoveries identified celestial with terrestrial mechanics; and from
+that time the mechanical problems of the heavens became more important
+and attractive to mathematicians than the problems about earthly
+machines. And thus the generalizations of the problems, principles,
+and methods of the mathematical science of Mechanics from this period
+are principally those which have reference to the motions of the
+heavenly bodies: such as the Problem of Three Bodies, the Principles
+of the Conservation of Areas, and of the Immovable Plane, the Method
+of Variation of Parameters, and the like (Chap. vi. Sect. 7 and 14). And
+the same is the case in the more recent progress of that subject, in
+the hands of Gauss, Bessel, Hansen, and others.
+But yet the science of Mechanics as applied to terrestrial
+machines—Industrial Mechanics, as it has been
+termed—has made some steps which it may be worth while to
+notice, even in a general history of science. For the most part, all
+the most general laws of mechanical action being already finally
+established, in the way which we have had to narrate, the
+determination of the results and conditions of any combination of
+materials and movements becomes really a mathematical deduction from
+known principles. But such deductions may be made much more easy and
+much more luminous by the establishment of general terms and general
+propositions suited to their special conditions. Among these I may
+mention a new abstract term, introduced because a general mechanical
+principle can be expressed by means of it, which has lately been much
+employed by the mathematical engineers of France, MM. Poncelet,
+Navier, Morin, &c. The abstract term is Travail, which has
+been translated Laboring Force; and the principle which gives
+it its value, and makes it useful in the solution of problems, is
+this;—that the work done (in overcoming resistance or
+producing any other effect) is equal to the Laboring Force, by
+whatever contrivances the force be applied. This is not a new
+principle, being in fact mathematically equivalent to the conservation
+of Vis Viva; but it has been employed by the mathematicians of whom I
+have spoken with a fertility and simplicity which make it the mark of
+a new school of The Mechanics of Engineering.
+The Laboring Force expended and the work done have been described
+by various terms, as Theoretical Effect and Practical
+Effect, and the like. The usual term among English engineers for
+the work 538 which
+an Engine usually does, is Duty; but as this word naturally
+signifies what the engine ought to do, rather than what it
+does, we should at least distinguish between the Theoretical and the
+Actual Duty.
+The difference between the Theoretical and Actual Duty of a Machine
+arises from this: that a portion of the Laboring Force is absorbed in
+producing effects, that is, in doing work which is not reckoned as
+Duty: for instance, overcoming the resistance and waste of the machine
+itself. And so long as this resistance and waste are not rightly
+estimated, no correspondence can be established between the
+theoretical and the practical Duty. Though much had been written
+previously upon the theory of the steam-engine, the correspondence
+between the Force expended and the Work done was not clearly made out
+till Comte De Pambour published his Treatise on Locomotive
+Engines in 1835, and his Theory of the Steam-Engine in
+1839.
+Strength of Materials.
+Among the subjects which have specially engaged the attention of
+those who have applied the science of Mechanics to practical matters,
+is the strength of materials: for example, the strength of a
+horizontal beam to resist being broken by a weight pressing upon it.
+This was one of the problems which Galileo took up. He was led to his
+study of it by a visit which he made to the arsenal and dockyards of
+Venice, and the conclusions which he drew were published in his
+Dialogues, in 1633. In his mode of regarding the problem, he
+considers the section at which the beam breaks as the short arm of a
+bent lever which resists fracture, and the part of the beam which is
+broken off as the longer arm of the lever, the lever turning about the
+fracture as a hinge. So far this is true; and from this principle he
+obtained results which are also true  as, that the strength of a
+rectangular beam is proportional to the breadth multiplied into the
+square of the depth:—that a hollow beam is stronger than a solid
+beam of the same mass; and the like.
+But he erred in this, that he supposed the hinge about which the
+breaking beam turns, to be exactly at the unrent surface, that surface
+resisting all change, and the beam being rent all the way across.
+Whereas the fact is, that the unrent surface yields to compression,
+while the opposite surface is rent; and the hinge about which the
+breaking beam turns is at an intermediate point, where the extension
+539 and rupture
+end, and the compression and crushing begin: a point which has been
+called the neutral axis. This was pointed out by Mariotte; and
+the notion, once suggested, was so manifestly true that it was adopted
+by mathematicians in general. James Bernoulli,36 in 1705,
+investigated the strength of beams on this view; and several eminent
+mathematicians pursued the subject; as Varignon, Parent, and
+Bulfinger; and at a later period, Dr. Robison in our own country.
+36 Opera, ii. p. 976.
+But along with the fracture of beams, the mathematicians considered
+also another subject, the flexure of beams, which they undergo before
+they break, in virtue of their elasticity. What is the elastic
+curve?—the curve into which an elastic line forms itself
+under the pressure of a weight—is a problem which had been
+proposed by Galileo, and was fully solved, as a mathematical problem,
+by Euler and others.
+But beams in practice are not mere lines: they are solids. And
+their resistance to flexure, and the amount of it, depends upon the
+resistance of their internal parts to extension and compression, and
+is different for different substances. To measure these differences,
+Dr. Thomas Young introduced the notion of the Modulus of
+Elasticity:37 meaning thereby a column of the
+substance of the same diameter, such as would by its weight produce a
+compression equal to the whole length of the beam, the rate of
+compression being supposed to continue the same throughout. Thus if a
+rod of any kind, 100 inches long, were compressed 1 inch by a weight
+1000 pounds, the weight of its modulus of elasticity would be 100,000
+pounds. This notion assumes Hooke’s law that the extension of a
+substance is as its tension; and extends this law to compression
+also.
+37 Lecture xiii. The height of the
+modulus is the same for the same substance, whatever its breadth and
+thickness may be; for atmospheric air it is about five miles, and for
+steel nearly 1500 miles.
+There is this great advantage in introducing the definition of the
+Modulus of Elasticity,—that it applies equally to the flexure of
+a substance and to the minute vibrations which propagate sound, and
+the like. And the notion was applied so as to lead to curious and
+important results with regard to the power of beams to resist flexure,
+not only when loaded transversely, but when pressed in the direction
+of their length, and in any oblique direction.
+But in the fracture of beams, the resistance to extension and to
+compression are not practically equal; and it was necessary to
+determine 540 the
+difference of these two forces by experiments. Several persons pursued
+researches on this subject; especially Mr. Barlow, of the Royal
+Military Academy,38 who investigated the subject with great
+labor and skill, so far as wood is concerned. But the difference
+between the resistance to tension and to compression requires more
+special study in the case of iron; and has been especially attended to
+in recent times, in consequence of the vast increase in the number of
+iron structures, and in particular, railways. It appears that wrought
+iron yields to compressive somewhat more easily than to tensile force,
+while cast iron yields far more easily to tensile than to compressive
+strains. In all cases the power of a beam to resist fracture resides
+mainly in the upper and the under side, for there the tenacity of the
+material acts at the greatest leverage round the hinge of fracture.
+Hence the practice was introduced of making iron beams with a broad
+flange at the upper and another flange at the under side,
+connected by a vertical plate or web, of which the office was
+to keep the two flanges asunder. Mr. Hodgkinson made many valuable
+experiments, on a large scale, to determine the forms and properties
+of such beams.
+38 An Essay on the Strength and
+Shape of Timber. 3d edition, 1826.
+But though engineers were, by such experiments and reasonings,
+enabled to calculate the strength of a given iron beam, and the
+dimensions of a beam which should bear a given load, it would hardly
+have occurred to the boldest speculator, a few years ago, to predict
+that there might be constructed beams nearly 500 feet long, resting
+merely on their two extremities, of which it could be known
+beforehand, that they would sustain, without bending or yielding in
+any perceptible degree, the weight of a railroad train, and the jar of
+its unchecked motion. Yet of such beams, constructed beforehand with
+the most perfect confidence, crowned with the most complete success,
+is composed the great tubular bridge which that consummate engineer,
+Mr. Robert Stephenson, has thrown across the Menai Strait, joining
+Wales with the island of Anglesey. The upper and under surfaces of
+this quadrangular tube are the flanges of the beam, and the two sides
+are the webs which connect them. In planning this wonderful structure,
+the point which required especial care was to make the upper surface
+strong enough to resist the compressive force which it has to sustain;
+and this was done by constructing the upper part of the beam of a
+series of cells, made of iron plate. The application of the arch, of
+the dome, and of groined vaulting, to the widest space over which they
+have ever been thrown, 541 are achievements which have, in the ages
+in which they occurred, been received with great admiration and
+applause; but in those cases the principle of the structure had been
+tried and verified for ages upon a smaller scale. Here not only was
+the space thus spanned wider than any ever spanned before, but the
+principle of such a beam with a cellular structure of its parts, was
+invented for this very purpose, experimentally verified with care, and
+applied with the most exact calculation of its results.
+Roofs—Arches—Vaults.
+The calculations of the mechanical conditions of structures
+consisting of several beams, as for instance, the frames of roofs,
+depends upon elementary principles of mechanics; and was a subject of
+investigation at an early period of the science. Such frames may be
+regarded as assemblages of levers. The parts of which they consist are
+rigid beams which sustain and convey force, and Ties which
+resist such force by their tension. The former parts must be made
+rigid in the way just spoken of with regard to iron beams; but ties
+may be rods merely. The wide structures of many of the roofs of
+railway stations, compared with the massive wooden roofs of ancient
+buildings, may show us how boldly and how successfully this
+distinction has been carried out in modern times. The investigation of
+the conditions and strength of structures consisting of wooden beams
+has been cultivated by Mathematicians and Engineers, and is often
+entitled Carpentry in our Mechanical Treatises. In our own
+time, Dr. Robison and Dr. Thomas Young have been two of the most
+eminent mathematicians who have written upon this subject.
+The properties of the simple machines have been known, as we have
+narrated, from the time of the Ancient Greeks. But it is plain that
+such machines are prevented from producing their full effect by
+various causes. Among the rest, the rubbing of one part of the machine
+upon another produces an obstacle to the effectiveness of a machine:
+for instance, the rubbing of the axle of a wheel in the hole in which
+it rests, the rubbing of a screw against the sides of its hollow
+screw; the rubbing of a wedge against the sides of its notch; the
+rubbing of a cord against its pulley. In all these cases, the effect
+of the machine to produce motion is diminished by the friction. And
+this Friction may be measured and its effects calculated; and
+thus we have a new branch of mechanics, which has been much
+cultivated. 542
+Among the effects of friction, we may notice the standing of a
+stone arch. For each of the vaulting stones of an arch is a truncated
+wedge; and though a collection of such stones might be so proportioned
+in their weights as to balance exactly, yet this balance would be a
+tottering equilibrium, which the slightest shock would throw down, and
+which would not practically subsist. But the friction of the vaulting
+stones against one another prevents this instability from being a
+practical inconvenience; and makes an equilibrated arch to be an arch
+strong for practical purposes. The Theory of Arches is a
+portion of Mechanics which has been much cultivated, and which has led
+to conclusions of practical use, as well as of theoretical beauty.
+I have already spoken of the invention of the Arch, the Dome, and
+Groined Vaulting, as marked steps in building. In all these cases the
+invention was devised by practical builders; and mechanical theory,
+though it can afterwards justify these structures, did not originally
+suggest them. They are not part of the result, nor even of the
+application of theory, but only of its exemplification. The authors of
+all these inventions are unknown; and the inventions themselves may be
+regarded as a part of the Prelude of the science of mechanics, because
+they indicate that the ideas of mechanical pressure and support, in
+various forms, are acquiring clearness and fixity.
+In this point of view, I spoke (Book iv. chap. v. sect. 5) of the Architecture of the Middle Ages
+as indicating a progress of thought which led men towards the
+formation of Statics as a science.
+As particular instances of the operation of such ideas, we have the
+Flying Buttresses which support stone vaults; and especially,
+as already noted, the various contrivances by which stone vaults are
+made to intersect one another, so as to cover a complex pillared space
+below with Groined Vaulting. This invention, executed as it was
+by the builders of the twelfth and succeeding centuries, is the most
+remarkable advance in the mechanics of building, after the invention
+of the Arch itself.
+It is curious that it has been the fortune of our times, among its
+many inventions, to have produced one in this department, of which we
+may say that it is the most remarkable step in the mechanics of arches
+which has been made since the introduction of pointed groined vaults.
+I speak of what are called Skew Arches, in which the courses of
+stone or brick of which the bridge is built run obliquely to the walls
+of the bridge. Such bridges have become very common in the works of
+railroads; for they save space and material, and the 543 invention once made,
+the cost of the ingenuity is nothing. Of course, the mechanical
+principles involved in such structures are obvious to the
+mathematician, when the problem has been practically solved. And in
+this case, as in the previous cardinal inventions in structure, though
+the event has taken place within a few years, no single person, so far
+as I am aware, can be named as the inventor.39
+39 Since this was written, I have been
+referred to Rees’s Cyclopædia, Article Oblique Arches,
+where this invention is correctly explained, and is claimed for an
+engineer named Chapman. It is there said, that the first arch of this
+kind was erected in 1787 at Naas, near Kildare in Ireland.
+
+
+BOOK VII.
+
+PHYSICAL ASTRONOMY.
+</div></body></text></TEI>

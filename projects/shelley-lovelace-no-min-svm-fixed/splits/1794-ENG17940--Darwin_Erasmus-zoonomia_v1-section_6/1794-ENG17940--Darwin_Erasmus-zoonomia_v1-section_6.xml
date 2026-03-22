@@ -1,0 +1,67 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Zoonomia Vol I</title><author>Darwin, Erasmus (1731-1802)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1794</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="6">SECT. VI.
+OF THE FOUR CLASSES OF FIBROUS MOTIONS.
+
+I. Origin of fibrous contractions. II. Distribution of them into four classes,
+  irritative motions, sensitive motions, voluntary motions, and associate
+  motions, defined.
+
+I. All the fibrous contractions of animal
+  bodies originate from the sensorium, and resolve themselves into four
+  classes, correspondent with the four powers or motions of the sensorium
+  above described, and from which they have their causation.
+1. These fibrous contractions were
+  originally caused by the irritations excited by objects, which are
+  external to the moving organ. As the pulsations of the heart are owing to
+  the irritations excited by the stimulus of the blood; and the ideas of
+  perception are owing to the irritations excited by external bodies.
+2. But as painful or pleasurable sensations
+  frequently accompanied those irritations, by habit these fibrous
+  contractions became causeable by the sensations, and the irritations
+  ceased to be necessary to their production. As the secretion of tears in
+  grief is caused by the sensation of pain; and the ideas of imagination,
+  as in dreams or delirium, are excited by the pleasure or pain, with which
+  they were formerly accompanied.
+3. But as the efforts of the will frequently
+  accompanied these painful or pleasureable sensations, by habit the
+  fibrous contractions became causable by volition; and both the
+  irritations and sensations ceased to be necessary to their production. As
+  the deliberate locomotions of the body, and the ideas of recollection, as
+  when we will to repeat the alphabet backwards.
+4. But as many of these fibrous contractions
+  frequently accompanied other fibrous contractions, by habit they became
+  causable by their associations with them; and the irritations,
+  sensations, and volition, ceased to be necessary to their production. As
+  the actions of the muscles of the lower limbs in fencing are associated
+  with those of the arms; and the ideas of suggestion are associated with
+  other ideas, which precede or accompany them; as in repeating carelessly
+  the alphabet in its usual order after having began it.
+II. We shall give the following names to these
+  four classes of fibrous motions, and subjoin their definitions.
+1. Irritative motions. That exertion or
+  change of the sensorium, which is caused by the appulses of external
+  bodies, either simply subsides, or is succeeded by sensation, or it
+  produces fibrous motions; it is termed irritation, and irritative motions
+  are those contractions of the muscular fibres, or of the organs of sense,
+  that are immediately consequent to this exertion or change of the
+  sensorium.
+2. Sensitive motions. That exertion or
+  change of the sensorium, which constitutes pleasure or pain, either
+  simply subsides, or is succeeded by volition, or it produces fibrous
+  motions; it is termed sensation, and the sensitive motions are those
+  contractions of the muscular fibres, or of the organs of sense, that are
+  immediately consequent to this exertion or change of the sensorium.
+3. Voluntary motions. That exertion or
+  change of the sensorium, which constitutes desire or aversion, either
+  simply subsides, or is succeeded by fibrous motions; it is then termed
+  volition, and voluntary motions are those contractions of the muscular
+  fibres, or of the organs of sense, that are immediately consequent to
+  this exertion or change of the sensorium.
+4. Associate motions. That exertion or
+  change of the sensorium, which accompanies fibrous motions, either simply
+  subsides, or is succeeded by sensation or volition, or it produces other
+  fibrous motions; it is then termed association, and the associate motions
+  are those contractions of the muscular fibres, or of the organs of sense,
+  that are immediately consequent to this exertion or change of the
+  sensorium.
+
+</div></body></text></TEI>

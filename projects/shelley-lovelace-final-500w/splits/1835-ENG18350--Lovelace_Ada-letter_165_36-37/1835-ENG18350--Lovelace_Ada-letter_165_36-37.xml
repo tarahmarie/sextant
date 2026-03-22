@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 36-37</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 36-37.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1835">9 December [1835]</date>
+          <note type="place">Fordhook</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 36-37</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_36-37.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Fordhook. Wednesdy Afternoon. 9th Decr.</p>
+      <p>My Dearest. I mean this note to greet you in Town on your arrival early tomorrow morning, when I hope you will immediately go to bed. I shall probably be in St James's Square by 11 o'clock, but that must not keep you awake, or make you get up. The little Bird won't peck</p>
+      <p>at you if she finds you asleep.-- I have appointed Dr Locock, who is to be my accoucheur, to meet me either at 12 or at 2 o'clock tomorrow in St James's Square.-- my first interview with him. There is also one visit I must pay, close by. Except these two things, I am at your orders.</p>
+      <p>I much like your account of the improvements at Ashley.-- Your Dearest Little Bird A. A. K.</p>
+    </div></body>
+  </text>
+</TEI>

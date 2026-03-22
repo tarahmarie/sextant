@@ -1,0 +1,746 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An Essay Concerning Human Understanding</title><author>Locke, John (1632-1704)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1690</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="7">
+
+CHAPTER III.
+NO INNATE PRACTICAL PRINCIPLES
+
+1. No moral Principles so clear and so generally received as the forementioned
+speculative Maxims.
+
+
+If those speculative Maxims, whereof we discoursed in the foregoing chapter,
+have not an actual universal assent from all mankind, as we there proved, it is
+much more visible concerning PRACTICAL Principles, that they come short of an
+universal reception: and I think it will be hard to instance any one moral rule
+which can pretend to so general and ready an assent as, “What is, is”; or to be
+so manifest a truth as this, that “It is impossible for the same thing to be
+and not to be.” Whereby it is evident that they are further removed from a
+title to be innate; and the doubt of their being native impressions on the mind
+is stronger against those moral principles than the other. Not that it brings
+their truth at all in question. They are equally true, though not equally
+evident. Those speculative maxims carry their own evidence with them: but moral
+principles require reasoning and discourse, and some exercise of the mind, to
+discover the certainty of their truth. They lie not open as natural characters
+engraved on the mind; which, if any such were, they must needs be visible by
+themselves, and by their own light be certain and known to everybody. But this
+is no derogation to their truth and certainty; no more than it is to the truth
+or certainty of the three angles of a triangle being equal to two right ones
+because it is not so evident as “the whole is bigger than a part,” nor so apt
+to be assented to at first hearing. It may suffice that these moral rules are
+capable of demonstration: and therefore it is our own faults if we come not to
+a certain knowledge of them. But the ignorance wherein many men are of them,
+and the slowness of assent wherewith others receive them, are manifest proofs
+that they are not innate, and such as offer themselves to their view without
+searching.
+
+
+2. Faith and Justice not owned as Principles by all Men.
+
+
+Whether there be any such moral principles, wherein all men do agree, I appeal
+to any who have been but moderately conversant in the history of mankind, and
+looked abroad beyond the smoke of their own chimneys. Where is that practical
+truth that is universally received, without doubt or question, as it must be if
+innate? JUSTICE, and keeping of contracts, is that which most men seem to agree
+in. This is a principle which is thought to extend itself to the dens of
+thieves, and the confederacies of the greatest villains; and they who have gone
+furthest towards the putting off of humanity itself, keep faith and rules of
+justice one with another. I grant that outlaws themselves do this one amongst
+another: but it is without receiving these as the innate laws of nature. They
+practise them as rules of convenience within their own communities: but it is
+impossible to conceive that he embraces justice as a practical principle who
+acts fairly with his fellow-highwayman, and at the same time plunders or kills
+the next honest man he meets with. Justice and truth are the common ties of
+society; and therefore even outlaws and robbers, who break with all the world
+besides, must keep faith and rules of equity amongst themselves; or else they
+cannot hold together. But will any one say, that those that live by fraud or
+rapine have innate principles of truth and justice which they allow and assent
+to?
+
+
+3. Objection: though Men deny them in their Practice, yet they admit them in
+their Thoughts answered.
+
+
+Perhaps it will be urged, that the tacit assent of their minds agrees to what
+their practice contradicts. I answer, first, I have always thought the actions
+of men the best interpreters of their thoughts. But, since it is certain that
+most men’s practices, and some men’s open professions, have either questioned
+or denied these principles, it is impossible to establish an universal consent,
+(though we should look for it only amongst grown men,) without which it is
+impossible to conclude them innate. Secondly, it is very strange and
+unreasonable to suppose innate practical principles, that terminate only in
+contemplation. Practical principles, derived from nature, are there for
+operation, and must produce conformity of action, not barely speculative assent
+to their truth, or else they are in vain distinguished from speculative maxims.
+Nature, I confess, has put into man a desire of happiness and an aversion to
+misery: these indeed are innate practical principles which (as practical
+principles ought) DO continue constantly to operate and influence all our
+actions without ceasing: these may be observed in all persons and all ages,
+steady and universal; but these are INCLINATIONS OF THE APPETITE to good, not
+impressions of truth on the understanding. I deny not that there are natural
+tendencies imprinted on the minds of men; and that from the very first
+instances of sense and perception, there are some things that are grateful and
+others unwelcome to them; some things that they incline to and others that they
+fly: but this makes nothing for innate characters on the mind, which are to be
+the principles of knowledge regulating our practice. Such natural impressions
+on the understanding are so far from being confirmed hereby, that this is an
+argument against them; since, if there were certain characters imprinted by
+nature on the understanding, as the principles of knowledge, we could not but
+perceive them constantly operate in us and influence our knowledge, as we do
+those others on the will and appetite; which never cease to be the constant
+springs and motives of all our actions, to which we perpetually feel them
+strongly impelling us.
+
+
+4. Moral Rules need a Proof, ergo not innate.
+
+
+Another reason that makes me doubt of any innate practical principles is, that
+I think there cannot any one moral Rule be propos’d whereof a Man may not
+justly demand a Reason: which would be perfectly ridiculous and absurd if
+they were innate; or so much as self-evident, which every innate principle must
+needs be, and not need any proof to ascertain its truth, nor want any reason to
+gain it approbation. He would be thought void of common sense who asked on the
+one side, or on the other side went to give a reason WHY “it is impossible for
+the same thing to be and not to be.” It carries its own light and evidence with
+it, and needs no other proof: he that understands the terms assents to it for
+its own sake or else nothing will ever be able to prevail with him to do it.
+But should that most unshaken rule of morality and foundation of all social
+virtue, “That one should do as he would be done unto,” be proposed to one who
+never heard of it before, but yet is of capacity to understand its meaning;
+might he not without any absurdity ask a reason why? And were not he that
+proposed it bound to make out the truth and reasonableness of it to him? Which
+plainly shows it not to be innate; for if it were it could neither want nor
+receive any proof; but must needs (at least as soon as heard and understood) be
+received and assented to as an unquestionable truth, which a man can by no
+means doubt of. So that the truth of all these moral rules plainly depends upon
+some other antecedent to them, and from which they must be deduced; which could
+not be if either they were innate or so much as self-evident.
+
+
+5. Instance in keeping Compacts
+
+
+That men should keep their compacts is certainly a great and undeniable rule in
+morality. But yet, if a Christian, who has the view of happiness and misery in
+another life, be asked why a man must keep his word, he will give this as a
+reason:—Because God, who has the power of eternal life and death,
+requires it of us. But if a Hobbist be asked why? he will answer:—Because
+the public requires it, and the Leviathan will punish you if you do not. And if
+one of the old philosophers had been asked, he would have
+answered:—Because it was dishonest, below the dignity of a man, and
+opposite to virtue, the highest perfection of human nature, to do otherwise.
+
+
+6. Virtue generally approved not because innate, but because profitable.
+
+
+Hence naturally flows the great variety of opinions concerning moral rules
+which are to be found among men, according to the different sorts of happiness
+they have a prospect of, or propose to themselves; which could not be if
+practical principles were innate, and imprinted in our minds immediately by the
+hand of God. I grant the existence of God is so many ways manifest, and the
+obedience we owe him so congruous to the light of reason, that a great part of
+mankind give testimony to the law of nature: but yet I think it must be allowed
+that several moral rules may receive from mankind a very general approbation,
+without either knowing or admitting the true ground of morality; which can only
+be the will and law of a God, who sees men in the dark, has in his hand rewards
+and punishments, and power enough to call to account the proudest offender.
+For, God having, by an inseparable connexion, joined virtue and public
+happiness together, and made the practice thereof necessary to the preservation
+of society, and visibly beneficial to all with whom the virtuous man has to do;
+it is no wonder that every one should not only allow, but recommend and magnify
+those rules to others, from whose observance of them he is sure to reap
+advantage to himself. He may, out of interest as well as conviction, cry up
+that for sacred, which, if once trampled on and profaned, he himself cannot be
+safe nor secure. This, though it takes nothing from the moral and eternal
+obligation which these rules evidently have, yet it shows that the outward
+acknowledgment men pay to them in their words proves not that they are innate
+principles: nay, it proves not so much as that men assent to them inwardly in
+their own minds, as the inviolable rules of their own practice; since we find
+that self-interest, and the conveniences of this life, make many men own an
+outward profession and approbation of them, whose actions sufficiently prove
+that they very little consider the Lawgiver that prescribed these rules; nor
+the hell that he has ordained for the punishment of those that transgress them.
+
+
+7. Men’s actions convince us, that the Rule of Virtue is not their internal
+Principle.
+
+
+For, if we will not in civility allow too much sincerity to the professions of
+most men, but think their actions to be the interpreters of their thoughts, we
+shall find that they have no such internal veneration for these rules, nor so
+full a persuasion of their certainty and obligation. The great principle of
+morality, ‘To do as one would be done to,’ is more commended than practised.
+But the breach of this rule cannot be a greater vice, than to teach others,
+that it is no moral rule, nor obligatory, would be thought madness, and
+contrary to that interest men sacrifice to, when they break it themselves.
+Perhaps CONSCIENCE will be urged as checking us for such breaches, and so the
+internal obligation and establishment of the rule be preserved.
+
+
+8. Conscience no Proof of any innate Moral Rule.
+
+
+To which I answer, that I doubt not but, without being written on their hearts,
+many men may, by the same way that they come to the knowledge of other things,
+come to assent to several moral rules, and be convinced of their obligation.
+Others also may come to be of the same mind, from their education, company, and
+customs of their country; which persuasion, however got, will serve to set
+conscience on work; which is nothing else but our own opinion or judgment of
+the moral rectitude or gravity of our own actions; and if conscience be a proof
+of innate principles, contraries may be innate principles; since some men with
+the same bent of conscience prosecute what others avoid.
+
+
+9. Instances of Enormities practised without Remorse.
+
+
+But I cannot see how any men should ever transgress those moral rules, with
+confidence and serenity, were they innate, and stamped upon their minds. View
+but an army at the sacking of a town, and see what observation or sense of
+moral principles, or what touch of conscience for all the outrages they do.
+Robberies, murders, rapes, are the sports of men set at liberty from punishment
+and censure. Have there not been whole nations, and those of the most civilized
+people, amongst whom the exposing their children, and leaving them in the
+fields to perish by want or wild beasts has been the practice; as little
+condemned or scrupled as the begetting them? Do they not still, in some
+countries, put them into the same graves with their mothers, if they die in
+childbirth; or despatch them, if a pretended astrologer declares them to have
+unhappy stars? And are there not places where, at a certain age, they kill or
+expose their parents, without any remorse at all? In a part of Asia, the sick,
+when their case comes to be thought desperate, are carried out and laid on the
+earth before they are dead; and left there, exposed to wind and weather, to
+perish without assistance or pity. It is familiar among the Mingrelians, a
+people professing Christianity, to bury their children alive without scruple.
+There are places where they eat their own children. The Caribbees were wont to
+geld their children, on purpose to fat and eat them. And Garcilasso de la Vega
+tells us of a people in Peru which were wont to fat and eat the children they
+got on their female captives, whom they kept as concubines for that purpose,
+and when they were past breeding, the mothers themselves were killed too and
+eaten. The virtues whereby the Tououpinambos believed they merited paradise,
+were revenge, and eating abundance of their enemies. They have not so much as a
+name for God, and have no religion, no worship. The saints who are canonized
+amongst the Turks, lead lives which one cannot with modesty relate. A
+remarkable passage to this purpose, out of the voyage of Baumgarten, which is a
+book not every day to be met with, I shall set down at large, in the language
+it is published in.
+
+
+Ibi (sc. prope Belbes in Aegypto) vidimus sanctum unum Saracenicum inter
+arenarum cumulos, ita ut ex utero matris prodiit nudum sedentem. Mos est, ut
+didicimus, Mahometistis, ut eos, qui amentes et sine ratione sunt, pro sanctis
+colant et venerentur. Insuper et eos, qui cum diu vitam egerint
+inquinatissimam, voluntariam demum poenitentiam et paupertatem, sanctitate
+venerandos deputant. Ejusmodi vero genus hominum libertatem quandam effrenem
+habent, domos quos volunt intrandi, edendi, bibendi, et quod majus est,
+concumbendi; ex quo concubitu, si proles secuta fuerit, sancta similiter
+habetur. His ergo hominibus dum vivunt, magnos exhibent honores; mortuis vero
+vel templa vel monumenta extruunt amplissima, eosque contingere ac sepelire
+maximae fortunae ducunt loco. Audivimus haec dicta et dicenda per interpretem a
+Mucrelo nostro. Insuper sanctum ilium, quern eo loco vidimus, publicitus
+apprime commendari, eum esse hominem sanctum, divinum ac integritate
+praecipuum; eo quod, nec faminarum unquam esset, nec puerorum, sed tantummodo
+asellarum concubitor atque mularum. (Peregr. Baumgarten, 1. ii. c. i. p. 73.)
+
+
+Where then are those innate principles of justice, piety, gratitude, equity,
+chastity? Or where is that universal consent that assures us there are such
+inbred rules? Murders in duels, when fashion has made them honourable, are
+committed without remorse of conscience: nay, in many places innocence in this
+case is the greatest ignominy. And if we look abroad to take a view of men as
+they are, we shall find that they have remorse, in one place, for doing or
+omitting that which others, in another place, think they merit by.
+
+
+10. Men have contrary practical Principles.
+
+
+He that will carefully peruse the history of mankind, and look abroad into the
+several tribes of men, and with indifferency survey their actions, will be able
+to satisfy himself, that there is scarce that principle of morality to be
+named, or, rule of virtue to be thought on, (those only excepted that are
+absolutely necessary to hold society together, which commonly too are neglected
+betwixt distinct societies,) which is not, somewhere or other, slighted and
+condemned by the general fashion of whole societies of men, governed by
+practical opinions and rules of living quite opposite to others.
+
+
+11. Whole Nations reject several Moral Rules.
+
+
+Here perhaps it will be objected, that it is no argument that the rule is not
+known, because it is broken. I grant the objection good where men, though they
+transgress, yet disown not the law; where fear of shame, censure, or
+punishment, carries the mark of some awe it has upon them. But it is impossible
+to conceive that a whole nation of men should all publicly reject and renounce
+what every one of them certainly and infallibly knew to be a law; for so they
+must who have it naturally imprinted on their minds. It is possible men may
+sometimes own rules of morality which in their private thoughts they do not
+believe to be true, only to keep themselves in reputation and esteem amongst
+those who are persuaded of their obligation. But it is not to be imagined that
+a whole society of men should publicly and professedly disown and cast off a
+rule which they could not in their own minds but be infallibly certain was a
+law; nor be ignorant that all men they should have to do with knew it to be
+such: and therefore must every one of them apprehend from others all the
+contempt and abhorrence due to one who professes himself void of humanity: and
+one who, confounding the known and natural measures of right and wrong, cannot
+but be looked on as the professed enemy of their peace and happiness. Whatever
+practical principle is innate, cannot but be known to every one to be just and
+good. It is therefore little less than a contradiction to suppose, that whole
+nations of men should, both in their professions and practice, unanimously and
+universally give the lie to what, by the most invincible evidence, every one of
+them knew to be true, right, and good. This is enough to satisfy us that no
+practical rule which is anywhere universally, and with public approbation or
+allowance, transgressed, can be supposed innate.—But I have something
+further to add in answer to this objection.
+
+
+12. The generally allowed breach of a rule proof that it is not innate.
+
+
+The breaking of a rule, say you, is no argument that it is unknown. I grant it:
+but the GENERALLY ALLOWED breach of it anywhere, I say, is a proof that it is
+not innate. For example: let us take any of these rules, which, being the most
+obvious deductions of human reason, and conformable to the natural inclination
+of the greatest part of men, fewest people have had the impudence to deny or
+inconsideration to doubt of. If any can be thought to be naturally imprinted,
+none, I think, can have a fairer pretence to be innate than this: “Parents,
+preserve and cherish your children.” When, therefore, you say that this is an
+innate rule, what do you mean? Either that it is an innate principle which upon
+all occasions excites and directs the actions of all men; or else, that it is a
+truth which all men have imprinted on their minds, and which therefore they
+know and assent to. But in neither of these senses is it innate. FIRST, that it
+is not a principle which influences all men’s actions, is what I have proved by
+the examples before cited: nor need we seek so far as the Mingrelia or Peru to
+find instances of such as neglect, abuse, nay, and destroy their children; or
+look on it only as the more than brutality of some savage and barbarous
+nations, when we remember that it was a familiar and uncondemned practice
+amongst the Greeks and Romans to expose, without pity or remorse, their
+innocent infants. SECONDLY, that it is an innate truth, known to all men, is
+also false. For, “Parents preserve your children,” is so far from an innate
+truth, that it is no truth at all: it being a command, and not a proposition,
+and so not capable of truth or falsehood. To make it capable of being assented
+to as true, it must be reduced to some such proposition as this: “It is the
+duty of parents to preserve their children.” But what duty is, cannot be
+understood without a law; nor a law be known or supposed without a lawmaker, or
+without reward and punishment; so that it is impossible that this, or any
+other, practical principle should be innate, i.e. be imprinted on the mind as a
+duty, without supposing the ideas of God, of law, of obligation, of punishment,
+of a life after this, innate: for that punishment follows not in this life the
+breach of this rule, and consequently that it has not the force of a law in
+countries where the generally allowed practice runs counter to it, is in itself
+evident. But these ideas (which must be all of them innate, if anything as a
+duty be so) are so far from being innate, that it is not every studious or
+thinking man, much less every one that is born, in whom they are to be found
+clear and distinct; and that one of them, which of all others seems most likely
+to be innate, is not so, (I mean the idea of God,) I think, in the next
+chapter, will appear very evident to any considering man.
+
+
+13. If men can be ignorant of what is innate, certainty is not described by
+innate principles.
+
+
+From what has been said, I think we may safely conclude that whatever practical
+rule is in any place generally and with allowance broken, cannot be supposed
+innate; it being impossible that men should, without shame or fear, confidently
+and serenely, break a rule which they could not but evidently know that God had
+set up, and would certainly punish the breach of, (which they must, if it were
+innate,) to a degree to make it a very ill bargain to the transgressor. Without
+such a knowledge as this, a man can never be certain that anything is his duty.
+Ignorance or doubt of the law, hopes to escape the knowledge or power of the
+law-maker, or the like, may make men give way to a present appetite; but let
+any one see the fault, and the rod by it, and with the transgression, a fire
+ready to punish it; a pleasure tempting, and the hand of the Almighty visibly
+held up and prepared to take vengeance, (for this must be the case where any
+duty is imprinted on the mind,) and then tell me whether it be possible for
+people with such a prospect, such a certain knowledge as this, wantonly, and
+without scruple, to offend against a law which they carry about them in
+indelible characters, and that stares them in the face whilst they are breaking
+it? Whether men, at the same time that they feel in themselves the imprinted
+edicts of an Omnipotent Law-maker, can, with assurance and gaiety, slight and
+trample underfoot his most sacred injunctions? And lastly, whether it be
+possible that whilst a man thus openly bids defiance to this innate law and
+supreme Lawgiver, all the bystanders, yea, even the governors and rulers of the
+people, full of the same sense both of the law and Law-maker, should silently
+connive, without testifying their dislike or laying the least blame on it?
+Principles of actions indeed there are lodged in men’s appetites; but these are
+so far from being innate moral principles, that if they were left to their full
+swing they would carry men to the overturning of all morality. Moral laws are
+set as a curb and restraint to these exorbitant desires, which they cannot be
+but by rewards and punishments that will overbalance the satisfaction any one
+shall propose to himself in the breach of the law. If, therefore, anything be
+imprinted on the minds of all men as a law, all men must have a certain and
+unavoidable knowledge that certain and unavoidable punishment will attend the
+breach of it. For if men can be ignorant or doubtful of what is innate, innate
+principles are insisted on, and urged to no purpose; truth and certainty (the
+things pretended) are not at all secured by them; but men are in the same
+uncertain floating estate with as without them. An evident indubitable
+knowledge of unavoidable punishment, great enough to make the transgression
+very uneligible, must accompany an innate law; unless with an innate law they
+can suppose an innate Gospel too. I would not here be mistaken, as if, because
+I deny an innate law I thought there were none but positive laws. There is a
+great deal of difference between an innate law, and a law of nature between
+something imprinted on our minds in their very original, and something that we,
+being ignorant of, may attain to the knowledge of, by the use and due
+application of our natural faculties. And I think they equally forsake the
+truth who, running into contrary extremes, either affirm an innate law, or deny
+that there is a law knowable by the light of nature, i.e. without the help of
+positive revelation.
+
+
+14. Those who maintain innate practical Principles tell us not what they are.
+
+
+The difference there is amongst men in their practical principles is so evident
+that I think I need say no more to evince, that it will be impossible to find
+any innate moral rules by this mark of general assent; and it is enough to make
+one suspect that the supposition of such innate principles is but an opinion
+taken up at pleasure; since those who talk so confidently of them are so
+sparing to tell us WHICH THEY ARE. This might with justice be expected from
+those men who lay stress upon this opinion; and it gives occasion to distrust
+either their knowledge or charity, who, declaring that God has imprinted on the
+minds of men the foundations of knowledge and the rules of living, are yet so
+little favourable to the information of their neighbours, or the quiet of
+mankind, as not to point out to them which they are, in the variety men are
+distracted with. But, in truth, were there any such innate principles there
+would be no need to teach them. Did men find such innate propositions stamped
+on their minds, they would easily be able to distinguish them from other truths
+that they afterwards learned and deduced from them; and there would be nothing
+more easy than to know what, and how many, they were. There could be no more
+doubt about their number than there is about the number of our fingers; and it
+is like then every system would be ready to give them us by tale. But since
+nobody, that I know, has ventured yet to give a catalogue of them, they cannot
+blame those who doubt of these innate principles; since even they who require
+men to believe that there are such innate propositions, do not tell us what
+they are. It is easy to foresee, that if different men of different sects
+should go about to give us a list of those innate practical principles, they
+would set down only such as suited their distinct hypotheses, and were fit to
+support the doctrines of their particular schools or churches; a plain evidence
+that there are no such innate truths. Nay, a great part of men are so far from
+finding any such innate moral principles in themselves, that, by denying
+freedom to mankind, and thereby making men no other than bare machines, they
+take away not only innate, but all moral rules whatsoever, and leave not a
+possibility to believe any such, to those who cannot conceive how anything can
+be capable of a law that is not a free agent. And upon that ground they must
+necessarily reject all principles of virtue, who cannot put MORALITY and
+MECHANISM together, which are not very easy to be reconciled or made
+consistent.
+
+
+15. Lord Herbert’s innate Principles examined.
+
+
+When I had written this, being informed that my Lord Herbert had, in his book
+De Veritate, assigned these innate principles, I presently consulted him,
+hoping to find in a man of so great parts, something that might satisfy me in
+this point, and put an end to my inquiry. In his chapter De Instinctu Naturali,
+I met with these six marks of his Notitice Communes:—1. Prioritas. 2.
+Independentia. 3. Universalitas. 4. Certitudo. 5. Necessitas, i. e. as he
+explains it, faciunt ad hominis conservationem. 6. Modus conformationis, i.e.
+Assensus nulla interposita mora. And at the latter end of his little treatise
+De Religione Laici, he says this of these innate principles: Adeo ut non
+uniuscujusvis religionis confinio arctentur quae ubique vigent veritates. Sunt
+enim in ipsa mente caelitus descriptae, nullisque traditionibus, sive scriptis,
+sive non scriptis, obnoxiae, p.3 And Veritates nostrae catholicae, quae tanquam
+indubia Dei emata in foro interiori descriptae.
+
+
+Thus, having given the marks of the innate principles or common notions, and
+asserted their being imprinted on the minds of men by the hand of God, he
+proceeds to set them down, and they are these:—1. Esse aliquod supremum
+numen. 2. Numen illud coli debere. 3. Virtutem cum pietate conjunctam optimum
+esse rationem cultus divini. 4. Resipiscendum esse a peccatis. 5. Dari praemium
+vel paenam post hanc vitam transactam. Though I allow these to be clear truths,
+and such as, if rightly explained, a rational creature can hardly avoid giving
+his assent to, yet I think he is far from proving them innate impressions in
+foro interiori descriptae. For I must take leave to observe:—
+
+
+16. These five either not all, or more than all, if there are any.
+
+
+First, that these five propositions are either not all, or more than all, those
+common notions written on our minds by the finger of God; if it were reasonable
+to believe any at all to be so written. Since there are other propositions
+which, even by his own rules, have as just a pretence to such an original, and
+may be as well admitted for innate principles, as at least some of these five
+he enumerates, viz. ‘Do as thou wouldst be done unto.’ And perhaps some
+hundreds of others, when well considered.
+
+
+17. The supposed marks wanting.
+
+
+Secondly, that all his marks are not to be found in each of his five
+propositions, viz. his first, second, and third marks agree perfectly to
+neither of them; and the first, second, third, fourth, and sixth marks agree
+but ill to his third, fourth, and fifth propositions. For, besides that we are
+assured from history of many men, nay whole nations, who doubt or disbelieve
+some or all of them, I cannot see how the third, viz. “That virtue joined with
+piety is the best worship of God,” can be an innate principle, when the name or
+sound virtue, is so hard to be understood; liable to so much uncertainty in its
+signification; and the thing it stands for so much contended about and
+difficult to be known. And therefore this cannot be but a very uncertain rule
+of human practice, and serve but very little to the conduct of our lives, and
+is therefore very unfit to be assigned as an innate practical principle.
+
+
+18. Of little use if they were innate.
+
+
+For let us consider this proposition as to its meaning, (for it is the sense,
+and not sound, that is and must be the principle or common notion,) viz.
+“Virtue is the best worship of God,” i.e. is most acceptable to him; which, if
+virtue be taken, as most commonly it is, for those actions which, according to
+the different opinions of several countries, are accounted laudable, will be a
+proposition so far from being certain, that it will not be true. If virtue be
+taken for actions conformable to God’s will, or to the rule prescribed by
+God—which is the true and only measure of virtue when virtue is used to
+signify what is in its own nature right and good—then this proposition,
+“That virtue is the best worship of God,” will be most true and certain, but of
+very little use in human life: since it will amount to no more but this, viz.
+“That God is pleased with the doing of what he commands”;—which a man may
+certainly know to be true, without knowing what it is that God doth command;
+and so be as far from any rule or principle of his actions as he was before.
+And I think very few will take a proposition which amounts to no more than
+this, viz. “That God is pleased with the doing of what he himself commands,”
+for an innate moral principle written on the minds of all men, (however true
+and certain it may be,) since it teaches so little. Whosoever does so will have
+reason to think hundreds of propositions innate principles; since there are
+many which have as good a title as this to be received for such, which nobody
+yet ever put into that rank of innate principles.
+
+
+19. Scarce possible that God should engrave principles in words of uncertain
+meaning.
+
+
+Nor is the fourth proposition (viz. “Men must repent of their sins”) much more
+instructive, till what those actions are that are meant by sins be set down.
+For the word peccata, or sins, being put, as it usually is, to signify in
+general ill actions that will draw punishment upon the doers, what great
+principle of morality can that be to tell us we should be sorry, and cease to
+do that which will bring mischief upon us; without knowing what those
+particular actions are that will do so? Indeed this is a very true proposition,
+and fit to be inculcated on and received by those who are supposed to have been
+taught WHAT actions in all kinds ARE sins: but neither this nor the former can
+be imagined to be innate principles; nor to be of any use if they were innate,
+unless the particular measures and bounds of all virtues and vices were
+engraven in men’s minds, and were innate principles also, which I think is very
+much to be doubted. And therefore, I imagine, it will scarcely seem possible
+that God should engrave principles in men’s minds, in words of uncertain
+signification, such as VIRTUES and SINS, which amongst different men stand for
+different things: nay, it cannot be supposed to be in words at all, which,
+being in most of these principles very general names, cannot be understood but
+by knowing the particulars comprehended under them. And in the practical
+instances, the measures must be taken from the knowledge of the actions
+themselves, and the rules of them,—abstracted from words, and antecedent
+to the knowledge of names; which rules a man must know, what language soever he
+chance to learn, whether English or Japan, or if he should learn no language at
+all, or never should understand the use of words, as happens in the case of
+dumb and deaf men. When it shall be made out that men ignorant of words, or
+untaught by the laws and customs of their country, know that it is part of the
+worship of God not to kill another man; not to know more women than one; not to
+procure abortion; not to expose their children; not to take from another what
+is his, though we want it ourselves, but on the contrary, relieve and supply
+his wants; and whenever we have done the contrary we ought to repent, be sorry,
+and resolve to do so no more;—when I say, all men shall be proved
+actually to know and allow all these and a thousand other such rules, all of
+which come under these two general words made use of above, viz. virtutes et
+peccata virtues and sins, there will be more reason for admitting these and the
+like, for common notions and practical principles. Yet, after all, universal
+consent (were there any in moral principles) to truths, the knowledge whereof
+may be attained otherwise, would scarce prove them to be innate; which is all I
+contend for.
+
+
+20. Objection, Innate Principles may be corrupted, answered.
+
+
+Nor will it be of much moment here to offer that very ready but not very
+material answer, viz. that the innate principles of morality may, by education,
+and custom, and the general opinion of those amongst whom we converse, be
+darkened, and at last quite worn out of the minds of men. Which assertion of
+theirs, if true, quite takes away the argument of universal consent, by which
+this opinion of innate principles is endeavoured to be proved; unless those men
+will think it reasonable that their private persuasions, or that of their
+party, should pass for universal consent;—a thing not unfrequently done,
+when men, presuming themselves to be the only masters of right reason, cast by
+the votes and opinions of the rest of mankind as not worthy the reckoning. And
+then their argument stands thus:—“The principles which all mankind allow
+for true, are innate; those that men of right reason admit, are the principles
+allowed by all mankind; we, and those of our mind, are men of reason;
+therefore, we agreeing, our principles are innate”;—which is a very
+pretty way of arguing, and a short cut to infallibility. For otherwise it will
+be very hard to understand how there be some principles which all men do
+acknowledge and agree in; and yet there are none of those principles which are
+not, by depraved custom and ill education, blotted out of the minds of many
+men: which is to say, that all men admit, but yet many men do deny and dissent
+from them. And indeed the supposition of SUCH first principles will serve us to
+very little purpose; and we shall be as much at a loss with as without them, if
+they may, by any human power—such as the will of our teachers, or
+opinions of our companions—be altered or lost in us: and notwithstanding
+all this boast of first principles and innate light, we shall be as much in the
+dark and uncertainty as if there were no such thing at all: it being all one to
+have no rule, and one that will warp any way; or amongst various and contrary
+rules, not to know which is the right. But concerning innate principles, I
+desire these men to say, whether they can or cannot, by education and custom,
+be blurred and blotted out; if they cannot, we must find them in all mankind
+alike, and they must be clear in everybody; and if they may suffer variation
+from adventitious notions, we must then find them clearest and most perspicuous
+nearest the fountain, in children and illiterate people, who have received
+least impression from foreign opinions. Let them take which side they please,
+they will certainly find it inconsistent with visible matter of fact and daily
+observation.
+
+
+21. Contrary Principles in the World.
+
+
+I easily grant that there are great numbers of opinions which, by men of
+different countries, educations, and tempers, are received and embraced as
+first and unquestionable principles; many whereof, both for their absurdity as
+well as oppositions to one another, it is impossible should be true. But yet
+all those propositions, how remote soever from reason are so sacred somewhere
+or other, that men even of good understanding in other matters, will sooner
+part with their lives, and whatever is dearest to them, than suffer themselves
+to doubt, or others to question, the truth of them.
+
+
+22. How men commonly come by their Principles.
+
+
+This, however strange it may seem, is that which every day’s experience
+confirms; and will not, perhaps, appear so wonderful, if we consider the ways
+and steps by which it is brought about; and how really it may come to pass,
+that doctrines that have been derived from no better original than the
+superstition of a nurse, or the authority of an old woman, may, by length of
+time and consent of neighbours, grow up to the dignity of PRINCIPLES in
+religion or morality. For such, who are careful (as they call it) to principle
+children well, (and few there be who have not a set of those principles for
+them, which they believe in,) instil into the unwary, and as yet unprejudiced,
+understanding, (for white paper receives any characters,) those doctrines they
+would have them retain and profess. These being taught them as soon as they
+have any apprehension; and still as they grow up confirmed to them, either by
+the open profession or tacit consent of all they have to do with; or at least
+by those of whose wisdom, knowledge, and piety they have an opinion, who never
+suffer those propositions to be otherwise mentioned but as the basis and
+foundation on which they build their religion and manners, come, by these
+means, to have the reputation of unquestionable, self-evident, and innate
+truths.
+
+
+23. Principles supposed innate because we do not remember when we began to hold
+them.
+
+
+To which we may add, that when men so instructed are grown up, and reflect on
+their own minds, they cannot find anything more ancient there than those
+opinions, which were taught them before their memory began to keep a register
+of their actions, or date the time when any new thing appeared to them; and
+therefore make no scruple to conclude, that those propositions of whose
+knowledge they can find in themselves no original, were certainly the impress
+of God and nature upon their minds, and not taught them by any one else. These
+they entertain and submit to, as many do to their parents with veneration; not
+because it is natural: nor do children do it where they are not so taught; but
+because, having been always so educated, and having no remembrance of the
+beginning of this respect, they think it is natural.
+
+
+24. How such principles come to be held.
+
+
+This will appear very likely, and almost unavoidable to come to pass, if we
+consider the nature of mankind and the constitution of human affairs; wherein
+most men cannot live without employing their time in the daily labours of their
+callings; nor be at quiet in their minds without SOME foundation or principle
+to rest their thoughts on. There is scarcely any one so floating and
+superficial in his understanding, who hath not some reverenced propositions,
+which are to him the principles on which he bottoms his reasonings, and by
+which he judgeth of truth and falsehood, right and wrong; which some, wanting
+skill and leisure, and others the inclination, and some being taught that they
+ought not to examine, there are few to be found who are not exposed by their
+ignorance, laziness, education, or precipitancy, to TAKE THEM UPON TRUST.
+
+
+25. Further explained.
+
+
+This is evidently the case of all children and young folk; and custom, a
+greater power than nature, seldom failing to make them worship for divine what
+she hath inured them to bow their minds and submit their understandings to, it
+is no wonder that grown men, either perplexed in the necessary affairs of life,
+or hot in the pursuit of pleasures, should not seriously sit down to examine
+their own tenets; especially when one of their principles is, that principles
+ought not to be questioned. And had men leisure, parts, and will, who is there
+almost that dare shake the foundations of all his past thoughts and actions,
+and endure to bring upon himself the shame of having been a long time wholly in
+mistake and error? Who is there hardy enough to contend with the reproach which
+is everywhere prepared for those who dare venture to dissent from the received
+opinions of their country or party? And where is the man to be found that can
+patiently prepare himself to bear the name of whimsical, sceptical, or atheist;
+which he is sure to meet with, who does in the least scruple any of the common
+opinions? And he will be much more afraid to question those principles, when he
+shall think them, as most men do, the standards set up by God in his mind, to
+be the rule and touchstone of all other opinions. And what can hinder him from
+thinking them sacred, when he finds them the earliest of all his own thoughts,
+and the most reverenced by others?
+
+
+26. A worship of idols.
+
+
+It is easy to imagine how, by these means, it comes to pass that men worship
+the idols that have been set up in their minds; grow fond of the notions they
+have been long acquainted with there; and stamp the characters of divinity upon
+absurdities and errors; become zealous votaries to bulls and monkeys, and
+contend too, fight, and die in defence of their opinions. Dum solos credit
+habendos esse deos, quos ipse colit. For, since the reasoning faculties of
+the soul, which are almost constantly, though not always warily nor wisely
+employed, would not know how to move, for want of a foundation and footing, in
+most men, who through laziness or avocation do not, or for want of time, or
+true helps, or for other causes, cannot penetrate into the principles of
+knowledge, and trace truth to its fountain and original, it is natural for
+them, and almost unavoidable, to take up with some borrowed principles; which
+being reputed and presumed to be the evident proofs of other things, are
+thought not to need any other proof themselves. Whoever shall receive any of
+these into his mind, and entertain them there with the reverence usually paid
+to principles, never venturing to examine them, but accustoming himself to
+believe them, because they are to be believed, may take up, from his education
+and the fashions of his country, any absurdity for innate principles; and by
+long poring on the same objects, so dim his sight as to take monsters lodged in
+his own brain for the images of the Deity, and the workmanship of his hands.
+
+
+27. Principles must be examined.
+
+
+By this progress, how many there are who arrive at principles which they
+believe innate may be easily observed, in the variety of opposite principles
+held and contended for by all sorts and degrees of men. And he that shall deny
+this to be the method wherein most men proceed to the assurance they have of
+the truth and evidence of their principles, will perhaps find it a hard matter
+any other way to account for the contrary tenets, which are firmly believed,
+confidently asserted, and which great numbers are ready at any time to seal
+with their blood. And, indeed, if it be the privilege of innate principles to
+be received upon their own authority, without examination, I know not what may
+not be believed, or how any one’s principles can be questioned. If they may and
+ought to be examined and tried, I desire to know how first and innate
+principles can be tried; or at least it is reasonable to demand the MARKS and
+CHARACTERS whereby the genuine innate principles may be distinguished from
+others: that so, amidst the great variety of pretenders, I may be kept from
+mistakes in so material a point as this. When this is done, I shall be ready to
+embrace such welcome and useful propositions; and till then I may with modesty
+doubt; since I fear universal consent, which is the only one produced, will
+scarcely prove a sufficient mark to direct my choice, and assure me of any
+innate principles.
+
+
+From what has been said, I think it past doubt, that there are no practical
+principles wherein all men agree; and therefore none innate.
+
+
+</div></body></text></TEI>

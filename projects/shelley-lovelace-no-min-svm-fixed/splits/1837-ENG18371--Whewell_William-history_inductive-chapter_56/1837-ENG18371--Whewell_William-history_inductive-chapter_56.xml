@@ -1,0 +1,179 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="56">CHAPTER II.
+Problem of the Vibrations of Strings.
+THAT the continuation of sound
+depends on a continued minute and rapid motion, a shaking or
+trembling, of the parts of the sounding body, was soon seen. Thus
+Bacon says,5 “The duration of the sound of a bell or
+a string when struck, which appears to be prolonged and gradually
+extinguished, does not proceed from the first percussion; but the
+trepidation of the body struck perpetually generates a new sound. For
+if that trepidation be prevented, and the bell or string be stopped,
+the sound soon dies: as in spinets, as soon as the spine
+is let fall so as to touch the string, the sound ceases.” In the case
+of a stretched string, it is not difficult to perceive that the motion
+is a motion back and forwards across the straight line which the
+string occupies when at rest. The further examination of the
+quantitative circumstances of this oscillatory motion was an obvious
+problem; and especially after oscillations, though of another kind
+(those of a pendulous body), had attracted attention, as they had done
+in the school of Galileo. Mersenne, one of the promulgators of
+Galileo’s philosophy in France, is the first author in whom I find an
+examination of the details of this case (Harmonicorum Liber,
+Paris, 1636). He asserts,6 that the differences and concords of
+acute and grave sounds depend on the rapidity of vibrations, and their
+ratio; and he proves this doctrine by a series of experimental
+comparisons. Thus he finds7 that the note of a string is as its
+length, by taking a string first twice, and then four times as long as
+the original string, other things remaining the same. This, indeed,
+was known to the ancients, and was the basis of that numerical
+indication of the notes which the proposition expresses. Mersenne
+further proceeds to show the effect of thickness and tension. He finds
+(Prop. 7) that a string must be four times as thick as another, to
+give the octave below; he finds, also (Prop. 8), that the tension must
+be about four times as great in order to produce the octave above.
+From these proportions various others are deduced, and the law of
+the 29
+phenomena of this kind may be considered as determined.
+Mersenne also undertook to measure the phenomena numerically,
+that is to determine the number of vibrations of the string in each of
+such cases; which at first might appear difficult, since it is
+obviously impossible to count with the eye the passages of a sounding
+string backwards and forwards. But Mersenne rightly assumed, that the
+number of vibrations is the same so long as the tone is the same, and
+that the ratios of the numbers of vibrations of different strings may
+be determined from the numerical relations of their notes. He had,
+therefore, only to determine the number of vibrations of one certain
+string, or one known note, to know those of all others. He took a
+musical string of three-quarters of a foot long, stretched with a
+weight of six pounds and five eighths, which he found gave him by its
+vibrations a certain standard note in his organ: he found that a
+string of the same material and tension, fifteen feet, that is, twenty
+times as long, made ten recurrences in a second; and he inferred that
+the number of vibrations of the shorter string must also be twenty
+times as great; and thus such a string must make in one second of time
+two hundred vibrations.
+5 Hist. Son. et Aud. vol. ix.
+p. 71.
+6 L. i. Prop. 15.
+7 L. ii. Prop. 6.
+This determination of Mersenne does not appear to have attracted
+due notice; but some time afterwards attempts were made to ascertain
+the connexion between the sound and its elementary pulsations in a
+more direct manner. Hooke, in 1681, produced sounds by the striking of
+the teeth of brass wheels,8 and Stancari, in 1706, by whirling round
+a large wheel in air, showed, before the Academy of Bologna, how the
+number of vibrations in a given note might be known. Sauveur, who,
+though deaf for the first seven years of his life, was one of the
+greatest promoters of the science of sound, and gave it its name of
+Acoustics, endeavored also, about the same time, to determine
+the number of vibrations of a standard note, or, as he called it,
+Fixed Sound. He employed two methods, both ingenious and both
+indirect. The first was the method of beats. Two organ-pipes,
+which form a discord, are often heard to produce a kind of
+howl, or wavy noise, the sound swelling and declining at
+small intervals of time. This was readily and rightly ascribed to the
+coincidences of the pulsations of sound of the two notes after certain
+cycles. Thus, if the number of vibrations of the notes were as fifteen
+to sixteen in the same time, every fifteenth vibration of the one
+would coincide with every 30 sixteenth vibration of the other, while
+all the intermediate vibrations of the two tones would, in various
+degrees, disagree with each other; and thus every such cycle, of
+fifteen and sixteen vibrations, might be heard as a separate beat of
+sound. Now, Sauveur wished to take a case in which these beats were so
+slow as to be counted,9 and in which the ratio of the vibrations
+of the notes was known from a knowledge of their musical relations.
+Thus if the two notes form an interval of a semitone, their ratio will
+be that above supposed, fifteen to sixteen; and if the beats be found
+to be six in a second, we know that, in that time, the graver note
+makes ninety and the acuter ninety-six vibrations. In this manner
+Sauveur found that an open organ-pipe, five feet long, gave one
+hundred vibrations in a second.
+8 Life, p. xxiii.
+9 Ac. Sc. Hist. 1700, p.
+131.
+Sauveur’s other method is more recondite, and approaches to a
+mechanical view of the question.10 He proceeded on
+this basis; a string, horizontally stretched, cannot be drawn into a
+mathematical straight line, but always hangs in a very flat curve, or
+festoon. Hence Sauveur assumed that its transverse vibrations
+may be conceived to be identical with the lateral swingings of such a
+festoon. Observing that the string C, in the middle of a harpsichord,
+hangs in such a festoon to the amount of 1⁄323rd of an inch, he
+calculates, by the laws of pendulums, the time of oscillation, and
+finds it 1⁄122nd of a second. Thus this
+C, his fixed note, makes one hundred and twenty-two vibrations
+in a second. It is curious that this process, seemingly so arbitrary,
+is capable of being justified on mechanical principles; though we can
+hardly give the author credit for the views which this justification
+implies. It is, therefore, easy to understand that it agreed with
+other experiments, in the laws which it gave for the dependence of the
+tone on the length and tension.
+10 Ac. Sc. Hist. 1713.
+The problem of satisfactorily explaining this dependence, on
+mechanical principles, naturally pressed upon the attention of
+mathematicians when the law of the phenomena was thus completely
+determined by Mersenne and Sauveur. It was desirable to show that both
+the circumstances and the measure of the phenomena were such as known
+mechanical causes and laws would explain. But this problem, as might
+be expected, was not attacked till mechanical principles, and the
+modes of applying them, had become tolerably familiar.
+As the vibrations of a string are produced by its tension, it
+appeared to be necessary, in the first place, to determine the law of
+the tension 31 which
+is called into action by the motion of the string; for it is manifest
+that, when the string is drawn aside from the straight line into which
+it is stretched, there arises an additional tension, which aids in
+drawing it back to the straight line as soon as it is let go. Hooke
+(On Spring, 1678) determined the law of this additional
+tension, which he expressed in his noted formula, “Ut tensio sic vis,”
+the Force is as the Tension; or rather, to express his meaning more
+clearly, the Force of tension is as the Extension, or, in a string, as
+the increase of length. But, in reality, this principle, which is
+important in many acoustical problems, is, in the one now before us,
+unimportant; the force which urges the string towards the straight
+line, depends, with such small extensions as we have now to consider,
+not on the extension, but on the curvature; and the power of treating
+the mathematical difficulty of curvature, and its mechanical
+consequences, was what was requisite for the solution of this
+problem.
+The problem, in its proper aspect, was first attacked and mastered
+by Brook Taylor, an English mathematician of the school of Newton, by
+whom the solution was published in 1715, in his Methodus
+Incrementorum. Taylor’s solution was indeed imperfect, for it only
+pointed out a form and a mode of vibration, with which the string
+might move consistently with the laws of mechanics; not the
+mode in which it must move, supposing its form to be any
+whatever. It showed that the curve might be of the nature of that
+which is called the companion to the cycloid; and, on the
+supposition of the curve of the string being of this form, the
+calculation confirmed the previously established laws by which the
+tone, or the time of vibration, had been discovered to depend on the
+length, tension, and bulk of the string. The mathematical
+incompleteness of Taylor’s reasoning must not prevent us from looking
+upon his solution of the problem as the most important step in the
+progress of this part of the subject: for the difficulty of applying
+mechanical principles to the question being once overcome, the
+extension and correction of the application was sure to be undertaken
+by succeeding mathematicians; and, accordingly, this soon happened. We
+may add, moreover, that the subsequent and more general solutions
+require to be considered with reference to Taylor’s, in order to
+apprehend distinctly their import; and further, that it was almost
+evident to a mathematician, even before the general solution had
+appeared, that the dependence of the time of vibration on the length
+and tension, would be the same in the general case as in the 32 Taylorian curve; so
+that, for the ends of physical philosophy, the solution was not very
+incomplete.
+John Bernoulli, a few years afterwards,11 solved the
+problem of vibrating chords on nearly the same principles and
+suppositions as Taylor; but a little later (in 1747), the next
+generation of great mathematicians, D’Alembert, Euler, and Daniel
+Bernoulli, applied the increased powers of analysis to give generality
+to the mode of treating this question; and especially the calculus of
+partial differentials, invented for this purpose. But at this epoch,
+the discussion, so far as it bore on physics, belonged rather to the
+history of another problem, which comes under our notice hereafter, that of the composition of vibrations; we
+shall, therefore, defer the further history of the problem of
+vibrating strings, till we have to consider it in connexion with new
+experimental facts.
+11 Op. iii. p. 207.
+</div></body></text></TEI>

@@ -1,0 +1,159 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>On the Connexion of the Physical Sciences</title><author>Somerville, Mary (1780-1872)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1834</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="31">
+312
+SECTION XXX.
+
+Discovery of Electro-magnetism—Deflection of the Magnetic Needle by a
+Current of Electricity—Direction of the Force—Rotatory Motion by
+Electricity—Rotation of a Wire and a Magnet—Rotation of a Magnet
+about its Axis—Of Mercury and Water—Electro-Magnetic Cylinder
+or Helix—Suspension of a Needle in a Helix—Electro-Magnetic Induction—Temporary
+Magnets—The Galvanometer.
+The disturbing effects of the aurora and lightning on the mariner’s
+compass had been long known. In the year 1819 M. Oersted,
+Professor of Natural Philosophy at Copenhagen, discovered that
+a current of Voltaic electricity exerts a powerful influence on a
+magnetized needle. This observation has given rise to the theory
+of electro-magnetism—one of the most interesting sciences of
+modern times, whether it be considered as leading us a step farther
+in generalization, by identifying two agencies hitherto referred to
+different causes, or as developing a new force, unparalleled in the
+system of the world, which, overcoming the retardation from
+friction, and the obstacle of a resisting medium, maintains a
+perpetual motion as long as the action of a Voltaic battery is
+continued.
+When the two poles of a Voltaic battery are connected by a
+metallic wire, so as to complete a circuit, the electricity flows
+without ceasing. If a straight portion of that wire be placed
+parallel to, and horizontally above, a magnetized needle at rest in
+the magnetic meridian, but freely poised like the mariner’s compass,
+the action of the electric current flowing through the wire
+will instantly cause the needle to change its position. Its
+extremity will deviate from the north towards the east or west,
+according to the direction in which the current is flowing; and,
+on reversing the direction of the current, the motion of the needle
+will be reversed also. The numerous experiments that have been
+made on magnetism and electricity, as well as those on the
+various relative motions of a magnetic needle under the influence
+of galvanic electricity, arising from all possible positions of the
+conducting wire, and every direction of the Voltaic current,
+together with all the other phenomena of electro-magnetism, are
+313explained by Dr. Roget in some excellent articles on these subjects
+in the Library of Useful Knowledge.
+All experiments tend to prove that the force emanating from
+the electric current, which produces such effects on the magnetic
+needle, acts at right angles to the current. The action of an
+electrical current upon either pole of a magnet has no tendency
+to cause the pole to approach or recede, but to rotate about it. If
+the stream of electricity be supposed to pass through the centre of
+a circle whose plane is perpendicular to the current, the direction of
+the force exerted by the electricity will always be in the tangent to
+the circle, or at right angles to its radius (N. 223). Consequently,
+the tangential force of the electricity has a tendency to make the
+pole of a magnet move in a circle round the wire of the battery.
+Rotatory motion was suggested by Dr. Wollaston. Dr. Faraday
+was the first who actually succeeded in making the pole of a
+magnet rotate about a vertical conducting wire. In order to
+limit the action of the electricity to one pole, about two-thirds of
+a small magnet were immersed in mercury, the lower end being
+fastened by a thread to the bottom of the vessel containing the
+mercury. When the magnet was thus floating almost vertically
+with its north pole above the surface, a current of positive electricity
+was made to descend perpendicularly through a wire
+touching the mercury, and immediately the magnet began to
+rotate from left to right about the wire. The force being uniform,
+the rotation was accelerated till the tangential force was
+balanced by the resistance of the mercury, when it became constant.
+Under the same circumstances the south pole of the
+magnet rotates from right to left. It is evident, from this experiment,
+that the wire may also be made to perform a rotation
+round the magnet, since the action of the current of electricity
+on the pole of the magnet must necessarily be accompanied by a
+corresponding reaction of the pole of the magnet on the electricity
+in the wire. This experiment has been accomplished by a vast
+number of contrivances, and even a small battery, consisting of
+two plates, has performed the rotation. Dr. Faraday produced
+both motions at the same time in a vessel containing mercury;
+the wire and the magnet revolved in one direction about a
+common centre of motion, each following the other.
+The next step was to make a magnet, and also a cylinder, revolve
+about their own axes, which they do with great rapidity.
+314Mercury has been made to rotate by means of Voltaic electricity,
+and Professor Ritchie exhibited in the Royal Institution the singular
+spectacle of the rotation of water by the same means, while
+the vessel containing it remained stationary. The water was in
+a hollow double cylinder of glass, and, on being made the conductor
+of electricity, was observed to revolve in a regular vortex,
+changing its direction as the poles of the battery were alternately
+reversed. Professor Ritchie found that all the different conductors
+hitherto tried by him, such as water, charcoal, &c., give
+the same electro-magnetic results when transmitting the same
+quantity of electricity, and that they deflect the magnetic needle
+in an equal degree when their respective axes of conduction are
+at the same distance from it. But one of the most extraordinary
+effects of this force is exhibited by coiling a copper wire, so as
+to form a helix or corkscrew, and connecting the extremities of
+the wire with the poles of a galvanic battery. If a magnetized
+steel bar or needle be placed within the screw, so as to rest upon
+the lower part, the instant a current of electricity is sent through
+the wire of the helix, the steel bar starts up by the influence of
+this invisible power, and remains suspended in the air in opposition
+to the force of gravitation (N. 224). The effect of the
+electro-magnetic power exerted by each turn of the wire is to
+urge the north pole of the magnet in one direction, and the south
+pole in the other. The force thus exerted is multiplied in degree
+and increased in extent by each repetition of the turns of the
+wire, and in consequence of these opposing forces the bar remains
+suspended. This helix has all the properties of a magnet
+while the electrical current is flowing through it, and may be
+substituted for one in almost every experiment. It acts as if it
+had a north pole at one extremity and a south pole at the other,
+and is attracted and repelled by the poles of a magnet exactly as
+if it were one itself. All these results depend upon the course of
+the electricity; that is, on the direction of the turns of the screw,
+according as it is from right to left, or from left to right, being
+contrary in the two cases.
+The action of Voltaic electricity on a magnet is not only precisely
+the same with the action of two magnets on one another,
+but its influence in producing temporary magnetism in iron and
+steel is also the same with magnetic induction. The term induction,
+when applied to electric currents, expresses the power
+315which these currents possess of inducing a particular state upon
+matter in their immediate neighbourhood, otherwise neutral or
+indifferent. For example, the connecting wire of a galvanic
+battery holds iron filings suspended like a magnet as long as the
+current continues to flow through it: the iron becomes magnetic
+by the induction of the current. The most powerful temporary
+magnets are obtained by bending a thick cylinder of soft iron into
+the form of a horseshoe, and surrounding it with a coil of thick
+copper wire covered with silk to prevent communication between
+its coils. When this wire forms part of a galvanic circuit
+the iron becomes so highly magnetic by the induction of
+the current flowing through the wire that a temporary magnet
+of this kind made by Professor Henry of the Albany Academy
+in the United States sustained a weight of nearly a ton. Another
+by Mr. Gage has been applied with considerable success as a
+moving power: its spark is a bright flash, and the snap as loud as
+a pistol. But the most powerful known is that employed by Mr.
+Joule in his experiments, which sustains a weight of 2080 lbs. The
+iron loses its magnetism the instant the electricity ceases to flow, and
+acquires it again as instantaneously when the circuit is renewed.
+The action of an electric current causes a deviation of the
+compass from the plane of the magnetic meridian. In proportion
+as the needle recedes from the meridian, the intensity of the force
+of terrestrial magnetism increases, while at the same time the
+electro-magnetic force diminishes; the number of degrees at
+which the needle stops, showing where the equilibrium between
+these two forces takes place, will indicate the intensity of the
+galvanic current. The galvanometer, constructed upon this principle,
+is employed to measure the intensity of galvanic currents
+collected and conveyed to it by wires. This instrument is rendered
+much more sensible by neutralizing the effects of the earth’s magnetism
+on the needle, which is accomplished by placing a second
+magnetised needle so as to counteract the action of the earth on the
+first—a precaution requisite in all delicate magnetical experiments.
+It has been ascertained by means of this instrument that the
+action of an electrical current upon a magnet is inversely as
+the square of the distance, and the energy with which an electro
+magnet acts is directly as the power of the galvanic battery and
+the number of coils round the core, and inversely as the resistance
+of the wire.</div></body></text></TEI>

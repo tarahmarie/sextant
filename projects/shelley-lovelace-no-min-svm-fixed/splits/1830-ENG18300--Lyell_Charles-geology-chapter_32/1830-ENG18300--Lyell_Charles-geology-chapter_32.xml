@@ -1,0 +1,839 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Principles of Geology</title><author>Lyell, Charles (1797-1875)</author></titleStmt><publicationStmt><publisher>John Murray</publisher><pubPlace>London</pubPlace><date>1830</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="32">CHAPTER XXXII.
+CAUSES OF EARTHQUAKES AND VOLCANOES—continued.
+Review of the proofs of internal heat—Theory of an unoxidated metallic nucleus—Whether
+the decomposition of water may be a source of volcanic heat—Geysers
+of Iceland—Causes of earthquakes—Wavelike motion—Expansive
+power of liquid gases—Connection between the state of the atmosphere and
+earthquakes—Permanent upheaval and subsidence of land—Expansion of rocks
+by heat—The balance of dry land how preserved—Subsidence in excess—Conclusion.
+When we reflect that the largest mountains are but insignificant protuberances
+upon the surface of the earth, and that these mountains are
+nevertheless composed of different parts which have been formed in succession,
+we may well feel surprise that the central fluidity of the planet
+should have been called in to account for volcanic phenomena. To suppose
+the entire globe to be in a state of igneous fusion, with the exception
+of a solid shell, not more than from thirty to one hundred miles
+thick, and to imagine that the central heat of this fluid spheroid exceeds
+by more than two hundred times that of liquid lava, is to introduce a
+force altogether disproportionate to the effects which it is required to
+explain.
+The ordinary repose of the surface implies, on the contrary, an inertness
+in the internal mass which is truly wonderful. When we consider
+the combustible nature of the elements of the earth, so far as they are
+known to us,—the facility with which their compounds may be decomposed
+and made to enter into new combinations,—the quantity of heat
+which they evolve during these processes; when we recollect the expansive
+power of steam, and that water itself is composed of two gases which,
+by their union, produce intense heat; when we call to mind the number
+of explosive and detonating compounds which have been already discovered,
+we may be allowed to share the astonishment of Pliny, that a single
+546
+day should pass without a general conflagration:—"Excedit profectò
+omnia miracula, ullum diem fuisse quo non cuncta conflagrarent."759
+The signs of internal heat observable on the surface of the earth do
+not necessarily indicate the permanent existence of subterranean heated
+masses, whether fluid or solid, by any means so vast as our continents
+and seas; yet how insignificant would these appear if distributed through
+an external shell of the globe one or two hundred miles in depth! The
+principal facts in proof of the accumulation of heat below the surface
+may be summed up in a few words. Several volcanoes are constantly
+in eruption, as Stromboli and Nicaragua; others are known to have been
+active for periods of 60, or even 150 years, as those of Sangay in Quito,
+Popocatepetl in Mexico, and the volcano of the Isle of Bourbon. Many
+craters emit hot vapors in the intervals between eruptions, and solfataras
+evolve incessantly the same gases as volcanoes. Steam of high temperature
+has continued for more than twenty centuries to issue from the
+"stufas," as the Italians call them; thermal springs abound not only
+in regions of earthquakes, but are found in almost all countries, however
+distant from active vents; and, lastly, the temperature in the mines of
+various parts of the world is found to increase in proportion as we descend.
+The diagram (fig. 93) in the next page, may convey some idea of the
+proportion which our continents and the ocean bear to the radius of the
+earth.760 If all the land were about as high as the Himalaya mountains,
+and the ocean everywhere as deep as the Pacific, the whole of both
+might be contained within a space expressed by the thickness of the line
+a b; and masses of nearly equal volume might be placed in the space
+marked by the line c d, in the interior. Seas of lava, therefore, of the
+size of the Mediterranean, or even of the Atlantic, would be as nothing
+if distributed through such an outer shell of the globe as is represented
+by the shaded portion of the figure a b c d. If throughout that space
+we imagine electro-chemical causes to be continually in operation, even
+of very feeble power, they might give rise to heat which, if accumulated
+at certain points, might melt or render red-hot entire mountains, or sustain
+the temperature of stufas and hot springs for ages.
+Theory of an unoxidated metallic nucleus.—When Sir H. Davy first
+discovered the metallic basis of the earths and alkalies, he threw out the
+idea that those metals might abound in an unoxidized state in the subterranean
+regions to which water must occasionally penetrate. Whenever
+this happened, gaseous matter would be set free, the metals would
+combine with the oxygen of the water, and sufficient heat might be
+evolved to melt the surrounding rocks. This hypothesis, although afterwards
+abandoned by its author, was at first very favorably received
+both by the chemist and the geologist: for silica, alumina, lime, soda, and
+oxide of iron,—substances of which lavas are principally composed,—would
+547
+all result from the contact of the inflammable metals alluded to
+with water. But whence this abundant store of unsaturated metals in
+the interior? It was assumed that, in the beginning of things, the
+nucleus of the earth was mainly composed of inflammable metals, and
+that oxidation went on with intense energy at first; till at length, when
+a superficial crust of oxides had been formed, the chemical action became
+more and more languid.
+Fig. 93.
+Centre of the earth.
+This speculation, like all others respecting the primitive state of the
+earth's nucleus, rests unavoidably on arbitrary assumptions. But we
+548
+may fairly inquire whether any existing causes may have the power of
+deoxidating the earthy and alkaline compounds formed from time to
+time by the action of water upon the metallic bases. If so, and if the
+original crust or nucleus of the planet contained distributed through it
+here and there some partial stores of potassium, sodium, and other metallic
+bases, these might be oxidated and again deoxidated, so as to sustain
+for ages a permanent chemical action. Yet even then we should
+be unable to explain why such a continuous circle of operations, after
+having been kept up for thousands of years in one district, should entirely
+cease, and why another region, which had enjoyed a respite from
+volcanic action for one or many geological periods, should become a theatre
+for the development of subterranean heat.
+It is well known to chemists, that the metallization of oxides, the
+most difficult to reduce, may be effected by hydrogen brought into contact
+with them at a red heat; and it is more than probable that the
+production of potassium itself, in the common gun-barrel process, is due
+to the power of nascent hydrogen derived from the water which the
+hydrated oxide contains. According to the recent experiments, also, of
+Faraday, it would appear that every case of metallic reduction by voltaic
+agency, from saline solutions, in which water is present, is due to
+the secondary action of hydrogen upon the oxide; both of these being
+determined to the negative pole and then reacting upon one another.
+It is admitted that intense heat would be produced by the occasional
+contact of water with the metallic bases; and it is certain that, during
+the process of saturation, vast volumes of hydrogen must be evolved.
+The hydrogen, thus generated, might permeate the crust of the earth
+in different directions, and become stored up for ages in fissures and
+caverns, sometimes in a liquid form, under the necessary pressure.
+Whenever, at any subsequent period, in consequence of the changes
+effected by earthquakes in the shell of the earth, this gas happened to
+come in contact with metallic oxides at a high temperature, the reduction
+of these oxides might be the result.
+No theory seems at first more startling than that which represents
+water as affording an inexhaustible supply of fuel to the volcanic fires;
+yet is it by no means visionary. It is a fact that must not be overlooked,
+that while a great number of volcanoes are entirely submarine, the remainder
+occur for the most part in islands or maritime tracts. There
+are a few exceptions; but some of these, observes Dr. Daubeny, are near
+inland salt lakes, as in Central Tartary; while others form part of a
+train of volcanoes, the extremities of which are near the sea.
+Sir H. Davy suggested that, when the sea is distant, as in the case of
+some of the South American volcanoes, they may still be supplied with
+water from subterranean lakes; since, according to Humboldt, large
+quantities of fish are often thrown out during eruptions.761 Mr. Dana
+also, in his valuable and original observations on the volcanoes of the
+549
+Sandwich Islands, reminds us of the prodigious volume of atmospheric
+water which must be absorbed into the interior of such large and lofty
+domes, composed as they are entirely of porous lava. To this source
+alone he refers the production of the steam by which the melted matter
+is propelled upwards, even to the summit of cones three miles in height.762
+When treating of springs and overflowing wells, I have stated that
+porous rocks are percolated by fresh water to great depths, and that
+sea-water probably penetrates in the same manner through the rocks
+which form the bed of the ocean. But, besides this universal circulation
+in regions not far from the surface, it must be supposed that,
+wherever earthquakes prevail, much larger bodies of water will be
+forced by the pressure of the ocean into fissures at great depths, or
+swallowed up in chasms; in the same manner as on the land, towns,
+houses, cattle, and trees are sometimes engulfed. It will be remembered,
+that these chasms often close again after houses have fallen into
+them; and for the same reason, when water has penetrated to a mass
+of melted lava, the steam into which it is converted may often rush out
+at a different aperture from that by which the water entered.
+The gases, it is said, exhaled from volcanoes, together with steam, are
+such as would result from the decomposition of salt water, and the
+fumes which escape from the Vesuvian lava have been observed to deposit
+common salt.763 The emission of free muriatic acid gas in great
+quantities is also thought by many to favor the theory of the decomposition
+of the salt contained in sea-water. It has been objected, however,
+that M. Boussingault did not meet with this gas in his examination of the
+elastic fluids evolved from the volcanoes of equatorial America; which
+only give out aqueous vapor (in very large quantity), carbonic acid gas,
+sulphurous acid gas, and sometimes fumes of sulphur.764 In reply, Dr.
+Daubeny has remarked, that muriatic acid may have ceased to be disengaged,
+because the volcanic action has become languid in equatorial
+America, and sea-water may no longer obtain admission.
+M. Gay Lussac, while he avows his opinion that the decomposition
+of water contributes largely to volcanic action, called attention, nevertheless,
+to the supposed fact, that hydrogen had not been detected in
+a separate form among the gaseous products of volcanoes; nor can it,
+he says, be present; for, in that case, it would be inflamed in the air
+by the red-hot stones thrown out during an eruption. Dr. Davy, in
+his account of Graham Island, says, "I watched when the lightning was
+most vivid, and the eruption of the greatest degree of violence, to see if
+there was any inflammation occasioned by this natural electric spark—any
+indication of the presence of inflammable gas; but in vain."765
+May not the hydrogen, Gay Lussac inquires, be combined with chlorine,
+and produce muriatic acid? for this gas has been observed to be
+evolved from Vesuvius—and the chlorine may have been derived from
+550
+sea salt; which was, in fact, extracted by simple washing from the
+Vesuvian lava of 1822, in the proportion of nine per cent.766 But it
+was answered, that Sir H. Davy's experiments had shown, that hydrogen
+is not combustible when mixed with muriatic acid gas; so that if
+muriatic gas was evolved in large quantities, the hydrogen might be
+present without inflammation.767 M. Abich, on the other hand, assures
+us, "that although it be true that vapor illuminated by incandescent
+lava has often been mistaken for flame," yet he clearly detected in the
+eruption of Vesuvius in 1834 the flame of hydrogen.768
+M. Gay Lussac, in the memoir just alluded to, expressed doubt as to
+the presence of sulphurous acid; but the abundant disengagement of
+this gas during eruptions has been since ascertained: and thus all difficulty
+in regard to the general absence of hydrogen in an inflammable
+state is removed; for, as Dr. Daubeny suggests, the hydrogen of decomposed
+water may unite with sulphur to form sulphuretted hydrogen
+gas, and this gas will then be mingled with the sulphurous acid as it
+rises to the crater. It is shown by experiment, that these gases mutually
+decompose each other when mixed where steam is present; the
+hydrogen of the one immediately uniting with the oxygen of the other
+to form water, while the excess of sulphurous acid alone escapes into
+the atmosphere. Sulphur is at the same time precipitated.
+This explanation is sufficient; but it may also be observed that the
+flame of hydrogen would rarely be visible during an eruption; as that
+gas, when inflamed in a pure state, burns with a very faint blue flame,
+which even in the night could hardly be perceptible by the side of redhot
+and incandescent cinders. Its immediate, conversion into water
+when inflamed in the atmosphere, might also account for its not appearing
+in a separate form.
+Dr. Daubeny is of opinion that water containing atmospheric air may
+descend from the surface of the earth to the volcanic foci, and that the
+same process of combustion by which water is decomposed may deprive
+such subterranean air of its oxygen. In this manner he explains the
+great quantities of nitrogen evolved from volcanic vents and thermal
+waters, and the fact that air disengaged from the earth in volcanic regions
+is either wholly or in part deprived of its oxygen.
+Sir H. Davy, in his memoir on the "Phenomena of Volcanoes," remarks,
+that there was every reason to suppose in Vesuvius the existence
+of a descending current of air; and he imagined that subterranean
+cavities which threw out large volumes of steam during the eruption,
+might afterwards, in the quiet state of the volcano, become filled with
+atmospheric air.769 The presence of ammoniacal salts in volcanic emanations,
+and of ammonia (which is in part composed of nitrogen) in lava,
+favors greatly the notion of air as well as water being deoxidated in the
+interior of the earth.770
+551
+It has been alleged by Professor Bischoff that the slight specific gravity
+of the metals of the alkalies is fatal to Davy's hypothesis, for if the
+mean density of the earth, as determined by astronomers, surpass that
+of all kinds of rocks, these metals cannot exist, at least not in great
+quantities in the interior of the earth.771 But Dr. Daubeny has shown,
+that if we take the united specific gravity of potassium, sodium, silicon,
+iron, and all the materials which, when united with oxygen, constitute
+ordinary lava, and then compare their weight with lava of equal bulk,
+the difference is not very material, the specific gravity of the lava only
+exceeding by about one-fourth that of the unoxidized metals. Besides,
+at great depths, the metallic bases of the earths and alkalies may very
+probably be rendered heavier by pressure.772 Nor is it fair to embarrass
+the chemical theory of volcanoes with a doctrine so purely gratuitous,
+as that which supposes the entire nucleus of the planet to have been at
+first composed of unoxidated metals.
+Professor Bunsen of Marburg, after analyzing the gases which escape
+from the volcanic fumeroles and solfataras of Iceland, and after calculating
+the quantity of hydrogen evolved between two eruptions, affirms,
+in contradiction of opinions previously entertained, that the hydrogen
+bears a perfect relation in quantity to the magnitude of the streams of
+lava, assuming the fusion of these last to have been the result of the
+heat evolved during the oxidation of alkaline and earthy metals, and this
+to have been brought about by the decomposition of water. Yet after
+having thus succeeded in removing the principal objection once so
+triumphantly urged against Davy's hypothesis, Bunsen concludes by
+declaring that the hydrogen evolved in volcanic regions cannot have
+been generated by the decomposition of water coming in contact with
+alkaline and earthy metallic bases. For, says the Professor, this process
+presupposes the prevalence of a temperature in which carbonic acid cannot
+exist in contact with hydrogen without suffering a partial reduction
+to carbonic oxide; "and not a trace of carbonic oxide is ever found in
+volcanic exhalations."773 At the same time it will be seen, by consulting
+the able memoirs of the Marburg chemist, that he supposes many energetic
+kinds of chemical action to be continually going on in the interior
+of the earth, capable of causing the disengagement of hydrogen; and
+there can be no doubt that this gas may be a source of innumerable new
+changes, capable of producing the local development of internal heat.
+Cause of volcanic eruptions.—The most probable causes of a volcanic
+outburst at the surface have been in a great degree anticipated in the
+preceding speculations on the liquefaction of rocks and the generation of
+gases. When a minute hole is bored in a tube filled with gas condensed
+into a liquid, the whole becomes instantly aeriform, or, as some writers
+have expressed it, "flashes into vapor," and often bursts the tube. Such
+552
+an experiment may represent the mode in which gaseous matter may
+rush through a rent in the rocks, and continue to escape for days or
+weeks through a small orifice, with an explosive power sufficient to reduce
+every substance which opposes its passage into small fragments or
+even dust. Lava may be propelled upwards at the same time, and ejected
+in the form of scoriæ. In some places, where the fluid lava lies at the
+bottom of a deep fissure, communicating on the one hand with the surface,
+and on the other with a cavern in which a considerable body of
+vapor has been formed, there may be an efflux of lava, followed by the
+escape of gas. Eruptions often commence and close with the discharge
+of vapor; and, when this is the case, the next outburst may be expected
+to take place by the same vent, for the concluding evolution of elastic
+fluids will keep open the duct, and leave it unobstructed.
+The breaking out of lava from the side or base of a lofty cone, rather
+than from the summit, may be attributed to the hydrostatic pressure to
+which the flanks of the mountain are exposed, when the column of lava
+has risen to a great height. Or if, before it has reached the top, there
+should happen to be any stoppage in the main duct, the upward pressure
+of the ascending column of gas and lava may burst a lateral opening.
+In the case however of Mount Loa, in the Sandwich Islands, there
+appears to be a singular want of connection or sympathy between the
+eruptions of the central and the great lateral vent. The great volcanic
+cone alluded to rises to the height of 13,760 feet above the level of the
+sea, having a crater at its summit, from which powerful streams of lava
+have flowed in recent times, and having another still larger crater, called
+Kilauea, on its southeastern slope, about 4000 feet above the sea. This
+lateral cavity resembles a huge quarry cut in the mountain's side, being
+about 1000 feet deep when in its ordinary state. It is seven miles and
+a half in circuit, and scattered over its bottom, at different levels, are
+lakes and pools of lava, always in a state of ebullition. The liquid in one
+of these will sometimes sink 100 or 150 feet, while it is overflowing in
+another at a higher elevation, there being, it should seem, no communication
+between them. In like manner, lava overflows in the summit
+crater of Mount Loa, nearly 14,000 feet high, while the great lateral
+cauldron just alluded to (of Kilauea) continues as tranquil as usual, affording
+no relief to any part of the gases or melted matter which are forcing
+their way upwards in the centre of the mountain. "How," asks Mr.
+Dana, "if there were any subterranean channel connecting the two great
+vents, could this want of sympathy exist? How, according to the laws
+of hydrostatic pressure, can a column of fluid stand 10,000 feet higher
+in one leg of the siphon than in the other?" The eruptions, he observes,
+are not paroxysmal; on the contrary, the lava rises slowly and gradually
+to the summit of the lofty cone, and then escapes there without any
+commotion manifesting itself in Kilauea, a gulf always open on the flanks
+of the same mountain. One conclusion, he says, is certain, namely, that
+volcanoes are no safety valves as they have been called; for here two
+independent and apparently isolated centres of volcanic activity, only
+553
+sixteen miles distant from each other, are sustained in one and the same
+cone.774
+Without pretending to solve this enigma, I cannot refrain from remarking,
+that the supposed independence of several orifices of eruption
+in one crater like Kilauea, when adduced in confirmation of the doctrine
+of two distinct sources of volcanic action underneath one mountain,
+proves too much. No one can doubt, that the pools of lava in Kilauea
+have been derived from some common reservoir, and have resulted from
+a combination of causes commonly called volcanic, which are at work in
+the interior at some unknown distance below. These causes have given
+rise in Mount Loa to eruptions from many points, but principally from
+one centre, so that a vast dome of ejected matter has been piled up.
+The subsidiary crater has evidently never given much relief to the imprisoned,
+heated, and liquefied matter, for Kilauea does not form a lateral
+protuberance interfering with the general shape or uniform outline
+of Mount Loa.
+Geysers of Iceland.—As aqueous vapor constitutes the most abundant
+of the aeriform products of volcanoes in eruption, it may be well to consider
+attentively a case in which steam is exclusively the moving power—that
+of the Geysers of Iceland. These intermittent hot springs occur
+in a district situated in the southwestern division of Iceland, where
+nearly one hundred of them are said to break out within a circle of two
+miles. That the water is of atmospheric origin, derived from rain and
+melted snow, is proved, says Professor Bunsen, by the nitrogen which
+rises from them either pure or mixed with other gases. The springs
+rise through a thick current of lava, which may perhaps have flowed
+from Mount Hecla, the summit of that volcano being seen from the spot
+at the distance of more than thirty miles. In this district the rushing
+of water is sometimes heard in chasms beneath the surface; for here,
+as on Etna, rivers flow in subterranean channels through the porous and
+cavernous lavas. It has more than once happened, after earthquakes,
+that some of the boiling fountains have increased or diminished in violence
+and volume, or entirely ceased, or that new ones have made their
+appearance—changes which may be explained by the opening of new
+rents and the closing of pre-existing fissures.
+Few of the Geysers play longer than five or six minutes at a time,
+although sometimes half an hour. The intervals between their eruptions
+are for the most part very irregular. The Great Geyser rises out
+of a spacious basin at the summit of a circular mound composed of siliceous
+incrustations deposited from the spray of its waters. The diameter
+of this basin, in one direction, is fifty-six feet, and forty-six in another.
+(See fig. 94.) In the centre is a pipe seventy-eight feet in perpendicular
+depth, and from eight to ten feet in diameter, but gradually widening,
+as it rises into the basin. The inside of the basin is whitish, consisting
+of a siliceous crust, and perfectly smooth, as are likewise two small
+554
+channels on the sides of the mound, down which the water escapes
+when the bowl is filled to the margin. The circular basin is sometimes
+empty, as represented in the following sketch; but is usually filled with
+beautifully transparent water in a state of ebullition. During the rise
+of the boiling water in the pipe, especially when the ebullition is most
+violent, and when the water is thrown up in jets, subterranean noises
+are heard, like the distant firing of cannon, and the earth is slightly
+shaken. The sound then increases and the motion becomes more violent,
+till at length a column of water is thrown up, with loud explosions, to
+the height of one or two hundred feet. After playing for a time like
+an artificial fountain, and giving off great clouds of vapor, the pipe or
+tube is emptied; and a column of steam, rushing up with amazing force
+and a thundering noise, terminates the eruption.
+Fig. 94.
+View of the Crater of the Great Geyser in Iceland.775
+If stones are thrown into the crater, they are instantly ejected; and
+such is the explosive force, that very hard rocks are sometimes shivered
+by it into small pieces. Henderson found that by throwing a great
+quantity of large stones into the pipe of Strockr, one of the Geysers, he
+could bring on an eruption in a few minutes.776 The fragments of stone,
+as well as the boiling water, were thrown in that case to a much greater
+height than usual. After the water had been ejected, a column of steam
+continued to rush up with a deafening roar for nearly an hour; but the
+Geyser, as if exhausted by this effort, did not send out a fresh eruption
+when its usual interval of rest had elapsed. The account given by Sir
+George Mackenzie of a Geyser which he saw in eruption in 1810 (see
+fig. 95), agrees perfectly with the above description by Henderson. The
+555
+steam and water rose for half an hour to the height of 70 feet, and the
+white column remained perpendicular notwithstanding a brisk gale of
+wind which was blowing against it. Stones thrown into the pipe were
+projected to a greater height than the water. To leeward of the vapor
+a heavy shower of rain was seen to fall.777
+Fig. 95.
+Eruption of the New Geyser in 1810. (Mackenzie.)
+Among the different theories proposed to account for these phenomena,
+I shall first mention one suggested by Sir. J. Herschel. An imitation
+of these jets, he says, may be produced on a small scale, by heating
+red hot the stem of a tobacco pipe, filling the bowl with water, and
+so inclining the pipe as to let the water run through the stem. Its escape,
+instead of taking place in a continued stream, is then performed by
+a succession of violent explosions, at first of steam alone, then of water
+mixed with steam; and, as the pipe cools, almost wholly of water. At
+every such paroxysmal escape of the water, a portion is driven back, accompanied
+with steam, into the bowl. The intervals between the explosions
+depend on the heat, length, and inclination of the pipe; their continuance,
+on its thickness and conducting power.778
+The application of
+556
+this experiment to the Geysers merely requires that a subterranean
+stream, flowing through the pores and crevices of lava, should suddenly
+reach a fissure in which the rock is red hot or nearly so. Steam would
+immediately be formed, which, rushing up the fissure, might force up
+water along with it to the surface, while, at the same time, part of the
+steam might drive back the water of the supply for a certain distance
+towards its source. And when, after the space of some minutes, the
+steam was all condensed, the water would return, and a repetition of the
+phenomena take place.
+Fig. 96.
+Supposed reservoir and pipe of a Geyser in Iceland.779
+There is, however, another mode of explaining the action of the Geyser,
+perhaps more probable than that above described. Suppose water
+percolating from the surface of the earth to penetrate into the subterranean
+cavity A D (fig. 96) by the fissures F F, while, at the same time,
+steam at an extremely high temperature, such as is commonly given out
+from the rents of lava currents during congelation, emanates from the
+fissures C. A portion of the steam is at first condensed into water,
+while the temperature of the water is raised by the latent heat thus
+evolved, till, at last, the lower part of the cavity is filled with boiling
+water and the upper with steam under high pressure. The expansive
+force of the steam becomes, at length, so great, that the water is forced
+up the fissure or pipe E B, and runs over the rim of the basin. When
+the pressure is thus diminished, the steam in the upper part of the cavity
+A expands, until all the water D is driven into the pipe; and when this
+557
+happens, the steam, being the lighter of the two fluids, rushes up
+through the water with great velocity. If the pipe be choked up artificially,
+even for a few minutes, a great increase of heat must take place;
+for it is prevented from escaping in a latent form in steam; so that the
+water is made to boil more violently, and this brings on an eruption.
+Professor Bunsen, before cited, adopts this theory to account for the
+play of the "Little Geyser," but says it will not explain the phenomena
+of the Great one. He considers this, like the others, to be a thermal
+spring, having a narrow funnel-shaped tube in the upper part of its
+course, where the walls of the channel have become coated over with
+siliceous incrustations. At the mouth of this tube the water has a
+temperature, corresponding to the pressure of the atmosphere, of about
+212° Fahr., but at a certain depth below it is much hotter. This the
+professor succeeded in proving by experiment; a thermometer suspended
+by a string in the pipe rising to 266° Fahr., or no less than 48
+degrees above the boiling point. After the column of water has been
+expelled, what remains in the basin and pipe is found to be much cooled.
+Previously to these experiments of Bunsen and Descloizeaux, made in
+Iceland in 1846, it would scarcely have been supposed possible that the
+lower part of a free and open column of water could be raised so much
+in temperature without causing a circulation of ascending and descending
+currents, followed by an almost immediate equalization of heat.
+Such circulation is no doubt impeded greatly by the sides of the well
+not being vertical, and by numerous contractions of its diameter, but
+the phenomenon may be chiefly due to another cause. According to
+recent experiments on the cohesion of liquids by Mr. Donny of Ghent,
+it appears that when water is freed from all admixture of air, its temperature
+can be raised, even under ordinary atmospheric pressure, to
+275° Fahr., so much does the cohesion of its molecules increase780 when
+they are not separated by particles of air. As water long boiled becomes
+more and more deprived of air, it is probably very free from such
+intermixture at the bottom of the Geysers.
+Among other results of the experiments of Bunsen and his companion,
+they convinced themselves that the column of fluid filling the
+tube is constantly receiving accessions of hot water from below, while it
+becomes cooler above by evaporation on the broad surface of the basin.
+They also came to a conclusion of no small interest, as bearing on the
+probable mechanism of ordinary volcanic eruptions, namely that the
+tube itself is the main seat or focus of mechanical force. This was
+proved by letting down stones suspended by strings to various depths.
+Those which were sunk to considerable distances from the surface were
+not cast up again, whereas those nearer the mouth of the tube were ejected
+to great heights. Other experiments also were made tending to demonstrate
+the singular fact, that there is often scarce any motion below,
+when a violent rush of steam and water is taking place above. It seems
+558
+that when a lofty column of water possesses a temperature increasing
+with the depth, any slight ebullition or disturbance of equilibrium in the
+upper portion may first force up water into the basin, and then cause it
+to flow over the edge. A lower portion, thus suddenly relieved of part
+of its pressure, expands and is converted into vapor more rapidly than
+the first, owing to its greater heat. This allows the next subjacent
+stratum, which is much hotter, to rise and flash into a gaseous form;
+and this process goes on till the ebullition has descended from the
+middle to near the bottom of the funnel.781
+In speculating, therefore, on the mechanism of an ordinary volcanic
+eruption, we may suppose that large subterranean cavities exist at the
+depth of some miles below the surface of the earth, in which melted
+lava accumulates; and when water containing the usual mixture of air
+penetrates into these, the steam thus generated may press upon the
+lava and force it up the duct of a volcano, in the same manner as a
+column of water is driven up the pipe of a Geyser. In other cases we
+may suppose a continuous column of liquid lava mixed with red-hot
+water (for water may exist in that state, as Professor Bunsen reminds
+us, under pressure), and this column may have a temperature regularly
+increasing downwards. A disturbance of equilibrium may first bring on
+an eruption near the surface, by the expansion and conversion into gas
+of entangled water and other constituents of what we call lava, so as to
+occasion a diminution of pressure. More steam would then be liberated,
+carrying up with it jets of melted rock, which being hurled up into the
+air may fall in showers of ashes on the surrounding country, and at
+length, by the arrival of lava and water more and more heated at the
+orifice of the duct or the crater of the volcano, expansive power may be
+acquired sufficient to expel a massive current of lava. After the eruption
+has ceased, a period of tranquillity succeeds, during which fresh
+accessions of heat are communicated from below, and additional masses
+of rock fused by degrees, while at the same time atmospheric or sea
+water is descending from the surface. At length the conditions required
+for a new outburst are obtained, and another cycle of similar
+changes is renewed.
+Causes of earthquakes—wave-like motion.—I shall now proceed to
+examine the manner in which the heat of the interior may give rise to
+earthquakes. One of the most common phenomena attending subterranean
+movements, is the undulatory motion of the ground. And this,
+says Michell, will seem less extraordinary, if we call to mind the extreme
+elasticity of the earth and the compressibility of even the most solid
+materials. Large districts, he suggests, may rest on fluid lava; and,
+when this is disturbed, its motions may be propagated through the incumbent
+rocks. He also adds the following ingenious speculation:—"As
+a small quantity of vapor almost instantly generated at some considerable
+559
+depth below the surface of the earth will produce a vibratory
+motion, so a very large quantity (whether it be generated almost instantly,
+or in any small portion of time) will produce a wave-like motion.
+The manner in which this wave-like motion will be propagated
+may, in some measure, be represented by the following experiment:—Suppose
+a large cloth, or carpet (spread upon a floor), to be raised at
+one edge, and then suddenly brought down again to the floor; the air
+under it, being by this means propelled, will pass along till it escapes
+at the opposite side, raising the cloth in a wave all the way as it goes.
+In like manner, a large quantity of vapor may be conceived to raise the
+earth in a wave, as it passes along between the strata, which it may
+easily separate in a horizontal direction, there being little or no cohesion
+between one stratum and another. The part of the earth that is first
+raised being bent from its natural form, will endeavor to restore itself
+by its elasticity; and the parts next to it being to have their weight
+supported by the vapor, which will insinuate itself under them, will be
+raised in their turn, till it either finds some vent, or is again condensed
+by the cold into water, and by that means prevented from proceeding
+any farther."782 In a memoir published in 1843, on the structure of the
+Appalachian chain, by the Professors Rogers,783 the following hypothesis
+is proposed as "simpler and more in accordance with dynamical considerations,
+and the recorded observations on earthquakes."—"In
+place," say they, "of supposing it possible for a body of vapor or gaseous
+matter to pass horizontally between the strata, or even between the
+crust and the fluid lava upon which it floats, and with which it must
+be closely entangled, we are inclined to attribute the movement to an
+actual pulsation, engendered in the molten matter itself, by a linear disruption
+under enormous tension, giving vent explosively to elastic vapors,
+escaping either to the surface, or into cavernous spaces beneath. According
+to this supposition, the movement of the subterranean vapors
+would be towards, and not from, the disrupted belt, and the oscillation
+of the crust would originate in the tremendous and sudden disturbance
+of the previous pressure on the surface of the lava mass below, brought
+about by the instantaneous and violent rending of the overlying strata."
+This theory requires us to admit that the crust of the earth is so
+flexible, that it can assume the form, and follow the motion of an undulation
+in the fluid below. Even if we grant this, says Mr. Mallet, another
+more serious objection presents itself, viz. the great velocity attributed
+to the transit of the wave in the subterranean sea of lava. We are called
+upon to admit that the speed of the wave below equals that of the true
+earthquake shock at the surface, which is so immense, that it is not inferior
+to the velocity of sound in the same solids. But the undulation
+in the fluid below must follow the laws of a tidal wave, or of the great
+sea-wave already spoken of. "Its velocity, like that of the tidal wave
+560
+of our seas, will be a function of its length and of the depth of the fluid,
+diminished in this case by certain considerations as to the density and
+degree of viscidity of the liquid; and although it would be at present
+impossible, for want of data, to calculate the exact velocity with which
+this subterraneous lava-wave could move, it may be certainly affirmed
+that its velocity would be immeasurably short of the observed or theoretic
+velocity of the great earth-wave, or true shock in earthquakes."784
+Liquid gases.—The rending and upheaving of continental masses are
+operations which are not difficult to explain, when we are once convinced
+that heat, of sufficient power, not only to melt but to reduce to a gaseous
+form a great variety of substances, is accumulated in certain parts
+of the interior. We see that elastic fluids are capable of projecting solid
+masses to immense heights in the air; and the volcano of Cotopaxi has
+been known to throw out, to the distance of eight or nine miles, a mass
+of rock about one hundred cubic yards in volume. When we observe
+these aeriform fluids rushing out from particular vents for months, or
+even years, continuously, what power may we not expect them to exert
+in other places, where they happen to be confined under an enormous
+weight of rock?
+The experiments of Faraday and others have shown, within the last
+twelve years, that many of the gases, including all those which are most
+copiously disengaged from volcanic vents, as the carbonic, sulphurous,
+and muriatic acids, may be condensed into liquids by pressure. At
+temperatures of from 30° to 50° F., the pressure required for this purpose
+varies from fifteen to fifty atmospheres; and this amount of pressure
+we may regard as very insignificant in the operations of nature. A
+column of Vesuvian lava that would reach from the lip of the crater to
+the level of the sea, must be equal to about three hundred atmospheres;
+so that, at depths which may be termed moderate in the interior of the
+crust of the earth, the gases may be condensed into liquids, even at very
+high temperatures. The method employed to reduce some of these
+gases to a liquid state is, to confine the materials, from the mutual action
+of which they are evolved, in tubes hermetically sealed, so that the accumulated
+pressure of the vapor, as it rises and expands, may force
+some part of it to assume the liquid state. A similar process may, and
+indeed must, frequently take place in subterranean caverns and fissures,
+or even in the pores and cells of many rocks; by which means, a much
+greater store of expansive power may be packed into a small space than
+could happen if these vapors had not the property of becoming liquid.
+For, although the gas occupies much less room in a liquid state, yet it
+exerts exactly the same pressure upon the sides of the containing cavity
+as if it remained in the form of vapor.
+If a tube, whether of glass or other materials, filled with condensed
+gas, have its temperature slightly raised, it will often burst; for a slight
+increment of heat causes the elasticity of the gas to increase in a very
+561
+high ratio. We have only to suppose certain rocks, permeated by these
+liquid gases (as porous strata are sometimes filled with water), to have
+their temperature raised some hundred degrees, and we obtain a power
+capable of lifting superincumbent masses of almost any conceivable thickness;
+while, if the depth at which the gas is confined be great, there is
+no reason to suppose that any other appearances would be witnessed by
+the inhabitants of the surface than vibratory movements and rents, from
+which no vapor might escape. In making their way through fissures a
+very few miles only in length, or in forcing a passage through soft yielding
+strata, the vapors may be cooled and absorbed by water. For water
+has a strong affinity to several of the gases, and will absorb large quantities,
+with a very slight increase of volume. In this manner, the heat
+or the volume of springs may be augmented, and their mineral properties
+made to vary.
+Connection between the state of the atmosphere and earthquakes.—The
+inhabitants of Stromboli, who are mostly fishermen, are said to make
+use of that volcano as a weather-glass, the eruptions being comparatively
+feeble when the sky is serene, but increasing in turbulence during
+tempestuous weather, so that in winter the island often seems to shake
+from its foundations. Mr. P. Scrope, after calling attention to these
+and other analogous facts, first started the idea (as long ago as the year
+1825) that the diminished pressure of the atmosphere, the concomitant
+of stormy weather, may modify the intensity of the volcanic action. He
+suggests that where liquid lava communicates with the surface, as in
+the crater of Stromboli, it may rise or fall in the vent on the same principle
+as mercury in a barometer; because the ebullition or expansive
+power of the steam contained in the lava would be checked by every
+increase, and augmented by every diminution of weight. In like manner,
+if a bed of liquid lava be confined at an immense depth below the
+surface, its expansive force may be counteracted partly by the weight
+of the incumbent rocks, and also in part by atmospheric pressure acting
+contemporaneously on a vast superficial area. In that case, if the upheaving
+force increase gradually in energy, it will at length be restrained
+by only the slightest degree of superiority in the antagonist or repressive
+power, and then the equilibrium may be suddenly destroyed by
+any cause, such as an ascending draught of air, which is capable of
+depressing the barometer. In this manner we may account for the
+remarkable coincidence so frequently observed between the state of the
+weather and subterranean commotions, although it must be admitted
+that earthquakes and volcanic eruptions react in their turn upon the
+atmosphere, so that disturbances of the latter are generally the consequences
+rather than the forerunners of volcanic disturbances.785
+From an elaborate catalogue of the earthquakes experienced in Europe
+and Syria during the last fifteen centuries, M. Alexis Perrey has
+deduced the conclusion that the number which happen in the winter
+562
+season preponderates over those which occur in any one of the other
+seasons of the year, there being, however, some exceptions to this rule,
+as in the Pyrenees. Curious and valuable as are these data, M. d'Archiac
+justly remarks, in commenting upon them, that they are not as
+yet sufficiently extensive or accordant in different regions, to entitle us
+to deduce any general conclusions from them respecting the laws of
+subterranean movements throughout the globe.786
+Permanent elevation and subsidence.—It is easy to conceive that the
+shattered rocks may assume an arched form during a convulsion, so
+that the country above may remain permanently upheaved. In other
+cases gas may drive before it masses of liquid lava, which may thus be
+injected into newly opened fissures. The gas having then obtained
+more room, by the forcing up of the incumbent rocks, may remain at
+rest; while the lava congealing in the rents may afford a solid foundation
+for the newly raised district.
+Experiments have recently been made in America, by Colonel Totten,
+to ascertain the ratio according to which some of the stones commonly
+used in architecture expand with given increments of heat.787 It was
+found impossible, in a country where the annual variation of temperature
+was more than 90° F., to make a coping of stones, five feet in
+length, in which the joints should fit so tightly as not to admit water
+between the stone and the cement; the annual contraction and expansion
+of the stones causing, at the junctions, small crevices, the width of
+which varied with the nature of the rock. It was ascertained that fine-grained
+granite expanded with 1° F. at the rate of ·000004825; while
+crystalline marble ·000005668; and red sandstone ·000009532, or
+about twice as much as granite.
+Now, according to this law of expansion, a mass of sandstone a mile
+in thickness, which should have its temperature raised 200° F., would
+lift a superimposed layer of rock to the height of ten feet above its
+former level. But, suppose a part of the earth's crust, one hundred
+miles in thickness and equally expansive, to have its temperature raised
+600° or 800°, this might produce an elevation of between two and
+three thousand feet. The cooling of the same mass might afterwards
+cause the overlying rocks to sink down again and resume their original
+position. By such agency we might explain the gradual rise of Scandinavia
+or the subsidence of Greenland, if this last phenomenon should
+also be established as a fact on farther inquiry.
+It is also possible that as the clay in Wedgwood's pyrometer contracts,
+by giving off its water, and then, by incipient vitrification; so,
+large masses of argillaceous strata on the earth's interior may shrink,
+when subjected to heat and chemical changes, and allow the incumbent
+rocks to subside gradually.
+Moreover, if we suppose that lava cooling slowly at great depths
+563
+may be converted into various granitic rocks, we obtain another source
+of depression; for, according to the experiments of Deville and the
+calculations of Bischoff, the contraction of granite when passing from a
+melted or plastic to a solid and crystalline state must be more than ten
+per cent.788 The sudden subsidence of land may also be occasioned by
+subterranean caverns giving way, when gases are condensed, or when
+they escape through newly-formed crevices. The subtraction, moreover,
+of matter from certain parts of the interior, by the flowing of lava
+and of mineral springs, must, in the course of ages, cause vacuities
+below, so that the undermined surface may at length fall in.
+The balance of dry land, how preserved.—In the present state of our
+knowledge, we cannot pretend to estimate the average number of earthquakes
+which may happen in the course of a single year. As the area of
+the ocean is nearly three times that of the land, it is probable that about
+three submarine earthquakes may occur for one exclusively continental;
+and when we consider the great frequency of slight movements in certain
+districts, we can hardly suppose that a day, if, indeed, an hour, ever
+passes without one or more shocks being experienced in some part of
+the globe. We have also seen that in Sweden, and other countries,
+changes in the relative level of sea and land may take place without
+commotion, and these perhaps produce the most important geographical
+and geological changes; for the position of land may be altered to a
+greater amount by an elevation or depression of one inch over a vast
+area, than by the sinking of a more limited tract, such as the forest of
+Aripao, to the depth of many fathoms at once.789
+It must be evident, from the historical details above given, that the
+force of subterranean movement, whether intermittent or continuous,
+whether with or without disturbance, does not operate at random, but is
+developed in certain regions only; and although the alterations produced
+during the time required for the occurrence of a few volcanic eruptions
+may be inconsiderable, we can hardly doubt that, during the ages
+necessary for the formation of large volcanic cones, composed of thousands
+of lava currents, shoals might be converted into lofty mountains,
+and low lands into deep seas.
+In a former chapter (p. 198), I have stated that aqueous and igneous
+agents may be regarded as antagonist forces; the aqueous laboring incessantly
+to reduce the inequalities of the earth's surface to a level,
+while the igneous are equally active in renewing the unevenness of the
+surface. By some geologists it has been thought that the levelling power
+of running water was opposed rather to the elevating force of earthquakes
+than to their action generally. This opinion is, however, untenable;
+for the sinking down of the bed of the ocean is one of the
+means by which the gradual submersion of land is prevented. The depth
+of the sea cannot be increased at any one point without a universal fall
+of the waters, nor can any partial deposition of sediment occur without
+564
+the displacement of a quantity of water of equal volume, which will
+raise the sea, though in an imperceptible degree, even to the antipodes.
+The preservation, therefore, of the dry land may sometimes be effected
+by the subsidence of part of the earth's crust (that part, namely, which
+is covered by the ocean), and in like manner an upheaving movement
+must often tend to destroy land; for if it render the bed of the sea more
+shallow, it will displace a certain quantity of water, and thus tend to
+submerge low tracts.
+Astronomers having proved (see above, p. 129) that there has been
+no change in the diameter of the earth during the last two thousand
+years, we may assume it as probable, that the dimensions of the planet
+remain uniform. If, then, we inquire in what manner the force of earthquakes
+must be regulated, in order to restore perpetually the inequalities
+of the surface which the levelling power of water tends to efface, it will
+be found, that the amount of depression must exceed that of elevation.
+It would be otherwise if the action of volcanoes and mineral springs were
+suspended; for then the forcing outwards of the earth's envelope ought
+to be no more than equal to its sinking in.
+To understand this proposition more clearly, it must be borne in mind,
+that the deposits of rivers and currents probably add as much to the
+height of lands which are rising, as they take from those which have
+risen. Suppose a large river to bring down sediment to a part of the
+ocean two thousand feet deep, and that the depth of this part is gradually
+reduced by the accumulation of sediment till only a shoal remains,
+covered by water at high tides; if now an upheaving force should uplift
+this shoal to the height of 2000 feet, the result would be a mountain
+2000 feet high. But had the movement raised the same part of the
+bottom of the sea before the sediment of the river had filled it up; then,
+instead of changing a shoal into a mountain 2000 feet high, it would
+only have converted a deep sea into a shoal.
+It appears, then, that the operations of the earthquake are often such
+as to cause the levelling power of water to counteract itself; and,
+although the idea may appear paradoxical, we may be sure, wherever
+we find hills and mountains composed of stratified deposits, that such
+inequalities of the surface would have had no existence if water, at some
+former period, had not been laboring to reduce the earth's surface to
+one level.
+But, besides the transfer of matter by running water from the continents
+to the ocean, there is a constant transportation from below upwards,
+by mineral springs and volcanic vents. As mountain masses are,
+in the course of ages, created by the pouring forth of successive streams
+of lava, so stratified rocks, of great extent, originate from the deposition
+of carbonate of lime, and other mineral ingredients, with which springs
+are impregnated. The surface of the land, and portions of the bottom
+of the sea, being thus raised, the external accessions due to these operations
+would cause the dimensions of the planet to enlarge continually, if
+the amount of depression of the earth's crust were no more than equal
+565
+to the elevation. In order, therefore, that the mean diameter of the
+earth should remain uniform, and the unevenness of the surface be preserved,
+it is necessary that the amount of subsidence should be in excess.
+And such a predominance of depression is far from improbable,
+on mechanical principles, since every upheaving movement must be
+expected either to produce caverns in the mass below, or to cause some
+diminution of its density. Vacuities must, also, arise from the subtraction
+of the matter poured out from volcanoes and mineral springs,
+or from the contraction of argillaceous masses by subterranean heat;
+and the foundations having been thus weakened, the earth's crust, shaken
+and rent by reiterated convulsions, must, in the course of time, fall in.
+If we embrace these views, important geological consequences will
+follow; since, if there be, upon the whole, more subsidence than elevation,
+the average depth to which former surfaces have sunk beneath
+their original level must exceed the height which ancient marine strata
+have attained above the sea. If, for example, marine strata, about the
+age of our chalk and greensand, have been lifted up in Europe to an extreme
+height of more than eleven thousand feet, and a mean elevation of
+some hundreds, we may conclude that certain parts of the surface, which
+existed when those strata were deposited, have sunk to an extreme depth
+of more than eleven thousand feet below their original level, and to a
+mean depth of more than a few hundreds.
+In regard to faults, also, we must infer, according to the hypothesis
+now proposed, that a greater number have arisen from the sinking down
+than from the elevation of rocks.
+To conclude: it seems to be rendered probable, by the views above
+explained, that the constant repair of the land, and the subserviency of
+our planet to the support of terrestrial as well as aquatic species, are secured
+by the elevating and depressing power of causes acting in the
+interior of the earth; which, although so often the source of death and
+terror to the inhabitants of the globe—visiting in succession every zone,
+and filling the earth with monuments of ruin and disorder—are nevertheless
+the agents of a conservative principle above all others essential to
+the stability of the system.
+
+566
+BOOK III.</div></body></text></TEI>

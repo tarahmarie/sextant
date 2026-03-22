@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 88-91</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 88-91.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1840">undated (estimated from box 165 date range)</date>
+          <note type="place">Ockham</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 88-91</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_88-91.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Ockham Thursday. 3 o'clock</p>
+      <p>My Dearest.-- I am now lying on my dressing-room sofa, having come from my bed an hour ago.</p>
+      <p>Tomorrow I shall be getting about again as usual, &amp; probably driving out.-- Had I not been so quiet, I think the disposition to faintness &amp; exhaustion has</p>
+      <p>been so great this time, that I should have suffered very much indeed.</p>
+      <p>I mean to go to Town on Tuesday, &amp; propose coming out with ou on Thursday afternoon.-- I shall be very careful to arrange not to have so much to do &amp; excite me.-- Write me a letter that I may have in Town when I get there.--</p>
+      <p>My plan for next month, (with ou appro- -bation), is on no account</p>
+      <p>to give out that I shall be in London at all. I go only for three or four days at a time, sometimes leaving you in London &amp; you sometimes coming to Ockham with me for my day or two of airing, &amp; taking care always to call on those I wish to see, the day before going out of London, so that I may say I have only been for two or 3 nights.-- I think we must not move our establishment. I</p>
+      <p>propose that the kitchen-maid should go to remain, &amp; perhaps one man, but no more.-- In this manner let me spend if you like, 5 or 6 weeks, avoiding all excitement for me as much as possible.-- I should then not take even Byron, unless for a day or two.</p>
+      <p>I intend to leave much in the house palpably unfinished &amp; unfurnished, though I have though of many nice things to talk to ou about.-- I am quite vexed that the leather</p>
+      <p>will not do for the invalid sofa, since you so much like it. But at any rate I think that my sitting room sofa, which you know will be of the ordinary kind, should have it.</p>
+      <p>The green &amp; crimson stripe is ordered for the common covers of the back drawing-room.</p>
+      <p>I have not yet made up my mind about a table for my sitting-room, to stand near my sofa. Probably for the moment I shall leave one of those out of</p>
+      <p>the back drawing-room.--</p>
+      <p>I am half tempted eventually to have that beautiful small Japan bird table, to stand in the middle of the room, but there is no hurry for anything of this kind, &amp; I hope ou sees that I am a prudent avis.--</p>
+      <p>Have you yet at all settled how the mate-room is to be furnished? this spring I think we had better only put in a table &amp; side-table, just as a termporary dining apparatus, &amp; perhaps</p>
+      <p>a carpet.--</p>
+      <p>Byron is exceedingly mischievous, &amp; more independent than every. The baby grows more beautiful [double underlined] than ever. I wonder how she will strike you after this absence.-- Dr Locock is anxious to see her, &amp; says he expects to admire her.-- He asked much about the children, and was kind to the avis, whom I think he pitied for being without her mate to fondle her.--</p>
+      <p>She thinks much about ou, &amp; how little she</p>
+      <p>deserves ou tenderness.--</p>
+      <p>Will ou eat her up, when ou sees her again?--</p>
+      <p>She wants to fly into ou neck, &amp; nestle up to ou very much indeed. Ou won't hurt her I think, will ou?--</p>
+      <p>On Saturday I believe a horse is likely to arrive. it is a pity the dingy grey became so lame, for he was beginning to suit me well.--</p>
+    </div></body>
+  </text>
+</TEI>

@@ -1,0 +1,1220 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="36">CHAPTER IV.
+Sequel to the Epoch of Newton,
+continued.—Verification and Completion of the Newtonian
+Theory.
+
+Sect. 1.—Division of the
+Subject.
+THE verification of the Law of
+Universal Gravitation as the governing principle of all cosmical
+phenomena, led, as we have already stated, to a number of different
+lines of research, all long and difficult. Of these we may treat
+successively, the motions of the Moon, of the Sun, of the Planets, of
+the Satellites, of Comets; we may also consider separately the Secular
+Inequalities, which at first sight appear to follow a different law
+from the other changes; we may then speak of the results of the
+principle as they affect this Earth, in its Figure, in the amount of
+Gravity at different places, and in the phenomena of the Tides. Each
+of these subjects has lent its aid to confirm the general law: but in
+each the confirmation has had its peculiar difficulties, and has its
+separate history. Our sketch of this history must be very rapid, for
+our aim is only to show what is the kind and course of the
+confirmation which such a theory demands and receives.
+For the same reason we pass over many events of this period which
+are highly important in the history of astronomy. They have lost much
+of their interest for us, and even for common readers, because they
+are of a class with which we are already familiar, truths included in
+more general truths to which our eyes now most readily turn. Thus, the
+discovery of new satellites and planets is but a repetition of what
+was done by Galileo: the determination of their nodes and apses, the
+reduction of their motions to the law of the ellipse, is but a fresh
+exemplification of the discoveries of Kepler. Otherwise, the formation
+of Tables of the satellites of Jupiter and Saturn, the discovery of
+the eccentricities of the orbits, and of the motions of the nodes and
+apses, by Cassini, Halley, and others, would rank with the great
+achievements in astronomy. Newton’s peculiar advance in the
+Tables of the celestial motions is the introduction of
+Perturbations. To these motions, so affected, we now proceed. 434
+Sect. 2.—Application of the Newtonian Theory to
+the Moon.
+The Motions of the Moon may be first spoken
+of, as the most obvious and the most important of the applications of
+the Newtonian Theory. The verification of such a theory consists, as
+we have seen in previous cases, in the construction of Tables derived
+from the theory, and the comparison of these with observation. The
+advancement of astronomy would alone have been a sufficient motive for
+this labor; but there were other reasons which urged it on with a
+stronger impulse. A perfect Lunar Theory, if the theory could be
+perfected, promised to supply a method of finding the Longitude of any
+place on the earth’s surface; and thus the verification of a theory
+which professed to be complete in its foundations, was identified with
+an object of immediate practical use to navigators and geographers,
+and of vast acknowledged value. A good method for the near discovery
+of the longitude had been estimated by nations and princes at large
+sums of money. The Dutch were willing to tempt Galileo to this task by
+the offer of a chain of gold: Philip the Third of Spain had promised a
+reward for this object still earlier;63 the parliament
+of England, in 1714, proposed a recompense of 20,000l.
+sterling; the Regent Duke of Orléans, two years afterwards, offered
+100,000 francs for the same purpose. These prizes, added to the love
+of truth and of fame, kept this object constantly before the eyes of
+mathematicians, during the first half of the last century.
+63 Del. A. M. i. 39, 66.
+If the Tables could be so constructed as to represent the moon’s
+real place in the heavens with extreme precision, as it would be seen
+from a standard observatory, the observation of her apparent
+place, as seen from any other point of the earth’s surface, would
+enable the observer to find his longitude from the standard point. The
+motions of the moon had hitherto so ill agreed with the best Tables,
+that this method failed altogether. Newton had discovered the ground
+of this want of agreement. He had shown that the same force which
+produces the Evection, Variation, and Annual Equation, must produce
+also a long series of other Inequalities, of various magnitudes and
+cycles, which perpetually drag the moon before or behind the place
+where she would be sought by an astronomer who knew only of those
+principal and notorious inequalities. But to calculate and apply the
+new inequalities, was no slight undertaking. 435
+In the first edition of the Principia in 1687, Newton had
+not given any calculations of new inequalities affecting the longitude
+of the moon. But in David Gregory’s Elements of Physical and
+Geometrical Astronomy, published in 1702, is inserted64 “Newton’s Lunar Theory as applied by
+him to Practice;” in which the great discoverer has given the results
+of his calculations of eight of the lunar Equations, their quantities,
+epochs, and periods. These calculations were for a long period the
+basis of new Tables of the Moon, which were published by various
+persons;65 as by Delisle in 1715 or 1716,
+Grammatici at Ingoldstadt in 1726, Wright in 1732, Angelo Capelli at
+Venice in 1733, Dunthorne at Cambridge in 1739.
+64 P. 332.
+65 Lalande, 1457.
+Flamsteed had given Tables of the Moon upon Horrox’s theory in
+1681, and wished to improve them; and though, as we have seen, he
+would not, or could not, accept Newton’s doctrines in their whole
+extent, Newton communicated his theory to the observer in the shape in
+which he could understand it and use it:66 and Flamsteed
+employed these directions in constructing new Lunar Tables, which he
+called his Theory.67 These Tables were not published till
+long after his death, by Le Monnier at Paris in 1746. They are said,
+by Lalande,68 not to differ much from Halley’s.
+Halley’s Tables of the Moon were printed in 1719 or 1720, but not
+published till after his death in 1749. They had been founded on
+Flamsteed’s observations and his own; and when, in 1720, Halley
+succeeded Flamsteed in the post of Astronomer Royal at Greenwich, and
+conceived that he had the means of much improving what he had done
+before, he began by printing what he had already executed.69
+66 Baily. Account of Flamsteed,
+p. 72.
+67 P. 211.
+68 Lal. 1459.
+69 Mr. Baily* says that Mayer’s
+Nouvelles Tables de la Lune in 1753, published upwards of fifty
+years after Gregory’s Astronomy, may be considered as the first
+lunar tables formed solely on Newton’s principles. Though
+Wright in 1732 published New and Correct Tables of the Lunar
+Motions according to the Newtonian Theory, Newton’s rules were in
+them only partially adopted. In 1735 Leadbetter published his
+Uranoscopia, in which those rules were more fully followed. But
+these Newtonian Tables did not supersede Flamsteed’s Horroxian
+Tables, till both were supplanted by those of Mayer.
+*Supp. p. 702.
+But Halley had long proposed a method, different from that of
+Newton, but marked by great ingenuity, for amending the Lunar Tables.
+He proposed to do this by the use of a cycle, which we have mentioned
+as one of the earliest discoveries in astronomy;—the Period of
+223 lunations, or eighteen years and eleven days, the Chaldean 436 Saros. This period
+was anciently used for predicting the eclipses of the sun and moon;
+for those eclipses which happen during this period, are repeated again
+in the same order, and with nearly the same circumstances, after the
+expiration of one such period and the commencement of a second. The
+reason of this is, that at the end of such a cycle, the moon is in
+nearly the same position with respect to the sun, her nodes, and her
+apogee, as she was at first; and is only a few degrees distant from
+the same part of the heavens. But on the strength of this
+consideration, Halley conjectured that all the irregularities of the
+moon’s motion, however complex they may be, would recur after such an
+interval; and that, therefore, if the requisite corrections were
+determined by observation for one such period, we might by means of
+them give accuracy to the Tables for all succeeding periods. This idea
+occurred to him before he was acquainted with Newton’s views.70 After the lunar theory of the
+Principia had appeared, he could not help seeing that the idea
+was confirmed; for the inequalities of the moon’s motion, which arise
+from the attraction of the sun, will depend on her positions with
+regard to the sun, the apogee, and the node; and therefore, however
+numerous, will recur when these positions recur.
+70 Phil. Trans. 1731, p.
+188.
+Halley announced, in 1691,71 his intention of
+following this idea into practice; in a paper in which he corrected
+the text of three passages in Pliny, in which this period is
+mentioned, and from which it is sometimes called the Plinian period.
+In 1710, in the preface to a new edition to Street’s Caroline
+Tables, he stated that he had already confirmed it to a
+considerable extent.72 And even after Newton’s theory had been
+applied, he still resolved to use his cycle as a means of obtaining
+further accuracy. On succeeding to the Observatory at Greenwich in
+1720, he was further delayed by finding that the instruments had
+belonged to Flamsteed, and were removed by his executors. “And this,”
+he says,73 “was the more grievous to me, on
+account of my advanced age, being then in my sixty-fourth year: which
+put me past all hopes of ever living to see a complete period of
+eighteen years’ observation. But, thanks to God, he has been pleased
+hitherto (in 1731) to afford me sufficient health and strength to
+execute my office, in all its parts, with my own hands and eyes,
+without any assistance or interruption, during one whole period of the
+moon’s 437 apogee,
+which period is performed in somewhat less than nine years.” He found
+the agreement very remarkable, and conceived hopes of attaining the
+great object, of finding the Longitude with the requisite degree of
+exactness; nor did he give up his labors on this subject till he had
+completed his Plinian period in 1739.
+71 Ib. p. 536.
+72 Ib. 1731, p. 187.
+73 Ib. p. 193.
+The accuracy with which Halley conceived himself able to predict
+the moon’s place74 was within two minutes of space, or one
+fifteenth of the breadth of the moon herself. The accuracy required
+for obtaining the national reward was considerably greater. Le Monnier
+pursued the idea of Halley.75 But before Halley’s method had been
+completed, it was superseded by the more direct prosecution of
+Newton’s views.
+74 Phil. Trans. 1731, p.
+195.
+75 Bailly, A. M. c. 131.
+We have already remarked, in the history of analytical mechanics,
+that in the Lunar Theory, considered as one of the cases of the
+Problem of Three Bodies, no advance was made beyond what Newton had
+done, till mathematicians threw aside the Newtonian artifices, and
+applied the newly developed generalizations of the analytical method.
+The first great apparent deficiency in the agreement of the law of
+universal gravitation with astronomical observation, was removed by
+Clairaut’s improved approximation to the theoretical Motion of the
+Moon’s Apogee, in 1750; yet not till it had caused so much
+disquietude, that Clairaut himself had suggested a modification of the
+law of attraction; and it was only in tracing the consequences of this
+suggestion, that he found the Newtonian law of the inverse square to
+be that which, when rightly developed, agreed with the facts. Euler
+solved the problem by the aid of his analysis in 1745,76 and published Tables of the Moon in
+1746. His tables were not very accurate at first;77 but he,
+D’Alembert, and Clairaut, continued to labor at this object, and the
+two latter published Tables of the Moon in 1754.78 Finally, Tobias
+Mayer, an astronomer of Göttingen, having compared Euler’s tables with
+observations, corrected them so successfully, that in 1753 he
+published Tables of the Moon, which really did possess the accuracy
+which Halley only flattered himself that he had attained. Mayer’s
+success in his first Tables encouraged him to make them still more
+perfect. He applied himself to the mechanical theory of the moon’s
+orbit; corrected all the coefficients of the series by a great number
+of observations; and in 1755, sent his new Tables to London as worthy
+to claim the prize offered for the discovery of longitude. He died
+soon after 438 (in
+1762), at the early age of thirty-nine, worn out by his incessant
+labors; and his widow sent to London a copy of his Tables with
+additional corrections. These Tables were committed to Bradley, then
+Astronomer Royal, in order to be compared with observation. Bradley
+labored at this task with unremitting zeal and industry, having
+himself long entertained hopes that the Lunar Method of finding the
+Longitude might be brought into general use. He and his assistant,
+Gael Morris, introduced corrections into Mayer’s Tables of 1755. In
+his report of 1756, he says,79 that he did not
+find any difference so great as a minute and a quarter; and in 1760,
+he adds, that this deviation had been further diminished by his
+corrections. It is not foreign to our purpose to observe the great
+labor which this verification required. Not less than 1220
+observations, and long calculations founded upon each, were employed.
+The accuracy which Mayer’s Tables possessed was considered to entitle
+them to a part of the parliamentary reward; they were printed in 1770,
+and his widow received 3000l. from the English nation. At the
+same time, Euler, whose Tables had been the origin and foundation of
+Mayer’s, also had a recompense of the same amount.
+76 Lal. 1460.
+77 Bradley’s Correspondence.
+78 Lal. 1460.
+79 Bradley’s Mem. p.
+xcviii.
+This public national acknowledgment of the practical accuracy of
+these Tables is, it will be observed, also a solemn recognition of the
+truth of the Newtonian theory, as far as truth can be judged of by men
+acting under the highest official responsibility, and aided by the
+most complete command of the resources of the skill and talents of
+others. The finding the Longitude is thus the seal of the moon’s
+gravitation to the sun and earth; and with this occurrence, therefore,
+our main concern with the history of the Lunar Theory ends. Various
+improvements have been since introduced into this research; but on
+these we, with so many other subjects before us, must forbear to
+enter.
+Sect. 3.—Application of the Newtonian Theory to
+the Planets, Satellites, and Earth.
+The theories of the Planets and Satellites,
+as affected by the law of universal gravitation, and therefore by
+perturbations, were naturally subjects of interest, after the
+promulgation of that law. Some of the effects of the mutual attraction
+of the planets had, indeed, already attracted notice. The inequality
+produced by the mutual attraction of Jupiter and Saturn cannot be
+overlooked by a good observer. In the 439 preface to the second edition of the
+Principia, Cotes remarks,80 that the
+perturbation of Jupiter and Saturn is not unknown to astronomers. In
+Halley’s Tables it was noticed81 that there are
+very great deviations from regularity in these two planets, and these
+deviations are ascribed to the perturbing force of the planets on each
+other; but the correction of these by a suitable equation is left to
+succeeding astronomers.
+80 Preface to Principia, p.
+xxi.
+81 End of Planetary Tables.
+The motion of the planes and apsides of the planetary orbits was
+one of the first results of their mutual perturbation which was
+observed. In 1706, La Hire and Maraldi compared Jupiter with the
+Rudolphine Tables, and those of Bullialdus: it appeared that his
+aphelion had advanced, and that his nodes had regressed. In 1728, J.
+Cassini found that Saturn’s aphelion had in like manner travelled
+forwards. In 1720, when Louville refused to allow in his solar tables
+the motion of the aphelion of the earth, Fontenelle observed that this
+was a misplaced scrupulousness, since the aphelion of Mercury
+certainly advances. Yet this reluctance to admit change and
+irregularity was not yet overcome. When astronomers had found an
+approximate and apparent constancy and regularity, they were willing
+to believe it absolute and exact. In the satellites of Jupiter, for
+instance, they were unwilling to admit even the eccentricity of the
+orbits; and still more, the variation of the nodes, inclinations, and
+apsides. But all the fixedness of these was successively disproved.
+Fontenelle in 1732, on the occasion of Maraldi’s discovery of the
+change of inclination of the fourth satellite, expresses a suspicion
+that all the elements might prove liable to change. “We see,” says he,
+“the constancy of the inclination already shaken in the three first
+satellites, and the eccentricity in the fourth. The immobility of the
+nodes holds out so far, but there are strong indications that it will
+share the same fate.”
+The motions of the nodes and apsides of the satellites are a
+necessary part of the Newtonian theory; and even the Cartesian
+astronomers now required only data, in order to introduce these
+changes into their Tables.
+The complete reformation of the Tables of the Sun, Planets, and
+Satellites, which followed as a natural consequence from the
+revolution which Newton had introduced, was rendered possible by the
+labors of the great constellation of mathematicians of whom we have
+spoken in the last book, Clairaut, Euler, D’Alembert, and their
+successors; and 440
+it was carried into effect in the course of the last century. Thus
+Lalande applied Clairaut’s theory to Mars, as did Mayer; and the
+inequalities in this case, says Bailly82 in 1785, may
+amount to two minutes, and therefore must not be neglected. Lalande
+determined the inequalities of Venus, as did Father Walmesley, an
+English mathematician; these were found to reach only to thirty
+seconds.
+82 Ast. Mod. iii. 170.
+The Planetary Tables83 which were in highest repute, up to the
+end of the last century, were those of Lalande. In these, the
+perturbations of Jupiter and Saturn were introduced, their magnitude
+being such that they cannot be dispensed with; but the Tables of
+Mercury, Venus, and Mars, had no perturbations. Hence these latter
+Tables might be considered as accurate enough to enable the observer
+to find the object, but not to test the theory of perturbations. But
+when the calculation of the mutual disturbances of the planets was
+applied, it was always found that it enabled mathematicians to bring
+the theoretical places to coincide more exactly with those observed.
+In improving, as much as possible, this coincidence, it is necessary
+to determine the mass of each planet; for upon that, according to the
+law of universal gravitation, its disturbing power depends. Thus, in
+1813, Lindenau published Tables of Mercury, and concluded, from them,
+that a considerable increase of the supposed mass of Venus was
+necessary to reconcile theory with observation.84 He had published
+Tables of Venus in 1810, and of Mars in 1811. And, in proving
+Bouvard’s Tables of Jupiter and Saturn, values were obtained of the
+masses of those planets. The form in which the question of the truth
+of the doctrine of universal gravitation now offers itself to the
+minds of astronomers, is this:—that it is taken for granted that
+it will account for the motions of the heavenly bodies, and the
+question is, with what supposed masses it will give the best
+account.85 The continually increasing accuracy of
+the table shows the truth of the fundamental assumption.
+83 Airy, Report on Ast. to Brit.
+Ass. 1832.
+84 Airy, Report on Ast. to Brit.
+Ass.
+1832.
+85 Among the most important
+corrections of the supposed masses of the planets, we may notice that
+of Jupiter, by Professor Airy.  This determination of Jupiter’s mass
+was founded, not on the effect as seen in perturbations, but on a much
+more direct datum, the time of revolution of his fourth satellite. It
+appeared, from this calculation, that Jupiter’s mass required to be
+increased by about 1⁄80th. This result agrees
+with that which has been derived by German astronomers from the
+perturbations which the attractions of Jupiter produce in the four new
+planets, and has been generally adopted as an improvement of the
+elements of our system.
+The question of perturbation is exemplified in the satellites also.
+441 Thus the
+satellites of Jupiter are not only disturbed by the sun, as the moon
+is, but also by each other, as the planets are. This mutual action
+gives rise to some very curious relations among their motions; which,
+like most of the other leading inequalities, were forced upon the
+notice of astronomers by observation before they were obtained by
+mathematical calculation. In Bradley’s remarks upon his own Tables of
+Jupiter’s Satellites, published among Halley’s Tables, he observes
+that the places of the three interior satellites are affected by
+errors which recur in a cycle of 437 days, answering to the time in
+which they return to the same relative position with regard to each
+other, and to the axis of Jupiter’s shadow. Wargentin, who had noticed
+the same circumstance without knowledge of what Bradley had done,
+applied it, with all diligence, to the purpose of improving the tables
+of the satellites in 1746. But, at a later period, Laplace
+established, by mathematical reasoning, the very curious theorem on
+which this cycle depends, which he calls the libration of Jupiter’s
+satellites; and Delambre was then able to publish Tables of
+Jupiter’s Satellites more accurate than those of Wargentin, which he
+did in 1789.86
+86 Voiron, Hist. Ast. p.
+322.
+The progress of physical astronomy from the time of Euler and
+Clairaut, has consisted of a series of calculations and comparisons of
+the most abstruse and recondite kind. The formation of Tables of the
+Planets and Satellites from the theory, required the solution of
+problems much more complex than the original case of the Problem of
+Three Bodies. The real motions of the planets and their orbits are
+rendered still further intricate by this, that all the lines and
+points to which we can refer them, are themselves in motion. The task
+of carrying order and law into this mass of apparent confusion, has
+required a long series of men of transcendent intellectual powers; and
+a perseverance and delicacy of observation, such as we have not the
+smallest example of in any other subject. It is impossible here to
+give any detailed account of these labors; but we may mention one
+instance of the complex considerations which enter into them. The
+nodes of Jupiter’s fourth satellite do not go backwards,87 as the Newtonian theory seems to
+require; they advance upon Jupiter’s orbit. But then, it is to be
+recollected that the theory requires the nodes to retrograde upon the
+orbit of the perturbing body, which is here the third satellite; and
+Lalande showed that, by the necessary relations of space, the latter
+motion may be retrograde though the former is direct.
+87 Bailly, iii. 175.
+442 Attempts
+have been made, from the time of the solution of the Problem of three
+bodies to the present, to give the greatest possible accuracy to the
+Tables of the Sun, by considering the effect of the various
+perturbations to which the earth is subject. Thus, in 1756, Euler
+calculated the effect of the attractions of the planets on the earth
+(the prize-question of the French Academy of Sciences), and Clairaut
+soon after. Lacaille, making use of these results, and of his own
+numerous observations, published Tables of the Sun. In 1786,
+Delambre88 undertook to verify and improve these
+tables, by comparing them with 314 observations made by Maskelyne, at
+Greenwich, in 1775 and 1784, and in some of the intermediate years. He
+corrected most of the elements; but he could not remove the
+uncertainty which occurred respecting the amount of the inequality
+produced by the reaction of the moon. He admitted also, in pursuance
+of Clairaut’s theory, a second term of this inequality depending on
+the moon’s latitude; but irresolutely, and half disposed to reject it
+on the authority of the observations. Succeeding researches of
+mathematicians have shown, that this term is not admissible as a
+result of mechanical principles. Delambre’s Tables, thus improved,
+were exact to seven or eight seconds;89 which was
+thought, and truly, a very close coincidence for the time. But
+astronomers were far from resting content with this. In 1806, the
+French Board of Longitude published Delambre’s improved Solar Tables;
+and in the Connaissance des Tems for 1816, Burckhardt gave the
+results of a comparison of Delambre’s Tables with a great number of
+Maskelyne’s observations;—far greater than the number on which
+they were founded.90 It appeared that the epoch, the
+perigee, and the eccentricity, required sensible alterations, and that
+the mass of Venus ought to be reduced about one-ninth, and that of the
+Moon to be sensibly diminished. In 1827, Professor Airy91 compared Delambre’s tables with 2000
+Greenwich observations, made with the new transit-instrument at
+Cambridge, and deduced from this comparison the correction of the
+elements. These in general agreed closely with Burckhardt’s, excepting
+that a diminution of Mars appeared necessary. Some discordances,
+however, led Professor Airy to suspect the existence of an inequality
+which had escaped the sagacity of Laplace and Burckhardt. And, a few
+weeks after this suspicion had been expressed, the same mathematician
+announced to the Royal Society that he had 443 detected, in the planetary theory such
+an inequality, hitherto unnoticed, arising from the mutual attraction
+of Venus and the Earth. Its whole effect on the earth’s longitude,
+would be to increase or diminish it by nearly three seconds of space,
+and its period is about 240 years. “This term,” he adds, “accounts
+completely for the difference of the secular motions given by the
+comparison of the epochs of 1783 and 1821, and by that of the epochs
+of 1801 and 1821.”
+88 Voiron, Hist. p. 315.
+89 Montucla, iv. 42.
+90 Airy, Report, p. 150.
+91 Phil. Trans. 1828.
+Many excellent Tables of the motions of the sun, moon, and planets,
+were published in the latter part of the last century; but the Bureau
+des Longitudes which was established in France in 1795, endeavored to
+give new or improved tables of most of these motions. Thus were
+produced Delambre’s Tables of the Sun, Burg’s Tables of the Moon,
+Bouvard’s Tables of Jupiter, Saturn, and Uranus. The agreement between
+these and observation is, in general, truly marvellous.
+We may notice here a difference in the mode of referring to
+observation when a theory is first established, and when it is
+afterwards to be confirmed and corrected. It was remarked as a merit
+in the method of Hipparchus, and an evidence of the mathematical
+coherence of his theory, that in order to determine the place of the
+sun’s apogee, and the eccentricity of his orbit, he required to know
+nothing besides the lengths of winter and spring. But if the fewness
+of the requisite data is a beauty in the first fixation of a theory,
+the multitude of observations to which it applies is its excellence
+when it is established; and in correcting Tables, mathematicians take
+far more data than would be requisite to determine the elements. For
+the theory ought to account for all the facts: and since it
+will not do this with mathematical rigor (for observation is not
+perfect), the elements are determined, not so as to satisfy any
+selected observations, but so as to make the whole mass of error as
+small as possible. And thus, in the adaptation of theory to
+observation, even in its most advanced state, there is room for
+sagacity and skill, prudence and judgment.
+In this manner, by selecting the best mean elements of the motions
+of the heavenly bodies, the observed motions deviate from this mean in
+the way the theory points out, and constantly return to it. To this
+general rule, of the constant return to a mean, there are, however,
+some apparent exceptions, of which we shall now speak. ~Additional
+material in the 3rd edition.~ 444
+Sect. 4.—Application of the Newtonian Theory to
+Secular Inequalities.
+Secular Inequalities in the motions of the
+heavenly bodies occur in consequence of changes in the elements of the
+solar system, which go on progressively from age to age. The example
+of such changes which was first studied by astronomers, was the
+Acceleration of the Moon’s Mean Motion, discovered by Halley. The
+observed fact was, that the moon now moves in a very small degree
+quicker than she did in the earlier ages of the world. When this was
+ascertained, the various hypotheses which appeared likely to account
+for the fact were reduced to calculation. The resistance of the medium
+in which the heavenly bodies move was the most obvious of these
+hypotheses. Another, which was for some time dwelt upon by Laplace,
+was the successive transmission of gravity, that is, the hypothesis
+that the gravity of the earth takes a certain finite time to reach the
+moon. But none of these suppositions gave satisfactory conclusions;
+and the strength of Euler, D’Alembert, Lagrange, and Laplace, was for
+a time foiled by this difficulty. At length, in 1787, Laplace
+announced to the Academy that he had discovered the true cause of this
+acceleration, and that it arose from the action of the sun upon the
+moon, combined with the secular variation of the eccentricity of the
+earth’s orbit. It was found that the effects of this combination would
+exactly account for the changes which had hitherto so perplexed
+mathematicians. A very remarkable result of this investigation was,
+that “this Secular Inequality of the motion of the moon is periodical,
+but it requires millions of years to re-establish itself;” so that
+after an almost inconceivable time, the acceleration will become a
+retardation. Laplace some time after (in 1797), announced other
+discoveries, relative to the secular motions of the apogee and the
+nodes of the moon’s orbit. Laplace collected these researches in his
+“Theory of the Moon,” which he published in the third volume of the
+Mécanique Céleste in 1802.
+A similar case occurred with regard to an acceleration of Jupiter’s
+mean motion, and a retardation of Saturn’s, which had been observed by
+Cassini, Maraldi, and Horrox. After several imperfect attempts by
+other mathematicians, Laplace, in 1787, found that there resulted from
+the mutual attraction of these two planets a great Inequality, of
+which the period is 929 years and a half, and which has accelerated
+Jupiter and retarded Saturn ever since the restoration of astronomy.
+445
+Thus the secular inequalities of the celestial motions, like all
+the others, confirm the law of universal gravitation. They are called
+“secular,” because ages are requisite to unfold their existence, and
+because they are not obviously periodical. They might, in some
+measure, be considered as extensions of the Newtonian theory, for
+though Newton’s law accounts for such facts, he did not, so far as we
+know, foresee such a result of it. But on the other hand, they are
+exactly of the same nature as those which he did foresee and
+calculate. And when we call them secular in opposition to
+periodical, it is not that there is any real difference, for
+they, too, have their cycle; but it is that we have assumed our
+mean motion without allowing for these long inequalities. And
+thus, as Laplace observes on this very occasion,92 the lot of this
+great discovery of gravitation is no less than this, that every
+apparent exception becomes a proof, every difficulty a new occasion of
+a triumph. And such, as he truly adds, is the character of a true
+theory,—of a real representation of nature.
+92 Syst. du Monde, 8vo, ii.
+37.
+It is impossible for us here to enumerate even the principal
+objects which have thus filled the triumphal march of the Newtonian
+theory from its outset up to the present time. But among these secular
+changes, we may mention the Diminution of the Obliquity of the
+Ecliptic, which has been going on from the earliest times to the
+present. This change has been explained by theory, and shown to have,
+like all the other changes of the system, a limit, after which the
+diminution will be converted into an increase.
+We may mention here some subjects of a kind somewhat different from
+those just spoken of. The true theoretical quantity of the Precession
+of the Equinoxes, which had been erroneously calculated by Newton, was
+shown by D’Alembert to agree with observation. The constant
+coincidence of the Nodes of the Moon’s Equator with those of her
+Orbit, was proved to result from mechanical principles by Lagrange.
+The curious circumstance that the Time of the Moon’s rotation on her
+axis is equal to the Time of her revolution about the earth, was shown
+to be consistent with the results of the laws of motion by Laplace.
+Laplace also, as we have seen, explained certain remarkable relations
+which constantly connect the longitudes of the three first satellites
+of Jupiter; Bailly and Lagrange analyzed and explained the curious
+librations of the nodes and inclinations of their orbits; and Laplace
+traced the effect of Jupiter’s oblate figure on their motions, 446 which masks the other
+causes of inequality, by determining the direction of the motions of
+the perijove and node of each satellite.
+Sect. 5.—Application of the Newtonian
+Theory to the New Planets.
+We are now so accustomed to consider the
+Newtonian theory as true, that we can hardly imagine to ourselves the
+possibility that those planets which were not discovered when the
+theory was founded, should contradict its doctrines. We can scarcely
+conceive it possible that Uranus or Ceres should have been found to
+violate Kepler’s laws, or to move without suffering perturbations from
+Jupiter and Saturn. Yet if we can suppose men to have had any doubt of
+the exact and universal truth of the doctrine of universal
+gravitation, at the period of these discoveries, they must have
+scrutinized the motions of these new bodies with an interest far more
+lively than that with which we now look for the predicted return of a
+comet. The solid establishment of the Newtonian theory is thus shown
+by the manner in which we take it for granted not only in our
+reasonings, but in our feelings. But though this is so, a short notice
+of the process by which the new planets were brought within the domain
+of the theory may properly find a place here.
+William Herschel, a man of great energy and ingenuity, who had made
+material improvements in reflecting telescopes, observing at Bath on
+the 13th of March, 1781, discovered, in the constellation Gemini, a
+star larger and less luminous than the fixed stars. On the application
+of a more powerful telescope, it was seen magnified, and two days
+afterwards he perceived that it had changed its place. The attention
+of the astronomical world was directed to this new object, and the
+best astronomers in every part of Europe employed themselves in
+following it along the sky.93
+93 Voiron, Hist. Ast. p.
+12.
+The admission of an eighth planet into the long-established list,
+was a notion so foreign to men’s thoughts at that time, that other
+suppositions were first tried. The orbit of the new body was at first
+calculated as if it had been a comet running in a parabolic path. But
+in a few days the star deviated from the course thus assigned it: and
+it was in vain that in order to represent the observations, the
+perihelion distance of the parabola was increased from fourteen to
+eighteen times the earth’s distance from the sun. Saron, of the
+Academy of Sciences of Paris, is said94 to have been the
+first person who perceived that the 447 places were better represented by a
+circle than by a parabola: and Lexell, a celebrated mathematician of
+Petersburg, found that a motion in a circular orbit, with a radius
+double of that of Saturn, would satisfy all the observations. This
+made its period about eighty-two years.
+94 Ibid.
+Lalande soon discovered that the circular motion was subject to a
+sensible inequality: the orbit was, in fact, an ellipse, like those of
+the other planets. To determine the equation of the centre of a body
+which revolves so slowly, would, according to the ancient methods,
+have required many years; but Laplace contrived methods by which the
+elliptical elements were determined from four observations, within
+little more than a year from its first discovery by Herschel. These
+calculations were soon followed by tables of the new planet, published
+by Nouet.
+In order to obtain additional accuracy, it now became necessary to
+take account of the perturbations. The French Academy of Sciences
+proposed, in 1789, the construction of new Tables of this Planet as
+its prize-question. It is a curious illustration of the constantly
+accumulating evidence of the theory, that the calculation of the
+perturbations of the planet enabled astronomers to discover that it
+had been observed as a star in three different positions in former
+times; namely, by Flamsteed in 1690, by Mayer in 1756, and by Le
+Monnier in 1769. Delambre, aided by this discovery and by the theory
+of Laplace, calculated Tables of the planet, which, being compared
+with observation for three years, never deviated from it more than
+seven seconds. The Academy awarded its prize to these Tables, they
+were adopted by the astronomers of Europe, and the planet of Herschel
+now conforms to the laws of attraction, along with those ancient
+members of the known system from which the theory was inferred.
+The history of the discovery of the other new planets, Ceres,
+Pallas, Juno, and Vesta, is nearly similar to that just related,
+except that their planetary character was more readily believed. The
+first of these was discovered on the first day of this century by
+Piazzi, the astronomer at Palermo; but he had only begun to suspect
+its nature, and had not completed his third observation, when his
+labors were suspended by a dangerous illness; and on his recovery the
+star was invisible, being lost in the rays of the sun.
+He declared it to be a planet with an elliptical orbit; but the
+path which it followed, on emerging from the neighborhood of the sun,
+was not that which Piazzi had traced out for it. Its extreme smallness
+made it difficult to rediscover; and the whole of the year 1801 was
+448 employed in
+searching the sky for it in vain. At last, after many trials, Von Zach
+and Olbers again found it, the one on the last day of 1801, the other
+on the first day of 1802. Gauss and Burckhardt immediately used the
+new observations in determining the elements of the orbit; and the
+former invented a new method for the purpose. Ceres now moves in a
+path of which the course and inequalities are known, and can no more
+escape the scrutiny of astronomers.
+The second year of the nineteenth century also produced its planet.
+This was discovered by Dr. Olbers, a physician of Bremen, while he was
+searching for Ceres among the stars of the constellation Virgo. He
+found a star which had a perceptible motion even in the space of two
+hours. It was soon announced as a new planet, and received from its
+discoverer the name of Pallas. As in the case of Ceres, Burckhardt and
+Gauss employed themselves in calculating its orbit. But some peculiar
+difficulties here occurred. Its eccentricity is greater than that of
+any of the old planets, and the inclination of its orbit to the
+ecliptic is not less than thirty-five degrees. These circumstances
+both made its perturbations large, and rendered them difficult to
+calculate. Burckhardt employed the known processes of analysis, but
+they were found insufficient: and the Imperial Institute (as the
+French Academy was termed during the reign of Napoleon) proposed the
+Perturbations of Pallas as a prize-question.
+To these discoveries succeeded others of the same kind. The German
+astronomers agreed to examine the whole of the zone in which Ceres and
+Pallas move; in the hope of finding other planets, fragments, as
+Olbers conceived they might possibly be, of one original mass. In the
+course of this research, Mr. Harding of Lilienthal, on the first of
+September, 1804, found a new star, which he soon was led to consider
+as a planet. Gauss and Burckhardt also calculated the elements of this
+orbit, and the planet was named Juno.
+After this discovery, Olbers sought the sky for additional
+fragments of his planet with extraordinary perseverance. He conceived
+that one of two opposite constellations, the Virgin or the Whale, was
+the place where its separation must have taken place; and where,
+therefore, all the orbits of all the portions must pass. He resolved
+to survey, three times a year, all the small stars in these two
+regions. This undertaking, so curious in its nature, was successful.
+The 29th of March, 1807, he discovered Vesta, which was soon found to
+be a planet. And to show the manner in which Olbers pursued his
+labors, we may state that he afterwards published a notification that
+he had examined the 449 same parts of the heavens with such
+regularity, that he was certain no new planet had passed that way
+between 1808 and 1816. Gauss and Burckhardt computed the orbit of
+Vesta; and when Gauss compared one of his orbits with twenty-two
+observations of M. Bouvard, he found the errors below seventeen
+seconds of space in right ascension, and still less in
+declination.
+The elements of all these orbits have been successively improved,
+and this has been done entirely by the German mathematicians.95 These perturbations are calculated, and
+the places for some time before and after opposition are now given in
+the Berlin Ephemeris. “I have lately observed,” says Professor Airy,
+“and compared with the Berlin Ephemeris, the right ascensions of Juno
+and Vesta, and I find that they are rather more accurate than those of
+Venus:” so complete is the confirmation of the theory by these new
+bodies; so exact are the methods of tracing the theory to its
+consequences.
+95 Airy, Rep. 157.
+We may observe that all these new-discovered bodies have received
+names taken from the ancient mythology. In the case of the first of
+these, astronomers were originally divided; the discoverer himself
+named it the Georgium Sidus, in honor of his patron, George the
+Third; Lalande and others called it Herschel. Nothing can be
+more just than this mode of perpetuating the fame of the author of a
+discovery; but it was felt to be ungraceful to violate the homogeneity
+of the ancient system of names. Astronomers tried to find for the
+hitherto neglected denizen of the skies, an appropriate place among
+the deities to whose assembly he was at last admitted; and
+Uranus, the father of Saturn, was fixed upon as best suiting
+the order of the course.
+The mythological nomenclature of planets appeared, from this time,
+to be generally agreed to. Piazzi termed his Ceres Ferdinandea.
+The first term, which contains a happy allusion to Sicily, the country
+of the discovery in modern, and of the goddess in ancient, times, has
+been accepted; the attempt to pay a compliment to royalty out of the
+products of science, in this as in most other cases, has been set
+aside. Pallas, Juno, and Vesta, were named, without any peculiar
+propriety of selection, according to the choice of their discoverers.
+~Additional material in the 3rd edition.~
+Sect. 6.—Application of the Newtonian Theory to
+Comets.
+A few words must be said upon another class
+of bodies, which at first seemed as lawless as the clouds and winds;
+and which astronomy 450 has reduced to a regularity as complete
+as that of the sun;—upon Comets. No part of the Newtonian
+discoveries excited a more intense interest than this. These anomalous
+visitants were anciently gazed at with wonder and alarm; and might
+still, as in former times, be accused of “perplexing nations,” though
+with very different fears and questionings. The conjecture that they,
+too, obeyed the law of universal gravitation, was to be verified by
+showing that they described a curve such as that force would produce.
+Hevelius, who was a most diligent observer of these objects, had,
+without reference to gravitation, satisfied himself that they moved in
+parabolas.96 To determine the elements of the
+parabola from observations, even Newton called97 “problema longe
+difficillimum.” Newton determined the orbit of the comet of 1680 by
+certain graphical methods. His methods supposed the orbit to be a
+parabola, and satisfactorily represented the motion in the visible
+part of the comet’s path. But this method did not apply to the
+possible return of the wandering star. Halley has the glory of having
+first detected a periodical comet, in the case of that which has since
+borne his name. But this great discovery was not made without labor.
+In 1705, Halley98 explained how the parabolic orbit of a
+planet may be determined from three observations; and, joining example
+to precept, himself calculated the positions and orbits of twenty-four
+comets. He found, as the reward of this industry, that the comets of
+1607 and of 1531 had the same orbit as that of 1682. And here the
+intervals are also nearly the same, namely, about seventy-five years.
+Are the three comets then identical? In looking back into the history
+of such appearances, he found comets recorded in 1456, in 1380, and in
+1305; the intervals are still the same, seventy-five or seventy-six
+years. It was impossible now to doubt that they were the periods of a
+revolving body; that the comet was a planet; its orbit a long ellipse,
+not a parabola.99
+96 Bailly, ii. 246.
+97 Principia, ed. 1. p.
+494.
+98 Bailly, ii. 646.
+99 The importance of Halley’s labors
+on Comets has always been acknowledged. In speaking of Halley’s
+Synopsis Astronomicæ Cometicæ, Delambre says (Ast.
+xviii. Siècle, p. 130), “Voilà bien, depuis Kepler, ce qu’on a
+fait de plus grand, de plus beau, de plus neuf en astronomie.” Halley,
+in predicting the comet of 1758, says, if it returns, “Hoc primum ab
+homine Anglo iuventum fuisse non inficiabitur æqua posteritas.”
+But if this were so, the Comet must reappear in 1758 or 1759.
+Halley predicted that it would do so; and the fulfilment of this
+prediction was naturally looked forwards to, as an additional stamp of
+the truths of the theory of gravitation. 451
+But in all this, the Comet had been supposed to be affected only by
+the attraction of the sun. The planets must disturb its motion as they
+disturb each other. How would this disturbance affect the time and
+circumstances of its reappearance? Halley had proposed, but not
+attempted to solve, this question.
+The effect of perturbations upon a comet defeats all known methods
+of approximation, and requires immense labor. “Clairaut,” says
+Bailly,100 “undertook this: with courage enough
+to dare the adventure, he had talent enough to obtain a memorable
+victory;” the difficulties, the labors, grew upon him as he advanced,
+but he fought his way through them, assisted by Lalande, and by a
+female calculator, Madame Lepaute. He predicted that the comet would
+reach its perihelion April 13, 1759, but claimed the license of a
+month for the inevitable inaccuracy of a calculation which, in
+addition to all other sources of error, was made in haste, that it
+might appear as a prediction. The comet justified his calculations and
+his caution together; for it arrived at its perihelion on the 13th of
+March.
+100 Bailly, A. M. iii.
+190.
+Two other Comets, of much shorter period, have been detected of
+late years; Encke’s, which revolves round the sun in three years and
+one-third, and Biela’s which describes an ellipse, not extremely
+eccentric, in six years and three-quarters. These bodies, apparently
+thin and vaporous masses, like other comets, have, since their orbits
+were calculated, punctually conformed to the law of gravitation. If it
+were still doubtful whether the more conspicuous comets do so, these
+bodies would tend to prove the fact, by showing it to be true in an
+intermediate case.
+[2d Ed.] [A third Comet of short period was discovered by Faye, at
+the Observatory of Paris, Nov. 22, 1843. It is included between the
+orbits of Mars and Saturn, and its period is seven years and
+three-tenths.
+This is commonly called Faye’s Comet, as the two mentioned
+in the text are called Encke’s and Biela’s. In the
+former edition I had expressed my assent to the rule proposed by M.
+Arago, that the latter ought to be called Gambart’s Comet, in
+honor of the astronomer who first proved it to revolve round the Sun.
+But astronomers in general have used the former name, considering that
+the discovery and observation of the object are more distinct and
+conspicuous merits than a calculation founded upon the observations of
+others. And in reality 452 Biela had great merit in the discovery
+of his Comet’s periodicity, having set about his search of it from an
+anticipation of its return founded upon former observations.
+Also a Comet was discovered by De Vico at Rome on Aug. 22, 1844,
+which was found to describe an elliptical orbit having its aphelion
+near the orbit of Jupiter, which is consequently one of those of short
+period. And on Feb. 26, 1846, M. Brorsen of Kiel discovered a
+telescopic Comet whose orbit is found to be elliptical.]
+We may add to the history of Comets, that of Lexell’s, which, in
+1770, appeared to be revolving in a period of about five years, and
+whose motion was predicted accordingly. The prediction was
+disappointed; but the failure was sufficiently explained by the
+comet’s having passed close to Jupiter, by which occurrence its orbit
+was utterly deranged.
+It results from the theory of universal gravitation, that Comets
+are collections of extremely attenuated matter. Lexell’s is supposed
+to have passed twice (in 1767 and 1779) through the system of
+Jupiter’s Satellites, without disturbing their motions, though
+suffering itself so great a disturbance as to have its orbit entirely
+altered. The same result is still more decidedly proved by the last
+appearance of Biela’s Comet. It appeared double, but the two bodies
+did not perceptibly affect each other’s motions, as I am informed by
+Professor Challis of Cambridge, who observed both of them from Jan. 23
+to Mar. 25, 1846. This proves the quantity of matter in each body to
+have been exceedingly small.
+Thus, no verification of the Newtonian theory, which was possible
+in the motions of the stars, has yet been wanting. The return of
+Halley’s Comet again in 1835, and the extreme exactitude with which it
+conformed to its predicted course, is a testimony of truth, which must
+appear striking even to the most incurious respecting such matters.101
+101 M. de Humboldt (Kosmos, p.
+116) speaks of nine returns of Halley’s Comet, the comet
+observed in China in 1378 being identified with this. But whether we
+take 1378 or 1380 for the appearance in that century, if we begin with
+that, we have only seven appearances, namely, in 1378 or
+1380, in 1456, in 1531, in 1607, in 1682, in 1759, and in 1835.
+Sect. 7.—Application of the Newtonian
+Theory to the Figure of the Earth.
+The Heavens had thus been consulted
+respecting the Newtonian doctrine, and the answer given, over and over
+again, in a thousand 453 different forms, had been, that it was
+true; nor had the most persevering cross-examination been able to
+establish any thing of contradiction or prevarication. The same
+question was also to be put to the Earth and the Ocean, and we must
+briefly notice the result.
+According to the Newtonian principles, the form of the earth must
+be a globe somewhat flattened at the poles. This conclusion, or at
+least the amount of the flattening, depends not only upon the
+existence and law of attraction, but upon its belonging to each
+particle of the mass separately; and thus the experimental
+confirmation of the form asserted from calculation, would be a
+verification of the theory in its widest sense. The application of
+such a test was the more necessary to the interests of science,
+inasmuch as the French astronomers had collected from their measures,
+and had connected with their Cartesian system, the opinion that the
+earth was not oblate but oblong. Dominic Cassini had
+measured seven degrees of latitude from Amiens to Perpignan, in 1701,
+and found them to decrease in going from south to north. The
+prolongation of this measure to Dunkirk confirmed the same result. But
+if the Newtonian doctrine was true, the contrary ought to be the case,
+and the degrees ought to increase in proceeding towards the pole.
+The only answer which the Newtonians could at this time make to the
+difficulty thus presented, was, that an arc so short as that thus
+measured, was not to be depended upon for the determination of such a
+question; inasmuch as the inevitable errors of observation might
+exceed the differences which were the object of research. It would,
+undoubtedly, have become the English to have given a more complete
+answer, by executing measurements under circumstances not liable to
+this uncertainty. The glory of doing this, however, they for a long
+time abandoned to other nations. The French undertook the task with
+great spirit.102 In 1733, in one of the meetings of the
+French Academy, when this question was discussed, De la Condamine, an
+ardent and eager man, proposed to settle this question by sending
+members of the Academy to measure a degree of the meridian near the
+equator, in order to compare it with the French degrees, and offered
+himself for the expedition. Maupertuis, in like manner, urged the
+necessity of another expedition to measure a degree in the
+neighborhood of the pole. The government received the applications
+favorably, and these remarkable scientific missions were sent out at
+the national expense.
+102 Bailly, iii. 11.
+454 As soon as
+the result of these measurements was known, there was no longer any
+doubt as to the fact of the earth’s oblateness, and the question only
+turned upon its quantity. Even before the return of the academicians,
+the Cassinis and Lacaille had measured the French arc, and found
+errors which subverted the former result, making the earth oblate to
+the amount of 1⁄168th of its diameter. The
+expeditions to Peru and to Lapland had to struggle with difficulties
+in the execution of their design, which make their narratives resemble
+some romantic history of irregular warfare, rather than the monotonous
+records of mere measurements. The equatorial degree employed the
+observers not less than eight years. When they did return, and the
+results were compared, their discrepancy, as to quantity, was
+considerable. The comparison of the Peruvian and French arcs gave an
+ellipticity of nearly 1⁄314th, that of the Peruvian
+and Swedish arcs gave 1⁄213th for its value.
+Newton had deduced from his theory, by reasonings of singular
+ingenuity, an ellipticity of 1⁄230th; but this result had
+been obtained by supposing the earth homogeneous. If the earth be, as
+we should most readily conjecture it to be, more dense in its interior
+than at its exterior, its ellipticity will be less than that of a
+homogeneous spheroid revolving in the same time. It does not appear
+that Newton was aware of this; but Clairaut, in 1743, in his Figure
+of the Earth, proved this and many other important results of the
+attraction of the particles. Especially he established that, in
+proportion as the fraction expressing the Ellipticity becomes smaller,
+that expressing the Excess of the polar over the equatorial gravity
+becomes larger; and he thus connected the measures of the ellipticity
+obtained by means of Degrees, with those obtained by means of
+Pendulums in different latitudes.
+The altered rate of a Pendulum when carried towards the equator,
+had been long ago observed by Richer and Halley, and had been quoted
+by Newton as confirmatory of his theory. Pendulums were swung by the
+academicians who measured the degrees, and confirmed the general
+character of the results.
+But having reached this point of the verification of the Newtonian
+theory, any additional step becomes more difficult. Many excellent
+measures, both of Degrees and of Pendulums, have been made since those
+just mentioned. The results of the Arcs103 is an
+Ellipticity of 1⁄298th;—of the
+Pendulums, an Ellipticity of about 1⁄285th. This difference 455 is considerable, if
+compared with the quantities themselves; but does not throw a shadow
+of doubt on the truth of the theory. Indeed, the observations of each
+kind exhibit irregularities which we may easily account for, by
+ascribing them to the unknown distribution of the denser portions of
+the earth; but which preclude the extreme of accuracy and certainty in
+our result.
+103 Airy, Fig. Earth, p.
+230.
+But the near agreement of the determination, from Degrees and from
+Pendulums, is not the only coincidence by which the doctrine is
+confirmed. We can trace the effect of the earth’s Oblateness in
+certain minute apparent motions of the stars; for the attraction of
+the sun and moon on the protuberant matter of the spheroid produces
+the Precession of the equinoxes, and a Nutation of the earth’s axis.
+The Precession had been known from the time of Hipparchus, and the
+existence of Nutation was foreseen by Newton; but the quantity is so
+small, that it required consummate skill and great labor in Bradley to
+detect it by astronomical observation. Being, however, so detected,
+its amount, as well as that of the Precession, gives us the means of
+determining the amount of Terrestrial Ellipticity, by which the effect
+is produced. But it is found, upon calculation, that we cannot obtain
+this determination without assuming some law of density in the
+homogeneous strata of which we suppose the earth to consist104 The density will certainly increase in
+proceeding towards the centre, and there is a simple and probable law
+of this increase, which will give 1⁄300th for the Ellipticity,
+from the amount of two lunar Inequalities (one in latitude and one in
+longitude), which are produced by the earth’s oblateness. Nearly the
+same result follows from the quantity of Nutation. Thus every thing
+tends to convince us that the ellipticity cannot deviate much from
+this fraction.
+104 Airy, Fig. Earth, p.
+235.
+[2d Ed.] [I ought not to omit another class of phenomena in which
+the effects of the Earth’s Oblateness, acting according to the law of
+universal gravitation, have manifested themselves;—I speak of
+the Moon’s Motion, as affected by the Earth’s Ellipticity. In this
+case, as in most others, observation anticipated theory. Mason had
+inferred from lunar observations a certain Inequality in Longitude,
+depending upon the distance of the Moon’s Node from the Equinox.
+Doubts were entertained by astronomers whether this inequality really
+existed; but Laplace showed that such an inequality would arise from
+the oblate form of the earth; and that its magnitude might serve to
+456 determine the
+amount of the oblateness. Laplace showed, at the same time, that along
+with this Inequality in Longitude there must be an Inequality in
+Latitude; and this assertion Burg confirmed by the discussion of
+observations. The two Inequalities, as shown in the observations,
+agree in assigning to the earth’s form an Ellipticity of 1⁄305th.]
+Sect. 8.—Confirmation of the Newtonian Theory by
+Experiments on Attraction.
+The attraction of all the parts of the
+earth to one another was thus proved by experiments, in which the
+whole mass of the earth is concerned. But attempts have also been made
+to measure the attraction of smaller portions; as mountains, or
+artificial masses. This is an experiment of great difficulty; for the
+attraction of such masses must be compared with that of the earth, of
+which it is a scarcely perceptible fraction; and, moreover, in the
+case of mountains, the effect of the mountain will be modified or
+disguised by unknown or unappreciable circumstances. In many of the
+measurements of degrees, indications of the attraction of mountains
+had been perceived; but at the suggestion of Maskelyne, the experiment
+was carefully made, in 1774, upon the mountain Schehallien, in
+Scotland, the mountain being mineralogically surveyed by Playfair. The
+result obtained was, that the attraction of the mountain drew the
+plumb-line about six seconds from the vertical; and it was deduced
+from this, by Hutton’s calculations, that the density of the earth was
+about once and four-fifths that of Schehallien, or four and a half
+times that of water.
+Cavendish, who had suggested many of the artifices in this
+calculation, himself made the experiment in the other form, by using
+leaden balls, about nine inches diameter. This observation was
+conducted with an extreme degree of ingenuity and delicacy, which
+could alone make it valuable; and the result agreed very nearly with
+that of the Schehallien experiment, giving for the density of the
+earth about five and one-third times that of water. Nearly the same
+result was obtained by Carlini, in 1824, from observations of the
+pendulum, made at a point of the Alps (the Hospice, on Mount Cenis) at
+a considerable elevation above the average surface of the earth.
+~Additional material in the 3rd edition.~ 457
+Sect. 9.—Application of the Newtonian Theory to
+the Tides.
+We come, finally, to that result, in which
+most remains to be done for the verification of the general law of
+attraction—the subject of the Tides. Yet, even here, the
+verification is striking, as far as observations have been carried.
+Newton’s theory explained, with singular felicity, all the prominent
+circumstances of the tides then known;—the difference of spring
+and neap tides; the effect of the moon’s and sun’s declination and
+parallax; even the difference of morning and evening tides, and the
+anomalous tides of particular places. About, and after, this time,
+attempts were made both by the Royal Society of England, and by the
+French Academy, to collect numerous observations  but these were not
+followed up with sufficient perseverance. Perhaps, indeed, the theory
+had not been at that time sufficiently developed  but the admirable
+prize-essays of Euler, Bernoulli, and D’Alembert, in 1740, removed, in
+a great measure, this deficiency. These dissertations supplied the
+means of bringing this subject to the same test to which all the other
+consequences of gravitation had been subjected;—namely, the
+calculation of tables, and the continued and orderly comparison of
+these with observation. Laplace has attempted this verification in
+another way, by calculating the results of the theory (which he has
+done with an extraordinary command of analysis), and then by comparing
+these, in supposed critical cases, with the Brest observations. This
+method has confirmed the theory as far as it could do so; but such a
+process cannot supersede the necessity of applying the proper
+criterion of truth in such cases, the construction and verification of
+Tables. Bernoulli’s theory, on the other hand, has been used for the
+construction of Tide-tables; but these have not been properly compared
+with experiment; and when the comparison has been made, having been
+executed for purposes of gain rather than of science, it has not been
+published, and cannot be quoted as a verification of the theory.
+Thus we have, as yet, no sufficient comparison of fact with theory,
+for Laplace’s is far from a complete comparison. In this, as in other
+parts of physical astronomy, our theory ought not only to agree with
+observations selected and grouped in a particular manner, but with the
+whole course of observation, and with every part of the phenomena. In
+this, as in other cases, the true theory should be verified by its
+giving us the best Tables; but Tide-tables were never, I believe,
+458 calculated upon
+Laplace’s theory, and thus it was never fairly brought to the
+test.
+It is, perhaps, remarkable, considering all the experience which
+astronomy had furnished, that men should have expected to reach the
+completion of this branch of science by improving the mathematical
+theory, without, at the same time, ascertaining the laws of the facts.
+In all other departments of astronomy, as, for instance, in the cases
+of the moon and the planets, the leading features of the phenomena had
+been made out empirically, before the theory explained them. The
+course which analogy would have recommended for the cultivation of our
+knowledge of the tides, would have been, to ascertain, by an analysis
+of long series of observations, the effect of changes in the time of
+transit, parallax, and declination of the moon, and thus to obtain the
+laws of phenomena  and then proceed to investigate the laws of
+causation.
+Though this was not the course followed by mathematical theorists,
+it was really pursued by those who practically calculated Tide-tables;
+and the application of knowledge to the useful purposes of life being
+thus separated from the promotion of the theory, was naturally treated
+as a gainful property, and preserved by secrecy. Art, in this
+instance, having cast off her legitimate subordination to Science, or
+rather, being deprived of the guidance which it was the duty of
+Science to afford, resumed her ancient practices of exclusiveness and
+mystery. Liverpool, London, and other places, had their Tide-tables,
+constructed by undivulged methods, which methods, in some instances at
+least, were handed down from father to son for several generations as
+a family possession; and the publication of new Tables, accompanied by
+a statement of the mode of calculation, was resented as an
+infringement of the rights of property.
+The mode in which these secret methods were invented, was that
+which we have pointed out;—the analysis of a considerable series
+of observations. Probably the best example of this was afforded by the
+Liverpool Tide-tables. These were deduced by a clergyman named Holden,
+from observations made at that port by a harbor-master of the name of
+Hutchinson; who was led, by a love of such pursuits, to observe the
+tides carefully for above twenty years, day and night. Holden’s
+Tables, founded on four years of these observations, were remarkably
+accurate.
+At length men of science began to perceive that such calculations
+were part of their business; and that they were called upon, as the
+459 guardians of
+the established theory of the universe, to compare it in the greatest
+possible detail with the facts. Mr. Lubbock was the first
+mathematician who undertook the extensive labors which such a
+conviction suggested. Finding that regular tide-observations had been
+made at the London Docks from 1795, he took nineteen years of these
+(purposely selecting the length of a cycle of the motions of the lunar
+orbit), and caused them (in 1831) to be analyzed by Mr. Dessiou, an
+expert calculator. He thus obtained105 Tables for the
+effect of the Moon’s Declination, Parallax, and hour of Transit, on
+the tides; and was enabled to produce Tide-tables founded upon the
+data thus obtained. Some mistakes in these as first published
+(mistakes unimportant as to the theoretical value of the work), served
+to show the jealousy of the practical tide-table calculators, by the
+acrimony with which the oversights were dwelt upon; but in a very few
+years, the tables thus produced by an open and scientific process were
+more exact than those which resulted from any of the secrets; and thus
+practice was brought into its proper subordination to theory.
+105 Phil. Trans. 1831.
+British Almanac, 1832.
+The theory with which Mr. Lubbock was led to compare his results,
+was the Equilibrium-theory of Daniel Bernoulli; and it was found that
+this theory, with certain modifications of its elements, represented
+the facts to a remarkable degree of precision. Mr. Lubbock pointed out
+this agreement especially in the semi-mensual inequality of the times
+of high water. The like agreement was afterwards (in 1833) shown by
+Mr. Whewell106 to obtain still more accurately at
+Liverpool, both for the Times and Heights; for by this time, nineteen
+years of Hutchinson’s Liverpool Observations had also been discussed
+by Mr. Lubbock. The other inequalities of the Times and Heights
+(depending upon the Declination and Parallax of the Moon and Sun,)
+were variously compared with the Equilibrium-theory by Mr. Lubbock and
+Mr. Whewell; and the general result was, that the facts agreed with
+the condition of equilibrium at a certain anterior time, but that this
+anterior time was different for different phenomena. In like manner it
+appeared to follow from these researches, that in order to explain the
+facts, the mass of the moon must be supposed different in the
+calculation at different places. A result in effect the same was
+obtained by M. Daussy,107 an active French Hydrographer; for he
+found that observations at various stations could not be reconciled
+with the formulæ of Laplace’s Mécanique 460 Céleste (in
+which the ratio of the heights of spring-tides and neap-tides was
+computed on an assumed mass of the moon) without an alteration of
+level which was, in fact, equivalent to an alteration of the moon’s
+mass. Thus all things appeared to tend to show that the
+Equilibrium-theory would give the formulæ for the
+inequalities of the tides, but that the magnitudes which
+enter into these formulæ must be sought from observation.
+106 Phil. Trans. 1834.
+107 Connaissance des Tems,
+1838.
+Whether this result is consistent with theory, is a question not so
+much of Physical Astronomy as of Hydrodynamics, and has not yet been
+solved. A Theory of the Tides which should include in its conditions
+the phenomena of Derivative Tides, and of their combinations, will
+probably require all the resources of the mathematical
+mechanician.
+As a contribution of empirical materials to the treatment of this
+hydrodynamical problem, it may be allowable to mention here Mr.
+Whewell’s attempts to trace the progress of the tide into all the seas
+of the globe, by drawing on maps of the ocean what he calls Cotidal
+Lines;—lines marking the contemporaneous position of the
+various points of the great wave which carries high water from shore
+to shore.108 This is necessarily a task of labor
+and difficulty, since it requires us to know the time of high water on
+the same day in every part of the world; but in proportion as it is
+completed, it supplies steps between our general view of the movements
+of the ocean and the phenomena of particular ports.
+108 Essay towards a First
+Approximation to a Map of Cotidal Lines. Phil. Trans. 1833,
+1836.
+Looking at this subject by the light which the example of the
+history of astronomy affords, we may venture to repeat, that it will
+never have justice done it till it is treated as other parts of
+astronomy are treated; that is, till Tables of all the phenomena which
+can be observed, are calculated by means of the best knowledge which
+we at present possess, and till these tables are constantly improved
+by a comparison of the predicted with the observed fact. A set of
+Tide-observations and Tide-ephemerides of this kind, would soon give
+to this subject that precision which marks the other parts of
+astronomy; and would leave an assemblage of unexplained residual
+phenomena, in which a careful research might find the materials of
+other truths as yet unsuspected.
+[2d Ed.] [That there would be, in the tidal movements of the ocean,
+inequalities of the heights and times of high and low water 461
+corresponding to those which the equilibrium theory gives,
+could be considered only as a conjecture, till the comparison with
+observation was made. It was, however, a natural conjecture; since the
+waters of the ocean are at every moment tending to acquire
+the form assumed in the equilibrium theory: and it may be considered
+likely that the causes which prevent their assuming this form produce
+an effect nearly constant for each place. Whatever be thought of this
+reasoning, the conjecture is confirmed by observation with curious
+exactness. The laws of a great number of the tidal
+phenomena—namely, of the Semi-mensual Inequality of the Heights,
+of the Semi-mensual Inequality of the Times, of the Diurnal
+Inequality, of the effect of the Moon’s Declination, of the effect of
+the Moon’s Parallax—are represented very closely by formulæ
+derived from the equilibrium theory. The hydrodynamical mode of
+treating the subject has not added any thing to the knowledge of the
+laws of the phenomena to which the other view had conducted us.
+We may add, that Laplace’s assumption, that in the moving fluid the
+motions must have a periodicity corresponding to that of the
+forces, is also a conjecture. And though this conjecture may, in some
+cases of the problem, be verified, by substituting the resulting
+expressions in the equations of motion, this cannot be done in the
+actual case, where the revolving motion of the ocean is prevented by
+the intrusion of tracts of land running nearly from pole to pole.
+Yet in Mr. Airy’s Treatise On Tides and Waves (in the
+Encyclopædia Metropolitana) much has been done to bring the
+hydrodynamical theory of oceanic tides into agreement with
+observation. In this admirable work, Mr. Airy has, by peculiar
+artifices, solved problems which come so near the actual cases that
+they may represent them. He has, in this way, deduced the laws of the
+semi-diurnal and the diurnal tide, and the other features of the tides
+which the equilibrium theory in some degree imitates; but he has also,
+taking into account the effect of friction, shown that the actual tide
+may be represented as the tide of an earlier epoch;—that the
+relative mass of the moon and sun, as inferred from the tides, would
+depend upon the depth of the ocean (Art. 455);—with many other
+results remarkably explaining the observed phenomena. He has also
+shown that the relation of the cotidal lines to the tide waves really
+propagated is, in complex cases, very obscure, because different waves
+of different magnitudes, travelling in different directions, may
+coexist, and the cotidal line is the compound result of all these.
+462
+With reference to the Maps of Cotidal Lines, mentioned in
+the text, I may add, that we are as yet destitute of observations
+which should supply the means of drawing such lines on a large scale
+in the Pacific Ocean. Admiral Lütke has however supplied us with some
+valuable materials and remarks on this subject in his Notice sur
+les Marées Périodiques dans le grand Océan Boréal et dans la Mer
+Glaciale; and has drawn them, apparently on sufficient data, in
+the White Sea.] ~Additional material in the 3rd
+edition.~
+</div></body></text></TEI>

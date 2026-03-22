@@ -1,0 +1,267 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Novum Organon Renovatum</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="22">
+CHAPTER VI.
+General Rules for the Construction of the Conception.
+Aphorism XXXVIII.
+The Construction of the Conception very often includes, in
+a great measure, the Determination of the Magnitudes.
+Aphorism XXXIX.
+When a series of progressive numbers is given as the
+result of observation, it may generally be reduced to law by
+combinations of arithmetical and geometrical progressions.
+Aphorism XL.
+A true formula for a progressive series of numbers cannot
+commonly be obtained from a narrow range of observations.
+Aphorism XLI.
+Recurrent series of numbers must, in most cases, be expressed
+by circular formulæ.
+Aphorism XLII.
+The true construction of the conception is frequently suggested
+by some hypothesis; and in these cases, the hypothesis
+may be useful, though containing superfluous parts.
+1. IN
+speaking of the discovery of laws of nature,
+those which depend upon quantity, as number,
+space, and the like, are most prominent and most easily
+conceived, and therefore in speaking of such researches,
+we shall often use language which applies peculiarly to 196
+the cases in which quantities numerically measurable
+are concerned, leaving it for a subsequent task to extend
+our principles to ideas of other kinds.
+Hence we may at present consider the Construction
+of a Conception which shall include and connect the
+facts, as being the construction of a Mathematical Formula,
+coinciding with the numerical expression of the
+facts; and we have to consider how this process can be
+facilitated, it being supposed that we have already before
+us the numerical measures given by observation.
+2. We may remark, however, that the construction
+of the right Formula for any such case, and the determination
+of the Coefficients of such formula, which we
+have spoken of as two separate steps, are in practice
+almost necessarily simultaneous; for the near coincidence
+of the results of the theoretical rule with the
+observed facts confirms at the same time the Formula
+and its Coefficients. In this case also, the mode of
+arriving at truth is to try various hypotheses;—to
+modify the hypotheses so as to approximate to the
+facts, and to multiply the facts so as to test the hypotheses.
+The Independent Variable, and the Formula which
+we would try, being once selected, mathematicians have
+devised certain special and technical processes by which
+the value of the coefficients may be determined. These
+we shall treat of in the next Chapter; but in the mean
+time we may note, in a more general manner, the mode
+in which, in physical researches, the proper formula
+may be obtained.
+3. A person somewhat versed in mathematics, having before
+him a series of numbers, will generally be
+able to devise a formula which approaches near to
+those numbers. If, for instance, the series is constantly
+progressive, he will be able to see whether it
+more nearly resembles an arithmetical or a geometrical
+progression. For example, MM. Dulong and Petit, in
+their investigation of the law of cooling of bodies,
+obtained the following series of measures. A thermometer,
+made hot, was placed in an enclosure of which
+the temperature was 0 degrees, and the rapidity of 197
+cooling of the thermometer was noted for many temperatures.
+It was found that
+For the temperature 240the rapidity of cooling was10·69
+〃220〃8·81
+〃200〃7·40
+〃180〃6·10
+〃160〃4·89
+〃140〃3·88
+and so on. Now this series of numbers manifestly increases
+with greater rapidity as we proceed from the
+lower to the higher parts of the scale. The numbers
+do not, however, form a geometrical series, as we may
+easily ascertain. But if we were to take the differences
+of the successive terms we should find them to be—
+1·88, 1·41, 1·30, 1·21, 1·01, &c.
+and these numbers are very nearly the terms of a geometric
+series. For if we divide each term by the succeeding one,
+we find these numbers,
+1·33, 1·09, 1·07, 1·20, 1·27,
+in which there does not appear to be any constant tendency
+to diminish or increase. And we shall find that
+a geometrical series in which the ratio is 1·165, may be
+made to approach very near to this series, the deviations
+from it being only such as may be accounted for
+by conceiving them as errours of observation. In this
+manner a certain formula26
+is obtained, giving results 198
+which very nearly coincide with the observed facts, as
+may be seen in the margin.
+26
+ The formula is v = 2·037(at − 1) where
+v is the velocity of cooling, t the
+temperature of the thermometer expressed in degrees, and a is the
+quantity, 1·0077.
+ The degree of coincidence is as follows:—
+
+
+Excess of temperature of the thermometer, orvalues  of t.
+Observed valuesof v.
+Calculated valuesof v.
+24010·6910·68
+220 8·81  8·89
+200 7·40  7·34
+180 6·10 6·03
+160 4·89  4·87
+140 3·88 3·89
+120 3·02 3·05
+100 2·30  2·33
+ 80 1·74  1·72
+The physical law expressed by the formula just
+spoken of is this:—that when a body is cooling in an
+empty inclosure which is kept at a constant temperature,
+the quickness of the cooling, for excesses of temperature
+in arithmetical progression, increases as the
+terms of a geometrical progression, diminished by a
+constant number.
+4. In the actual investigation of Dulong and Petit,
+however, the formula was not obtained in precisely the
+manner just described. For the quickness of cooling
+depends upon two elements, the temperature of the hot
+body and the temperature of the inclosure; not merely
+upon the excess of one of these over the other. And
+it was found most convenient, first, to make such experiments
+as should exhibit the dependence of the velocity of cooling
+upon the temperature of the enclosure;
+which dependence is contained in the following law:—The
+quickness of cooling of a thermometer in vacuo
+for a constant excess of temperature, increases in geometric
+progression, when the temperature of the inclosure increases
+in arithmetic progression. From this
+law the preceding one follows by necessary
+consequence27.
+27
+ For if θ be the temperature of the inclosure,
+and t the excess of temperature of the hot body, it appears,
+by this law, that the radiation of heat is as aθ. And hence
+the quickness of cooling, which is as the excess of radiation,
+is as aθ + t − aθ;
+that is, as aθ(at − 1)
+which agrees with the formula given in the last note.
+ The whole of this series of researches of Dulong and Petit is
+full of the most beautiful and instructive artifices for the
+construction of the proper formulæ in physical research.
+This example may serve to show the nature of the
+artifices which may be used for the construction of
+formulæ, when we have a constantly progressive series
+of numbers to represent. We must not only endeavour
+by trial to contrive a formula which will answer the
+conditions, but we must vary our experiments so as to
+determine, first one factor or portion of the formula,
+and then the other; and we must use the most
+199 probable
+hypothesis as means of suggestion for our formulæ.
+5. In a progressive series of numbers, unless the
+formula which we adopt be really that which expresses
+the law of nature, the deviations of the formula from
+the facts will generally become enormous, when the
+experiments are extended into new parts of the scale.
+True formulæ for a progressive series of results can
+hardly ever be obtained from a very limited range of
+experiments: just as the attempt to guess the general
+course of a road or a river, by knowing two or three
+points of it in the neighbourhood of one another, would
+generally fail. In the investigation respecting the
+laws of the cooling of bodies just noticed, one great
+advantage of the course pursued by the experimenters
+was, that their experiments included so great a range
+of temperatures. The attempts to assign the law of
+elasticity of steam deduced from experiments made
+with moderate temperatures, were found to be enormously
+wrong, when very high temperatures were
+made the subject of experiment. It is easy to see that
+this must be so: an arithmetical and a geometrical
+series may nearly coincide for a few terms moderately
+near each other: but if we take remote corresponding
+terms in the two series, one of these will be very many
+times the other. And hence, from a narrow range of
+experiments, we may infer one of these series when we
+ought to infer the other; and thus obtain a law which
+is widely erroneous.
+6. In Astronomy, the series of observations which
+we have to study are, for the most part, not progressive,
+but recurrent. The numbers observed do not go on
+constantly increasing; but after increasing up to a certain
+amount they diminish; then, after a certain space,
+increase again; and so on, changing constantly through
+certain cycles. In cases in which the observed numbers
+are of this kind, the formula which expresses them
+must be a circular function, of some sort or other;
+involving, for instance, sines, tangents, and other forms
+of calculation, which have recurring values when the
+angle on which they depend goes on constantly 200
+increasing. The main business of formal astronomy consists
+in resolving the celestial phenomena into a series
+of terms of this kind, in detecting their arguments, and
+in determining their coefficients.
+7. In constructing the formulæ by which laws of
+nature are expressed, although the first object is to
+assign the Law of the Phenomena, philosophers have,
+in almost all cases, not proceeded in a purely empirical
+manner, to connect the observed numbers by some expression
+of calculation, but have been guided, in the
+selection of their formula, by some Hypothesis
+respecting the mode of connexion of the facts.
+Thus the formula of Dulong and Petit above given was suggested
+by the Theory of Exchanges; the first attempts at the
+resolution of the heavenly motions into circular functions
+were clothed in the hypothesis of Epicycles. And
+this was almost inevitable. ‘We must confess,’ says
+Copernicus28,
+‘that the celestial motions are circular,
+or compounded of several circles, since their inequalities
+observe a fixed law, and recur in value at certain
+intervals, which could not be except they were circular:
+for a circle alone can make that quantity which
+has occurred recur again.’ In like manner the first
+publication of the Law of the Sines, the true formula of
+optical refraction, was accompanied by Descartes with
+an hypothesis, in which an explanation of the law was
+pretended. In such cases, the mere comparison of
+observations may long fail in suggesting the true formulæ.
+The fringes of shadows and other diffracted
+colours were studied in vain by Newton, Grimaldi,
+Comparetti, the elder Herschel, and Mr. Brougham,
+so long as these inquirers attempted merely to trace
+the laws of the facts as they appeared in themselves;
+while Young, Fresnel, Fraunhofer, Schwerdt, and
+others, determined these laws in the most rigorous
+manner, when they applied to the observations the
+Hypothesis of Interferences.
+28
+ De Rev. l. i. c. iv.
+8. But with all the aid that Hypotheses and Calculation
+can afford, the construction of true formulæ, in 201
+those cardinal discoveries by which the progress of
+science has mainly been caused, has been a matter of
+great labour and difficulty, and of good fortune added
+to sagacity. In the History of Science, we have seen
+how long and how hard Kepler laboured, before he
+converted the formula for the planetary motions, from
+an epicyclical combination, to a simple ellipse. The same
+philosopher, labouring with equal zeal and perseverance
+to discover the formula of optical refraction, which
+now appears to us so simple, was utterly foiled. Malus
+sought in vain the formula determining the Angle at
+which a transparent surface polarizes light: Sir D.
+Brewster29,
+with a happy sagacity, discovered
+the formula to be simply this, that the index of refraction is
+the tangent of the angle of polarization.
+29
+ Hist. Ind. Sc. b. ix. c. vi.
+Though we cannot give rules which will be of
+much service when we have thus to divine the general
+form of the relation by which phenomena are connected,
+there are certain methods by which, in a narrower field,
+our investigations may be materially promoted;—certain
+special methods of obtaining laws
+from Observations. Of these we shall now proceed to
+treat.
+</div></body></text></TEI>

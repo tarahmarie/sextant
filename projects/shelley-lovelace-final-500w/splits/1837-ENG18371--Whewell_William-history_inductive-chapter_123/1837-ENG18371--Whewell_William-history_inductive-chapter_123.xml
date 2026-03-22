@@ -1,0 +1,275 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="123">CHAPTER I.
+Discovery of the Organs of Voluntary
+Motion.
+Sect. 1.—Knowledge of Galen and his
+Predecessors.
+IN the earliest conceptions
+which men entertained of their power of moving their own members, they
+probably had no thought of any mechanism or organization by which this
+was effected. The foot and the hand, no less than the head, were seen
+to be endowed with life; and this pervading life seemed sufficiently
+to explain the power of motion in each part of the frame, without its
+being held necessary to seek out a special seat of the will, or
+instruments by which its impulses were made effective. But the
+slightest inspection of dissected animals showed that their limbs were
+formed of a curious and complex collection of cordage, and
+communications of various kinds, running along and connecting the
+bones of the skeleton. These cords and communications we now
+distinguish as muscles, nerves, veins, arteries, &c.; and among
+these, we assign to the muscles the office of moving the parts to
+which they are attached, as cords move the parts of a machine. Though
+this action of the muscles on the bones may now appear very obvious,
+it was, probably, not at first discerned. It is observed that Homer,
+who describes the wounds which are inflicted in his battles with so
+much apparent anatomical precision, nowhere employs the word
+muscle. And even Hippocrates of Cos, the most celebrated
+physician of antiquity, is held to have had no distinct conception of
+such an organ.1 He always employs the word flesh
+when he means muscle, and the first explanation of the latter
+word (μῦς) occurs in a spurious work ascribed to him. For nerves,
+sinews, ligaments,2 he used indiscriminately the same terms;
+(τόνος or νεῦρον;) and of these nerves (νεῦρα) he asserts that they
+contract the limbs. Nor do we find much more distinctness on this
+subject even in Aristotle, a generation or two later. “The origin of
+the νεῦρα,” he says,3 “is from the heart; they connect 439 the bones, and
+surround the joints.” It is clear that he means here the muscles, and
+therefore it is with injustice that he has been accused of the gross
+error of deriving the nerves from the heart. And he is held to have
+really had the merit4 of discovering the nerves of sensation,
+which he calls the “canals of the brain” (πόροι τοῦ ἐγκεφάλου); but
+the analysis of the mechanism of motion is left by him almost
+untouched. Perhaps his want of sound mechanical notions, and his
+constant straining after verbal generalities, and systematic
+classifications of the widest kind, supply the true account of his
+thus missing the solution of one of the simplest problems of
+Anatomy.
+1 Sprengel, Geschichte der
+Arzneikunde, i. 382.
+2 Sprengel, Gesch. Arz. i.
+385.
+3 Hist. Anim. iii. 5.
+4 Ib. i. 456.
+In this, however, as in other subjects, his immediate predecessors
+were far from remedying the deficiencies of his doctrines. Those who
+professed to study physiology and medicine were, for the most part,
+studious only to frame some general system of abstract principles,
+which might give an appearance of connexion and profundity to their
+tenets. In this manner the successors of Hippocrates became a medical
+school, of great note in its day, designated as the Dogmatic
+school;5 in opposition to which arose an
+Empiric sect, who professed to deduce their modes of cure, not
+from theoretical dogmas, but from experience. These rival parties
+prevailed principally in Asia Minor and Egypt, during the time of
+Alexander’s successors,—a period rich in names, but poor in
+discoveries; and we find no clear evidence of any decided advance in
+anatomy, such as we are here attempting to trace.
+5 Sprengel, Gesch. Arz. i.
+583.
+The victories of Lucullus and Pompeius, in Greece and Asia, made
+the Romans acquainted with the Greek philosophy; and the consequence
+soon was, that shoals of philosophers, rhetoricians, poets, and
+physicians6 streamed from Greece, Asia Minor, and
+Egypt, to Rome and Italy, to traffic their knowledge and their arts
+for Roman wealth. Among these, was one person whose name makes a great
+figure in the history of medicine, Asclepiades of Prusa in Bithynia.
+This man appears to have been a quack, with the usual endowments of
+his class;—boldness, singularity, a contemptuous rejection of
+all previously esteemed opinions, a new classification of diseases, a
+new list of medicines, and the assertion of some wonderful cures. He
+would not, on such accounts, deserve a place in the history of
+science, but that he became the founder of a new school, the
+Methodic, which professed to hold itself separate both from the
+Dogmatics and the Empirics.
+6 Sprengel, Gesch. Arz. ii.
+5.
+440 I have
+noticed these schools of medicine, because, though I am not able to
+state distinctly their respective merits in the cultivation of
+anatomy, a great progress in that science was undoubtedly made during
+their domination, of which the praise must, I conceive, be in some way
+divided among them. The amount of this progress we are able to
+estimate, when we come to the works of Galen, who flourished under the
+Antonines, and died about a.d. 203. The
+following passage from his works will show that this progress in
+knowledge was not made without the usual condition of laborious and
+careful experiment, while it implies the curious fact of such
+experiment being conducted by means of family tradition and
+instruction, so as to give rise to a caste of dissectors. In
+the opening of his Second Book On Anatomical Manipulations, he
+speaks thus of his predecessors: “I do not blame the ancients, who did
+not write books on anatomical manipulation; though I praise Marinus,
+who did. For it was superfluous for them to compose such records for
+themselves or others, while they were, from their childhood, exercised
+by their parents in dissecting, just as familiarly as in writing and
+reading; so that there was no more fear of their forgetting their
+anatomy, than of forgetting their alphabet. But when grown men, as
+well as children, were taught, this thorough discipline fell off; and,
+the art being carried out of the family of the Asclepiads, and
+declining by repeated transmission, books became necessary for the
+student.”
+That the general structure of the animal frame, as composed of
+bones and muscles, was known with great accuracy before the time of
+Galen, is manifest from the nature of the mistakes and deficiencies of
+his predecessors which he finds it necessary to notice. Thus he
+observes, that some anatomists have made one muscle into two, from its
+having two heads;—that they have overlooked some of the muscles
+in the face of an ape, in consequence of not skinning the animal with
+their own hands;—and the like. Such remarks imply that the
+current knowledge of this kind was tolerably complete. Galen’s own
+views of the general mechanical structure of an animal are very clear
+and sound. The skeleton, he observes, discharges7 the office of the
+pole of a tent, or the walls of a house. With respect to the action of
+the muscles, his views were anatomically and mechanically correct; in
+some instances, he showed what this action was, by severing the
+muscle.8 He himself added considerably to the
+existing knowledge of 441 this subject; and his discoveries and
+descriptions, even of very minute parts of the muscular system, are
+spoken of with praise by modern anatomists.9
+7 De Anatom. Administ. i.
+2.
+8 Sprengel, ii. 157.
+9 Sprengel, ii. 150.
+We may consider, therefore, that the doctrine of the muscular
+system, as a collection of cords and sheets, by the contraction of
+which the parts of the body are moved and supported, was firmly
+established, and completely followed into detail, by Galen and his
+predecessors. But there is another class of organs connected with
+voluntary motion, the nerves, and we must for a moment trace the
+opinions which prevailed respecting these. Aristotle, as we have said,
+noticed some of the nerves of sensation. But Herophilus, who lived in
+Egypt in the time of the first Ptolemy, distinguished nerves as the
+organs of the will,10 and Rufus, who lived in the time of
+Trajan,11 divides the nerves into sensitive and
+motive, and derives them all from the brain. But this did not imply
+that men had yet distinguished the nerves from the muscles. Even Galen
+maintained that every muscle consists of a bundle of nerves and
+sinews.12 But the important points, the necessity
+of the nerve, and the origination of all this apparatus of motion from
+the brain, he insists upon with great clearness and force. Thus he
+proved the necessity experimentally, by cutting through some of the
+bundles of nerves,13 and thus preventing the corresponding
+motions. And it is, he says,14 allowed by all,
+both physicians and philosophers, that where the origin of the nerve
+is, there the seat of the soul (ἡγημονικὸν τῆς ψυχῆς) must be: now
+this, he adds, is in the brain, and not in the heart.
+10 Ib. i. 534.
+11 Ib. ii. 67.
+12 Ibid. ii. 152. Galen, De Motu
+Musc., p. 553.
+13 Ib. 157.
+14 De Hippocr. et Plat. Dog.
+viii. 1.
+Thus the general construction and arrangement of the organization
+by which voluntary motion is effected, was well made out at the time
+of Galen, and is found distinctly delivered in his works. We cannot,
+perhaps, justly ascribe any large portion of the general discovery to
+him: indeed, the conception of the mechanism of the skeleton and
+muscles was probably so gradually unfolded in the minds of anatomical
+students, that it would be difficult, even if we knew the labors of
+each person, to select one, as peculiarly the author of the discovery.
+But it is clear that all those who did materially contribute to the
+establishment of this doctrine, must have possessed the qualifications
+which we find in Galen for such a task; namely, clear mechanical views
+of what the 442
+tensions of collections of strings could do, and an exact practical
+acquaintance with the muscular cordage which exists in the animal
+frame;—in short, in this as in other instances of real advance
+in science, there must have been clear ideas and real facts, unity of
+thought and extent of observation, brought into contact.
+Sect. 2.—Recognition of Final Causes in
+Physiology. Galen.
+There is one idea which the
+researches of the physiologist and the anatomist so constantly force
+upon him, that he cannot help assuming it as one of the guides of his
+speculations; I mean, the idea of a purpose, or, as it is
+called in Aristotelian phrase, a final cause, in the
+arrangements of the animal frame. It is impossible to doubt that the
+motive nerves run along the limbs, in order that they may
+convey to the muscles the impulses of the will; and that the muscles
+are attached to the bones, in order that they may move and
+support them. This conviction prevails so steadily among anatomists,
+that even when the use of any part is altogether unknown, it is still
+taken for granted that it has some use. The developement of this
+conviction,—of a purpose in the parts of animals,—of a
+function to which each portion of the organization is
+subservient,—contributed greatly to the progress of physiology;
+for it constantly urged men forwards in their researches respecting
+each organ, till some definite view of its purpose was obtained. The
+assumption of hypothetical final causes in Physics may have been, as
+Bacon asserts it to have been, prejudicial to science; but the
+assumption of unknown final causes in Physiology, has given rise to
+the science. The two branches of speculation, Physics and Physiology,
+were equally led, by every new phenomenon, to ask their question,
+“Why?” But, in the former case, “why” meant “through what cause?” in
+the latter, “for what end?” And though it may be possible to introduce
+into physiology the doctrine of efficient causes, such a step can
+never obliterate the obligations which the science owes to the
+pervading conception of a purpose contained in all organization.
+This conception makes its appearance very early. Indeed, without
+any special study of our structure, the thought, that we are fearfully
+and wonderfully made, forces itself upon men, with a mysterious
+impressiveness, as a suggestion of our Maker. In this bearing, the
+thought is developed to a considerable extent in the well-known
+passage in Xenophon’s Conversations of Socrates. Nor did it
+ever lose its hold on sober-minded and instructed men. The Epicureans,
+indeed, 443 held
+that the eye was not made for seeing, nor the ear for hearing; and
+Asclepiades, whom we have already mentioned as an impudent pretender,
+adopted this wild dogma.15 Such assertions required no labor. “It
+is easy,” says Galen,16 “for people like Asclepiades, when they
+come to any difficulty, to say that Nature has worked to no purpose.”
+The great anatomist himself pursues his subject in a very different
+temper. In a well-known passage, he breaks out into an enthusiastic
+scorn of the folly of the atheistical notions.17 “Try,” he says,
+“if you can imagine a shoe made with half the skill which appears in
+the skin of the foot.” Some one had spoken of a structure of the human
+body which he would have preferred to that which it now has. “See,”
+Galen exclaims, after pointing out the absurdity of the imaginary
+scheme, “see what brutishness there is in this wish. But if I were to
+spend more words on such cattle, reasonable men might blame me for
+desecrating my work, which I regard as a religious hymn in honor of
+the Creator.”
+15 Sprengel, ii. 15.
+16 De Usu Part. v. 5, (on the
+kidneys.)
+17 De Usu Part. iii. 10.
+Galen was from the first highly esteemed as an anatomist. He was
+originally of Pergamus; and after receiving the instructions of many
+medical and philosophical professors, and especially of those of
+Alexandria, which was then the metropolis of the learned and
+scientific world, he came to Rome, where his reputation was soon so
+great as to excite the envy and hatred of the Roman physicians. The
+emperors Marcus Aurelius and Lucius Verus would have retained him near
+them; but he preferred pursuing his travels, directed principally by
+curiosity. When he died, he left behind him numerous works, all of
+them of great value for the light they throw on the history of anatomy
+and medicine; and these were for a long period the storehouse of all
+the most important anatomical knowledge which the world possessed. In
+the time of intellectual barrenness and servility, among the Arabians
+and the Europeans of the dark ages, the writings of Galen had almost
+unquestioned authority;18 and it was only by an uncommon effort
+of independent thinking that Abdollatif ventured to assert, that even
+Galen’s assertions must give way to the evidence of the senses. In
+more modern times, when Vesalius, in the sixteenth century, accused
+Galen of mistakes, he drew upon himself the hostility of the whole
+body of physicians. Yet the mistakes were such as might have 444 been pointed out and
+confessed19 without acrimony, if, in times of
+revolution, mildness and moderation were possible; but an impatience
+of the superstition of tradition on the part of the innovators, and an
+alarm of the subversion of all recognized truths on the part of the
+established teachers, inflame and pervert all such discussions.
+Vesalius’s main charge against Galen is, that his dissections were
+performed upon animals, and not upon the human body. Galen himself
+speaks of the dissection of apes as a very familiar employment, and
+states that he killed them by drowning. The natural difficulties
+which, in various ages, have prevented the unlimited prosecution of
+human dissection, operated strongly among the ancients, and it would
+have been difficult, under such circumstances, to proceed more
+judiciously than Galen did.
+18 Sprengel, ii. 359.
+19 Cuv. Leçons sur l’Hist. des Sc.
+Nat. p. 25.
+I shall now proceed to the history of the discovery of another and
+less obvious function, the circulation of the blood, which belongs to
+modern times.
+</div></body></text></TEI>

@@ -1,0 +1,57 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Philosophy of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="26">
+
+BOOK III.
+
+THE PHILOSOPHY OF THE MECHANICAL SCIENCES.
+
+CHAPTER I.
+Of the Mechanical Sciences.
+
+
+In
+the History of the Sciences, that class of which we here
+speak occupies a conspicuous and important place; coming
+into notice immediately after those parts of Astronomy which
+require for their cultivation merely the ideas of space,
+time, motion, and number. It appears from our History, that
+certain truths concerning the equilibrium of bodies
+were established by Archimedes;—that, after a long interval
+of inactivity, his principles were extended and pursued
+further in modern times:—and that to these doctrines
+concerning equilibrium and the forces which produce it,
+(which constitute the science Statics,) were added
+many other doctrines concerning the motions of
+bodies, considered also as produced by forces, and thus the
+science of Dynamics was produced. The assemblage of
+these sciences composes the province of Mechanics.
+Moreover, philosophers have laboured to make out the laws of
+the equilibrium of fluid as well as solid bodies; and
+hence has arisen the science of Hydrostatics. And the
+doctrines of Mechanics have been found to have a most
+remarkable bearing upon the motions of the heavenly bodies;
+with reference to which, indeed, they were at first
+principally studied. The explanation of those cosmical facts
+by means of mechanical 172 principles and their
+consequences, forms the science of Physical
+Astronomy. These are the principal examples of
+mechanical science; although some other portions of Physics,
+as Magnetism and Electrodynamics, introduce mechanical
+doctrines very largely into their speculations.
+Now in all these sciences we have to consider Forces.
+In all mechanical reasonings forces enter, either as
+producing motion, or as prevented from doing so by other
+forces. Thus force, in its most general sense, is the
+cause of motion, or of tendency to motion; and in
+order to discover the principles on which the mechanical
+sciences truly rest, we must examine the nature and origin
+of our knowledge of Causes.
+In these sciences, however, we have not to deal with Cause
+in its more general acceptation, in which it applies to all
+kinds of agency, material or immaterial;—to the influence
+of thought and will, as well as of bodily pressure and
+attractive force. Our business at present is only with such
+causes as immediately operate upon matter. We shall
+nevertheless, in the first place, consider the nature of
+Cause in its most general form; and afterwards narrow our
+speculations so as to direct them specially to the
+mechanical sciences.</div></body></text></TEI>

@@ -1,0 +1,639 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Sketch of the Analytical Engine with Notes by the Translator</title><author>Menabrea, Luigi; Lovelace, Ada</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1843</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="6">
+NOTE D.—Page 15.
+[Pg 41]
+We have represented the solution of these two equations, with every
+detail, in a diagram[23] similar to those used in Note B.; but
+additional explanations are requisite, partly in order to make this
+more complicated case perfectly clear, and partly for the comprehension
+of certain indications and notations not used in the preceding
+diagrams. Those who may wish to understand Note G. completely, are
+recommended to pay particular attention to the contents of the present
+Note, or they will not otherwise comprehend the similar notation and
+indications when applied to a much more complicated case.
+In all calculations, the columns of Variables used may be divided into
+three classes:—
+1st. Those on which the data are inscribed:
+2ndly. Those intended to receive the final results:
+3dly. Those intended to receive such intermediate and temporary
+combinations of the primitive data as are not to be permanently
+retained, but are merely needed for working with, in order to
+attain the ultimate results. Combinations of this kind might properly
+be called secondary data. They are in fact so many successive
+stages towards the final result. The columns which receive them
+are rightly named Working-Variables, for their office is in its
+nature purely subsidiary to other purposes. They develope an
+intermediate and transient class of results, which unite the original
+data with the final results.
+The Result-Variables sometimes partake of the nature of
+Working-Variables. It frequently happens that a Variable destined to
+receive a final result is the recipient of one or more intermediate
+values successively, in the course of the processes. Similarly, the
+Variables for data often become Working-Variables, or Result-Variables,
+or even both in succession. It so happens, however, that in the case
+of the present equations the three sets of offices remain throughout
+perfectly separate and independent.
+It will be observed, that in the squares below the
+Working-Variables nothing is inscribed. Any one of these
+Variables is in many cases destined to pass through various values
+successively during the performance of a calculation (although in
+these particular equations no instance of this occurs). Consequently
+no one fixed symbol, or combination of symbols, should be
+considered as properly belonging to a merely Working-Variable;
+and as a general rule their squares are left blank. Of course in this,
+as in all other cases where we mention a general rule, it is
+understood that many particular exceptions may be expedient.
+In order that all the indications contained in the diagram may be
+completely understood, we shall now explain two or three points, not
+hitherto touched on. When the value on any Variable is called into
+use, one of two consequences may be made to result. Either the value
+may return to the Variable after it has been used, in which
+case it is ready for a second use if needed; or the Variable may be
+made zero. (We are of course not considering a third case, of not
+unfrequent occurrence, in which the same Variable is destined to
+receive the result of the very operation which it has just
+supplied with a number.) Now the ordinary rule is, that the value
+returns to the Variable; unless it has been foreseen that no
+use for that value can recur, in which case zero is substituted. At
+[Pg 42]
+the end of a calculation, therefore, every column ought as a
+general rule to be zero, excepting those for results. Thus it will be
+seen by the diagram, that when , the value on ,
+is used for the second time by Operation 5,  becomes
+0, since  is not again needed; that similarly, when (),
+on , is used for the third time by Operation
+11,  becomes zero, since () is not again
+needed. In order to provide for the one or the other of the courses
+above indicated, there are two varieties of the Supplying
+Variable-cards. One of these varieties has provisions which cause the
+number given off from any Variable to return to that Variable
+after doing its duty in the mill. The other variety has provisions
+which cause zero to be substituted on the Variable, for the number
+given off. These two varieties are distinguished, when needful, by the
+respective appellations of the Retaining Supply-cards and the
+Zero Supply-cards. We see that the primary office (see
+Note B.) of both these varieties of cards is the same; they only differ
+in their secondary office.
+Every Variable thus has belonging to it one class of Receiving
+Variable-cards and two classes of Supplying
+Variable-cards. It is plain however that only the one or the
+other of these two latter classes can be used by any one
+Variable for one operation; never both simultaneously;
+their respective functions being mutually incompatible.
+It should be understood that the Variable-cards are not placed in
+immediate contiguity with the columns. Each card is connected by
+means of wires with the column it is intended to act upon.
+Our diagram ought in reality to be placed side by side with M.
+Menabrea’s corresponding table, so as to be compared with it, line for
+line belonging to each operation. But it was unfortunately inconvenient
+to print them in this desirable form. The diagram is, in the main,
+merely another manner of indicating the various relations denoted in M.
+Menabrea’s table. Each mode has some advantages and some disadvantages.
+Combined, they form a complete and accurate method of registering every
+step and sequence in all calculations performed by the engine.
+No notice has yet been taken of the upper indices which are
+added to the left of each  in the diagram; an addition
+which we have also taken the liberty of making to the ’s
+in M, Menabrea’s tables of pages 16, 19, since it does not alter
+anything therein represented by him, but merely adds something to the
+previous indications of those tables. The lower indices are
+obviously indices of locality only, and are wholly independent
+of the operations performed or of the results obtained, their value
+continuing unchanged during the performance of calculations. The
+upper indices, however, are of a different nature. Their office
+is to indicate any alteration in the value which a Variable
+represents; and they are of course liable to changes during the
+processes of a calculation. Whenever a Variable has only zeros upon
+it, it is called ; the moment a value appears on it
+(whether that value be placed there arbitrarily, or appears in the
+natural course of a calculation), it becomes . If this value gives
+place to another value, the Variable becomes , and
+so forth. Whenever a value again gives place to zero,
+the Variable again becomes , even if it have been
+ the moment before. If a value then again
+be substituted, the Variable becomes  (as it
+would have done if it had not passed through the intermediate
+); &c. &c. Just before any calculation is commenced,
+and after the data have been given, and everything adjusted and
+prepared for setting the mechanism in action, the upper indices of
+[Pg 43]
+the Variables for data are all unity, and those for the Working and
+Result-variables are all zero. In this state the diagram represents
+them[24].
+There are several advantages in having a set of indices of this nature;
+but these advantages are perhaps hardly of a kind to be immediately
+perceived, unless by a mind somewhat accustomed to trace the successive
+steps by means of which the engine accomplishes its purposes. We have
+only space to mention in a general way, that the whole notation of
+the tables is made more consistent by these indices, for they are
+able to mark a difference in certain cases, where there would
+otherwise be an apparent identity confusing in its tendency.
+In such a case as 
+there is more clearness and more consistency with the
+usual laws of algebraical notation, in being able to write
+.
+It is also obvious that the indices furnish a powerful means of
+tracing back the derivation of any result; and of registering
+various circumstances concerning that series of successive
+substitutions, of which every result is in fact merely
+the final consequence; circumstances that may in certain cases
+involve relations which it is important to observe, either for purely
+analytical reasons, or for practically adapting the workings of the
+engine to their occurrence. The series of substitutions which lead to
+the equations of the diagram are as follow:—
+
+
+There are three successive substitutions for each of these
+equations. The formulæ (2.), (3.), and (4.) are implicitly
+contained in (1.), which latter we may consider as being in fact
+the condensed expression of any of the former. It will be
+observed that every succeeding substitution must contain twice
+as many ’s as its predecessor. So that if a problem
+require  substitutions, the successive series of numbers for the
+’s in the whole of them will be 2, 4, 8, 16 ... .
+The substitutions in the preceding equations happen to be of little
+value towards illustrating the power and uses of the upper indices; for
+owing to the nature of these particular equations the indices are all
+unity throughout. We wish we had space to enter more fully into the
+relations which these indices would in many cases enable us to trace.
+M. Menabrea incloses the three centre columns of his table under the
+general title Variable-cards. The ’s however
+in reality all represent the actual Variable-columns of the
+engine, and not the cards that belong to them. Still the title is
+a very just one, since it is through the special action of certain
+Variable-cards (when combined with the more generalised agency
+of the Operation-cards) that every one of the particular relations he
+has indicated under that title is brought about.
+Suppose we wish to ascertain how often any one quantity, or
+combination of quantities, is brought into use during a calculation.
+[Pg 44]
+We easily ascertain this, from the inspection of any vertical column
+or columns of the diagram in which that quantity may appear. Thus, in
+the present case, we see that all the data, and all the intermediate
+results likewise, are used twice, excepting ), which is
+used three times.
+The order in which it is possible to perform the operations for the
+present example, enables us to effect all the eleven operations of
+which it consists, with only three Operation-cards; because the
+problem is of such a nature that it admits of each class of operations
+being performed in a group together; all the multiplications one after
+another, all the subtractions one after another, &c. The operations are
+.
+Since the very definition of an operation implies that there must
+be two numbers to act upon, there are of course two
+Supplying Variable-cards necessarily brought into action for every
+operation, in order to furnish the two proper numbers. (See Note B.)
+Also, since every operation must produce a result, which must
+be placed somewhere, each operation entails the action of a
+Receiving Variable-card, to indicate the proper locality for
+the result. Therefore, at least three times as many Variable-cards as
+there are operations (not Operation-cards, for these,
+as we have just seen, are by no means always as numerous as the
+operations) are brought into use in every calculation. Indeed,
+under certain contingencies, a still larger proportion is requisite;
+such, for example, would probably be the case when the same result
+has to appear on more than one Variable simultaneously (which is
+not unfrequently a provision necessary for subsequent purposes in a
+calculation), and in some other cases which we shall not here specify.
+We see therefore that a great disproportion exists between the amount
+of Variable and of Operation-cards requisite for the
+working of even the simplest calculation.
+All calculations do not admit, like this one, of the operations
+of the same nature being performed in groups together. Probably very
+few do so without exceptions occurring in one or other stage of the
+progress; and some would not admit it at all. The order in which
+the operations shall be performed in every particular case, is a very
+interesting and curious question, on which our space does not permit
+us fully to enter. In almost every computation a great variety
+of arrangements for the succession of the processes is possible, and
+various considerations must influence the selection amongst them for
+the purposes of a Calculating Engine. One essential object is to
+choose that arrangement which shall tend to reduce to a minimum the
+time necessary for completing the calculation.
+It must be evident how multifarious and how mutually complicated are
+the considerations which the workings of such an engine involve.
+There are frequently several distinct sets of effects going on
+simultaneously; all in a manner independent of each other, and yet to
+a greater or less degree exercising a mutual influence. To adjust each
+to every other, and indeed even to perceive and trace them out with
+perfect correctness and success, entails difficulties whose nature
+partakes to a certain extent of those involved in every question
+where conditions are very numerous and inter-complicated;
+such as for instance the estimation of the mutual relations amongst
+statistical phænomena, and of those involved in many other
+classes of facts.
+A. A. L.
+
+DIAGRAM BELONGING TO NOTE D.
+[Pg 45]
+
+
+Number of operations.
+Nature of operations.
+Variables for Data.
+Working Variables.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5
+
+0
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+6
+
+
+
+0
+0
+
+
+
+
+
+
+
+
+
+
+
+
+7
+
+
+
+
+
+
+
+0
+0
+
+
+
+
+
+
+
+
+8
+
+
+
+
+
+
+
+
+
+0
+0
+
+
+
+
+
+
+9
+
+
+
+
+
+
+
+
+
+
+
+0
+0
+
+
+
+
+10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+11
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+0
+
+
+
+
+
+Number of operations.
+Nature of operations.
+Variables for Results.
+
+
+
+
++
++
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+2
+
+
+
+
+3
+
+
+
+
+4
+
+
+
+
+5
+
+
+
+
+1
+
+
+
+
+7
+
+
+
+
+8
+
+
+
+
+9
+
+
+
+
+10
+
+
+
+
+11
+
+
+
+
+
+</div></body></text></TEI>

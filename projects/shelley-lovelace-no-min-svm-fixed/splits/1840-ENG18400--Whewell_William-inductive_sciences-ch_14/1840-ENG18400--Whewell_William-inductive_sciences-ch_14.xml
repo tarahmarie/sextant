@@ -1,0 +1,681 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Novum Organon Renovatum</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="23">
+CHAPTER VII.
+Special Methods of Induction applicable to Quantity.
+Aphorism XLIII.
+There are special Methods of Induction applicable to
+Quantity; of which the principal are, the Method of Curves,
+the Method of Means, the Method of Least Squares, and
+the Method of Residues.
+Aphorism XLIV.
+The Method of Curves consists in drawing a curve of
+which the observed quantities are the Ordinates, the quantity
+on which the change of these quantities depends being the
+Abscissa. The efficacy of this Method depends upon the
+faculty which the eye possesses, of readily detecting regularity
+and irregularity in forms. The Method may be used
+to detect the Laws which the observed quantities follow: and
+also, when the Observations are inexact, it may be used to correct
+these Observations, so as to obtain data more true than the
+observed facts themselves.
+Aphorism XLV.
+The Method of Means gets rid of irregularities by taking
+the arithmetical mean of a great number of observed quantities.
+Its efficacy depends upon this; that in cases in which
+observed quantities are affected by other inequalities, besides
+that of which we wish to determine the law, the excesses above
+and defects below the quantities which the law in question
+would produce, will, in a collection of many observations,
+balance each other. 203
+Aphorism XLVI.
+The Method of Least Squares is a Method of Means, in
+which the mean is taken according to the condition, that the
+sum of the squares of the errours of observation shall be the
+least possible which the law of the facts allows. It appears,
+by the Doctrine of Chances, that this is the most probable
+mean.
+Aphorism XLVII.
+The Method of Residues consists in subtracting, from
+the quantities given by Observation, the quantity given by any
+Law already discovered; and then examining the remainder,
+or Residue, in order to discover the leading Law which it
+follows. When this second Law has been discovered, the
+quantity given by it may be subtracted from the first Residue;
+thus giving a Second Residue, which may be examined in
+the same manner; and so on. The efficacy of this method
+depends principally upon the circumstance of the Laws of
+variation being successively smaller and smaller in amount
+(or at least in their mean effect); so that the ulterior undiscovered
+Laws do not prevent the Law in question from being
+prominent in the observations.
+Aphorism XLVIII.
+The Method of Means and the Method of Least Squares
+cannot be applied without our knowing the Arguments of
+the Inequalities which we seek. The Method of Curves and
+the Method of Residues, when the Arguments of the principal
+Inequalities are known, often make it easy to find the others.
+IN cases where the phenomena admit of numerical
+measurement and expression, certain mathematical methods
+may be employed to facilitate and give
+accuracy to the determination of the formula by which
+the observations are connected into laws. Among the
+most usual and important of these Methods are the
+following:— 204
+    I. The Method of Curves.
+     II. The Method of Means.
+    III. The Method of Least Squares.
+    IV. The Method of Residues.
+Sect. I.—The Method of Curves.
+1. The Method of Curves proceeds upon this basis;
+that when one quantity undergoes a series of changes
+depending on the progress of another quantity, (as, for
+instance, the Deviation of the Moon from her equable
+place depends upon the progress of Time,) this dependence
+may be expressed by means of a curve. In the
+language of mathematicians, the variable quantity,
+whose changes we would consider, is made the ordinate
+of the curve, and the quantity on which the
+changes depend is made the abscissa. In this manner,
+the curve will exhibit in its form a series of undulations,
+rising and falling so as to correspond with the
+alternate Increase and Diminution of the quantity represented,
+at intervals of Space which correspond to
+the intervals of Time, or other quantity by which the
+changes are regulated. Thus, to take another example,
+if we set up, at equal intervals, a series of ordinates
+representing the Height of all the successive High Waters
+brought by the tides at a given place, for a year, the
+curve which connects the summits of all these ordinates
+will exhibit a series of undulations, ascending
+and descending once in about each Fortnight; since, in
+that interval, we have, in succession, the high spring
+tides and the low neap tides. The curve thus drawn
+offers to the eye a picture of the order and magnitude
+of the changes to which the quantity under contemplation,
+(the height of high water,) is subject.
+2. Now the peculiar facility and efficacy of the
+Method of Curves depends upon this circumstance;—that
+order and regularity are more readily and clearly
+recognized, when thus exhibited to the eye in a picture,
+than they are when presented to the mind in any other
+manner. To detect the relations of Number considered
+directly as Number, is not easy: and we might 205
+contemplate for a long time a Table of recorded Numbers
+without perceiving the order of their increase and
+diminution, even if the law were moderately simple;
+as any one may satisfy himself by looking at a Tide
+Table. But if these Numbers are expressed by the
+magnitude of Lines, and if these Lines are arranged in
+regular order, the eye readily discovers the rule of
+their changes: it follows the curve which runs along
+their extremities, and takes note of the order in which
+its convexities and concavities succeed each other, if
+any order be readily discoverable. The separate observations
+are in this manner compared and generalized
+and reduced to rule by the eye alone. And the eye,
+so employed, detects relations of order and succession
+with a peculiar celerity and evidence. If, for example,
+we thus arrive as ordinates the prices of corn in each
+year for a series of years, we shall see the order,
+rapidity, and amount of the increase and decrease of price,
+far more clearly than in any other manner. And if
+there were any recurrence of increase and decrease at
+stated intervals of years, we should in this manner
+perceive it. The eye, constantly active and busy, and
+employed in making into shapes the hints and traces
+of form which it contemplates, runs along the curve
+thus offered to it; and as it travels backwards and
+forwards, is ever on the watch to detect some resemblance
+or contrast between one part and another. And
+these resemblances and contrasts, when discovered, are
+the images of Laws of Phenomena; which are made
+manifest at once by this artifice, although the mind
+could not easily catch the indications of their existence,
+if they were not thus reflected to her in the clear
+mirror of Space.
+Thus when we have a series of good Observations,
+and know the argument upon which their change of
+magnitude depends, the Method of Curves enables us to
+ascertain, almost at a glance, the law of the change; and
+by further attention, may be made to give us a formula
+with great accuracy. The Method enables us to perceive,
+among our observations, an order, which without the
+method, is concealed in obscurity and perplexity. 206
+3. But the Method of Curves not only enables us
+to obtain laws of nature from good Observations, but
+also, in a great degree, from observations which are
+very imperfect. For the imperfection of observations
+may in part be corrected by this consideration;—that
+though they may appear irregular, the correct facts
+which they imperfectly represent, are really regular.
+And the Method of Curves enables us to remedy this
+apparent irregularity, at least in part. For when
+Observations thus imperfect are laid down as Ordinates,
+and their extremities connected by a line, we obtain,
+not a smooth and flowing curve, such as we should
+have if the observations contained only the rigorous
+results of regular laws; but a broken and irregular
+line, full of sudden and capricious twistings, and
+bearing on its face marks of irregularities dependent, not
+upon law, but upon chance. Yet these irregular and
+abrupt deviations in the curve are, in most cases, but
+small in extent, when compared with those bendings
+which denote the effects of regular law. And this
+circumstance is one of the great grounds of advantage
+in the Method of Curves. For when the observations
+thus laid down present to the eye such a broken and
+irregular line, we can still see, often with great ease
+and certainty, what twistings of the line are probably
+due to the irregular errours of observation; and can
+at once reject these, by drawing a more regular curve,
+cutting off all such small and irregular sinuosities,
+leaving some to the right and some to the left; and
+then proceeding as if this regular curve, and not the
+irregular one, expressed the observations. In this
+manner, we suppose the errours of observation to
+balance each other; some of our corrected measures
+being too great and others too small, but with no great
+preponderance either way. We draw our main regular
+curve, not through the points given by our observations,
+but among them: drawing it, as has been said
+by one of the philosophers30
+who first systematically
+used this method, ‘with a bold but careful hand.’ 207
+The regular curve which we thus obtain, thus freed
+from the casual errours of observation, is that in which
+we endeavour to discover the laws of change and succession.
+30
+ Sir J. Herschel, Ast. Soc. Trans. vol. v. p. 1.
+4. By this method, thus getting rid at once, in a
+great measure, of errours of observation, we obtain
+data which are more true than the individual facts
+themselves. The philosopher’s business is to compare
+his hypotheses with facts, as we have often said. But
+if we make the comparison with separate special facts,
+we are liable to be perplexed or misled, to an unknown
+amount, by the errours of observation; which may
+cause the hypothetical and the observed result to agree,
+or to disagree, when otherwise they would not do so.
+If, however, we thus take the whole mass of the facts,
+and remove the errours of actual
+observation31, by
+making the curve which expresses the supposed observation
+regular and smooth, we have the separate facts
+corrected by their general tendency. We are put in
+possession, as we have said, of something more true
+than any fact by itself is.
+31 Ib. vol. v. p. 4.
+One of the most admirable examples of the use of
+this Method of Curves is found in Sir John Herschel’s
+Investigation of the Orbits of Double
+Stars32. The author
+there shows how far inferior the direct observations of
+the angle of position are, to the observations corrected
+by a curve in the manner above stated. ‘This curve
+once drawn,’ he says, ‘must represent, it is evident,
+the law of variation of the angle of position, with the
+time, not only for instants intermediate between the
+dates of observations, but even at the moments of
+observation themselves, much better than the individual
+raw observations can possibly (on an average) do.
+It is only requisite to try a case or two, to be satisfied
+that by substituting the curve for the points, we have
+made a nearer approach to nature, and in a great
+measure eliminated errours of observation.’ ‘In
+following the graphical process,’ he adds, ‘we have a
+conviction almost approaching to moral certainty that 208
+we cannot be greatly misled.’ Again, having thus
+corrected the raw observations, he makes another use
+of the graphical method, by trying whether an ellipse
+can be drawn ‘if not through, at least among the
+points, so as to approach tolerably near them all; and
+thus approaching to the orbit which is the subject of
+investigation.’
+32 Ib.
+5. The Obstacles which principally impede the
+application of the Method of Curves are (I.) our ignorance
+of the arguments of the changes, and (II.) the complication
+of several laws with one another.
+(I.) If we do not know on what quantity those
+changes depend which we are studying, we may fail
+entirely in detecting the law of the changes, although
+we throw the observations into curves. For the true
+argument of the change should, in fact, be made the
+abscissa of the curve. If we were to express, by a
+series of ordinates, the hour of high water on
+successive days, we should not obtain, or should obtain very
+imperfectly, the law which these times follow; for the
+real argument of this change is not the solar hour, but
+the hour at which the moon passes the meridian. But
+if we are supposed to be aware that this is the argument,
+(which theory suggests and trial instantly confirms) we then do
+immediately obtain the primary
+Rules of the Time of High Water, by throwing a series
+of observations into a Curve, with the Hour of the
+Moon’s Transit for the abscissa.
+In like manner, when we have obtained the first
+great or Semi-mensual Inequality of the tides, if we
+endeavour to discover the laws of other Inequalities by
+means of curves, we must take from theory the suggestion
+that the Arguments of such inequalities will
+probably be the parallax and the declination of the
+moon. This suggestion again is confirmed by trial;
+but if we were supposed to be entirely ignorant of the
+dependence of the changes of the tide on the Distance
+and Declination of the moon, the curves would exhibit
+unintelligible and seemingly capricious changes. For
+by the effect of the Inequality arising from the Parallax,
+the convexities of the curves which belong to the 209
+spring tides, are in some years made alternately greater
+and less all the year through; while in other years
+they are made all nearly equal. This difference does
+not betray its origin, till we refer it to the Parallax;
+and the same difficulty in proceeding would arise if we
+were ignorant that the moon’s Declination is one of the
+Arguments of tidal changes.
+In like manner, if we try to reduce to law any meteorological
+changes, those of the Height of the Barometer for instance,
+we find that we can make little
+progress in the investigation, precisely because we do
+not know the Argument on which these changes depend.
+That there is a certain regular diurnal change
+of small amount, we know; but when we have abstracted
+this Inequality, (of which the Argument is the time of
+day,) we find far greater Changes left behind, from day
+to day and from hour to hour; and we express these
+in curves, but we cannot reduce them to Rule, because
+we cannot discover on what numerical quantity they
+depend. The assiduous study of barometrical observations,
+thrown into curves, may perhaps hereafter point
+out to us what are the relations of time and space by
+which these variations are determined; but in the
+mean time, this subject exemplifies to us our remark,
+that the method of curves is of comparatively small
+use, so long as we are in ignorance of the real
+Arguments of the Inequalities.
+6. (II.) In the next place, I remark that a difficulty
+is thrown in the way of the Method of Curves by
+the Combination of several laws one with another. It
+will readily be seen that such a cause will produce a
+complexity in the curves which exhibit the succession
+of facts. If, for example, we take the case of the Tides,
+the Height of high water increases and diminishes with
+the Approach of the sun to, and its Recess from, the
+syzygies of the moon. Again, this Height increases
+and diminishes as the moon’s Parallax increases and
+diminishes; and again, the Height diminishes when
+the Declination increases, and vice versa; and all these
+Arguments of change, the Distance from Syzygy, the
+Parallax, the Declination, complete their circuit and 210
+return into themselves in different periods. Hence
+the curve which represents the Height of high water
+has not any periodical interval in which it completes
+its changes and commences a new cycle. The sinuosity
+which would arise from each Inequality separately
+considered, interferes with, disguises, and conceals the
+others; and when we first cast our eyes on the curve
+of observation, it is very far from offering any obvious
+regularity in its form. And it is to be observed that
+we have not yet enumerated all the elements of this
+complexity: for there are changes of the tide depending
+upon the Parallax and Declination of the Sun as
+well as of the Moon. Again; besides these changes, of
+which the Arguments are obvious, there are others, as
+those depending upon the Barometer and the Wind,
+which follow no known regular law, and which constantly
+affect and disturb the results produced by other
+laws.
+In the Tides, and in like manner in the motions of
+the Moon, we have very eminent examples of the way
+in which the discovery of laws may be rendered difficult
+by the number of laws which operate to affect the
+same quantity. In such cases, the Inequalities are
+generally picked out in succession, nearly in the order
+of their magnitudes. In this way there were successively
+collected, from the study of the Moon’s motions
+by a series of astronomers, those Inequalities which we
+term the Equation of the Center, the Evection, the
+Variation, and the Annual Equation.
+These Inequalities were not, in fact, obtained by the application of
+the Method of Curves; but the Method of Curves
+might have been applied to such a case with great advantage.
+The Method has been applied with great
+industry and with remarkable success to the investigation
+of the laws of the Tides; and by the use of it,
+a series of Inequalities both of the Times and of the
+Heights of high water has been detected, which explain
+all the main features of the observed facts. 211
+Sect. II.—The Method of Means.
+7. The Method of Curves, as we have endeavoured
+to explain above, frees us from the casual and extraneous
+irregularities which arise from the imperfection
+of observation; and thus lays bare the results of the
+laws which really operate, and enables us to proceed in
+search of those laws. But the Method of Curves is
+not the only one which effects such a purpose. The
+errours arising from detached observations may be got
+rid of, and the additional accuracy which multiplied
+observations give may be obtained, by operations upon
+the observed numbers, without expressing them by
+spaces. The process of curves assumes that the errours
+of observation balance each other;—that the accidental
+excesses and defects are nearly equal in amount;—that
+the true quantities which would have been observed
+if all accidental causes of irregularity were removed,
+are obtained, exactly or nearly, by selecting quantities,
+upon the whole, equally distant from the extremes of
+great and small, which our imperfect observations offer
+to us. But when, among a number of unequal quantities,
+we take a quantity equally distant from the
+greater and the smaller, this quantity is termed the
+Mean of the unequal quantities. Hence the correction
+of our observations by the method of curves consists in
+taking the Mean of the observations.
+8. Now without employing curves, we may proceed
+arithmetically to take the Mean of all the observed
+numbers of each class. Thus, if we wished to know
+the Height of the spring tide at a given place, and if
+we found that four different spring tides were measured
+as being of the height of ten, thirteen, eleven,
+and fourteen feet, we should conclude that the true
+height of the tide was the Mean of these numbers,—namely,
+twelve feet; and we should suppose that the
+deviation from this height, in the individual cases,
+arose from the accidents of weather, the imperfections
+of observation, or the operation of other laws, besides
+the alternation of spring and neap tides. 212
+This process of finding the Mean of an assemblage of
+observed numbers is much practised in discovering,
+and still more in confirming and correcting, laws of
+phenomena. We shall notice a few of its peculiarities.
+9. The Method of Means requires a knowledge of
+the Argument of the changes which we would study;
+for the numbers must be arranged in certain Classes,
+before we find the Mean of each Class; and the principle
+on which this arrangement depends is the Argument. This
+knowledge of the Argument is more indispensably necessary
+in the Method of Means than in
+the Method of Curves; for when Curves are drawn, the
+eye often spontaneously detects the law of recurrence in
+their sinuosities; but when we have collections of
+Numbers, we must divide them into classes by a selection
+of our own. Thus, in order to discover the law
+which the heights of the tide follow, in the progress
+from spring to neap, we arrange the observed tides
+according to the day of the moon’s age; and we then
+take the mean of all those which thus happen at the
+same period of the Moon’s Revolution. In this manner
+we obtain the law which we seek; and the process is
+very nearly the same in all other applications of this
+Method of Means. In all cases, we begin by assuming
+the Classes of measures which we wish to compare, the
+Law which we could confirm or correct, the Formula
+of which we would determine the coefficients.
+10. The Argument being thus assumed, the Method
+of Means is very efficacious in ridding our inquiry of
+errours and irregularities which would impede and perplex
+it. Irregularities which are altogether accidental,
+or at least accidental with reference to some law which
+we have under consideration, compensate each other in
+a very remarkable way, when we take the Means of
+many observations. If we have before us a collection
+of observed tides, some of them may be elevated, some
+depressed by the wind, some noted too high and some
+too low by the observer, some augmented and some
+diminished by uncontemplated changes in the moon’s
+distance or motion: but in the course of a year or two
+at the longest, all these causes of irregularity balance 213
+each other; and the law of succession, which runs
+through the observations, comes out as precisely as if
+those disturbing influences did not exist. In any particular
+case, there appears to be no possible reason why
+the deviation should be in one way, or of one moderate
+amount, rather than another. But taking the mass of
+observations together, the deviations in opposite ways
+will be of equal amount, with a degree of exactness
+very striking. This is found to be the case in all
+inquiries where we have to deal with observed numbers
+upon a large scale. In the progress of the population
+of a country, for instance, what can appear more
+inconstant, in detail, than the causes which produce births
+and deaths? yet in each country, and even in each
+province of a country, the proportions of the whole
+numbers of births and deaths remain nearly constant.
+What can be more seemingly beyond the reach of rule
+than the occasions which produce letters that cannot
+find their destination? yet it appears that the number
+of ‘dead letters’ is nearly the same from year to year.
+And the same is the result when the deviations arise,
+not from mere accident, but from laws perfectly regular,
+though not contemplated in our
+investigation33.
+Thus the effects of the Moon’s Parallax upon the Tides,
+sometimes operating one way and sometimes another,
+according to certain rules, are quite eliminated by
+taking the Means of a long series of observations; the
+excesses and defects neutralizing each other, so far as
+concerns the effect upon any law of the tides which we
+would investigate.
+33
+ Provided the argument of the law which we
+neglect have no coincidence with the argument of the law
+which we would determine.
+11. In order to obtain very great accuracy, very
+large masses of observations are often employed by
+philosophers, and the accuracy of the result increases
+with the multitude of observations. The immense collections
+of astronomical observations which have in
+this manner been employed in order to form and correct
+the Tables of the celestial motions are perhaps
+the most signal instances of the attempts to obtain 214
+accuracy by this accumulation of observations. Delambre’s
+Tables of the Sun are founded upon nearly 3000
+observations; Burg’s Tables of the Moon upon above
+4000.
+But there are other instances hardly less remarkable.
+Mr. Lubbock’s first investigations of the laws of
+the tides of London34,
+included above 13,000 observations,
+extending through nineteen years; it being considered
+that this large number was necessary to remove
+the effects of accidental causes35.
+And the attempts
+to discover the laws of change in the barometer have
+led to the performance of labours of equal amount:
+Laplace and Bouvard examined this question by means
+of observations made at the Observatory of Paris, four
+times every day for eight years.
+34 Phil. Trans. 1831.
+35
+ This period of nineteen years was also selected for
+a reason which is alluded to in a former note. It was thought
+that this period secured the inquirer from the errours
+which might be produced by the partial coincidence of the
+Arguments of different irregularities; for example,
+those due to the moon’s Parallax and to the moon’s Declination. It has
+since been found (Phil. Tr. 1838. On the Determination
+of the Laws of the Tides from Short Series of Observations),
+that with regard to Parallax at least, the Means of one year give
+sufficient accuracy.
+12. We may remark one striking evidence of the
+accuracy thus obtained by employing large masses of
+observations. In this way we may often detect inequalities
+much smaller than the errours by which they are
+encumbered and concealed. Thus the Diurnal Oscillations
+of the Barometer were discovered by the comparison of
+observations of many days, classified according to the
+hours of the day; and the result was a clear
+and incontestable proof of the existence of such oscillations
+although the differences which these oscillations
+produce at different hours of the day are far smaller
+than the casual changes, hitherto reduced to no law,
+which go on from hour to hour and from day to day.
+The effect of law, operating incessantly and steadily,
+makes itself more and more felt as we give it a longer
+range; while the effect of accident, followed out in the 215
+same manner, is to annihilate itself, and to disappear
+altogether from the result.
+Sect. III.—The Method of Least Squares.
+13. The Method of Least Squares is in fact a
+method of means, but with some peculiar characters.
+Its object is to determine the best Mean of a number
+of observed quantities; or the most probable Law
+derived from a number of observations, of which some,
+or all, are allowed to be more or less imperfect. And
+the method proceeds upon this supposition;—that all
+errours are not equally probable, but that small
+errours are more probable than large ones. By reasoning
+mathematically upon this ground, we find that
+the best result is obtained (since we cannot obtain a
+result in which the errours vanish) by making, not the
+Errours themselves, but the Sum of their Squares, of
+the smallest possible amount.
+14. An example may illustrate this. Let a quantity which
+is known to increase uniformly, (as the distance of a star
+from the meridian at successive instants,) be measured at
+equal intervals of time, and be
+found to be successively 4, 12, 14. It is plain, upon
+the face of these observations, that they are erroneous;
+for they ought to form an arithmetical progression, but
+they deviate widely from such a progression. But the
+question then occurs, what arithmetical progression do
+they most probably represent: for we may assume
+several arithmetical progressions which more or less
+approach the observed series; as for instance, these
+three; 4, 9, 14; 6, 10, 14; 5, 10, 15. Now in order
+to see the claims of each of these to the truth, we may
+tabulate them thus.
+Observation 4, 12, 14 Errours
+ Sums of Errours Sums of Squares  of Errours
+
+Series (1) 4,  9, 14   0, 3, 0  3 9
+ 〃  (2) 6, 10, 14   2, 2, 0  4 8
+ 〃  (3) 5, 10, 15   1, 2, 1  4 6
+Here, although the first series gives the sum of the 216
+errours less than the others, the third series gives the
+sum of the squares of the errours least; and is therefore,
+by the proposition on which this Method depends,
+the most probable series of the three.
+This Method, in more extensive and complex cases,
+is a great aid to the calculator in his inferences from
+facts, and removes much that is arbitrary in the Method
+of Means.
+Sect. IV.—The Method of Residues.
+15. By either of the preceding Methods we obtain,
+from observed facts, such Laws as readily offer themselves;
+and by the Laws thus discovered, the most prominent
+changes of the observed quantities are accounted
+for. But in many cases we have, as we have noticed
+already, several Laws of nature operating at the same
+time, and combining their influences to modify those
+quantities which are the subjects of observation. In
+these cases we may, by successive applications of the
+Methods already pointed out, detect such Laws one
+after another: but this successive process, though only
+a repetition of what we have already described, offers
+some peculiar features which make it convenient to
+consider it in a separate Section, as the Method of
+Residues.
+16. When we have, in a series of changes of
+a variable quantity, discovered one Law which the
+changes follow, detected its Argument, and determined
+its Magnitude, so as to explain most clearly the course
+of observed facts, we may still find that the observed
+changes are not fully accounted for. When we compare
+the results of our Law with the observations,
+there may be a difference, or as we may term it, a
+Residue, still unexplained. But this Residue being
+thus detached from the rest, may be examined and
+scrutinized in the same manner as the whole observed
+quantity was treated at first: and we may in this way
+detect in it also a Law of change. If we can do this,
+we must accommodate this new found Law as nearly
+as possible to the Residue to which it belongs; and 217
+this being done, the difference of our Rule and of the
+Residue itself, forms a Second Residue. This Second
+Residue we may again bring under our consideration;
+and may perhaps in it also discover some Law of change
+by which its alterations may be in some measure accounted for.
+If this can be done, so as to account for
+a large portion of this Residue, the remaining unexplained part
+forms a Third Residue; and so on.
+17. This course has really been followed in various
+inquiries, especially in those of Astronomy and Tidology.
+The Equation of the Center, for the Moon, was
+obtained out of the Residue of the Longitude, which
+remained when the Mean Anomaly was taken away.
+This Equation being applied and disposed of, the Second
+Residue thus obtained, gave to Ptolemy the Evection.
+The Third Residue, left by the Equation of the Center
+and the Evection, supplied to Tycho the Variation
+and the Annual Equation. And the Residue, remaining
+from these, has been exhausted by other Equations,
+of various arguments, suggested by theory or by observation.
+In this case, the successive generations of
+astronomers have gone on, each in its turn executing
+some step in this Method of Residues. In the examination
+of the Tides, on the other hand, this method
+has been applied systematically and at once. The
+observations readily gave the Semimensual Inequality;
+the Residue of this supplied the corrections due to the
+Moon’s Parallax and Declination; and when these
+were determined, the remaining Residue was explored
+for the law of the Solar Correction.
+18. In a certain degree, the Method of Residues and
+the Method of Means are opposite to each other. For
+the Method of Residues extricates Laws from their
+combination, bringing them into view in succession;
+while the Method of Means discovers each Law, not by
+bringing the others into view, but by destroying their
+effect through an accumulation of observations. By
+the Method of Residues we should first extract the
+Law of the Parallax Correction of the Tides, and then,
+from the Residue left by this, obtain the Declination
+Correction. But we might at once employ the Method 218
+of Means, and put together all the cases in which the
+Declination was the same; not allowing for the Parallax
+in each case, but taking for granted that the
+Parallaxes belonging to the same Declination would
+neutralize each other; as many falling above as below
+the mean Parallax. In cases like this, where the
+Method of Means is not impeded by a partial coincidence
+of the Arguments of different unknown Inequalities,
+it may be employed with almost as much success
+as the Method of Residues. But still, when the Arguments
+of the Laws are clearly known, as in this instance,
+the Method of Residues is more clear and
+direct, and is the rather to be recommended.
+19. If for example, we wish to learn whether the
+Height of the Barometer exerts any sensible influence
+on the Height of the Sea’s Surface, it would appear
+that the most satisfactory mode of proceeding, must be
+to subtract, in the first place, what we know to be the
+effects of the Moon’s Age, Parallax and Declination,
+and other ascertained causes of change; and to search
+in the unexplained Residue for the effects of
+barometrical pressure. The contrary course has, however,
+been adopted, and the effect of the Barometer on the
+ocean has been investigated by the direct application
+of the Method of Means, classing the observed heights
+of the water according to the corresponding heights of
+the Barometer without any previous reduction. In
+this manner, the suspicion that the tide of the sea is
+affected by the pressure of the atmosphere, has been
+confirmed. This investigation must be looked upon
+as a remarkable instance of the efficacy of the Method
+of Means, since the amount of the barometrical effect
+is much smaller than the other changes from among
+which it was by this process extricated. But an
+application of the Method of Residues would still
+be desirable on a subject of such extent and difficulty.
+20. Sir John Herschel, in his Discourse on the
+Study of Natural Philosophy (Articles 158–161), has
+pointed out the mode of making discoveries by studying
+Residual Phenomena; and has given several illustrations
+of the process. In some of these, he has also 219
+considered this method in a wider sense than we have
+done; treating it as not applicable to quantity only,
+but to properties and relations of different kinds.
+We likewise shall proceed to offer a few remarks on
+Methods of Induction applicable to other relations than
+those of quantity.
+</div></body></text></TEI>

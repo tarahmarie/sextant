@@ -1,0 +1,161 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="67">CHAPTER VI.
+Discovery of the Laws of Polarization.
+IF the Extraordinary
+Refraction of Iceland spar had appeared strange, another phenomenon
+was soon noticed in the same 73 substance, which appeared stranger still,
+and which in the sequel was found to be no less important. I speak of
+the facts which were afterwards described under the term
+Polarization. Huyghens was the discoverer of this class of
+facts. At the end of the treatise which we have already quoted, he
+says,42 “Before I quit the subject of this
+crystal, I will add one other marvellous phenomenon, which I have
+discovered since writing the above; for though hitherto I have not
+been able to find out its cause, I will not, on that account, omit
+pointing it out, that I may give occasion to others to examine it.” He
+then states the phenomena; which are, that when two rhombohedrons of
+Iceland spar are in parallel positions, a ray doubly refracted by the
+first, is not further divided when it falls on the second: the
+ordinarily refracted ray is ordinarily refracted only, and
+the extraordinary ray is only extraordinarily refracted by the second
+crystal, neither ray being doubly refracted. The same is still the
+case, if the two crystals have their principal planes
+parallel, though they themselves are not parallel. But if the
+principal plane of the second crystal be perpendicular to that of the
+first, the reverse of what has been described takes place; the
+ordinarily refracted ray of the first crystal suffers, at the second,
+extraordinary refraction only, and the extraordinary ray of
+the first suffers ordinary refraction only at the second. Thus, in
+each of these positions, the double refraction of each ray at the
+second crystal is reduced to single refraction, though in a different
+manner in the two cases. But in any other position of the crystals,
+each ray, produced by the first, is doubly refracted by the second, so
+as to produce four rays.
+42 Tr. Opt. p. 252.
+A step in the right conception of these phenomena was made by
+Newton, in the second edition of his Opticks (1717). He
+represented them as resulting from this;—that the rays of light
+have “sides,” and that they undergo the ordinary or extraordinary
+refraction, according as these sides are parallel to the principal
+plane of the crystal, or at right angles to it (Query 26). In this
+way, it is clear, that those rays which, in the first crystal, had
+been selected for extraordinary refraction, because their sides were
+perpendicular to the principal plane, would all suffer extraordinary
+refraction at the second crystal for the same reason, if its principal
+plane were parallel to that of the first; and would all suffer
+ordinary refraction, if the principal plane of the second crystal were
+perpendicular to that of the first, and 74 consequently parallel to the sides of the
+refracted ray. This view of the subject includes some of the leading
+features of the case, but still leaves several considerable
+difficulties.
+No material advance was made in the subject till it was taken up by
+Malus,43 along with the other circumstances of
+double refraction, about a hundred years afterwards. He verified what
+had been observed by Huyghens and Newton, on the subject of the
+variations which light thus exhibits; but he discovered that this
+modification, in virtue of which light undergoes the ordinary, or the
+extraordinary, refraction, according to the position of the plane of
+the crystal, may be impressed upon it many other ways. One part of
+this discovery was made accidentally.44 In 1808, Malus
+happened to be observing the light of the setting sun, reflected from
+the windows of the Luxembourg, through a rhombohedron of Iceland spar;
+and he observed that in turning round the crystal, the two images
+varied in their intensity. Neither of the images completely vanished,
+because the light from the windows was not properly modified, or, to
+use the term which Malus soon adopted, was not completely
+polarized. The complete polarization of light by reflection
+from glass, or any other transparent substance, was found to take
+place at a certain definite angle, different for each substance. It
+was found also that in all crystals in which double refraction
+occurred, the separation of the refracted rays was accompanied by
+polarization; the two rays, the ordinary and the extraordinary, being
+always polarized oppositely, that is, in planes at right
+angles to each other. The term poles, used by Malus, conveyed
+nearly the same notion as the term sides which had been
+employed by Newton, with the additional conception of a property which
+appeared or disappeared according as the poles of the particles were
+or were not in a certain direction; a property thus resembling the
+polarity of magnetic bodies. When a spot of polarized light is
+looked at through a transparent crystal of Iceland spar, each of the
+two images produced by the double refraction varies in brightness as
+the crystal is turned round. If, for the sake of example, we suppose
+the crystal to be turned round in the direction of the points of the
+compass, N, E, S, W, and if one image be brightest when the crystal
+marks N and S, it will disappear when the crystal marks E and W: and
+on the contrary, the second image will vanish when the crystal marks N
+and S, 75 and will
+be brightest when the crystal marks E and W. The first of these images
+is polarized in the plane NS passing through the ray, and the
+second in the plane EW, perpendicular to the other. And these
+rays are oppositely polarized. It was further found that
+whether the ray were polarized by reflection from glass, or from
+water, or by double refraction, the modification of light so produced,
+or the nature of the polarization, was identical in all these
+cases;—that the alternatives of ordinary and extraordinary
+refraction and non-refraction, were the same, by whatever crystal they
+were tested, or in whatever manner the polarization had been impressed
+upon the light; in short, that the property, when once acquired, was
+independent of everything except the sides or poles of the ray;
+and thus, in 1811, the term “polarization” was introduced.45
+43 Malus, Th. de la Doub. Réf.
+p. 296.
+44 Arago, art. Polarization,
+Supp. Enc. Brit.
+45 Mém. Inst. 1810.
+This being the state of the subject, it became an obvious question,
+by what other means, and according to what laws, this property was
+communicated. It was found that some crystals, instead of giving, by
+double refraction, two images oppositely polarized, give a single
+polarized image. This property was discovered in the agate by Sir D.
+Brewster, and in tourmaline by M. Biot and Dr. Seebeck. The latter
+mineral became, in consequence, a very convenient part of the
+apparatus used in such observations. Various peculiarities bearing
+upon this subject, were detected by different experimenters. It was in
+a short time discovered, that light might be polarized by refraction,
+as well as by reflection, at the surface of uncrystallized bodies, as
+glass; the plane of polarization being perpendicular to the plane of
+refraction; further, that when a portion of a ray of light was
+polarized by reflection, a corresponding portion was polarized by
+transmission, the planes of the two polarizations being at right
+angles to each other. It was found also that the polarization which
+was incomplete with a single plate, either by reflection or
+refraction, might be made more and more complete by increasing the
+number of plates.
+Among an accumulation of phenomena like this, it is our business to
+inquire what general laws were discovered. To make such discoveries
+without possessing the general theory of the facts, required no
+ordinary sagacity and good fortune. Yet several laws were detected at
+this stage of the subject. Malus, in 1811, obtained the important
+generalization that, whenever we obtain, by any means, a polarized ray
+of light, we produce also another ray, polarized in a contrary 76 direction; thus when
+reflection gives a polarized ray, the companion-ray is refracted
+polarized oppositely, along with a quantity of unpolarized light. And
+we must particularly notice Sir D. Brewster’s rule for the
+polarizing angle of different bodies.
+Malus46 had said that the angle of reflection
+from transparent bodies which most completely polarizes the reflected
+ray, does not follow any discoverable rule with regard to the order of
+refractive or dispersive powers of the substances. Yet the rule was in
+reality very simple. In 1815, Sir D. Brewster stated47 as the law, which in all cases
+determines this angle, that “the index of refraction is the tangent of
+the angle of polarization.” It follows from this, that the
+polarization takes place when the reflected and refracted rays are at
+right angles to each other. This simple and elegant rule has been
+fully confirmed by all subsequent observations, as by those of MM.
+Biot and Seebeck; and must be considered one of the happiest and most
+important discoveries of the laws of phenomena in Optics.
+46 Mém. Inst. 1810.
+47 Phil. Trans. 1815.
+The rule for polarization by one reflection being thus discovered,
+tentative formulæ were proposed by Sir D. Brewster and M. Biot, for
+the cases in which several reflections or refractions take place.
+Fresnel also in 1817 and 1818, traced the effect of reflection in
+modifying the direction of polarization, which Malus had done
+inaccurately in 1810. But the complexity of the subject made all such
+attempts extremely precarious, till the theory of the phenomena was
+understood, a period which now comes under notice. The laws which we
+have spoken of were important materials for the establishment of the
+theory; but in the mean time, its progress at first had been more
+forwarded by some other classes of facts, of a different kind, and of
+a longer standing notoriety, to which we must now turn our
+attention.
+</div></body></text></TEI>

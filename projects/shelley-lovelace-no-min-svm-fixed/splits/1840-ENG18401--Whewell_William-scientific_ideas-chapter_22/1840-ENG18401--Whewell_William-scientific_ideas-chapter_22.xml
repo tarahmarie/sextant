@@ -1,0 +1,55 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Philosophy of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="22">
+
+CHAPTER XII.
+Of the Foundations of the Higher Mathematics.
+
+
+1. The Idea of a Limit.—The general truths
+concerning relations of space which depend upon the axioms
+and definitions contained in Euclid’s Elements, and
+which involve only properties of straight lines and circles,
+are termed Elementary Geometry: all beyond this belongs to
+the Higher Geometry. To this latter province appertain, for
+example, all propositions respecting the lengths of any
+portions of curve lines; for these cannot be obtained by
+means of the principles of the Elements alone. Here then we
+must ask to what other principles the geometer has recourse,
+and from what source these are drawn. Is there any origin of
+geometrical truth which we have not yet explored?
+The Idea of a Limit supplies a new mode of
+establishing mathematical truths. Thus with regard to the
+length of any portion of a curve, a problem which we have
+just mentioned; a curve is not made up of straight lines,
+and therefore we cannot by means of any of the doctrines of
+elementary geometry measure the length of any curve. But we
+may make up a figure nearly resembling any curve by putting
+together many short straight lines, just as a polygonal
+building of very many sides may nearly resemble a circular
+room. And in order to approach nearer and nearer to the
+curve, we may make the sides more and more small, more and
+more numerous. We may then possibly find some mode of
+measurement, some relation of these small lines to other
+lines, which is not disturbed by the multiplication of the
+sides, however far it be carried. And thus, we may do what
+is equivalent to measuring the curve itself; for by
+multiplying the 152 sides we may approach more and more
+closely to the curve till no appreciable difference remains.
+The curve line is the Limit of the polygon; and in
+this process we proceed on the Axiom, that ‘What is
+true up to the Limit is true at the Limit.’
+This mode of conceiving mathematical magnitudes is of wide
+extent and use; for every curve may be considered as the
+limit of some polygon; every varied magnitude, as the limit
+of some aggregate of simpler forms; and thus the relations
+of the elementary figures enable us to advance to the
+properties of the most complex cases.
+A Limit is a peculiar and fundamental conception, the use of
+which in proving the propositions of the Higher Geometry
+cannot be superseded by any combination of other hypotheses
+and definitions14. The axiom just noticed, that what is
+true up to the limit is true at the limit, is involved in
+the very conception of a Limit: and this principle, with its
+consequences, leads to all the results which form the
+subject of the higher mathematics, whether proved by the
+consideration of evanescent triangles, by the processes of
+the Differential Calculus, or in any other way.</div></body></text></TEI>

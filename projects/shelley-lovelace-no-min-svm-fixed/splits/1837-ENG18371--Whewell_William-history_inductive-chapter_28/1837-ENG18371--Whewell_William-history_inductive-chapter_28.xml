@@ -1,0 +1,741 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="28">CHAPTER II.
+Inductive Epoch of Galileo.—Discovery of the
+Laws of Motion in Simple Cases.
+
+Sect. 1.—Establishment of the First
+Law of Motion.
+AFTER mathematicians had begun
+to doubt or reject the authority of Aristotle, they were still some
+time in coming to the conclusion, that the distinction of Natural and
+Violent Motions was altogether untenable;—that the velocity of a
+body in motion increased or diminished in consequence of the action of
+extrinsic causes, not of any property of the motion itself;—and
+that the apparently universal fact, of bodies growing slower and
+slower, as if by their own disposition, till they finally stopped,
+from which Motions had been called Violent, arose from the action of
+external obstacles not immediately obvious, as the friction and the
+resistance of the air when a ball runs on the ground, and the action
+of gravity, when it is thrown upwards. But the truth to which they
+were at last led, was, that such causes would account for all
+the diminution of velocity which bodies experience when apparently
+left to themselves  and that without such causes, the motion of all
+bodies would go on forever, in a straight line and with a uniform
+velocity.
+Who first announced this Law in a general form, it may be difficult
+to point out; its exact or approximate truth was necessarily taken for
+granted in all complete investigations on the subject of the laws of
+motion of falling bodies, and of bodies projected so as to describe
+curves. In Galileo’s first attempt to solve the problem of falling
+bodies, he did not carry his analysis back to the notion of force, and
+therefore this law does not appear. In 1604 he had an erroneous
+opinion on this subject  and we do not know when he was led to the
+true doctrine which he published in his Discorso, in 1638. In
+his third Dialogue he gives the instance of water in a vessel, for the
+purpose of showing that circular motion has a tendency to continue.
+And in his first Dialogue on the Copernican System7 (published in
+1630), he asserts 323 Circular Motion alone to be naturally
+uniform, and retains the distinction between Natural and Violent
+Motion. In the Dialogues on Mechanics, however, published in
+1638, but written apparently at an earlier period, in treating of
+Projectiles,8 he asserts the true Law. “Mobile super
+planum horizontale projectum mente concipio omni secluso impedimento;
+jam constat ex his quæ fusius alibi dicta sunt, illius motum equabilem
+et perpetuum super ipso plano futurum esse, si planum in infinitum
+extendatur.” “Conceive a movable body upon a horizontal plane, and
+suppose all obstacles to motion to be removed; it is then manifest,
+from what has been said more at large in another place, that the
+body’s motion will be uniform and perpetual upon the plane, if the
+plane be indefinitely extended.” His pupil Borelli, in 1667 (in the
+treatise De Vi Percussionis), states the proposition generally,
+that “Velocity is, by its nature, uniform, and perpetual;” and this
+opinion appears to have been, at that time, generally diffused, as we
+find evidence in Wallis and others. It is commonly said that Descartes
+was the first to state this generally. His Principia were
+published in 1644; but his proofs of this First Law of Motion are
+rather of a theological than of a mechanical kind. His reason for this
+Law is,9 “the immutability and simplicity of the
+operation by which God preserves motion in matter. For he only
+preserves it precisely as it is in that moment in which he preserves
+it, taking no account of that which may have been previously.”
+Reasoning of this abstract and à priori kind, though it may be
+urged in favor of true opinions after they have been inductively
+established, is almost equally capable of being called in on the side
+of error, as we have seen in the case of Aristotle’s philosophy. We
+ought not, however, to forget that the reference to these abstract and
+à priori principles is an indication of the absolute
+universality and necessity which we look for in complete Sciences, and
+a result of those faculties by which such Science is rendered
+possible, and suitable to man’s intellectual nature.
+7 Dial. i. p. 40.
+8 p. 141.
+9 Princip. p. 34.
+The induction by which the First Law of Motion is established,
+consists, as induction consists in all cases, in conceiving clearly
+the Law, and in perceiving the subordination of Facts to it. But the
+Law speaks of bodies not acted upon by any external force,—a
+case which never occurs in fact; and the difficulty of the step
+consisted in bringing all the common cases in which motion is
+gradually extinguished, under the notion of the action of a retarding
+force. In order to do this, 324 Hooke and others showed that, by
+diminishing the obvious resistances, the retardation also became less;
+and men were gradually led to a distinct appreciation of the
+Resistance, Friction, &c., which, in all terrestrial motions,
+prevent the Law from being evident; and thus they at last established
+by experiment a Law which cannot be experimentally exemplified. The
+natural uniformity of motion was proved by examining all kinds of
+cases in which motion was not uniform. Men culled the abstract Rule
+out of the concrete Experiment; although the Rule was, in every case,
+mixed with other Rules, and each Rule could be collected from the
+Experiment only by supposing the others known. The perfect simplicity
+which we necessarily seek for in a law of nature, enables us to
+disentangle the complexity which this combination appears at first
+sight to occasion.
+The First Law of Motion asserts that the motion of a body, when
+left to itself will not only be uniform, but rectilinear also. This
+latter part of the law is indeed obvious of itself as soon as we
+conceive a body detached from all special reference to external points
+and objects. Yet, as we have seen, Galileo asserted that the naturally
+uniform motion of bodies was that which takes place in a circle.
+Benedetti, however, in 1585, had entertained sound notions on this
+subject. In commenting on Aristotle’s question, why we obtain an
+advantage in throwing by using a sling, he says,10 that the body,
+when whirled round, tends to go on in a straight line. In Galileo’s
+second Dialogue, he makes one of his interlocutors (Simplicio), when
+appealed to on this subject, after thinking intently for a little
+while, give the same opinion; and the principle is, from this time,
+taken for granted by the authors who treat of the motion of
+projectiles. Descartes, as might be supposed, gives the same reason
+for this as for the other part of the law, namely, the immutability of
+the Deity.
+10 “Corpus vellet recta iter
+peragere.” Speculationum Liber, p. 160.
+Sect. 2.—Formation and Application of the Notion
+of Accelerating Force.—Laws of Falling Bodies.
+We have seen how rude and vague were the
+attempts of Aristotle and his followers to obtain a philosophy of
+bodies falling downwards or thrown in any direction. If the First Law
+of Motion had been clearly known, it would then, perhaps, have been
+seen that the way to understand and analyze the motion of any body, is
+to consider the 325
+Causes of change of motion which at each instant operate upon
+it; and thus men would have been led to the notion of Accelerating
+Forces, that is, Forces which act upon bodies already in motion, and
+accelerate, retard, or deflect their motions. It was, however, only
+after many attempts that they reached this point. They began by
+considering the whole motion with reference to certain
+ill-defined abstract Notions, instead of considering, with a clear
+apprehension of the conditions of Causation, the successive
+parts of which the motion consists. Thus, they spoke of the
+tendency of bodies to the Centre, or to their Own Place;—of
+Projecting Force, of Impetus, of Retraction;—with little or no
+profit to knowledge. The indistinctness of their notions may, perhaps,
+be judged of from their speculations concerning projectiles.
+Santbach,11 in 1561, imagined that a body thrown
+with great velocity, as, for instance, a ball from a cannon, went in a
+straight line till all its velocity was exhausted, and then fell
+directly downwards. He has written a treatise on gunnery, founded on
+this absurd assumption. To this succeeded another doctrine, which,
+though not much more philosophical than the former, agreed much better
+with the phenomena. Nicolo Tartalea (Nuova Scienza, Venice,
+1550; Quesiti et Inventioni Diversi, 1554) and Gualter Rivius
+(Architectura, &c., Basil, 1582) represented the path of a
+cannon-ball as consisting, first of a straight line in the direction
+of the original projection, then of an arc of a circle in which it
+went on till its motion became vertical downwards, and then of a
+vertical line in which it continued to fall. The latter of these
+writers, however, was aware that the path must, from the first, be a
+curve; and treated it as a straight line, only because the curvature
+is very slight. Even Santbach’s figure represents the path of the ball
+as partially descending before its final fall, but then it descends by
+steps, not in a curve. Santbach, therefore, did not conceive
+the Composition of the effect of gravity with the existing
+motion, but supposed them to act alternately; Rivius, however,
+understood this Composition, and saw that gravity must act as a
+deflecting force at every point of the path. Galileo, in his second
+Dialogue,12 makes Simplicius come to the same
+conclusion. “Since,” he says, “there is nothing to support the body,
+when it quits that which projects it, it cannot be but that its proper
+gravity must operate,” and it must immediately begin to decline
+downwards.
+11 Problematum Astronomicorum et
+Geometricorum Sectiones vii. &c. &c. Auctore Daniele
+Santbach, Noviomago. Basileæ, 1561.
+12 P. 147.
+326 The Force of
+Gravity which thus produces deflection and curvature in the path of a
+body thrown obliquely, constantly increases the velocity of a
+body when it falls vertically downwards. The universality of
+this increase was obvious, both from reasoning and in fact; the law of
+it could only be discovered by closer consideration; and the full
+analysis of the problem required a distinct measure of the quantity of
+Accelerating Force. Galileo, who first solved this problem, began by
+viewing it as a question of fact, but conjectured the solution by
+taking for granted that the rule must be the simplest possible.
+“Bodies,” he says,13 “will fall in the most simple way,
+because Natural Motions are always the most simple. When a stone
+falls, if we consider the matter attentively, we shall find that there
+is no addition, no increase, of the velocity more simple than that
+which is always added in the same manner,” that is, when equal
+additions take place in equal times; “which we shall easily understand
+if we attend to the close connection of motion and time.” From this
+Law, thus assumed, he deduced that the spaces described from the
+beginning of the motion must be as the squares of the times; and,
+again, assuming that the laws of descent for balls rolling down
+inclined planes, must be the same as for bodies falling freely, he
+verified this conclusion by experiment.
+13 Dial. Sc. iv. p. 91.
+It will, perhaps, occur to the reader that this argument, from the
+simplicity of the assumed law, is somewhat insecure. It is not always
+easy for us to discern what that greatest simplicity is, which nature
+adopts in her laws. Accordingly, Galileo was led wrong by this way of
+viewing the subject before he was led right. He at first supposed,
+that the Velocity which the body had acquired at any point must be
+proportional to the Space described from the point where the
+motion began. This false law is as simple in its enunciation as the
+true law, that the Velocity is proportional to the Time: it
+had been asserted as the true law by M. Varro (De Motu
+Tractatus, Genevæ, 1584), and by Baliani, a gentleman of Genoa,
+who published it in 1638. It was, however, soon rejected by Galileo,
+though it was afterwards taken up and defended by Casræus, one of
+Galileo’s opponents. It so happens, indeed, that the false law is not
+only at variance with fact, but with itself: it involves a
+mathematical self-contradiction. This circumstance, however, was
+accidental: it would be easy to state laws of the increase of velocity
+which should be simple, and yet false in fact, though quite possible
+in their own nature. 327
+The Law of Velocity was hitherto, as we have seen, treated as a law
+of phenomena, without reference to the Causes of the law. “The cause
+of the acceleration of the motions of falling bodies is not,” Galileo
+observes, “a necessary part of the investigation. Opinions are
+different. Some refer it to the approach to the centre; others say
+that there is a certain extension of the centrical medium, which,
+closing behind the body, pushes it forwards. For the present, it is
+enough for us to demonstrate certain properties of Accelerated Motion,
+the acceleration being according to the very simple Law, that the
+Velocity is proportional to the Time. And if we find that the
+properties of such motion are verified by the motions of bodies
+descending freely, we may suppose that the assumption agrees with the
+laws of bodies falling freely by the action of gravity.”14
+14 Gal. Op. iii. 91, 92.
+It was, however, an easy step to conceive this acceleration as
+caused by the continual action of Gravity. This account had already
+been given by Benedetti, as we have seen. When it was once adopted,
+Gravity was considered as a constant or uniform force;
+on this point, indeed, the adherents of the law of Galileo and of that
+of Casræus were agreed; but the question was, what is a
+Uniform Force? The answer which Galileo was led to give was obviously
+this;—that is a Uniform Force which generates equal
+velocities in equal successive times; and this principle leads at once
+to the doctrine, that Forces are to be compared by comparing the
+Velocities generated by them in equal times.
+Though, however, this was a consequence of the rule by which
+Gravity is represented as a Uniform Force, the subject presents some
+difficulty at first sight. It is not immediately obvious that we may
+thus measure forces by the Velocity added in a given time,
+without taking into account the velocity they have already. If we
+communicate velocity to a body by the hand or by a spring, the effect
+we produce in a second of time is lessened, when the body has already
+a velocity which withdraws it from the pressure of the agent. But it
+appears that this is not so in the case of gravity; the velocity added
+in one second is the same, whatever downward motion the body already
+possesses. A body falling from rest acquires a velocity, in one
+second, of thirty-two feet; and if a cannon-ball were shot downwards
+with a velocity of 1000 feet a second, it would equally, at the end of
+one second, have received an accession of 32 feet to its velocity.
+This conception of Gravity as a Uniform Force,—as constantly
+and 328 equally
+increasing the velocity of a descending body,—will
+become clear by a little attention; but it undoubtedly presents
+difficulty at first. Accordingly, we find that Descartes did not
+accept it. “It is certain,” he says, “that a stone is not equally
+disposed to receive a new motion or increase of velocity when it is
+already moving very quickly, and when it is moving slowly.”
+Descartes showed, by other expressions, that he had not caught hold
+of the true notion of accelerating force. Thus, he says in a letter to
+Mersenne, “I am astonished at what you tell me, of having found, by
+experiment, that bodies thrown up in the air take neither more nor
+less time to rise than to fall again; and you will excuse me if I say
+that I look upon the experiment as a very difficult one to make
+accurately.” Yet it is clear from the Notion of a Constant Force that
+(omitting the resistance of the air) this equality must take place;
+for the Force which will gradually destroy the whole velocity in a
+certain time in ascending, will, in the same time, generate again the
+same velocity by the same gradations inverted; and therefore the same
+space will be passed over in the same time in the descent and in the
+ascent.
+Another difficulty arose from a necessary consequence of the Laws
+of Falling Bodies thus established;—the proposition, namely,
+that in acquiring its motion, a body passes through every intermediate
+degree of velocity, from the smallest conceivable, up to that which it
+at last acquires. When a body falls from rest, it begins to fall with
+no velocity; the velocity increases with the time; and in
+one-thousandth part of a second, the body has only acquired
+one-thousandth part of the velocity which it has at the end of one
+second.
+This is certain, and manifest on consideration; yet there was at
+first much difficulty raised on the subject of this assertion; and
+disputes took place concerning the velocity with which a body
+begins to fall. On this subject also Descartes did not form
+clear notions. He writes to a correspondent, “I have been revising my
+notes on Galileo, in which I have not said expressly that falling
+bodies do not pass through every degree of slowness, but I said that
+this cannot be known without knowing what Weight is, which comes to
+the same thing; as to your example, I grant that it proves that every
+degree of velocity is infinitely divisible, but not that a falling
+body actually passes through all these divisions.”
+The Principles of the Motion of Falling Bodies being thus
+established by Galileo, the Deduction of the principal mathematical
+consequences was, as is usual, effected with great rapidity, and is to
+be found 329 in his
+works, and in those of his scholars and successors. The motion of
+bodies falling freely was, however, in such treatises, generally
+combined with the motion of bodies Falling along Inclined Planes; a
+part of the theory of which we have still to speak.
+The Notion of Accelerating Force and of its operation, once formed,
+was naturally applied in other cases than that of bodies falling
+freely. The different velocities with which heavy and light bodies
+fall were explained by the different resistance of the air, which
+diminishes the accelerating force;15 and it was
+boldly asserted, that in a vacuum a lock of wool and a piece of lead
+would fall equally quickly. It was also maintained16 that any falling
+body, however large and heavy, would always have its velocity in some
+degree diminished by the air in which it falls, and would at last be
+reduced to a state of uniform motion, as soon as the resistance
+upwards became equal to the accelerating force downwards. Though the
+law of progress of a body to this limiting velocity was not made out
+till the Principia of Newton appeared, the views on which
+Galileo made this assertion are perfectly sound, and show that he had
+clearly conceived the nature and operation of accelerating and
+retarding force.
+15 Galileo, iii. 43.
+16 iii. 54.
+When Uniform Accelerating Forces had once been mastered, there
+remained only mathematical difficulties in the treatment of Variable
+Forces. A Variable Force was measured by the Limit of the
+increment of the Velocity, compared with the increment of the Time;
+just as a Variable Velocity was measured by the Limit of the increment
+of the Space compared with that of the Time.
+With this introduction of the Notion of Limits, we are, of course,
+led to the Higher Geometry, either in its geometrical or its
+analytical form. The general laws of bodies falling by the action of
+any Variable Forces were given by Newton in the Seventh Section of the
+Principia. The subject is there, according to Newton’s
+preference of geometrical methods, treated by means of the Quadrature
+of Curves; the Doctrine of Limits being exhibited in a peculiar manner
+in the First Section of the work, in order to prepare the way for such
+applications of it. Leibnitz, the Bernouillis, Euler, and since their
+time, many other mathematicians, have treated such questions by means
+of the analytical method of limits, the Differential Calculus. The
+Rectilinear Motion of bodies acted upon by variable forces is, of
+course, a simpler problem than their Curvilinear Motion, to which we
+have now to proceed. But it 330 may be remarked that Newton, having
+established the laws of Curvilinear Motion independently, has, in a
+great part of his Seventh Section, deduced the simpler case of the
+Rectilinear Motion from the move complex problem, by reasonings of
+great ingenuity and beauty.
+Sect. 3.—Establishment of the Second Law of
+Motion.—Curvilinear Motions.
+A slight degree of distinctness in men’s
+mechanical notions enabled them to perceive, as we have already
+explained, that a body which traces a curved line must be urged by
+some force, by which it is constantly made to deviate from that
+rectilinear path, which it would pursue if acted upon by no force.
+Thus, when a body is made to describe a circle, as when a stone is
+whirled round in a sling, we find that the string does exert such a
+force on the stone; for the string is stretched by the effort, and if
+it be too slender, it may thus be broken. This centrifugal
+force of bodies moving in circles was noticed even by the
+ancients. The effect of force to produce curvilinear motion also
+appears in the paths described by projectiles. We have already seen
+that though Tartalea did not perceive this correctly, Rivius, about
+the same time, did.
+To see that a transverse force would produce a curve, was one step;
+to determine what the curve is, was another step, which involved the
+discovery of the Second Law of Motion. This step was made by Galileo.
+In his Dialogues on Motion, he asserts that a body projected
+horizontally will retain a uniform motion in the horizontal direction,
+and will have, compounded with this, a uniformly accelerated motion
+downwards, that is, the motion of a body falling vertically from rest;
+and will thus describe the curve called a parabola.
+The Second Law of Motion consists of this assertion in a general
+form;—namely, that in all cases the motion which the force will
+produce is compounded with the motion which the body previously has.
+This was not obvious; for Cardan had maintained,17 that “if a body
+is moved by two motions at once, it will come to the place resulting
+from their composition slower than by either of them.” The proof of
+the truth of the law to Galileo’s mind was, so far as we collect from
+the Dialogue itself, the simplicity of the supposition, and his clear
+perception of the causes which, in some cases, produced an obvious
+deviation in practice 331 from this theoretical result. For it may
+be observed, that the curvilinear paths ascribed to military
+projectiles by Rivius and Tartalea, and by other writers who followed
+them, as Digges and Norton in our own country, though utterly
+different from the theoretical form, the parabola, do, in fact,
+approach nearer the true paths of a cannon or musket ball than a
+parabola would do; and this approximation more especially exists in
+that which at first sight appears most absurd in the old theory;
+namely, the assertion that the ball, which ascends in a sloping
+direction, finally descends vertically. In consequence of the
+resistance of the air, this is really the path of a projectile; and
+when the velocity is very great, as in military projectiles, the
+deviation from the parabolic form is very manifest. This cause of
+discrepancy between the theory, which does not take resistance into
+the account, and the fact, Galileo perceived; and accordingly he
+says,18 that the velocities of the projectiles,
+in such cases, may be considered as excessive and supernatural. With
+the due allowance to such causes, he maintained that his theory was
+verified, and might be applied in practice. Such practical
+applications of the doctrine of projectiles no doubt had a share in
+establishing the truth of Galileo’s views. We must not forget,
+however, that the full establishment of this second law of motion was
+the result of the theoretical and experimental discussions concerning
+the motion of the earth: its fortunes were involved in those of the
+Copernican system; and it shared the triumph of that doctrine. This
+triumph was already decisive, indeed, in the time of Galileo, but not
+complete till the time of Newton.
+17 Op. vol. iv. p. 490.
+18 Op. vol. iii. p. 147.
+Sect. 4.—Generalization of the Laws of
+Equilibrium.—Principle of Virtual Velocities.
+It was known, even as early as Aristotle,
+that the two weights which balance each other on the lever, if they
+move at all, move with velocities which are in the inverse proportions
+of the weights. The peculiar resources of the Greek language, which
+could state this relation of inverse proportionality in a single word
+(ἀντιπέπονθεν), fixed it in men’s minds, and prompted them to
+generalize from this property. Such attempts were at first made with
+indistinct ideas, and on conjecture only, and had, therefore, no
+scientific value. This is the judgment which we must pass on the book
+of Jordanus Nemorarius, which 332 we have already
+mentioned. Its reasonings are professedly on Aristotelian principles,
+and exhibit the common Aristotelian absence of all distinct mechanical
+ideas. But in Varro, whose Tractatus de Motu appeared in 1584,
+we find the principle, in a general form, not satisfactorily proved,
+indeed, but much more distinctly conceived. This is his first theorem:
+“Duarum virium connexarum quarum (si moveantur) motus erunt ipsis
+ἀντιπεπονθῶς proportionales, neutra alteram movebit, sed equilibrium
+facient.” The proof offered of this is, that the resistance to a force
+is as the motion produced; and, as we have seen, the theorem is
+rightly applied in the example of the wedge. From this time it appears
+to have been usual to prove the properties of machines by means of
+this principle. This is done, for instance, in Les Raisons des
+Forces Mouvantes, the production of Solomon de Caus, engineer to
+the Elector Palatine, published at Antwerp in 1616; in which the
+effect of Toothed-Wheels and of the Screw is determined in this
+manner, but the Inclined Plane is not treated of. The same is the case
+in Bishop Wilkins’s Mathematical Magic, in 1648.
+When the true doctrine of the Inclined Plane had been established,
+the laws of equilibrium for all the simple machines or Mechanical
+Powers, as they had usually been enumerated in books on Mechanics,
+were brought into view; for it was easy to see that the Wedge
+and the Screw involved the same principle as the Inclined
+Plane, and the Pulley could obviously be reduced to the
+Lever. It was, also, not difficult for a person with clear
+mechanical ideas to perceive how any other combination of bodies, on
+which pressure and traction are exerted, may be reduced to these
+simple machines, so as to disclose the relation of the forces. Hence
+by the discovery of Stevinus, all problems of equilibrium were
+essentially solved.
+The conjectural generalization of the property of the lever, which
+we have just mentioned, enabled mathematicians to express the solution
+of all these problems by means of one proposition. This was done by
+saying, that in raising a weight by any machine, we lose in
+Time what we gain in Force; the weight raised moves as much
+slower than the power, as it is larger than the
+power. This was explained with great clearness by Galileo, in the
+preface to his Treatise on Mechanical Science, published in
+1592.
+The motions, however, which we here suppose the parts of the
+machine to have, are not motions which the forces produce; for at
+present we are dealing with the case in which the forces balance each
+other, and therefore produce no motion. But we ascribe to the 333 Weights and Powers
+hypothetical motions, arising from some other cause; and then, by the
+construction of the machine, the velocities of the Weights and Powers
+must have certain definite ratios. These velocities, being thus
+hypothetically supposed and not actually produced, are called
+Virtual Velocities. And the general law of equilibrium is, that
+in any machine, the Weights which balance each other, are reciprocally
+to each other as their Virtual Velocities. This is called the
+Principle of Virtual Velocities.
+This Principle (which was afterwards still further generalized) is,
+by some of the admirers of Galileo, dwelt upon as one of his great
+services to Mechanics. But if we examine it more nearly, we shall see
+that it has not much importance in our history. It is a
+generalization, but a generalization established rather by enumeration
+of cases, than by any induction proceeding upon one distinct Idea,
+like those generalizations of Facts by which Laws are primarily
+established. It rather serves verbally to conjoin Laws previously
+known, than to exhibit a connection in them: it is rather a help for
+the memory than a proof for the reason.
+The Principle of Virtual Velocities is so far from implying any
+clear possession of mechanical ideas, that any one who knows the
+property of the Lever, whether he is capable of seeing the reason for
+it or not, can see that the greater weight moves slower in the exact
+proportion of its greater magnitude. Accordingly, Aristotle, whose
+entire want of sound mechanical views we have shown, has yet noticed
+this truth. When Galileo treats of it, instead of offering any reasons
+which could independently establish this principle, he gives his
+readers a number of analogies and illustrations, many of them very
+loose ones. Thus the raising a great weight by a small force, he
+illustrates by supposing the weight broken into many small parts, and
+conceiving those parts raised one by one. By other persons, the
+analogy, already intimated, of gain and loss is referred to as an
+argument for the principle in question. Such images may please the
+fancy, but they cannot be accepted as mechanical reasons.
+Since Galileo neither first enunciated this rule, nor ever proved
+it as an independent principle of Mechanics, we cannot consider the
+discovery of it as one of his mechanical achievements. Still less can
+we compare his reference to this principle with Stevinus’s proof of
+the Inclined Plane; which, as we have seen, was rigorously inferred
+from the sound axiom, that a body cannot put itself in motion. If we
+were to assent to the really self-evident axioms of Stevinus, only in
+virtue 334 of the
+unproved verbal generalization of Galileo, we should be in great
+danger of allowing ourselves to be referred successively from one
+truth to another, without any reasonable hope of ever arriving at any
+thing ultimate and fundamental.
+But though this Principle of Virtual Velocity cannot be looked upon
+as a great discovery of Galileo, it is a highly useful rule; and the
+various forms under which he and his successors urged it, tended much
+to dissipate the vague wonder with which the effects of machines had
+been looked upon; and thus to diffuse sounder and clearer notions on
+such subjects.
+The Principle of Virtual Velocities also affected the progress of
+mechanical science in another way: it suggested some of the analogies
+by the aid of which the Third Law of Motion was made out; leading to
+the adoption of the notion of Momentum as the arithmetical
+product of weight and velocity. Since on a machine on which a weight
+of two pounds at one part balances three pounds at another part, the
+former weight would move through three inches while the latter would
+move through two inches; we see (since three multiplied into two is
+equal to two multiplied into three) that the Product of the
+weight and the velocity is the same for the two balancing weights; and
+if we call this Product Momentum, the Law of Equilibrium is,
+that when two weights balance on a machine, the Momentum of the two
+would be the same, if they were put in motion.
+The Notion of Momentum was here employed in connection with Virtual
+Velocities; but it also came under consideration in treating of Actual
+Velocities, as we shall soon see.
+Sect. 5.—Attempts at the Third Law of
+Motion.—Notion of Momentum.
+In the questions we have hitherto had to
+consider respecting Motion, no regard is had to the Size of the body
+moved, but only to the Velocity and Direction of the motion. We must
+now trace the progress of knowledge respecting the mode in which the
+Mass of the body influences the effect of Force. This is a more
+difficult and complex branch of the subject; but it is one which
+requires to be noticed, as obviously as the former. Questions
+belonging to this department of Mechanics, as well as to the others,
+occur in Aristotle’s Mechanical Problems. “Why,” says he, “is it, that
+neither very small nor very large bodies go far when we throw them;
+but, in order that this may 335 happen, the thing thrown must have a
+certain proportion to the agent which throws it? Is it that what is
+thrown or pushed must react19 against that which pushes it; and that
+a body so large as not to yield at all, or so small as to yield
+entirely, and not to react, produces no throw or push?” The same
+confusion of ideas prevailed after his time; and mechanical questions
+were in vain discussed by means of general and abstract terms,
+employed with no distinct and steady meaning; such as impetus,
+power, momentum, virtue, energy, and the
+like. From some of these speculations we may judge how thorough the
+confusion in men’s heads had become. Cardan perplexes himself with the
+difficulty, already mentioned, of the comparison of the forces of
+bodies at rest and in motion. If the Force of a body depends on its
+velocity, as it appears to do, how is it that a body at rest has any
+Force at all, and how can it resist the slightest effort, or exert any
+pressure? He flatters himself that he solves the question, by
+asserting that bodies at rest have an occult motion. “Corpus movetur
+occulto motu quiescendo.”—Another puzzle, with which he appears
+to distress himself rather more wantonly, is this: “If one man can
+draw half of a certain weight, and another man also one half; when the
+two act together, these proportions should be compounded; so that they
+ought to be able to draw one half of one half, or one quarter only.”
+The talent which ingenious men had for getting into such perplexities,
+was certainly at one time very great. Arriaga,20 who wrote in
+1639, is troubled to discover how several flat weights, lying one upon
+another on a board, should produce a greater pressure than the lowest
+one alone produces, since that alone touches the board. Among other
+solutions, he suggests that the board affects the upper weight, which
+it does not touch, by determining its ubication, or
+whereness.
+19 ἀντερείδειν.
+20 Rod. de Arriaga, Cursus
+Philosophicus. Paris, 1639.
+Aristotle’s doctrine, that a body ten times as heavy as another,
+will fall ten times as fast, is another instance of the confusion of
+Statical and Dynamical Forces: the Force of the greater body, while
+at rest, is ten times as great as that of the other; but the
+Force as measured by the velocity produced, is equal in the
+two cases. The two bodies would fall downwards with the same rapidity,
+except so far as they are affected by accidental causes. The merit of
+proving this by experiment, and thus refuting the Aristotelian dogma,
+is usually ascribed to Galileo, who made his experiment from the
+famous leaning tower of Pisa, about 1590. But others about the same
+time had not 336
+overlooked so obvious a fact—F. Piccolomini, in his Liber
+Scientiæ de Natura, published at Padua, in 1597, says, “On the
+subject of the motion of heavy and light bodies, Aristotle has put
+forth various opinions, which are contrary to sense and experience,
+and has delivered rules concerning the proportion of quickness and
+slowness, which are palpably false. For a stone twice as great does
+not move twice as fast.” And Stevinus, in the Appendix to his
+Statics, describes his having made the experiment, and speaks with
+great correctness of the apparent deviations from the rule, arising
+from the resistance of the air. Indeed, the result followed by very
+obvious reasoning; for ten bricks, in contact with each other, side by
+side, would obviously fall in the same time as one; and these might be
+conceived to form a body ten times as large as one of them.
+Accordingly, Benedetti, in 1585, reasons in this manner with regard to
+bodies of different size, though he retains Aristotle’s error as to
+the different velocity of bodies of different density.
+The next step in this subject is more clearly due to Galileo; he
+discovered the true proportion which the Accelerating Force of a body
+falling down an inclined plane bears to the Accelerating Force of the
+same body falling freely. This was at first a happy conjecture; it was
+then confirmed by experiments, and, finally, after some hesitation, it
+was referred to its true principle, the Third Law of Motion, with
+proper elementary simplicity. The Principle here spoken of is
+this:—that for the same body, the Dynamical effect of force is
+as the Statical effect; that is, the Velocity which any force
+generates in a given time when it puts the body in motion, is
+proportional to the Pressure which the same force produces in a body
+at rest. The Principle, so stated, appears very simple and obvious;
+yet this was not the form in which it suggested itself either to
+Galileo or to other persons who sought to prove it. Galileo, in his
+Dialogues on Motion, assumes, as his fundamental proposition on
+this subject, one much less evident than that we have quoted, but one
+in which that is involved. His Postulate is,21 that when the
+same body falls down different planes of the same height, the
+velocities acquired are equal. He confirms and illustrates this by a
+very ingenious experiment on a pendulum, showing that the weight
+swings to the same height whatever path it be compelled to follow.
+Torricelli, in his treatise published 1644, says that he had heard
+that Galileo had, towards the end of his life, proved his 337 assumption, but that,
+not having seen the proof, he will give his own. In this he refers us
+to the right principle, but appears not distinctly to conceive the
+proof, since he estimates momentum indiscriminately by the
+statical Pressure of a body, and by its Velocity when in motion; as if
+these two quantities were self-evidently equal. Huyghens, in 1673,
+expresses himself dissatisfied with the proof by which Galileo’s
+assumption was supported in the later editions of his works. His own
+proof rests on this principle;—that if a body fall down one
+inclined plane, and proceed up another with the velocity thus
+acquired, it cannot, under any circumstances, ascend to a higher
+position than that from which it fell. This principle coincides very
+nearly with Galileo’s experimental illustration. In truth, however,
+Galileo’s principle, which Huyghens thus slights, may be looked upon
+as a satisfactory statement of the true law  namely, that, in the same
+body, the velocity produced is as the pressure which produces it. “We
+are agreed,” he says,22 “that, in a movable body, the
+impetus, energy, momentum, or propension to
+motion, is as great as is the force or least
+resistance which suffices to support it.” The various terms
+here used, both for dynamical and statical Force, show that Galileo’s
+ideas were not confused by the ambiguity of any one term, as appears
+to have happened to some mathematicians. The principle thus announced,
+is, as we shall see, one of great extent and value; and we read with
+interest the circumstances of its discovery, which are thus
+narrated.23 When Viviani was studying with Galileo,
+he expressed his dissatisfaction at the want of any clear reason for
+Galileo’s postulate respecting the equality of velocities acquired
+down inclined planes of the same heights; the consequence of which
+was, that Galileo, as he lay, the same night, sleepless through
+indisposition, discovered the proof which he had long sought in vain,
+and introduced it in the subsequent editions. It is easy to see, by
+looking at the proof, that the discoverer had had to struggle, not for
+intermediate steps of reasoning between remote notions, as in a
+problem of geometry, but for a clear possession of ideas which were
+near each other, and which he had not yet been able to bring into
+contact, because he had not yet a sufficiently firm grasp of them.
+Such terms as Momentum and Force had been sources of confusion from
+the time of Aristotle; and it required considerable steadiness of
+thought to compare the forces of bodies at rest and in motion under
+the obscurity and vacillation thus produced.
+21 Opere, iii. 96.
+22 Galileo, Op. iii. 104.
+23 Drinkwater, Life of Galileo,
+p. 59.
+338 The term
+Momentum had been introduced to express the force of bodies in
+motion, before it was known what that effect was. Galileo, in his
+Discorso intorno alle Cose che stanno in su l’ Acqua, says,
+that “Momentum is the force, efficacy, or virtue, with which the
+motion moves and the body moved resists, depending not upon weight
+only, but upon the velocity, inclination, and any other cause of such
+virtue.” When he arrived at more precision in his views, he
+determined, as we have seen, that, in the same body, the Momentum is
+proportional to the Velocity; and, hence it was easily seen
+that in different bodies it was proportional to the Velocity and Mass
+jointly. The principle thus enunciated is capable of very extensive
+application, and, among other consequences, leads to a determination
+of the results of the mutual Percussion of Bodies. But though Galileo,
+like others of his predecessors and contemporaries, had speculated
+concerning the problem of Percussion, he did not arrive at any
+satisfactory conclusion; and the problem remained for the
+mathematicians of the next generation to solve.
+We may here notice Descartes and his Laws of Motion, the
+publication of which is sometimes spoken of as an important event in
+the history of Mechanics. This is saying far too much. The
+Principia of Descartes did little for physical science. His
+assertion of the Laws of Motion, in their most general shape, was
+perhaps an improvement in form; but his Third Law is false in
+substance. Descartes claimed several of the discoveries of Galileo and
+others of his contemporaries; but we cannot assent to such claims,
+when we find that, as we shall see, he did not understand, or would
+not apply, the Laws of Motion when he had them before him. If we were
+to compare Descartes with Galileo, we might say, that of the
+mechanical truths which were easily attainable in the beginning of the
+seventeenth century, Galileo took hold of as many, and Descartes of as
+few, as was well possible for a man of genius.
+[2d Ed.] [The following remarks of M. Libri appear to be just.
+After giving an account of the doctrines put forth on the subject of
+Astronomy, Mechanics, and other branches of science, by Leonardo da
+Vinci, Fracastoro, Maurolycus, Commandinus, Benedetti, he adds
+(Hist. des Sciences Mathématiques en Italie, t. iii. p. 131):
+“This short analysis is sufficient to show that, at the period at
+which we are arrived, Aristotle no longer reigned unquestioned in the
+Italian Schools. If we had to write the history of philosophy, we
+should prove by a multitude of facts that it was the Italians who
+overthrew the ancient idol of philosophers. Men go on incessantly
+repeating that the 339 struggle was begun by Descartes, and
+they proclaim him the legislator of modern philosophers. But when we
+examine the philosophical writings of Fracastoro, of Benedetti, of
+Cardan, and above all, those of Galileo; when we see on all sides
+energetic protests raised against the peripatetic doctrines; we ask,
+what there remained for the inventor of vortices to do, in overturning
+the natural philosophy of Aristotle? In addition to this, the
+memorable labors of the School of Cosenza, of Telesius, of Giordano
+Bruno, of Campanella; the writings of Patricius, who was, besides, a
+good geometer; of Nizolius, whom Leibnitz esteemed so highly, and of
+the other metaphysicians of the same epoch,—prove that the
+ancient philosophy had already lost its empire on that side the Alps,
+when Descartes threw himself upon the enemy now put to the rout. The
+yoke was cast off in Italy, and all Europe had only to follow the
+example, without its being necessary to give a new impulse to real
+science.”
+In England, we are accustomed to hear Francis Bacon, rather than
+Descartes, spoken of as the first great antagonist of the Aristotelian
+schools, and the legislator of modern philosophy. But it is true, both
+of one and the other, that the overthrow of the ancient system had
+been effectively begun before their time by the practical discoverers
+here mentioned, and others who, by experiment and reasoning,
+established truths inconsistent with the received Aristotelian
+doctrines. Gilbert in England, Kepler in Germany, as well as Benedetti
+and Galileo in Italy, gave a powerful impulse to the cause of real
+knowledge, before the influence of Bacon and Descartes had produced
+any general effect. What Bacon really did was this;—that by the
+august image which he presented of a future Philosophy, the rival of
+the Aristotelian, and far more powerful and extensive, he drew to it
+the affections and hopes of all men of comprehensive and vigorous
+minds, as well as of those who attended to special trains of
+discovery. He announced a New Method, not merely a correction of
+special current errors; he thus converted the Insurrection into a
+Revolution, and established a new philosophical Dynasty. Descartes
+had, in some degree, the same purpose; and, in addition to this, he
+not only proclaimed himself the author of a New Method, but professed
+to give a complete system of the results of the Method. His physical
+philosophy was put forth as complete and demonstrative, and thus
+involved the vices of the ancient dogmatism. Telesius and Campanella
+had also grand notions of an entire reform in the method of
+philosophizing, as I have noticed in the Philosophy of the
+Inductive Sciences, Book xii.] 340</div></body></text></TEI>

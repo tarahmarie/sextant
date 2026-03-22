@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 148-150</title>
+        <author>Lovelace, Ada Augusta (1815-1852)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 148-150.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lovelace, Ada Augusta (1815-1852)</author>
+          <title>Letter to [William King]</title>
+          <date when="1843">undated (estimated from box 166 date range)</date>
+          <note type="place">St. James's Square</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 148-150</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_148-150.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>St James' Sqre Satdy. 6 o'clock</p>
+      <p>My Dear. Your other kind letter of this morning also delighted me. So far from thinking you wish for too much society, I scarcely feel that you quite wish for as much as I should judge to be no more than beneficial, if I get into the health which I expect.</p>
+      <p>Without having a constant racket I yet</p>
+      <p>should be very sorry to have only two parties between Xmas &amp; March, were I all right.</p>
+      <p>However I must be all right for some weeks or even months, before you will feel any confidence.</p>
+      <p>My head is becoming quite the thing again; &amp; I not only bear, but am now much benefitted by, a glass or two of wine in the course of the day.</p>
+      <p>I am amused at your idea of telling people "the real state of the case"; because it is just simply impossible. No one not</p>
+      <p>medical can form any true idea of the state of the case; &amp; even the M. D's themselves would not in general do so, until after much intimate study &amp; experience of me. The compound of power with delicacy of highness &amp; lowness is not what any one can comprehend, &amp; to endeavour putting just notions into their minds, is all vain. If however, you mean that it is better not to make a great mystery, or to appear to avoid the subject when</p>
+      <p>asked, you are indeed very right. And don't, my dear, fancy I am dissatisfied. I only am rather amused at your perhaps having tried to make the incomprehensible plain; &amp; very likely I have even not quite rightly understood you.</p>
+      <p>I shall send down per coach on Monday Morg, to say my plans, &amp; if I return that evening or not.</p>
+      <p>The Hen is very ill in bed, at Groves' Hotel; one of her worst attacks. I am</p>
+      <p>quite vexed about it.</p>
+      <p>I believe she is going to have Dr Locock tonight.</p>
+      <p>Pray write to me, my Dear, tomorrow.</p>
+      <p>I am quite satisfied with your care of my dear animal-- Taggy.</p>
+      <p>My dear, I am sure that (as Annabella said), Papa is very fond of Mama's horse.</p>
+      <p>Will you remember to send me 10..0..0 tomorrow. Pray don't forget it. Good Bye. I wish I could write you somewhat more amusing. Ou is a good nice Crow, &amp; I love ou.</p>
+    </div></body>
+  </text>
+</TEI>

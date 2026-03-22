@@ -1,0 +1,407 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="27">CHAPTER I.
+Prelude to the Epoch of Galileo.
+
+Sect. 1.—Prelude to the Science of
+Statics.
+SOME steps in the science of
+Motion, or rather in the science of Equilibrium, had been made by the
+ancients, as we have seen. Archimedes established satisfactorily the
+doctrine of the Lever, some important properties of the Centre of
+Gravity, and the fundamental proposition of Hydrostatics. But this
+beginning led to no permanent progress. Whether the distinction
+between the principles of the doctrine of Equilibrium and of Motion
+was clearly seen by Archimedes, we do not know; but it never was
+caught hold of by any of the other writers of antiquity, or by those
+of the Stationary Period. What was still worse, the point which
+Archimedes had won was not steadily maintained.
+We have given some examples of the general
+ignorance of the Greek philosophers on such subjects, in noticing the
+strange manner in which Aristotle refers to mathematical properties,
+in order to account for the equilibrium of a lever, and the attitude
+of a man rising from a chair. And we have seen, in speaking of the indistinct ideas of the
+Stationary Period, that the attempts which were made to extend the
+statical doctrine of Archimedes, failed, in such a manner as to show
+that his followers had not clearly apprehended the idea on which his
+reasoning altogether depended. The clouds which he had, for a moment,
+cloven in his advance, closed after him, and the former dimness and
+confusion settled again on the land.
+This dimness and confusion, with respect to all subjects of
+mechanical reasoning, prevailed still, at the period we now have to
+consider; namely, the period of the first promulgation of the
+Copernican opinions. This is so important a point that I must
+illustrate it further.
+Certain general notions of the connection of cause and effect in
+motion, exist in the human mind at all periods of its development, and
+are implied in the formation of language and in the most familiar
+employments of men’s thoughts. But these do not constitute a
+science of 313 Mechanics, any more than the notions of
+square and round make a Geometry, or the notions of
+months and years make an Astronomy. The unfolding these
+Notions into distinct Ideas, on which can be founded principles and
+reasonings, is further requisite, in order to produce a science; and,
+with respect to the doctrines of Motion, this was long in coming to
+pass; men’s thoughts remained long entangled in their primitive and
+unscientific confusion.
+We may mention one or two features of this confusion, such as we
+find in authors belonging to the period now under review.
+We have already, in speaking of the Greek
+School Philosophy, noticed the attempt to explain some of the
+differences among Motions, by classifying them into Natural Motions
+and Violent Motions; and we have spoken of the assertion that heavy
+bodies fall quicker in proportion to their greater weight. These
+doctrines were still retained: yet the views which they implied were
+essentially erroneous and unsound; for they did not refer distinctly
+to a measurable Force as the cause of all motion or change of motion;
+and they confounded the causes which produce and those which
+preserve, motion. Hence such principles did not lead
+immediately to any advance of knowledge, though efforts were made to
+apply them, in the cases both of terrestrial Mechanics and of the
+motions of the heavenly bodies.
+The effect of the Inclined Plane was one of the first, as it was
+one of the most important, propositions, on which modern writers
+employed themselves. It was found that a body, when supported on a
+sloping surface, might be sustained or raised by a force or exertion
+which would not have been able to sustain or raise it without such
+support. And hence, The Inclined Plane was placed in the list
+of Mechanical Powers, or simple machines by which the efficacy of
+forces is increased: the question was, in what proportion this
+increase of efficiency takes place. It is easily seen that the force
+requisite to sustain a body is smaller, as the slope on which it rests
+is smaller; Cardan (whose work, De Proportionibus Numerorum,
+Motuum, Ponderum, &c., was published in 1545) asserts that the
+force is double when the angle of inclination is double, and so on for
+other proportions; this is probably a guess, and is an erroneous one.
+Guido Ubaldi, of Marchmont, published at Pesaro, in 1577, a work which
+he called Mechanicorum Liber, in which he endeavors to prove
+that an acute wedge will produce a greater mechanical effect than an
+obtuse one, without determining in what proportion. There is, he
+observes, “a certain repugnance” between the direction in which the
+side of the wedge tends to 314 move the obstacle, and the direction in
+which it really does move. Thus the Wedge and the Inclined Plane are
+connected in principle. He also refers the Screw to the Inclined Plane
+and the Wedge, in a manner which shows a just apprehension of the
+question. Benedetti (1585) treats the Wedge in a different manner; not
+exact, but still showing some powers of thought on mechanical
+subjects. Michael Varro, whose Tractatus de Motu was published
+at Geneva in 1584, deduces the wedge from the composition of
+hypothetical motions, in a way which may appear to some persons an
+anticipation of the doctrine of the Composition of Forces.
+There is another work on subjects of this kind, of which several
+editions were published in the sixteenth century, and which treats
+this matter in nearly the same way as Varro, and in favour of which a
+claim has been made2 (I think an unfounded one), as if it
+contained the true principle of this problem. The work is “Jordanus
+Nemorarius De Ponderositate.” The date and history of this
+author were probably even then unknown; for in 1599, Benedetti,
+correcting some of the errors of Tartalea, says they are taken “a
+Jordano quodam antiquo.” The book was probably a kind of school-book,
+and much used; for an edition printed at Frankfort, in 1533, is stated
+to be Cum gratia et privilegio Imperiali, Petro Apiano mathematico
+Ingolstadiano ad xxx annos concesso. But this edition does not
+contain the Inclined Plane. Though those who compiled the work assert
+in words something like the inverse proportion of Weights and their
+Velocities, they had not learnt at that time how to apply this maxim
+to the Inclined Plane; nor were they ever able to render a sound
+reason for it. In the edition of Venice, 1565, however, such an
+application is attempted. The reasonings are founded on the
+Aristotelian assumption, “that bodies descend more quickly in
+proportion as they are heavier.” To this principle are added some
+others; as, that “a body is heavier in proportion as it descends more
+directly to the centre,” and that, in proportion as a body descends
+more obliquely, the intercepted part of the direct descent is smaller.
+By means of these principles, the “descending force” of bodies, on
+inclined planes, was compared, by a process, which, so far as it forms
+a line of proof at all, is a somewhat curious example of confused and
+vicious reasoning. When two bodies are supported on two inclined
+planes, and are connected by a string passing over the junction of the
+planes, so that when one descends the other ascends, 315 they must move
+through equal spaces on the planes; but on the plane which is more
+oblique (that is, more nearly horizontal), the vertical descent will
+be smaller in the same proportion in which the plane is longer. Hence,
+by the Aristotelian principle, the weight of the body on the longer
+plane is less; and, to produce an equality of effect, the body must be
+greater in the same proportion. We may observe that the Aristotelian
+principle is not only false, but is here misapplied; for its genuine
+meaning is, that when bodies fall freely by gravity, they
+move quicker in proportion as they are heavier; but the rule is here
+applied to the motions which bodies would have, if they were
+moved by a force extraneous to their gravity. The proposition was
+supposed by the Aristotelians to be true of actual
+velocities; it is applied by Jordanus to virtual velocities,
+without his being aware what he was doing. This confusion being made,
+the result is got at by taking for granted that bodies thus
+proved to be equally heavy, have equal powers of descent on
+the inclined planes; whereas, in the previous part of the reasoning,
+the weight was supposed to be proportional to the descent in the
+vertical direction. It is obvious, in all this, that though the author
+had adopted the false Aristotelian principle, he had not settled in
+his own mind whether the motions of which it spoke were actual or
+virtual motions;—motions in the direction of the inclined plane,
+or of the intercepted parts of the vertical, corresponding to these;
+nor whether the “descending force” of a body was something different
+from its weight. We cannot doubt that, if he had been required to
+point out, with any exactness, the cases to which his reasoning
+applied, he would have been unable to do so; not possessing any of
+those clear fundamental Ideas of Pressure and Force, on which alone
+any real knowledge on such subjects must depend. The whole of
+Jordanus’s reasoning is an example of the confusion of thought of his
+period, and of nothing more. It no more supplied the want of some man
+of genius, who should give the subject a real scientific foundation,
+than Aristotle’s knowledge of the proportion of the weights on the
+lever superseded the necessity of Archimedes’s proof of it.
+2 Mr. Drinkwater’s Life of
+Galileo, in the Lib. Usef. Kn. p. 83.
+We are not, therefore, to wonder that, though this pretended
+theorem was copied by other writers, as by Tartalea, in his Quesiti
+et Inventioni Diversi, published in 1554, no progress was made in
+the real solution of any one mechanical problem by means of it. Guido
+Ubaldi, who, in 1577, writes in such a manner as to show that he had
+taken a good hold of his subject for his time, refers to Pappus’s
+solution of the problem of the Inclined Plane,  but makes no mention
+of that of 316
+Jordanus and Tartalea.3 No progress was likely to occur, till
+the mathematicians had distinctly recovered the genuine Idea of
+Pressure, as a Force producing equilibrium, which Archimedes had
+possessed, and which was soon to reappear in Stevinus.
+3 Ubaldi mentions and blames Jordanus’s
+way of treating the Lever. (See his Preface.)
+The properties of the Lever had always continued known to
+mathematicians, although, in the dark period, the superiority of the
+proof given by Archimedes had not been recognized. We are not to be
+surprised, if reasonings like those of Jordanus were applied to
+demonstrate the theories of the Lever with apparent success. Writers
+on Mechanics were, as we have seen, so vacillating in their mode of
+dealing with words and propositions, that their maxims could be made
+to prove any thing which was already known to be true.
+We proceed to speak of the beginning of the real progress of
+Mechanics in modern times.
+Sect. 2.—Revival of the Scientific Idea of
+Pressure.—Stevinus.—Equilibrium of Oblique
+Forces.
+The doctrine of the Centre of Gravity was
+the part of the mechanical speculations of Archimedes which was most
+diligently prosecuted after his time. Pappus and others, among the
+ancients, had solved some new problems on this subject, and
+Commandinus, in 1565, published De Centro Gravitatis Solidorum.
+Such treatises contained, for the most part, only mathematical
+consequences of the doctrines of Archimedes; but the mathematicians
+also retained a steady conviction of the mechanical property of the
+Centre of Gravity, namely, that all the weight of the body might be
+collected there, without any change in the mechanical results; a
+conviction which is closely connected with our fundamental conceptions
+of mechanical action. Such a principle, also, will enable us to
+determine the result of many simple mechanical arrangements; for
+instance, if a mathematician of those days had been asked whether a
+solid ball could be made of such a form, that, when placed on a
+horizontal plane, it should go on rolling forwards without limit
+merely by the effect of its own weight, he would probably have
+answered, that it could not; for that the centre of gravity of the
+ball would seek the lowest position it could find, and that, when it
+had found this, the ball could have no tendency to roll any further.
+And, in making this assertion, the supposed reasoner would not be
+317 anticipating
+any wider proof of the impossibility of a perpetual motion
+drawn from principles subsequently discovered, but would be referring
+the question to certain fundamental convictions, which, whether put
+into Axioms or not, inevitably accompany our mechanical
+conceptions.
+In the same way, Stevinus of Bruges, in 1586, when he published his
+Beghinselen der Waaghconst (Principles of Equilibrium), had
+been asked why a loop of chain, hung over a triangular beam, could
+not, as he asserted it could not, go on moving round and round
+perpetually, by the action of its own weight, he would probably have
+answered, that the weight of the chain, if it produced motion at all,
+must have a tendency to bring it into some certain position, and that
+when the chain had reached this position, it would have no tendency to
+go any further; and thus he would have reduced the impossibility of
+such a perpetual motion, to the conception of gravity, as a force
+tending to produce equilibrium; a principle perfectly sound and
+correct.
+Upon this principle thus applied, Stevinus did establish the
+fundamental property of the Inclined Plane. He supposed a loop of
+string, loaded with fourteen equal balls at equal distances, to hang
+over a triangular support which was composed of two inclined planes
+with a horizontal base, and whose sides, being unequal in the
+proportion of two to one, supported four and two balls respectively.
+He showed that this loop must hang at rest, because any motion would
+only bring it into the same condition in which it was at first; and
+that the festoon of eight balls which hung down below the triangle
+might be removed without disturbing the equilibrium; so that four
+balls on the longer plane would balance two balls on the shorter
+plane; or in other words, the weights would be as the lengths of the
+planes intercepted by the horizontal line.
+Stevinus showed his firm possession of the truth contained in this
+principle, by deducing from it the properties of forces acting in
+oblique directions under all kinds of conditions; in short, he showed
+his entire ability to found upon it a complete doctrine of
+equilibrium; and upon his foundations, and without any additional
+support, the mathematical doctrines of Statics might have been carried
+to the highest pitch of perfection they have yet reached. The
+formation of the science was finished; the mathematical development
+and exposition of it were alone open to extension and change.
+[2d Ed.] [“Simon Stevin of Bruges,” as he usually designates
+himself in the title-page of his work, has lately become an object of
+general interest in his own country, and it has been resolved to erect
+a 318 statue in
+honor of him in one of the public places of his native city. He was
+born in 1548, as I learn from M. Quetelet’s notice of him, and died in
+1620. Montucla says that he died in 1633; misled apparently by the
+preface to Albert Girard’s edition of Stevin’s works, which was
+published in 1634, and which speaks of a death which took place in the
+preceding year; but on examination it will be seen that this refers to
+Girard, not to Stevin.
+I ought to have mentioned, in consideration of the importance of
+the proposition, that Stevin distinctly states the triangle of
+forces; namely, that three forces which act upon a point are in
+equilibrium when they are parallel and proportional to the three sides
+of any plane triangle. This includes the principle of the
+Composition of Statical Forces. Stevin also applies his
+principle of equilibrium to cordage, pulleys, funicular polygons, and
+especially to the bits of bridles; a branch of mechanics which he
+calls Chalinothlipsis.
+He has also the merit of having seen very clearly, the distinction
+of statical and dynamical problems. He remarks that the question,
+“What force will support a loaded wagon on an inclined plane?
+is a statical question, depending on simple conditions; but that the
+question, What force will move the wagon? requires additional
+considerations to be introduced.
+In Chapter iv. of this Book, I have noticed
+Stevin’s share in the rediscovery of the Laws of the Equilibrium of
+Fluids. He distinctly explains the hydrostatic paradox, of
+which the discovery is generally ascribed to Pascal.
+Earlier than Stevinus, Leonardo da Vinci must have a place among
+the discoverers of the Conditions of Equilibrium of Oblique Forces. He
+published no work on this subject; but extracts from his manuscripts
+have been published by Venturi, in his Essai sur les Ouvrages
+Physico-Mathematiques de Leonard da Vinci, avec des Fragmens tirés de
+ses Manuscrits apportés d’Italie, Paris, 1797: and by Libri, in
+his Hist. des Sc. Math. en Italie, 1839. I have also myself
+examined these manuscripts in the Royal Library at Paris.
+It appears that, as early as 1499, Leonardo gave a perfectly
+correct statement of the proportion of the forces exerted by a cord
+which acts obliquely and supports a weight on a lever. He
+distinguishes between the real lever, and the potential levers,
+that is, the perpendiculars drawn from the centre upon the directions
+of the forces. This is quite sound and satisfactory. These views must
+in all probability have been sufficiently promulgated in Italy to
+influence the speculations of Galileo; 319 whose reasonings respecting the lever
+much resemble those of Leonardo.—Da Vinci also anticipated
+Galileo in asserting that the time of descent of a body down
+an inclined plane is to the time of descent down its vertical length
+in the proportion of the length of the plane to the height. But this
+cannot, I think, have been more than a guess: there is no vestige of a
+proof given.]
+The contemporaneous progress of the other branch of mechanics, the
+Doctrine of Motion, interfered with this independent advance of
+Statics; and to that we must now turn. We may observe, however, that
+true propositions respecting the composition of forces appear to have
+rapidly diffused themselves. The Tractatus de Motu of Michael
+Varro of Geneva, already noticed, printed in 1584, had asserted, that
+the forces which balance each other, acting on the sides of a
+right-angled triangular wedge, are in the proportion of the sides of
+the triangle; and although this assertion does not appear to have been
+derived from a distinct idea of pressure, the author had hence rightly
+deduced the properties of the wedge and the screw. And shortly after
+this time, Galileo also established the same results on different
+principles. In his Treatise Delle Scienze Mecaniche (1592), he
+refers the Inclined Plane to the Lever, in a sound and nearly
+satisfactory manner; imagining a lever so placed, that the motion of a
+body at the extremity of one of its arms should be in the same
+direction as it is upon the plane. A slight modification makes this an
+unexceptionable proof.
+Sect. 3.—Prelude to the Science of
+Dynamics.—Attempts at the First Law of Motion.
+We have already seen, that Aristotle divided Motions into Natural
+and Violent. Cardan endeavored to improve this division by making
+three classes: Voluntary Motion, which is circular and uniform,
+and which is intended to include the celestial motions; Natural
+Motion, which is stronger towards the end, as the motion of a falling
+body,—this is in a straight line, because it is motion to an
+end, and nature seeks her ends by the shortest road; and thirdly,
+Violent Motion, including in this term all kinds different from
+the former two. Cardan was aware that such Violent Motion might be
+produced by a very small force; thus he asserts, that a spherical body
+resting on a horizontal plane may be put in motion by any force which
+is sufficient to cleave the air; for which, however, he erroneously
+assigns as a reason, 320 the smallness of the point of contact.4
+But the most common mistake of this period was, that of supposing that
+as force is requisite to move a body, so a perpetual supply of force
+is requisite to keep it in motion. The whole of what Kepler called his
+“physical” reasoning, depended upon this assumption. He endeavored to
+discover the forces by which the motions of the planets about the sun
+might be produced; but, in all cases, he considered the velocity of
+the planet as produced by, and exhibiting the effect of, a force which
+acted in the direction of the motion. Kepler’s essays, which are in
+this respect so feeble and unmeaning, have sometimes been considered
+as disclosing some distant anticipation of Newton’s discovery of the
+existence and law of central forces. There is, however, in reality, no
+other connection between these speculations than that which arises
+from the use of the term force by the two writers in two
+utterly different meanings. Kepler’s Forces were certain imaginary
+qualities which appeared in the actual motion which the bodies had;
+Newton’s Forces were causes which appeared by the change of motion:
+Kepler’s Forces urged the bodies forwards; Newton’s deflected the
+bodies from such a progress. If Kepler’s Forces were destroyed, the
+body would instantly stop; if Newton’s were annihilated, the body
+would go on uniformly in a straight line. Kepler compares the action
+of his Forces to the way in which a body might be driven round, by
+being placed among the sails of a windmill; Newton’s Forces would be
+represented by a rope pulling the body to the centre. Newton’s Force
+is merely mutual attraction; Kepler’s is something quite different
+from this; for though he perpetually illustrates his views by the
+example of a magnet, he warns us that the sun differs from the magnet
+in this respect, that its force is not attractive, but directive.5
+Kepler’s essays may with considerable reason be asserted to be an
+anticipation of the Vortices of Descartes; but they can with no
+propriety whatever be said to anticipate Newton’s Dynamical
+Theory.
+4 In speaking of the force which would
+draw a body up an inclined plane he observes, that “per communem animi
+sententiam,” when the plane becomes horizontal, the requisite force is
+nothing.
+5 Epitome Astron. Copern. p.
+176.
+The confusion of thought which prevented mathematicians from seeing
+the difference between producing and preserving motion, was, indeed,
+fatal to all attempts at progress on this subject. We have already  noticed the perplexity in which Aristotle
+involved himself, by his endeavors to find a reason for the continued
+motion of a stone 321 after the moving power had ceased to
+act; and that he had ascribed it to the effect of the air or other
+medium in which the stone moves. Tartalea, whose Nuova Scienza
+is dated 1550, though a good pure mathematician, is still
+quite in the dark on mechanical matters. One of his propositions, in
+the work just mentioned, is (B. i. Prop. 3), “The more a heavy body
+recedes from the beginning, or approaches the end of violent motion,
+the slower and more inertly it goes;” which he applies to the
+horizontal motion of projectiles. In like manner most other writers
+about this period conceived that a cannon-ball goes forwards till it
+loses all its projectile motion, and then falls downwards. Benedetti,
+who has already been mentioned, must be considered as one of the first
+enlightened opponents of this and other Aristotelian errors or
+puzzles. In his Speculationum Liber (Venice, 1585), he opposes
+Aristotle’s mechanical opinions, with great expressions of respect,
+but in a very sweeping manner. His chapter xxiv. is headed, “Whether
+this eminent man was right in his opinion concerning violent and
+natural motion.” And after stating the Aristotelian opinion just
+mentioned, that the body is impelled by the air, he says that the air
+must impede rather than impel the body, and that6 “the motion of the
+body, separated from the mover, arises by a certain natural impression
+from the impetuosity (ex impetuositate) received from the
+mover.” He adds, that in natural motions this impetuosity
+continually increases by the continued action of the
+cause,—namely, the propension of going to the place assigned it
+by nature; and that thus the velocity increases as the body moves from
+the beginning of its path. This statement shows a clearness of
+conception with regard to the cause of accelerated motion, which
+Galileo himself was long in acquiring.
+6 P. 184.
+Though Benedetti was thus on the way to the First Law of
+Motion,—that all motion is uniform and rectilinear, except so
+far as it is affected by extraneous forces;—this Law was not
+likely to be either generally conceived, or satisfactorily proved,
+till the other Laws of Motion, by which the action of Forces is
+regulated, had come into view. Hence, though a partial apprehension of
+this principle had preceded the discovery of the Laws of Motion, we
+must place the establishment of the principle in the period when those
+Laws were detected and established, the period of Galileo and his
+followers. 322</div></body></text></TEI>

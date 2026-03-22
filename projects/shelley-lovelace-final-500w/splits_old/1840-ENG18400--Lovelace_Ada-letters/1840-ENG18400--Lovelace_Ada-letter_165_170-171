@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 170-171</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 170-171.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1840">undated (estimated from box 165 date range)</date>
+          <note type="place">[no place]</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 170-171</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_170-171.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Wednesday Afternoon</p>
+      <p>Dearest W. I am very busy with my singing &amp; things; &amp; get on nicely, &amp; I think all is doing well.</p>
+      <p>I wish I had more to say that is amusing; but I am a complete wild Avis, &amp; associate</p>
+      <p>with but few other Birds. I hope however to be able to sing gloriously by &amp; bye for you; as my voice improves much; &amp; they say that by the Summer I may sing a little to company, provided I choose the right things, and that I am a person very unlikely to be timid about it, (when</p>
+      <p>I can do it tolerably well); for that I have become so very impudent a Thrush, it is not easy to make me nervous. And how nice it would be for you, if I could help off the evening in this way.</p>
+      <p>The Hen desired me to mention to you that she has been much relieved about E's cause, by Dr Lushington's assuring</p>
+      <p>her that Pemberton takes quite the right view of the case, &amp; is all that could be wished.--</p>
+      <p>Will you kindly, dear, find for me the 1st Vol (an Octavo in Boards) of Lindley Murray's Grammar, in my Sitting Room I believe, &amp; have it sent with the first hamper. We much want it here, for a particular purpose.</p>
+    </div></body>
+  </text>
+</TEI>

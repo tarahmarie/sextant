@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 34-35</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 34-35.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1835">7 December [1835]</date>
+          <note type="place">Fordhook</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 34-35</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_34-35.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Fordhook. Monday. 7th Decr.</p>
+      <p>My Dearest. The Birdie is overflowing with happiness over an innundation of letters from its dearest mate. One by Fordhook post-- two from Ockham by George! I have only a few minutes now to spare, for I am going to Mrs Somerville at Chelsea this afternoon, and the Hen wishes me to</p>
+      <p>set out in good time, that I may not be in the dark this foggy day when I return.-- I am as happpy here as I could possibly be without ou, &amp; the dear old Hen pets the Bird very much.--</p>
+      <p>Mr Wharton was here yesterday, &amp; is decidely of opinion that the price of corn will rise, &amp; rents in consequence, after Christmas. It has already risen in France.-- I asked him to come to</p>
+      <p>Ockham, but you must give him a specific invitation.--</p>
+      <p>The Hen has asked a few people to dinner on Thursday to meet us-- Dr Lushington, Mr Grieg, the Murrays &amp;c. I must end. I am very well.--</p>
+      <p>Your most affecte Birdie A.A.K.</p>
+    </div></body>
+  </text>
+</TEI>

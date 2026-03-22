@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 165, folios 224-225</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 165, folios 224-225.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [William King]</title>
+          <date when="1840">undated (estimated from box 165 date range)</date>
+          <note type="place">Esher</note>
+          <note type="shelfmark">Lovelace Byron 165, folios 224-225</note>
+          <note type="recipient">[William King]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_165_folios_224-225.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>Esher Monday 1 o'clock</p>
+      <p>Dearest W. Tho' I left Hester in charge to write to you, yet dearest Mate, I must send a line to you from here; for I am sure it will give you pleasure; &amp; I find things to answer in your 2 dear long interesting letters, which I have been</p>
+      <p>reading in my way down here. Yes-- I will certainly go to another Drawing-Room. I had intended doing so at any rate probably; but to please you is ample reason, had I not even thought of it otherwise.</p>
+      <p>You shall hear &amp; know all about my dress &amp; everything.--</p>
+      <p>How stiff &amp; odd is J. Fortescue's letter!--</p>
+      <p>Dear Mate, I</p>
+      <p>hope for great ultimate success in the musical &amp; dramatic line,-- but only as the result of hard study, &amp; real solid work, &amp; also if undertaken in the right spirit; not from vanity, but from far deeper &amp; higher feelings.</p>
+      <p>And for the present, I cannot hope to shine at all of course. But indeed I value your wise &amp; excellent counsels;</p>
+      <p>&amp; will always endeavour to bear in mind the dangers of trusting to mere flash &amp; transient success or gratification of vanity. Altho' I think I have too real &amp; true a soul to be hit with such.-- No time for more.</p>
+    </div></body>
+  </text>
+</TEI>

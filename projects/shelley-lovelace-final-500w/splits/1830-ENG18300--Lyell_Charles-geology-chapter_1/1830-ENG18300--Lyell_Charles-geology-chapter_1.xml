@@ -1,0 +1,121 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Principles of Geology</title><author>Lyell, Charles (1797-1875)</author></titleStmt><publicationStmt><publisher>John Murray</publisher><pubPlace>London</pubPlace><date>1830</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="1">CHAPTER I.
+Geology defined—Compared to History—Its relation to other Physical Sciences—Not
+to be confounded with Cosmogony.
+Geology is the science which investigates the successive changes that
+have taken place in the organic and inorganic kingdoms of nature; it
+inquires into the causes of these changes, and the influence which they
+have exerted in modifying the surface and external structure of our planet.
+By these researches into the state of the earth and its inhabitants at
+former periods, we acquire a more perfect knowledge of its present condition,
+and more comprehensive views concerning the laws now governing
+its animate and inanimate productions. When we study history, we
+obtain a more profound insight into human nature, by instituting a comparison
+between the present and former states of society. We trace the
+long series of events which have gradually led to the actual posture of
+affairs; and by connecting effects with their causes, we are enabled to
+classify and retain in the memory a multitude of complicated relations—the
+various peculiarities of national character—the different degrees of
+moral and intellectual refinement, and numerous other circumstances,
+which, without historical associations, would be uninteresting or imperfectly
+understood. As the present condition of nations is the result of
+many antecedent changes, some extremely remote, and others recent,
+some gradual, others sudden and violent; so the state, of the natural
+world is the result of a long succession of events; and if we would enlarge
+our experience of the present economy of nature, we must investigate
+the effects of her operations in former epochs.
+We often discover with surprise, on looking back into the chronicles
+of nations, how the fortune of some battle has influenced the fate of
+millions of our contemporaries, when it has long been forgotten by the
+mass of the population. With this remote event we may find inseparably
+connected the geographical boundaries of a great state, the language
+now spoken by the inhabitants, their peculiar manners, laws, and
+religious opinions. But far more astonishing and unexpected are the
+connections brought to light, when we carry back our researches into
+the history of nature. The form of a coast, the configuration of the in2terior
+of a country, the existence and extent of lakes, valleys, and mountains,
+can often be traced to the former prevalence of earthquakes and
+volcanoes in regions which have long been undisturbed. To these remote
+convulsions the present fertility of some districts, the sterile character of
+others, the elevation of land above the sea, the climate, and various peculiarities,
+may be distinctly referred. On the other hand, many distinguishing
+features of the surface may often be ascribed to the operation,
+at a remote era, of slow and tranquil causes—to the gradual deposition
+of sediment in a lake or in the ocean, or to the prolific increase of testacea
+and corals.
+To select another example, we find in certain localities subterranean
+deposits of coal, consisting of vegetable matter, formerly drifted into
+seas and lakes. These seas and lakes have since been filled up, the lands
+whereon the forests grew have disappeared or changed their form, the
+rivers and currents which floated the vegetable masses can no longer be
+traced, and the plants belonged to species which for ages have passed
+away from the surface of our planet. Yet the commercial prosperity,
+and numerical strength of a nation, may now be mainly dependent on
+the local distribution of fuel determined by that ancient state of things.
+Geology is intimately related to almost all the physical sciences, as
+history is to the moral. An historian should, if possible, be at once profoundly
+acquainted with ethics, politics, jurisprudence, the military art,
+theology; in a word, with all branches of knowledge by which any insight
+into human affairs, or into the moral and intellectual nature of man,
+can be obtained. It would be no less desirable that a geologist should
+be well versed in chemistry, natural philosophy, mineralogy, zoology,
+comparative anatomy, botany; in short, in every science relating to organic
+and inorganic nature. With these accomplishments, the historian
+and geologist would rarely fail to draw correct and philosophical conclusions
+from the various monuments transmitted to them of former occurrences.
+They would know to what combination of causes analogous
+effects were referable, and they would often be enabled to supply, by
+inference, information concerning many events unrecorded in the defective
+archives of former ages. But as such extensive acquisitions are
+scarcely within the reach of any individual, it is necessary that men who
+have devoted their lives to different departments should unite their
+efforts; and as the historian receives assistance from the antiquary, and
+from those who have cultivated different branches of moral and political
+science, so the geologist should avail himself of the aid of many naturalists,
+and particularly of those who have studied the fossil remains of lost
+species of animals and plants.
+The analogy, however, of the monuments consulted in geology, and
+those available in history, extends no farther than to one class of historical
+monuments—those which may be said to be undesignedly commemorative
+of former events. The canoes, for example, and stone hatchets
+found in our peat bogs, afford an insight into the rude arts and manners
+of the earliest inhabitants of our island; the buried coin fixes the date3
+of the reign of some Roman emperor; the ancient encampment indicates
+the districts once occupied by invading armies, and the former method
+of constructing military defences; the Egyptian mummies throw light
+on the art of embalming, the rites of sepulture, or the average stature
+of the human race in ancient Egypt. This class of memorials yields to
+no other in authenticity, but it constitutes a small part only of the resources
+on which the historian relies, whereas in geology it forms the
+only kind of evidence which is at our command. For this reason we
+must not expect to obtain a full and connected account of any series of
+events beyond the reach of history. But the testimony of geological
+monuments, if frequently imperfect, possesses at least the advantage of
+being free from all intentional misrepresentation. We may be deceived
+in the inferences which we draw, in the same manner as we often mistake
+the nature and import of phenomena observed in the daily course of nature;
+but our liability to err is confined to the interpretation, and, if this
+be correct, our information is certain.
+It was long before the distinct nature and legitimate objects of geology
+were fully recognized, and it was at first confounded with many other
+branches of inquiry, just as the limits of history, poetry, and mythology
+were ill-defined in the infancy of civilization. Even in Werner's time,
+or at the close of the eighteenth century, geology appears to have been
+regarded as little other than a subordinate department of mineralogy;
+and Desmarest included it under the head of Physical Geography. But
+the most common and serious source of confusion arose from the notion,
+that it was the business of geology to discover the mode in which the
+earth originated, or, as some imagined, to study the effects of those cosmological
+causes which were employed by the Author of Nature to
+bring this planet out of a nascent and chaotic state into a more perfect
+and habitable condition. Hutton was the first who endeavored to draw
+a strong line of demarcation between his favorite science and cosmogony,
+for he declared that geology was in nowise concerned "with questions
+as to the origin of things."
+An attempt will be made in the sequel of this work to demonstrate
+that geology differs as widely from cosmogony, as speculations concerning
+the mode of the first creation of man differ from history. But, before
+entering more at large on this controverted question, it will be desirable
+to trace the progress of opinion on this topic, from the earliest
+ages to the commencement of the present century.
+
+4</div></body></text></TEI>

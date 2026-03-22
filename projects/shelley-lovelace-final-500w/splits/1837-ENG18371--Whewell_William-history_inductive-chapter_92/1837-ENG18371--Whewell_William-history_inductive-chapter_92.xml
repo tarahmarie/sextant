@@ -1,0 +1,126 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="92">CHAPTER VIII.
+Discovery of the Laws of Magneto-Electric
+Induction.—Faraday.
+IT was clearly established by
+Ampère, as we have seen, that magnetic action is a peculiar form of
+electromotive actions, and that, in 254 this kind of agency, action and reaction
+are equal and opposite. It appeared to follow almost irresistibly from
+these considerations, that magnetism might be made to produce
+electricity, as electricity could be made to imitate all the effects
+of magnetism. Yet for a long time the attempts to obtain such a result
+were fruitless. Faraday, in 1825, endeavored to make the
+conducting-wire of the voltaic circuit excite electricity in a
+neighboring wire by induction, as the conductor charged with common
+electricity would have done, but he obtained no such effect. If this
+attempt had succeeded, the magnet, which, for all such purposes, is an
+assemblage of voltaic circuits, might also have been made to excite
+electricity. About the same time, an experiment was made in France by
+M. Arago, which really involved the effect thus sought; though this
+effect was not extricated from the complex phenomenon, till Faraday
+began his splendid career of discovery on this subject in 1832.
+Arago’s observation was, that the rapid revolution of a
+conducting-plate in the neighborhood of a magnet, gave rise to a force
+acting on the magnet. In England, Messrs. Barlow and Christie,
+Herschel and Babbage, repeated and tried to analyse this experiment;
+but referring the forces only to conditions of space and time, and
+overlooking the real cause, the electrical currents produced by the
+motion, these philosophers were altogether unsuccessful in their
+labors. In 1831, Faraday again sought for electro-dynamical induction,
+and after some futile trials, at last found it in a form different
+from that in which he had looked for it. It was then seen, that at the
+precise time of making or breaking the contact which closed the
+galvanic circuit, a momentary effect was induced in a neighboring
+wire, but disappeared instantly.24 Once in
+possession of this fact, Mr. Faraday ran rapidly up the ladder of
+discovery, to the general point of view.—Instead of suddenly
+making or breaking the contact of the inducing circuit, a similar
+effect was produced by removing the inducible wire nearer to or
+further from the circuit;25—the effects were increased by the
+proximity of soft iron;26—when the soft iron was affected
+by an ordinary magnet instead of the voltaic wire, the same effect
+still recurred;27—and thus it appeared, that by
+making and breaking magnetic contact, a momentary electric current was
+produced. It was produced also by moving the magnet;28—or by moving the wire with
+reference to the magnet.29 Finally, it was found that the earth
+might supply the place of a magnet 255 in this as in other experiments;30 and the mere motion of a wire, under
+proper circumstances, produced in it, it appeared, a momentary
+electric current.31 These facts were curiously confirmed by
+the results in special cases. They explained Arago’s experiments: for
+the momentary effect became permanent by the revolution of the plate.
+And without using the magnet, a revolving plate became an electrical
+machine;32—a revolving globe exhibited
+electro-magnetic action,33 the circuit being complete in the globe
+itself without the addition of any wire;—and a mere motion of
+the wire of a galvanometer produced an electro-dynamic effect upon its
+needle.34
+24 Phil. Trans. 1832, p. 127,
+First Series, Art. 10.
+25 Art. 18.
+26 Art. 28.
+27 Art. 37.
+28 Art. 39.
+29 Art. 53.
+30 Second Series, Phil. Trans.
+p. 163.
+31 Art. 141.
+32 Art. 150.
+33 Art. 164.
+34 Art. 171.
+But the question occurs, What is the general law which determines
+the direction of electric currents thus produced by the joint effects
+of motion and magnetism? Nothing but a peculiar steadiness and
+clearness in his conceptions of space, could have enabled Mr. Faraday
+to detect the law of this phenomenon. For the question required that
+he should determine the mutual relations in space which connect the
+magnetic poles, the position of the wire, the direction of the wire’s
+motion, and the electrical current produced in it. This was no easy
+problem; indeed, the mere relation of the magnetic to the electric
+forces, the one set being perpendicular to the other, is of itself
+sufficient to perplex the mind; as we have seen in the history of the
+electrodynamical discoveries. But Mr. Faraday appears to have seized
+at once the law of the phenomena. “The relation,” he says,35 “which holds between the magnetic pole,
+the moving wire or metal, and the direction of the current evolved, is
+very simple (so it seemed to him) although rather difficult to
+express.” He represents it by referring position and motion to the
+“magnetic curves,” which go from a magnetic pole to the opposite pole.
+The current in the wire sets one way or the other, according to the
+direction in which the motion of the wire cuts these curves. And thus
+he was enabled, at the end of his Second Series of Researches
+(December, 1831), to give, in general terms, the law of nature to
+which may be referred the extraordinary number of new and curious
+experiments which he has stated;36—namely,
+that if a wire move so as to cut a magnetic curve, a power is called
+into action which tends to urge a magnetic current through the wire;
+and that if a mass move so that its parts do not move in the same
+direction across the magnetic curves, 256 and with the same angular velocity,
+electrical currents are called into play in the mass.
+35 First Series, Art. 114.
+36 Art. 256–264.
+This rule, thus simple from its generality, though inevitably
+complex in every special case, may be looked upon as supplying the
+first demand of philosophy, the law of the phenomena; and
+accordingly Dr. Faraday has, in all his subsequent researches on
+magneto-electric induction, applied this law to his experiments; and
+has thereby unravelled an immense amount of apparent inconsistency and
+confusion, for those who have followed him in his mode of conceiving
+the subject.
+But yet other philosophers have regarded these phenomena in other
+points of view, and have stated the laws of the phenomena in a manner
+different from Faraday’s, although for the most part equivalent to
+his. And these attempts to express, in the most simple and general
+form, the law of the phenomena of magneto-electrical induction, have
+naturally been combined with the expression of other laws of
+electrical and magnetical phenomena. Further, these endeavors to
+connect and generalize the Facts have naturally been clothed in the
+garb of various Theories:—the laws of phenomena have been
+expressed in terms of the supposed causes of the phenomena; as
+fluids, attractions and repulsions, particles with currents running
+through them or round them, physical lines of force, and the like.
+Such views, and the conflict of them, are the natural and hopeful
+prognostics of a theory which shall harmonize their discords and
+include all that each contains of Truth. The fermentation at present
+is perhaps too great to allow us to see clearly the truth which lies
+at the bottom. But a few of the leading points of recent discussions
+on these subjects will be noticed in the Additions
+to this volume.
+</div></body></text></TEI>

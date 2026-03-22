@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Box 166, folios 137-138</title>
+        <author>Lovelace, Ada</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transcribed from Bodleian Library, Lovelace Byron collection, Box 166, folios 137-138.
+           Transcription by Lisa Gold (2022).
+           TEI conversion for Sextant pipeline, 2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Ada Lovelace</author>
+          <title>Letter to [Lady Byron]</title>
+          <date when="1845">undated [24 January 1845]</date>
+          <note type="place">St. James's Square</note>
+          <note type="shelfmark">Lovelace Byron 166, folios 137-138</note>
+          <note type="recipient">[Lady Byron]</note>
+          <note type="transcriber">Lisa Gold</note>
+          <note type="source_file">transcription_Lovelace_Byron_166_folios_137-138.txt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><div type="letter">
+      <p>St James' Sqre Friday Afternoon</p>
+      <p>I am in a disagreeable plight rather. I have not been able to stir all day, waiting for Dr Locock, [parenthetical bracket crossed out] whom it was very necessary I should see on account of a local complaint, of which I have thought nothing hitherto; but finding it become worse, I wished to consult him about it; &amp; he finds, after making a complete examination internally, that I am in a most sad state, requiring great care.</p>
+      <p>My general state of health he is quite delighted with; but this disorder might affect that, if it were not seen to. It is one of decided debility, he says.</p>
+      <p>I believe that at present I must not ride at all.</p>
+      <p>Some light has been</p>
+      <p>thrown on my sexual inabilities, by the present circumstances.</p>
+      <p>I shall probably remain on in Town 2 or 3 days, on account of this matter; that Dr L-- may watch the first effects of his remedies, which are pretty strong ones. It is sadly inconvenient; for I have to apply things many times a day.--</p>
+      <p>I am very well, but not very strong; &amp; quite unequal to hurrying a crowd of business into a day or two; so if I do stay on, I can at least do at leisure, a few things I must otherwise have left undone.</p>
+      <p>You will perceive I have been able yet to do nothing about the presents, as I did not succeed yesterday.--</p>
+      <p>I really must mind this matter, or else I may be laid up like Miss Martineau perhaps. The womb and everything is in a state of extreme relaxation &amp; tenderness it seems. No muscular tension in any part.--</p>
+      <p>If you would not object to forwarding on this letter to William, by post tonight, (to Ockham), it will save my writing the same thing twice over, &amp; I shall mention in my letter to him, that he will find the particulars in one you will send him.--</p>
+      <p>Dr L-- thinks my head &amp; all that, now perfectly right; &amp; advises the continuance of wine, as indeed absolutely necessary, (in such quantities that is, as he</p>
+      <p>authorizes). My present uterine state does not show any great strength, he says, in the general system.</p>
+    </div></body>
+  </text>
+</TEI>

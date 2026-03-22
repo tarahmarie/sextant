@@ -1,0 +1,424 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Chemical History of a Candle</title><author>Faraday, Michael (1791-1867)</author></titleStmt><publicationStmt><publisher>Chatto and Windus</publisher><pubPlace>London</pubPlace><date>1861</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="lecture" n="4">
+HYDROGEN IN THE CANDLE—BURNS INTO WATER—THE OTHER PART OF WATER—OXYGEN.
+I see you are not tired of the candle yet, or I am sure you would not be
+interested in the subject in the way you are. When our candle was burning,
+we found it produced water exactly like the water we have around us; and
+by further examination of this water we found in it that curious body,
+hydrogen—that light substance of which there is some in this jar. We
+afterwards saw the burning powers of that hydrogen, and that it produced
+water. And I think I introduced to your notice an apparatus which I very
+briefly said was an arrangement of chemical force, or power, or energy, so
+adjusted as to convey its power to us in these wires; and I said I should
+use that force to pull the water to pieces, to see what else there was in
+the water besides hydrogen; because, you remember, when we passed the
+water through the iron tube, we by no means got the weight of water back
+which we put in, in the form of steam, though we had a very large quantity
+of gas evolved. We have now to see what is the other substance present.
+That you may understand the character and use of this instrument, let us
+make an experiment or two. Let us put together, first of all, some
+substances, knowing what they are, and then see what that instrument does
+to them. There is some copper (observe the various changes which it can
+undergo), and here is some nitric acid, and you will find that this, being
+a strong chemical agent, will act very powerfully when I add it to the
+copper. It is now sending forth a beautiful red vapour; but as we do not
+want that vapour, Mr. Anderson will hold it near the chimney for a short
+time, that we may have the use and beauty of the experiment without the
+annoyance. The copper which I have put into the flask will dissolve: it
+will change the acid and the water into a blue fluid, containing copper
+and other things; and I propose then shewing you how this voltaic battery
+deals with it; and in the mean time we will arrange another kind of
+experiment for you to see what power it has. This is a substance which is
+to us like water—that is to say, it contains bodies which we do not know
+of as yet, as water contains a body which we do not know as yet. Now, this
+solution of a salt[15] I will put upon paper, and spread about, and apply
+the power of the battery to it, and observe what will happen. Three or
+four important things will happen which we shall take advantage of. I
+place this wetted paper upon a sheet of tinfoil, which is convenient for
+keeping all clean, and also for the advantageous application of the power;
+and this solution, you see, is not at all affected by being put upon the
+paper or tinfoil, nor by anything else I have brought in contact with it
+yet, and which, therefore, is free to us to use as regards that
+instrument. But first let us see that our instrument is in order. Here are
+our wires. Let us see whether it is in the state in which it was last
+time. We can soon tell. As yet, when I bring them together, we have no
+power, because the conveyers—what we call the electrodes—the passages or
+ways for the electricity—are stopped; but now Mr. Anderson by that
+[referring to a sudden flash at the ends of the wires] has given me a
+telegram to say that it is ready. Before I begin our experiment I will get
+Mr. Anderson to break contact again at the battery behind me, and we will
+put a platinum-wire across to connect the poles, and then if I find I can
+ignite a pretty good length of this wire, we shall be safe in our
+experiment. Now you will see the power. [The connection was established,
+and the intermediate wire became red-hot.] There is the power running
+beautifully through the wire, which I have made thin on purpose to shew
+you that we have those powerful forces; and now, having that power, we
+will proceed with it to the examination of water.
+I have here two pieces of platinum, and if I lay them down upon this piece
+of paper [the moistened paper on the tinfoil], you will see no action; and
+if I take them up, there is no change that you can see, but the
+arrangement remains just as it was before. But, now, see what happens: if
+I take these two poles and put either one or the other of them down
+separately on the platinum-plates, they do nothing for me, both are
+perfectly without action; but if I let them both be in contact at the same
+moment, see what happens [a brown spot appeared under each pole of the
+battery]. Look here at the effect that takes place, and see how I have
+pulled something apart from the white—something brown; and I have no
+doubt, if I were to arrange it thus, and were to put one of the poles to
+the tinfoil on the other side of the paper—why, I get such a beautiful
+action upon the paper, that I am going to see whether I cannot write with
+it—a telegram, if you please. [The Lecturer here traced the word
+“juvenile” on the paper with one of the terminal wires.] See there how
+beautifully we can get our results!
+You see we have here drawn something, which we have not known about
+before, out of this solution. Let us now take that flask from Mr.
+Andersen’s hands, and see what we can draw out of that. This, you know, is
+a liquid which we have just made up from copper and nitric acid, whilst
+our other experiments were in hand; and though I am making this experiment
+very hastily, and may bungle a little, yet I prefer to let you see what I
+do rather than prepare it beforehand.
+Now, see what happens. These two platinum-plates are the two ends (or I
+will make them so immediately) of this apparatus; and I am about to put
+them in contact with that solution just as we did a moment ago on the
+paper. It does not matter to us whether the solution be on the paper or
+whether it be in the jar, so long as we bring the ends of the apparatus to
+it. If I put the two platinums in by themselves, they come out as clean
+and as white as they go in [inserting them into the fluid without
+connecting them with the battery]; but when we take the power and lay that
+on [the platinums were connected with the battery and again dipped into
+the solution], this, you see [exhibiting one of the platinums], is at once
+turned into copper, as it were: it has become like a plate of copper; and
+that [exhibiting the other piece of platinum] has come out quite clean. If
+I take this coppered piece and change sides, the copper will leave the
+right-hand side and come over to the left side; what was before the
+coppered plate comes out clean, and the plate which was clean comes out
+coated with copper; and thus you see that the same copper we put into this
+solution we can also take out of it by means of this instrument.
+Putting that solution aside, let us now see what effect this instrument
+will have upon water. Here are two little platinum-plates which I intend
+to make the ends of the battery, and this (C) is a little vessel so shaped
+as to enable me to take it to pieces, and shew you its construction. In
+these two cups (A and B) I pour mercury, which touches the ends of the
+wires connected with the platinum-plates. In the vessel (C) I pour some
+water containing a little acid (but which is put only for the purpose of
+facilitating the action; it undergoes no change in the process), and
+connected with the top of the vessel is a bent glass tube (D), which may
+remind you of the pipe which was connected with the gun barrel in our
+furnace experiment, and which now passes under the jar (F).  I have now
+adjusted this apparatus, and we will proceed to affect the water in some
+way or other. In the other case, I sent the water through a tube which was
+made red-hot; I am now going to pass the electricity through the contents
+of this vessel.  Perhaps I may boil the water; if I do boil the water, I
+shall get steam; and you know that steam condenses when it gets cold, and
+you will therefore see by that whether I do boil the water or not.
+Perhaps, however, I shall not boil the water, but produce some other
+effect.  You shall have the experiment and see. There is one wire which I
+will put to this side (A), and here is the other wire which I will put to
+the other side (B), and you will soon see whether any disturbance takes
+place. Here it is seeming to boil up famously; but does it boil? Let us
+see whether that which goes out is steam or not. I think you will soon see
+the jar (F) will be filled with vapour, if that which rises from the water
+is steam. But can it be steam? Why, certainly not; because there it
+remains, you see, unchanged.  There it is standing over the water, and it
+cannot therefore be steam, but must be a permanent gas of some sort What
+is it? Is it hydrogen? Is it anything else? Well, we will examine it. If
+it is hydrogen, it will burn. [The Lecturer then ignited a portion of the
+gas collected, which burnt with an explosion.]
+[Illustration: Fig. 19]
+It is certainly something combustible, but not combustible in the way that
+hydrogen is. Hydrogen would not have given you that noise; but the colour
+of that light, when the thing did burn, was like that of hydrogen: it
+will, however, burn without contact with the air. That is why I have
+chosen this other form of apparatus, for the purpose of pointing out to
+you what are the particular circumstances of this experiment. In place of
+an open vessel I have taken one that is closed (our battery is so
+beautifully active that we are even boiling the mercury, and getting all
+things right—not wrong, but vigorously right); and I am going to shew you
+that that gas, whatever it may be, can burn without air, and in that
+respect differs from a candle, which cannot burn without the air. And our
+manner of doing this is as follows:—I have here a glass vessel (G) which
+is fitted with two platinum-wires (IK), through which I can apply
+electricity; and we can put the vessel on the air-pump and exhaust the
+air, and when we have taken the air out we can bring it here and fasten it
+on to this jar (F), and let into the vessel that gas which was formed by
+the action of the voltaic battery upon the water, and which we have
+produced by changing the water into it,—for I may go as far as this, and
+say we have really, by that experiment, changed the water into that gas.
+We have not only altered its condition, but we have changed it really and
+truly into that gaseous substance, and all the water is there which was
+decomposed by the experiment. As I screw this vessel (GH) on here (H), and
+make the tubes well connected, and when I open the stop-cocks (HHH), if
+you watch the level of the water (in F), you will see that the gas will
+rise. I will now close the stop-cocks, as I have drawn up as much as the
+vessel can hold, and being safely conveyed into that chamber, I will pass
+into it an electric spark from this Leyden jar (L), when the vessel, which
+is now quite clear and bright, will become dim. There will be no sound,
+for the vessel is strong enough to confine the explosion. [A spark was
+then passed through the jar, when the explosive mixture was ignited.] Did
+you see that brilliant light? If I again screw the vessel on to the jar,
+and open these stop-cocks, you will see that the gas will rise a second
+time. [The stop-cocks were then opened.] Those gases [referring to the
+gases first collected in the jar, and which had just been ignited by the
+electric spark] have disappeared, as you see: their place is vacant, and
+fresh gas has gone in. Water has been formed from them; and if we repeat
+our operation [repeating the last experiment], I shall have another
+vacancy, as you will see by the water rising. I always have an empty
+vessel after the explosion, because the vapour or gas into which that
+water has been resolved by the battery explodes under the influence of the
+spark, and changes into water; and by-and-by you will see in this upper
+vessel some drops of water trickling down the sides and collecting at the
+bottom.
+We are here dealing with water entirely, without reference to the
+atmosphere. The water of the candle had the atmosphere helping to produce
+it; but in this way it can be produced independently of the air. Water,
+therefore, ought to contain that other substance which the candle takes
+from the air, and which, combining with the hydrogen, produces water.
+Just now you saw that one end of this battery took hold of the copper,
+extracting it from the vessel which contained the blue solution. It was
+effected by this wire; and surely we may say, if the battery has such
+power with a metallic solution which we made and unmade, may we not find
+that it is possible to split asunder the component parts of the water, and
+put them into this place and that place? Suppose I take the poles—the
+metallic ends of this battery—and see what will happen with the water in
+this apparatus (fig. 20), where we have separated the two ends far apart.
+[Illustration: Fig. 20.]
+I place one here (at A), and the other there (at B), and I have little
+shelves with holes which I can put upon each pole, and so arrange them
+that whatever escapes from the two ends of the battery will appear as
+separate gases; for you saw that the water did not become vaporous, but
+gaseous. The wires are now in perfect and proper connection with the
+vessel containing the water; and you see the bubbles rising: let us
+collect these bubbles and see what they are. Here is a glass cylinder (O);
+I fill it with water and put it over one end (A) of the pile; and I will
+take another (H) and put it over the other end (B) of the pile. And so now
+we have a double apparatus, with both places delivering gas.  Both these
+jars will fill with gas. There they go, that to the right (H) filling very
+rapidly; the one to the left (O) filling not so rapidly; and though I have
+allowed some bubbles to escape, yet still the action is going on pretty
+regularly; and were it not that one is rather smaller than the other, you
+would see that I should have twice as much in this (H) as I have in that
+(O).  Both these gases are colourless; they stand over the water without
+condensing; they are alike in all things—I mean in all apparent things;
+and we have here an opportunity of examining these bodies and ascertaining
+what they are. Their bulk is large, and we can easily apply experiments to
+them. I will take this jar (H) first, and will ask you to be prepared to
+recognise hydrogen.
+Think of all its qualities—the light gas which stood well in inverted
+vessels, burning with a pale flame at the mouth of the jar—and see
+whether this gas does not satisfy all these conditions. If it be hydrogen,
+it will remain here while I hold this jar inverted.  [A light was then
+applied, when the hydrogen burnt] What is there now in the other jar?  You
+know that the two together made an explosive mixture.  But what can this
+be which we find as the other constituent in water, and which must
+therefore be that substance which made the hydrogen burn? We know that the
+water we put into the vessel consisted of the two things together. We find
+one of these is hydrogen: what must that other be which was in the water
+before the experiment, and which we now have by itself?  I am about to put
+this lighted splinter of wood into the gas.  The gas itself will not burn,
+but it will make the splinter of wood burn.  [The Lecturer ignited the end
+of the wood, and introduced it into the jar of gas.]  See how it
+invigorates the combustion of the wood, and how it makes it burn far
+better than the air would make it burn; and now you see by itself that
+every other substance which is contained in the water, and which, when the
+water was formed by the burning of the candle, must have been taken from
+the atmosphere. What shall we call it, A, B, or C? Let us call it O—call
+it “Oxygen:” it is a very good distinct-sounding name. This, then, is the
+oxygen which was present in the water, forming so large a part of it.
+We shall now begin to understand more clearly our experiments and
+researches; because, when we have examined these things once or twice, we
+shall soon see why a candle burns in the air. When we have in this way
+analysed the water—that is to say, separated, or electrolysed its parts
+out of it—we get two volumes of hydrogen, and one of the body that burns
+it. And these two are represented to us on the following diagram, with
+their weights also stated; and we shall find that the oxygen is a very
+heavy body by comparison with the hydrogen. It is the other element in
+water.
+I had better, perhaps, tell you now how we get this oxygen abundantly,
+having shewn you how we can separate it from the water. Oxygen, as you
+will immediately imagine, exists in the atmosphere; for how should the
+candle burn to produce water without it?
+_____________________
+
+ |           |         |
+
+ |     1     |    8    |
+
+ |           |         |
+
+ |           | Oxygen. | Oxygen, . . . .  88.9
+
+ |           |         |
+
+ |           |_________| Hydrogen, . . .  11.1
+
+ | Hydrogen. |                           —————
+
+ |           |    9      Water,. . . . . 100.0
+
+ |           |
+
+ |           |
+
+ |           |
+
+ |___________|
+Such a thing would be absolutely impossible, and chemically impossible,
+without oxygen.
+[Illustration: Fig. 21.]
+Can we get it from the air? Well, there are some very complicated and
+difficult processes by which we can get it from the air; but we have
+better processes. There is a substance called the black oxide of
+manganese: it is a very black-looking mineral, but very useful, and when
+made red-hot it gives out oxygen. Here is an iron bottle which has had
+some of this substance put into it, and there is a tube fixed to it, and a
+fire ready made, and Mr. Anderson will put that retort into the fire, for
+it is made of iron, and can stand the heat. Here is a salt called chlorate
+of potassa, which is now made in large quantities for bleaching, and
+chemical and medical uses, and for pyrotechnic and other purposes. I will
+take some and mix it with some of the oxide of manganese (oxide of copper,
+or oxide of iron would do as well); and if I put these together in a
+retort, far less than a red heat is sufficient to evolve this oxygen from
+the mixture. I am not preparing to make much, because we only want
+sufficient for our experiments; only, as you will see immediately, if I
+use too small a charge, the first portion of the gas will be mixed with
+the air already in the retort, and I should be obliged to sacrifice the
+first portion of the gas, because it would be so much diluted with air;
+the first portion must therefore be thrown away. You will find in this
+case, that a common spirit-lamp is quite sufficient for me to get the
+oxygen, and so we shall have two processes going on for its preparation.
+See how freely the gas is coming over from that small portion of the
+mixture. We will examine it, and see what are its properties. Now, in this
+way we are producing, as you will observe, a gas just like the one we had
+in the experiment with the battery, transparent, undissolved by water, and
+presenting the ordinary visible properties of the atmosphere. (As this
+first jar contains the air, together with the first portions of the oxygen
+set free during the preparation, we will carry it out of the way, and be
+prepared to make our experiments in a regular, dignified manner.) And,
+inasmuch as that power of making wood, wax, or other things burn, was so
+marked in the oxygen we obtained by means of the voltaic battery from
+water, we may expect to find the same property here. We will try it You
+see there is the combustion of a lighted taper in air, and here is its
+combustion in this gas [lowering the taper into the jar]. See how brightly
+and how beautifully it burns! You can also see more than this,—you will
+perceive it is a heavy gas, whilst the hydrogen would go up like a
+balloon, or even faster than a balloon, when not encumbered with the
+weight of the envelope.
+[Illustration: Fig. 22.]
+You may easily see that although we obtained from water twice as much in
+volume of the hydrogen as of oxygen, it does not follow that we have twice
+as much in weight—because one is heavy, and the other a very light gas.
+We have means of weighing gases or air; but without stopping to explain,
+that, let me just tell you what their respective weights are. The weight
+of a pint of hydrogen is three-quarters of a grain; the weight of the same
+quantity of oxygen is nearly twelve grains. This is a very great
+difference. The weight of a cubit foot of hydrogen is one-twelfth of an
+ounce; and the weight of a cubit foot of oxygen is one ounce and a third.
+And so on we might come to masses of matter which may be weighed in the
+balance, and which we can take account of as to hundredweights and as to
+tons, as you will see almost immediately.
+Now, as regards this very property of oxygen supporting combustion, which
+we may compare to air, I will take a piece of candle to shew it you in a
+rough way, and the result will be rough. There is our candle burning in
+the air: how will it burn in oxygen? I have here a jar of this gas, and I
+am about to put it over the candle for you to compare the action of this
+gas with that of the air. Why, look at it: it looks something like the
+light you saw at the poles of the voltaic battery. Think how vigorous that
+action must be! And yet, during all that action, nothing more is produced
+than what is produced by the burning of the candle in air. We have the
+same production of water, and the same phenomena exactly, when we use this
+gas instead of air, as we have when the candle is burnt in air.
+But now we have got a knowledge of this new substance, we can look at it a
+little more distinctly, in order to satisfy ourselves that we have got a
+good general understanding of this part of the product of a candle. It is
+wonderful how great the supporting powers of this substance are as regards
+combustion. For instance, here is a lamp which, simple though it be, is
+the original, I may say, of a great variety of lamps which are constructed
+for divers purposes—for light-houses, microscopic illuminations, and
+other uses; and if it were proposed to make it burn very brightly, you
+would say, “If a candle burnt better in oxygen, will not a lamp do the
+same?” Why, it will do so. Mr. Anderson will give me a tube coming from
+our oxygen reservoir, and I am about to apply it to this flame, which I
+will previously make burn badly on purpose. There comes the oxygen: what a
+combustion that makes! But if I shut it off, what becomes of the lamp? [The
+flow of oxygen was stopped, and the lamp relapsed to its former dimness.]
+It is wonderful how, by means of oxygen, we get combustion accelerated.
+But it does not affect merely the combustion of hydrogen, or carbon, or
+the candle; but it exalts all combustions of the common kind. We will take
+one which relates to iron, for instance, as you have already seen iron
+burn a little in the atmosphere. Here is a jar of oxygen, and this is a
+piece of iron wire; but if it were a bar as thick as my wrist, it would
+burn the same.
+[Illustration: Fig. 23.]
+I first attach a little piece of wood to the iron, I then set the wood on
+fire and let them both down together into the jar. The wood is now alight,
+and there it burns as wood should burn in oxygen; but it will soon
+communicate its combustion to the iron. The iron is now burning
+brilliantly, and will continue so for a long time. As long as we supply
+oxygen, so long can we carry on the combustion of the iron, until the
+latter is consumed.
+We will now put that on one side, and take some other substance; but we
+must limit our experiments, for we have not time to spare for all the
+illustrations you would have a right to if we had more time. We will take
+a piece of sulphur—you know how sulphur burns in the air—well, we put it
+into the oxygen, and you will see that whatever can burn in air, can burn
+with a far greater intensity in oxygen, leading you to think that perhaps
+the atmosphere itself owes all its power of combustion to this gas. The
+sulphur is now burning very quietly in the oxygen; but you cannot for a
+moment mistake the very high and increased action which takes place when
+it is so burnt, instead of being burnt merely in common air.
+[Illustration: Fig. 24.]
+I am now about to shew you the combustion of another
+substance—phosphorus. I can do it better for you here than you can do it
+at home. This is a very combustible substance; and if it be so combustible
+in air, what might you expect it would be in oxygen? I am about to shew it
+to you not in its fullest intensity, for if I did so we should almost blow
+the apparatus up—I may even now crack the jar, though I do not want to
+break things carelessly. You see how it burns in the air. But what a
+glorious light it gives out when I introduce it into oxygen! [Introducing
+the lighted phosphorus into the jar of oxygen.] There you see the solid
+particles going off which cause that combustion to be so brilliantly
+luminous.
+Thus far we have tested this power of oxygen, and the high combustion it
+produces by means of other substances. We must now, for a little while
+longer, look at it as respects the hydrogen. You know, when we allowed the
+oxygen and the hydrogen derived from the water to mix and burn together,
+we had a little explosion. You remember, also, that when I burnt the
+oxygen and the hydrogen in a jet together, we got very little light, but
+great heat. I am now about to set fire to oxygen and hydrogen, mixed in
+the proportion in which they occur in water. Here is a vessel containing
+one volume of oxygen and two volumes of hydrogen. This mixture is exactly
+of the same nature as the gas we just now obtained from the voltaic
+battery: it would be far too much to burn at once; I have therefore
+arranged to blow soap-bubbles with it, and burn those bubbles, that we may
+see by a general experiment or two how this oxygen supports the combustion
+of the hydrogen. First of all, we will see whether we can blow a bubble.
+Well, there goes the gas [causing it to issue through a tobacco-pipe into
+some soap-suds]. Here I have a bubble. I am receiving them on my hand: and
+you will perhaps think I am acting oddly in this experiment; but it is to
+shew you that we must not always trust to noise and sounds, but rather to
+real facts. [Exploding a bubble on the palm of his hand.] I am afraid to
+fire a bubble from the end of the pipe, because the explosion would pass
+up into the jar and blow it to pieces. This oxygen then will unite with
+the hydrogen, as you see by the phenomena, and hear by the sound, with the
+utmost readiness of action, and all its powers are then taken up in its
+neutralisation of the qualities of the hydrogen.
+So now I think you will perceive the whole history of water with reference
+to oxygen and the air, from what we have before said. Why does a piece of
+potassium decompose water? Because it finds oxygen in the water. What is
+set free when I put it in the water, as I am about to do again? It sets
+free hydrogen, and the hydrogen burns; but the potassium itself combines
+with oxygen; and this piece of potassium, in taking the water apart—the
+water, you may say, derived from the combustion of the candle—takes away
+the oxygen which the candle took from the air, and so sets the hydrogen
+free; and even if I take a piece of ice, and put a piece of potassium upon
+it, the beautiful affinities by which the oxygen and the hydrogen are
+related are such, that the ice will absolutely set fire to the potassium.
+I shew this to you to-day, in order to enlarge your ideas of these things,
+and that you may see how greatly results are modified by circumstances.
+There is the potassium on the ice, producing a sort of volcanic action.
+It will be my place, when next we meet, having pointed out these anomalous
+actions, to shew you that none of these extra and strange effects are met
+with by us—that none of these strange and injurious actions take place
+when we are burning, not merely a candle, but gas in our streets, or fuel
+in our fireplaces, so long as we confine ourselves within the laws that
+Nature has made for our guidance.
+</div></body></text></TEI>

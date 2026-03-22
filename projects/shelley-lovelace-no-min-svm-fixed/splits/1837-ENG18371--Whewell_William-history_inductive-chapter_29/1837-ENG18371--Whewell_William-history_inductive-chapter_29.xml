@@ -1,0 +1,201 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="29">CHAPTER  III.
+Sequel to the Epoch of Galileo.—Period of
+Verification and Deduction.
+THE evidence on which Galileo
+rested the truth of the Laws of Motion which he asserted, was, as we
+have seen, the simplicity of the laws themselves, and the agreement of
+their consequences with facts; proper allowances being made for
+disturbing causes. His successors took up and continued the task of
+making repeated comparisons of the theory with practice, till no doubt
+remained of the exactness of the fundamental doctrines: they also
+employed themselves in simplifying, as much as possible, the mode of
+stating these doctrines, and in tracing their consequences in various
+problems by the aid of mathematical reasoning. These employments led
+to the publication of various Treatises on Falling Bodies, Inclined
+Planes, Pendulums, Projectiles, Spouting Fluids, which occupied a
+great part of the seventeenth century.
+The authors of these treatises may be considered as the School of
+Galileo. Several of them were, indeed, his pupils or personal friends.
+Castelli was his disciple and astronomical assistant at Florence, and
+afterwards his correspondent. Torricelli was at first a pupil of
+Castelli, but became the inmate and amanuensis of Galileo in 1641, and
+succeeded him in his situation at the court of Florence on his death,
+which took place a few months afterwards. Viviani formed one of his
+family during the three last years of his life; and surviving him and
+his contemporaries (for Viviani lived even into the eighteenth
+century), has a manifest pleasure and pride in calling himself the
+last of the disciples of Galileo. Gassendi, an eminent French
+mathematician and professor, visited him in 1628; and it shows us the
+extent of his reputation when we find Milton referring thus to his
+travels in Italy:24 “There it was that I found and visited
+the famous Galileo, grown old, a prisoner in the Inquisition, for
+thinking in astronomy otherwise than the Franciscan and Dominican
+licensers thought.”
+24 Speech for the Liberty of
+Unlicensed Printing.
+Besides the above writers, we may mention, as persons who pursued
+and illustrated Galileo’s doctrines, Borelli, who was professor at
+Florence and Pisa; Mersenne, the correspondent of Descartes, who was
+341 professor at
+Paris; Wallis, who was appointed Savilian professor at Oxford in 1649,
+his predecessor being ejected by the parliamentary commissioners. It
+is not necessary for us to trace the progress of purely mathematical
+inventions, which constitute a great part of the works of these
+authors; but a few circumstances may be mentioned.
+The question of the proof of the Second Law of Motion was, from the
+first, identified with the controversy respecting the truth of the
+Copernican System; for this law supplied the true answer to the most
+formidable of the objections against the motion of the earth; namely,
+that if the earth were moving, bodies which were dropt from an
+elevated object would be left behind by the place from which they
+fell. This argument was reproduced in various forms by the opponents
+of the new doctrine; and the answers to the argument, though they
+belong to the history of Astronomy, and form part of the Sequel to the
+Epoch of Copernicus, belong more peculiarly to the history of
+Mechanics, and are events in the sequel to the Discoveries of Galileo.
+So far, indeed, as the mechanical controversy was concerned, the
+advocates of the Second Law of Motion appealed, very triumphantly, to
+experiment. Gassendi made many experiments on this subject publicly,
+of which an account is given in his Epistolæ tres de Motu Impresso
+a Motore Translato25 It appeared in these experiments, that
+bodies let fall downwards, or cast upwards, forwards, or backwards,
+from a ship, or chariot, or man, whether at rest, or in any degree of
+motion, had always the same motion relatively to the motor.
+In the application of this principle to the system of the world,
+indeed, Gassendi and other philosophers of his time were greatly
+hampered; for the deference which religious scruples required, did not
+allow them to say that the earth really moved, but only that the
+physical reasons against its motion were invalid. This restriction
+enabled Riccioli and other writers on the geocentric side to involve
+the subject in metaphysical difficulties; but the conviction of men
+was not permanently shaken by these, and the Second Law of Motion was
+soon assumed as unquestioned.
+25 Mont. ii. 199.
+The Laws of the Motion of Falling Bodies, as assigned by Galileo,
+were confirmed by the reasonings of Gassendi and Fermat, and the
+experiments of Riccioli and Grimaldi; and the effect of resistance was
+pointed out by Mersenne and Dechales. The parabolic motion of
+Projectiles was more especially illustrated by experiments on the jet
+which spouts from an orifice in a vessel full of fluid. This mode of
+experimenting 342
+is well adapted to attract notice, since the curve described, which is
+transient and invisible in the case of a single projectile, becomes
+permanent and visible when we have a continuous stream. The doctrine
+of the motions of fluids has always been zealously cultivated by the
+Italians. Castelli’s treatise, Della Misura dell’ Acque
+Corrente (1638), is the first work on this subject, and Montucla
+with justice calls him “the creator of a new branch of hydraulics;”26 although he mistakenly supposed the
+velocity of efflux to be as the depth of the orifice from the surface.
+Mersenne
+and Torricelli also pursued this subject, and after them, many
+others.
+26 Mont. ii. 201.
+Galileo’s belief in the near approximation of the curve described
+by a cannon-ball or musket-ball to the theoretical parabola, was
+somewhat too obsequiously adopted by succeeding practical writers on
+artillery. They underrated, as he had done, the effect of the
+resistance of the air, which is in effect so great as entirely to
+change the form and properties of the curve. Notwithstanding this, the
+parabolic theory was employed, as in Anderson’s Art of Gunnery
+(1674); and Blondel, in his Art de jeter les Bombes (1688), not
+only calculated Tables on this supposition, but attempted to answer
+the objections which had been made respecting the form of the curve
+described. It was not till a later period (1740), when Robins made a
+series of careful and sagacious experiments on artillery, and when
+some of the most eminent mathematicians calculated the curve, taking
+into account the resistance, that the Theory of Projectiles could be
+said to be verified in fact.
+The Third Law of Motion was still in some confusion when Galileo
+died, as we have seen. The next great step made in the school of
+Galileo was the determination of the Laws of the motions of bodies in
+their Direct Impact, so far as this impact affects the motion of
+translation. The difficulties of the problem of Percussion arose, in
+part, from the heterogeneous nature of Pressure (of a body at rest),
+and Momentum (of a body in motion); and, in part, from mixing together
+the effects of percussion on the parts of a body, as, for instance,
+cutting, bruising, and breaking, with its effect in moving the
+whole.
+The former difficulty had been seen with some clearness by Galileo
+himself. In a posthumous addition to his Mechanical Dialogues,
+he says, “There are two kinds of resistance in a movable body, one
+internal, as when we say it is more difficult to lift a weight of a
+thousand pounds than a weight of a hundred; another respecting space,
+as 343 when we say
+that it requires more force to throw a stone one hundred paces than
+fifty.”27 Reasoning upon this difference, he
+comes to the conclusion that “the Momentum of percussion is infinite,
+since there is no resistance, however great, which is not overcome by
+a force of percussion, however small.”28 He further
+explains this by observing that the resistance to percussion must
+occupy some portion of time, although this portion may be insensible.
+This correct mode of removing the apparent incongruity of continuous
+and instantaneous force, was a material step in the solution of the
+problem.
+27 Op. iii. 210.
+28 iii. 211.
+The Laws of the mutual Impact of bodies were erroneously given by
+Descartes in his Principia; and appear to have been first
+correctly stated by Wren, Wallis, and Huyghens, who about the same
+time (1669) sent papers to the Royal Society of London on the subject.
+In these solutions, we perceive that men were gradually coming to
+apprehend the Third Law of Motion in its most general sense; namely,
+that the Momentum (which is proportional to the Mass of the body and
+its Velocity jointly) may be taken for the measure of the effect; so
+that this Momentum is as much diminished in the striking body by the
+resistance it experiences, as it is increased in the body struck by
+the Impact. This was sometimes expressed by saying that “the Quantity
+of Motion remains unaltered,” Quantity of Motion being used as
+synonymous with Momentum. Newton expressed it by saying that
+“Action and Reaction are equal and opposite,” which is still one of
+the most familiar modes of expressing the Third Law of Motion.
+In this mode of stating the Law, we see an example of a propensity
+which has prevailed very generally among mathematicians; namely, a
+disposition to present the fundamental laws of rest and of motion as
+if they were equally manifest, and, indeed, identical. The close
+analogy and connection which exists between the principles of
+equilibrium and of motion, often led men to confound the evidence of
+the two; and this confusion introduced an ambiguity in the use of
+words, as we have seen in the case of Momentum, Force, and others. The
+same may be said of Action and Reaction, which have both
+a statical and a dynamical signification. And by this means, the most
+general statements of the laws of motion are made to coincide with the
+most general statical propositions. For instance, Newton deduced from
+his principles the conclusion, that by the mutual action of bodies,
+the motion of their centre of gravity cannot be affected. Marriotte,
+in his Traité de la 344 Percussion (1684), had asserted
+this proposition for the case of direct impact. But by the reasoners
+of Newton’s time, the dynamical proposition, that the motion of the
+centre of gravity is not altered by the actual free motion and impact
+of bodies, was associated with the statical proposition, that when
+bodies are in equilibrium, the centre of gravity cannot be made to
+ascend or descend by the virtual motions of the bodies. This
+latter is a proposition which was assumed as self-evident by
+Torricelli; but which may more philosophically be proved from
+elementary statical principles.
+This disposition to identify the elementary laws of equilibrium and
+of motion, led men to think too slightingly of the ancient solid and
+sufficient foundation of Statics, the doctrine of the lever. When the
+progress of thought had opened men’s minds to a more general view of
+the subject, it was considered as a blemish in the science to found it
+on the properties of one particular machine. Descartes says in his
+Letters, that “it is ridiculous to prove the pulley by means of the
+lever.” And Varignon was led by similar reflections to the project of
+his Nouvelle Mécanique, in which the whole of statics should be
+founded on the composition of forces. This project was published in
+1687; but the work did not appear till 1725, after the death of the
+author. Though the attempt to reduce the equilibrium of all machines
+to the composition of forces, is philosophical and meritorious, the
+attempt to reduce the composition of Pressures to the composition of
+Motions, with which Varignon’s work is occupied, was a
+retrograde step in the subject, so far as the progress of distinct
+mechanical ideas was concerned.
+Thus, at the period at which we have now arrived, the Principles of
+Elementary Mechanics were generally known and accepted; and there was
+in the minds of mathematicians a prevalent tendency to reduce them to
+the most simple and comprehensive form of which they admitted. The
+execution of this simplification and extension, which we term the
+generalization of the laws, is so important an event, that though it
+forms part of the natural sequel of Galileo, we shall treat of it in a
+separate chapter. But we must first bring up
+the history of the mechanics of fluids to the corresponding point.
+345</div></body></text></TEI>

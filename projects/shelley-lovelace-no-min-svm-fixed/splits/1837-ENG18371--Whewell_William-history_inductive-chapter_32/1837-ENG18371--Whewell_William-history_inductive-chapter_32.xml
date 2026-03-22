@@ -1,0 +1,879 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="32">CHAPTER VI.
+Sequel to the Generalization of the Principles of
+Mechanics.—Period of Mathematical Deduction.—Analytical
+Mechanics.
+WE have now finished the
+history of the discovery of Mechanical Principles, strictly so called.
+The three Laws of Motion, generalized in the manner we have described,
+contain the materials of the whole structure of Mechanics; and in the
+remaining progress of the science, we are led to no new truth which
+was not implicitly involved in those previously known. It may be
+thought, therefore, that the narrative of this progress is of
+comparatively small interest. Nor do we maintain that the application
+and development of principles is a matter of so much importance to the
+philosophy of science, as the advance towards and to them. Still,
+there are many circumstances in the latter stages of the progress of
+the science of Mechanics, which well deserve notice, and make a rapid
+survey of that part of its history indispensable to our purpose.
+The Laws of Motion are expressed in terms of Space and Number; the
+development of the consequences of these laws must, therefore, be
+performed by means of the reasonings of mathematics; and the science
+363 of Mechanics
+may assume the various aspects which belong to the different modes of
+dealing with mathematical quantities. Mechanics, like pure
+mathematics, may be geometrical or may be analytical; that is, it may
+treat space either by a direct consideration of its properties, or by
+a symbolical representation of them: Mechanics, like pure mathematics,
+may proceed from special cases, to problems and methods of extreme
+generality;—may summon to its aid the curious and refined
+relations of symmetry, by which general and complex conditions are
+simplified;—may become more powerful by the discovery of more
+powerful analytical artifices;—may even have the generality of
+its principles further expanded, inasmuch as symbols are a more
+general language than words. We shall very briefly notice a series of
+modifications of this kind.
+1. Geometrical Mechanics. Newton, &c.—The first
+great systematical Treatise on Mechanics, in the most general sense,
+is the two first Books of the Principia of Newton. In this
+work, the method employed is predominantly geometrical: not only space
+is not represented symbolically, or by reference to number; but
+numbers, as, for instance, those which measure time and force, are
+represented by spaces; and the laws of their changes are indicated by
+the properties of curve lines. It is well known that Newton employed,
+by preference, methods of this kind in the exposition of his theorems,
+even where he had made the discovery of them by analytical
+calculations. The intuitions of space appeared to him, as they have
+appeared to many of his followers, to be a more clear and satisfactory
+road to knowledge, than the operations of symbolical language.
+Hermann, whose Phoronomia was the next great work on this
+subject, pursued a like course; employing curves, which he calls “the
+scale of velocities,” “of forces,” &c. Methods nearly similar were
+employed by the two first Bernoullis, and other mathematicians of that
+period; and were, indeed, so long familiar, that the influence of them
+may still be traced in some of the terms which are used on such
+subjects; as, for instance, when we talk of “reducing a problem to
+quadratures,” that is, to the finding the area of the curves employed
+in these methods.
+2. Analytical Mechanics. Euler.—As analysis was more
+cultivated, it gained a predominancy over geometry; being found to be
+a far more powerful instrument for obtaining results; and possessing a
+beauty and an evidence, which, though different from those of
+geometry, had great attractions for minds to which they became
+familiar. The person who did most to give to analysis the generality
+and  364 symmetry
+which are now its pride, was also the person who made Mechanics
+analytical; I mean Euler. He began his execution of this task in
+various memoirs which appeared in the Transactions of the Academy
+of Sciences at St. Petersburg, commencing with its earliest
+volumes; and in 1736, he published there his Mechanics, or the
+Science of Motion analytically expounded; in the way of a Supplement
+to the Transactions of the Imperial Academy of Sciences. In the
+preface to this work, he says, that though the solutions of problems
+by Newton and Hermann were quite satisfactory, yet he found that he
+had a difficulty in applying them to new problems, differing little
+from theirs; and that, therefore, he thought it would be useful to
+extract an analysis out of their synthesis.
+3. Mechanical Problems.—In reality, however, Euler has
+done much more than merely give analytical methods, which may be
+applied to mechanical problems: he has himself applied such methods to
+an immense number of cases. His transcendent mathematical powers, his
+long and studious life, and the interest with which he pursued the
+subject, led him to solve an almost inconceivable number and variety
+of mechanical problems. Such problems suggested themselves to him on
+all occasions. One of his memoirs begins, by stating that, happening
+to think of the line of Virgil,
+
+Anchora de prorà jacitur stant litore
+puppes;
+The anchor drops, the rushing keel is
+staid;
+he could not help inquiring what would be the nature
+of the ship’s motion under the circumstances here described. And in
+the last few days of his life, after his mortal illness had begun,
+having seen in the newspapers some statements respecting balloons, he
+proceeded to calculate their motions; and performed a difficult
+integration, in which this undertaking engaged him. His Memoirs occupy
+a very large portion of the Petropolitan Transactions during
+his life, from 1728 to 1783; and he declared that he should leave
+papers which might enrich the publications of the Academy of
+Petersburg for twenty years after his death;—a promise which has
+been more than fulfilled; for, up to 1818, the volumes usually contain
+several Memoirs of his. He and his contemporaries may be said to have
+exhausted the subject; for there are few mechanical problems which
+have been since treated, which they have not in some manner touched
+upon.
+I do not dwell upon the details of such problems; for the next
+great step in Analytical Mechanics, the publication of D’Alembert’s
+365 Principle in
+1743, in a great degree superseded their interest. The Transactions of
+the Academies of Paris and Berlin, as well as St. Petersburg, are
+filled, up to this time, with various questions of this kind. They
+require, for the most part, the determination of the motions of
+several bodies, with or without weight, which pull or push each other
+by means of threads, or levers, to which they are fastened, or along
+which they can slide; and which, having a certain impulse given them
+at first, are then left to themselves, or are compelled to move in
+given lines and surfaces. The postulate of Huyghens, respecting the
+motion of the centre of gravity, was generally one of the principles
+of the solution; but other principles were always needed in addition
+to this; and it required the exercise of ingenuity and skill to detect
+the most suitable in each case. Such problems were, for some time, a
+sort of trial of strength among mathematicians: the principle of
+D’Alembert put an end to this kind of challenges, by supplying a
+direct and general method of resolving, or at least of throwing into
+equations, any imaginable problem. The mechanical difficulties were in
+this way reduced to difficulties of pure mathematics.
+4. D’Alembert’s Principle.—D’Alembert’s Principle is
+only the expression, in the most general form, of the principle upon
+which John Bernoulli, Hermann, and others, had solved the problem of
+the centre of oscillation. It was thus stated, “The motion
+impressed on each particle of any system by the forces which
+act upon it, may be resolved into two, the effective motion,
+and the motion gained or lost: the effective motions will be
+the real motions of the parts, and the motions gained and lost will be
+such as would keep the system at rest.” The distinction of
+statics, the doctrine of equilibrium, and dynamics, the
+doctrine of motion, was, as we have seen, fundamental; and the
+difference of difficulty and complexity in the two subjects was well
+understood, and generally recognized by mathematicians. D’Alembert’s
+principle reduces every dynamical question to a statical one; and
+hence, by means of the conditions which connect the possible motions
+of the system, we can determine what the actual motions must be. The
+difficulty of determining the laws of equilibrium, in the application
+of this principle in complex cases is, however, often as great as if
+we apply more simple and direct considerations.
+5. Motion in Resisting Media. Ballistics.—We shall
+notice more particularly the history of some of the problems of
+mechanics. Though John Bernoulli always spoke with admiration of
+Newton’s Principia, and of its author, he appears to have been
+well disposed to point out 366 real or imagined blemishes in the work.
+Against the validity of Newton’s determination of the path described
+by a body projected in any part of the solar system, Bernoulli urges a
+cavil which it is difficult to conceive that a mathematician, such as
+he was, could seriously believe to be well founded. On Newton’s
+determination of the path of a body in a resisting medium, his
+criticism is more just. He pointed out a material error in this
+solution: this correction came to Newton’s knowledge in London, in
+October, 1712, when the impression of the second edition of the
+Principia was just drawing to a close, under the care of Cotes at
+Cambridge; and Newton immediately cancelled the leaf and corrected the
+error.48
+48 MS. Correspondence in Trin. Coll.
+Library.
+This problem of the motion of a body in a resisting medium, led to
+another collision between the English and the German mathematicians.
+The proposition to which we have referred, gave only an indirect view
+of the nature of the curve described by a projectile in the air; and
+it is probable that Newton, when he wrote the Principia, did
+not see his way to any direct and complete solution of this problem.
+At a later period, in 1718, when the quarrel had waxed hot between the
+admirers of Newton and Leibnitz, Keill, who had come forward as a
+champion on the English side, proposed this problem to the foreigners
+as a challenge. Keill probably imagined that what Newton had not
+discovered, no one of his time would be able to discover. But the
+sedulous cultivation of analysis by the Germans had given them
+mathematical powers beyond the expectations of the English; who,
+whatever might be their talents, had made little advance in the
+effective use of general methods; and for a long period seemed to be
+fascinated to the spot, in their admiration of Newton’s excellence.
+Bernoulli speedily solved the problem; and reasonably enough,
+according to the law of honor of such challenges, called upon the
+challenger to produce his solution. Keill was unable to do this; and
+after some attempts at procrastination, was driven to very paltry
+evasions. Bernoulli then published his solution, with very just
+expressions of scorn towards his antagonist. And this may, perhaps, be
+considered as the first material addition which was made to the
+Principia by subsequent writers.
+6. Constellation of Mathematicians.—We pass with
+admiration along the great series of mathematicians, by whom the
+science of theoretical mechanics has been cultivated, from the time of
+Newton to our own. There is no group of men of science whose fame is
+367 higher or
+brighter. The great discoveries of Copernicus, Galileo, Newton, had
+fixed all eyes on those portions of human knowledge on which their
+successors employed their labors. The certainty belonging to this line
+of speculation seemed to elevate mathematicians above the students of
+other subjects; and the beauty of mathematical relations, and the
+subtlety of intellect which may be shown in dealing with them, were
+fitted to win unbounded applause. The successors of Newton and the
+Bernoullis, as Euler, Clairaut, D’Alembert, Lagrange, Laplace, not to
+introduce living names, have been some of the most remarkable men of
+talent which the world has seen. That their talent is, for the most
+part, of a different kind from that by which the laws of nature were
+discovered, I shall have occasion to explain elsewhere; for the
+present, I must endeavor to arrange the principal achievements of
+those whom I have mentioned.
+The series of persons is connected by social relations. Euler was
+the pupil of the first generation of Bernoullis, and the intimate
+friend of the second generation; and all these extraordinary men, as
+well as Hermann, were of the city of Basil, in that age a spot fertile
+of great mathematicians to an unparalleled degree. In 1740, Clairaut
+and Maupertuis visited John Bernoulli, at that time the Nestor of
+mathematicians, who died, full of age and honors, in 1748. Euler,
+several of the Bernoullis, Maupertuis, Lagrange, among other
+mathematicians of smaller note, were called into the north by
+Catharine of Russia and Frederic of Prussia, to inspire and instruct
+academies which the brilliant fame then attached to science, had
+induced those monarchs to establish. The prizes proposed by these
+societies, and by the French Academy of Sciences, gave occasion to
+many of the most valuable mathematical works of the century.
+7. The Problem of Three Bodies.—In 1747,
+Clairaut and D’Alembert sent, on the same day, to this body, their
+solutions of the celebrated “Problem of Three Bodies,” which, from
+that time, became the great object of attention of
+mathematicians;—the bow in which each tried his strength, and
+endeavored to shoot further than his predecessors.
+This problem was, in fact, the astronomical question of the effect
+produced by the attraction of the sun, in disturbing the motions of
+the moon about the earth; or by the attraction of one planet,
+disturbing the motion of another planet about the sun; but being
+expressed generally, as referring to one body which disturbs any two
+others, it became a mechanical problem, and the history of it belongs
+to the present subject. 368
+One consequence of the synthetical form adopted by Newton in the
+Principia, was, that his successors had the problem of the
+solar system to begin entirely anew. Those who would not do this, made
+no progress, as was long the case with the English. Clairaut says,
+that he tried for a long time to make some use of Newton’s labors; but
+that, at last, he resolved to take up the subject in an independent
+manner. This, accordingly, he did, using analysis throughout, and
+following methods not much different from those still employed. We do
+not now speak of the comparison of this theory with observation,
+except to remark, that both by the agreements and by the discrepancies
+of this comparison, Clairaut and other writers were perpetually driven
+on to carry forwards the calculation to a greater and greater degree
+of accuracy.
+One of the most important of the cases in which this happened, was
+that of the movement of the Apogee of the Moon; and in this case, a
+mode of approximating to the truth, which had been depended on as
+nearly exact, was, after having caused great perplexity, found by
+Clairaut and Euler to give only half the truth. This same Problem of
+Three Bodies was the occasion of a memoir of Clairaut, which gained
+the prize of the Academy of St. Petersburg in 1751; and, finally, of
+his Théorie de la Lune, published in 1765. D’Alembert labored
+at the same time on the same problem; and the value of their methods,
+and the merit of the inventors, unhappily became a subject of
+controversy between those two great mathematicians. Euler also, in
+1753, published a Theory of the Moon, which was, perhaps, more
+useful than either of the others, since it was afterwards the basis of
+Mayer’s method, and of his Tables. It is difficult to give the general
+reader any distinct notion of these solutions. We may observe, that
+the quantities which determine the moon’s position, are to be
+determined by means of certain algebraical equations, which express
+the mechanical conditions of the motion. The operation, by which the
+result is to be obtained, involves the process of integration; which,
+in this instance, cannot be performed in an immediate and definite
+manner; since the quantities thus to be operated on depend upon the
+moon’s position, and thus require us to know the very thing which we
+have to determine by the operation. The result must be got at,
+therefore, by successive approximations: we must first find a quantity
+near the truth; and then, by the help of this, one nearer still; and
+so on; and, in this manner, the moon’s place will be given by a
+converging series of terms. The form of these terms depends upon the
+relations of position between the sun 369 and moon, their apogees, the moon’s
+nodes, and other quantities; and by the variety of combinations of
+which these admit, the terms become very numerous and complex. The
+magnitude of the terms depends also upon various circumstances; as the
+relative force of the sun and earth, the relative times of the solar
+and lunar revolutions, the eccentricities and inclinations of the two
+orbits. These are combined so as to give terms of different orders of
+magnitudes; and it depends upon the skill and perseverance of the
+mathematician how far he will continue this series of terms. For there
+is no limit to their number: and though the methods of which we have
+spoken do theoretically enable us to calculate as many terms as we
+please, the labor and the complexity of the operations are so serious
+that common calculators are stopped by them. None but very great
+mathematicians have been able to walk safely any considerable distance
+into this avenue,—so rapidly does it darken as we proceed. And
+even the possibility of doing what has been done, depends upon what we
+may call accidental circumstances; the smallness of the inclinations
+and eccentricities of the system, and the like. “If nature had not
+favored us in this way,” Lagrange used to say, “there would have been
+an end of the geometers in this problem.” The expected return of the
+comet of 1682 in 1759, gave a new interest to the problem, and
+Clairaut proceeded to calculate the case which was thus suggested.
+When this was treated by the methods which had succeeded for the moon,
+it offered no prospect of success, in consequence of the absence of
+the favorable circumstances just referred to, and, accordingly,
+Clairaut, after obtaining the six equations to which he reduces the
+solution,49 adds, “Integrate them who can” (Intègre
+maintenant qui pourra). New methods of approximation were devised for
+this case.
+49 Journal des Sçavans, Aug.
+1759.
+The problem of three bodies was not prosecuted in consequence of
+its analytical beauty, or its intrinsic attraction; but its great
+difficulties were thus resolutely combated from necessity; because in
+no other way could the theory of universal gravitation be known to be
+true or made to be useful. The construction of Tables of the
+Moon, an object which offered a large pecuniary reward, as well as
+mathematical glory, to the successful adventurer, was the main purpose
+of these labors.
+The Theory of the Planets presented the Problem of Three
+Bodies in a new form, and involved in peculiar difficulties; for the
+370 approximations
+which succeed in the Lunar theory fail here. Artifices somewhat
+modified are required to overcome the difficulties of this case.
+Euler had investigated, in particular, the motions of Jupiter and
+Saturn, in which there was a secular acceleration and retardation,
+known by observation, but not easily explicable by theory. Euler’s
+memoirs, which gained the prize of the French Academy, in 1748 and
+1752, contained much beautiful analysis; and Lagrange published also a
+theory of Jupiter and Saturn, in which he obtained results different
+from those of Euler. Laplace, in 1787, showed that this inequality
+arose from the circumstance that two of Saturn’s years are very nearly
+equal to five of Jupiter’s.
+The problems relating to Jupiter’s Satellites, were found to
+be even more complex than those which refer to the planets: for it was
+necessary to consider each satellite as disturbed by the other three
+at once; and thus there occurred the Problem of Five Bodies.
+This problem was resolved by Lagrange.50
+50 Bailly, Ast. Mod. iii.
+178.
+Again, the newly-discovered small Planets, Juno, Ceres,
+Vesta, Pallas, whose orbits almost coincide with each other, and are
+more inclined and more eccentric than those of the ancient planets,
+give rise, by their perturbations, to new forms of the problem, and
+require new artifices.
+In the course of these researches respecting Jupiter, Lagrange and
+Laplace were led to consider particularly the secular
+Inequalities of the solar system; that is, those inequalities in
+which the duration of the cycle of change embraces very many
+revolutions of the bodies themselves. Euler in 1749 and 1755, and
+Lagrange51 in 1766, had introduced the method of
+the Variation of the Elements of the orbit; which consists in
+tracing the effect of the perturbing forces, not as directly altering
+the place of the planet, but as producing a change from one instant to
+another, in the dimensions and position of the Elliptical orbit which
+the planet describes.52 Taking this view, he 371 determines the
+secular changes of each of the elements or determining
+quantities of the orbit. In 1773, Laplace also attacked this subject
+of secular changes, and obtained expressions for them. On this
+occasion, he proved the celebrated proposition that, “the mean motions
+of the planets are invariable:” that is, that there is, in the
+revolutions of the system, no progressive change which is not finally
+stopped and reversed; no increase, which is not, after some period,
+changed into decrease; no retardation which is not at last succeeded
+by acceleration; although, in some cases, millions of years may elapse
+before the system reaches the turning-point. Thomas Simpson noticed
+the same consequence of the laws of universal attraction. In 1774 and
+1776, Lagrange53 still labored at the secular equations;
+extending his researches to the nodes and inclinations; and showed
+that the invariability of the mean motions of the planets, which
+Laplace had proved, neglecting the fourth powers of the eccentricities
+and inclinations of the orbits,54 was true,
+however far the approximation was carried, so long as the squares of
+the disturbing masses were neglected. He afterwards improved his
+methods;55 and, in 1783, he endeavored to extend
+the calculation of the changes of the elements to the periodical
+equations, as well as the secular.
+51 Gautier, Prob. de Trois
+Corps, p. 155.
+52 In the first edition of this
+History, I had ascribed to Lagrange the invention of the Method of
+Variation of Elements in the theory of Perturbations. But justice to
+Euler requires that we should assign this distinction to him; at
+least, next to Newton, whose mode of representing the paths of bodies
+by means of a Revolving Orbit, in the Ninth Section of the
+Principia, may be considered as an anticipation of the method
+of variation of elements. In the fifth volume of the Mécanique
+Céleste, livre xv. p. 305, is an abstract of Euler’s paper of
+1749; where Laplace adds, “C’est le premier essai de la méthode de la
+variation des constantes arbitraires.” And in page 310 is an abstract
+of the paper of 1756: and speaking of the method, Laplace says, “It
+consists in regarding the elements of the elliptical motion as
+variable in virtue of the perturbing forces. Those elements are, 1,
+the axis major; 2, the epoch of the body being at the apse; 3, the
+eccentricity; 4, the movement of the apse; 5, the inclination; 6, the
+longitude of the node;” and he then proceeds to show how Euler did
+this. It is possible that Lagrange knew nothing of Euler’s paper. See
+Méc. Cél. vol. v. p. 312. But Euler’s conception and treatment
+of the method are complete, so that he must be looked upon as the
+author of it.
+53 Gautier, p. 104.
+54 Ib. p. 184.
+55 Ib. p. 196.
+8. Mécanique Céleste, &c.—Laplace also
+resumed the consideration of the secular changes; and, finally,
+undertook his vast work, the Mécanique Céleste, which he
+intended to contain a complete view of the existing state of this
+splendid department of science. We may see, in the exultation which
+the author obviously feels at the thought of erecting this monument of
+his age, the enthusiasm which had been excited by the splendid course
+of mathematical successes of which I have given a sketch. The two
+first volumes of this great work appeared in 1799. The third and
+fourth volumes were published in 1802 and 1805 respectively. Since its
+publication, little has been added to the solution of the great
+problems of which it treats. In 1808, Laplace presented to the French
+Bureau des Longitudes, a Supplement to the Mécanique Céleste;
+the object of which was to improve still further 372 the mode of obtaining
+the secular variations of the elements. Poisson and Lagrange proved
+the invariability of the major axes of the orbits, as far as the
+second order of the perturbing forces. Various other authors have
+since labored at this subject. Burckhardt, in 1808, extended the
+perturbing function as far as the sixth order of the eccentricities.
+Gauss, Hansen, and Bessel, Ivory, MM. Lubbock, Plana, Pontécoulant,
+and Airy, have, at different periods up to the present time, either
+extended or illustrated some particular part of the theory, or applied
+it to special cases; as in the instance of Professor Airy’s
+calculation of an inequality of Venus and the earth, of which the
+period is 240 years. The approximation of the Moon’s motions has been
+pushed to an almost incredible extent by M. Damoiseau, and, finally,
+Plana has once more attempted to present, in a single work (three
+thick quarto volumes), all that has hitherto been executed with regard
+to the theory of the Moon.
+I give only the leading points of the progress of analytical
+dynamics. Hence I have not spoken in detail of the theory of the
+Satellites of Jupiter, a subject on which Lagrange gained a prize for
+a Memoir, in 1766, and in which Laplace discovered some most curious
+properties in 1784. Still less have I referred to the purely
+speculative question of Tautochronous Curves in a resisting
+medium, though it was a subject of the labors of Bernoulli, Euler,
+Fontaine, D’Alembert, Lagrange, and Laplace. The reader will rightly
+suppose that many other curious investigations are passed over in
+utter silence.
+[2d Ed.] [Although the analytical calculations of the great
+mathematicians of the last century had determined, in a demonstrative
+manner, a vast series of inequalities to which the motions of the sun,
+moon, and planets were subject in virtue of their mutual attraction,
+there were still unsatisfactory points in the solutions thus given of
+the great mechanical problems suggested by the System of the Universe.
+One of these points was the want of any evident mechanical
+significance in the successive members of these series. Lindenau
+relates that Lagrange, near the end of his life, expressed his sorrow
+that the methods of approximation employed in Physical Astronomy
+rested on arbitrary processes, and not on any insight into the results
+of mechanical action. But something was subsequently done to remove
+the ground of this complaint. In 1818, Gauss pointed out that secular
+equations may be conceived to result from the disturbing body being
+distributed along its orbit so as to form a ring, and thus made the
+result conceivable more distinctly than as a mere result of
+calculation. And it appears 373 to me that Professor Airy’s treatise
+entitled Gravitation, published at Cambridge in 1834, is of
+great value in supplying similar modes of conception with regard to
+the mechanical origin of many of the principal inequalities of the
+solar system.
+Bessel in 1824, and Hansen in 1828, published works which are
+considered as belonging, along with those of Gauss, to a new era in
+physical astronomy.56 Gauss’s Theoria Motuum Corporum
+Celestium, which had Lalande’s medal assigned to it by the French
+Institute, had already (1810) resolved all problems concerning the
+determination of the place of a planet or comet in its orbit in
+function of the elements. The value of Hansen’s labors respecting the
+Perturbations of the Planets was recognized by the Astronomical
+Society of London, which awarded to them its gold medal.
+56 Abhand. der Akad. d. Wissensch.
+zu Berlin. 1824; and Disquisitiones circa Theoriam
+Perturbationum. See Jahn. Gesch. der Astron. p. 84.
+The investigations of M. Damoiseau, and of MM. Plana and Carlini,
+on the Problem of the Lunar Theory, followed nearly the same course as
+those of their predecessors. In these, as in the Mécanique
+Céleste and in preceding works on the same subject, the Moon’s
+co-ordinates (time, radius vector, and latitude) were expressed in
+function of her true longitude. The integrations were effected in
+series, and then by reversion of the series, the longitude was
+expressed in function of the time; and then in the same manner the
+other two co-ordinates. But Sir John Lubbock and M. Pontécoulant have
+made the mean longitude of the moon, that is, the time, the
+independent variable, and have expressed the moon’s co-ordinates in
+terms of sines and cosines of angles increasing proportionally to the
+time. And this method has been adopted by M. Poisson (Mem.
+Inst. xiii. 1835, p. 212). M. Damoiseau, like Laplace and
+Clairaut, had deduced the successive coefficients of the lunar
+inequalities by numerical equations. But M. Plana expresses explicitly
+each coefficient in general terms of the letters expressing the
+constants of the problem, arranging them according to the order of the
+quantities, and substituting numbers at the end of the operation only.
+By attending to this arrangement, MM. Lubbock and Pontécoulant have
+verified or corrected a large portion of the terms contained in the
+investigations of MM. Damoiseau and Plana. Sir John Lubbock has
+calculated the polar co-ordinates of the Moon directly; M. Poisson, on
+the other hand, has obtained the variable elliptical elements; M.
+Pontécoulant conceives that the method of variation or arbitrary 374 constants may most
+conveniently be reserved for secular inequalities and inequalities of
+long periods.
+MM. Lubbock and Pontécoulant have made the mode of treating the
+Lunar Theory and the Planetary Theory agree with each other, instead
+of following two different paths in the calculation of the two
+problems, which had previously been done.
+Prof. Hansen, also, in his Fundamenta Nova Investigationis
+Orbitæ veræ quam Luna perlustrat (Gothæ, 1838), gives a
+general method, including the Lunar Theory and the Planetary Theory as
+two special cases. To this is annexed a solution of the Problem of
+Four Bodies.
+I am here speaking of the Lunar and Planetary Theories as
+Mechanical Problems only. Connected with this subject, I will not omit
+to notice a very general and beautiful method of solving problems
+respecting the motion of systems of mutually attracting bodies, given by
+Sir W. R. Hamilton, in the Philosophical Transactions for
+1834–5 (“On a General Method in Dynamics”). His method consists
+in investigating the Principal Function of the co-ordinates of
+the bodies: this function being one, by the differentiation of which,
+the co-ordinates of the bodies of the system may be found. Moreover,
+an approximate value of this function being obtained, the same formulæ
+supply a means of successive approximation without limit.]
+9. Precession. Motion of Rigid Bodies.—The series of
+investigations of which I have spoken, extensive and complex as it is,
+treats the moving bodies as points only, and takes no account of any
+peculiarity of their form or motion of their parts. The investigation
+of the motion of a body of any magnitude and form, is another branch
+of analytical mechanics, which well deserves notice. Like the former
+branch, it mainly owed its cultivation to the problems suggested by
+the solar system. Newton, as we have seen, endeavored to calculate the
+effect of the attraction of the sun and moon in producing the
+precession of the equinoxes; but in doing this he made some
+mistakes. In 1747, D’Alembert solved this problem by the aid of his
+“Principle;” and it was not difficult for him to show, as he did in
+his Opuscules, in 1761, that the same method enabled him to
+determine the motion of a body of any figure acted upon by any forces.
+But, as the reader will have observed in the course of this narrative,
+the great mathematicians of this period were always nearly abreast of
+each other in their advances.—Euler,57 in the mean
+time, had published, in 1751, a solution of the 375 problem of the
+precession; and in 1752, a memoir which he entitled Discovery of a
+New Principle of Mechanics, and which contains a solution of the
+general problem of the alteration of rotary motion by forces.
+D’Alembert noticed with disapprobation the assumption of priority
+which this title implied, though allowing the merit of the memoir.
+Various improvements were made in these solutions; but the final form
+was given them by Euler; and they were applied to a great variety of
+problems in his Theory of the Motion of Solid and Rigid Bodies,
+which was written58 about 1760, and published in 1765. The
+formulæ in this work were much simplified by the use of a discovery of
+Segner, that every body has three axes which were called Principal
+Axes, about which alone (in general) it would permanently revolve. The
+equations which Euler and other writers had obtained, were attacked as
+erroneous by Landen in the Philosophical Transactions for 1785; but I
+think it is impossible to consider this criticism otherwise than as an
+example of the inability of the English mathematicians of that period
+to take a steady hold of the analytical generalizations to which the
+great Continental authors had been led. Perhaps one of the most
+remarkable calculations of the motion of a rigid body is that which
+Lagrange performed with regard to the Moon’s Libration; and by
+which he showed that the Nodes of the Moon’s Equator and those of her
+Orbit must always coincide.
+57 Ac. Berl. 1745, 1750.
+58 See the preface to the book.
+10. Vibrating Strings.—Other mechanical questions,
+unconnected with astronomy, were also pursued with great zeal and
+success. Among these was the problem of a vibrating string, stretched
+between two fixed points. There is not much complexity in the
+mechanical conceptions which belong to this case, but considerable
+difficulty in reducing them to analysis. Taylor, in his Method of
+Increments, published in 1716, had annexed to his work a solution
+of this problem; obtained on suppositions, limited indeed, but
+apparently conformable to the most common circumstances of practice.
+John Bernoulli, in 1728, had also treated the same problem. But it
+assumed an interest altogether new, when, in 1747, D’Alembert
+published his views on the subject; in which he maintained that,
+instead of one kind of curve only, there were an infinite number of
+different curves, which answered the conditions of the question. The
+problem, thus put forward by one great mathematician, was, as usual,
+taken up by the others, whose names the reader is now so familiar with
+in such an association. In 376 1748, Euler not only assented to the
+generalization of D’Alembert, but held that it was not necessary that
+the curves so introduced should be defined by any algebraical
+condition whatever. From this extreme indeterminateness D’Alembert
+dissented; while Daniel Bernoulli, trusting more to physical and less
+to analytical reasonings, maintained that both these generalizations
+were inapplicable in fact, and that the solution was really
+restricted, as had at first been supposed, to the form of the
+trochoid, and to other forms derivable from that. He introduced, in
+such problems, the “Law of Coexistent Vibrations,” which is of eminent
+use in enabling us to conceive the results of complex mechanical
+conditions, and the real import of many analytical expressions. In the
+mean time, the wonderful analytical genius of Lagrange had applied
+itself to this problem. He had formed the Academy of Turin, in
+conjunction with his friends Saluces and Cigna; and the first memoir
+in their Transactions was one by him on this subject: in this and in
+subsequent writings he has established, to the satisfaction of the
+mathematical world, that the functions introduced in such cases are
+not necessarily continuous, but are arbitrary to the same degree that
+the motion is so practically; though capable of expression by a series
+of circular functions. This controversy, concerning the degree of
+lawlessness with which the conditions of the solution may be assumed,
+is of consequence, not only with respect to vibrating strings, but
+also with respect to many problems, belonging to a branch of Mechanics
+which we now have to mention, the Doctrine of Fluids.
+11. Equilibrium of Fluids. Figure of the Earth.
+Tides.—The application of the general doctrines of Mechanics
+to fluids was a natural and inevitable step, when the principles of
+the science had been generalized. It was easily seen that a fluid is,
+for this purpose, nothing more than a body of which the parts are
+movable amongst each other with entire facility; and that the
+mathematician must trace the consequences of this condition upon his
+equations. This accordingly was done, by the founders of mechanics,
+both for the cases of the equilibrium and of motion. Newton’s attempt
+to solve the problem of the figure of the earth, supposing it
+fluid, is the first example of such an investigation: and this
+solution rested upon principles which we have already explained,
+applied with the skill and sagacity which distinguished all that
+Newton did.
+We have already seen how the generality of
+the principle, that fluids press equally in all directions, was
+established. In applying it to calculation, Newton took for his
+fundamental principle, the equal 377 weight of columns of the fluid reaching
+to the centre; Huyghens took, as his basis, the perpendicularity of the resulting force at
+each point to the surface of the fluid; Bouguer conceived that both
+principles were necessary; and Clairaut showed that the equilibrium of
+all canals is requisite. He also was the first mathematician
+who deduced from this principle the Equations of Partial Differentials
+by which these laws are expressed; a step which, as Lagrange says,59 changed the face of Hydrostatics, and
+made it a new science. Euler simplified the mode of obtaining the
+Equations of Equilibrium for any forces whatever; and put them in the
+form which is now generally adopted in our treatises.
+59 Méc. Analyt. ii. p.
+180.
+The explanation of the Tides, in the way in which Newton
+attempted it in the third book of the Principia, is another
+example of a hydrostatical investigation: for he considered only the
+form that the ocean would have if it were at rest. The memoirs of
+Maclaurin, Daniel Bernoulli, and Euler, on the question of the Tides,
+which shared among them the prize of the Academy of Sciences in 1740,
+went upon the same views.
+The Treatise of the Figure of the Earth, by Clairaut, in
+1743, extended Newton’s solution of the same problem, by supposing a
+solid nucleus covered with a fluid of different density. No peculiar
+novelty has been introduced into this subject, except a method
+employed by Laplace for determining the attractions of spheroids of
+small eccentricity, which is, as Professor Airy has said,60 “a calculus the most singular in its
+nature, and the most powerful in its effects, of any which has yet
+appeared.”
+60 Enc. Met. Fig. of Earth, p.
+192.
+12. Capillary Action.—There is only one other problem
+of the statics of fluids on which it is necessary to say a
+word,—the doctrine of Capillary Attraction. Daniel Bernoulli,61 in 1738, states that he passes over the
+subject, because he could not reduce the facts to general laws: but
+Clairaut was more successful, and Laplace and Poisson have since given
+great analytical completeness to his theory. At present our business
+is, not so much with the sufficiency of the theory to explain
+phenomena, as with the mechanical problem of which this is an example,
+which is one of a very remarkable and important character; namely, to
+determine the effect of attractions which are exercised by all the
+particles of bodies, on the hypothesis that the 378 attraction of each
+particle, though sensible when it acts upon another particle at an
+extremely small distance from it, becomes insensible and vanishes the
+moment this distance assumes a perceptible magnitude. It may easily be
+imagined that the analysis by which results are obtained under
+conditions so general and so peculiar, is curious and abstract; the
+problem has been resolved in some very extensive cases.
+61 Hydrodyn. Pref. p. 5.
+13. Motion of Fluids.—The only branch of mathematical
+mechanics which remains to be considered, is that which is, we may
+venture to say, hitherto incomparably the most incomplete of
+all,—Hydrodynamics. It may easily be imagined that the mere
+hypothesis of absolute relative mobility in the parts, combined with
+the laws of motion and nothing more, are conditions too vague and
+general to lead to definite conclusions. Yet such are the conditions
+of the problems which relate to the motion of fluids. Accordingly, the
+mode of solving them has been, to introduce certain other hypotheses,
+often acknowledged to be false, and almost always in some measure
+arbitrary, which may assist in determining and obtaining the solution.
+The Velocity of a fluid issuing from an orifice in a vessel, and the
+Resistance which a solid body suffers in moving in a fluid, have been
+the two main problems on which mathematicians have employed
+themselves. We have already spoken of the manner in which Newton
+attacked both these, and endeavored to connect them. The subject
+became a branch of Analytical Mechanics by the labors of D. Bernoulli,
+whose Hydrodynamica was published in 1738. This work rests upon
+the Huyghenian principle of which we have already spoken in the history of the centre of
+oscillation; namely, the equality of the actual descent of
+the particles and the potential ascent; or, in other words,
+the conservation of vis viva. This was the first analytical
+treatise; and the analysis is declared by Lagrange to be as elegant in
+its steps as it is simple in its results. Maclaurin also treated the
+subject; but is accused of reasoning in such a way as to show that he
+had determined upon his result beforehand; and the method of John
+Bernoulli, who likewise wrote upon it, has been strongly objected to
+by D’Alembert. D’Alembert himself applied the principle which bears
+his name to this subject; publishing a Treatise on the Equilibrium
+and Motion of Fluids in 1744, and on the Resistance of
+Fluids in 1753. His Réflexions sur la Cause Générale des
+Vents, printed in 1747, are also a celebrated work, belonging to
+this part of mathematics. Euler, in this as in other cases, was one of
+those who most contributed to give analytical elegance to the subject.
+In addition to the questions which 379 have been mentioned, he and Lagrange
+treated the problems of the small vibrations of fluids, both inelastic
+and elastic;—a subject which leads, like the question of
+vibrating strings, to some subtle and abstruse considerations
+concerning the significations of the integrals of partial differential
+equations. Laplace also took up the subject of waves propagated along
+the surface of water; and deduced a very celebrated theory of the
+tides, in which he considered the ocean to be, not in equilibrium, as
+preceding writers had supposed, but agitated by a constant series of
+undulations, produced by the solar and lunar forces. The difficulty of
+such an investigation may be judged of from this, that Laplace, in
+order to carry it on, is obliged to assume a mechanical proposition,
+unproved, and only conjectured to be true; namely,62 that, “in a
+system of bodies acted upon by forces which are periodical, the state
+of the system is periodical like the forces.” Even with this
+assumption, various other arbitrary processes are requisite; and it
+appears still very doubtful whether Laplace’s theory is either a
+better mechanical solution of the problem, or a nearer approximation
+to the laws of the phenomena, than that obtained by D. Bernoulli,
+following the views of Newton.
+62 Méc. Cél. t. ii. p.
+218.
+In most cases, the solutions of problems of hydrodynamics are not
+satisfactorily confirmed by the results of observation. Poisson and
+Cauchy have prosecuted the subject of waves, and have deduced very
+curious conclusions by a very recondite and profound analysis. The
+assumptions of the mathematician here do not represent the conditions
+of nature; the rules of theory, therefore, are not a good standard to
+which we may refer the aberrations of particular cases; and the laws
+which we obtain from experiment are very imperfectly illustrated by
+à priori calculation. The case of this department of knowledge,
+Hydrodynamics, is very peculiar; we have reached the highest point of
+the science,—the laws of extreme simplicity and generality from
+which the phenomena flow; we cannot doubt that the ultimate principles
+which we have obtained are the true ones, and those which really apply
+to the facts; and yet we are far from being able to apply the
+principles to explain or find out the facts. In order to do this, we
+want, in addition to what we have, true and useful principles,
+intermediate between the highest and the lowest;—between the
+extreme and almost barren generality of the laws of motion, and the
+endless varieties and inextricable complexity of fluid motions in
+special cases. 380
+The reason of this peculiarity in the science of Hydrodynamics appears
+to be, that its general principles were not discovered with reference
+to the science itself, but by extension from the sister science of the
+Mechanics of Solids; they were not obtained by ascending gradually
+from particulars, to truths more and more general, respecting the
+motions of fluids; but were caught at once, by a perception that the
+parts of fluids are included in that range of generality which we are
+entitled to give to the supreme laws of motions of solids. Thus, Solid
+Dynamics and Fluid Dynamics resemble two edifices which have their
+highest apartment in common, and though we can explore every part of
+the former building, we have not yet succeeded in traversing the
+staircase of the latter, either from the top or from the bottom. If we
+had lived in a world in which there were no solid bodies, we should
+probably not have yet discovered the laws of motion; if we had lived
+in a world in which there were no fluids, we should have no idea how
+insufficient a complete possession of the general laws of motion may
+be, to give us a true knowledge of particular results.
+14. Various General Mechanical Principles.—The
+generalized laws of motion, the points to which I have endeavored to
+conduct my history, include in them all other laws by which the
+motions of bodies can be regulated; and among such, several laws which
+had been discovered before the highest point of generalization was
+reached, and which thus served as stepping-stones to the ultimate
+principles. Such were, as we have seen, the Principles of the
+Conservation of vis viva, the Principle of the Conservation of
+the Motion of the Centre of Gravity, and the like. These principles
+may, of course, be deduced from our elementary laws, and were finally
+established by mathematicians on that footing. There are other
+principles which may be similarly demonstrated; among the rest, I may
+mention the Principle of the Conservation of areas, which
+extends to any number of bodies a law analogous to that which Kepler
+had observed, and Newton demonstrated, respecting the areas described
+by each planet round the sun. I may mention also, the Principle of the
+Immobility of the plane of maximum areas, a plane which is not
+disturbed by any mutual action of the parts of any system. The former
+of these principles was published about the same time by Euler, D.
+Bernoulli, and Darcy, under different forms, in 1746 and 1747; the
+latter by Laplace.
+To these may be added a law, very celebrated in its time, and the
+occasion of an angry controversy, the Principle of least
+action. 381
+Maupertuis conceived that he could establish à priori, by
+theological arguments, that all mechanical changes must take place in
+the world so as to occasion the least possible quantity of
+action. In asserting this, it was proposed to measure the
+Action by the product of Velocity and Space; and this measure being
+adopted, the mathematicians, though they did not generally assent to
+Maupertuis’ reasonings, found that his principle expressed a
+remarkable and useful truth, which might be established on known
+mechanical grounds.
+15. Analytical Generality. Connection of Statics and
+Dynamics.—Before I quit this subject, it is important to
+remark the peculiar character which the science of Mechanics has now
+assumed, in consequence of the extreme analytical generality which has
+been given it. Symbols, and operations upon symbols, include the whole
+of the reasoner’s task; and though the relations of space are the
+leading subjects in the science, the great analytical treatises upon
+it do not contain a single diagram. The Mécanique Analytique of
+Lagrange, of which the first edition appeared in 1788, is by far the
+most consummate example of this analytical generality. “The plan of
+this work,” says the author, “is entirely new. I have proposed to
+myself to reduce the whole theory of this science, and the art of
+resolving the problems which it includes, to general formulæ, of which
+the simple development gives all the equations necessary for the
+solution of the problem.”—“The reader will find no figures in
+the work. The methods which I deliver do not require either
+constructions, or geometrical or mechanical reasonings; but only
+algebraical operations, subject to a regular and uniform rule of
+proceeding.” Thus this writer makes Mechanics a branch of Analysis;
+instead of making, as had previously been done, Analysis an implement
+of Mechanics.63 The transcendent generalizing genius of
+Lagrange, and his matchless analytical skill and elegance, have made
+this undertaking as successful as it is striking.
+63 Lagrange himself terms Mechanics,
+“An Analytical Geometry of four dimensions.” Besides the three
+co-ordinates which determine the place of a body in space,
+the time enters as a fourth co-ordinate. [Note by
+Littrow.]
+The mathematical reader is aware that the language of mathematical
+symbols is, in its nature, more general than the language of words:
+and that in this way truths, translated into symbols, often suggest
+their own generalizations. Something of this kind has happened in
+Mechanics. The same Formula expresses the general condition of Statics
+and that of Dynamics. The tendency to generalization which is thus
+introduced by analysis, makes mathematicians unwilling to 382 acknowledge a
+plurality of Mechanical principles; and in the most recent analytical
+treatises on the subject, all the doctrines are deduced from the
+single Law of Inertia. Indeed, if we identify Forces with the
+Velocities which produce them, and allow the Composition of Forces to
+be applicable to force so understood, it is easy to see that
+we can reduce the Laws of Motion to the Principles of Statics; and
+this conjunction, though it may not be considered as philosophically
+just, is verbally correct. If we thus multiply or extend the meanings
+of the term Force, we make our elementary principles simpler and fewer
+than before; and those persons, therefore, who are willing to assent
+to such a use of words, can thus obtain an additional generalisation
+of dynamical principles; and this, as I have stated, has been adopted
+in several recent treatises. I shall not further discuss here how far
+this is a real advance in science.
+Having thus rapidly gone through the history of Force and
+Attraction in the abstract, we return to the attempt to interpret the
+phenomena of the universe by the aid of these abstractions thus
+established.
+But before we do so, we may make one remark on the history of this
+part of science. In consequence of the vast career into which the
+Doctrine of Motion has been drawn by the splendid problems proposed to
+it by Astronomy, the origin and starting-point of Mechanics, namely
+Machines, had almost been lost out of sight. Machines had
+become the smallest part of Mechanics, as
+Land-measuring had become the smallest part of
+Geometry. Yet the application of Mathematics to the doctrine
+of Machines has led, at all periods of the Science, and especially in
+our own time, to curious and valuable results. Some of these will be
+noticed in the Additions to this volume.
+
+
+BOOK VII.
+
+THE MECHANICAL SCIENCES.
+(CONTINUED.)
+
+HISTORY
+OF
+PHYSICAL ASTRONOMY.
+
+
+DESCEND from heaven, Urania, by that name
+If rightly thou art called, whose voice
+divine
+Following, above the Olympian hill I soar,
+Above the flight of Pegasean wing.
+The meaning, not the name, I call, for thou
+Nor of the muses nine, nor on the top
+Of old Olympus dwell’st: but heavenly-born,
+Before the hills appeared, or fountain
+flowed,
+Thou with Eternal Wisdom didst converse,
+Wisdom, thy sister.
+Paradise Lost, B.
+vii.   
+
+</div></body></text></TEI>

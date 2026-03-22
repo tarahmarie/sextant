@@ -1,0 +1,503 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="1">INTRODUCTION.
+
+IT is my purpose to write the
+History of some of the most important of the Physical Sciences, from
+the earliest to the most recent periods. I shall thus have to trace
+some of the most remarkable branches of human knowledge, from their
+first germ to their growth into a vast and varied assemblage of
+undisputed truths; from the acute, but fruitless, essays of the early
+Greek Philosophy, to the comprehensive systems, and demonstrated
+generalizations, which compose such sciences as the Mechanics,
+Astronomy, and Chemistry, of modern times.
+The completeness of historical view which belongs to such a design,
+consists, not in accumulating all the details of the cultivation of
+each science, but in marking the larger features of its formation. The
+historian must endeavor to point out how each of the important
+advances was made, by which the sciences have reached their present
+position; and when and by whom each of the valuable truths was
+obtained, of which the aggregate now constitutes a costly
+treasure.
+Such a task, if fitly executed, must have a well-founded interest
+for all those who look at the existing condition of human knowledge
+with complacency and admiration. The present generation finds itself
+the heir of a vast patrimony of science; and it must needs concern us
+to know the steps by which these possessions were acquired, and the
+documents by which they are secured to us and our heirs forever. Our
+species, from the time of its creation, has been travelling onwards in
+pursuit of truth; and now that we have reached a lofty and commanding
+position, with the broad light of day around us, it must be grateful
+to look back on the line of our vast progress;—to review the
+journey, begun in early twilight amid primeval wilds; for a long time
+continued with slow advance and obscure prospects; and gradually and
+in later days followed along more open and lightsome paths, in a wide
+and fertile region. The historian of science, from early periods to
+the present times, may hope for favor on the score of the mere subject
+of his narrative, and in virtue of the curiosity which the men 42 of the present day may
+naturally feel respecting the events and persons of his story.
+But such a survey may possess also an interest of another kind; it
+may be instructive as well as agreeable; it may bring before the
+reader the present form and extent, the future hopes and prospects of
+science, as well as its past progress. The eminence on which we stand
+may enable us to see the land of promise, as well as the wilderness
+through which we have passed. The examination of the steps by which
+our ancestors acquired our intellectual estate, may make us acquainted
+with our expectations as well as our possessions;—may not only
+remind us of what we have, but may teach us how to improve and
+increase our store. It will be universally expected that a History of
+Inductive Science should point out to us a philosophical distribution
+of the existing body of knowledge, and afford us some indication of
+the most promising mode of directing our future efforts to add to its
+extent and completeness.
+To deduce such lessons from the past history of human knowledge,
+was the intention which originally gave rise to the present work. Nor
+is this portion of the design in any measure abandoned; but its
+execution, if it take place, must be attempted in a separate and
+future treatise, On the Philosophy of the Inductive Sciences.
+An essay of this kind may, I trust, from the progress already made in
+it, be laid before the public at no long interval after the present
+history.1
+1 The Philosophy of the Inductive
+Sciences was published shortly after the present work.
+Though, therefore, many of the principles and maxims of such a work
+will disclose themselves with more or less of distinctness in the
+course of the history on which we are about to enter, the systematic
+and complete exposition of such principles must be reserved for this
+other treatise. My attempts and reflections have led me to the
+opinion, that justice cannot be done to the subject without such a
+division of it.
+To this future work, then, I must refer the reader who is disposed
+to require, at the outset, a precise explanation of the terms which
+occur in my title. It is not possible, without entering into this
+philosophy, to explain adequately how science which is Inductive differs from that which is not so; or why
+some portions of knowledge may properly be selected from the
+general mass and termed Science. It will be
+sufficient at present to say, that the sciences of which we have 43 here to treat, are
+those which are commonly known as the Physical Sciences; and
+that by Induction is to be understood that process of
+collecting general truths from the examination of particular facts, by
+which such sciences have been formed.
+There are, however, two or three remarks, of which the application
+will occur so frequently, and will tend so much to give us a clearer
+view of some of the subjects which occur in our history, that I will
+state them now in a brief and general manner.
+Facts and Ideas.2—In the first place then, I remark,
+that, to the formation of science, two things are
+requisite;—Facts and Ideas; observation of Things without, and
+an inward effort of Thought; or, in other words, Sense and Reason.
+Neither of these elements, by itself can constitute substantial
+general knowledge. The impressions of sense, unconnected by some
+rational and speculative principle, can only end in a practical
+acquaintance with individual objects; the operations of the rational
+faculties, on the other hand, if allowed to go on without a constant
+reference to external things, can lead only to empty abstraction and
+barren ingenuity. Real speculative knowledge demands the combination
+of the two ingredients;—right reason, and facts to reason upon.
+It has been well said, that true knowledge is the interpretation of
+nature; and therefore it requires both the interpreting mind, and
+nature for its subject; both the document, and the ingenuity to read
+it aright. Thus invention, acuteness, and connection of thought, are
+necessary on the one hand, for the progress of philosophical
+knowledge; and on the other hand, the precise and steady application
+of these faculties to facts well known and clearly conceived. It is
+easy to point out instances in which science has failed to advance, in
+consequence of the absence of one or other of these requisites;
+indeed, by far the greater part of the course of the world, the
+history of most times and most countries, exhibits a condition thus
+stationary with respect to knowledge. The facts, the impressions on
+the senses, on which the first successful attempts at physical
+knowledge proceeded, were as well known long before the time when they
+were thus turned to account, as at that period. The motions of the
+stars, and the effects of weight, were familiar to man before the rise
+of the Greek Astronomy and Mechanics: but the “diviner mind” was still
+absent; the act of thought had not been exerted, by which these facts
+were bound together under the form of laws and principles. And even at
+44 this day, the
+tribes of uncivilized and half-civilized man, over the whole face of
+the earth, have before their eyes a vast body of facts, of exactly the
+same nature as those with which Europe has built the stately fabric of
+her physical philosophy; but, in almost every other part of the earth,
+the process of the intellect by which these facts become science, is
+unknown. The scientific faculty does not work. The scattered stones
+are there, but the builder’s hand is wanting. And again, we have no
+lack of proof that mere activity of thought is equally inefficient in
+producing real knowledge. Almost the whole of the career of the Greek
+schools of philosophy; of the schoolmen of Europe in the middle ages;
+of the Arabian and Indian philosophers; shows us that we may have
+extreme ingenuity and subtlety, invention and connection,
+demonstration and method; and yet that out of these germs, no physical
+science may be developed. We may obtain, by such means, Logic and
+Metaphysics, and even Geometry and Algebra; but out of such materials
+we shall never form Mechanics and Optics, Chemistry and Physiology.
+How impossible the formation of these sciences is without a constant
+and careful reference to observation and experiment;—how rapid
+and prosperous their progress may be when they draw from such sources
+the materials on which the mind of the philosopher employs
+itself;—the history of those branches of knowledge for the last
+three hundred years abundantly teaches us.
+2 For the Antithesis of Facts and
+Ideas, see the Philosophy, book i. ch. 1, 2, 4, 5.
+Accordingly, the existence of clear Ideas applied to distinct Facts
+will be discernible in the History of Science, whenever any marked
+advance takes place. And, in tracing the progress of the various
+provinces of knowledge which come under our survey, it will be
+important for us to see that, at all such epochs, such a combination
+has occurred; that whenever any material step in general knowledge has
+been made,—whenever any philosophical discovery arrests our
+attention,—some man or men come before us, who have possessed,
+in an eminent degree, a clearness of the ideas which belong to the
+subject in question, and who have applied such ideas in a vigorous and
+distinct manner to ascertained facts and exact observations. We shall
+never proceed through any considerable range of our narrative, without
+having occasion to remind the reader of this reflection.
+Successive Steps in Science.3—But there is
+another remark which we must also make. Such sciences as we have here
+to do with are, 45
+commonly, not formed by a single act;—they are not completed by
+the discovery of one great principle. On the contrary, they consist in
+a long-continued advance; a series of changes; a repeated progress
+from one principle to another, different and often apparently
+contradictory. Now, it is important to remember that this
+contradiction is apparent only. The principles which constituted the
+triumph of the preceding stages of the science, may appear to be
+subverted and ejected by the later discoveries, but in fact they are
+(so far as they were true) taken up in the subsequent doctrines and
+included in them. They continue to be an essential part of the
+science. The earlier truths are not expelled but absorbed, not
+contradicted but extended; and the history of each science, which may
+thus appear like a succession of revolutions, is, in reality, a series
+of developments. In the intellectual, as in the material world,
+
+
+Omnia mutantur nil
+interit . . . . .
+Nec manet ut fuerat nec formas servat
+easdem,
+Sed tamen ipsa eadem est.
+All changes, naught is lost; the forms are
+changed,
+And that which has been is not what it
+was,
+Yet that which has been is.
+
+Nothing which was done was useless or unessential,
+though it ceases to be conspicuous and primary.
+3 Concerning Successive
+Generalizations in Science see the Philosophy, book i. ch.
+2, sect. 11.
+Thus the final form of each science contains the substance of each
+of its preceding modifications; and all that was at any antecedent
+period discovered and established, ministers to the ultimate
+development of its proper branch of knowledge. Such previous doctrines
+may require to be made precise and definite, to have their superfluous
+and arbitrary portions expunged, to be expressed in new language, to
+be taken up into the body of science by various processes;—but
+they do not on such accounts cease to be true doctrines, or to form a
+portion of the essential constituents of our knowledge.
+Terms record Discoveries.4—The modes in
+which the earlier truths of science are preserved in its later forms,
+are indeed various. From being asserted at first as strange
+discoveries, such truths come at last to be implied as almost
+self-evident axioms. They are recorded by some familiar maxim, or
+perhaps by some new word or phrase, which becomes part of the current
+language of the philosophical world; and thus asserts a principle,
+while it appears merely to indicate a transient 46 notion;—preserves
+as well as expresses a truth;—and, like a medal of gold, is a
+treasure as well as a token. We shall frequently have to notice the
+manner in which great discoveries thus stamp their impress upon the
+terms of a science; and, like great political revolutions, are
+recorded by the change of the current coin which has accompanied
+them.
+4 Concerning Technical Terms,
+see Philosophy, book i. ch. 3.
+Generalization.—The great changes which thus take
+place in the history of science, the revolutions of the intellectual
+world, have, as a usual and leading character, this, that they are
+steps of generalization; transitions from particular truths
+to others of a wider extent, in which the former are included. This
+progress of knowledge, from individual facts to universal
+laws,—from particular propositions to general ones,—and
+from these to others still more general, with reference to which the
+former generalizations are particular,—is so far familiar to
+men’s minds, that, without here entering into further explanation, its
+nature will be understood sufficiently to prepare the reader to
+recognize the exemplifications of such a process, which he will find
+at every step of our advance.
+Inductive Epochs; Preludes; Sequels.—In our history,
+it is the progress of knowledge only which we have to attend
+to. This is the main action of our drama; and all the events which do
+not bear upon this, though they may relate to the cultivation and the
+cultivators of philosophy, are not a necessary part of our theme. Our
+narrative will therefore consist mainly of successive steps of
+generalization, such as have just been mentioned. But among these, we
+shall find some of eminent and decisive importance, which have more
+peculiarly influenced the fortunes of physical philosophy, and to
+which we may consider the rest as subordinate and auxiliary. These
+primary movements, when the Inductive process, by which science is
+formed, has been exercised in a more energetic and powerful manner,
+may be distinguished as the Inductive Epochs of scientific
+history; and they deserve our more express and pointed notice. They
+are, for the most part, marked by the great discoveries and the great
+philosophical names which all civilized nations have agreed in
+admiring. But, when we examine more clearly the history of such
+discoveries, we find that these epochs have not occurred suddenly and
+without preparation. They have been preceded by a period, which we may
+call their Prelude during which the ideas and facts on which
+they turned were called into action;—were gradually evolved into
+clearness and connection, permanency and certainty; till at last the
+discovery which marks the epoch, seized and fixed forever the truth
+which had till then been obscurely and 47 doubtfully discerned. And again, when this
+step has been made by the principal discoverers, there may generally
+be observed another period, which we may call the Sequel of the
+Epoch, during which the discovery has acquired a more perfect
+certainty and a more complete development among the leaders of the
+advance; has been diffused to the wider throng of the secondary
+cultivators of such knowledge, and traced into its distant
+consequences. This is a work, always of time and labor, often of
+difficulty and conflict. To distribute the History of science into
+such Epochs, with their Preludes and Sequels, if successfully
+attempted, must needs make the series and connections of its
+occurrences more distinct and intelligible. Such periods form
+resting-places, where we pause till the dust of the confused march is
+laid, and the prospect of the path is clear.
+Inductive Charts.5—Since the advance of science
+consists in collecting by induction true general laws from particular
+facts, and in combining several such laws into one higher
+generalization, in which they still retain their truth; we might form
+a Chart, or Table, of the progress of each science, by setting down
+the particular facts which have thus been combined, so as to form
+general truths, and by marking the further union of these general
+truths into others more comprehensive. The Table of the progress of
+any science would thus resemble the Map of a River, in which the
+waters from separate sources unite and make rivulets, which again meet
+with rivulets from other fountains, and thus go on forming by their
+junction trunks of a higher and higher order. The representation of
+the state of a science in this form, would necessarily exhibit all the
+principal doctrines of the science; for each general truth contains
+the particular truths from which it was derived, and may be followed
+backwards till we have these before us in their separate state. And
+the last and most advanced generalization would have, in such a
+scheme, its proper place and the evidence of its validity. Hence such
+an Inductive Table of each science would afford a criterion of
+the correctness of our distribution of the inductive Epochs, by its
+coincidence with the views of the best judges, as to the substantial
+contents of the science in question. By forming, therefore, such
+Inductive Tables of the principal sciences of which I have here to
+speak, and by regulating by these tables, my views of the history of
+the sciences, I conceive that I have secured the distribution of my
+48 history from
+material error; for no merely arbitrary division of the events could
+satisfy such conditions. But though I have constructed such charts to
+direct the course of the present history, I shall not insert them in
+the work, reserving them for the illustration of the philosophy of the
+subject; for to this they more properly belong, being a part of the
+Logic of Induction.
+5 Inductive charts of the History of
+Astronomy and of Optics, such as are here referred to, are given in
+the Philosophy, book xi. ch. 6.
+Stationary Periods.—By the lines of such maps the real
+advance of science is depicted, and nothing else. But there are
+several occurrences of other kinds, too interesting and too
+instructive to be altogether omitted. In order to understand the
+conditions of the progress of knowledge, we must attend, in some
+measure, to the failures as well as the successes by which such
+attempts have been attended. When we reflect during how small a
+portion of the whole history of human speculations, science has really
+been, in any marked degree, progressive, we must needs feel some
+curiosity to know what was doing in these stationary periods;
+what field could be found which admitted of so wide a deviation, or at
+least so protracted a wandering. It is highly necessary to our
+purpose, to describe the baffled enterprises as well as the
+achievements of human speculation.
+Deduction.—During a great part of such stationary
+periods, we shall find that the process which we have spoken of as
+essential to the formation of real science, the conjunction of clear
+Ideas with distinct Facts, was interrupted; and, in such cases, men
+dealt with ideas alone. They employed themselves in reasoning from
+principles, and they arranged, and classified, and analyzed their
+ideas, so as to make their reasonings satisfy the requisitions of our
+rational faculties. This process of drawing conclusions from our
+principles, by rigorous and unimpeachable trains of demonstration, is
+termed Deduction. In its due place, it is a highly important
+part of every science; but it has no value when the fundamental
+principles, on which the whole of the demonstration rests, have not
+first been obtained by the induction of facts, so as to supply the
+materials of substantial truth. Without such materials, a series of
+demonstrations resembles physical science only as a shadow resembles a
+real object. To give a real significance to our propositions,
+Induction must provide what Deduction cannot supply. From a pictured
+hook we can hang only a pictured chain.
+Distinction of common Notions and Scientific Ideas.6—When the 49 notions with which men are conversant in
+the common course of practical life, which give meaning to their
+familiar language, and employment to their hourly thoughts, are
+compared with the Ideas on which exact science is founded, we find
+that the two classes of intellectual operations have much that is
+common and much that is different. Without here attempting fully to
+explain this relation (which, indeed, is one of the hardest problems
+of our philosophy), we may observe that they have this in common, that
+both are acquired by acts of the mind exercised in connecting external
+impressions, and may be employed in conducting a train of reasoning;
+or, speaking loosely (for we cannot here pursue the subject so as to
+arrive at philosophical exactness), we may say, that all notions and
+ideas are obtained by an inductive, and may be used in a
+deductive process. But scientific Ideas and common Notions
+differ in this, that the former are precise and stable, the latter
+vague and variable; the former are possessed with clear insight, and
+employed in a sense rigorously limited, and always identically the
+same; the latter have grown up in the mind from a thousand dim and
+diverse suggestions, and the obscurity and incongruity which belong to
+their origin hang about all their applications. Scientific Ideas can
+often be adequately exhibited for all the purposes of reasoning, by
+means of Definitions and Axioms; all attempts to reason by means of
+Definitions from common Notions, lead to empty forms or entire
+confusion.
+6 Scientific Ideas depend upon certain
+Fundamental Ideas, which are enumerated in the
+Philosophy, book i. ch. 8.
+Such common Notions are sufficient for the common practical conduct
+of human life: but man is not a practical creature merely; he has
+within him a speculative tendency, a pleasure in the
+contemplation of ideal relations, a love of knowledge as knowledge. It
+is this speculative tendency which brings to light the difference of
+common Notions and scientific Ideas, of which we have spoken. The mind
+analyzes such Notions, reasons upon them, combines and connects them;
+for it feels assured that intellectual things ought to be able to bear
+such handling. Even practical knowledge, we see clearly, is not
+possible without the use of the reason; and the speculative reason is
+only the reason satisfying itself of its own consistency. The
+speculative faculty cannot be controlled from acting. The mind cannot
+but claim a right to speculate concerning all its own acts and
+creations; yet, when it exercises this right upon its common practical
+notions, we find that it runs into barren abstractions and
+ever-recurring cycles of subtlety. Such Notions are like waters
+naturally stagnant; however much we urge and agitate them, they only
+revolve in stationary 50 whirlpools. But the mind is capable of
+acquiring scientific Ideas, which are better fitted to undergo
+discussion and impulsion. When our speculations are duly fed from the
+springheads of Observation, and frequently drawn off into the region
+of Applied Science, we may have a living stream of consistent and
+progressive knowledge. That science may be both real as to its import,
+and logical as to its form, the examples of many existing sciences
+sufficiently prove.
+School Philosophy.—So long, however, as attempts are
+made to form sciences, without such a verification and realization of
+their fundamental ideas, there is, in the natural series of
+speculation, no self-correcting principle. A philosophy constructed on
+notions obscure, vague, and unsubstantial, and held in spite of the
+want of correspondence between its doctrines and the actual train of
+physical events, may long subsist, and occupy men’s minds. Such a
+philosophy must depend for its permanence upon the pleasure which men
+feel in tracing the operations of their own and other men’s minds, and
+in reducing them to logical consistency and systematical
+arrangement.
+In these cases the main subjects of attention are not external
+objects, but speculations previously delivered; the object is not to
+interpret nature, but man’s mind. The opinions of the Masters are the
+facts which the Disciples endeavor to reduce to unity, or to follow
+into consequences. A series of speculators who pursue such a course,
+may properly be termed a School, and their philosophy a
+School Philosophy; whether their agreement in such a mode of
+seeking knowledge arise from personal communication and tradition, or
+be merely the result of a community of intellectual character and
+propensity. The two great periods of School Philosophy (it will be
+recollected that we are here directing our attention mainly to
+physical science) were that of the Greeks and that of the Middle
+Ages;—the period of the first waking of science, and that of its
+midday slumber.
+What has been said thus briefly and imperfectly, would require
+great detail and much explanation, to give it its full significance
+and authority. But it seemed proper to state so much in this place, in
+order to render more intelligible and more instructive, at the first
+aspect, the view of the attempted or effected progress of science.
+It is, perhaps, a disadvantage inevitably attending an undertaking
+like the present, that it must set out with statements so abstract;
+and must present them without their adequate development and proof.
+Such an Introduction, both in its character and its scale of
+execution, may be compared to the geographical sketch of a country,
+with which 51 the
+historian of its fortunes often begins his narration. So much of
+Metaphysics is as necessary to us as such a portion of Geography is to
+the Historian of an Empire; and what has hitherto been said, is
+intended as a slight outline of the Geography of that Intellectual
+World, of which we have here to study the History.
+The name which we have given to this History—A History of the Inductive Sciences—has the
+fault of seeming to exclude from the rank of Inductive Sciences those
+which are not included in the History; as Ethnology and Glossology,
+Political Economy, Psychology. This exclusion I by no means wish to
+imply; but I could find no other way of compendiously describing my
+subject, which was intended to comprehend those Sciences in which, by
+the observation of facts and the use of reason, systems of doctrine
+have been established which are universally received as truths among
+thoughtful men; and which may therefore be studied as examples of the
+manner in which truth is to be discovered. Perhaps a more exact
+description of the work would have been, A History of the principal
+Sciences hitherto established by Induction. I may add that I do
+not include in the phrase “Inductive Sciences,” the branches of Pure
+Mathematics (Geometry, Arithmetic, Algebra, and the like), because, as
+I have elsewhere stated (Phil. Ind. Sc., book ii. c. 1), these
+are not Inductive but Deductive Sciences. They do
+not infer true theories from observed facts, and more general from
+more limited laws: but they trace the conditions of all theory, the
+properties of space and number; and deduce results from ideas without
+the aid of experience. The History of these Sciences is briefly given
+in Chapters 13 and 14 of the Second Book of the Philosophy just
+referred to.
+
+I may further add that the other work to which I refer, the
+Philosophy of the Inductive Sciences, is in a great measure
+historical, no less than the present History. That work
+contains the history of the Sciences so far as it depends on
+Ideas; the present work contains the history so far as it
+depends upon Observation. The two works resulted simultaneously
+from the same examination of the principal writers on science in all
+ages, and may serve to supplement each other.
+
+
+BOOK I.
+
+HISTORY
+OF THE
+GREEK SCHOOL
+PHILOSOPHY,
+WITH REFERENCE TO
+PHYSICAL SCIENCE.
+
+
+Tίς γὰρ ἀρχὰ δέξατο ναυτιλίας;
+Τίς δὲ κίνδυνος κρατεροῖς ἀδάμαντος δῆσεν
+ἄλοις;
+.  .  .  .  .  . 
+Ἐπεὶ δ’ ἐμβόλου
+Κρέμασαν ἀγκύρας ὕπερθεν
+Χρυσέαν χείρεσσι λαβὼν φιάλαν
+Ἀρχὸς ἐν πρύμνᾳ πατέρ Οὐρανιδᾶν
+Ἐγχεικέραυνον Ζῆνα, καὶ ὠκυπόρους
+Κυμάτων ῥίπας, ἀνέμων τ’ ἐκάλει,
+Νύκτας τε, καὶ πόντου κελεύθους,
+Ἀματά τ’ εὔφρονα, καὶ
+Φιλίαν νόστοιο μοῖραν.
+Pindar.
+Pyth. iv. 124, 349.
+
+Whence came their voyage? them what peril
+held
+With adamantine rivets firmly bound?
+*  *  *  *  * 
+ *  *  
+But soon as on the vessel’s bow
+The anchor was hung up,
+Then took the Leader on the prow
+In hands a golden cup,
+And on great Father Jove did call,
+And on the Winds and Waters all,
+Swept by the hurrying blast;
+And on the Nights, and Ocean Ways,
+And on the fair auspicious Days,
+And loved return at last.
+
+
+
+BOOK I.
+
+HISTORY OF THE GREEK SCHOOL PHILOSOPHY, WITH
+REFERENCE TO PHYSICAL SCIENCE.
+</div></body></text></TEI>

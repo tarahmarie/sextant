@@ -1,0 +1,767 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Zoonomia Vol I</title><author>Darwin, Erasmus (1731-1802)</author></titleStmt><publicationStmt><publisher></publisher><pubPlace></pubPlace><date>1794</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="section" n="35">SECT. XXXIV.
+DISEASES OF VOLITION.
+
+I. 1.
+  Volition defined. Motions termed involuntary are caused by volition.
+  Desires opposed to each other. Deliberation. Ass between two hay-cocks.
+  Saliva swallowed against one's desire. Voluntary motions distinguished
+  from those associated with sensitive motions. 2. Pains from excess, and from defect of
+  motion. No pain is felt during vehement voluntary exertion; as in cold
+  fits of ague, labour-pains, strangury, tenesmus, vomiting, restlessness
+  in fevers, convulsion of a wounded muscle. 3. Of holding the breath and screaming in
+  pain; why swine and dogs cry out in pain, and not sheep and horses. Of
+  grinning and biting in pain; why mad animals bite others. 4. Epileptic convulsions explained, why the
+  fits begin with quivering of the under jaw, biting the tongue, and
+  setting the teeth; why the convulsive motions are alternately relaxed.
+  The phenomenon of laughter explained. Why children cannot tickle
+  themselves. How some have died from immoderate laughter. 5. Of cataleptic spasms, of the locked jaw,
+  of painful cramps. 6. Syncope
+  explained. Why no external objects are perceived in syncope. 7. Of palsy and apoplexy from violent
+  exertions. Case of Mrs. Scot. From dancing, scating, swimming. Case of
+  Mr. Nairn. Why palsies are not always immediately preceded by violent
+  exertions. Palsy and epilepsy from diseased livers. Why the right arm
+  more frequently paralytic than the left. How paralytic limbs regain their
+  motions. II. Diseases of the sensual
+  motions from excess or defect of voluntary exertion. 1. Madness. 2. Distinguished from delirium. 3. Why mankind more liable to insanity than
+  brutes. 4. Suspicion. Want of shame,
+  and of cleanliness. 5. They bear
+  cold, hunger, and fatigue. Charles XII. of Sweden. 6. Pleasureable delirium, and insanity.
+  Child riding on a stick. Pains of martyrdom not felt. 7. Dropsy. 8. Inflammation cured by insanity. III. 1. Pain
+  relieved by reverie. Reverie is an exertion of voluntary and sensitive
+  motions. 2. Case of reverie. 3. Lady supposed to have two souls. 4. Methods of relieving pain.
+
+I. 1. Before
+  we commence this Section on Diseased Voluntary Motions, it may be
+  necessary to premise, that the word volition is not used in this work
+  exactly in its common acceptation. Volition is said in Section V. to bear the same analogy to desire and aversion,
+  which sensation does to pleasure and pain. And hence that, when desire or
+  aversion produces any action of the muscular fibres, or of the organs of
+  sense, they are termed volition; and the actions produced in consequence
+  are termed voluntary actions. Whence it appears, that motions of our
+  muscles or ideas may be produced in consequence of desire or aversion
+  without our having the power to prevent them, and yet these motions may
+  be termed voluntary, according to our definition of the word; though in
+  common language they would be called involuntary.
+The objects of desire and aversion are generally at a distance,
+  whereas those of pleasure and pain are immediately acting upon our
+  organs. Hence, before desire or aversion are exerted, so as to cause any
+  actions, there is generally time for deliberation; which consists in
+  discovering the means to obtain the object of desire, or to avoid the
+  object of aversion; or in examining the good or bad consequences, which
+  may result from them. In this case it is evident, that we have a power to
+  delay the proposed action, or to perform it; and this power of choosing,
+  whether we shall act or not, is in common language expressed by the word
+  volition, or will. Whereas in this work the word volition means simply
+  the active state of the sensorial faculty in producing motion in
+  consequence of desire or aversion: whether we have the power of
+  restraining that action, or not; that is, whether we exert any actions in
+  consequence of opposite desires or aversions, or not.
+For if the objects of desire or aversion are present, there is no
+  necessity to investigate or compare the means of obtaining them,
+  nor do we always deliberate about their consequences; that is, no
+  deliberation necessarily intervenes, and in consequence the power of
+  choosing to act or not is not exerted. It is probable, that this twofold
+  use of the word volition in all languages has confounded the
+  metaphysicians, who have disputed about free will and necessity. Whereas
+  from the above analysis it would appear, that during our sleep, we use no
+  voluntary exertions at all; and in our waking hours, that they are the
+  consequence of desire or aversion.
+To will is to act in consequence of desire; but to desire means to
+  desire something, even if that something be only to become free from the
+  pain, which causes the desire; for to desire nothing is not to desire;
+  the word desire, therefore, includes both the action and the object or
+  motive; for the object and motive of desire are the same thing. Hence to
+  desire without an object, that is, without a motive, is a solecism in
+  language. As if one should ask, if you could eat without food, or breathe
+  without air.
+From this account of volition it appears, that convulsions of the
+  muscles, as in epileptic fits, may in the common sense of that word be
+  termed involuntary; because no deliberation is interposed between the
+  desire or aversion and the consequent action; but in the sense of the
+  word, as above defined, they belong to the class of voluntary motions, as
+  delivered in Vol. II. Class III. If this use of the word be discordant to
+  the ear of the reader, the term morbid voluntary motions, or motions in
+  consequence of aversion, may be substituted in its stead.
+If a person has a desire to be cured of the ague, and has at the same
+  time an aversion (or contrary desire) to swallowing an ounce of Peruvian
+  bark; he balances desire against desire, or aversion against aversion;
+  and thus he acquires the power of choosing, which is the common
+  acceptation of the word willing. But in the cold fit of ague,
+  after having discovered that the act of shuddering, or exerting the
+  subcutaneous muscles, relieves the pain of cold; he immediately exerts
+  this act of volition, and shudders, as soon as the pain and consequent
+  aversion return, without any deliberation intervening; yet is this act,
+  as well as that of swallowing an ounce of the bark, caused by volition;
+  and that even though he endeavours in vain to prevent it by a weaker
+  contrary volition. This recalls to our minds the story of the hungry ass
+  between two hay-stacks, where the two desires are supposed so exactly to
+  counteract each other, that he goes to neither of the stacks, but
+  perishes by want. Now as two equal and opposite desires are thus supposed
+  to balance each other, and prevent all action, it follows, that if one of
+  these hay-stacks was suddenly removed, that the ass would irresistibly be
+  hurried to the other, which in the common use of the word might be called
+  an involuntary act; but which, in our acceptation of it, would be classed
+  amongst voluntary actions, as above explained.
+Hence to deliberate is to compare opposing desires or aversions, and
+  that which is the most interesting at length prevails, and produces
+  action. Similar to this, where two pains oppose each other, the stronger
+  or more interesting one produces action; as in pleurisy the pain from
+  suffocation would produce expansion of the lungs, but the pain occasioned
+  by extending the inflamed membrane, which lines the chest, opposes this
+  expansion, and one or the other alternately prevails.
+When any one moves his hand quickly near another person's eyes, the
+  eye-lids instantly close; this act in common language is termed
+  involuntary, as we have not time to deliberate or to exert any contrary
+  desire or aversion, but in this work it would be termed a voluntary act,
+  because it is caused by the faculty of volition, and after a few trials
+  the nictitation can be prevented by a contrary or opposing volition.
+The power of opposing volitions is best exemplified in the story of
+  Mutius Sc�vola, who is said to have thrust his hand into the fire before
+  Porcenna, and to have suffered it to be consumed for having failed him in
+  his attempt on the life of that general. Here the aversion for the loss
+  of same, or the unsatisfied desire to serve his country, the two
+  prevalent enthusiasms at that time, were more powerful than the desire of
+  withdrawing his hand, which must be occasioned by the pain of combustion;
+  of these opposing volitions
+
+
+Vincit amor patri�, laudumque immensa cupido.
+
+
+If any one is told not to swallow his saliva for a minute, he soon
+  swallows it contrary to his will, in the common sense of that word; but
+  this also is a voluntary action, as it is performed by the faculty of
+  volition, and is thus to be understood. When the power of volition is
+  exerted on any of our senses, they become more acute, as in our attempts
+  to hear small noises in the night. As explained in Section XIX. 6. Hence by our attention to the fauces from
+  our desire not to swallow our saliva; the fauces become more sensible;
+  and the stimulus of the saliva is followed by greater sensation, and
+  consequent desire of swallowing it. So that the desire or volition in
+  consequence of the increased sensation of the saliva is more powerful,
+  than the previous desire not to swallow it. See Vol. II. Deglutitio
+  invita. In the same manner if a modest man wishes not to want to make
+  water, when he is confined with ladies in a coach or an assembly-room;
+  that very act of volition induces the circumstance, which he wishes to
+  avoid, as above explained; insomuch that I once saw a partial insanity,
+  which might be called a voluntary diabetes, which was occasioned by the
+  fear (and consequent aversion) of not being able to make water at
+  all.
+It is further necessary to observe here, to prevent any confusion of
+  voluntary, with sensitive, or associate motions, that in all the
+  instances of violent efforts to relieve pain, those efforts are at first
+  voluntary exertions; but after they have been frequently repeated for the
+  purpose of relieving certain pains, they become associated with those
+  pains, and cease at those times to be subservient to the will; as in
+  coughing, sneezing, and strangury. Of these motions those which
+  contribute to remove or dislodge the offending cause, as the actions of
+  the abdominal muscles in parturition or in vomiting, though they were
+  originally excited by volition, are in this work termed sensitive
+  motions; but those actions of the muscles or organs of sense, which do
+  not contribute to remove the offending cause, as in general convulsions
+  or in madness, are in this work termed voluntary motions, or motions in
+  consequence of aversion, though in common language they are called
+  involuntary ones. Those sensitive unrestrainable actions, which
+  contribute to remove the cause of pain are uniformly and invariably
+  exerted, as in coughing or sneezing; but those motions which are exerted
+  in consequence of aversion without contributing to remove the painful
+  cause, but only to prevent the sensation of it, as in epileptic, or
+  cataleptic fits, are not uniformly and invariably exerted, but change
+  from one set of muscles to another, as will be further explained; and may
+  by this criterion also be distinguished from the former.
+At the same time those motions, which are excited by perpetual
+  stimulus, or by association with each other, or immediately by
+  pleasureable or painful sensation, may properly be termed involuntary
+  motions, as those of the heart and arteries; as the faculty of volition
+  seldom affects those, except when it exists in unnatural quantity, as in
+  maniacal people.
+2. It was observed in Section XIV. on the Production of Ideas, that those parts of
+  the system, which are usually termed the organs of sense, are liable to
+  be excited into pain by the excess of the stimulus of those objects,
+  which are by nature adapted to affect them; as of too great light, sound,
+  or pressure. But that these organs receive no pain from the defect or
+  absence of these stimuli, as in darkness or silence. But that our other
+  organs of perception, which have generally been called appetites, as of
+  hunger, thirst, want of heat, want of fresh air, are liable to be
+  affected with pain by the defect, as well as by the excess of their
+  appropriated stimuli.
+This excess or defect of stimulus is however to be considered only as
+  the remote cause of the pain, the immediate cause being the excess or
+  defect of the natural action of the affected part, according to Sect. IV. 5. Hence all the pains of the body may be
+  divided into those from excess of motion, and those from defect of
+  motion; which distinction is of great importance in the knowledge and the
+  cure of many diseases. For as the pains from excess of motion either
+  gradually subside, or are in general succeeded by inflammation; so those
+  from defect of motion either gradually subside, or are in general
+  succeeded by convulsion, or madness. These pains are easily
+  distinguishable from each other by this circumstance, that the former are
+  attended with heat of the pained part, or of the whole body; whereas the
+  latter exists without increase of heat in the pained part, and is
+  generally attended with coldness of the extremities of the body; which is
+  the true criterion of what have been called nervous pains.
+Thus when any acrid material, as snuff or lime, falls into the eye,
+  pain and inflammation and heat are produced from the excess of stimulus;
+  but violent hunger, hemicrania, or the clavus hystericus, are attended
+  with coldness of the extremities, and defect of circulation. When we are
+  exposed to great cold, the pain we experience from the deficiency of heat
+  is attended with a quiescence of the motions of the vascular system; so
+  that no inflammation is produced, but a great desire of heat, and a
+  tremulous motion of the subcutaneous muscles, which is properly a
+  convulsion in consequence of this pain from defect of the stimulus of
+  heat.
+It was before mentioned, that as sensation consists in certain
+  movements of the sensorium, beginning at some of the extremities of it,
+  and propagated to the central parts of it; so volition consists of
+  certain other movements of the sensorium, commencing in the central parts
+  of it, and propagated to some of its extremities. This idea of these two
+  great powers of motion in the animal machine is confirmed from observing,
+  that they never exist in a great degree or universally at the same time;
+  for while we strongly exert our voluntary motions, we cease to feel the
+  pains or uneasinesses, which occasioned us to exert them.
+Hence during the time of fighting with fists or swords no pain is felt
+  by the combatants, till they cease to exert themselves. Thus in the
+  beginning of ague-fits the painful sensation of cold is diminished, while
+  the patient exerts himself in the shivering and gnashing of his teeth. He
+  then ceases to exert himself, and the pain of cold returns; and he is
+  thus perpetually induced to reiterate these exertions, from which he
+  experiences a temporary relief. The same occurs in labour-pains, the
+  exertion of the parturient woman relieves the violence of the pains for a
+  time, which recur again soon after she has ceased to use those exertions.
+  The same is true in many other painful diseases, as in the strangury,
+  tenesmus, and the efforts of vomiting; all these disagreeable sensations
+  are diminished or removed for a time by the various exertions they
+  occasion, and recur alternately with those exertions.
+The restlessness in some fevers is an almost perpetual exertion of
+  this kind, excited to relieve some disagreeable sensations; the
+  reciprocal opposite exertions of a wounded worm, the alternate
+  emprosthotonos and opisthotonos of some spasmodic diseases, and the
+  intervals of all convulsions, from whatever cause, seem to be owing to
+  this circumstance of the laws of animation; that great or universal
+  exertion cannot exist at the same time with great or universal sensation,
+  though they can exist reciprocally; which is probably resolvable into the
+  more general law, that the whole sensorial power being expended in one
+  mode of exertion, there is none to spare for any other. Whence syncope,
+  or temporary apoplexy, succeeds to epileptic convulsions.
+3. Hence when any violent pain afflicts
+  us, of which we can neither avoid nor remove the cause, we soon learn to
+  endeavour to alleviate it, by exerting some violent voluntary effort, as
+  mentioned above; and are naturally induced to use those muscles for this
+  purpose, which have been in the early periods of our lives most
+  frequently or most powerfully exerted.
+Now the first muscles, which infants use most frequently, are those of
+  respiration; and on this account we gain a habit of holding our breath,
+  at the same time that we use great efforts to exclude it, for this
+  purpose of alleviating unavoidable pain; or we press out our breath
+  through a small aperture of the larynx, and scream violently, when the
+  pain is greater than is relievable by the former mode of exertion. Thus
+  children scream to relieve any pain either of body or mind, as from
+  anger, or fear of being beaten.
+Hence it is curious to observe, that those animals, who have more
+  frequently exerted their muscles of respiration violently, as in talking,
+  barking, or grunting, as children, dogs, hogs, scream much more, when
+  they are in pain, than those other animals, who use little or no language
+  in their common modes of life; as horses, sheep, and cows.
+The next most frequent or most powerful efforts, which infants are
+  first tempted to produce, are those with the muscles in biting hard
+  substances; indeed the exertion of these muscles is very powerful in
+  common mastication, as appears from the pain we receive, if a bit of bone
+  is unexpectedly found amongst our softer food; and further appears from
+  their acting to so great mechanical disadvantage, particularly when we
+  bite with the incisores, or canine teeth; which are first formed, and
+  thence are first used to violent exertion.
+Hence when a person is in great pain, the cause of which he cannot
+  remove, he sets his teeth firmly together, or bites some substance
+  between them with great vehemence, as another mode of violent exertion to
+  produce a temporary relief. Thus we have a proverb where no help can be
+  had in pain, "to grin and abide;" and the tortures of hell are said to be
+  attended with "gnashing of teeth."
+Hence in violent spasmodic pains I have seen people bite not only
+  their tongues, but their arms or fingers, or those of the attendants, or
+  any object which was near them; and also strike, pinch, or tear, others
+  or themselves, particularly the part of their own body, which is painful
+  at the time. Soldiers, who die of painful wounds in battle, are said in
+  Homer to bite the ground. Thus also in the bellon, or colica saturnina,
+  the patients are said to bite their own flesh, and dogs in this disease
+  to bite up the ground they lie upon. It is probable that the great
+  endeavours to bite in mad dogs, and the violence of other mad animals, is
+  owing to the same cause.
+4. If the efforts of our voluntary
+  motions are exerted with still greater energy for the relief of some
+  disagreeable sensation, convulsions are produced; as the various kinds of
+  epilepsy, and in some hysteric paroxysms. In all these diseases a pain,
+  or disagreeable sensation is produced, frequently by worms, or acidity in
+  the bowels, or by a diseased nerve in the side, or head, or by the pain
+  of a diseased liver.
+In some constitutions a more intolerable degree of pain is produced in
+  some part at a distance from the cause by sensitive association, as
+  before explained; these pains in such constitutions arise to so great a
+  degree, that I verily believe no artificial tortures could equal some,
+  which I have witnessed; and am confident life would not have long been
+  preserved, unless they had been soon diminished or removed by the
+  universal convulsion of the voluntary motions, or by temporary
+  madness.
+In some of the unfortunate patients I have observed, the pain has
+  risen to an inexpressible degree, as above described, before the
+  convulsions have supervened; and which were preceded by screaming, and
+  grinning; in others, as in the common epilepsy, the convulsion has
+  immediately succeeded the commencement of the disagreeable sensations;
+  and as a stupor frequently succeeds the convulsions, they only seemed to
+  remember that a pain at the stomach preceded the fit, or some other
+  uneasy feel; or more frequently retained no memory at all of the
+  immediate cause of the paroxysm. But even in this kind of epilepsy, where
+  the patient does not recollect any preceding pain, the paroxysms
+  generally are preceded by a quivering motion of the under jaw, with a
+  biting of the tongue; the teeth afterwards become pressed together with
+  vehemence, and the eyes are then convulsed, before the commencement of
+  the universal convulsion; which are all efforts to relieve pain.
+The reason why these convulsive motions are alternately exerted and
+  remitted was mentioned above, and in Sect. XII.
+  1. 3. when the exertions are such as give a temporary relief to the
+  pain, which excites them, they cease for a time, till the pain is again
+  perceived; and then new exertions are produced for its relief. We see
+  daily examples of this in the loud reiterated laughter of some people;
+  the pleasureable sensation, which excites this laughter, arises for a
+  time so high as to change its name and become painful: the convulsive
+  motions of the respiratory muscles relieve the pain for a time; we are,
+  however, unwilling to lose the pleasure, and presently put a stop to this
+  exertion, and immediately the pleasure recurs, and again as instantly
+  rises into pain. All of us have felt the pain of immoderate laughter;
+  children have been tickled into convulsions of the whole body; and others
+  have died in the act of laughing; probably from a paralysis succeeding
+  the long continued actions of the muscles of respiration.
+Hence we learn the reason, why children, who are so easily excited to
+  laugh by the tickling of other people's fingers, cannot tickle themselves
+  into laughter. The exertion of their hands in the endeavour to tickle
+  themselves prevents the necessity of any exertion of the respiratory
+  muscles to relieve the excess of pleasurable affection. See Sect. XVII. 3. 5.
+Chrysippus is recorded to have died laughing, when an ass was invited
+  to sup with him. The same is related of one of the popes, who, when he
+  was ill, saw a tame monkey at his bedside put on the holy thiara. Hall.
+  Phys. T. III. p. 306.
+There are instances of epilepsy being produced by laughing recorded by
+  Van Swieten, T. III. 402 and 308. And it is well known, that many people
+  have died instantaneously from the painful excess of joy, which probably
+  might have been prevented by the exertions of laughter.
+Every combination of ideas, which we attend to, occasions pain or
+  pleasure; those which occasion pleasure, furnish either social or selfish
+  pleasure, either malicious or friendly, or lascivious, or sublime
+  pleasure; that is, they give us pleasure mixed with other emotions, or
+  they give us unmixed pleasure, without occasioning any other emotions or
+  exertions at the same time. This unmixed pleasure, if it be great,
+  becomes painful, like all other animal motions from stimuli of every
+  kind; and if no other exertions are occasioned at the same time, we use
+  the exertion of laughter to relieve this pain. Hence laughter is
+  occasioned by such wit as excites simple pleasure without any other
+  emotion, such as pity, love, reverence. For sublime ideas are mixed with
+  admiration, beautiful ones with love, new ones with surprise; and these
+  exertions of our ideas prevent the action of laughter from being
+  necessary to relieve the painful pleasure above described. Whence
+  laughable wit consists of frivolous ideas, without connections of any
+  consequence, such as puns on words, or on phrases, incongruous junctions
+  of ideas; on which account laughter is so frequent in children.
+Unmixed pleasure less than that, which causes laughter, causes sleep,
+  as in singing children to sleep, or in slight intoxication from wine or
+  food. See Sect. XVIII. 12.
+5. If the pains, or disagreeable
+  sensations, above described do not obtain a temporary relief from these
+  convulsive exertions of the muscles, those convulsive exertions continue
+  without remission, and one kind of catalepsy is produced. Thus when a
+  nerve or tendon produces great pain by its being inflamed or wounded, the
+  patient sets his teeth firmly together, and grins violently, to diminish
+  the pain; and if the pain is not relieved by this exertion, no relaxation
+  of the maxillary muscles takes place, as in the convulsions above
+  described, but the jaws remain firmly fixed together. This locked jaw is
+  the most frequent instance of cataleptic spasm, because we are more
+  inclined to exert the muscles subservient to mastication from their early
+  obedience to violent efforts of volition.
+But in the case related in Sect. XIX. on
+  Reverie, the cataleptic lady had pain in her upper teeth; and pressing
+  one of her hands vehemently against her cheek-bone to diminish this pain,
+  it remained in that attitude for about half an hour twice a day, till the
+  painful paroxysm was over.
+I have this very day seen a young lady in this disease, (with which
+  she has frequently been afflicted,) she began to-day with violent pain
+  shooting from one side of the forehead to the occiput, and after various
+  struggles lay on the bed with her fingers and wrists bent and stiff for
+  about two hours; in other respects she seemed in a syncope with a natural
+  pulse. She then had intervals of pain and of spasm, and took three grains
+  of opium every hour till she had taken nine grains, before the pains and
+  spasm ceased.
+There is, however, another species of fixed spasm, which differs from
+  the former, as the pain exists in the contracted muscle, and would seem
+  rather to be the consequence than the cause of the contraction, as in the
+  cramp in the calf of the leg, and in many other parts of the body.
+In these spasms it should seem, that the muscle itself is first thrown
+  into contraction by some disagreeable sensation, as of cold; and that
+  then the violent pain is produced by the great contraction of the
+  muscular fibres extending its own tendons, which are said to be sensible
+  to extension only; and is further explained in Sect. XVIII. 15.
+6. Many instances have been given in this
+  work, where after violent motions excited by irritation, the organ has
+  become quiescent to less, and even to the great irritation, which induced
+  it into violent motion; as after looking long at the sun or any bright
+  colour, they cease to be seen; and after removing from bright day-light
+  into a gloomy room, the eye cannot at first perceive the objects, which
+  stimulate it less. Similar to this is the syncope, which succeeds after
+  the violent exertions of our voluntary motions, as after epileptic fits,
+  for the power of volition acts in this case as the stimulus in the other.
+  This syncope is a temporary palsy, or apoplexy, which ceases after a
+  time, the muscles recovering their power of being excited into action by
+  the efforts of volition; as the eye in the circumstance above mentioned
+  recovers in a little time its power of seeing objects in a gloomy room;
+  which were invisible immediately after coming out of a stronger light.
+  This is owing to an accumulation of sensorial power during the inaction
+  of those fibres, which were before accustomed to perpetual exertions, as
+  explained in Sect. XII. 7. 1. A slighter
+  degree of this disease is experienced by every one after great fatigue,
+  when the muscles gain such inability to further action, that we are
+  obliged to rest them for a while, or to summon a greater power of
+  volition to continue their motions.
+In all the syncopes, which I have seen induced after convulsive fits,
+  the pulse has continued natural, though the organs of sense, as well as
+  the locomotive muscles, have ceased to perform their functions; for it is
+  necessary for the perception of objects, that the external organs of
+  sense should be properly excited by the voluntary power, as the eye-lids
+  must be open, and perhaps the muscles of the eye put into action to
+  distend, and thence give greater pellucidity to the cornea, which in
+  syncope, as in death, appears flat and less transparent.
+The tympanum of the ear also seems to require a voluntary exertion of
+  its muscles, to gain its due tension, and it is probable the other
+  external organs of sense require a similar voluntary exertion to adapt
+  them to the distinct perception of objects. Hence in syncope as in sleep,
+  as the power of volition is suspended, no external objects are perceived.
+  See Sect. XVIII. 5. During the time which the
+  patient lies in a fainting fit, the spirit of animation becomes
+  accumulated; and hence the muscles in a while become irritable by their
+  usual stimulation, and the fainting fit ceases. See Sect. XII. 7. 1.
+7. If the exertion of the voluntary
+  motions has been still more energetic, the quiescence, which succeeds, is
+  so complete, that they cannot again be excited into action by the efforts
+  of the will. In this manner the palsy, and apoplexy (which is an
+  universal palsy) are frequently produced after convulsions, or other
+  violent exertions; of this I shall add a few instances.
+Platernus mentions some, who have died apoplectic from violent
+  exertions in dancing; and Dr. Mead, in his Essay on Poisons, records a
+  patient in the hydrophobia, who at one effort broke the cords which bound
+  him, and at the same instant expired. And it is probable, that those, who
+  have expired from immoderate laughter, have died from this paralysis
+  consequent to violent exertion. Mrs. Scott of Stafford was walking in her
+  garden in perfect health with her neighbour Mrs. ——; the
+  latter accidentally fell into a muddy rivulet, and tried in vain to
+  disengage herself by the assistance of Mrs. Scott's hand. Mrs. Scott
+  exerted her utmost power for many minutes, first to assist her friend,
+  and next to prevent herself from being pulled into the morass, as her
+  distressed companion would not disengage her hand. After other assistance
+  was procured by their united screams, Mrs. Scott walked to a chair about
+  twenty yards from the brook, and was seized with an apoplectic stroke:
+  which continued many days, and terminated in a total loss of her right
+  arm, and her speech; neither of which she ever after perfectly
+  recovered.
+It is said, that many people in Holland have died after skating too
+  long or too violently on their frozen canals; it is probable the death of
+  these, and of others, who have died suddenly in swimming, has been owing
+  to this great quiescence or paralysis; which has succeeded very violent
+  exertions, added to the concomitant cold, which has had greater effect
+  after the sufferers had been heated and exhausted by previous
+  exercise.
+I remember a young man of the name of Nairne at Cambridge, who walking
+  on the edge of a barge fell into the river. His cousin and fellow-student
+  of the same name, knowing the other could not swim, plunged into the
+  water after him, caught him by his clothes, and approaching the bank by a
+  vehement exertion propelled him safe to the land, but that instant,
+  seized, as was supposed, by the cramp, or paralysis, sunk to rise no
+  more. The reason why the cramp of the muscles, which compose the calf of
+  the leg, is so liable to affect swimmers, is, because these muscles have
+  very weak antagonists, and are in walking generally elongated again after
+  their contraction by the weight of the body on the ball of the toe, which
+  is very much greater than the resistance of the water in swimming. See
+  Section XVIII. 15.
+It does not follow that every apoplectic or paralytic attack is
+  immediately preceded by vehement exertion; the quiescence, which succeeds
+  exertion, and which is not so great as to be termed paralysis, frequently
+  recurs afterwards at certain periods; and by other causes of quiescence,
+  occurring with those periods, as was explained in treating of the
+  paroxysms of intermitting fevers; the quiescence at length, becomes so
+  great as to be incapable of again being removed by the efforts of
+  volition, and complete paralysis is formed. See Section XXXII. 3. 2.
+Many of the paralytic patients, whom I have seen, have evidently had
+  diseased livers from the too frequent potation of spirituous liquors;
+  some of them have had the gutta rosea on their faces and breasts; which
+  has in some degree receded either spontaneously, or by the use of
+  external remedies, and the paralytic stroke has succeeded; and as in
+  several persons, who have drank much vinous spirits, I have observed
+  epileptic fits to commence at about forty or fifty years of age, without
+  any hereditary taint, from the stimulus, as I believed, of a diseased
+  liver; I was induced to ascribe many paralytic cases to the same source;
+  which were not evidently the effect of age, or of unacquired debility.
+  And the account given before of dropsies, which very frequently are owing
+  to a paralysis of the absorbent system, and are generally attendant on
+  free drinkers of spirituous liquors, confirmed me in this opinion.
+The disagreeable irritation of a diseased liver produces exertions and
+  consequent quiescence; these by the accidental concurrence of other
+  causes of quiescence, as cold, solar or lunar periods, inanition, the
+  want of their usual portion of spirit of wine, at length produces
+  paralysis.
+This is further confirmed by observing, that the muscles, we most
+  frequently, or most powerfully exert, are most liable to palsy; as those
+  of the voice and of articulation, and of those paralytics which I have
+  seen, a much greater proportion have lost the use of their right arm;
+  which is so much more generally exerted than the left.
+I cannot dismiss this subject without observing, that after a
+  paralytic stroke, if the vital powers are not much injured, that the
+  patient has all the movements of the affected limb to learn over again,
+  just as in early infancy; the limb is first moved by the irritation of
+  its muscles, as in stretching, (of which a case was related in Section VII. 1. 3.) or by the electric concussion;
+  afterwards it becomes obedient to sensation, as in violent danger or
+  fear; and lastly, the muscles become again associated with volition, and
+  gradually acquire their usual habits of acting together.
+Another ph�nomenon in palsies is, that when the limbs of one side are
+  disabled, those of the other are in perpetual motion. This can only be
+  explained from conceiving that the power of motion, whatever it is, or
+  wherever it resides, and which is capable of being exhausted by fatigue,
+  and accumulated in rest, is now less expended, whilst one half of the
+  body is capable of receiving its usual proportion of it, and is hence
+  derived with greater ease or in greater abundance into the limbs, which
+  remain unaffected.
+II. 1. The
+  excess or defect of voluntary exertion produces similar effects upon the
+  sensual motions, or ideas of the mind, as those already mentioned upon
+  the muscular fibres. Thus when any violent pain, arising from the defect
+  of some peculiar stimulus, exists either in the muscular or sensual
+  systems of fibres, and which cannot be removed by acquiring the defective
+  stimulus; as in some constitutions convulsions of the muscles are
+  produced to procure a temporary relief, so in other constitutions
+  vehement voluntary exertions of the ideas of the mind are produced for
+  the same purpose; for during this exertion, like that of the muscles, the
+  pain either vanishes or is diminished: this violent exertion constitutes
+  madness; and in many cases I have seen the madness take place, and the
+  convulsions cease, and reciprocally the madness cease, and the
+  convulsions supervene. See Section III. 5.
+  8.
+2. Madness is distinguishable from
+  delirium, as in the latter the patient knows not the place where he
+  resides, nor the persons of his friends or attendants, nor is conscious
+  of any external objects, except when spoken to with a louder voice, or
+  stimulated with unusual force, and even then he soon relapses into a
+  state of inattention to every thing about him. Whilst in the former he is
+  perfectly sensible to every thing external, but has the voluntary powers
+  of his mind intensely exerted on some particular object of his desire or
+  aversion, he harbours in his thoughts a suspicion of all mankind, lest
+  they should counteract his designs; and while he keeps his intentions,
+  and the motives of his actions profoundly secret; he is perpetually
+  studying the means of acquiring the object of his wish, or of preventing
+  or revenging the injuries he suspects.
+3. A late French philosopher, Mr.
+  Helvetius, has deduced almost all our actions from this principle of
+  their relieving us from the ennui or t�dium vit�; and true it is, that
+  our desires or aversions are the motives of all our voluntary actions;
+  and human nature seems to excel other animals in the more facil use of
+  this voluntary power, and on that account is more liable to insanity than
+  other animals. But in mania this violent exertion of volition is expended
+  on mistaken objects, and would not be relieved, though we were to gain or
+  escape the objects, that excite it. Thus I have seen two instances of
+  madmen, who conceived that they had the itch, and several have believed
+  they had the venereal infection, without in reality having a symptom of
+  either of them. They have been perpetually thinking upon this subject,
+  and some of them were in vain salivated with design of convincing them to
+  the contrary.
+4. In the minds of mad people those
+  volitions alone exist, which are unmixed with sensation; immoderate
+  suspicion is generally the first symptom, and want of shame, and want of
+  delicacy about cleanliness. Suspicion is a voluntary exertion of the mind
+  arising from the pain of fear, which it is exerted to relieve: shame is
+  the name of a peculiar disagreeable sensation, see Fable of the Bees, and
+  delicacy about cleanliness arises from another disagreeable sensation.
+  And therefore are not found in the minds of maniacs, which are employed
+  solely in voluntary exertions. Hence the most modest women in this
+  disease walk naked amongst men without any kind of concern, use obscene
+  discourse, and have no delicacy about their natural evacuations.
+5. Nor are maniacal people more attentive
+  to their natural appetites, or to the irritations which surround them,
+  except as far as may respect their suspicions or designs; for the violent
+  and perpetual exertions of their voluntary powers of mind prevents their
+  perception of almost every other object, either of irritation or of
+  sensation. Hence it is that they bear cold, hunger, and fatigue, with
+  much greater pertinacity than in their sober hours, and are less injured
+  by them in respect to their general health. Thus it is asserted by
+  historians, that Charles the Twelfth of Sweden slept on the snow, wrapped
+  only in his cloak, at the siege of Frederickstad, and bore extremes of
+  cold and hunger, and fatigue, under which numbers of his soldiers
+  perished; because the king was insane with ambition, but the soldier had
+  no such powerful stimulus to preserve his system from debility and
+  death.
+6. Besides the insanities arising from
+  exertions in consequence of pain, there is also a pleasurable insanity,
+  as well as a pleasurable delirium; as the insanity of personal vanity,
+  and that of religious fanaticism. When agreeable ideas excite into motion
+  the sensorial power of sensation, and this again causes other trains of
+  agreeable ideas, a constant stream of pleasurable ideas succeeds, and
+  produces pleasurable delirium. So when the sensorial power of volition
+  excites agreeable ideas, and the pleasure thus produced excites more
+  volition in its turn, a constant flow of agreeable voluntary ideas
+  succeeds; which when thus exerted in the extreme constitutes
+  insanity.
+Thus when our muscular actions are excited by our sensations of
+  pleasure, it is termed play; when they are excited by our volition, it is
+  termed work; and the former of these is attended with less fatigue,
+  because the muscular actions in play produce in their turn more
+  pleasurable sensation; which again has the property of producing more
+  muscular action. An agreeable instance of this I saw this morning. A
+  little boy, who was tired with walking, begged of his papa to carry him.
+  "Here," says the reverend doctor, "ride upon my gold-headed cane;" and
+  the pleased child, putting it between his legs, gallopped away with
+  delight, and complained no more of his fatigue. Here the aid of another
+  sensorial power, that of pleasurable sensation, superadded vigour to the
+  exertion of exhausted volition. Which could otherwise only have been
+  excited by additional pain, as by the lash of slavery. On this account
+  where the whole sensorial power has been exerted on the contemplation of
+  the promised joys of heaven, the saints of all persecuted religions have
+  borne the tortures of martyrdom with otherwise unaccountable
+  firmness.
+7. There are some diseases, which obtain
+  at least a temporary relief from the exertions of insanity; many
+  instances of dropsies being thus for a time cured are recorded. An
+  elderly woman labouring with ascites I twice saw relieved for some weeks
+  by insanity, the dropsy ceased for several weeks, and recurred again
+  alternating with the insanity. A man afflicted with difficult respiration
+  on lying down, with very irregular pulse, and œdematous legs, whom I
+  saw this day, has for above a week been much relieved in respect to all
+  those symptoms by the accession of insanity, which is shewn by inordinate
+  suspicion, and great anger.
+In cases of common temporary anger the increased action of the
+  arterial system is seen by the red skin, and increased pulse, with the
+  immediate increase of muscular activity. A friend of mine, when he was
+  painfully fatigued by riding on horseback, was accustomed to call up
+  ideas into his mind, which used to excite his anger or indignation, and
+  thus for a time at least relieved the pain of fatigue. By this temporary
+  insanity, the effect of the voluntary power upon the whole of his system
+  was increased; as in the cases of dropsy above mentioned, it would
+  appear, that the increased action of the voluntary faculty of the
+  sensorium affected the absorbent system, as well as the secerning
+  one.
+8. In respect to relieving inflammatory
+  pains, and removing fever, I have seen many instances, as mentioned in
+  Sect. XII. 2. 4. One lady, whom I attended,
+  had twice at some years interval a locked jaw, which relieved a pain on
+  her sternum with peripneumony. Two other ladies I saw, who towards the
+  end of violent peripneumony, in which they frequently lost blood, were at
+  length cured by insanity supervening. In the former the increased
+  voluntary exertion of the muscles of the jaw, in the latter that of the
+  organs of sense, removed the disease; that is, the disagreeable
+  sensation, which had produced the inflammation, now excited the voluntary
+  power, and these new voluntary exertions employed or expended the
+  superabundant sensorial power, which had previously been exerted on the
+  arterial system, and caused inflammation.
+Another case, which I think worth relating, was of a young man about
+  twenty; he had laboured under an irritative fever with debility for three
+  or four weeks, with very quick and very feeble pulse, and other usual
+  symptoms of that species of typhus, but at this time complained much and
+  frequently of pain of his legs and feet. When those who attended him were
+  nearly in despair of his recovery, I observed with pleasure an insanity
+  of mind supervene: which was totally different from delirium, as he knew
+  his friends, calling them by their names, and the room in which he lay,
+  but became violently suspicious of his attendants, and calumniated with
+  vehement oaths his tender mother, who sat weeping by his bed. On this his
+  pulse became slower and firmer, but the quickness did not for some time
+  intirely cease, and he gradually recovered. In this case the introduction
+  of an increased quantity of the power of volition gave vigour to those
+  movements of the system, which are generally only actuated by the power
+  of irritation, and of association.
+Another case I recollect of a young man, about twenty-five, who had
+  the scarlet-fever, with very quick pulse, and an universal eruption on
+  his skin, and was not without reason esteemed to be in great danger of
+  his life. After a few days an insanity supervened, which his friends
+  mistook for delirium, and he gradually recovered, and the cuticle peeled
+  off. From these and a few other cases I have always esteemed insanity to
+  be a favourable sign in fevers, and have cautiously distinguished it from
+  delirium.
+III. Another mode of mental exertion to
+  relieve pain, is by producing a train of ideas not only by the efforts of
+  volition, as in insanity; but by those of sensation likewise, as in
+  delirium and sleep. This mental effort is termed reverie, or
+  somnambulation, and is described more at large in Sect. XIX. on that subject. But I shall here relate
+  another case of that wonderful disease, which fell yesterday under my
+  eye, and to which I have seen many analogous alienations of mind, though
+  not exactly similar in all circumstances. But as all of them either began
+  or terminated with pain or convulsion, there can be no doubt but that
+  they are of epileptic origin, and constitute another mode of mental
+  exertion to relieve some painful sensation.
+1. Master A. about nine years old, had
+  been seized at seven every morning for ten days with uncommon fits, and
+  had had slight returns in the afternoon. They were supposed to originate
+  from worms, and had been in vain attempted to be removed by vermifuge
+  purges. As his fit was expected at seven yesterday morning, I saw him
+  before that hour; he was asleep, seemed free from pain, and his pulse
+  natural. About seven he began to complain of pain about his navel, or
+  more to the left side, and in a few minutes had exertions of his arms and
+  legs like swimming. He then for half an hour hunted a pack of hounds; as
+  appeared by his hallooing, and calling the dogs by their names, and
+  discoursing with the attendants of the chase, describing exactly a day of
+  hunting, which (I was informed) he had witnessed a year before, going
+  through all the most minute circumstances of it; calling to people, who
+  were then present, and lamenting the absence of others, who were then
+  also absent. After this scene he imitated, as he lay in bed, some of the
+  plays of boys, as swimming and jumping. He then sung an English and then
+  an Italian song; part of which with his eyes open, and part with them
+  closed, but could not be awakened or excited by any violence, which it
+  was proper to use.
+After about an hour he came suddenly to himself with apparent
+  surprise, and seemed quite ignorant of any part of what had passed, and
+  after being apparently well for half an hour, he suddenly fell into a
+  great stupor, with slower pulse than natural, and a slow moaning
+  respiration, in which he continued about another half hour, and then
+  recovered.
+The sequel of this disease was favourable; he was directed one grain
+  of opium at six every morning, and then to rise out of bed; at half past
+  six he was directed fifteen drops of laudanum in a glass of wine and
+  water. The first day the paroxysm became shorter, and less violent. The
+  dose of opium was increased to one-half more, and in three or four days
+  the fits left him. The bark and filings of iron were also exhibited twice
+  a day; and I believe the complaint returned no more.
+2. In this paroxysm it must be observed,
+  that he began with pain, and ended with stupor, in both circumstances
+  resembling a fit of epilepsy. And that therefore the exertions both of
+  mind and body, both the voluntary ones, and those immediately excited by
+  pleasurable sensation, were exertions to relieve pain.
+The hunting scene appeared to be rather an act of memory than of
+  imagination, and was therefore rather a voluntary exertion, though
+  attended with the pleasurable eagerness, which was the consequence of
+  those ideas recalled by recollection, and not the cause of them.
+These ideas thus voluntarily recollected were succeeded by sensations
+  of pleasure, though his senses were unaffected by the stimuli of visible
+  or audible objects; or so weakly excited by them as not to produce
+  sensation or attention. And the pleasure thus excited by volition
+  produced other ideas and other motions in consequence of the sensorial
+  power of sensation. Whence the mixed catenations of voluntary and
+  sensitive ideas and muscular motions in reverie; which, like every other
+  kind of vehement exertion, contribute to relieve pain, by expending a
+  large quantity of sensorial power.
+Those fits generally commence during sleep, from whence I suppose they
+  have been thought to have some connection with sleep, and have thence
+  been termed Somnambulism; but their commencement during sleep is owing to
+  our increased excitability by internal sensations at that time, as
+  explained in Sect. XVIII. 14. and 15., and not to any similitude between reverie
+  and sleep.
+3. I was once concerned for a very
+  elegant and ingenious young lady, who had a reverie on alternate days,
+  which continued nearly the whole day; and as in her days of disease she
+  took up the same kind of ideas, which she had conversed about on the
+  alternate day before, and could recollect nothing of them on her
+  well-day; she appeared to her friends to possess two minds. This case
+  also was of epileptic kind, and was cured, with some relapses, by opium
+  administered before the commencement of the paroxysm.
+4. Whence it appears, that the methods of
+  relieving inflammatory pains, is by removing all stimulus, as by
+  venesection, cool air, mucilaginous diet, aqueous potation, silence,
+  darkness.
+The methods of relieving pains from defect of stimulus is by supplying
+  the peculiar stimulus required, as of food, or warmth.
+And the general method of relieving pain is by exciting into action
+  some great part of the system for the purpose of expending a part of the
+  sensorial power. This is done either by exertion of the voluntary ideas
+  and muscles, as in insanity and convulsion; or by exerting both voluntary
+  and sensitive motions, as in reverie; or by exciting the irritative
+  motions by wine or opium internally, and by the warm bath or blisters
+  externally; or lastly, by exciting the sensitive ideas by good news,
+  affecting stories, or agreeable passions.
+
+</div></body></text></TEI>

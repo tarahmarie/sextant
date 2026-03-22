@@ -1,0 +1,152 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Philosophy of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1840</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="4">
+
+CHAPTER IV.
+Of Experience.
+
+
+
+1. I
+HERE employ the term Experience in a more definite and
+limited sense than that which it possesses in common usage;
+for I restrict it to matters belonging to the domain of
+science. In such cases, the knowledge which we acquire, by
+means of experience, is of a clear and precise nature; and
+the passions and feelings and interests, which make the
+lessons of experience in practical matters so difficult to
+read aright, no longer disturb and confuse us. We may,
+therefore, hope, by attending to such cases, to learn what
+efficacy experience really has, in the discovery of truth.
+That from experience (including intentional
+experience, or observation,) we obtain much knowledge
+which is highly important, and which could not be procured
+from any other source, is abundantly clear. We have already
+taken several examples of such knowledge. We know by
+experience that animals which ruminate are cloven-hoofed;
+and we know this in no other manner. We know, in like
+manner, that all the planets and their satellites revolve
+round the sun from west to east. It has been found by
+experience that all meteoric stones contain chrome. Many
+similar portions of our knowledge might be mentioned.
+Now what we have here to remark is this;—that in no case
+can experience prove a proposition to be
+necessarily or universally true. However
+many instances we may have observed of the truth of a
+proposition, yet if it be known merely by observation, there
+is nothing to assure us that the next case shall not be an
+exception to the rule. If it be strictly true that every
+ruminant animal yet known has cloven hoofs, we 66 still
+cannot be sure that some creature will not hereafter be
+discovered which has the first of these attributes without
+having the other. When the planets and their satellites, as
+far as Saturn, had been all found to move round the sun in
+one direction, it was still possible that there might be
+other such bodies not obeying this rule; and, accordingly,
+when the satellites of Uranus were detected, they appeared
+to offer an exception of this kind. Even in the mathematical
+sciences, we have examples of such rules suggested by
+experience, and also of their precariousness. However far
+they may have been tested, we cannot depend upon their
+correctness, except we see some reason for the rule. For
+instance, various rules have been given, for the purpose of
+pointing out prime numbers; that is, those which
+cannot be divided by any other number. We may try, as an
+example of such a rule, this one—any odd power of the
+number two, diminished by one. Thus the third power of two,
+diminished by one, is seven; the fifth power, diminished by
+one, is thirty-one; the seventh power so diminished is one
+hundred and twenty-seven. All these are prime numbers: and
+we might be led to suppose that the rule is universal. But
+the next example shows us the fallaciousness of such a
+belief. The ninth power of two, diminished by one, is five
+hundred and eleven, which is not a prime, being divisible by
+seven.
+Experience must always consist of a limited number of
+observations. And, however numerous these may be, they can
+show nothing with regard to the infinite number of cases in
+which the experiment has not been made. Experience being
+thus unable to prove a fact to be universal, is, as will
+readily be seen, still more incapable of proving a truth to
+be necessary. Experience cannot, indeed, offer the smallest
+ground for the necessity of a proposition. She can observe
+and record what has happened; but she cannot find, in any
+case, or in any accumulation of cases, any reason for what
+must happen. She may see objects side by side; but she
+cannot see a reason why they must ever be side by side. She
+finds certain events to occur in succession; but the
+succession supplies, in its occurrence, no 67 reason for
+its recurrence. She contemplates external objects; but she
+cannot detect any internal bond, which indissolubly connects
+the future with the past, the possible with the real. To
+learn a proposition by experience, and to see it to be
+necessarily true, are two altogether different processes of
+thought.
+2. But it may be said, that we do learn by means of
+observation and experience many universal truths; indeed,
+all the general truths of which science consists. Is not the
+doctrine of universal gravitation learnt by experience? Are
+not the laws of motion, the properties of light, the general
+principles of chemistry, so learnt? How, with these examples
+before us, can we say that experience teaches no universal
+truths?
+To this we reply, that these truths can only be known to be
+general, not universal, if they depend upon experience
+alone. Experience cannot bestow that universality which she
+herself cannot have, and that necessity of which she has no
+comprehension. If these doctrines are universally true, this
+universality flows from the ideas which we apply to
+our experience, and which are, as we have seen, the real
+sources of necessary truth. How far these ideas can
+communicate their universality and necessity to the results
+of experience, it will hereafter be our business to
+consider. It will then appear, that when the mind collects
+from observation truths of a wide and comprehensive kind,
+which approach to the simplicity and universality of the
+truths of pure science; she gives them this character by
+throwing upon them the light of her own Fundamental Ideas.
+But the truths which we discover by observation of the
+external world, even when most strikingly simple and
+universal, are not necessary truths. Is the doctrine of
+universal gravitation necessarily true? It was doubted by
+Clairaut (so far as it refers to the moon), when the
+progression of the apogee in fact appeared to be twice as
+great as the theory admitted. It has been doubted, even more
+recently, with respect to the planets, their mutual
+perturbations appearing to indicate a deviation from the
+law. It is doubted still, by some 68 persons, with respect
+to the double stars. But suppose all these doubts to be
+banished, and the law to be universal; is it then proved to
+be necessary? Manifestly not: the very existence of these
+doubts proves that it is not so. For the doubts were
+dissipated by reference to observation and calculation, not
+by reasoning on the nature of the law. Clairaut’s difficulty
+was removed by a more exact calculation of the effect of the
+sun’s force on the motion of the apogee. The suggestion of
+Bessel, that the intensity of gravitation might be different
+for different planets, was found to be unnecessary, when
+Professor Airy gave a more accurate determination of the
+mass of Jupiter. And the question whether the extension of
+the law of the inverse square to the double stars be true,
+(one of the most remarkable questions now before the
+scientific world,) must be answered, not by any speculations
+concerning what the laws of attraction must necessarily be,
+but by carefully determining the actual laws of the motion
+of these curious objects, by means of the observations such
+as those which Sir John Herschel has collected for that
+purpose, by his unexampled survey of both hemispheres of the
+sky. And since the extent of this truth is thus to be
+determined by reference to observed facts, it is clear that
+no mere accumulation of them can make its universality
+certain, or its necessity apparent.
+Thus no knowledge of the necessity of any truths can result
+from the observation of what really happens. This being
+clearly understood, we are led to an important inquiry.
+The characters of universality and necessity in the truths
+which form part of our knowledge, can never be derived from
+experience, by which so large a part of our knowledge is
+obtained. But since, as we have seen, we really do possess a
+large body of truths which are necessary, and because
+necessary, therefore universal, the question still recurs,
+from what source these characters of universality and
+necessity are derived.
+The answer to this question we will attempt to give in the
+next chapter.</div></body></text></TEI>

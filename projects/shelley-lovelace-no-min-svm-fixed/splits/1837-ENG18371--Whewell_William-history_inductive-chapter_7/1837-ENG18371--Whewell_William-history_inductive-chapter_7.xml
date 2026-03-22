@@ -1,0 +1,197 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="7">CHAPTER II.
+Earliest Stages of Optics.
+THE progress made by the
+ancients in Optics was nearly proportional to that which they made in
+Statics. As they discovered the true grounds of the doctrine of
+Equilibrium, without obtaining any sound principles concerning Motion,
+so they discovered the law of the Reflection of light, but had none
+but the most indistinct notions concerning Refraction.
+The extent of the principles which they really possessed is easily
+stated. They knew that vision is performed by rays which
+proceed in straight lines, and that these rays are reflected by
+certain surfaces (mirrors) in such manner that the angles which they
+make with the surface on each side are equal. They drew various
+conclusions from these premises by the aid of geometry; as, for
+instance, the convergence of rays which fall on a concave
+speculum.
+It may be observed that the Idea which is here introduced,
+is that of visual rays, or lines along which vision is produced
+and light carried. This idea once clearly apprehended, it was not
+difficult to show that these lines are straight lines, both in the
+case of light and of sight. In the beginning of Euclid’s “Treatise on
+Optics,” some of the arguments are mentioned by which this was
+established. We are told in the Proem, “In explaining what concerns
+the sight, he adduced certain arguments from which he inferred that
+all light is carried in straight lines. The greatest proof of this is
+shadows, and the bright spots which are produced by light coming
+through windows and cracks, and which could not be, except the rays of
+the sun were carried in straight lines. So in fires, the shadows are
+greater than the bodies if the fire be small, but less than the bodies
+if the fire be greater.” A clear comprehension of the principle would
+lead to the perception of innumerable proofs of its truth on every
+side.
+The Law of Equality of Angles of Incidence and Reflection was not
+quite so easy to verify; but the exact resemblance of the object and
+its image in a plane mirror, (as the surface of still water, for
+instance), which is a consequence of this law, would afford convincing
+evidence of its truth in that case, and would be confirmed by the
+examination of other cases. 101
+With these true principles was mixed much error and indistinctness,
+even in the best writers. Euclid, and the Platonists, maintained that
+vision is exercised by rays proceeding from the eye, not
+to it; so that when we see objects, we learn their form as a
+blind man would do, by feeling it out with his staff. This mistake,
+however, though Montucla speaks severely of it, was neither very
+discreditable nor very injurious; for the mathematical conclusions on
+each supposition are necessarily the same. Another curious and false
+assumption is, that those visual rays are not close together, but
+separated by intervals, like the fingers when the hand is spread. The
+motive for this invention was the wish to account for the fact, that
+in looking for a small object, as a needle, we often cannot see it
+when it is under our nose; which it was conceived would be impossible
+if the visual rays reached to all points of the surface before us.
+These errors would not have prevented the progress of the science.
+But the Aristotelian physics, as usual, contained speculations more
+essentially faulty. Aristotle’s views led him to try to describe the
+kind of causation by which vision is produced, instead of the laws by
+which it is exercised; and the attempt consisted, as in other
+subjects, of indistinct principles, and ill-combined facts. According
+to him, vision must be produced by a Medium,—by something
+between the object and the eye,—for if we press the
+object on the eye, we do not see it; this Medium is Light, or “the
+transparent in action;” darkness occurs when the transparency is
+potential, not actual; color is not the “absolute visible,” but
+something which is on the absolute visible; color has the
+power of setting the transparent in action; it is not, however, all
+colors that are seen by means of light, but only the proper color of
+each object; for some things, as the heads, and scales, and eyes of
+fish, are seen in the dark; but they are not seen with their proper
+color.1
+1 De Anim. ii. 7.
+In all this there is no steady adherence either to one notion, or
+to one class of facts. The distinction of Power and Act is introduced
+to modify the Idea of Transparency, according to the formula of the
+school; then Color is made to be something unknown in addition to
+Visibility; and the distinction of “proper” and “improper” colors is
+assumed, as sufficient to account for a phenomenon. Such
+classifications have in them nothing of which the mind can take steady
+hold; nor is it difficult to see that they do not come under those
+102 conditions of
+successful physical speculation, which we have laid down.
+It is proper to notice more distinctly the nature of the
+Geometrical Propositions contained in Euclid’s work. The Optica
+contains Propositions concerning Vision and Shadows, derived from the
+principle that the rays of light are rectilinear: for instance, the
+Proposition that the shadow is greater than the object, if the
+illuminating body be less and vice versa. The Catoptrica
+contains Propositions concerning the effects of Reflection, derived
+from the principle that the Angles of Incidence and Reflection are
+equal: as, that in a convex mirror the object appears convex, and
+smaller than the object. We see here an example of the promptitude of
+the Greeks in deduction. When they had once obtained a knowledge of a
+principle, they followed it to its mathematical consequences with
+great acuteness. The subject of concave mirrors is pursued further in
+Ptolemy’s Optics.
+The Greek writers also cultivated the subject of Perspective
+speculatively, in mathematical treatises, as well as practically, in
+pictures. The whole of this theory is a consequence of the principle
+that vision takes place in straight lines drawn from the object to the
+eye.
+“The ancients were in some measure acquainted with
+the Refraction as well as the Reflection of Light,” as I have shown in
+Book ix. Chap. 2 [2d Ed.] of the
+Philosophy. The current knowledge on this subject must have
+been very slight and confused; for it does not appear to have enabled
+them to account for one of the simplest results of Refraction, the
+magnifying effect of convex transparent bodies. I have noticed in the
+passage just referred to, Seneca’s crude notions on this subject; and
+in like manner Ptolemy in his Optics asserts that an object
+placed in water must always appear larger then when taken out.
+Aristotle uses the term ἀνακλάσις (Meteorol. iii. 2), but
+apparently in a very vague manner. It is not evident that he
+distinguished Refraction from Reflection. His Commentators however do
+distinguish these as διακλάσις and ἀνακλάσις. See Olympiodorus
+in Schneider’s Eclogæ Physicæ, vol. i. p. 397. And
+Refraction had been the subject of special attention among the Greek
+Mathematicians. Archimedes had noticed (as we learn from the same
+writer) that in certain cases, a ring which cannot be seen over the
+edge of the empty vessel in which it is placed, becomes visible when
+the vessel is filled with water. The same fact is stated in the
+Optics of Euclid. We do not find this fact explained in that
+work as we now have it; but in Ptolemy’s Optics the fact is
+explained by a flexure of the visual ray: it is 103 noticed that this
+flexure is different at different angles from the perpendicular, and
+there is an elaborate collection of measures of the flexure at
+different angles, made by means of an instrument devised for the
+purpose. There is also a collection of similar measures of the
+refraction when the ray passes from air to glass, and when it passes
+from glass to water. This part of Ptolemy’s work is, I think, the
+oldest extant example of a collection of experimental measures in any
+other subject than astronomy; and in astronomy our measures are the
+result of observation rather than of experiment. As
+Delambre says (Astron. Anc. vol. ii. p. 427), “On y voit des
+expériences de physique bien faites, ce qui est sans exemple chez les
+anciens.”
+Ptolemy’s Optical work was known only by Roger Bacon’s references
+to it (Opus Majus, p. 286, &c.) till 1816; but copies of
+Latin translations of it were known to exist in the Royal Library at
+Paris, and in the Bodleian at Oxford. Delambre has given an account of
+the contents of the Paris copy in his Astron. Anc. ii. 414, and
+in the Connoissance des Temps for 1816; and Prof. Rigaud’s
+account of the Oxford copy is given in the article Optics, in
+the Encyclopædia Britannica. Ptolemy shows great sagacity in
+applying the notion of Refraction to the explanation of the
+displacement of astronomical objects which is produced by the
+atmosphere,—Astronomical Refraction, as it is commonly
+called. He represents the visual ray as refracted in passing from the
+ether, which is above the air, into the air; the air being
+bounded by a spherical surface which has for its centre “the centre of
+all the elements, the centre of the earth;” and the refraction being a
+flexure towards the line drawn perpendicular to this surface. He thus
+constructs, says Delambre, the same figure on which Cassini afterwards
+founded the whole of his theory; and gives a theory more complete than
+that of any astronomer previous to him. Tycho, for instance, believed
+that astronomical refraction was caused only by the vapors of
+the atmosphere, and did not exist above the altitude of 45°.
+Cleomedes, about the time of Augustus, had guessed at Refraction,
+as an explanation of an eclipse in which the sun and moon are both
+seen at the same time. “Is it not possible,” he says, “that the ray
+which proceeds from the eye and traverses moist and cloudy air may
+bend downwards to the sun, even when he is below the horizon?” And
+Sextus Empiricus, a century later, says, “The air being dense, by the
+refraction of the visual ray, a constellation may be seen above the
+horizon when it is yet below the horizon.” But from what follows, it
+104 appears
+doubtful whether he clearly distinguished Refraction and
+Reflection.
+In order that we may not attach too much value to the vague
+expressions of Cleomedes and Sextus Empiricus, we may remark that
+Cleomedes conceives such an eclipse as he describes not to be
+possible, though he offers an explanation of it if it be: (the fact
+must really occur whenever the moon is seen in the horizon in the
+middle of an eclipse:) and that Sextus Empiricus gives his suggestion
+of the effect of refraction as an argument why the Chaldean astrology
+cannot be true, since the constellation which appears to be rising at
+the moment of a birth is not the one which is truly rising. The
+Chaldeans might have answered, says Delambre, that the star begins to
+shed its influence, not when it is really in the horizon, but when its
+light is seen. (Ast. Anc. vol. i. p. 231, and vol. ii. p.
+548.)
+It has been said that Vitellio, or Vitello, whom we shall hereafter have to speak of in the history of Optics,
+took his Tables of Refractions from Ptolemy. This is contrary to what
+Delambre states. He says that Vitello may be accused of plagiarism
+from Alhazen, and that Alhazen did not borrow his Tables from Ptolemy.
+Roger Bacon had said (Opus Majus, p. 288), “Ptolemæus in libro
+de Opticis, id est, de Aspectibus, seu in Perspectivâ suâ, qui prius
+quam Alhazen dedit hanc sententiam, quam a Ptolemæo acceptam Alhazen
+exposuit.” This refers only to the opinion that visual rays proceed
+from the eye. But this also is erroneous; for Alhazen maintains the
+contrary: “Visio fit radiis a visibili extrinsecus ad visum
+manantibus.” (Opt. Lib. i. cap. 5.) Vitello says of his Table
+of Refractions, “Acceptis instrumentaliter, prout potuimus
+propinquius, angulis omnium refractionum . . . invenimus quod semper
+iidem sunt anguli refractionum: . . . secundum hoc fecimus has
+tabulas.” “Having measured, by means of instruments, as exactly as we
+could, the whole range of the angles of refraction, we found that the
+refraction is always the same for the same angle; and hence we have
+constructed these Tables.”  ~Additional material in the 3rd edition.~ 105</div></body></text></TEI>

@@ -1,0 +1,275 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>History of the Inductive Sciences</title><author>Whewell, William (1794-1866)</author></titleStmt><publicationStmt><publisher>John W. Parker</publisher><pubPlace>London</pubPlace><date>1837</date></publicationStmt><sourceDesc><p>Produced from a Project Gutenberg HTML source using gutenberg-text-splitter.</p></sourceDesc></fileDesc></teiHeader><text><body><div type="chapter" n="11">CHAPTER II.
+Prelude to the Inductive Epoch of
+Hipparchus.
+WITHOUT pretending that we
+have exhausted the consequences of the elementary discoveries which we
+have enumerated, we now proceed to consider the nature and
+circumstances of the next great discovery which makes an Epoch in the
+history of Astronomy; and this we shall find to be the Theory of
+Epicycles and Eccentrics. Before, however, we relate the establishment
+of this theory, we must, according to the general plan we have marked
+out, notice some of the conjectures and attempts by which it was
+preceded, and the growing acquaintance with facts, which made the want
+of such an explanation felt.
+In the steps previously made in astronomical knowledge, no
+ingenuity had been required to devise the view which was adopted. The
+motions of the stars and sun were most naturally and almost
+irresistibly conceived as the results of motion in a revolving sphere;
+the indications of position which we obtain from different places on
+the earth’s surface, when clearly combined, obviously imply a globular
+shape. In these cases, the first conjectures, the supposition of the
+simplest form, of the most uniform motion, required no
+after-correction. But this manifest simplicity, this easy and obvious
+explanation, did not apply to the movement of all the heavenly bodies.
+The Planets, the “wandering stars,” could not be so easily understood;
+the motion of each, as Cicero says, “undergoing very remarkable
+changes in its course, going before and behind, quicker and slower,
+appearing in the evening, but gradually lost there, and emerging again
+in the morning.”55 A continued attention to these stars
+would, however, 139
+detect a kind of intricate regularity in their motions, which might
+naturally be described as “a dance.” The Chaldeans are stated by
+Diodorus56 to have observed assiduously the
+risings and settings of the planets, from the top of the temple of
+Belus. By doing this, they would find the times in which the forward
+and backward movements of Saturn, Jupiter, and Mars recur; and also
+the time in which they come round to the same part of the heavens.57 Venus and Mercury never recede far from
+the sun, and the intervals which elapse while either of them leaves
+its greatest distance from the sun and returns again to the greatest
+distance on the same side, would easily be observed.
+55 Cic. de Nat. D. lib. ii. p.
+450. “Ea quæ Saturni stella dicitur, φαίνωνque a Græcis nominatur, quæ
+a terra abest plurimum, xxx fere annis cursum suum conficit; in quo
+cursu multa mirabiliter efficiens, tum antecedendo, tum retardando,
+tum vespertinis temporibus delitescendo, tum matutinis se rursum
+aperiendo, nihil immutat sempiternis sæculorum ætatibus, quin eadem
+iisdem temporibus efficiat.” And so of the other planets.
+56 A. A. i. p. 4.
+57 Plin. H. N. ii. p.
+204.
+Probably the manner in which the motions of the
+planets were originally reduced to rule was something like the
+following:—In about 30 of our years, Saturn goes 29 times
+through his Anomaly, that is, the succession of varied motions
+by which he sometimes goes forwards and sometimes backwards among the
+stars. During this time, he goes once round the heavens, and returns
+nearly to the same place. This is the cycle of his apparent
+motions.
+Perhaps the eastern nations contented themselves with thus
+referring these motions to cycles of time, so as to determine their
+recurrence. Something of this kind was done at an early period, as we
+have seen.
+But the Greeks soon attempted to frame to themselves a sensible
+image of the mechanism by which these complex motions were produced;
+nor did they find this difficult. Venus, for instance, who, upon the
+whole, moves from west to east among the stars, is seen, at certain
+intervals, to return or move retrograde a short way back from
+east to west, then to become for a short time stationary, then
+to turn again and resume her direct motion westward, and so on.
+Now this can be explained by supposing that she is placed in the rim
+of a wheel, which is turned edgeways to us, and of which the centre
+turns round in the heavens from west to east, while the wheel,
+carrying the planet in its motion, moves round its own centre. In this
+way the motion of the wheel about its centre, would, in some
+situations, counterbalance the general motion of the centre, and make
+the planet retrograde, while, on the whole, the westerly motion would
+prevail. Just as if we suppose that a person, holding a lamp in his
+hand in the dark, and at a 140 distance, so that the lamp alone is
+visible, should run on turning himself round; we should see the light
+sometimes stationary, sometimes retrograde, but on the whole
+progressive.
+A mechanism of this kind was imagined for each of the planets, and
+the wheels of which we have spoken were in the end called
+Epicycles.
+The application of such mechanism to the planets appears to have
+arisen in Greece about the time of Aristotle. In the works of Plato we
+find a strong taste for this kind of mechanical speculation. In the
+tenth book of the “Polity,” we have the apologue of Alcinus the
+Pamphylian, who, being supposed to be killed in battle, revived when
+he was placed on the funeral pyre, and related what he had seen during
+his trance. Among other revelations, he beheld the machinery by which
+all the celestial bodies revolve. The axis of these revolutions is the
+adamantine distaff which Destiny holds between her knees; on this are
+fixed, by means of different sockets, flat rings, by which the planets
+are carried. The order and magnitude of these spindles are minutely
+detailed. Also, in the “Epilogue to the Laws” (Epinomis), he
+again describes the various movements of the sky, so as to show a
+distinct acquaintance with the general character of the planetary
+motions; and, after speaking of the Egyptians and Syrians as the
+original cultivators of such knowledge, he adds some very remarkable
+exhortations to his countrymen to prosecute the subject. “Whatever we
+Greeks,” he says, “receive from the barbarians, we improve and
+perfect; there is good hope and promise, therefore, that Greeks will
+carry this knowledge far beyond that which was introduced from
+abroad.” To this task, however, he looks with a due appreciation of
+the qualities and preparation which it requires. “An astronomer must
+be,” he says, “the wisest of men; his mind must be duly disciplined in
+youth; especially is mathematical study necessary; both an
+acquaintance with the doctrine of number, and also with that other
+branch of mathematics, which, closely connected as it is with the
+science of the heavens, we very absurdly call
+geometry, the measurement of the earth.”58
+58 Epinomis, pp. 988,
+990.
+Those anticipations were very remarkably verified in the subsequent
+career of the Greek Astronomy.
+The theory, once suggested, probably made rapid progress.
+Simplicius59 relates, that Eudoxus of Cnidus
+introduced the hypothesis of revolving circles or spheres. Calippus of
+Cyzicus, having visited 141 Polemarchus, an intimate friend of
+Eudoxus, they went together to Athens, and communicated to Aristotle
+the invention of Eudoxus, and with his help improved and corrected
+it.
+59 Lib. ii. de Cœlo.
+Bullialdus, p. 18.
+Probably at first this hypothesis was applied only to account for
+the general phenomena of the progressions, retrogradations, and
+stations of the planet; but it was soon found that the motions of the
+sun and moon, and the circular motions of the planets, which the
+hypothesis supposed, had other anomalies or irregularities,
+which made a further extension of the hypothesis necessary.
+The defect of uniformity in these motions of the sun and moon,
+though less apparent than in the planets, is easily detected, as soon
+as men endeavor to obtain any accuracy in their observations. We have
+already stated (Chap. I.) that the Chaldeans
+were in possession of a period of about eighteen years, which they
+used in the calculation of eclipses, and which might have been
+discovered by close observation of the moon’s motions; although it was
+probably rather hit upon by noting the recurrence of eclipses. The
+moon moves in a manner which is not reducible to regularity without
+considerable care and time. If we trace her path among the stars, we
+find that, like the path of the sun, it is oblique to the equator, but
+it does not, like that of the sun, pass over the same stars in
+successive revolutions. Thus its latitude, or distance from the
+equator, has a cycle different from its revolution among the stars;
+and its Nodes, or the points where it cuts the equator, are
+perpetually changing their position. In addition to this, the moon’s
+motion in her own path is not uniform; in the course of each lunation,
+she moves alternately slower and quicker, passing gradually through
+the intermediate degrees of velocity; and goes through the cycle of
+these changes in something less than a month; this is called a
+revolution of Anomaly. When the moon has gone through a
+complete number of revolutions of Anomaly, and has, in the same time,
+returned to the same position with regard to the sun, and also with
+regard to her Nodes, her motions with respect to the sun will
+thenceforth be the same as at the first, and all the circumstances on
+which lunar eclipses depend being the same, the eclipses will occur in
+the same order. In 6585⅓ days there are 239 revolutions of anomaly,
+241 revolutions with regard to one of the Nodes, and, as we have said,
+223 lunations or revolutions with regard to the sun. Hence this Period
+will bring about a succession of the same lunar eclipses.
+If the Chaldeans observed the moon’s motion among the stars with
+any considerable accuracy, so as to detect this period by that means,
+142 they could
+hardly avoid discovering the anomaly or unequal motion of the moon;
+for in every revolution, her daily progression in the heavens varies
+from about twenty-two to twenty-six times her own diameter. But there
+is not, in their knowledge of this Period, any evidence that they had
+measured the amount of this variation; and Delambre60 is probably right in attributing all
+such observations to the Greeks.
+60 Astronomie Ancienne, i.
+212.
+The sun’s motion would also be seen to be irregular as soon as men
+had any exact mode of determining the lengths of the four seasons, by
+means of the passage of the sun through the equinoctial and solstitial
+points. For spring, summer, autumn, and winter, which would each
+consist of an equal number of days if the motions were uniform, are,
+in fact, found to be unequal in length.
+It was not very difficult to see that the mechanism of epicycles
+might be applied so as to explain irregularities of this kind. A wheel
+travelling round the earth, while it revolved upon its centre, might
+produce the effect of making the sun or moon fixed in its rim go
+sometimes faster and sometimes slower in appearance, just in the same
+way as the same suppositions would account for a planet going
+sometimes forwards and sometimes backwards: the epicycles of the sun
+and moon would, for this purpose, be less than those of the planets.
+Accordingly, it is probable that, at the time of Plato and Aristotle,
+philosophers were already endeavoring to apply the hypothesis to these
+cases, though it does not appear that any one fully succeeded before
+Hipparchus.
+The problem which was thus present to the minds of astronomers, and
+which Plato is said to have proposed to them in a distinct form, was,
+“To reconcile the celestial phenomena by the combination of equable
+circular motions.” That the circular motions should be equable as well
+as circular, was a condition, which, if it had been merely tried at
+first, as the most simple and definite conjecture, would have deserved
+praise. But this condition, which is, in reality, inconsistent with
+nature, was, in the sequel, adhered to with a pertinacity which
+introduced endless complexity into the system. The history of this
+assumption is one of the most marked instances of that love of
+simplicity and symmetry which is the source of all general truths,
+though it so often produces and perpetuates error. At present we can
+easily see how fancifully the notion of simplicity and perfection was
+interpreted, in the arguments by which the opinion was defended, that
+the 143 real
+motions of the heavenly bodies must be circular and uniform. The
+Pythagoreans, as well as the Platonists, maintained this dogma.
+According to Geminus, “They supposed the motions of the sun, and the
+moon, and the five planets, to be circular and equable: for they would
+not allow of such disorder among divine and eternal things, as that
+they should sometimes move quicker, and sometimes slower, and
+sometimes stand still; for no one would tolerate such anomaly in the
+movements, even of a man, who was decent and orderly. The occasions of
+life, however, are often reasons for men going quicker or slower, but
+in the incorruptible nature of the stars, it is not possible that any
+cause can be alleged of quickness and slowness. Whereupon they
+propounded this question, how the phenomena might be represented by
+equable and circular motions.”
+These conjectures and assumptions led naturally to the
+establishment of the various parts of the Theory of Epicycles. It is
+probable that this theory was adopted with respect to the Planets at
+or before the time of Plato. And Aristotle gives us an account of the
+system thus devised.61 “Eudoxus,” he says, “attributed four
+spheres to each Planet: the first revolved with the fixed stars (and
+this produced the diurnal motion); the second gave the planet a motion
+along the ecliptic (the mean motion in longitude); the third had its
+axis perpendicular62 to the ecliptic (and this gave the
+inequality of each planetary motion, really arising from its special
+motion about the sun); the fourth produced the oblique motion
+transverse to this (the motion in latitude).” He is also said to have
+attributed a motion in latitude and a corresponding sphere to the Sun
+as well as to the Moon, of which it is difficult to understand the
+meaning, if Aristotle has reported rightly of the theory; for it would
+be absurd to ascribe to Eudoxus a knowledge of the motions by which
+the sun deviates from the ecliptic. Calippus conceived that two
+additional spheres must be given to the sun and to the moon, in order
+to explain the phenomena: probably he was aware of the inequalities of
+the motions of these luminaries. He also proposed an additional sphere
+for each planet, to account, we may suppose, for the results of the
+eccentricity of the orbits.
+61 Metaph. xi. 8.
+62 Aristotle says “has its poles in
+the ecliptic,” but this must be a mistake of his. He professes merely
+to receive these opinions from the mathematical astronomers, “ἐκ τῆς
+οἰκειοτάτης φιλοσοφίας τῶν μαθηματικῶν.”
+The hypothesis, in this form, does not appear to have been reduced
+to measure, and was, moreover, unnecessarily complex. The resolution
+144 of the oblique
+motion of the moon into two separate motions, by Eudoxus, was not the
+simplest way of conceiving it; and Calippus imagined the connection of
+these spheres in some way which made it necessary nearly to double
+their number; in this manner his system had no less than 55
+spheres.
+Such was the progress which the Idea of the hypothesis of
+epicycles had made in men’s minds, previously to the establishment of
+the theory by Hipparchus. There had also been a preparation for this
+step, on the other side, by the collection of Facts. We know
+that observations of the Eclipses of the Moon were made by the
+Chaldeans 367 b. c. at Babylon, and were known
+to the Greeks; for Hipparchus and Ptolemy founded their Theory of the
+Moon on these observations. Perhaps we cannot consider, as equally
+certain, the story that, at the time of Alexander’s conquest, the
+Chaldeans possessed a series of observations, which went back 1903
+years, and which Aristotle caused Callisthenes to bring to him in
+Greece. All the Greek observations which are of any value, begin with
+the school of Alexandria. Aristyllus and Timocharis appear, by the
+citations of Hipparchus, to have observed the Places of Stars and
+Planets, and the Times of the Solstices, at various periods from b. c. 295 to b. c. 269.
+Without their observations, indeed, it would not have been easy for
+Hipparchus to establish either the Theory of the Sun or the Precession
+of the Equinoxes.
+In order that observations at distant intervals may be compared
+with each other, they must be referred to some common era. The
+Chaldeans dated by the era of Nabonassar, which commenced 749 b. c. The Greek observations were referred to the
+Calippic periods of 76 years, of which the first began 331 b. c. These are the dates used by Hipparchus and
+Ptolemy. 145</div></body></text></TEI>
