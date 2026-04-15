@@ -22,7 +22,6 @@ Usage:
     python trace_single_pair.py --interactive
 
 Author: Tarah Wheeler
-For: Sextant / ACL SIGHUM 2026 Paper
 """
 
 import argparse
@@ -83,6 +82,8 @@ def get_random_cross_author_pair(main_conn):
             a2.source_filename as target_name,
             a1.chapter_num as source_chapter,
             a2.chapter_num as target_chapter,
+            a1.short_name_for_svm as source_svm_code,
+            a2.short_name_for_svm as target_svm_code,
             auth1.author_name as source_author_name,
             auth2.author_name as target_author_name
         FROM combined_jaccard cj
@@ -116,6 +117,8 @@ def get_random_cross_author_pair(main_conn):
             a2.source_filename as target_name,
             a1.chapter_num as source_chapter,
             a2.chapter_num as target_chapter,
+            a1.short_name_for_svm as source_svm_code,
+            a2.short_name_for_svm as target_svm_code,
             auth1.author_name as source_author_name,
             auth2.author_name as target_author_name
         FROM combined_jaccard cj
@@ -165,7 +168,7 @@ def find_pair_by_authors_and_chapters(main_conn, source_author, source_chapter,
     
     # Now try the actual query with string chapter numbers
     query = """
-    SELECT 
+    SELECT
         cj.pair_id,
         cj.source_text,
         cj.target_text,
@@ -177,6 +180,8 @@ def find_pair_by_authors_and_chapters(main_conn, source_author, source_chapter,
         a2.source_filename as target_name,
         a1.chapter_num as source_chapter,
         a2.chapter_num as target_chapter,
+        a1.short_name_for_svm as source_svm_code,
+        a2.short_name_for_svm as target_svm_code,
         auth1.author_name as source_author_name,
         auth2.author_name as target_author_name
     FROM combined_jaccard cj
@@ -220,7 +225,7 @@ def find_pair_by_authors_and_chapters(main_conn, source_author, source_chapter,
 def find_pair_by_id(main_conn, pair_id):
     """Find a pair by its pair_id."""
     query = """
-    SELECT 
+    SELECT
         cj.pair_id,
         cj.source_text,
         cj.target_text,
@@ -230,6 +235,10 @@ def find_pair_by_id(main_conn, pair_id):
         cj.target_year,
         a1.source_filename as source_name,
         a2.source_filename as target_name,
+        a1.chapter_num as source_chapter,
+        a2.chapter_num as target_chapter,
+        a1.short_name_for_svm as source_svm_code,
+        a2.short_name_for_svm as target_svm_code,
         auth1.author_name as source_author_name,
         auth2.author_name as target_author_name
     FROM combined_jaccard cj
@@ -358,11 +367,7 @@ def trace_hapax_legomena(main_conn, pair_info, combined_data):
                 
                 if shared_words:
                     print(f"\nThe actual shared rare words ({len(shared_words)} total):")
-                    # Show first 30 words
-                    display_words = list(shared_words)[:30]
-                    print(f"  {', '.join(str(w) for w in display_words)}")
-                    if len(shared_words) > 30:
-                        print(f"  ... and {len(shared_words) - 30} more")
+                    print(f"  {', '.join(str(w) for w in shared_words)}")
                 else:
                     print(f"\n  (Shared words list is empty)")
             else:
@@ -413,25 +418,13 @@ def trace_svm_stylometry(svm_conn, pair_info):
     print("STEP 3: SVM STYLOMETRY SCORE")
     print("=" * 70)
     
-    # Extract novel name from filename
-    # Format: 1872-ENG18721—Eliot-chapter_79
-    target_name = pair_info['target_name']
-    
-    # Parse the target chapter info
-    parts = target_name.split('-chapter_')
-    if len(parts) == 2:
-        chapter_num = parts[1]
-    else:
-        chapter_num = target_name.split('_')[-1]
-    
-    # Extract novel name from the directory structure
-    novel_part = target_name.split('—')[1] if '—' in target_name else target_name.split('-')[1]
-    novel_name = novel_part.split('-chapter')[0]
-    
-    # Similarly for source
-    source_name = pair_info['source_name']
-    source_novel = source_name.split('—')[1] if '—' in source_name else source_name.split('-')[1]
-    source_novel = source_novel.split('-chapter')[0]
+    # Use canonical identifiers stored in the database rather than
+    # re-deriving them from filenames. The SVM's chapter_assessments table
+    # keys on (novel, number) which correspond directly to
+    # all_texts.short_name_for_svm and all_texts.chapter_num.
+    chapter_num = pair_info['target_chapter']
+    novel_name = pair_info['target_svm_code']
+    source_novel = pair_info['source_svm_code']
     
     print(f"\nLooking up: How much does {pair_info['target_author_name']}'s chapter")
     print(f"            stylistically resemble {pair_info['source_author_name']}'s novel?")
