@@ -50,6 +50,7 @@ def fix_the_author_name_from_aligns(name):
 
 def fix_alignment_file_names(name):
     name = name.replace('.txt', '')
+    name = name.replace('.xml', '')
     if 'lovelace-transcription' in name:
         target = '-'
         payload = '_'

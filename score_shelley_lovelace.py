@@ -3,10 +3,11 @@
 Score the Shelley-Lovelace corpus using frozen ELTeC ground truth weights.
 
 Fully self-contained -- no dependency on model.py or ELTeC result files.
-All parameters hardcoded from the ELTeC-100 validation run:
+All parameters hardcoded from the ELTeC-100 validation run (Feb 22, 2026 rerun
+with CHAPTER_PATTERN regex fix applied):
   - 5,956,426 pairs, ROC AUC 0.782 (10-fold CV), 0.781 (held-out test)
   - All 8 anchor cases above 99th percentile
-  - SHAP: Hapax 85.5%, SVM 13.0%, Alignment 1.6%
+  - SHAP: Hapax 86.2%, SVM 12.2%, Alignment 1.6%
 
 Run from dh-trace root:
     python3 score_shelley_lovelace.py
@@ -19,26 +20,28 @@ PROJECT = 'shelley-lovelace'
 
 # ======================================================================
 # ELTeC GROUND TRUTH PARAMETERS (frozen -- do not modify)
+# Rerun Feb 22, 2026 with SVM chapter extraction bug fix applied.
+# Previous values (pre-fix) superseded.
 # ======================================================================
 
-INTERCEPT = -4.2041
+INTERCEPT = -4.204492292354901
 
 COEFS = {
-    'hap': -1.2328,
-    'al':  -0.1581,
-    'svm':  0.1687,
+    'hap': -1.232514911232166,
+    'al':  -0.15808776795659207,
+    'svm':  0.1699869995259586,
 }
 
 # Z-score normalization (fitted on ELTeC 80% training split only)
 MEANS = {
-    'hap': 0.9497922550508515,
-    'al':  0.9999707379728905,
-    'svm': 0.3240862472410037,
+    'hap': 0.949792266894945,
+    'al':  0.9999707384075235,
+    'svm': 0.3244306975787624,
 }
 STDS = {
-    'hap': 0.009913619897398617,
-    'al':  0.00026070576952242773,
-    'svm': 0.25702244240095107,
+    'hap': 0.009913605118458133,
+    'al':  0.0002607027907101452,
+    'svm': 0.25803071899309576,
 }
 
 
@@ -66,19 +69,25 @@ def load_and_score():
     chapter_df = pd.read_sql_query("SELECT * FROM chapter_assessments", svm_conn)
     svm_conn.close()
 
-    svm_scores = []
-    for _, row in df.iterrows():
-        source_novel = row['source_svm_name']
-        target_novel = row['target_svm_name']
-        target_chapter = str(row['target_chapter'])
-        match = chapter_df[(chapter_df['novel'] == target_novel) &
-                           (chapter_df['number'] == target_chapter)]
-        if len(match) > 0 and source_novel in match.columns:
-            svm_scores.append(match[source_novel].iloc[0])
-        else:
-            svm_scores.append(np.nan)
+    # Vectorized SVM join: melt wide table to long, then merge
+    id_cols = ['novel', 'number']
+    score_cols = [c for c in chapter_df.columns if c not in id_cols]
+    chapter_long = chapter_df.melt(
+        id_vars=id_cols,
+        value_vars=score_cols,
+        var_name='source_svm_name',
+        value_name='svm_score'
+    )
+    chapter_long['number'] = chapter_long['number'].astype(str)
+    df['target_chapter'] = df['target_chapter'].astype(str)
 
-    df['svm_score'] = svm_scores
+    df = df.merge(
+        chapter_long,
+        left_on=['target_svm_name', 'target_chapter', 'source_svm_name'],
+        right_on=['novel', 'number', 'source_svm_name'],
+        how='left'
+    ).drop(columns=['novel', 'number'])
+
     n_with = df['svm_score'].notna().sum()
     n_without = df['svm_score'].isna().sum()
     print(f"Pairs with SVM scores: {n_with:,}")
