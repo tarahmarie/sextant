@@ -16,7 +16,7 @@ import sqlite3
 import numpy as np
 import pandas as pd
 
-PROJECT = 'shelley-lovelace-no-min-svm-fixed'
+PROJECT = 'shelley-lovelace'
 
 # ======================================================================
 # ELTeC GROUND TRUTH PARAMETERS (frozen -- do not modify)

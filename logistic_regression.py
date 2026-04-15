@@ -37,7 +37,7 @@ import pandas as pd
 import statsmodels.api as sm
 from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import StandardScaler
-from sklearn.metrics import roc_auc_score, confusion_matrix, roc_curve, accuracy_score
+from sklearn.metrics import roc_auc_score, confusion_matrix, roc_curve, accuracy_score, average_precision_score
 from sklearn.model_selection import train_test_split, cross_val_score, StratifiedKFold
 import shap
 import warnings
@@ -295,6 +295,7 @@ def run_logistic_regression_with_cv(df):
     
     test_auc = roc_auc_score(y_test, y_test_pred_prob)
     test_acc = accuracy_score(y_test, y_test_pred)
+    test_ap = average_precision_score(y_test, y_test_pred_prob)
     
     cm = confusion_matrix(y_test, y_test_pred)
     tn, fp, fn, tp = cm.ravel()
@@ -307,6 +308,7 @@ def run_logistic_regression_with_cv(df):
     print(f"*** (Model has NEVER seen this data) ***\n")
     print(f"ROC AUC:   {test_auc:.4f}")
     print(f"Accuracy:  {test_acc:.4f}")
+    print(f"Avg Precision: {test_ap:.4f}")
     print(f"Precision: {precision:.4f}")
     print(f"Recall:    {recall:.4f}")
     print(f"F1 Score:  {f1:.4f}")
@@ -316,7 +318,13 @@ def run_logistic_regression_with_cv(df):
     print(f"                   Cross-Author    Same-Author")
     print(f"Actual Cross-Author {tn:>12,}    {fp:>12,}")
     print(f"Actual Same-Author  {fn:>12,}    {tp:>12,}")
-    
+
+    print("\n Or written as a pasteable block because Tarah is tired and that quad block is hard to see")
+    print(f"True Positives:  {tp:>10,}")
+    print(f"False Positives: {fp:>10,}")
+    print(f"False Negatives: {fn:>10,}")
+    print(f"True Negatives:  {tn:>10,}")
+
     # =========================================================================
     # PART D: Coefficient Estimates with Statsmodels (for p-values)
     # =========================================================================
@@ -446,6 +454,7 @@ def run_logistic_regression_with_cv(df):
     
     # Store results
     results = {
+        'test_ap': test_ap,
         'sm_result': sm_result,
         'sk_model': sk_model,
         'scaler': scaler,
@@ -693,6 +702,7 @@ Metric                    | Training (10-fold CV) | Test Set (Held Out)
 --------------------------|----------------------|--------------------""")
     print(f"ROC AUC                   | {results['cv_auc_scores'].mean():.3f} (±{results['cv_auc_scores'].std():.3f})         | {results['test_auc']:.3f}")
     print(f"Accuracy                  | {results['cv_acc_scores'].mean():.3f} (±{results['cv_acc_scores'].std():.3f})         | {results['test_acc']:.3f}")
+    print(f"Avg Precision             | —                    | {results['test_ap']:.3f}")
     print(f"Precision                 | —                    | {results['test_precision']:.3f}")
     print(f"Recall                    | —                    | {results['test_recall']:.3f}")
     print(f"F1                        | —                    | {results['test_f1']:.3f}")
@@ -795,6 +805,7 @@ def save_results(df, results, validation_results=None):
         f.write("-" * 60 + "\n")
         f.write(f"ROC AUC: {results['test_auc']:.4f}\n")
         f.write(f"Accuracy: {results['test_acc']:.4f}\n")
+        f.write(f"Avg Precision: {results['test_ap']:.4f}\n")
         f.write(f"Precision: {results['test_precision']:.4f}\n")
         f.write(f"Recall: {results['test_recall']:.4f}\n")
         f.write(f"F1 Score: {results['test_f1']:.4f}\n\n")
