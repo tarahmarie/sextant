@@ -53,3 +53,27 @@ notebooks/logs/py4cytoscape.log
 #   Public domain texts (Gutenberg, Wikisource) can be regenerated;
 #   see CORPUS_RECONSTRUCTION.md
 projects/shelley-lovelace/splits/
+projects/shelley-lovelace/splits_old/
+projects/shelley-lovelace/splits_old2/
+projects/shelley-lovelace/splits_pre_swap/
+projects/shelley-lovelace/splits_2026-03-30/
+projects/shelley-lovelace/staging/
+projects/shelley-lovelace/sanity_report.txt
+source-data-files/
+
+# Flat mirror of splits used for corpus review; contains same restricted content
+corpus_review/
+
+# Corpus provenance / staging notes referencing restricted material
+corpus_source_of_truth.md
+corpus_staging_log_*.md
+
+.claude/
+__pycache__/
+*.pyc
+.DS_Store
+projects/shelley-lovelace-final-500w/splits/
+projects/shelley-lovelace-final-500w/splits_old/
+projects/shelley-lovelace-final-500w/splits_old2/
+projects/shelley-lovelace-no-min-svm-fixed/splits/
+projects/shelley-lovelace-no-min-svm-fixed/splits_old/

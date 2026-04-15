@@ -4,36 +4,36 @@ INFLUENCE DETECTION MODEL SUMMARY
 
 DATA SPLIT
 ------------------------------------------------------------
-Training set: 668,222 pairs (80%)
-Test set: 167,056 pairs (20%, held out)
+Training set: 470,504 pairs (80%)
+Test set: 117,627 pairs (20%, held out)
 Stratified split: Yes (preserves class proportions)
 
 CROSS-VALIDATION (10-Fold, Training Set)
 ------------------------------------------------------------
-ROC AUC: 0.7758 (±0.0031)
-Accuracy: 0.8909 (±0.0005)
+ROC AUC: 0.8363 (±0.0036)
+Accuracy: 0.9209 (±0.0008)
 
 HELD-OUT TEST SET RESULTS
 ------------------------------------------------------------
-ROC AUC: 0.7744
-Accuracy: 0.8903
-Precision: 0.7584
-Recall: 0.1642
-F1 Score: 0.2699
+ROC AUC: 0.8366
+Accuracy: 0.9206
+Precision: 0.7466
+Recall: 0.2148
+F1 Score: 0.3336
 
 FEATURE CONTRIBUTIONS (SHAP Value Decomposition)
 ------------------------------------------------------------
-Hapax Legomena: 92.4%
-SVM Stylometry: 4.2%
-Sequence Alignment: 3.4%
+Hapax Legomena: 61.7%
+SVM Stylometry: 36.3%
+Sequence Alignment: 2.0%
 
 MODEL COEFFICIENTS
 ------------------------------------------------------------
-Hapax Legomena: β = -1.1866 (SE = 0.0047, p = 0.00e+00)
-Sequence Alignment: β = -0.5067 (SE = 0.0118, p = 0.00e+00)
-SVM Stylometry: β = 0.0482 (SE = 0.0040, p = 9.29e-34)
+Hapax Legomena: β = -1.2646 (SE = 0.0067, p = 0.00e+00)
+Sequence Alignment: β = -0.6659 (SE = 0.0156, p = 0.00e+00)
+SVM Stylometry: β = 0.6476 (SE = 0.0063, p = 0.00e+00)
 
-Pseudo R² (McFadden): 0.1760
+Pseudo R² (McFadden): 0.2510
 
 ============================================================
 L1 REGULARIZATION CHECK
@@ -44,6 +44,6 @@ All three variables retained under L1 regularization.
 → Each variable contributes independent signal.
 
 L1 Coefficients:
-  Hapax Legomena: -1.1867
-  Sequence Alignment: -0.5021
-  SVM Stylometry: 0.0484
+  Hapax Legomena: -1.2647
+  Sequence Alignment: -0.6593
+  SVM Stylometry: 0.6476
