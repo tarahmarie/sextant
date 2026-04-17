@@ -32,6 +32,9 @@ ipykernel = "^6.29.5"
 imblearn = "^0.0"
 pysqlite3 = "^0.5.4"
 docker = "^7.1.0"
+shap = "^0.44.0"
+codecarbon = "^3.2.6"
+psutil = "^6.0.0"
 
 [build-system]
 requires = ["poetry-core"]
