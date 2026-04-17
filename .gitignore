@@ -77,3 +77,9 @@ projects/shelley-lovelace-final-500w/splits_old/
 projects/shelley-lovelace-final-500w/splits_old2/
 projects/shelley-lovelace-no-min-svm-fixed/splits/
 projects/shelley-lovelace-no-min-svm-fixed/splits_old/
+
+# macOS iCloud sync duplicates
+*\ [0-9]*
+*\ [0-9]*.*
+# Old backup directories
+splits_old*/
