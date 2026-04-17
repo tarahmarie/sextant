@@ -266,11 +266,11 @@ def calculate_hapax_jaccard_similarity():
         UPDATE hapax_jaccard SET
             jac_sim = CASE
                 WHEN HapaxOverlaps < 1 THEN 0.0
-                ELSE CAST(HapaxOverlaps AS REAL) / (source_hapaxes + target_hapaxes)
+                ELSE CAST(HapaxOverlaps AS REAL) / (source_hapaxes + target_hapaxes - HapaxOverlaps)
             END,
             jac_dis = CASE
                 WHEN HapaxOverlaps < 1 THEN 1.0
-                ELSE 1.0 - (CAST(HapaxOverlaps AS REAL) / (source_hapaxes + target_hapaxes))
+                ELSE 1.0 - (CAST(HapaxOverlaps AS REAL) / (source_hapaxes + target_hapaxes - HapaxOverlaps))
             END;
     """)
     disk_con.commit()
