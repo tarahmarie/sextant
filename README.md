@@ -10,7 +10,7 @@ This tool was developed as part of a DPhil dissertation at the Oxford Internet I
 
 Sextant was built with the following principles in mind:
 
-- **Sustainability**: Classic ML methods produce 18.5g CO₂ vs. 652kg for training BERT—a 35,000× difference. Every methodological choice favours computational efficiency.
+- **Sustainability**: Classic ML methods produce .37g CO₂ vs. 652kg for training BERT. Every methodological choice favours computational efficiency.
 - **Openness**: All outputs use open standard formats (SQLite, CSV, GraphML). No proprietary formats or vendor lock-in.
 - **Transparency**: Every calculation can be audited. The `trace_single_pair.py` script shows exactly how each prediction is made.
 - **Reproducibility**: Model parameters (coefficients, scaler values, intercepts) are saved to enable exact replication.
@@ -89,6 +89,16 @@ pip install -r requirements.txt
 poetry install
 ```
 
+### Optional: Carbon Tracking
+
+To use `carbon_run.py` for empirical compute-cost measurement, install `codecarbon`:
+
+```bash
+pip install codecarbon psutil
+```
+
+`codecarbon` and `psutil` are also declared in `pyproject.toml` — `poetry install` will pick them up automatically. If you pinned dependencies via the hashed `requirements.txt`, run `poetry lock && poetry export -f requirements.txt -o requirements.txt` to regenerate with the new entries.
+
 ### Required NLTK Data
 
 The pipeline will download these automatically, but you can pre-install:
@@ -111,6 +121,40 @@ This launches an interactive menu to:
 - Create a new project
 - Select an existing project
 - Run the full pipeline
+
+### Carbon-Tracked Mode (Recommended)
+
+For empirically-measured compute cost (required for the reproducibility & sustainability claims in the paper), use the Python wrapper:
+
+```bash
+# First, use begin.sh to select a project and alignment file.
+# When prompted "Did you want to run everything again? (y/n)",
+# answer "n" to exit without running — begin.sh will have written
+# .current_project and .alignments_file_name for you.
+./begin.sh
+
+# Then run the pipeline under CodeCarbon emission tracking:
+python3 carbon_run.py
+```
+
+`carbon_run.py` runs the same nine pipeline stages as `begin.sh`, but wraps them in a single CodeCarbon `OfflineEmissionsTracker` context. It writes two additional files to `projects/{name}/results/`:
+
+- `emissions.csv` — full CodeCarbon report (duration, kWh, kg CO₂eq, CPU/RAM breakdown)
+- `emissions_summary.md` — paper-ready markdown table derived from the CSV
+
+**Design choices for reproducibility across institutional hardware:**
+
+- **No sudo / admin required.** Uses TDP × CPU-load estimation (`MODE_CPU_LOAD`) rather than `powermetrics` or Intel RAPL. Works on university-locked machines.
+- **No internet required.** Uses `OfflineEmissionsTracker` with embedded grid-intensity tables.
+- **Configurable via env vars** for cross-machine comparability:
+
+  ```bash
+  SEXTANT_COUNTRY_ISO=GBR       # 3-letter ISO code (default: GBR / UK grid)
+  SEXTANT_CPU_TDP_WATTS=30      # Assumed CPU TDP in watts (default: 30)
+  python3 carbon_run.py
+  ```
+
+The 30 W default approximates a typical modern laptop TDP and is chosen so emissions numbers remain comparable across studies that use the same convention. Set it to match your hardware for a tighter absolute estimate.
 
 ### Running Analysis on Existing Data
 
@@ -605,6 +649,8 @@ All output files use **open, non-proprietary formats** that can be read by any s
 | `influence_validation_results.csv` | CSV | Validation results for documented cases |
 | `paper_statistics.txt` | Plain text | Formatted statistics for citation |
 | `top_influence_candidates.csv` | CSV | Highest-scoring cross-author pairs |
+| `emissions.csv` | CSV | CodeCarbon report (kWh, kg CO₂eq, hardware) — produced by `carbon_run.py` |
+| `emissions_summary.md` | Markdown | Paper-ready compute-cost table — produced by `carbon_run.py` |
 
 ### Visualisation Files (`projects/{name}/visualisations/`)
 
@@ -635,7 +681,17 @@ Follow the prompts to:
 2. Point to your alignment file
 3. The pipeline runs automatically
 
-### Option 2: Manual Step-by-Step
+### Option 2: Carbon-Tracked (Recommended for Paper Reproduction)
+
+Use `begin.sh` to select project + alignment file (answer "n" at the "run again?" prompt to exit without running), then:
+
+```bash
+python3 carbon_run.py
+```
+
+Runs the same nine stages as Option 1 inside a CodeCarbon tracker. Produces `emissions.csv` and `emissions_summary.md` alongside the usual pipeline outputs. See [Carbon-Tracked Mode](#carbon-tracked-mode-recommended) under Quick Start for configuration.
+
+### Option 3: Manual Step-by-Step
 
 ```bash
 # Set project name
@@ -658,7 +714,7 @@ python export_graphml.py
 python visualize_influence_network.py
 ```
 
-### Option 3: Analysis Only (Database Already Populated)
+### Option 4: Analysis Only (Database Already Populated)
 
 ```bash
 python logistic_regression.py
