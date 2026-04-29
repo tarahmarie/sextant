@@ -2,65 +2,63 @@
 
 **Interpretable Literary Influence Detection via Classic Machine Learning**
 
-Sextant is a computational method for detecting potential literary influence relationships between texts. It combines three classic machine learning signals—hapax legomena analysis, SVM stylometry, and sequence alignment—into an interpretable model that surfaces candidate influence relationships for humanistic interpretation.
+Sextant is a computational method for detecting potential literary influence relationships between texts. It combines three classic machine learning signals (hapax legomena analysis, SVM stylometry, and sequence alignment) into an interpretable model that surfaces candidate influence relationships for humanistic interpretation.
 
 This tool was developed as part of a DPhil dissertation at the Oxford Internet Institute. The methodology prioritises interpretability over black-box neural approaches, enabling scholars to examine the textual evidence behind each computational prediction.
+
+For documentation of the specific pipeline run that produced the thesis results, see [THESIS_REPRODUCTION.md](THESIS_REPRODUCTION.md).
 
 ## Design Principles
 
 Sextant was built with the following principles in mind:
 
-- **Sustainability**: Classic ML methods produce .37g CO₂ vs. 652kg for training BERT. Every methodological choice favours computational efficiency.
+- **Sustainability**: Classic ML methods produce a fraction of the carbon footprint of training a transformer. A full ELTeC validation run (5.9M chapter pairs, 76 authors) emits well under a gram of CO₂eq on a modern laptop. Every methodological choice favours computational efficiency.
 - **Openness**: All outputs use open standard formats (SQLite, CSV, GraphML). No proprietary formats or vendor lock-in.
 - **Transparency**: Every calculation can be audited. The `trace_single_pair.py` script shows exactly how each prediction is made.
-- **Reproducibility**: Model parameters (coefficients, scaler values, intercepts) are saved to enable exact replication.
+- **Reproducibility**: Model parameters (coefficients, scaler values, intercepts) are saved to enable exact replication. Frozen weights from one corpus can be applied to another via `score_shelley_lovelace.py` (or a similar wrapper for your own corpus).
 - **Accessibility**: Designed for humanities scholars who can operate a command line, not just computer scientists.
 
 ## Table of Contents
 
-1. [Overview](#overview)
+1. [How Sextant Works](#how-sextant-works)
 2. [Installation](#installation)
-3. [Quick Start](#quick-start)
+3. [Quick Start (ELTeC as Sample Corpus)](#quick-start-eltec-as-sample-corpus)
 4. [Project Structure](#project-structure)
 5. [Core Pipeline Scripts](#core-pipeline-scripts)
 6. [Analysis & Validation Scripts](#analysis--validation-scripts)
 7. [Visualisation Scripts](#visualisation-scripts)
-8. [Utility Scripts](#utility-scripts)
-9. [Output Files](#output-files)
-10. [Running the Full Pipeline](#running-the-full-pipeline)
-11. [Auditing & Reproducibility](#auditing--reproducibility)
+8. [Output Files](#output-files)
+9. [Auditing & Reproducibility](#auditing--reproducibility)
 
 ---
 
-## Overview
+## How Sextant Works
 
 Sextant answers the question: *"Which pairs of texts show unexpected stylistic similarity that might indicate literary influence?"*
 
 The method works by:
-1. Training a same-author vs. cross-author classifier on three interpretable signals
-2. Identifying cross-author pairs that the model "mistakes" as same-author
-3. Ranking these pairs by probability—high-probability cross-author pairs are influence candidates
+1. Training a same-author vs. cross-author classifier on three interpretable signals.
+2. Identifying cross-author pairs that the model "mistakes" as same-author.
+3. Ranking these pairs by probability; high-probability cross-author pairs are influence candidates.
 
 ### The Three Signals
 
-| Signal | Contribution | What It Measures |
-|--------|-------------|------------------|
-| **Hapax Legomena** | ~85% | Shared rare vocabulary (words appearing exactly once) |
-| **SVM Stylometry** | ~13% | Writing style similarity via TF-IDF features |
-| **Sequence Alignment** | ~2% | Shared phrases and textual echoes |
+| Signal | What It Measures |
+|--------|------------------|
+| **Hapax Legomena** | Shared rare vocabulary (words appearing exactly once) |
+| **SVM Stylometry** | Writing style similarity via TF-IDF features |
+| **Sequence Alignment** | Shared phrases and textual echoes |
 
-### Key Results
+The relative contribution of each signal is reported by `logistic_regression.py` after each run; the SHAP value decomposition is in `projects/{name}/results/influence_coefficients_shap_cv.csv`.
 
-- ROC AUC: 0.78 (10-fold cross-validation)
-- All 8 documented Victorian influence cases rank above 99th percentile
-- Environmental impact: 18.5g CO₂ (vs. 652kg for BERT training)
+All three signals are tested for independent contribution via L1 regularisation; the model logs which signals are retained at C=1.0 and at the stricter C=0.1.
 
 ### Why Classic ML?
 
 | Consideration | Sextant (Classic ML) | Neural Approaches |
 |---------------|---------------------|-------------------|
-| **Carbon footprint** | 18.5g CO₂ | 652kg CO₂ (BERT) |
-| **Interpretability** | Full transparency—every coefficient explainable | Black box |
+| **Carbon footprint** | Fractions of a gram of CO₂eq per run | Hundreds of kg for a single training run |
+| **Interpretability** | Full transparency, every coefficient explainable | Black box |
 | **Hardware requirements** | Runs on laptop CPU | Often requires GPU |
 | **Reproducibility** | Deterministic, parameters saved | Stochastic, version-sensitive |
 | **Scholarly value** | Surfaces evidence for close reading | Replaces human interpretation |
@@ -71,108 +69,162 @@ The method works by:
 
 ### Prerequisites
 
-- Python 3.10+
-- SQLite3 *(open standard, no server required)*
+- **Python 3.11+** (per `pyproject.toml`'s `^3.11` constraint)
+- **Poetry 2.x** for dependency management
+- **SQLite3** (open standard, no server required, comes with Python)
+- **TextPAIR** (set up separately; see below)
+- **lz4** for decompressing TextPAIR output (`brew install lz4` on macOS)
 - ~8GB RAM for full corpus analysis
 
 ### Setup
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/sextant.git
+git clone https://github.com/tarahmarie/sextant.git
 cd sextant
 
-# Install dependencies
-pip install -r requirements.txt
-
-# Or using Poetry
+# Install dependencies via Poetry (the supported path)
 poetry install
 ```
 
-### Optional: Carbon Tracking
-
-To use `carbon_run.py` for empirical compute-cost measurement, install `codecarbon`:
-
-```bash
-pip install codecarbon psutil
-```
-
-`codecarbon` and `psutil` are also declared in `pyproject.toml` — `poetry install` will pick them up automatically. If you pinned dependencies via the hashed `requirements.txt`, run `poetry lock && poetry export -f requirements.txt -o requirements.txt` to regenerate with the new entries.
+The repository ships with `poetry.lock`; `poetry install` reproduces the exact dependency graph used for the v1.0-thesis run.
 
 ### Required NLTK Data
 
-The pipeline will download these automatically, but you can pre-install:
+The pipeline downloads these automatically on first use, but you can pre-install:
 
 ```bash
-python -c "import nltk; nltk.download('punkt_tab'); nltk.download('stopwords'); nltk.download('wordnet')"
+poetry run python -c "import nltk; nltk.download('punkt_tab'); nltk.download('stopwords'); nltk.download('wordnet')"
 ```
+
+### TextPAIR Setup
+
+Sextant depends on alignment files produced by TextPAIR (forked from ARTFL-Project for macOS bare-metal compatibility). See the companion repository:
+
+- https://github.com/tarahmarie/text-pair (branch `mac-bare-metal`, tag `v1.0-thesis`)
+
+Follow the macOS bare-metal installation instructions in that repository's README. TextPAIR runs as a separate command-line tool; Sextant consumes its output (`alignments.jsonl`).
 
 ---
 
-## Quick Start
+## Quick Start (ELTeC as Sample Corpus)
 
-### Interactive Mode
+This walkthrough uses the ELTeC-100 corpus (a benchmark collection of 100 nineteenth-century English-language novels) as a worked example. The full sequence runs end-to-end in roughly 25 minutes on a modern laptop and produces all model artefacts.
+
+### Phase 1: TextPAIR Alignment Generation
+
+Run from the `text-pair/` repository directory.
+
+#### 1.1 Stage source files in TextPAIR's input directory
+
+The corpus splits live in Sextant under `projects/{project}/splits/`, organised in nested subdirectories per the ELTeC naming convention: `{YEAR}-{LANG}{VARIANT}--{Author_First}/` with one or more XML files inside each directory. TextPAIR's loader expects flat files, not nested directories, and will fail with `IsADirectoryError` if pointed at the nested structure directly. Flatten on copy:
+
+```bash
+# Clean any prior input
+rm -rf in-and-out/{project}_held/*
+mkdir -p in-and-out/{project}_held
+
+# Flatten the splits into TextPAIR's expected location.
+# `find ... -exec cp` walks all subdirectories and copies every .xml file
+# to the flat staging directory.
+find ../sextant/projects/{project}/splits/ -name "*.xml" -exec cp {} in-and-out/{project}_held/ \;
+
+# Sanity check: how many files landed?
+ls in-and-out/{project}_held/ | wc -l
+```
+
+If the file count is lower than the count of XML files in the source tree, there may be filename collisions across subdirectories. Sextant's naming convention scopes chapter numbering inside each author/year directory, so two `chapter_1.xml` files in different directories would collide when flattened. If this happens, rename the colliding files with a per-directory prefix on copy.
+
+#### 1.2 Set the source path in `my_config.ini`
+
+`my_config.ini` is intentionally left with empty path values in the public repository (see TextPAIR README for rationale). Set the source path to your staging directory before each run:
+
+```bash
+sed -i '' 's|^source_file_path =.*|source_file_path = /absolute/path/to/text-pair/in-and-out/{project}_held|' my_config.ini
+```
+
+The path must be absolute. TextPAIR will fail with `FileNotFoundError: [Errno 2] No such file or directory: ''` if `source_file_path` is empty.
+
+#### 1.3 Run TextPAIR
+
+```bash
+textpair --config=my_config.ini \
+         --skip_web_app \
+         --output_path=/tmp/textpair-{project}-out \
+         --workers=8 \
+         {project}_thesis
+```
+
+Parameters:
+- `--skip_web_app` because Sextant consumes the JSONL directly; the web app is not required.
+- `--output_path` to a tmpfs path keeps the working set off iCloud Drive.
+- `--workers=8` empirically a good fit for an 8-core laptop.
+- `{project}_thesis` is the database name used internally by TextPAIR.
+
+For ELTeC, expect roughly 8 minutes wall-clock with 8 workers on an M-series Mac.
+
+The two harmless warnings about `/var/lib/philologic5/web_app/*` relate to the web-app deployment that `--skip_web_app` already disabled.
+
+#### 1.4 Decompress and stage the alignments file for Sextant
+
+TextPAIR's current default is to write `alignments.jsonl.lz4` rather than the uncompressed `alignments.jsonl` that Sextant's `load_alignments.py` expects. Decompress on the way out:
+
+```bash
+mv ../sextant/projects/{project}/alignments/alignments.jsonl \
+   ../sextant/projects/{project}/alignments/alignments.jsonl.bak.$(date +%Y%m%d-%H%M%S) \
+   2>/dev/null
+
+mkdir -p ../sextant/projects/{project}/alignments
+
+lz4 -d /tmp/textpair-{project}-out/results/alignments.jsonl.lz4 \
+       ../sextant/projects/{project}/alignments/alignments.jsonl
+```
+
+### Phase 2: Sextant Pipeline
+
+Run from the `sextant/` repository directory.
+
+#### 2.1 Configure project name and alignments file
 
 ```bash
 ./begin.sh
 ```
 
-This launches an interactive menu to:
-- Create a new project
-- Select an existing project
-- Run the full pipeline
+Answer the prompts to select project name and alignments file. When asked "Did you want to run everything again? (y/n)", answer **n** to write `.current_project` and `.alignments_file_name` without firing the pipeline. The carbon-tracked wrapper will run those nine stages itself.
 
-### Carbon-Tracked Mode (Recommended)
-
-For empirically-measured compute cost (required for the reproducibility & sustainability claims in the paper), use the Python wrapper:
+#### 2.2 Run the carbon-tracked pipeline
 
 ```bash
-# First, use begin.sh to select a project and alignment file.
-# When prompted "Did you want to run everything again? (y/n)",
-# answer "n" to exit without running — begin.sh will have written
-# .current_project and .alignments_file_name for you.
-./begin.sh
-
-# Then run the pipeline under CodeCarbon emission tracking:
-python3 carbon_run.py
+SEXTANT_COUNTRY_ISO=GBR SEXTANT_CPU_TDP_WATTS=30 poetry run python carbon_run.py
 ```
 
-`carbon_run.py` runs the same nine pipeline stages as `begin.sh`, but wraps them in a single CodeCarbon `OfflineEmissionsTracker` context. It writes two additional files to `projects/{name}/results/`:
+`carbon_run.py` runs the same nine pipeline stages as `begin.sh` (init_db → load_authors_and_texts → load_alignments → load_hapaxes → load_hapax_intersects → load_relationships → load_jaccard → do_svm → logistic_regression), wrapped in a single CodeCarbon `OfflineEmissionsTracker` context.
 
-- `emissions.csv` — full CodeCarbon report (duration, kWh, kg CO₂eq, CPU/RAM breakdown)
-- `emissions_summary.md` — paper-ready markdown table derived from the CSV
+Configuration:
+- `SEXTANT_COUNTRY_ISO=GBR` selects the UK grid intensity profile. Default is GBR; override for non-UK reproductions.
+- `SEXTANT_CPU_TDP_WATTS=30` sets the assumed CPU TDP for the energy-cost estimate. Default 30W approximates a typical modern laptop. Set to match your hardware for a tighter absolute estimate.
 
-**Design choices for reproducibility across institutional hardware:**
+The 500-word minimum filter is applied at the load_authors_and_texts stage. Chapters below 500 words are skipped from the analysis because hapax legomena and TF-IDF stylometric signals require sufficient text length to stabilise. The exclusion rate depends on corpus composition: ELTeC has long novels with chapter divisions and exclusions are typically under 2%; corpora composed of letters, short essays, or subdivided philosophical works see higher exclusion rates.
 
-- **No sudo / admin required.** Uses TDP × CPU-load estimation (`MODE_CPU_LOAD`) rather than `powermetrics` or Intel RAPL. Works on university-locked machines.
-- **No internet required.** Uses `OfflineEmissionsTracker` with embedded grid-intensity tables.
-- **Configurable via env vars** for cross-machine comparability:
+For ELTeC, expect roughly 14 minutes wall-clock for the full nine-stage Sextant pipeline.
 
-  ```bash
-  SEXTANT_COUNTRY_ISO=GBR       # 3-letter ISO code (default: GBR / UK grid)
-  SEXTANT_CPU_TDP_WATTS=30      # Assumed CPU TDP in watts (default: 30)
-  python3 carbon_run.py
-  ```
+Outputs written to `projects/{project}/results/`:
 
-The 30 W default approximates a typical modern laptop TDP and is chosen so emissions numbers remain comparable across studies that use the same convention. Set it to match your hardware for a tighter absolute estimate.
+- `emissions.csv` (full CodeCarbon report)
+- `emissions_summary.md` (paper-ready table)
+- `influence_coefficients_shap_cv.csv` (model coefficients with SHAP contributions)
+- `scaler_parameters.csv` (StandardScaler mean/std for each feature)
+- `model_intercept.txt` (logistic regression intercept)
+- `influence_model_summary_cv.txt` (complete model summary)
+- `influence_validation_results.csv` (validation case results, if applicable)
 
-### Running Analysis on Existing Data
+### Applying a Trained Model to a Different Corpus
 
-If you already have a populated database:
+For thesis or domain-specific work, you may want to train the model on one corpus (e.g. a benchmark like ELTeC) and apply the frozen weights to a different target corpus. The `score_shelley_lovelace.py` script in this repository demonstrates the pattern: it loads the SL combined-Jaccard table and SVM scores, normalises against ELTeC training-set parameters, and ranks all pairs by influence probability.
 
-```bash
-# Run the main logistic regression analysis
-python logistic_regression.py
+To adapt for your own corpus, copy `score_shelley_lovelace.py`, point it at your project name, and update the `INTERCEPT`, `COEFS`, `MEANS`, and `STDS` constants from your trained model's output files.
 
-# Audit a specific text pair
-python trace_single_pair.py --pair-id 4448692
-
-# Generate evidence for anchor case
-python show_receipts_sextant.py
-
-# Export network for Cytoscape
-python export_graphml.py
-```
+The script reports percentile rankings against **cross-author pairs only**, which matches the convention used in the ELTeC validation. Same-author pairs are computed for context but excluded from the rank denominator used for influence claims.
 
 ---
 
@@ -181,178 +233,73 @@ python export_graphml.py
 ```
 sextant/
 ├── begin.sh                          # Main entry point (interactive)
+├── carbon_run.py                     # Carbon-tracked wrapper for begin.sh stages
+├── score_shelley_lovelace.py         # Apply frozen ELTeC weights to SL corpus (template)
 ├── projects/                         # Project data directories
-│   └── eltec-100/                    # Example project
+│   └── eltec-100/                    # ELTeC validation project
 │       ├── alignments/               # TextPAIR alignment files (.jsonl)
 │       ├── db/                       # SQLite databases (open format)
-│       │   ├── eltec-100.db          # Main database (hapax, alignments, pairs)
-│       │   └── svm.db                # SVM stylometry scores
-│       ├── splits/                   # Chapter text files (plain text)
-│       ├── results/                  # Model outputs (CSV format)
+│       ├── splits/                   # Chapter text files in nested dirs
+│       ├── results/                  # Model outputs (gitignored)
 │       └── visualisations/           # Network graphs (GraphML, HTML)
 ├── anchor_case_output/               # Anchor case analysis outputs
-├── validation_output/                # Validation analysis outputs (CSV)
-└── notebooks/                        # Jupyter notebooks for exploration
+└── validation_output/                # Validation analysis outputs (CSV)
 ```
 
 **Format choices for openness:**
 - **SQLite**: Open standard, single-file database, readable by any programming language
 - **CSV**: Universal tabular format, opens in Excel, R, Python, or any text editor
 - **GraphML**: Open XML standard for networks, supported by Cytoscape, Gephi, NetworkX, igraph
-- **Plain text**: Chapter files are UTF-8 text, no proprietary encoding
+- **XML / TEI**: Chapter files are UTF-8 TEI, no proprietary encoding
 
 ---
 
 ## Core Pipeline Scripts
 
-These scripts form the main data processing pipeline. **Run them in order** via `begin.sh` or manually:
-
 ### 1. `init_db.py`
-**Purpose:** Initialises the SQLite database with required tables.
-
-```bash
-python init_db.py
-```
-
-Creates empty tables: `authors`, `all_texts`, `text_pairs`, `alignments`, `hapaxes`, `hapax_overlaps`, `stats_all`, `combined_jaccard`, etc.
-
-*SQLite chosen for portability—entire database is a single file that can be shared, backed up, or queried with any SQLite client.*
-
----
+Initialises the SQLite database with required tables.
 
 ### 2. `load_authors_and_texts.py`
-**Purpose:** Scans the `splits/` directory, extracts author metadata from TEI headers, and populates the `authors` and `all_texts` tables.
-
-```bash
-python load_authors_and_texts.py
-```
-
-**Input:** Text files in `projects/{name}/splits/{author-dir}/{chapter-file}`
-**Output:** Populated `authors` and `all_texts` tables with text IDs, author IDs, word counts, and chapter numbers.
-
----
+Scans the `splits/` directory, extracts author metadata from TEI headers, populates the `authors` and `all_texts` tables, and applies the 500-word minimum filter.
 
 ### 3. `load_alignments.py`
-**Purpose:** Parses TextPAIR alignment output (JSONL format) and loads sequence alignments into the database.
-
-```bash
-python load_alignments.py alignments.jsonl
-```
-
-**Input:** JSONL file from TextPAIR containing aligned passages
-**Output:** Populated `alignments` table with source/target passages and word counts.
-
-*JSONL is human-readable and streamable—each line is valid JSON.*
-
----
+Parses TextPAIR alignment output (JSONL format) and loads sequence alignments into the database. Expects uncompressed `alignments.jsonl`. If TextPAIR produced `alignments.jsonl.lz4`, decompress first (see Phase 1.4).
 
 ### 4. `load_hapaxes.py`
-**Purpose:** Extracts hapax legomena (words appearing exactly once) from each text.
-
-```bash
-python load_hapaxes.py
-```
-
-**Output:** Populated `hapaxes` table with each text's unique vocabulary.
-
----
+Extracts hapax legomena (words appearing exactly once) from each text.
 
 ### 5. `load_hapax_intersects.py`
-**Purpose:** Computes the intersection of hapax legomena between all text pairs.
-
-```bash
-python load_hapax_intersects.py
-```
-
-**Output:** Populated `hapax_overlaps` table with shared rare words for each pair.
-
----
+Computes the intersection of hapax legomena between all text pairs.
 
 ### 6. `load_relationships.py`
-**Purpose:** Generates all valid text pairs and computes basic statistics.
-
-```bash
-python load_relationships.py
-```
-
-**Output:** Populated `text_pairs` and `stats_all` tables.
-
----
+Generates all valid text pairs (filtered to same-year-or-prior pairings) and computes basic statistics.
 
 ### 7. `load_jaccard.py`
-**Purpose:** Computes Jaccard similarity/distance for hapax overlap and alignments, normalised by text length.
-
-```bash
-python load_jaccard.py
-```
-
-**Output:** Populated `combined_jaccard` table with:
-- `hap_jac_sim` / `hap_jac_dis`: Hapax Jaccard similarity/distance
-- `al_jac_sim` / `al_jac_dis`: Alignment Jaccard similarity/distance
-
----
+Computes Jaccard similarity/distance for hapax overlap and alignments, normalised by text length.
 
 ### 8. `do_svm.py`
-**Purpose:** Trains an SVM classifier on TF-IDF features to measure stylistic similarity between chapters and novels.
-
-```bash
-python do_svm.py
-```
-
-**Output:** Creates `svm.db` with `chapter_assessments` table containing probability scores for each chapter resembling each novel's style.
-
-*SVM chosen over neural networks for interpretability and efficiency—trains in minutes on CPU.*
-
----
+Trains an SVM classifier on TF-IDF features to measure stylistic similarity between chapters and novels.
 
 ### 9. `logistic_regression.py`
-**Purpose:** The main analysis script. Trains a logistic regression model with proper train/test split and SHAP value decomposition.
+The main analysis script. Trains a logistic regression model with 80/20 train/test split, 10-fold cross-validation on the training set, SHAP value decomposition, L1 regularisation check, and validation against documented influence cases. Saves model coefficients, scaler parameters, and intercept for reproducibility.
 
-```bash
-python logistic_regression.py
-```
-
-**Features:**
-- 80/20 train/test split with stratification
-- 10-fold cross-validation on training set
-- SHAP values for theoretically-grounded feature contributions
-- L1 regularisation check (confirms all variables contribute independent signal)
-- Validation against 8 documented influence cases
-- Saves model coefficients, scaler parameters, and intercept for reproducibility
-
-**Output Files (in `projects/{name}/results/`):**
-- `influence_coefficients_shap_cv.csv`: Model coefficients with SHAP contributions
-- `scaler_parameters.csv`: StandardScaler mean/std for each feature
-- `model_intercept.txt`: Logistic regression intercept
-- `influence_model_summary_cv.txt`: Complete model summary
-- `influence_validation_results.csv`: Validation case results
-
-*All outputs in CSV/text format—no proprietary model files. Anyone can inspect the exact coefficients.*
+### 10. `score_shelley_lovelace.py`
+Template script for applying frozen weights from one corpus to another. Loads the target corpus's combined-Jaccard table and SVM scores, normalises against the source corpus's training-set parameters, computes influence probabilities, and ranks against cross-author pairs only. Adapt the constants at the top of the file to retarget for your own corpus.
 
 ---
 
 ## Analysis & Validation Scripts
 
-These scripts perform deeper analysis after the main pipeline has run.
-
 ### `trace_single_pair.py`
-**Purpose:** Audit script that traces a single text pair through the entire pipeline, showing every calculation step. *This is the key transparency tool.*
+Audit script that traces a single text pair through the entire pipeline, showing every calculation step. *This is the key transparency tool.*
 
 ```bash
-# Random cross-author pair
-python trace_single_pair.py
-
-# Specific pair by ID
-python trace_single_pair.py --pair-id 4448692
-
-# Specific pair by author/chapter
-python trace_single_pair.py --source Eliot --source-chapter 79 --target Lawrence --target-chapter 29
-
-# Interactive mode
-python trace_single_pair.py --interactive
+poetry run python trace_single_pair.py --pair-id 4448692
+poetry run python trace_single_pair.py --source Eliot --source-chapter 79 --target Lawrence --target-chapter 29
+poetry run python trace_single_pair.py --interactive
 ```
 
-**Output:** Step-by-step trace showing:
+Output shows step-by-step:
 1. Raw database values
 2. Hapax legomena calculation with actual shared words listed
 3. SVM stylometry score and novel rankings
@@ -360,274 +307,27 @@ python trace_single_pair.py --interactive
 5. Logistic regression calculation with z-scores and coefficients
 6. Final probability and percentile ranking
 
-*Every number is shown with its derivation—nothing is hidden.*
+### Other analysis scripts
 
----
-
-### `anchor_case.py`
-**Purpose:** Generates detailed analysis and visualisations for the Eliot→Lawrence anchor case.
-
-```bash
-python anchor_case.py
-```
-
-**Output (in `anchor_case_output/`):**
-- `anchor_case_results.txt`: Summary statistics
-- `variable_contribution_chart.png`: Bar chart of feature contributions
-- `percentile_distribution.png`: Histogram showing anchor case ranking
-- `all_eliot_lawrence_pairs.csv`: All Eliot-Lawrence chapter pairs ranked
-
----
-
-### `validate_influence_pairs.py`
-**Purpose:** Validates multiple documented literary influence relationships.
-
-```bash
-# List all novels in corpus
-python validate_influence_pairs.py --list-novels
-
-# Run validation on known pairs
-python validate_influence_pairs.py --validate
-
-# Query specific pair
-python validate_influence_pairs.py --query "Dickens" "Collins"
-```
-
----
-
-### `compare_influence_cases.py`
-**Purpose:** Compares high-scoring (anchor) cases with low-scoring (negative) cases to demonstrate what Sextant detects.
-
-```bash
-python compare_influence_cases.py --sextant-root .
-```
-
----
-
-### `show_receipts_sextant.py`
-**Purpose:** Generates detailed textual evidence for the Eliot→Lawrence anchor case, showing the actual shared hapax legomena and aligned passages.
-
-```bash
-python show_receipts_sextant.py --sextant-root .
-```
-
-*"Show the receipts"—presents the raw textual evidence behind the computational prediction.*
-
----
-
-### `show_receipts_sextant_lowball.py`
-**Purpose:** Same as above but configured for a low-signal pair (Cross→Conrad) as a negative control comparison.
-
-```bash
-python show_receipts_sextant_lowball.py --sextant-root .
-```
-
----
-
-### `comprehensive_analysis.py`
-**Purpose:** Computes extended metrics for author pair analysis including mean/median percentiles, effect sizes (Cohen's d), and bootstrap confidence intervals.
-
-```bash
-python comprehensive_analysis.py
-```
-
----
-
-### `discriminant_analysis.py`
-**Purpose:** Analyses what distinguishes documented influence pairs from implausible pairings, examining distribution shapes and individual variable contributions.
-
-```bash
-python discriminant_analysis.py
-```
-
----
-
-### `diagnostic_distributions.py`
-**Purpose:** Examines score distributions for key author pairs to understand percentile patterns.
-
-```bash
-python diagnostic_distributions.py
-```
-
----
-
-### `author_max_percentiles.py`
-**Purpose:** Calculates the maximum percentile for all author pairs in the corpus.
-
-```bash
-python author_max_percentiles.py
-```
-
-**Output:** `validation_output/author_max_percentiles.csv`
-
----
-
-### `lowest_influence_pairs.py`
-**Purpose:** Finds book pairings with the lowest influence scores to identify negative controls.
-
-```bash
-python lowest_influence_pairs.py
-```
-
----
-
-### `negative_pairs.py`
-**Purpose:** Multithreaded version for ranking all author pairs by influence score.
-
-```bash
-python negative_pairs.py
-```
-
----
-
-### `sample_all_pairs.py`
-**Purpose:** Fast version that samples 1% of pairs to quickly identify lowest-scoring pairings.
-
-```bash
-python sample_all_pairs.py
-```
-
----
-
-### `novel_discovery_analysis.py`
-**Purpose:** Extended anchor case analysis covering both Eliot→Lawrence (positive influence) and Thackeray→Disraeli (rivalry/contrast case).
-
-```bash
-python novel_discovery_analysis.py
-```
-
----
-
-### `stat_stats.py`
-**Purpose:** Regenerates all statistical results for paper citations, outputting exact values for abstract and methods sections.
-
-```bash
-python stat_stats.py
-```
-
-**Output:**
-- `projects/{name}/results/paper_statistics.txt`
-- `projects/{name}/results/paper_statistics.csv`
-
----
-
-### `export_for_analysis.py`
-**Purpose:** Exports targeted subsets of the database for external analysis (R, SPSS, etc.).
-
-```bash
-python export_for_analysis.py [project_name]
-```
-
-*Designed for interoperability—export to any statistical software.*
+`anchor_case.py`, `validate_influence_pairs.py`, `compare_influence_cases.py`, `show_receipts_sextant.py`, `show_receipts_sextant_lowball.py`, `comprehensive_analysis.py`, `discriminant_analysis.py`, `diagnostic_distributions.py`, `author_max_percentiles.py`, `lowest_influence_pairs.py`, `negative_pairs.py`, `sample_all_pairs.py`, `novel_discovery_analysis.py`, `stat_stats.py`, `export_for_analysis.py`. Prefix all `python` invocations with `poetry run`.
 
 ---
 
 ## Visualisation Scripts
 
-These scripts generate network visualisations of the influence relationships.
-
 ### `export_graphml.py`
-**Purpose:** Exports the influence network to GraphML format for use in Cytoscape Desktop, Gephi, or any other network visualisation tool.
-
-```bash
-python export_graphml.py
-```
-
-**Output (in `projects/{name}/visualisations/`):**
-- `influence_network_top10pct.graphml`: Comprehensive view (top 10% of edges)
-- `influence_network_top5pct.graphml`: Balanced view (top 5%)
-- `influence_network_top1pct.graphml`: Strongest connections only (top 1%)
-
-**GraphML format chosen because:**
-- Open XML standard (not proprietary)
-- Supported by Cytoscape, Gephi, NetworkX, igraph, yEd, and virtually all network tools
-- Human-readable (it's just XML)
-- Preserves all node and edge attributes
-
-**Node attributes included:**
-- `label`: Author name
-- `year`: Approximate first publication year
-- `era`: Literary era category (for colour mapping)
-- `out_degree` / `in_degree` / `total_connections`: For size mapping
-- `is_validated_author`: Whether author appears in a documented influence case
-
-**Edge attributes included:**
-- `percentile`: Influence score (0-100)
-- `is_validated`: `true` for the 8 documented influence cases (for colour mapping)
-- `weight`: For layout algorithms
-- `n_chapter_pairs`: Number of chapter comparisons
-
-**To use in Cytoscape Desktop:**
-1. File → Import → Network from File
-2. Select a `.graphml` file
-3. Apply layout: Layout → yFiles Organic (or Prefuse Force Directed)
-4. Style nodes: Fill Color → Column: `era` → Discrete Mapping
-5. Style edges: Stroke Color → Column: `is_validated` → Discrete Mapping (`true` = red)
-6. Style edge width: Width → Column: `percentile` → Continuous Mapping
-
----
+Exports the influence network to GraphML format for use in Cytoscape Desktop, Gephi, or any other network visualisation tool. Produces `.graphml` files at three thresholds (top 10%, top 5%, top 1% of edges).
 
 ### `visualize_influence_network.py`
-**Purpose:** Creates interactive HTML network visualisations using Pyvis. No desktop application required—opens in any web browser.
+Creates standalone interactive HTML network visualisations. Standalone files; no server, no Jupyter, no installation. Open in any browser.
 
-```bash
-python visualize_influence_network.py
-```
-
-**Output (in `projects/{name}/visualisations/`):**
-- `influence_network_top5pct.html`
-- `influence_network_top2pct.html`
-- `influence_network_top1pct.html`
-
-**Features:**
-- Drag nodes to rearrange layout
-- Scroll to zoom
-- Click nodes/edges for details
-- Colour-coded by literary era
-- Validated influence cases highlighted in red
-
-*Standalone HTML files—no server, no installation, no account required. Just open in a browser.*
-
----
-
-## Utility Scripts
-
-### `util.py`
-Shared utility functions used across the codebase:
-- `get_project_name()`: Read current project from `.current_project`
-- `get_algnments_file_name()`: Read alignment file from `.alignments_file_name`
-- `getListOfFiles()`: Recursively list files in directory
-- `extract_author_name()`: Parse author from TEI header
-- `get_word_count_for_text()`: Count words in text
-
-### `database_ops.py`
-Database operations and table management:
-- Table creation and indexing
-- Insert functions for all data types
-- Jaccard similarity calculations
-- Database cleanup and optimisation
-
-### `predict_ops.py`
-Prediction-related database operations:
-- Setup for author prediction tables
-- Helper functions for pair lookups
-
-### `hapaxes_1tM.py`
-Core hapax extraction logic:
-- `remove_tei_lines_from_text()`: Strip TEI markup
-- Hapax identification functions
-
-### `utils/get_choices.py`
-Helper for interactive menu choices.
-
-### `show_previous_averages.py`
-Displays statistics from the previous pipeline run without recomputing.
+Note: the `py4cytoscape` and `ipycytoscape` Python integrations were removed from this fork's dependencies as of v1.0-thesis. Cytoscape Desktop integration via the GraphML export remains supported and is the recommended path for desktop visualisation.
 
 ---
 
 ## Output Files
 
-All output files use **open, non-proprietary formats** that can be read by any software.
+All output files use **open, non-proprietary formats**.
 
 ### Database Files (`projects/{name}/db/`)
 
@@ -635,8 +335,6 @@ All output files use **open, non-proprietary formats** that can be read by any s
 |------|--------|----------|
 | `{project}.db` | SQLite | Main database with all tables |
 | `svm.db` | SQLite | SVM stylometry scores |
-
-*SQLite databases can be opened with DB Browser for SQLite (free), DBeaver (free), Python, R, or any SQLite client.*
 
 ### Results Files (`projects/{name}/results/`)
 
@@ -647,10 +345,9 @@ All output files use **open, non-proprietary formats** that can be read by any s
 | `model_intercept.txt` | Plain text | Logistic regression intercept |
 | `influence_model_summary_cv.txt` | Plain text | Complete model summary |
 | `influence_validation_results.csv` | CSV | Validation results for documented cases |
-| `paper_statistics.txt` | Plain text | Formatted statistics for citation |
-| `top_influence_candidates.csv` | CSV | Highest-scoring cross-author pairs |
-| `emissions.csv` | CSV | CodeCarbon report (kWh, kg CO₂eq, hardware) — produced by `carbon_run.py` |
-| `emissions_summary.md` | Markdown | Paper-ready compute-cost table — produced by `carbon_run.py` |
+| `paper_statistics.txt` / `.csv` | Plain text / CSV | Formatted statistics for citation |
+| `emissions.csv` | CSV | CodeCarbon report (kWh, kg CO₂eq, hardware) |
+| `emissions_summary.md` | Markdown | Paper-ready compute-cost table |
 
 ### Visualisation Files (`projects/{name}/visualisations/`)
 
@@ -658,70 +355,6 @@ All output files use **open, non-proprietary formats** that can be read by any s
 |------|--------|----------|
 | `influence_network_*.graphml` | GraphML (XML) | Network for Cytoscape/Gephi |
 | `influence_network_*.html` | HTML | Interactive browser visualisation |
-
-### Analysis Output Files
-
-| Directory | Contents |
-|-----------|----------|
-| `anchor_case_output/` | Anchor case analysis, charts (PNG), CSVs |
-| `validation_output/` | Validation analysis results (CSV) |
-
----
-
-## Running the Full Pipeline
-
-### Option 1: Interactive (Recommended for First Run)
-
-```bash
-./begin.sh
-```
-
-Follow the prompts to:
-1. Create a new project or select existing
-2. Point to your alignment file
-3. The pipeline runs automatically
-
-### Option 2: Carbon-Tracked (Recommended for Paper Reproduction)
-
-Use `begin.sh` to select project + alignment file (answer "n" at the "run again?" prompt to exit without running), then:
-
-```bash
-python3 carbon_run.py
-```
-
-Runs the same nine stages as Option 1 inside a CodeCarbon tracker. Produces `emissions.csv` and `emissions_summary.md` alongside the usual pipeline outputs. See [Carbon-Tracked Mode](#carbon-tracked-mode-recommended) under Quick Start for configuration.
-
-### Option 3: Manual Step-by-Step
-
-```bash
-# Set project name
-echo "eltec-100" > .current_project
-echo "alignments.jsonl" > .alignments_file_name
-
-# Run pipeline in order
-python init_db.py
-python load_authors_and_texts.py
-python load_alignments.py alignments.jsonl
-python load_hapaxes.py
-python load_hapax_intersects.py
-python load_relationships.py
-python load_jaccard.py
-python do_svm.py
-python logistic_regression.py
-
-# Generate visualisations
-python export_graphml.py
-python visualize_influence_network.py
-```
-
-### Option 4: Analysis Only (Database Already Populated)
-
-```bash
-python logistic_regression.py
-python trace_single_pair.py
-python anchor_case.py
-python export_graphml.py
-```
 
 ---
 
@@ -732,7 +365,7 @@ Sextant is designed for full transparency and reproducibility. *No black boxes.*
 ### Trace Any Pair
 
 ```bash
-python trace_single_pair.py --pair-id 4448692
+poetry run python trace_single_pair.py --pair-id 4448692
 ```
 
 Shows every calculation step from raw data to final probability, including:
@@ -748,26 +381,24 @@ The trace script:
 2. Loads exact model intercept from `model_intercept.txt`
 3. Shows z-score transformations with full arithmetic
 4. Shows coefficient multiplication step-by-step
-5. Confirms stored values match computed values (with checkmarks)
-
-### Reproduce Results
-
-All model parameters are saved during training:
-- Coefficients with standard errors and p-values
-- Scaler means and standard deviations (exact values from training set)
-- Model intercept
-- SHAP contribution percentages
-
-*Anyone with the code and data can reproduce the exact same results.*
+5. Confirms stored values match computed values
 
 ### Export for External Verification
 
 All results can be exported for analysis in other tools:
 - **R**: Read CSVs directly, or connect to SQLite with `RSQLite`
-- **SPSS**: Import CSVs
-- **Stata**: Import CSVs
-- **Excel**: Open CSVs directly
-- **Gephi/Cytoscape**: Import GraphML files
+- **SPSS / Stata / Excel**: Import CSVs
+- **Gephi / Cytoscape**: Import GraphML files
+
+### Three-Repository Reproducibility Chain
+
+A complete reproduction of the v1.0-thesis run requires three companion repositories at their tagged versions:
+
+- `gutenberg-text-splitter` v1.0-thesis: Gutenberg ingestion and ELTeC pattern splitting
+- `text-pair` v1.0-thesis (mac-bare-metal branch): sequence alignment generation
+- `sextant` v1.0-thesis: corpus assembly, modelling, and analysis
+
+For the specific commands and parameters that produced the thesis-target results, see [THESIS_REPRODUCTION.md](THESIS_REPRODUCTION.md).
 
 ---
 
@@ -775,12 +406,10 @@ All results can be exported for analysis in other tools:
 
 MIT License. See `LICENSE` for details.
 
-*MIT chosen as one of the most permissive open source licences—maximises reusability.*
-
 ---
 
 ## Author
 
-**Tarah Wheeler**  
-DPhil Candidate, Oxford Internet Institute  
+**Tarah Wheeler**
+DPhil Candidate, Oxford Internet Institute
 University of Oxford
