@@ -93,3 +93,6 @@ corpus_inventory.xlsx
 
 # Excluded items archive (documented in corpus_source_of_truth.md, kept on disk but not committed)
 projects/shelley-lovelace/splits_excluded_*/
+
+# Internal audit findings (not for distribution)
+examiner_audit_findings.md
