@@ -89,8 +89,8 @@ textpair --config=my_config.ini --skip_web_app \
          --output_path=/tmp/textpair-eltec-out --workers=8 eltec_thesis
 
 # Shelley-Lovelace
-textpair --config=my_config.ini --skip_web_app \
-         --output_path=/tmp/textpair-shelley-lovelace-out --workers=8 shelley_lovelace_thesis
+cd text-pair
+textpair --config=my_config.ini --skip_web_app --output_path=/tmp/textpair-shelley-lovelace-out --workers=8 shelley_lovelace_thesis
 ```
 
 ### 1.4 Decompress and stage alignments
