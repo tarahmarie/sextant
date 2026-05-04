@@ -75,29 +75,20 @@ class Tee:
 
 
 def extract_author(filename):
-    """Extract author surname from ELTeC-pattern filename.
+    """Extract author identifier from ELTeC-pattern filename.
 
-    Filenames look like: 1843-ENG18430--Lovelace_Ada-Note_D
-    or:                  1840-ENG18400--Shelley_Percy-section_07
-    or:                  1843-ENG18430--Menabrea_Lovelace-translation
+    Filenames look like:
+      1843-ENG18430--Lovelace_Ada-Note_D
+      1840-ENG18401--Shelley_Percy-section_07
+      1843-ENG18430--Menabrea_Lovelace-translation
 
-    Returns the surname after the year/lang/variant prefix.
-    For composite names like Menabrea_Lovelace, returns the full composite.
+    Returns the full Surname_Firstname (or composite) so authors who
+    share a surname (e.g. Shelley_Mary vs Shelley_Percy) stay distinct.
     """
     if filename is None:
         return None
     m = re.search(r'--([A-Za-z_]+?)(?:-|$)', filename)
-    if m:
-        author = m.group(1)
-        parts = author.split('_')
-        if len(parts) == 2:
-            firstname_set = {'Ada', 'Mary', 'Percy', 'Charles', 'William',
-                             'John', 'Robert', 'George', 'Michael', 'Samuel',
-                             'Oliver', 'Augustus'}
-            if parts[1] in firstname_set:
-                return parts[0]
-        return author
-    return None
+    return m.group(1) if m else None
 
 
 def load_and_score():
@@ -220,11 +211,13 @@ def main():
     for _, row in df_cross.head(25).iterrows():
         print(f"  {row['rank']:5d}. p={row['prob']:.4f}  {row['source_name']} -> {row['target_name']}")
 
-    # Shelley -> Lovelace (cross-author by construction)
-    sl = df_cross[df_cross['source_name'].str.contains('Shelley') &
+    # Mary Shelley -> Lovelace (cross-author by construction).
+    # Percy Shelley is in the corpus as a comparator and is intentionally
+    # excluded here — he and Mary are distinct authors.
+    sl = df_cross[df_cross['source_name'].str.contains('Shelley_Mary') &
                   df_cross['target_name'].str.contains('Lovelace')]
     print(f"\n{'='*80}")
-    print(f"=== SHELLEY -> LOVELACE PAIRS ({len(sl)} pairs) ===")
+    print(f"=== MARY SHELLEY -> LOVELACE PAIRS ({len(sl)} pairs) ===")
     print(f"=== Ranks against {N_cross:,} cross-author pairs ===")
     print(f"{'='*80}\n")
     for _, row in sl.iterrows():
