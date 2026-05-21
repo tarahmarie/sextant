@@ -291,19 +291,22 @@ def main():
     # distinct authors and his Lovelace-target pairs are not reported here.
 
     # Mary Shelley -> Lovelace (every pair, cross-author by construction).
+    # Target restricted to Lovelace_Ada (her Notes and letters -- original prose).
+    # The Menabrea translation is excluded as a target because it is constrained
+    # by Menabrea's source content rather than Lovelace's original composition.
     sl = df_cross[df_cross['source_name'].str.contains('Shelley_Mary') &
-                  df_cross['target_name'].str.contains('Lovelace')]
+                  (df_cross['target_author'] == 'Lovelace_Ada')]
     _per_author_lovelace_section("MARY SHELLEY", sl, N_cross)
 
     # All authors -> Lovelace (top 20, cross-author only).
-    # NOTE: must exclude Lovelace_Ada and Menabrea_Lovelace as the *source*.
-    # extract_author() treats them as distinct authors, so a naive
-    # `target_name.str.contains('Lovelace')` filter wrongly admits pairs like
-    # Lovelace_Ada-Note_A -> Menabrea_Lovelace-translation. From the corpus
-    # inventory's perspective both endpoints are Lovelace works, and such pairs
-    # should not be counted as "cross-author influences on Lovelace".
+    # Filter rule for this table: target must be Lovelace_Ada only (her own
+    # Notes and letters -- her original prose). The Menabrea translation is
+    # Lovelace's English translation work but is excluded here because it is
+    # constrained by Menabrea's source content rather than her original
+    # composition. Source author must not be Lovelace_Ada or Menabrea_Lovelace
+    # (both are Lovelace works, can't be cross-author influences on her).
     al_df = df_cross[
-        df_cross['target_author'].isin(LOVELACE_AUTHORS)
+        (df_cross['target_author'] == 'Lovelace_Ada')
         & ~df_cross['source_author'].isin(LOVELACE_AUTHORS)
     ]
     _per_author_lovelace_section(
@@ -313,28 +316,31 @@ def main():
 
     # Per-author top-10 sections. Order roughly by historical/argument salience
     # in the thesis: science-writing collaborators first, then literary controls.
+    # Per-author top-10 sections. All use the same strict-target rule as
+    # the ALL AUTHORS block above: target must be Lovelace_Ada (her Notes
+    # and letters), not Menabrea_Lovelace (her translation).
     som = df_cross[df_cross['source_name'].str.contains('Somerville') &
-                   df_cross['target_name'].str.contains('Lovelace')]
+                   (df_cross['target_author'] == 'Lovelace_Ada')]
     _per_author_lovelace_section("SOMERVILLE", som, N_cross, top_n=10)
 
     bab = df_cross[df_cross['source_name'].str.contains('Babbage') &
-                   df_cross['target_name'].str.contains('Lovelace')]
+                   (df_cross['target_author'] == 'Lovelace_Ada')]
     _per_author_lovelace_section("BABBAGE", bab, N_cross, top_n=10)
 
     ww = df_cross[df_cross['source_name'].str.contains('Whewell') &
-                  df_cross['target_name'].str.contains('Lovelace')]
+                  (df_cross['target_author'] == 'Lovelace_Ada')]
     _per_author_lovelace_section("WHEWELL", ww, N_cross, top_n=10)
 
     lk = df_cross[df_cross['source_name'].str.contains('Locke') &
-                  df_cross['target_name'].str.contains('Lovelace')]
+                  (df_cross['target_author'] == 'Lovelace_Ada')]
     _per_author_lovelace_section("LOCKE", lk, N_cross, top_n=10)
 
     gs = df_cross[df_cross['source_name'].str.contains('Goldsmith') &
-                  df_cross['target_name'].str.contains('Lovelace')]
+                  (df_cross['target_author'] == 'Lovelace_Ada')]
     _per_author_lovelace_section("GOLDSMITH", gs, N_cross, top_n=10)
 
     gw = df_cross[df_cross['source_name'].str.contains('Godwin') &
-                  df_cross['target_name'].str.contains('Lovelace')]
+                  (df_cross['target_author'] == 'Lovelace_Ada')]
     _per_author_lovelace_section("GODWIN", gw, N_cross, top_n=10)
 
     # Author-level summary table with per-signal medians
