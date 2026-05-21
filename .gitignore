@@ -96,3 +96,6 @@ projects/shelley-lovelace/splits_excluded_*/
 
 # Internal audit findings (not for distribution)
 examiner_audit_findings.md
+variant_collision_audit.md
+variant_collision_plan.md
+mary_lovelace_alignment_passages.md
