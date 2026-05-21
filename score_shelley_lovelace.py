@@ -140,6 +140,17 @@ def load_and_score():
     print(f"Pairs without SVM scores: {n_without:,}")
     df = df.dropna(subset=['svm_score'])
 
+    # Alignment-count lookup: how many TextPAIR alignment records each pair has.
+    # The `al_jac_dis` Jaccard distance already lives in combined_jaccard, but
+    # the raw number of aligned passages is useful for close reading and tables.
+    # Pairs with no alignment records get n_align=0 after the left join.
+    align_counts = pd.read_sql_query(
+        "SELECT pair_id, COUNT(*) AS n_align FROM alignments GROUP BY pair_id",
+        main_conn,
+    )
+    df = df.merge(align_counts, on='pair_id', how='left')
+    df['n_align'] = df['n_align'].fillna(0).astype(int)
+
     # Z-score normalize using ELTeC training parameters
     df['hap_z'] = (df['hap_jac_dis'] - MEANS['hap']) / STDS['hap']
     df['al_z']  = (df['al_jac_dis']  - MEANS['al'])  / STDS['al']
@@ -183,11 +194,67 @@ def rank_pairs(df, cross_author_only=True):
 
 
 def print_pair_row(row, N_cross, indent="  "):
-    """Standard formatter for printing a pair with all signals."""
+    """Standard formatter for printing a pair with all signals.
+
+    Two-line format used by the alignment and SVM overview sections. Includes
+    the full signal payload plus the raw TextPAIR alignment record count.
+    """
     print(f"{indent}rank {row['rank']:6d}/{N_cross}  p={row['prob']:.4f}  "
           f"al={row['al_jac_dis']:.4f}  hap={row['hap_jac_dis']:.4f}  "
-          f"svm={row['svm_score']:.4f}")
+          f"svm={row['svm_score']:.4f}  n_align={int(row['n_align']):>3}")
     print(f"{indent}    {row['source_name']} -> {row['target_name']}")
+
+
+def _per_author_lovelace_section(name, df_pairs, N_cross, top_n=None,
+                                  header_suffix=None, show_summary=True):
+    """Print a per-author detail section for cross-author pairs targeting Lovelace.
+
+    One unified format for every per-author section. Each row carries the full
+    signal payload (rank, p, hap, al, svm, n_align) so downstream thesis tables
+    can pull any column they need without re-running upstream pipeline stages.
+
+    Args:
+        name: Display name for the section header (e.g. "MARY SHELLEY").
+        df_pairs: Pre-filtered DataFrame of pairs (already filtered to author
+                  + Lovelace target), sorted by rank ascending.
+        N_cross: Total cross-author pair count (rank/percentile denominator).
+        top_n: If given, emit only the first N rows. If None, emit every row.
+        header_suffix: Optional parenthetical suffix for the section header
+                       (e.g. "(cross-author only)" for the ALL AUTHORS section).
+        show_summary: If True, append a "Best ... rank" summary line. Suppressed
+                      for the ALL AUTHORS section where per-author best is moot.
+    """
+    if len(df_pairs) == 0:
+        return
+    rows = df_pairs if top_n is None else df_pairs.head(top_n)
+
+    if top_n is None:
+        header = f"=== {name} -> LOVELACE PAIRS ({len(df_pairs)} pairs) ==="
+    else:
+        header = f"=== {name} -> LOVELACE, top {top_n}"
+        if header_suffix:
+            header += f" {header_suffix}"
+        header += " ==="
+
+    print(f"\n{'='*80}")
+    print(header)
+    print(f"=== Ranks against {N_cross:,} cross-author pairs ===")
+    print(f"{'='*80}\n")
+
+    for _, row in rows.iterrows():
+        print(f"  rank {row['rank']:6d}/{N_cross}  p={row['prob']:.4f}  "
+              f"hap={row['hap_jac_dis']:.6f}  al={row['al_jac_dis']:.6f}  "
+              f"svm={row['svm_score']:.4f}  n_align={int(row['n_align']):>3}  "
+              f"{row['source_name']} -> {row['target_name']}")
+
+    if show_summary:
+        best = df_pairs['rank'].min()
+        pct_top = best / N_cross * 100
+        pct_ile = (1 - best / N_cross) * 100
+        # Title-case "MARY SHELLEY" -> "Mary Shelley" for the summary sentence
+        print(f"\n  Best {name.title()} -> Lovelace rank: {best} "
+              f"(top {pct_top:.2f}%)")
+        print(f"  Percentile: {pct_ile:.2f}th")
 
 
 def main():
@@ -211,64 +278,49 @@ def main():
     for _, row in df_cross.head(25).iterrows():
         print(f"  {row['rank']:5d}. p={row['prob']:.4f}  {row['source_name']} -> {row['target_name']}")
 
-    # Mary Shelley -> Lovelace (cross-author by construction).
-    # Percy Shelley is in the corpus as a comparator and is intentionally
-    # excluded here — he and Mary are distinct authors.
+    # --- Per-author detail sections -------------------------------------
+    # Each section emits the full signal payload (hap, al, svm, n_align) so
+    # thesis tables can be regenerated from this output file without query-
+    # ing the DB. Percy Shelley is intentionally excluded -- he and Mary are
+    # distinct authors and his Lovelace-target pairs are not reported here.
+
+    # Mary Shelley -> Lovelace (every pair, cross-author by construction).
     sl = df_cross[df_cross['source_name'].str.contains('Shelley_Mary') &
                   df_cross['target_name'].str.contains('Lovelace')]
-    print(f"\n{'='*80}")
-    print(f"=== MARY SHELLEY -> LOVELACE PAIRS ({len(sl)} pairs) ===")
-    print(f"=== Ranks against {N_cross:,} cross-author pairs ===")
-    print(f"{'='*80}\n")
-    for _, row in sl.iterrows():
-        print(f"  rank {row['rank']:6d}/{N_cross}  p={row['prob']:.4f}  "
-              f"hap={row['hap_jac_dis']:.6f}  al={row['al_jac_dis']:.6f}  "
-              f"svm={row['svm_score']:.4f}  {row['source_name']} -> {row['target_name']}")
+    _per_author_lovelace_section("MARY SHELLEY", sl, N_cross)
 
-    if len(sl) > 0:
-        best = sl['rank'].min()
-        print(f"\n  Best rank: {best} of {N_cross} cross-author pairs (top {best/N_cross*100:.2f}%)")
-        print(f"  Percentile: {(1 - best/N_cross)*100:.2f}th")
-
-    # All authors -> Lovelace (top 20, cross-author only)
+    # All authors -> Lovelace (top 20, cross-author only).
     al_df = df_cross[df_cross['target_name'].str.contains('Lovelace')]
-    print(f"\n{'='*80}")
-    print(f"=== ALL AUTHORS -> LOVELACE, top 20 (cross-author only) ===")
-    print(f"=== Ranks against {N_cross:,} cross-author pairs ===")
-    print(f"{'='*80}\n")
-    for _, row in al_df.head(20).iterrows():
-        print(f"  rank {row['rank']:6d}/{N_cross}  p={row['prob']:.4f}  "
-              f"{row['source_name']} -> {row['target_name']}")
+    _per_author_lovelace_section(
+        "ALL AUTHORS", al_df, N_cross,
+        top_n=20, header_suffix="(cross-author only)", show_summary=False,
+    )
 
-    # Somerville -> Lovelace
+    # Per-author top-10 sections. Order roughly by historical/argument salience
+    # in the thesis: science-writing collaborators first, then literary controls.
     som = df_cross[df_cross['source_name'].str.contains('Somerville') &
                    df_cross['target_name'].str.contains('Lovelace')]
-    if len(som) > 0:
-        print(f"\n{'='*80}")
-        print(f"=== SOMERVILLE -> LOVELACE, top 10 ===")
-        print(f"=== Ranks against {N_cross:,} cross-author pairs ===")
-        print(f"{'='*80}\n")
-        for _, row in som.head(10).iterrows():
-            print(f"  rank {row['rank']:6d}/{N_cross}  p={row['prob']:.4f}  "
-                  f"{row['source_name']} -> {row['target_name']}")
-        best_som = som['rank'].min()
-        print(f"\n  Best Somerville -> Lovelace rank: {best_som} (top {best_som/N_cross*100:.2f}%)")
-        print(f"  Percentile: {(1 - best_som/N_cross)*100:.2f}th")
+    _per_author_lovelace_section("SOMERVILLE", som, N_cross, top_n=10)
 
-    # Babbage -> Lovelace
     bab = df_cross[df_cross['source_name'].str.contains('Babbage') &
                    df_cross['target_name'].str.contains('Lovelace')]
-    if len(bab) > 0:
-        print(f"\n{'='*80}")
-        print(f"=== BABBAGE -> LOVELACE, top 10 ===")
-        print(f"=== Ranks against {N_cross:,} cross-author pairs ===")
-        print(f"{'='*80}\n")
-        for _, row in bab.head(10).iterrows():
-            print(f"  rank {row['rank']:6d}/{N_cross}  p={row['prob']:.4f}  "
-                  f"{row['source_name']} -> {row['target_name']}")
-        best_bab = bab['rank'].min()
-        print(f"\n  Best Babbage -> Lovelace rank: {best_bab} (top {best_bab/N_cross*100:.2f}%)")
-        print(f"  Percentile: {(1 - best_bab/N_cross)*100:.2f}th")
+    _per_author_lovelace_section("BABBAGE", bab, N_cross, top_n=10)
+
+    ww = df_cross[df_cross['source_name'].str.contains('Whewell') &
+                  df_cross['target_name'].str.contains('Lovelace')]
+    _per_author_lovelace_section("WHEWELL", ww, N_cross, top_n=10)
+
+    lk = df_cross[df_cross['source_name'].str.contains('Locke') &
+                  df_cross['target_name'].str.contains('Lovelace')]
+    _per_author_lovelace_section("LOCKE", lk, N_cross, top_n=10)
+
+    gs = df_cross[df_cross['source_name'].str.contains('Goldsmith') &
+                  df_cross['target_name'].str.contains('Lovelace')]
+    _per_author_lovelace_section("GOLDSMITH", gs, N_cross, top_n=10)
+
+    gw = df_cross[df_cross['source_name'].str.contains('Godwin') &
+                  df_cross['target_name'].str.contains('Lovelace')]
+    _per_author_lovelace_section("GODWIN", gw, N_cross, top_n=10)
 
     # Author-level summary table with per-signal medians
     # Reveals which signal drives each author's connection: hapax (rare-vocab),
@@ -280,7 +332,8 @@ def main():
     print(f"=== (lower hap_dis = more shared rare vocab; lower al_dis = more shared phrases; higher svm = closer style match) ===")
     print(f"{'='*80}\n")
     header = (f"  {'Author':<20} {'Best rank':>10} {'Percentile':>11}  "
-              f"{'Top prob':>9}  {'Med hap':>8}  {'Med al':>8}  {'Med svm':>8}")
+              f"{'Top prob':>9}  {'Med hap':>8}  {'Med al':>8}  {'Med svm':>8}  "
+              f"{'N aligned':>9}")
     print(header)
     print("  " + "-" * (len(header) - 2))
     lovelace_targets = df_cross[df_cross['target_name'].str.contains('Lovelace')]
@@ -293,6 +346,10 @@ def main():
             med_hap=('hap_jac_dis', 'median'),
             med_al=('al_jac_dis', 'median'),
             med_svm=('svm_score', 'median'),
+            # n_aligned: count of this author's Lovelace-target pairs that have
+            # at least one TextPAIR alignment record. Surfaces which authors'
+            # signals include phrase-overlap vs pure vocabulary/style.
+            n_aligned=('n_align', lambda s: int((s > 0).sum())),
         )
         .sort_values('best_rank')
     )
@@ -300,7 +357,8 @@ def main():
         pct = (1 - row['best_rank'] / N_cross) * 100
         print(f"  {author:<20} {int(row['best_rank']):>10} {pct:>10.2f}th  "
               f"{row['top_prob']:>9.4f}  {row['med_hap']:>8.4f}  "
-              f"{row['med_al']:>8.4f}  {row['med_svm']:>8.4f}")
+              f"{row['med_al']:>8.4f}  {row['med_svm']:>8.4f}  "
+              f"{int(row['n_aligned']):>9}")
 
     # =================================================================
     # SEQUENCE ALIGNMENT FINDINGS
