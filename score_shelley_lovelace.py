@@ -34,6 +34,12 @@ import pandas as pd
 PROJECT = 'shelley-lovelace'
 OUTPUT_FILE = Path(f'./projects/{PROJECT}/results/score_shelley_lovelace_output.txt')
 
+# Both Lovelace_Ada (Notes + letters) and Menabrea_Lovelace (Lovelace's English
+# translation of Menabrea's article) are Lovelace-authored works in the corpus
+# inventory. extract_author() treats them as distinct strings, so any filter
+# that wants the corpus-inventory notion of "a Lovelace work" must use this set.
+LOVELACE_AUTHORS = {'Lovelace_Ada', 'Menabrea_Lovelace'}
+
 # ======================================================================
 # ELTeC GROUND TRUTH PARAMETERS (frozen -- do not modify)
 # ======================================================================
@@ -290,7 +296,16 @@ def main():
     _per_author_lovelace_section("MARY SHELLEY", sl, N_cross)
 
     # All authors -> Lovelace (top 20, cross-author only).
-    al_df = df_cross[df_cross['target_name'].str.contains('Lovelace')]
+    # NOTE: must exclude Lovelace_Ada and Menabrea_Lovelace as the *source*.
+    # extract_author() treats them as distinct authors, so a naive
+    # `target_name.str.contains('Lovelace')` filter wrongly admits pairs like
+    # Lovelace_Ada-Note_A -> Menabrea_Lovelace-translation. From the corpus
+    # inventory's perspective both endpoints are Lovelace works, and such pairs
+    # should not be counted as "cross-author influences on Lovelace".
+    al_df = df_cross[
+        df_cross['target_author'].isin(LOVELACE_AUTHORS)
+        & ~df_cross['source_author'].isin(LOVELACE_AUTHORS)
+    ]
     _per_author_lovelace_section(
         "ALL AUTHORS", al_df, N_cross,
         top_n=20, header_suffix="(cross-author only)", show_summary=False,
