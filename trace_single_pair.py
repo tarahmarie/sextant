@@ -507,14 +507,28 @@ def trace_sequence_alignments(main_conn, pair_info, project_name):
     print("=" * 70)
     
     cursor = main_conn.cursor()
-    
-    # Query the alignments table
+
+    # Query the alignments table by pair_id.
+    #
+    # IMPORTANT: do NOT filter by (source_filename, target_filename) here.
+    # The alignments table stores ~37% of rows with source/target orientation
+    # flipped relative to combined_jaccard's normalized (source_text,
+    # target_text) ordering. TextPAIR records the orientation it found the
+    # passage in; combined_jaccard normalizes to a canonical order. Filtering
+    # by filename matches the wrong half of the corpus.
+    #
+    # pair_id is the unambiguous key in both tables and is unique in
+    # alignments. We also pull back source_filename/target_filename so we can
+    # detect when an alignment is stored flipped and label the passages
+    # correctly to the reader.
     cursor.execute("""
-        SELECT source_passage, target_passage, length_source_passage, length_target_passage
+        SELECT source_passage, target_passage,
+               length_source_passage, length_target_passage,
+               source_filename, target_filename
         FROM alignments
-        WHERE source_filename = ? AND target_filename = ?
-    """, (pair_info['source_text'], pair_info['target_text']))
-    
+        WHERE pair_id = ?
+    """, (pair_info['pair_id'],))
+
     alignments = cursor.fetchall()
     
     if not alignments:
@@ -524,21 +538,48 @@ def trace_sequence_alignments(main_conn, pair_info, project_name):
         return []
     
     print(f"\nFound {len(alignments)} sequence alignment(s)!")
-    print("\n--- Aligned Passages ---")
-    
+    print("\n--- Aligned Passages (FULL TEXT) ---")
+
+    canonical_source_id = pair_info['source_text']
+    canonical_target_id = pair_info['target_text']
+
     for i, align in enumerate(alignments, 1):
-        print(f"\n  Alignment {i}:")
-        print(f"    Source ({pair_info['source_author_name']}): \"{align['source_passage'][:100]}...\"")
-        print(f"    Target ({pair_info['target_author_name']}): \"{align['target_passage'][:100]}...\"")
-        print(f"    Lengths: {align['length_source_passage']} / {align['length_target_passage']} words")
+        # Detect whether this alignment row is stored with the same
+        # orientation as combined_jaccard or flipped. If flipped, swap the
+        # passages back so the printed "Source" matches the canonical source.
+        flipped = (align['source_filename'] == canonical_target_id
+                   and align['target_filename'] == canonical_source_id)
+        if flipped:
+            src_passage = (align['target_passage'] or '').strip()
+            tgt_passage = (align['source_passage'] or '').strip()
+            src_len = align['length_target_passage']
+            tgt_len = align['length_source_passage']
+            flip_note = "  [stored flipped in DB; re-oriented for display]"
+        else:
+            src_passage = (align['source_passage'] or '').strip()
+            tgt_passage = (align['target_passage'] or '').strip()
+            src_len = align['length_source_passage']
+            tgt_len = align['length_target_passage']
+            flip_note = ""
+
+        print(f"\n  Alignment {i}  (lengths: {src_len} / {tgt_len} words){flip_note}")
+        print(f"\n  Source -- {pair_info['source_author_name']}  "
+              f"({pair_info['source_name']}):")
+        for line in src_passage.splitlines() or [src_passage]:
+            print(f"    {line}")
+        print(f"\n  Target -- {pair_info['target_author_name']}  "
+              f"({pair_info['target_name']}):")
+        for line in tgt_passage.splitlines() or [tgt_passage]:
+            print(f"    {line}")
     
-    # Show the Jaccard calculation for alignments
+    # Show the Jaccard calculation for alignments.
+    # Filter by pair_id for the same orientation-safety reason as above.
     cursor.execute("""
         SELECT al_jac_sim, al_jac_dis, source_total_words, target_total_words,
                length_source_passage, length_target_passage
         FROM alignments_jaccard
-        WHERE source_filename = ? AND target_filename = ?
-    """, (pair_info['source_text'], pair_info['target_text']))
+        WHERE pair_id = ?
+    """, (pair_info['pair_id'],))
     
     jac_data = cursor.fetchone()
     if jac_data:
@@ -557,8 +598,47 @@ def trace_sequence_alignments(main_conn, pair_info, project_name):
 
 def load_model_coefficients(project_name):
     """
-    Load the trained model coefficients from the results file.
+    Load model coefficients.
+
+    For shelley-lovelace, the CANONICAL thesis methodology uses ELTeC-frozen
+    weights (trained on the ELTeC-100 corpus, then applied unchanged to
+    shelley-lovelace). Those constants live in score_shelley_lovelace.py and
+    are the source of truth. We do NOT read influence_coefficients_shap_cv.csv
+    for shelley-lovelace because that file holds weights from a model trained
+    ON shelley-lovelace itself -- a different model that does not match the
+    thesis percentiles.
+
+    SHAP contribution percentages are still loaded from the project's CSV
+    because they are diagnostic rather than load-bearing for the score.
+
+    For any other project, fall back to the project's saved CSV.
     """
+    if project_name == 'shelley-lovelace':
+        try:
+            from score_shelley_lovelace import COEFS
+            coefficients = {
+                'hap_jac_dis': COEFS['hap'],
+                'al_jac_dis':  COEFS['al'],
+                'svm_score':   COEFS['svm'],
+            }
+            # SHAP percentages are diagnostic only; load from CSV if present.
+            shap_pct = None
+            csv_path = f"./projects/{project_name}/results/influence_coefficients_shap_cv.csv"
+            try:
+                df = pd.read_csv(csv_path)
+                shap_pct = {
+                    'hap_jac_dis': df[df['variable'] == 'hap_jac_dis']['shap_contribution_pct'].values[0],
+                    'al_jac_dis':  df[df['variable'] == 'al_jac_dis']['shap_contribution_pct'].values[0],
+                    'svm_score':   df[df['variable'] == 'svm_score']['shap_contribution_pct'].values[0],
+                }
+            except Exception:
+                pass
+            return coefficients, shap_pct
+        except ImportError as e:
+            print(f"  ⚠️  Could not import ELTeC frozen weights: {e}")
+            return None, None
+
+    # Non-shelley-lovelace projects: read the project's own CSV.
     coef_path = f"./projects/{project_name}/results/influence_coefficients_shap_cv.csv"
     try:
         df = pd.read_csv(coef_path)
@@ -580,9 +660,26 @@ def load_model_coefficients(project_name):
 
 def load_scaler_parameters(project_name):
     """
-    Load the saved scaler parameters (mean, std) from the results file.
-    Returns None if file doesn't exist (fall back to computing from DB).
+    Load scaler (mean, std) parameters.
+
+    For shelley-lovelace, use the ELTeC-frozen MEANS/STDS from
+    score_shelley_lovelace.py. These were fitted on the ELTeC training split
+    only and are the canonical standardization for the thesis pipeline.
+
+    For other projects, fall back to scaler_parameters.csv, or None to let
+    the caller compute approximate values from the database.
     """
+    if project_name == 'shelley-lovelace':
+        try:
+            from score_shelley_lovelace import MEANS, STDS
+            return {
+                'hap_jac_dis': {'mean': MEANS['hap'], 'std': STDS['hap']},
+                'al_jac_dis':  {'mean': MEANS['al'],  'std': STDS['al']},
+                'svm_score':   {'mean': MEANS['svm'], 'std': STDS['svm']},
+            }
+        except ImportError:
+            pass  # Fall through to CSV path
+
     scaler_path = f"./projects/{project_name}/results/scaler_parameters.csv"
     try:
         df = pd.read_csv(scaler_path)
@@ -602,9 +699,23 @@ def load_scaler_parameters(project_name):
 
 def load_model_intercept(project_name):
     """
-    Load the saved model intercept from the results file.
-    Returns None if file doesn't exist.
+    Load model intercept.
+
+    For shelley-lovelace, use the ELTeC-frozen INTERCEPT from
+    score_shelley_lovelace.py (the canonical thesis value, -4.207...). The
+    intercept stored in model_intercept.txt under projects/shelley-lovelace/
+    results/ comes from a DIFFERENT model trained on shelley-lovelace itself
+    and is NOT the thesis intercept.
+
+    For other projects, fall back to model_intercept.txt.
     """
+    if project_name == 'shelley-lovelace':
+        try:
+            from score_shelley_lovelace import INTERCEPT
+            return INTERCEPT
+        except ImportError:
+            pass  # Fall through to file path
+
     intercept_path = f"./projects/{project_name}/results/model_intercept.txt"
     try:
         with open(intercept_path, 'r') as f:
@@ -691,9 +802,13 @@ def trace_logistic_regression(main_conn, svm_conn, combined_data, svm_score, pro
     # Try to load saved scaler parameters first
     print("\n--- Standardization Parameters ---")
     scaling = load_scaler_parameters(project_name)
-    
+
     if scaling:
-        print("  ✓ Loaded from saved scaler_parameters.csv (exact training values)")
+        if project_name == 'shelley-lovelace':
+            print("  ✓ Using ELTeC-frozen MEANS/STDS from score_shelley_lovelace.py")
+            print("    (the canonical thesis standardization, fitted on ELTeC training split)")
+        else:
+            print("  ✓ Loaded from saved scaler_parameters.csv (exact training values)")
     else:
         print("  ⚠️  scaler_parameters.csv not found - computing from database (approximate)")
         print("     Run logistic_regression_shap_tt.py to generate exact parameters")
@@ -723,7 +838,10 @@ def trace_logistic_regression(main_conn, svm_conn, combined_data, svm_score, pro
     # Try to load saved intercept
     intercept = load_model_intercept(project_name)
     if intercept is not None:
-        print(f"  intercept = {intercept:.6f} (loaded from model_intercept.txt)")
+        if project_name == 'shelley-lovelace':
+            print(f"  intercept = {intercept:.6f} (ELTeC-frozen, from score_shelley_lovelace.py)")
+        else:
+            print(f"  intercept = {intercept:.6f} (loaded from model_intercept.txt)")
         intercept_source = "saved"
     else:
         # Estimate intercept based on class imbalance (~2.8% same-author)
@@ -743,7 +861,32 @@ def trace_logistic_regression(main_conn, svm_conn, combined_data, svm_score, pro
     
     log_odds = log_odds_no_intercept + intercept
     print(f"           = {log_odds:.4f}")
-    
+
+    # ------------------------------------------------------------------
+    # Per-pair contribution breakdown
+    # ------------------------------------------------------------------
+    # The SHAP panel below shows the AVERAGE contribution of each feature
+    # across the whole corpus. For a single pair, what we actually want is:
+    # "How much did EACH signal push THIS pair's score up or down?" The
+    # per-feature logit contribution (β × z) answers that directly.
+    contribs = {
+        'Hapax Legomena   ': coefficients['hap_jac_dis'] * hap_z,
+        'Sequence Alignment': coefficients['al_jac_dis']  * al_z,
+        'SVM Stylometry   ': coefficients['svm_score']   * svm_z,
+    }
+    total_abs = sum(abs(v) for v in contribs.values()) or 1.0  # guard div-by-zero
+    print(f"\n--- Per-Pair Contribution Breakdown ---")
+    print(f"  (How much each signal pushed THIS pair's logit up or down.)")
+    print(f"  {'Signal':<20} {'Logit Δ':>10}  {'|share|':>9}  Direction")
+    print(f"  {'-'*20} {'-'*10}  {'-'*9}  {'-'*9}")
+    for name, v in contribs.items():
+        share = abs(v) / total_abs * 100
+        arrow = '↑ raises p' if v > 0 else '↓ lowers p'
+        print(f"  {name:<20} {v:>+10.4f}  {share:>8.1f}%  {arrow}")
+    print(f"  {'-'*20} {'-'*10}  {'-'*9}")
+    print(f"  {'Intercept':<20} {intercept:>+10.4f}  {'':>8}   (baseline)")
+    print(f"  {'Final logit':<20} {log_odds:>+10.4f}")
+
     # Convert to probability using sigmoid function
     probability = 1 / (1 + np.exp(-log_odds))
     
@@ -765,11 +908,13 @@ def trace_logistic_regression(main_conn, svm_conn, combined_data, svm_score, pro
     print(f"    → Their writing is stylistically similar")
     print(f"    → This similarity MAY indicate literary influence")
     
-    print(f"\n--- SHAP Feature Contributions ---")
+    print(f"\n--- SHAP Feature Contributions (CORPUS-WIDE AVERAGES, not per-pair) ---")
     if shap_pct:
-        print(f"  Hapax Legomena:    {shap_pct['hap_jac_dis']:.1f}% of model signal")
-        print(f"  SVM Stylometry:    {shap_pct['svm_score']:.1f}% of model signal")
-        print(f"  Sequence Alignment: {shap_pct['al_jac_dis']:.1f}% of model signal")
+        print(f"  These are the average importance of each signal across all pairs.")
+        print(f"  For THIS pair's actual contribution, see the per-pair breakdown above.")
+        print(f"  Hapax Legomena:     {shap_pct['hap_jac_dis']:.1f}% of model signal (corpus-wide)")
+        print(f"  SVM Stylometry:     {shap_pct['svm_score']:.1f}% of model signal (corpus-wide)")
+        print(f"  Sequence Alignment: {shap_pct['al_jac_dis']:.1f}% of model signal (corpus-wide)")
     
     return probability
 
@@ -778,51 +923,126 @@ def trace_logistic_regression(main_conn, svm_conn, combined_data, svm_score, pro
 # STEP 6: PERCENTILE RANKING
 # ============================================================================
 
-def trace_percentile_ranking(main_conn, svm_conn, pair_info, combined_data):
+def trace_percentile_ranking(main_conn, svm_conn, pair_info, combined_data, project_name):
     """
     STEP 6: Show where this pair ranks among all cross-author pairs.
+
+    The CANONICAL ranking is the full-model percentile -- the same number the
+    thesis reports. It is computed by scoring every cross-author pair with the
+    frozen ELTeC logistic regression weights and ranking by probability.
+
+    The hapax-only ranking is retained as a secondary diagnostic: it shows
+    where this pair sits on the single strongest signal in isolation, which
+    is useful when comparing alignment-driven vs hapax-driven hits.
     """
     print("\n" + "=" * 70)
     print("STEP 6: PERCENTILE RANKING")
     print("=" * 70)
-    
-    # Count total cross-author pairs
+
+    # ------------------------------------------------------------------
+    # Full-model ranking (CANONICAL -- this is the thesis number)
+    # ------------------------------------------------------------------
+    # The scorer module is project-specific. For now it is wired to the
+    # shelley-lovelace project; other projects fall through to the hapax-
+    # only diagnostic below.
+    full_model_done = False
+    if project_name == 'shelley-lovelace':
+        print("\n--- Full-Model Ranking (canonical) ---")
+        print("  Scoring the full corpus with frozen ELTeC weights...")
+        print("  (~10-20 seconds on first call.)")
+        try:
+            # Lazy import so non-shelley-lovelace projects don't pay the cost.
+            from score_shelley_lovelace import load_and_score, rank_pairs
+
+            df = load_and_score()
+            df_cross = rank_pairs(df, cross_author_only=True)
+            N_cross = len(df_cross)
+
+            match = df_cross[df_cross['pair_id'] == pair_info['pair_id']]
+            if len(match) > 0:
+                row = match.iloc[0]
+                rank_int = int(row['rank'])
+                percentile = (1 - rank_int / N_cross) * 100
+                top_pct = rank_int / N_cross * 100
+
+                print(f"\n  Cross-author denominator:      {N_cross:,}")
+                print(f"  This pair's p (full model):    {row['prob']:.6f}")
+                print(f"  Rank:                          {rank_int:,} of {N_cross:,}")
+                print(f"  Percentile (higher = better):  {percentile:.4f}th")
+                print(f"  Top:                           {top_pct:.4f}%")
+
+                print(f"\n  Per-signal z-scores for this pair:")
+                print(f"    hap_z = {row['hap_z']:+.4f}")
+                print(f"    al_z  = {row['al_z']:+.4f}")
+                print(f"    svm_z = {row['svm_z']:+.4f}")
+                print(f"  TextPAIR alignments on this pair: {int(row['n_align'])}")
+                full_model_done = True
+            else:
+                # Pair might be same-author, or have lost its SVM score.
+                df_all = rank_pairs(df, cross_author_only=False)
+                match_all = df_all[df_all['pair_id'] == pair_info['pair_id']]
+                if len(match_all) > 0:
+                    row = match_all.iloc[0]
+                    sa_flag = '[same-author]' if row['is_same_author'] else '[cross]'
+                    print(f"\n  Pair found in ALL-PAIRS ranking but NOT in cross-author "
+                          f"ranking: {sa_flag}")
+                    print(f"  All-pairs rank:                {int(row['rank']):,} of "
+                          f"{len(df_all):,}")
+                    print(f"  p (full model):                {row['prob']:.6f}")
+                    if row['is_same_author']:
+                        print(f"\n  Note: same-author pairs are excluded from the")
+                        print(f"        cross-author influence-candidate denominator.")
+                    full_model_done = True
+                else:
+                    print(f"\n  pair_id {pair_info['pair_id']} not in scored output.")
+                    print(f"  Most likely cause: no SVM score available for this pair")
+                    print(f"  (dropped by load_and_score's dropna on svm_score).")
+        except ImportError as e:
+            print(f"\n  Could not import score_shelley_lovelace: {e}")
+        except Exception as e:
+            print(f"\n  Full-model ranking failed: {e}")
+            print(f"  Falling back to hapax-only diagnostic.")
+    else:
+        print(f"\n--- Full-Model Ranking ---")
+        print(f"  Full-model ranking is currently wired up for the shelley-lovelace")
+        print(f"  project only. Current project: {project_name}.")
+        print(f"  Hapax-only diagnostic below is still valid.")
+
+    # ------------------------------------------------------------------
+    # Hapax-only ranking (secondary diagnostic, always shown)
+    # ------------------------------------------------------------------
     cursor = main_conn.cursor()
     cursor.execute("""
-        SELECT COUNT(*) FROM combined_jaccard 
-        WHERE source_auth != target_auth 
+        SELECT COUNT(*) FROM combined_jaccard
+        WHERE source_auth != target_auth
           AND source_year <= target_year
     """)
     total_cross_author = cursor.fetchone()[0]
-    
-    print(f"\nTotal cross-author pairs (with temporal filter): {total_cross_author:,}")
-    
-    # For a simple ranking, use hapax distance (lower = more similar = better)
+
     hap_jac_dis = combined_data['hap_jac_dis']
-    
     cursor.execute("""
-        SELECT COUNT(*) FROM combined_jaccard 
-        WHERE source_auth != target_auth 
+        SELECT COUNT(*) FROM combined_jaccard
+        WHERE source_auth != target_auth
           AND source_year <= target_year
           AND hap_jac_dis < ?
     """, (hap_jac_dis,))
     pairs_more_similar = cursor.fetchone()[0]
-    
-    percentile = (1 - pairs_more_similar / total_cross_author) * 100
-    
-    print(f"\n--- Hapax-based Ranking ---")
-    print(f"  This pair's hap_jac_dis: {hap_jac_dis:.6f}")
-    print(f"  Pairs with LOWER distance (more similar): {pairs_more_similar:,}")
-    print(f"  Percentile (higher = more similar): {percentile:.2f}th")
-    
-    # Note about the full model ranking
-    print("\n--- Note on Full Model Ranking ---")
-    print("  The paper reports percentiles based on the full logistic regression model,")
-    print("  which combines all three signals. This requires loading the trained model")
-    print("  and computing probabilities for all ~5.8M cross-author pairs.")
-    print("  The reported percentile for Eliot→Lawrence is >99.99th percentile.")
-    
-    return percentile
+    hap_percentile = (1 - pairs_more_similar / total_cross_author) * 100
+
+    print(f"\n--- Hapax-Only Ranking (secondary diagnostic) ---")
+    print(f"  Total cross-author pairs (DB filter): {total_cross_author:,}")
+    print(f"  This pair's hap_jac_dis:              {hap_jac_dis:.6f}")
+    print(f"  Pairs with LOWER distance:            {pairs_more_similar:,}")
+    print(f"  Hapax-only percentile:                {hap_percentile:.2f}th")
+    if full_model_done:
+        print(f"\n  Note: the canonical rank is the full-model rank above. The")
+        print(f"        hapax-only number is shown so you can see how much of the")
+        print(f"        signal is being carried by the hapax channel alone.")
+    else:
+        print(f"\n  Note: full-model rank above unavailable; this hapax-only number")
+        print(f"        is an APPROXIMATE proxy, not the thesis percentile.")
+
+    return None
 
 
 # ============================================================================
@@ -888,8 +1108,8 @@ def trace_pair(source_author=None, source_chapter=None,
     # Step 5: Logistic regression
     probability = trace_logistic_regression(main_conn, svm_conn, combined_data, svm_score, project_name)
     
-    # Step 6: Percentile ranking
-    trace_percentile_ranking(main_conn, svm_conn, pair_info, combined_data)
+    # Step 6: Percentile ranking (full-model + hapax-only diagnostic)
+    trace_percentile_ranking(main_conn, svm_conn, pair_info, combined_data, project_name)
     
     # Summary
     print("\n" + "=" * 70)
