@@ -12,7 +12,7 @@ For documentation of the specific pipeline run that produced the thesis results,
 
 Sextant was built with the following principles in mind:
 
-- **Sustainability**: Classic ML methods produce a fraction of the carbon footprint of training a transformer. A full ELTeC validation run (5.9M chapter pairs, 76 authors) emits well under a gram of CO₂eq on a modern laptop. Every methodological choice favours computational efficiency.
+- **Sustainability**: Classic ML methods produce a fraction of the carbon footprint of training a transformer. A full ELTeC validation run (5.9M chapter pairs from 100 novels by 76 authors) emits well under a gram of CO₂eq on a modern laptop. Every methodological choice favours computational efficiency.
 - **Openness**: All outputs use open standard formats (SQLite, CSV, GraphML). No proprietary formats or vendor lock-in.
 - **Transparency**: Every calculation can be audited. The `trace_single_pair.py` script shows exactly how each prediction is made.
 - **Reproducibility**: Model parameters (coefficients, scaler values, intercepts) are saved to enable exact replication. Frozen weights from one corpus can be applied to another via `score_shelley_lovelace.py` (or a similar wrapper for your own corpus).
@@ -87,7 +87,7 @@ cd sextant
 poetry install
 ```
 
-The repository ships with `poetry.lock`; `poetry install` reproduces the exact dependency graph used for the v1.0-thesis run.
+The repository ships with `poetry.lock`; `poetry install` reproduces the exact dependency graph used to produce the thesis results.
 
 ### Required NLTK Data
 
@@ -101,7 +101,7 @@ poetry run python -c "import nltk; nltk.download('punkt_tab'); nltk.download('st
 
 Sextant depends on alignment files produced by TextPAIR (forked from ARTFL-Project for macOS bare-metal compatibility). See the companion repository:
 
-- https://github.com/tarahmarie/text-pair (branch `mac-bare-metal`, tag `v1.0-thesis`)
+- https://github.com/tarahmarie/text-pair (branch `mac-bare-metal`)
 
 Follow the macOS bare-metal installation instructions in that repository's README. TextPAIR runs as a separate command-line tool; Sextant consumes its output (`alignments.jsonl`).
 
@@ -109,9 +109,21 @@ Follow the macOS bare-metal installation instructions in that repository's READM
 
 ## Quick Start (ELTeC as Sample Corpus)
 
-This walkthrough uses the ELTeC-100 corpus (a benchmark collection of 100 nineteenth-century English-language novels) as a worked example. The full sequence runs end-to-end in roughly 25 minutes on a modern laptop and produces all model artefacts.
+This walkthrough assumes macOS: TextPAIR here is the mac-bare-metal fork, and the commands below include `sed -i ''`, `ulimit`, and `brew install lz4`. Linux users should adjust the shell-specific commands accordingly.
+
+This walkthrough uses the ELTeC-100 corpus (a benchmark collection of 100 nineteenth-century English-language novels by 76 authors) as a worked example. The full sequence runs end-to-end in roughly 22 minutes on a modern laptop (about 8 minutes for TextPAIR alignment generation plus about 14 minutes for the Sextant pipeline) and produces all model artefacts.
+
+### Before you start: getting the corpus
+
+- **ELTeC splits ship with this repository, by design.** Cloning gives you all 3,514 chapter files (100 novels by 76 authors) under `projects/eltec-100/splits/`. No separate download and no gutenberg-text-splitter run is needed for this walkthrough.
+- **ELTeC alignments do not ship** (the `alignments.jsonl` file is roughly 308 MB and is gitignored). You generate it yourself in Phase 1 below; the ELTeC run produces 103,959 pairwise alignments.
+- **The Shelley-Lovelace corpus is not public and does not ship with the repo.** Its splits contain restricted archival material and are gitignored, along with its alignments (the corpus-complete run produces 30,510) and databases. Reproducing the thesis Shelley-Lovelace results requires contacting the author to obtain the dataset; once the data is in hand, [THESIS_REPRODUCTION.md](THESIS_REPRODUCTION.md) documents the pipeline that processed it.
+
+For this walkthrough, `{project}` is `eltec-100`.
 
 ### Phase 1: TextPAIR Alignment Generation
+
+**Before running TextPAIR, in this same shell, run `ulimit -n` and confirm it returns at least 4096. A fresh terminal resets this, and a low limit silently truncates alignment output with no error.**
 
 Run from the `text-pair/` repository directory.
 
@@ -142,6 +154,8 @@ If the file count is lower than the count of XML files in the source tree, there
 ```bash
 sed -i '' 's|^source_file_path =.*|source_file_path = /absolute/path/to/text-pair/in-and-out/{project}_held|' my_config.ini
 ```
+
+Note: `sed -i ''` is macOS/BSD syntax. On Linux, use `sed -i` (no empty-string argument).
 
 The path must be absolute. TextPAIR will fail with `FileNotFoundError: [Errno 2] No such file or directory: ''` if `source_file_path` is empty.
 
@@ -180,6 +194,8 @@ lz4 -d /tmp/textpair-{project}-out/results/alignments.jsonl.lz4 \
        ../sextant/projects/{project}/alignments/alignments.jsonl
 ```
 
+For scale, and as a sanity check on your own output: the ELTeC run produces 103,959 pairwise alignments (about 308 MB decompressed); the corpus-complete Shelley-Lovelace run produces 30,510. If your line count is dramatically lower than expected for the corpus you ran, suspect the `ulimit` hazard flagged at the top of this phase.
+
 ### Phase 2: Sextant Pipeline
 
 Run from the `sextant/` repository directory.
@@ -190,7 +206,7 @@ Run from the `sextant/` repository directory.
 ./begin.sh
 ```
 
-Answer the prompts to select project name and alignments file. When asked "Did you want to run everything again? (y/n)", answer **n** to write `.current_project` and `.alignments_file_name` without firing the pipeline. The carbon-tracked wrapper will run those nine stages itself.
+Answer the prompts to select project name and alignments file. When asked "Did you want to run everything again? (y/n)", answer **n** to write `.current_project` and `.alignments_file_name` without firing the pipeline. The carbon-tracked wrapper will run those ten stages itself.
 
 #### 2.2 Run the carbon-tracked pipeline
 
@@ -198,7 +214,7 @@ Answer the prompts to select project name and alignments file. When asked "Did y
 SEXTANT_COUNTRY_ISO=GBR SEXTANT_CPU_TDP_WATTS=30 poetry run python carbon_run.py
 ```
 
-`carbon_run.py` runs the same nine pipeline stages as `begin.sh` (init_db → load_authors_and_texts → load_alignments → load_hapaxes → load_hapax_intersects → load_relationships → load_jaccard → do_svm → logistic_regression), wrapped in a single CodeCarbon `OfflineEmissionsTracker` context.
+`carbon_run.py` runs the same ten stages as `begin.sh` (init_db → load_authors_and_texts → load_alignments → nltk_data_download → load_hapaxes → load_hapax_intersects → load_relationships → load_jaccard → do_svm → logistic_regression), wrapped in a single CodeCarbon `OfflineEmissionsTracker` context. That is nine pipeline scripts plus one discrete NLTK data-download stage; the NLTK data downloads automatically on first run and the stage is a fast no-op when the data is already present.
 
 Configuration:
 - `SEXTANT_COUNTRY_ISO=GBR` selects the UK grid intensity profile. Default is GBR; override for non-UK reproductions.
@@ -206,7 +222,7 @@ Configuration:
 
 The 500-word minimum filter is applied at the load_authors_and_texts stage. Chapters below 500 words are skipped from the analysis because hapax legomena and TF-IDF stylometric signals require sufficient text length to stabilise. The exclusion rate depends on corpus composition: ELTeC has long novels with chapter divisions and exclusions are typically under 2%; corpora composed of letters, short essays, or subdivided philosophical works see higher exclusion rates.
 
-For ELTeC, expect roughly 14 minutes wall-clock for the full nine-stage Sextant pipeline.
+For ELTeC, expect roughly 14 minutes wall-clock for the full ten-stage Sextant pipeline.
 
 Outputs written to `projects/{project}/results/`:
 
@@ -321,7 +337,7 @@ Exports the influence network to GraphML format for use in Cytoscape Desktop, Ge
 ### `visualize_influence_network.py`
 Creates standalone interactive HTML network visualisations. Standalone files; no server, no Jupyter, no installation. Open in any browser.
 
-Note: the `py4cytoscape` and `ipycytoscape` Python integrations were removed from this fork's dependencies as of v1.0-thesis. Cytoscape Desktop integration via the GraphML export remains supported and is the recommended path for desktop visualisation.
+Note: the `py4cytoscape` and `ipycytoscape` Python integrations were removed from this fork's dependencies in the current version. Cytoscape Desktop integration via the GraphML export remains supported and is the recommended path for desktop visualisation.
 
 ---
 
@@ -383,6 +399,10 @@ The trace script:
 4. Shows coefficient multiplication step-by-step
 5. Confirms stored values match computed values
 
+### Alignment direction is assigned at scoring time
+
+The raw `alignments` table stores `source`/`target` in TextPAIR's own file-processing order, which is not the influence direction. Sextant assigns direction at scoring time (source = earlier-published text, target = later-published text) in the `combined_jaccard` table. To count or inspect alignments for a given directed pair, join through `combined_jaccard` for source/target identity rather than reading the raw `alignments` columns; querying the raw table directly can return the wrong count or the reversed direction.
+
 ### Export for External Verification
 
 All results can be exported for analysis in other tools:
@@ -392,13 +412,13 @@ All results can be exported for analysis in other tools:
 
 ### Three-Repository Reproducibility Chain
 
-A complete reproduction of the v1.0-thesis run requires three companion repositories at their tagged versions:
+A complete reproduction uses three companion repositories:
 
-- `gutenberg-text-splitter` v1.0-thesis: Gutenberg ingestion and ELTeC pattern splitting
-- `text-pair` v1.0-thesis (mac-bare-metal branch): sequence alignment generation
-- `sextant` v1.0-thesis: corpus assembly, modelling, and analysis
+- `gutenberg-text-splitter`: Gutenberg ingestion and ELTeC pattern splitting. Not required for the ELTeC walkthrough, since the ELTeC splits already ship in this repo; needed only if you are splitting a corpus of your own.
+- `text-pair` (mac-bare-metal branch): sequence alignment generation.
+- `sextant`: corpus assembly, modelling, and analysis.
 
-For the specific commands and parameters that produced the thesis-target results, see [THESIS_REPRODUCTION.md](THESIS_REPRODUCTION.md).
+For the specific commands and parameters that produced the thesis results, see [THESIS_REPRODUCTION.md](THESIS_REPRODUCTION.md).
 
 ---
 
