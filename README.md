@@ -374,6 +374,37 @@ All output files use **open, non-proprietary formats**.
 
 ---
 
+## Language Profiles
+
+All language-dependent text processing (tokenisation, stopwords,
+lemmatisation, character handling) is defined in one place per language:
+[`language_profiles.py`](language_profiles.py). Three code paths consume a
+profile — `extract_hapaxes.py`, `hapaxes_1tM.py`, and `do_svm.py` — so a
+language is defined exactly once, not scattered across conditionals.
+
+- **Selection is per project, not per run.** `projects/{name}/language`
+  contains the profile code (`en` or `fr`); optional override lines such as
+  `lemmatiser=simplemma` make parameter choices visible in config. A missing
+  file means `en`, so existing projects are untouched.
+- **The `en` profile freezes the pre-refactor English behaviour exactly,
+  quirks included**, because the English outputs are thesis results.
+  `equivalence_harness.py` proves this: `capture` was run at the pre-refactor
+  commit over every file in `projects/*/splits`, and `verify` asserts
+  byte-identical token streams from the refactored code
+  (`python3 equivalence_harness.py verify`).
+- **The `fr` profile's decisions** (leading-elision splitting with a closed
+  clitic set, explicit œ/æ ligature mapping, NLTK French stopwords, no
+  lemmatisation by default) are documented with their reasoning in the
+  `language_profiles.py` module docstring. French validation cases live in
+  `projects/eltec-fra/validation_cases.json`.
+- **Staging a French corpus:** `python3 stage_eltec.py <level1-dir>
+  <project>` converts ELTeC level-1 TEI into the splits convention. The
+  matching TextPAIR configuration is `my_config_fra.ini` in the text-pair
+  fork (identical to the English thesis config except `language = french`
+  and the source path).
+
+---
+
 ## Auditing & Reproducibility
 
 Sextant is designed for full transparency and reproducibility. *No black boxes.*
