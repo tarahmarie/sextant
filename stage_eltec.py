@@ -92,12 +92,24 @@ def stage_file(xml_path, splits_dir):
 
     author_el = root.find('.//t:titleStmt/t:author', NS)
     title_el = root.find('.//t:titleStmt/t:title', NS)
-    author = (author_el.text or '').strip()
+    full_name = (author_el.text or '').strip()
+    if not full_name:
+        # Some files encode the author as structured <persName> children
+        # (e.g. FRA00101) instead of flat text; flatten them.
+        full_name = re.sub(r'\s+', ' ', ' '.join(author_el.itertext())).strip()
     title = re.sub(r'\s*:\s*édition ELTeC\s*$', '', (title_el.text or '').strip())
     year = first_edition_year(root)
 
     stem = os.path.basename(xml_path).replace('.xml', '')      # FRA00501_Balzac
     corpus_id, _, surname = stem.partition('_')
+
+    # sextant's tei.extract_author takes everything before the first comma as
+    # the author identity. The ELTeC filename key is used as that field
+    # because it is unique per author BY DESIGN (GautierJ vs GautierT are
+    # different people; surname alone would merge them), always present, and
+    # ASCII. The full ELTeC name is kept after the comma for readability.
+    author = f'{surname}, {full_name}' if full_name else f'{surname}, {surname}'
+
     surname = surname.replace('-', '')                          # Viel-Castel -> VielCastel
     dirname = f'{year}-{corpus_id}—{surname}'
 

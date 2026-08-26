@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Les Nuits chaudes du Cap français</title><author>Rebell, Hugues (1867-1905)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1902</date></publicationStmt></teiHeader><text><body><div type="chapter" n="1">
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Les Nuits chaudes du Cap français</title><author>Rebell, Rebell, Hugues (1867-1905)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1902</date></publicationStmt></teiHeader><text><body><div type="chapter" n="1">
 LIVRE PREMIER 
 
  LA VENGEANCE D'UN INCONNU 

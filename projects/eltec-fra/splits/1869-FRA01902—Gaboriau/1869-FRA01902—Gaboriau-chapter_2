@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Monsieur Lecoq</title><author>Gaboriau, Émile (1832-1873)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1869</date></publicationStmt></teiHeader><text><body><div type="chapter" n="2">
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Monsieur Lecoq</title><author>Gaboriau, Gaboriau, Émile (1832-1873)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1869</date></publicationStmt></teiHeader><text><body><div type="chapter" n="2">
 Chapitre 2 
  L'agent auquel Gévrol abandonnait une information qu'il jugeait inutile, était un débutant dans « la partie. » 
  Il s'appelait Lecoq. 
