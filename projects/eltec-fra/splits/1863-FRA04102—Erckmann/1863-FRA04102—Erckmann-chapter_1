@@ -1,0 +1,11 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Madame Thérèse, ou les volontaires de 92</title><author>Erckmann, Émile (1822-1899)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1863</date></publicationStmt></teiHeader><text><body><div type="chapter" n="1">
+Erckmann-Chatrian 
+ MADAME THÉRÈSE 
+ OU 
+ LES VOLONTAIRES DE 92 
+ suivi de 
+ POURQUOI HUNEBOURG 
+ NE FUT PAS RENDU 
+ (1863) 
+ MADAME THÉRÈSE -- ou -- LES VOLONTAIRES DE 92
+</div></body></text></TEI>

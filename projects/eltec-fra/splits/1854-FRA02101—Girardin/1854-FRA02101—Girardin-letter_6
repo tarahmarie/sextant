@@ -1,0 +1,5 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Marguerite, ou Deux amours</title><author>Girardin, Delphine de [Delphine Gay] (1804-1855)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1854</date></publicationStmt></teiHeader><text><body><div type="letter" n="6">
+« Madame, 
+ » Un malheur affreux vient de frapper M. le comte. Hier, à la chasse, son fils Étienne a péri victime d'une imprudence. 
+ » Son fusil a parti comme il sautait un fossé ; on l'a trouvé mort dans le bois. M. le comte ignore encore cet accident. Je vous en supplie, madame, venez m'aider à l'annoncer à ce malheureux père. »
+</div></body></text></TEI>

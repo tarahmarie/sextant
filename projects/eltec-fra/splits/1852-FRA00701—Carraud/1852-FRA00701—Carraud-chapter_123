@@ -1,0 +1,11 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="123">
+Pierre guérit, puis retombe malade. 
+ Pierre guérit au bout de trois mois. Quand la plaie fut fermée, M. le curé lui dit : 
+ « Maintenant, mon ami, il ne faut plus penser à cultiver la terre, cherchez un autre moyen de gagner votre vie. 
+ — Que voulez-vous donc que je fasse, monsieur le curé ? 
+ — Apprenez un état qui ne fatigue pas vos jambes. 
+ — Mais j'ai vingt-cinq ans ; et il est bien dur à mon âge d'entrer en apprentissage. 
+ — Il serait encore plus dur d'aller mendier, mon cher ; le mal ne se fait jamais, en ce monde, que la punition ne le suive tôt ou tard. Vous avez manqué de confiance en Dieu et en votre mère, qui représentait pour vous sa providence sur la terre, et vous voilà incapable de travailler comme tout le monde. Il n'y a donc pas à murmurer, puisque vous êtes l'auteur de votre mal ; et, quoique vous soyez guéri, rappelez-vous que vous ne vous servirez jamais de vos jambes comme vous le faisiez auparavant sans qu'elles redeviennent malades.» 
+ Quand M. le curé fut sorti, Marguerite dit à Pierre : 
+ « Bah ! M. le curé dit ça ; mais tu peux bien aller à la charrue, à présent que tu n'as plus de mal.»
+</div></body></text></TEI>

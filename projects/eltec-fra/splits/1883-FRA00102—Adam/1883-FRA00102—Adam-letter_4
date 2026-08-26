@@ -1,0 +1,4 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Païenne</title><author>Adam, Juliette (1836-1936)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1883</date></publicationStmt></teiHeader><text><body><div type="letter" n="4">
+GARDANNE À MADAME DE NOVES 
+ Malgré ce qu'il recèle d'ironie, j'accepte l'échange avec gratitude, comme tout ce qui me vient de vous, cruelle. Si je mets des larmes dans les yeux de l'amant de Laure, c'est que je n'y puis mettre une espérance. J'attends le coucher de soleil. M'autorisez-vous à le traduire en tableau, à le peindre, et à vous l'offrir, s'il est digne de la description ?
+</div></body></text></TEI>

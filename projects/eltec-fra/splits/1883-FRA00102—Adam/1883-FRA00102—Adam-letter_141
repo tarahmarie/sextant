@@ -1,0 +1,4 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Païenne</title><author>Adam, Juliette (1836-1936)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1883</date></publicationStmt></teiHeader><text><body><div type="letter" n="141">
+À TIBURCE 
+ Je reçois une dépêche de mon père et j'apprends la mort de M. de Noves, tué en duel. Apollon est-il dieu ? Serai-je ta femme ?
+</div></body></text></TEI>

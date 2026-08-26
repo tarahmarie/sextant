@@ -1,0 +1,300 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Bel-Ami</title><author>Maupassant, Guy de (1850-1893)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1885</date></publicationStmt></teiHeader><text><body><div type="chapter" n="13">
+-- V -- 
+ L'automne était venu. Les Du Roy avaient passé à Paris tout l'été, menant une campagne énergique dans La Vie Française en faveur du nouveau cabinet pendant les courtes vacances des députés. 
+ Quoiqu'on fût seulement dans les premiers jours d'octobre, les Chambres allaient reprendre leurs séances, car les affaires du Maroc devenaient menaçantes. 
+ Personne, au fond, ne croyait à une expédition vers Tanger, bien que, le jour de la séparation du Parlement, un député de la droite, le comte de Lambert-Sarrazin, dans un discours plein d'esprit, applaudi même par les centres, eût offert de parier et de donner en gage sa moustache, comme avait fait jadis un célèbre vice-roi des Indes, contre les favoris du chef du Conseil, que le nouveau cabinet ne se pourrait tenir d'imiter l'ancien et d'envoyer une armée à Tanger, en pendant à celle de Tunis, par amour de la symétrie, comme on met deux vases sur une cheminée. Il avait ajouté : « La terre d'Afrique est en effet une cheminée pour la France, messieurs, une cheminée qui brûle notre meilleur bois, une cheminée à grand tirage qu'on allume avec le papier de la Banque. » 
+ « Vous vous êtes offert la fantaisie artiste d'orner l'angle de gauche d'un bibelot tunisien qui vous coûte cher, vous verrez que M. Marrot va vouloir imiter son prédécesseur et orner l'angle de droite avec un bibelot marocain. » 
+ Ce discours, demeuré célèbre, avait servi de thème à Du Roy pour dix articles sur la colonie algérienne, pour toute sa série interrompue lors de ses débuts au journal, et il avait soutenu énergiquement l'idée d'une expédition militaire, bien qu'il fût convaincu qu'elle n'aurait pas lieu. Il avait fait vibrer la corde patriotique et bombardé l'Espagne avec tout l'arsenal d'arguments méprisants qu'on emploie contre les peuples dont les intérêts sont contraires aux vôtres. 
+ La Vie Française avait gagné une importance considérable à ses attaches connues avec le pouvoir. Elle donnait, avant les feuilles les plus sérieuses, les nouvelles politiques, indiquait par des nuances les intentions des ministres, ses amis ; et tous les journaux de Paris et de la province cherchaient chez elle leurs informations. On la citait, on la redoutait, on commençait à la respecter. Ce n'était plus l'organe suspect d'un groupe de tripoteurs politiques, mais l'organe avoué du cabinet. Laroche-Mathieu était l'âme du journal et Du Roy son porte-voix. Le père Walter, député muet et directeur cauteleux, sachant s'effacer, s'occupait dans l'ombre, disait-on, d'une grosse affaire de mines de cuivre, au Maroc. 
+ Le salon de Madeleine était devenu un centre influent, où se réunissaient chaque semaine plusieurs membres du cabinet. Le président du Conseil avait même dîné deux fois chez elle ; et les femmes des hommes d'État, qui hésitaient autrefois à franchir sa porte, se vantaient à présent d'être ses amies, lui faisant plus de visites qu'elles n'en recevaient d'elle. 
+ Le ministre des Affaires étrangères régnait presque en maître dans la maison. Il y venait à toute heure, apportant des dépêches, des renseignements, des informations qu'il dictait soit au mari, soit à la femme, comme s'ils eussent été ses secrétaires. 
+ Quand Du Roy, après le départ du ministre, demeurait seul en face de Madeleine, il s'emportait, avec des menaces dans la voix, et des insinuations perfides dans les paroles, contre les allures de ce médiocre parvenu. 
+ Mais elle haussait les épaules avec mépris, répétant : 
+ « Fais-en autant que lui, toi. Deviens ministre ; et tu pourras faire ta tête. Jusque-là, tais-toi. » 
+ Il frisait sa moustache en la regardant de côté. 
+ « On ne sait pas de quoi je suis capable, disait-il, on l'apprendra peut-être, un jour. » 
+ Elle répondait avec philosophie : 
+ « Qui vivra, verra. » 
+ 
+ Le matin de la rentrée des Chambres, la jeune femme, encore au lit, faisait mille recommandations à son mari, qui s'habillait afin d'aller déjeuner chez M. Laroche-Mathieu et de recevoir ses instructions avant la séance, pour l'article politique du lendemain dans La Vie Française, cet article devant être une sorte de déclaration officieuse des projets réels du cabinet. 
+ Madeleine disait : 
+ « Surtout n'oublie pas de lui demander si le général Belloncle est envoyé à Oran, comme il en est question. Cela aurait une grande signification. » 
+ Georges, nerveux, répondit : 
+ « Mais je sais aussi bien que toi ce que j'ai à faire. Fiche-moi la paix avec tes rabâchages. » 
+ Elle reprit tranquillement : 
+ « Mon cher, tu oublies toujours la moitié des commissions dont je te charge pour le ministre. » 
+ Il grogna : 
+ « Il m'embête, ton ministre, à la fin ! C'est un serin. » 
+ Elle dit avec calme : 
+ « Ce n'est pas plus mon ministre que le tien. Il t'est plus utile qu'à moi. » 
+ Il s'était tourné un peu vers elle en ricanant : 
+ « Pardon, il ne me fait pas la cour, à moi. » 
+ Elle déclara, lentement : 
+ « À moi non plus, d'ailleurs ; mais il fait notre fortune. » 
+ Il se tut, puis après quelques instants : 
+ « Si j'avais à choisir parmi tes adorateurs, j'aimerais encore mieux cette vieille ganache de Vaudrec. Qu'est-ce qu'il devient, celui-là ? je ne l'ai pas vu depuis huit jours. » 
+ Elle répliqua, sans s'émouvoir : 
+ « Il est souffrant, il m'a écrit qu'il gardait même le lit avec une attaque de goutte. Tu devrais passer prendre de ses nouvelles. Tu sais qu'il t'aime beaucoup, et cela lui ferait plaisir. » 
+ Georges répondit : 
+ « Oui, certainement, j'irai tantôt. » 
+ Il avait achevé sa toilette, et, son chapeau sur la tête, il cherchait s'il n'avait rien négligé. N'ayant rien trouvé, il s'approcha du lit, embrassa sa femme sur le front : « À tantôt, ma chérie, je ne serai pas rentré avant sept heures au plus tôt. » 
+ Et il sortit. M. Laroche-Mathieu l'attendait, car il déjeunait à dix heures ce jour-là, le conseil devant se réunir à midi, avant la réouverture du Parlement. 
+ Dès qu'ils furent à table, seuls avec le secrétaire particulier du ministre, Mme Laroche-Mathieu n'ayant pas voulu changer l'heure de son repas, Du Roy parla de son article, il en indiqua la ligne, consultant ses notes griffonnées sur des cartes de visite ; puis quand il eut fini : « Voyez-vous quelque chose à modifier, mon cher ministre ? 
+ — Fort peu, mon cher ami. Vous êtes peut-être un peu trop affirmatif dans l'affaire du Maroc. Parlez de l'expédition comme si elle devait avoir lieu, mais en laissant bien entendre qu'elle n'aura pas lieu et que vous n'y croyez pas le moins du monde. Faites que le public lise bien entre les lignes que nous n'irons pas nous fourrer dans cette aventure. 
+ — Parfaitement. J'ai compris, et je me ferai bien comprendre. Ma femme m'a chargé de vous demander à ce sujet si le général Belloncle serait envoyé à Oran. Après ce que vous venez de dire, je conclus que non. » 
+ L'homme d'État répondit : 
+ « Non. » 
+ Puis on causa de la session qui s'ouvrait. Laroche-Mathieu se mit à pérorer, préparant l'effet des phrases qu'il allait répandre sur ses collègues quelques heures plus tard. Il agitait sa main droite, levant en l'air tantôt sa fourchette, tantôt son couteau, tantôt une bouchée de pain, et sans regarder personne, s'adressant à l'Assemblée invisible, il expectorait son éloquence liquoreuse de beau garçon bien coiffé. Une très petite moustache roulée redressait sur sa lèvre deux pointes pareilles à des queues de scorpion, et ses cheveux huilés de brillantine, séparés au milieu du front, arrondissaient sur ses tempes deux bandeaux de bellâtre provincial. Il était un peu trop gras, un peu bouffi, bien que jeune ; le ventre tendait son gilet. Le secrétaire particulier mangeait et buvait tranquillement, accoutumé sans doute à ses douches de faconde ; mais Du Roy, que la jalousie du succès obtenu mordait au cœur, songeait : « Va donc, ganache ! Quels crétins que ces hommes politiques ! » 
+ Et, comparant sa valeur à lui, à l'importance bavarde de ce ministre, il se disait : « Cristi, si j'avais seulement cent mille francs nets pour me présenter à la députation dans mon beau pays de Rouen, pour rouler dans la pâte de leur grosse malice mes braves Normands finauds et lourdauds, quel homme d'État je ferais, à côté de ces polissons imprévoyants. » 
+ Jusqu'au café, M. Laroche-Mathieu parla, puis, ayant vu qu'il était tard, il sonna pour qu'on fit avancer son coupé, et, tendant la main au journaliste : « C'est bien compris, mon cher ami ? 
+ — Parfaitement, mon cher ministre, comptez sur moi. » 
+ Et Du Roy s'en alla tout doucement vers le journal, pour commencer son article, car il n'avait rien à faire jusqu'à quatre heures. À quatre heures, il devait retrouver, rue de Constantinople, Mme de Marelle qu'il y voyait toujours régulièrement deux fois par semaine, le lundi et le vendredi. 
+ Mais en rentrant de la rédaction, on lui remit une dépêche fermée ; elle était de Mme Walter, et disait : « Il faut absolument que je te parle aujourd'hui. C'est très grave, très grave. Attends-moi à deux heures, rue de Constantinople. Je peux te rendre un grand service. 
+ « Ton amie jusqu'à la mort, 
+ « VIRGINIE. » 
+ Il jura : « Nom de Dieu ! quel crampon. » Et, saisi par un excès de mauvaise humeur, il ressortit aussitôt, trop irrité pour travailler. 
+ Depuis six semaines il essayait de rompre avec elle sans parvenir à lasser son attachement acharné. 
+ Elle avait eu, après sa chute, un accès de remords épouvantable, et, dans trois rendez-vous successifs, avait accablé son amant de reproches et de malédictions. Ennuyé de ces scènes, et déjà rassasié de cette femme mûre et dramatique, il s'était simplement éloigné, espérant que l'aventure serait finie de cette façon. Mais alors elle s'était accrochée à lui éperdument, se jetant dans cet amour comme on se jette dans une rivière avec une pierre au cou. Il s'était laissé reprendre, par faiblesse, par complaisance, par égards ; et elle l'avait emprisonné dans une passion effrénée et fatigante, elle l'avait persécuté de sa tendresse. 
+ Elle voulait le voir tous les jours, l'appelait à tout moment par des télégrammes, pour des rencontres rapides au coin des rues, dans un magasin, dans un jardin public. 
+ Elle lui répétait alors, en quelques phrases, toujours les mêmes, qu'elle l'adorait et l'idolâtrait, puis elle le quittait en lui jurant « qu'elle était bien heureuse de l'avoir vu ». 
+ Elle se montrait tout autre qu'il ne l'avait rêvée, essayant de le séduire avec des grâces puériles, des enfantillages d'amour ridicules à son âge. Étant demeurée jusque-là strictement honnête, vierge de cœur, fermée à tout sentiment, ignorante de toute sensualité, ça avait été tout d'un coup chez cette femme sage dont la quarantaine tranquille semblait un automne pâle après un été froid, ça avait été une sorte de printemps fané, plein de petites fleurs mal sorties et de bourgeons avortés, une étrange éclosion d'amour de fillette, d'amour tardif ardent et naïf, fait d'élans imprévus, de petits cris de seize ans, de cajoleries embarrassantes, de grâces vieillies sans avoir été jeunes. Elle lui écrivait dix lettres en un jour, des lettres niaisement folles, d'un style bizarre, poétique et risible, orné comme celui des Indiens, plein de noms de bêtes et d'oiseaux. 
+ Dès qu'ils étaient seuls, elle l'embrassait avec des gentillesses lourdes de grosse gamine, des moues de lèvres un peu grotesques, des sauteries qui secouaient sa poitrine trop pesante sous l'étoffe du corsage. Il était surtout écœuré de l'entendre dire « Mon rat », « Mon chien », « Mon chat », « Mon bijou », « Mon oiseau bleu », « Mon trésor », et de la voir s'offrir à lui chaque fois avec une petite comédie de pudeur enfantine, de petits mouvements de crainte qu'elle jugeait gentils, et de petits jeux de pensionnaire dépravée. 
+ Elle demandait : « À qui cette bouche-là ? » Et quand il ne répondait pas tout de suite : « C'est à moi », -- elle insistait jusqu'à le faire pâlir d'énervement. 
+ Elle aurait dû sentir, lui semblait-il, qu'il faut, en amour, un tact, une adresse, une prudence et une justesse extrêmes, que s'étant donnée à lui, elle mûre, mère de famille, femme du monde, elle devait se livrer gravement, avec une sorte d'emportement contenu, sévère, avec des larmes peut-être, mais avec les larmes de Didon, non plus avec celles de Juliette. 
+ Elle lui répétait sans cesse : 
+ « Comme je t'aime, mon petit ! M'aimes-tu autant, dis, mon bébé ? » 
+ Il ne pouvait plus l'entendre prononcer « mon petit « ni « mon bébé « sans avoir envie de l'appeler « ma vieille ». 
+ Elle lui disait : 
+ « Quelle folie j'ai faite de te céder. Mais je ne le regrette pas. C'est si bon d'aimer. » 
+ Tout cela semblait à Georges irritant dans cette bouche. Elle murmurait : « C'est si bon d'aimer « comme l'aurait fait une ingénue, au théâtre. 
+ Et puis elle l'exaspérait par la maladresse de sa caresse. Devenue soudain sensuelle sous le baiser de ce beau garçon qui avait si fort allumé son sang, elle apportait dans son étreinte une ardeur inhabile et une application sérieuse qui donnaient à rire à Du Roy et le faisaient songer aux vieillards qui essaient d'apprendre à lire. 
+ Et quand elle aurait dû le meurtrir dans ses bras, en le regardant ardemment de cet œil profond et terrible qu'ont certaines femmes défraîchies, superbes en leur dernier amour, quand elle aurait dû le mordre de sa bouche muette et frissonnante en l'écrasant sous sa chair épaisse et chaude, fatiguée mais insatiable, elle se trémoussait comme une gamine et zézayait pour être gracieuse : T'aime tant, mon petit. T'aime tant. Fais un beau m'amour à ta petite femme ! » 
+ Il avait alors une envie folle de jurer, de prendre son chapeau et de partir en tapant la porte. 
+ Ils s'étaient vus souvent, dans les premiers temps, rue de Constantinople, mais Du Roy, qui redoutait une rencontre avec Mme de Marelle, trouvait mille prétextes maintenant pour se refuser à ces rendez-vous. 
+ Il avait dû alors venir presque tous les jours chez elle, tantôt déjeuner, tantôt dîner. Elle lui serrait la main sous la table, lui tendait sa bouche derrière les portes. Mais lui s'amusait surtout à jouer avec Suzanne qui l'égayait par ses drôleries. Dans son corps de poupée s'agitait un esprit agile et malin, imprévu et sournois, qui faisait toujours la parade comme une marionnette de foire. Elle se moquait de tout et de tout le monde, avec un à-propos mordant. Georges excitait sa verve, la poussait à l'ironie, et ils s'entendaient à merveille. 
+ Elle l'appelait à tout instant : 
+ « Écoutez, Bel-Ami. Venez ici, Bel-Ami. » 
+ Il quittait aussitôt la maman pour courir à la fillette qui lui murmurait quelque méchanceté dans l'oreille, et ils riaient de tout leur cœur. 
+ Cependant, dégoûté de l'amour de la mère, il en arrivait à une insurmontable répugnance ; il ne pouvait plus la voir, ni l'entendre, ni penser à elle sans colère. Il cessa donc d'aller chez elle, de répondre à ses lettres, et de céder à ses appels. 
+ Elle comprit enfin qu'il ne l'aimait plus, et souffrit horriblement. Mais elle s'acharna, elle l'épia, le suivit, l'attendit dans un fiacre aux stores baissés, à la porte du journal, à la porte de sa maison, dans les rues où elle espérait qu'il passerait. 
+ Il avait envie de la maltraiter, de l'injurier, de la frapper, de lui dire nettement : « Zut, j'en ai assez, vous m'embêtez. » Mais il gardait toujours quelques ménagements, à cause de La Vie Française ; et il tâchait, à force de froideur, de duretés enveloppées d'égards et même de paroles rudes par moments, de lui faire comprendre qu'il fallait bien que cela finît. 
+ Elle s'entêtait surtout à chercher des ruses pour l'attirer rue de Constantinople, et il tremblait sans cesse que les deux femmes ne se trouvassent, un jour, nez à nez, à la porte. 
+ Son affection pour Mme de Marelle, au contraire, avait grandi pendant l'été. Il l'appelait son « gamin », et décidément elle lui plaisait. Leurs deux natures avaient des crochets pareils ; ils étaient bien, l'un et l'autre, de la race aventureuse des vagabonds de la vie, de ces vagabonds mondains qui ressemblent fort, sans s'en douter, aux bohèmes des grandes routes. 
+ Ils avaient eu un été d'amour charmant, un été d'étudiants qui font la noce, s'échappant pour aller déjeuner ou dîner à Argenteuil, à Bougival, à Maisons, à Poissy, passant des heures dans un bateau à cueillir des fleurs le long des berges. Elle adorait les fritures de Seine, les gibelottes et les matelotes, les tonnelles des cabarets et les cris des canotiers. Il aimait partir avec elle, par un jour clair, sur l'impériale d'un train de banlieue et traverser, en disant des bêtises gaies, la vilaine campagne de Paris où bourgeonnent d'affreux chalets bourgeois. 
+ Et quand il lui fallait rentrer pour dîner chez Mme Walter, il haïssait la vieille maîtresse acharnée, en souvenir de la jeune qu'il venait de quitter, et qui avait défloré ses désirs et moissonné son ardeur dans les herbes du bord de l'eau. 
+ Il se croyait enfin à peu près délivré de la Patronne, à qui il avait exprimé d'une façon claire, presque brutale, sa résolution de rompre, quand il reçut au journal le télégramme l'appelant, à deux heures, rue de Constantinople. 
+ Il le relisait en marchant : « Il faut absolument que je te parle aujourd'hui. C'est très grave, très grave. Attends-moi à deux heures rue de Constantinople. Je peux te rendre un grand service. Ton amie jusqu'à la mort. -- VIRGINIE. » 
+ Il pensait : « Qu'est-ce qu'elle me veut encore, cette vieille chouette ? Je parie qu'elle n'a rien à me dire. Elle va me répéter qu'elle m'adore. Pourtant il faut voir. Elle parle d'une chose très grave et d'un grand service, c'est peut-être vrai. Et Clotilde qui vient à quatre heures. Il faut que j'expédie la première à trois heures au plus tard. Sacristi ! pourvu qu'elles ne se rencontrent pas. Quelles rosses de femmes ! » 
+ Et il songea qu'en effet la sienne était la seule qui ne le tourmentait jamais. Elle vivait de son côté, et elle avait l'air de l'aimer beaucoup, aux heures destinées à l'amour, car elle n'admettait pas qu'on dérangeât l'ordre immuable des occupations ordinaires de la vie. 
+ Il allait, à pas lents, vers son logis de rendez-vous, s'excitant mentalement contre la Patronne : « Ah ! je vais la recevoir d'une jolie façon si elle n'a rien à me dire. Le français de Cambronne sera académique auprès du mien. Je lui déclare que je ne fiche plus les pieds chez elle, d'abord. » 
+ Et il entra pour entendre Mme Walter. 
+ Elle arriva presque aussitôt, et dès qu'elle l'eut aperçu : 
+ « Ah ! tu as reçu ma dépêche ! Quelle chance ! » 
+ Il avait pris un visage méchant : 
+ « Parbleu, je l'ai trouvée au journal, au moment où je partais pour la Chambre. Qu'est-ce que tu me veux encore ? » 
+ Elle avait relevé sa voilette pour l'embrasser, et elle s'approchait avec un air craintif et soumis de chienne souvent battue. 
+ « Comme tu es cruel pour moi… Comme tu me parles durement… Qu'est-ce que je t'ai fait ? Tu ne te figures pas comme je souffre par toi ! » 
+ Il grogna : 
+ « Tu ne vas pas recommencer ? » 
+ Elle était debout tout près de lui, attendant un sourire, un geste pour se jeter dans ses bras. 
+ Elle murmura : 
+ « Il ne fallait pas me prendre pour me traiter ainsi, il fallait me laisser sage et heureuse, comme j'étais. Te rappelles-tu ce que tu me disais dans l'église, et comme tu m'as fait entrer de force dans cette maison ? Et voilà maintenant comment tu me parles ! comment tu me reçois ! Mon Dieu ! Mon Dieu ! que tu me fais mal ! » 
+ Il frappa du pied, et, violemment : 
+ « Ah ! mais, zut ! En voilà assez. Je ne peux pas te voir une minute sans entendre cette chanson-là. On dirait vraiment que je t'ai prise à douze ans et que tu étais ignorante comme un ange. Non, ma chère, rétablissons les faits, il n'y a pas eu détournement de mineure. Tu t'es donnée à moi, en plein âge de raison. Je t'en remercie, je t'en suis absolument reconnaissant, mais je ne suis pas tenu d'être attaché à ta jupe jusqu'à la mort. Tu as un mari et j'ai une femme. Nous ne sommes libres ni l'un ni l'autre. Nous nous sommes offert un caprice, ni vu ni connu, c'est fini. » 
+ Elle dit : 
+ « Oh ! que tu es brutal ! que tu es grossier, que tu es infâme ! Non ! je n'étais plus une jeune fille, mais je n'avais jamais aimé, jamais failli… » 
+ Il lui coupa la parole : 
+ « Tu me l'as déjà répété vingt fois, je le sais. Mais tu avais eu deux enfants… je ne t'ai donc pas déflorée… » 
+ Elle recula : 
+ « Oh ! Georges, c'est indigne !… » 
+ Et portant ses deux mains à sa poitrine, elle commença à suffoquer, avec des sanglots qui lui montaient à la gorge. 
+ Quand il vit les larmes arriver, il prit son chapeau sur le coin de la cheminée : 
+ « Ah ! tu vas pleurer ! Alors, bonsoir. C'est pour cette représentation-là que tu m'avais fait venir ? » 
+ Elle fit un pas afin de lui barrer la route et, tirant vivement un mouchoir de sa poche, s'essuya les yeux d'un geste brusque. Sa voix s'affermit sous l'effort de sa volonté et elle dit interrompue par un chevrotement de douleur : « Non… je suis venue pour… pour te donner une nouvelle… une nouvelle politique… pour te donner le moyen de gagner cinquante mille francs… ou même plus… si tu veux. » 
+ Il demanda, adouci tout à coup : 
+ Comment ça ! Qu'est-ce que tu veux dire ? 
+ — J'ai surpris par hasard, hier soir, quelques mots de mon mari et de Laroche. Ils ne se cachaient pas beaucoup devant moi, d'ailleurs. Mais Walter recommandait au ministre de ne pas te mettre dans le secret parce que tu dévoilerais tout. » 
+ Du Roy avait reposé son chapeau sur une chaise. Il attendait, très attentif. 
+ « Alors, qu'est-ce qu'il y a ? 
+ — Ils vont s'emparer du Maroc ! 
+ — Allons donc. J'ai déjeuné avec Laroche qui m'a presque dicté les intentions du cabinet. 
+ Non, mon chéri, ils t'ont joué parce qu'ils ont peur qu'on connaisse leur combinaison. 
+ — Assieds-toi », dit Georges. 
+ Et il s'assit lui-même sur un fauteuil. Alors elle attira par terre un petit tabouret, et s'accroupit dessus, entre les jambes du jeune homme. Elle reprit, d'une voix câline : « Comme je pense toujours à toi, je fais attention maintenant à tout ce qu'on chuchote autour de moi. » 
+ Et elle se mit, doucement, à lui expliquer comment elle avait deviné depuis quelque temps qu'on préparait quelque chose à son insu, qu'on se servait de lui en redoutant son concours. 
+ Elle disait : 
+ « Tu sais, quand on aime, on devient rusée. » 
+ Enfin, la veille, elle avait compris. C'était une grosse affaire, une très grosse affaire préparée dans l'ombre. Elle souriait maintenant, heureuse de son adresse ; elle s'exaltait, parlant en femme de financier, habituée à voir machiner les coups de bourse, les évolutions des valeurs, les accès de hausse et de baisse ruinant en deux heures de spéculation des milliers de petits bourgeois, de petits rentiers, qui ont placé leurs économies sur des fonds garantis par des noms d'hommes honorés, respectés, hommes politiques ou hommes de banque. 
+ Elle répétait : 
+ « Oh ! c'est très fort ce qu'ils ont fait. Très fort. C'est Walter qui a tout mené d'ailleurs, et il s'y entend. Vraiment, c'est de premier ordre. » 
+ Il s'impatientait de ces préparations. 
+ « Voyons, dis vite. 
+ — Eh bien, voilà. L'expédition de Tanger était décidée entre eux dès le jour où Laroche a pris les Affaires étrangères ; et, peu à peu, ils ont racheté tout l'emprunt du Maroc qui était tombé à soixante-quatre ou cinq francs. Ils l'ont racheté très habilement, par le moyen d'agents suspects, véreux, qui n'éveillaient aucune méfiance. Ils ont roulé même les Rothschild, qui s'étonnaient de voir toujours demander du marocain. On leur a répondu en nommant les intermédiaires, tous tarés, tous à la côte. Ça a tranquillisé la grande banque. Et puis maintenant on va faire l'expédition, et dès que nous serons là-bas, l'État français garantira la dette. Nos amis auront gagné cinquante ou soixante millions. Tu comprends l'affaire ? Tu comprends aussi comme on a peur de tout le monde, peur de la moindre indiscrétion. » 
+ Elle avait appuyé sa tête sur le gilet du jeune homme, et les bras posés sur ses jambes, elle se serrait, se collait contre lui, sentant bien qu'elle l'intéressait à présent, prête à tout faire, à tout commettre, pour une caresse, pour un sourire. 
+ Il demanda : 
+ « Tu es bien sûre ? » 
+ Elle répondit avec confiance : 
+ « Oh ! je crois bien ! » 
+ Il déclara : 
+ « C'est très fort, en effet. Quant à ce salop de Laroche, en voilà un que je repincerai. Oh ! le gredin ! qu'il prenne garde à lui !… qu'il prenne garde à lui… Sa carcasse de ministre me restera entre les doigts ! » 
+ Puis il se mit à réfléchir, et il murmura : 
+ « Il faudrait pourtant profiter de ça. 
+ — Tu peux encore acheter de l'emprunt, dit-elle. Il n'est qu'à soixante-douze francs. » 
+ Il reprit : 
+ « Oui, mais je n'ai pas d'argent disponible. » 
+ Elle leva les yeux vers lui, des yeux pleins de supplication. 
+ « J'y ai pensé, mon chat, et si tu étais bien gentil, bien gentil, si tu m'aimais un peu, tu me laisserais t'en prêter. » 
+ Il répondit brusquement, presque durement : 
+ « Quant à ça, non, par exemple. » 
+ Elle murmura, d'une voix implorante : 
+ « Écoute, il y a une chose que tu peux faire sans emprunter de l'argent. Je voulais en acheter pour dix mille francs de cet emprunt, moi, pour me créer une petite cassette. Eh bien, j'en prendrai pour vingt mille ! Tu te mets de moitié. Tu comprends bien que je ne vais pas rembourser ça à Walter. Il n'y a donc rien à payer pour le moment. Si ça réussit, tu gagnes soixante-dix mille francs. Si ça ne réussit pas, tu me devras dix mille francs que tu me paieras à ton gré. » 
+ Il dit encore : 
+ « Non, je n'aime guère ces combinaisons-là. » 
+ Alors, elle raisonna pour le décider, elle lui prouva qu'il engageait en réalité dix mille francs sur parole, qu'il courait des risques, par conséquent, qu'elle ne lui avançait rien puisque les déboursés étaient faits par la Banque Walter. 
+ Elle lui démontra en outre que c'était lui qui avait mené, dans La Vie Française, toute la campagne politique qui rendait possible cette affaire, qu'il serait bien naïf en n'en profitant pas. 
+ Il hésitait encore. Elle ajouta : 
+ « Mais songe donc qu'en vérité c'est Walter qui te les avance, ces dix mille francs, et que tu lui as rendu des services qui valent plus que ça. 
+ — Eh bien, soit, dit-il. Je me mets de moitié avec toi. Si nous perdons, je te rembourserai dix mille francs. » 
+ Elle fut si contente qu'elle se releva, saisit à deux mains sa tête et se mit à l'embrasser avidement. 
+ Il ne se défendit point d'abord, puis comme elle s'enhardissait, l'étreignant et le dévorant de caresses, il songea que l'autre allait venir tout à l'heure et que s'il faiblissait il perdrait du temps, et laisserait aux bras de la vieille une ardeur qu'il valait mieux garder pour la jeune. 
+ Alors il la repoussa doucement. 
+ 
+ « Voyons, sois sage », dit-il. 
+ Elle le regarda avec des yeux désolés : 
+ « Oh ! Georges, je ne peux même plus t'embrasser. » 
+ Il répondit : 
+ « Non, pas aujourd'hui. J'ai un peu de migraine et cela me fait mal. » 
+ Alors elle se rassit, docile, entre ses jambes. Elle demanda : 
+ « Veux-tu venir dîner demain à la maison ? Quel plaisir tu me ferais ! » 
+ Il hésita, puis n'osa point refuser. 
+ « Mais oui, certainement. 
+ — Merci, mon chéri. » 
+ Elle frottait lentement sa joue sur la poitrine du jeune homme, d'un mouvement câlin et régulier, et un de ses longs cheveux noirs se prit dans le gilet. 
+ Elle s'en aperçut, et une idée folle lui traversa l'esprit, une de ces idées superstitieuses qui sont souvent toute la raison des femmes. Elle se mit à enrouler tout doucement ce cheveu autour d'un bouton. Puis elle en attacha un autre au bouton suivant, un autre encore à celui du dessus. À chaque bouton elle en nouait un. 
+ Il allait les arracher tout à l'heure, en se levant. Il lui ferait mal, quel bonheur ! Et il emporterait quelque chose d'elle, sans le savoir, il emporterait une petite mèche de sa chevelure, dont il n'avait jamais demandé. C'était un lien par lequel elle l'attachait, un lien secret, invisible ! un talisman qu'elle laissait sur lui. Sans le vouloir, il penserait à elle, il rêverait d'elle, il l'aimerait un peu plus le lendemain. 
+ Il dit tout à coup : 
+ « Il va falloir que je te quitte parce qu'on m'attend à la Chambre pour la fin de la séance. Je ne puis manquer aujourd'hui. » 
+ Elle soupira : 
+ « Oh ! déjà. » Puis, résignée : 
+ « Va, mon chéri, mais tu viendras dîner demain. » 
+ Et, brusquement, elle s'écarta. Ce fut sur sa tête une douleur courte et vive comme si on lui eût piqué la peau avec des aiguilles. Son cœur battait ; elle était contente d'avoir souffert un peu par lui. 
+ « Adieu ! » dit-elle. 
+ Il la prit dans ses bras avec un sourire compatissant et lui baisa les yeux froidement. 
+ Mais elle, affolée par ce contact, murmura encore une fois : « Déjà ! » Et son regard suppliant montrait la chambre dont la porte était ouverte. 
+ Il l'éloigna de lui, et d'un ton pressé : 
+ « Il faut que je me sauve, je vais arriver en retard. » 
+ Alors elle lui tendit ses lèvres qu'il effleura à peine, et lui ayant donné son ombrelle qu'elle oubliait, il reprit : « Allons, allons, dépêchons-nous, il est plus de trois heures. » 
+ Elle sortit devant lui ; elle répétait : 
+ « Demain, sept heures. » 
+ Il répondit : 
+ « Demain, sept heures. » 
+ Ils se séparèrent. Elle tourna à droite, et lui à gauche. 
+ Du Roy remonta jusqu'au boulevard extérieur. Puis, il redescendit le boulevard Malesherbes, qu'il se mit à suivre, à pas lents. En passant devant un pâtissier, il aperçut des marrons glacés dans une coupe de cristal, et il pensa : « Je vais en rapporter une livre pour Clotilde. » Il acheta un sac de ces fruits sucrés qu'elle aimait à la folie. À quatre heures, il était rentré pour attendre sa jeune maîtresse. 
+ Elle vint un peu en retard parce que son mari était arrivé pour huit jours. Elle demanda : « Peux-tu venir dîner demain ? Il serait enchanté de te voir. 
+ — Non, je dîne chez le Patron. Nous avons un tas de combinaisons politiques et financières qui nous occupent. » 
+ Elle avait enlevé son chapeau. Elle ôtait maintenant son corsage qui la serrait trop. 
+ Il lui montra le sac sur la cheminée : 
+ « Je t'ai apporté des marrons glacés. » 
+ Elle battit des mains : 
+ « Quelle chance ! comme tu es mignon. » 
+ Elle les prit, en goûta un, et déclara : 
+ « Ils sont délicieux. Je sens que je n'en laisserai pas un seul. » 
+ Puis elle ajouta en regardant Georges avec une gaieté sensuelle : 
+ « Tu caresses donc tous mes vices ? » 
+ Elle mangeait lentement les marrons et jetait sans cesse un coup d'œil au fond du sac pour voir s'il en restait toujours. 
+ Elle dit : 
+ « Tiens, assieds-toi dans le fauteuil, je vais m'accroupir entre tes jambes pour grignoter mes bonbons. 
+ Je serai très bien. » 
+ Il sourit, s'assit, et la prit entre ses cuisses ouvertes comme il tenait tout à l'heure Mme Walter. 
+ Elle levait la tête vers lui pour lui parler, et disait, la bouche pleine : 
+ « Tu ne sais pas, mon chéri, j'ai rêvé de toi, j'ai rêvé que nous faisions un grand voyage, tous les deux, sur un chameau. Il avait deux bosses, nous étions à cheval chacun sur une bosse, et nous traversions le désert. Nous avions emporté des sandwiches dans un papier et du vin dans une bouteille et nous faisions la dînette sur nos bosses. Mais ça m'ennuyait parce que nous ne pouvions pas faire autre chose, nous étions trop loin l'un de l'autre, et moi je voulais descendre. » 
+ Il répondit : 
+ « Moi aussi je veux descendre. » 
+ Il riait, s'amusant de l'histoire, il la poussait à dire des bêtises, à bavarder, à raconter tous ces enfantillages, toutes ces niaiseries tendres que débitent les amoureux. Ces gamineries, qu'il trouvait gentilles dans la bouche de Mme de Marelle, l'auraient exaspéré dans celle de Mme Walter. 
+ Clotilde l'appelait aussi : « Mon chéri, mon petit, mon chat. » Ces mots lui semblaient doux et caressants. Dits par l'autre tout à l'heure, ils l'irritaient et l'écœuraient. Car les paroles d'amour, qui sont toujours les mêmes, prennent le goût des lèvres dont elles sortent. 
+ Mais il pensait, tout en s'égayant de ces folies, aux soixante-dix mille francs qu'il allait gagner, et, brusquement, il arrêta, avec deux petits coups de doigt sur la tête, le verbiage de son amie : « Écoute, ma chatte. Je vais te charger d'une commission pour ton mari. Dis-lui de ma part d'acheter, demain, pour dix mille francs d'emprunt du Maroc qui est à soixante-douze ; et je lui promets qu'il aura gagné de soixante à quatre-vingt mille francs avant trois mois. Recommande-lui le silence absolu. Dis-lui, de ma part, que l'expédition de Tanger est décidée et que l'État Français va garantir la dette marocaine. Mais ne te coupe pas avec d'autres. C'est un secret d'État que je confie là. » 
+ Elle l'écoutait, sérieuse. Elle murmura : 
+ « Je te remercie. Je préviendrai mon mari dès ce soir. Tu peux compter sur lui ; il ne parlera pas. C'est un homme très sûr. Il n'y a aucun danger. » 
+ Mais elle avait mangé tous les marrons. Elle écrasa le sac entre ses mains et le jeta dans la cheminée. Puis elle dit : « Allons nous coucher. » Et sans se lever elle commença à déboutonner le gilet de Georges. 
+ Tout à coup elle s'arrêta, et tirant entre deux doigts un long cheveu pris dans une boutonnière, elle se mit à rire : « Tiens. Tu as emporté un cheveu de Madeleine. En voilà un mari fidèle ! » 
+ Puis, redevenue sérieuse, elle examina longuement sur sa main l'imperceptible fil qu'elle avait trouvé et elle murmura : « Ce n'est pas de Madeleine, il est brun. » 
+ Il sourit : 
+ « Il vient probablement de la femme de chambre. » 
+ Mais elle inspectait le gilet avec une attention de policier, et elle cueillit un second cheveu enroulé autour d'un bouton ; puis elle en aperçut un troisième ; et, pâlie, tremblante un peu, elle s'écria : « Oh ! tu as couché avec une femme qui t'a mis des cheveux à tous tes boutons. » 
+ Il s'étonnait, il balbutiait : 
+ « Mais non. Tu es folle… » 
+ Soudain il se rappela, comprit, se troubla d'abord, puis nia en ricanant, pas fâché au fond qu'elle le soupçonnât d'avoir des bonnes fortunes. 
+ Elle cherchait toujours et toujours trouvait des cheveux qu'elle déroulait d'un mouvement rapide et jetait ensuite sur le tapis. 
+ Elle avait deviné, avec son instinct rusé de femme, et elle balbutiait, furieuse, rageant et prête à pleurer : « Elle t'aime, celle-là… et elle a voulu te faire emporter quelque chose d'elle… Oh ! que tu es traître… » 
+ Mais elle poussa un cri, un cri strident de joie nerveuse : « Oh !… oh !… c'est une vieille… voilà un cheveu blanc… Ah ! tu prends des vieilles femmes maintenant… Est-ce qu'elles te paient… dis… est-ce qu'elles te paient ?… Ah ! tu en es aux vieilles femmes… Alors tu n'as plus besoin de moi… garde l'autre… » 
+ Elle se leva, courut à son corsage jeté sur une chaise et elle le remit rapidement. 
+ Il voulait la retenir, honteux et balbutiant : 
+ « Mais non… Clo… tu es stupide… je ne sais pas ce que c'est… écoute… reste… voyons… reste… » 
+ Elle répétait : 
+ « Garde ta vieille femme… garde-la… fais-toi faire une bague avec ses cheveux… avec ses cheveux blancs… Tu en as assez pour ça… » 
+ 
+ Avec des gestes brusques et prompts elle s'était habillée, recoiffée et voilée ; et comme il voulait la saisir, elle lui lança, à toute volée, un soufflet par la figure. Pendant qu'il demeurait étourdi, elle ouvrit la porte et s'enfuit. 
+ Dès qu'il fut seul, une rage furieuse le saisit contre cette vieille rosse de mère Walter. Ah ! il allait l'envoyer coucher, celle-là, et durement. 
+ Il bassina avec de l'eau sa joue rouge. Puis il sortit à son tour, en méditant sa vengeance. Cette fois il ne pardonnerait point. Ah ! mais non ! 
+ Il descendit jusqu'au boulevard, et, flânant, s'arrêta devant la boutique d'un bijoutier pour regarder un chronomètre dont il avait envie depuis longtemps, et qui valait dix-huit cents francs. 
+ Il pensa, tout à coup, avec une secousse de joie au cœur : « Si je gagne mes soixante-dix mille francs, je pourrai me le payer. » Et il se mit à rêver à toutes les choses qu'il ferait avec ces soixante-dix mille francs. 
+ D'abord il serait nommé député. Et puis il achèterait son chronomètre, et puis il jouerait à la Bourse, et puis encore… et puis encore… 
+ Il ne voulait pas entrer au journal, préférant causer avec Madeleine avant de revoir Walter et d'écrire son article ; et il se mit en route pour revenir chez lui. 
+ Il atteignait la rue Drouot quand il s'arrêta net ; il avait oublié de prendre des nouvelles du comte de Vaudrec, qui demeurait Chaussée-d'Antin. Il revint donc, flânant toujours, pensant à mille choses, dans une songerie heureuse, à des choses douces, à des choses bonnes, à la fortune prochaine et aussi à cette crapule de Laroche et à cette vieille teigne de Patronne. Il ne s'inquiétait point, d'ailleurs, de la colère de Clotilde, sachant bien qu'elle pardonnait vite. 
+ Quand il demanda au concierge de la maison où demeurait le comte de Vaudrec : 
+ « Comment va M. de Vaudrec ? On m'a appris qu'il était souffrant, ces jours derniers. » 
+ L'homme répondit : 
+ « M. le comte est très mal, monsieur. On croit qu'il ne passera pas la nuit, la goutte est remontée au cœur. » 
+ Du Roy demeura tellement effaré qu'il ne savait plus ce qu'il devait faire ! Vaudrec mourant ! Des idées confuses passaient en lui, nombreuses, troublantes, qu'il n'osait point s'avouer à lui-même. 
+ Il balbutia : « Merci… je reviendrai… », sans comprendre ce qu'il disait. 
+ Puis il sauta dans un fiacre et se fit conduire chez lui. 
+ Sa femme était rentrée. Il pénétra dans sa chambre essoufflé et lui annonça tout de suite : « Tu ne sais pas ? Vaudrec est mourant ! » 
+ Elle était assise et lisait une lettre. Elle leva les yeux et trois fois de suite répéta : « Hein ? Tu dis ?… tu dis ?… tu dis ?… 
+ — Je te dis que Vaudrec est mourant d'une attaque de goutte remontée au cœur. » Puis il ajouta : « Qu'est-ce que tu comptes faire ? » 
+ Elle s'était dressée, livide, les joues secouées d'un tremblement nerveux, puis elle se mit à pleurer affreusement, en cachant sa figure dans ses mains. Elle demeurait debout, secouée par des sanglots, déchirée par le chagrin. 
+ Mais soudain elle dompta sa douleur, et, s'essuyant les yeux : 
+ « J'y… j'y vais… ne t'occupe pas de moi… je ne sais pas à quelle heure je reviendrai… ne m'attends point… » 
+ Il répondit : 
+ « Très bien. Va. » 
+ Ils se serrèrent la main, et elle partit si vite qu'elle oublia de prendre ses gants. 
+ Georges, ayant dîné seul, se mit à écrire son article. Il le fit exactement selon les intentions du ministre, laissant entendre aux lecteurs que l'expédition du Maroc n'aurait pas lieu. Puis il le porta au journal, causa quelques instants avec le Patron et repartit en fumant, le cœur léger sans qu'il comprît pourquoi. 
+ Sa femme n'était pas rentrée. Il se coucha et s'endormit. 
+ Madeleine revint vers minuit. Georges, réveillé brusquement, s'était assis dans son lit. 
+ Il demanda : 
+ « Eh bien ? » 
+ Il ne l'avait jamais vue si pâle et si émue. Elle murmura : 
+ « II est mort. 
+ — Ah ! Et… il ne t'a rien dit ? 
+ — Rien. Il avait perdu connaissance quand je suis arrivée. » 
+ Georges songeait. Des questions lui venaient aux lèvres qu'il n'osait point faire. 
+ « Couche-toi », dit-il. 
+ Elle se déshabilla rapidement, puis se glissa auprès de lui. 
+ Il reprit : 
+ « Avait-il des parents à son lit de mort ? 
+ — Rien qu'un neveu. 
+ — Ah ! Le voyait-il souvent, ce neveu ? 
+ — Jamais. Ils ne s'étaient point rencontrés depuis dix ans. 
+ — Avait-il d'autres parents ? 
+ — Non… Je ne crois pas. 
+ — Alors… c'est ce neveu qui doit hériter ? 
+ — Je ne sais pas. 
+ — II était très riche, Vaudrec ? 
+ — Oui, très riche. 
+ — Sais-tu ce qu'il avait à peu près ? 
+ — Non, pas au juste. Un ou deux millions, peut-être ? » 
+ Il ne dit plus rien. Elle souffla la bougie. Et ils demeurèrent étendus côte à côte dans la nuit, silencieux, éveillés et songeant. 
+ Il n'avait plus envie de dormir. Il trouvait maigres maintenant les soixante-dix mille francs promis par Mme Walter. Soudain il crut que Madeleine pleurait. Il demanda pour s'en assurer : « Dors-tu ? 
+ — Non. » 
+ Elle avait la voix mouillée et tremblante. Il reprit : 
+ « J'ai oublié de te dire tantôt que ton ministre nous a fichus dedans. 
+ — Comment ça ? » 
+ Et il lui conta, tout au long, avec tous les détails, la combinaison préparée entre Laroche et Walter. 
+ Quand il eut fini, elle demanda : 
+ « Comment sais-tu ça ? » 
+ Il répondit : 
+ « Tu me permettras de ne point te le dire. Tu as tes procédés d'information que je ne pénètre point. J'ai les miens que je désire garder. Je réponds en tout cas de l'exactitude de mes renseignements. » 
+ Alors elle murmura : 
+ « Oui, c'est possible… Je me doutais qu'ils faisaient quelque chose sans nous. » 
+ Mais Georges que le sommeil ne gagnait pas, s'était rapproché de sa femme, et, doucement, il lui baisa l'oreille. Elle le repoussa avec vivacité : « Je t'en prie, laisse-moi tranquille, n'est-ce pas ? Je ne suis point d'humeur à batifoler. » 
+ Il se retourna, résigné, vers le mur, et, ayant fermé les yeux, il finit par s'endormir.
+</div></body></text></TEI>

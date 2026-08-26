@@ -1,0 +1,5 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Païenne</title><author>Adam, Juliette (1836-1936)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1883</date></publicationStmt></teiHeader><text><body><div type="letter" n="111">
+À TIBURCE 
+ Tu as prononcé hier, sous les rayons de notre Phébus, un mot vraiment divin : « Je goûte le bonheur absolu ! » Non, je n'avais pas rêvé d'entendre une parole d'amour plus triomphante. 
+ J'ai dormi comme une illuminée qui a conversé avec son dieu ; une paix profonde s'est emparée de moi ; l'agitation de mes nuits a disparu. Ce matin, une sérénité olympienne, la joie des Immortels, m'envahit tout entière. Je suis heureuse en nous.
+</div></body></text></TEI>

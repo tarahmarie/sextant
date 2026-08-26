@@ -1,0 +1,6 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Païenne</title><author>Adam, Juliette (1836-1936)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1883</date></publicationStmt></teiHeader><text><body><div type="letter" n="41">
+À MÉLISSANDRE 
+ Je vous ai en vain attendue dans l'allée des cyprès et des saules. Je sentais que vous ne viendriez pas, que vous ne pouviez venir, malgré vos promesses. Je vous avais vue trop souffrante hier, et cependant je m'obstinais à rester, à fouiller du regard l'étendue. 
+ À chaque silhouette lointaine j'espérais, à chaque déception je songeais avec amertume que vous étiez sur votre lit de douleur, et que vous songiez tristement à l'ami qui vous attendait sans espoir. 
+ Mélissandre, comme je vous aime ! et quel chemin cet amour a fait en quelques semaines dans mon cœur ! Il lance de tous côtés ses racines, et le passé, si je puis me souvenir que j'ai vécu sans vous aimer, est bien complètement étouffé par lui.
+</div></body></text></TEI>

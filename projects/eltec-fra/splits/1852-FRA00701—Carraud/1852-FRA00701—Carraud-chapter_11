@@ -1,0 +1,12 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="11">
+La mère Nannette fait la lessive. 
+ Deux jours après, la mère Nannette dit qu'elle allait faire la lessive. 
+ Catherine lui proposa de l'entasser pendant qu'elle mènerait ses bêtes aux champs. La petite Jeanne alla toute seule aux portes : elle eut bien de la peine à s'y décider ; mais quand sa mère lui eut fait comprendre que, si elle ne l'accompagnait pas, c'était pour rendre service à la mère Nannette, la petite partit sans rien dire. Elle rentra le soir bien joyeuse, parce qu'elle rapportait beaucoup de pain et une paire de sabots presque neufs qu'une femme lui avait donnée ; elle les avait mis tout de suite à ses pieds, car les siens étaient tout percés. 
+ En passant auprès de l'abreuvoir, elle s'était arrêtée pour regarder un homme qui lavait des radis et en faisait de petits paquets. Il lui avait dit : 
+ « En veux-tu, petite, que tu les regardes si bien ?» 
+ Jeanne baissa la tête et ne dit rien, car elle n'était pas hardie. 
+ « Allons, lui dit l'homme, tends ton tablier.» 
+ Et il lui en jeta une bonne poignée. La petite Jeanne le remercia et fut bien contente. La mère Nannette lui donna du sel pour manger ses radis, et elle fit un bon souper, ainsi que sa mère. 
+ Catherine dit à la mère Nannette : 
+ « Je chaufferai votre lessive demain et je vous aiderai à la laver après-demain. On a beaucoup donné à Jeanne : elle ira à l'herbe et conduira les oisons aux champs ; cela vous fera gagner du temps, et vous pourrez travailler un peu.»
+</div></body></text></TEI>

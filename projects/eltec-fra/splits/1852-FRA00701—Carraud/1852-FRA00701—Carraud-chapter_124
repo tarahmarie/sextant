@@ -1,0 +1,4 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="124">
+Pierre, qui se sentait fort, se loua comme laboureur. 
+ Mais, au bout d'un mois, il revint chez son frère, plus malade que la première fois.
+</div></body></text></TEI>

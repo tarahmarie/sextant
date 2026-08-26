@@ -1,0 +1,11 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="114">
+M. le curé veut placer Sylvain en ville. 
+ Jeanne dit un jour à M. le curé : 
+ « Vous avez pour mon Sylvain de trop grandes bontés, vous en faites un monsieur ; il serait bien temps qu'il s'occupât de cultiver nos terres ; il en sait plus long qu'il ne lui en faut ; qu'il apprenne donc à présent à manier la charrue. 
+ — Jeanne, cet enfant est si doux et en même temps si délicat, que je ne puis m'habituer à penser qu'il passera sa vie à piocher la terre. N'y a-t-il pas mille autres manières de gagner son pain ? Il est très-intelligent et beaucoup plus instruit que les autres enfants de son âge, car il a bien profité de tout ce que je lui ai appris. Je voudrais le placer chez un notaire de mes amis, à qui j'en ai déjà parlé. 
+ — Croyez-vous, monsieur le curé, qu'il puisse être heureux en ville, où 
+ il n'aura personne pour l'aimer ? 
+ — Laissez donc, Jeanne ! les gens chez qui je le placerai lui serviront de famille ; c'est une maison honnête, où il sera bien tenu et ils ne lui donneront que de bons exemples. 
+ — Monsieur le curé, vous en savez plus long que moi là-dessus ; mais j'aurais mieux aimé qu'il restât paysan comme son père ; c'est encore l'état qui donne le plus de bonheur et où on est le moins exposé à mal faire. 
+ Jeanne s'occupa de mettre en ordre les effets de Sylvain ; elle fit refaire à sa taille les plus beaux habits de son père, et M. le curé le mena chez son ami le notaire.
+</div></body></text></TEI>

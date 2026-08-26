@@ -1,0 +1,9 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="89">
+M. le curé donne raison à Jeanne. 
+ « Jeanne a raison, dit le curé : ne vaut-il pas mieux, le dimanche, passer son temps à faire une lecture, ou bien à enseigner à lire aux autres, que de se disputer ou de faire des commérages au dépens du prochain ? 
+ J'ai toujours vu que les hommes qui savent quelque chose sont plus faciles à vivre que les autres ; et les femmes qui ont appris à lire, à écrire, et qui savent se servir de l'aiguille, sont plus assidues dans leur maison et la tiennent plus proprement. 
+ — Voyez donc grand Louis, pourtant ! il ne sait pas seulement signer son nom. 
+ — Aussi, notre maître, s'écria celui-ci, avant que d'avoir trouvé Jeanne, je ne valais pas grand'chose ; je brutalisais tout le monde. 
+ — Est-ce qu'elle aurait tant d'idée, Jeanne, dit Joséphine, est-ce qu'elle serait si bonne si les dames Dumont ne lui avaient appris tant de choses ? 
+ — Tu as bien raison, ma Joséphine. J'aurais fait comme tant d'autres qui ne pensent à rien du tout. Aussi, après le bon Dieu qui m'a donné une âme, et ma pauvre mère, qui m'a mise au monde, après la mère Nannette, qui m'a tirée de la misère, je dois tout à ces dames : car vous ne m'auriez pas tant protégée, maître Tixier, si elles n'avaient pas pris soin de moi. Aussi je serai reconnaissante envers elles jusqu'au dernier jour de ma vie.
+</div></body></text></TEI>

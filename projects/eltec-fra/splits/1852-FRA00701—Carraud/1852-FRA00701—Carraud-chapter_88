@@ -1,0 +1,12 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="88">
+Le colporteur vend à tout le village. 
+ Le lendemain, après la messe, que le colporteur entendit bien dévotement, il étala sa boutique sur la place de l'église, et il annonça à haute voix qu'il vendrait ses marchandises au prix coûtant, en reconnaissance du service qu'on lui avait rendu autrefois dans le pays. 
+ Chacun s'approcha et acheta ce qui lui convenait. Il dîna chez M. le curé. Pendant que les femmes de la ferme s'occupaient à préparer le souper dans la maison de Jeanne et y transportaient tout ce qui était nécessaire, Louise mit, sans en rien dire, une petite provision de toute chose dans la huche de Jeanne avec deux grand pains de froment. 
+ Après les vêpres, M. le curé vint bénir la maison et ensuite l'on se mit à table. Toute la famille du Grand-Bail était là, excepté la maîtresse, qui ne se levait plus. Solange était venue aussi avec son mari. 
+ « Te voilà donc dans ta maison, ma Jeanne, dit maître Tixier ; vas-tu être heureuse ! mais nous nous apercevrons bien que tu n'es plus avec nous. 
+ — Il fallait bien, dit M. le curé, que ces braves gens finissent par se mettre à leur ménage. J'ai béni la maison de bon cœur, car je suis bien sûr qu'il ne s'y fera jamais rien de mal et que les enfants y seront bien élevés. 
+ — Elle s'y prendra de bonne heure, monsieur le curé ; ne fait-elle pas déjà compter sa petite Nannette ! y a-t-il du bon sens ? 
+ — Notre maître, est-ce que vous ne serez pas content quand, à la veillée, la petite vous lira de jolies histoires ? 
+ — Mais crois-tu, Jeanne, que, si elle apprend sitôt à lire, ça ne la dégoûtera pas de travailler ? 
+ — Soyez tranquille, notre maître ! ce qui entre dans la tête ne gâte pas les doigts ; et ceux qui l'ont pleine de toutes sortes de bonnes choses travaillent aussi bien que les autres, s'ils ont du courage ; n'est-ce pas, monsieur le curé ?»
+</div></body></text></TEI>

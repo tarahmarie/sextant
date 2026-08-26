@@ -1,0 +1,12 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Païenne</title><author>Adam, Juliette (1836-1936)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1883</date></publicationStmt></teiHeader><text><body><div type="letter" n="5">
+MADAME DE NOVES À GARDANNE 
+ « Je regardais, sur la route de Cabane, la silhouette brisée des Alpines, me demandant si l'artiste, créateur vieilli, avait tremblé en faisant ce dessin, ou si le temps, de ses dents ébréchées, avait rongé les lignes pures. 
+ « Sombre, avec ses bases puissantes, la montagne noire s'élevait dans le ciel à mesure que le soleil descendait. 
+ « Mes yeux fixent l'astre à son déclin, et je le vois répandre sa lumière, soit en flèches, soit en globules. Les flèches dansent, retenues autour de la face brillante, mais les globules semblent tomber de ses lèvres. 
+ « Signes divins, ces globules forment des caractères enchevêtrés, qu'Apollon n'a point encore appris à lire aux hommes nouveaux, et que seule, peut-être, depuis les âges sacrés de la Grèce antique, je commence à déchiffrer. 
+ « La nappe d'azur du ciel s'émiette, poudroie, les cyprès s'entourent d'une buée d'ombre et se gonflent. Le Luberon blanchit, les Alpines se teintent lentement de violet. 
+ « Peu à peu, le soleil ramasse ses clartés et sa chaleur, puis, brusquement, il les rejette par delà l'horizon ; des feux s'allument au-dessous de l'astre et renvoient d'en bas leurs flammes au ciel. 
+ « Le dôme de la grande allée de platanes est rutilant sous la pourpre, le faîte des peupliers se dore ; des nuages se forment ; ils boivent une dernière fois à la coupe de lumière, ils sont lie de vin. 
+ « Le soir tombe. Les oliviers s'argentent. Les nuages se dissipent en flocons d'un gris tourterelle, des crinières dorées apparaissent une dernière fois au sommet des Alpines. 
+ « Bientôt la nuit froide pleure le jour brûlant disparu. »
+</div></body></text></TEI>

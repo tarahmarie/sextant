@@ -1,0 +1,5 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Païenne</title><author>Adam, Juliette (1836-1936)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1883</date></publicationStmt></teiHeader><text><body><div type="letter" n="138">
+À TIBURCE 
+ La nouvelle que reçoit mon père est extravagante. M. de Noves lui demande de venir l'assister dans une affaire grave. Il le supplie d'apporter à Naples, dimanche, le prix tout entier du château, des terres, de réaliser à Marseille, en deux jours, la somme de mon achat. Quel conseil donner à mon père qui hésite, lassé de toutes ces aventures ? 
+ Je t'ai quitté un moment, appelée par l'oncle de mon mari, son tuteur, qui arrive d'Avignon, et vient chercher mon père. Tous deux partent pour Naples. Il s'agit d'une assez vilaine affaire de jeu.
+</div></body></text></TEI>

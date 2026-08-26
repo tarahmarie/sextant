@@ -1,0 +1,14 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="53">
+Jeanne conseille à Marguerite de rester. 
+ Le lendemain, Jeanne, qui n'aidait plus aussi souvent à Marguerite depuis qu'elle l'avait tant choquée, alla la trouver dans la bergerie. 
+ Tout en soignant avec elle les moutons, elle lui dit : 
+ « Quel profit auras-tu donc, Marguerite, à quitter de si bons maîtres pour aller chez tu ne sais pas qui ? S'il est vrai qu'il y ait des bergères à vingt-cinq écus, crois-tu que c'est toi qui les gagneras ? 
+ Es-tu assez habile pour soigner tes bêtes toute seule, et travailles-tu jamais aux champs ? 
+ — J'en vaux bien une autre, petite Jeanne ! Ils pourront bien en prendre une qui les volera, au lieu que moi je suis une honnête fille. 
+ —Écoute donc, Marguerite : il est bien vrai que tu ne prendrais pas une fusée de fil à la maîtresse, ni un brin de laine non plus ; mais quel emploi fais-tu du temps qu'elle te paye ; car enfin, il est à elle, et le temps vaut de l'argent, puisque c'est avec le temps qu'on fait tout. 
+ Quand tu ne travailles pas, n'est-ce pas comme si tu la volais ? A quoi t'occupes-tu en gardant tes bêtes, au lieu de filer ou de tricoter ? Ne faut-il pas que la maîtresse paye pour faire faire l'ouvrage que tu n'as pas fait ? Eh bien, c'est comme si tu lui prenais cet argent-là dans sa poche. As-tu pensé quelquefois à cela ? 
+ — Est-ce que je pense à quelque chose, moi ? 
+ — Et tu n'en fais pas mieux. Et du pain, donc ! en gaspilles-tu avec ta chienne et tes moutons ! Je devrais le dire à la maîtresse, moi qui suis chargée du ménage ; mais je n'ai pas voulu te faire renvoyer, parce que je suis bien sûre qu'on ne voudra pas te souffrir ailleurs. 
+ — A savoir, petite Jeanne. 
+ — Tu ne trouveras toujours pas facilement une autre ferme où, comme ici, l'on ne crie jamais après les domestiques, et où on les soigne quand ils sont malades. Aie le malheur d'avoir seulement les fièvres, et l'on t'enverra bien vite te faire soigner ailleurs, sans s'inquiéter si tu as de l'argent ou non ! Et puis, vois-tu, ma pauvre Marguerite, on n'amasse jamais rien quand on change si souvent de condition : on a beau gagner de bons gages, je ne sais comment cela se fait, mais l'argent coule comme l'eau ; au lieu qu'en restant toujours chez les mêmes maîtres, les gages se mettent les uns sur les autres ; et quand on se marie, on trouve une bonne somme ronde pour acheter un lit et une armoire.»
+</div></body></text></TEI>

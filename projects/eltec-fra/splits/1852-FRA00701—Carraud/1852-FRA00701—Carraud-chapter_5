@@ -1,0 +1,12 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="5">
+Catherine et sa fille rapportent le bracelet. 
+ Le lendemain matin, Catherine peigna les grands cheveux noirs de sa petite fille avec encore plus de soin qu'à l'ordinaire ; elle lui lava le visage et les mains, l'habilla le plus proprement qu'elle le put, et elles partirent pour aller chez Mme Dumont. 
+ Elles arrivèrent devant une grille qui servait de porte à un beau jardin ; mais, comme il n'y avait personne, Catherine suivit le mur et vit une grande porte qui donnait dans la cour et qui était ouverte. Une servante, qui l'aperçut, lui apporta un morceau de pain et deux sous. 
+ « Merci, mademoiselle, dit Catherine ; mais je voudrais parler à votre dame. 
+ — Ma pauvre femme, on ne peut guère la voir à cette heure-ci. 
+ — Eh bien ! voulez-vous lui demander si c'est elle qui a perdu ce que j'ai trouvé hier sur la grande route ?» 
+ Et elle montra le bijou, qu'elle avait enveloppé d'un chiffon bien blanc. 
+ « Justement ! c'est le bracelet que madame a perdu hier en se promenant avec les enfants ! Elle va être bien contente de le retrouver ; car nous l'avons cherché jusqu'à la nuit. Je vais le lui porter : en attendant, ma brave femme, asseyez-vous sur le banc. Petite, viens avec moi, tu rendras toi-même le bracelet à madame.» 
+ La petite Jeanne regarda sa mère, qui lui dit : 
+ « Va, ma fille, et sois bien honnête.»
+</div></body></text></TEI>

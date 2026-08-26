@@ -1,0 +1,4 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Païenne</title><author>Adam, Juliette (1836-1936)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1883</date></publicationStmt></teiHeader><text><body><div type="letter" n="120">
+À TIBURCE 
+ Je suis Diane, sœur d'Apollon. J'ai gravi le Latmus pour dérober un baiser aux lèvres du berger ; mais le berger s'est réveillé, ou n'était point endormi. Endymion, qui surprend doucement, m'a surprise, et m'a rendu, pour mon seul baiser, des baisers nombreux.
+</div></body></text></TEI>

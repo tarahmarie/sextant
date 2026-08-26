@@ -1,0 +1,8 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="42">
+Grand Louis travaille à la vigne de Jeanne. 
+ Après les semailles de mars, maître Tixier dit un soir : 
+ « Mes enfants, il faut conduire du fumier aux vignes demain matin, et puis nous irons les piocher.» 
+ Le lendemain, quand ils furent dans les Hautes-Roches, grand Louis se mit tout de suite à la vigne de Jeanne, pendant que les autres travaillaient à celle du maître, et il n'y épargna pas le fumier. Vers midi, Jeanne apporta le goûter, et maître Tixier, qui était avec elle, dit en voyant l'ouvrage de grand Louis : 
+ « Ho ! ho ! comme tu y vas ! c'est travaillé comme dans un jardin, et la terre est si bien égrenée qu'on dirait qu'elle a été passée au crible ; mais n'aie pas peur, ce n'est pas un blâme que je te donne : la petite Jeanne mérite bien ça.» 
+ Jeanne remercia grand Louis par un regard si doux, qu'il se sentit le cœur tout joyeux.
+</div></body></text></TEI>

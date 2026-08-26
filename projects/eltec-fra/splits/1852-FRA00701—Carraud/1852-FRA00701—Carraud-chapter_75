@@ -1,0 +1,14 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="75">
+Maître Tixier vend ses juments. 
+ « Voyons, grand Louis, mets-toi là; tu vas boire un coup et manger des gâteaux de ta femme. Louise, donne-lui un verre. Voilà monsieur l'officier qui a grande envie de la Grise : faut-il la lui vendre ? 
+ — Notre maître, à votre volonté ; mais je vous avertis que, si vous la vendez, la Blanche dépérira. Vous savez bien qu'elles ne peuvent pas se passer l'une de l'autre ; quand vous emmenez l'une des deux pour aller seulement à la ville, l'autre ne travaille pas la moitié autant qu'à l'ordinaire, et elle ne mange pas un seul brin de foin tant que vous n'êtes pas revenu. 
+ — C'est une raison, ça ; je n'y avais pas pensé. 
+ — Mon capitaine, dit Étienne Durand, le colonel a besoin de chevaux de voiture : si l'on prenait la Grise et la Blanche, sauf meilleur avis ? 
+ — Vous avez raison, Durand ; voyons, maître Tixier, quel prix en voulez-vous ? 
+ — Vous savez, monsieur l'officier, que j'en ai refusé deux mille deux cents francs, et je vous ai dit la vérité ; mais, comme je ne veux pas faire marchander un homme comme vous, donnez-moi deux mille francs nets et je serai content. 
+ — C'est un peu cher, maître Tixier. 
+ — Je n'en peux rien rabattre, et je vous demanderai encore une pièce de vingt francs par jument pour les épingles de grand Louis. Qu'en dis-tu, toi ? 
+ — Notre maître, répondit grand Louis, je dis que c'est leur prix ; mais, si monsieur l'officier sépare les pauvres bêtes, elles dépériront, je l'en avertis, car elles ne se sont jamais quittées. 
+ — Allons, puisqu'il faut en passer par là, va donc pour deux mille francs et les épingles. Vous, mon garçon, soyez tranquille ; je vous promets que vos juments vivront dans la même écurie et qu'elles seront attelées à la même voiture. Maître Tixier, je ne peux pas prendre vos bêtes tout de suite ; vous me les amènerez à la foire de Vatan dans cinq jours. Je n'achète pas comme un particulier, moi ; il faut que mon marché soit signé des autorités. Je vais laisser les épingles à votre homme, pour qu'il soigne bien mes juments. Adieu, maître Tixier ; merci de votre bon accueil.» 
+ Étienne Durand demanda la permission de causer un instant avec Joséphine, et partit plein d'espoir avec son officier.
+</div></body></text></TEI>

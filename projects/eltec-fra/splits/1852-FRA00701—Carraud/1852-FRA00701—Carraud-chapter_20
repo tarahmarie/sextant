@@ -1,0 +1,18 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="20">
+Mme Dumont interroge la petite Jeanne. 
+ « As-tu les mains propres ? lui demanda Mme Dumont. 
+ — Oui, madame, je me les suis frottées dans le son que la mère Nannette a mis bouillir pour ses oisons. Maman se sert d'un petit bout de bois bien pointu pour nettoyer mes ongles. 
+ — Elle est donc bien propre, ta maman ? 
+ — Oui, madame ; tous les matins elle peigne ses cheveux dans l'étable, et les miens aussi ; et quand elle allait chercher son pain avec moi, nous nous arrêtions toujours au bord du ruisseau pour nous laver les pieds. 
+ — Fais-tu habituellement ta prière, petite Jeanne ? 
+ — Oui, madame, je la fais tous les soirs et tous les matins. Quand le temps est beau, nous la faisons dehors, et, quand nous passons devant l'église, nous entrons toujours pour prier l'enfant Jésus. 
+ — Et que lui demandes-tu dans ta prière ? 
+ — Je le prie de me faire devenir bien grande et bien forte pour gagner notre vie, afin de ne plus demander à ceux qui ne nous doivent rien. 
+ — Tu seras donc bien contente quand tu pourras travailler ? 
+ — Oh ! oui, madame, je vous l'assure. 
+ — Et que feras-tu de l'argent que tu gagneras, quand tu seras grande ? 
+ — Je donnerai du pain et une robe à maman ; puis je donnerai aussi quelque chose à la mère Nannette, qui est si charitable pour nous. 
+ — Mais elle me semble fort à l'aise, la mère Nannette. 
+ — Madame, elle n'est pas riche, et, si elle n'épargnait pas autant, elle aurait bien de la peine à vivre.» 
+ Au bout de quinze jours, Jeanne sut assez bien tricoter pour faire un bas. Sophie lui en commença un, et Jeanne fut très-joyeuse de faire voir à sa maman et à la mère Nannette comment elle travaillait. Quand elle gardait les oies et les deux petits canards, elle avait toujours son bas à la main ; elle ne le quittait pas non plus pour aller aux portes. Les gens qui la voyaient si travailleuse lui donnaient souvent quelque chose avec son pain, ou bien des légumes pour mettre dans le pot ; et quand on faisait de la galette dans les métairies, l'on gardait toujours la part de la petite Jeanne.
+</div></body></text></TEI>

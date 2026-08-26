@@ -1,0 +1,15 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="41">
+Grand Louis veut payer Jeanne. 
+ Quand Jeanne eut fini de raccommoder les chemises de grand Louis, elle choisit l'heure où elle ne le croyait pas à l'écurie pour les porter sur son lit ; mais grand Louis était un finaud, et, se doutant bien que c'était Jeanne qui avait soin de ses effets, il la guettait depuis plusieurs jours. Il se tapit derrière la porte quand il la vit venir les bras chargés de linge, et, pendant qu'elle le posait sur le lit, il sauta tout à coup auprès d'elle. 
+ « Mon Dieu ! que vous m'avez donc fait peur ! dit-elle toute honteuse. 
+ — Ha ! ha ! c'est donc toi, petite Jeanne, qui soignes mes effets ? Je t'en remercie ; mais, comme il n'est pas juste que tu travailles pour rien, je veux te payer. 
+ — Non, grand Louis, vous ne me devez rien ; mon temps est à la maîtresse, et c'est elle qui m'a laissé travailler à vos chemises. 
+ — Te l'a-t-elle commandé ? 
+ — Je ne dis pas ça, grand Louis ; mais, si elle me l'avait défendu, je ne l'aurais pas fait. 
+ — Et ma blouse, et mon pantalon ! Je te dis, moi, petite Jeanne, qu'il ne faut pas tant faire la fière, et que je veux te donner quelque chose. 
+ — Non, grand Louis, vous ne me donnerez rien. Je ne toucherai plus à vos effets si vous me payez, parce que vous croiriez que c'est par intérêt ; mais, pour vous prouver que ce n'est pas la fierté qui m'empêche d'accepter votre argent, écoutez : Je suis une pauvre fille qui n'ai de support de personne sur la terre ; si je me trouve jamais dans la peine, je n'irai pas à un autre qu'à vous. 
+ — C'est dit ; tape là, petite Jeanne !» 
+ Et il lui tendit une main large comme un battoir. Jeanne frappa dedans, et grand Louis, retenant un instant sa main dans la sienne, ajouta : 
+ « Je suis bien sûr que tu me tiendras parole !» 
+ Jeanne retira sa main et s'en retourna à la maison.
+</div></body></text></TEI>

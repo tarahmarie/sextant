@@ -1,0 +1,16 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="125">
+Marguerite vient encore chercher Jeanne. 
+ Marguerite alla trouver Jeanne, et lui dit : 
+ « Il faut pourtant que tu ailles chez M. le curé pour le prier de venir voir Pierre, qui est revenu ; moi, je n'oserais pas. 
+ — Pourquoi donc ? est-ce qu'il est encore malade ? 
+ — Il est pis que jamais.» 
+ Jeanne alla chercher M. le curé, qui recula en voyant les deux jambes de Pierre. 
+ « Malheureux garçon ! vous n'avez donc pas tenu compte de ce que je vous ai dit ? 
+ — Dame ! quand j'ai vu, monsieur, que vous m'aviez si bien guéri, j'ai cru que je pouvais travailler comme les autres.» 
+ Jeanne regarda Marguerite, qui rougit et détourna la tête. 
+ « Pierre, je vous l'ai déjà dit, on est toujours puni quand on fait mal. 
+ Vous n'avez pas voulu me croire, moi, votre pasteur, et qui vous ai soigné si longtemps ; aujourd'hui, je ne puis plus vous guérir, parce qu'il vous faut des soins et une nourriture que vous ne pourrez pas trouver chez votre frère. Je vais tâcher de vous faire entrer à l'hôpital de Bourges. 
+ — A l'hôpital, monsieur ! 
+ — Oui, Pierre, à l'hôpital ; vous y serez bien traité ; je vous recommanderai aux sœurs et à M. l'aumônier, qui s'occuperont de vous trouver un apprentissage quand vous serez guéri. Je ne vois que trois états qui vous conviennent : tailleur, cordonnier ou tisserand ; encore les jambes fatiguent-elles trop dans ce dernier métier. 
+ — Monsieur le curé, j'aimerais l'état de tailleur ; je sais tenir une aiguille, parce que je fais des chapeaux de paille, et je sens que je n'y serais pas maladroit.»
+</div></body></text></TEI>

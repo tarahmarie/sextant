@@ -1,0 +1,4 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Païenne</title><author>Adam, Juliette (1836-1936)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1883</date></publicationStmt></teiHeader><text><body><div type="letter" n="16">
+À TIBURCE 
+ Une tristesse inexplicable, douloureuse, m'envahit. Sans votre tendresse, la vie maintenant me paraîtrait cruelle à vivre. Si je pouvais appuyer ma tête sur votre épaule et longuement m'y reposer, les larmes que je répands seraient de douces larmes.
+</div></body></text></TEI>

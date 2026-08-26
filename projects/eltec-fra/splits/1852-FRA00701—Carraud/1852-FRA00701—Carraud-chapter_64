@@ -1,0 +1,21 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="64">
+Grand Louis demande Jeanne en mariage. 
+ On était en carnaval. Un matin, grand Louis entra dans la boulangerie, où Jeanne était occupée à pétrir le pain. 
+ «Écoute, petite Jeanne, lui dit-il, il y a bien longtemps que j'ai quelque chose à te dire ; mais le courage m'a toujours manqué. Je suis tout triste, je n'ai de cœur à rien ; il faut pourtant que ça finisse : 
+ veux-tu être ma femme ? Tu me connais, et tu sais que tu ne seras pas malheureuse avec moi ; j'ai cinq cents bons francs dans mon coffre pour nous mettre en ménage ; nous avons chacun un morceau de terre et une vigne ; d'ailleurs je ne crains pas de travailler. Hein ! qu'en dis-tu ? 
+ — Merci, grand Louis, je ne veux pas me marier. 
+ — C'est ça ! je m'en doutais ! tu es trop demoiselle pour prendre un paysan comme moi ! Et pourtant, mon Dieu ! tu n'en trouveras pas un en ville qui t'aimera autant. 
+ — Vous avez tort de vous fâcher, grand Louis. Si je voulais me marier, je ne pourrais trouver mieux que vous. Mais la maîtresse est dans son lit, incapable de rien faire, et la pauvre femme n'a aucun espoir de guérir ; Solange ne tardera pas à être demandée en mariage et à quitter la maison ; Joséphine n'a que dix-sept ans, elle est trop jeune pour soigner sa mère et tout : je ne peux donc pas quitter nos maîtres, que j'aime tant ; il y a quelque chose au-dedans de moi qui me dit que, si je le faisais, ce serait mal. 
+ — Qu'à cela ne tienne, ma Jeanne, nous resterons ici ; on ne demandera pas mieux que de nous y garder. 
+ — Peut-être bien, grand Louis ; mais les enfants viendront, et, quand on a des enfants, il faut être à son ménage. On a déjà bien de la peine à vivre toujours d'accord avec ses proches parents ; c'est bien pis chez des étrangers. Mais pour vous prouver que je fais grand cas de vous, si vous voulez m'attendre, je vous promets de ne pas me marier à un autre ; je n'ai que vingt ans, vous n'en avez pas encore vingt-six, nous avons du temps devant nous. 
+ — Comme tu voudras, Jeanne, quoique j'eusse mieux aimé nous marier tout du suite.» 
+ Maître Tixier, qui cherchait grand Louis, entra dans la boulangerie comme la petite Jeanne finissait de parler, et, comme elle était fort rouge, il dit à son laboureur : 
+ « Pourquoi la brusques-tu encore ? Qu'est-ce qu'elle n'a pas bien fait ? 
+ — Notre maître, il ne faut pas vous fâcher contre lui ; il ne me brusquait pas, au contraire. 
+ — Oui, maître Tixier, je lui demandais si elle voulait se marier avec moi, et elle dit que nous avons bien le temps. 
+ — Et elle a raison ; vous avez bien le temps de vous mettre dans la peine ; mais tu n'es pas dégouté, dis donc ! de vouloir prendre Jeanne pour ta femme ! 
+ — Vous voulez vous moquer, notre maître, répliqua Jeanne ; grand Louis peut bien choisir parmi toutes les jeunes filles du pays, il ne sera pas refusé. 
+ — Et pourquoi le refuses-tu donc ? 
+ — Je lui ai donné mes raisons, et il les comprend bien ; et puis nous mettrons un peu d'argent de côté d'ici à quelques années, et après, nous verrons. 
+ — Tu as raison, ma Jeanne ; allons, grand Louis, puisque les accords sont faits, laisse-la tranquille, et retourne à tes juments.»
+</div></body></text></TEI>

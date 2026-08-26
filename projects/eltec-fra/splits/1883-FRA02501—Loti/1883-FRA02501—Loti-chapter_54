@@ -1,0 +1,14 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Mon frère Yves</title><author>Loti, Pierre (1850-1923)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1883</date></publicationStmt></teiHeader><text><body><div type="chapter" n="54">
+LIX 
+ ... Un jour, je reçus une lettre qui m'appelait au secours. 
+ Elle était très simple, et ressemblait beaucoup à celle d'un enfant : 
+ « Mon bon frère, 
+ » Je ne sais comment vous dire, mais c'est vrai, je me suis mis à boire. Aussi je ne voulais pas demeurer dans Brest, vous le savez bien, car j'avais peur de cette chose. 
+ » J'ai déjà été puni trois fois de fers à la Réserve, et maintenant je ne sais plus comment me débarrasser du bâtiment, car je vois bien qu'en restant à bord il m'arrivera quelque malheur. 
+ » Mais il me semble que, si je pouvais embarquer encore près de vous, ce serait tout à fait ce qu'il me faudrait. Mon bon frère, puisque vous êtes bientôt pour repartir, si vous pouviez venir à Brest pour me prendre, je serais bien mieux qu'ici, et, pour sûr, cela me sauverait. 
+ » Vous m'avez fait bien mal en me disant sur votre lettre que je n'aimais pas ma femme ni mon fils ; car, pour elle et mon petit Pierre, je ferais tout. 
+ » Oui, mon bon frère, j'ai pleuré et je pleure encore dans le moment que je vous écris, et je ne vois plus, avec les larmes qui me sont dans les yeux. 
+ » Je n'espère que vous voir venir. Je vous embrasse de tout mon cœur, en vous priant de ne pas oublier votre frère, malgré tous les chagrins qu'il vous donne. 
+ » Bien à vous, 
+ » Yves Kermadec. »
+</div></body></text></TEI>

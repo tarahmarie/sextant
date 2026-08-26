@@ -1,0 +1,9 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="86">
+Jeanne déménage peu à peu. 
+ Quand le mobilier fut rendu et mis en place, grand Louis dit à son maître : 
+ « Votre maison est trop pleine, et cette autre là-bas s'ennuie d'être vide. 
+ — C'est-à-dire que tu as grande envie d'y aller : c'est tout naturel, mes enfants, arrangez ça ensemble ; mais je te préviens que j'ai besoin de toi jusqu'après les vendanges. 
+ — Est-ce que je ne serai pas toujours prêt pour vous servir, là-bas comme ici ? 
+ — Petite Jeanne, je te préviens aussi que je veux planter la crémaillère le jour où tu feras bénir ta maison, et je ferai les frais du souper ; tu m'entends !» 
+ Jeanne emportait son linge et ses habits peu à peu, et elle les rangeait au fur et à mesure ; Louise l'aidait quand elle le pouvait, et bientôt il n'y eut plus que son lit à transporter, car grand Louis avait déjà conduit le coffre et l'armoire de la mère Nannette. Il fut convenu que le dimanche au matin on démonterait le lit, M. le curé devant bénir la maison le soir.
+</div></body></text></TEI>

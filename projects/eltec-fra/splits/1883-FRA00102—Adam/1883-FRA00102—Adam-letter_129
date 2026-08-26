@@ -1,0 +1,8 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Païenne</title><author>Adam, Juliette (1836-1936)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1883</date></publicationStmt></teiHeader><text><body><div type="letter" n="129">
+À TIBURCE 
+ Mon père m'a déclaré, ce matin, que nous allions quitter Noves, que je ne pouvais habiter chez mon mari, après sa conduite à Naples. « Que se passe-t-il donc de nouveau ? » ai-je demandé. 
+ — Des choses telles que la ruine, la saisie prochaine du château, me fut-il répondu ; la vente des terres a déjà commencé. 
+ — Je regrette de n'avoir pas été prévenue plus tôt, ai-je dit froidement ; mais il est temps encore, j'imagine, de tout reprendre, de tout acheter. 
+ — Quoi ! tu songerais à garder ces lieux témoins de tes douleurs, de tes humiliations ? 
+ — Je veux posséder Noves, et je l'aurai. »
+</div></body></text></TEI>

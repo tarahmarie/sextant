@@ -1,0 +1,5 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Païenne</title><author>Adam, Juliette (1836-1936)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1883</date></publicationStmt></teiHeader><text><body><div type="letter" n="20">
+À MÉLISSANDRE 
+ Je suis trop enivré pour traduire les ineffables sensations que j'ai emportées de cette heure divine. J'ai goûté profondément, ce soir, la joie de pénétrer une noble nature et d'en être moi-même pénétré. 
+ Tout d'ailleurs, autour de nous, ajoutait à la majesté de l'incantation. Cette lumière ambrée que nous versait la lune, en nous donnant l'apparence des ombres, semblait ouvrir devant nous les perspectives mêmes des champs Élyséens. Je murmure tout bas l'hymne d'amour, et c'est sous le regard d'Éros, dieu de la vie, que je mets mon cœur à vos pieds.
+</div></body></text></TEI>

@@ -1,0 +1,5 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>L'amie</title><author>Gréville, Henry [Alice Marie Céleste Fleury, dite Durand] (1842-1902)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1878</date></publicationStmt></teiHeader><text><body><div type="letter" n="1">
+« Monsieur, 
+ « Vous m'avez engagée à réfléchir sur votre proposition ; j'ai réfléchi suivant votre conseil, et je suis prête à vous recevoir pour en parler avec vous. 
+ « Camille Frogé. »
+</div></body></text></TEI>

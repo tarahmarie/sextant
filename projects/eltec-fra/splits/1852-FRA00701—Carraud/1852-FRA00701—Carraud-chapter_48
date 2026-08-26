@@ -1,0 +1,13 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="48">
+M. le curé brûle les livres du colporteur. 
+ L'après-midi, M. le curé tira tous les livres et les images de la boîte du marchand ; grand Louis en fit un tas au milieu de la route ; les petits pâtres le couvrirent de chaume et de menu bois, et l'on y mit le feu, qui flamba pendant près de quatre heures. Le jeune garçon était tout triste en voyant brûler ses livres ; M. le curé lui dit : 
+ « Est-ce que vous vous repentez de votre bonne résolution ? 
+ — Non, monsieur, je ne m'en repens pas ; mais c'était là tout mon bien ! 
+ — Je vous ai promis que vous auriez vos cinquante francs. 
+ — Et si vous ne les trouvez pas, monsieur le curé ? 
+ — Soyez tranquille, mon enfant ; si je ne les trouve pas, je vendrai mon grand gobelet et mon couvert d'argent pour compléter la somme.» 
+ Le colporteur le regarda avec de grands yeux, puis il se mit à fondre en larmes ; il n'avait pas cru qu'il y eût des gens aussi bons que cela au monde. 
+ « Que le bon Dieu vous bénisse, dit-il en joignant les mains, pour avoir eu pitié d'un pauvre garçon qui ne le méritait guère !» 
+ Tous les gens du bourg s'étant rassemblés autour du feu de joie, M. le curé leur dit : 
+ « Voyez-vous, mes amis, je brûle les livres et les images de ce brave garçon, qui me laisse faire, parce que je lui ai dit que c'était offenser Dieu que de vendre des choses pareilles ; et pourtant c'est là tout son avoir.»
+</div></body></text></TEI>

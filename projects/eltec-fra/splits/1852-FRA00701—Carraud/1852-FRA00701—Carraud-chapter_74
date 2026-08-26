@@ -1,0 +1,11 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="74">
+L'officier s'étonne d'entendre parler maître Tixier de cette façon-là. 
+ « Mais où avez-vous pris tout ce que vous venez de me dire, maître Tixier, puisque vous ne savez pas lire ? 
+ — Je vous l'ai dit, mon capitaine ; je fais attention à tout ce que j'entends, et la nuit je le repasse dans ma tête.» 
+ Puis il ôta son chapeau, et, regardant le ciel, il continua : 
+ « Je lève souvent les yeux pour penser à celui qui est là-haut, et je les abaisse sur la terre pour le bénir. Quand je vois le ciel avec son beau soleil et ses étoiles, je dis que celui qui a fait tout ça s'y entend mieux que nous, et qu'il n'y a rien à redire à son ouvrage. Le soleil réchauffe les méchants comme les bons ; la pluie fait pousser le blé de tout le monde, sans préférence pour personne : c'est pour nous faire comprendre qu'il faut être bon comme Dieu pour lui plaire. 
+ — Mais à ce compte-là, maître Tixier, les méchants seraient aussi bien traités que les bons. 
+ — Le Seigneur est mort pour eux aussi, mon officier ; mais on n'est pas heureux en faisant le mal, demandez à notre curé ! Il vous dira qu'il n'y a point de repos pour les méchants, et que le mal qu'ils font les tourmente plus qu'il ne nuit aux autres. D'ailleurs, est-ce que nous n'avons pas les récompenses et les peines de l'autre vie pour nous rassurer là-dessus ? Laissons faire à la bonté de Dieu, et confions-nous dans sa justice. 
+ — Maître Tixier, vous êtes un digne homme, et je vous offre mon amitié en échange de la vôtre. Si vous l'acceptez, je m'en tiendrai fort honoré. 
+ — Mon capitaine, tout l'honneur sera pour moi. Touchez là, et si jamais vous avez besoin de Sylvain Tixier, venez le trouver sans crainte ; la nuit comme le jour, il sera prêt à vous servir. Parlons affaires, maintenant. Jeanne, va chercher ton mari.»
+</div></body></text></TEI>

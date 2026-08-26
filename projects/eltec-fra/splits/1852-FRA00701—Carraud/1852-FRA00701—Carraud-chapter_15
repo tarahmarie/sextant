@@ -1,0 +1,18 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="15">
+Isaure cause avec la petite Jeanne. 
+ Pendant que sa mère parlait, Isaure était montée sur une chaise auprès du lit de Jeanne, et causait avec elle. 
+ « Tu t'ennuies bien au lit, n'est-ce pas, petite Jeanne ? 
+ — Oui, mademoiselle, j'aimerais mieux être levée et garder les oisons de la mère Nannette ; mais il faut bien que maman nettoie mes habits ; elle dit que c'est bien assez d'être pauvre, et qu'il ne faut pas causer de répugnance aux gens qui nous soulagent. 
+ — Tu vas donc tous les jours chercher ton pain ? 
+ — Oh ! non, mademoiselle : quand on nous en donne beaucoup, nous restons à la maison aussi longtemps qu'il y en a ; c'est si pénible d'aller aux portes ! 
+ — Te donne-t-on toujours, quand tu demandes ? 
+ — Mademoiselle, je ne demande rien ; je reste à la porte jusqu'à ce qu'on me donne. Quelquefois il n'y a personne dans les maisons, pendant la moisson, ou bien en temps de fenaison. Ces jours-là, je ne trouve pas grand'chose. 
+ — Et quand on ne te donne rien ? 
+ — Nous nous couchons sans souper ; ça nous est arrivé plus d'une fois avant d'être chez la mère Nannette ; mais elle ne veut pas que nous souffrions la faim, et, quand nous n'avons point de pain, elle nous en prête. 
+ — Vas-tu t'amuser quelquefois sur la place de l'église avec les petites du bourg ? 
+ — Oh ! mademoiselle, elles ne voudraient pas de moi ! 
+ — Tiens ! pourquoi ? 
+ — C'est que je cherche ma vie. 
+ — Sais-tu que c'est bien mal cela !» 
+ La mère Nannette rentra, et Mme Dumont la loua beaucoup de sa charité envers la pauvre veuve et son enfant.
+</div></body></text></TEI>

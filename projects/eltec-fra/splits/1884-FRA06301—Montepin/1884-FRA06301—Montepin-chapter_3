@@ -1,0 +1,177 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La porteuse de pain</title><author>de Montépin, Xavier (1839-1915)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1884</date></publicationStmt></teiHeader><text><body><div type="chapter" n="3">
+III 
+ L'ingénieur Jules Labroue était un homme de quarante-cinq ans. La bonté formait le fond de sa nature, ce qui ne l'empêchait point d'être à cheval sur la discipline. Élève de l'École polytechnique, il conduisait son usine militairement. 
+ Ne possédant qu'une très médiocre fortune, il avait épousé à trente-deux ans une femme assez riche pour lui permettre de donner suite aux projets qui le hantaient depuis sa première jeunesse. Il portait mille inventions dans son cerveau toujours en travail. Grâce à la dot de sa femme, il passa du domaine de la théorie dans celui de la pratique. Il put faire construire l'usine qu'il dirigeait à Alfortville. Il n'avait pas encore mis d'argent de côté, mais la maison prenait de jour en jour plus d'extension et le fonds de roulement devait se doubler et même se quadrupler à bref délai, car l'inventeur travaillait sans relâche. 
+ Cinq ans auparavant, Jules Labroue avait perdu sa jeune femme, morte en mettant au monde un garçon. Cette mort prématurée frappa douloureusement l'ingénieur. Blessé au cœur il devint acariâtre. Il ne retrouvait quelque chose de son ancienne douceur de caractère qu'auprès de son petit garçon Lucien. 
+ Lucien était élevé chez la sœur de son père, veuve et retirée dans un village du Blaisois. Chaque mois Jules Labroue quittait l'usine pendant quarante-huit heures afin d'aller embrasser son fils qu'il adorait. Pour Lucien seul, il ambitionnait de réaliser une grande fortune. 
+ … On arriva au pavillon où se trouvaient les bureaux et la caisse. M. Labroue s'arrêta devant le guichet, tira de sa poche un portefeuille dans lequel il prit des papiers qu'il posa sur la tablette de cuivre, et dit au caissier : 
+ « Monsieur Ricoux, voici deux traites de la maison Baumann : vous en passerez écriture et vous les joindrez au bordereau que vous m'apporterez tout à l'heure et qu'il faudra envoyer demain à la Banque… » 
+ L'ingénieur ouvrit la porte de son cabinet, entra, et fit signe à Jacques d'entrer avec lui. Il s'assit à son bureau. 
+ « Avez-vous visité, chez M. Montreux, la machine que nous avons mise en place il y a quinze jours ? demanda-t-il à Jacques. 
+ — Oui, monsieur… Il faudra une journée d'ouvrier pour quelques petites réparations d'ajustage. Un bon ajusteur est nécessaire… je pensais à Vincent, mais… 
+ — Mais, interrompit d'un ton sec M. Labroue, Vincent ne fait plus partie des ateliers. Vous savez que je ne reviens jamais sur ce que j'ai dit. Vous tancerez vertement le contremaître de son atelier. Il aurait dû surveiller ses hommes mieux qu'il ne l'a fait. Vous ne pouvez être partout à la fois, mais vous devez vous faire craindre assez pour qu'on ne se croie pas tout permis quand vous avez le dos tourné. J'ai confiance en vous, je vous délègue mon autorité ; ne l'oubliez pas ! Vous manquez de sévérité. Je vois des choses qui m'irritent. Savez-vous qu'une ouvrière a quitté son travail pour venir garder la loge pendant une absence de Mme Fortier ? 
+ — Je le sais, mais c'est une ouvrière qui est à ses pièces. 
+ — Peu m'importe ! il est d'un mauvais exemple qu'on quitte l'atelier, Mme Fortier doit savoir en outre qu'il lui est défendu de s'éloigner de l'usine pendant les heures de travail. J'ai eu tort de lui donner cette place de gardienne. Je n'ai point réfléchi qu'une jeune femme ne pourrait remplacer un gardien. Pour une surveillance active de jour et de nuit, un homme est indispensable. Jeanne Fortier ne gardera pas sa position ici. » 
+ Jacques tressaillit en entendant ces mots. 
+ En ce moment le caissier entra dans le cabinet et dit : 
+ « Voici le bordereau pour la Banque, monsieur. » 
+ M. Labroue d'un coup d'œil évalua le total du bordereau. 
+ « Cent vingt-sept mille francs, dit-il. 
+ — Oui, monsieur… » 
+ Jacques Garaud écoutait. L'ingénieur endossa les traites, signa le bordereau et reprit : 
+ « Vous enverrez cela demain à la Banque ; après demain on ira toucher. 
+ — Ce sera fait, monsieur. 
+ — Vous avez relevé les échéances pour le 10 ? 
+ — Oui, monsieur. 
+ — Quel est l'écart entre les sommes payées et les sommes à recevoir ? 
+ — Soixante-trois mille francs à votre actif, monsieur. 
+ — Très bien. » 
+ M. Ricoux se retira. Jacques était resté debout, la casquette à la main. M. Labroue quitta son bureau, vint à la grande table chargée de dessins et d'épures, et dit : 
+ « Ou je me trompe beaucoup, Jacques Garaud, ou j'ai trouvé quelque chose de merveilleux… une fortune !… 
+ — Une fortune ! répéta Jacques Garaud, tandis qu'une lueur de cupidité s'allumait dans ses yeux. 
+ — Oui, répondit l'ingénieur. Une application nouvelle du moins ; le perfectionnement d'un système suisse que vous devez connaître. J'ai besoin d'en causer avec vous, Jacques, vous m'inspirez la plus grande confiance et la plus grande estime. Outre que vous savez à fond votre métier, vous êtes chercheur et de bon conseil. J'ai besoin de vous pour mener à bien une dernière invention. Vous étiez dans une fabrique en Suisse avant d'entrer chez moi, m'avez-vous dit ?… 
+ — Oui, monsieur. 
+ — Vous vous êtes occupé certainement des machines à guillocher qu'on exécute pour l'Amérique ?… 
+ — Oui, monsieur. Mais je me permettrai de vous faire observer que la machine à guillocher a dit son dernier mot… 
+ — Pour les machines à guillocher les surfaces planes, oui. 
+ — Il est impossible de faire des tours capables de guillocher des surfaces arrondies. 
+ — Croyez-vous ? 
+ — Je le crois d'autant mieux que j'ai tout particulièrement étudié le système. 
+ — Difficile, oui… impossible, non… C'est une machine à guillocher les contours que j'ai inventée. » 
+ Le contremaître ouvrit de grands yeux et fit un geste de surprise. 
+ « Si vous ne vous illusionnez pas, monsieur, dit-il ensuite, vous gagnerez des millions ! On s'arrachera cette mécanique introuvable… 
+ — Je l'ai trouvée, mais, je vous le répète, j'ai besoin de m'entendre avec vous sur diverses applications de mon système. Je pense comme vous que, si la réussite est complète, je réaliserai pour mon fils une grosse fortune. C'est surtout en pensant à lui, à son avenir, que je travaille avec tant de courage, mais je ne veux pas être égoïste ; je vais vous confier mes plans. Nous les étudierons ensemble et, si vous n'y trouvez rien à reprendre ou à modifier, vous vous mettrez à l'œuvre pour la construction, en ayant soin de tenir secrète une découverte qu'une seule indiscrétion permettrait peut-être de me voler. 
+ — Ah ! monsieur, s'écria Jacques, vous pouvez compter sur moi, vous le savez bien. 
+ — Je le sais et c'est pour cela que je fais de vous, à partir d'aujourd'hui, un collaborateur associé. Sur les bénéfices de la machine à guillocher que nous allons construire, je vous donnerai quinze pour cent. » 
+ Le feu de la convoitise s'alluma dans les yeux du contremaître. 
+ « Quinze pour cent ! répéta-t-il. 
+ — Oui, et je porterai cette somme à vingt pour cent après un chiffre de trois cent mille francs de bénéfices nets. Du reste, nous signerons un petit traité. Venez voir mon plan. » 
+ M. Labroue ouvrit le coffre-fort qui se trouvait de l'autre côté de la fenêtre. Il y prit une cassette qu'il plaça sur la table du milieu et, après l'avoir ouverte à l'aide d'une clef microscopique suspendue à sa chaîne de montre, il en tira des papiers qu'il déroula et qu'il étala sur le tapis de drap vert. 
+ L'ingénieur entama alors des explications en termes techniques dans lesquelles nous nous garderons bien de le suivre. 
+ « C'est admirable, monsieur ! s'écria Jacques Garaud quand l'ingénieur eut achevé. C'est la réalisation de l'impossible. 
+ — Vous croyez alors la réussite probable ? 
+ — Je la regarde comme certaine. 
+ — Eh bien, ma part de collaboration est faite. La vôtre commence. Mettez-vous à l'œuvre. 
+ — Je m'y mettrai après avoir étudié à tête reposée tous les détails afin de faire construire les modèles à forger ou à fondre. 
+ — Chaque jour vous viendrez dans mon cabinet, et pendant deux ou trois heures je vous donnerai ces plans. Je n'ose les laisser sortir d'ici. Nulle précaution n'est inutile. 
+ — Je viendrai là, dit le contremaître, sous vos yeux faire mes dessins de modèles, et si de petites modifications me paraissent nécessaires, je vous les signalerai. 
+ — C'est convenu, nous travaillerons ensemble, Jacques. 
+ — Monsieur, je vous remercie de toute mon âme et ma reconnaissance vous est à tout jamais acquise. 
+ — Je n'en doute pas. Maintenant que vous voilà pour ainsi dire mon associé, il faut que vous redoubliez d'activité, de zèle, et que vous vous montriez sévère dans les ateliers. 
+ — Dois-je toujours préparer le compte de Vincent ? 
+ — Oui, je persiste à faire un exemple. Veuillez, en sortant dire au garçon de bureau de m'envoyer Mme Fortier. 
+ — Oui, monsieur. » 
+ Jacques se retira. Le garçon de bureau n'était pas rentré. 
+ Le contremaître alla lui-même à la loge de Jeanne. 
+ « Madame Fortier, lui dit-il, le patron vous demande. » 
+ La jeune femme se mit à trembler. 
+ « Il vous a parlé de moi, n'est-ce pas ? balbutia-t-elle. 
+ — Oui. Il va vous gronder sérieusement. Vous le connaissez, il a bon cœur, mais il est parfois brutal. Laissez-le dire sans lui répondre. Quoiqu'il arrive, songez que vous avez en moi un ami absolument dévoué. 
+ — Advienne que pourra ! répliqua la jeune veuve. J'ai la conscience tranquille. Mais qui gardera ma loge ? 
+ — Fermez tout bonnement la porte. Votre absence ne sera pas longue. Moi, je retourne aux ateliers. » 
+ Jacques semblait préoccupé. Il traversa les ateliers et entra dans une pièce, spécialement affectée à son usage. Là, il se laissa tomber sur une chaise. 
+ « Certes, murmurait-il, le patron ne se trompe pas ! C'est une fortune ! Ce que je cherchais, il l'a trouvé ! Si cette invention m'appartenait, ce ne serait pas cent, deux cent, trois cent mille francs que je gagnerais, mais des millions ! Oui, des millions. Mais il faudrait de l'argent pour louer des ateliers, pour les outiller, pour faire construire. Et je n'ai rien ! » 
+ Après un silence Jacques poursuivit, en serrant les poings : 
+ « Ah ! la tentation est forte ! Quinze pour cent… vingt pour cent… qu'est-ce cela, quand je pourrais avoir tout ! Je serais riche alors et Jeanne ne refuserait plus de m'entendre ! Le patron est irrité contre elle. Je voudrais qu'il la rudoie, qu'il la chasse ! Elle se trouverait sur le pavé, sans ressources pour elle et pour ses deux enfants. Il lui faudrait bien venir à moi !… » 
+ Jeanne Fortier, en proie à un trouble facile à comprendre, avait franchi le seuil du pavillon où se trouvait le cabinet de M. Labroue. Elle frappa d'une main tremblante. 
+ « Entrez », cria M. Labroue. La jeune femme entra et d'une voix étranglée balbutia : 
+ « Vous m'avez fait demander, monsieur ? 
+ — Oui, madame, répondit l'ingénieur d'un ton rude. J'ai besoin de savoir pourquoi vous vous êtes absentée de l'usine, cet après-midi, confiant à une ouvrière la garde de votre loge, ce qui est absolument contraire à la règle établie. 
+ — Monsieur, répliqua Jeanne, si j'ai cru pouvoir quitter ma loge, c'était pour les besoins de l'usine. J'allais acheter le combustible nécessaire à l'entretien des lampes de nuit. 
+ — Soit ! Mais rien ne vous empêchait d'attendre la fermeture des ateliers pour faire cette emplette. De plus, votre faiblesse à l'endroit de Vincent prouve qu'il est impossible de compter sur vous. Encore une fois, madame, je me suis fourvoyé en faisant de vous la gardienne de l'usine. » 
+ Jeanne avait les yeux pleins de larmes. 
+ « Je n'ai pas sollicité cet emploi, monsieur, fit-elle avec dignité, vous avez cru devoir me l'offrir pour m'aider à vivre après la mort de mon pauvre mari tué à votre service. J'ai accepté en vous bénissant, car je n'avais que la misère en perspective. Mais vous m'adressez de durs reproches et j'ai conscience de ne les point mériter. 
+ — Quoi ! prétendez-vous n'avoir point désobéi aux règlements ? 
+ — J'ai prié une femme qui travaille à ses pièces de me remplacer. Le temps que cette femme a perdu lui appartenait. 
+ — Vous déplacez la question ! répliqua l'ingénieur irrité de se voir tenir tête. C'est à vous seule qu'a été confiée la garde de l'usine. Mais passons ! Vous avez laissé sortir un ouvrier sans autorisation. 
+ — C'est vrai, monsieur, j'ai été faible devant les prières de Vincent, j'ai cédé, j'ai désobéi, mais vous savez pourquoi, monsieur ; à moins d'avoir un cœur de pierre, tout le monde à ma place aurait agi comme j'ai agi. 
+ — Nous ne sommes guère faits pour vivre ensemble, madame Fortier, dit l'ingénieur après un silence, et je le regrette. Cependant vous êtes digne d'intérêt… » 
+ En ce moment le caissier Ricoux entra dans le cabinet pour soumettre au patron des pièces de comptabilité. La vérification opérée, le caissier reprit ses pièces. Il allait sortir, mais ses yeux tombèrent sur la jeune veuve, et il dit : 
+ — Puisque Mme Fortier est là, ayez donc la bonté, monsieur, de lui apprendre qu'il lui est absolument défendu d'introduire du pétrole dans l'usine pour son usage particulier. » 
+ M. Labroue bondit. 
+ « Du pétrole ! s'écria-t-il, du pétrole ici ! 
+ — Oui, monsieur, répondit le caissier, Mme Fortier se sert d'une lampe à huile minérale. J'ai senti hier, auprès de sa loge, l'odeur du pétrole renversé. 
+ — Prétendez-vous ignorer, madame, que ceci constitue une désobéissance formelle au règlement ? demanda l'ingénieur. 
+ — Je l'ignorais, monsieur. 
+ — C'est impossible ! 
+ — Je ne mens jamais. À quoi me servirait d'ailleurs un mensonge ? Je vois bien que la mesure est comble. 
+ — Et vous ne vous trompez point, madame, répliqua M. Labroue. À la fin du mois vous quitterez l'usine. 
+ — Ainsi, balbutia Jeanne qu'étouffaient les sanglots, vous me chassez !… Mon mari est mort dans votre maison, tué pour votre service, à son poste, comme un soldat. Que vous importe ! Vous me chassez ! Que deviendrai-je ? que deviendront mes petits enfants ? Peu vous importe encore ! Ah ! tenez, monsieur, prenez garde, cela ne vous portera pas bonheur !… » 
+ M. Labroue regarda Jeanne fixement. 
+ « Qu'est-ce à dire ? demanda-t-il. 
+ — Malheureuse ! s'écria le caissier. C'est une menace ! 
+ — Non, monsieur, répondit Jeanne qui sanglotait, je ne menace pas, je ne menace personne, j'accepte le malheur qui, coup sur coup, me frappe, et je garde pour moi mon chagrin… Je suis fautive, j'en dois porter la peine. Je partirai, monsieur, je m'en irai dans huit jours. Veuillez vous procurer quelqu'un qui me remplace. » 
+ M. Labroue, malgré sa rudesse, se sentait très ému. 
+ « Vous vous trompez absolument, ma pauvre enfant, fit-il avec douceur, je ne vous chasse pas… Je m'aperçois que j'ai eu tort de mettre une femme à un poste où de toute nécessité il faut un homme… et vous devez le comprendre. 
+ — Il fallait y penser d'abord, monsieur. 
+ — Sans doute, mais mon vif désir de vous être utile m'a empêché de réfléchir. Restez jusqu'à la fin du mois. D'ici là je vous aurai trouvé une place mieux en rapport avec votre caractère et vos aptitudes. 
+ — Non… non… monsieur, dans huit jours, je partirai. Aussi bien, cette maison était un enfer pour moi. Il me semblait y marcher dans du sang, au milieu de mes souvenirs lugubres. C'est une maison maudite, où mon pauvre mari a trouvé la mort, et où je n'ai trouvé, moi, que des chagrins. » 
+ Et la jeune femme s'élança hors du cabinet. 
+ « Pauvre femme ! dit l'ingénieur. Je suis désolé vraiment de ce qui arrive. J'ai ravivé toutes ses douleurs. Certes, elle n'agissait point avec des intentions mauvaises, mais enfin rien ne se passait correctement. Je ne sais où j'avais la tête en lui donnant cette place. 
+ — Vous n'écoutiez que votre bon cœur, monsieur, répliqua le caissier d'un ton patelin. 
+ — Je lui trouverai une place auprès de ma sœur. Cela pourra s'arranger sans doute. 
+ — Ah ! monsieur, reprit le caissier, prenez garde de trop suivre votre premier mouvement. Cette femme vous a menacé. 
+ — Était-ce bien une menace ? 
+ — Positivement. Cette Jeanne Fortier me fait l'effet de partager sa haine entre vous et la maison. Prenez garde, monsieur… 
+ — Allons, Ricoux, vous exagérez ! Vous voyez les choses trop en noir ! Cette pauvre femme est veuve et mère de famille ! Je dois faire quelque chose pour elle. Si je ne puis la placer auprès de ma sœur, je lui remettrai une somme assez ronde pour lui permettre de vivre en attendant du travail. » 
+ Puis, changeant de conversation, M. Labroue ajouta : 
+ « Vous avez établi votre balance ? 
+ — Oui, monsieur, la voici », répondit Ricoux. 
+ Et il tendit à l'ingénieur une feuille de papier sur laquelle étaient tracés des chiffres. 
+ « Sept mille cent vingt-trois francs trente centimes… 
+ — Oui, monsieur. Je vais vous les apporter. 
+ — Quelle singulière manie est la vôtre ! mon cher Ricoux. Je suis le caissier de mon caissier ! Pourquoi ne gardez-vous pas l'argent dans votre coffre-fort ? 
+ — J'ai déjà eu l'honneur de vous le dire, monsieur, la responsabilité m'épouvante. Ne couchant pas à l'usine, je ne veux répondre de rien. 
+ — Apportez donc les fonds. » 
+ Ricoux alla chercher la somme de sept mille cent vingt-trois francs trente centimes, et la remit à M. Labroue qui la serra dans sa caisse particulière, ainsi qu'il le faisait tous les soirs. On entendit la sonnerie de cloche, annonçant la fermeture des ateliers. Le caissier souhaita le bonsoir à son patron et se retira. Le garçon de bureau vint prendre les ordres. 
+ « Vous pouvez partir, je n'en ai pas à vous donner ce soir, David », lui fit l'ingénieur. 
+ David quitta le cabinet, prit son chapeau dans le couloir et traversa pour gagner la porte de sortie. 
+ Le départ des ouvriers s'achevait. Le garçon de bureau, au lieu de sortir de la cour, s'arrêta sur le seuil de la loge. 
+ « Eh bien, quoi, petit Georges, cria-t-il, on ne vient donc pas dire bonsoir à son camarade, aujourd'hui ? » 
+ L'enfant apparut. 
+ « Qué que t'as ? reprit David, t'as les yeux rouges, mon mignon. Pourquoi tu pleures ? 
+ — Maman a du chagrin… fit le petit Georges. 
+ — Du chagrin ? » répéta le garçon de bureau. 
+ Il avança sa tête dans l'encadrement de la porte et demanda : 
+ « Quoi c'est-il donc qui se passe, m'ame Fortier ? » 
+ Jeanne sanglotait. 
+ « Ah ! mon pauvre David, balbutia Jeanne en essayant d'étouffer ses sanglots, je suis malheureuse… On me chasse… 
+ — On vous chasse d'ici, vous ! s'écria le garçon de bureau atterré par cette nouvelle, c'est pas possible. Et pourquoi ?… Qu'est-ce qu'on a donc à vous reprocher ? » 
+ Jeanne raconta brièvement les motifs du mécontentement de l'ingénieur. 
+ « Ah ! reprit David après avoir écouté, présentement la chose ne m'étonne plus. Mais ça s'arrangera. Vous connaissez le particulier, vif comme la poudre, mais au fond il n'y a pas de plus brave homme que lui. Il ne peut pas vous renvoyer, vous la veuve de Pierre Fortier. 
+ — Je m'en irai. Dans huit jours j'aurai quitté l'usine ! Mais je l'ai dit à M. Labroue, ça ne lui portera point bonheur ! 
+ — Tout ça, c'est des paroles, m'ame Fortier. Ça se rabibochera, vous verrez, et vous resterez avec nous… Au revoir, m'ame Fortier… Bonsoir petiot. » 
+ David tendit les bras à Georges, lui donna deux gros baisers et sortit. Jeanne attendit pour fermer la porte que les feuilles de présence lui eussent été apportées. Dix minutes s'écoulèrent, puis Jacques Garaud parut. 
+ « Voici les feuilles, dit-il. Rien de nouveau ? » 
+ Le petit Georges lui saisit la main, et répondit : 
+ « Nous avons bien du chagrin, mon ami Jacques. Nous partons de l'usine… » 
+ Le contremaître tressaillit. 
+ « Vous partez de l'usine ! » s'écria-t-il. 
+ Jeanne fit un signe de tête affirmatif. 
+ « Ainsi, ce que je redoutais est arrivé ! Le patron vous a fait des reproches… il s'est mis en colère, et… 
+ — Et il m'a chassée ! acheva Mme Fortier. 
+ — Vous l'avez irrité, certainement. 
+ — Je me suis révoltée contre ses reproches qui pouvaient être formulés moins durement. Dans huit jours, je quitterai l'usine. 
+ — Et où irez-vous, dans huit jours ? Que ferez-vous ? 
+ — Où j'irai ? Je ne sais pas… Ce que je ferai ? Je travaillerai… pour gagner mon pain et celui de mes enfants. 
+ — Voyons, Jeanne, il ne faut point aggraver par votre faute une situation déjà bien difficile. Le patron peut revenir sur cette détermination prise dans un premier mouvement. 
+ — Je veux partir. 
+ — Et moi, Jeanne, je ne vous verrai plus ! 
+ — Cela vaudra mieux. Souvenez-vous de ce que je vous disais tantôt. En ne me voyant plus, vous m'oublierez. 
+ — Souvenez-vous de ce que je vous ai répondu : Mon amour, c'est ma vie ! Voyons, Jeanne, point de coup de tête ! Demain je parlerai au patron, je le supplierai de vous conserver ici. 
+ — Monsieur Garaud, je vous défends de faire cela. 
+ — Mais c'est la misère qui vous attend ! Jeanne, vous connaissez mes sentiments pour vous. Je vous répète ce soir ce que je vous disais ce matin ! Je vous aime… aimez-moi… vivons ensemble… » 
+ La jeune femme indignée se redressa. 
+ « Vivre avec vous ! s'écria-t-elle. Être votre maîtresse !… Pour me faire une proposition semblable, il faut que vous me méprisiez bien ! 
+ — Je vous jure que le lendemain du jour où les dix premiers mois de votre veuvage seront finis, vous deviendrez ma femme. » 
+ Puis il poursuivit avec passion : 
+ « Jeanne… chère Jeanne… réfléchissez… Ce que je vous propose, c'est la vie, c'est le bonheur pour des petits êtres que vous aimez, et que j'aimerai, moi, de toutes mes forces. Si vous me repoussez, ce sera pour eux comme pour vous la misère… La misère noire. On sait ce que rapporte le travail d'une femme. Jamais vous ne pourrez gagner assez pour donner aux petits la nourriture et les vêtements dont ils ont besoin. 
+ — Ah ! tentateur ! Vous assombrissez ce tableau pour m'épouvanter… pour me décourager… 
+ — Je vous dis la vérité telle qu'elle est. Mais je vous sauverai malgré vous ! Vous serez ma femme… 
+ — Mon Dieu… mon Dieu… fit Jeanne avec une sorte d'affolement. Il ne se taira pas, et il ne partira pas ! 
+ — Je veux vous prouver ma tendresse par mon obéissance. Je pars. Mais pour m'occuper de vous… » 
+ Et Jacques Garaud quitta la jeune femme qu'il laissait en proie à une agitation terrible. Ces paroles confuses s'échappaient de ses lèvres : 
+ « Il a raison… il n'a que trop raison. Pour ces pauvres petits, pour moi, c'est la misère. Comment pourrais-je, avec le travail de mes mains, payer les mois de nourrice de Lucie ? Comment élèverais-je Georges ? Ah ! la situation est effroyable. Jacques m'offre la paix… la tranquillité… l'aisance… Mais pour cela il faudrait trahir le serment que j'ai fait à Pierre à son lit de mort. Ce serait odieux… ce serait lâche !… Non… Non… » 
+ Jeanne, puisant dans sa volonté une force surhumaine, se leva, essuya ses larmes et sortit de la loge. Elle ferma la porte de la cour comme cela lui était recommandé, puis elle alla faire une ronde dans les ateliers déserts, visita les écuries, où le cocher donnait à ses chevaux le repas du soir, et revint chez elle. 
+ M. Labroue se présentait pour sortir. Elle lui ouvrit la porte sans prononcer une parole et rentra. Georges jouait dans un coin de la chambre avec son éternel cheval de carton et avec une boîte de soldats de plomb. Le cocher sortit à son tour. Jeanne resta seule dans la fabrique.
+</div></body></text></TEI>

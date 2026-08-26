@@ -1,0 +1,4 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Païenne</title><author>Adam, Juliette (1836-1936)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1883</date></publicationStmt></teiHeader><text><body><div type="letter" n="137">
+À MÉLISSANDRE 
+ Ce que tu m'écris me rend fou ; je ne suis plus le maître de mes emportements vers toi. Je voudrais t'appartenir tout entier, t'avoir sans fin, sans trêve, sans repos, travailler, vivre à tes côtés.
+</div></body></text></TEI>

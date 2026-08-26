@@ -1,0 +1,19 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="116">
+Nannette a un grand chagrin de quitter sa mère. 
+ A peine Mme Isaure fut-elle partie, que Nannette, qui pleurait dans l'autre chambre, parce qu'elle avait tout entendu, se mit à éclater : 
+ « Ma chère mère, il faut donc nous séparer ! je ne le pourrai jamais ; j'en mourrai, bien sûr. 
+ — Ma pauvre fille, tu n'en mourras pas. Quand j'ai perdu ton père, je ne suis pas morte, parce que j'ai pensé à vous, mes enfants ; et tu penseras à moi pour te donner du courage. 
+ — Mais, c'est si dur d'aller chez les autres ! 
+ — Il est sûr qu'il vaut mieux rester avec ses parents, quand on le peut, que d'aller dans la meilleure des conditions. C'est le malheur qui nous force à nous quitter, ma Nannette ; mais ce ne sera pas pour toujours. 
+ Nous sommes trop de bouches ici, et puis je ne peux rien acheter pour ta toilette ; au lieu que tout ce que tu vas gagner sera pour toi, ma fille. 
+ — Et pour vous aussi, ma chère maman. Mais je ne pourrai jamais vivre sans vous voir. 
+ — Si, ma fille ; tu auras beaucoup d'ouvrage et tu penseras moins à nous. 
+ Mme Isaure est bien bonne ; ce ne sera pas une maîtresse ordinaire pour toi : c'est elle qui m'a donné le premier argent que j'ai touché, qui m'a appris tout ce que je sais ; elle m'a toujours protégée ; tu seras même mieux auprès d'elle qu'auprès de moi, et tu l'aimeras bien vite, je t'en réponds.» 
+ Mais Nannette ne se consolait point ; sa mère lui dit : 
+ « Mon enfant, va voir M. le curé ; il a de bonnes paroles pour toutes les peines, et tu prieras Dieu avec lui.» 
+ M. le curé fit dîner Nannette à sa table, et la ramena le soir à sa mère. 
+ « N'est-elle pas bien heureuse, dit Jeanne, dans notre malheur, de trouver une place tout près de nous et chez des gens que nous aimons tant ? 
+ — Oui, Jeanne, et elle le comprend maintenant ; je vous promets qu'elle sera bien raisonnable. 
+ — Nannette, nous irons demain chez Mme Dumont pour savoir quand on aura besoin de toi ; si tu as les yeux gonflés, elle croira que tu as oublié ce qu'elle a fait pour nous. 
+ — Ma mère, je vais mener notre vache aux champs, ça me remettra un peu.»
+</div></body></text></TEI>

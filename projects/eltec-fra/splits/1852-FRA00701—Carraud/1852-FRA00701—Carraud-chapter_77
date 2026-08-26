@@ -1,0 +1,12 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="77">
+Jeanne a une petite fille.-- La petite Nannette. 
+ Jeanne eut une petite fille : elle n'en cacha pas sa joie, quoique grand Louis, qui désirait un garçon, fit un peu la grimace ; mais quand il eut embrassé la petite Nannette (car Jeanne voulut donner à sa fille le nom de l'excellente femme qui avait été pour elle une seconde mère), il fut si aise, qu'il ne pensa plus au garçon. On baptisa l'enfant, dont Louise fut marraine avec Guillaume, son beau-frère. 
+ La petite Nannette était si douce, si tranquille, qu'on ne l'entendait jamais crier. Quand elle avait tout ce qu'il lui fallait, on la posait sur le lit de la maîtresse, à côté d'elle, et on ne la tenait jamais sur les bras. 
+ « Eh bien ! disait maître Tixier, cette enfant qui devait me casser la tête, je ne l'ai pas encore entendue. Vous la laissez sur le lit comme une souche : si elle était méchante, vous seriez toutes après ; et parce qu'elle est douce, vous ne vous en occupez seulement pas. C'est toujours comme ça. 
+ — C'est bien vrai, mon père, dit Louise ; mais Jeanne ne veut jamais que je la prenne. 
+ — Ne l'écoute pas, ma fille ; moi, je te commande de la promener. 
+ — Notre maître, elle en prendra l'habitude, puis elle ne voudra plus rester au lit. 
+ — Ne voilà-t-il pas un grand malheur ! vous êtes six femmes ici, et vous ne pouvez pas tenir cette petite les unes ou les autres ! Si c'était aussi bien l'enfant de Joséphine, tu ne le laisserais pas comme ça ! 
+ — Mais, notre maître, ce n'est pas la même chose. 
+ — Et moi je dis que si, entends-tu ?»
+</div></body></text></TEI>

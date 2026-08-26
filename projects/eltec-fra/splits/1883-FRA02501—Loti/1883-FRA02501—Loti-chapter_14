@@ -1,0 +1,6 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Mon frère Yves</title><author>Loti, Pierre (1850-1923)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1883</date></publicationStmt></teiHeader><text><body><div type="chapter" n="14">
+XIV 
+ Ce fut un matin, à l'entrée de la mer des Célèbes, que mourut cette chouette qui était la perruche d'Yves, un matin de grand vent où on prenait le second ris aux huniers. Elle se laissa écraser, par insouciance, entre le mât et la vergue. 
+ Yves, qui entendit son cri rauque, vola à son secours, mais trop tard. Il redescendit de la hune, rapportant dans sa main sa pauvre perruche morte, aplatie, n'ayant plus forme d'oiseau, un mélange de sang et de plumes grises, au-dessus duquel remuait encore une pauvre patte crispée. 
+ Yves avait du chagrin, je le voyais bien dans ses yeux. Mais il se contenta de me la montrer sans rien dire, en mordant sa lèvre dédaigneuse. Puis il la lança à la mer, et le requin qui nous suivait la croqua comme une ablette.
+</div></body></text></TEI>

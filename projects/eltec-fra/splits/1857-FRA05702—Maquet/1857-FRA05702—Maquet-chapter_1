@@ -1,0 +1,226 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La Maison du baigneur</title><author>Maquet, Auguste (1812-1888)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1857</date></publicationStmt></teiHeader><text><body><div type="chapter" n="1">
+I 
+
+ D'UN MAUVAIS CALEMBOUR ET DE SES CONSÉQUENCES 
+ Il y avait un an à peine que Jacques de Brosse, à la tête d'une armée de terrassiers et de tailleurs de pierre, construisait l'immense palais florentin du Luxembourg. Marie de Médicis, veuve d'Henri IV, se trouvait à l'étroit dans le Louvre, où le grand règne qu'elle continuait, en le rapetissant, s'était pourtant épanoui à l'aise. Marie, régente de France, s'était commandé un château sur le modèle, ou à peu près, du palais Pitti, et déjà ce rêve de la patrie absente, ce souvenir de la maison paternelle apparaissait vivant à la fille des Médicis, à travers une foret de madriers, de mais et de poulies, dont les milliers d'inégales et noires lignes perpendiculaires, pittoresquement coupées d'échafauds et de toiles flottantes, ne ressemblaient pas mal aux agrès d'une flotte gigantesque majestueusement assise dans le port. 
+ Pendant les premiers mois, tout Parisien vraiment digne du nom eût cru manquer à son devoir en ne venant pas visiter les fondations de l'édifice, et en contrôler les progrès. Puis, peu à peu, à mesure que l'ouvrage devenait réellement intéressant, les curieux devenaient plus rares. Tout Paris avait vu, peu de chose, il est vrai, rien peut-être, mais enfin on avait vu ce rien, et Paris n'aime pas à revoir, fût le rien devenu quelque chose. 
+ Cependant les provinciaux et les étrangers franchissaient à tour de rôle la porte Bussy, pour aller contempler la nouvelle merveille, et généralement redescendaient en ville par la rue de Tournon et le préau de la foire Saint-Germain, deux autres curiosités notables. 
+ Ce qu'il y avait à admirer à la foire, tout le monde le comprendra ; mais rue de Tournon, qu'était-ce ? 
+ Justement, par une matinée vermeille de septembre, un bourgeois ou peu s'en faut, figure grave et honnête, habit décent, l'expliquait à son jeune fils en le tenant ou plutôt en le contenant par la main. 
+ L'enfant avait douze ans au plus, il était petit, blond, rieur, et bondissait comme l'oiseau dont on a rogné les ailes. 
+ Le père avait eu beaucoup de peine à l'empêcher de se blanchir aux échelles de maçons, de s'embourber dans les fosses à chaux et de se pendre aux câbles des poulies, tandis qu'il essayait de lui faire comprendre les beautés du Luxembourg naissant. 
+ Il lui représentait vainement le respect qu'un enfant doit aux chefs-d'œuvre de l'art et à ses habits neufs. Il lui disait encore de bien regarder ce palais, bâti par une reine qui était assurément une très-grande reine. Mais cette dernière phrase était articulée d'un ton de voix si haut, avec une intention si marquée, que l'enfant, surpris peut-être d'un éloge aussi rare dans la bouche de son père, voulut se retourner pour voir s'il n'était point provoqué par la présence de quelque témoin suspect. 
+ Mais le père imprima une secousse énergique au poignet de son compagnon, et maintenant le diapason éclatant de sa voix : 
+ — Voyons, Aubin, dit-il, ne perdons pas de temps ; profitons du séjour que je veux bien vous faire faire à Paris, en attendant l'arrivée de votre frère Bernard. Qui sait s'il n'arrivera pas ce matin même de ses voyages, votre cher frère ? Or, sitôt que nous l'aurons embrassé, nous repartirons pour les Bordés, et plus de Paris pour vous. Profitez, vous dis-je : prenez-moi votre cahier, votre écritoire, et faites quelque bonne note sur les grandes choses que vous avez le bonheur de voir en ce voyage. 
+ L'enfant, qui sentait toujours la pression des doigts paternels, obéit, non sans se tourmenter comme une anguille accrochée à l'hameçon. Il tira, du petit carton pendu à son côté gauche, le cahier, la plume, et commençant à dévisser le couvercle de l'écritoire oblongue suspendue à l'aiguillette supérieure de son pourpoint : 
+ — Mais, mon papa, dit-il à son tour, qu'écrirai-je sur ce palais, puisqu'on n'y voit encore que des planches et des échafaudages ? 
+ — Là précisément est la curiosité, Aubin ; un jour viendra, où moi je ne-serai plus là; vous aurez vous-même alors quelque petit garçon têtu et paresseux que vous promènerez par ici ; et, lui montrant le Luxembourg, vous direz : Je vins voir Paris en 1616 avec feu mon père, j'avais douze ans, le Luxembourg ne montrait encore que deux étages hors du sol... et rentré au logis vous ferez voir vos notes à votre fils. 
+ Ce raisonnement persuada sans doute M. Aubin, car il déploya le cahier ; sur la couverture on lisait en caractères bien gras, bien trapus et d'une gothique dont chaque arabesque était caressée avec plus de zèle que de perfection : 
+ « Notes et remarques d'Aubin du Bourdet sur son voyagea Paris, année 1616. » 
+ Voilà ce qu'il y avait sur l'enveloppe. Voilà ce que le voyageur avait passé toute une soirée à écrire dans sa chambre des Bordes, l'avant-veille du départ. Mais les Notes et remarques prises à Paris consistaient à l'intérieur du cahier en bonnes femmes et en bonshommes d'une fantaisie tellement audacieuse, soit comme structure, soit comme ajustement, que le fils futur d'Aubin n'eût pu concevoir que des idées inexactes sur l'anatomie et les usages de la race parisienne en 1616. 
+ L'enfant se préparait donc à écrire quelque chose, quand il vit son père se retourner et fixer les yeux, non. plus sur le Luxembourg, mais sur le coin de la rue de Vaugirard. Là aussi l'on bâtissait quelque chose, et une demi-douzaine de charpentiers hissaient et assemblaient des madriers de forme bizarre, tandis que d'autres ouvriers calaient solidement une de ces charpentes, autour de laquelle causaient tout bas, ou ne causaient pas du tout, certains passants, les uns narquois, les autres fort rembrunis. 
+ Aubin avait l'occasion belle pour tourner le dos au Luxembourg. Il en profita vivement, malgré les efforts de son père pour le ramener à la contemplation du chef-d'œuvre de Jacques de Brosse. 
+ — Mon papa, on bâtit encore là derrière nous. 
+ — Non, ce n'est pas un bâtiment, dit le père du Bourdet contrarié. 
+ — Qu'est-ce alors ? 
+ — C'est une potence. 
+ — Ah ! une potence, c'est vrai, mais je vois trois charpentes... 
+ — Trois potences, Aubin. 
+ — Pourquoi faire si près du palais ? 
+ La question était d'une haute philosophie. Le père du Bourdet la jugea telle, et s'il eût été seul avec Aubin, il eût peut-être fait quelque réponse mémorable. Mais comme la beauté de l'enfant, son carton ouvert et la vue des mirifiques dessins avaient attiré près de lui trois ou quatre badauds, et que rien ne ressemble parfois à un badaud comme un espion, du Bourdet père ne voulut pas décliner la discussion, ce qui peut-être eût décelé sa pensée ; il répliqua donc : 
+ — Mon enfant, ces gibets sont probablement destinés à la justice du palais. 
+ — Avant qu'il soit bâti ? riposta l'enfant terrible. 
+ Du Bourdet donna une sourde saccade au poignet de ce logicien dangereux, et, grossissant sa voix : 
+ — Allons, maintenant, dit-il, voir les beaux hôtels de la rue de Tournon. 
+ Et il entraîna Aubin, auquel souriaient plusieurs des assistants ; l'un desquels, même, osa dire : 
+ — Voilà un gentil écolier. 
+ Lorsqu'ils furent à vingt pas du groupe, du Bourdet, plus libre, murmura en se penchant vers son fils : 
+ — Vous ne pouvez donc pas tenir votre langue, petit malheureux ! On voit une potence ; eh bien, est-ce une raison pour raisonner sur cette potence ? Que vous importe ? de quoi vous mêlez-vous ? 
+ — Mais je n'ai rien dit de la reine mère. 
+ — Ne sommes-nous pas convenus qu'à Paris, non-seulement vous ne parleriez jamais de la reine, mais même de qui que ce soit ? Ne vous mettrez-vous jamais dans la tête ma théorie des Conséquences, que je vous explique si profondément, si souvent aux Bordes ? Quilibet attinet ad quodlihet, et vice versa . Chacun touche à quelque chose. Eh bien ! une potence, c'est une chose, n'est-ce pas ? 
+ — Oui, mon papa. 
+ — Donc, chacun touche ou peut toucher à cette chose. 
+ — Mais enfin si l'on ne peut parler de Tien ni de personne... 
+ — Taisez-vous, enfant opiniâtre. Vous êtes haïssable, et votre frère Bernard va vous trouver odieux, lui qui, après cinq ans d'absence, devrait s'attendre à voir un garçon raisonnable. 
+ — Oh ! mon papa ! s'écria Aubin, ne dites pas mes défauts à mon frère ! 
+ — Il les verra parbleu bien. Mais taisez-vous tout de bon. Taisez-vous surtout ici. 
+ Ils étaient arrivés dans la rue de Tournon, en face d'un hôtel magnifique, aux portes duquel apparaissaient et disparaissaient comme devant une ruche, des gens à pied, des cavaliers, des soldats ou des gens d'église. 
+ Le père du Bourdet recula prudemment jusqu'aux deux tiers de la largeur de la rue et dit : 
+ — Voici l'hôtel de M. le maréchal d'Ancre. — Ah ! répondit simplement l'enfant avec un regard d'une exquise intelligence qui croisa le regard froid de son père. Que de choses dans ce coup d'œil !... 
+ — Oui, continua lentement du Bourdet, maréchal de France, marquis, gouverneur de Picardie, riche à millions. 
+ Quelques passants s'approchèrent. 
+ — Magnifique résidence, ajouta du Bourdet, du même ton éclatant qu'il avait pris pour faire l'éloge de la reine régente. Cela sent son grand personnage. 
+ Les passants passèrent. 
+ — Et je le vis, poursuivit du Bourdet à voix basse, simple Concini et très-humble commissionnaire de Zamet ! 
+ Deux soldats s'arrêtèrent pour regarder. Aubin tira son père parla main et le conduisit tout à fait au pied des murailles qui, de l'autre côté de la rue, faisaient face à l'hôtel d'Ancre, et du chaperon desquelles tombaient des lianes de vigne vierge et de clématites jusque dans la vasque d'une charmante petite fontaine envoyée de Florence par son ami le grand-duc à la toute-puissante maréchale. Elle-même avait dû solliciter ce présent, pour se rappeler mieux, quand elle regarderait par les fenêtres de son hôtel, l'humble carrefour San-Luca, que cette fontaine décorait jadis, et où peut-être, sortant chaque matin de quelque masure voisine, Leonora Dori avait puisé, enfant, sa provision d'eau fraîche et de poésie pour tout le jour. 
+ Du Bourdet regarda en haut, à droite, à gauche, et n'apercevant rien qui pût l'alarmer : 
+ — Oui, dit-il, cet homme a manqué de pain, de gîte et de manteau. Il n'eût pas su mendier en français ce manteau, ce gîte et ce pain. Sa figure faisait peur, son nom faisait rire, et maintenant il a le droit de commander une armée, il voit au travers de ses vitres le palais que fait bâtir la reine mère afin de devenir sa voisine ! Il est plus roi que ne fut Henri IV, car celui-ci consultait quelquefois un conseil, et aujourd'hui les conseillers de la couronne consultent le maréchal d'Ancre. Examine bien, Aubin, ce qui est en face de nous ; c'est, selon moi, le plus prodigieux spectacle que puisse offrir ce siècle, dont tu n'as pas vu' le commencement et dont je ne verrai pas la fin. 
+ L'enfant, sérieux et recueilli, dévorait des yeux l'hôtel, les gardes, les courtisans, et surtout une pâle et blanche figure qu'on voyait, penchée sur une vitre, au premier étage, regarder vaguement dans le ciel et par la rue. 
+ — Qui est là ? demanda Aubin prêt à étendre sa main pour désigner l'objet de sa curiosité. 
+ — Indiquez sans geste, Aubin. 
+ — À la première fenêtre du premier étage, mon papa. 
+ — C'est loin pour mes yeux, mais pourtant je crois distinguer une jeune tête. 
+ — Tout en noir. 
+ — En deuil, oui, l'hôtel est en deuil. La mort est brutalement venue frapper à cette belle porte, et a pris, dans son lit de soie et de dentelles, la fille du maréchal, une future princesse. Je pense alors que cet enfant dont vous parlez, Aubin, pourrait être le fils aîné de M. le maréchal, un mestre de camp, seigneur de plus de cent seigneuries, le jeune comte de la Pêne. 
+ — Un nom de mauvais présage, mon papa. 
+ — Pêne s'écrit sans i , répliqua magistralement Bourdet ; mais nous avons vu, n'est-ce pas ? et comme ici la prudence exige qu'on ne prenne pas de notes, voire même qu'on ne séjourne pas longtemps, gagnons la porte de Bussy et de là notre hôtellerie. — Oui, partons, car il me semble qu'on nous regarde. Voyez ce cordonnier dans son échoppe à gauche. 
+ En disant ces mots, du Bourdet reprit la main droite de son fils pour le faire tourner avec lui ; mais dans ce mouvement, sa manche accrocha le justaucorps d'Aubin et dénoua probablement le cordon qui y attachait l'écritoire, car ce rouleau de corne noire glissa dans un pli du manteau du père, et tomba sur la terre molle de la rue. 
+ Ni l'un ni l'autre ne s'aperçut de l'accident, et leur unique préoccupation fut de descendre la rue, côte à côte, sans notes ni remarques. 
+ Un cordonnier regardait en effet. Son échoppe ou boutique — il l'appelait ainsi — incrustée dans la maison contiguë à la fontaine florentine, était ornée guirlande de chaussures fort variées d'âge, de formes et de patries. Tout cela, bottes, chaussons ou souliers, se balançait agréablement à une ficelle poissée tendue transversalement à l'extérieur de l'échoppe et formait une corniche, sous l'ombre de laquelle brillaient les deux yeux du cordonnier courbé sur son ouvrage. 
+ Un peintre du carrefour voisin avait écrit sur l'entablement de l'échoppe en lettres encore fraîches : « Picard, cordonnier. » Et comme aux festons de la guirlande de chaussures il manquait une dent, vide notable, tout porte à croire que le peintre avait fait cette brèche en choisissant pour son salaire quelqu'une de ces paires de babouches inimaginables qui vieillissent toujours et ne meurent jamais. 
+ Placé en face de l'hôtel d'Ancre, comme une tache sur un mur, comme une araignée vis-à-vis d'un miroir de Venise, le cordonnier Picard s'était maintenu, lui et son échoppe, auprès de la petite fontaine, sans que rien l'eût déraciné ni même dégoûté. Enfant de Paris, il vivait là depuis son enfance, il avait vu bâtir l'hôtel d'Ancre, il l'avait vu prospérer. Il y avait vu emménager les nouveaux propriétaires. Le côté gauche de la rue lui appartenait, comme au maréchal le côté droit. 
+ Cette perspective de l'échoppe et des savates grimaçantes ayant tout de suite offusqué les yeux de la maréchale, on avait offert à Picard quelques écus pour déguerpir. Il avait refusé. Les architectes de la Florentine, pour faire placer la fontaine, culbutèrent les chaussures de Picard, qui s'étalaient librement sur le mur. Picard remonta ses chaussures à gauche. Le maréchal s'entêta ; Picard aussi : ou plaida devant l'échevin. L'échevin consulta le roi alors vivant, qui répondit en riant, que si le cordonnier gênait trop M. le marquis d'Ancre, on lui permettrait de venir accrocher son échoppe au Louvre. L'échevin ajouta même, bien bas, en racontant cette réponse à ses amis, que le roi gascon avait dit : « Eh ! mordioux ! qu'il fasse comme moi, le marquis d'Ancre ; qu'il souffre Picard. Moi je souffre bien Concini ! » 
+ Le marquis dévora la leçon. Picard fit des feux de joie et passa deux mois à élaborer une chaussure d'art, son chef-d'œuvre, qu'il destinait au roi, mais trop tard pour tous deux. En effet Picard méditait les bouffettes quand Henri fut assassiné. 
+ Mais la bienveillance du prince avait consacré dans tout le quartier les droits de Picard à son échoppe, et c'eût été de la part du maréchal une imprudence que de s'opiniâtrer à faire triompher les siens. 
+ Cependant la marquise d'Ancre n'avait pu s'habituer à la victoire du cordonnier. Picard, lui, ne s'était pas encore habitué à son bonheur. En sorte que de l'hôtel à l'échoppe, de la puissante dame couchée sur sa chaise, derrière ses lourds rideaux de soie, à' l'artisan piquant son cuir, c'était un échange acharné un duel de regards furieux ici, là moqueurs. Picard avait pompé tant d'orgueil dans la colère de sa voisine, que chaque pulsation de ses veines, chaque' battement de son cœur correspondaient à une jouissance secrète, et il ne cousait pas un point sans lever à moitié la tête pour décocher à l'hôtel un sardonique regard. La flamme de ces regards avait fini par établir un rayon permanent de l'échoppe aux fenêtres de la maréchale, et la Florentine superstitieuse, habituée aux terreurs de la jettatura, frissonnait en devinant l'électricité hostile, et marmottait quelque conjuration, ou faisait les cornes avec l'index et le mineur, spécifique infaillible comme on le sait pour combattre le mauvais œil. 
+ Tel était ce cordonnier, personnage historique, n'en déplaise au lecteur, mais qui n'avait pas encore acquis la célébrité dont les événements l'investirent plus tard. Pour le présent, qu'on se figure un homme de quarante ans, étroit d'épaules, comme tout ouvrier ployé sur la besogne, un peu cagneux, velu comme une chèvre et relevant souvent, de la main qui tient l'alêne, une longue mèche de cheveux noirs obstinés à envahir son front bombé, ses yeux perçants. 
+ Ce geste fréquent et l'éclair de l'aiguille d'acier croisant l'éclair des prunelles étaient devenus pour les nerfs de l'infortunée maréchale une insupportable torture. 
+ 
+ Au moment où s'arrêtèrent devant l'hôtel Aubin et du Bourdet, Picard ne les remarqua point, habitué qu'il était à regarder toujours au premier étage avant de regarder ailleurs. Il ne les vit qu'après le colloque discret du père et du fils, et la charmante figure d'Aubin attira son attention. 
+ Peut-être les prit-if tous deux pour des provinciaux, et il se préparait à leur aller fournir quelque renseignement ; car il était bavard, officieux, amoureux de sa ville, et coquet pour elle. Il était encore Parisien à un autre titre : exécrant les étrangers, Italiens ou Espagnols, et toujours prêt à leur nuire, fallût-il pour cela du courage, fallût-il même de l'esprit. 
+ Mais le temps de redresser ses reins engourdis et de sortir de sa boutique, Picard ne trouva plus les deux causeurs. Il en eu- : un vif regret, à cause de la provision qu'il avait faite d'histoires politiques et privées sur les Italiens en général et la maison d'Ancre en particulier. Et puis il perdait une occasion de montrer à des amateurs les fameux souliers destinés au feu roi, et qui ornaient la place d'honneur de la boutique, avec cette inscription sur parchemin : 
+ 
+ Souliers du roy défunct. 
+ 
+ Mais il lui restait la ressource d'aller visiter les travaux. Tout en foulant le sol de la rue, non sans regarder l'hôtel d'Ancre, il sentit son pied heurter quelque chose et ramassa l'écritoire que le petit Aubin avait perdue. 
+ — Qu'est-ce que cela ? grommela-t-il en avançant toujours vers la rue de Vaugirard. Quelque étui ; oh ! oh !... cela noircit ; une écritoire... celle du petit blond... de l'encre... Ancre, répéta-t-il avec un grognement. Toujours ancre, ancre partout. C'est donc une rage que l'ancre. 
+ Et il avançait peu à peu, se délectant dans sa monotone facétie. 
+ — Ah ! ah ! les potences sont placées. C'est pour nous les potences. Eh ! eh ! il y en a trois, il y en aurait une pour lui, une pour elle, et une pour le petit. Juste au coin de leur rue, comme ce serait commode ! 
+ Et il se mit à rire tout seul. Car c'était l'heure du premier repas des ouvriers, et le soleil éloignait de ce coin brûlant tous ceux que l'aspect fâcheux des gibets n'eût peut-être pas réussi à chasser. 
+ — Trois potences, répéta Picard en se frottant les mains, et celle du milieu est plus grande que les autres. Tiens ! Ils y ont laissé le fil d'aplomb. 
+ Il s'approcha. 
+ — Si mince que soit la ficelle, murmura-t-il, je me chargerais encore volontiers... Allons, cette encre m'a tout noirci les mains... Diantre soit de cette encre ! Jetons l'écritoire. Oh ! non ! meilleure idée ! 
+ Et de rire. Son hilarité funèbre avait quelque chose de l'ivresse, l'ivresse amenant aux lèvres les hideux secrets de certains cœurs. 
+ Il regarda sournoisement autour de lui et ne vit personne. Plus loin, sur le Feuil de l'hôtel du maréchal, nul ne semblait observer. Picard saisit le fil d'aplomb des charpentiers, y attacha prestement la longue écritoire, qui se mit à osciller dans le vide, et, tout joyeux de son ouvrage, il se recula, admirant l'effet. Des femmes passaient, portant des mannes sur leur tête.. 
+ — Oh ! dit Picard avec ce claquement de la langue sur les lèvres qui signifie : Diable ! diable ! c'est mal, c'est mal. 
+ — Quoi donc ? demandèrent les femmes. 
+ — Vous ne voyez pas ? 
+ Des hommes vinrent, puis des enfants. 
+ — Quoi donc ? dirent-ils aussi. 
+ — L'encre à la potence ! Un naïf éclat de rire des assistants accueillit l'ignoble plaisanterie et témoigna, sinon de leur bon goût, du moins de la vigoureuse haine que ce nom seul soulevait parmi les Parisiens. 
+ — L'Ancre à la potence ! répétèrent dix voix, puis trente, puis cent, puis toutes les voix des ouvriers revenus au travail. 
+ D'autres, plus circonspects, demandaient tout bas l'auteur de la facétie. 
+ À ceux-là Picard répondit modestement que c'était un jeune garçon, écolier, sans doute, fort éveillé, fort drôle, qui avait accroché son écritoire à la ficelle en disant : 
+ — Si nous accrochions l'encre à la potence. 
+ L'immense huée qui retentit, mêlée de rires et d'applaudissements, fit accourir de l'hôtel une demi-douzaine de laquais, puis des gardes, puis des gentilshommes, qui bientôt rougirent et pâlirent en apprenant la cause de ce tumulte. 
+ Mais un de ces gentilshommes, tête crépue, nez de vautour, qui paraissait commander aux soldats, se jeta dans la presse qu'il fendit à coups de coudes et de poings ; il parvint au pied de la potence, et cherchant d'un œil aguerri dans la foule quelque mine plus suspecte que les autres, il rencontra les yeux malins du cordonnier qui ricanait derrière un rempart de quatre à cinq robustes maçons. 
+ — Ah ! c'est maître Picard, dit-il en marchant à lui avec un mauvais regard de travers ; j'eusse été bien étonné de ne pas trouver ici maître Picard ! Et il le saisit à la gorge. 
+ — Qu'est-ce ? qu'y a-t-il ? à moi ! cria Picard. À moi, bourgeois et citoyens ! 
+ — Oui, appelle ! et je vais appeler aussi, dit l'officier autour duquel ces paroles élargirent aussitôt le cercle, qui s'emplit de soldats et de gens d'épée. 
+ — Qui a fait ce coq-à-l'âne si bête et si périlleux ? 
+ — Hugues ! murmurait-on dans la foule ; Hugues, le prévôt de l'hôtel ! 
+ Et cent voix répliquèrent : 
+ — Ce n'est pas nous, capitaine Hugues, ce n'est pas nous ! 
+ — Et toi, coquin, nies-tu aussi ? dit le capitaine Hugues en frisant d'une main sa moustache raide, tandis qu'il continuait à étrangler Picard de l'autre main. 
+ — Je nie ! je nie ! 
+ — C'est un petit garçon, dit une femme. 
+ — Un écolier blond, dit une autre. 
+ — Un clerc, monsieur le capitaine. 
+ — On l'a vu, ce n'est pas Picard. Picard l'a vu aussi tout à l'heure, à l'instant. 
+ — Est-ce vrai, Picard ? demanda le capitaine. 
+ — Certainement que c'est vrai, dit celui-ci. 
+ — Tu l'as vu ? 
+ — Oui. 
+ — Attacher son écritoire ? 
+ — Oui. 
+ — Tu l'as vu partir après ? 
+ — Oui. 
+ — Eh bien ! si tu ne me conduis pas sur sa trace, si tu ne me l'as pas trouvé dans un quart d'heure, c'est toi qui danseras ici à la place de l'encrier. Seulement on changera la ficelle ! 
+ — Hein ? gronda Picard. 
+ — Allons, marche, et trouve le coupable, ou tu es un homme mort. 
+ — Trouve, trouve, Picard, dirent au cordonnier cent voix officieuses. C'est le capitaine Hugues, vois-tu, il n'y a pas à plaisanter. 
+ — Allons, j'attends, articula le prévôt d'une voix sèche et nette. 
+ Picard releva sa tête effarée, écarta les cheveux qui l'aveuglaient, et, prenant sa résolution, se dirigea rapidement vers le bas de la rue, suivi du capitaine et de plusieurs soldats, tandis que les autres essayaient de disperser la foule. 
+ Cette meute ainsi lancée ne tarda pas à trouver la piste. Cependant, Picard, poussé en avant par la main hargneuse du prévôt, ne faisait pas de zèle ; il cherchait tous les moyens, au contraire, de ne pas rencontrer ceux qu'on le forçait de poursuivre. 
+ Picard n'avait pensé faire qu'une plaisanterie d'abord. Puis l'instinct de la conservation l'emportant sur la prud'homie, il avait soutenu un mensonge destiné à sauver sa tête sans compromettre celle de personne. 
+ Mais tout n'est qu'heur et malheur en ce monde, pour les cordonniers comme pour les maréchaux de France. 
+ Au détour de la rue de Tournon et de celle des Quatre-Vents, Picard aperçut deux personnes, un homme et un enfant, captivés par les prouesses d'un singe et d'un lièvre savants. Son cœur battit. Il voulut passer outre, mais le bruit des pas, des armes, des voix de son escorte firent tourner la tête à ces deux personnes, et le prévôt Hugues, qui avait saisi son tressaillement et l'inquiétude de son regard, s'écria : 
+ — Voici un garçon blond. Est-ce le nôtre ? Picard répondit non, mais si faiblement, si étrangement, que le prévôt arrêta sa bande et, allant tout droit au garçon blond, lui présenta l'écritoire maudite en disant : 
+ — Est-ce à vous, mon petit ? 
+ — Oui, monsieur, répliqua Aubin, car c'était Aubin, pauvre enfant, qui n'avait pu résister aux amorces du spectacle en plein vent. 
+ Du Bourdet pâlit. Son expérience lui disait que Paris n'est pas une ville à ce point civilisée, que ses magistrats détachent un officier avec huit hommes pour restituer à un écolier l'écritoire de six sous qu'il a perdue. 
+ D'ailleurs, il n'y avait pas à se tromper sur la mine altérée, sur le coup d'œil hagard du cordonnier. Un danger surgissait, danger terrible. 
+ Hugues, se redressant : 
+ — C'est à vous, cet enfant ? demanda-t-il au père. 
+ — Oui, monsieur, bégaya du Bourdet. 
+ — Venez donc tous deux. Venez vite. Du Bourdet, hébété, regarda Picard, qui s'évertuait à lui faire dés signaux incompréhensibles. 
+ — Toi, mauvaise bête, va devant, reprit le prévôt en chassant Picard à la tête de l'escouade. 
+ Et il ajouta ces mots qui firent frissonner du Bourdet : 
+ — Tu n'es pas malheureux d'avoir trouvé le coupable. 
+ — Coupable ! dit du Bourdet. De quoi coupable ? 
+ — Pressons le pas, cria Hugues. 
+ — De quel coupable parlez-vous, monsieur ? 
+ — Accélérons, répondit le prévôt en tirant lui-même par le bras l'enfant qui courait déjà pour suivre le grand pas de ces alguazils. 
+ Il est inutile de dire qu'une foule toujours grossissante occupait le haut de la rue et les abords de l'hôtel. 
+ L'escorte fit halte en face, à vingt pas de la potence, et alors Hugues montrant à du Bourdet tremblant son fils et le cordonnier Picard, l'écritoire et les gibets : 
+ —Cet homme, dit-il, accuse l'enfant d'avoir attaché ceci à cela. 
+ — Je ne comprends pas, balbutia le père abasourdi par le silence effrayant qui s'était fait tout à coup dans la multitude. 
+ Aubin regarda son père et Picard, qui baissait là tête, cherchant peut-être entre les soldats un trou pour s'échapper. 
+ '— Oui, continua Hugues, on commet des crimes et puis on fait l'innocent. Nous connaissons cela ; mais, que vous compreniez ou non, répondez : Est-ce-toi, petit, qui as pendu ton écritoire à cette ficelle en disant : Pendons l'ancre ? 
+ Du Bourdet comprit tout à coup. Une indicible terreur s'empara de lui, secoua ses membres comme eût fait la fièvre, et serrant Aubin sur son cœur avec une angoisse qui émut profondément la foule : 
+ — Non, non, s'écria-t-il, non, ce n'est pas lui ! 
+ — Non, dit l'enfant, j'ai perdu mon écritoire ; mais je ne l'ai pendue nulle part. 
+ Picard se taisait ; des gouttes larges et brûlantes roulaient sur ses joues blêmes. 
+ — C'est que si vous niez, dit le prévôt, cet homme-là court grand risque. Toi, petit, en avouant, tu en seras quitte pour le fouet. 
+ — Le fouet ! s'écria du Bourdet indigné ; le fouet à mon fils ! Je suis gentilhomme, entendez-vous ! 
+ — Le fouet ! répéta Aubin en pleurant ; je n'ai rien fait. 
+ — Soit ! alors Picard sera pendu. Et tout de suite, dit froidement le prévôt en appuyant sa large main osseuse sur l'épaule du cordonnier. Voyons : à qui le fouet ? à qui la corde ? 
+ — Je suis perdu, murmura Picard, qui, ranimé par l'imminence du danger, leva les bras, poussa des cris et invoqua l'aide des assistants. 
+ Alors des voix répondirent à la sienne : les uns le déclaraient innocent ; d'autres accusaient positivement Aubin. Des femmes charitables conseillaient à du Bourdet et sollicitaient son fils de consentir au fouet pour sauver la vie d'un homme. 
+ Tout à coup une fenêtre de l'hôtel s'ouvrit : c'était la première du premier étage. Un enfant de l'âge d'Aubin, vêtu de noir, pâle et fixant tranquillement ses grands yeux bruns sur cette multitude, fit signe de sa petite main blanche, et tous les regards, en un moment, s'arrêtèrent sur lui. 
+ — Capitaine Hugues, dit-il d'une voix douce, laisse aller le petit garçon. 
+ — Mais, monsieur le comte, répondit le prévôt en levant la tête, si c'est lui. qui est coupable... 
+ — Le fils du maréchal... le petit Concini... le comte de la Pêne ! dirent mille voix. 
+ — Hugues, reprit l'enfant, ce n'est pas le petit garçon qui a suspendu l'écritoire, c'est le cordonnier Picard. 
+ — Voilà ! voilà ! hurla celui-ci, le louveteau est instruit à me mordre... je suis innocent ! 
+ — Je t'ai vu ! dit le jeune comte avec un accent plus ferme, qui vibra dans tous les cœurs comme un écho de la sainte vérité. 
+ — Allons, murmura le prévôt en saisissant Picard. Je crois que le jour est venu de régler tes comptes avec M. le maréchal. 
+ Cette parole était imprudente. Hugues le sentit avant qu'elle eût. expiré dans l'air. Picard la saisissant au vol : 
+ — Voyez-vous ! s'écria-t-il, comprenez-vous, mes amis ; c'est une vengeance ! on m'en voulait ! 
+ — Oui, oui, il a raison, murmurèrent plusieurs ouvriers. 
+ — On m'en veut parce que j'ai défendu mes droits, le droit du peuple, et que notre bon roi Henri n'est plus là pour nous protéger. 
+ Un sourd frémissement courut dans la foule et bien des yeux étincelèrent. 
+ Le prévôt ne pouvait reculer, il lança ses hommes sur l'assemblée et chercha sous sa main Picard qui se tordait avec désespoir. 
+ — Ne le tue pas, Hugues, dit le petit comte, ne le tue pas ; il nous aimera peut-être si nous lui pardonnons. 
+ Le mot sublime de l'enfant fut coupé en deux par l'apparition d'une ombre enveloppée d'une sorte de manteau blanchâtre. Cette figure étrange, dont on ne devinait que deux yeux flamboyants, arracha le jeune comte de la fenêtre, qui se ferma bruyamment, et les rideaux retombèrent. 
+ — C'est la maréchale, c'est la Leonora, c'est la Galigaï, c'est la sorcière, dit la foule un moment captivée par l'intérêt nouveau de cette vision. 
+ — Allons ! finissons-en avec ce drôle, cria Hugues à ses gens irrésolus. 
+ — Grâce ! grâce ! on m'a fait grâce, dit Picard, en -se débattant contre les estafiers de l'hôtel. 
+ — Grâce de la corde, oui ; mais tu auras le fouet que tu étais assez lâche pour laisser donner à ce garçon. 
+ Du Bourdet, voyant que la scène allait prendre son dénouement normal, profita d'une trouée que certains bâtons levés pratiquèrent dans la foule, et il était hors du cercle avec son fils quand on entendit tomber et retomber sur l'échiné de Picard les coups cinglants de deux fouets de manège, mêlés au bruit mat et lourd de la hallebarde du prévôt, dont le manche faisait sa partie au concert. 
+ Du Bourdet se boucha les oreilles pour ne pas entendre les cris du patient. Des pierres lancées dans les vitres de l'hôtel, un formidable hurlement de là populace révoltée, les charges successives des archers, des laquais et des commensaux de l'hôtel, portèrent au comble la terreur du bonhomme Bourdet et de son fils. 
+ Bientôt la place fut désertée, et du coin de porte où ils s'étaient réfugiés, les deux promeneurs ne virent plus qu'un corps étendu au milieu de la rue. C'était le malheureux. Picard, à moitié assommé, couché sur le ventre, les mains en avant, respirant comme un buffle, mais feignant d'être mort, tant pour éviter d'être tué effectivement que. pour se rendre historiquement immortel dans les fastes des tumultes parisiens. 
+ Mais Aubin n'était pas assez avancé en politique pour comprendre les subtilités de Picard. Le voyant étendu, il le crut mort. C'était le premier mort que voyait cet enfant. Il songea involontairement que, sans un miracle, on l'eût fouetté, lui, comme Picard avait été fouetté, à mort. 
+ Et l'impression fut telle sur ce tendre cerveau, qu'une vapeur rouge monta de ses narines à ses yeux vacillants ; il blêmit, s'affaissa et tomba dans les bras du bonhomme, qui criait avec désespoir : Au secours ! 
+ 
+ Au secours ! dans une rue où toute porte se barricade, où toute fenêtre se matelasse, dans la crainte des chocs de cavalerie et des balles d'arquebuse. Du Bourdet eût sans doute perdu la voix à force de crier, quand il entendit des pas derrière lui. 
+ Une femme passait à l'extrémité de la rue, à cheval, son écuyer près d'elle. Deux grands laquais à l'arrière-garde. Cette dame, masquée selon l'usage, d'un loup de velours qui descendait jusqu'à sa lèvre inférieure, était trop noblement vêtue et trop bien accompagnée pour n'être pas de grande qualité. Elle entendit les cris de du Bourdet et détacha son écuyer vers le plaignant. Mais quelle fut sa surprise en voyant l'écuyer, homme grave et d'une corpulence respectable, sauter tout à coup à bas de son cheval, ouvrir les bras et embrasser à dix reprises le malheureux vers lequel il s'était d'abord très-prudemment avancé. 
+ Elle s'approcha, ses laquais avaient déjà recueilli Aubin. 
+ — Quel charmant enfant ! dit-elle tout émue, le connaissez-vous, la Fougeraie ? 
+ — Concevez-vous cela, madame ? s'écria l'écuyer, c'est mon pauvre ami du Bourdet, vous savez, dont je vous ai si souvent parlé. 
+ Du Bourdet, tout palpitant, ébaucha un fugitif sourire, un salut de fantôme. 
+ — Avec son fils Aubin, que je n'ai pas vu depuis sa naissance, ajouta l'écuyer. 
+ — Et qui paraît bien souffrant, dit la dame d'une voix douce comme une caresse. 
+ Cependant du Bourdet parlait, racontait son aventure sans savoir ce qu'il disait, en baisant à chaque mot le front et les joues pâles de l'enfant. Mais le nom d'Ancre revenait dans ses phrases aussi souvent que ses baisers. 
+ La dame fit un mouvement pour regarder autour d'elle : quelques fenêtres se rouvraient, des tètes timides se hasardaient aux portes entrebâillées. 
+ — Une faut pas demeurer ici, dit vivement l'étrangère. Cet enfant a besoin de secours, d'ailleurs. 
+ — Je vais l'emporter, murmura du Bourdet. 
+ — Non pas, ce sera moi, sur mon cheval, interrompit le vieil écuyer, les bras étendus. 
+ Mais du Bourdet ayant manifesté une sorte de répugnance à se séparer de son fils : 
+ — Ce ne sera ni vous, la Fougeraie, ni monsieur, qui emporterez cet enfant, dit la dame. Ce sera moi. Donnez-le-moi, là, doucement. Ne craignez rien, monsieur du Bourdet, j'en aurai soin comme sa mère, et mon cheval est plus doux qu'un mouton. 
+ Un laquais éleva Aubin jusque sur le pommeau de la selle de velours, où la dame l'assit mollement, l'entourant de ses bras et l'appuyant sur les fourrures parfumées du pourpoint soyeux qui recouvrait sa poitrine. 
+ Puis, tandis que ses laquais remontaient à cheval et que la Fougeraie attendait ses ordres : 
+ — Donnez le bras à votre ami, lui dit-elle tout bas, et ne me nommez pas, sous aucun prétexte, si vous étiez questionné. 
+ — Qui nommerai-je, madame la comtesse ? car il voudra savoir, et c'est bien naturel... 
+ — Inventez, mais pour rien au monde je ne veux figurer dans les bruits que soulèvera sans doute cette nouvelle mésaventure de M. le maréchal. Où allait votre vieil ami ? 
+ — À l'hôtellerie des Fils-Aymon , près le pont Neuf. Il y loge jusqu'à l'arrivée de son beau-fils. 
+ — Nous ferons ce détour au lieu de prendre le bac du Louvre. Allez devant, la Fougeraie, je vous prie. 
+ L'écuyer obéit. Il passa son bras sous celui de du Bourdet, qui d'abord se retournait à chaque seconde, mais qui, voyant les soins si tendres de cette dame et devinant sous le masque son divin sourire, finit par comprendre que jamais plus doux oreiller n'avait caressé- le front d'un enfant malade. 
+ On arriva bientôt à l'hôtellerie. Du Bourdet reçut des mains de l'étrangère le pauvre Aubin encore inerte. Et au moment où la tête blonde de son petit compagnon de route allait quitter le sein qui l'avait abrité, la dame, se penchant avec grâce, souleva légèrement son masque pour appuyer deux lèvres fines et fraîches sur les yeux clos du bel enfant. 
+ — Soyez sans inquiétude, dit-elle alors à du Bourdet, qui vit briller des perles sous ces lèvres roses, votre fils est plutôt endormi qu'évanoui. Je sentais son petit cœur battre sur le mien d'un mouvement régulier, paisible ; ce ne sera rien. Adieu, monsieur. 
+ Et comme le bonhomme attendri par cette expansive bonté demandait civilement le nom de son aimable bienfaitrice pour lui rendre ses devoirs avant son départ de Paris : 
+ — Je suis une parente de vôtre ami la Fougeraie, dit-elle en tournant son cheval. 
+ Du Bourdet interrogea celui-ci du regard, mais l'écuyer, sur un signe de sa maîtresse, était remonté à cheval. 
+ — Piquons maintenant, dit tout bas l'étrangère à la Fougeraie, ou nous arriverons trop tard chez la régente. 
+ Les quatre cavaliers furent bien loin une minute après ! Mais dame Salomon, l'énorme hôtesse des Fils-Aymon , avait déjà porté Aubin sur un lit, que du Bourdet, encore étourdi de tant d'événements, commençait à peine à gravir les premiers degrés pour gagner sa chambre.
+</div></body></text></TEI>

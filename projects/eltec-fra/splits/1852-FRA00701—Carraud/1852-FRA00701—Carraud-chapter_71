@@ -1,0 +1,11 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="71">
+Maître Tixier veut qu'on donne un bon dîner à l'officier. 
+ « Allons, Jeanne, et toi, Joséphine, il faut se distinguer, mes enfants ; nous allons bien régaler l'officier, afin qu'il se souvienne des dîners du Berry quand il sera retourné à son corps.» 
+ Le surlendemain, les deux militaires arrivèrent à midi. Le dîner était prêt. Maître Tixier, assis dans son fauteuil de paille, avait la jambe étendue sur une petite chaise et appuyée sur un oreiller ; on donna le fauteuil de la maîtresse à l'officier, qui dit en se mettant à table : 
+ « Eh bien ? maître Tixier, avez-vous fait vos réflexions ? 
+ — Monsieur le capitaine, mangeons d'abord en repos, puis on parlera d'affaires. Simon, va-t'en au cellier, mon garçon ; tu chercheras derrière la cuve, dans le coin à gauche, il y a quelques bouteilles de vin vieux que je gardais pour une bonne occasion ; tu vas les apporter sans les remuer et Jeanne les dépotera. 
+ — Mais pourquoi ces deux jolies filles ne se mettent-elles pas à table avec nous ? dit le capitaine en mangeant la soupe. 
+ — Monsieur, dans notre pays, les femmes ne se mettent jamais à table avec les hommes, et le maître mange toujours tout seul ; je trouve la coutume bonne et je la conserve. 
+ — Vous avez là une belle famille, ma foi ! je vous en fais mon compliment. 
+ — Tout n'est pas là, monsieur : j'ai une fille mariée dans le voisinage ; mais cette grande brune n'est pas à moi : c'est notre servante, la femme du laboureur qui soigne les juments ; ce qui n'empêche pas que je l'aime autant que mes propres enfants. Elle a dressé mes filles mieux que si je les avais mises dans les pensions ; et, si je n'avais pas ma pauvre femme infirme, là, dans son lit, j'aurais le cœur léger et l'esprit tranquille avec Jeanne et son mari pour soigner ma maison.»
+</div></body></text></TEI>

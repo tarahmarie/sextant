@@ -1,0 +1,14 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="103">
+Grand Louis laisse l'argent de sa moisson au père Tixier. 
+ Après la moisson, le père Tixier, qui avait employé grand Louis tout le temps, voulut le payer comme les autres. 
+ « Maître Tixier, il faut garder cet argent-là; je vous compléterai les cent francs à l'époque du battage. 
+ — Est-ce que tu comptes me payer dans une année comme celle-ci, où tu n'as pas serré dix gerbes de blé pour ton hiver ? 
+ — J'aime l'exactitude comme vous, et je ne dormirais pas bien si je ne vous avais pas payé ; et puis j'avais quelque avance. 
+ — En es-tu bien sûr ? Tu as acheté un bout de terre l'an passé, et je ne crois pas qu'il te soit resté grand argent. 
+ — Ne vous en inquiétez pas ; je ne vous remercie pas moins de votre complaisance. 
+ — Grand Louis, prends garde ! si tu me trompes, je ne te le pardonnerai pas.» 
+ L'hiver fut dur pour Jeanne ; elle n'ôta que le gros son de sa farine et elle fit du pain bien grossier ; souvent elle n'acheta que de l'orge. 
+ Elle vendit une petite génisse d'un an, qu'elle comptait garder, et cet argent servit pour acheter de la semence. On but de l'eau dans la maison, car on n'avait même pas fait de vendange ; enfin, il y eut des jours où le pain manqua ; et, comme Jeanne ne voulait pas s'endetter, on mangeait alors des pommes de terre cuites à l'eau. Paul, ne comprenant pas la gêne de sa mère, la tourmentait sans pitié ; Nannette se privait de son pain pour lui. Sylvain mangeait chez le curé, qui avait bien deviné la détresse de Jeanne, mais qui, voyant le soin qu'elle mettait à la cacher, ne lui en avait jamais parlé par discrétion : cette détresse était si bien dissimulée qu'aucune autre personne ne s'en douta, pas même le père Tixier, qui était pourtant bien fin. 
+ Jeanne, n'ayant pas récolté de chanvre, n'avait rien à faire. Elle prit de l'ouvrage en ville chez le mari de Louise qui avait acheté sa toile. 
+ Il ne la payait qu'en marchandise, comme c'est la coutume ; mais enfin elle gagna dans son hiver de quoi vêtir son mari et ses enfants.
+</div></body></text></TEI>

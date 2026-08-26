@@ -1,0 +1,7 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Le Cavalier Fortune</title><author>Féval, Paul Henri Corentin [dit Paul Féval père] (1816-1887)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1868</date></publicationStmt></teiHeader><text><body><div type="chapter" n="16">
+Et samedi à l'hôpital ! 
+ Le barbier lâcha le nez de Fortune qui respira bruyamment. 
+ — Je vois que tu n'aimes pas M. Law, dit-il. 
+ Le barbier faisait mousser son eau de savon avec fureur. 
+ — C'est lui qui m'a pris mon premier valet, répliqua-t-il, mon second valet, ma femme, mon troisième valet et mes économies ! Ah ! il y en a contre lui des chansons !... Tendez votre joue, je vous prie... Voici le pont-neuf de l'abbé Genest qui confesse Mme la duchesse du Maine :
+</div></body></text></TEI>

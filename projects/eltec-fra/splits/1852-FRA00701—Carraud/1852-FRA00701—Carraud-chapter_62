@@ -1,0 +1,12 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="62">
+Marguerite remercie Jeanne. 
+ Marguerite courut au bourg chercher son paquet, et elle revint pour le souper ; avant de se coucher, elle alla trouver Jeanne à la boulangerie. 
+ « Ma Jeanne, lui dit-elle, oublie ce que je t'ai dit, et demande-moi tout ce que tu voudras, je le ferai ; tu n'auras jamais de reproches à mon sujet, et je t'aiderai à faire ton ouvrage. 
+ — Marguerite, je n'ai pas besoin que l'on m'aide, je fais bien mon ouvrage toute seule ; sois pieuse et n'aie plus de paresse, c'est tout ce que je te demande. 
+ — Jeanne, il faudra que tu viennes avec moi remercier M. le curé. 
+ — Tu peux bien y aller sans moi. 
+ — Est-ce que je l'oserais ! je n'ai pas mis le pied à l'église depuis que je suis sortie d'ici ; il ne voudrait pas seulement me voir. 
+ — Pourtant, c'est lui qui est cause qu'on t'a reprise. 
+ — C'est égal, je te dis qu'il ne me laisserait pas entrer chez lui. 
+ — On voit bien que tu ne le connais guère : n'aie pas peur, il te recevra bien, quoique tu aies des torts ; il dit que ce ne sont pas les bons qui ont besoin de lui.»
+</div></body></text></TEI>

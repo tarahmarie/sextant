@@ -1,0 +1,19 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="32">
+M. le curé trouve une place à Jeanne. 
+ « Qu'allez-vous faire maintenant, Jeanne ? dit M. le curé. 
+ — Je vais tâcher de me placer au plus vite ; car, si je restais longtemps seule dans cette maison, je sens bien que le chagrin me rendrait malade. 
+ — Voyons, Jeanne, il faut être raisonnable : la mère Nannette est plus heureuse que nous maintenant ; elle veillera sur vous. Dieu ne veut pas qu'on s'abandonne ainsi à son chagrin. Si vous voulez vous placer en ville, Mmes Dumont vous trouveront une bonne maison où vous aurez de forts gages. 
+ — Monsieur le curé, je ne me placerai pas en ville ; ma chère défunte me l'a défendu, et, quoiqu'elle ne soit plus de ce monde, je veux toujours lui obéir. 
+ — Puisque vous voulez rester à la campagne, j'irai voir la fermière du Grand-Bail ; sa servante se marie dans trois semaines : si elle n'a personne encore, je vous y mènerai demain. 
+ — Grand merci, monsieur le curé ; ce sont de braves gens, et je serai bien contente d'être chez eux.» 
+ Quand Jeanne fut toute seule, elle soigna la chèvre et les oies comme à l'ordinaire ; elle remit dans l'armoire tout ce qu'on en avait tiré, puis elle courut chez Mmes Dumont : elle leur dit tout en pleurant qu'on devait parler pour elle à la mère Tixier, fermière du Grand-Bail. 
+ « Elle te prendra bien, ma bonne Jeanne, dit Sophie, qui était mariée depuis deux ans : elle nous a souvent entendues parler de toi, et elle sera bien heureuse de t'avoir dans sa maison, où tu seras comme de la famille. Console-toi donc un peu ! est-ce que nous ne te restons pas ? 
+ — Sans vous, qu'est-ce que je deviendrais donc ? aussi je vous serai reconnaissante toute ma vie.» 
+ Le lendemain, M. le curé mena Jeanne au Grand-Bail, comme il l'avait promis. La maîtresse l'accepta tout de suite à cause de sa bonne renommée : elle lui offrit dix écus jusqu'à la Saint-Jean. 
+ « Mère Tixier, vous ne pouvez pas donner moins de douze écus à cette fille ; elle les gagnera bien, je vous le promets. 
+ — Je ne vous contredirai pas, monsieur le curé, elle aura douze écus. 
+ Quand viendras-tu, petite Jeanne ? 
+ — Maître Gerbaud arrive demain matin pour vendre les effets de sa tante ; je voudrais bien ne pas me trouver là, j'en aurais trop de chagrin. Si vous pouvez m'envoyer chercher avant midi, je serai bien contente. J'ai mon lit, mon coffre et l'armoire de la mère Nannette ; pourrez-vous me les loger ? 
+ — Oui ; il n'y a pas de lit dans la boulangerie ; on y mettra le tien, et tu y seras toute seule, à moins pourtant que tu ne prennes avec toi l'une de mes trois filles, qui couchent dans un même lit et se disputent souvent. 
+ — Je le veux bien, maîtresse ; vous donnerez avec moi celle que vous voudrez.»
+</div></body></text></TEI>

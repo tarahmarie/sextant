@@ -1,0 +1,13 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="112">
+M le curé dit que la prière est bonne partout. 
+ « Monsieur le curé, cria Marguerite, est-ce qu'il y a du mal à faire le voyage de Sainte-Solange ? 
+ — Non, certainement. Si, en quittant votre maison pendant plusieurs jours, vous n'y laissez rien en souffrance, et que votre mari et vos enfants soient bien soignés pendant que vous n'y serez pas, vous ferez bien d'aller prier au tombeau de la sainte. 
+ — Qu'est-ce que je te disais, Marguerite ? dit Jeanne ; as-tu besoin de laisser tout à l'abandon pour aller au loin prier Dieu, quand il y a une église et un bon prêtre auprès de toi ? Est-ce que Dieu n'est pas partout et ne nous entend pas toujours ? 
+ — Oui, sans doute ; mais il guérit mieux à Sainte-Solange qu'ici ; c'est bien sûr. 
+ — Tu crois que quand tu auras traîné ton petit malade à neuf lieues, par le froid de la nuit et la chaleur du jour, il sera mieux disposé à guérir que si tu le soignais dans ta maison ? 
+ — Vous avez raison, Jeanne, dit M. le curé ; Dieu veille partout aux besoins de ses créatures. Le plus petit insecte trouve à sa portée la proie dont il se nourrit ; la moindre fleur a sa goutte de rosée. 
+ Écoutez, Marguerite, je suis loin de blâmer ceux qui vont à Sainte-Solange. Il n'y a pas de mal à faire un pèlerinage, bien au contraire ; mais si quelque chose en souffre chez vous, vous désobéissez à Dieu, qui veut que la femme s'occupe de sa maison et de ses enfants. 
+ — Ma foi, c'est un grand ennui que les enfants : j'en ai cinq, c'est bien trois de trop. 
+ — Peux-tu dire des choses comme celles-là, Marguerite ! c'est comme si tu souhaitais la mort de ces pauvres petits. Que dirais-tu si l'on te proposait de te débarrasser de ceux qui sont de trop ? lesquels choisirais-tu ? 
+ — Tu me fais peur, Jeanne ; je les aime tous de même, quoiqu'ils m'ennuient bien souvent.»
+</div></body></text></TEI>

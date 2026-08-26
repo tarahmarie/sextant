@@ -1,0 +1,9 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Païenne</title><author>Adam, Juliette (1836-1936)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1883</date></publicationStmt></teiHeader><text><body><div type="letter" n="60">
+À MÉLISSANDRE 
+ J'ai pénétré seul dans ce salon devenu l'un des sanctuaires de mon religieux amour. 
+ Tu ne devais rentrer, me dit-on, que dans une heure. 
+ J'ai pris ta place, j'ai appuyé lentement mon bras sur ta table, et j'ai attendu. Alors j'ai senti la fin de cette transformation intérieure commencée depuis notre premier baiser. Je me suis trouvé tout autre. Je pensais en toi. J'avais perdu le sentiment de mon sexe et je jouissais délicieusement de cette transformation de tout mon être. Quelle merveille que l'amour ainsi éprouvé ! 
+ On n'est plus amant, on devient la personne aimée elle-même. 
+ N'est-ce pas le vrai mystère analogue à ce qui arrive dans les vieilles légendes de l'Inde où le prêtre, à force d'amour, se confond, par la puissance de la prière intérieure, avec la divinité qu'il sert ? 
+ Mélissandre, c'est sur ton propre autel que je viens t'adorer.
+</div></body></text></TEI>

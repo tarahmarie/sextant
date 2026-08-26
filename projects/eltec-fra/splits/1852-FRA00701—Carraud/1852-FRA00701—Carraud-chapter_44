@@ -1,0 +1,16 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="44">
+Jeanne envoie chercher M. le curé. 
+ « Grand Louis, dit Jeanne, courez vite chez M. le curé ; il s'entend à toutes sortes de maux, et soulagera ce pauvre garçon, s'il est possible. 
+ — Il faut appliquer une compresse de persil trempé dans du vin vieux, dit le garde, ça empêchera le sang de couler. 
+ — Non, du tout, répondit Jeanne ; il faut toujours laisser saigner une plaie avant de la panser. Tenez, voilà qu'il n'est déjà plus si pâle ; il faut lui faire un peu d'eau sucrée avec de la fleur d'oranger.» 
+ Joséphine prit la clef dans la poche de sa mère, et donna ce que Jeanne demandait. 
+ M. le curé arriva au moment où le petit marchand ouvrait les yeux : il trempa une compresse dans de l'eau fraîche, où il mit trois ou quatre gouttes de teinture d'arnica, et il banda le front du blessé, qui se l'était fendu depuis le sourcil gauche jusque dans les cheveux du côté droit. On lui fit boire de l'eau sucrée, et on lui demanda comment il se trouvait. 
+ « Il me semble que tout tourne devant moi, dit-il ; et il retomba dans sa faiblesse. 
+ — Maître Tixier, dit M. le curé, il faut garder ce pauvre garçon chez vous jusqu'à ce qu'il puisse continuer sa route ; je crains bien qu'il n'ait de la fièvre demain ; je viendrai le voir dès le matin.» 
+ Le lendemain, trouvant un peu de fièvre au colporteur, M. le curé ne lui permit pas de se lever de toute la journée. Il lui demanda son âge et de quel pays il était. 
+ « J'ai seize ans et je suis de Paris, monsieur. 
+ — Dites-moi donc comment vous avez fait pour tomber ; car rien n'embarrassait la porte, et vous pouviez bien passer au milieu sans heurter ce morceau de bois. 
+ — Monsieur, c'est que je me pressais trop de sortir. 
+ — Et pourquoi donc tant vous presser, quand, au contraire, vous eussiez mieux fait d'attendre, puisque vous aviez l'occasion de vendre votre marchandise ?» 
+ Le jeune homme ne répondit pas et rougit beaucoup, ce que le curé vit bien ; mais il ne lui adressa aucune observation à ce sujet.
+</div></body></text></TEI>
