@@ -1,0 +1,32 @@
+{
+  "notes": [
+    "Documented influence pairs for ELTeC-fra, checked against the corpus holdings",
+    "(100 novels, 74 authors, 1840-1920). Author strings are substring-matched",
+    "against TEI <author> surnames. Sources precede targets at the novel level,",
+    "so the pipeline's temporal filter retains every pair.",
+    "Documentation: Flaubert->Maupassant (seven-year mentorship; Maupassant,",
+    "'Le Roman', preface to Pierre et Jean, 1888). Balzac->Flaubert (Flaubert's",
+    "correspondence; Falconer, 'Flaubert lecteur de Balzac'). Balzac->Proust",
+    "(Contre Sainte-Beuve; the 1908 Lemoine pastiches). Flaubert->Proust",
+    "('A propos du style de Flaubert', 1920). Gaboriau->Leblanc (Lecoq->Lupin",
+    "lineage; Messac 1929; Derouard). Flaubert->Bourget (Bourget, Essais de",
+    "psychologie contemporaine, 1883). Gaboriau->Leroux is author-level only:",
+    "the famous Rouletabille/Lecoq intertext is in Chambre jaune, which is not",
+    "the corpus's Leroux novel (La Reine du Sabbat, 1913).",
+    "Collaboration control: Maquet co-wrote La Reine Margot (1845) and sued",
+    "Dumas over credit in 1858; a known shared-hand pair, reported separately",
+    "as a positive control for textual kinship, not as influence."
+  ],
+  "influence": [
+    ["Flaubert", "Maupassant", "Flaubert → Maupassant"],
+    ["Balzac", "Flaubert", "Balzac → Flaubert"],
+    ["Balzac", "Proust", "Balzac → Proust"],
+    ["Flaubert", "Proust", "Flaubert → Proust"],
+    ["Gaboriau", "Leblanc", "Gaboriau → Leblanc"],
+    ["Flaubert", "Bourget", "Flaubert → Bourget"],
+    ["Gaboriau", "Leroux", "Gaboriau → Leroux*"]
+  ],
+  "collaboration": [
+    ["Dumas", "Maquet", "Dumas → Maquet"]
+  ]
+}
