@@ -73,6 +73,31 @@ leaves those works as one text unit each rather than chapter-sized units.
    tokeniser and have not been migrated to profiles; do not quote their
    token/stopword statistics for French pairs until they are.
 
+## Lemmatisation sensitivity (the evidence for the default)
+
+Both runs on identical splits and alignments; the only difference is the
+profile's `lemmatiser` parameter (`none` vs `simplemma`), which affects the
+SVM preprocessing path.
+
+|                                | lemmatiser=none (default) | lemmatiser=simplemma |
+|--------------------------------|---------------------------|----------------------|
+| Held-out test ROC AUC          | **0.811**                 | 0.809                |
+| 10-fold CV ROC AUC             | 0.805 (±0.005)            | 0.804 (±0.003)       |
+| Hapax β                        | −1.420                    | −1.414               |
+| SVM β                          | +0.140                    | +0.100               |
+| Alignment β                    | −0.176                    | −0.177               |
+| SVM vocabulary size            | 86,933                    | 42,025               |
+| Validation avg percentile      | 99.64%                    | 99.65%               |
+
+Reading: simplemma removes 52% of the SVM's feature types (collapsing
+conjugation and agreement — vastly more reduction than the English WordNet
+plural strip ever performed, which is the asymmetry argument for the
+default), yet the AUC delta is −0.002, inside cross-validation noise, with
+no coefficient sign changes and an unchanged validation table. The default
+(no lemmatisation) is therefore both the methodologically smaller deviation
+from the English pass and empirically inconsequential to switch — evidenced,
+not asserted.
+
 ## Staging record
 
 - Corpus: COST-ELTeC/ELTeC-fra, level-1 encoding, cloned at repo sibling
