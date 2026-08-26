@@ -31,6 +31,8 @@ Author: Tarah Wheeler
 For: Dissertation Project / Sextant Paper
 """
 
+import json
+import os
 import sqlite3
 import numpy as np
 import pandas as pd
@@ -49,9 +51,17 @@ warnings.filterwarnings('ignore')
 # Set random seed for reproducibility
 RANDOM_STATE = 42
 
-# The 8 documented influence relationships from literary scholarship
+# Documented influence relationships from literary scholarship.
 # Format: (source_author_substring, target_author_substring, label)
-VALIDATION_CASES = [
+#
+# Per-project cases live in projects/<name>/validation_cases.json:
+#   {"influence": [[source_substr, target_substr, label], ...],
+#    "collaboration": [[source_substr, target_substr, label], ...]}
+# "collaboration" pairs are known shared-hand relationships (e.g. Dumas and
+# Maquet) reported separately as positive controls, not as influence cases.
+# A project without the file uses the eight documented Victorian cases below,
+# so the English thesis runs are unchanged.
+DEFAULT_VALIDATION_CASES = [
     ('Eliot', 'Lawrence', 'Eliot → Lawrence'),
     ('Thackeray', 'Disraeli', 'Thackeray → Disraeli'),
     ('Dickens', 'Collins', 'Dickens → Collins'),
@@ -61,6 +71,21 @@ VALIDATION_CASES = [
     ('Gaskell', 'Dickens', 'Gaskell → Dickens'),
     ('Bront', 'Gaskell', 'Brontë → Gaskell'),  # Using 'Bront' to match Brontë
 ]
+
+
+def load_validation_cases(project_name):
+    """Load per-project validation cases, falling back to the Victorian set."""
+    path = f'./projects/{project_name}/validation_cases.json'
+    if not os.path.exists(path):
+        return list(DEFAULT_VALIDATION_CASES), []
+    with open(path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    influence = [tuple(case) for case in data.get('influence', [])]
+    collaboration = [tuple(case) for case in data.get('collaboration', [])]
+    return influence, collaboration
+
+
+VALIDATION_CASES, COLLABORATION_CASES = load_validation_cases(get_project_name())
 
 
 def load_data():
@@ -557,7 +582,31 @@ def validate_all_influence_cases(df, results):
         })
         
         print(f"{label:<25} {len(case_pairs):>10,} {best_rank:>12,} {percentile:>11.2f}% {best_prob:>10.4f}")
-    
+
+    # Collaboration controls: known shared-hand pairs (e.g. Dumas/Maquet).
+    # Reported separately because they validate that the pipeline detects
+    # textual kinship, but they are not influence cases and are excluded
+    # from the summary statistics below. Empty for projects without them.
+    if COLLABORATION_CASES:
+        print("\n" + "-" * 70)
+        print("COLLABORATION CONTROLS: known shared-hand pairs (not influence)")
+        print("-" * 70)
+        print(f"\n{'Pair':<25} {'N pairs':>10} {'Best Rank':>12} {'Percentile':>12} {'Max Prob':>10}")
+        print("-" * 70)
+        for source_substr, target_substr, label in COLLABORATION_CASES:
+            case_pairs = cross_author[
+                (cross_author['source_author_name'].str.contains(source_substr, case=False, na=False)) &
+                (cross_author['target_author_name'].str.contains(target_substr, case=False, na=False))
+            ]
+            if len(case_pairs) == 0:
+                print(f"{label:<25} {'NOT FOUND':>10}")
+                continue
+            best_pair = case_pairs.loc[case_pairs['influence_prob'].idxmax()]
+            best_rank = ranked[ranked['pair_id'] == best_pair['pair_id']]['rank'].values[0]
+            percentile = (1 - best_rank / total_pairs) * 100
+            print(f"{label:<25} {len(case_pairs):>10,} {best_rank:>12,} "
+                  f"{percentile:>11.2f}% {best_pair['influence_prob']:>10.4f}")
+
     # Summary statistics
     print("\n" + "-" * 70)
     print("SUMMARY")
@@ -595,7 +644,7 @@ def validate_all_influence_cases(df, results):
     for i, (_, row) in enumerate(ranked.head(20).iterrows(), 1):
         # Check if this is a known influence case
         is_known = ""
-        for source_substr, target_substr, label in VALIDATION_CASES:
+        for source_substr, target_substr, label in VALIDATION_CASES + COLLABORATION_CASES:
             if (source_substr.lower() in str(row['source_author_name']).lower() and 
                 target_substr.lower() in str(row['target_author_name']).lower()):
                 is_known = f" *** KNOWN: {label}"
