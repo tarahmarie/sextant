@@ -1,0 +1,14 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="25">
+Jeanne a grand soin de la mère Nannette. 
+ A seize ans, Jeanne était grande et forte : elle soignait toute seule le bétail de la mère Nannette, qui se faisait vieille ; elle pétrissait le pain et chauffait le four ; elle faisait le beurre et l'allait vendre à la ville, car elle ne voulait pas que la mère Nannette eût la moindre fatigue ; et comme Jeanne savait bien prendre son temps, elle trouvait encore le moyen de faire quelque ouvrage pour gagner un peu d'argent. 
+ « Ma chère mère, disait-elle quand la mère Nannette la grondait de ce qu'elle voulait tout faire, vous avez eu pitié de moi quand j'étais petite ; vous m'avez soignée comme si j'eusse été votre propre enfant : il est bien juste que j'aie toute la peine, à présent que je suis plus forte que vous.» 
+ Plusieurs des personnes à qui Jeanne vendait son beurre lui avaient offert de bons gages si elle voulait servir en ville ; mais elle répondait toujours qu'elle ne se résoudrait jamais à quitter la mère Nannette. Quand elle lui racontait cela, cette excellente femme lui disait : 
+ « Ma fille si tu es jamais obligée d'aller chez les autres, crois-moi, ne te place pas en ville ; on y gagne plus d'argent, c'est vrai ; mais aussi on y dépense davantage, et les jeunes filles y ont bien du désagrément.» 
+ La mère Nannette dépérissait peu à peu, et Jeanne en avait beaucoup de chagrin. Elle conta sa peine à M. le curé, en qui elle avait grande confiance. 
+ « La croyez-vous en danger de mort ? lui dit-il ; en ce cas il faudrait voir le médecin. 
+ — Oui, monsieur, elle est en grand danger, mais elle ne s'en doute pas. 
+ J'ai fait entrer l'autre jour, comme par hasard, le médecin qui était venu saigner le maréchal ; il a causé avec elle et l'a bien examinée ; quand il est sorti, je l'ai suivi sans rien dire ; il m'a assuré qu'il n'y avait rien à faire à la mère Nannette, parce que c'est un corps usé : 
+ il dit qu'elle pourra traîner encore longtemps, et qu'elle s'éteindra sans souffrir. 
+ — J'irai la voir. 
+ — Oh ! oui, monsieur le curé, il faut y venir bien souvent ; vos visites la soulageront plus que celles d'un médecin ; vous lui parlerez du bon Dieu, et elle sera toute prête quand il lui plaira de l'appeler à lui.»
+</div></body></text></TEI>

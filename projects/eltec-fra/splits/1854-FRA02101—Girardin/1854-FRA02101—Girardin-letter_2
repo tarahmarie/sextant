@@ -1,0 +1,4 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Marguerite, ou Deux amours</title><author>Girardin, Girardin, Delphine de [Delphine Gay] (1804-1855)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1854</date></publicationStmt></teiHeader><text><body><div type="letter" n="2">
+« Je vous rends votre parole, Marguerite ; ce n'est pas moi que vous aimez, je le vois, et je vous sais gré d'être si longtemps à le comprendre. Vous êtes libre, soyez heureuse. Adieu. 
+ » Étienne. »
+</div></body></text></TEI>

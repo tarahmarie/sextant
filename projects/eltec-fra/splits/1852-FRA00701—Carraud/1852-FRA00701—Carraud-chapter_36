@@ -1,0 +1,10 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="36">
+La maîtresse fait honte à grand Louis de sa mauvaise humeur. 
+ Un jour que grand Louis avait dételé plus tôt qu'à l'ordinaire, la soupe n'était pas encore trempée quand il rentra. 
+ « Il n'y a jamais rien de prêt ici, dit-il pendant que Jeanne se dépêchait de mettre le couvert ; demandez-moi ce qu'elles ont fait depuis le matin !» 
+ Solange murmura, mais Jeanne ne répondit pas, et prit le broc pour aller tirer à boire. Quand elle fut partie, la maîtresse dit : 
+ « Tu seras donc toujours bourru, grand Louis ! tu ne changeras donc pas ! 
+ Regarde un peu : y a-t-il une maison où les cuillers et les fourchettes soient plus claires qu'ici ? on dirait que c'est de l'argent. As-tu vu quelque part des verres plus nets, du linge plus blanc, une maison plus propre ? Vois s'il y a un seul grain de poussière sur les meubles, une seule toile d'araignée aux soliveaux ! Tout n'est-il pas clair à se mirer dedans ? Qui est-ce qui tient tout en état, si ce n'est la petite Jeanne ? 
+ L'as-tu vue quelquefois perdre son temps ? Avant qu'elle vînt remplacer Marie, je me tuais, et jamais rien n'était fini ; à présent je ne prends plus grand'peine, et tout va bien. Il n'y a que toi au monde pour te plaindre d'une fille pareille ! Qui donc t'a raccommodé ta blouse et ton pantalon pendant que tu faisais le beau à Meunet, l'autre jour, hein ? ce n'est pas moi, bien sûrement.» 
+ Jeanne rentra ; les laboureurs se mirent à table ; grand Louis dîna sans mot dire, lui qui d'ordinaire parlait tant. Après les laboureurs, ce fut le tour des petits pâtres. Jeanne secoua la nappe, rinça les verres et leur coupa du pain.
+</div></body></text></TEI>

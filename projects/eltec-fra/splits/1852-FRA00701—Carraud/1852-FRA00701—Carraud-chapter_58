@@ -1,0 +1,14 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="58">
+Grand Louis fait un bon cailloutage devant la porte. 
+ Les foins et la moisson se passèrent sans accidents. Jeanne faisait de si bonne soupe aux moissonneurs, et son pain avait si bon goût, qu'ils disaient n'avoir jamais été mieux régalés. Dès le matin, elle tirait de l'eau et la jetait à pleins seaux dans la maison ; puis elle balayait pour ôter la boue et le fumier que chacun apportait aux pieds. Si grand Louis la voyait faire, il allait lui chercher l'eau. Un jour il lui dit : 
+ « Petite Jeanne, ça m'ennuie de te voir te fatiguer, et pour rien encore ! 
+ tu as beau nettoyer le matin, à midi il y en a autant. 
+ — C'est bien vrai, grand Louis ; mais, si je n'ôtais pas les ordures à fond tous les jours, nous serions, sans comparaison, comme les bestiaux dans l'étable. S'il y avait seulement un bon cailloutage devant notre porte, la boue des sabots y resterait, et la maison ne serait pas si sale.» 
+ Le lendemain, comme il avait beaucoup plu le matin, et que les gerbes étaient trop mouillées pour être rentrées, grand Louis, après avoir aidé à les mettre debout afin qu'elles pussent sécher, revint vers trois heures, et, comme il n'avait rien à faire, il attela son tombereau et fit plusieurs voyages à la carrière voisine ; il en rapporta des pierrailles et fit devant la maison un bon cailloutage. 
+ « Tu as fait là un fameux ouvrage, dit maître Tixier en soupant ; c'était bien nécessaire, et je ne sais pas pourquoi je n'y ai jamais pensé. 
+ Comment l'idée t'en est-elle donc venue ? 
+ — Ce n'est pas mon idée à moi, c'est celle de la petite Jeanne, qui a dit que, s'il y avait un bon cailloutage devant la porte de la maison, elle serait plus saine et plus propre. 
+ — Mon garçon, tu as bien raison de faire ce que la petite Jeanne te commande. 
+ — Notre maître, dit Jeanne toute rouge, je ne lui ai rien commandé ; il l'a fait de sa bonne volonté. 
+ — C'est encore mieux, ma fille.»
+</div></body></text></TEI>

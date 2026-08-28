@@ -1,0 +1,15 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="122">
+Jeanne gronde Marguerite. 
+ Quelques jours après, Jeanne alla voir Pierre ; elle trouva Marguerite qui travaillait devant sa porte. 
+ « Marguerite, lui dit-elle, il ne me semble guère naturel que Pierre ait voulu se détruire à trois fois différentes ; il a son tiers dans votre maison et dans votre champ, et il lui reste bien un peu d'argent de ses gages. Je parierais que tu lui as dit quelque chose. 
+ — Oh ! mon Dieu, pas grand'chose, va, Jeanne ! Je lui disais qu'il était au bout de son argent, et que, quand il n'en aurait plus, nous ne pourrions pas le garder, parce que nous étions déjà trop dans la maison. 
+ — Lui disais-tu ces belles choses-là devant Claude ? 
+ — Non pas ! il est bien bon, Claude, mais il m'aurait donné une bonne tape, s'il m'avait entendue parler comme ça à son frère. 
+ — Et tu as eu le cœur de dire des choses pareilles à cet infirme, au frère de ton homme ! 
+ — Tiens, voilà-t-il pas ! 
+ — Il ne te rendait donc pas quelques services ? 
+ — Si fait : il chauffait le four et enfournait le pain ; il faisait des mues et des paniers que je vendais à la ville, où le meunier me les conduisait ; enfin, il s'occupait toujours ; il gardait aussi les petits et leur faisait des amusettes. 
+ — Et tu as pu lui reprocher le pain qu'il mangeait et qu'il gagnait bien, ma foi ! Marguerite, je mourrais de honte si j'étais à ta place. Si Pierre s'était détruit, tu en aurais répondu devant Dieu. 
+ — Jeanne, tu me fais toujours peur ; je ne suis pourtant pas méchante. 
+ — C'est vrai, tu n'es pas méchante au fond ; mais c'est pire que si tu l'étais, parce que tu ne penses jamais ni à ce que tu dis ni à ce que tu fais.»
+</div></body></text></TEI>

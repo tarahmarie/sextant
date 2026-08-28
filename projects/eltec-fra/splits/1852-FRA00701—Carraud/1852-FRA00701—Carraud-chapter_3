@@ -1,0 +1,13 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="3">
+La mère Nannette donne asile à Catherine. 
+ « Comment vous appelez-vous donc ? demanda la mère Nannette. 
+ — On m'appelle Catherine Leblanc. 
+ — Eh bien ! Catherine, j'ai là un vieux lit, une paillasse et une couverture ; si vous voulez rester ici, je vous logerai de bien bon cœur et je vous soignerai de mon mieux, ainsi que votre petite ; j'aime beaucoup les enfants ; j'en ai eu quatre, que le bon Dieu m'a retirés, et je suis bien seule au monde. 
+ — Grand merci ! ma brave femme ; vous me rendrez là un service qui nous sauvera la vie à moi et à mon enfant. J'ai encore mon lit, avec un coffre et une petite chaise. Maître Guillaume, le cousin de feu mon pauvre homme, me les garde dans sa grange ; il me les apportera bien dimanche. Si vous me logez avec mon chétif mobilier, je vous donnerai les sous que je ramasserai en allant aux portes. 
+ — Je ne vous demande rien, Catherine ; j'aime déjà votre petite Jeanne et j'en aurai bien soin. Dieu veut que nous fassions aux autres ce que nous voudrions que les autres fissent pour nous ; et si j'étais dans votre position, je serais bien heureuse de trouver quelqu'un qui voulût me recevoir dans sa maison.» 
+ Catherine était bien contente, et sa petite fille lui sauta au cou. 
+ « Maman ! il ne faut plus pleurer,» lui dit-elle. 
+ Puis, se tournant du côté de la mère Nannette, elle dit en baissant la tête : 
+ « Je voudrais bien vous embrasser aussi.» 
+ La mère Nannette la prit sur ses genoux et l'embrassa de bon cœur.
+</div></body></text></TEI>

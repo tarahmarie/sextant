@@ -1,0 +1,107 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Le piège aux maris</title><author>Rattazzi, Rattazzi, Marie [Marie-Lætitia Bonaparte-Wyse] (1831-1902)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1865</date></publicationStmt></teiHeader><text><body><div type="chapter" n="4">
+IV -- Baratte le placeur. 
+ Bah ! les gens ont beau être tristes, le soleil luit toujours. Dès qu'il parut le lendemain, M. Sainte-Hélène ouvrit toutes grandes les fenêtres de la loge, afin de renouveler l'air que respirait madame Sainte-Hélène. Au bruit qu'il fit, les moineaux perchés alentour se mirent à voleter pour aller se poser un peu plus loin. Mais il ne s'en émut pas. Comme il était ami de la nature, il sortit, son habit sur le bras, une brosse à la main, afin d'aller faire sa toilette près du lilas de la cour. M. Sainte-Hélène avait, depuis vingt ans, un habit qu'il brossait chaque matin, mais qu'il ne mettait jamais : l'hiver, il allait vêtu d'un gilet à manches, et l'été, il allait sans gilet. Le digne concierge avait dépassé la soixantaine, mais il se tenait droit, et ses gestes étaient empreints d'une raideur toute militaire. Son bras, lorsqu'il le remuait, décrivait des angles droits. Son front, dépouillé de cheveux, était étroit et fuyant vers le crâne. Le bas de sa figure, presque entièrement couvert par une immense moustache grise, était large au contraire et formait la base d'un triangle dont le front représentait assez bien le sommet. Cette tête reposait sur un col de crin noir qui lui étreignait le cou comme un carcan. C'est, sans doute, à cause de ce col que le bonhomme ne mettait pas d'habit ; car si l'on n'avait pas vu ses manches d'une blancheur éclatante, on aurait pu croire qu'il n'avait pas de chemise, tant le col de crin dissimulait le col de calicot. M. Sainte-Hélène, propre, méthodique, silencieux, ignorait le nom des locataires, et s'en remettait à sa femme pour tout ce qui regardait l'administration de la maison. Les mauvaises langues partaient de là pour dire que madame Sainte-Hélène portait les culottes dans son ménage, comme madame Baldi dans le sien : ce qui était faux. Madame Sainte-Hélène, petite femme grasse, la tête emmitouflée dans un bonnet qui cachait entièrement ses cheveux, le corps encotonné dans une robe sans taille, avait une tête en forme de boule, comme son mari avait une tête en forme de triangle. Cette tête, éclairée par de bons gros yeux d'un bleu faïence, et semée de quelques bourgeons rouges, en manière d'ornements, respirait la bonne humeur. La femme-sphère adorait l'homme-triangle et ne le contrariait en quoi que ce fût, sinon au sujet de leur fils aîné, le héros ! Que voulez-vous ? Elle ne savait pas de métier plus haïssable que le métier des armes, tandis que M. Sainte-Hélène n'en reconnaissait pas de plus beau, depuis qu'en 1813, enrôlé dans la garde nationale mobile, il avait failli se battre à Troyes. Certes, madame Sainte-Hélène faisait des cancans, mais c'était sans méchanceté, non pour blesser les gens ; mais uniquement pour dire quelque chose. Quand on est ignorante comme une carpe, et qu'on ne sait ni l'histoire, ni la géographie ; – quand on confond le nom d'une danseuse et le nom d'un port de mer (madame Sainte-Hélène avait pris un jour Carlotta-Grisi pour une ville Hanséatique !) quand on n'a rien lu, rien retenu, et qu'on est dépourvue d'invention, il faut bien parler de ses voisins, sous peine de sentir sa langue se geler. C'était là le cas de la bonne femme. Son mari était aussi ignorant qu'elle ; mais il était homme et par conséquent moins possédé du besoin de s'entendre parler ; de plus, il avait une petite collection de souvenirs militaires suffisante à remplir ses heures d'épanchement. Au demeurant, c'étaient de braves gens, fort respectés, comme les concierges doivent l'être dans un grand état, mais n'abusant pas de leur pouvoir absolu, et ne sacrifiant pas trop l'intérêt commun à l'intérêt de leur dynastie. Les ouvriers de la forge aimaient beaucoup M. Sainte-Hélène qui leur racontait de temps à autre sa campagne. 
+ Quoniam était l'enfant gâté de madame Sainte-Hélène : elle ne le voyait jamais passer sans l'appeler vaurien et lui prédire qu'il finirait sur l'échafaud, perspective enchanteresse qui faisait rire aux éclats l'apprenti. 
+ — Eh ! Sainte-Hélène ! cria-t-elle tout à coup ! 
+ Elle parut à la fenêtre, dans un déshabillé galant, composé d'une camisole jaune à pois bruns, et d'un serre-tête en indienne jaune sur jaune. Le jaune est le fard des brunes, et madame Sainte-Hélène était brune, en dépit de ses yeux bleus. C'est du moins ce qu'affirmait son mari, et lui seul était compétent en pareille matière, puisque lui seul pouvait se vanter de l'avoir vue nu-tête. 
+ — Sainte-Hélène ! Quelle heure est-il ? 
+ — Sept heures ! 
+ — Les ouvriers sont-ils tous arrivés ? 
+ — Tous, excepté le petit. 
+ — Oh ! le garnement ! Il mourra à la Roquette, je le lui ai prédit. Ce jour-là, il se lèvera matin. Le monstre d'enfant ! Où peut-il être passé ? Ah ! j'y suis ! Hier à minuit, tu dormais, toi, et je n'ai pas voulu te réveiller ; à minuit donc, voilà qu'on sonne. – Qui est là ? – Personne ! C'était lui. Je l'ai bien reconnu à sa voix. Je parie qu'il montait chez cette petite coureuse de Belotte. Ne l'a-t-il pas menée l'autre jour à l'Ambigu. À l'Ambigu ! Je t'en donnerai, moi, de l'Ambigu ! démon de perversité, va ! Après ça, ils se valent bien tous les deux. Je ne donnerais pas deux sous de leur avenir : Saint-Lazare, l'hôpital, la morgue, la guillotine, ou quelque chose d'approchant. 
+ — Bon ! bon ! Il faut que jeunesse se passe. Il a de la sève, que veux-tu ? 
+ — De la sève ! Ah ! tu appelles cela de la sève, toi ! Merci bien de cette sève-là. Je voudrais bien voir que mon fils Georges menât cette vie ! Je voudrais apprendre qu'il va chez des coureuses comme cette Belotte… 
+ — Vous aimez mieux qu'il aille chez des actrices, n'est-ce pas ? Avec ça qu'il s'en prive ! Bien le bon jour, madame Sainte-Hélène ! Comment avez-vous passé la nuit ? Pas mal ! Et vous ? Merci… 
+ C'est Quoniam en personne, et déjà dépeigné. 
+ — Je vas au bagne ! dit-il. Soyez heureuse ! 
+ Et il traversa la cour sur une jambe pour arriver à l'atelier. 
+ — Ah ! le gamin ! Le farceur ! dit la bonne femme en riant. Pas moins, il sort de chez ce petit poison de Belotte, le gueux ! 
+ — De mon temps, dit gravement M. Sainte-Hélène, les choses n'allaient pas ainsi. Je me suis marié à vingt-cinq ans, et ma femme est la première à qui j'ai dit : Comment te portes-tu ? Il est vrai qu'à cette époque on avait autre chose à faire qu'à courir après les filles. C'était en 1813. Les alliés envahissaient la France… 
+ — Et vous faisiez partie de la garde nationale mobile. Connu ! dit Quoniam, qui ressortait de l'atelier un seau à la main. Tournez le robinet, s'il vous plaît, papa. Là ! bon ! Tiens, où va donc madame Houlot ? Sa fille est avec elle. Elles ont l'air triste comme tout. Ah ! madame votre épouse les interroge. Je saurai tout. C'est heureux. – Rebonjour ! 
+ Il rentra, les jambes écartées, tenant son seau en avant des deux mains, et semirant dedans à l'instar de Narcisse. 
+ Madame Houlot et sa fille étaient dans la rue. Elles allaient, le front baissé, les yeux pleins de larmes, n'échangeant que de rares paroles. Qu'auraient-elles dit ? Une fois résolues au sacrifice, elles n'avaient plus qu'à s'occuper des détails de l'exécution. 
+ — Penses-tu que ce sera bientôt ? demandait la fille. 
+ — Hélas ! ce sera toujours trop tôt ! répondait la mère… Du reste, je veux me montrer difficile ; aller aux informations moi-même. On donne toujours trop au hasard… 
+ — Que les riches sont heureux, maman ! 
+ — Oh ! oui. Car ils gardent leurs enfants !.. 
+ — Maman, c'est par ici. 
+ — C'est juste. Je n'y vois plus clair. C'est que j'ai tant pleuré. 
+ — Courage ! 
+ — Oui, oui, tu as raison. Courage ! 
+ Elles s'arrêtèrent rue Dauphine, devant une maison noire à grande porte cochère, chargée d'enseignes et d'écussons. Il y avait, dans la maison, un atelier de brochures, une fabrique d'articles-Paris, un atelier de raccommodeuses de dentelles, une lingerie, etc.… Une plaque de cuivre portait ces mots gravés en noir : «  Baratte et C ie , agence de placements. Au deuxième. » 
+ 
+ — Où allez-vous ? cria le concierge, d'une voix rude, aux deux femmes. 
+ — Chez M. Baratte ! répondit la mère, en tremblant. 
+ Il est des moments dans la vie où tout porte coup sur l'âme : une bonne parole vous raffermit, un mot brutal vous décourage. La voix de ce concierge fut pour ces deux femmes un présage douloureux. Elles eurent un moment l'idée de s'enfuir. Chacune isolée, l'aurait fait. Elles étaient deux, elles se serrèrent la main et montèrent l'escalier. 
+ — Entrons-nous ? dit la mère lorsqu'elles furent près de la porte. 
+ La fille eut du courage pour deux. 
+ — Puisque c'est décidé ! dit-elle. 
+ La porte s'ouvrit. 
+ Il en sortit une grosse servante, vêtue en picarde, qu'accompagnait un jeune homme, nu-tête, assez semblable par la mise et la tournure à un sous-officier de cavalerie, en habit de ville. 
+ — Entrez, mesdames ! dit ce jeune homme aux deux femmes : je suis à vous dans un instant. 
+ Madame Houlot et sa fille pénétrèrent dans une pièce qu'on aurait pu prendre pour une étude d'huissier. Autour des murs, de méchants canapés de paille, une cloison à hauteur d'appui, toute salie, portant l'empreinte des cheveux gras des cuisinières qui s'y étaient appuyées. Derrière cette cloison, qui partageait inégalement la pièce, un bureau en sapin noirci, tout chargé de registres en mauvais état. Sur les murs, un papier gris sur gris avec des bandes noirâtres faites par la fumée. Un plafond lézardé, un plancher souillé, quelques cartes de géographie d'inégales grandeurs, un poêle en faïence ébréchée, enchâssé dans la cloison… 
+ Quelques femmes étaient là, attendant comme madame et mademoiselle Houlot. C'étaient des servantes pour la plupart ; de celles qui sont les habituées de ces sortes de lieux, changeant sans cesse de maîtres, parce qu'elles n'en servent bien aucun. Elles parlaient toutes ensemble, s'adressant à une jeune fille assise parmi elles, les yeux baissés et portant le costume des paysannes de la Nièvre : c'était une nouvelle venue à qui elles expliquaient Paris, les bonnes âmes ! lui donnant des avis d'expertes sur la manière de s'entendre avec les fournisseurs pour détrousser les maîtres… 
+ Deux jeunes filles simplement vêtues, paraissant des sous-maitresses de pension, se tenaient assises et muettes, d'un autre côté : pauvres enfants, qui sans doute venaient là, avec l'espérance de trouver quelque bonne place ! Ce marchand de chair, Baratte le Placeur, allait leur ouvrir la porte du monde. Les jeunes filles rêvent, on ne sait pas bien à quoi. Peut-être celles-ci se voyaient établies dans quelque château féerique entouré d'un parc mystérieux et demoiselles de compagnie de quelque vieille dame, dont le fils, un beau cavalier, leur offrait sa fortune et sa main ? Peut-être… mais à quoi bon raconter toutes ces imaginations ? En attendant, quelle préface à ces splendeurs, – Baratte et Cie ! – Cette chambre salie ! ah ! quelle antichambre aux palais du rêve ! 
+ Le jeune homme, qui avait fini de causer avec la Picarde, rentra et allant aux deux sous-maîtresses : 
+ — Vous allez voir M. Baratte dans cinq minutes ! dit-il. 
+ Puis, s'adressant à madame Houlot et à Mathilde : 
+ — Si vous voulez prendre la peine de passer ?… 
+ Il ouvrit une porte latérale et introduisit la mère et la fille dans une pièce voisine. Ensuite, il revint vers les cuisinières. Il n'était pas Baratte, lui, il n'était que Cie, et il avait la spécialité des cuisinières. 
+ Le salon où madame Houlot et Mathilde venaient d'entrer ne ressemblait en rien au bouge qu'elles avaient traversé tout à l'heure. Il était meublé avec un certain luxe, luxe banal, qu'on rencontre dans trente-six mille maisons bourgeoises à Paris. Mais tel qu'il était, il paraissait splendide par le contraste. Un tapis carré, une boiserie à baguettes dorées, un meuble en palissandre garni de velours grenat, une armoire de Boule, un superbe bureau chargé, celui-là, de beaux registres verts, à coins de cuivre étincelants, un bon feu réfléchi par des chenets de bronze doré : tel était le cadre opulent dans lequel, vêtu d'une douillette de soie noire, piquée et ouatée, cravaté de blanc, un gros diamant à sa chemise, des lunettes d'or sur le nez, de beaux cheveux blancs sur les tempes, le teint clair, la main grasse, le geste onctueux, se mouvait le noble vieillard qui avait nom Baratte le placeur, de la maison Baratte et Cie, bien connue. 
+ Il salua, et son salut fut affectueux. Il offrit des sièges et ce fut paternellement qu'il les offrit. Il s'assit lui-même avec majesté, sans hâte, comme un homme riche pour qui le temps n'est pas l'argent. Puis, d'une voix profonde et douce, la plus belle voix du siècle, après celle de M. de Talleyrand, il dit à madame Houlot (en vérité il lui dit cela) : – Madame, comment vous portez-vous ? 
+ Cet homme était l'antithèse de son portier, comme son salon était l'antithèse de son antichambre. 
+ — Nous venons, monsieur !… dit madame Houlot. 
+ Il fit un petit geste de la main, un geste de grand seigneur, un geste éloquent qui voulait dire, clair comme le jour : Oui, madame, nous avons à causer affaires, je le sais ; mais nous sommes gens de bonne compagnie, rien ne presse. Mieux vaut auparavant épuiser le code des civilités mondaines. Il disait tout cela, ce geste… et il le disait mieux qu'on ne saurait le traduire. 
+ La voix reprit : Et vous, mademoiselle, vous allez bien aussi ? 
+ Mathilde fit un signe de tête qui équivalait à un oui. 
+ — Monsieur, réitéra la mère, nous venons ici avec l'espoir que, par votreintermédiaire, ma fille pourra trouver une place d'institutrice ou de demoiselle de compagnie dans quelque maison particulière. 
+ — Rien de plus aisé ! répondit doucement le beau vieillard. Je compte dans ma clientèle les plus grands noms du faubourg Saint-Germain et de la province. Mademoiselle voudra bien seulement spécifier l'emploi quelle désirerait. Cela, en guidant mes recherches, abrégera ma tâche. 
+ — Ma fille, monsieur, voudrait entrer dans une maison, comme institutrice d'une jeune personne moins âgée qu'elle, ou comme demoiselle de compagnie d'une dame veuve. Je ne la voudrais pas à Paris, lancée dans le monde ; mais je ne la voudrais pas non plus dans une province trop éloignée de moi. Vous comprenez, monsieur, les angoisses d'une mère qui, pour la première fois, va se séparer de son enfant ? Vous-même, vous êtes père, sans doute… 
+ — Oui, madame. Quand je dis oui, je veux dire que, si je ne suis pas père, je pourrais l'être, étant marié. Pardon ! – Ma femme est une sainte ! 
+ Le vénérable Baratte ne manquait jamais, quand il parlait de sa femme, de dire qu'elle était sainte ! Cela faisait bien auprès des clients. Au fond, il se souciait d'elle moins que d'un rhume de cerveau. Celles de ses clientes qui étaient jolies savaient à quoi s'en tenir là-dessus. 
+ — Voyons, mademoiselle, dit-il à Mathilde, ce que demande madame votre mère n'est pas infaisable. Veuillez répondre à mes questions je vous prie. Seulement, je vous demanderai la permission de prendre quelques notes. 
+ — Ne vous effrayez pas ! Je suis un vieillard. Répondez-moi, comme vous répondriez à ma sainte femme. Eh ! eh ! 
+ — Quel brave homme ! se disait tout bas madame Houlot. Et quelle chance nous avons eue de tomber sur lui ! On m'avait dit tant de mal de ces placeurs !… 
+ Et tout haut à sa fille : 
+ — Réponds ! réponds, mon enfant ! 
+ Mathilde releva son voile. Elle avait une charmante figure, dont l'expression principale était l'ingénuité. Rien de candide comme l'ensemble, rien de délicat comme les détails. Les cheveux d'un blond sombre, relevés sur les tempes, légèrement frisés, séparés au milieu du front par une raie blanche qu'aimait à suivre le regard, étaient réunis sur la nuque par un nœud de velours qui relevait le bavolet du chapeau. Le front, un peu trop ample peut-être, avait l'éclat et la pureté du marbre. Il était légèrement bombé au-dessus des sourcils, ce qui implique de la mémoire et une certaine dose d'imagination. Les sourcils étaient d'un blond plus foncé encore que les cheveux, presque bruns. Les yeux, d'un bleu de pervenche, humides et veloutés comme des yeux noirs. Le nez droit et fin s'avançait un peu sur la lèvre supérieure, presque imperceptiblement rentrée. Une toute petite bouche à arêtes prononcées ; des joues fraîches à l'ovale plein, un col d'une blancheur de lait qui éblouissait par son contraste avec ses vêtements de couleur sombre. La robe, taillée en fourreau de parapluie, cachait des formes florentines, dont la maigreur propre à la jeunesse, et qu'on devrait plutôt appeler minceur, était pleine de poésie. Le pied et la main avaient une forme charmante. Les doigts étaient allongés en fuseau, un peu longs et légèrement retroussés vers le bout : des doigts de reine ! 
+ Le respectable vieillard, après avoir regardé la jeune fille assez longtemps pour la faire rougir, se prit à poser ses questions, s'amusant de l'embarras de son interlocutrice, écrivant lentement les réponses, relevant sur elle un regard qui faisait étinceler le verre deses lunettes d'or. 
+ — Quel âge avez-vous ? 
+ — Dix-huit ans. 
+ — Dans quelle pension étiez-vous ? 
+ — Je n'ai pas été en pension. 
+ — Ah ! ah ! 
+ — Monsieur, dit la mère, mon mari était banquier. Nous étions riches. J'ai voulu que ma fille fût élevée auprès de moi. Je lui ai donné des maîtres de toute sorte. Depuis, mon mari est mort. Nous avons été bien éprouvées. Certes, je ne pensais pas qu'un jour ma fille serait réduite à gagner sa vie chez les autres !.. 
+ — Madame, fit l'honnête Baratte, ne vous repentez pas de ce que vous avez fait. L'éducation donnée en famille est la meilleure. Ma femme, une sainte ! m'a dit souvent (et j'étais de son avis) que, si nous avions des enfants, nous les ferions élever près de nous. Dans les pensions, quelque sévèrement qu'elles soient tenues, les jeunes filles risquent toujours d'avoir de mauvais exemples sous les yeux. Ainsi, dernièrement, j'ai appris qu'un monsieur avait placé sa… 
+ — Monsieur !… 
+ — Dans une pension d'Auteuil. Il la faisait passer pour sa pupille. Comme c'est rassurant pour les mères de famille de penser… 
+ — Monsieur, interrompit de nouveau madame Houlot, inquiète de la tournure que prenait la conversation, ma fille sait l'histoire sainte, l'histoire de France, le piano, le dessin, l'anglais… 
+ — Je ne doute pas, dit l'excellent homme, des talents de mademoiselle. À Dieu ne plaise que j'en doute ! A-t-elle un diplôme ? 
+ — Oui, monsieur, dit la jeune fille, j'ai passé mon examen à la Sorbonne le mois dernier. 
+ — Voilà qui est parfait. Il ne me reste plus, mademoiselle, qu'à vous demander votre adresse, afin que mes clients puissent prendre eux-mêmes des renseignements, s'ils ne s'en rapportent pas à la haute opinion que j'ai conçue de vous. 
+ — Monsieur !… 
+ — Vous vous appelez ? 
+ — Francoise-Mathilde Houlot. 
+ — Et vous demeurez ? 
+ — Rue Lamartine, n° 26. 
+ — Maintenant, mademoiselle… – Que me veut-on ? 
+ Le sous-officier en habit de ville, – le Cie, avait ouvert la porte. 
+ — C'est moi, mon cher ! dit en entrant une jeune femme élégamment vêtue. Je viens… 
+ Elle s'arrêta, voyant les deux visiteuses : 
+ — Je reviendrai. 
+ — Non ! non ! dit le vertueux Baratte. J'ai fini, restez, je vous en prie. 
+ Madame Houlot s'était levée : 
+ — Quand faudra-t-il revenir ? demanda-t-elle d'une voix tremblante. 
+ — Je vous écrirai. Ne vous dérangez pas ! 
+ Il tendit la main à la mère, afin de pouvoir serrer les doigts de la fille, puis il les remit toutes deux aux soins de Cie qui les accompagna jusque sur le palier. 
+ Dès qu'elles furent sorties, le placeur ferma soigneusement sa porte, et allant à la jeune femme il voulut l'embrasser. Elle le repoussa : 
+ — Fi donc ! Que dirait votre femme qui est une sainte ! s'écria-t-elle en riant. 
+ — Méchante ! taquine ! 
+ — Taisez-vous ! Je viens de la part de madame la comtesse. Voici une lettre pour vous. 
+ — Donne ! 
+ Les deux sous-maîtresses, dans le salon de Cie, attendaient toujours leur tour d'audience. 
+ — Je ne crois pas que M. Baratte soit visible d'ici à deux heures ! leur dit le jeune homme en riant. 
+ — Vraiment ? Que fait-il donc ? 
+ — Ce qu'il fait… Ce qu'il fait, dit-il en riant plus fort ? – Il parle des vertus de son épouse bien-aimée à la femme de chambre de madame de Vinzelles… Ah !… ah ! 
+ — Nous reviendrons demain ! dirent tristement les jeunes filles.
+</div></body></text></TEI>

@@ -36,6 +36,8 @@ import re
 import sys
 from collections import Counter
 
+from language_profiles import get_profile
+
 
 def strip_tei(text):
     """Remove TEI/XML tags and header content."""
@@ -48,13 +50,15 @@ def strip_tei(text):
     return text
 
 
+# Tokenisation is language-dependent and lives in language_profiles.py.
+# The default is the frozen English profile; --language switches it.
+PROFILE = get_profile('en')
+
+
 def tokenize(text):
-    """Simple whitespace + punctuation tokenizer. Returns list of (token, position) tuples
-    where position is the character offset in the original text."""
-    tokens = []
-    for match in re.finditer(r"[a-zA-Z\u00C0-\u00FF]+(?:'[a-zA-Z]+)?", text):
-        tokens.append((match.group().lower(), match.start()))
-    return tokens
+    """Tokenizer for the active language profile. Returns list of (token, position)
+    tuples where position is the character offset in the original text."""
+    return PROFILE.kwic_tokenize(text)
 
 
 ENGLISH_STOPWORDS = {
@@ -87,7 +91,10 @@ def find_hapaxes(tokens, use_stopwords=False):
     Returns set of hapax types."""
     words = [t for t, _ in tokens]
     if use_stopwords:
-        words = [w for w in words if w not in ENGLISH_STOPWORDS]
+        # en keeps this tool's historical hand-rolled list; other languages
+        # use their profile's stopword set.
+        stops = ENGLISH_STOPWORDS if PROFILE.code == 'en' else PROFILE.stopwords
+        words = [w for w in words if w not in stops]
     counts = Counter(words)
     return {word for word, count in counts.items() if count == 1}
 
@@ -289,8 +296,13 @@ def main():
     parser.add_argument('--csv', help='Write results to CSV file')
     parser.add_argument('--sort', choices=['alpha', 'position'], default='position',
                         help='Sort order for shared hapaxes (default: position in first file)')
+    parser.add_argument('--language', default='en', choices=['en', 'fr'],
+                        help='Language profile for tokenisation (default: en)')
 
     args = parser.parse_args()
+
+    global PROFILE
+    PROFILE = get_profile(args.language)
 
     # Determine pairs to process
     pairs = []

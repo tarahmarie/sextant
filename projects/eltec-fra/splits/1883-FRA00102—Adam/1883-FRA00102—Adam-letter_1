@@ -1,0 +1,13 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Païenne</title><author>Adam, Adam, Juliette (1836-1936)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1883</date></publicationStmt></teiHeader><text><body><div type="letter" n="1">
+MÉLISSANDRE DE NOVES À TIBURCE GARDANNE 
+ Maison de Pétrarque, île de Sorgues, à Vaucluse 
+ Château de Saint-Estève, octobre 2. 
+ Prenez garde, mon illustre ami, vous me faites la cour ! Seule ici jusqu'à demain, je vous défends toute visite. Cependant je me laisse attendrir sur un point qui touche ma vanité. Je consens, puisque, selon vous, je sais décrire mieux que vous ne savez peindre, à tracer une esquisse du gai manoir paternel. J'y mets une condition : vous m'enverrez, en retour, deux sonnets de Pétrarque illustrés. 
+ Payez votre compliment ce qu'il vaut, signé par vous. 
+ Voici mon paysage : 
+ « Entre les rives changeantes, sablonneuses, dévastées, de la Durance et les versants nus des Alpines, s'étend l'une des plaines les plus riches de notre Provence. 
+ « Oasis dans laquelle se cache le châtelet de Saint-Estève. 
+ « Au milieu des vastes prairies, un canal répand le limon jaune et fertile du fleuve. 
+ « L'eau chante plus clair, coule plus vite, devient plus légère lorsqu'elle pénètre dans nos vergers, tandis que les oiseaux gazouillent plus lourdement dans les arbres aux fruits nombreux. 
+ « Des platanes centenaires entourent le château et retiennent la fraîcheur qui monte des jardins arrosés. »
+</div></body></text></TEI>

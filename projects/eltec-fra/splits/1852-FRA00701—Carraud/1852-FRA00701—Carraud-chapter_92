@@ -1,0 +1,14 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="92">
+La famille Dumont vient voir Jeanne. 
+ La famille Dumont vint, le mardi, voir Jeanne, qui leur avait dit la veille qu'elle était emménagée. 
+ « Sais-tu que tu n'es pas du tout mal logée, petite Jeanne ? lui dit Mme Isaure ; et qu'as-tu donc dans ta basse-cour ? 
+ — Rien encore, madame ; maître Tixier va me donner une chèvre, un coq et deux poules. 
+ — Qu'il te donne plutôt deux canes et un canard, dit Mme Dumont ; je t'enverrai un coq et deux poulettes de ma belle race. 
+ — Et moi, dit Auguste, qui était devenu un bel officier, je t'apporterai une paire de ces jolis pigeons que tu aimes tant. 
+ — Et moi, dit Mme Sophie, je te donnerai une jolie chatte à longs poils pour te tenir compagnie ; car, ma pauvre Jeanne, tu vas trouver la maison bien grande quand tu seras seule toute la journée. 
+ — Oh ! je vais chercher de l'ouvrage tout de suite après avoir sevré Sylvain. Quand vous aurez besoin de quelqu'un, ne m'oubliez pas, s'il vous plaît. 
+ — Et la petite Nannette, qu'en feras-tu quand tu iras travailler ? 
+ — Je la mènerai au Grand-Bail, ainsi que son frère ; ils s'amuseront autour de la maison : Nannette gardera le petit, et Louise aura l'œil sur les deux. 
+ — Comme il est frais, ton Sylvain ! Jeanne ; si j'ai un enfant, tu me le nourriras, dit Mme Isaure. 
+ — Avec grand plaisir, ma chère dame ; ordonnez ici comme chez vous.»
+</div></body></text></TEI>

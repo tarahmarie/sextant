@@ -1,0 +1,13 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="47">
+Le colporteur envie le sort des gens du Grand-Bail. 
+ Le jeune colporteur resta levé une bonne partie de la journée ; il voyait tout le monde si heureux dans la maison, qu'il enviait leur sort, quoiqu'ils travaillassent beaucoup : car, si maître Tixier traitait bien ses domestiques, il exigeait qu'ils fussent laborieux. Tous les soirs, on faisait la prière tout haut, en commun ; puis chacun allait se coucher et dormait tranquillement jusqu'au lendemain matin. Le petit marchand les trouvait bien heureux de n'être pas poursuivis par la peur des gendarmes, car lui ne dormait jamais que d'un œil, tant il craignait que l'on ne devinât son genre de commerce : le pain qu'il mangeait ne lui profitait point. Tout cela lui donnait à réfléchir. M. le curé, étant venu le voir, le trouva tout triste. 
+ « Est-ce que vous souffrez davantage aujourd'hui ? lui demanda-t-il. 
+ — Non, monsieur ; mais j'ai bien pensé à tout ce que vous m'avez dit, et, en voyant ces braves gens si heureux, j'ai encore plus de honte du métier que je fais. Que je voudrais donc pouvoir gagner ma vie honnêtement comme eux ! 
+ — Et qui vous en empêche, mon garçon ? 
+ — C'est que je n'ai rien au monde que ce qui est dans ma boîte, et il faut bien que je le vende pour avoir de quoi acheter autre chose. 
+ — Pour combien y a-t-il de marchandises ? 
+ — Pour cinquante francs, prix d'achat. 
+ — Eh bien, mon ami, je vous trouverai cinquante francs ; je ne suis pas assez riche pour les prendre dans ma bourse, mais j'irai quêter dans le village, et je vous réponds de les trouver. Je commencerai par vous donner dix francs ; mais il faut auparavant que vous brûliez toute votre marchandise. 
+ — Comme vous le voudrez, monsieur le curé ; d'ailleurs, vous m'ôterez un grand poids de dessus le cœur : je ne rêve que prison toutes les nuits. 
+ Quand j'ai quitté mon père, il m'a bien recommandé de ne pas m'y faire mettre, parce qu'on en sort toujours plus mauvais sujet qu'on n'y est entré : aussi j'en ai une peur terrible.»
+</div></body></text></TEI>

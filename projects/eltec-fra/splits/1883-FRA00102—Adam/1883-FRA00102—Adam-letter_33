@@ -1,0 +1,7 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Païenne</title><author>Adam, Adam, Juliette (1836-1936)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1883</date></publicationStmt></teiHeader><text><body><div type="letter" n="33">
+AU MÊME 
+ Soit que je porte vers les dieux mes actions de grâce, soit que ma pensée revienne à toi, je vous bénis tour à tour. 
+ Autrefois, dans les échappées de mon imagination, en rêvant de héros et d'amants, j'avais cru prévoir jusqu'où peut conduire l'amour ; mais les cercles de la félicité où tu m'entraînes, je ne les avais pas entrevus. 
+ Il me semble, par instants, que nous arrêtons l'infini au passage plus sûrement que Josué n'arrêta le soleil. 
+ Mon être tout entier, dans un mouvement soudain que je n'essaye pas de maîtriser, se précipite vers toi.
+</div></body></text></TEI>

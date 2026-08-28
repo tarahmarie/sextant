@@ -1,0 +1,18 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="46">
+M. le curé découvre ce qu'il y a dans la boîte du colporteur. 
+ Le colporteur n'osa pas refuser sa clef à M. le curé ; mais en la lui donnant il se mit à ses genoux. 
+ « Ah ! monsieur, dit le pauvre garçon, ne me perdez pas ; ayez pitié de moi, ne me faites pas mettre en prison. 
+ — Et pourquoi vous ferais-je mettre en prison, mon ami ? 
+ — C'est que ma boîte est pleine de vilaines images et de livres mauvais, et que l'on met en prison ceux qui en vendent.» 
+ En disant cela il fut encore pris d'une faiblesse. Quand on l'eut fait revenir, M. le curé lui dit : 
+ « Comment, mon enfant, avez-vous pu, à votre âge, vous décider à faire un tel commerce ? 
+ — C'est qu'on m'avait dit qu'on y gagnait beaucoup d'argent, et je voulais acheter un petit fonds d'étoffes aussitôt que j'aurais seulement une centaine de francs. 
+ — Eh bien, vous a-t-on dit la vérité ? Avez-vous gagné plus qu'en vendant de bons livres ? 
+ — Mon Dieu non : je ne suis pas assez hardi pour faire ce métier-là; j'ai toujours peur d'être pris, et je ne vends presque rien. 
+ 
+ 
+ — Je suis sûr que c'est précisément pour cela que vous êtes sorti si vite dimanche, quand tous les gens de la maison revenaient des vêpres. 
+ — Oui, monsieur, parce que j'avais vu le garde champêtre avec eux. 
+ — Voyez un peu ! votre détestable commerce a failli vous coûter la vie. 
+ Mon garçon, il n'y a jamais d'avantage à faire le mal ; et vous en faisiez plus aux gens de la campagne en leur vendant de mauvais livres, que si vous leur eussiez volé leur argent : car leur argent était perdu comme si vous l'aviez pris, et vous leur laissiez des livres qui leur apprenaient à se mal conduire.»
+</div></body></text></TEI>

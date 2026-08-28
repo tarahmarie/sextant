@@ -1,0 +1,9 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="79">
+Simon tire au sort et amène un mauvais numéro. 
+ Le jour du tirage approchait : maître Tixier consulta son gendre pour savoir s'il valait mieux mettre à l'assurance pour Simon que de courir la chance de tirer un bon numéro, quitte à chercher un homme si l'on en avait besoin. 
+ « Moi, dit Étienne, je vous conseille de ne faire ni l'un ni l'autre. Si votre fils tire un mauvais numéro, laissez-le partir ; rien ne fait plus de bien à un garçon que de voir un peu de pays : ça lui ouvre les idées. 
+ Je serais bien fâché d'être resté chez nous, au lieu d'aller au régiment. Je ne savais rien quand je suis parti, et maintenant je sais lire, écrire et parfaitement compter. J'ai oublié toutes les bêtises qu'on se met dans la tête quand on n'est jamais sorti de son endroit, et j'ai de reste les quinze cents francs qu'un homme m'aurait coûté. Est-ce que tu as peur de partir, Simon ? 
+ — Mais non, pas trop ; j'aimerais bien à voir du pays. 
+ — Tu as raison, mon frère ; d'ailleurs, l'on apprend à obéir quand on est au corps ; et quand on sait bien obéir, on sait bien commander.» 
+ Le père Tixier suivit le conseil de son gendre ; le sort tomba sur son fils, et il attendit patiemment qu'on l'appelât sous les drapeaux.
+</div></body></text></TEI>

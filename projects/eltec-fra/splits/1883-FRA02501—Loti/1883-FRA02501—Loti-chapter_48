@@ -1,0 +1,6 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Mon frère Yves</title><author>Loti, Loti, Pierre (1850-1923)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1883</date></publicationStmt></teiHeader><text><body><div type="chapter" n="48">
+LIII 
+ Quelquefois Yves tombait tout à coup comme un mort et dormait plusieurs heures, puis c'était fini. Cela dépendait de l'espèce d'alcool qu'il avait pris. 
+ D'autres fois, il tenait bon, on ne sait comment, et s'en retournait sur son navire, dans le port, « à la Réserve », faire son service. 
+ Ce matin-là, quand il fut sept heures, Yves, un peu dégrisé, ayant eu l'idée de lui-même de tremper sa tête dans de l'eau glacée, sortit et prit le chemin de l'arsenal.
+</div></body></text></TEI>

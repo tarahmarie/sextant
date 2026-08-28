@@ -7,9 +7,6 @@ import unicodedata
 from multiprocessing import Pool, cpu_count
 
 import numpy as np
-from nltk.corpus import stopwords
-from nltk.stem import WordNetLemmatizer
-from nltk.tokenize import word_tokenize
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics import classification_report
 from sklearn.model_selection import train_test_split
@@ -48,9 +45,11 @@ def ensure_nltk_data():
 
 ensure_nltk_data()
 
-# Cache stopwords and lemmatizer (expensive to create repeatedly)
-STOP_WORDS = set(stopwords.words("english"))
-LEMMATIZER = WordNetLemmatizer()
+# All language-dependent processing (tokenisation, stopwords, lemmatisation)
+# is defined by the current project's language profile. Resolved at import so
+# multiprocessing workers pick it up when they re-import this module.
+from language_profiles import get_profile
+PROFILE = get_profile()
 
 # Use the same regex as load_authors_and_texts.py for consistent chapter extraction
 CHAPTER_PATTERN = re.compile(
@@ -64,14 +63,9 @@ def remove_combining_characters(text):
 
 
 def preprocess_text(text):
-    """Preprocess a single text document."""
+    """Preprocess a single text document via the language profile."""
     text = strip_tei(text)
-    text = text.lower()
-    text = re.sub(r"[^a-zA-Z0-9\s\u00C0-\u00FF]", "", text)
-    tokens = word_tokenize(text)
-    tokens = [token for token in tokens if token not in STOP_WORDS]
-    tokens = [LEMMATIZER.lemmatize(token) for token in tokens]
-    return " ".join(tokens)
+    return PROFILE.svm_clean(text)
 
 
 def process_single_file(file_path):
@@ -291,7 +285,7 @@ class AuthorshipAnalyzer:
             # (e.g. "ENG18350-165_1-2" -> novel="ENG18350", chap_num="165_1-2").
             # Previously split on all hyphens, truncating "165_1-2" to "165_1".
             novel, chap_num = key.split('-', 1)
-            novel = unicodedata.normalize('NFKD', novel)
+            novel = PROFILE.normalise_novel_key(novel)
             
             # Build tuple with scores in consistent column order
             scores = tuple(value.get(author, 0.0) for author in sorted_columns)

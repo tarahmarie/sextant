@@ -1,0 +1,5 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Païenne</title><author>Adam, Adam, Juliette (1836-1936)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1883</date></publicationStmt></teiHeader><text><body><div type="letter" n="21">
+À TIBURCE 
+ Après vous avoir écouté de longues heures parler de ce qui me charme ou m'émeut ou me passionne, dans la nature et dans l'art, après avoir savouré toutes les joies de l'esprit que le vôtre jetait en moi avec profusion, j'ai pleuré comme une enfant ; pourquoi ? Parce que je n'avais pu, un seul instant, boire l'amour à vos lèvres. 
+ Ce matin, je suis redevenue forte, heureuse, et ma gratitude se répand sur toutes les choses qui ne sont point un obstacle à mon bonheur. Je viens à vous en pensée, prenez-moi et gardez-moi.
+</div></body></text></TEI>

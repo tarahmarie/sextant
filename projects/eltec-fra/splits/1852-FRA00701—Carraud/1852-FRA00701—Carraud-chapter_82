@@ -1,0 +1,13 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="82">
+Maître Tixier s'étonne que Jeanne veuille tant d'arbres dans son jardin. 
+ « Que veux-tu donc faire de tous ces arbres, ma Jeanne ? lui dit son maître. 
+ — Un jour ils rapporteront, notre maître ; et ce sera le profit de Nannette, qui vendra leurs fruits à la ville. Vous verrez comme elle sera fière de vous porter ses premières pêches ! 
+ — Et comment empêcheras-tu ton bétail de mettre le jardin en friche ? 
+ — Mais la porte de l'étable donne sur le côté et au couchant ; on fermera la petite cour, et aucun animal, pas même les poules, ne viendra dans mon jardin. C'est votre gendre qui m'a donné cette idée-là, quand je lui ai dit combien je trouvais désagréable d'avoir le fumier devant ma porte pour empester ma maison. Est-ce que vous croyez, notre maître, que les gens du bourg en vaudraient pis, s'ils plantaient des vignes et des arbres le long de leurs murs, comme on fait dans cette Normandie où 
+ Durand est resté si longtemps ? Le village est si sale qu'on ne sait vraiment par où passer ; ce n'est pas sain pour les enfants, toute cette paille pourrie. Et la puanteur qu'elle donne ! comment pourraient-ils s'accoutumer à la propreté au milieu de cette ordure ?» 
+ La famille Dumont vint voir la maison de Jeanne quand elle fut finie. On parla des plantations, et M. Dumont dit que ses pépinières étant bien garnies, il donnerait tous les arbres dont on aurait besoin. 
+ « Et moi, dit Mme Isaure, je t'apporterai des fraises de tous les mois pour border tes allées. 
+ — Si tu m'en crois, petite Jeanne, dit M. Dumont, tu engageras ton mari à peindre tous les bois qui sont exposés à l'air ; ce sera un peu coûteux, parce que ta charpente dépasse les murs ; mais au fond c'est une économie ; la peinture préserve le bois des vers et de la pourriture. 
+ D'ailleurs, grand Louis achètera de l'ocre à la livre et de l'huile de rebut ; il broiera lui-même la couleur et peindra ensuite, ce n'est pas bien difficile. 
+ — Oui, monsieur ; il n'est pas maladroit, et il en viendra bien à bout.»
+</div></body></text></TEI>

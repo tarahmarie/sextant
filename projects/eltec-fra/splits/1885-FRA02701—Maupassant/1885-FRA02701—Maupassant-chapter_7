@@ -1,0 +1,256 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Bel-Ami</title><author>Maupassant, Maupassant, Guy de (1850-1893)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1885</date></publicationStmt></teiHeader><text><body><div type="chapter" n="7">
+-- VII -- 
+ La disparition de Charles donna à Duroy une importance plus grande dans la rédaction de La Vie Française. Il signa quelques articles de fond, tout en signant aussi ses échos, car le patron voulait que chacun gardât la responsabilité de sa copie. Il eut quelques polémiques dont il se tira avec esprit ; et ses relations constantes avec les hommes d'État le préparaient peu à peu à devenir à son tour un rédacteur politique adroit et perspicace. 
+ Il ne voyait qu'une tache dans tout son horizon. Elle venait d'un petit journal frondeur qui l'attaquait constamment, ou plutôt qui attaquait en lui le chef des Échos de La Vie Française, le chef des échos à surprises de M. Walter, disait le rédacteur anonyme de cette feuille appelée : La Plume. C'étaient, chaque jour, des perfidies, des traits mordants, des insinuations de toute nature. 
+ Jacques Rival dit un jour à Duroy : « Vous êtes patient. » 
+ L'autre balbutia : « Que voulez-vous, il n'y a pas d'attaque directe. » 
+ Or, un après-midi, comme il entrait dans la salle de rédaction, Boisrenard lui tendit le numéro de La Plume : 
+ « Tenez, il y a encore une note désagréable pour vous. 
+ — Ah ! à propos de quoi ? 
+ — À propos de rien, de l'arrestation d'une dame Aubert par un agent des mœurs. » 
+ Georges prit le journal qu'on lui tendait, et lut, sous ce titre : Duroy s'amuse. 
+ « L'illustre reporter de La Vie Française nous apprend aujourd'hui que la dame Aubert, dont nous avons annoncé l'arrestation par un agent de l'odieuse brigade des mœurs, n'existe que dans notre imagination. Or, la personne en question demeure 18, rue de l'Écureuil, à Montmartre. Nous comprenons trop, d'ailleurs, quel intérêt ou quels intérêts peuvent avoir les agents de la banque Walter à soutenir ceux du préfet de police qui tolère leur commerce. Quant au reporter dont il s'agit, il ferait mieux de nous donner quelqu'une de ces bonnes nouvelles à sensation dont il a le secret : nouvelles de morts démenties le lendemain, nouvelles de batailles qui n'ont pas eu lieu, annonce de paroles graves prononcées par des souverains qui n'ont rien dit, toutes les informations enfin qui constituent les « Profits Walter », ou même quelqu'une des petites indiscrétions sur des soirées de femmes à succès, ou sur l'excellence de certains produits qui sont d'une grande ressource à quelques-uns de nos confrères. » 
+ Le jeune homme demeurait interdit, plus qu'irrité, comprenant seulement qu'il y avait là-dedans quelque chose de fort désagréable pour lui. 
+ Boisrenard reprit : 
+ « Qui vous a donné cet écho ? » 
+ Duroy cherchait, ne se rappelant plus. Puis, tout à coup, le souvenir lui revint : 
+ « Ah ! oui, c'est Saint-Potin. » Puis il relut l'alinéa de La Plume, et il rougit brusquement, révolté par l'accusation de vénalité. 
+ Il s'écria : « Comment, on prétend que je suis payé pour… » 
+ Boisrenard l'interrompit : 
+ « Dame, oui. C'est embêtant pour vous. Le patron est fort sur l'œil à ce sujet. Ça pourrait arriver si souvent dans les échos… » 
+ Saint-Potin, justement, entrait. Duroy courut à lui : 
+ « Vous avez vu la note de La Plume ? » 
+ — Oui, et je viens de chez la dame Aubert. Elle existe parfaitement, mais elle n'a pas été arrêtée. Ce bruit n'a aucun fondement. » 
+ Alors Duroy s'élança chez le patron qu'il trouva un peu froid, avec un œil soupçonneux. Après avoir écouté le cas, M. Walter répondit : « Allez vous-même chez cette dame et démentez de façon qu'on n'écrive plus de pareilles choses sur vous. Je parle de ce qui suit. C'est fort ennuyeux pour le journal, pour moi et pour vous. Pas plus que la femme de César, un journaliste ne doit être soupçonné. » 
+ Duroy monta en fiacre avec Saint-Potin pour guide, et il cria au cocher : « 18, rue de l'Écureuil, à Montmartre. » 
+ C'était dans une immense maison dont il fallut escalader les six étages. Une vieille femme en caraco de laine vint lui ouvrir : « Qu'est-ce que vous me r'voulez ? » dit-elle en apercevant Saint-Potin. 
+ Il répondit : 
+ « Je vous amène monsieur, qui est inspecteur de police et qui voudrait bien savoir votre affaire. » 
+ Alors elle les fit entrer, en racontant : 
+ « Il en est encore r'venu deux d'puis vous pour un journal, je n'sais point l'quel. » Puis, se tournant vers Duroy : « Donc, c'est monsieur qui désire savoir ? 
+ — Oui. Est-ce que vous avez été arrêtée par un agent des mœurs ? » 
+ Elle leva les bras : 
+ « Jamais d'la vie, mon bon monsieur, jamais d'la vie. Voilà la chose. J'ai un boucher qui sert bien mais qui pèse mal. Je m'en ai aperçu souvent sans rien dire, mais comme je lui demandais deux livres de côtelettes, vu que j'aurais ma fille et mon gendre, je m'aperçois qu'il me pèse des os de déchet, des os de côtelettes, c'est vrai, mais pas des miennes. J'aurais pu en faire du ragoût, c'est encore vrai, mais quand je demande des côtelettes, c'est pas pour avoir le déchet des autres. Je refuse donc, alors y me traite de vieux rat, je lui réplique vieux fripon ; bref, de fil en aiguille, nous nous sommes chamaillés qu'il y avait plus de cent personnes devant la boutique et qui riaient, qui riaient ! Tant qu'enfin un agent fut attiré et nous invita à nous expliquer chez le commissaire. Nous y fûmes, et on nous renvoya dos à dos. Moi, depuis, je m'sers ailleurs, et je n'passe même pu devant la porte, pour éviter des esclandres. » 
+ Elle se tut. Duroy demanda : 
+ « C'est tout ? 
+ — C'est toute la vérité, mon cher monsieur « et, lui ayant offert un verre de cassis, qu'il refusa de boire, la vieille insista pour qu'on parlât dans le rapport des fausses pesées du boucher. 
+ De retour au journal, Duroy rédigea sa réponse : 
+ « Un écrivaillon anonyme de La Plume, s'en étant arraché une, me cherche noise au sujet d'une vieille femme qu'il prétend avoir été arrêtée par un agent des mœurs, ce que je nie. J'ai vu moi-même la dame Aubert, âgée de soixante ans au moins, et elle m'a raconté par le menu sa querelle avec un boucher, au sujet d'une pesée de côtelettes, ce qui nécessita une explication devant le commissaire de police. 
+ « Voilà toute la vérité. » 
+ « Quant aux autres insinuations du rédacteur de La Plume, je les méprise. On ne répond pas, d'ailleurs, à de pareilles choses, quand elles sont écrites sous le masque. » 
+ « GEORGES DUROY. » 
+ M. Walter et Jacques Rival, qui venait d'arriver, trouvèrent cette note suffisante, et il fut décidé qu'elle passerait le jour même, à la suite des échos. 
+ Duroy rentra tôt chez lui, un peu agité, on peu inquiet. Qu'allait répondre l'autre ? Qui était-il ? Pourquoi cette attaque brutale ? Avec les mœurs brusques des journalistes, cette bêtise pouvait aller loin, très loin. Il dormit mal. 
+ Quand il relut sa note dans le journal, le lendemain, il la trouva plus agressive imprimée que manuscrite. Il aurait pu, lui semblait-il, atténuer certains termes. 
+ Il fut fiévreux tout le jour et il dormit mal encore la nuit suivante. Il se leva dès l'aurore pour chercher le numéro de La Plume qui devait répondre à sa réplique. 
+ Le temps s'était remis au froid ; il gelait dur. Les ruisseaux, saisis comme ils coulaient encore, déroulaient le long des trottoirs deux rubans de glace. 
+ Les journaux n'étaient point arrivés chez les marchands, et Duroy se rappela le jour de son premier article : Les Souvenirs d'un chasseur d'Afrique. Ses mains et ses pieds s'engourdissaient, devenaient douloureux, au bout des doigts surtout ; et il se mit à courir en rond autour du kiosque vitré, où la vendeuse, accroupie sur sa chaufferette, ne laissait voir, par la petite fenêtre, qu'un nez et des joues rouges dans un capuchon de laine. 
+ 
+ Enfin le distributeur de feuilles publiques passa le paquet attendu par l'ouverture du carreau, et la bonne femme tendit à Duroy La Plume grande ouverte. Il chercha son nom d'un coup d'œil et ne vit rien d'abord. Il respirait déjà, quand il aperçut la chose entre deux tirets : 
+ « Le sieur Duroy, de La Vie Française, nous donne un démenti ; et, en nous démentant, il ment. Il avoue cependant qu'il existe une femme Aubert, et qu'un agent l'a conduite à la police. Il ne reste donc qu'à ajouter deux mots : « des mœurs « après le mot « agent » et c'est dit. 
+ « Mais la conscience de certains journalistes est au niveau de leur talent. » 
+ « Et je signe : LOUIS LANGREMONT. » 
+ Alors le cœur de Georges se mit à battre violemment, et il rentra chez lui pour s'habiller, sans trop savoir ce qu'il faisait. Donc, on l'avait insulté, et d'une telle façon qu'aucune hésitation n'était possible. Pourquoi ? Pour rien. À propos d'une vieille femme qui s'était querellée avec son boucher. 
+ Il s'habilla bien vite et se rendit chez M. Walter, quoiqu'il fût à peine huit heures du matin. 
+ M. Walter, déjà levé, lisait La Plume. 
+ « Eh bien, dit-il avec un visage grave, en apercevant Duroy, vous ne pouvez pas reculer ? » 
+ Le jeune homme ne répondit rien. Le directeur reprit : 
+ « Allez tout de suite trouver Rival qui se chargera de vos intérêts. » 
+ Duroy balbutia quelques mots vagues et sortit pour se rendre chez le chroniqueur, qui dormait encore. Il sauta du lit, au coup de sonnette, puis ayant lu l'écho : « Bigre, il faut y aller. Qui voyez-vous comme autre témoin ? » 
+ — Mais, je ne sais pas, moi. 
+ — Boisrenard ? -- Qu'en pensez-vous ? 
+ — Oui, Boisrenard. 
+ — Êtes-vous fort aux armes ? 
+ — Pas du tout. 
+ — Ah ! diable ! Et au pistolet ? 
+ — Je tire un peu. 
+ — Bon. Vous allez vous exercer pendant que je m'occuperai de tout. Attendez-moi une minute. » 
+ Il passa dans son cabinet de toilette et reparut bientôt, lavé, rasé, correct. 
+ « Venez avec moi », dit-il. 
+ Il habitait au rez-de-chaussée d'un petit hôtel, et il fit descendre Duroy dans la cave, une cave énorme, convertie en salle d'armes et en tir, toutes les ouvertures sur la rue étant bouchées. 
+ Après avoir allumé une ligne de becs de gaz conduisant jusqu'au fond d'un second caveau, où se dressait un homme de fer peint en rouge et en bleu, il posa sur une table deux paires de pistolets d'un système nouveau chargeant par la culasse, et il commença les commandements d'une voix brève comme si on eût été sur le terrain. 
+ Prêt ? 
+ Feu ! -- un, deux, trois. 
+ Duroy, anéanti, obéissait, levait les bras, visait, tirait, et comme il atteignait souvent le mannequin en plein ventre, car il s'était beaucoup servi dans sa première jeunesse d'un vieux pistolet d'arçon de son père pour tuer des oiseaux dans la cour, Jacques Rival, satisfait, déclarait : « Bien -- très bien -- très bien -- vous irez -- vous irez. » 
+ Puis il le quitta : 
+ « Tirez comme ça jusqu'à midi. Voilà des munitions, n'ayez pas peur de les brûler. Je viendrai vous prendre pour déjeuner et vous donner des nouvelles. » 
+ Et il sortit. 
+ Resté seul, Duroy tira encore quelques coups, puis il s'assit et se mit à réfléchir. 
+ Comme c'était bête tout de même, ces choses-là. Qu'est-ce que ça prouvait ? Un filou était-il moins un filou après s'être battu ? Que gagnait un honnête homme insulté à risquer sa vie contre une crapule ? Et son esprit vagabondant dans le noir se rappela les choses dites par Norbert de Varenne sur la pauvreté d'esprit des hommes, la médiocrité de leurs idées et de leurs préoccupations, la niaiserie de leur morale ! 
+ Et il déclara tout haut : « Comme il a raison, sacristi ! » 
+ Puis il sentit qu'il avait soif, et ayant entendu un bruit de gouttes d'eau derrière lui, il aperçut un appareil à douches et il alla boire au bout de la lance. Puis il se remit à songer. Il faisait triste dans cette cave, triste comme dans un tombeau. Le roulement lointain et sourd des voitures semblait un tremblement d'orage éloigné. Quelle heure pouvait-il être ? Les heures passaient là-dedans comme elles devaient passer au fond des prisons, sans que rien les indique et que rien les marque, sauf les retours du geôlier portant les plats. Il attendit, longtemps, longtemps. 
+ Puis tout d'un coup il entendit des pas, des voix, et Jacques Rival reparut, accompagné de Boisrenard. Il cria dès qu'il aperçut Duroy : « C'est arrangé ! » 
+ L'autre crut l'affaire terminée par quelque lettre d'excuses ; son cœur bondit, et il balbutia : 
+ « Ah !… merci. » 
+ Le chroniqueur reprit : 
+ « Ce Langremont est très carré, il a accepté toutes nos conditions. Vingt-cinq pas, une balle au commandement en levant le pistolet. On a le bras beaucoup plus sûr ainsi qu'en l'abaissant. Tenez, Boisrenard, voyez ce que je vous disais. » 
+ Et prenant des armes il se mit à tirer en démontrant comment on conservait bien mieux la ligne en levant le bras. 
+ Puis il dit : 
+ « Maintenant, allons déjeuner, il est midi passé. » 
+ Et ils se rendirent dans un restaurant voisin. Duroy ne parlait plus guère. Il mangea pour n'avoir pas l'air d'avoir peur, puis dans le jour il accompagna Boisrenard au journal et il fit sa besogne d'une façon distraite et machinale. On le trouva crâne. 
+ Jacques Rival vint lui serrer la main vers le milieu de l'après-midi ; et il fut convenu que ses témoins le prendraient chez lui en landau, le lendemain à sept heures du matin, pour se rendre au bois du Vésinet où la rencontre aurait lieu. 
+ Tout cela s'était fait inopinément, sans qu'il y prît part, sans qu'il dît un mot, sans qu'il donnât son avis, sans qu'il acceptât ou refusât, et avec tant de rapidité qu'il demeurait étourdi, effaré, sans trop comprendre ce qui se passait. 
+ Il se retrouva chez lui vers neuf heures du soir après avoir dîné chez Boisrenard, qui ne l'avait point quitté de tout le jour par dévouement. 
+ Dès qu'il fut seul, il marcha pendant quelques minutes, à grands pas vifs, à travers sa chambre. Il était trop troublé pour réfléchir à rien. Une seule idée emplissait son esprit : -- Un duel demain, -- sans que cette idée éveillât en lui autre chose qu'une émotion confuse et puissante. Il avait été soldat, il avait tiré sur des Arabes, sans grand danger pour lui, d'ailleurs, un peu comme on tire sur un sanglier, à la chasse. 
+ En somme, il avait fait ce qu'il devait faire. Il s'était montré ce qu'il devait être. On en parlerait, on l'approuverait, on le féliciterait. Puis il prononça à haute voix, comme on parle dans les grandes secousses de pensée : 
+ « Quelle brute que cet homme ! » 
+ Il s'assit et se mit à réfléchir. Il avait jeté sur sa petite table une carte de son adversaire remise par Rival, afin de garder son adresse. Il la relut comme il l'avait déjà lue vingt fois dans la journée. Louis Langremont, 176, rue Montmartre. Rien de plus. 
+ Il examinait ces lettres assemblées qui lui paraissaient mystérieuses, pleines de sens inquiétants. « Louis Langremont », qui était cet homme ? De quel âge ? De quelle taille ? De quelle figure ? N'était-ce pas révoltant qu'un étranger, un inconnu, vînt ainsi troubler notre vie, tout d'un coup, sans raison, par pur caprice, à propos d'une vieille femme qui s'était querellée avec son boucher ? 
+ Il répéta encore une fois, à haute voix : « Quelle brute ! » 
+ Et il demeura immobile, songeant, le regard toujours planté sur la carte. Une colère s'éveillait en lui contre ce morceau de papier, une colère haineuse où se mêlait un étrange sentiment de malaise. C'était stupide, cette histoire-là ! Il prit une paire de ciseaux à ongles qui traînaient et il les piqua au milieu du nom imprimé comme s'il eût poignardé quelqu'un. 
+ Donc il allait se battre, et se battre au pistolet ? Pourquoi n'avait-il pas choisi l'épée ! Il en aurait été quitte pour une piqûre au bras ou à la main, tandis qu'avec le pistolet on ne savait jamais les suites possibles. 
+ Il dit : « Allons, il faut être crâne. » 
+ Le son de sa voix le fit tressaillir, et il regarda autour de lui. Il commençait à se sentir fort nerveux. Il but un verre d'eau, puis se coucha. 
+ Dès qu'il fut au lit, il souffla sa lumière et ferma les yeux. 
+ Il avait très chaud dans ses draps, bien qu'il fît très froid dans sa chambre, mais il ne pouvait parvenir à s'assoupir. Il se tournait et se retournait, demeurait cinq minutes sur le dos, puis se plaçait sur le côté gauche, puis se roulait sur le côté droit. 
+ Il avait encore soif. Il se releva pour boire, puis une inquiétude le saisit : « Est-ce que j'aurais peur ? » 
+ Pourquoi son cœur se mettait-il à battre follement à chaque bruit connu de sa chambre ? Quand son coucou allait sonner, le petit grincement du ressort lui faisait faire un sursaut ; et il lui fallait ouvrir la bouche pour respirer pendant quelques secondes, tant il demeurait oppressé. 
+ Il se mit à raisonner en philosophe sur la possibilité de cette chose : « Aurais-je peur ? » 
+ Non certes il n'aurait pas peur puisqu'il était résolu à aller jusqu'au bout, puisqu'il avait cette volonté bien arrêtée de se battre, de ne pas trembler. Mais il se sentait si profondément ému qu'il se demanda : « Peut-on avoir peur malgré soi ? » Et ce doute l'envahit, cette inquiétude, cette épouvante ! Si une force plus puissante que sa volonté, dominatrice, irrésistible, le domptait, qu'arriverait-il ? Oui, que pouvait-il arriver ? 
+ Certes il irait sur le terrain puisqu'il voulait y aller. Mais s'il tremblait ? Mais s'il perdait connaissance ? Et il songea à sa situation, à sa réputation, à son avenir. 
+ Et un singulier besoin le prit tout à coup de se relever pour se regarder dans la glace. Il ralluma sa bougie. Quand il aperçut son visage reflété dans le verre poli, il se reconnut à peine, et il lui sembla qu'il ne s'était jamais vu. Ses yeux lui parurent énormes ; et il était pâle, certes, il était pâle, très pâle. 
+ Tout d'un coup, cette pensée entra en lui à la façon d'une balle : « Demain, à cette heure-ci, je serai peut-être mort. » Et son cœur se remit à battre furieusement. 
+ Il se retourna vers sa couche et il se vit distinctement étendu sur le dos dans ces mêmes draps qu'il venait de quitter. Il avait ce visage creux qu'ont les morts et cette blancheur des mains qui ne remueront plus. 
+ Alors il eut peur de son lit, et afin de ne plus le voir il ouvrit la fenêtre pour regarder dehors. 
+ Un froid glacial lui mordit la chair de la tête aux pieds, et il se recula, haletant. 
+ La pensée lui vint de faire du feu. Il l'attisa lentement sans se retourner. Ses mains tremblaient un peu d'un frémissement nerveux quand elles touchaient les objets. Sa tête s'égarait ; ses pensées tournoyantes, hachées, devenaient fuyantes, douloureuses ; une ivresse envahissait son esprit comme s'il eût bu. 
+ Et sans cesse il se demandait : « Que vais-je faire ? que vais-je devenir ? » 
+ Il se remit à marcher, répétant, d'une façon continue, machinale : « Il faut que je sois énergique, très énergique. » 
+ Puis il se dit : « Je vais écrire à mes parents, en cas d'accident. » 
+ Il s'assit de nouveau, prit un cahier de papier à lettres, traça : « Mon cher papa, ma chère maman… » 
+ Puis il jugea ces termes trop familiers dans une circonstance aussi tragique. Il déchira la première feuille, et recommença : « Mon cher père, ma chère mère ; je vais me battre au point du jour, et comme il peut arriver que… » 
+ Il n'osa pas écrire le reste et se releva d'une secousse. 
+ Cette pensée l'écrasait maintenant. « Il allait se battre en duel. Il ne pouvait plus éviter cela. Que se passait-il donc en lui ? Il voulait se battre ; il avait cette intention et cette résolution fermement arrêtées ; et il lui semblait, malgré tout l'effort de sa volonté, qu'il ne pourrait même pas conserver la force nécessaire pour aller jusqu'au lieu de la rencontre. » 
+ De temps en temps ses dents s'entrechoquaient dans sa bouche avec un petit bruit sec ; et il demandait : 
+ « Mon adversaire s'est-il déjà battu ? a-t-il fréquenté les tirs ? est-il connu ? est-il classé ? » Il n'avait jamais entendu prononcer ce nom. Et cependant si cet homme n'était pas un tireur au pistolet remarquable, il n'aurait point accepté ainsi, sans hésitation, sans discussion, cette arme dangereuse. 
+ Alors Duroy se figurait leur rencontre, son attitude à lui et la tenue de son ennemi. Il se fatiguait la pensée à imaginer les moindres détails du combat ; et tout à coup il voyait en face de lui ce petit trou noir et profond du canon dont allait sortir une balle. 
+ Et il fut pris brusquement d'une crise de désespoir épouvantable. Tout son corps vibrait, parcouru de tressaillements saccadés. Il serrait les dents pour ne pas crier, avec un besoin fou de se rouler par terre, de déchirer quelque chose, de mordre. Mais il aperçut un verre sur sa cheminée et il se rappela qu'il possédait dans son armoire un litre d'eau-de-vie presque plein ; car il avait conservé l'habitude militaire de tuer le ver chaque matin. 
+ 
+ Il saisit la bouteille et but, à même le goulot, à longues gorgées, avec avidité. Et il la reposa seulement lorsque le souffle lui manqua. Elle était vide d'un tiers. 
+ Une chaleur pareille à une flamme lui brûla bientôt l'estomac, se répandit dans ses membres, raffermit son âme en l'étourdissant. 
+ Il se dit : « Je tiens le moyen. » Et comme il se sentait maintenant la peau brûlante, il rouvrit la fenêtre. 
+ Le jour naissait, calme et glacial. Là-haut, les étoiles semblaient mourir au fond du firmament éclairci, et dans la tranchée profonde du chemin de fer les signaux verts, rouges et blancs pâlissaient. 
+ Les premières locomotives sortaient du garage et s'en venaient en sifflant chercher les premiers trains. D'autres, dans le lointain, jetaient des appels aigus et répétés, leurs cris de réveil, comme font les coqs dans les champs. 
+ Duroy pensait : « Je ne verrai peut-être plus tout ça. » Mais comme il sentit qu'il allait de nouveau s'attendrir sur lui-même, il réagit violemment : « Allons, il ne faut songer à rien jusqu'au moment de la rencontre, c'est le seul moyen d'être crâne. » 
+ Et il se mit à sa toilette. Il eut encore, en se rasant, une seconde de défaillance en songeant que c'était peut-être la dernière fois qu'il regardait son visage. 
+ Il but une nouvelle gorgée d'eau-de-vie, et acheva de s'habiller. 
+ L'heure qui suivit fut difficile à passer. Il marchait de long en large en s'efforçant en effet d'immobiliser son âme. Lorsqu'il entendit frapper à sa porte, il faillit s'abattre sur le dos, tant la commotion fut violente. C'étaient ses témoins. 
+ « Déjà ! » 
+ Ils étaient enveloppés de fourrures. Rival déclara, après avoir serré la main de son client : 
+ « Il fait un froid de Sibérie. » Puis il demanda : « Ça va bien ? 
+ — Oui, très bien. 
+ — On est calme ? 
+ — Très calme. 
+ — Allons, ça ira. Avez-vous bu et mangé quelque chose ? 
+ — Oui, je n'ai besoin de rien. » 
+ Boisrenard, pour la circonstance, portait une décoration étrangère, verte et jaune, que Duroy ne lui avait jamais vue. 
+ Ils descendirent. Un monsieur les attendait dans le landau. Rival nomma : « Le docteur Le Brument. » Duroy lui serra la main en balbutiant : « Je vous remercie », puis il voulut prendre place sur la banquette du devant et il s'assit sur quelque chose de dur qui le fit relever comme si un ressort l'eût redressé. C'était la boîte aux pistolets. 
+ Rival répétait : « Non ! Au fond le combattant et le médecin, au fond ! » Duroy finit par comprendre et il s'affaissa à côté du docteur. 
+ Les deux témoins montèrent à leur tour et le cocher partit. Il savait où on devait aller. 
+ Mais la boîte aux pistolets gênait tout le monde, surtout Duroy, qui eût préféré ne pas la voir. On essaya de la placer derrière le dos ; elle cassait les reins ; puis on la mit debout entre Rival et Boisrenard ; elle tombait tout le temps. On finit par la glisser sous les pieds. 
+ La conversation languissait, bien que le médecin racontât des anecdotes. Rival seul répondait. Duroy eût voulu prouver de la présence d'esprit, mais il avait peur de perdre le fil de ses idées, de montrer le trouble de son âme ; et il était hanté par la crainte torturante de se mettre à trembler. 
+ La voiture fut bientôt en pleine campagne. Il était neuf heures environ. C'était une de ces rudes matinées d'hiver où toute la nature est luisante, cassante et dure comme du cristal. Les arbres, vêtus de givre, semblent avoir sué de la glace ; la terre sonne sous les pas ; l'air sec porte au loin les moindres bruits : le ciel bleu paraît brillant à la façon des miroirs et le soleil passe dans. l'espace, éclatant et froid lui-même, jetant sur la création gelée des rayons qui n'échauffent rien. 
+ Rival disait à Duroy : 
+ « J'ai pris les pistolets chez Gastine-Renette. Il les a chargés lui-même. La boîte est cachetée. On les tirera au sort, d'ailleurs, avec ceux de notre adversaire. » 
+ Duroy répondit machinalement : 
+ « Je vous remercie. » 
+ Alors Rival lui fit des recommandations minutieuses, car il tenait à ce que son client ne commît aucune erreur. Il insistait sur chaque point plusieurs fois : « Quand on demandera : « Êtes-vous prêts, messieurs ? » vous répondrez d'une voix forte : « Oui ! » Quand on commandera « Feu ! » vous élèverez vivement le bras, et vous tirerez avant qu'on ait prononcé trois. » 
+ Et Duroy se répétait mentalement : « Quand on commandera feu, j'élèverai le bras, -- quand on commandera feu, j'élèverai le bras, -- quand on commandera feu, j'élèverai le bras. » 
+ Il apprenait cela comme les enfants apprennent leurs leçons, en le murmurant à satiété pour se le bien graver dans la tête. « Quand on commandera feu, j'élèverai le bras. » 
+ Le landau entra sous un bois, tourna à droite dans une avenue, puis encore à droite. Rival, brusquement, ouvrit la portière pour crier au cocher : « Là, par ce petit chemin. » Et la voiture s'engagea dans une route à ornières entre deux taillis où tremblotaient des feuilles mortes bordées d'un liséré de glace. 
+ Duroy marmottait toujours : 
+ « Quand on commandera feu, j'élèverai le bras. » Et il pensa qu'un accident de voiture arrangerait tout. Oh ! si on pouvait verser, quelle chance ! s'il pouvait se casser une jambe !… » 
+ Mais il aperçut au bout d'une clairière une autre voiture arrêtée et quatre messieurs qui piétinaient pour s'échauffer les pieds ; et il fut obligé d'ouvrir la bouche tant sa respiration devenait pénible. 
+ Les témoins descendirent d'abord, puis le médecin et le combattant. Rival avait pris la boîte aux pistolets et il s'en alla avec Boisrenard vers deux des étrangers qui venaient à eux. Duroy les vit se saluer avec cérémonie puis marcher ensemble dans la clairière en regardant tantôt par terre et tantôt dans les arbres, comme s'ils avaient cherché quelque chose qui aurait pu tomber ou s'envoler. Puis ils comptèrent des pas et enfoncèrent avec grand-peine deux cannes dans le sol gelé. Ils se réunirent ensuite en groupe et ils firent les mouvements du jeu de pile ou face, comme des enfants qui s'amusent. 
+ Le docteur Le Brument demandait à Duroy : 
+ « Vous vous sentez bien ? Vous n'avez besoin de rien ? 
+ — Non, de rien, merci. » 
+ Il lui semblait qu'il était fou, qu'il dormait, qu'il rêvait, que quelque chose de surnaturel était survenu qui l'enveloppait. 
+ Avait-il peur ? Peut-être ? Mais il ne savait pas. Tout était changé autour de lui. 
+ Jacques Rival revint et lui annonça tout bas avec satisfaction : 
+ « Tout est prêt. La chance nous a favorisés pour les pistolets. » 
+ Voilà une chose qui était indifférente à Duroy. 
+ On lui ôta son pardessus. Il se laissa faire. On tâta les poches de sa redingote pour s'assurer qu'il ne portait point de papiers ni de portefeuille protecteur. 
+ Il répétait en lui-même, comme une prière : « Quand on commandera feu, j'élèverai le bras. » 
+ Puis on l'amena jusqu'à une des cannes piquées en terre et on lui remit son pistolet. Alors il aperçut un homme debout, en face de lui, tout près, un petit homme ventru, chauve, qui portait des lunettes. C'était son adversaire. 
+ Il le vit très bien, mais il ne pensait à rien qu'à ceci : « Quand on commandera feu, j'élèverai le bras et je tirerai. » Une voix résonna dans le grand silence de l'espace, une voix qui semblait venir de très loin, et elle demanda : 
+ 
+ « Êtes-vous prêts, messieurs ? » 
+ Georges cria : 
+ « Oui. » 
+ Alors la même voix ordonna : 
+ « Feu ! » 
+ Il n'écouta rien de plus, il ne s'aperçut de rien, il ne se rendit compte de rien, il sentit seulement qu'il levait le bras en appuyant de toute sa force sur la gâchette. 
+ Et il n'entendit rien. 
+ Mais il vit aussitôt un peu de fumée au bout du canon de son pistolet ; et comme l'homme en face de lui demeurait toujours debout, dans la même posture également, il aperçut aussi un autre petit nuage blanc qui s'envolait au-dessus de la tête de son adversaire. 
+ Ils avaient tiré tous les deux. C'était fini. 
+ Ses témoins et le médecin le touchaient, le palpaient, déboutonnaient ses vêtements en demandant avec anxiété : 
+ « Vous n'êtes pas blessé ? » Il répondit au hasard. 
+ « Non, je ne crois pas. » 
+ Langremont d'ailleurs demeurait aussi intact que son ennemi, et Jacques Rival murmura d'un ton mécontent : 
+ « Avec ce sacré pistolet, c'est toujours comme ça, on se rate ou on se tue. Quel sale instrument ! » 
+ Duroy ne bougeait point, paralysé de surprise et de joie : « C'était fini ! » Il fallut lui enlever son arme qu'il tenait toujours serrée dans sa main. Il lui semblait maintenant qu'il se serait battu contre l'univers entier. C'était fini. Quel bonheur ! il se sentait brave tout à coup à provoquer n'importe qui. 
+ Tous les témoins causèrent quelques minutes, prenant rendez-vous dans le jour pour la rédaction du procès-verbal, puis on remonta dans la voiture, et le cocher, qui riait sur son siège, repartit en faisant claquer son fouet. 
+ Ils déjeunèrent tous les quatre sur le boulevard, en causant de l'événement. Duroy disait ses impressions. 
+ « Ça ne m'a rien fait, absolument rien. Vous avez dû le voir du reste ? » 
+ Rival répondit : 
+ « Oui, vous vous êtes bien tenu. » 
+ Quand le procès-verbal fut rédigé, on le présenta à Duroy qui devait l'insérer dans les échos. Il s'étonna de voir qu'il avait échangé deux balles avec M. Louis Langremont, et, un peu inquiet, il interrogea Rival : 
+ « Mais nous n'avons tiré qu'une balle. » 
+ L'autre sourit : 
+ « Oui, une balle… une balle chacun… ça fait deux balles. » 
+ Et Duroy, trouvant l'explication satisfaisante, n'insista pas. Le père Walter l'embrassa : 
+ « Bravo, bravo, vous avez défendu le drapeau de La Vie Française, bravo ! » 
+ Georges se montra, le soir, dans les principaux grands journaux et dans les principaux grands cafés du boulevard. Il rencontra deux fois son adversaire qui se montrait également. 
+ Ils ne se saluèrent pas. Si l'un des deux avait été blessé, ils se seraient serrés les mains. Chacun jurait d'ailleurs avec conviction avoir entendu siffler la balle de l'autre. 
+ Le lendemain, vers onze heures du matin, Duroy reçut un petit bleu : « Mon Dieu, que j'ai eu peur ! Viens donc tantôt rue de Constantinople, que je t'embrasse, mon amour. Comme tu es brave -- je t'adore. -- Clo. » 
+ Il alla au rendez-vous et elle s'élança dans ses bras, le couvrant de baisers : 
+ « Oh ! mon chéri, si tu savais mon émotion quand j'ai lu les journaux ce matin. Oh ! raconte-moi. Dis-moi tout. Je veux savoir. » 
+ Il dut raconter les détails avec minutie. Elle demandait : 
+ « Comme tu as dû avoir une mauvaise nuit avant le duel ! 
+ — Mais non. J'ai bien dormi. 
+ — Moi, je n'aurais pas fermé l'œil. Et sur le terrain, dis-moi comment ça s'est passé. » 
+ Il fit un récit dramatique : 
+ « Lorsque nous fûmes en face l'un de l'autre, à vingt pas, quatre fois seulement la longueur de cette chambre, Jacques, après avoir demandé si nous étions prêts, commanda : « Feu. » J'ai élevé mon bras immédiatement, bien en ligne, mais j'ai eu le tort de vouloir viser la tête. J'avais une arme fort dure et je suis accoutumé à des pistolets bien doux, de sorte que la résistance de la gâchette a relevé le coup. N'importe, ça n'a pas dû passer loin. Lui aussi il tire bien, le gredin. Sa balle m'a effleuré la tempe. J'en ai senti le vent. » 
+ Elle était assise sur ses genoux et le tenait dans ses bras comme pour prendre part à son danger. Elle balbutiait : « Oh ! mon pauvre chéri, mon pauvre chéri… » 
+ Puis, quand il eut fini de conter, elle lui dit : 
+ « Tu ne sais pas, je ne peux plus me passer de toi ! Il faut que je te voie, et, avec mon mari à Paris, ça n'est pas commode. Souvent, j'aurais une heure le matin, avant que tu sois levé, et je pourrais aller t'embrasser, mais je ne veux pas rentrer dans ton affreuse maison. Comment faire ? » 
+ Il eut brusquement une inspiration et demanda : 
+ « Combien paies-tu ici ? 
+ — Cent francs par mois. 
+ — Eh bien, je prends l'appartement à mon compte et je vais l'habiter tout à fait. Le mien n'est plus suffisant dans ma nouvelle position. » 
+ Elle réfléchit quelques instants, puis répondit : 
+ « Non. Je ne veux pas. » 
+ Il s'étonna : 
+ « Pourquoi ça ? 
+ — Parce que… 
+ — Ce n'est pas une raison. Ce logement me convient très bien. J'y suis. J'y reste. » 
+ Il se mit à rire : 
+ « D'ailleurs, il est à mon nom. » 
+ Mais elle refusait toujours : 
+ « Non, non, je ne veux pas… 
+ — Pourquoi ça, enfin ? » 
+ Alors elle chuchota tout bas, tendrement : « Parce que tu y amènerais des femmes, et je ne veux pas. » 
+ Il s'indigna : 
+ « Jamais de la vie, par exemple. Je te le promets. 
+ — Non, tu en amènerais tout de même. 
+ — Je te le jure. 
+ — Bien vrai ? 
+ — Bien vrai. Parole d'honneur. C'est notre maison, ça, rien qu'à nous. » 
+ Elle l'étreignit dans un élan d'amour : 
+ « Alors je veux bien, mon chéri. Mais tu sais, si tu me trompes une fois, rien qu'une fois, ce sera fini entre nous, fini pour toujours. » 
+ Il jura encore avec des protestations, et il fut convenu qu'il s'installerait le jour même, afin qu'elle pût le voir quand elle passerait devant la porte. 
+ Puis elle lui dit : 
+ « En tout cas, viens dîner dimanche. Mon mari te trouve charmant. » 
+ Il fut flatté : 
+ « Ah ! vraiment ?… 
+ — Oui, tu as fait sa conquête. Et puis écoute, tu m'as dit que tu avais été élevé dans un château à la campagne, n'est-ce pas ? 
+ — Oui, pourquoi ? 
+ — Alors tu dois connaître un peu la culture ? 
+ — Oui. 
+ — Eh bien, parle-lui de jardinage et de récoltes, il aime beaucoup ça. 
+ — Bon. Je n'oublierai pas. » 
+ Elle le quitta, après l'avoir indéfiniment embrassé, ce duel ayant exaspéré sa tendresse. 
+ Et Duroy pensait, en se rendant au journal : « Quel drôle d'être ça fait ! Quelle tête d'oiseau ! Sait-on ce qu'elle veut et ce qu'elle aime ? Et quel drôle de ménage ! Quel fantaisiste a bien pu préparer l'accouplement de ce vieux et de cette écervelée ? Quel raisonnement a décidé cet inspecteur à épouser cette étudiante ? Mystère ! Qui sait ? L'amour, peut-être ? » 
+ Puis il conclut : « Enfin, c'est une bien gentille maîtresse. Je serais rudement bête de la lâcher. »
+</div></body></text></TEI>

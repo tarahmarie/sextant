@@ -1,0 +1,335 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Rubis sur l'ongle</title><author>Boisgobey, Boisgobey, Fortuné du (1821-1891)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1886</date></publicationStmt></teiHeader><text><body><div type="chapter" n="1">
+Chapitre 1 
+ C'est l'hiver, l'affreux hiver de Paris, la saison maudite où le ciel fond en eau sur les pauvres diables qui pataugent dans la boue, faute d'argent pour prendre un fiacre. 
+ Il fait nuit et la pluie, chassée par des rafales de l'ouest, fouette au visage les passants qui cheminent à contre-vent sur les larges trottoirs su boulevard Montmartre. 
+ Ceux-là se font des boucliers avec leurs parapluies ; ceux qui viennent en sens inverse se servent des leurs pour se garantir par derrière, et, comme les uns et les autres avancent en courbant la tête sous l'averse, il se produit des abordages. 
+ — Faites donc attention ! vous avez failli m'éborgner. 
+ — Que le diable vous emporte ! vous avez écrasé mon chapeau… un chapeau tout neuf ! 
+ Après avoir échangé des aménités, les deux heurtés relevèrent leurs parapluies et se reconnurent à la clarté d'un bec de gaz. 
+ — Comment !… c'est toi !… s'écrièrent-ils en même temps. 
+ Ils étaient jeunes tous les deux, mais ils ne se ressemblaient pas du tout. 
+ Celui qui arrivait du côté de la Madeleine était grand, mince, brun et remarquablement joli garçon. L'autre, qui venait du côté de la Bastille, avait les épaules larges, un commencement d'embonpoint, des cheveux d'un blond ardent, une barbe rousse en éventail et une figure, non pas laide, mais insignifiante, ce qui est bien pis. 
+ Le plus âgé des deux n'avait certainement pas vingt-cinq ans. 
+ — En voilà un hasard ! s'écria le brun. Sais-tu, mon chez Gustave, que nous ne nous sommes pas revus depuis le temps où nous faisions notre volontariat au 24e dragons, à Dinan ? 
+ — En 79, mon vieux Robert. Six ans, ça compte dans la vie et je suis ravi de te retrouver. Mais si nous restons sur l'asphalte, nous serons trempés jusqu'aux os. Entrons dans le passage pour causer un brin. 
+ — Je ne demande pas mieux. 
+ Ils eurent quelque peine à se glisser dans la galerie des Panoramas ; tout encombrée de gens qui s'y étaient réfugiés pour s'abriter ; mais, en s'éloignant de l'entrée, ils purent marcher côte à côte et reprendre l'entretien ébauché sur le boulevard. 
+ — Qu'est-ce que tu fais, toi ? demanda le gros Gustave en regardant à la dérobée son ancien camarade, comme s'il eût voulu s'assurer que la tenue de ce garçon ne sentait pas la misère. Es-tu content de l'existence ? 
+ — Très content, cher ami. Je suis le secrétaire particulier de Lafitte. 
+ — Le banquier de la rue d'Enghien ? Bonne maison. 
+ — Excellente. Et j'y suis comme chez moi. Mon père était très lié avec le patron qui me traite en enfant gâté. 
+ — Trois cent francs par mois, hein ? 
+ — Cinq cents et j'espère avoir bientôt une part d'intérêt dans les affaires. Et toi, Gustave ?… où en es-tu ? 
+ — Oh ! moi, je travaille à la Bourse et je ne m'en plains pas. 
+ — Tu es chez un agent de change ? 
+ — Pas si bête. J'opère pour mon compte. 
+ — Tu as donc des capitaux ? 
+ — Oui, mon cher. Tu me demandes ça parce que, là-bas, au régiment, je ne roulais pas sur l'or. La vérité est que je ne suis pas né millionnaire. Ma mère s'était saignée aux quatre veines pour verser dans la caisse du gouvernement quinze cents balles, à la seule fin de m'éviter les trois ans de service obligatoire. La pauvre femme est morte en ne me laissant que des dettes à payer. Elle était veuve et je n'ai jamais connu mon père. Ma situation n'était donc pas brillante, mais je me suis tiré d'affaire tout de même. 
+ — Je t'en félicite. Moi, à ta place, j'aurais été bien embarrassé. Comment donc as-tu fait ? 
+ — J'avais naturellement l'esprit tourné à la spéculation. À Paris, il ne faut qu'une bonne idée pour trouver le chemin de la fortune, et j'en ai à revendre des idées. Je ne suis pas encore riche, mais je le serai tôt ou tard… et, en attendant, je vis très largement. Il est vrai que j'ai eu de la chance. Un gros capitaliste m'a pris en amitié et m'a intéressé dans ses affaires. Et comme j'ai la main heureuse, je gagne déjà beaucoup d'argent. Si tu as des fonds à placer, tu n'as qu'à t'adresser à moi. Je me chargerai volontiers de les faire valoir et tu t'en trouveras bien. 
+ — Malheureusement, je n'en ai pas. 
+ — Je croyais que tes parents étaient très riches. 
+ — Quatre à cinq cent mille francs en terres, dans le département d'Ille-et-Vilaine, c'est tout ce que mon père a laissé en mourant. Ma mère, qui habite Rennes, touche la moitié du revenu. Moi, j'ai bien assez avec l'autre moitié du revenu. Moi, j'ai bien assez avec l'autre moitié et avec mes appointements chez Lafitte. 
+ — En tout une douzaine de mille, per annum, comme disent les Anglais. Ce n'est pas énorme. Mais tu es tourné de façon à faire un superbe mariage. T'y prépares-tu ? 
+ — Pas encore ; je ne suis qu'un petit employé. Aucune héritière ne voudrait de moi. 
+ — Tu te trompes, cher ami. Sans compter tes avantages physiques, tu as un nom. Robert de Bécherel, ça sonne bien !… et je connais des jeunes filles de la très haute finance qui le portaient volontiers, ce nom à particule. En temps de République, ça se paie très cher, la noblesse. Tu as là une grosse valeur matrimoniale ; tandis que moi qui m'appelle Gustave Pitou, je ne serai mariable que le jour où je posséderai une paire de millions. 
+ — C'est la grâce que je te souhaite. Moi, je ne suis pas si ambitieux. Je me contenterais d'épouser une demoiselle bien élevée et suffisamment jolie qui m'apporterait une fortune à peu près égale à la mienne. 
+ — Alors, j'ai ton affaire. Cinq cent mille francs comptant et de fortes espérances. Vingt-quatre ans, orpheline. Très belle, très intelligente et très instruite. Oncle sans enfants, sexagénaire, apoplectique et opulent. Confiée depuis son enfance aux soins d'une dame très respectable, titrée comtesse, et très désireuse de marier à un gentilhomme sa pupille qui ne tient pas du tout à coiffer Sainte-Catherine. Je te présenterai quand tu voudras. 
+ — Oh ! je ne suis pas pressé. 
+ — Mais tu ne dis pas non et tu me remercieras de t'avoir introduit dans un des salons les plus gais de Paris et les mieux fréquentés. J'y allais quand je t'ai rencontré. Ça se trouve à merveille. Je vais t'y mener. 
+ — Ce soir ?… Tu n'y penses pas. Je ne suis pas habillé et, en revanche, je suis crotté comme un barbet. 
+ — Et moi donc ! Nous allons faire cirer nos bottines dans le passage, et ensuite, nous fréterons un fiacre. Ce n'est pas jour de grande réception chez la comtesse de Malvoisine et on y est le bienvenu en redingote. 
+ — Mais, grand fou que tu es, sous quel prétexte me présenteras-tu ? 
+ — Je suis l'ami de la maison et parfaitement autorisé à y mener un ancien camarade. Je te réponds qu'on t'y fera bon accueil et que tu t'y amuseras beaucoup. Tu ne seras point obligé, d'ailleurs, de faire la cour à Mlle Herminie des Andrieux, l'héritière en question. 
+ — Elle s'appelle Herminie ! s'écria Robert en éclatant de rire. 
+ — Hélas ! oui. C'est son seul défaut. Mais je te répète que tu seras libre de tes actions. Une fois que je t'aurai présenté à la comtesse, tu pourras, à ton choix, écouter d'excellente musique, t'asseoir à une table de jeu ou causer avec des femmes aimables. 
+ — Ah ! on joue, chez la comtesse ? 
+ — Au whist, à l'écarté et autres jeux innocents. Ne va pas t'imaginer que je te conduis dans un tripot. Tu ne craignais pas le baccarat autrefois. Chez Mme de Malvoisine, on ne joue que pour se distraire. La fête se terminera vraisemblablement par une sauterie qui sera suivie d'un souper réconfortant. 
+ — Et tu dis que ce n'est qu'une soirée sans façon ! Peste ! que fait-on de plus les jours de grand gala ? 
+ — Rien. C'est fête tous les soirs à l'hôtel de cette bonne comtesse. Et quand tu en auras goûté, tu y reviendras, je te le prédis. Aujourd'hui, le programme de la soirée n'a rien d'effrayant, avoue-le. 
+ — Non, s'il ne s'agit pas d'une présentation en vue d'un mariage. 
+ — Tranquillise-toi sur ce point. La belle Herminie n'attend pas après les prétendants. Tu la verras et la vue ne t'en coûtera rien. Entrons chez le cireur. 
+ Robert avait gardé un souvenir agréable de sa camaraderie de régiment avec ce joyeux Gustave, et il ne lui déplaisait pas de la renouer. De plus, Robert aimait l'imprévu. L'idée de passer une partie de la nuit chez cette comtesse qu'il n'avait jamais vue lui semblait originale et amusante. Il se disait qu'il en serait quitte pour se tenir sur la réserve dans le monde inconnu que son ami allait lui montrer et il se croyait assuré de ne pas s'y compromettre, quoiqu'il eût le goût du jeu. Ce goût, son père le lui avait transmis avec le sang, et son père s'était à demi ruiné jadis devant les tapis verts de la province. Mais Robert, assagi par la médiocrité de sa situation, avait fini par se corriger de ce défaut héréditaire. 
+ Il se décida, non sans quelque hésitation, à suivre l'entraînant Gustave jusqu'au bout de cette aventure bizarre, et quand une opération indispensable eut rendu à leurs chaussures le lustre qu'elles avaient perdu sur les trottoirs boueux des boulevards, ils montèrent ensemble dans une voiture de place qu'ils eurent la chance de trouver libre, au coin de la rue Vivienne. Robert n'y serait certainement pas monté, s'il avait pu lire dans l'avenir. 
+ — Où demeure-t-elle, ta comtesse ? demanda Robert. 
+ — Rue du Rocher, tout en haut. La course est un peu longue, mais il n'est que dix heures et nous arriverons au bon moment. Tu entendras Mlle Violette, qui chante dans la perfection. 
+ — Qu'est-ce que c'est que Mlle Violette ? 
+ — C'est la maîtresse de musique de Mlle des Andrieux. Une très jolie fille, ma foi !… seulement, elle n'a pas le sou, et je ne te conseille pas de pousser ta pointe de ce côté-là… du moins, pas pour le bon motif. 
+ — Et pour l'autre motif, est-ce que j'aurais des chances ? 
+ — On la dit vertueuse, mais tu peux essayer, si le cœur t'en dit. 
+ — Le cœur ne m'en dira pas. 
+ — Tu n'en sais rien. Elle est charmante. Mais, au fait, tu es peut-être pris ailleurs… oui, tu dois avoir une maîtresse. Parions que tu venais de chez elle quand je t'ai rencontré. 
+ — Tu perdrais, mon cher. Je n'ai pas de maîtresse et quand nous nous sommes heurtés, je venais de porter de la part de mon patron dix mille francs à un client de la maison… un client qui demeure rue de l'Arcade et que je n'ai pas trouvé chez lui. 
+ — Alors, tu les as sur toi, les dix mille ? demanda Gustave. 
+ — Certainement, je les ai, dit Robert, et comme les bureaux de la maison de banque de la rue d'Enghien sont fermés à l'heure qu'il est, je ne pourrai remettre l'argent au caissier que demain matin. Pourquoi me demandes-tu cela ? 
+ — Mais, répondit Gustave, parce que… on joue chez la comtesse, je te l'ai déjà dit, et si tu te laissais aller à la tentation… 
+ — Pour qui me prends-tu ? Ce n'est pas la première fois que je porte sur moi des sommes importantes qui ne m'appartiennent pas. Je te prie de croire que je n'ai jamais eu envie d'y toucher. 
+ — Oh ! mon cher, je ne doute pas de ta probité. Seulement, qui a bu boira, dit le proverbe. Tu as aimé le jeu autrefois, tu dois l'aimer encore et tu l'aimeras toujours. Il ne faut quelquefois qu'une occasion pour retomber dans le péché. J'ai voulu te signaler le danger, rien de plus. Et après tout, si tu perdais les dix mille, tu es en situation de les rendre à ton patron. Les immeubles sont faits pour être hypothéqués. Les tiens ne le sont pas encore, je suppose. 
+ — Non, certes ; et j'espère qu'ils ne le seront jamais. 
+ — Il ne faut jurer de rien, murmura Gustave. 
+ La causerie en resta là, dit Gustave, en ouvrant la portière. Il pleut toujours. J'ai envie de garder ce cocher, puisqu'il marche bien. 
+ — Comme tu voudras. 
+ — Et tu me permettras de le payer, quand il nous aura ramenés chez nous. Tu es mon invité, par le fait. C'est bien le moins que je me charge des frais de la soirée. 
+ Et, sautant à bas de la voiture, Gustave donna des ordres au cocher avant de sonner à la grille. Robert descendit à son tour et vit que l'hôtel avait bonne apparence, quoiqu'il ne fût pas grand : un rez-de-chaussée surélevé, deux étages par-dessus et quatre fenêtres de façade brillamment éclairées, du haut en bas de ce logis élégant. 
+ Trois coupés de maîtres stationnaient devant la porte et un domestique en livrée se tenait dans la cour armé d'un parapluie sous lequel il abrita successivement chacun des deux nouveaux venus, pendant la traversée depuis le trottoir jusqu'au perron. 
+ Ils se débarrassèrent de leurs paletots dans un vestibule qui ressemblait à une serre, tant il était plein de fleurs exotiques, et conduits par le valet de pied, ils entrèrent de front dans un salon où ils trouvèrent une vingtaine de personnes. 
+ Les hommes étaient en majorité, mais il y avait aussi quelques femmes, dont trois jeunes, trois sans plus. Les autres étaient hors d'âge, mais elles avaient de beaux restes, comme on dit dans le monde bourgeois. Au centre d'un groupe féminin plus imposant qu'attrayant, trônait la comtesse de Malvoisine, une superbe matrone, très décolletée et parée comme une châsse. 
+ Lorsque Robert de Bécherel, remorqué par son camarade, s'avança pour la saluer, un murmure d'admiration courut parmi ces dames. Elles le trouvaient charmant et elles le dévoraient des yeux. Gustave le présenta à la comtesse qui l'accueillit en minaudant et comme Robert s'excusait de ne pas être en tenue de soirée, elle lui dit de but en blanc : 
+ — Avec un nom comme le vôtre, monsieur, on n'a pas besoin de s'habiller pour être le bienvenu partout. Je suis heureuse de vous recevoir et je remercie notre ami Gustave de vous avoir amené. 
+ Robert s'inclina pour répondre à ce compliment brutal, mais il eut quelque peine à comprimer une forte envie de rire. La comtesse lui semblait grotesque et il était déjà fixé sur l'authenticité du titre qu'elle portait. 
+ — À dater de cet instant, reprit-elle gracieusement, ma maison vous est ouverte cher monsieur, et j'espère vous y revoir souvent. Maintenant, soyez libre. Vous êtes ici chez vous. Gustave va vous piloter dans mon salon où chacun fait ce qu'il veut. 
+ — Nous allons commencer par faire notre cour à Mlle Herminie, s'écria le gros Gustave en poussant Robert vers le piano devant lequel trois jeunes filles causaient, debout, à quelques pas d'une table où deux messieurs, entourés de plusieurs autres, jouaient à l'écarté. 
+ Au centre de ce petit groupe qu'un poète classique aurait certainement comparé au groupe des trois Grâces, la belle Herminie dominait ses compagnes de toute la hauteur de sa taille presque masculine. 
+ On la voyait de très loin et Robert ne s'y trompa point. C'était bien là l'héritière que Gustave lui avait dépeinte. À sa prestance, on devinait la demoiselle bien dotée qui regarde les jeunes gens du haut de sa grandeur. Elle avait l'air de leur dire : Adorez-moi. Je serai millionnaire un jour. 
+ Très belle, du reste, de cette beauté qu'on prisait beaucoup sous le directoire. Grands traits réguliers, grands yeux noirs, épaules superbes, taille majestueuse. Habillée comme s'habillait Mme Tallien, du temps de Barras, Herminie eût été admirable. 
+ Elle portait moins heureusement la toilette moderne qui va si bien aux femmes sveltes. Sa robe accusait trop ses formes trop massives. Pour tout dire, en deux mots, Herminie manquait de grâce et de distinction, mais, en compensation de ce désavantage, elle possédait un teint d'une fraîcheur sans pareille et des dents très blanches qu'elle montrait à tout propos. 
+ Robert, quand son ami le présenta, ne fut ni charmé ni intimidé. Il se contenta de s'incliner poliment et il laissa l'obligeant Gustave entamer l'éloge de M. de Bécherel, gentilhomme de vieille souche. La noblesse était fort appréciée chez Mme de Malvoisine et on l'y mettait souvent sur le tapis. 
+ — Le nom de Bécherel est un des plus anciens de la Bourgogne, dit gracieusement Herminie, qui avait la prétention de connaître tout l'armorial de France. 
+ — Je ne sais, mademoiselle, s'il y a des Bécherel en Bourgogne, répliqua Robert en souriant, mais je suis sûr que ma famille n'est pas de cette province. 
+ — Elle est de la Bretagne, n'est-ce pas, monsieur ? demanda une des deux compagnes de la belle Herminie ; une blonde aux yeux noirs qui parlait d'une voix douce. 
+ — Oui, mademoiselle. Seriez-vous ma compatriote ? 
+ — Non, monsieur, mais, étant enfant, j'ai passé plusieurs années au couvent de la Visitation, à Rennes. Et je me rappelle très bien avoir entendu prononcer votre nom. Il était porté par une dame qui comptait parmi les bienfaitrices de la communauté. 
+ — Ma mère, mademoiselle. Nous sommes et moi, les derniers Bécherel. 
+ — Ces souvenirs sont pleins d'intérêt, dit sèchement Herminie. Mais, ces messieurs, j'en suis sûre, désirent vous entendre, ma chère Violette. Faites-nous donc le plaisir de vous mettre au piano. 
+ Violette baissa les yeux et obéit sans mot dire. La pauvre fille n'était pas là pour faire sa volonté. La comtesse la payait pour chanter ; il fallait qu'elle chantât. Mais elle avait bien le droit de penser que Mlle Herminie, son ingrate élève, la punissait trop durement d'avoir osé se mêler un instant à la conversation engagée avec le nouveau venu. 
+ Robert, touché de cette scène muette, fut pris d'une folle envie de cingler d'une bonne impertinence la demoiselle aux grands airs et il fut pris aussi d'une profonde pitié pour cette malheureuse musicienne que la nécessité de gagner son pain condamnait à se laisser traiter comme une servante. 
+ Gustave le calma d'un coup d'œil et, fort à propos, Mme de Malvoisine appela sa pupille qui salua froidement ces messieurs et s'en alla, fort mécontente d'avoir manqué son effet, rejoindre la comtesse. La troisième jeune fille, une blonde insignifiante, suivit Herminie et les deux amis restèrent seuls, à proximité du piano. 
+ — Eh bien ? demanda Gustave. Que penses-tu de la triomphante Herminie ? Conviens qu'elle est magnifique. 
+ — Comme déesse de la Liberté, on ne trouverait pas mieux. Elle me rappelle la statue de la ville de Marseille qui est sur la place de la Concorde. 
+ — Diable ! tu es bien difficile. Je t'accorde qu'elle n'a pas une taille de guêpe. Mais, pour ma part, je la préfère à cette institutrice maigrelette qui me paraît t'avoir donné dans l'œil. 
+ — Chacun son goût, cher ami. 
+ — C'est juste. Et comme je ne suis pas venu ici pour flirter avec les demoiselles, je vais tâter un peu la veine à l'écarté. Il y a de l'argent à gagner ici, et je ne serais pas fâché que ma soirée me rapportât une centaine de louis. 
+ — Je te souhaite bonne chance. 
+ — C'est-à-dire que tu te proposes de disparaître à l'Anglaise. À ton aise, cher ami. Je t'ai amené chez la comtesse parce que je croyais que tu t'y plairais. Tu n'es pas forcé d'y rester, si tu t'y ennuies. Je te conseille pourtant d'attendre un peu. D'abord, tu entendras ta préférée, Mlle Violette, qui a un vrai talent, et puis, c'est l'heure où le salon se remplit. Voici un tas de figures nouvelles qui arrivent. Beaucoup de femmes dans le nombre. Tu en trouveras peut-être une à ton gré. Dans tous les cas j'espère que nous nous reverrons. Où demeures-tu ? 
+ — Faubourg Poissonnière, 29. Et toi ? 
+ — Rue Drouot, 24. Je ne suis pas souvent chez moi, mais tu n'as qu'à m'écrire un mot. Nous dînerons ensemble quand tu voudras. 
+ Ayant dit, Gustave courut à la table de jeu et Robert se rapprocha instinctivement de Mlle Violette qui feuilletait des partitions pour y chercher le morceau qu'elle devait chanter. Personne ne s'occupait d'elle. Robert vit que ses yeux étaient humides, et il essaya de la consoler. 
+ — Mademoiselle, lui dit-il doucement, voulez-vous me permettre de vous accompagner ? Je ne suis pas de première force, mais si la musique n'est pas trop difficile, je… 
+ — Merci, monsieur. Je m'accompagne moi-même, murmura la jeune fille, très émue. 
+ — Eh ! bien, je tournerai les pages…, et j'aurai le plaisir d'être auprès de vous. Je vous ai vu ce soir pour la première fois et il me semble que je vous connais depuis des années. 
+ — Vous avouerai-je que j'éprouve la même impression, dit la jeune fille en refoulant ses larmes. Et pourtant je suis bien sûre que nous ne nous sommes jamais rencontrés. 
+ — J'en suis sûr aussi, car si je vous avais vue, je ne vous aurais pas oubliée. Mais il y a déjà un lien entre nous… le nom de ma mère que vous avez entendu prononcer autrefois et que vous avez retenu. Évidemment, nous étions prédestinés à nous connaître un jour. Et je bénis mon ami Gustave qui m'a amené ce soir dans ce salon où de ma vie je n'avais mis les pieds. 
+ — Et où vous ne reviendrez jamais, je suppose. 
+ — C'était mon intention, il n'y a qu'un instant, mais j'ai déjà changé d'avis. Il m'en coûterait trop de ne pas vous revoir. 
+ Mlle Violette rougit jusqu'aux oreilles et au lieu de répondre à ce commencement de déclaration, elle se mit à plaquer des accords sur le piano. Robert s'aperçut qu'elle avait des mains charmantes, des mains de duchesse, fines et blanches avec des ongles roses et il reprit en baissant la voix : 
+ — Je reviendrai pour vous, puisque je ne puis vous voir ailleurs que chez cette comtesse qui ne me plaît guère. 
+ Cette fois, Violette pâlit, se redressa et répliqua, sans cesser de préluder : 
+ — Pourquoi me parlez-vous ainsi ? je ne mérite pas que vous me traitiez comme si j'étais de celles qui se laissent prendre à de banales galanteries. Vous m'êtes sympathique et je vous sais gré de vous intéresser à une pauvre fille qui n'intéresse personne. Ce n'est pas une raison pour vous moquer de moi. 
+ Et comme Robert essayait de protester : 
+ Ne vous défendez pas, reprit-elle d'un ton ferme ; à vous entendre, je pourrais croire que je vous ai inspiré tout à coup une passion. Mais je ne suis ni une sotte, ni une coquette et je sais ce que valent les doux propos des hommes. N'essayez donc pas de troubler ma vie. J'ai déjà assez de chagrins. Que serait-ce si je vous écoutais ! 
+ Ce langage où l'émotion perçait sous la sagesse, surprit et charma Robert de Bécherel, qui ne l'avait pas prévu. 
+ — Je vous jure, mademoiselle, que je ne recommencerai pas, dit-il gravement. Maintenant que j'ai juré, vous me permettrez bien de rester près de vous, pendant que vous chanterez. 
+ — Oh ! très volontiers, s'écria la jeune fille qui avait déjà retrouvé sa gaieté. Puisque vous acceptez mes conditions, je serai ravie de causer avec vous. Et rien ne m'en empêchera, car je ne vais pas chanter. À quoi bon ? Ils ne m'écouteraient pas. 
+ — Le fait est que ces messieurs et ces dames n'ont pas l'air de tenir beaucoup à vous entendre. Ils se sont éparpillés dans tous les coins et ils jacassent comme des pies. Je me demande pourquoi Mlle Herminie vous a priée de vous mettre au piano. 
+ — Cela se passe ainsi à peu près tous les soirs. Les habitués de la maison aiment à causer en musique ; c'est plus commode pour les apartés… à condition que la musique ne soit pas trop bruyante. Si je chantais, ils se croiraient peut-être obligés de m'applaudir et leur approbation m'est tout à fait indifférente. Je leur joue du Mozart… en sourdine, pour ne pas les déranger. 
+ — Vous aimez Mozart, mademoiselle ? demanda Robert, qui adorait le grand maître Viennois. 
+ — Depuis que j'existe. Étant toute petite, quand je prenais mes premières leçons de piano, il m'arriva un jour d'entendre exécuter par mon professeur un morceau de la Flûte enchantée. J'en fus si ravie que le lendemain, dès l'aurore, je me glissai dans la salle de musique et je me mis à exécuter avec un seul doigt l'air qui m'avait charmée et que j'avais retenu. Je fis tant de bruit que Mme la supérieure accourut et voulut me mettre en pénitence. Je me révoltai… Mozart m'avait grisée… je crois, Dieu me pardonne, que je donnai un soufflet à la vénérable Mère. Ce fut une grosse affaire. Je faillis être renvoyée. 
+ — En vérité, mademoiselle, j'ai beaucoup de peine à croire que vous ayez jamais battu quelqu'un. 
+ — C'est que, depuis ce jour mémorable, je n'en ai pas eu l'occasion. Mais si vous pensez que le ciel m'a douée d'une patience angélique, vous vous abusez, monsieur. Je sens très vivement et j'ai parfois des colères terribles. 
+ — Contre l'imposante Herminie ou contre la comtesse de Malvoisine ? demanda en riant Bécherel. 
+ — Non, monsieur. Elles ne m'en donnent pas sujet. Elles me paient les leçons et ma musique. Je fais consciencieusement mon métier. Nous sommes quittes. Les humiliations sont par-dessus le marché et je les supporte sans me plaindre. Mais nous parlons trop et je m'aperçois qu'on nous regarde. Quel morceau de Mozart voulez-vous entendre ? 
+ — Un morceau de Don Juan… à votre choix… De tous ses opéras, c'est celui que je préfère. 
+ Violette se mit aussitôt à jouer l'air de la sérénade. Elle le joua comme il doit être joué, doucement et avec un sentiment exquis. 
+ Robert oublia tout – Mme de Malvoisine, sa superbe pupille et ses bruyants invités – pour se laisser aller au charme de cette musique délicieuse qui le transportait dans le pays des rêves. Puis vinrent : le trio des masques, l'air si gai de Zerline et le sombre duo final entre Don Juan et la statue du Commandeur : « Pentiti !… No… no… » joués pour Robert tout seul, car personne dans ce salon n'écoutait la grande artiste inconnue. 
+ — Savez-vous, mademoiselle, qu'au théâtre vous auriez un immense succès ! s'écria Bécherel enthousiasmé. 
+ — J'y ai pensé quelquefois, dit la jeune fille, mais je préfère le bonheur paisible aux succès éclatants. 
+ — Le bonheur !… Est-ce donc que vous vous trouvez heureuse dans cette maison où on a pour vous si peu d'égards !… Et vous résignerez-vous à supporter toujours le sort que je ne sais quels malheurs immérités vous ont fait ? 
+ Au lieu de répondre à cette invite en racontant son histoire, Violette sourit tristement et attaqua une sonate de Beethoven. 
+ — Je vous en prie, murmura-t-elle, ne restez pas plus longtemps près de moi. Herminie ne me pardonnerait pas de vous accaparer. Et d'ailleurs, nous nous reverrons avant la fin de la soirée, car je suis obligée de ne pas bouger d'ici. On aura besoin de moi pour faire danser ces dames. 
+ — Je n'aurai donc pas même la consolation de valser avec vous ? 
+ — Non, puisque je serai rivée au piano. Mais, si on soupe, nous pourrons peut-être causer encore. En attendant, je vous demande très sérieusement de me quitter. 
+ Robert n'avait plus qu'à obéir. Avant de se lever, il échangea un dernier regard avec la jeune fille et il lui sembla lire dans ses yeux qu'elle ne lui en voulait pas du tout de s'être occupé d'elle. Il s'agissait maintenant d'employer le temps qui allait s'écouler jusqu'à l'heure où il pourrait la retrouver et il ne savait que faire, car il ne se souciait pas de rentrer dans le cercle qui s'était formé autour de la comtesse. 
+ Herminie l'effarouchait, et il se déniait des compliments de Mme de Malvoisine. Gustave lui en avait assez dit pour qu'il devinât que cette majestueuse dame cherchait à marier sa pupille et que, lui, Robert de Bécherel, serait le bienvenu à poser sa candidature. 
+ Il n'en avait pas la moindre envie et, puisqu'il était décidé à rester pour les beaux yeux de Mlle Violette, il n'espérait pas échapper aux gracieusetés intéressées de la comtesse, mais il comptait s'en tirer par des politesses qui ne l'engageraient à rien et même par des promesses d'assiduité qu'il se proposait de ne pas tenir, car le salon de la rue du Rocher n'était pas fait pour lui plaire. 
+ Afin d'en venir le plus tard possible aux prises avec l'héritière et sa protectrice, il s'approcha de la table d'écarté où il trouva Gustave en train de parier et de perdre son argent. 
+ La partie était très animée et on jouait gros jeu. Robert arriva juste au moment où un monsieur qui venait de tourner le roi attirait à lui une masse assez respectable d'or et de billets de banque. 
+ — Je viens de brûler ma dernière cartouche, dit tout bas Gustave à son ancien camarade. Prête-moi cinquante louis. 
+ — Je te les prêterais volontiers, si je les avais sur moi, murmura Bécherel, assez étonné de ce brusque appel à sa bourse. 
+ — Tu les as et même bien davantage, puisque, ce soir, tu viens de toucher dix mille. 
+ — Qui appartiennent à mon patron et que je dois remettre demain matin dans la caisse. 
+ — Sois tranquille. Tu les y remettras. En sortant d'ici, nous passerons chez moi. J'ai quinze mille francs dans mon secrétaire et un compte-courant au Crédit Lyonnais. 
+ — Je n'en doute pas, mais… 
+ — Ah ! c'est comme ça ! tu te défies de moi ?… eh ! bien, n'en parlons plus. Je saurai ce que vaut ta camaraderie… et je n'aurai plus de motifs pour dire du bien de toi à la blonde pianiste qui t'a si fort charmé. 
+ Médiocrement effrayé de cette menace, mais très contrarié de refuser un service à un ancien ami, Robert se dit qu'il avait une centaine de louis d'économies et, qu'au pis aller, il en serait quitte pour prendre mille francs sur ses fonds personnels si Gustave ne lui remboursait pas la somme. 
+ — Voici le billet de mille, dit-il en le détachant de la liasse qu'il avait dans son portefeuille. Je ne doute pas de ta parole et je compte absolument sur toi pour demain matin. 
+ — À la bonne heure ! je retrouve mon Bécherel du 24e dragons. Et pour te prouver que je ne t'en veux pas de ton hésitation, je te mets de moitié dans mon jeu. Je me sens en veine et tu toucheras avant la fin de la soirée un joli dividende. 
+ — Soit ! j'accepte l'association, jusqu'à concurrence de… 
+ Robert n'acheva pas sa phrase. Quelqu'un venait de lui frapper sur l'épaule et il se retourna pour voir celui qui l'abordait si familièrement. Gustave saisit le moment et se précipita vers la table de jeu, en brandissant le billet de mille, et en criant : 
+ — C'est à moi d'entrer. Je réclame mon tour. 
+ Robert se trouva face à face avec un monsieur d'une cinquantaine d'années, grand, sec, droit comme un peuplier et portant à la boutonnière de son habit la rosette d'officier de la Légion d'honneur. 
+ — Vous ici, mon colonel ! murmura Bécherel. 
+ Et il baissa le nez comme un écolier pris en faute. 
+ — Moi-même, mon garçon, répondit le nouveau venu en retroussant sa moustache grisonnante. Ça t'étonne de m'y voir. Eh bien, ça prouve que tu n'y avais pas encore mis les pieds, car j'y viens assez souvent, et je ne m'en cache pas. Je ne suis pas marié, j'ai quarante mille francs de rente, et depuis que j'ai quitté l'armée, je suis libre comme l'air. Aussi, je vais dans tous les mondes, même dans le demi. Mais toi, que cherches-tu, chez cette chère comtesse ? 
+ — Rien du tout. Un ami que j'ai rencontré ce soir m'y a amené… 
+ — Ce gros blond qui vient de t'emprunter un billet de mille. C'est un des familiers de la maison. D'où diable le connais-tu ? 
+ — Nous étions ensemble au régiment. 
+ — Comme volontaires d'un an. Et tu t'es empressé de redevenir pékin, au bout de ton année. Si ton père avait voulu m'écouter, tu te serais engagé et maintenant tu serais sur le point de passer officier. 
+ — Je n'aurais pas mieux demandé que de rester au service ; mais pendant que je faisais mon volontariat, ma mère est devenue veuve, vous le savez… 
+ — Et elle t'a rappelé auprès d'elle. La voilà bien avancée ! tu habites Paris et elle est restée à Rennes. Enfin !… tu as une bonne place, à ce qu'on m'a dit là-bas, quand je suis allé en Bretagne, l'été dernier. Et puis, il vous reste du bien. Ton père n'a pas tout mangé. Pourquoi n'es-tu jamais venu me voir, depuis que tu habites Paris ? 
+ — Je vous demande pardon, mon colonel. Je ne savais pas votre adresse. 
+ — Pitoyable excuse, mon petit. On te l'aurait donnée au ministère de la guerre, si tu avais pris la peine d'y passer. Et d'ailleurs, je suis connu comme le loup blanc. Tu n'avais qu'à écrire à M. Louis de Mornac, lieutenant-colonel, en retraire. Ta lettre me serait arrivée tout droit, rue de la Boëtie, 64. 
+ — Je réparerai mes torts en me présentant chez vous, très prochainement, si vous me le permettez. 
+ — Non seulement je te le permets, mais je t'y convie. Tu sais que j'aimais beaucoup ton père et tu dois avoir besoin des conseils d'un vieux routier comme moi. Oh ! ne crains rien. Je ne te sermonnerai pas, mais je te piloterai sur la mer parisienne où tu me fais l'effet de naviguer sans boussole. Elle est semée d'écueils, cette mer orageuse. Je les connais tous et je te les signalerai. Veux-tu pour commencer, que je te renseigne sur les gens qui sont ici ? 
+ — J'allais vous en prier, mon colonel. 
+ — C'est facile. Nous avons d'abord la maîtresse de la maison. Je ne sais pas où elle a pris son titre de comtesse, mais je sais fort bien qu'elle n'a jamais été mariée. 
+ — Je m'en doutais un peu. Alors, c'est une femme galante… une horizontale retirée des affaires, après fortune faite. 
+ — Non. C'est une ancienne modiste qui s'est enrichie dans le commerce. Seulement, elle a eu dans le cours de sa longue carrière quelques associés… le dernier la commandite encore… 
+ — Il est ici sans doute. Montrez-le-moi, mon colonel. 
+ — Il n'y est pas. Il n'y est jamais. Il se garderait bien d'y venir. Mais la Malvoisine et lui sont unis comme les deux doigts de la main, car leurs intérêts sont les mêmes. Il y a un cadavre entre eux. 
+ — Comment ! un cadavre ? 
+ — Oui. Ils ont dû jadis commettre ensemble un crime, ou tout au moins une mauvaise action qui a été le point de départ de leur fortune. Personne ne me l'a dit, mais j'en mettrais ma main au feu. Et puis, il y a l'enfant. 
+ — Quel enfant ? 
+ — Herminie, parbleu ! Ton cornac, Gustave, a dû te raconter que cette plantureuse personne est la pupille de la comtesse. Si tu avais du coup d'œil, tu aurais déjà deviné que c'est sa fille. Elles se ressemblent comme deux gouttes d'eau. 
+ — C'est vrai. Je n'y avais pas pris garde. Alors, le père serait… 
+ — Le commanditaire de Mme de Malvoisine. Ils n'ont jamais voulu reconnaître Herminie, afin de pouvoir lui laisser toute leur fortune sans enfreindre l'article du code civil qui met les enfants naturels à la demi-portion. Et puis, le père est peut-être marié en justes noces. On n'a jamais vu sa femme légitime, mais on soupçonne qu'elle existe. 
+ — Joli monde que tous ces gens-là ! Quand je pense que Gustave prétend qu'il ne tiendrait qu'à moi d'obtenir la main de cette héritière !… 
+ — Il a raison. La soi-disant comtesse et son associé s'estimeraient trop heureux s'ils pouvaient dénicher un gendre comme toi. Peu leur importe que ce gendre soit pauvre, pourvu qu'il ait un nom honorable. Mais je suppose que tu n'es pas disposé à entrer dans cette aimable famille. 
+ — J'aimerais mieux épouser une blanchisseuse. 
+ — Allons ! tu es décidément un brave garçon et je te prie de compter sur moi en toute occasion. 
+ — Je vous remercie, mon colonel, dit vivement Robert et je vous promets que vous n'aurez jamais à rougir de moi. Mais je m'étonne que Gustave m'ait donné le conseil de me poser en prétendant. 
+ — Il est payé pour cela. Le père l'emploie dans ses spéculations de bourse et lui fait gagner beaucoup d'argent. Ce père passe pour être l'oncle de la belle Herminie, et il est possible que ton Gustave ne sache pas le fond des choses. Comme tant d'autres, il cherche à faire fortune et il ne s'amuse pas à creuser la situation d'un puissant financier qui le patronne. Je n'ai rien appris de fâcheux sur son compte. Je te conseille cependant de ne pas trop te lier avec lui. 
+ — Oh ! je serai prudent. 
+ — Hum ! ton père ne l'était guère et il lui en a coûté cher. Profite de son exemple et ne te fourvoie pas trop dans des sociétés comme celle-ci. 
+ — Je n'y tiens pas, mais il me semble que vous-même, mon colonel… 
+ — Moi, mon petit, c'est différent ! Je suis blindé et je puis, sans craindre les avaries, prendre mon plaisir où je le trouve. 
+ — Et vous le trouvez ici ? demanda en souriant Bécherel ; ce n'est pas Mlle Herminie qui vous y attire, je pense… ni sa respectable mère. 
+ — Tu n'y entends rien, et tu ne vois les choses qu'à la surface. Ce salon est plein de personnes qui assurément ne seraient pas reçues chez ta mère, et beaucoup d'entre elles ne sont pas séduisantes, mais il n'y vient pas une cocotte. C'est le demi-monde qu'il ne faut pas confondre, avec le quart monde. Toutes ces femmes ont une tare dans leur passé : ce sont des déclassées, mais ce ne sont pas des filles. Et dans leur nombre, il en est deux ou trois qui valent qu'on s'occupe d'elles… une surtout que je te montrerai tout à l'heure. 
+ — Je vous crois, mon colonel. Mais… les hommes ?… 
+ — Mon Dieu, les hommes sont de ceux qu'on peut coudoyer sans se compromettre. D'abord, ce soir, il y a nous… et j'ai aperçu déjà deux messieurs de mon cercle. Ils y viennent, comme moi, pour y chercher une de ces liaisons qui n'engagent à rien. Tu vas me dire qu'on joue… C'est vrai, mais il n'y a pas de cagnotte au profit de la comtesse, qui n'a nul besoin d'exploiter ses invités…et je suis certain qu'on ne triche pas. Je connais des clubs très bien composés où on n'en pourrait pas dire autant. 
+ « Mais j'aperçois là-bas dans un coin la femme qui m'attire ici… elle est fort entourée… n'importe ! je vais manœuvrer de façon à me rapprocher d'elle. C'est une veuve, mon cher… la veuve d'un capitaine de vaisseau… une vraie… pas trop farouche, quoiqu'elle ait des principes… une amie comme il m'en faudrait une pour finir mon hiver. » 
+ Robert trouvait que ce colonel qui lui offrait d'être son Mentor ne pratiquait pas pour son compte personnel une morale bien rigide, mais s'il ne prêchait pas d'exemple, il n'en était pas moins de bon conseil et Robert s'empressa de l'interroger sur une personne qui lui tenait déjà fort au cœur. 
+ — Je serais désolé de vous gêner, mon colonel, lui dit-il, et je vous laisse ; mais puisque vous m'avez obligeamment renseigné sur la maîtresse de la maison, ayez la charité de me dire ce que vous pensez de cette jeune fille qui tient le piano en ce moment. 
+ — La petite Violette ?… c'est une perle, mon cher. Jolie comme un cœur, pleine de grâce et d'esprit, musicienne de premier ordre et vertueuse comme… comme on ne l'est pas chez Mme de Malvoisine. 
+ — J'en suis persuadé… mais quelle est son origine ?… A-t-elle une famille ?… 
+ — Pas la moindre. C'est une enfant trouvée, ou abandonnée, je ne sais plus trop. Quelqu'un m'a raconté cette histoire, mais je l'ai un peu oubliée. Il y a un mystère là-dessous. Demande à la petite de te l'expliquer et fais-lui la cour si tu veux, mais ne t'emballe pas trop. Elle est capable de s'amouracher de toi et comme tu ne te proposes pas de l'épouser, tu ferais une mauvaise action si tu t'amusais à lui tourner la tête. Sur ce, mon cher enfant, je te lâche. Ma veuve s'est débarrassée de ses adorateurs. Je vais saisir le joint. Je partirai probablement avant moi. Viens me demander à déjeuner, quand tu voudras. Le plus tôt sera le mieux. 
+ Ayant dit, M. de Mornac tourna les talons et Robert le vit de loin faire des prodiges de stratégie pour s'approcher de la veuve et l'aborder sans trop attirer l'attention. 
+ Son argent était sur le tapis, puisqu'il avait eu la faiblesse d'accepter l'association proposée par Gustave, et il n'était pas fâché de voir comment tournait la partie. Il se croyait de force à y assister sans trop d'émotions, car il se flattait d'être guéri de la passion héréditaire des Bécherel. Il ne songeait pas que le démon du jeu le guettait. Il ne fallut que la vue de l'or étalé sur le tapis pour lui faire oublier la pauvre Violette qui s'acquittait, non loin de la table d'écarté, de sa triste tâche de musicienne gagée. 
+ Gustave tenait déjà les cartes et Robert arriva tout à point pour l'entendre annoncer à haute voix : 
+ — Messieurs, je fais la chouette. 
+ Faire la chouette, dans la langue des joueurs, c'est jouer seul contre tous, et cette expression imagée est très juste, puisque les autres se coalisent pour attaquer un adversaire unique, absolument comme les oisillons assaillent une chouette qui s'est laissée surprendre par la lumière du jour sur quelque branche d'arbre. 
+ Pour soutenir la lutte, un contre tous, il faut avoir beaucoup d'argent et Bécherel se demanda si son ami perdait l'esprit d'engager le combat, sans autres munitions qu'un seul billet de mille, contre des messieurs qui débutaient par des coups de cinq louis et de dix louis. Pour commencer, il y en avait bien trente-cinq sur table. 
+ — Je tiens le coup, dit Gustave avec un aplomb superlatif. 
+ — Décidément, il est fou, pensa Robert. Enfin !… je ne suis engagé que jusqu'à concurrence de mille francs, et s'il se fait décaver, j'ai chez moi de quoi remplacer le billet que j'ai eu la faiblesse de lui prêter… sur l'argent du patron… et si ce toqué de Gustave s'avise d'aller plus loin, ce sera à ses risques et périls. 
+ Robert ne se rappelait plus qu'au moment où il allait ajouter à son acceptation d'association une clause restrictive, le colonel était venu, en lui frappant sur l'épaule, l'empêcher de la formuler nettement, cette clause salutaire. 
+ Gustave l'aperçut et lui cria : 
+ — Mon cher, tu n'as pas le droit de voir le jeu de ces messieurs, puisque tu es de moitié avec moi. Passe de mon côté. 
+ Bécherel avait bien envie de répondre que leur société était limited, comme on appelle en Angleterre les compagnies à responsabilité restreinte, mais tous les yeux étaient fixés sur lui et il se tut, en se disant qu'il serait toujours temps de se retirer lorsque la somme dont il avait fait le sacrifice serait perdue. 
+ Il alla docilement se placer derrière son ami, qui venait de couvrir, avec le billet de mille emprunté à Robert, les mises de ces messieurs. 
+ — Tu sais, lui dit Gustave, d'un air dégagé, pas de conseils ! Je joue proprement l'écarté et je n'ai pas besoin d'avis. 
+ Robert aussi avait la prétention de jouer très bien, mais il ne tenait pas du tout à donner de sa personne dans une bataille qu'il livrait à contrecœur. Et de peur de s'y intéresser malgré lui, il se mit à regarder Violette, au lieu de regarder les cartes. 
+ La jeune fille n'avait pas quitté le piano, mais elle n'y était plus seule. Un monsieur à barbe rousse était venu se planter derrière son tabouret et affectait de lui parler de très près. Elle faisait de son mieux pour se débarrasser des assiduités de ce fat et, n'y réussissant pas, elle se mit à jouer le quadrille le plus bruyant qu'aient jamais dansé les habitués du bal de l'Opéra. Ce tapage couvrit la voix du galant, qui fut obligé de rengainer ses fades compliments et de battre en retraite, non sans lancer à la malheureuse Violette une dernière impertinence que, par bonheur, Robert n'entendit pas, car il aurait immédiatement pris fait et cause pour la persécutée. 
+ — Le roi ! annonça Gustave, en tournant la onzième carte. Je marque un point. 
+ L'adversaire joua d'autorité et perdit. 
+ — J'en marque deux qui font trois, reprit Gustave. 
+ C'en fut assez pour faire momentanément oublier à Bécherel la scène à laquelle il venait d'assister de loin. La passion du jeu l'avait ressaisi et il reporta toute son attention sur la partie si bien commencée. Elle finit mieux encore, car au coup qui suivit, le triomphant Gustave fit la vole et gagna. 
+ Ce succès laissa Robert assez indifférent. Ce n'était pas le gain qu'il cherchait, c'était surtout les émotions, et il n'avait pas eu le temps d'en éprouver de bien vives, faute de péripéties pendant ce combat si court. 
+ — Faites votre jeu, messieurs, dit son associé. 
+ On le fit et très gros, car les vaincus presque tous, doublèrent leurs mises. 
+ Cette fois, la victoire fut fort disputée, et les adversaires arrivèrent à quatre points, alors que Gustave n'en avait pas un seul. Mais il les rattrapa point par point et au cinquième coup un roi de cœur, tourné à propos, termina la partie à son profit. 
+ — À un autre ! dit-il en attirant à lui les enjeux. 
+ Les perdants maugréaient et ne paraissaient pas disposés à continuer la lutte contre une veine qui se dessinait comme devant être formidable. 
+ — Que reste-t-il à faire ? cria le monsieur que Violette venait d'éconduire. 
+ — Ce que vous voudrez, répondit superbement Gustave. 
+ — Tiens ! c'est vous, Pitou ! dit l'autre d'un air assez dédaigneux. Comment ! vous faites la chouette, à banque ouverte ! Vous êtes donc devenu millionnaire ? 
+ — Pas encore, prince de la coulisse, mais j'ai de quoi vous payer… si vous gagnez. 
+ — Alors, cinq cents louis pour commencer. 
+ — Diable ! 
+ — Je vous préviens que si vous refusez de les tenir, je prends la chouette à votre place. C'est la règle, vous le savez. 
+ Pendant ce colloque, Robert examinait le nouveau venu et le trouvait fort déplaisant. Ce joueur qui parlait d'attaquer par dix mille francs était un gars taillé en force et haut en couleur. Tout en lui sentait le parvenu, depuis son air insolent, jusqu'à l'énorme chaîne d'or qui s'étalait sur son gilet noir. Bécherel lui en voulait déjà d'avoir grossièrement fait la cour à Violette. En ce moment, il aurait donné volontiers une année de ses appointements pour lui appliquer une paire de gifles. Mai sil espérait bien que Gustave allait lever le siège devant ce défi extravagant. 
+ Gustave, après avoir hésité un instant, répondit : 
+ — Va pour cinq cent louis. 
+ — Alors, je prends la main, dit en s'asseyant le monsieur à la barbe rousse. Éclairez, mon cher. Je ne joue jamais qu'argent comptant et vous n'avez pas mille écus devant vous. 
+ En même temps, il posait sur la table un portefeuille bourré de billets de banque. 
+ — Mon associé va compléter la somme. Robert, mon cher, passe-moi la réserve, appela Gustave. 
+ Bécherel ouvrit la bouche pour répondre : je n'en suis plus ; mais il s'aperçut que l'homme aux façons impertinentes le dévisageait d'un air railleur. L'orgueil et la colère lui firent perdre la tête, à ce point qu'il tira de sa poche les neuf billets de mille francs qui lui restaient et qu'il les remit, sans dire un mot, à son imprudent camarade. 
+ En ce moment, il aurait risqué son patrimoine tout entier plutôt que de reculer, devant cet odieux personnage qui se mit à dire à Gustave en ricanant : 
+ — Il paraît que monsieur est votre banquier. Je ne m'en serais jamais douté. 
+ — Pourquoi cela, monsieur ? demanda Bécherel, du ton le plus agressif. 
+ — Tout simplement parce que vous n'avez pas l'air d'un capitaliste. On ne peut pas tout avoir. 
+ — J'ai aussi l'habitude de corriger les malappris et je vais… 
+ — Messieurs ! messieurs ! crièrent les parieurs. 
+ — Je prends le mot pour moi, dit l'homme aux cinq cents louis ; nous réglerons cette affaire après le coup. 
+ — Quand il vous plaira. 
+ — Voyons, à qui la donne… à vous, Pitou… Et tâchez de ne pas tourner trop souvent le roi de cœur. De tous les cœurs, reprit-il en regardant de côté Bécherel, qui rongeait son frein, et qui cependant ne releva pas cette allusion à ses avantages physiques. 
+ Non seulement Gustave ne tourna pas le roi, mais il le donna à son adversaire qui fit le point. La partie débutait mal et le coup suivant ne fut pas plus favorable aux associés. 
+ — Deux et un, trois ! marqua l'ennemi. 
+ Gustave faisait triste mine, mais Robert ne songeait plus qu'à la querelle engagée avec le persécuteur de Violette et il attendait impatiemment la fin du jeu pour provoquer cet odieux individu. 
+ Gustave donna pour la seconde fois ; l'autre demanda des cartes et Gustave, hésitant à refuser, s'avisa de consulter son ami. 
+ — Conseille-moi, lui dit-il. 
+ — Non, répliqua Robert qui ne voulait pas prendre sur lui la responsabilité d'émettre un avis. 
+ — Non ? répéta Gustave avec insistance. 
+ — Très bien. Alors, je joue, reprit l'adversaire, en abattant trois cartes ; et vous avez perdu, car j'ai la tierce à la dame d'atout. Je n'ai proposé que pour faire les deux points de refus et à moins que vous n'ayez le roi… 
+ — Je n'ai pas refusé. 
+ — Pardon ! votre associé a dit : non. 
+ — Il répondait à une question que je lui adressais. D'ailleurs, moi seul avais le droit de vous répondre, puisque c'est moi qui tiens les cartes. 
+ — D'accord, mais vous avez répondu aussi un « non » bien nettement articulé. Je m'en rapporte à ces messieurs. 
+ La galerie, à l'unanimité, donna tort à Gustave qui fut obligé de s'exécuter. Les dix mille francs de Robert y passèrent et les petits joueurs se partagèrent le reste. 
+ — Vous voilà décavé, reprit le vainqueur ; et vous en avez assez, je suppose. 
+ — Je vous joue quitte ou double, dit rageusement Gustave. 
+ — Au comptant ou à terme ? 
+ — Si je perds, vous serez payé demain avant midi. 
+ — C'est contraire à mes principes… mais il n'est rien que je ne fasse pour vous obliger, dit ironiquement l'homme à la barbe rousse. 
+ — Alors, tirons à qui fera. 
+ Robert pensait : cette fois, par exemple, je n'en suis pas. Gustave ne m'a pas demandé si j'acceptais la revanche. La partie s'engagea et Gustave la perdit en trois coups. 
+ — Mon cher, lui dit son adversaire, c'est votre faute. Vous devriez savoir que la victoire reste toujours aux gros bataillons, mais ne vous gênez pas pour le paiement. Il suffira que vous me remettiez la somme demain, à la fin de la Bourse. Maintenant, messieurs, ajouta-t-il en s'adressant aux autres joueurs, je prends la place de ce cher Pitou et je tiens tout ce qu'on voudra. 
+ — N'oubliez pas, monsieur, que nous avons, vous et moi, un autre compte à régler, dit Robert de Bécherel que la défaite de Gustave n'avait pas calmé. 
+ — Je le sais, répliqua sèchement le vainqueur. Envoyez-moi vos témoins. Votre ami Pitou vous donnera mon adresse. Faites votre jeu, messieurs. 
+ Gustave qui s'était levé de fort mauvaise humeur, entraîna Bécherel dans un coin du salon et lui dit brusquement : 
+ — Quelle mouche te pique de chercher une sotte querelle à Galimas ? 
+ — Galimas, c'est ce monsieur ? demanda Robert. 
+ — Un des plus riches coulissiers de Paris. 
+ — Ça, je m'en moque. 
+ — Moi pas. Galimas me fait gagner de l'argent à la Bourse et je tiens beaucoup à ne pas me brouiller avec lui. Tu lui en veux parce qu'il a dit des douceurs à cette petite Violette. Ce n'est pas une raison pour le provoquer. Et d'ailleurs, avant de donner suite à cette stupide altercation, il faut commencer par lui payer ce que nous lui devons. 
+ — Parfaitement. J'ai eu le tort de me mettre de moitié avec toi pour mille francs. Je perds donc cinq cents francs que je t'ai prêtés et tu te chargeras de régler le reste avec ce Galimas. 
+ — Mon cher, nous sommes loin du compte. Les dix mille francs que tu m'as remis, représentent ta part dans la perte. Je verserai les dix mille autres à Galimas… et nous serons quittes. 
+ — Je ne l'entends pas ainsi, dit vivement Robert. Notre association n'était pas illimitée. Il y'a plu de perdre vingt mille francs en deux coups d'écarté. Tu aurais pu aussi bien en perdre cent mille… sans me consulter. 
+ — Il fallait me déclarer que tu te retirais. Et non seulement tu n'as rien dit, amis tu es venu te placer derrière moi pour faire publiquement acte de société. Toute la galerie du reste t'a vu me passer les billets de banque. Maintenant, il te plaît de nier ta dette… c'est fort bien !… J'ai cru à ta loyauté… je me suis trompé… j'en supporterai les conséquences. 
+ Bécherel pâlit de colère, mais il se contint : 
+ — Écoute, Gustave ! dit-il, tout autre que toi ne me parlerait pas impunément comme tu le fais, mais je ne tiens pas à me couper la gorge avec un ancien camarade. Et puisque tu m'as… de bonne foi, je veux bien le croire… considéré comme ton associé, je consens à payer la moitié de la somme. 
+ — C'est heureux, grommela Gustave. 
+ — Seulement, je ne l'ai pas, tu le sais. Et je te demande de me l'avancer pour quelques jours… le temps d'écrire à ma mère et de recevoir sa réponse. Elle m'enverra l'argent, j'en suis certain, dût-elle hypothéquer nos immeubles. 
+ — Bon ! je puis à la rigueur régler demain avec Galimas, puisque j'ai chez moi une quinzaine de mille francs, et attendre que tu me rembourses. Mais je n'en ai pas vingt mille, et il faut que tu réintègres demain à la caisse de ton patron les dix billets qui viennent de s'envoler dans la poche de ce veinard. 
+ — Alors, murmura Bécherel, je n'ai plus qu'à me brûler la cervelle. 
+ — Il est toujours temps d'en venir là. Te voilà bien avec tes exagérations ! quand on a quatre cent mille francs de biens au soleil, on ne se fait pas sauter le caisson à propos d'une culotte de dix mille francs. On les emprunte. 
+ — À qui ?… tu ne les as pas, et il me les faut pour demain matin. 
+ — À « Rubis sur l'ongle », parbleu ! 
+ — Qu'est-ce que c'est que ça ?… te moques-tu de moi ? 
+ — En aucune façon. Rubis-sur-l'ongle – de son vrai nom Marcandier – est un brave usurier qui m'a dix fois rendu des services d'argent. Il paie toujours comptant, et c'est ce qui lui a valu ce sobriquet glorieux que tu as pris pour une plaisanterie. 
+ — Mais il ne me connaît pas, cet usurier ! 
+ — Il me connaît, moi, et ça suffit pour qu'il te prête la somme et même une plus forte, dès que je l'aurai renseigné sur ta solvabilité. Et, à ma recommandation, il ne t'écorchera pas. Il ne t'en coûtera guère que trente pour cent… soit : mille francs pour trois mois, y compris la commission de Banque et autres accessoires. 
+ — C'est pour rien ! dit Bécherel avec une grimace ironique. Mais je ne suis pas en situation de marchander. Et tu crois que l'affaire peut se conclure dans la matinée ? 
+ — J'en réponds. 
+ — Alors, tu me conduiras chez cet homme ? 
+ — Non. Si j'y allais avec toi, il s'imaginerait peut-être que c'est de ma part un acte de complaisance, pour ne pas désobliger un ami dans l'embarras. Il vaut mieux, je crois, que je le voie seul. Je serai chez lui demain matin, à huit heures. Je lui expliquerai ta situation, tes ressources et je lui offrirai de te cautionner. Il a en moi une confiance entière. Tu pourras te présenter à neuf heures. Dix minutes après, tu auras ton argent. 
+ — Tu ne lui diras pas, j'espère, que cette somme, si bêtement perdue, n'était pas à moi. 
+ — Jamais de la vie. Je ne lui dirai même pas que tu es chez Lafitte. Je t'annoncerai comme un fils de famille qui mange son patrimoine. 
+ — Ça m'est égal. J'irai chez l'homme à neuf heures précises. Où demeure-t-il ? 
+ — Dans une assez vilaine rue, qu'on appelle la rue Rodier… et son appartement ne paie pas de mine. Mais son coffre-fort est plein et la maison est à lui. 
+ — Où prends-tu la rue Rodier ? 
+ — Elle va en montant, depuis la rue Choron jusqu'à l'avenue Trudaine… quartier des Martyrs. 
+ — Bon ! je la vois d'ici. 
+ — Eh bien, Rubis-sur-l'ongle demeure au numéro 24, au troisième. La portière loge à l'entresol. Tu demanderas M. Marcandier. Elle t'indiquera l'escalier. Et quand tu seras à la porte, tu sonneras trois fois, coup sur coup. Marcandier n'ouvre pas à tout le monde. Il craint les voleurs… et les indiscrets. Mais il te recevra, car je lui aurai annoncé ta visite. Une fois que tu seras dans la boîte, aborde carrément la question et prends-le de très haut avec lui. Les financiers de cette trempe sont comme les femmes ; pour en obtenir ce qu'on veut, il faut les brusquer. 
+ — Je n'y manquerai pas. Et, puisque tu me l'affirmes, je compte absolument que j'emporterai les dix mille. J'en serai quitte pour en emprunter onze à mon notaire de Rennes, avant l'échéance du billet que je vais souscrire à ce vieux Shylock. L'important, c'est que je puisse demain matin me mettre en règle avec la caisse. Maintenant, revenons à mon affaire avec ce coulissier. Tu me serviras de témoin. 
+ — Comment !… sérieusement, tu veux te battre avec Galimas ? 
+ — Et je me battrai, à moins que cet homme ne soit un lâche. 
+ — Un lâche ? non. Il se bat tout comme un autre. Il s'est déjà battu… entre une opération de report et un achat de primes. Il ne tire même pas mal l'épée et le pistolet. Toi non plus, je le sais. Mais il ne vaut pas que tu risques ta peau contre la sienne. C'est un vilain monsieur… la plus méchante langue que je connaisse. Si tu le forces à te rendre raison… de quoi, je me le demande… il ira crier partout que c'est à propos de la pianiste et il ne se gênera pas pour dire des horreurs de cette pauvre fille. La comtesse de Malvoisine la congédierait et la petite a grand besoin de ses appointements pour vivre. 
+ — Je serais désolée de lui nuire, mais je ne peux pas en rester là. Galimas m'a dit qu'il attendrait mes témoins. 
+ — Eh bien, viens demain matin, à onze heures, déjeuner avec moi chez Champeaux. Tu me raconteras en déjeunant la visite à Marcandier. Après, nous irons ensemble à la Bourse et je te ménagerai un entrevue avec Galimas, lequel, si tu veux bien me laisser faire, te présentera ses excuses. 
+ — Soit ! je les accepterai. Après tout, je ne tiens pas essentiellement à m'aligner avec cet individu. Donc, c'est convenu. Demain matin, après la restitution faite, je demanderai un congé pour toute la journée et mon patron ne me le refusera pas. 
+ — Tu vois, mon cher, que je suis bon à quelque chose. J'ai eu tort de t'amener ici, puisque nous nous y sommes enfilés tous les deux d'une forte somme, mais je t'ai fourni le moyen de te tirer d'affaire. Et quant à la perte, nous n'en mourrons ni l'un ni l'autre. Seulement, elle m'a creusé l'estomac. Allons faire un tour au buffet. 
+ — Ma foi, non, j'aime mieux m'en aller. J'en ai assez des comtesses et des coulissiers. Reste, toi. Je m'en vais. 
+ — Comme tu voudras. Mais tu ne partiras pas, je suppose, sans prendre congé de ta préférée. Il me semble que ses yeux te cherchent. Ne la fais pas languir. Moi je passe dans la salle à manger, à seule fin de dire deux mots à un pâté de foie gras. À demain. Prends le fiacre qui nous a amenés. J'en trouverai un autre. 
+ La partie d'écarté continuait, mais le salon avait changé d'aspect. Les femmes, y compris Mme de Malvoisine et Mlle Herminie, étaient allées souper. Le colonel Mornac n'était plus là. Il ne restait à faire cercle autour de la cheminée que des dames insignifiantes et des seigneurs sans importance. Violette continuait à jouer des quadrilles et des valses. Robert vint à elle et fut très étonné de la trouver en pleurs. 
+ — Qu'avez-vous, mademoiselle ? lui demanda-t-il affectueusement. 
+ — J'ai tout entendu, balbutia la jeune fille. Vous avez eu une querelle… vous allez vous battre… 
+ — Rassurez-vous, mademoiselle, l'affaire s'arrangera et si vous n'avez pas d'autre sujet de chagrin… 
+ — Mme de Malvoisine vient de me signifier qu'elle me renvoie. Demain, je quitterai sa maison. 
+ — Ah ! c'est indigne !… Et sous quel prétexte… ? 
+ Que vous reproche-t-elle ? Serait-ce de m'avoir répondu quand je vous ai parlé ?… Alors ce serait moi qui serais cause… 
+ — Ne vous en affligez pas, monsieur. J'étais lasse de supporter les humiliations dont on m'abreuve ici. Je vivrai comme j'ai toujours vécu… de mon art… Et, du moins, je serai libre. 
+ — Et je ne vous verrai plus ! s'écria Robert. 
+ — Pourquoi pas ? J'ai confiance en vous. Dites-moi où je puis vous écrire et si vous me promettez de ne m'offrir que votre amitié… 
+ Robert tira une carte de son portefeuille, vide de billets de banque, et la glissa dans la main de Violette, qui la prit en lui disant tout bas : 
+ — Partez, monsieur, je vous en supplie. On nous regarde. 
+ Il s'inclina et sortit précipitamment du salon. Il emportait une espérance qui le consolait un peu de sa perte, et il lui tardait d'être seul pour réfléchir aux incidents de cette soirée dont il ne prévoyait guère les suites.
+</div></body></text></TEI>

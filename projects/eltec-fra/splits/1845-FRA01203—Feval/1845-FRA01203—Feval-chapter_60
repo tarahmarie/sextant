@@ -1,0 +1,10 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Le Loup blanc</title><author>Feval, Féval, Paul Henri Corentin [dit Paul Féval père] (1816-1887)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1845</date></publicationStmt></teiHeader><text><body><div type="chapter" n="60">
+Son bien-aimé. 
+ Puis elle dit encore : 
+ – Didier ! Oh ! Didier ! où es-tu ? 
+ Le vieux majordome, réduit à l'état d'enfance par son ivresse, s'approcha curieusement de la fenêtre pour voir la chanteuse ; mais au même instant, la porte s'ouvrit, et une vive lumière inonda la chambre. 
+ Maître Alain se retourna. 
+ Il vit Alix de Vaunoy, pâle, l'œil égaré, tenant à la main un flambeau. 
+ Elle, aussi, prononça d'une voix étouffée le même nom que la chanteuse : 
+ – Didier ! Didier !
+</div></body></text></TEI>

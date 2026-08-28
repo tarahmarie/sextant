@@ -1,0 +1,11 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="83">
+Jeanne admire sa maison. 
+ Vers la Saint-Jean de l'année suivante, l'on crépit les murs et l'on plafonna les chambres pour qu'elles fussent plus chaudes. Jeanne fit mettre une petite couche de plâtre à l'intérieur. Elle avait eu pendant l'hiver un garçon à qui son parrain, maître Tixier, avait donné le nom de Sylvain, et elle sentait qu'il était temps de quitter le Grand-Bail. 
+ Quoique Étienne Durand, qui gouvernait à peu près tout dans la maison, fût toujours bon pour elle et pour son mari, il aurait fini par s'ennuyer de leurs enfants. Elle se mettait souvent à la porte pour regarder sa maison. Louise lui disait : 
+ « Hein ! comme tu voudrais y être déjà! 
+ — C'est vrai, ma Louise. Je vous aime pourtant de toutes mes forces, et j'ai bien lieu de vous aimer ; mais, vois-tu, c'est plus fort que moi : 
+ quand je pense que nous serons dans une maison à nous, il me semble que mon cœur éclate au dedans de moi. C'est si bon de se sentir chez soi et de se dire qu'on est à l'abri pour le reste de ses jours ! 
+ — Et des meubles, petite Jeanne ! sais-tu que ton pauvre lit et l'armoire de la mère Nannette ne feront pas grande figure dans ces chambres si blanches ? 
+ — C'est bien là mon souci : je n'ose pas en parler à grand Louis : les hommes ne comprennent pas combien une ménagère est contente d'avoir un joli mobilier ; il a dépensé tant d'argent pour cette bâtisse, qu'il ne serait peut-être pas raisonnable de penser à autre chose. Pourtant, comme ton père lui en a avancé, nous avons bien encore de quoi acheter une armoire et un lit. 
+ — Eh bien ! moi, je lui en parlerai à souper, sois tranquille.»
+</div></body></text></TEI>

@@ -25,6 +25,12 @@ imbalanced-learn = "^0.12.4"
 shap = "^0.51.0"
 codecarbon = "^3.2.6"
 psutil = "^6.0.0"
+# Optional: only needed when a project's language file sets lemmatiser=simplemma
+# (the fr lemmatisation sensitivity run). Dictionary lookup, no model download.
+simplemma = {version = "^1.1", optional = true}
+
+[tool.poetry.extras]
+fr-lemmatisation = ["simplemma"]
 
 [build-system]
 requires = ["poetry-core"]

@@ -1,0 +1,5 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Païenne</title><author>Adam, Adam, Juliette (1836-1936)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1883</date></publicationStmt></teiHeader><text><body><div type="letter" n="115">
+À TIBURCE 
+ Encore une émotion douce. Mon amour s'est laissé poétiquement bercer, non endormir. La tendresse contiendrait-elle des joies plus renouvelables que la passion ? 
+ Le doux val fermé me paraît infiniment doux. Je fais une halte, je me repose dans le bonheur paisible.
+</div></body></text></TEI>

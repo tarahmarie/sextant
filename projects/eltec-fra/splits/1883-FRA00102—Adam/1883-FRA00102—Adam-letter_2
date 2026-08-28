@@ -1,0 +1,11 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Païenne</title><author>Adam, Adam, Juliette (1836-1936)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1883</date></publicationStmt></teiHeader><text><body><div type="letter" n="2">
+TIBURCE GARDANNE À MADAME DE NOVES 
+ Maison de Pétrarque. 
+ Je ne suis point changeant comme la Durance, pourtant mon cœur est dévasté ! Pas un rameau ne me prête son ombre ; ce qui chante en moi ne trouve point de fruits qui le nourrissent. Dans ma course à travers une existence aride, je ne rencontrerai jamais une oasis... 
+ Vous avez ordonné, madame, à votre serviteur, d'illustrer pour vous des sonnets de Pétrarque et de vous les envoyer. Ils sont là. Ai-je réussi à traduire les révoltes douloureuses, les langueurs molles, la désespérance attendrie de mon Maître en la souffrance d'aimer ? 
+ J'ai dessiné avec émotion les traits de Laure ; me pardonnerez-vous leur ressemblance ? 
+ Voici les deux strophes des sonnets que j'ai choisis : 
+ « Quelle nymphe à la fontaine, quelle déesse au bois déroule une tresse d'or si fin, et quelle mortelle possède les vertus assemblées dans son âme ? » 
+ Et puis : 
+ « Ne sait point comme amour guérit et tue, qui ne sait comme doucement Laure soupire, comme doucement elle parle et doucement elle rit. »
+</div></body></text></TEI>

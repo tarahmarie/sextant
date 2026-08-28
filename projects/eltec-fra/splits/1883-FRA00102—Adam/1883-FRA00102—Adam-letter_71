@@ -1,0 +1,4 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Païenne</title><author>Adam, Adam, Juliette (1836-1936)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1883</date></publicationStmt></teiHeader><text><body><div type="letter" n="71">
+À TIBURCE 
+ C'est Vénus tout entière à sa proie attachée. Tu sais maintenant quelle est ma passion et combien je suis envahie. Loin de toi, dans l'odieuse absence, si j'essayais de me reprendre, songe à ce jour d'hier, à ces défis jetés par moi à moi-même. Je t'appartiens comme Juliette à Roméo, dans la vie et dans la mort !
+</div></body></text></TEI>

@@ -1,0 +1,5 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Païenne</title><author>Adam, Adam, Juliette (1836-1936)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1883</date></publicationStmt></teiHeader><text><body><div type="letter" n="87">
+À TIBURCE 
+ Mes dieux jaloux, eux-mêmes, ne peuvent consentir à ce que je te repousse, puisqu'ils ne me délivrent pas de mes tourments loin de toi. Viens régner sur le cœur où tu as régné. Triomphe où j'ai essayé de te vaincre. Je suis à toi et je t'aime. 
+ Mon père va passer huit jours à Saint-Estève. M. de Noves suit en Italie une chanteuse célèbre, ayant abandonné votre Clara.
+</div></body></text></TEI>

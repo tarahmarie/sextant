@@ -1,8 +1,7 @@
 # imports
-import string
 from collections import Counter
 
-from nltk.tokenize import word_tokenize
+from language_profiles import get_profile
 
 # Characters that string.punctuation misses
 BAD_TOKENS = frozenset({
@@ -11,12 +10,13 @@ BAD_TOKENS = frozenset({
 })
 
 
-def compute_hapaxes(rawtext):
-    words = word_tokenize(rawtext)
+def compute_hapaxes(rawtext, profile=None):
+    # Tokenisation is language-dependent and lives in language_profiles.py;
+    # the profile comes from the current project unless passed explicitly.
+    if profile is None:
+        profile = get_profile()
+    words = profile.hapax_tokenize(rawtext)
 
-    # Remove punctuation from the words
-    table = str.maketrans('', '', string.punctuation)
-    words = [word.translate(table) for word in words]
     # Count the frequency of each word using a dictionary-based counter
     freq = Counter(words)
 

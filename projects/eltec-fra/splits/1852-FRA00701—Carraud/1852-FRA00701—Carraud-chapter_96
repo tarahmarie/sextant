@@ -1,0 +1,13 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="96">
+Les femmes du bourg s'étonnent de la propreté de Jeanne. 
+ Les femmes du bourg venaient souvent demander quelque service à Jeanne, qui en savait plus long qu'elles, et qui était toujours prête à obliger. 
+ Quand elles la voyaient habiller ses enfants, elles lui disaient : 
+ « Comment donc, Jeanne, tu peignes tes petits et tu les laves comme s'ils étaient des enfants de bourgeois ! 
+ — Parce qu'ils sont des paysans, est-ce une raison pour qu'ils soient sales ? Voyez s'ils ont le moindre bouton ! Ce n'est pas une grande peine pour moi de laver leur petit corps tous les matins en les levant, et de leur brosser la tête ; c'est bientôt fait, et je leur épargne par là bien des petites misères. Si vous en faisiez autant, vos enfants se porteraient mieux et ne crieraient pas tant. 
+ — Eh bien ! on essayera. Dis-nous donc aussi comment tu fais pour que leurs habits aient toujours l'air d'être neufs. 
+ — Je les plie quand les enfants sont au lit, je les mets en presse sur mon coffre ; et je serre leur bonnet pendant la nuit pour le garantir des mouches. 
+ — Mais ils ne se salissent donc pas, tes petits ? 
+ — Dame ! j'y fais attention. D'abord, je ne les laisse pas manger toute la journée, et quand ils mangent, je mets un linge devant eux pour que leurs habits se salissent moins. Je n'ai pas besoin de les laver si souvent, et cela m'épargne du temps et de l'argent.» 
+ Mme Isaure venait voir tous les jours sa petite fille qui croissait à vue d'œil, et elle remerciait Jeanne de ses bons soins. 
+ « Ma chère dame, si vous saviez combien je suis heureuse que vous ne puissiez pas penser que c'est par intérêt que je soigne votre enfant ! Je l'aime comme les miens, je ne fais pas de différence entre eux.»
+</div></body></text></TEI>

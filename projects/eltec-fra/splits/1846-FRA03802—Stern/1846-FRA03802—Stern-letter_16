@@ -1,0 +1,7 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Nélida</title><author>Stern, Stern, Daniel [Marie d'Agoult] (1805-1876)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1846</date></publicationStmt></teiHeader><text><body><div type="letter" n="16">
+«Nélida ! Nélida ! Ah ! laisse-moi le répéter cent fois, mille fois, ce nom sacré ! Il m'oppresse, il me brûle, il me déchire aujourd'hui : mais, si tu le veux, il exercera encore sur moi la force magique des anciens jours. 
+ «Viens, ô viens ! ne perds pas une heure, pas une minute. Viens dans mes bras lassés d'étreindre ton fantôme, viens contre ma poitrine qui ne peut plus contenir ses gémissements ! 
+ «Ô Nélida ! quels mystères de grandeur et d'amour je te révèlerai encore ! 
+ Ma pensée est si forte qu'elle m'écrase ; je ne puis la porter seul. Il y a en moi tout un monde qui veut sortir du chaos ; c'est ton regard, je le sens, qui doit séparer la lumière des ténèbres. 
+ «Je ne puis voler vers toi, l'honneur m'enchaîne ici. Je t'attends, et je me meurs d'impatience et d'amour !...»
+</div></body></text></TEI>

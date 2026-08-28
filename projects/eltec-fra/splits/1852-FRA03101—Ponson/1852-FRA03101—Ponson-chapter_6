@@ -1,0 +1,11 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La baronne trépassée</title><author>Ponson, Ponson du Terrail, Pierre Alexis (1829-1871)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="6">
+VI 
+ Le baron se tint parole à moitié, car... 
+ Car à trente lieues de Paris, comme on relayait, un gentilhomme de fort bonne tournure arrive derrière le baron, après avoir accompli, sans nul doute, de semblables prouesses de célérité, et lui dit gravement : 
+ — Je me nomme, monsieur, le chevalier de Courceneuille, et je suis, depuis hier, l'amant de la duchesse d'A... 
+ — Ah ! fit le baron en reculant d'un pas. 
+ — Il paraît, monsieur, que vous avez gravement insulté la duchesse, car elle m'envoie vous provoquer... 
+ — J'accepte le défi, monsieur, répondit le baron en mettant sur l'heure flamberge au vent. 
+ Le baron avait maintes fois fait des armes avec le régent, qui s'y connaissait, mais cela n'empêcha point qu'il reçût un bon coup d'épée qui le mit au lit pour huit jours, dans l'auberge misérable où relayait sa chaise de poste. 
+ Ce qui fit qu'il ne put rattraper sa femme.
+</div></body></text></TEI>

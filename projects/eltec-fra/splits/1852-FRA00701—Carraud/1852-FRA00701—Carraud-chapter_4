@@ -1,0 +1,21 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="4">
+Catherine et Jeanne trouvent un bracelet. 
+ Après que la mère et la fille se furent reposées, elles se remirent en chemin pour aller chercher leur pain dans la campagne, en disant qu'elles reviendraient le soir. Comme on était dans la saison des prunes et des groseilles, la mère Nannette en alla cueillir au jardin et les mit dans le bissac de Jeanne, pour qu'elle pût se rafraîchir quand elle aurait trop chaud. 
+ Comme elles traversaient la grande route pour revenir chez la mère Nannette, après avoir achevé leur tournée, la petite Jeanne vit briller un objet au soleil ; elle courut le ramasser et l'apporta joyeusement à sa mère. 
+ « Voyez donc, maman, le joli collier que j'ai trouvé ; je le mettrai dimanche à mon cou. 
+ — Ma fille, ceci est un bijou qui se porte autour du bras et qu'on appelle bracelet. Il n'est pas à nous, et nous ne pouvons pas le garder. 
+ — Pourquoi donc, maman ? Puisque je l'ai trouvé, c'est bien à nous. 
+ — Non, ma fille ; ce qu'on trouve ne nous appartient pas ; il y a toujours quelqu'un qui l'a perdu. 
+ — Mais, maman, si personne ne l'a perdu ? 
+ — Ce n'est pas possible, mon enfant : les bijoux ne poussent pas comme l'herbe dans les champs. 
+ — Et si personne ne le redemande ? 
+ —Ça ne doit pas nous empêcher de chercher à qui ce bracelet peut appartenir ; nous nous en informerons dans tout le pays. 
+ — Et s'il n'est à personne ? 
+ — Eh bien, nous le garderons soigneusement, et l'on finira par venir le réclamer.» 
+ Jeanne ne paraissant pas très-contente, sa mère lui dit : «Écoute-moi, ma Jeanne : si tu avais perdu ton bissac en chemin, ne serais-tu pas contente qu'on te le rendît ? 
+ — Oui, maman, car il m'est bien utile pour mettre le pain qu'on me donne. 
+ — Eh bien ! la dame qui a perdu ce joyau en est en peine ; elle le regrette comme tu regretterais ton bissac. Dès que nous saurons où elle demeure, nous le lui reporterons.» 
+ Quand elles furent rentrées chez la mère Nannette, elles lui montrèrent ce qu'elles avaient trouvé et lui demandèrent si elle savait qui pouvait avoir perdu un si beau bijou. 
+ « Ce ne peut être que Mme Dumont ; il n'y a qu'elle dans le pays qui porte des choses pareilles. Elle demeure dans le voisinage, derrière les beaux arbres que l'on voit d'ici. Il faut aller le lui reporter tout de suite, si vous n'êtes point trop lasses ; suis sûre qu'elle en est fort inquiète. 
+ — Je suis trop fatiguée pour marcher encore ; mais demain matin j'irai chez cette dame avec Jeanne, et je lui rendrai ce qui est à elle. Comme on nous a beaucoup donné aujourd'hui et que je suis très-lasse, je me reposerai demain toute la journée, pour avoir la force d'aller samedi dans notre village, prier maître Guillaume de m'apporter mon lit.»
+</div></body></text></TEI>

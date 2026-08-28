@@ -1,0 +1,69 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>L'effrayante aventure</title><author>Lermina, Lermina, Jules (1839-1915)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1910</date></publicationStmt></teiHeader><text><body><div type="chapter" n="4">
+Chapitre    1 
+
+ Le carnet de M. Bobby 
+ CECI SE PASSE À Londres. M. Bobby est seul dans le petit parloir du cottage qu'il occupe depuis vingt ans, au coin d'Islington Gardens. Madame Bobby est absente. 
+ Il a ouvert un tiroir du petit secrétaire, épave du mobilier paternel, et en a tiré un cahier relié de cuir, fermé par une serrure d'acier. 
+ Ceci est le journal de sa vie, tenu au courant depuis son enfance – sept ans – sans que jamais, selon le principe du poète, aucun jour se soit passé qu'il n'y ait inscrit au moins une ligne. Nulla dies sine 
+ lines. 
+ M. Bobby est mélancolique, mais ses lèvres serrées et son menton dur témoignent d'une volonté que rien ne fait fléchir. 
+ Il a posé le carnet sur la tablette, a fait jouer le ressort. Il feuillette, remonte en arrière et enfin relit. 
+ « Moi, citoyen anglais, né dans la ville de Londres, cockney pur sang, ayant entendu les cloches de Bow-Church mêler leur son grave à mes premiers vagissements…
+ j'ai été expulsé de France et je n'ai pu résister. Me pardonnent mes aïeux d'Azincourt ! 
+ « Mais la Providence, à laquelle nul ne résiste, avait décidé que son fidèle serviteur n'aurait point, par cet affront, épuisé la coupe d'amertume. 
+ « Dès le lendemain de mon retour en mes pénates, une convocation, dont la sécheresse ne me promettait rien de bon, m'appelait à Scotland Yard où je fus reçu par M. Sewingtrow, mon chef direct. 
+ « Encouragé par la fermeté de Suzan – c'est-à-dire de madame Bobby – je me présentai, en homme sûr de la bonté de sa cause. 
+ « Mais que valent les mérites affirmés d'un homme, en face de la calomnie, et de ce que j'oserais appeler l'inintelligence. 
+ « Il me fut reproché de m'être mêlé, dans un pays ami, de détails qui ne me regardaient pas, d'avoir attiré sur moi et sur l'Angleterre, l'attention malveillante des foules, et – considération qui me fut plus pénible que toute autre – d'avoir rendu la police britannique ridicule et suspecte d'incohérence. 
+ « En vain je m'expliquai. J'exposai les principes qui avaient été mes guides – l'amour de la vérité, le désir d'être utile – en vain je rappelai les enseignements moraux et religieux que je m'étais efforcé de mettre en pratique. 
+ « Évidemment j'étais condamné d'avance. Aucun de mes arguments ne produisit l'effet sur lequel j'étais en droit de compter ; et, finalement, je fus informé que j'étais suspendu de mes fonctions jusqu'à nouvel ordre. 
+ « Il ne me restait qu'à m'incliner, ce qui fut fait. 
+ « En quelques paroles dont j'eus lieu d'être satisfait, et qui ne furent pas sans éloquence, je protestai respectueusement contre la mesure qui me frappait. 
+ « – Monsieur Sewingthrow, dis-je en manière de conclusion, le sang des martyrs, tombant sur la terre, a fait lever une moisson de vérité : sans que, dans mon humilité, il me convienne de me comparer à ces saints précurseurs, permettez-moi d'affirmer que l'erreur dont je suis la triste victime aura peut-être un contrecoup regrettable sur la moralité publique. 
+ « Mon chef, déconcerté, s'en tira par une phrase que je catalogue dans la série des outrages immérités. 
+ « – Vous êtes un imbécile, me dit-il. Tenez-vous tranquille, et attendez les événements. 
+ « Et je suis rentré chez moi, heureux de déverser dans le sein de ma compagne, l'amertume dont mon cœur était gonflé. 
+ « – Monsieur Bobby, me dit cette femme remarquable, l'affront dont vous êtes l'objet, retombe sur moi. J'attendrai que vous nous réhabilitiez tous les deux. 
+ « Ces paroles me dictaient mon devoir. Il me fallait désormais consacrer ma vie à la recherche de cette vérité, à savoir que Coxward, assassiné à Paris, le 2 avril, se trouvait cependant à Londres quelques heures auparavant. 
+ « Car ici, je dois faire un aveu. J'avais pris connaissance du journal où sa présence dans la nuit du 1 er au 2 avril était relatée, et j'ai trop le respect de la presse de mon pays pour avoir mis un seul instant en doute cette affirmation, qui, émanée du journalisme français, m'eût paru plus que suspecte. 
+ « Et je ne fus pas surpris lorsque, dès le lendemain, ayant repris pour mon compte l'enquête naguère menée par mes critiques, j'acquis la certitude que les témoins consultés avaient dit la vérité. Ils avaient assisté au match de boxe dans lequel Coxward s'était disqualifié. 
+ « C'était sous un uppercut au menton qu'il avait chancelé, essayant d'abord un clinch , mais définitivement abattu par un left qui l'avait jeté à terre. On imputait à la lâcheté sa promptitude à proclamer sa défaite. Mais, tous détails recueillis, il m'apparut que Coxward avait un plan spécial, qui était de ménager ses forces pour réaliser le méfait qu'il méditait, c'est-à-dire le vol dont, un instant après, il allait se rendre coupable. 
+ « Mes précisions se sont établies de la façon la plus nette. 
+ « Il était une heure moins cinq minutes lorsque Coxward – très vivant et parfaitement alerte – avait sauté par la fenêtre, au rez-de-chaussée du Shadows-Bar, et s'était enfui, poursuivi par la meute furieuse de ses adversaires. 
+ « Que Coxward fût un voleur, la chose n'était pas pour m'émouvoir, son caractère étant établi de longue date. Rien dans cette aventure n'était contraire à la vraisemblance. Ces témoins n'avaient pu se tromper sur son identité, car il leur était connu depuis longtemps, comme à moi-même, qui, plusieurs fois, avais fait peser sur lui la main de justice. 
+ « Or, depuis le moment où Coxward, harcelé, avait disparu à quelque distance de Highbury Crescent, avait-il reparu ? Non. Nul n'avait entendu parler de lui. Les nombreuses tavernes où il fréquentait d'ordinaire n'avaient pas eu l'honneur de sa visite, et je dois ajouter que, rompant avec toutes mes délicatesses ordinaires, j'en vins à m'abaisser jusqu'à rechercher une certaine Bessie Bell, fille de mœurs blâmables, avec laquelle il entretenait d'inqualifiables relations, et que, l'ayant retrouvée, et malgré la répulsion que m'inspirent ces créatures – surtout lorsque je ne suis pas en service commandé – je l'interrogeai et appris d'elle qu'elle n'avait plus reçu sa visite, circonstance dont elle se souciait peu d'ailleurs, ainsi qu'elle me l'affirma cyniquement. 
+ « Donc, le fait était établi. Pour quiconque, il semblait que Coxward avait quitté Londres ou peut-être était mort. J'avais constaté que dans tous les milieux de bas sport, et Dieu sait s'ils sont nombreux, il était resté invisible. L'hypothèse de la mort subite était la plus plausible, bien entendu pour tout autre que pour moi. Mais j'agis comme si elle avait été possible. Un mort laisse des traces, on l'enterre, on le jette à l'eau ou on le brûle, comme chez les Hindous. 
+ « Pas le moindre vestige de son cadavre. 
+ « Donc, et je tiens à établir le fait à l'appui de ma propre conviction, Coxward était vivant, parce que rien n'établit le contraire et que je l'ai vu, à la Morgue de Paris. 
+ « D'où cette question : 
+ « Qu'a fait Coxward depuis le moment où on l'a perdu de vue à Londres, aux abords de Highbury Crescent, jusqu'à l'heure où on l'a trouvé – lui et non pas un autre – accroché à la grille de l'Obélisque ? 
+ « Cherchez et vous trouverez, a dit le Seigneur. 
+ « Je chercherai. » 
+ Le carnet de M. Bobby relatait soigneusement les péripéties de l'enquête minutieuse à laquelle il s'était livré, partant de ce point que, d'après des informations soigneusement recueillies, Coxward, au moment du match et de la scène du vol, était prodigieusement ivre et par conséquent n'était pas susceptible de fournir une très longue traite. 
+ Il avait donc méthodiquement étudié, une à une, toutes les rues, ruelles, lanes qui environnent Highbury Crescent, s'introduisant même chez les particuliers sous des prétextes plus ou moins spécieux, essuyant philosophiquement des rebuffades, mais impassible et inébranlable. 
+ Le cercle de ses recherches se resserrant toujours, il en était arrivé à remarquer, dans Corsica street, voie encore nouvelle, tracée en plein champ et où les constructions sont des plus rares, une maison singulière, un pavillon dont les fenêtres et les volets étaient toujours hermétiquement clos. 
+ Un mur assez élevé entourait la propriété qui, au premier coup d'œil, semblait inhabitée. 
+ Naturellement, M. Bobby n'avait pas manqué de chercher à s'introduire dans cette maison, assez mystérieuse en somme, et dont la physionomie était faite pour piquer la curiosité. 
+ Lisons, par-dessus son épaule, les indications de son carnet. 
+ « Tout autre que moi se lasserait devant la difficulté de la tâche que je me suis fixée. Nulle trace de Coxward. Je suis certain – je dis certain – qu'il n'a pénétré dans aucune des maisons aux environs de Highbury Crescent – je les ai visitées toutes, moins une. 
+ « Bien entendu, je me suis présenté à la porte de cette dernière et, marteau ou sonnette, j'ai employé tous les moyens en usage pour obtenir mon introduction. Peine perdue. Mes appels sont restés inentendus ou très probablement les habitants, ou du moins l'habitant, de cette demeure se refuse par principe à accueillir tout visiteur. 
+ « J'ai pris des renseignements aux alentours, mais là encore, ma curiosité est restée insatisfaite, ou du moins ce que j'ai pu apprendre n'a fait que la surexciter. 
+ « Cette maison appartient à un certain sir Athel Random, descendant, paraît-il, d'une des plus vieilles familles londoniennes. Ce personnage a acquis la propriété dont il s'agit à un prix assez élevé, immédiatement soldé comme on dit, cash on 
+ courter . 
+ « Il s'occupe de recherches chimiques, aussi de mécanique. Du moins on le suppose, d'après les indications que portaient d'énormes caisses amenées par des camionneurs, lors de son emménagement. Il vit seul, sans domestiques, et, chose inouïe, jamais fournisseur n'a été vu lui apportant des provisions de bouche. 
+ « Il sort très rarement, dans une automobile de forme assez bizarre, de si petites dimensions qu'on ne peut comprendre en quelle partie peut bien être logé le moteur. Ce véhicule roule avec une rapidité exceptionnelle. Mais, à ce sujet, je n'ai pu recueillir que peu de détails. 
+ « Un bruit a couru que, naguère, il habitait Kilburo, près de Brondesbury station. Une nuit, la maison aurait sauté, et sir Athel aurait dû payer une indemnité considérable tant au propriétaire qu'aux voisins. J'ai vérifié le fait qui est exact. 
+ « Un fou, disent les uns ; un magicien, disent les autres. 
+ « Pendant les premiers temps de son séjour à Highbury, on le taxait de complicité avec les anarchistes, propagandistes par le fait. 
+ « On parle aussi – mais d'une façon encore plus vague – d'un projet de mariage entre sir Athel Random et Mary Redmore, fille d'un riche propriétaire des environs. Mais, subitement, les pourparlers auraient été rompus, on ne sait pour quelle cause. Ceci ne s'appuie que sur des racontars de domestiques, sur ces papotages sans consistance que les Français appellent des potins. 
+ « Il semble qu'il n'existe, qu'il ne puisse exister aucune relation entre l'existence de ce mystérieux personnage et la disparition de Coxward. Pourtant il ne faut rien négliger… 
+ Dix jours plus tard 
+ « Les millions qu'il possède auraient été acquis dans le commerce des produits chimiques. La maison Redmore – Blackwith successeurs – est encore une des plus considérables de la Cité. 
+ « Il est veuf et a une fille, Mary, à laquelle il porte une affection passionnée. Les renseignements pris dans son entourage ont confirmé les informations vagues que j'avais recueillies. En effet, sir Athel, qui avait fait la connaissance de M. Redmore comme acheteur de produits chimiques, était devenu le familier de la maison et peu à peu une sympathie du meilleur aloi s'était établie entre lui et la jeune fille. Les qualités de naissance, d'éducation, de fortune étant des plus satisfaisantes, M. Redmore n'avait élevé aucune objection contre le choix de sa fille et le mariage avait été fixé à l'été prochain, vers juin ou juillet. 
+ « Subitement et sans qu'on pût même supposer les motifs de ce revirement, tout avait été rompu. Je suis parvenu à savoir seulement qu'un matin sir Athel était accouru chez M. Redmore, pâle, défait, ayant l'allure d'un fou, qu'il avait été introduit auprès de miss Mary, qu'un entretien assez long avait eu lieu, troublé par les éclats d'une voix désespérée qui était celle de sir Athel et qu'enfin il était reparti, le visage couvert de larmes, les traits convulsés et que depuis lors il n'avait pas reparu au château. 
+ « Miss Mary, malgré la retenue imposée aux jeunes filles, n'avait pu dissimuler le profond chagrin qui s'était emparé d'elle et, depuis lors, elle portait des habits de deuil… 
+ « Certes, moi, Bobby, à qui le sentimentalisme est parfaitement étranger et préoccupé de soucis autrement importants que d'une aventure amoureuse, je n'aurais peut-être prêté à ces faits qu'une attention très superficielle, si un détail ne m'avait frappé. 
+ « Du wattman de M. Redmore, avec lequel j'ai eu une longue causerie au cabaret du King's Arms – dont le whisky est à recommander – j'ai appris… 
+ « Que la visite de rupture, faite par sir Athel, datait du 2 avril dernier, à 9 heures du matin… 
+ « Et pourquoi ne serait-ce pas une lueur dans la nuit ? »
+</div></body></text></TEI>

@@ -1,0 +1,9 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="76">
+Maître Tixier est content de son marché. 
+ Maître Tixier dit à Jeanne qu'il fallait régaler tout le monde de la maison avec les restes du dîner, afin que chacun eût sa part de plaisir. 
+ A souper, grand Louis dit : 
+ « Notre maître, le cœur me saigne de perdre ma pauvre Grise et la Blanche, que j'ai élevées et soignées depuis quatre ans. 
+ — Moi je ne me repens pas de mon marché. C'est une bêtise à un paysan d'avoir de si beaux chevaux dans son écurie : s'il leur arrive un accident, c'est une rude perte pour lui et dont il se ressent longtemps. 
+ J'aurai pour huit cents francs deux beaux poulains, et le reste de mon argent servira pour marier Joséphine. Enfants, les juments ne sont plus à nous ; ainsi ne vous avisez pas de les faire travailler ; il faut me les soigner mieux que si leur nouveau maître était là: entendez-vous ?» 
+ La veille de la foire, Étienne Durand vint voir les chevaux ; mais il s'en occupa moins que de Joséphine ; il avait vu son père, qui trouvait bon qu'il épousât la fille de Tixier ; il dit qu'il reviendrait dans huit mois, et Joséphine, qui le trouvait à sa convenance, promit de l'attendre.
+</div></body></text></TEI>

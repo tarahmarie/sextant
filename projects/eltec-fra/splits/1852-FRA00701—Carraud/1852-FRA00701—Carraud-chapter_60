@@ -1,0 +1,14 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="60">
+Marguerite veut rentrer au Grand-Bail. 
+ Vers le commencement des vendanges, Jeanne était seule à la maison avec la maîtresse, qui ne quittait plus guère le lit depuis que les chaleurs étaient passées. Elle vit entrer Marguerite, l'ancienne bergère ; elle était si changée que Jeanne eut de la peine à la reconnaître. 
+ « Tiens ! te voilà ici, toi ! lui dit-elle. 
+ — Mon Dieu, oui, ma Jeanne, et je suis bien dans la peine. 
+ — Est-ce que tu n'es plus en place ? 
+ — Non ; j'ai eu la fièvre à la fin de la moisson, et ceux de la Périnnerie, où j'étais, m'ont renvoyée. Je me suis retirée dans le bourg, chez la mère Feuillet ; la pauvre femme m'a bien soignée, mais le peu d'argent que j'avais y a passé, et il m'a fallu vendre ma robe de cotonnade violette et mon tablier noir. Si je ne trouve pas une place tout de suite, je serai obligée d'aller demander mon pain. 
+ — Eh bien ! Marguerite, je te l'avais bien dit ! 
+ — Ah oui ! tu avais bien raison ! j'y ai souvent songé, pendant que j'étais au lit avec la fièvre et que je voyais mon pauvre argent s'en aller.» 
+ La maîtresse, qui ne dormait pas, écarta son rideau et dit durement à Marguerite : 
+ « Que viens-tu faire ici, toi ? 
+ — Maîtresse, si vous vouliez me reprendre, vous me feriez une grande charité. 
+ — Tu sais bien ce que le maître t'a dit ; tu le connais, il ne revient jamais sur sa parole.»
+</div></body></text></TEI>

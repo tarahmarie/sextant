@@ -1,0 +1,6 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Païenne</title><author>Adam, Adam, Juliette (1836-1936)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1883</date></publicationStmt></teiHeader><text><body><div type="letter" n="101">
+À LA MÊME 
+ Ma sublime amante, 
+ Enfin, je t'ai revue ! Je suis ivre d'orgueil et de volupté. Je tressaille encore des derniers frémissements de nos baisers. 
+ Quels cris de passion nous avons jetés tous deux en nous retrouvant ! Tu es bien mienne et je suis à la fois ton maître et ton esclave ; j'ai perdu auprès de toi la notion des choses qui se mesurent, j'ai pu mourir d'extase sur tes lèvres. Le voile du temple est soulevé, Isis m'appartient ! Ses mystères me sont révélés. Un feu sacré brûle mes artères.
+</div></body></text></TEI>

@@ -1,0 +1,11 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="130">
+Mme Isaure chante pour réveiller Louis. 
+ « Jeanne, dit Mme Isaure, je vais chanter pour réveiller Louis. L'effet que produit sur lui la musique est bien singulier ! Il n'est donc pas tout à fait idiot ? 
+ — Non, madame ; quand on dit quelque sottise devant lui, il sait bien en faire la remarque. Si on lui demande son avis sur quelque chose, il le donne juste, quoiqu'il ne le dise pas comme un autre. Quelquefois il sent sa position, et alors il me dit des paroles qui me déchirent l'âme. 
+ — Qu'a-t-il donc ? Quel est ce genre d'infirmité ? 
+ — Je n'en sais rien, madame : c'est comme s'il ne gouvernait pas sa volonté. Quand je ne suis pas avec lui, il n'est bon à rien. Pour le faire parler un peu raisonnablement, je suis obligée de le tenir par la main pendant tout le temps qu'il parle. Il est comme les tout petits enfants, il aime tout ce qui brille. Je l'ai mené en ville : il avait envie de tout ce qu'il voyait chez les orfèvres et chez les marchands de cristaux ; il n'a aucune idée du danger ; enfin, si je le laissais faire, il donnerait tout ce qu'il y a chez nous.» 
+ Mme Isaure chanta avec sa fille un air très doux. Louis se leva, pleura, et demanda un autre air quand celui-là fut fini ; on le contenta, et, en partant, il mit les mains de sa marraine sur ses yeux trempés de larmes. 
+ Elle lui donna une timbale d'argent bien claire, ce qui lui fit oublier la tristesse que lui causait toujours la musique. 
+ « Tu boiras tous les jours dans ce gobelet, Louis, afin de penser toujours à moi. 
+ — Oui, marraine, je penserai à vous qui chantez comme les anges.»
+</div></body></text></TEI>

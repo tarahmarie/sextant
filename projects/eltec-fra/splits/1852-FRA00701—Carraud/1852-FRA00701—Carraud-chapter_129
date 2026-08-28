@@ -1,0 +1,16 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="129">
+Jeanne annonce le mariage de Nannette à Mme Isaure. 
+ Jeanne s'habilla et donna aussi ses beaux habits à Louis, qui n'en était pas trop content. 
+ « Mon enfant, c'est pour aller voir ta marraine.» 
+ Il se laissa faire sans rien dire, parce qu'il se sentait heureux auprès de sa marraine. En passant dans son jardin, il cueillit ses plus belles roses et il les donna à Mme Isaure, puis il vint se coucher à ses pieds et ferma les yeux comme s'il dormait. 
+ « Excusez-le, madame : le pauvre petit comprend que vous êtes bonne pour lui, et il ne se gêne pas plus qu'avec moi. 
+ — Laisse-le donc faire, Jeanne. Mais comme tu es belle ! Qu'as-tu donc à me dire ? 
+ — Madame, il m'en coûte un peu de vous parler de ce qui se passe, quoique pourtant je sois sûre que vous ne vous en fâcherez pas. Il se présente un bon parti pour Nannette, qui est en âge de se marier, et je crois qu'elle aurait tort de le refuser. 
+ — Comment, Jeanne, tu veux m'ôter Nannette, qui m'est si utile pour ma fille que je lui confie avec la plus grande sécurité ! 
+ — Madame, Nannette ne trouvera jamais un autre homme comme Jean Jusserand, de votre métairie des Ormeaux. Il est riche, il est d'un bon naturel, il est mieux élevé que ne le sont d'ordinaire les paysans ; enfin il a tout pour lui ! puis, il veut bien demeurer avec nous et cultiver nos terres, et je suis sûre qu'il ne brutalisera jamais la pauvre créature qui dort à vos pieds. Vous comprenez, madame, que c'est une grande chose que celle-là, pour moi qui ne suis occupée que de ce pauvre enfant ! 
+ — Il me semble, Jeanne, qu'à ta place j'aurais voulu mieux que cela pour Nannette, qui ne me paraît pas faite pour vivre à la campagne, je pensais que quelque jour elle se marierait à un bon ouvrier de la ville. 
+ — Madame, dit Nannette, je ne connais que deux maisons où je puisse vivre : la vôtre et celle de ma mère. Si je n'avais pas trouvé un homme qui voulût demeurer avec elle, je n'aurais pas quitté votre service. 
+ — Et puis, madame, dit Jeanne, croyez bien que l'on est plus heureux en cultivant ses terres qu'en travaillant pour des pratiques qui peuvent vous quitter et vous mettre dans la gêne ; au lieu que le cultivateur, n'ayant affaire qu'à Dieu, ne murmure jamais. 
+ — Allons, Nannette, marie-toi donc, puisque tu le veux ; mais j'aurai besoin de toi souvent encore. 
+ — Madame, demeurant avec ma mère, qui soignera la maison, j'aurai la facilité de travailler au dehors, et je serai bien heureuse toutes les fois que madame voudra bien m'employer.»
+</div></body></text></TEI>

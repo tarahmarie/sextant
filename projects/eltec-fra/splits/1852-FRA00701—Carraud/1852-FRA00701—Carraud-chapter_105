@@ -1,0 +1,12 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="105">
+Mme Isaure fait des reproches à Jeanne. 
+ Une demi-heure après, Mme Isaure entra. 
+ « Comment, Jeanne, tu as souffert tout l'hiver, et tu ne m'en as rien dit ! et, quand je te demandais pourquoi tu étais si maigre, tu me répondais que c'était le froid qui te faisait mal ! Toi, mon amie, la nourrice de ma fille, tu as manqué de pain, et je n'en ai rien su ! 
+ — Ma chère dame, vous aviez bien assez de tous vos autres pauvres ; il n'y a pas eu grand mal, comme vous voyez, car nous sommes tous bien portants. 
+ — Que tu aies eu le courage de souffrir, ainsi que ton mari, je le conçois ; mais je ne t'aurais pas crue capable de voir souffrir tes enfants. 
+ — Madame, ne valait-il pas mieux qu'ils pâtissent un peu que de leur donner l'habitude de demander et de compter toujours sur les autres ? 
+ S'ils ont été mal nourris, ils n'ont pas souffert de la faim, je vous l'assure ; ils n'ont pas trop mauvaise mine, et, si grand Louis et moi sommes maigris, c'est plutôt par l'inquiétude que par le manque de nourriture. 
+ — Jeanne, je t'en veux beaucoup de m'avoir caché ta position, surtout quand je t'en ai parlé la première. Je t'en prie, dis-moi sincèrement si tu as besoin de quelque chose. 
+ — Eh bien ! ma chère dame, puisque vous êtes assez bonne pour vous occuper de ce qui nous manque, je vous dirai que nous avons vendu notre dernière pièce de vin pour payer l'impôt. Je me désole en pensant que grand Louis va boire de l'eau pendant les chaleurs. Si vous pouviez nous donner de la piquette, vous nous rendriez grand service. 
+ — Je ne veux pas que ton mari boive de la piquette ; cet homme a grand besoin de se restaurer et de reprendre des forces pour les travaux de la saison ; ce soir je t'enverrai une pièce de vin, tu peux y compter.»
+</div></body></text></TEI>

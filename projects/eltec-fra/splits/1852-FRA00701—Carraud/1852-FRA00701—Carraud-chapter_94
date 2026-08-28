@@ -1,0 +1,14 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="94">
+Jeanne a grande envie d'avoir une vache. 
+ Jeanne désirait beaucoup avoir une vache, et en parlait souvent à son mari, qui lui disait : 
+ « Ma pauvre femme, tu as deux enfants à soigner, bientôt trois ; si Mme Isaure t'en donne un a nourrir, ça fera quatre ; je te demande si tu pourras t'occuper de ta vache ! 
+ — Je prendrai pour m'aider cette pauvre mère Henri qui demande son pain, et elle viendra pour peu de chose. Elle gardera mes bêtes aux champs, puis elle ira à l'herbe ; je n'aurai que la peine de traire la vache et la chèvre, de soigner le laitage, et tu nettoieras l'étable le soir. 
+ Car, vois-tu, je veux avoir une vache bien propre ; je la ferai étriller tous les jours, comme Étienne Durand fait au Grand Bail ; j'ai remarqué, que, quand elles ont le poil bien brillant, elles donnent plus de lait et du meilleur. 
+ — Si tu veux te faire aider, c'est différent, parce que je n'entends pas que tu te tues à l'ouvrage, je t'en avertis. L'autre jour, le maréchal m'a proposé un cheptel ; veux-tu que j'aille lui demander s'il est toujours dans la même intention ? 
+ — Oh ! oui, mon homme, va ; ça vaudra mieux pour commencer, que d'acheter une vache nous-mêmes et de rester sans le sou.» 
+ Grand Louis alla voir le maréchal et revint bien vite dire à sa femme qu'on lui achèterait une vache, et que le père Tixier la choisirait lui-même. 
+ Jeanne fut bien contente d'avoir une vache ; elle la menait paître souvent comme elle avait fait autrefois chez la mère Nannette ; sa fille conduisait la chèvre, et le petit Sylvain les suivait. 
+ L'année se passa bien, la récolte fut bonne, grand Louis serra ses gerbes dans un coin de la grange du Grand-Bail ; il fit son vin en commun avec maître Tixier, chez lequel il travaillait toujours. 
+ Il paya les premiers cent francs avec son temps, et il gagna assez en plus pour acquitter une bonne partie de la rente viagère du père Colis. 
+ Jeanne eut un autre garçon qu'on appela Paul, et qu'elle nourrit sans trop de fatigue.
+</div></body></text></TEI>

@@ -1,0 +1,5 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>Païenne</title><author>Adam, Adam, Juliette (1836-1936)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1883</date></publicationStmt></teiHeader><text><body><div type="letter" n="75">
+À TIBURCE 
+ Ces trois jours de sursis dans ma condamnation au cruel exil me rendent folle de joie et m'ouvrent un nouvel infini de bonheur. 
+ Te voir encore, toi, lui ! Je murmure ton nom, comme je le murmure parfois à ton oreille, et la vibration de mes lèvres, en le renvoyant à mon cœur, mêle une délicieuse résonance à mes palpitations. Je veux être enlacée par tes bras, être reprise.
+</div></body></text></TEI>

@@ -1,0 +1,12 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="50">
+Le colporteur compte ce qu'il a reçu. 
+ A leur retour au Grand-Bail, M. le curé vida la bourse sur un coffre, et dit au jeune homme de compter ce qu'on leur avait donné ; il trouva, tant en sous qu'en petites pièces, trente-deux francs soixante-quinze centimes, ce qui, avec les vingt-cinq francs de Mme Dumont, faisait cinquante-sept francs soixante-quinze centimes. 
+ « Vous voilà riche, mon enfant, dit joyeusement le curé en mettant ses dix francs sur le tas d'argent ; je vous l'avais bien dit, que mes paroissiens ne me laisseraient pas dans l'embarras ! 
+ — Monsieur, j'ai plus que ne valaient tous mes livres : il ne faut pas me donner en outre vos dix francs. 
+ — Si, mon ami, vous les aurez ; car je vous les ai promis. 
+ — C'est vrai, monsieur ; mais vous avez bien d'autres pauvres qui en ont plus besoin que moi. 
+ — Je ne veux pas vous ôter le mérite de votre désintéressement ; mais ce n'est pas moi qui donnerai cette petite somme, ce sera vous. Sortons ensemble, nous la porterons à un pauvre homme, simple d'esprit, et qui est hors d'état de gagner son pain ; cela l'aidera à payer son loyer. 
+ — Ma foi, monsieur le curé, dit le père Tixier, ce petit marchand est au fond très-honnête ; c'eût été bien dommage qu'il se perdît.» 
+ Le lendemain le colporteur alla encore à la messe ; quand elle fut finie, M. le curé lui demanda comment il allait employer son argent. 
+ « Je vais acheter de la mercerie et des mouchoirs ; je courrai les foires et les assemblées, et je ferai mes affaires, j'en suis bien certain. Je reviendrai vous voir quelque jour, et vous n'aurez pas à vous repentir de toutes vos bontés pour moi.»
+</div></body></text></TEI>

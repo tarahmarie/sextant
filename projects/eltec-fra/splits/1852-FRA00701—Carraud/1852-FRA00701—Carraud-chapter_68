@@ -1,0 +1,16 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><titleStmt><title>La petite Jeanne</title><author>Carraud, Carraud, Zulma (1796-1889)</author></titleStmt><publicationStmt><publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher><date>1852</date></publicationStmt></teiHeader><text><body><div type="chapter" n="68">
+La maîtresse dit qu'il faut les laisser marier. 
+ « C'est donc bien vrai que tu veux nous quitter, petite Jeanne ? dit la maîtresse, qui ne dormait pas et qui avait tout entendu. 
+ — Ma chère maîtresse, je n'ai point de parents ; si j'avais le malheur de vous perdre tous les deux, je ne pourrais me faire à d'autres maîtres, et je ne trouverai jamais un autre homme comme grand Louis, que j'aime depuis longtemps.» 
+ Maître Tixier avait la tête dans ses mains et restait sans mot dire. 
+ « Elle a raison, notre homme ; il faut les laisser marier, mais à la condition qu'ils ne nous quitteront pas. 
+ — Oui, dit le maître ; promettez-moi de rester tant que Joséphine ne sera pas mariée. 
+ — Puisque vous le voulez, nous resterons avec vous, n'est-ce pas, petite Jeanne ? 
+ — Mais, dit-elle, quand les enfants viendront, je ne pourrai plus faire autant d'ouvrage ; ils crieront et ça vous ennuiera. 
+ — Ne t'en inquiète pas, dit Louise ; c'est moi qui les soignerai, tu n'en auras pas l'embarras. 
+ — Est-ce que mes enfants n'ont pas crié ? dit le maître ; est-ce que ceux qu'auront Joséphine et Simon, quand ils seront mariés, ne crieront pas ? 
+ et n'es-tu pas notre enfant aussi bien qu'eux ? 
+ — Que vous êtes donc bons, tous ! dit Jeanne. 
+ — Ainsi, c'est entendu, vous ne nous quitterez pas ?» 
+ Jeanne et grand Louis promirent de rester. Un mois après ils se marièrent sans noce et sans bruit. M. le curé, qui aimait beaucoup Jeanne, lui donna un déjeuner après la messe du mariage ; il y invita les témoins, à la tête desquels se trouvait le père Tixier. Le soir, au Grand-Bail, on donna du bon vin à tout le monde pour boire à la santé des mariés.
+</div></body></text></TEI>
