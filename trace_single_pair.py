@@ -16,9 +16,14 @@ For each pair, it shows:
 5. LOGISTIC REGRESSION: How the three signals combine into a final score
 6. PERCENTILE RANKING: Where this pair falls among all cross-author pairs
 
+With --audit, it additionally prints AUDIT RECEIPTS: for this pair, what the
+pipeline actually did versus what the thesis says it did. Requires
+audit_receipts.py in the same directory.
+
 Usage:
     python trace_single_pair.py --source "Eliot" --source-chapter 79 --target "Lawrence" --target-chapter 29
     python trace_single_pair.py --pair-id 12345
+    python trace_single_pair.py --pair-id 12345 --audit
     python trace_single_pair.py --interactive
 
 Author: Tarah Wheeler
@@ -34,6 +39,13 @@ from pathlib import Path
 from collections import Counter
 
 from util import get_project_name
+
+# Audit receipts are optional: the trace still runs if the module is absent.
+try:
+    from audit_receipts import print_all_receipts
+    RECEIPTS_AVAILABLE = True
+except ImportError:
+    RECEIPTS_AVAILABLE = False
 
 # ============================================================================
 # DATABASE CONNECTIONS
@@ -413,6 +425,12 @@ def trace_svm_stylometry(svm_conn, pair_info):
     STEP 3: Trace the SVM stylometry score.
     Shows: which novel the target chapter resembles, and the probability.
     Returns the SVM score for use in later steps.
+
+    NOTE FOR AUDITORS: this function resolves the source novel from
+    all_texts.short_name_for_svm. logistic_regression.py resolves it from
+    novels_dict, which is keyed by dirs.id and merged on authors.id. If those
+    two id spaces do not correspond, this trace and the model read different
+    columns. Run with --audit to see both side by side (Receipt 1).
     """
     print("\n" + "=" * 70)
     print("STEP 3: SVM STYLOMETRY SCORE")
@@ -923,13 +941,97 @@ def trace_logistic_regression(main_conn, svm_conn, combined_data, svm_score, pro
 # STEP 6: PERCENTILE RANKING
 # ============================================================================
 
+def compute_full_model_ranking(main_conn, svm_conn, pair_info, combined_data,
+                               scaling, coefficients, intercept):
+    """
+    Rank every eligible cross-author pair with the given model, and return
+    this pair's rank plus the denominator.
+
+    Project-independent. Pulls hap_jac_dis and al_jac_dis straight from
+    combined_jaccard, joins the SVM value out of chapter_assessments the same
+    way Step 3 does (target chapter row, source novel column), standardizes
+    with the supplied scaler, applies the supplied coefficients, and sorts.
+
+    Pairs with no SVM value are dropped, mirroring the scoring path's dropna.
+
+    Returns (rank, denominator, probability, dropped_count) or None on failure.
+    """
+    import numpy as np
+    import pandas as pd
+
+    # 1. Every eligible cross-author pair, with the novel keys needed for the
+    #    SVM lookup.
+    pairs = pd.read_sql_query("""
+        SELECT cj.pair_id,
+               cj.hap_jac_dis,
+               cj.al_jac_dis,
+               a1.short_name_for_svm AS source_novel,
+               a2.short_name_for_svm AS target_novel,
+               a2.chapter_num        AS target_chapter
+        FROM combined_jaccard cj
+        JOIN all_texts a1 ON cj.source_text = a1.text_id
+        JOIN all_texts a2 ON cj.target_text = a2.text_id
+        WHERE cj.source_auth != cj.target_auth
+          AND cj.source_year <= cj.target_year
+    """, main_conn)
+
+    if pairs.empty:
+        return None
+
+    # 2. chapter_assessments is wide: one row per (novel, chapter), one column
+    #    per novel. Melt it into (target_novel, target_chapter, source_novel,
+    #    svm_score) so it can be merged.
+    ca = pd.read_sql_query("SELECT * FROM chapter_assessments", svm_conn)
+    id_cols = ['novel', 'number']
+    value_cols = [c for c in ca.columns if c not in id_cols]
+    svm_long = ca.melt(id_vars=id_cols, value_vars=value_cols,
+                       var_name='source_novel', value_name='svm_score')
+    svm_long = svm_long.rename(columns={'novel': 'target_novel',
+                                        'number': 'target_chapter'})
+    svm_long['target_chapter'] = svm_long['target_chapter'].astype(str)
+    pairs['target_chapter'] = pairs['target_chapter'].astype(str)
+
+    merged = pairs.merge(svm_long,
+                         on=['target_novel', 'target_chapter', 'source_novel'],
+                         how='left')
+
+    dropped = int(merged['svm_score'].isna().sum())
+    merged = merged.dropna(subset=['svm_score'])
+    if merged.empty:
+        return None
+
+    # 3. Standardize, apply coefficients, sigmoid.
+    hz = (merged['hap_jac_dis'] - scaling['hap_jac_dis']['mean']) / scaling['hap_jac_dis']['std']
+    az = (merged['al_jac_dis']  - scaling['al_jac_dis']['mean'])  / scaling['al_jac_dis']['std']
+    sz = (merged['svm_score']   - scaling['svm_score']['mean'])   / scaling['svm_score']['std']
+
+    logit = (coefficients['hap_jac_dis'] * hz
+             + coefficients['al_jac_dis'] * az
+             + coefficients['svm_score']  * sz
+             + intercept)
+    merged['prob'] = 1.0 / (1.0 + np.exp(-logit))
+
+    # 4. Rank descending by probability; rank 1 is the strongest pair.
+    merged = merged.sort_values('prob', ascending=False).reset_index(drop=True)
+    merged['rank'] = merged.index + 1
+
+    hit = merged[merged['pair_id'] == pair_info['pair_id']]
+    if hit.empty:
+        return ('dropped', len(merged), None, dropped)
+
+    row = hit.iloc[0]
+    return (int(row['rank']), len(merged), float(row['prob']), dropped)
+
+
 def trace_percentile_ranking(main_conn, svm_conn, pair_info, combined_data, project_name):
     """
     STEP 6: Show where this pair ranks among all cross-author pairs.
 
     The CANONICAL ranking is the full-model percentile -- the same number the
-    thesis reports. It is computed by scoring every cross-author pair with the
-    frozen ELTeC logistic regression weights and ranking by probability.
+    thesis reports. For shelley-lovelace it comes from score_shelley_lovelace,
+    which is the thesis source of truth. For every other project it is computed
+    inline by compute_full_model_ranking(), using the same scaler, coefficients
+    and intercept that Step 5 printed.
 
     The hapax-only ranking is retained as a secondary diagnostic: it shows
     where this pair sits on the single strongest signal in isolation, which
@@ -939,19 +1041,16 @@ def trace_percentile_ranking(main_conn, svm_conn, pair_info, combined_data, proj
     print("STEP 6: PERCENTILE RANKING")
     print("=" * 70)
 
-    # ------------------------------------------------------------------
-    # Full-model ranking (CANONICAL -- this is the thesis number)
-    # ------------------------------------------------------------------
-    # The scorer module is project-specific. For now it is wired to the
-    # shelley-lovelace project; other projects fall through to the hapax-
-    # only diagnostic below.
     full_model_done = False
+
+    # ------------------------------------------------------------------
+    # Path A: shelley-lovelace uses the canonical scorer.
+    # ------------------------------------------------------------------
     if project_name == 'shelley-lovelace':
         print("\n--- Full-Model Ranking (canonical) ---")
         print("  Scoring the full corpus with frozen ELTeC weights...")
         print("  (~10-20 seconds on first call.)")
         try:
-            # Lazy import so non-shelley-lovelace projects don't pay the cost.
             from score_shelley_lovelace import load_and_score, rank_pairs
 
             df = load_and_score()
@@ -978,7 +1077,6 @@ def trace_percentile_ranking(main_conn, svm_conn, pair_info, combined_data, proj
                 print(f"  TextPAIR alignments on this pair: {int(row['n_align'])}")
                 full_model_done = True
             else:
-                # Pair might be same-author, or have lost its SVM score.
                 df_all = rank_pairs(df, cross_author_only=False)
                 match_all = df_all[df_all['pair_id'] == pair_info['pair_id']]
                 if len(match_all) > 0:
@@ -1001,12 +1099,60 @@ def trace_percentile_ranking(main_conn, svm_conn, pair_info, combined_data, proj
             print(f"\n  Could not import score_shelley_lovelace: {e}")
         except Exception as e:
             print(f"\n  Full-model ranking failed: {e}")
-            print(f"  Falling back to hapax-only diagnostic.")
-    else:
-        print(f"\n--- Full-Model Ranking ---")
-        print(f"  Full-model ranking is currently wired up for the shelley-lovelace")
-        print(f"  project only. Current project: {project_name}.")
-        print(f"  Hapax-only diagnostic below is still valid.")
+            print(f"  Falling back to the inline computation below.")
+
+    # ------------------------------------------------------------------
+    # Path B: any other project, computed inline.
+    # ------------------------------------------------------------------
+    if not full_model_done:
+        print("\n--- Full-Model Ranking (computed inline) ---")
+        print("  Scoring every eligible cross-author pair with this project's")
+        print("  scaler, coefficients and intercept. This takes ~30-60 seconds")
+        print("  on a corpus the size of ELTeC.")
+
+        scaling = load_scaler_parameters(project_name)
+        coefficients, _ = load_model_coefficients(project_name)
+        intercept = load_model_intercept(project_name)
+
+        missing = [n for n, v in (('scaler', scaling),
+                                  ('coefficients', coefficients),
+                                  ('intercept', intercept)) if v is None]
+        if missing:
+            print(f"\n  Cannot compute: missing {', '.join(missing)}.")
+            print(f"  Run the logistic regression for this project to generate them.")
+        else:
+            try:
+                result = compute_full_model_ranking(
+                    main_conn, svm_conn, pair_info, combined_data,
+                    scaling, coefficients, intercept)
+            except Exception as e:
+                result = None
+                print(f"\n  Inline ranking failed: {type(e).__name__}: {e}")
+
+            if result is None:
+                print("\n  No eligible pairs found, or the SVM join produced nothing.")
+            elif result[0] == 'dropped':
+                _, denom, _, dropped = result
+                print(f"\n  Cross-author denominator:      {denom:,}")
+                print(f"  This pair is NOT in the scored set. It has no SVM value,")
+                print(f"  so it was dropped along with {dropped:,} others.")
+                full_model_done = True
+            else:
+                rank_int, denom, prob, dropped = result
+                percentile = (1 - rank_int / denom) * 100
+                top_pct = rank_int / denom * 100
+                print(f"\n  Cross-author denominator:      {denom:,}")
+                if dropped:
+                    print(f"  Pairs dropped for no SVM value: {dropped:,}")
+                print(f"  This pair's p (full model):    {prob:.6f}")
+                print(f"  Rank:                          {rank_int:,} of {denom:,}")
+                print(f"  Percentile (higher = better):  {percentile:.4f}th")
+                print(f"  Top:                           {top_pct:.4f}%")
+                print(f"\n  Note: the SVM value here is resolved the way Step 3 does it,")
+                print(f"        from all_texts.short_name_for_svm. logistic_regression.py")
+                print(f"        resolves it differently; run with --audit (Receipt 1) to")
+                print(f"        see both.")
+                full_model_done = True
 
     # ------------------------------------------------------------------
     # Hapax-only ranking (secondary diagnostic, always shown)
@@ -1050,9 +1196,13 @@ def trace_percentile_ranking(main_conn, svm_conn, pair_info, combined_data, proj
 # ============================================================================
 
 def trace_pair(source_author=None, source_chapter=None, 
-               target_author=None, target_chapter=None, pair_id=None, random_pair=False):
+               target_author=None, target_chapter=None, pair_id=None,
+               random_pair=False, show_receipts=False):
     """
     Main function to trace a single pair through the entire pipeline.
+
+    show_receipts: also print the audit receipt sections from audit_receipts.py,
+    which compare what the pipeline did against what the thesis says it did.
     """
     print("\n" + "=" * 70)
     print("SEXTANT SINGLE PAIR AUDIT TRACE")
@@ -1088,7 +1238,10 @@ def trace_pair(source_author=None, source_chapter=None,
     
     print(f"\n" + "-" * 70)
     print("TO REPLICATE THIS EXACT TRACE, RUN:")
-    print(f"  python trace_single_pair.py --pair-id {pair_info['pair_id']}")
+    replicate = f"  python trace_single_pair.py --pair-id {pair_info['pair_id']}"
+    if show_receipts:
+        replicate += " --audit"
+    print(replicate)
     print("-" * 70)
     
     # Step 1: Raw data
@@ -1110,6 +1263,15 @@ def trace_pair(source_author=None, source_chapter=None,
     
     # Step 6: Percentile ranking (full-model + hapax-only diagnostic)
     trace_percentile_ranking(main_conn, svm_conn, pair_info, combined_data, project_name)
+
+    # Audit receipts: what the pipeline did vs what the thesis says it did.
+    if show_receipts:
+        if RECEIPTS_AVAILABLE:
+            print_all_receipts(main_conn, svm_conn, pair_info, combined_data,
+                               svm_score, project_name)
+        else:
+            print("\n⚠️  --audit requested but audit_receipts.py could not be imported.")
+            print("   Put audit_receipts.py in the same directory as this script.")
     
     # Summary
     print("\n" + "=" * 70)
@@ -1119,6 +1281,9 @@ def trace_pair(source_author=None, source_chapter=None,
     print("All values are pulled directly from the database tables created")
     print("during the pipeline execution. The percentile ranking places this")
     print("pair in context among millions of other cross-author comparisons.")
+    if not show_receipts and RECEIPTS_AVAILABLE:
+        print("\nRe-run with --audit to compare what the pipeline did against")
+        print("what the thesis says it did, for this pair.")
     
     main_conn.close()
     svm_conn.close()
@@ -1135,6 +1300,7 @@ def main():
 Examples:
   python trace_single_pair.py                    # Random cross-author pair
   python trace_single_pair.py --pair-id 4448692  # Specific pair by ID
+  python trace_single_pair.py --pair-id 4448692 --audit
   python trace_single_pair.py --source Eliot --source-chapter 79 --target Lawrence --target-chapter 29
         """
     )
@@ -1145,6 +1311,8 @@ Examples:
     parser.add_argument('--target-chapter', type=int, help='Target chapter number')
     parser.add_argument('--pair-id', type=int, help='Direct pair_id from database')
     parser.add_argument('--interactive', action='store_true', help='Interactive mode')
+    parser.add_argument('--audit', action='store_true',
+                        help='Print audit receipt sections (needs audit_receipts.py)')
     
     args = parser.parse_args()
     
@@ -1155,19 +1323,20 @@ Examples:
         target = input("Target author (e.g., Lawrence): ").strip()
         target_ch = int(input("Target chapter number: ").strip())
         
-        trace_pair(source, source_ch, target, target_ch)
+        trace_pair(source, source_ch, target, target_ch, show_receipts=args.audit)
         
     elif args.pair_id:
-        trace_pair(pair_id=args.pair_id)
+        trace_pair(pair_id=args.pair_id, show_receipts=args.audit)
         
     elif args.source and args.target:
-        trace_pair(args.source, args.source_chapter, args.target, args.target_chapter)
+        trace_pair(args.source, args.source_chapter, args.target, args.target_chapter,
+                   show_receipts=args.audit)
         
     else:
         # Default: random cross-author pair
         print("\nNo arguments provided. Selecting a random cross-author pair...")
         print("(Use --pair-id to replicate a specific trace)\n")
-        trace_pair(random_pair=True)
+        trace_pair(random_pair=True, show_receipts=args.audit)
 
 
 if __name__ == "__main__":

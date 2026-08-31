@@ -66,6 +66,122 @@ def format_rank(rank):
     return f'{rank:,}'.replace(',', '{,}')
 
 
+# ======================================================================
+# Split-index to printed-label map
+#
+# The splitter flattens every division above the chapter (book, volume,
+# section) into a single contiguous run of files, and emits a file for
+# any division-level block, including book openings, epistles,
+# appendices and conclusions.  A file index therefore equals a chapter
+# number only when the work is a flat run of chapters with no front
+# matter above chapter one.  For the works below it is not, so the
+# index has to be translated.
+#
+# Keyed on the corpus identifier, then on (volume-token, file-index).
+# A work with no entry falls through to the original behaviour, so
+# nothing outside this table changes.
+#
+# Units that are not chapters are labelled "file N" using the split
+# index, which is honest about what the unit is and stays locatable.
+#
+# Derivation and evidence: thesis/chapter_label_mapping.md
+# ======================================================================
+
+def _build_label_map():
+    m = {}
+
+    # M. Shelley, Frankenstein (1831): four opening letters, then 24
+    # chapters, so the offset is 4.
+    # This entry is mandatory.  The .tex tables carry this correction by
+    # hand, and without an entry here a regeneration silently reverts it.
+    fr = {}
+    for i in range(1, 5):
+        fr[('', i)] = f"letter {i}"
+    for i in range(5, 29):
+        fr[('', i)] = f"ch.\\ {i - 4}"
+    m['1831-ENG18310'] = fr
+
+    # Babbage, Ninth Bridgewater (1837): odd indices only; file 1 is the
+    # Advertisement to the Second Edition.  True chapter = (file - 1) / 2.
+    nb = {('', 1): "file 1"}
+    for i in range(3, 32, 2):
+        nb[('', i)] = f"ch.\\ {(i - 1) // 2}"
+    m['1837-ENG18370'] = nb
+
+    # Babbage, Decline of Science (1830): chapters containing numbered
+    # sections.  The four chapter heading pages (2, 7, 20, 24) are absent
+    # from the splits.  File 32 is the Conclusion.
+    dec = {('', 1): "ch.\\ 1", ('', 6): "ch.\\ 3", ('', 32): "file 32"}
+    for i in range(3, 6):
+        dec[('', i)] = f"ch.\\ 2 \\S {i - 2}"
+    for i in range(8, 20):
+        dec[('', i)] = f"ch.\\ 4 \\S {i - 7}"
+    for i in range(21, 24):
+        dec[('', i)] = f"ch.\\ 5 \\S {i - 20}"
+    for i in range(25, 32):
+        dec[('', i)] = f"ch.\\ 6 \\S {i - 24}"
+    m['1830-ENG18302'] = dec
+
+    # Whewell, Bridgewater III (1833): three books, chapters restart in
+    # each.  Files 19 and 32 are the Book II and Book III openings.
+    wh = {('', 19): "file 19", ('', 32): "file 32"}
+    for i in range(1, 19):
+        wh[('', i)] = f"b1 ch.\\ {i}"
+    for i in range(20, 32):
+        wh[('', i)] = f"b2 ch.\\ {i - 19}"
+    for i in range(33, 42):
+        wh[('', i)] = f"b3 ch.\\ {i - 32}"
+    m['1833-ENG18330'] = wh
+
+    # Godwin, Caleb Williams (1794): three volumes, chapters restart in
+    # each.  Files 13 and 28 (volume front matter) are absent from the
+    # splits.  File 44 is the Postscript.
+    cw = {('', 44): "file 44"}
+    for i in range(1, 13):
+        cw[('', i)] = f"v1 ch.\\ {i}"
+    for i in range(14, 28):
+        cw[('', i)] = f"v2 ch.\\ {i - 13}"
+    for i in range(29, 44):
+        cw[('', i)] = f"v3 ch.\\ {i - 28}"
+    m['1794-ENG17940'] = cw
+
+    # Locke, Essay (1690): two printed volumes spanning four books.  The
+    # v2 offset is not uniform, because Book IV ch. 19 is absent from the
+    # splits, so files 31 and 32 are set explicitly rather than by
+    # arithmetic.  v1 file 1 (the Epistle Dedicatory) keeps its existing
+    # label by decision.
+    lo = {}
+    lo[('v1', 1)] = "v1 ch.\\ 1"
+    lo[('v1', 2)] = "file 2"
+    for i in range(5, 9):
+        lo[('v1', i)] = f"b1 ch.\\ {i - 4}"
+    for i in range(10, 43):
+        lo[('v1', i)] = f"b2 ch.\\ {i - 9}"
+    for i in range(1, 12):
+        lo[('v2', i)] = f"b3 ch.\\ {i}"
+    lo[('v2', 12)] = "file 12"
+    for i in range(13, 31):
+        lo[('v2', i)] = f"b4 ch.\\ {i - 12}"
+    lo[('v2', 31)] = "b4 ch.\\ 20"
+    lo[('v2', 32)] = "b4 ch.\\ 21"
+    m['1690-ENG16900'] = lo
+
+    # Wollstonecraft, Maria (1798): unfinished.  File 15 is the Appendix
+    # introducing the surviving fragments, file 19 is Godwin's editorial
+    # conclusion, so chapters 15-17 sit at files 16-18.
+    ma = {('', 15): "file 15", ('', 19): "file 19"}
+    for i in range(1, 15):
+        ma[('', i)] = f"ch.\\ {i}"
+    for i in range(16, 19):
+        ma[('', i)] = f"ch.\\ {i - 1}"
+    m['1798-ENG17980'] = ma
+
+    return m
+
+
+CHAPTER_LABEL_MAP = _build_label_map()
+
+
 def human_name(filename):
     """Convert ELTeC-pattern filename to thesis display name.
 
@@ -199,7 +315,20 @@ def human_name(filename):
         num = wm.group(3)
         work_name = work_map.get(raw_work, raw_work.replace('_', ' ').title())
 
-        if 'section' in after_author:
+        # Consult the split-index to label map before falling back to
+        # printing the file index verbatim.  A work with no entry, or an
+        # index with no entry, behaves exactly as it did before.
+        mapped = None
+        _entry = CHAPTER_LABEL_MAP.get(filename.split('--', 1)[0])
+        if _entry is not None:
+            try:
+                mapped = _entry.get((vol, int(num)))
+            except ValueError:
+                mapped = None
+
+        if mapped is not None:
+            struct_part = mapped
+        elif 'section' in after_author:
             struct_part = f"\\S {num}"
         elif 'chapter' in after_author or 'tei_chapter' in after_author:
             struct_part = f"ch.\\ {num}"
@@ -214,7 +343,8 @@ def human_name(filename):
         elif 'Note' in after_author:
             struct_part = f"Note {num}"
 
-        if vol:
+        # Mapped labels already carry their own volume or book token.
+        if vol and mapped is None:
             struct_part = f"{vol} {struct_part}"
     else:
         # No structural part found, just use after_author as work
